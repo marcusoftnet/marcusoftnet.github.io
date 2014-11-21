@@ -1,0 +1,15 @@
+# Site settings
+title: marcusoft.net - stuff I picked up along the way
+email: your-email@yourdomain.com
+description: "The blog of Marcus Hammarberg - Sharing is learning."
+baseurl: "/"
+url: "http://www.marcusoft.net"
+twitter_username: marcusoftnet
+github_username:  marcusoftnet
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 10
+exclude: ["node_modules"]
