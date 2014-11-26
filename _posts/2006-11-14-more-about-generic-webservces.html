@@ -1,0 +1,14 @@
+---
+layout: post
+title: More about generic webservces
+date: '2006-11-14T08:09:00.000+01:00'
+author: Marcus Hammarberg
+tags:
+- .NET
+- Visual Studio
+modified_time: '2010-12-14T16:19:05.660+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-1225927400840922867
+blogger_orig_url: http://www.marcusoft.net/2006/11/more-about-generic-webservces.html
+---
+
+I've looked further down the documentation (<a href="http://beta.blogger.com/Generic">this chapter in fact</a>) and found some more, very interesting stuff on generics that make my solution with delegates a bit clumsy and non-elegant.<br />When declare a generic class or method the type parameter can be limited to what types it can take using constraints. So in my solution the row:<br /><br /><span style="font-family:courier new;font-size:85%;">public static TWebService CreateWebService<twebservice>(string WebServiceURL)<br />where TWebService : SoapHttpClientProtocol</span><br /><br />means that TWebService must be of SoapHttpClientProtocol type.<br /><br />However i ran into a bit of confusion when i wanted to instantiate TWebService. The compiler was not happy when i wrote:<br /><span style="font-family:courier new;font-size:85%;"><br />// This won't compile<br />TWebService t = new TWebService(); </span><br /><br />That is until i discovered another constraint - the Constructor Constraint. By using this constraint you can constrain the types that is allowed to types with an empty (parameterless) constructor. And that will allow you to instantiate TWebService and the compiler will find the right constructor at runtime.<br /><br />So here's the syntax:<br /><br /><span style="font-family:courier new;font-size:85%;">public static TWebService CreateWebService<twebservice>(string WebServiceURL)<br /> where TWebService : SoapHttpClientProtocol, new()<br />  {<br />   // This will be ok<br />   TWebService t = new TWebService();<br /> }</span><br /><br />Much nicer code without the previous delegate solution.

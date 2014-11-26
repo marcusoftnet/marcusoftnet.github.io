@@ -1,0 +1,14 @@
+---
+layout: post
+title: Update AppSettings with XmlUpdate in build scripts
+date: '2009-01-20T08:00:00.001+01:00'
+author: Marcus Hammarberg
+tags:
+- Life of a consultant
+- MSBuild
+modified_time: '2009-01-20T08:00:15.088+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-3488066834100206897
+blogger_orig_url: http://www.marcusoft.net/2009/01/update-appsettings-with-xmlupdate-in.html
+---
+
+<p>I know I will chase this one for ever if I don't put it up here... </p>  <p>We ran into a situation where we needed to tweak the AppSettings-section of an configuration before tests in the build script. </p>  <p>Luckily there is help to be found. With the XmlUpdate-task (in the <a href="http://msbuildtasks.tigris.org/" target="_blank">MSBuild Community Tasks</a>) this can be accomplished. IF you know how to write the XPath-query. </p>  <p>Here is how (found it <a href="http://geekswithblogs.net/paulwhitblog/archive/2006/04/11/74844.aspx" target="_blank">here</a>):</p>  <blockquote>   <p>&lt;XmlUpdate     <br />&#160;&#160; Namespace=&quot;<a href="http://schemas.microsoft.com/.NetConfiguration/v2.0">http://schemas.microsoft.com/.NetConfiguration/v2.0</a>&quot;      <br />&#160;&#160; XmlFileName=&quot;$(SourceDir)\Core\ABSuite\ABClient\App.config&quot;      <br />&#160;&#160; <strong>Xpath=&quot;//configuration/appSettings/add[@key='Main.ConnectionString']/@value&quot;</strong>      <br />&#160;&#160; Value=&quot;$(DatabaseConnectionString)&quot;      <br />&#160; /&gt;</p> </blockquote>  <p><font color="#666666">Also here is a great site to pick up some <a href="http://www.zvon.org/xxl/XPathTutorial/Output/examples.html" target="_blank">XPath-skills</a>.</font></p>  

@@ -1,0 +1,15 @@
+---
+layout: post
+title: How to run MSTest with publish parameter as MSBuild Exec-task
+date: '2008-10-29T08:56:00.004+01:00'
+author: Marcus Hammarberg
+tags:
+- TFS
+- MSBuild
+- TDD
+modified_time: '2008-10-30T11:03:07.512+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-1620713112862171086
+blogger_orig_url: http://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html
+---
+
+<p><span style="font-weight: bold;">[UPDATED, see <a href="http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html">this</a>]</span><br /></p><p>I have created a task that runs some unit tests in a certain DLL and the publish the result to a TFS service. We use this task in our TFS MSBuild script in order to execute some integration tests in the last step of the build process. In order to get some value from the integration tests the solution needs to be deployed, for example.</p>  <p>The most tricky parts of figuring this out was:</p>  <ul>   <li>The path to MSTest.exe - as it turns out there are a environment variable to the root of the Visual Studio Tools - %VS90COMNTOOLS%. And via that we can reach MSTest.exe with %VS90COMNTOOLS%\..\IDE\MSTest.exe</li>    <li>To publish a build you need the buildId to send to the publishbuild-parameter of MSTest. It can easily be obtained from the TFSBuild parameter $(BuildNumber)</li> </ul>  <p>So here you are - my task to run tests and publish the results:</p>  <blockquote>   <p>&lt;!-- Run integrationtests --&gt; <br />&lt;Target Name="RunIntegrationTests"  Condition="'$(DeployPT)' == 'true'"&gt;  <br /> &lt;!-- Write nice message to log and in the build progress --&gt;  <br /> &lt;BuildStep TeamFoundationServerUrl="$(TeamFoundationServerUrl)"  <br />        BuildUri="$(BuildUri)"  <br />        Name="Integrationstester"  <br />        Message="$(PROMPT) Kör integrationstester mot den publicerade PT"  <br />        Status="Succeeded" /&gt;  <br /> &lt;Message Text="$(PROMPT) Kör integrationstester mot den publicerade PT" /&gt; </p>    <p>    &lt;!-- Vi kör testerna med ett dos-kommando mot MSTest eftersom vi  <br />      vill köra det här i processen och inte i det normala test-flödet  <br />      för TFSBuild.  <br /> --&gt;</p>    <p> <br /> &lt;Exec Command="&amp;quot;%VS90COMNTOOLS%\..\IDE\MSTest.exe&amp;quot; /testcontainer:$(BinariesRoot)\Debug\Test.Integration.dll /publish:server.url /publishbuild:$(BuildNumber) /flavor:debug /platform:AnyCPU /teamproject:MyProject" ContinueOnError="false" /&gt; </p>    <p>  &lt;/Target&gt;  </p></blockquote>

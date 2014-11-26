@@ -1,0 +1,15 @@
+---
+layout: post
+title: NMock2 RemotingException ByRef value type parameter cannot be null
+date: '2009-01-22T08:56:00.001+01:00'
+author: Marcus Hammarberg
+tags:
+- .NET
+- Agile
+- TDD
+modified_time: '2012-08-12T09:30:52.050+02:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-5118053612590653411
+blogger_orig_url: http://www.marcusoft.net/2009/01/nmock2-remotingexception-byref-value.html
+---
+
+OK this might be the most misleading error message I've seen. I cannot decide on how to describe it... What this means... or what this try to ... <br />Actually this happens when one of your mocked objects is mocking a method that returns something and your mocking doesn't return anything. Eeeeh - that was quite tricky. Got it? <br />Here is an example:<br />When I mock this method: <br /><blockquote><pre>Public Class FacadeObject&nbsp;<br />&nbsp; &nbsp; &nbsp;Function CreateSomeThing(ByVal aName As String) As Long<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;End Function<br /><br />&nbsp; &nbsp; &nbsp; &nbsp; End Class</pre></blockquote><span style="color: #666666;">by using the following code to do the mock&nbsp;</span><br /><blockquote><pre>Expect.Once.On(m_mockadFacadeObject).Method("CreateSomeThing")</pre></blockquote>an exception of RemotingException (ByRef value type parameter cannot be null) will be thrown.<br />Here is <a href="http://rhysc.blogspot.com/2008/04/nmock2-remotingexception.html" target="_blank">another description</a> that you might find easier to understand

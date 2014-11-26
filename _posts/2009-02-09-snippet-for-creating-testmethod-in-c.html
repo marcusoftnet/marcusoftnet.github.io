@@ -1,0 +1,14 @@
+---
+layout: post
+title: Snippet for creating testmethod in C#
+date: '2009-02-08T22:10:00.001+01:00'
+author: Marcus Hammarberg
+tags:
+- C#
+- TDD
+modified_time: '2010-12-14T16:20:33.214+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-8870376295653513270
+blogger_orig_url: http://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html
+---
+
+<p>Here is a short snippet that saves me a lot of time. It simply creates a test method with the correct attributes and stuff. Simply but useful – and now you don’t have to write it.</p><pre><br />&lt;?xml version="1.0" encoding="utf-8" ?&gt; <br />&lt;CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet"&gt; <br />    &lt;CodeSnippet Format="1.0.0"&gt; <br />        &lt;Header&gt; <br />            &lt;Title&gt;TestMethod&lt;/Title&gt; <br />            &lt;Shortcut&gt;tm&lt;/Shortcut&gt; <br />            &lt;Description&gt;Code snippet for creating a testmethod&lt;/Description&gt; <br />            &lt;Author&gt;Marcusoft (www.marcusoft.net)&lt;/Author&gt; <br />            &lt;SnippetTypes&gt; <br />                &lt;SnippetType&gt;Expansion&lt;/SnippetType&gt; <br />                &lt;SnippetType&gt;SurroundsWith&lt;/SnippetType&gt; <br />            &lt;/SnippetTypes&gt; <br />        &lt;/Header&gt; <br />        &lt;Snippet&gt; <br />            &lt;Declarations&gt; <br />                &lt;Literal&gt; <br />                    &lt;ID&gt;methodName&lt;/ID&gt; <br />                    &lt;ToolTip&gt;The name of the test&lt;/ToolTip&gt; <br />                    &lt;Default&gt;methodName&lt;/Default&gt; <br />                &lt;/Literal&gt; <br />            &lt;/Declarations&gt;           <br />            &lt;Code Language="csharp"&gt; <br />              &lt;![CDATA[&lt;TestMethod()&gt; _ <br />              public void should_$methodName$()<br />             { <br />        // Arrange <br />        <br />        // Act<br /><br />        // Assert <br />        Assert.Fail("Implement test"); <br />    }]]&gt; <br />            &lt;/Code&gt;  <br />        &lt;/Snippet&gt; <br />    &lt;/CodeSnippet&gt; <br />&lt;/CodeSnippets&gt;<br /><br /></pre>  

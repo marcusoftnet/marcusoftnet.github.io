@@ -1,0 +1,14 @@
+---
+layout: post
+title: App.config for SpecFlow using MsTest
+date: '2010-12-15T09:33:00.001+01:00'
+author: Marcus Hammarberg
+tags:
+- .NET
+- SpecFlow
+modified_time: '2010-12-15T12:51:20.454+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-5961012444005971982
+blogger_orig_url: http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html
+---
+
+<p>Every time I need to configure MsTest to work with <a href="http://www.specflow.org" target="_blank">SpecFlow</a> I forget the syntax of it... Especially the first part... </p> <p>The fact that it took me about 30 min to write this post is evidence enough that I should not spend any more on this. Here is my reference:</p> <p><pre class="brush: xml; ruler: true; gutter: false; toolbar: false; collapse: true; auto-links: false;">&lt;?xml version="1.0" encoding="utf-8" ?&gt;<br />&lt;configuration&gt;<br />  &lt;configSections&gt;<br />    &lt;section name="specFlow" type="TechTalk.SpecFlow.Configuration.ConfigurationSectionHandler, TechTalk.SpecFlow"/&gt;<br />  &lt;/configSections&gt;<br /><br />  &lt;specFlow&gt;<br />    &lt;unitTestProvider name="MsTest" /&gt;<br />  &lt;/specFlow&gt;<br />&lt;/configuration&gt;<br /></pre><br /><p>Also there is some additional config setting that you might want to tweak. Here is a complete version with default values:</p><pre class="brush: xml; ruler: true; gutter: false; toolbar: false; collapse: true; auto-links: false;">&lt;?xml version="1.0" encoding="utf-8" ?&gt;<br />&lt;configuration&gt;<br />  &lt;configSections&gt;<br />    &lt;section name="specFlow" type="TechTalk.SpecFlow.Configuration.ConfigurationSectionHandler, TechTalk.SpecFlow"/&gt;<br />  &lt;/configSections&gt;<br /><br />  &lt;specFlow&gt;<br />    &lt;unitTestProvider name="NUnit" /&gt;<br /><br />    &lt;language feature="en-US"/&gt;<br /><br />    &lt;runtime detectAmbiguousMatches="true" stopAtFirstError="false" missingOrPendingStepsOutcome="Inconclusive"/&gt;<br /><br />    &lt;trace traceSuccessfulSteps="true" traceTimings="false" minTracedDuration="0:0:0.1"/&gt;<br />  &lt;/specFlow&gt;<br />&lt;/configuration&gt;</pre>  

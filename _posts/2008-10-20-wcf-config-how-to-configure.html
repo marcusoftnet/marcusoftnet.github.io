@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'WCF Config: How to configure wsHttpBinding for no security'
+date: '2008-10-20T11:11:00.001+02:00'
+author: Marcus Hammarberg
+tags:
+- WCF
+modified_time: '2008-10-20T11:11:50.064+02:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-1325842803821633001
+blogger_orig_url: http://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html
+---
+
+<p>Yes - I know that this is quite rare but if you want something really easy in place then this is how to use wsHttpBinding with no security:</p>  <blockquote>   <p>&lt;service name=&quot;FaktureringsTjanst&quot;     <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;endpoint address=&quot;&quot;      <br />binding=&quot;wsHttpBinding&quot;      <br />bindingConfiguration=&quot;myBindingConfigurationWsHttp&quot;      <br />contract=&quot;IContract&quot;      <br />behaviorConfiguration=&quot;FaktureringsTjanstBehavior&quot; /&gt;      <br />&#160;&#160;&#160;&#160;&#160; &lt;/service&gt;      <br />&#160;&#160;&#160; &lt;/services&gt;      <br /></p>    <p>&#160;&#160;&#160; &lt;!-- Bindings --&gt;     <br />&#160;&#160;&#160; &lt;bindings&gt;      <br />&#160;&#160;&#160;&#160;&#160; &lt;wsHttpBinding&gt;      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;binding name=&quot;myBindingConfigurationWsHttp&quot;      <br />maxReceivedMessageSize=&quot;500000&quot;      <br />sendTimeout=&quot;00:05:00&quot;      <br />receiveTimeout=&quot;00:05:00&quot;&gt;      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;security mode=&quot;None&quot;&gt;      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;message clientCredentialType=&quot;None&quot; /&gt;      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/security&gt;      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/binding&gt;      <br />&#160;&#160;&#160;&#160;&#160; &lt;/wsHttpBinding&gt;      <br />&#160;&#160;&#160; &lt;/bindings&gt;</p></blockquote>  

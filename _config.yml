@@ -1,8 +1,8 @@
 # Site settings
-title: marcusoft.net - stuff I picked up along the way
+title: marcusoft.net - sharing is learning
 email: your-email@yourdomain.com
-description: "The blog of Marcus Hammarberg - Sharing is learning."
-baseurl: "/"
+description: "The blog of Marcus Hammarberg - stuff i picked up along the way"
+baseurl: ""
 url: "http://www.marcusoft.net"
 twitter_username: marcusoftnet
 github_username:  marcusoftnet

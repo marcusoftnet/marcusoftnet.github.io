@@ -1,0 +1,13 @@
+---
+layout: post
+title: Sprint Planner Helper – Session 1
+date: '2009-02-01T22:11:00.001+01:00'
+author: Marcus Hammarberg
+tags:
+- Sprint Planner Helper
+modified_time: '2009-02-11T22:20:46.906+01:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-3916968531467618756
+blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-day-1.html
+---
+
+<p>I started off very pure and true to the noble principles of TDD and Extreme OOP. Actually I did decided on a few naming conventions first, the name of the product is Sprint Planner Helper and it will reside in the namespace Marcusoft.SprintPlannerHelper. I also created four projects like this (idea stolen from <a href="http://www.asp.net/learn/mvc-videos/#MVCStorefrontStarterKit" target="_blank">ASP.NET MVC Storefront</a>): </p>  <ul>   <li>Marcusoft.SprintPlannerHelper.Models - my domain model </li>    <li>Marcusoft.SprintPlannerHelper.Service - any services need for the model, such as database access and so on. </li>    <li>Marcusoft.SprintPlannerHelper.Web - the ASP.NET MVC Web Application. </li>    <li>Marcusoft.SprintPlannerHelper.Test - the unit test of the application. </li> </ul>  <p>Then I removed all the Class1.cs from all the projects that default them to me. At this point I realized that I was missing <a href="http://code.msdn.microsoft.com/PowerCommands" target="_blank">Visual Studio 2008 Power Commands</a> and <a href="http://www.jetbrains.com/resharper/" target="_blank">Resharper</a> at the computer I was using. Had to download them - you can live without them. The 1 h /day is burning up fast in the beginning. </p>  <p>Finally I could review my product backlog and create my first test: aNewlyCreatedProductOwnerHasEmptyName. This is my first time doing pure TDD and I must say it was quite exciting. It didn't compile of course. So I created a class in my Model-project called ProductOwner. At first I thought I would have a hard time getting the test to fail but it did (:D). The name property is initialized to null. I implemented a constructor that took care of that - and YEAH my first test. </p>  <p>I was quite surprised to find 27 other tests in my solution. Those were test for the controllers created for my by the ASP.NET MVC project template. I ran them all - they worked but I didn't check them out for now. </p>  <p>My hour is up - great progress today. We're off to a flying start with one TDD-iteration (RED-GREEN-REFACTOR) done...</p>  

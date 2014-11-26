@@ -1,0 +1,12 @@
+---
+layout: post
+title: Configuration of WCF-binding
+date: '2008-10-20T11:13:00.001+02:00'
+author: Marcus Hammarberg
+tags: 
+modified_time: '2008-10-20T11:20:16.964+02:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-4401615870941869968
+blogger_orig_url: http://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html
+---
+
+<p>This area is (in the words of <a href="http://www.idesign.net" target="_blank">Juwal L&#246;wy</a>) &quot;truly vast&quot;. And as I read somewhere else most of the properties doesn't make sense to the common programmer. We (yeah, I'm one of the common ones) just want it to work.</p>  <p>Also, when it comes to configuring WCF services Microsoft has gone the complete opposite way from their normal way of doing things; normally Microsoft hides everything you don't need to know from you and you'll have to dig to get to the advanced things. When it comes to WCF all the possible values are shown right off - scared the living daylights of of me. Just add a reference to a WCF-service and check your client .config-file.</p>  <p>So what to do - well I'm sorry but you'll need to know quite a bit of information, here are some resources that I have found useful:</p>  <ul>   <li>The book <a href="http://oreilly.com/catalog/9780596526993/" target="_blank">Programming WCF Service</a> (Chapter 1 and 10 on these subjects. Buy it - you'll need it! </li>    <li><a href="http://www.devx.com/codemag/Article/33342" target="_blank">Fundamentals of WCF Security</a> </li>    <li>The excellent tool for WCF-configuration in Visual Studio... (Christer Cederborg tipped me on this one, thanks). Go to Tools-&gt;WCF Service Configuration Editor and you'll get a lot of help when you configure your service and clients...</li>    <li>Here is <a href="http://www.winterdom.com/weblog/2007/02/12/WCFConfigurationComplexity.aspx" target="_blank">another great introductionary article</a> to the subject</li> </ul>  <p>I'll try to post some examples of how to do certain things as I need to do them. Here is the first: <a href="http://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html" target="_blank">How to configure wsHttpBinding for no security</a></p>  

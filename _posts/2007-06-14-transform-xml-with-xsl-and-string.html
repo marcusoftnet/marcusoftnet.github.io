@@ -1,0 +1,13 @@
+---
+layout: post
+title: Transform XML with XSL, and string
+date: '2007-06-14T08:55:00.000+02:00'
+author: Marcus Hammarberg
+tags:
+- VB.NET
+modified_time: '2007-06-14T13:43:29.854+02:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-5447969887586774494
+blogger_orig_url: http://www.marcusoft.net/2007/06/transform-xml-with-xsl-and-string.html
+---
+
+This took us a while to find and put together. I don't want to have to go through it again.<br /><br />This function takes a xml-string and transforms it with the sent-in xsl (also string). The output is returned as a memory stream that, for example, can be set in a webbrowser controls DocumentStream property.<br /><br />Here is the code (yes, in my favorite new language VB.NET ;)):<br /><br /><code><small><br />Friend Shared Function TransformXML(ByVal xmlString As String, ByVal xslString As String) As MemoryStream<br /> Dim memStream As MemoryStream = Nothing<br /> Try<br />  ' Create a xml document from the sent-in string<br />                Dim xmlDoc As New XmlDocument<br />                xmlDoc.LoadXml(xmlString)<br /><br />                ' Load the xsl as a xmldocument, from the sent-in string<br />                Dim xslDoc As New XmlDocument<br />                xslDoc.LoadXml(xslString)<br /><br />' Create and load an transformation<br />                Dim trans As New XslCompiledTransform<br />                trans.Load(xslDoc)<br /><br />                ' Create a memorystrem to hold the response<br />                memStream = New MemoryStream()<br />                Dim srWriter As New StreamWriter(memStream)<br /><br />                ' Transform according to the xsl and save the result in the memStream<br />                ' variable<br />                trans.Transform(xmlDoc, Nothing, memStream)<br /><br />                ' Set the intial position of the memorystream<br />                memStream.Position = 0<br />            Catch ex As Exception<br />                Console.Write(ex.ToString())<br />            End Try<br />            Return memStream<br />        End Function<br /></small></code>
