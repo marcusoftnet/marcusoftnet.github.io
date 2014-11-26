@@ -10,11 +10,7 @@ header-img: "img/home-bg.jpg"
         <h2 class="post-title">
             {{ post.title }}
         </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
+        {{ post.content | split: "<a name='more'></a>" | first }}
     </a>
     <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>

@@ -3,12 +3,16 @@ layout: default
 ---
 
 <!-- Post Header -->
+{% if page.header-img != null %}
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ page.header-img }}')">
-    <div class="container">
+{% else %}
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/img/home-bg.jpg')">
+{% endif %}
+    <div class="container" border="1">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
+                    <h1>{{page.header-img}}{{ page.title }}</h1>
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
