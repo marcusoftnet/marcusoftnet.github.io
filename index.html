@@ -3,7 +3,7 @@ layout: page
 description: "Stuff i picked up along the way"
 header-img: "img/home-bg.jpg"
 ---
-<!-- <div class="tagHeader"><h3>Tags</h3></div>
+<div class="tagHeader"><h4>Tags here</h4></div>
 <div class="tagsDiv">
 {% for tag in site.tags %}
     <span style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
@@ -12,7 +12,7 @@ header-img: "img/home-bg.jpg"
         </a>
     </span>
 {% endfor %}
-</div> -->
+</div>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -23,7 +23,10 @@ header-img: "img/home-bg.jpg"
     </a> </br>
     {{ post.content | split: "<a name='more'></a>" | first }}
     <a href="{{ post.url | prepend: site.baseurl }}">Read on ...</a>
-    <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">
+        Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}
+        (<a href="http://www.marcusoft.net{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>)
+    </p>
 </div>
 <hr>
 {% endfor %}

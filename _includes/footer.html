@@ -42,6 +42,15 @@
                         </a>
                     </li>
                     {% endif %}
+                    <li>
+                        <a href="http://www.instapaper.com/hello2?url=http://www.marcusoft.net{{ page.url }}&title={{ page.title }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-lightbulb-o fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+
                 </ul>
                 <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
@@ -63,19 +72,3 @@
         $('.tagsDiv').slideToggle('slow');
     });
 </script>
-
-<!-- DISQUS -->
-<script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'marcusoftnet';
-        var disqus_identifier = '{{ page.url }}';
-        var disqus_url = 'http://www.marcusoft.net{{ page.url }}';
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    </script>
