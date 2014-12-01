@@ -1,6 +1,6 @@
 # Site settings
 title: marcusoft.net - sharing is learning
-email: your-email@yourdomain.com
+email: marcusoftnet@gmail.com
 description: "The blog of Marcus Hammarberg - stuff i picked up along the way"
 baseurl: ""
 url: "http://www.marcusoft.net"
@@ -12,4 +12,16 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 10
-exclude: ["node_modules", "import", "gemfile", "gemfile.lock", "package.json"]
+exclude: [
+	"node_modules",
+	"import",
+	"gemfile",
+	"gemfile.lock",
+	"package.json",
+	"CNAME",
+	"README.md",
+	"LICENSE",
+	"Gruntfile.js",
+	".gitignore",
+	"kanban.txt"
+]
