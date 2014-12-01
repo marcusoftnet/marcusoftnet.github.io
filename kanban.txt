@@ -1,0 +1,9 @@
+Todo
+- tag cloud - generate pages for tags
+- cname -https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+
+Doing
+- InstaPaper (http://www.instapaper.com/hello2?url=http://marcusoftnet.github.com{{ page.url }}&title={{ page.title }})
+
+Done
+- disqus 
