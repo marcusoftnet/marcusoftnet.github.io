@@ -10,7 +10,7 @@ github_username:  marcusoftnet
 # Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: /:year/:month/:title.html
 paginate: 10
 exclude: [
 	"node_modules",
