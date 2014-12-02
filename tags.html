@@ -1,17 +1,19 @@
 ---
 layout: page
 permalink: /tags/
+header-img: "img/home-bg.jpg"
 ---
 
-<ul class="tag-cloud">
+<h3>Tags</h3>
+<div class="tag-cloud">
 {% for tag in site.tags %}
-  <li style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70  }}%">
+  <span style="font-size: {{ tag | last | size | times: 20 | divided_by: site.tags.size | plus: 70  }}%">
     <a href="#{{ tag | first | slugize }}">
       {{ tag | first }}
-    </a>
-  </li>
+    </a>&nbsp;
+  </span>
 {% endfor %}
-</ul>
+</div>
 
 <div id="archives">
 {% for tag in site.tags %}
