@@ -1,11 +1,12 @@
 Todo
-- tag cloud - generate pages for tags
 
 Doing
-- cname - https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+- tag cloud - generate pages for tags
 
 
 Done
+- fav-icon
+- cname - https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 - GA Tracking
 - disqus
 - InstaPaper (http://www.instapaper.com/hello2?url=http://www.marcusoft.net{{ page.url }}&title={{ page.title }})

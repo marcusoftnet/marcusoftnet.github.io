@@ -3,16 +3,6 @@ layout: page
 description: "Stuff i picked up along the way"
 header-img: "img/home-bg.jpg"
 ---
-<div class="tagHeader"><h4>Tags here</h4></div>
-<div class="tagsDiv">
-{% for tag in site.tags %}
-    <span style="font-size: {{ tag | last | size | times: 10 | divided_by: site.tags.size | plus: 70 }}%">
-        <a href="/{{ tag | first | slugize }}/">
-            {{ tag | first }}
-        </a>
-    </span>
-{% endfor %}
-</div>
 
 {% for post in paginator.posts %}
 <div class="post-preview">
