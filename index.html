@@ -15,7 +15,7 @@ header-img: "img/home-bg.jpg"
     <a href="{{ post.url | prepend: site.baseurl }}">Read on ...</a>
     <p class="post-meta">
         Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}
-        (<a href="http://www.marcusoft.net{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>)
+        (<a href="{{ site.url}}{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}">Comments</a>)
     </p>
 </div>
 <hr>

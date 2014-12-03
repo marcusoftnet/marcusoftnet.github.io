@@ -1,12 +1,12 @@
 # Site settings
 title: marcusoft.net - sharing is learning
+author_name: Marcus Hammarberg
 email: marcusoftnet@gmail.com
 description: "The blog of Marcus Hammarberg - stuff i picked up along the way"
-baseurl: ""
 url: "http://www.marcusoft.net"
 twitter_username: marcusoftnet
 github_username:  marcusoftnet
-author_name: Marcus Hammarberg
+disqus_shortname:  marcusoftnet
 
 # Build settings
 markdown: kramdown
