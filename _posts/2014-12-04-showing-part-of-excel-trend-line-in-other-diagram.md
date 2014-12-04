@@ -43,17 +43,19 @@ That didn't really tell me much but then I found a [blog post](http://www.excelt
 
 Let's dive into math for awhile. Don't be scared. It will all come back to you. If I could do this so can you.
 The linear trend line, that we are using, has a pretty simple equation <br>
-<code>y = m * x + b
-
-m = SLOPE(y,x)
-
+<code>y = m * x + b<br>
+m = SLOPE(y,x)<br>
 b = INTERCEPT(y,x)</code>
 <br>
 Let's dissect that a bit:
-- y is the point on the y-axis we are looking for
-- x is a date, a point in time
-- m is the sloping of the trend line. This can be calculated with the SLOPE-functions. That just takes a number of known data points (y's) for some known dates (x's). The more data you add the more accurate is the sloping
-- b is the point on the y-axis where it cuts the x-axis (x = 0 in other words). The INTERCEPT Excel function also takes known x's (dates) and y's (data points)
+
+* y is the point on the y-axis we are looking for
+
+* x is a date, a point in time
+
+* m is the sloping of the trend line. This can be calculated with the SLOPE-functions. That just takes a number of known data points (y's) for some known dates (x's). The more data you add the more accurate is the sloping
+
+* b is the point on the y-axis where it cuts the x-axis (x = 0 in other words). The INTERCEPT Excel function also takes known x's (dates) and y's (data points)
 
 This means that we now have the data we need to create a trend line of our own, based on the data we feed it. In our case we passed it all the data in our aggregate data sheet (everything we got) and hence got pretty solid values for the 'm' and 'b'.
 
@@ -76,7 +78,7 @@ So we used that to do prognosis. We started to feed the equation dates from the 
 <center><img src="/img/prognosisfordates.jpg" alt="Prognosis: What number will we have at a certain date?" width="40%"/></center>
 
 We could go even further; by throwing the equation around a bit we could instead calculate a <code>x</code>. Here's how that equation looks like <code>x = (y-b)/m</code>. This is saying: When will we reach 150 patients a day?
-<center><img src="/img/prognosisfornumbers" alt="Prognosis: At what date will we have reaced a certain number?" width="40%"/></center>
+<center><img src="/img/prognosisfornumbers.jpg" alt="Prognosis: At what date will we have reaced a certain number?" width="40%"/></center>
 
 We had great fun with that and got good discussions going with our client.
 Of course; this only holds as long as the trend stays the same. But since we are updating the <code>m</code> and <code>b</code> as we get more data, so will the prognosis.
