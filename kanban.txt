@@ -1,8 +1,8 @@
 Todo
 - minify pictures (http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 
-
 Doing
+- scaffold_post improvement for tags
 
 Done
 - post extract http://t.co/exk2tMkZSm

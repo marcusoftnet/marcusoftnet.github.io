@@ -98,10 +98,16 @@ echo "layout: $layout" >> $filename
 echo "title: \"$title\"" >> $filename
 echo "author: \"$author\"" >> $filename
 echo "date: `date +%F\ %H:%M:%S`" >> $filename
+
+
 read -p "Tags: " tags
 if [ "$tags" ]; then
-  echo "tags: $tags" >> $filename
+  echo "tags:" >> $filename
+  echo "- " >> $filename
+  echo "$tags" | sed 's/,/\
+- /g' >> $filename
 fi
+
 echo "---" >> $filename
 echo >> $filename
 
