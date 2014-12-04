@@ -1,9 +1,11 @@
 Todo
+- minify pictures (http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
+
 
 Doing
 
-
 Done
+- post extract http://t.co/exk2tMkZSm
 - tag cloud - generate pages for tags
 - fav-icon
 - cname - https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/

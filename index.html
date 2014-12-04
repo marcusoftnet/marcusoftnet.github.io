@@ -11,7 +11,7 @@ header-img: "img/home-bg.jpg"
             {{ post.title }}
         </h2>
     </a> </br>
-    {{ post.content | split: "<a name='more'></a>" | first }}
+    {{ post.excerpt }}
     <a href="{{ post.url | prepend: site.baseurl }}">Read on ...</a>
     <p class="post-meta">
         Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}
