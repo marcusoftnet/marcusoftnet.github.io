@@ -1,10 +1,10 @@
 Todo
-- minify pictures (http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 
 Doing
-- scaffold_post improvement for tags
+- minify pictures (http://davidensinger.com/2013/08/how-i-use-reduce-to-minify-and-optimize-assets-for-production/)
 
 Done
+- scaffold_post improvement for tags
 - post extract http://t.co/exk2tMkZSm
 - tag cloud - generate pages for tags
 - fav-icon

@@ -59,7 +59,7 @@ module.exports = function(grunt) {
                     spawn: false,
                 }
             },
-        },
+        }
     });
 
     // Load the plugins.
