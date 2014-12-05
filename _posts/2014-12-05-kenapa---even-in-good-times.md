@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Always ask: Kenapa?"
+title: "Always ask kenapa"
 author: "Marcus Hammarberg"
 date: 2014-12-05 07:10:51
 tags:
@@ -54,4 +54,17 @@ Now; why is that? And what can we do about it? We did somethings about it but we
 ## Always ask "Kenapa?"
 One of the most profound experiences for my client, and that made them realize that me and my team was serious about "measuring to learn", was when we had an awesome day.
 
-I again started the morning briefing with: ""
+I again started the morning briefing with: "Kenapa" and the looks was just puzzling. I had asked them a couple of times already, on bad days, Why we did as we did. And we have had some fruitful discussions about that and even implemented a couple of countermeasures (as I mentioned above). But now?! We were doing good! Why are you asking us Why?
+
+Well - the data tells us that we are doing something good. Let's stop and think for awhile what that is. So that we can do more of it and maybe even improve on it. Maybe there's something that we have stopped doing during these days - let's make sure that we don't start doing them again.
+
+## Summary
+If you go through the trouble of gathering data and if you are serious about using it to improve:
+
+1. Measure to learn and not to punish
+
+2. There no good or bad data - there's just data. Make sure everyone feel safe to report the real data, by emphasizing this.
+
+3. To act until you have enough data to see the trend
+
+4. Ask WHY - even on the good days
