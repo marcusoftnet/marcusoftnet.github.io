@@ -18,3 +18,14 @@
     text-align: right;
     font-style: italic;
 }
+
+figure {
+    display: table;
+    margin: 6px 6px 6px 6px;
+}
+
+figcaption {
+    font-size: smaller;
+    display: table-caption; /* aligns size to the table of the figure */
+    caption-side: bottom; /* makes the caption appear underneath the image/figure */
+}

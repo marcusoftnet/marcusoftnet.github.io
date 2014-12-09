@@ -3,11 +3,7 @@
 #---------/---------------------\---------#
 #--------|- Jekyll Post Creator -|--------#
 #---------\---------------------/---------#
-# Thanks to davejamesmiller for his ask function, found here:
-# https://gist.github.com/davejamesmiller/1965569
-
-
-# Post creator designed to remove the repetitive aspects of writing posts in Jekyll.
+# Ripped and tweaked from https://gist.github.com/kabrooski/6107707
 
 # Simply put the script in your site directory, edit the configs to fit your setup, and run it with:
 # ./post "post title"
@@ -92,7 +88,6 @@ echo $filename
 
 
 ########## Adding to file ##########
-
 echo "---" >> $filename
 echo "layout: $layout" >> $filename
 echo "title: \"$title\"" >> $filename
@@ -100,23 +95,16 @@ echo "author: \"$author\"" >> $filename
 echo "date: `date +%F\ %H:%M:%S`" >> $filename
 
 
+### Adding tags on new lines with a dash in front (separated with comma)
 read -p "Tags: " tags
 if [ "$tags" ]; then
   echo "tags:
 - $tags" | sed 's/,/\
 -/g' >> $filename
-# echo "tags:" >> $filename
-#   echo "- " >> $filename
-#   echo "$tags" | sed 's/,/\
-# - /g' >> $filename
 fi
 
 echo "---" >> $filename
 echo >> $filename
 
 # open in chosen editor
-if [ "$editor" == "vim" ]; then
-  vim + $filename
-else
-  $editor $filename
-fi
+$editor $filename
