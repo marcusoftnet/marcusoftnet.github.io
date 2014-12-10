@@ -9,14 +9,12 @@ twitter_username: marcusoftnet
 github_username:  marcusoftnet
 disqus_shortname:  marcusoftnet
 excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customized-excerpt-separator-in-jekyll
-gems:
-  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:title.html
-paginate: 10
+paginate: 20
 exclude: [
 	"node_modules",
 	"import",
