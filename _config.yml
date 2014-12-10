@@ -2,13 +2,15 @@
 title: marcusoft.net - sharing is learning
 author_name: Marcus Hammarberg
 email: marcusoftnet@gmail.com
-description: "The blog of Marcus Hammarberg - stuff i picked up along the way"
+description: "Marcus Hammarberg - my thoughts on lean, agile, kanban, nodejs, nancyfx, koa and other things makes me better"
 baseurl: ""
 url: "http://www.marcusoft.net"
 twitter_username: marcusoftnet
 github_username:  marcusoftnet
 disqus_shortname:  marcusoftnet
 excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customized-excerpt-separator-in-jekyll
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
