@@ -26,15 +26,17 @@ layout: default
 </header>
 
 <!-- Post Content -->
-<article>
+<article class="hentry">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 {% include post-tags.html %}
+            <div class="entry-title" style="display:none">{{ page.title }}</div>
+            <div class="entry-summary" style="display:none">{{ page.excerpt | strip_html }}</div>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 entry-content">
 
 				{{ content }}
 
@@ -70,6 +72,13 @@ layout: default
                     })();
                 </script>
                 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+                <p>Published by
+                    <span class="author vcard">
+                        <span class="fn">{{ page.author }}</span>
+                    </span>
+                    on <time class="published" datetime="{{ page.date | date: "%B %-d, %Y" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+                </p>
             </div>
         </div>
     </div>
