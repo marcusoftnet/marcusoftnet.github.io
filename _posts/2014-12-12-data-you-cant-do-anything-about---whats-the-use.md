@@ -16,7 +16,9 @@ At my current client we have a lot of data about the customers (patients at a ho
 
 What can we learn from that?
 <a name='more'></a>
+
 # Verification
+
 First I verified my hypothesis by a proper analysis. I created an excel formula that went through all our data and calculated the average per weekday.
 
 There's a Excel formula called <code>Weekday</code> that returns a number (1 for Sunday to 7 for Saturday). So creating an average for that is easy:<br>
