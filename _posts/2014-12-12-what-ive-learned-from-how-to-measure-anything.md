@@ -16,7 +16,7 @@ When we wrote it I happened to show it to <a href="https://twitter.com/drunkcod"
 
 When you have not read that book and writing a lot of words on measurements... hearing that has a bit of a "DOH!"-effect on you and your writing. But Joakim had and that made me feel a little better. I was largely satisfied with the chapter too.
 
-But now I have read it and I wanted to share some of the main points that I've picked up from this great book.
+But now I have read it and I wanted to share some of the main points that I've picked up from this great book by Douglas W. Hubbard.
 <a href="http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/0470539399">How to Measure Anything: Finding the Value of Intangibles in Business</a> is the name and link for the book. It's an awesome read and I recommend anyone to read it.
 
 This is not a review per se but rather three points that I've picked up from the book and that already now have helped me immensely.
