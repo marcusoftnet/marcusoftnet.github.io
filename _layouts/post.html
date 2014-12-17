@@ -78,6 +78,8 @@ layout: default
                         <span class="fn">{{ page.author }}</span>
                     </span>
                     on <time class="published" datetime="{{ page.date | date: "%B %-d, %Y" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+
+                    Last updated <time class="updated" datetime="{% if page.modified_time %}{{ page.modified_time }}{% else %}{{ page.date }}{% endif %}">{% if page.modified_time %}{{ page.modified_time | date: "%B %-d, %Y" }}{% else %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}</time>
                 </p>
             </div>
         </div>
