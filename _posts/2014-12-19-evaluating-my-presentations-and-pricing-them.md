@@ -38,10 +38,12 @@ Today I tried to use other words to get another result. It worked kinda good.
 
 Instead of saying "What was good, what was bad" I draw two columns:
 
-* One with a smiley-face - "Put stickies here with thing that will make me *happy*", I say.
-* One with a strong arm (that I need to work on drawing properly, needs explanation now) - "Put stickies here with things that will make me *better*"
+* One column called Happy - "Put stickies here with thing that will make me *happy*", I say.
+* One column Better - "Put stickies here with things that will make me *better*"
 
 I got more feedback this way. Almost everyone brought me something good and something bad. In the normal way I got many "Nothing to complain about"-stickies in the "Bad"-column.
+
+Also it's nice to don't have Good vs Bad but rather Happy and Better. That feels nicer to me.
 
 <img src="/img/rotiDiagram.jpg" style="float:right" width="60%" alt="Throughput visualization">For the ROTI I turned their attention towards the company or groups I've visited instead. I might say something like
 <blockquote>We've been 25 people in this room for 1,5 h. That totals to ca 40 man-hours. Do you think those hours was spent wisely here? Did this presentation bring *R*eturn *O*n the *T*ime *I*nvested?</blockquote>
