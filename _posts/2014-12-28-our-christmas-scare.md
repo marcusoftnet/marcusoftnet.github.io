@@ -30,7 +30,7 @@ We were shown an entrance to the hospital that was the wrong one. I ended up run
 
 At the ER I simply stated: dislocated hip and a doctor that spoke English (thank God) came to our assistance. A quick infuse and pain-killers was administrated. We were then rushed to X-ray.
 
-They didn't allow me in the room, but once I was allowed in again I could see in their faces that something was right. We went back to ER and saw the picture - it made all the staff draw after their breath.
+They didn't allow me in the room, but once I was allowed in again I could see in their faces that something was wrong. We went back to ER and saw the picture - it made all the staff draw after their breath. I also could see why:
 
 The bone in Alberts thigh, above the knee, was straight off. Just like you would draw it if you were 5 years old. I sank to my knees sobbing - thinking about the pain.
 
