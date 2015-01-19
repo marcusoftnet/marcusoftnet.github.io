@@ -27,5 +27,6 @@ exclude: [
 	"Gruntfile.js",
 	".gitignore",
 	"kanban.txt",
-	"scaffold_post"
+	"scaffold_post",
+	"start_local"
 ]

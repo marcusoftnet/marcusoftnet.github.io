@@ -17,9 +17,9 @@ I will collect these post under the label [Things I say often](http://www.marcus
 
 I don't have a list made up already, so I'll write things when they pop into my head. Here's first things I that sprung to mind.
 
-- [This is your board - change it](http://www.marcusoft.net/2015/01/this-is-your-board---change-it.html)
-- Why?
-- I'm talking about changing
+- [This is your board - change it](/2015/01/this-is-your-board---change-it.html)
+- [Why?](/2015/01/things-i-say-often-why.html)
+- I'm talking about changing it
 - This is how you tear off a post-it
 - Efficiency is not important if you don't know your goal
 - I run on feedback
