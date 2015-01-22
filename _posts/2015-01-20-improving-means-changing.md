@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improving means changing"
+title: "Things I say often: Improving means changing"
 author: "Marcus Hammarberg"
 date: 2015-01-20 11:28:03
 tags:
