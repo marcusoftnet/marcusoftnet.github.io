@@ -23,7 +23,7 @@ I don't have a list made up already, so I'll write things when they pop into my 
 - [NO! This is how you tear off a post-it](/2015/01/this-is-how-you-tear-off-a-post-it.html)
 - Efficiency is not important if you don't know your goal
 - I run on feedback
-- Leadership - not management
-- Really?! Expert maker of mistakes... and learner (tm)
+- [Leadership - not management](/2015/01/leadership---not-management.html)
+- Really?! Expert maker of mistakes
 
 I hope you will enjoy this series. I know I will benefit from writing some of these down.
