@@ -16,7 +16,7 @@ One of the things that we have talked with the management team about is trying t
 
 How does that look? What have we done? Most of the work we have done has not directly with health care to do but rather change management and business in general. Very practical stuff mostly. In this post wanted to share two of our current projects (or Focus areas as we call them) where our approach made a big difference.
 
-<a more='more'></a>
+<a name='more'></a>
 
 # The parking lot
 The first focus area is to redo the parking lot outside the hospital. This quite a big area (80 x 15 m), sloping and with very bad condition of the paving stones on the ground. Big holes, broken paving stones and just plain ugly.
