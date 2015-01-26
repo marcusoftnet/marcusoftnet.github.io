@@ -21,9 +21,8 @@ I don't have a list made up already, so I'll write things when they pop into my 
 - [Why?](http://www.marcusoft.net/2015/01/things-i-say-often-why.html)
 - [Improving means changing] (http://www.marcusoft.net/2015/01/improving_means_changing.html)
 - [NO! This is how you tear off a post-it](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
-- I don't care about efficiency until we know our goal
+- [I don't care about efficiency until we know our goal](http://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html)
 - [I run on feedback](http://www.marcusoft.net/2015/01/i-run-on-feedback.html)
 - [Leadership - not management](http://www.marcusoft.net/2015/01/leadership---not-management.html)
-- Really?! Maker of mistakes, level expert
 
 I hope you will enjoy this series. I know I will benefit from writing some of these down.
