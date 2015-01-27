@@ -80,9 +80,19 @@
   ga('send', 'pageview');
 
 </script>
-<!-- 
 <script type="text/javascript">
-    console.log(window.location);
-    console.log('{{ page.url }}');
-    console.log('{{ page.title }}');
-</script> -->
+    $.ajax({
+        data        : "{
+                        'appname' : 'marcusoft.net',
+                        'title'   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
+                        'url'     : '{{ page.url }}'
+                      }",
+        type        : 'POST',
+        url         : 'http://localhost:3000/api/pageview',
+        contentType : 'application/json;charset=utf-8',
+        dataType    : 'json',
+        xhrFields   : { withCredentials : false },
+        success     : function () { console.log("Page logged - no errors")},
+        error       : function () { console.log("Page logged with errors");}
+    });
+</script>

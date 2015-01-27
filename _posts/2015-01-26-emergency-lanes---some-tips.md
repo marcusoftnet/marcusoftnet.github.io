@@ -54,7 +54,7 @@ This policy also means that we do *not* count these items against the WIP limits
 ## One at the time
 There can only be one emergency going on at the time. This follows naturally by the last "Prioritized over all other work"-policy but this can also be abused.
 
-Basically we are increasing our Work In Process for a short while during the life time of the emergency. In doing so we are, according to the mathematics in [Littles Law](http://www.wikipedia.com/LittlesLaw), slowing the other work in our process down.
+Basically we are increasing our Work In Process for a short while during the life time of the emergency. In doing so we are, according to the mathematics in [Littles Law](http://en.wikipedia.org/wiki/Little%27s_law), slowing the other work in our process down.
 
 This is the *toll* or *fee* we are paying for flowing one item faster; we're slowing the other work down. In the case of an emergency that's of course ok, but it cannot be the normal case.
 
