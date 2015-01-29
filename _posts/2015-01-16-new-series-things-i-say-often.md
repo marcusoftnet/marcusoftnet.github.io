@@ -19,7 +19,7 @@ I don't have a list made up already, so I'll write things when they pop into my 
 
 - [This is your board - change it](http://www.marcusoft.net/2015/01/this-is-your-board---change-it.html)
 - [Why?](http://www.marcusoft.net/2015/01/things-i-say-often-why.html)
-- [Improving means changing] (http://www.marcusoft.net/2015/01/improving_means_changing.html)
+- [Improving means changing](http://www.marcusoft.net/2015/01/improving_means_changing.html)
 - [NO! This is how you tear off a post-it](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
 - [I don't care about efficiency until we know our goal](http://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html)
 - [I run on feedback](http://www.marcusoft.net/2015/01/i-run-on-feedback.html)
