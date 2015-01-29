@@ -27,6 +27,9 @@ npm init
 npm install koa koa-route --save
 touch app.js
 {% endhighlight %}
+
+<a name='more'></a>
+
 H: "Dude, is this a screen cast or are you going to tell me something interesting already?"
 
 M: "Well hang on for just a few seconds more. I wrote my first simple route, to verify it. And I'm glad I did"
