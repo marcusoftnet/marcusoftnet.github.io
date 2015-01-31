@@ -12,7 +12,7 @@ tags:
 
 Imagine that you want to learn a new technology or tool. Who would you want to learn that from, and how? For me I'd want to sit down and pair program with the creator (not The Creator, but you get what I mean) of the tool, and then someone who has vast experience implementing this and finally someone who knows this tool well on my platform. Preferable all three together.
 
-This book is exactly that. It's an opportunity for you to learn Cucumber from Aslak Hellesoy (the creator of [cucumber](http://cukes.info)), Matt Wynne that has consulted and trained on the tool for a long time and Seb Rose that have build the Java Implementation.
+This book is exactly that. It's an opportunity for you to learn Cucumber from [Aslak Hellesøy](https://twitter.com/aslak_hellesoy) (the creator of [cucumber](http://cukes.info)), [Matt Wynne](https://twitter.com/mattwynne) that has consulted and trained on the tool for a long time and [Seb Rose](https://twitter.com/sebrose) that have build the Java Implementation.
 
 Now, the important thing to remember about Cucumber is that it's not about the tool. Specification by example (BDD) is first and foremost a communication and collaboration technique that doesn't really need a tool. I've got a lot out of just "specifying with examples". But soon you want to verify your specifications and then Cucumber is great choice.
 
