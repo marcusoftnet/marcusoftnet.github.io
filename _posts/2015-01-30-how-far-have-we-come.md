@@ -11,7 +11,8 @@ tags:
 
 A few days back I said something to my client that apparently many people on twitter found interesting.
 
-[tweet here]
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p>“How is the project going?”&#10;“We have a lot of things going on!”&#10;“Ahhh… so you’re slowing down the progress?”&#10;<a href="https://twitter.com/hashtag/stopStartingStartFinishing?src=hash">#stopStartingStartFinishing</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/560637396291559425">January 29, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My client, the hospital that I've written about many times before, has [a big project ahead](http://www.marcusoft.net/2015/01/make-it-smaller---some-practical-experiences.html). We are going to be accredited for quality in all our processes. So... there's a lot of documentation, implementation and training to be done.
 
@@ -53,7 +54,11 @@ Second question was to try to find what we are working with. There was a number 
 - Team 3: 8/32 targets Done
 - Team 4: 23/120 targets Done
 
+<img src="/img/statusReport.jpg" style="float:right" width="50%">
+
 If I know myself I will probably [visualize this](/2014/09/ifyoubuildit.html) information, for example in a circle diagram.
+
+HA! Look. I couldn't resist.
 
 # Done, only done and nothing but the done
 We also decided, although I'm ready to explain this again, that Done means that there's no more work to do with that target. I'm not interested to hear on how many things we have started or going on. Or that we are 80% done with 90% of the targets.
@@ -61,10 +66,10 @@ We also decided, although I'm ready to explain this again, that Done means that 
 This is just binary, a flip-switch. It's Done or Not Done. Once it's Done we are not working with it anymore, because that is what Done means. If we are working with it is, per definition, Not Done.
 
 # Tick, tock, tick, tock
-<img src="/img/weeksOnBoard.jpg" style="float:right" width="50%">
-I did one thing more; on our white board I drew a number of squares. This represented weeks. Our goals is namely "holy" (literately). At a certain date Ramadan kicks in. Since Indonesia is a Muslim country this basically means that the country shuts down.
+I did one thing more; on our white board I drew a number of squares. This represented weeks. Our goals is namely "sacred" (literately). At a certain date Ramadan kicks in. Since Indonesia is a Muslim country this basically means that the country shuts down.
 
 This 6 months from the start of the year. We are now in week 5. So I drew a table of 5 x 5 cells. Filled the first 5 and then said.
+
 <blockquote>Time waits for no one. There's one week less until Ramadan next week, if we work or not.</blockquote>
 
 # Just do it! (c)
