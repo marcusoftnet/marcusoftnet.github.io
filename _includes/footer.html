@@ -81,18 +81,51 @@
 
 </script>
 <script type="text/javascript">
-    $.ajax({
-        data        : "{
-                        'appname' : 'marcusoft.net',
-                        'title'   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
-                        'url'     : '{{ page.url }}'
-                      }",
-        type        : 'POST',
-        url         : 'https://page-logger.herokuapp.com/api/pageview',
-        contentType : 'application/json;charset=utf-8',
-        dataType    : 'json',
-        xhrFields   : { withCredentials : false },
-        success     : function () { console.log("Page logged - no errors")},
-        error       : function () { console.log("Page logged with errors");}
+
+    function createCORSRequest(method, url){
+        var xhr = new XMLHttpRequest();
+        if ("withCredentials" in xhr){
+            // XHR has 'withCredentials' property only if it supports CORS
+            xhr.open(method, url, true);
+        } else if (typeof XDomainRequest != "undefined"){ // if IE use XDR
+            xhr = new XDomainRequest();
+            xhr.open(method, url);
+        } else {
+            xhr = null;
+        }
+        return xhr;
+    };
+
+    var request = createCORSRequest( "get", "http://www.google.com" );
+    if ( request ){
+        // Define a callback function
+        request.onload = function(){};
+        // Send request
+        request.send();
+    };
+
+    var pageViewData = {
+                        appname : 'marcusoft.net',
+                        title   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
+                        url     : '{{ page.url }}'
+                      };
+
+    $.post("https://page-logger.herokuapp.com/api/pageview", pageViewData, function(){
+        console.log("Page logged - no errors")
     });
+
+    // $.ajax({
+    //     data        : "{
+    //                     'appname' : 'marcusoft.net',
+    //                     'title'   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
+    //                     'url'     : '{{ page.url }}'
+    //                   }",
+    //     type        : 'POST',
+    //     url         : 'https://page-logger.herokuapp.com/api/pageview',
+    //     contentType : "application/x-www-form-urlencoded; charset=utf-8",
+    //     dataType    : 'json',
+    //     xhrFields   : { withCredentials : false },
+    //     success     : function () { console.log("Page logged - no errors")},
+    //     error       : function () { console.log("Page logged with errors");}
+    // });
 </script>
