@@ -53,3 +53,5 @@ All the great teams I've been in have been long lasting. We have been in the tea
 Well.... I dunno... what to say about this really. Reading this list I realize that "building a great team" is very hard. Especially in the beginning. Because all of the things on my list cant be "installed". It requires time. And trust. And courage to be vulnerable.
 
 But don't fret - this is exactly how you met your husband/wife. The first date is always awkward, right. But since you seem to share values and enjoyed spending time together you go for a second, less awkward date. And then another one and another one. Little by little you are creating a history together and before long it seems like you've always been together.
+
+If I wanted to create a great team I would try to reach or implement the traits above. Starting with a common, well-known goal, authority and responsibility for the team to act autonomous and a lot of fun together is a good start. It will not promise to be great, but it's a good start. 
