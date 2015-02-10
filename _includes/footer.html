@@ -82,27 +82,27 @@
 </script>
 <script type="text/javascript">
 
-    function createCORSRequest(method, url){
-        var xhr = new XMLHttpRequest();
-        if ("withCredentials" in xhr){
-            // XHR has 'withCredentials' property only if it supports CORS
-            xhr.open(method, url, true);
-        } else if (typeof XDomainRequest != "undefined"){ // if IE use XDR
-            xhr = new XDomainRequest();
-            xhr.open(method, url);
-        } else {
-            xhr = null;
-        }
-        return xhr;
-    };
+    // function createCORSRequest(method, url){
+    //     var xhr = new XMLHttpRequest();
+    //     if ("withCredentials" in xhr){
+    //         // XHR has 'withCredentials' property only if it supports CORS
+    //         xhr.open(method, url, true);
+    //     } else if (typeof XDomainRequest != "undefined"){ // if IE use XDR
+    //         xhr = new XDomainRequest();
+    //         xhr.open(method, url);
+    //     } else {
+    //         xhr = null;
+    //     }
+    //     return xhr;
+    // };
 
-    var request = createCORSRequest( "get", "http://www.google.com" );
-    if ( request ){
-        // Define a callback function
-        request.onload = function(){};
-        // Send request
-        request.send();
-    };
+    // var request = createCORSRequest( "get", "http://www.google.com" );
+    // if ( request ){
+    //     // Define a callback function
+    //     request.onload = function(){};
+    //     // Send request
+    //     request.send();
+    // };
 
     var pageViewData = {
                         appname : 'marcusoft.net',
