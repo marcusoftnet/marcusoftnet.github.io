@@ -85,7 +85,7 @@
     var pageViewData = {
         appname : 'marcusoft.net',
         title   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
-        url     : '{{ page.url }}'
+        url     : '{{site.url}}{{ page.url }}'
     };
 
     $.post("https://page-logger.herokuapp.com/api/pageview", pageViewData, function(){
