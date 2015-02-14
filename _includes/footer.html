@@ -82,13 +82,15 @@
 </script>
 <!-- page-logger call -->
 <script type="text/javascript">
-    var pageViewData = {
-        appname : 'marcusoft.net',
-        title   : '{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}',
-        url     : '{{site.url}}{{ page.url }}'
+     var pageViewData = {
+        title  : document.title,
+        url    : document.location.origin + document.location.pathname
     };
 
-    $.post("https://page-logger.herokuapp.com/api/pageview", pageViewData, function(){
+    console.log("Logging page view:");
+    console.log(pageViewData);
+
+    $.post("https://page-logger.herokuapp.com/api/pageview", pageViewData, function() {
         console.log(pageViewData.title + " logged - no errors");
     });
 </script>
