@@ -6,7 +6,7 @@ date: 2015-02-23 07:54:45
 tags:
  - Javascript
  - Tools
- - Node
+ - NodeJs
 ---
 
 Once you've coded and tested a Node application we are anxious to deploy it and put in front of real users. I've [blogged before](http://www.marcusoft.net/2014/04/mnb-heroku.html) on how you can do that very [easily and fast with Heroku](http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html).
