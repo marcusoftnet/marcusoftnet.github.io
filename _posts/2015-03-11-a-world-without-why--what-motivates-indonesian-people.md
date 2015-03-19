@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A world without WHY- what motivates Indonesian people"
+title: "A world without WHY"
 author: "Marcus Hammarberg"
 date: 2015-03-11 11:30:48
 tags:
@@ -10,7 +10,7 @@ tags:
  - Life of a consultant
 ---
 
-When I first arrived in Indonesia I didn't think nor knew much about the difference in our cultures. This quite understandable, although in hindsight I should have read up on it a little bit more. Now, as I know more and more, I also get more and more interested and confused about some very basic things in the society. For this post I wanted to focus on "What are motivating Indonesian people?"
+When I first arrived in Indonesia I didn't think nor knew much about the difference in our cultures. This quite understandable, although in hindsight I should have read up on it a little bit more. Now, as I know more and more, I also get more and more interested and confused about some very basic things in the society.
 
 To not come out as very prejudiced there's some of disclaimers to be made and I'll do that throughout the post, but here are few to get started:
 
