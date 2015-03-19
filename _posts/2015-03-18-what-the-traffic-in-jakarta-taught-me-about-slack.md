@@ -12,7 +12,7 @@ tags:
 <img src="/img/trafficJakarta1.jpg" style="float:right" width="60%">
 Like most cities in Asia the traffic in Jakarta is horrible. Especially the motorbikes that are plentiful is an interesting phenomena to observe.
 
-Once you mange (took me a year to do) to look past the total disrespect for human life, the drivers own lives as well as other people, I saw patterns that have bigger influence on at least me.
+Once you mange (took me a year to do) to look past the total disrespect for human life on display, the drivers own lives as well as other people, I saw patterns that have bigger influence on at least me.
 
 In this short post I wanted to share those with you and maybe you can also get some thoughts that can help you.
 
