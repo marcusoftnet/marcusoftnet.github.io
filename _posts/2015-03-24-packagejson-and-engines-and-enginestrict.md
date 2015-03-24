@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "package.json and engines... and engineStrict"
+title: "package.json: engines & engineStrict - and how to use them"
 author: "Marcus Hammarberg"
 date: 2015-03-24 11:14:54
 tags:
