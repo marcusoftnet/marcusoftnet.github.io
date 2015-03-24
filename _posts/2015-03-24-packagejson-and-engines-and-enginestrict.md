@@ -8,11 +8,11 @@ tags:
  - Tools
 ---
 
-I'm poking around quite a lot with <a href="https://iojs.org">io.js</a> recently for reasons that soon will be revealed. When doing so I used my favorite Node version manager - <a href="https://github.com/creationix/nvm">Node Version Manager</a> (awesome name of that...) to manage different versions of <a href="http://nodejs.org">Node</a> and io.js.
+I'm poking around quite a lot with <a href="https://iojs.org">io.js</a> recently for reasons that soon will be revealed. When doing so I used my favorite Node version manager - <a href="https://github.com/creationix/nvm">Node Version Manager</a> to manage different versions of <a href="http://nodejs.org">Node</a> and io.js.
 
 Switching back and forth is simple and sometimes I end up running some code on a version of Node/io.js that the code does not support. For example running EcmaScript 6 ```let```-statements in Node.
 
-I was hoping that I'd get a <a href="http://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html">warning</> or preferable even an error when doing that. But no. Or...
+I was hoping that I'd get a <a href="http://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html">warning</a> or preferable even an error when doing that. But no. Or...
 
 In this post I'll show you how to use the <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html">package.json</a> file to make sure that you get warnings and errors when using the wrong version of the framework
 
