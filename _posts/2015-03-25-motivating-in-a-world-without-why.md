@@ -46,9 +46,9 @@ Reaction: not much...
 
 People looked generally uninterested or concerned. Even though the numbers we drew was ca 50-90 patient served per day. Half of what our goal was!
 
-Then after a few days, just on a hunch, I asked my Anton again: "134 is their goal, but that was including profit, right? How much was the profit?" 10%. So I did some math and came up with 120 as the break-even point.
+Then after a few days, just on a hunch, I asked my colleague Anton again: "134 is their goal, but that was including profit, right? How much was the profit?" 10%. So I did some math and came up with 120 as the break-even point.
 
-<img src="/img/board140913.jpg" style="float:left" size="50%">
+<img src="/img/board140913.jpg" style="float:right" size="50%">
 I added that on the board and explained what was to the staff: "If we have fewer patients than this - we lost money by running the hospital that day. This is the 'loose money'-line". You can see that diagram to the left.
 
 That was the most profound message I've ever delivered. I could literally see jaws dropped. A few people looked like they were about to cry. Heads were shaken in disbelief.
