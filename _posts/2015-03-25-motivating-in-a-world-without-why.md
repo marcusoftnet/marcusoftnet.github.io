@@ -38,7 +38,7 @@ Me and my colleague Anton came up with a long-shot idea; let's turn our sights a
 
 If you wonder about the "patient services", so did the hospital, but it's basically just means that each patients can use one or more of our services, for example the poly clinic, the lab and the pharmacy - that would be 1 patient but 3 services "sold" to him. More about this under "Make it simple.
 
-<img src="/img/board140912.jpg" style="float:right" size="50%">
+<img src="/img/board140912.jpg" style="float:right" size="100%">
 Great! We created a <a href="http://www.marcusoft.net/2014/09/ifyoubuildit.html">really big diagram</a> where we plotted the number of patients needed per day and the target line.
 You can see the first version of our board to the right here.
 
