@@ -43,7 +43,8 @@ For this I'm eternally grateful. My working life is so much more interesting due
 * People I've met and thanked in real life
 ** James Grenning
 * Signatories I've thanked
-* Signatories I haven't met
+** <a href="">Ron Jeffries</a>
+* Signatories I haven't yet thanked
 ** Kent Beck
 ** Mike Beedle
 ** Arie van Bennekum
@@ -52,7 +53,6 @@ For this I'm eternally grateful. My working life is so much more interesting due
 ** Martin Fowler
 ** Jim Highsmith
 ** Andrew Hunt
-** Ron Jeffries
 ** Jon Kern
 ** Brian Marick
 ** Robert C. Martin
