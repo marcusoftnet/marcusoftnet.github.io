@@ -42,16 +42,16 @@ For this I'm eternally grateful. My working life is so much more interesting due
 # The list
 * People I've met and thanked in real life
 ** James Grenning
-* Signatories I've thanked
+* Signatories I've at least said Thank you to
 ** <a href="https://twitter.com/RonJeffries/status/58249750546982912">Ron Jeffries</a>
-** <a href="https://twitter.com/marcusoftnet/status/582720783723548672">Robert C. Martin</a> 
+** <a href="https://twitter.com/marcusoftnet/status/582720783723548672">Robert C. Martin</a>
+** <a href="https://twitter.com/marcusoftnet/status/583159228300271616">Martin Fowler</a>
 * Signatories I haven't yet thanked
 ** Kent Beck
 ** Mike Beedle
 ** Arie van Bennekum
 ** Alistair Cockburn
 ** Ward Cunningham
-** Martin Fowler
 ** Jim Highsmith
 ** Andrew Hunt
 ** Jon Kern
