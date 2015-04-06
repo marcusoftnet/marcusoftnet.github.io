@@ -8,11 +8,11 @@ tags:
  - Life of a consultant
 ---
 
-Last autumn I met one of the signatories of the <a href="http://agilemanifesto.org">Agile Manifesto</a> in real life. At the <a href="http://2014.agilesingapore.org/">Agile Singapore</a> conference.
+Last autumn I met one of the signatories of the [Agile Manifesto](http://agilemanifesto.org) in real life. At the [Agile Singapore](http://2014.agilesingapore.org/) conference.
 
-I didn't think much about that until he (<a href="http://www.renaissancesoftware.net/blog/">James Grenning</a>) mentioned it in the beginning of one of his talk. He told some anectodes about that meet-up. In honestly so would I if I was at that weekend in Snowbird.
+I didn't think much about that until he ([James Grenning](http://www.renaissancesoftware.net/blog/)) mentioned it in the beginning of one of his talk. He told some anectodes about that meet-up. In honestly so would I if I was at that weekend in Snowbird.
 
-There I was. Also a speaker at this conference half-around the world. Working with management for the Salvation Army in Indonesia, being invited to the conference since I've <a href="http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/">written a book on Kanban</a>.
+There I was. Also a speaker at this conference half-around the world. Working with management for the Salvation Army in Indonesia, being invited to the conference since I've [written a book on Kanban](http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/).
 
 The last 10 years of my career has been involving agile in one way or the other on a daily basis. And evolving me for the better, mostly daily.
 
@@ -43,11 +43,11 @@ For this I'm eternally grateful. My working life is so much more interesting due
 * People I've met and thanked in real life
 ** James Grenning
 * Signatories I've at least said Thank you to
-** <a href="https://twitter.com/RonJeffries/status/58249750546982912">Ron Jeffries</a>
-** <a href="https://twitter.com/marcusoftnet/status/582720783723548672">Robert C. Martin</a>
-** <a href="https://twitter.com/marcusoftnet/status/583159228300271616">Martin Fowler</a>
+** [Ron Jeffries](https://twitter.com/RonJeffries/status/58249750546982912)
+** [Robert C. Martin](https://twitter.com/marcusoftnet/status/582720783723548672)
+** [Martin Fowler](https://twitter.com/marcusoftnet/status/583159228300271616)
+** [Kent Beck](https://twitter.com/marcusoftnet/status/584899098664280064)
 * Signatories I haven't yet thanked
-** Kent Beck
 ** Mike Beedle
 ** Arie van Bennekum
 ** Alistair Cockburn
