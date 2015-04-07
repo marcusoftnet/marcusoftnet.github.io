@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>marcusoft.net search</ShortName>
+  <Description>search www.marcusoft.net</Description>
+  <Url type="text/html" method="get" template="http://www.marcusoft.net/?q={searchTerms}"/>
+  <Image width="16" height="16">http://www.marcusoft.net/favicon.ico</Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <SearchForm>http://www.marcusoft.net/q=?#{searchTerm}</SearchForm>
+</OpenSearchDescription>
