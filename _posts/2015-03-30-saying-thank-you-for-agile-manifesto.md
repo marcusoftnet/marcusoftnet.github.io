@@ -47,16 +47,17 @@ For this I'm eternally grateful. My working life is so much more interesting due
 ** [Robert C. Martin](https://twitter.com/marcusoftnet/status/582720783723548672)
 ** [Martin Fowler](https://twitter.com/marcusoftnet/status/583159228300271616)
 ** [Kent Beck](https://twitter.com/marcusoftnet/status/584899098664280064)
+** [Ward Cunningham](https://twitter.com/marcusoftnet/status/585623644761677824)
+** [Jeff Sutherland](https://twitter.com/marcusoftnet/status/585623965399384068)
+
 * Signatories I haven't yet thanked
 ** Mike Beedle
 ** Arie van Bennekum
 ** Alistair Cockburn
-** Ward Cunningham
 ** Jim Highsmith
 ** Andrew Hunt
 ** Jon Kern
 ** Brian Marick
 ** Steve Mellor
 ** Ken Schwaber
-** Jeff Sutherland
 ** Dave Thomas
