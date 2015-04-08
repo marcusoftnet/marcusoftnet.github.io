@@ -41,23 +41,23 @@ For this I'm eternally grateful. My working life is so much more interesting due
 
 # The list
 * People I've met and thanked in real life
-** James Grenning
+	* [James Grenning](http://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
 * Signatories I've at least said Thank you to
-** [Ron Jeffries](https://twitter.com/RonJeffries/status/58249750546982912)
-** [Robert C. Martin](https://twitter.com/marcusoftnet/status/582720783723548672)
-** [Martin Fowler](https://twitter.com/marcusoftnet/status/583159228300271616)
-** [Kent Beck](https://twitter.com/marcusoftnet/status/584899098664280064)
-** [Ward Cunningham](https://twitter.com/marcusoftnet/status/585623644761677824)
-** [Jeff Sutherland](https://twitter.com/marcusoftnet/status/585623965399384068)
+	* [Ron Jeffries](https://twitter.com/RonJeffries/status/58249750546982912)
+	* [Robert C. Martin](https://twitter.com/marcusoftnet/status/582720783723548672)
+	* [Martin Fowler](https://twitter.com/marcusoftnet/status/583159228300271616)
+	* [Kent Beck](https://twitter.com/marcusoftnet/status/584899098664280064)
+	* [Ward Cunningham](https://twitter.com/marcusoftnet/status/585623644761677824)
+	* [Jeff Sutherland](https://twitter.com/marcusoftnet/status/585623965399384068)
 
 * Signatories I haven't yet thanked
-** Mike Beedle
-** Arie van Bennekum
-** Alistair Cockburn
-** Jim Highsmith
-** Andrew Hunt
-** Jon Kern
-** Brian Marick
-** Steve Mellor
-** Ken Schwaber
-** Dave Thomas
+	* Mike Beedle
+	* Arie van Bennekum
+	* Alistair Cockburn
+	* Jim Highsmith
+	* Andrew Hunt
+	* Jon Kern
+	* Brian Marick
+	* Steve Mellor
+	* Ken Schwaber
+	* Dave Thomas
