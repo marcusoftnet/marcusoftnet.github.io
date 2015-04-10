@@ -42,6 +42,7 @@ For this I'm eternally grateful. My working life is so much more interesting due
 # The list
 * People I've met and thanked in real life
 	* [James Grenning](http://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
+
 * Signatories I've at least said Thank you to
 	* [Ron Jeffries](https://twitter.com/RonJeffries/status/58249750546982912)
 	* [Robert C. Martin](https://twitter.com/marcusoftnet/status/582720783723548672)
@@ -51,10 +52,9 @@ For this I'm eternally grateful. My working life is so much more interesting due
 	* [Jeff Sutherland](https://twitter.com/marcusoftnet/status/585623965399384068)
 	* [Ken Schwaber](https://twitter.com/marcusoftnet/status/586091497730244608)
 	* [Alistair Cockburn](https://twitter.com/marcusoftnet/status/586092020436967425)
-
+	* [Mike Beedle](https://twitter.com/marcusoftnet/status/586367589384765440)
+	* [Arie van Bennekum](https://twitter.com/marcusoftnet/status/586368020269809664)
 * Signatories I haven't yet thanked
-	* Mike Beedle
-	* Arie van Bennekum
 	* Jim Highsmith
 	* Andrew Hunt
 	* Jon Kern
