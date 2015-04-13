@@ -54,10 +54,10 @@ For this I'm eternally grateful. My working life is so much more interesting due
 	* [Alistair Cockburn](https://twitter.com/marcusoftnet/status/586092020436967425)
 	* [Mike Beedle](https://twitter.com/marcusoftnet/status/586367589384765440)
 	* [Arie van Bennekum](https://twitter.com/marcusoftnet/status/586368020269809664)
+	* [Andrew Hunt](https://twitter.com/marcusoftnet/status/587501313132335104)
+	* [Dave Thomas](https://twitter.com/marcusoftnet/status/587501793069764608)
 * Signatories I haven't yet thanked
 	* Jim Highsmith
-	* Andrew Hunt
 	* Jon Kern
 	* Brian Marick
 	* Steve Mellor
-	* Dave Thomas
