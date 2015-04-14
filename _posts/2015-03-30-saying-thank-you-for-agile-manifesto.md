@@ -32,7 +32,7 @@ His answer was priceless:
 # Time is running out
 Jim (thanks) Grenning is the only of the signatories that I've met / seen in person. I've been doing agile for ca 9-10 years. This is simply too slow.
 
-But this is a non-centralized world and most of these people are still around and active. I will now instead start to track these people down on other media, such as Twitter etc. 
+But this is a non-centralized world and most of these people are still around and active. I will now instead start to track these people down on other media, such as Twitter etc.
 
 Not because I'm a fan boy (.... or well) but mostly because it's actually the biggest defining thing in my career. One of the few watershed things, with a before and after for me. I'm not saying that they thought me everything I know and I know that I've brought my own thinking to the table but they put me on the path.
 
@@ -56,8 +56,10 @@ For this I'm eternally grateful. My working life is so much more interesting due
 	* [Arie van Bennekum](https://twitter.com/marcusoftnet/status/586368020269809664)
 	* [Andrew Hunt](https://twitter.com/marcusoftnet/status/587501313132335104)
 	* [Dave Thomas](https://twitter.com/marcusoftnet/status/587501793069764608)
+	* [Brian Marick](https://twitter.com/marcusoftnet/status/587872931994144768)
+	* Steve Mellor ... is not on Twitter. I sent him an email
+
 * Signatories I haven't yet thanked
 	* Jim Highsmith
 	* Jon Kern
-	* Brian Marick
-	* Steve Mellor
+
