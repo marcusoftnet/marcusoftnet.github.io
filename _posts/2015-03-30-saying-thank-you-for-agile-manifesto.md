@@ -57,9 +57,9 @@ For this I'm eternally grateful. My working life is so much more interesting due
 	* [Andrew Hunt](https://twitter.com/marcusoftnet/status/587501313132335104)
 	* [Dave Thomas](https://twitter.com/marcusoftnet/status/587501793069764608)
 	* [Brian Marick](https://twitter.com/marcusoftnet/status/587872931994144768)
-	* Steve Mellor ... is not on Twitter. I sent him an email
+	* [Jim Highsmith](https://twitter.com/marcusoftnet/status/588157072979714050)
+	* [Jon Kern](https://twitter.com/marcusoftnet/status/588156934894833665)
+	* Steve Mellor ... is not on Twitter. I sent him an email and got a very nice answer
 
-* Signatories I haven't yet thanked
-	* Jim Highsmith
-	* Jon Kern
-
+## Signatories I haven't yet thanked
+None! Phew - that feels so much better. My work is done! Now just get on to move them from the twitter list to the IRL-list.
