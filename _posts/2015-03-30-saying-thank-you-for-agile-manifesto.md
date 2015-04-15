@@ -45,7 +45,7 @@ For this I'm eternally grateful. My working life is so much more interesting due
 
 ### James Grenning
 
-[James Grenning](http://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
+Ah... well see [above](http://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
 
 ## Signatories I've at least said 'Thank you' to
 
