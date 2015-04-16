@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Koa Js and the power of mouting"
+title: "Koa Js and the power of mounting"
 author: "Marcus Hammarberg"
 date: 2015-04-02 08:41:15
 tags:
  - Javascript
- - KoaJs
+ - Koa
  - NodeJs
  - Tools
 ---
