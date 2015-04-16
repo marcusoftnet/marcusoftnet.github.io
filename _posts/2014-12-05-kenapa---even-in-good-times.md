@@ -4,7 +4,7 @@ title: "Always ask kenapa"
 author: "Marcus Hammarberg"
 date: 2014-12-05 07:10:51
 tags:
-- Life of a consulant
+- Life of a consultant
 - Agile
 - Lean
 - Indonesia
