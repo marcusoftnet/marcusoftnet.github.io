@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-01-30 13:14:25
 tags:
  - Agile
- - Specification By Example
+ - SpecificationByExample
  - BDD
  - Tools
 ---
