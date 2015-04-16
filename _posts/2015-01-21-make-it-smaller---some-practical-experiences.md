@@ -8,6 +8,7 @@ tags:
  - Agile
  - Salvation Army
  - Life of a consultant
+ - Indonesia
 ---
 
 One of the "clients" I work with right now is a hospital. We have tried to turn their performance around and they are improving immensely. In fact - I think they will be just fine. I did *not* think that just 4 months ago.

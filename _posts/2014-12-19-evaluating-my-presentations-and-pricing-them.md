@@ -7,6 +7,7 @@ tags:
 - Agile
 - Life of a consultant
 - Tools
+- Indonesia
 ---
 
 I'm waiting at a train station to go back after doing 2 presentations on kanban. It's super hot, I'm tired and it's 2 hours to wait before my train, *with* AC, comes. Perfect time to write a blog post in other words.

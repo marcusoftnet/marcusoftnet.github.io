@@ -9,6 +9,7 @@ tags:
 - Life of a consultant
 - Kanban
 - Specification by example
+- Indonesia
 ---
 
 I've been very much into <a href="http://www.specificationbyexample.com">Specification by example</a> in my software development consulting. One of the key learnings for me there is to try to make things concrete earlier. Using specification by example we do this by, for each of the features we're building, sketching down some concrete examples on how that would work.

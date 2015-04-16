@@ -7,6 +7,7 @@ tags:
  - Agile
  - Lean
  - Life of an consultant
+ - Indonesia
 ---
 
 A few days back I said something to my client that apparently many people on twitter found interesting.

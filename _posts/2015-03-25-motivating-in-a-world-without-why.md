@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-03-25 10:39:55
 tags:
  - Management
- - Indoneisa
+ - Indonesia
  - Lean
  - Agile
 ---

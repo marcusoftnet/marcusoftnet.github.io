@@ -7,6 +7,7 @@ tags:
 - Life of a consulant
 - Agile
 - Lean
+- Indonesia
 ---
 At my current client we are gathering the most important data (number of customers) for the company well-being and showing it to all the staff, every morning. This is great and have proven very useful to get the attention and interest for everyone.
 We have spontaneous applauds when we are doing great - we have discussions (also spontaneous) on days with bad data.

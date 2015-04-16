@@ -6,6 +6,7 @@ date: 2015-03-30 14:00:49
 tags:
  - Agile
  - Life of a consultant
+ - Indonesia
 ---
 
 Last autumn I met one of the signatories of the [Agile Manifesto](http://agilemanifesto.org) in real life. At the [Agile Singapore](http://2014.agilesingapore.org/) conference.

@@ -5,6 +5,7 @@ author: "Marcus Hammarberg"
 date: 2014-12-28 10:11:38
 tags:
  - Marcus private
+ - Indonesia
 ---
 
 This will not be an ordinary post. Just a write up of something horrible that happened to us during Christmas. It ends well, but was a horrible time in our lives.
