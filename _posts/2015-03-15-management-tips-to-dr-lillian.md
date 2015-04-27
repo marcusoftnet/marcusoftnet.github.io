@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-03-15 20:46:21
 tags:
  - Agile
- - Management
+ - Leadership
  - Lean
  - Life of a consultant
  - Salvation Army

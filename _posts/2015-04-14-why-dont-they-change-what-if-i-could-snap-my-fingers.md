@@ -6,7 +6,7 @@ date: 2015-04-14 11:10:55
 tags:
  - Agile
  - Lean
- - Management
+ - Leadership
  - Salvation Army
 ---
 

@@ -6,7 +6,7 @@ date: 2015-04-06 08:51:39
 tags:
  - Agile
  - Lean
- - Management
+ - Leadership
 ---
 
 One of the things that I've been told that upset me the most during the last couple of years was this sentence:

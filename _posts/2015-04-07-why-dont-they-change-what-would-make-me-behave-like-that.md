@@ -6,7 +6,7 @@ date: 2015-04-07 09:24:21
 tags:
  - Agile
  - Lean
- - Management
+ - Leadership
  - Life of a consultant
  - Indonesia
 ---

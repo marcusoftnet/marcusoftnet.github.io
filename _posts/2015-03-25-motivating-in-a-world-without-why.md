@@ -4,7 +4,7 @@ title: "Motivating in a world without WHY"
 author: "Marcus Hammarberg"
 date: 2015-03-25 10:39:55
 tags:
- - Management
+ - Leadership
  - Indonesia
  - Lean
  - Agile
