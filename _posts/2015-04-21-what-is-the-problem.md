@@ -6,7 +6,7 @@ date: 2015-04-21 16:58:27
 tags:
  - Agile
  - Lean
- - Management
+ - Leadership
  - Kanban
 ---
 
