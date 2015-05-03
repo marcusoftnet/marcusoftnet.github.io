@@ -8,9 +8,7 @@ header-img: "img/home-bg.jpg"
 <div class="tag-cloud">
 {% for tag in site.tags %}
   <span style="font-size: {{ tag | last | size | times: 20 | divided_by: site.tags.size | plus: 70  }}%">
-    <a href="#{{ tag | first | slugize }}">
-      {{ tag | first }}
-    </a>,
+    <a href="#{{ tag | first | slugize }}">{{ tag | first }}</a>,
   </span>
 {% endfor %}
 </div>
