@@ -64,14 +64,14 @@ I kept coming back to rather stop focusing on numbers and start focusing on tren
 
 For example, if we are focusing (or: experimenting) on trying to bring our [lead time](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html) down, we should look at the overall trend and not mind individual spikes or lows that much. Things have a natural variation and we should be aware of those. 
 
-There's a whole field of research around this called "Statistical process control" (which incidentally also talks about "Theory of variation"). From there we can steal an often used chart called "Statistical process control chart", that I've found very useful to communicate with people around us, product owners, project managers etc. In some cases it has even replaced the need to for up-front commitments and estimates... 
+There's a whole field of research around this called "Statistical process control" (which incidentally also talks about "Theory of variation"). From there we can steal an often used chart called "Statistical process control chart", that I've found very useful to communicate with people around us, product owners, project managers etc. In some cases it has even replaced the need to for [up-front commitments and estimates](http://lizkeogh.com/2015/05/01/the-estimates-in-noestimates/)... 
 
 Here's an example: 
 <img src="/img/Statistical process control chart example.jpg" style="width:80%">
 
 From this example we can see not only the natural variation of all the items finished but also two lines that helps us to predict the future a bit. There's not an average line here. That would be a start but it's also very coarse: "the average is 10.2... but it varies between 0.5 days and 120 days."
 
-The other two lines that is added is much more interesting. That puts the "Statistical" into the "Statistical process control chart". Without going into too much details these lines are 1 [standard deviations](http://en.wikipedia.org/wiki/Standard_deviation) above and below the average. Using the [68-95-99.7](http://en.wikipedia.org/wiki/68-95-99.7_rule) rule this gives us statistical certainty (hehehehe....) that the next items we do will fall in this range, in 68% of the cases. Adding 2 standard deviations means that it falls in that range with 95% certainty and with 3 standard deviations it's 99.7%. 
+The other two lines that is added is much more interesting. That puts the "Statistical" into the "Statistical process control chart". Without going into too much details these lines are 1 [standard deviation](http://en.wikipedia.org/wiki/Standard_deviation) above and below the average. Using the [68-95-99.7](http://en.wikipedia.org/wiki/68-95-99.7_rule) rule this gives us statistical certainty (hehehehe....) that the next items we do will fall in this range, in 68% of the cases. Adding 2 standard deviations means that it falls in that range with 95% certainty and with 3 standard deviations it's 99.7%. 
 
 Sure, there will be stuff outside that too, but they are influenced by "special cause variations". Extraordinary things that might happen outside our control. Inside the range we find the normal variation. The "common cause" variation. 
 
