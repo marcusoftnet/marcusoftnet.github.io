@@ -10,6 +10,7 @@ tags:
 ---
 
 The other day I commented on a tweet from [Paul Klipp](http://paulklipp.com/). A man I highly respect around all things Lean and Agile. Here's the tweet and my response:
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/duarte_vasco">@duarte_vasco</a> <a href="https://twitter.com/paulklipp">@paulklipp</a> true, but only chasing waste is too simple :) &quot;Value trumps flow, flow trumps waste reduction&quot; <a href="https://twitter.com/DReinertsen">@DReinertsen</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/596933996849795072">May 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -78,6 +79,7 @@ I find waste not that interesting to talk about. On it's own the tool is too blu
 Mindlessly go for what I started with "ALL WASTE MUST DIE" will not lead us to a good place. I think.
 
 I'll let Paul Klipp finish:
+
 <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/tastapod">@tastapod</a> I said they&#39;re waste, not that they&#39;re bad. <a href="https://twitter.com/marcusoftnet">@marcusoftnet</a> <a href="https://twitter.com/DReinertsen">@dreinertsen</a> <a href="https://twitter.com/duarte_vasco">@duarte_vasco</a></p>&mdash; Paul Klipp (@paulklipp) <a href="https://twitter.com/paulklipp/status/597045004465483776">May 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
