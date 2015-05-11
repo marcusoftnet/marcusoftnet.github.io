@@ -169,8 +169,21 @@ You don't have to read this part if you didn't start from my [code](https://gith
 
 At this point my example code breaks ALL over... This has to do with it being based on old versions of the packages I'm using. I went through <code>package.json</code> and set the version to <code>"*"</code>. For example: <code>"co": "*",</code>. 
 
-That's a bit dangerous but works for now for me. Another way is to remove all dependencies from the <code>package.json</code> and then reinstall them from the terminal. Make sure to use <code>--save/--save-dev</code> to store it in <code>package.json</code>
+That's a bit dangerous but works for now for me. 
 
+### UPDATE: Too stupid
+In fact, that is too dangerous. Let's fix it properly instead. Another way is to remove all dependencies from the <code>package.json</code> and then reinstall them from the terminal. Make sure to use <code>--save/--save-dev</code> to store it in <code>package.json</code>. 
+
+I've updated my <code>package.json</code> in that manner now. Here's the the two command I ended up running:
+
+{% highlight bash%}
+npm install koa koa-route co-body co-monk monk --save
+npm install mocha co should supertest --save-dev
+{% endhighlight %}
+
+And now my <code>package.json</code> better represent the state I was actually running in at the time. Thank you [Danny](http://stackoverflow.com/users/4804849/danny) for that push to be better!
+
+## Back to the detour
 Once that is done... all tests still fails. This time it has to do with <code>co</code> completely changing it's behavior to return a promise. Luckily all the failures are in the same function: <code>testHelpers.removeAll</code> and can be solved by just moving the call to <code>done</code> inside the function, like this: 
 {% highlight javascript linenos %}
 module.exports.removeAll = function(done){
