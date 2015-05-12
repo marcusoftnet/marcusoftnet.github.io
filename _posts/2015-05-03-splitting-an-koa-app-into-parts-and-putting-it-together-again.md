@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "splitting an Koa app into parts and putting it together again"
+title: "Splitting a Koa app into parts and putting it together again"
 author: "Marcus Hammarberg"
 date: 2015-05-03 15:09:00
 tags:
