@@ -18,6 +18,10 @@
     text-align: right;
     font-style: italic;
 }
+.post-stats {
+    text-align: left;
+    font-style: italic;
+}
 
 figure {
     display: table;

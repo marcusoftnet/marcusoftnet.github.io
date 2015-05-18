@@ -27,12 +27,14 @@ layout: default
 
 <!-- Post Content -->
 <article class="hentry">
+    <div class="entry-title" style="display:none">{{ page.title }}</div>
+    <div class="entry-summary" style="display:none">{{ page.excerpt | strip_html }}</div>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                {% include post-tags.html %}
-            <div class="entry-title" style="display:none">{{ page.title }}</div>
-            <div class="entry-summary" style="display:none">{{ page.excerpt | strip_html }}</div>
+                <div class="col-lg-4">{% include post-stats-link.html %}</div>
+                <div class="col-lg-8">{% include post-tags.html %}</div>
+                
             </div>
         </div>
         <div class="row">

@@ -1,0 +1,21 @@
+<div class="post-stats">
+  <i class="glyphicon glyphicon-stats"></i>
+  <script type="text/javascript">
+  	function statNav(rawUrl) {
+  	 	var url = replaceAll(rawUrl, ':', '%3A');
+  	 	url = replaceAll(url, '/', '%2F');
+  		url = 'https://page-logger.herokuapp.com/url/' + url;
+
+  		window.open(url, '_blank');
+  	};
+
+  	function escapeRegExp(string) {
+  	    return string.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
+  	}
+
+  	function replaceAll(string, find, replace) {
+  		return string.replace(new RegExp(escapeRegExp(find), 'g'), replace);
+	}
+  </script>
+  <a href="#" onclick="statNav('{{site.url}}{{page.url}}');return false;">Stats</a>
+</div>
