@@ -40,7 +40,12 @@
                             </span>
                         </a>
                     </li>
-
+                </ul>
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="https://twitter.com/{{ site.twitter_username }}" class="twitter-follow-button">Follow @{{ site.twitter_username }}</a>
+                        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                    </li>
                 </ul>
                 <p class="copyright text-muted"><a href="{{ site.url}}">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</a></p>
             </div>
@@ -81,16 +86,7 @@
 
 </script>
 <!-- page-logger call -->
+<script src="https://page-logger.herokuapp.com/client.js"></script>
 <script type="text/javascript">
-     var pageViewData = {
-        title  : document.title,
-        url    : document.location.origin + document.location.pathname
-    };
-
-    console.log("Logging page view:");
-    console.log(pageViewData);
-
-    $.post("https://page-logger.herokuapp.com/api/pageview", pageViewData, function() {
-        console.log(pageViewData.title + " logged - no errors");
-    });
+    logPageView();
 </script>
