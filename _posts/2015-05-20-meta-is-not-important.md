@@ -67,3 +67,5 @@ That is not meta. That is important. From that stems all innovation, all new ide
 
 # Conclusion
 Just because something is meta doesn't mean that it's not important. It's just not most important. By definition. That's why it's called meta. 
+
+Now - what is meta and what is not... Well ... you'll figure it out. Right? Tell me when you do. Please
