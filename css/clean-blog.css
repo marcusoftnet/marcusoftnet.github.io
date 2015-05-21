@@ -25,6 +25,7 @@ h6 {
 }
 a {
   color: #404040;
+  text-decoration: underline;
 }
 a:hover,
 a:focus {
