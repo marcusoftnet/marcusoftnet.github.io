@@ -24,7 +24,9 @@ I thought I'd write a simple little kata in Node to fresh up my CoffeeScript-fu.
 Well... there's quite a lot of setup and idiosyncrasies that you need to be aware of. This post tries to summary what I learned as I got my environment up and running. Specifically; initialization, run tests, write code and run my app.
 
 <a name='more'></a>
+
 # Initialize project and more
+
 Initalization of the project is straight forward for any Node developer, especially if you [rely](http://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](http://www.marcusoft.net/2014/02/mnb-packagejson.html).
 
 Start by doing:
@@ -239,3 +241,6 @@ You'll find my [code here](http://github.com/marcusoftnet/FirstCoffeeDemo)
 I'm by no means an expert. Consider this an experience report from me, an average JavaScript developer trying out CoffeeScript.
 
 And please tell me if there are better ways.
+
+**UPDATE** 
+There are [check out my follow up post](http://www.marcusoft.net/2015/03/coffeescript---what-ive-should-have-done.html)
