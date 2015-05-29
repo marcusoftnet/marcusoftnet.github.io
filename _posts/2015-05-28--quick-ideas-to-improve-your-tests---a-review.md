@@ -10,7 +10,7 @@ tags:
  - Tools
 ---
 
-They've done [it again](/2014/12/-quick-ideas-on-user-stories.html). [Gojko Adzic](http://gojko.net), David Evans and, in this book, Tom Roden has written another 50 quick ideas book. And this one is equally good as the previous book on user stories. If not even better. 
+They've done [it again](/2014/12/-quick-ideas-on-user-stories.html). [Gojko Adzic](http://gojko.net), [David Evans](https://twitter.com/davidevans66) and, in this book, [Tom Roden](https://twitter.com/TommRoden) has written another 50 quick ideas book. And this one is equally good as the previous book on user stories. If not even better. 
 
 From the [looks of it](http://www.50quickideas.com/) there's a whole concept around these quick ideas and, fingers crossed, we can expect much more goodness like this. 
 
@@ -49,7 +49,7 @@ Instead I would suggest that you browse this book for overview and knowledge and
 
 I could not recommend the book more. Any serious agile tester should have this handy and get inspiration to move even further. 
 
-Thank you [Neuri "Publishing"](http://www.neuri.com) - looking forward to the next book. On retrospectives. 
+Thank you [Neuri "Publishing"](http://neuri.co.uk/) - looking forward to the next book. On retrospectives. 
 
 PS
 Where you the guys behind the 50 Shades of Grey book too?
