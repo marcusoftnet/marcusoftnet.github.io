@@ -13,7 +13,7 @@ I'm at the airport waiting to go back to Indonesia after great [Yow West 2015](h
 
 I just realize that there's like an "agile culture" that I've now seen all over the world. I met a lot of people that I've never seen or interacted with but still, since we have read, thought about and worked around the same things the connection was immediate and I felt right at home directly. 
 
-The agile community in Australia is really vibrant and filled with awesome people championing conferences like [YOW](http://yowconference.com.au) and [Agile Australia](http://www.agileaustralia.com.au). Standing a big risk of forgetting someone I had such a great time meeting [Dave ThomasC](http://twitter.com/daveathomas), [Craig Smith](http://twitter.com/smithcdau) and [Nigel Dalton](http://twitter.com/nxdnz) that was running the conference in Perth. 
+The agile community in Australia is really vibrant and filled with awesome people championing conferences like [YOW](http://yowconference.com.au) and [Agile Australia](http://www.agileaustralia.com.au). Standing a big risk of forgetting someone I had such a great time meeting [Dave Thomas](http://twitter.com/daveathomas), [Craig Smith](http://twitter.com/smithcdau) and [Nigel Dalton](http://twitter.com/nxdnz) that was running the conference in Perth. 
 
 <a name='more'></a>
 
