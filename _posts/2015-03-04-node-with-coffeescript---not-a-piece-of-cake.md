@@ -244,3 +244,5 @@ And please tell me if there are better ways.
 
 **UPDATE** 
 There are! [Check out my follow up post](http://www.marcusoft.net/2015/03/coffeescript---what-ive-should-have-done.html)
+
+{% include adsense.html %}
