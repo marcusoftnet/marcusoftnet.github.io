@@ -2,7 +2,7 @@
 layout: post
 title: "New PluralSight Course: io.js or is it"
 author: "Marcus Hammarberg"
-date: 2015-05-25 11:11:24
+date: 2015-06-05 07:16:00
 tags:
  - JavaScript
  - io.js
@@ -11,11 +11,14 @@ tags:
 
 For the last couple of months I have used [io.js](http://iojs.org) to run all my Node applications. I'm not going back. The transition has been very smooth, with a few minor things that you need to think about. And as always; I improved my existing skills by just moving outside the comfort zone a little bit. 
 
-I thought that my journey could be an interesting [PluralSight](http://www.pluralsight.com) course. So did them. 
+I thought that my journey could be an interesting [PluralSight](http://www.pluralsight.com) course. So did they. 
 
 I'm happy to release this as my second course on PluralSight, [Koa Js](http://www.pluralsight.com/courses/javascript-koa-introduction) being the first.
 
-A very interesting challenge presented itself at the end of the production as well. Tell you later
+Here's the [link to the course](http://www.pluralsight.com/courses/running-node-applications-io-js)
+
+A very interesting challenge presented itself at the end of the production as well. Tell you soon.
+
 <a name='more'></a>
 
 The course is in three parts (and a summary):
@@ -35,7 +38,7 @@ Basically io.js will go away, so will Node and "new node" will replace it. Now t
 
 So the threat to the relevance of my course is not that big. In fact it's an opportunity. It only woke up on the wrong side of bed that morning, so it was a little bit hard to see it as a opportunity at first. 
 
-It's is an opportunity because the things thought in the course will be the foundation for how "new node" will work. 
+It's is an opportunity because the things thought in the course will be the foundation for how "new node" will work. Basically - if you know io.js you know "new node".
 
 The course is [published here](http://www.pluralsight.com/courses/running-node-applications-io-js). 
 
