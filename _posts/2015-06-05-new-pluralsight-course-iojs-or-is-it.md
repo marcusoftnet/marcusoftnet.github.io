@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New PluralSight Course: io.js or is it"
+title: "New PluralSight Course: io.js ... (or is it?)"
 author: "Marcus Hammarberg"
 date: 2015-06-05 07:16:00
 tags:
