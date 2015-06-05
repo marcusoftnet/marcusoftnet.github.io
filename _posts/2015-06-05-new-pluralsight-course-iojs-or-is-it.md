@@ -28,7 +28,7 @@ The course is in three parts (and a summary):
 * Deploying to [Heroku](http://www.heroku.com) - in this module I show how to convert an existing application and then what you need to think about to make sure that your configuration is correct. This module serves a little bit as repetition of the second part. 
 
 # The twist
-I was done. All the material was handed into PluralSight and I was just waiting for the launch. And then ]this happened](https://medium.com/node-js-javascript/io-js-week-of-may-15th-9ada45bd8a28).
+I was done. All the material was handed into PluralSight and I was just waiting for the launch. And then [this happened](https://medium.com/node-js-javascript/io-js-week-of-may-15th-9ada45bd8a28).
 
 <blockquote>io.js decides to join the Node Foundation.</blockquote>
 
