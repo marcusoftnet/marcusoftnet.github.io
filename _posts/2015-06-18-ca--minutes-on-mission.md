@@ -26,7 +26,7 @@ Here's all the post in the series:
 
 * [ca 10 minutes on Mission statements](/2015/06/ca--minutes-on-mission.html) (this post)
 * [ca 10 minutes on Vision statements](/2015/06/ca--minutes-on-vision-statements.html)
-* ca 15 minutes on Strategic plans
+* [ca 15 minutes on Strategic plans](/2015/06/ca--minutes-on-vision-statements.html)
 * ca 15 minutes on Impact mapping
 * ca 15 minutes on kanban
 * ca 15 minutes on root cause analysis
