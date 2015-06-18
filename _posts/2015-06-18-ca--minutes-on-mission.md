@@ -12,32 +12,24 @@ tags:
  - Salvation Army
 ---
 
-Where I currently work there's been a problem with budgets for traveling. And another with authority. Which basically mean that the people that I'm here to try to help will not get my help; there's no money to travel there and I have no authority, which is basically a deal-breaker in Indonesia. 
-
-What to do? Well, since [I grow bored very fast without anything to do](http://www.marcusoft.net/2015/01/i-run-on-feedback.html) I tried to find a way. 
-
-I started a series of presentations about the topic I wanted to talk with "my clients" about, recorded them and uploaded to YouTube. I even made [extra effort to do great subtitles](http://www.marcusoft.net/2015/06/how-to-add-and-translate-captions-for-your-youtube-video-in--minutes.html), in two languages, just to increase the chance that they will understand me.  
-
-Before anyone tells me; yes - I know that this is maybe the worst possible way of making sure that you get an important message across to someone that needs it. But it's what I can do now.
-
-I will do a little series of posts here, where I share these presentations with you. I hope you find them interesting and entertaining. That was my goal anyway. 
-
-Here's all the post in the series:
-
-* [ca 10 minutes on Mission statements](/2015/06/ca--minutes-on-mission.html) (this post)
-* [ca 10 minutes on Vision statements](/2015/06/ca--minutes-on-vision-statements.html)
-* [ca 15 minutes on Strategic plans](/2015/06/ca--minutes-on-vision-statements.html)
-* ca 15 minutes on Impact mapping
-* ca 15 minutes on kanban
-* ca 15 minutes on root cause analysis
-* ca 10 minutes on effective meetings
-
-<a name='more'></a>
 
 My main task here in Indonesia is to help our hospital to work out good strategic plans. It's a very interesting task since long-term strategies seems to not be very prominent in the Indonesia culture. 
 
 There's also a translation issue about the word itself, Misi (mission), apparently have a different meaning for Indonesians that I use it. In this presentation I clarify how I use the word: as the reason for an organization to exists - our purpose. 
 
+Here's all the post in the series (the links will work as I post them):
+
+* [ca 10 minutes on Mission statements](/2015/06/ca--minutes-on-mission.html) (this post)
+* [ca 10 minutes on Vision statements](/2015/06/ca--minutes-on-vision-statements.html)
+* [ca 15 minutes on Strategic plans](/2015/06/ca--minutes-on-vision-statements.html)
+* [ca 15 minutes on Impact mapping](/2015/06/ca--minutes-on-impact-mapping.html)
+* ca 15 minutes on kanban
+* ca 15 minutes on root cause analysis
+* ca 10 minutes on effective meetings
+
+Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
+
+<a name='more'></a>
 In the presentation I go through a couple of examples and take a look at the good and bad parts of them. 
 
 There's also a short segment about values, which [I have blogged about before](http://www.marcusoft.net/2014/09/values.html).

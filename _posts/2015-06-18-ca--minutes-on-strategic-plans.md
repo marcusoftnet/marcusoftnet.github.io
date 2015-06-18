@@ -16,12 +16,12 @@ This is the third presentation I've done on mission, vision and strategic plans 
 
 A strategic plan outlines our ideas, suggestions and plans for taking us from where we are today to ... closer to the vision. 
 
-Here's all the post in the series:
+Here's all the post in the series (the links will work as I post them):
 
 * [ca 10 minutes on Mission statements](/2015/06/ca--minutes-on-mission.html)
 * [ca 10 minutes on Vision statements](/2015/06/ca--minutes-on-vision-statements.html) 
 * [ca 15 minutes on Strategic plans](/2015/06/ca--minutes-on-vision-statements.html) (this post)
-* ca 15 minutes on Impact mapping
+* [ca 15 minutes on Impact mapping](/2015/06/ca--minutes-on-impact-mapping.html)
 * ca 15 minutes on kanban
 * ca 15 minutes on root cause analysis
 * ca 10 minutes on effective meetings
