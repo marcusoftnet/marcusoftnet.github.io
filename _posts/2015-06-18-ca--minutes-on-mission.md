@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ca 10 minutes on Mission"
+title: "ca 10 minutes on Mission statements"
 author: "Marcus Hammarberg"
 date: 2015-06-18 10:20:52
 tags:
@@ -24,8 +24,8 @@ I will do a little series of posts here, where I share these presentations with 
 
 Here's all the post in the series:
 
-* ca 10 minutes on Mission statements (this post)
-* ca 10 minutes on Vision statements
+* [ca 10 minutes on Mission statements](/2015/06/ca--minutes-on-mission.html) (this post)
+* [ca 10 minutes on Vision statements](/2015/06/ca--minutes-on-vision-statements.html)
 * ca 15 minutes on Strategic plans
 * ca 15 minutes on Impact mapping
 * ca 15 minutes on kanban
@@ -48,6 +48,4 @@ You can see the presentation here, with EXCELLENT subtitles :):
 And find my slides here:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uicMrPHEsxnd83" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/10-minutes-on-mission" title="10 minutes on mission" target="_blank">10 minutes on mission</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 
-
-
-
+I hope you like it - love your feedback!
