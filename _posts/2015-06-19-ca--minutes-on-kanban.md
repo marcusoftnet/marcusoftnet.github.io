@@ -44,7 +44,7 @@ When that is done we talk about how to use work in process limits which brings u
 Just as I finished the presentation I realized that I wanted a little something about daily standups in there. I probably will do a small addition.  
 
 You can see the presentation here: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xueGOzhKfhs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rW2t19kPN0" frameborder="0" allowfullscreen></iframe>
 
 And find my slides here: 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/vBHi47Dxfj3Rmt" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/ca-15-minutes-on-kanban" title="ca 15 minutes on kanban" target="_blank">ca 15 minutes on kanban</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
