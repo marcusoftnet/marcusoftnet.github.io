@@ -43,6 +43,9 @@ layout: default
 				{{ content }}
 
                 <hr>
+                
+                {% include relatedPosts.html %}
+                
 
                 <ul class="pager">
                     {% if page.previous.url %}
@@ -87,5 +90,4 @@ layout: default
         </div>
     </div>
 </article>
-
 <hr>
