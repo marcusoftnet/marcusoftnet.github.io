@@ -150,7 +150,8 @@ Basically it tries to say: "I don't know what you mean 'yield'" but it cannot ex
 <code>yield</code> can only be used in a generator function. A generator function is denoted with an asterisk and has to be called by some one that asks for the <code>.next</code> value it returns. <code>mocha</code> doesn't do that. You can try by adding an asterisk at <code>.end(function *(){</code> but it will just hang the test. 
 
 This is where [co](https://github.com/tj/co) can help us. co is a little tool that simply brings: 
-<blockquote cite="https://github.com/tj/co">Generator based control flow goodness for nodejs and the browser, using promises, letting you write non-blocking code in a nice-ish way</blockquote>
+
+<blockquote>Generator based control flow goodness for nodejs and the browser, using promises, letting you write non-blocking code in a nice-ish way</blockquote>
 
 Yes, exactly. I don't get that either. Still. But I think I can use it. Because basically it means that you can wrap a generator function with <code>co</code> and then execute the co function as a *normal* function. 
 
@@ -244,7 +245,8 @@ But I'll spare you this. It was horrible. I don't ever want to go back.
 # Promises, promises, promises
 
 Remember that <code>co</code> returns a Promise? 
-<blockquote cite="https://github.com/tj/co#co-v4">... Now, co() returns a promise.</blockquote>
+
+<blockquote>... Now, co() returns a promise.</blockquote>
 
 We can use that to our advantage, but let's think for a short while. A Promise is basically saying "This will return... I promise... but not just yet." That's great in many many case and the killer feature of Node to start with, although implemented in Callbacks. Brrr... This is allows for asynchronous behavior and freeing up the main thread and all of that stuff that was what made us all love Node from the start. 
 
