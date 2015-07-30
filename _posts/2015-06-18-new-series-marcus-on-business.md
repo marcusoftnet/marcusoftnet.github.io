@@ -32,7 +32,7 @@ Here's all the post in the series (the links will work as I post them):
 * [ca 15 minutes on Strategic plans](/2015/06/ca--minutes-on-strategic-plans.html)
 * [ca 15 minutes on Impact mapping](/2015/06/ca--minutes-on-impact-mapping.html)
 * [ca 15 minutes on kanban](/2015/06/ca--minutes-on-kanban.html)
-* ca 15 minutes on root cause analysis
+* [ca 10 minutes on root cause analysis](/2015/07/ca--minutes-on-root-cause-analysis.html)
 * ca 10 minutes on effective meetings
 
 <a name='more'></a>
