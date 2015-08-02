@@ -43,7 +43,9 @@ After that there's a short discussion on what makes Root Cause Analysis work. To
 Here's a [good article](https://www.crisp.se/file-uploads/cause-effect-diagrams.pdf), should you want even more to read. 
 
 You can see the presentation here: 
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rv9MO90-OyU" frameborder="0" allowfullscreen></iframe>
 
 And find my slides here: 
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uRQWhsyuKLOdYw" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/10-minutes-on-root-cause-analysis" title="10 minutes on root cause analysis" target="_blank">10 minutes on root cause analysis</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
