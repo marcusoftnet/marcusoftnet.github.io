@@ -33,7 +33,7 @@ Here's all the post in the series (the links will work as I post them):
 * [ca 15 minutes on Impact mapping](/2015/06/ca--minutes-on-impact-mapping.html)
 * [ca 15 minutes on kanban](/2015/06/ca--minutes-on-kanban.html)
 * [ca 10 minutes on root cause analysis](/2015/07/ca--minutes-on-root-cause-analysis.html)
-* ca 10 minutes on effective meetings
+* [ca 10 minutes on effective meetings](/2015/08/ca--minutes-on-effective-meetings.html)
 
 <a name='more'></a>
 
@@ -44,8 +44,8 @@ The idea is that this series of presentations should make sense going through fr
 1. Having a vision is great but having a plan, or [strategy](/2015/06/ca--minutes-on-strategic-plans.html) to get there is of course better. This is what the third presentation is about. 
 1. The presentation on strategy leaves you little bit wondering where to go next, that's where [impact mapping](/2015/06/ca--minutes-on-impact-mapping.html) comes handy. This is one of the best tools I've seen on how to get real and flexible with our plans, on a strategic level
 1. When it comes to executing anything [kanban](/2015/06/ca--minutes-on-kanban.html) is of course great. Not only as a razor sharp tool for keeping our focus but also as an improvement tool for any process
-1. Kanban is great since it shows us our problems. But knowing what to do with them is a harder question, or why they are important to fix in the first place. [Root cause analysis]() is a great way to find the answer to both those questions
-1. I hate meetings. Because most of them are bad. But they are inevitable in most companies. In the final installation of this series I give some suggestions on how to run [effective meetings]().
+1. Kanban is great since it shows us our problems. But knowing what to do with them is a harder question, or why they are important to fix in the first place. [Root cause analysis](/2015/07/ca--minutes-on-root-cause-analysis.html) is a great way to find the answer to both those questions
+1. I hate meetings. Because most of them are bad. But they are inevitable in most companies. In the final installation of this series I give some suggestions on how to run [effective meetings](/2015/08/ca--minutes-on-effective-meetings.html).
 
 I hope you find them interesting and entertaining. That was my goal anyway. 
 

@@ -26,7 +26,7 @@ Here's all the post in the series (the links will work as I post them):
 * [ca 15 minutes on Impact mapping](/2015/06/ca--minutes-on-impact-mapping.html)
 * [ca 15 minutes on kanban](/2015/06/ca--minutes-on-kanban.html)
 * [ca 10 minutes on root cause analysis](/2015/07/ca--minutes-on-root-cause-analysis.html) (this post)
-* ca 10 minutes on effective meetings
+* [ca 10 minutes on effective meetings](/2015/08/ca--minutes-on-effective-meetings.html)
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
