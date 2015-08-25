@@ -45,13 +45,17 @@ Let's do both just for the fun of it. Here's my <code>package.json</code> update
 },
 
 "scripts": {
-	"compile:coffee" : "./node_modules/coffee-script/bin/coffee --compile --output ./lib ./src/coffeescripts",
+	"compile:coffee" : "coffee --compile --output ./lib ./src/coffeescripts",
 	"compile": "npm run compile:coffee"
 }
 {% endhighlight %}
 
 <blockquote>
 Note that I don't require this to be installed globally on the users computer. Including these tools as a <code>devDependecies</code> will make sure that I can use them. 
+</blockquote>
+
+<blockquote>
+	Also note the nice comment from BeBraw below that told me how to clean up my steps.
 </blockquote>
 
 There's two scripts that is interesting so far <code>compile:coffee</code> and <code>compile</code>. In the <code>compile:coffee</code> script I just compiles the coffee-script to the <code>lib</code>-folder. 
@@ -68,8 +72,8 @@ Speaking of let's add some TypeScript compilation too.
 },
 
 "scripts": {
-	"compile:coffee" : "./node_modules/coffee-script/bin/coffee --compile --output ./lib ./src/coffeescripts",
-	"compile:ts"     : "./node_modules/typescript/bin/tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
+	"compile:coffee" : "coffee --compile --output ./lib ./src/coffeescripts",
+	"compile:ts"     : "tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
 
 	"compile": "npm run compile:coffee && npm run compile:ts"
 },
@@ -130,8 +134,8 @@ Here's the full <code>scripts</code>-node.
     "pretest"         : "npm run clean && npm run compile",
     "test"            : "mocha test -u bdd -R dot",
     
-    "compile:coffee"  : "./node_modules/coffee-script/bin/coffee --compile --output ./lib ./src/coffeescripts",
-    "compile:ts"      : "./node_modules/typescript/bin/tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
+    "compile:coffee"  : "coffee --compile --output ./lib ./src/coffeescripts",
+    "compile:ts"      : "tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
     
     "compile"         : "npm run compile:coffee && npm run compile:ts",
     "clean"           : "rm -rf lib/*"
@@ -265,8 +269,8 @@ Here's my first stab of a complete deploy script, I'll start with the <code>depl
 	"clean"           : "rm -rf lib/*",
 
 	"compile"         : "npm run compile:coffee && npm run compile:ts",
-	"compile:coffee"  : "./node_modules/coffee-script/bin/coffee --compile --output ./lib ./src/coffeescripts",
-	"compile:ts"      : "./node_modules/typescript/bin/tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
+	"compile:coffee"  : "coffee --compile --output ./lib ./src/coffeescripts",
+	"compile:ts"      : "tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
 
 	"pretest"         : "npm run clean && npm run compile",
 	"test"            : "mocha test -u bdd -R dot",
