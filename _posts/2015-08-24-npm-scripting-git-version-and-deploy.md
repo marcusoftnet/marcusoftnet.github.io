@@ -55,7 +55,7 @@ Note that I don't require this to be installed globally on the users computer. I
 </blockquote>
 
 <blockquote>
-	Also note the nice comment from BeBraw below that told me how to clean up my steps.
+	Also note the nice comment from Juho Vepsäläinen below that told me how to clean up my scripts from paths to the ./node_modules/ directory
 </blockquote>
 
 There's two scripts that is interesting so far <code>compile:coffee</code> and <code>compile</code>. In the <code>compile:coffee</code> script I just compiles the coffee-script to the <code>lib</code>-folder. 
