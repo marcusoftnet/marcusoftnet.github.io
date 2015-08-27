@@ -43,9 +43,11 @@ Thanks a bunch for that help and blog post Dan!
 One of the things that I kept repeating during the days was to use the word "experiment" rather than "change". 
 
 This is a really good general change management tip, by the way. This is how I feel around the difference in the words:
+
 <blockquote>
 Change is scary. It's big and permanent. You need to change. We need to change. This is not good - please change it. One team even said it out loud: "We and people around us are a little bit afraid to change"
 </blockquote>
+
 <blockquote>Experiment is lightweight. It's just something we try out. Maybe it works or may it will not. Either way we will learn. Experiments have a natural short life feeling to it. We don't need to fear an experiment. 
 </blockquote>
 
@@ -56,6 +58,7 @@ Another great thing about experiment is that it's very natural to have a measure
 Finally I like experiments as an approach because it's more natural to start where you are and do small steps towards a better future. What future? We don't know but it will be better. Our small experiments will guide us there. 
 
 Someone tweeted one of the ways I tried to sum this up:
+
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">&quot;Stop changing and start experimenting&quot; - last day with <a href="https://twitter.com/marcusoftnet">@marcusoftnet</a> <a href="https://twitter.com/nintexlabs">@nintexlabs</a> <a href="http://t.co/qU8vuoEI9X">pic.twitter.com/qU8vuoEI9X</a></p>&mdash; Tang Tze Chin (@TzeTang) <a href="https://twitter.com/TzeTang/status/593304137825030144">April 29, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
