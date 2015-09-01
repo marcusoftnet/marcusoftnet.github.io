@@ -13,7 +13,7 @@ A couple of days ago I offered my services to one of the hospital directors here
 
 Now, this particular director is a really smart one and the response was quick, to the point and a real head twister for me: 
 
-<blockquote>Thanks for that offer! What is it you can do for us then?</blockquote>
+<blockquote>Thanks for that offer! What is you can help us with, then?</blockquote>
 
 I was a stumped! What do I do? Why would anyone want that? Who am I to think that I can help them? I'm an IT guy, no formal training, no formal authority here. Why should they want me? 
 
@@ -33,15 +33,15 @@ I think that people that are negative towards coaching often are being coached *
 
 This is especially true with coaching I think; People don't dislike coaching - they dislike being coached without asked. 
 
-Guilty: 1 Marcus. Many many times. I've had jobs that was only that; 
+Guilty: 1 Marcus. 
 
-<blockquote>"Go to those teams and coach them." 
+Many many times. I've had jobs that was only that; 
 
-"But they say they have no problems"
-
-"You: coach! They: better. Ok - any questions?"
-
-"No sir, important person who pays my fee SIR!"
+<blockquote>
+	"Go to those teams and coach them." 
+	<p>"But they say they have no problems"</p>
+	<p>"You: do coaching! Them: better. Any questions?"</p>
+	<p>"No sir, important person who pays my fee SIR!"</p>
 </blockquote>
 
 I will never do that again. Promise. Scouts honor.
@@ -76,3 +76,19 @@ If all three answers are Yes - then I promise you that we will succeed together.
 If all answers are No - then I thank you for you time and wish you success in your future endeavor. We will not be happy together.
 
 If you answer No to anyone of those - then we could do this but I will probably not be to any great assistance to you. The chances of our work being fruitful or worthwhile are definitely lower too. But I'm happy to give it a chance - most times I've been engaged as a coach not all three of these has been answered Yes. Some of those times have been great, some have been "Meh...".
+
+# Summary
+When I got the original question ("What is it that you can help us with, then?") I wanted to come up with an answer like the one Mr Wolf pulls in Pulp Fiction: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NP4lrVIpbvo" frameborder="0" allowfullscreen></iframe>
+
+Actually; he's not too bad. He presents himself and tells what he does ("I solve problem."). The person on the inside of the door answers "Good. We got one". He opens up for help, realising that he needs to improve from the current state (dead body in a car in this garage). Mr Wolf then asks for permission to help out ("May I come in"). 
+
+He's a little bit too frank and cocky - not really my style. I'd rather try something like 
+
+<blockquote>
+	"What is it that you can help us with, then?"
+	<p>"I'm mr Marcus - I help people that wants to improve to do so. Do you need My help?"</p>
+</blockquote>
+
+Now I'm going to buy a book on coaching. I think I need to improve.
