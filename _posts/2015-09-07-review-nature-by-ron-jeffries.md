@@ -14,7 +14,7 @@ Got a recommendation to read [Nature by Ron Jeffries](https://pragprog.com/book/
 
 My short review is quite simply;
 
-"This book made me think. It left me with more questions than I had going in. But better more concrete answers. Also it's sprinkled with challenges and gentle provocations of the current state of mind and process. 
+"This book made me think. It left me with more questions than I had going in. But better more concrete questions. Seeking simple(r) answers. Also it's sprinkled with challenges and gentle provocations of the current state of mind and process. 
 
 The underlying principle 'Simplify it' is something that resonate very deeply with me. I recommend anyone doing, struggling to do or thinking about doing this thing we call 'agile' to read this book. 
 
@@ -46,7 +46,7 @@ I could write comment, praise and thoughts that popped into my head, about almos
 
 Instead I'll wrap this review up with one of those thoughts.
 
-# Scaling agile
+# An example: scaling agile
 At the end of the book Mr Jeffries gives some thoughts on scaling agile. He's basic argument is that if we can get a single team to "do agile properly" then scaling might not be needed (for that one product). One team, work in a fluent agile way, would probably be enough.   
 
 I tend to agree with that thought, but in many organizations I've been working in there's a structure in place already, not around product but rather around specialties and ... "how we used to do". 
