@@ -26,11 +26,11 @@ Thank you for a great read!"
 
 I've been following [Ron Jeffries](https://twitter.com/ronjeffries) (not only on twitter, but that's a good start) for a long time, not only on twitter. The first thing I read from him was actually a take on the [bowling ball kata](http://ronjeffries.com/xprog/articles/miningbowling/). I'm happy I did follow him although it can be quite challenging from time to time. He has a way of putting things that is challenging and sometimes provoking. 
 
-This book is not exactly like luckily (I think that would have been tiring), as he writes: 
+This book is not exactly like luckily, I think that would have been tiring. But as he writes: 
 
 <blockquote>[This is] not a book of recipes. It's not about one way to do something. That's not our purpose here. We're here to think about how things work, to ready ourselves for whatever may happen. There are many ways to accomplish what you need. I trust you to find ways, think of ways, and select among them.</blockquote>
 
-This books always brings our minds back to simple things. Simple as in "not complex", but maybe very hard. Here's a few highlights; 
+This books always brings our minds back to simple things. Simple as in "not complex", but maybe very hard to do or get done. Here's a few highlights; 
 
 * Show coded, tested, deployed, finished, valuable software features at end of short iterations
 * Build feature by feature rather than in phases
@@ -65,10 +65,15 @@ So what is "fluent agile" then? According to Mr Jeffries (and I agree 100% to al
 	* Deliver working software often (every other week at tops)
 	* Progress is measure in working software
 	* Continuously works of technical debt to be able to move faster
-	* and read the rest of the [principles](http://agilemanifesto.org/principles.html)
+	* and more great stuff
+	* that you can 
+	* read in the [principles](http://agilemanifesto.org/principles.html)
+	* of the [agile manifesto](http://agilemanifesto.org/)
 * Can keep a consistent pace and quality sustainable over a period of time
 
 Well... if we can get one team to do that then the next team will be **easy**. We have changed **a lot** about how you work in order to get that to work. Or we have not done it properly. 
+
+But that is also showing the intent and principle of agile in general and this book specifically; get something simple to work first and then do the next simple thing until all the simple things makes up what you need. Maybe what you needed was not complex after all. 
 
 # Summary
 
