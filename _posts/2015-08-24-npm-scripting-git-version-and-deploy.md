@@ -123,7 +123,12 @@ describe("Test placeholder", function () {
 
 This means that we now create a <code>test</code> and a suitable <code>pretest</code> task that runs the compilation before the testing, as we learned about in the [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html). 
 
-Just to make sure that everything is safe, let's clear out the <code>lib</code>-folder, with a <code>clean</code> task
+Just to make sure that everything is safe, let's clear out the <code>lib</code>-folder, with a <code>clean</code> task. 
+
+*[UPDATED]*
+Got a nice tip from [maxdow](https://disqus.com/by/maxdow/) about using [rimraf](https://www.npmjs.com/package/rimraf) to clean the folder out. It's a normal Node package and in doing so we can ensure that this runs on any platform, nothing "Linux" or "Windows" specific in the scripts. 
+
+Install rimraf with <code>npm install rimraf --save-dev</code>
 
 Here's the full <code>scripts</code>-node.
 
@@ -138,7 +143,7 @@ Here's the full <code>scripts</code>-node.
     "compile:ts"      : "tsc --outDir ./lib --module commonjs ./src/typescripts/tsCode.ts",
     
     "compile"         : "npm run compile:coffee && npm run compile:ts",
-    "clean"           : "rm -rf lib/*"
+    "clean"           : "rimraf lib/*"
 }
 {% endhighlight %}
 
@@ -266,7 +271,7 @@ Here's my first stab of a complete deploy script, I'll start with the <code>depl
   "scripts": {
 	"deploy:prod"     : "npm run test && npm run version:patch && npm run push && npm run launch",  
 
-	"clean"           : "rm -rf lib/*",
+	"clean"           : "rimraf lib/*",
 
 	"compile"         : "npm run compile:coffee && npm run compile:ts",
 	"compile:coffee"  : "coffee --compile --output ./lib ./src/coffeescripts",
