@@ -107,5 +107,4 @@ Parsed, for non-techies that will become
     DO SOMETHING SMALL USEFUL NOW!
 </blockquote>
 
-Yeah, the order of those is significant. 
-
+By the way, you can read my ["personal kanban board"](https://dl.dropboxusercontent.com/u/2408484/personalkanban.md) if you like. It's just a list of things. And some WIP limits. Ah, basically I "knew exactly what to do: I made a list of the things I need to do, and then I'm doing one of them at the time"
