@@ -48,6 +48,3 @@ People. The people that I met, talked and interacted to what was made the confer
 But that would not have happened without great organization and facilitation. 
 
 Very happy to have attended YOW West!
-
-
-(Go faster. Smaller, independent units makes for new challenges and old problems goes away. How to move fast securely? “Agile”? I don’t really care what you call it
