@@ -121,7 +121,7 @@ It should start up after a little while (5 min for my Indonesian connection... 1
 For subsequent launches this takes about 3 seconds. Even on Indonesian Internet connections, because it's all local. 
 
 <img src="/img/runningInQemu.png" style="float:left;padding:15px" width="50%">
-First head to a browser and direct it to [http://localhost:9000](http://localhost:9000). You should see a greeting phrase. Reload it and it will randomize over the ones in the ```phrases.txt```. Fun fun fun!
+First head to a browser and direct it to [http://localhost:9000](http://localhost:9000). And you should see our beautiful site. Running in a container!
 
 Now, check your windows. If you look carefully you should see a QEMU emulator running. That's you operating system and your applications little cozy environment. Just for your application. Just enough. 
 
