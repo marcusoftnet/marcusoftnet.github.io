@@ -30,23 +30,17 @@ I've created a very basic, but not trivial Koa application (using ```npm init```
 
 {% highlight javascript %}
 var koa = require('koa');
-var fs = require('co-fs');
 var app = koa();
 
 app.use(function *(){
-    var phrases = yield fs.readFile('phrases.txt', 'utf8');
-
-    var phrasesArray = phrases.split('\n');
-    var phrase = phrasesArray[Math.floor(Math.random() * phrasesArray.length)];
-
-    this.body = phrase + "!";
+    this.body = "Hello World from Koa... In a Unikernel container!";
 });
 
 app.listen(9000);
 console.log("The app is now listening - try it on http://localhost:9000");
 {% endhighlight %}
 
-It's just a little Hello world app that gets it's greetings phrases from a ```phrases.txt``` file, found in the same directory as the app. 
+It's just a little Hello world app, since that's where we all need to start, right? 
 
 # Depend on a OS
 Let's me introduce you to an operating system that I almost guarantee you have not heard about: [runtimejs](https://www.npmjs.com/package/runtimejs). It's a [language-specific unikernel operating system](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e). 
@@ -126,9 +120,9 @@ It should start up after a little while (5 min for my Indonesian connection... 1
 
 For subsequent launches this takes about 3 seconds. Even on Indonesian Internet connections, because it's all local. 
 
+<img src="/img/runningInQemu.png" style="float:left;padding:15px" width="50%">
 First head to a browser and direct it to [http://localhost:9000](http://localhost:9000). You should see a greeting phrase. Reload it and it will randomize over the ones in the ```phrases.txt```. Fun fun fun!
 
-<img src="/img/runningInQemu.png" alt="">
 Now, check your windows. If you look carefully you should see a QEMU emulator running. That's you operating system and your applications little cozy environment. Just for your application. Just enough. 
 
 Finally - shut the application down with ```CTRL-C``` as normal. Notice that QEMU is shutting down too. 
@@ -145,6 +139,7 @@ Me thinks... they are onto something here. I think we will see much more of stuf
 ## A couple of things
 - Right now you can only use port 9000. Because that is the default port that QEMU uses
 - I have not investigate where I can push this. But that should be any host for that allow me to run qemu, or that can host those images directly
+- I wanted to read a file from the file system to impress you all ... but that threw an error ```fs.readFileSync is not a function``` Seems like it's not supported yet in ```runtimejs```.
 - My code can be [found here](https://github.com/marcusoftnet/helloRuntimeJs)
 
 ## Read more
