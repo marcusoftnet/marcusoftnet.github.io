@@ -159,6 +159,11 @@ In order to run Node code we first need to compile it. And then run the compiled
 }
 {% endhighlight %}
 
+**UPDATED**
+If you haven't seen it before the ampersand ```&``` at the end of the first part of the command, is a UNIX way of starting a command in a separate process, in the background. 
+Also the ```;``` is separating two commands, running them in sequence; first the coffee-compilation-watcher and then the start-our-application command. You can also chain commands with ```&&``` but then the execution will stop if one of the command should fail. 
+Thank Ania for pointing that out to me. 
+
 Oh mama! That should probably go into a build file or something. But I'm keeping it here so that we can see it. Nothing too complicated though. Let's disect that a bit:
 
 * the first part (up to the ;-sign) compilies .coffee files into .js files and put them in the dist folder.
@@ -178,6 +183,11 @@ We can improve on this by using [Nodemon](http://nodemon.io/), that helps us to 
 {% endhighlight %}
 
 And the second part now starts Nodemon from our local node_modules-folder, not relying on that everyone that runs this code have Nodemon installed globally.
+
+**UPDATE**
+Again Ania pointed out (see comments) that you need a Nodemon ignore file (```nodemon.json```) with the following pattern
+
+    src/*.coffee
 
 Ok, let's run it: <code>npm start</code>. It works!
 
