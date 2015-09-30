@@ -311,3 +311,5 @@ Again; I picked up a lot of things from these 3 sources:
 * [Blog post](http://www.jayway.com/2014/03/28/running-scripts-with-npm/) from Anders Janmyr @ JayWay
 
 Thank you
+
+{% include adsense.html %}
