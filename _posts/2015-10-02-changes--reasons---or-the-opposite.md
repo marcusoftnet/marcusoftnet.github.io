@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes & reasons - or the opposite"
+title: "Changes - reasons or the opposite"
 author: "Marcus Hammarberg"
 date: 2015-10-02 10:34:28
 tags:
