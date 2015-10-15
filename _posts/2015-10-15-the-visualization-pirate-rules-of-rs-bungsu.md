@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The metric / visualization pirate rules of RS Bungsu"
+title: "The metric / visualization pirate 'rules'"
 author: "Marcus Hammarberg"
 date: 2015-10-15 08:19:07
 tags:
