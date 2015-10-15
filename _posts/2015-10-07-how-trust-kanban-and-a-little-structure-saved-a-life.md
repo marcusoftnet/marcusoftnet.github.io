@@ -8,7 +8,7 @@ tags:
  - Agile
  - Leadership
  - Indonesia
- - Life of a Consultant
+ - Life of a consultant
 ---
 
 I've seen many people change into something better over my years as a consultant. It's beautiful thing - but I've never experienced something like that I witnessed today. 

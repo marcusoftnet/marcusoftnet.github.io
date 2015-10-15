@@ -4,12 +4,12 @@ title: "ca 10 minutes on Root Cause Analysis"
 author: "Marcus Hammarberg"
 date: 2015-07-30 15:42:34
 tags:
- - Indoneisa
+ - Indonesia
  - Lean
  - Leadership
  - Life of a consultant
  - Salvation Army
- - Tool
+ - Tools
 ---
 
 Throughout all the things I've talked about in this series; mission, vision, strategic plans and kanban there's a underlying concept. We want to improve. We want to be better in achieving our vision. 
