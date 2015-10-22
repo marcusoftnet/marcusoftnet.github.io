@@ -13,6 +13,17 @@ In the [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html) I promise
 
 I'll also add a compile and minification step, just since that it's a common need. 
 
+**[UPDATED]**
+This, and other posts on npm scripting, has drawn a lot of attention. I wanted you to know that I have created a [PluralSight](http://www.pluralsight.com/) course on this topic, published in late October 2015. You can [find it here](http://www.pluralsight.com/courses/npm-build-tool-introduction).
+
+Also, don't miss the other posts on this blog on npm scripting: 
+
+* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+
+If you liked this post I know you will love the course! Thank you for reading this
+
 <a name='more'></a>
 
 # The makes of a makefile

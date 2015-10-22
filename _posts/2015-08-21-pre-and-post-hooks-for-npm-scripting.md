@@ -15,6 +15,17 @@ But when you put it together with the vast possibilities in package.json you get
 
 In this post I wanted to examine one of the lesser known features of scripting with npm and package.json; <code>pre</code>- and <code>post</code> hooks. In doing so I will most likely brush on a lot of other subjects too. 	We'll see how it goes. 
 
+**[UPDATED]**
+This, and other posts on npm scripting, has drawn a lot of attention. I wanted you to know that I have created a [PluralSight](http://www.pluralsight.com/) course on this topic, published in late October 2015. You can [find it here](http://www.pluralsight.com/courses/npm-build-tool-introduction).
+
+Also, don't miss the other posts on this blog on npm scripting: 
+
+* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+
+If you liked this post I know you will love the course! Thank you for reading this.
+
 <a name='more'></a>
 
 I'll keep my [code here](https://github.com/marcusoftnet/preposthooks)
