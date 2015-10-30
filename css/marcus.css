@@ -40,3 +40,17 @@ figcaption {
   font-family: Courier, sans-serif;
   margin: 10px 0 0;
 }
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #000000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
