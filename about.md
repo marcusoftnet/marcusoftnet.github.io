@@ -48,7 +48,7 @@ Writing the book took about 2,5 years. Sometimes with a lot of frustration and w
 If you haven’t got the book yet - get your’s today! We have done our very best to be both entertaining and informative.
 
 ### Speaking
-I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se) and [Agile Singapore](http://2014.agilesingapore.org).
+I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se), [Agile Singapore](http://2014.agilesingapore.org) and [Yow West](http://www.marcusoft.net/2015/05/yow-west----some-thoughts.html)
 
 Most of my talks have been at or for clients of mine. You can catch some of them here:
 
@@ -59,10 +59,12 @@ Most of my talks have been at or for clients of mine. You can catch some of them
 * [On Kanban (longer old version)](https://www.youtube.com/watch?v=hLuSAuVIpI8)
 * [On TDD for kids](https://www.youtube.com/watch?v=Ont8keNr08Y&list=UU3uq62oWJPm1agrW5Xxp_sA) I had great fun doing this!
 
-Slides for my talks can be found on my [Slide Share page](www.slideshare.net/marcusoftnet/)
+I also did a [long series of short presentations](http://www.marcusoft.net/2015/06/new-series-marcus-on-business.html) for the Salvation Army in Indonesia:
+
+Most slides for my talks can be found on my [Slide Share page](www.slideshare.net/marcusoftnet/)
 
 ### Open source and programming
-I have been into Open source on the .NET platform for quite some time. The main projects I’ve been into are:
+I have been into Open source on the .NET platform for quite some time. The main projects I've been into are:
 
 - [NancyFx](http://www.nancyfx.org) Nancy is the super-duper-happy-path library to small and awesome web applications using .NET. I absolutely love this framework and have committed small things to this. Very proud to be on the [list of committers](http://nancyfx.org/contribs.html).
 - [SpecFlow](http://www.specflow.org) SpecFlow is a great way to write specifications in english (using Cucumber) that then is translated to testing code of your choice. I’ve written a lot of blogposts about SpecFlow over the years and contributed the first version of the SpecFlow intellisense.
@@ -74,9 +76,11 @@ I’m most proud of my own little helper utility [SpecFlow.Assist.Dynamics](http
 All of my code is found on [GitHub under marcusoftnet](https://github.com/marcusoftnet)
 
 ### Screen casts
-In 2014 I got interested in Javascript in general and [Koa](http://koajs.com) in particular.
+In 2014 I got interested in Javascript and Node development. This led me to do a couple of courses for [PluralSight](http://www.pluralsight.com/author/marcus-hammarberg) on Node development, of all things:
 
-I had the opportunity to do a course for [PluralSight](http://www.pluralsight.com) on [Koa](http://www.pluralsight.com/courses/javascript-koa-introduction) which is the best I ever done!
+* [Introduction to Koa](http://www.pluralsight.com/courses/javascript-koa-introduction)
+* [io.js and Node.js Next: Getting Started](http://www.pluralsight.com/courses/running-node-applications-io-js)
+* [Introduction to npm as a Build Tool](http://www.pluralsight.com/courses/npm-build-tool-introduction)
 
 I’ve also recorded a couple of screen casts around Koa on YouTube:
 
