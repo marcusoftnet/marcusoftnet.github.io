@@ -40,6 +40,41 @@ $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
 * On line 5 a little object with the page and title is created
 * This is set and passed to the <code>ga</code> function which tracks it, asynchronously, to [Google Analytics](http://google.com/analytics)
 
+# Updated version
+After some great comments by [Jim Geurts](https://twitter.com/jgeurts?lang=en) I understand that our solution went against the recommendations from the Google Analytics team. Our code is, and I quote Jim;
+
+<blockquote>creates a new tracker every time you track a pageview.</blockquote>
+
+I don't really understand the full implications of that, but somehow as Jim kindly informed me when I asked, we need to create a tracker (line 2-4 above) only on the first load of the page. Here's two new functions that does that:
+
+{% highlight javascript linenos %}
+function gaInit() {
+  $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
+  window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+  ga('create', 'UA-62590784-1', 'auto');
+
+  console.log("Initalized");
+  return ga;
+};
+
+function gaTrack(path, title) {
+  var track =  { page: path, title: title};
+
+  ga = window.ga || gaInit();
+
+  ga('set', track);
+  ga('send', 'pageview');
+
+  console.log("Tracked");
+};
+{% endhighlight %}
+
+Basically I've just created a new <code>gaInit</code> function that returns the object it initializes, the <code>ga</code> object. In the <code>gaTrack</code> function I just check if the <code>window.ga</code> object is present, if not I call the <code>gaInit()</code> to create it, initializing <code>ga</code> just-in-time and only the first time. 
+
+The rest of the article works as described below, and was to my joy not needed to be updated.
+
+Thanks Jim. 
+
 # Using it
 Now, this is where that article leaves us. And at least I felt a little bit abandoned at this point. Because now we need to use it... on A LOT of place. And I didn't really felt like writing a <code>onClick="ga()"</code> on every thing click-able in our page.
 
