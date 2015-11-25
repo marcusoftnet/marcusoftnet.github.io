@@ -109,3 +109,23 @@ Who around me do I need to trust more? Give more room? Maybe it's that person th
 What do ME, myself, need to do for someone else to become more?
 
 This day was amazing and I will never forget it
+
+# Update - four, five weeks later
+There's been some more reports from Ibu Elsye and at every time she and her team has been doing great. 
+
+Today she did a report again and she was a little reluctant to start with.
+
+<blockquote>Well... I've lost one of my two workers to driving and also we have cut the budgets for improvements, so we have not done as much as before
+</blockquote>
+
+She started. And then went on reporting 38 items more fixed the last 2 weeks. 
+
+Think that over; she lost 50% of her staff and had less budget to make the improvements. Still her team did 38 items of improvement. 
+
+First it's a testament of the effectiveness (and efficiency) of her team now. Secondly there's innovation going on there too. They didn't do the things they wanted, or in the way the wanted, so they did something else instead. 
+
+Thirdly, and most important, when I asked her about her work situation she said: 
+
+<blockquote>I've never been happier. It's just smiles smiles smiles</blockquote>
+
+This day was amazing too, and I don't think I'll forget that either. 
