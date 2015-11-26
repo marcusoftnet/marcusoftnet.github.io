@@ -62,5 +62,7 @@ Regenerating: 1 file(s) changed at 2015-11-26 10:08:02 ...done in 1.735383 secon
 
 A much more workable solution. Fast feedback is key for a good writing flow. Note that this only happens on my local development machine. Once I push it to [GitHub](http://www.github.com) I presume an full site regeneration happens. 
 
+**NOTE** The obvious drawback is that only the last 1 posts is generated. Are you editing all post you need to regenerate the whole thing. 
+
 I'm now looking into adding some kind of auto-refresh of the browser too. Post that later. 
 

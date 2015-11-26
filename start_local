@@ -1,1 +1,1 @@
-jekyll serve --watch --limit_posts 5
+jekyll serve --watch --limit_posts 1 
