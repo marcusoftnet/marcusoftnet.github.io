@@ -17,6 +17,7 @@ The last couple of months we have been trying a new approach to get better contr
 
 In this post I wanted to present the way we are working. Right now I might add. Hopefully we do something else in the future. 
 
+Way in the bottom of this post you'll [find an summary](/2015/11/using-the-scientific-method-on-our-board.html#summary) should you find it long to read. 
 <a name='more'></a>
 
 The main setup for our team is not very special, we have a huge white board, on wheels that we meet in front of every morning. We like visualizations and metrics and half of the board is dedicated to a bunch of different diagrams and progress indicator. You can read about our ["Metrics Pirate Code" in another post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html). 
@@ -135,6 +136,24 @@ She erase the experiments column, and then turn to the management team:
 I just stood in the background. Smiling! 
 
 Experiment-driven management in action. 
+
+# Summary
+I got some great feedback from my good friend [Håkan Forss](http://hakanforss.wordpress.com), about the length and chatty-ness of the post. Any feedback from him is worth listening too. But I also wanted to write the story... So I'd thought I summaries the post here. 
+
+Actually I did that already, for the hospital. That's why I wrote the post, to be able to summaries the ideas behind the how our board is working. To the left you can see the cheat-sheet that we have posted right on our board to remember how it works: 
+
+<img src="/img/hypothesisDrivenBoard.png" style="float:left;"  width="40%" alt="Cheat sheet for our board">
+Here's what it means: 
+
+**Apa (Indonesian for What)** - our description of what we're trying to do. "Increase the number of patients", for example
+
+**Kenapa (Indonesian for Why)** - a short rationale for Why this is important. "We need to serve more patients per day to cover our operational costs", for example
+
+**Hypothesis** - What do we think will happen if we take this action? How can we measure that so that we can see our progress? Is there new measurements to be made (follow the [Metrics Pirates Code](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)).
+Examples could be "Increase the number of operations per day will increase the total number of patients served" - this means that we will keep track on the total number of patients served as well as the number of operations. They should both go up.
+
+**Experiments** - What is the next little thing we can try to see if we are moving in the right direction? What would good look like on our metrics? How would bad look? How can we make that step smaller? We aim to do 2 week experiments before we evaluate and only do 1 or 2 experiments at the time.
+Example would be "Advertise in other hospitals", "Speak with local clinics" or "Talk with temporary doctors to do their operations here"
 
 <hr>
 
