@@ -30,7 +30,7 @@ Mr Laloux attach a metaphor or mental picture to each stage of evolution for the
 
 Let's see if we can understand the behavior like "Please don't question the process", "Don't think we've done that for you" etc in this setting. 
 
-Imagine the army on the battlefield. The front line consists of foot soliders, armed with swords and shields. Their job is at a given signal charge the enemy army. That most likely had a similar setup. Probably the front line soldiers would be fighting in a rain of arrows too. The odds of survival for these troops should be very low. In fact, as I understand it, often slaves or prisoners was put in these positions. 
+Imagine the army on the battlefield. The front line consists of foot soldiers, armed with swords and shields. Their job is at a given signal charge the enemy army. That most likely had a similar setup. Probably the front line soldiers would be fighting in a rain of arrows too. The odds of survival for these troops should be very low. In fact, as I understand it, often slaves or prisoners was put in these positions. 
 
 Now imagine if these troops started to think for themselves. I know what I'd think: "Get me out of here! I'm running the other way!". That would have devastating effects on the effectiveness of the charge of course, breaking the line and opening gaping holes for the enemies. It only works if everyone just follows the procedure and does what they are told. 
 
@@ -40,7 +40,7 @@ The idea is brutally simple; right after the front rows (that likely panic and t
 
 Either way - you're screwed.
 
-# Modern collaroys
+# Modern barrier troops
 Ok, that was indeed nasty and horrible. Let's leave that era. Surely something like that is ancient history and not around today. 
 
 Well, true... but in the Amber-Conformist type of organizations I've been working in the concept is still there. There's rewards or punishment for example. I've [blogged about a situation](/2015/06/a-question-of-context.html) where nurses knew that they were going to get deducted pay if they didn't follow procedure. So they didn't wash their hands. Because that wasn't in the procedure. Quite natural and understandable. And stupid. 
@@ -70,9 +70,9 @@ Take a look at the sign, on the left, that I photoed during the New Year 2015 Ce
 
 Don't get me wrong. Singapore works great. Among the top nations in the world, even. The health care, there is amazing. It's clean and everything works. 
 
-But what is driving this society? Fear. Sadly. 
+But all those probations and "do not"'s what are they communicating. Through what mean is the goodness and culture kept in place? Fear? Sadly, that's what I read between the lines.  
 
-I don't like it. 
+I don't like it. But yet there's many aspects of Singapore that I do like. 
 
 ## Korean airlines
 I heard a funny story, that turned out to be true about Korean Airlines. For a period in time (don't know when... 70--80-ies?) they had a really bad reputation. They topped the list of recorded incidents for any airline around the world. 
