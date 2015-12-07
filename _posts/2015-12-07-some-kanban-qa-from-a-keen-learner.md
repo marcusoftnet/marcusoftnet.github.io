@@ -8,9 +8,9 @@ tags:
  - Agile
 ---
 
-I sometimes have the good fortune to get questions sent to me via email. Often they are very thought provoking and makes we put some (or considerable) effort behind to be able to get a intelligent answer. Also, I try to share my answers online to increase the learning possibilities.
+I sometimes have the good fortune to get questions sent to me via email. Often they are very thought provoking and makes me put some (or in this case considerable) effort behind to be able to get a intelligent answer. Also, I try to share my answers online to increase the learning possibilities.
 
-I try to answer those questions when I get the can, especially when I see that the person really wants to learn. A really good example of that came to me the other day, when Jocelyn Deborne wrote me. She's about to attend a course on kanban and was required, before the course, to conduct an interview with someone who knew the topic. 
+I try to answer those questions when I get the can, especially when I see that the person really wants to learn. A really good example of that came to me the other day, when Jocelyn wrote me. He's about to attend a course on kanban and was required, before the course, to conduct an interview with someone who knew the topic. 
 
 <a name='more'></a>
 
@@ -31,7 +31,7 @@ Kanban is a bit similar to me. It's just some principles for how to organize you
 
 (Note that there's a difference between kanban and [The Kanban Method (tm)](https://en.wikipedia.org/wiki/Kanban_(development)) that is a organizational transformation method.)
 
-Kanban is just a couple of very generic simple principles, without much guidance on HOW. There's tons of way to apply them and many have become de facto standards in the kanban-community, such as stand up meetings, kanban boards with columns for your process steps etc. etc. 
+Kanban is just a couple of very simple generic principles, without much guidance on HOW. There's tons of way to apply them and many have become de facto standards in the kanban-community, such as stand up meetings, kanban boards with columns for your process steps etc. etc. 
 
 But this is just examples, on how to apply the principles. We all have to find the way that works best for us. 
 
