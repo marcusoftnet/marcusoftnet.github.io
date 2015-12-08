@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some kanban Q&A from a keen learner"
+title: "Some kanban questions from a keen learner, and my answers"
 author: "Marcus Hammarberg"
 date: 2015-12-07 11:05:30
 tags:
@@ -8,7 +8,7 @@ tags:
  - Agile
 ---
 
-I sometimes have the good fortune to get questions sent to me via email. Often they are very thought provoking and makes me put some (or in this case considerable) effort behind to be able to get a intelligent answer. Also, I try to share my answers online to increase the learning possibilities.
+I sometimes have the good fortune to get questions sent to me via email. Often they are very thought provoking and makes me put some (or in this case considerable) effort behind to be able to get a intelligent answer. Also, I try to share my answers on line to increase the learning possibilities.
 
 I try to answer those questions when I get the can, especially when I see that the person really wants to learn. A really good example of that came to me the other day, when Jocelyn wrote me. He's about to attend a course on kanban and was required, before the course, to conduct an interview with someone who knew the topic. 
 
