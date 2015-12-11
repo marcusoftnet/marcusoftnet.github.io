@@ -477,8 +477,22 @@ The whole `<todo></todo>` tag now looks like this:
 
 If you run it it works just fine. 
 
+## Extra points
+Now that I did that... I just realized that the todo-item can be broken out too. I'll do that [in the code](http://github.com/marcusoftnet/anatomyOfATag) but don't talk you through it here. 
+
+It *can* be broken out, but if it should will be up to you. Once I did it I now have nice discrete parts: 
+* `todo` is the main component that holds all the others. It's responsible for operating on the todo list itself
+* `todo-form` is used for adding new items and communicates back to the `todo` component when new items is added
+* `todo-item` presents and handles a single item. Operations that affects the list is propagated back to the `todo` component
+
+For this simple example this structure almost added overhead to have that many moving parts. In a larger application I can imagine that this could be very handy indeed. Of course you then would split the different tags to different file etc. For example, imagine separate teams working on the separate components, then a structure could prove useful. 
+
+Go ahead and try to build it yourself before you peek. I learned a lot by doing that. 
+
+Psst, there's another type of loop that allows you to get hold of the item that you're looping over. 
+
 # Summary
-Whoa - this post became longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
+Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
 
 Custom tags are the building blocks of the UI when using Riot. They can consist of HTML, JavaScript or both in which the markup comes before the script. Optionally you can add styling for the component. 
 
