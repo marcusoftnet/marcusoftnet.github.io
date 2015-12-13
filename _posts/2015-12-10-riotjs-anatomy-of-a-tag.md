@@ -29,7 +29,7 @@ I wanted to share my very early learnings with you. Because [sharing is learning
 # Disclaimer and pointers
 I'm new and no front-end guy. This is just my way of explaining what I've picked up elsewhere. 
 
-If you really want to learn this from scratch you should take a look at the [YouTube videos of Andrew van Der Slaars](https://www.youtube.com/watch?v=al87U6NgRTc). Great, clear stuff. 
+If you really want to learn this from scratch you should take a look at the [YouTube videos of Andrew Van Slaars](https://www.youtube.com/watch?v=al87U6NgRTc). Great, clear stuff. 
 
 Also the [Guide](http://riotjs.com/guide/) at Riot Js is good. But very dense. I had to read it a couple of times before I got it. I will actually use one of their examples in this post, and try to explain it a bit further. 
 
