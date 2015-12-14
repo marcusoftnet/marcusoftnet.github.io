@@ -20,10 +20,9 @@ But that sprung a few ideas about things that I've started to use a lot and I th
 
 * Splitting API over several files - this post
 * [Splitting the API not only the test](/2015/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)
-* [Verifying the results; regExp for MongoId and other stuff]()
 * [Verify in database after ended request](/2015/05/supertest-verify-in-database-after-ended-request.html)
 
-Cliffhanger; the last bullet is still not clear to me... It will a blast seeing me stumble through that one.
+Cliffhanger; the last bullet is still not clear to me... It will be a blast seeing me stumble through that one.
 
 <a name='more'></a>
 

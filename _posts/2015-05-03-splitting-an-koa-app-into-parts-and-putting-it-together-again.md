@@ -15,7 +15,6 @@ But here are the things I've written so far:
 
 * [Splitting API over several files](http://www.marcusoft.net/2015/04/supertest-things-ive-learned---part-i.html)
 * Splitting the API not only the test - this post
-* [Verifying the results; regExp for MongoId and other stuff]()
 * [Verify in database after ended request](http://www.marcusoft.net/2015/05/supertest-verify-in-database-after-ended-request.html)
 
 In this post I will show you a powerful way of using [koa-mount](https://www.npmjs.com/package/koa-mount) to create a very modular application structure. And how to test it, of course. 
