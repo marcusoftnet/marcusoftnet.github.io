@@ -12,7 +12,7 @@ Remember back in the days when you (or me at least) proudly could say: "I'm a ba
 
 Now, front end can mean many different things and quite often, luckily for me, it's been just feeding data into a already structured framework, but what if you need to set the architecture? 
 
-Naturally we turn to the frameworks of choice and ... about at this point I run into problems. Because I really have a problem with "big" frameworks like [Angular Js](https://angularjs.org/), [Ember](http://emberjs.com/), [Aurelia](http://aurelia.io/) or [React](https://facebook.github.io/react/). They look nice and I have really tired to learn them. Sometimes I've been close, but they just don't stick. Too much for my poor head. 
+Naturally we turn to the frameworks of choice and ... about at this point I run into problems. Because I really have a problem with "big" frameworks like [Angular Js](https://angularjs.org/), [Ember](http://emberjs.com/), [Aurelia](http://aurelia.io/) or [React](https://facebook.github.io/react/). They look nice and I have really tried to learn, at least part of, them. Sometimes I've been close, but they just don't stick. Too much for my poor head. 
 
 Maybe [Koa](http://koajs.com) and [Nancy](http://nancyfx.org) has destroyed me. I'm now a micro-framework guy. I just want my tools, as much as possible, to stay out of my way. A micro framework also opens more options for how to do things, what architecture to use etc. 
 
@@ -481,6 +481,7 @@ If you run it it works just fine.
 Now that I did that... I just realized that the todo-item can be broken out too. I'll do that [in the code](http://github.com/marcusoftnet/anatomyOfATag) but don't talk you through it here. 
 
 It *can* be broken out, but if it should will be up to you. Once I did it I now have nice discrete parts: 
+
 * `todo` is the main component that holds all the others. It's responsible for operating on the todo list itself
 * `todo-form` is used for adding new items and communicates back to the `todo` component when new items is added
 * `todo-item` presents and handles a single item. Operations that affects the list is propagated back to the `todo` component
@@ -489,7 +490,7 @@ For this simple example this structure almost added overhead to have that many m
 
 Go ahead and try to build it yourself before you peek. I learned a lot by doing that. 
 
-Psst, there's another type of loop that allows you to get hold of the item that you're looping over. 
+Psst, there's another type of loop that allows you to get hold of the item that you're looping over. It's called <code>for</code>-loops and you can check it out in the [documentation](http://riotjs.com/api/). 
 
 # Summary
 Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
