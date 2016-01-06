@@ -490,7 +490,7 @@ For this simple example this structure almost added overhead to have that many m
 
 Go ahead and try to build it yourself before you peek. I learned a lot by doing that. 
 
-Psst, there's another type of loop that allows you to get hold of the item that you're looping over. It's called <code>for</code>-loops and you can check it out in the [documentation](http://riotjs.com/api/). 
+Psst, there's another type of loop that allows you to get hold of the item that you're looping over, like this: <code>{ name, i in items }</code>. You can check it out in the [documentation](http://riotjs.com/guide/#loops). 
 
 # Summary
 Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
