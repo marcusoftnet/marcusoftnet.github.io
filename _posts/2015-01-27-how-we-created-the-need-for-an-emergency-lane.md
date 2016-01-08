@@ -44,7 +44,7 @@ It turned out that the first item was easily solved by fixing a wheel and the se
 Why did that appear now, all of a sudden? We have been using this board structure for about 3 months now. No need has occurred during that time.
 
 # I feel the need ... the need for smaller things!
-<img src="/img/BungsuBoardNew.jpg" style="float:right" width="50%">
+<img src="/img/bungsuBoardNew.jpg" style="float:right" width="50%">
 I redrew the board for the team to add the urgent lane and as I did that I realized something.
 
 We had put two things into the "Improvement"-lane that didn't follow our Work In Process limit of 2 weeks maximum. This blocked the flow of work in those lanes. For a long time nothing would be picked up from the "Nanti"/"Next"-section.
