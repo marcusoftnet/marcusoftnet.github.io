@@ -38,11 +38,11 @@ A solid representation of the different perspectives on what it's going to take 
 ## Where to?
 Speaking on good start; one of the basic premises that needs to be well established in order to not loose track is where we are going. The Goal, if you want. 
 
-What I've found very useful here is to steer away, as long as possible, from the technology and instead focus on the business value. Not "Improve usability in registration" or "Implement first version of feature X", although both of them are worthy goals, but rather "Improve conversation in registration". 
+What I've found very useful here is to steer away, as long as possible, from the technology and instead focus on the business value. Not "Improve usability in registration" or "Implement first version of feature X", although both of them are worthy goals, but rather "Improve user-conversation in the registration flow". 
 
 The shared understanding can further be improved if a Why is included. Why are we doing this now? 
 
-Even better is to already at this point give some numbers "Improve conversation by 10% in registration". This is the real effect we want to see in production, when users are using the new capability. 
+Even better is to already at this point give some numbers "Improve user-conversion by 10% in user-registration by 15/5". This is the real effect we want to see in production, when users are using the new capability. 
 
 <blockquote>Start with the end in mind</blockquote>
 
