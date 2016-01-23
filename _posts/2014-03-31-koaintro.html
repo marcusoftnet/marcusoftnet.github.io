@@ -1,17 +1,140 @@
----
-layout: post
-title: 'Marcus Node bits: Let''s talk about Koa for a while, shall we?'
-date: '2014-03-31T08:00:00.000+02:00'
-author: Marcus Hammarberg
-tags:
-- NodeJs
-- Javascript
-- Tools
-- Koa
-- Agile
-modified_time: '2014-04-06T14:41:45.569+02:00'
-blogger_id: tag:blogger.com,1999:blog-36533086.post-532858990710238271
-blogger_orig_url: http://www.marcusoft.net/2014/03/koaintro.html
----
-
-<div dir="ltr" style="text-align: left;" trbidi="on">Ok, let's talk about <a href="http://www.koajs.com/" target="_blank">KoaJs</a>. Why?<br />Well, it's new and shiny. But that's not it.<br />And it's tiny and stays out of your way. But that's not it.<br />It's created by the awesome <a href="http://expressjs.com/" target="_blank">crew </a>behind <a href="http://www.marcusoft.net/2014/02/mnb-express.html" target="_blank">ExpressJs </a>(and others). But that's not it.<br />It teaches me about new things. And really strange things. Like generators for example. But that's not it.<br /><br />No.<br /><span class="Apple-tab-span" style="white-space: pre;"> </span>The<br /><span class="Apple-tab-span" style="white-space: pre;">  </span>Reason<br /><span class="Apple-tab-span" style="white-space: pre;">   </span>I<br /><span class="Apple-tab-span" style="white-space: pre;">    </span>really<br /><span class="Apple-tab-span" style="white-space: pre;">     </span>wanted to<br /><span class="Apple-tab-span" style="white-space: pre;">      </span>get your<br /><span class="Apple-tab-span" style="white-space: pre;">            <span style="font-size: xx-small;"> </span></span><span style="font-size: xx-small;">really important fact that we would like to hold on to in the rest of the text</span><br /><span class="Apple-tab-span" style="white-space: pre;">     </span>attention<br /><span class="Apple-tab-span" style="white-space: pre;">    </span>is something<br /><span class="Apple-tab-span" style="white-space: pre;">   </span>different<br /><span class="Apple-tab-span" style="white-space: pre;">  </span>altogether.<br /><span class="Apple-tab-span" style="white-space: pre;"> </span>This has to<br />Stop.<br /><a name='more'></a>I'm by no means a seasoned Javascript developer but I'm already starting to dislike the code <a href="http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html" target="_blank">callbacks</a> forces me to write. Yeah, I know, there are ways around it with <a href="http://www.promisejs.org/intro" target="_blank">promises </a>and everything, but still have a hard time grasping that. Sorry. I hope there's another way ^^<br /><br />I mean; "<span style="font-family: Courier New, Courier, monospace;">getUserFromDatabase()</span>"... what would you expect that to return? An user? Or a promise maybe? I wouldn't think so either. I want the user, if you could please...<br /><br />That said, I love the way that Node puts scalability first. To do that we have (?) to &nbsp;provide promises and callbacks. Or do we?<br />What if I said that you didn't? You could do without callbacks and promises altogether. What if <a href="http://koajs.com/" target="_blank">KoaJs</a>...?<br /><script src="https://gist.github.com/marcusoftnet/9885813.js"></script><br />Writing the code like you understand it.<br /><br />Now, mind you (and me) well, that this is cutting edge stuff. This is using proposed features of the next version of Javascript. So it's still a bit rough around the edges. But the promise (pun intended) of getting a nicer structure and get rid of the callbacks makes me tolerant.<br /><br />I hope to be able to explain to you how it works and get your journey to be a bit smoother than mine. In this post I just want us to get up and running. And that's not as easy as one would first think.... The goal today is to be able to run a few examples.<br /><h3 style="text-align: left;">Getting started</h3><div>There's two parts to installing Koa; updating Node to the required version and installing Koa.&nbsp;</div><div>Most blog posts about Koa (and the KoaJs.com site itself) says something like: "Koa needs Node 0.11.9 or higher to run". "Well thank you. I'm a newbie at these things. How do I do that then?" was something i asked myself.<br /><br />Btw, this require that you have Node installed. If not you can go to <a href="http://www.nodejs.org/">www.nodejs.org</a> and hit the Install button to get it on your system.<br /><h3 style="text-align: left;">Update Node, the safe way</h3></div><div>The first thing I thought was "If I'll update my Node installation to something bleeding edge... will the rest of my things work?" Luckily there's a little nice tool that helps you with this. It's called <a href="https://github.com/creationix/nvm" target="_blank">Node Version Manager</a>, or nvm for short.&nbsp;</div><div><br /></div><div>Not only does this tool make it super easy to install new versions of Node but also you can easily switch between versions, when you need to "head back to safety".&nbsp;</div><h4 style="text-align: left;">Install Node Version Manager</h4><div>Installing the nvm by running the following command:</div><blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace; font-size: x-small;">sudo curl https://raw.github.com/creationix/nvm/master/install.sh | sh</span></blockquote>This command pulls in the install.sh script form that url and executes it. There's a number of things going on in the script, setting path-variables etc. When it's done, and you have restarted the terminal (?), you will have a couple of new commands at your disposal. You can see them all by running "<span style="font-family: Courier New, Courier, monospace;">nvm help</span>".<br /><br />If that doesn't work out for you make sure to read the ReadMe (hmmm wonder why it's called that :)) on the <a href="https://github.com/creationix/nvm" target="_blank">nvm github site</a>. There's a couple of manual tricks, adding stuff to the bashrc (whatever that is) for example, that I needed to do to get this to work on<a href="http://www.marcusoft.net/2014/03/setting-up-complete-node-development.html" target="_blank"> one of my vm's</a>.<br /><h4 style="text-align: left;">Installing a version of Node</h4><div>One of those new commands is "nvm install". Let's do that now to get a version that is needed for Koa (at least 0.11.9):</div><blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">nvm install 0.11.9</span></blockquote>You can see the versions available for download by "<span style="font-family: Courier New, Courier, monospace;">nvm ls-remote</span>", so you can pick a later version when this post is out of date. Which in Javascript land is in about 20 minutes...<br /><h4 style="text-align: left;">Using a version</h4><div style="text-align: left;">We have now only installed a version and it's also set as our current version. If you go "<span style="font-family: Courier New, Courier, monospace;">nvm current</span>" you will see the version you are currently using. Or have "loaded" if you want to.</div><div style="text-align: left;"><br /></div><div style="text-align: left;">If you want to use another version you just go "<span style="font-family: Courier New, Courier, monospace;">nvm use 0.10.8</span>" for example. But, Marcus, how can I see which versions of Node I have installed then, you ask. Funny that you should ask that, he responded with light laughter. That's simple</div><blockquote class="tr_bq" style="text-align: left;"><span style="font-family: Courier New, Courier, monospace;">nvm ls</span> &nbsp;</blockquote>Will list the versions you have installed on your system, as well as mark the one you are running in green. For the rest of this article make sure that you have run "<span style="font-family: Courier New, Courier, monospace;">nvm use 0.11.9</span>" or higher than that. <br /><h3 style="text-align: left;">Installing Koa</h3><div>That was the first part, preparing the way for installing Koa. Thankfully that is much easier. It's really just a normal <a href="https://www.npmjs.org/package/koa" target="_blank">npm package</a>. Let's be good programmers and set this up properly. Create a new directory and call it <span style="font-family: Courier New, Courier, monospace;">KoaFirstStumblingSteps</span> or something that describes what we are doing. cd into that directory and then run "<span style="font-family: Courier New, Courier, monospace;">npm init</span>" to get some nice <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html" target="_blank">wizardry help to create the package.json</a>.&nbsp;</div><div>When that is done you can go "<span style="font-family: Courier New, Courier, monospace;">npm install koa --save</span>" to install koa in your directory and save the reference in the package.json.&nbsp;</div><div><br /></div><div>Here's those steps in sequence:</div><div><ul style="text-align: left;"><li><span style="font-family: Courier New, Courier, monospace;">mkdir&nbsp;KoaFirstStumblingSteps</span></li><li><span style="font-family: Courier New, Courier, monospace;">cd&nbsp;KoaFirstStumblingSteps</span></li><li><span style="font-family: Courier New, Courier, monospace;">npm init</span></li><li>[a lot of questions that are quick to answer... Enter works for most of them. 0.45 sec to completion is my record]</li><li><span style="font-family: Courier New, Courier, monospace;">npm install koa --save</span></li></ul>Alright. You should have seen quite a lot of things coming down with that last command. I'll come back to that, but it has to do with Koa believing very hard in modularity and composability. Or "it's made from a lot of small Legos (c)", if you're a parent like me.&nbsp;</div><div>We have set ourselves up for some Koa code. Let's dive right in. Create a firstKoaSite.js file and <strike>type the following</strike>&nbsp;copy (who am I kidding?) the following code into it:</div><div><script src="https://gist.github.com/marcusoftnet/9784112.js"></script></div><div>I wanted to do something just a little more than a hello world and yet not complicated at all. For this we need the "koa-route" middleware. No, it's not included in Koa. Yes, middleware in Koa are tiny, so you end up including many of them.&nbsp;</div><div>Install with "<span style="font-family: Courier New, Courier, monospace;">npm install&nbsp;koa-route --save</span>" and we are ready to run.<br />It's pretty self-explanatory and short and sweet. Just like we like it:<br /><br /><ul style="text-align: left;"><li>Line 1,2 requires the things we need</li><li>Line 3 creates the actual Koa app</li><li>On line 8-9 we set up a couple of routes (via koa-route) using the <span style="font-family: Courier New, Courier, monospace;">app.use()</span></li><li>The routes calls out to a couple of functions. Note anything strange? Yes, the asterisk should be there. It's a generator function the <a href="http://www.marcusoft.net/2014/03/koaGenYield.html" target="_blank">next post is about that.&nbsp;</a></li><li>Finally on line 24 we fire the application up and shows how to call it</li></ul></div><h3 style="text-align: left;">Running your first Koa site</h3><div>Running a Koa site is just starting it as normal with "<span style="font-family: Courier New, Courier, monospace;">node firstKoaSite.js</span>" except it isn't... You need to add a flag to use the "harmony"-features of Node. This is using some of the cutting edge features of Javascript, normally not included. Like generators for example, which Koa is built around.&nbsp;</div><div><br /></div><div>The complete command to run our first little site is in other words:</div><div><blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">node --harmony firstKoaSite.js</span></blockquote></div>Exactly! I don't want to type that every time either... Better enter it into the package.json, under scripts, and use <a href="https://www.npmjs.org/package/nodemon" target="_blank">nodemon</a> so that we don't need to restart our server manually on every change we make.<br />This is the scripts-node of my package.json.<br /><span style="font-family: Courier New, Courier, monospace;"><br /></span><span style="font-family: Courier New, Courier, monospace;">"scripts": {</span><br /><span style="font-family: Courier New, Courier, monospace;">&nbsp; "start": <br />&nbsp; "node_modules/nodemon/bin/nodemon.js --harmony firstKoaSite.js"</span><br /><span style="font-family: Courier New, Courier, monospace;">&nbsp; }</span><br /><br />Which lets me start my site like this:<br /><blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">npm start</span></blockquote>Ahhh! Much better. And the site runs nice too. Looks like crap but that's normal and expected for my sites. But with the proper indata (http://localhost:3000/whosThere/World) you can get it to be a Hello World application<br /><blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">Ah, it is you! My old friend!<br />Hello World</span></blockquote><h3 style="text-align: left;">Conclusion</h3><div>This ends this first little post on Koa. I'm planning to write another one to try to explain yield and generators. If for none other so for myself. And then use more of Koa's features in some more sites. The goal of this post was merely to get us off the ground.</div><div><br /></div><div>During this exploration I have had great use of the following resources:</div><div><ul style="text-align: left;"><li><a href="http://tamas.io/replacing-express-with-koa/">http://tamas.io/replacing-express-with-koa/</a> - that showed me Node Version Manager. Thank you!</li><li><a href="http://weblogs.asp.net/shijuvarghese/archive/2014/01/12/a-simple-crud-demo-with-koa-js.aspx">http://weblogs.asp.net/shijuvarghese/archive/2014/01/12/a-simple-crud-demo-with-koa-js.aspx</a></li><li><a href="http://dailyjs.com/2014/01/09/koa/">http://dailyjs.com/2014/01/09/koa/</a></li><li>And of course <a href="http://www.koajs.com/" target="_blank">http://www.koajs.com </a>and especially the&nbsp;exemplary documentation.</li></ul></div>My code is in those gists listed above or&nbsp;<a href="https://github.com/marcusoftnet/KoaBlogPosts/tree/master/KoaFirstStumblingSteps" target="_blank">here in a repo</a>.<br /><br />I like Koa Js. I've written a couple of post about it. Here they will be when they are published:<br /><ul style="text-align: left;"><li>Let's talk about Koa for a while, shall we? (this post)</li><li><a href="http://www.marcusoft.net/2014/03/koaGenYield.html" target="_blank">Let's talk about yield and generators, shall we?</a></li><li><a href="http://www.marcusoft.net/2014/03/koaExamples.html" target="_blank">Marcus Node Bits: Let's flex Koa Js, shall we?</a></li></ul></div>
+--- layout: post title: 'Marcus Node bits: Let''s talk about Koa for a while, shall we?' date: '2014-03-31T08:00:00.000+02:00' author: Marcus Hammarberg tags: - NodeJs - Javascript - Tools - Koa - Agile modified_time: '2014-04-06T14:41:45.569+02:00' blogger_id: tag:blogger.com,1999:blog-36533086.post-532858990710238271 blogger_orig_url: http://www.marcusoft.net/2014/03/koaintro.html ---
+<div dir="ltr" style="text-align: left;" trbidi="on">Ok, let's talk about <a href="http://www.koajs.com/" target="_blank">KoaJs</a>. Why?
+    <br />Well, it's new and shiny. But that's not it.
+    <br />And it's tiny and stays out of your way. But that's not it.
+    <br />It's created by the awesome <a href="http://expressjs.com/" target="_blank">crew </a>behind <a href="http://www.marcusoft.net/2014/02/mnb-express.html" target="_blank">ExpressJs </a>(and others). But that's not it.
+    <br />It teaches me about new things. And really strange things. Like generators for example. But that's not it.
+    <br />
+    <br />No.
+    <br /><span class="Apple-tab-span" style="white-space: pre;"> </span>The
+    <br /><span class="Apple-tab-span" style="white-space: pre;">  </span>Reason
+    <br /><span class="Apple-tab-span" style="white-space: pre;">   </span>I
+    <br /><span class="Apple-tab-span" style="white-space: pre;">    </span>really
+    <br /><span class="Apple-tab-span" style="white-space: pre;">     </span>wanted to
+    <br /><span class="Apple-tab-span" style="white-space: pre;">      </span>get your
+    <br /><span class="Apple-tab-span" style="white-space: pre;">            <span style="font-size: xx-small;"> </span></span><span style="font-size: xx-small;">really important fact that we would like to hold on to in the rest of the text</span>
+    <br /><span class="Apple-tab-span" style="white-space: pre;">     </span>attention
+    <br /><span class="Apple-tab-span" style="white-space: pre;">    </span>is something
+    <br /><span class="Apple-tab-span" style="white-space: pre;">   </span>different
+    <br /><span class="Apple-tab-span" style="white-space: pre;">  </span>altogether.
+    <br /><span class="Apple-tab-span" style="white-space: pre;"> </span>This has to
+    <br />Stop.
+    <br />
+    <a name='more'></a>I'm by no means a seasoned Javascript developer but I'm already starting to dislike the code <a href="http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html" target="_blank">callbacks</a> forces me to write. Yeah, I know, there are ways around it with <a href="http://www.promisejs.org/intro" target="_blank">promises </a>and everything, but still have a hard time grasping that. Sorry. I hope there's another way ^^
+    <br />
+    <br />I mean; "<span style="font-family: Courier New, Courier, monospace;">getUserFromDatabase()</span>"... what would you expect that to return? An user? Or a promise maybe? I wouldn't think so either. I want the user, if you could please...
+    <br />
+    <br />That said, I love the way that Node puts scalability first. To do that we have (?) to &nbsp;provide promises and callbacks. Or do we?
+    <br />What if I said that you didn't? You could do without callbacks and promises altogether. What if <a href="http://koajs.com/" target="_blank">KoaJs</a>...?
+    <br />
+    <script src="https://gist.github.com/marcusoftnet/9885813.js"></script>
+    <br />Writing the code like you understand it.
+    <br />
+    <br />Now, mind you (and me) well, that this is cutting edge stuff. This is using proposed features of the next version of Javascript. So it's still a bit rough around the edges. But the promise (pun intended) of getting a nicer structure and get rid of the callbacks makes me tolerant.
+    <br />
+    <br />I hope to be able to explain to you how it works and get your journey to be a bit smoother than mine. In this post I just want us to get up and running. And that's not as easy as one would first think.... The goal today is to be able to run a few examples.
+    <br />
+    <h3 style="text-align: left;">Getting started</h3>
+    <div>There's two parts to installing Koa; updating Node to the required version and installing Koa.&nbsp;</div>
+    <div>Most blog posts about Koa (and the KoaJs.com site itself) says something like: "Koa needs Node 0.11.9 or higher to run". "Well thank you. I'm a newbie at these things. How do I do that then?" was something i asked myself.
+        <br />
+        <br />Btw, this require that you have Node installed. If not you can go to <a href="http://www.nodejs.org/">www.nodejs.org</a> and hit the Install button to get it on your system.
+        <br />
+        <h3 style="text-align: left;">Update Node, the safe way</h3></div>
+    <div>The first thing I thought was "If I'll update my Node installation to something bleeding edge... will the rest of my things work?" Luckily there's a little nice tool that helps you with this. It's called <a href="https://github.com/creationix/nvm" target="_blank">Node Version Manager</a>, or nvm for short.&nbsp;</div>
+    <div>
+        <br />
+    </div>
+    <div>Not only does this tool make it super easy to install new versions of Node but also you can easily switch between versions, when you need to "head back to safety".&nbsp;</div>
+    <h4 style="text-align: left;">Install Node Version Manager</h4>
+    <div>Installing the nvm by running the following command:</div>
+    <blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace; font-size: x-small;">sudo curl https://raw.github.com/creationix/nvm/master/install.sh | sh</span></blockquote>This command pulls in the install.sh script form that url and executes it. There's a number of things going on in the script, setting path-variables etc. When it's done, and you have restarted the terminal (?), you will have a couple of new commands at your disposal. You can see them all by running "<span style="font-family: Courier New, Courier, monospace;">nvm help</span>".
+    <br />
+    <br />If that doesn't work out for you make sure to read the ReadMe (hmmm wonder why it's called that :)) on the <a href="https://github.com/creationix/nvm" target="_blank">nvm github site</a>. There's a couple of manual tricks, adding stuff to the bashrc (whatever that is) for example, that I needed to do to get this to work on<a href="http://www.marcusoft.net/2014/03/setting-up-complete-node-development.html" target="_blank"> one of my vm's</a>.
+    <br />
+    <h4 style="text-align: left;">Installing a version of Node</h4>
+    <div>One of those new commands is "nvm install". Let's do that now to get a version that is needed for Koa (at least 0.11.9):</div>
+    <blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">nvm install 0.11.9</span></blockquote>You can see the versions available for download by "<span style="font-family: Courier New, Courier, monospace;">nvm ls-remote</span>", so you can pick a later version when this post is out of date. Which in Javascript land is in about 20 minutes...
+    <br />
+    <h4 style="text-align: left;">Using a version</h4>
+    <div style="text-align: left;">We have now only installed a version and it's also set as our current version. If you go "<span style="font-family: Courier New, Courier, monospace;">nvm current</span>" you will see the version you are currently using. Or have "loaded" if you want to.</div>
+    <div style="text-align: left;">
+        <br />
+    </div>
+    <div style="text-align: left;">If you want to use another version you just go "<span style="font-family: Courier New, Courier, monospace;">nvm use 0.10.8</span>" for example. But, Marcus, how can I see which versions of Node I have installed then, you ask. Funny that you should ask that, he responded with light laughter. That's simple</div>
+    <blockquote class="tr_bq" style="text-align: left;"><span style="font-family: Courier New, Courier, monospace;">nvm ls</span> &nbsp;</blockquote>Will list the versions you have installed on your system, as well as mark the one you are running in green. For the rest of this article make sure that you have run "<span style="font-family: Courier New, Courier, monospace;">nvm use 0.11.9</span>" or higher than that.
+    <br />
+    <h3 style="text-align: left;">Installing Koa</h3>
+    <div>That was the first part, preparing the way for installing Koa. Thankfully that is much easier. It's really just a normal <a href="https://www.npmjs.org/package/koa" target="_blank">npm package</a>. Let's be good programmers and set this up properly. Create a new directory and call it <span style="font-family: Courier New, Courier, monospace;">KoaFirstStumblingSteps</span> or something that describes what we are doing. cd into that directory and then run "<span style="font-family: Courier New, Courier, monospace;">npm init</span>" to get some nice <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html" target="_blank">wizardry help to create the package.json</a>.&nbsp;</div>
+    <div>When that is done you can go "<span style="font-family: Courier New, Courier, monospace;">npm install koa --save</span>" to install koa in your directory and save the reference in the package.json.&nbsp;</div>
+    <div>
+        <br />
+    </div>
+    <div>Here's those steps in sequence:</div>
+    <div>
+        <ul style="text-align: left;">
+            <li><span style="font-family: Courier New, Courier, monospace;">mkdir&nbsp;KoaFirstStumblingSteps</span></li>
+            <li><span style="font-family: Courier New, Courier, monospace;">cd&nbsp;KoaFirstStumblingSteps</span></li>
+            <li><span style="font-family: Courier New, Courier, monospace;">npm init</span></li>
+            <li>[a lot of questions that are quick to answer... Enter works for most of them. 0.45 sec to completion is my record]</li>
+            <li><span style="font-family: Courier New, Courier, monospace;">npm install koa --save</span></li>
+        </ul>Alright. You should have seen quite a lot of things coming down with that last command. I'll come back to that, but it has to do with Koa believing very hard in modularity and composability. Or "it's made from a lot of small Legos (c)", if you're a parent like me.&nbsp;</div>
+    <div>We have set ourselves up for some Koa code. Let's dive right in. Create a firstKoaSite.js file and <strike>type the following</strike>&nbsp;copy (who am I kidding?) the following code into it:</div>
+    <div>
+        <script src="https://gist.github.com/marcusoftnet/9784112.js"></script>
+    </div>
+    <div>I wanted to do something just a little more than a hello world and yet not complicated at all. For this we need the "koa-route" middleware. No, it's not included in Koa. Yes, middleware in Koa are tiny, so you end up including many of them.&nbsp;</div>
+    <div>Install with "<span style="font-family: Courier New, Courier, monospace;">npm install&nbsp;koa-route --save</span>" and we are ready to run.
+        <br />It's pretty self-explanatory and short and sweet. Just like we like it:
+        <br />
+        <br />
+        <ul style="text-align: left;">
+            <li>Line 1,2 requires the things we need</li>
+            <li>Line 3 creates the actual Koa app</li>
+            <li>On line 8-9 we set up a couple of routes (via koa-route) using the <span style="font-family: Courier New, Courier, monospace;">app.use()</span></li>
+            <li>The routes calls out to a couple of functions. Note anything strange? Yes, the asterisk should be there. It's a generator function the <a href="http://www.marcusoft.net/2014/03/koaGenYield.html" target="_blank">next post is about that.&nbsp;</a></li>
+            <li>Finally on line 24 we fire the application up and shows how to call it</li>
+        </ul>
+    </div>
+    <h3 style="text-align: left;">Running your first Koa site</h3>
+    <div>Running a Koa site is just starting it as normal with "<span style="font-family: Courier New, Courier, monospace;">node firstKoaSite.js</span>" except it isn't... You need to add a flag to use the "harmony"-features of Node. This is using some of the cutting edge features of Javascript, normally not included. Like generators for example, which Koa is built around.&nbsp;</div>
+    <div>
+        <br />
+    </div>
+    <div>The complete command to run our first little site is in other words:</div>
+    <div>
+        <blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">node --harmony firstKoaSite.js</span></blockquote>
+    </div>Exactly! I don't want to type that every time either... Better enter it into the package.json, under scripts, and use <a href="https://www.npmjs.org/package/nodemon" target="_blank">nodemon</a> so that we don't need to restart our server manually on every change we make.
+    <br />This is the scripts-node of my package.json.
+    <br /><span style="font-family: Courier New, Courier, monospace;"><br /></span><span style="font-family: Courier New, Courier, monospace;">"scripts": {</span>
+    <br /><span style="font-family: Courier New, Courier, monospace;">&nbsp; "start": <br />&nbsp; "node_modules/nodemon/bin/nodemon.js --harmony firstKoaSite.js"</span>
+    <br /><span style="font-family: Courier New, Courier, monospace;">&nbsp; }</span>
+    <br />
+    <br />Which lets me start my site like this:
+    <br />
+    <blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">npm start</span></blockquote>Ahhh! Much better. And the site runs nice too. Looks like crap but that's normal and expected for my sites. But with the proper indata (http://localhost:3000/whosThere/World) you can get it to be a Hello World application
+    <br />
+    <blockquote class="tr_bq"><span style="font-family: Courier New, Courier, monospace;">Ah, it is you! My old friend!<br />Hello World</span></blockquote>
+    <h3 style="text-align: left;">Conclusion</h3>
+    <div>This ends this first little post on Koa. I'm planning to write another one to try to explain yield and generators. If for none other so for myself. And then use more of Koa's features in some more sites. The goal of this post was merely to get us off the ground.</div>
+    <div>
+        <br />
+    </div>
+    <div>During this exploration I have had great use of the following resources:</div>
+    <div>
+        <ul style="text-align: left;">
+            <li><a href="http://tamas.io/replacing-express-with-koa/">http://tamas.io/replacing-express-with-koa/</a> - that showed me Node Version Manager. Thank you!</li>
+            <li><a href="http://weblogs.asp.net/shijuvarghese/archive/2014/01/12/a-simple-crud-demo-with-koa-js.aspx">http://weblogs.asp.net/shijuvarghese/archive/2014/01/12/a-simple-crud-demo-with-koa-js.aspx</a></li>
+            <li><a href="http://dailyjs.com/2014/01/09/koa/">http://dailyjs.com/2014/01/09/koa/</a></li>
+            <li>And of course <a href="http://www.koajs.com/" target="_blank">http://www.koajs.com </a>and especially the&nbsp;exemplary documentation.</li>
+        </ul>
+    </div>My code is in those gists listed above or&nbsp;<a href="https://github.com/marcusoftnet/KoaBlogPosts/tree/master/KoaFirstStumblingSteps" target="_blank">here in a repo</a>.
+    <br />
+    <br />I like Koa Js. I've written a couple of post about it. Here they will be when they are published:
+    <br />
+    <ul style="text-align: left;">
+        <li>Let's talk about Koa for a while, shall we? (this post)</li>
+        <li><a href="http://www.marcusoft.net/2014/04/koaGenYield.html" target="_blank">Let's talk about yield and generators, shall we?</a></li>
+        <li><a href="http://www.marcusoft.net/2014/03/koaExamples.html" target="_blank">Marcus Node Bits: Let's flex Koa Js, shall we?</a></li>
+    </ul>
+</div>
