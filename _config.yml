@@ -29,3 +29,4 @@ exclude: [
 	"scaffold_post",
 	"start_local"
 ]
+gems: ["jekyll-paginate", "pygments"]
