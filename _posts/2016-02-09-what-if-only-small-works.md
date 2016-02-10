@@ -12,7 +12,7 @@ tags:
 
 In my church, Vasakåren of the Salvation Army, there's some amazing work being done for people outside the church. All along the lines of William Booth (founder of the Salvation Army);
 
->Soup, soap, Salvation
+<blockquote>Soup, soap, Salvation</blockquote>
 
 One of the more impressive ones are led by my good friend Johan. It's a program that helps people to get job. It's called "faith, hope and work"[^1].
 
