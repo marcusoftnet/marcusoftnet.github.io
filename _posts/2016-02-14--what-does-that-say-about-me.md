@@ -9,7 +9,7 @@ tags:
  - Life of a consultant
 ---
 
-I more and more realize that what I'm doing is change management. It's involved in more or less every gig I get and I feel that I know just a fraction about what I need to handle it. 
+I more and more realize that what I'm doing is about change management. It's involved in more or less every gig I get and I feel that I know just a fraction about what I need to handle it. 
 
 However I have three thoughts that have helped me immensely in how to approach change. They calm me down around the nervosity I've felt about "changing people", since both have to do with changing perspective, putting me on the other side. 
 
