@@ -19,7 +19,7 @@ I cannot help but wonder:
 <a name='more'></a>
 
 # Glimpses
-<img src="/img/perspective.jpg" width="100%">
+<img src="/img/perspective.jpg" width="100%" alt="from https://pixabay.com/en/road-distance-landscape-horizon-348544/">
 
 Before I reveal my thoughts here - let me give a few glimpses (recent and old) that made me think about this;
 
