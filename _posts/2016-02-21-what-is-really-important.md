@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is really important?"
+title: "What is important, really?"
 author: "Marcus Hammarberg"
 date: 2016-02-21 15:33:38
 tags:
@@ -14,7 +14,7 @@ The team I'm in right now is under a lot of pressure and stress. And have been f
 
 I cannot help but wonder: 
 
-<blockquote>What is really important?</blockquote>
+<blockquote>What is important? Really.</blockquote>
 
 <a name='more'></a>
 
@@ -62,6 +62,6 @@ A final thought; think back on the toughest project I was in - what do I remembe
 
 Or do the opposite; the best time I had - what do I remember? For me it's always people and the feeling of being great together.
 
-What is really important? How can I be the one that spread more of that in my workplace? 
+What is important, really? Can I be the one that spread more of *that* in my workplace? 
 
 Hugs!
