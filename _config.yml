@@ -16,7 +16,6 @@ highlighter: pygments
 permalink: /:year/:month/:title.html
 timezone: Europe/Stockholm
 future: true
-lsi: true
 incremental: true
 paginate: 20
 exclude: [

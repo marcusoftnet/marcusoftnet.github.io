@@ -19,6 +19,8 @@ I cannot help but wonder:
 <a name='more'></a>
 
 # Glimpses
+<img src="img/perspective.jpg" width="60%">
+
 Before I reveal my thoughts here - let me give a few glimpses (recent and old) that made me think about this;
 
 * I remember in Indonesia that we had an important meeting that all of a sudden was interrupted by the news that one of the board members in the foundation had died. 
@@ -26,7 +28,6 @@ Before I reveal my thoughts here - let me give a few glimpses (recent and old) t
 * Me and the boys were at McDonlads, just now - 15 minutes ago. It was a mess; fighting and screaming. I then met an old friend that told me that his daughter have severe psychological problems. He just brought her to the ER. Again. 
 
 * Another time in Indonesia I saw a manager scream her staff in the face. 15 cm from the face - full volume. Then silence. The next person that spoke was me: I had to go and pick up my boys from school, I was already 15 minutes late. 
-
 * 11 September 2001 - I was in a very strained meeting with a client. Once we got out we found the rest of the company glued to TV-screens. Apparently there was an airplane that crashed into World Trade Center. I remember seeing the second plane crash live. 
 
 # What if? What would then be important? What is really important? 
@@ -41,6 +42,12 @@ What would not be important?
 * The thing that winded you up just minutes ago ("how can someone behave in such horrible way to my friend"), it's not very important now right? 
 
 * This person that you just can stand, because he simply just don't get agile; right now he needs a hug - don't you think? 
+
+* How important is it if my boys behave in McDonalds - when my old friend just told me about his daughters problems? 
+
+* Even discussing corruption and financial problems on the verge of bankruptcy... and then someone dies. What is important? 
+
+* When she yelled her staff in the face and I had to leave, interrupting the yelling, to pick up kids; what was important now again? 
 
 That, right there. The strange feeling I get when I think about things like that; it's called empathy. And I think we see to little of it in our workplace. 
 
