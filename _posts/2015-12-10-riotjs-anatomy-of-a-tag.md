@@ -47,7 +47,7 @@ One of the great things about micro frameworks is that since they are small they
 
 The simplest I've come up with is to just create an HTML document like this: 
 
-{% highlight html linenos %}
+{% highlight html  %}
 <!doctype html>
 <html>
   <head>
@@ -218,7 +218,7 @@ Secondly remove one of the `todo`-tags from the `index.html` file. One todo-list
 
 Finally we're going to feed in some default todo items into the list, just like we did on the title. Here's the full `index.html` page. The new items is found in the script at line 17-22.
 
-{% highlight html linenos %}
+{% highlight html  %}
 <!doctype html>
 <html>
   <head>
@@ -254,7 +254,7 @@ If you refresh the browser you'll see our empty list displayed in the center of 
 
 Let's fix that, it's easy to do with Riot's `each`-loop functionality. Open the todo `todo.tag` file and add the following HTML. 
 
-{% highlight html linenos %}
+{% highlight html  %}
 <h3>{ opts.title }</h3>
 
 <ul>
@@ -277,7 +277,7 @@ This just takes the values passed in to our tag and saves them in a local (`this
 
 The whole `todo.tag` should now look like this: 
 
-{% highlight html linenos %}
+{% highlight html  %}
 <todo>
     <h3>{ opts.title }</h3>
 
@@ -309,7 +309,7 @@ These refer to function in our tag. They are prefixed with `parent` since we, in
 
 Let's add the functions that simply operate on the `this.items` array that we just created. Like this: 
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
     function toggle(e) {
       var item = e.item
       item.done = !item.done
@@ -374,7 +374,7 @@ In the `todo.tag` file let's add a new top level tag below our `todo` tag. Yes, 
 
 We call our new `todo-form`. This component handles everything around the form for adding new items; markup and logic (possible styling). Here it is:
 
-{% highlight html linenos %}
+{% highlight html %}
 <todo-form>
     <form onsubmit={ add }>
       <input name="input" onkeyup={ edit }>
