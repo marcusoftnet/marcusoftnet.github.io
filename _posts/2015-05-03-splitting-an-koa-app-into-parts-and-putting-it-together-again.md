@@ -97,7 +97,7 @@ The first thing to realize is that there's no application in the root directory.
 
 I use <code>npm init</code> of course and create a simple application. I created an initial <code>index.js</code>, looking like this: 
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 var koa = require('koa');
 var app = module.exports = koa();
 var mount = require('koa-mount');
@@ -174,7 +174,7 @@ Mounting ([read previous post](http://www.marcusoft.net/2015/04/koa-js-and-the-p
 
 Mounting the Users-API from our previous posts, for example, will look like this:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 var userApi = require('UserAPI');
 
 app.use(mount('/users', userApi));
@@ -387,7 +387,7 @@ module.exports.reqBasic = function *(next){
 
 Yes, you are right! It looks exactly as a little [koa](http://koajs.com) application. Let's mount the orders-api under basic authentication and you'll be even more surprised:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 var auth = require('koa-basic-auth');
 var userAuth = require('./authentication.js');
 

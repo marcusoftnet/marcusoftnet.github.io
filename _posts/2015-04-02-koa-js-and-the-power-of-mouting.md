@@ -30,7 +30,7 @@ That sounds easy but how does it really work and what opportunities does this gi
 
 # Basic (?) example
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 var koa = require('koa');
 var mount = require('koa-mount');
 
@@ -78,7 +78,7 @@ Let's improve this a bit.
 # Separate files
 Let's address the second point above first, because that's trivial. Moving the applications to separate files are very simple. I moved them into a sub directory called ```subapps``` Here's the ```/subapps/hello.js``` application:
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 var koa = require('koa');
 var app = module.exports = koa();
 
@@ -92,7 +92,7 @@ Only thing worth noticing is that I've exposed the ```app``` object using ```var
 
 Here's the ```/subapps/world.js``` application. Exactly the same:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 var koa = require('koa');
 var app = module.exports = koa();
 
@@ -104,7 +104,7 @@ app.use(function *(next){
 
 Ok, this turns out very beautiful in the main application now: ```mountingAppsFromDifferentFiles.js```:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -127,7 +127,7 @@ But that's still "just" middle ware. Let's see what a little more real applicati
 
 Here's an application using [koa-route](https://www.npmjs.com/package/koa-route) to create some routing:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 "use strict";
 let koa = require('koa');
 let route = require('koa-route');
@@ -149,7 +149,7 @@ Very simple: at the root of *this* application we return a string informing the 
 
 In our "main" application we can do this:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -171,7 +171,7 @@ As a finale to this example I show how you can mount another instance of the app
 
 In fact you could also use the same instance of the sub application if you wanted. Like this:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -190,7 +190,7 @@ console.log('listening on port 3000');
 
 Bringing it back to my application that I've described at the top it will have a main application that looks something like this:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');

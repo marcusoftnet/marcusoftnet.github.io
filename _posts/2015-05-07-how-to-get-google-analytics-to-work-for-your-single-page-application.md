@@ -22,7 +22,7 @@ As with most things I learn it's based on others knowledge that I just tweak and
 # Infrastructure
 The first thing we did, based on the article above, was to create a custom javascript function for Google Analytics tracking. Here is where we ended up:
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 function gaTrack(path, title) {
 $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
@@ -47,7 +47,7 @@ After some great comments by [Jim Geurts](https://twitter.com/jgeurts?lang=en) I
 
 I don't really understand the full implications of that, but somehow as Jim kindly informed me when I asked, we need to create a tracker (line 2-4 above) only on the first load of the page. Here's two new functions that does that:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 function gaInit() {
   $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;

@@ -38,7 +38,7 @@ If you want to tag along as I build this example out, [grab the code from this t
 # The start
 Here's the test I'm starting from, you'll find it in /test/user.post.js:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 describe('POST to /user', function(){
 
 	var test_user = {};
@@ -91,7 +91,7 @@ What we want is to after the request has finished check the state of the databas
 
 And that takes a function. Let's by just using the end function. Like this: 
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 it('creates a new user for complete posted data', function(done){
 	// Post
 	request
@@ -156,7 +156,7 @@ This is where [co](https://github.com/tj/co) can help us. co is a little tool th
 Yes, exactly. I don't get that either. Still. But I think I can use it. Because basically it means that you can wrap a generator function with <code>co</code> and then execute the co function as a *normal* function. 
 
 This is how it would look, after you have added a <code>var co = require("co");</code> at the top of the file and <code>npm install co --save-dev</code>
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});
@@ -186,7 +186,7 @@ And now my <code>package.json</code> better represent the state I was actually r
 
 ## Back to the detour
 Once that is done... all tests still fails. This time it has to do with <code>co</code> completely changing it's behavior to return a promise. Luckily all the failures are in the same function: <code>testHelpers.removeAll</code> and can be solved by just moving the call to <code>done</code> inside the function, like this: 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 module.exports.removeAll = function(done){
 	co(function *(){
 		yield users.remove({});
@@ -219,7 +219,7 @@ Praise God for test when you update your infrastructure. And many other times to
 # Back to the code at hand - let's assert it
 Before we run the tests, let's go through the updated <code>.end()</code> function. Here it is again so that you don't have to scroll:
 
-{% highlight javascript linenos %}
+{% highlight javascript  %}
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});

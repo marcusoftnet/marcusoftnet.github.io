@@ -95,7 +95,7 @@ Secondly anyone can post to this endpoint and I will swallow it, potentially flo
 
 [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) is a way to fix that. And with the amazing plethora of [middlewares for Koa](https://github.com/koajs/koa/wiki) this was supersimple to implement. [Koa-Cors](https://www.npmjs.com/package/koa-cors) is the telling name of the middleware I used;
 
-{% highlight javascript linenos %}
+{% highlight javascript %}
 // app.js
 var app = module.exports = require("koa")();
 var cors = require("koa-cors");
