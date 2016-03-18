@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do we really know? Two approaches tried in my team"
+title: "We don't know what will work - a story from last week"
 author: "Marcus Hammarberg"
 date: 2016-03-16
 tags:
@@ -39,10 +39,8 @@ In order to get to know fast we need to do small, frequent experiment often and 
 You could call it the "humble approach" if you like. Or "experiment driven development". 
 
 ## One more thing - this is not an IT-thing
-Btw - the same goes for business and what will work there. As I've [written about before](http://codebetter.com/marcushammarberg/2014/01/27/do-we-dare-to-be-data-driven/).
+Btw - these ideas goes for business and what will work there. We don't know. I promise. And I've [written about it before](http://codebetter.com/marcushammarberg/2014/01/27/do-we-dare-to-be-data-driven/).
 
 We do not know what will work the best until we have put it in front of users and see if the way they used the system will make us come closer to our goals. 
 
 We should to define our goal, pose a hypothesis and then make the smallest possible change (i.e. investment) to validate our hypothesis. Now where have I [heard this before...](https://en.wikipedia.org/wiki/Scientific_method). Oh that's right - how all science has been made the last 2000 years! And [lean startup](http://theleanstartup.com/).
-
-
