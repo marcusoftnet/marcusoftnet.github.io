@@ -31,6 +31,16 @@ However (told you this was going to be good...) as the developer that was making
 
 He change 5 lines of code. Ran the tests again... 150% improvement!
 
+**[UPDATED]**
+It's been pointed out to me that this developer (that is an awesome developer) had a profiler to his help. A profiler is a tool that measures and helps you to track performance problems in your code.
+
+Well... of course he did. I just didn't write that. My mistake. 
+
+But what did he do there; he measured, saw problems, made a little change, measured again and around he went. It was very controlled, not like he just change a couple of random lines of code to get a good vibe. 
+
+My point, as you'll see below, is that you simply don't know what is the best thing - before the fact. The future is uncertain (duh!). The best way forward is to take small steps often and measure to see that you're on our way to the goal. If not we tweak our course.
+**[END UPDATED]**
+
 # What can we learn?
 We don't know what will work. Not until we have tested. You can have great ideas and plans - but that's just ideas and plans until you have validated them. 
 
