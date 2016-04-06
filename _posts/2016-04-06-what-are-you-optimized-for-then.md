@@ -85,7 +85,7 @@ Let's contrast them by painting them both in the worst possible way:
 
 or in fact more commonly (and even more sad)
 
-<blockquote>I don't about the customer as long as my department is fully utilized</blockquote>
+<blockquote>I don't care about the customer as long as my department is fully utilized</blockquote>
 
 I've been to companies where this has been true by design since the middle managers got compensated by the utilization of the employee. 100% -> big bonus.
 
