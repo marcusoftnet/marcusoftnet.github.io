@@ -59,11 +59,11 @@ With a WIP limit in one column your system will back up and be filled with items
 
 Let's now say that the test-environment now is shaky, for a couple of days for example. That means that things starts to back up. According to the WIP limit in Test we cannot pull new stuff into Test. A queue will form in front of the bottleneck column Test. 
 
-![Items backing up](/img/backingup.png)
+![Items backing up](/img/backingup.PNG)
 
 Once that bottleneck is resolved (the environment is working again) stuff can start to flow again. We now get the chance to focus our efforts to clear up the items in test that have been waiting. There's no use starting new stuff since there's long list of items that we not yet have tested. 
 
-![Resolving the bottleneck](/img/resolving.png)
+![Resolving the bottleneck](/img/resolving.PNG)
 
 We get that gentle urge to finish things. 
 
