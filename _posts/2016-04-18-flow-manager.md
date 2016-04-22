@@ -59,8 +59,11 @@ Yes, maybe this is what an agile coach does. Or the scrum master. Or maybe even 
 
 It's often a shared responsibility (and it still should be of course) that is implicitly understood to be important by everyone. Maybe one could try to make it the explicit responsibility for one person. 
 
-I think I could do that. I do want to try. 
+My authority would also be more explicit and eaiser to understand than it is as a *coach*. As a flow manager I can have opinions and request about our work that could help it flow better. As a coach this is not really explicit, I've noticed. Why should a product owner listen to me as a coach? They should. They could - but it's not required.
+
+# Summary
+I think I could be a flow manager. I do want to try. 
 
 <blockquote>Hi, I'm Marcus. I'm the flow manager here!</blockquote>
 
-I like that. 
+I like that. I'm requesting that title now
