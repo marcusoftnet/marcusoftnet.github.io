@@ -43,7 +43,7 @@ This is simple:
   * claudia-api-builder that we will use to create a nice little web api`npm install claudia-api-builder -S`
   * [Claudia](http://npmjs.org/package/claudia) itself `npm install claudia --save-dev`
 * Create our code file `touch index.js` 
-  * And make sure it's deployed with our package to AWS by including it in our `files` in `package.json`: `"files" : ["*.js"],`
+* No need to tell Claudia which `"files"` to deploy, as you had to do before, but it could be a good idea to exclude the `claudia.json` in your `.gitignore` and `.npmignore` 
 
 
 Open the `index.js` file and write the following simple code: 
@@ -68,12 +68,14 @@ Ok - time to release this little site. Open the `package.json` and add the follo
 
 ```
 "scripts": {
-    "create": "claudia create --name helloworld12 --region us-west-2 --api-module index",
+    "create": "claudia create --region us-west-2 --api-module index",
     "deploy" : "claudia update"
 }
 ```
 
 The first script is the one actually creating our little site in the AWS Lambda world; setting API gateways, configuring roles and all of that, which we want to forget - is the reason we're using Claudia in the first place.
+
+Notice that we don't give our lambda function a name. That is picked up from the `package.json` and the `name` property. As long you're happy with that name you don't need to supply a `--name` flag to `claudia create`. You still can should you want to override the name, of course.
 
 Let's run it now: `npm run create` and a few seconds later you'll see a nice little output stating that you have a new application in AWS. Here's the output, let's look a little closer: 
 
