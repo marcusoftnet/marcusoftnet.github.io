@@ -12,6 +12,9 @@ excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customi
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 highlighter: rouge
 permalink: /:year/:month/:title.html
 timezone: Europe/Stockholm
