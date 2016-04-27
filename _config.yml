@@ -14,8 +14,6 @@ excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customi
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
-highlighter: rouge
 permalink: /:year/:month/:title.html
 timezone: Europe/Stockholm
 future: true
@@ -35,4 +33,4 @@ exclude: [
 	"scaffold_post",
 	"start_local"
 ]
-gems: ["jekyll-paginate", "rouge", "classifier-reborn", "gsl"]
+gems: ["jekyll-paginate", "classifier-reborn", "gsl"]
