@@ -48,7 +48,7 @@ This is simple:
 
 Open the `index.js` file and write the following simple code: 
 
-```
+```javascript
 /* global require, module */
 var ApiBuilder = require("claudia-api-builder");
 var api = new ApiBuilder();
