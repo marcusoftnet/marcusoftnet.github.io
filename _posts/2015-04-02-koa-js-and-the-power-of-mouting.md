@@ -165,7 +165,7 @@ app.listen(3000);
 console.log('listening on port 3000');
 {% endhighlight %}
 
-Now we can reach our sub application by going to ```http://localhost:3000/subApp``` which will return  ```You are on the index of the sub app```. From ```http://localhost:3000/user/marcus``` we will get a nice message greeting ... well me.
+Now we can reach our sub application by going to ```http://localhost:3000/subApp``` which will return  ```You are on the index of the sub app```. From ```http://localhost:3000/subapp/user/marcus``` we will get a nice message greeting ... well me.
 
 As a finale to this example I show how you can mount another instance of the application in another path. So ```http://localhost:3000/sub/app/and/a/very/deep/path/user/marcus``` will again display a nice greeting.
 
