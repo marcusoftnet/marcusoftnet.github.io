@@ -57,7 +57,7 @@ I contacted [Håkan Forss](https://twitter.com/hakanforss) who is one of the mor
 
 He pointed to my (and his) favorite book on lean; [This is Lean](http://www.thisislean.com/) by Per Åhlström and [Niclas Modig](http://www.twitter.com/leanonmyself). In this book there's a very nice way of explaining what lean is really all about. I will just borrow part of it, read the book or [this post](https://hakanforss.wordpress.com/2012/03/26/lean-a-strategy-on-the-path-towards-nirvana/) by Håkan to get a fuller explaination. 
 
-![From https://hakanforss.wordpress.com/2012/03/26/lean-a-strategy-on-the-path-towards-nirvana/](https://hakanforss.files.wordpress.com/2012/03/image8.png)
+<img src="https://hakanforss.files.wordpress.com/2012/03/image8.png" alt="From https://hakanforss.wordpress.com/2012/03/26/lean-a-strategy-on-the-path-towards-nirvana/" width="100%" />
 
 With this picture the authors of This is Lean wants to explain that Lean is a *business strategy* that aims to takes us to nirvana where resource utilization is optimal at the same time as flow effeiciency is optimal. This is aptly named nirvana because that place is something to aim for, but you probably never get there. Toyota has been working on their way for about 80 years and they are probably best in the world.
 
