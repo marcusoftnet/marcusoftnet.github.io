@@ -13,6 +13,8 @@ I got a request by a nice man call Brandon Garlock to share some failure of mine
 
 >collection of stories about experienced and established developers (such as yourself) and the failures, setbacks and hurdles they overcame over the course of their careers. It will serve as an educational guide, motivation and reference for burgeoning programmers as they learn their craft.
 
+You can read more about the project at [http://www.iamascrewup.com/](http://www.iamascrewup.com/)
+
 That sounds both fun, worthy and useful. And I'm very honored to be part of the story. Any experienced developer will tell you that the greatest learning came from overcoming, maybe not always doing, great hurdles.
 
 I asked Brandon if I could share my story on this blog, as that how I mostly write stuff, and he kindly agreed.
