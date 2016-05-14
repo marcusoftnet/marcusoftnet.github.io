@@ -75,7 +75,7 @@ Saying to a team to try to work faster doing big things is a very tall order ind
 
 ### Also - why small always is better
 
-There's another, much deeper running reason why smaller is to prefer; we simply don't know what will work out there. We have to get something out to our users and try it. Why invest many hours in building a perfect but wrong thing, when a much simpler but incomplete feature could show if there's a deman or not. 
+There's another, much deeper running reason why smaller is to prefer; we simply don't know what will work out there. We have to get something out to our users and try it. Why invest many hours in building a perfect but wrong thing, when a much simpler but incomplete feature could show if there's a demand or not. 
 
 Not many business I've come across can be sure about what will work. There are two ways to handle that uncertainty; pretend that you know and just keep building away or try to learn. Fast. 
 
