@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Requirements and problems - they are not the same"
+title: "Requirements are not problem/opportunity descriptions"
 author: "Marcus Hammarberg"
 date: 2016-05-14 12:59:58
 tags:
