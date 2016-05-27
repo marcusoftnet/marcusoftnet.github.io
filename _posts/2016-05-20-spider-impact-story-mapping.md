@@ -10,21 +10,21 @@ tags:
  - Kanban
 ---
 
-I have a problem; i often have a really hard time connecting our vision and over arching goals to the items that we are actually working on. I want to be able to pick up anything we do and understand *why* we are doing this *now* and how it will take us closer to our goal. 
+I have a problem; I often have a hard time connecting our vision and overarching goals to the items that we are actually working on. I want to be able to pick up anything we do and understand *why* we are doing this *now* and how it will take us closer to our goal. 
 
 I've [blogged about this](http://www.marcusoft.net/2014/10/vision-statements.html) before and in my time in Indonesia I even thought I had a great way of uncovering what those high-flying goals *really* means, by simply asking this question:
 
 > What can we measure to see progress to that goal? 
 
-But it turns out, understandably once I think about it, that question is too hard. The gap between the vision and the work is too big. 
+But it turns out, understandably once I think about it, that question is too hard. The gap between the vision and the work is quite simply too big. 
 
-To me the connection between vision and our work reminds me a lot of the business of the underpants gnomes in South Park:
+To me often the connection between vision and our work reminds me a lot of the business of the underpants gnomes in South Park:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tO5sxLapAts" frameborder="0" allowfullscreen></iframe>
 
 It's like 
 
-1. vision: "we're gonna rock the world", 
+1. Vision: "we're gonna rock the world", 
 
 2. …, 
 
@@ -37,15 +37,15 @@ But I have an idea. We are trying it now at my current client. I wanted to share
 
 <a name='more'></a>
 
-I have a few headings that outlines my thought and a suggested process. As always when I read this I need to remind myself that this process is not done in one single meeting or day. This probably need some time to land. 
+I have a few headings that outlines my thought and a suggested process. As always when I read this I need to remind myself that this work is not done in one single meeting or session. Let it grow on you. 
 
 Under each heading I will write a little "How we did it" that describes the work we did at my current client. This is done to bring come concreteness and clarity to my rambling. I hope it helps you.
 
 ## What's in a vision?
 
-First things first; a [vision to me is a description](https://www.youtube.com/watch?v=dc0zvNymNcM) of a future state. Where we would end up if [we did our mission perfectly](https://www.youtube.com/watch?v=MkLhlJyfpsw), if you will. It's goal oriented and where we want to aim. 
+First things first; a [vision to me is a description](https://www.youtube.com/watch?v=dc0zvNymNcM) of a future state. Where we would end up if [we did our mission perfectly](https://www.youtube.com/watch?v=MkLhlJyfpsw), if you will. It's goal-oriented and where we want to aim. 
 
-But, there's a time in there as well. *When* in the future? This is one of the powerful tips you get in [Switch](http://heathbrothers.com/books/switch/) where they relate a story about a thorough change being implemented in American Health care. The leader did not only say *when* they were going to be done; he stated a date and a time: 
+But, there's a time stated in there as well. *When* in the future? This is one of the powerful tips you get in [Switch](http://heathbrothers.com/books/switch/) where they relate a story about a thorough change being implemented in American Health care. The leader did not only say *when* they were going to be done; he stated a date and a time: 
 
 > One year from now - 2010-04-25 09:00 - we will be done
 
@@ -61,15 +61,15 @@ Here it is, without revealing too much about the client and field they work in:
 
 Short, to the point and with a time frame. I love it! A steep order indeed. There's of course up for discussion what "best" means but there's other documents describing that part, and I don't want to relate them here. 
 
-You get the picture. You'll have to talk about it. That's also powerful.
+You get the picture. You'll have to talk about it. That's also powerful. Talking I mean.
 
 ## Making the vision … eh … visible
 
-One of the foundational principles of kanban in particular and lean in general is to make work visual. It turns out that things that you can see are much easier to grasp and reason about. Never has this been more true than when you talk about abstract and highflying things like vision or goals for example. 
+One of the foundational principles of kanban in particular and lean in general is to make work *visual*. It turns out that things that you can see are much easier to grasp and reason about. Never has this been more true than when you talk about abstract and highflying things like vision or goals for example. 
 
 Take the abstract text and make it accessible, present and in-your-face-clear and much of the battle is won. Take a look at the [pirate code of visualistation](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html) that we created a Rumah Sakit Bungsu a few years back - they work as a great start for me.
 
-I'm blessed right now with being surrounded by brilliant people. One of the new acquaintances I've made is a management consultant that brought some new ideas to us. The management team (4-5 ppl) of our entire team (40-50 ppl) went into a workshop where we defined the *capabilities* that we thought that we needed to reach the vision defined above. 
+I'm blessed right now with being surrounded by brilliant people. One of the new acquaintances I've made is Fredrik, a management consultant that brought some new ideas to us. Fredrik guided the management team (4-5 ppl) of our entire team (40-50 ppl) in a workshop where we defined the *capabilities* that we thought that we needed to reach the vision defined above. 
 
 This turned out to be a brilliant idea for us, but for other goals maybe areas we need to change, or components or some other division altogether might be a good idea. 
 
@@ -79,7 +79,7 @@ We decided to plot all of the capabilities we thought that we needed in a so cal
 
 ![An example area diagram showing the depth of kanban, from my friend Christophe Achouiantz blog](http://3.bp.blogspot.com/-KIC5mbfoR84/UUsYk-BAIUI/AAAAAAAAEJc/PIPzaCrYV9U/s1600/Kanban+-+Depth+of+Kanban+Implementation+-+Instructions.png)
 
-I like these diagrams because they show a lot of information: 
+I like these diagrams because they convey a lot of information: 
 
 * The axis - our capabilities that we need to work with to reach our goal
 * The area should be [balanced](http://www.marcusoft.net/2015/11/using-the-scientific-method-on-our-board.html#whats-important-to-track-really) and maximised most likely. This is easy to see and convey. 
@@ -91,17 +91,17 @@ I like these diagrams because they show a lot of information:
 
 Visualisation - can't beat the feeling.
 
-We ended up with 7 capabilities plotted out on a whiteboard, but you might have fewer or more. Examples of our capabilities were "Innovation within the team", "Motivated team members" and "Short lead times" that we will use as examples throughout the post.
+We ended up with 7 different capabilities plotted out on a whiteboard, but you might have fewer or more. Examples of our capabilities were "Innovation within the team", "Motivated team members" and "Short lead times" that we will use as examples throughout the post.
 
 ## Postcard from the future
 
-Another great tip from [Switch](http://heathbrothers.com/books/switch/) is to "send a post card from the future". Or in other words; tell the story about how it will be when we reach our goal. 
+Another great tip from [Switch](http://heathbrothers.com/books/switch/) is to "send a postcard from the future". Or in other words; tell the story about how it will be when we reach our goal. 
 
 Now that we have a number areas that we needed to address, but how on earth can you get a shared understanding on what the grading of the axis mean? 
 
 In other words:
 
-> What does 4 on "lead time" mean?
+> What does 4 on the "lead time" axis mean?
 
 This is not easy to answer but we did it by first defining *awesome* or what 10 looks like.
 
@@ -132,7 +132,7 @@ However, there's no use trying to sugar coat it. Just tell it as it is. I often 
 
 I think we too often try to soften then blow by painting a picture of something that is just not true. That might feel better now but there will be problems coming around the corner, when we will have to explain why we haven't delivered on our promises. 
 
-I've never got in problems by being honest. I have got into problems by trying to soften the blow. Your milage may vary. Not. 
+I've never got in problems by being honest. I have got into problems by trying to soften the blow. Your milage may **not** vary.  
 
 ### How we did it
 
@@ -140,7 +140,7 @@ For this exercise we had an extensive discussion (creating "the spider" and defi
 
 In our case the total area was pretty small indeed, with none of our 7 legs reaching beyond the number 3 grade. But hey - at least now we knew that. 
 
-We also listed a few bullets on a post-it, explaining our reasoning behind our grading.
+We also listed a few bullets on a post-it, explaining our reasoning behind each grading.
 
 ## Where to?
 
