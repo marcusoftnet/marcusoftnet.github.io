@@ -36,7 +36,7 @@ Starting from *WHY* we are doing things and then linking the things we are doing
 
 Secondly - a picture says more than a thousand words and is so much nicer to *talk about* than a list of features. Here's an example mind map without too much revealing information:
 
-![Example backlog](img/exampleMindMap.png)
+![Example backlog](/img/exampleMindMap.png)
 
 Let's pick this backlog on some information:
 * The goal is in the middle. 300 stores to some (scratched out) date. Ok that's what they are trying to achieve, their *WHY*. Nice and measurable. Need more details on how to measure of course but good enough to talk about:
