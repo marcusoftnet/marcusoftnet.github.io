@@ -10,7 +10,7 @@ tags:
  - Kanban
 ---
 
-A couple of weeks ago I might have tweeted:
+A couple of weeks ago I tweeted:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m not far from saying; if your <a href="https://twitter.com/hashtag/backlog?src=hash">#backlog</a> contains features you&#39;ve already failed. <a href="https://twitter.com/hashtag/impactmapping?src=hash">#impactmapping</a> <a href="https://twitter.com/hashtag/userstorymapping?src=hash">#userstorymapping</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/738254736189718528">June 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
