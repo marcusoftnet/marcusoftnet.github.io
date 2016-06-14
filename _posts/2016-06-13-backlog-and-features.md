@@ -39,7 +39,8 @@ Secondly - a picture says more than a thousand words and is so much nicer to *ta
 ![Example backlog](/img/exampleMindMap.png)
 
 Let's pick this backlog on some information:
-* The goal is in the middle. 300 stores to some (scratched out) date. Ok that's what they are trying to achieve, their *WHY*. Nice and measurable. Need more details on how to measure of course but good enough to talk about:
+
+* The goal is in the middle of this mind map. 300 stores to some (scratched out) date. Ok that's what they are trying to achieve, their *WHY*. Nice and measurable. Need more details on how to measure of course but good enough to talk about:
     - The next layer of circles are the **actors** in the impact mapping model. *WHO* (or what in this case) do we need to change. There's few areas that the team considers "things that helps/risks us from reaching that goal"
     - The final levels is the *HOW* and *WHAT* we need to change these actors, or components in this case. We see examples like `Bypass XXX`, `Cluster` and `Error handling` that the team thinks are good ideas as to *HOW* to improve the area `Store O` (yes - had to blank some part out. It's a sub-system of our solution)
 * See the small numbers on yellow stickies? That's the priority. Ok - now we see that Lost cart is number one. Wonder what that is - let's ask the team for details. 
