@@ -24,9 +24,9 @@ AWS Lambda is really cool but it leaves one of those: `Oh wow… now what am I g
 
 ## What we're going to build
 
-To build something a little more useful than a HelloWorld (although they can [be fun too](https://github.com/claudiajs/claudia-bot-builder)) I built a little tool I called [pingbot](https://github.com/marcusoftnet/pingbot). The need came from my current team at work where we sometimes need a quick way of checking response-times for our sites. With ping-bot you can, in Slack, just go `/ping-bot http://www.marcusoft.net` and it will return you a message about how long it took. 
+To build something a little more useful than a HelloWorld (although they can [be fun too](https://github.com/claudiajs/claudia-bot-builder)) In this post we are going to build a little Slack Slash Command called pingu. The need came from my current team at work where we sometimes need a quick way of checking response-times for our sites. With pingu you can, in Slack, just go `/pingu http://www.marcusoft.net` and it will return you a message about how long it took to request that url. 
 
-Let's rebuild that now - but this time call it pingu, since that's a cooler name and [lends for a nice logo](https://www.google.se/search?q=pingu&espv=2&biw=1436&bih=782&site=webhp&tbm=isch&imgil=nB4Haz9dIUaEbM%253A%253BQicLzo4wh4ZBXM%253Bhttp%25253A%25252F%25252Faretheyoldenough.com%25252Fare-they-old-enough%25252Fproject%25252Fpingu%25252F&source=iu&pf=m&fir=nB4Haz9dIUaEbM%253A%252CQicLzo4wh4ZBXM%252C_&usg=__tTyL1Jn-iZ0VJUtiT6iaq5EsNAQ%3D&dpr=2&ved=0ahUKEwj98c_Apa7NAhVjCZoKHef9Ae0QyjcIggE&ei=x4VjV73yMOOS6ATn-4foDg#imgrc=nB4Haz9dIUaEbM%3A) and some jokes. 
+Let's rebuild that now. Step by step.
 
 ## Up and run
 
@@ -123,7 +123,7 @@ After a few seconds you are done and Claudia spits out a nice little summary of 
 }
 ```
 
-All see all those deployed functions that means that we could reach our little pingu bot from Skyp, Facebook messenger, Telegram and Slack. We will use the last part, and hence will soon need that url.
+All see all those deployed functions that means that we could reach our little pingu bot from Skype, Facebook messenger, Telegram and Slack. We will use the last part, and hence will soon need that url.
 
 ### Testing
 
@@ -152,8 +152,9 @@ From this part on it's just following the wizard. Here's a few pointers:
 
 * My command is called `/pingu’
 * URL is the deploy-url that Claudia spit out for slack above (`"slackSlashCommand": "https://vozc2ng03h.execute-api.us-east-1.amazonaws.com/latest/slack/slash-command`).
+  ​
   So that's `https://vozc2ng03h.execute-api.us-east-1.amazonaws.com/latest/slack/slash-command` in my case
-* Method I left as POST
+* I left method as POST
 * I customised the name to be `pingu` 
 * I uploaded a, most likely trademark violated, picture for my command
 * Finally I added a nice description and a usage hint
