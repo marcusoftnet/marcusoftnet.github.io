@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claudia bot builder - giving Skynet legs"
+title: "Building a Slack command with Claudia bot builder"
 author: "Marcus Hammarberg"
 date: 2016-06-04 20:59:58
 tags:
