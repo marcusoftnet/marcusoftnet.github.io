@@ -6,6 +6,7 @@ date: 2016-04-01 20:10:37
 tags:
  - Tools
  - Javascript
+ - Claudia
 ---
 
 AWS Lambda functions are really great since the server is out of the picture. We don't really need to care about it, since AWS will handle scaling, patching, starting and stopping for us. It's just us and our code. Ah bliss!

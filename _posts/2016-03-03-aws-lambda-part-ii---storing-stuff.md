@@ -7,6 +7,7 @@ tags:
  - Tools
  - Javascript
  - NodeJs
+ - Claudia
 ---
 
 In [my last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia JS](https://github.com/claudiajs/claudia) we only created a very simple function that echoed some data back to us. Still amazingly cool since that echoing scales to whatever load we will put on it, but a bit meek maybe. 
