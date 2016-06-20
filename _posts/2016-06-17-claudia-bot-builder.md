@@ -177,6 +177,13 @@ Claudia will now redeploy the lambda function and at the end ask you input the t
 
 To be honest it will ask you about your Client ID, Client Secret and a homepage url too. I do not really understand that, but think that it doesn't matter much for our integration. That's needed when you create a Slack application, which we don't have to for our little integration. Looking forward to be enlightened by astute readers in the common. 
 
+**[UPDATED]**
+Ok - I now really understand that... The Client ID and Secret is indeed needed only if you create a proper Slack application that can be installed into any team. If you're just going to use it in your own team just answer anything to those questions. 
+
+Better yet... use [Claudia Bot Builder](https://www.npmjs.com/package/claudia-bot-builder) version 1.1.0 and you have different configuration options for the two different types of applications.
+
+`claudia update --configure-slack-slash-command` for slash-commands for only your team (that's what this article is about.). And use `claudia update --configure-slack-slash-app` for Slack applications.
+
 ## Test!
 
 Once all of that is done you can now go to the Slack group for which you installed the command and run your beauty. 
