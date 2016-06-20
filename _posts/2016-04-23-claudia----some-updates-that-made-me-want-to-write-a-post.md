@@ -4,7 +4,7 @@ title: "Claudia 1.2 - some updates that made me want to write a post"
 author: "Marcus Hammarberg"
 date: 2016-04-23 11:42:02
 tags:
- - JavaScript
+ - Javascript
  - Claudia
  - Tools
 ---

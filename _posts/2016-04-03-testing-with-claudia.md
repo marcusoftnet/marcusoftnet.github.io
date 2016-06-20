@@ -6,7 +6,7 @@ date: 2016-04-03 21:00:57
 tags:
  - Tools
  - Javascript
- - Node
+ - NodeJs
 ---
 
 In writing the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) I stumbled into a little nugget of gold that I never tried before `claudia test-lambda`.
