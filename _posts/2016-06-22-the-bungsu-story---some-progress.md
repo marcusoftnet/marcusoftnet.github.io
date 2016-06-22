@@ -46,6 +46,8 @@ This will also a place where we launch extra material that will be a nice additi
 
 [bit.ly/bungsustory](bit.ly/bungsustory) - tell all your friends!
 
+I've also created a twitter account [@bungsustorybook](https://twitter.com/bungsustorybook) where I will share most of the information on the book.
+
 # Progress and hopes
 The book is progressing... But a bit slow for my taste. I have the most excellent help from [Duarte Vasco](https://twitter.com/duarte_vasco) that is more a writing-coach than merely my editor.
 
