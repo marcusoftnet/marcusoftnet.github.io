@@ -303,24 +303,22 @@ Here's my first stab of a complete deploy script, I'll start with the <code>depl
 {% endhighlight %}
 
 <blockquote>
-Oh, for the start command I've added a small web application, just to make sure it shows up. It's written using [koa](http://koajs.org) of course and hence I need the <code>--harmony</code> flag... Not on [iojs](www.pluralsight.com/courses/running-node-applications-io-js) but still on Node... :P 
+Oh, for the start command I've added a small web application, just to make sure it shows up. It's written using [koa](http://koajs.org) of course and hence I need the <code>--harmony</code> flag... Not on [iojs](www.pluralsight.com/courses/running-node-applications-io-js) but still on Node... :P
 </blockquote>
 
 # Summary
-This means that I can go <code>npm run deploy:prod</code> and it will clean, test, version, push, deploy and launch my application. Just using npm and the <code>package.json</code> file. 
+This means that I can go <code>npm run deploy:prod</code> and it will clean, test, version, push, deploy and launch my application. Just using npm and the <code>package.json</code> file.
 
-There's no external tools dependencies but everything is downloaded with <code>npm install</code> which makes 0 to deploying very fast.  
+There's no external tools dependencies but everything is downloaded with <code>npm install</code> which makes 0 to deploying very fast.
 
-That's pretty sweet, me thinks! 
+That's pretty sweet, me thinks!
 
 You can find the full code [here](https://github.com/marcusoftnet/npmfullbuilddemo).
 
-Again; I picked up a lot of things from these 3 sources: 
+Again; I picked up a lot of things from these 3 sources:
 
 * [Excellent article](blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) by Keith Cirkel on using npm as build tool
-* The great [npm documentation](https://docs.npmjs.com/misc/scripts) - the only documentation that makes me giggle every minute. 
+* The great [npm documentation](https://docs.npmjs.com/misc/scripts) - the only documentation that makes me giggle every minute.
 * [Blog post](http://www.jayway.com/2014/03/28/running-scripts-with-npm/) from Anders Janmyr @ JayWay
 
 Thank you
-
-{% include adsense.html %}

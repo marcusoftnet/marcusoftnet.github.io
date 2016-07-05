@@ -74,5 +74,3 @@ Successfully uninstalled 'Mvc2Futures 2.0.50217.0'.
 And my project is clean as a baby... well I know from experience that that saying is not very well put – but it’s clean, let’s keep it to that. Everything is back to the state it was. The components are gone, the references as well and even any code changes that was made such as updating your web.config.
 
 NuGet is just brilliant! It just works! Changed the way you looked on taking dependencies on <a href="http://en.wikipedia.org/wiki/Open-source_software" target="_blank">OSS</a> projects.
-
-{% include adsense.html %}
