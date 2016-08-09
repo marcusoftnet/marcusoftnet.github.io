@@ -43,7 +43,7 @@ layout: default
 
                 {% include adsense.html %}
 
-                {{ page.content | remove_first: page.excerpt }}
+                {{ page.content | remove: page.excerpt }}
 
                 <hr>
                 {% include relatedPosts.html %}
