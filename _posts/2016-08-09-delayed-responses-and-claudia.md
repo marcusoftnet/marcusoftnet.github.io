@@ -216,7 +216,7 @@ Should you already have a deployed version of the bot you can add any additional
 
 Hey - it works! No complicated (although wonderful) message queue and complex but rather everything is done in a single small file that fits in my head. 
 
-We have a created a small little bot that now can receive a comma separated list of url in Slack and that pings them all. No matter how long it will take… or at least 120 seconds. 
+We have a created a small little bot that now can receive a comma separated list of url in Slack and that pings them all. For example try this: `/pingu http://www.aptitud.se, http://www.marcusoft.net, http://www.google.com` 
 
 I hope you found this useful. I learned a lot writing this. 
 
