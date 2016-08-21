@@ -14,6 +14,9 @@ excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customi
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 permalink: /:year/:month/:title.html
 timezone: Europe/Stockholm
 future: true
