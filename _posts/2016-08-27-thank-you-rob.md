@@ -9,7 +9,7 @@ tags:
  - Programming
 ---
 
-I've just downloaded and started to read the [Imposters Handbook.](https://bigmachine.io/imposter/, by [Rob Conery](http://rob.conery.io/). It's a book about all those things that you don't want to reveal that you don't know. I most of them I **should** know since I have read Computer Science. But I don't. It's a great (in all senses of the word ≈500 pages!) read  and promise to deliver even better things ahead. Go get yours now! 
+I've just downloaded and started to read the [Imposters Handbook.](https://bigmachine.io/imposter/), by [Rob Conery](http://rob.conery.io/). It's a book about all those things that you don't want to reveal that you don't know. I most of them I **should** know since I have read Computer Science. But I don't. It's a great (in all senses of the word ≈500 pages!) read  and promise to deliver even better things ahead. Go get yours now! 
 
 As I started to read it I heard a familiar voice in my head. Rob Conerys. And I just realised how much I've learned from him. 
 
@@ -44,4 +44,8 @@ I'm not a particular "Rob Conery"-fan boy - I don't listen to/read/learn your st
 
 And in doing so I realised, when I started to read the Imposter book to learn even more, that I just needed to write a proper Thank you down. Because I learned so much from you!
 
-Thank you Rob! Your teaching, presenting, screen casting, pod casting, blogging and writing helped me immensely. I'm deeply grateful.
+Thank you Rob! 
+
+Your teaching, presenting, screen casting, pod casting, blogging and writing helped me immensely. For this 
+
+I'm deeply grateful.
