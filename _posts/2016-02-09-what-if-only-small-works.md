@@ -7,7 +7,6 @@ tags:
  - Agile
  - Lean
  - Life of a consultant
- - Scale agile
 ---
 
 In my church, Vasakåren of the Salvation Army, there's some amazing work being done for people outside the church. All along the lines of William Booth (founder of the Salvation Army);

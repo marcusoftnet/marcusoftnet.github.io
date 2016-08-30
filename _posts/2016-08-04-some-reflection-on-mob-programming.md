@@ -7,7 +7,6 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Mob programming
 ---
 
 Since the first time I heard the term [mob programming](https://en.wikipedia.org/wiki/Mob_programming) it has intrigued me. I love things that challenges me and me perceptions. 

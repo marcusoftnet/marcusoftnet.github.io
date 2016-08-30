@@ -6,7 +6,6 @@ date: 2015-10-22 10:26:49
 tags:
  - NodeJs
  - Javascript
- - PluralSight
 ---
 
 I've just (October 21 2015) got news that my latest course for [PluralSight](http://www.pluralsight.com/) is published. 
