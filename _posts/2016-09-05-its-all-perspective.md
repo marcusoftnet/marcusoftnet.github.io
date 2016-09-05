@@ -55,7 +55,7 @@ A few times (ah, well quite often in fact), when I introduce lean thinking and p
 
 This is natural. Because just imagine. Someone walks into a room and states a new perspective that you never thought about before. Not only that - a perspective that might make your current ways, and roles (YOUR role maybe) and your ideals look bad. 
 
-It's like this [excellent video](https://www.youtube.com/watch?v=c6TrKkkVEhs) tells it: 
+It's like this [excellent video](https://youtu.be/TCqQ9LxzTwM?t=9m9s) tells it: 
 
 > If he's right - what does that say about me?
 
