@@ -74,3 +74,7 @@ If you want even more things to think about, consider the goal of a separate IT-
 ## Conclusion
 
 This helped me to understand why people, sometimes, are upset or thinks that the current ways cannot be changed. Also it made me more humble for the fact that there's another way to view the problem. 
+
+It's not that one perspective is smart and the other stupid, one good and the other bad - it's just different. 
+
+The organisation (and me as being part of it) needs to decide if we want to change from the one to the other (I suggest in small steps experimentally). The rationale behind that decision is of course if we think that the cost of doing that change is worth the benefits it brings. 
