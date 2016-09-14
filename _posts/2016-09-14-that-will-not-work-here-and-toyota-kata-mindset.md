@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Toyota Kata and the "We can't do that here"-fallacy"
+title: "Toyota Kata and the 'We can't do that here'-fallacy"
 author: "Marcus Hammarberg"
 date: 2016-09-14 10:51:52
 tags:
@@ -62,7 +62,7 @@ Now this is very interesting. Notice how this made-up-manager, schooled in Toyot
 It's not an option to walk or work around that vision. It's why we are here. To reach the vision. The future dream state. 
 
 > Rather than losing time discussing whether or not we should reduce the lot size, please turn your attention to those two obstacles standing in the way of our progress. 
-> 
+>
 > Please go observe the current paperwork and inspection processes and report back what you learn. After that I will ask you to make a proposal for how we can move to one day lot size without increasing our cost.
 
 Again wonderful coaching, although a bit harsh, but we can already sense that the plant manager is willing to do changes to the process as needed to reach the vision of the company. 
