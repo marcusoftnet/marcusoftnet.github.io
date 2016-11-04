@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When 3 minutes was slow"
+title: "Reflections on TankWars or when 2 minutes was slow"
 author: "Marcus Hammarberg"
 date: 2016-11-03 21:44:16
 tags:
