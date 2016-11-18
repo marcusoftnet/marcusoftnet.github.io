@@ -20,7 +20,7 @@ In this post I wanted to explain why this can sometimes be a good idea and hopef
 But first some examples;
 
 ## Move fast - break nothing
-The title of this heading is [actually a great talk by Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/) that I recommend you to watch.
+The title of this section is [a great talk by Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/) that I recommend you to watch.
 
 The thing that we were discussing, in the intro of this post, was that we had to postpone a release of a report. This had to do with the fact that we don't handle versions of the report but was changing the one report. 
 
