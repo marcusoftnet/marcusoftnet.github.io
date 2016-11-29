@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bring out the good!"
+title: "Bring out the good"
 author: "Marcus Hammarberg"
 date: 2016-11-28 12:20:52
 tags:
