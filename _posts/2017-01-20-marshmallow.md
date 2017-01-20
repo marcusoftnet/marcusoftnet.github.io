@@ -29,7 +29,9 @@ The [Marshmallow Challenge](http://www.tomwujec.com/design-projects/marshmallow-
 
 The rules are deceptively simple (see the picture below)
 
-![Marshmallow challenge](http://i0.wp.com/www.tomwujec.com/wp-content/uploads/2015/02/MM_Challenge_Title.jpg) 
+<img width="100%" alt="Marshmallow challenge" src="(http://i0.wp.com/www.tomwujec.com/wp-content/uploads/2015/02/MM_Challenge_Title.jpg">
+
+![](http://i0.wp.com/www.tomwujec.com/wp-content/uploads/2015/02/MM_Challenge_Title.jpg) 
 
 There's a catch though: the marshmallow is much heavier than you think. So heavy in fact, that when you put it on a spagetti - the straw breaks. 
 
