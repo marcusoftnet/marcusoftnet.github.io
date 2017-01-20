@@ -110,7 +110,7 @@ When the tower fell over he stepped forward again and started to build on top of
 
 He added the marshmallow on top and they reached 48 cm. At that time the highest structured recorded, only to be broken by the winning team (and by merely 8 cm more). 
 
-I got to know that this guy was shy and often didn't speak up, uninterested in school work. But this caught his attention and I was the one that got the team to get a result at all, when the others were close on giving up.
+Although he had been in the background so far, this caught his attention and he was the one that got the team to get a result at all, when the others were close on giving up.
 
 ## Summary
 
