@@ -31,8 +31,6 @@ The rules are deceptively simple (see the picture below)
 
 <img width="100%" alt="Marshmallow challenge" src="(http://i0.wp.com/www.tomwujec.com/wp-content/uploads/2015/02/MM_Challenge_Title.jpg">
 
-![](http://i0.wp.com/www.tomwujec.com/wp-content/uploads/2015/02/MM_Challenge_Title.jpg) 
-
 There's a catch though: the marshmallow is much heavier than you think. So heavy in fact, that when you put it on a spagetti - the straw breaks. 
 
 This is important and also the reason the most common result in the game is actually zero cm. Lower than if you would just put the marshmallow on the table flat (ca 2 cm high). 
