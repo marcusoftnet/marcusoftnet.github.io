@@ -6,7 +6,7 @@ date: 2016-11-03 21:44:16
 tags:
  - Agile
  - Lean
- - JavaScript
+ - Javascript
  - Tools
 ---
 
