@@ -50,7 +50,7 @@ Secondly, and related, we don't see that the item is blocked in it's context. Fo
 
 > We have 5 blocked items on our board 
 
-If we left them in the column (see the part on fixing below) they are blocked in we could instead say 
+If we left them in the column (see [the part on fixing below](http://www.marcusoft.net/2017/02/comments-on-board-practices.html#what-to-fixdo-instead)) they are blocked in we could instead say 
 
 >There's 3 items blocked in testing, 1 in development and 1 in deployment.
 
