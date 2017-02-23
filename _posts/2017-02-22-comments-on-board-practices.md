@@ -24,6 +24,7 @@ Here's the things I want to address, in no particular order:
 * Done? There's no Done
 * Colors speaks volumes - use them deliberately
 * It's not a kanban board if you don't have a WIP limit
+* Walk the board from right to left
 * [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
 
 Holy Moly! That's a plenty. I'll keep them all short and update the links to the posts as I write them. 
