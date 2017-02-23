@@ -20,7 +20,7 @@ It will be a little hit-list of my pet issues commonly found on agile/kanban-boa
 Here's the things I want to address, in no particular order:
 
 * Blocked is not a column {this post}
-* Todo - Doing - Done is not your process
+* [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html)
 * Done? There's no Done
 * Colors speaks volumes - use them deliberately
 * It's not a kanban board if you don't have a WIP limit
