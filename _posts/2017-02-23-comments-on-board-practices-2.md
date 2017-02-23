@@ -14,8 +14,8 @@ Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/
 For reference here's the list of all the posts in this series:
 
 - [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- Todo - Doing - Done is not your process {this post}
-- Done? There's no Done
+- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) {this post}
+- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
 - Colors speaks volumes - use them deliberately
 - It's not a kanban board if you don't have a WIP limit
 - Walk the board from right to left
@@ -94,11 +94,11 @@ Short and sweet;
 
 > Let the columns of your board reflect your actual process. What are you doing in "Doing"
 
-Here's the other posts in this series:
+Here are the other posts in this series:
 
 - [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- Todo - Doing - Done is not your process {this post}
-- Done? There's no Done
+- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) {this post}
+- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
 - Colors speaks volumes - use them deliberately
 - It's not a kanban board if you don't have a WIP limit
 - Walk the board from right to left
