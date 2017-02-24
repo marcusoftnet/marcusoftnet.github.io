@@ -2,7 +2,7 @@
 layout: post
 title: "Comments on common board practices - Part IV - colours speaks volumes - use them deliberately"
 author: "Marcus Hammarberg"
-date: 2017-02-23 12:48:13
+date: 2017-02-24 15:13:13
 tags:
  - Agile
  - Kanban
