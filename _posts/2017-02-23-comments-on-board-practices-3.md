@@ -11,7 +11,7 @@ tags:
 
 This comment is closely related to the [comment about columns](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). In this post I'm more specifically want to talk about the "Done"-column. The last column on most boards. I'm on a crusade to rename Done all over the world.
 
-{% include boardpractice-post-list.md }
+{% include boardpractice-posts.md %}
 
 Let's do it! Done-column - you're going down!
 
@@ -58,4 +58,5 @@ Other teams have gone further and called the column "Collect metrics-data" or so
 Try to come up with a better name for the last column in your flow than "Done". More specifically - remember that items in production will teach you a lot about how they behave and work. Don't miss the opportunity to learn from that. 
 
 If you liked this post there's more posts on the topic here:
-{% include boardpractice-post-list.md }
+
+{% include boardpractice-posts.md %}

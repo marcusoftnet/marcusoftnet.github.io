@@ -9,13 +9,13 @@ tags:
  - Scrum
 ---
 
-One of the things that always catches my attention when I walk past a board is the colours of the stickies. Why? Because colours requests our attention and *can* help us in understanding more about a thing. Red is naturally a warning (in western culture at least), green feels ok, etc. 
+One of the things that always catches my attention when I walk past a board is the colours of the stickies. Why? Because colours requests our attention and *can* help us in understanding more about a thing. Red is naturally a warning (in western culture at least), green feels ok, etc.
 
 This is why I get troubled when I hear that the reason that we have chosen the colours of the stickies on our board is "because we took the ones that was closest to us".
 
-That is sad and I share a few thoughts on how to improve on that state of mind - it's easy. 
+That is sad and I share a few thoughts on how to improve on that state of mind - it's easy.
 
-{% include boardpractice-post-list.md }
+{% include boardpractice-posts.md %}
 
 <a name='more'></a>
 
@@ -116,4 +116,4 @@ Colours helps us to classify and understand work better. Do better than just pic
 
 If you liked this post there's more posts on the topic below
 
-{% include boardpractice-post-list.md }
+{% include boardpractice-posts.md %}

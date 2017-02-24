@@ -9,9 +9,9 @@ tags:
  - Scrum
 ---
 
-Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my orignal blog-idea to write things down to clear it up for me and not forget about it.  
+Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my orignal blog-idea to write things down to clear it up for me and not forget about it.
 
-{% include boardpractice-post-list.md }
+{% include boardpractice-posts.md %}
 
 This time I wanted to talk about the column themselves, or maybe I dare to talk about the process they reflect. Our process for work!
 
@@ -87,4 +87,5 @@ Short and sweet;
 > Let the columns of your board reflect your actual process. What are you doing in "Doing"
 
 If you liked this post there's more posts on the topic here:
-{% include boardpractice-post-list.md }
+
+{% include boardpractice-posts.md %}
