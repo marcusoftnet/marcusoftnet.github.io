@@ -9,7 +9,7 @@ tags:
  - Scrum
 ---
 
-This comment is closely related to the comment about columns. In this post I'm more specifically want to talk about the "Done"-column. The last column on most boards. I'm on a crusade to rename Done all over the world.
+This comment is closely related to the [comment about columns](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). In this post I'm more specifically want to talk about the "Done"-column. The last column on most boards. I'm on a crusade to rename Done all over the world.
 
 {% include boardpractice-post-list.md }
 
