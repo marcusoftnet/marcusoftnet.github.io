@@ -19,7 +19,7 @@ That is sad and I share a few thoughts on how to improve on that state of mind -
 
 <a name='more'></a>
 
-# colours of (not only) the stickies 
+# Colours of (not only) the stickies 
 
 Take a look that these stickies: 
 
