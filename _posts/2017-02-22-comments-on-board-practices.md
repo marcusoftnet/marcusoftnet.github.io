@@ -77,12 +77,4 @@ For extra points we can [track the number of days](http://www.marcusoft.net/2017
 
 That was the first post. I hope you liked it. I'll try to keep the other ones coming during the next couple of days. 
 
-Here are the other posts in this series:
-
-- [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) {this post}
-- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) 
-- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
-- Colors speaks volumes - use them deliberately
-- It's not a kanban board if you don't have a WIP limit
-- Walk the board from right to left
-- [And for the love of everything holy - please tear off the post-it's the correct way!
+{% include boardpractice-post-list.md }
