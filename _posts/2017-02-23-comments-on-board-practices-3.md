@@ -11,15 +11,7 @@ tags:
 
 This comment is closely related to the comment about columns. In this post I'm more specifically want to talk about the "Done"-column. The last column on most boards. I'm on a crusade to rename Done all over the world.
 
-For reference here are the list of all the posts in this series:
-
-- [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) 
-- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html) {this post}
-- Colors speaks volumes - use them deliberately
-- It's not a kanban board if you don't have a WIP limit
-- Walk the board from right to left
-- [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
+{% include boardpractice-post-list.md }
 
 Let's do it! Done-column - you're going down!
 
@@ -65,13 +57,5 @@ Other teams have gone further and called the column "Collect metrics-data" or so
 
 Try to come up with a better name for the last column in your flow than "Done". More specifically - remember that items in production will teach you a lot about how they behave and work. Don't miss the opportunity to learn from that. 
 
-Here are the other posts in this series:
-
-- [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) 
-- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html) {this post}
-- Colors speaks volumes - use them deliberately
-- It's not a kanban board if you don't have a WIP limit
-- Walk the board from right to left
-- [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
-
+If you liked this post there's more posts on the topic here:
+{% include boardpractice-post-list.md }

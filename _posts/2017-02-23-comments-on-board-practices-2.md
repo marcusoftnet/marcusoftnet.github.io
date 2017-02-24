@@ -11,15 +11,7 @@ tags:
 
 Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my orignal blog-idea to write things down to clear it up for me and not forget about it.  
 
-For reference here's the list of all the posts in this series:
-
-- [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) {this post}
-- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
-- Colors speaks volumes - use them deliberately
-- It's not a kanban board if you don't have a WIP limit
-- Walk the board from right to left
-- [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
+{% include boardpractice-post-list.md }
 
 This time I wanted to talk about the column themselves, or maybe I dare to talk about the process they reflect. Our process for work!
 
@@ -94,13 +86,5 @@ Short and sweet;
 
 > Let the columns of your board reflect your actual process. What are you doing in "Doing"
 
-Here are the other posts in this series:
-
-- [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) 
-- [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) {this post}
-- [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
-- Colors speaks volumes - use them deliberately
-- It's not a kanban board if you don't have a WIP limit
-- Walk the board from right to left
-- [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
-
+If you liked this post there's more posts on the topic here:
+{% include boardpractice-post-list.md }
