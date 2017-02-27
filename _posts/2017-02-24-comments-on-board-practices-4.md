@@ -23,7 +23,7 @@ That is sad and I share a few thoughts on how to improve on that state of mind -
 
 Take a look that these stickies: 
 
-![Different coloured stickies](/img/boardWithMulitcolourstickies.jpg)
+![Different coloured stickies](/img/boardWithMulitColorStickies.jpg)
 
 The first thing that pops into my head when I see this is: Why is that one orange? How do you act differently on yellow vs blue? Blue?! Isn't that hard to read? Etc. etc. 
 

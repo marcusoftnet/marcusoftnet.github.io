@@ -4,4 +4,5 @@
 - [Colors speaks volumes - use them deliberately](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)
 - It's not a kanban board if you don't have a WIP limit
 - Walk the board from right to left
+- Focus on the work - not the workers
 - [And for the love of everything holy - please tear off the post-it's the correct way!](http://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
