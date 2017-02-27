@@ -15,7 +15,7 @@ However, for many early adopters of kanban, removing the cermonies of Scrum some
 
 Well - it's not really a kanban board if you don't have a work in process limit. Let me explain a bit further.
 
-{% include boardpractice-post-list.md %}
+{% include boardpractice-posts.md %}
 
 <a name='more'></a>
 
@@ -150,4 +150,4 @@ Without a WIP limit on our board - it's not a kanban board. Make it one by intro
 
 If you liked this post there's more posts on the topic below
 
-{% include boardpractice-post-list.md %}
+{% include boardpractice-posts.md %}
