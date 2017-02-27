@@ -104,7 +104,7 @@ However … there are a few guide-lines that I think can help you.
 
 First adopt the slogan from [Kanban In Action](http://bit.ly/theKanbanBook) (and other places) in your team:
 
-<img src="/img/stopStarting.jpg" alt="Stop starting - start finishing" /width="50%">
+<img src="/img/stopStarting.jpg" alt="Stop starting - start finishing" /width="30%">
 
 That is - in this team we prefer to finish stuff rather than to start new things. If we can, we help each other to finish things over making sure that I'm being busy working on new things.
 
