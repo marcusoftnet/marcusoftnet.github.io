@@ -106,7 +106,9 @@ First adopt the slogan from [Kanban In Action](http://bit.ly/theKanbanBook) (and
 
 <img src="/img/stopStarting.jpg" alt="Stop starting - start finishing" width="35%">
 
-That is - in this team we prefer to finish stuff rather than to start new things. If we can, we help each other to finish things over making sure that I'm being busy working on new things.
+I mean; agree on the following:
+
+> In this team we prefer to finish stuff rather than to start new things. If we can, we help each other to finish things over making sure that I'm being busy working on new things.
 
 #### Lower is better
 
