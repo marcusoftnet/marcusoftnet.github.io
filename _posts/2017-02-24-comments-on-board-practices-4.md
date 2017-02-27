@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Comments on common board practices - Part IV - colours speaks volumes - use them deliberately"
+title: "Comments on common board practices Part IV - Colours speaks volumes. Use colours wisely"
 author: "Marcus Hammarberg"
 date: 2017-02-24 15:13:13
 tags:
