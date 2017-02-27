@@ -1,5 +1,3 @@
-All the posts in this series:
-
 - [Blocked is not a column](http://www.marcusoft.net/2017/02/comments-on-board-practices.html)
 - [Todo - Doing - Done is not your process](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) 
 - [Done? There's no Done](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)

@@ -19,7 +19,7 @@ It will be a little hit-list of my pet issues commonly found on agile/kanban-boa
 
 Here's the things I want to address, in no particular order:
 
-{% include boardpractice-post-list.md }
+{% include boardpractice-posts.md %}
 
 Holy Moly! That's a plenty. I'll keep them all short and update the links to the posts as I write them. 
 
@@ -72,4 +72,5 @@ For extra points we can [track the number of days](http://www.marcusoft.net/2017
 That was the first post. I hope you liked it. I'll try to keep the other ones coming during the next couple of days. 
 
 If you liked this post there's more posts on the topic here:
-{% include boardpractice-post-list.md }
+
+{% include boardpractice-posts.md %}
