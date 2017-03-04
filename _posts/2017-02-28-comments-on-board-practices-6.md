@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Comments on common board practices Part IV - Focus on the work - not the workers"
+title: "Comments on common board practices - Focus on the work - not the workers"
 author: "Marcus Hammarberg"
-date: 2017-02-24 15:13:13
+date: 2017-02-28 15:13:13
 tags:
  - Agile
  - Kanban
