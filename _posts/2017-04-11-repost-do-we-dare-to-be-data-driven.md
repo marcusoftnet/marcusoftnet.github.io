@@ -15,9 +15,10 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 ## Original post
 
-We had set the system up for a test of how this [A/B testing](http://en.wikipedia.org/wiki/A/B_testing) stuff could work for us. Would it be useful? Could we communicate it clearly to the others around us? Would the data be easy to read?
+We had set the system up for a test of how this [A/B testing](http://en.wikipedia.org/wiki/A/B_testing) stuff could work for us. Would it be useful? Could we communicate it clearly to the others around us? Would the data be easy to understand and make something out of?
 
-![Impossible CAPTCHA)](img/Impossible-Captcha.jpg)From http://www.mikebilleter.com/2009/08/impossible-captcha.html
+![Impossible CAPTCHA)](/img/Impossible-Captcha.jpg)
+From http://www.mikebilleter.com/2009/08/impossible-captcha.html
 
 In order to know what we where doing we picked a no-brainer feature to test it on: registration with or without [CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA). You know, like the one to the left.
 
@@ -57,11 +58,13 @@ The site was really simple with just a single page, single “media”-section a
 
 They 24 different combinations of button text, button colors and different movies / pictures above them. Here’s part of their stats that show sign-up rates per combination:
 
-![Obama test sections](img/Obama_test_sections.jpeg)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
+![Obama test sections](/img/Obama_test_sections.jpeg)
+From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
 
 And the winning combination, combination 11 looks like this:
 
-![Obama winner](img/Obama_winner.png)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
+![Obama winner](/img/Obama_winner.png)
+From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
 
 Yes, people. Red button with “Learn more” and a picture of presidential family in a pastoral setting. 40.6% improvement in sign-up rate. That translates to 2,880,000 more email addresses, 288,000 more volunteers and since they are likely to contribute on average $21 $60 million more in donations. [Read the blog](http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) – it’s fascinating stuff.
 
