@@ -17,7 +17,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 We had set the system up for a test of how this [A/B testing](http://en.wikipedia.org/wiki/A/B_testing) stuff could work for us. Would it be useful? Could we communicate it clearly to the others around us? Would the data be easy to read?
 
-[![From http://www.mikebilleter.com/2009/08/impossible-captcha.html](http://codebetter.com/marcushammarberg/files/2014/01/Impossible-Captcha.jpg)](http://codebetter.com/marcushammarberg/files/2014/01/Impossible-Captcha.jpg)From http://www.mikebilleter.com/2009/08/impossible-captcha.html
+![Impossible CAPTCHA)](img/Impossible-Captcha.jpg)From http://www.mikebilleter.com/2009/08/impossible-captcha.html
 
 In order to know what we where doing we picked a no-brainer feature to test it on: registration with or without [CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA). You know, like the one to the left.
 
@@ -53,15 +53,15 @@ You know what the client ended up doing? Yes, of course we removed the CAPTCHA. 
 
 This client actually contacted another company later, since they were getting more serious about A/B testing. The company is called [Optimizely](https://www.optimizely.com/) and they did a really interesting presentation about their product when it was introduce at this client. In this presentation, to underline the use of A/B testing, they told the story about the Obama campaign site leading up to president Obama being elected president. Pretty good customer case, if you ask me (“this guy used our product and now he’s PRESIDENT OF THE USA”). Optimizely blogged about all the [details here](http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) and it’s a really interesting read.
 
-The site was really simple with just a single page, single “media”-section and an email address form (one field, one button). The goal was of course to get as many people as possible to sign up for the newsletter and hence “Join the movement”, and some percentage of these people would contribute financially too. It’s all about money, you know. ![:)](http://codebetter.com/marcushammarberg/wp-includes/images/smilies/simple-smile.png)
+The site was really simple with just a single page, single “media”-section and an email address form (one field, one button). The goal was of course to get as many people as possible to sign up for the newsletter and hence “Join the movement”, and some percentage of these people would contribute financially too. It’s all about money, you know. 
 
 They 24 different combinations of button text, button colors and different movies / pictures above them. Here’s part of their stats that show sign-up rates per combination:
 
-[![From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/](http://codebetter.com/marcushammarberg/files/2014/01/Obama_test_sections.jpeg)](http://codebetter.com/marcushammarberg/files/2014/01/Obama_test_sections.jpeg)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
+![Obama test sections](img/Obama_test_sections.jpeg)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
 
 And the winning combination, combination 11 looks like this:
 
-[![From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/](http://codebetter.com/marcushammarberg/files/2014/01/Obama_winner.png)](http://codebetter.com/marcushammarberg/files/2014/01/Obama_winner.png)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
+![Obama winner](img/Obama_winner.png)From http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/
 
 Yes, people. Red button with “Learn more” and a picture of presidential family in a pastoral setting. 40.6% improvement in sign-up rate. That translates to 2,880,000 more email addresses, 288,000 more volunteers and since they are likely to contribute on average $21 $60 million more in donations. [Read the blog](http://blog.optimizely.com/2010/11/29/how-obama-raised-60-million-by-running-a-simple-experiment/) – it’s fascinating stuff.
 
