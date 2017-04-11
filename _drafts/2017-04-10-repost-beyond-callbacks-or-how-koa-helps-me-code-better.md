@@ -16,9 +16,9 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 ## Ordinary post
 
-For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript. Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node ](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). 
+For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript. 
 
-Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications. 
+Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node ](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications. 
 
 That was … …wait (state)
 
@@ -43,8 +43,6 @@ That was … …wait (state)
 There – we can continue. *the fact* that you need to use [callbacks ](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html)so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely. But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB ](http://mongodb.github.io/)by name sent to the URL.
 
 <script src="https://gist.github.com/marcusoftnet/6e2f7f5573cbcd204f2c.js"></script>
-
-![thatWasGreat](http://codebetter.com/marcushammarberg/files/2014/05/thatWasGreat.gif)
 
 Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short – 
 
