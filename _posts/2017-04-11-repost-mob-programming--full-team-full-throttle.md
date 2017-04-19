@@ -15,7 +15,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 This particular post makes me very proud to repost here, since it's apparently one of the first posts ever written on mob programming, not by [Woody Zuill](https://twitter.com/WoodyZuill) - the father of the concept. 
 
-## Ordinary post
+## Original post
 
 One of the things that fascinates me with our industry is that you can learn new stuff, things that throw your current ideas on end and even provokes you – every day. For my first blog post here I thought I share such a concept that have surfaced to my mind the last couple of months.
 
