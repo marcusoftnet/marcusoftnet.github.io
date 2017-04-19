@@ -42,7 +42,7 @@ That was … …wait (state)
 
 There – we can continue. *the fact* that you need to use [callbacks ](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html)so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely. But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB ](http://mongodb.github.io/)by name sent to the URL.
 
-<script src="https://gist.github.com/marcusoftnet/6e2f7f5573cbcd204f2c.js"></script>
+{% gist 6e2f7f5573cbcd204f2c %}
 
 Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short – 
 
@@ -58,11 +58,11 @@ In fact, when I read the code above it’s exactly how I think about code. Get t
 
 I happily confess that I never used [yield in C#](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx), although it have been around for years. Now yield is coming to JavaScript and then they can be used in very interesting ways, which led me to try to understand yields again. Quite simply you can say that a yield statement is used to return a value from a sequence, and then halt until the client asks for the next value. Often they are used within loops through enumerations but they don’t have too. In fact this example made me understand them better;
 
-<script src="https://gist.github.com/marcusoftnet/2934772673f6752213fd.js"></script>
+{% gist 2934772673f6752213fd %}
 
 This is a little function that contains three yield statements. We can call the function in this way, in order to make use of the yield’ed values.
 
-<script src="https://gist.github.com/marcusoftnet/2fbb9f6e84a3af983db0.js"></script>
+{% gist 2fbb9f6e84a3af983db0 %}
 
 Note that I’m using the `.value` property to get the value out of the generator. The answer returned from the `.next()` is actually a little structure containing the value and a boolean property called done, which can be used to see if the sequence is finished or not. If fact, we could keep calling the function which would result in “undefined” for the fourth call and for the rest of the calls it would throw an `Sequence already finished` error. 
 
@@ -136,13 +136,13 @@ Ok, back to the point of all this. This post is growing too long already, but I 
 
 The [whole example can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode). Create a new directory called KoaMongoBlog and cd into it (`mkdir KoaMongoBlog* and then *cd KoaMongoBlog`). Now create a `package.json` with the following content;
 
-<script src="https://gist.github.com/marcusoftnet/450ff01a7eb86105cdcf.js"></script>
+{% gist 450ff01a7eb86105cdcf %}
 
 As you can see there’s a number of packages that we are depending on and that’s how Koa rolls. Koa is really tiny and then you include the middleware you need. Examples of such in this case is koa-route (for routing DUH!), koa-logger (for… well you know) and co-monk (a generator friendly wrapper for Mongo Db access). Embrace the middleware! There’s loads of them and often they are tiny, no more than a single function. 
 
-Note in my `package.json` that I have encapsulated the starting of the application in the scripts start node as described above. I’ve also growing into the habit to separate out the devDependencies from the dependencies needed in production. Next, create the application file, `app.js`  and paste this in;
+Note in my `package.json` that I have encapsulated the starting of the application in the scripts start node as described above. I’ve also growing into the habit to separate out the devDependencies from the dependencies needed in production. Next, create the application file, `app.js` and paste this in;
 
-<script src="https://gist.github.com/marcusoftnet/393363f4fdad3a00c482.js"></script>
+{% gist 393363f4fdad3a00c482 %}
 
 If you think this looks a lot like ExpressJs you are right. Koa is actually created by the VisionMedia guys, that created Express too. Wonder why they did that…? 
 
@@ -152,17 +152,17 @@ But right now, nothing is really happening in the app… it’s just routes. Let
 
 Add the following code to it.
 
-<script src="https://gist.github.com/marcusoftnet/5ade2bd7f5984cc17fdd.js"></script>
+{% gist 5ade2bd7f5984cc17fdd %}
 
 There’s a couple of lines at the top where we are setting up our access to Mongo through a great little library called Monk. This all ends up with us getting a blogPosts collection that we then can use in our functions below. With the generator goodness around [Monk](https://github.com/visionmedia/monk)  (using [co-monk](http://npmjs.org/package/co-monk)) the code is almost trivial, yet powerful. Just like we like it. You see examples on `.findById(id)`, `.find()`, `.update` and `.remove` in the code and I barely need to describe those. Many of the method takes optional parameters making them powerful, for things like sorting and projections. See the [Monk test for examples](https://github.com/visionmedia/monk). The rendering to views is done using a template engine called [swig](http://paularmstrong.github.io/swig/docs/) which you can read about if you need to, it’s really simple.  You can pass data to the templates as a second parameter to render like this (`yield render(“view.html”, { posts : postList})`). 
 
 The call to the view engine is encapsulated in a simple function/middleware found in the `render.js` file.
 
-<script src="https://gist.github.com/marcusoftnet/a109ae0525802c9b5261.js"></script>
+{% gist a109ae0525802c9b5261 %}
 
 This simple function just tells Koa where to find the views (`/views` folder) and that the swig template engine is to be used. In the actual views you use `{% %}` for statements and `{{ data }}`  to have data appear on the page. Take a look at the list.html page that lists all the blog-posts in the system and you’ll see what I mean about swig being really simple.
 
-<script src="https://gist.github.com/marcusoftnet/4fcadcd809e26a78bd5d.js"></script>
+{% gist 4fcadcd809e26a78bd5d %}
 
 Note the inclusion of a layout page at the top (`{% extends … %}`), where you can set up the framework of the pages. The rest of the views, works the same way and [can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode).
 
@@ -179,13 +179,13 @@ Now open the blog app on http://localhost:3000. The [Mongo](http://www.mongodb.o
 
 Before you leave, let’s take a look on how this can be tested. I will not show all the tests since that tends to grow long, but rather just show you how we can make a simple test to check that the update page shows up for an existing post.
 
-<script src="https://gist.github.com/marcusoftnet/dd41804d0b6bb2dff256.js"></script>
+{% gist dd41804d0b6bb2dff256 %}
 
 Here we are using [Supertest](http://www.marcusoft.net/2014/02/mnb-supertest.html) together with [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) to test our application. Note how simple it is to do requests against the application (line 4 and 29-33) and how we can validate the data on the page too. I should say a couple of words about [co](http://npmjs.org/package/co) and how I’m using it in testing. In order to show an existing post from the database on the page, I need first to insert it into mongo. I do that using the posts-collection from the `blogRoutes.js` file. 
 
 When that is done I need to access the page and validate that the data is on there. Since the co-monk is using generators it’s expecting that we use yield, and hence wait until that line is completed before moving on, we need someone to control that flow of execution. That’s Koa when we’re running this as a web application, but in the testing case we need help from another library, `co` . Co controls the flow through the yields for us and we can write the code as in our tests. Note that the co constructor function wraps our entire test specification and then is immediately invoked, like this:
 
-<script src="https://gist.github.com/marcusoftnet/77386323d4a5aedc84ff.js"></script>
+{% gist 77386323d4a5aedc84ff %}
 
 ## Summary
 
