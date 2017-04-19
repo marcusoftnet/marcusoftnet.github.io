@@ -2,7 +2,7 @@
 layout: post
 title: "Repost: Do we dare to be data-driven"
 author: "Marcus Hammarberg"
-date: 2017-04-11 08:12:43
+date: 2014-01-27 08:12:43
 tags:
  - Life of a consultant
  - Lean
