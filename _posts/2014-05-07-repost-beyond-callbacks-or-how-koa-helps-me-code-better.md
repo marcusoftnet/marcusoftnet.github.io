@@ -346,7 +346,7 @@ This simple function just tells Koa where to find the views (`/views` folder) an
 {% endblock %}
 ```
 
-Note the inclusion of a layout page at the top (`{% extends … %}`), where you can set up the framework of the pages. The rest of the views, works the same way and [can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode).
+Note the inclusion of a layout page at the top (`{ % extends … % }`), where you can set up the framework of the pages. The rest of the views, works the same way and [can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode).
 
 Ready to roll! You can now run you blog engine, written in less than 85 lines of code (not counting views). By you write tests first, right? Let’s try it out first and then write tests. [TDD is dead I heard](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)… 
 
