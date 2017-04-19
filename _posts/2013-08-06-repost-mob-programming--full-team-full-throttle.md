@@ -2,7 +2,7 @@
 layout: post
 title: "Repost: Mob programming – full team, full throttle"
 author: "Marcus Hammarberg"
-date: 2017-04-11 08:32:58
+date: 2013-08-06 08:32:58
 tags:
  - Agile
  - Lean
