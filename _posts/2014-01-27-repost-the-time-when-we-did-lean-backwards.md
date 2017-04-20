@@ -4,9 +4,10 @@ title: "Repost: The time when we did Lean backwards"
 author: "Marcus Hammarberg"
 date: 2017-04-19 15:05:07
 tags:
- - Agile
  - Lean
+ - Agile
  - Life of a consultant
+ - CodeBetter
 ---
 
 ### REPOST FROM CODEBETTER

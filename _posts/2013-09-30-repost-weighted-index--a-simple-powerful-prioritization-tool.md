@@ -7,6 +7,7 @@ tags:
  - Agile
  - Lean
  - Tools
+ - CodeBetter
  - Life of a consultant
 ---
 
