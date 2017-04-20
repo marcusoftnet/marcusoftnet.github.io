@@ -20,15 +20,15 @@ Here's they are:
 
 <a name='more'></a>
 
-My first post was on [mob programming](2013/08/repost-mob-programming--full-team-full-throttle.html) and was the first post on the topic written by someone else than Woody Zuill. It's even mentioned on the [wikipedia page for mob programming](https://en.wikipedia.org/wiki/Mob_programming) and those facts makes me immensely proud
+My first post was on [mob programming](/2013/08/repost-mob-programming-full-team-full-throttle.html) and was the first post on the topic written by someone else than Woody Zuill. It's even mentioned on the [wikipedia page for mob programming](https://en.wikipedia.org/wiki/Mob_programming) and those facts makes me immensely proud
 
-I wrote a few post on a the work I was doing at my current client there, the first one was about how we [visualised our backlog and board](/2013/08/repost-some-tools-for-improved-focus-improve-teamwork-and-faster-delivery.html)
+I wrote a few post on a the work I was doing at my current client there, the first one was about how we [visualised our backlog and board](http://www.marcusoft.net/2013/08/repost-some-tools-for-improved-focus-improve-teamwork-and-faster-delivery.html)
 
-And then a post on a tool that I have used many times under my consultancy career; [weighted index table](/2013/09/repost-weighted-index--a-simple-powerful-prioritization-tool.html)
+And then a post on a tool that I have used many times under my consultancy career; [weighted index table](/2013/09/repost-weighted-index-a-simple-powerful-prioritization-tool.html)
 
 At the time when I wrote these things I learned about A/B testing for the first time and wrote a [post about being data-driven](/2014/01/repost-do-we-dare-to-be-data-driven.html) and what kind of implications it has on doing business. 
 
-I mused over a comment that someone said about us [doing lean backwards](/2014/01/repost-the-time-when-we-did-lean-backwards.html) and what that would mean.
+I mused over a comment that someone said about us [doing lean backwards](/2017/04/repost-the-time-when-we-did-lean-backwards.html) and what that would mean.
 
 My last post on CodeBetter.com (so far) was the first thing I wrote on [Koa](http://koajs.com/). A framework that completely took me by surprise. This post marks the first venture for me into Javascript land.  I was so happy to [get rid of the pesky callbacks that haunted me.](/2014/05/repost-beyond-callbacks-or-how-koa-helps-me-code-better.html) 
 
