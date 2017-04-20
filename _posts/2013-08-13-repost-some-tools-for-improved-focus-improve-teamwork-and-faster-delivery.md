@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some tools for improved focus, improve teamwork and faster delivery"
+title: "Repost: Some tools for improved focus, improve teamwork and faster delivery"
 author: "Marcus Hammarberg"
 date: 2013-08-13 15:23:54
 tags:
