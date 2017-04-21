@@ -64,7 +64,7 @@ Here's the thing I found noteworthy in the guide - most of them are straight quo
 
 > By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint
 
-### About the articfacts
+### About the artefacts
 
 > Scrum’s artifacts represent work or value to provide transparency and opportunities for inspection and adaptation.
 
