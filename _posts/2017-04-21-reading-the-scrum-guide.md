@@ -10,17 +10,17 @@ tags:
  - Lean
 ---
 
-[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) was my first love in agile. I still remember the revolution and excitement I felt after the Scrum Master course and when me and my colleague Öystein started our first Scrum team. It was **awesome**! 
+[Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) was my first love in agile. I still remember the revolution and excitement I felt after the Scrum Master course and when I and my colleague Öystein started our first Scrum team. It was **awesome**! 
 
-Later I moved on to more [flow based approaches](http://bit.ly/theKanbanBook) when I ended up in environments where Scrum was not a great fit with it's iterations and locked down scope. 
+Later I moved on to more [flow based approaches](http://bit.ly/theKanbanBook) when I ended up in environments where Scrum was not a great fit with it	s iterations and locked down scope. 
 
-Scrum and me was far away from a time. There's no hard feelings but we just don't hang around much anymore. 
+Scrum and I was far away from a time. There are no hard feelings but we just don't hang around much anymore. 
 
 I saw someone tweet something like; 
 
 > I feel like many people talking about Scrum doesn't really know what it's about. Really. 
 
-Something like that. I felt that it was about me. So I decided to read the [official Scrum guide](http://www.scrumguides.org/scrum-guide.html) and take some notes. They are summarised in this post.
+Something like that. I felt that it was about me. So I decided to read the [official Scrum guide](http://www.scrumguides.org/scrum-guide.html) and take some notes. They are summarized in this post.
 
 <a name='more'></a>
 
@@ -102,19 +102,19 @@ I then [tweeted a few reflections or general feeling](https://twitter.com/marcus
 
 Scrum is pretty rigid! "The team does this", "At the end of the Sprint X is complete" "The organization will support" etc. There's not much room for changes in how it supposed to work. Very prescriptive level of description - which, at least for me, was exactly what I needed. Then. 
 
-Scrum, as described, requires discipline! I don't think I ever seen a team doing "proper" Scrum. Which is important since that's what Scrum is if you don't do all of Scrum as described in the guide it is not Scrum. Now that in itself is only important if you are selling Scrum and need to guarantee that it works. The rest of us try to make something work. 
+Scrum, as described, requires discipline! I don't think I ever saw a team doing "proper" Scrum. Which is important since that's what Scrum is if you don't do all of Scrum as described in the guide it is not Scrum. Now that in itself is only important if you are selling Scrum and need to guarantee that it works. The rest of us try to make something work. 
 
 The Scrum Master sounds, in the guide, like a pain in the xxx. "She teaches, enforces, educates..." etc. Not much servant-leadership-y as it most often has been described by others. 
 
-There's a lot of effort put into the guide to ensure the team and PO are shielded from the outside. The decisions lies within PO / Team. This require a big buy-in from the rest of the organisation and doesn't fit any organisation bigger than 10 people where I ever been. 
+There's a lot of effort put into the guide to ensure the team and PO are shielded from the outside. The decisions lie within PO / Team. This requires a big buy-in from the rest of the organisation and doesn't fit any organisation bigger than 10 people where I ever been. 
 
 Scrum - as described - is (sounds) super effective. I get really inspired. But requires understanding and buy-in from org around the team. 
 
 ## Conclusion
 
-I have no real problem with Scrum. It is really, as I reflect really really effective. However in order to be that effective there has to be some, in my experience, pretty massive adjustments from the rest of the organisation. 
+I have no real problem with Scrum. It is really effective. However, in order to be that effective, there has to be some, in my experience, pretty massive adjustments from the rest of the organisation. 
 
-That doesn't mean that Scrum can be used, in part, to still give you some (significant?) improvements. However it's then not Scrum (tm) - and you don't have to care about that. 
+That doesn't mean that Scrum can be used, in part, to still give you some (significant?) improvements. However it's then not Scrum (TM) - and you don't have to care about that. 
 
 Go ahead - make your own Scrum. Call it something else if needed. Here's a recipe that I've seen work (well really … someone has [made a method around this](https://en.wikipedia.org/wiki/Kanban_(development)) :)): 
 
@@ -122,11 +122,11 @@ Go ahead - make your own Scrum. Call it something else if needed. Here's a recip
 - [Visualize your workflow](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) (as you probably have done if you're doing Scrum)
 - [Limit your work in process](http://www.marcusoft.net/2017/02/comments-on-board-practices-5.html) so that you strive to do fewer things at the same time over more things at the same time. 
   - [Stop starting - start finishing!](http://bit.ly/theKanbanBook)
-- Help the work to flow faster. [Focus on the work - not the workers](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). A good idea is to make smaller things, or collaborate to move things faster
+- Help the work to flow faster. [Focus on the work - not the workers](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). A good idea is to make smaller things or collaborate to move things faster
 - Agree to improve in an experimental fashion, in small steps
 
 If you end up with something that looks like Scrum or not… who cares? 
 
-> The customer doesn't care how we are organised!
+> The customer doesn't care how we are organized!
 >
 > Leif Östling, CEO Scania ca 30 years
