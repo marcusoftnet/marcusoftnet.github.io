@@ -33,7 +33,7 @@ What is the smallest change we can do to increase the likelihood of that happeni
 
 I then showed the team a well-known position on a map of Stockholm and said that we would go there and then back again. It was an easy stroll, about 15 minutes away through the lovely Stockholm weather and a park where the cherry blossoms were blooming. 
 
-
+![A reflective stroll through a beautiful spring Stockholm](/img/strollThroughStockholm.png)
 
 We divided the team up into groups of three people that I think is reasonable to be able to walk and still have a conversation. 
 
