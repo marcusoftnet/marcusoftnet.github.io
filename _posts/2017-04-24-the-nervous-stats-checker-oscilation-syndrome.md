@@ -18,7 +18,7 @@ Now, at the time when he told me this, he just started to measure 3-4 times a da
 
 He had a doctors appointment later that afternoon to get proper medication. 
 
-I think I'm becoming Olle. And it's [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) fault. And mine own. Mostly my own.
+I think I'm becoming Olle. And it's [JIRAs](https://www.atlassian.com/software/jira) fault. And mine own. Mostly my own.
 
 <a name='more'></a>
 
