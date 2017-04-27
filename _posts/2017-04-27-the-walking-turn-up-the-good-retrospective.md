@@ -27,9 +27,9 @@ The post will be the description of how to run the retrospectives, a few lines o
 
 We gathered in our team area and I presented the questions that would form the theme for our discussion. Both of them at the same time: 
 
-What was the best thing we accomplished the last sprint? 
+> What was the best thing we accomplished the last sprint? 
 
-What is the smallest change we can do to increase the likelihood of that happening again? 
+> What is the smallest change we can do to increase the likelihood of that happening again? 
 
 I then showed the team a well-known position on a map of Stockholm and said that we would go there and then back again. It was an easy stroll, about 15 minutes away through the lovely Stockholm weather and a park where the cherry blossoms were blooming. 
 
@@ -82,8 +82,8 @@ Afterward, we reflected the shift in focus; only focusing on the good and not co
 
 But what I realized that one of the reasons that retrospectives, that becomes whining-fests, often doesn't reach actionable results might be that; 
 
-Focus on negative (often) ends up focusing on stuff that we cannot control or change
+> Focus on negative (often) ends up focusing on stuff that we cannot control or change
 
-Focus on positive stuff and amplifying it naturally puts focus on stuff that we are in control of
+> Focus on positive stuff and amplifying it naturally puts focus on stuff that we are in control of
 
 Or if we find stuff that is positive but out of our control… well, we got an excellent opportunity to go over there with a token of gratitude. A cake for example. Further spreading positive thinking. 
