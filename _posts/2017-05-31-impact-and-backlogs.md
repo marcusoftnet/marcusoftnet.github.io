@@ -19,6 +19,8 @@ In this post, I wanted to explore some thoughts I have had in my head on why we 
 
 <a name='more'></a>
 
+This post is a lot about feeling so I've used a little different tone in my writing. Imagine me saying this to you and it might make sense. Might...
+
 ## A negative ring - a positive ring
 
 Let's start fluffy - I rarely get the opportunity to be fluffy. 
@@ -108,8 +110,6 @@ It just needs to contain enough information so that we know what to talk about. 
 
 ## Summary
 
-Backlogs have a negative ring to them. I think we could do better by focusing on the impact we want to make. In doing so we would
-
 > Business impacts are heavy on the WHY and light on the HOW
 
 > Focusing on impacts implies focusing on opportunities and unrealized improvement opportunities. It is, at its core, positive.
@@ -117,3 +117,5 @@ Backlogs have a negative ring to them. I think we could do better by focusing on
 > Focusing on impacts opens up discussions for experimenting and trying different ways to the goal. 
 
 > By focusing on impacts we don't need to remember many details - they will come back to us, in the right context, as we discuss how to reach the goal. I promise.
+
+Stop working with backlog - start working with impacts. You will be happier, your work will be more flexible and engaging. And there will be dancing unicorns all around you. 
