@@ -22,7 +22,10 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-
 <p>In the <a href="http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html" target="_blank">first part of this series</a> I simply wrote the first specification. So it’s no time to, <a href="www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html" target="_blank">outside in</a>, get some of the steps passing. </p>
 <h3>Step carefully now</h3>
 <p>Where we left off we got an error message and stub implementation from <a href="http://www.specflow.org" target="_blank">SpecFlow</a> like this:</p>
-<a name='more'></a><pre class="brush: xml; ruler: true; gutter: false; toolbar: false; collapse: true; auto-links: false;">Given the following Kanban boards<br />  --- table step argument ---<br>yada yada yada...<br /> No matching step definition found for the step. Use the following code to create one:<br />    [Binding]<br />public class StepDefinitions<br />{<br />    [Given(@"the following Kanban boards")]<br />    public void GivenTheFollowingKanbanBoards(Table table)    <br />    {<br />        ScenarioContext.Current.Pending();<br />    }<br />}<br /></pre>
+
+<a name='more'></a>
+
+<pre class="brush: xml; ruler: true; gutter: false; toolbar: false; collapse: true; auto-links: false;">Given the following Kanban boards<br />  --- table step argument ---<br>yada yada yada...<br /> No matching step definition found for the step. Use the following code to create one:<br />    [Binding]<br />public class StepDefinitions<br />{<br />    [Given(@"the following Kanban boards")]<br />    public void GivenTheFollowingKanbanBoards(Table table)    <br />    {<br />        ScenarioContext.Current.Pending();<br />    }<br />}<br /></pre>
 <br />
 <p>So I created a Steps folder and added the suggested code to a HomeSteps class. I also added the other two step definitions from the suggested coded. I left all of steps pending for now. Here is the code:</p>
 <br />
