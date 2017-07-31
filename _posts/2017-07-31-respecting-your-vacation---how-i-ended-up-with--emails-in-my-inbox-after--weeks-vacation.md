@@ -41,7 +41,7 @@ Below follows a description on how I set this up using Gmail. I'm sure you can f
 
 ### Out of Office reply
 
-![Out of office settings](/img/ooo.png)
+![Out of office settings](/img/ooo.jpg)
 
 1. Open Gmail and login
 
@@ -60,13 +60,22 @@ Before we start - this is a bit hacky and I’m not proud of how this turned out
 1. Open Gmail and login 
 
 2. Open Settings (Gears-icon -> Settings)
+
 3. Go to the “Filters and Blocked Addresses”-tab
+
 4. Click the “Create a new filter”-link.
+
 5. There’s no “catch all incoming emails”-feature in Gmail filters so we’re going to do a hack by matching all emails not containing a very unlikely string. Like this:
    ![Creating a catch all filter](/img/catchAllFilter.jpg)
+
 6. Click the “Create filter with this search”-link in the bottom corner
-7. Set up the rules for your filter. Again - here are mine but I’m sure you can be much more creative when doing your filter
-   ![Creating the filter](img/creatingFilter.jpg)
+
+7. Set up the rules for your filter. I'm moving my emails from the inbox and adding a label called "VacationEmails", so that I can easily find everything that has been filtered out. 
+
+   Again - here are mine but I’m sure you can be much more creative when doing your filter
+   ​
+   ![Creating the filter](/img/creatingFilter.jpg)
+
 8. Click “Save filter” (or Update filter if you’re editing it) to enable the filter. 
 
 ### "Fun" with filter hacking
@@ -88,4 +97,35 @@ But there’s a hack; exporting your filters and reorder them locally… Here's 
 5. Enjoy the reordered list of filters
 6. Go to vacation and be FREE!
 
-## Meeting the "But I cannot do that here"-argument
+## Meeting the "But I cannot do that, you know"-argument
+
+Yes I know. Your job is so that you cannot just turn off your email. Sure, people would get angry. Yes, yes - there's issues popping up at anytime that you need to consider and act on. 
+
+But - stop and think for a while. Who, of all those senders (including automatic / robotic ones) cares for you and your well-being? Will anyone of those think: 
+
+> Hmmm - I better not send that now, because Marcus sure need his vacation. He felt really tired before he left. And by God, it is in the law to have un-distrubed vacation. The man need his rest!"
+
+I'm betting not that many. 
+
+Finally - there's a hidden improvement opportunity in doing this. If you start to talk about turning on a feature like this during your well-earned (and *by law required to be un-distrubed*, I will not re-iterate this again now. Promise) vacation, questions will arise:
+
+> If she's not around, who will take care of X in the meantime?
+
+> What if customer Y calls about their contract? How should that knowledge spread?
+
+> If he is not here, where can I read up on how to restart job Z?
+
+All of these are knowledge spreading, pain sharing, improvement finding opportunities waiting to happen. 
+
+As with many things, these problems and issues that we see coming by introducing a new (better?) way of working - are in fact improvement opportunities waiting to happen. 
+
+## Conclusion - how did it turn out?
+
+I came back from my vacation this morning. The inbox was empty. Not once was I disturbed nor did I think about the work emails. 
+
+Two "important" emails snuck by me:
+
+* One with a planning for the upcoming period. Someone told me it was sent and I picked it up in about 1 minute from my filtered folder (all emails with the label "VacationEmails")
+* A person close to me is going to change position. At lunch someone told me. I then could find that email pretty fast and read up on the details.
+
+The team(s) around me has coped perfectly without my intervention during this time. 
