@@ -66,6 +66,7 @@ Before we start - this is a bit hacky and I’m not proud of how this turned out
 4. Click the “Create a new filter”-link.
 
 5. There’s no “catch all incoming emails”-feature in Gmail filters so we’re going to do a hack by matching all emails not containing a very unlikely string. Like this:
+
    ![Creating a catch all filter](/img/catchAllFilter.jpg)
 
 6. Click the “Create filter with this search”-link in the bottom corner
@@ -73,7 +74,7 @@ Before we start - this is a bit hacky and I’m not proud of how this turned out
 7. Set up the rules for your filter. I'm moving my emails from the inbox and adding a label called "VacationEmails", so that I can easily find everything that has been filtered out. 
 
    Again - here are mine but I’m sure you can be much more creative when doing your filter
-   ​
+
    ![Creating the filter](/img/creatingFilter.jpg)
 
 8. Click “Save filter” (or Update filter if you’re editing it) to enable the filter. 
