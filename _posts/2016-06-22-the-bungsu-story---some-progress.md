@@ -8,7 +8,6 @@ tags:
  - Kanban
  - Lean
  - Indonesia
- - Bungsu
 ---
 
 About six months ago I got home from the adventure of our life time in Indonesia. At the time I was actually feeling very underwhelmed and that we've failed in our work there.
