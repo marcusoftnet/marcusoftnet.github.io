@@ -39,6 +39,13 @@ Team:  "How about if you let us work for a change?"
 
 It reminds me of a situation that [I was in my personal life when I lived in Indonesia](http://www.marcusoft.net/2015/09/the-forced-swing-in-my-garden-and-coaching.html). Unwanted help is truly annoying and damaging for the relationship between the parties involved. 
 
+Being helped when you don't want help is a little bit abusive. Like this:
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">My favourite subset of internet video is dogs that think their owners are drowning and this one is gold  <a href="https://t.co/Yiv2MMZHFt">pic.twitter.com/Yiv2MMZHFt</a></p>— Alan White (@aljwhite) <a href="https://twitter.com/aljwhite/status/894289884168560640">August 6, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+And in this video - I would be the dog.
+
 ## No skin in the game
 
 Another thing that hit me when I thought about the situation was this: 
