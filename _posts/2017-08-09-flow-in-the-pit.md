@@ -33,7 +33,7 @@ There's also a lot of specialised gear in action;
 * The long beams with, what I presume, pressurised air to drive the drills for the wheels
   * Did you see the spare drill for each position?
   * Did you see the guy hooking in his headset in the cord inside the beam?
-* The drills and the bolts on the wheels are custom-made to be fast to take on an off at this speed.  
+* The drills and the bolts on the wheels are custom-made to be fast to take on and off at this speed.  
 
 And the list goes on. It's so cool to see in action. 
 
@@ -51,8 +51,8 @@ Here's what I notice as I think about it:
 * All of those small, small improvements comes from thousands of hours of deliberate training and practice
   * I'm betting that the way they work change after every race. A new way to position yourself, should I hold my hands like this or even a new type of drill
   * I'm betting that the crew members are encouraged to improve their ways, rather than waiting to be told how to act.
-  * I'm betting that the right-front-tire-remover guy is not rewarded for his individual contribution/performance but rather the overall team performance.
   * I'm betting every single move of all of the team members are tracked and measured, retrospected and improved. And I think they do that without anyone asking them too - there's no other reason to be in the team. They are here to win. 
+  * I'm betting that the right-front-tire-remover guy is not rewarded for his individual contribution/performance but rather the overall team performance.
 * No expense is spared to reach the goal
   * These guys are not free and the drivers, in F1, are among the best paid sportsmen in the world. 
   * The gear is all custom made
