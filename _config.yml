@@ -14,13 +14,11 @@ excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customi
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+
+highlighter: rouge
 permalink: /:year/:month/:title.html
 timezone: Europe/Stockholm
-future: true
-incremental: true
+incremental: false
 paginate: 20
 exclude: [
 	"node_modules",
