@@ -20,11 +20,13 @@ One of the core features of NuGet is that it not only install the requested comp
 
 For example the other day I wanted to include <a href="http://openidportablearea.codeplex.com/" target="_blank">OpenIdPortableArea</a> in my <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> application. It’s just a simple NuGet away. I went:
 
-<code>Install-Package OpenIdPortableArea</code>
+```PowerShell
+Install-Package OpenIdPortableArea
+```
 
 in the package manager console and NuGet went:
 
-{% highlight bash %}
+```bash
 'MvcContrib' not installed. Attempting to retrieve dependency from source...
 Done.
 'MicrosoftWebMvc (≥ 2.0)' not installed. Attempting to retrieve dependency from source...
@@ -43,7 +45,7 @@ Successfully added 'MicrosoftWebMvc 2.0' to Web.
 Successfully added 'MvcContrib 2.0.95.0' to Web.
 Successfully added 'DotNetOpenAuth 3.4.6.10357' to Web.
 Successfully added 'OpenIdPortableArea 1.0.0.3' to Web.
-{% endhighlight %}
+```
 
 (Please note the AutoComplete feature by hitting tab; command names, parameters and even remote package name. Start typing (in my case) <code>OpenId</code>, hit TAB and make your choice).
 
@@ -53,11 +55,13 @@ But now I want to reverse that action. In this particular case I want to wait fo
 
 Again – it works just fine with the switch <code>‑RemoveDependencies</code> So I simply go:
 
-<code>Uninstall-Package OpenIdPortableArea –RemoveDependencies</code>
+```PowerShell
+Uninstall-Package OpenIdPortableArea –RemoveDependencies
+```
 
 and NuGet does this:
 
-{% highlight bash %}
+```bash
 Successfully removed 'OpenIdPortableArea 1.0.0.3' from Web.
 Successfully removed 'DotNetOpenAuth 3.4.6.10357' from Web.
 Successfully removed 'MvcContrib 2.0.95.0' from Web.
@@ -68,9 +72,8 @@ Successfully uninstalled 'DotNetOpenAuth 3.4.6.10357'.
 Successfully uninstalled 'MvcContrib 2.0.95.0'.
 Successfully uninstalled 'MicrosoftWebMvc 2.0'.
 Successfully uninstalled 'Mvc2Futures 2.0.50217.0'.
-{% endhighlight %}
+```
 
-
-And my project is clean as a baby... well I know from experience that that saying is not very well put – but it’s clean, let’s keep it to that. Everything is back to the state it was. The components are gone, the references as well and even any code changes that was made such as updating your web.config.
+And my project is clean as a baby butt. Well I know from experience that that saying is not very well put – but it’s clean, let’s keep it to that. Everything is back to the state it was. The components are gone, the references as well and even any code changes that was made such as updating your web.config.
 
 NuGet is just brilliant! It just works! Changed the way you looked on taking dependencies on <a href="http://en.wikipedia.org/wiki/Open-source_software" target="_blank">OSS</a> projects.
