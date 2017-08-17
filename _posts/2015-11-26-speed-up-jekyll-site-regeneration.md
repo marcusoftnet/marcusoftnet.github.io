@@ -22,13 +22,13 @@ Use the <code>--limit_posts</code> switch to your <code>jekyll serve</code> comm
 # Longer version
 I've written before [my post scaffolder](/2014/12/my-post-scaffolder-for-jeyll) which is a handy little script to get started. The other script I have made is a very simple script for starting my site locally. Here it is: 
 
-``` bash
+```bash
 jekyll serve --watch
 ```
 
 This just starts my blog locally and <code>watch</code> all folders for changes. If a change is found the entire site is regenerated. A normal editing round might look like this: 
 
-``` bash 
+```bash 
 $ ./start_local 
 Configuration file: /Users/marcus/Projects/blog/_config.yml
             Source: /Users/marcus/Projects/blog
@@ -49,12 +49,14 @@ That's too slow, since I in this stage of editing mainly fix layout and typos.
 But today I saw a switch called <code>--limit_posts</code> and gave it a try with only the last 1 post regenerated. Sure enough the time dropped significantly, almost instant feedback. Awesomery! 
 
 Here's my new command
-``` bash 
+
+```bash 
 jekyll serve --watch --limit_posts 1
 ```
 
 And now when I save I get times like these:
-``` bash 
+
+```bash 
 Regenerating: 1 file(s) changed at 2015-11-26 10:06:44 ...done in 1.745348 seconds.
 Regenerating: 1 file(s) changed at 2015-11-26 10:07:09 ...done in 1.845595 seconds.
 Regenerating: 1 file(s) changed at 2015-11-26 10:07:41 ...done in 1.764797 seconds.
