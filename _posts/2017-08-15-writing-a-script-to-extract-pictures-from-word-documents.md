@@ -19,7 +19,7 @@ The problem is easy enough to describe: I wanted to extract all the images from 
 
 Here's the bash script that I ended up with
 
-```shell
+```bash
 rm -rf zips 
 mkdir zips
 cp docs/*.docx zips
