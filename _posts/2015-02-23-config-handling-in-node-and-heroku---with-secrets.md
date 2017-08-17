@@ -18,7 +18,40 @@ In this post I'll show you a little function / object that I've found plenty use
 <a name='more'></a>
 
 I don't know really where I picked this construct up, the first time, but I'm eternally grateful that I've found it. It's just a simple object, with a twist. Here's the code for my configuration object, let's go through it below:
-<script src="https://gist.github.com/marcusoftnet/68d7bb7bf61fb08aeb91.js"></script>
+
+```javascript
+var mongoProdUri = process.env.MONGOLAB_URI || 'localhost:27017/myApp_Prod';
+
+var adminUser = {
+	name : process.env.BASIC_USER || 'marcus',
+	pass : process.env.BASIC_PASS || 'koavote'
+};
+
+var config = {
+	local: {
+		mode: 'local',
+		port: 3000,
+		mongoUrl: 'localhost:27017/myApp_Dev',
+		user : adminUser
+	},
+	staging: {
+		mode: 'staging',
+		port: 4000,
+		mongoUrl: 'localhost:27017/myApp_Test',
+		user : adminUser
+	},
+	prod: {
+		mode: 'prod',
+		port: process.env.PORT || 5000,
+		mongoUrl: mongoProdUri,
+		user : adminUser
+	}
+};
+
+module.exports = function (mode) {
+	return config[mode || process.argv[2] || 'local'] || config.local;
+};
+```
 
 At line 1 and 4-5 I'm using an old Javascript-trick:
 
