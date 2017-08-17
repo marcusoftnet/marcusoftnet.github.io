@@ -20,7 +20,7 @@ One of the core features of NuGet is that it not only install the requested comp
 
 For example the other day I wanted to include <a href="http://openidportablearea.codeplex.com/" target="_blank">OpenIdPortableArea</a> in my <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> application. It’s just a simple NuGet away. I went:
 
-```PowerShell
+```bash
 Install-Package OpenIdPortableArea
 ```
 
@@ -55,7 +55,7 @@ But now I want to reverse that action. In this particular case I want to wait fo
 
 Again – it works just fine with the switch <code>‑RemoveDependencies</code> So I simply go:
 
-```PowerShell
+```bash
 Uninstall-Package OpenIdPortableArea –RemoveDependencies
 ```
 
