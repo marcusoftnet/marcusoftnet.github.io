@@ -93,7 +93,59 @@ var config = require("./config")(); // Will create a Prod-mode configuration obj
 
 # Testing my configuration
 This of course allows for nice testability of my configuration. Like this for example:
-<script src="https://gist.github.com/marcusoftnet/db5f368a80021327da29.js"></script>
+
+```javascript
+var should = require("should");
+
+describe("Configuration", function() {
+
+    var validateConfig = function(config) {
+        should.exists(config.mode);
+        config.mode.should.not.be.emtpy;
+
+        should.exists(config.mongoUrl);
+        config.mongoUrl.should.not.be.emtpy;
+
+        should.exists(config.port);
+        config.port.should.not.be.emtpy;
+
+        should.exists(config.user);
+        config.user.should.not.be.emtpy;
+        should.exists(config.user.name);
+        config.user.name.should.not.be.emtpy;
+        should.exists(config.user.pass);
+        config.user.pass.should.not.be.emtpy;
+    };
+
+    describe("Local configuration", function() {
+        var config = {};
+        before(function(done) {
+            config = require("./config")("local");
+            done();
+        });
+
+        it("loads local configuration default", function(done) {
+            var localConfig = require("./config")();
+            localConfig.mode.should.equal("local");
+            done();
+        });
+        it("loads config by parameter", function(done) {
+            config = require("./config")("local");
+            config.mode.should.equal("local");
+            done();
+        });
+        it("loads local configuration for unknown configurations", function(done) {
+            var config = require("./config")("unknown");
+            config.mode.should.equal("local");
+            done();
+        });
+        it("has all the valid properties", function(done) {
+            validateConfig(config);
+            done();
+        });
+    });
+});
+```
 
 There's not much to be said about the testing code, other than test the presence of the values and not the actual values since that means that you will have duplications of the configuration. And maybe secrets leaking out into your code... Speaking of secrets.
 
