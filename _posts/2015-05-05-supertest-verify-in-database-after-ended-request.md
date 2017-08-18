@@ -177,7 +177,7 @@ In fact, that is too dangerous. Let's fix it properly instead. Another way is to
 
 I've updated my <code>package.json</code> in that manner now. Here's the the two command I ended up running:
 
-{% highlight bash%}
+```bash
 npm install koa koa-route co-body co-monk monk --save
 npm install mocha co should supertest --save-dev
 ```

@@ -67,7 +67,7 @@ This will fire up both the <code>npm run watch:server</code> and <code>npm run w
 
 The client will be reloaded with the help of [live-reload](https://github.com/Raynos/live-reload) that simply is a server listening on port 9091, our case. Should the <code>./</code> directory be changed in any way the browsers open will be reloaded. This requires that you include a simple <code>script</code>-tag on your page:
 
-{% highlight html %}
+```html
 	<script src="//localhost:9091"></script> 
 	// Note the matching port number 9091, to the live-reload command
 ```

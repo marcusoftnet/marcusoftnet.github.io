@@ -82,7 +82,7 @@ Now, this is where that article leaves us. And at least I felt a little bit aban
 The first place we should use this function is on the main page of the application, in my case <code>index.html</code>. This is the tracking of your grandfathers, tracking the loading a new page. 
 
 Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
-{% highlight html %}
+```html
 	<script>
       gaTrack("/", "Beranda");
     </script>
@@ -122,14 +122,14 @@ $("a").click(function(evt) {
 On line 2 we simply pull the <code>pathname</code> and the <code>hash</code> from the <code>currentTarget</code> which is the item clicked. This will be the <code>page</code> that we send to Google Analytics.
 
 Line 3 requires a little more explanation. Should the <code>a</code>-tag contain text we use that from the <code>.text</code> property. Here's an example of such a link:
-{% highlight html %}
+```html
 <a class="page-scroll" href="#articles">Artikel</a>
 ```
 
 However, sometimes the <code>a</code>-tag wraps a lot of other things, divs and images etc. and in that case we will get that html-code in the <code>.text</code>-property. 
 
 Here's such an example:
-{% highlight html %}
+```html
 <a href="#article-{{ article.slug }}" class="modal-link" data-toggle="modal">
     <div class="list-item-hover">
         <div class="list-item-hover-content">
@@ -143,7 +143,7 @@ Here's such an example:
 The simple solution for us was just to add a <code>title</code>-attribute on the <code>a</code>-tag. This is a good practice anyway since that will displayed when the user hovers over an image for example. 
 
 Here's an example on how that can look:
-{% highlight html %}
+```html
 <a href="#article-{{ article.slug }}" title="{{ article.title }}" class="modal-link" data-toggle="modal">
 ```
 

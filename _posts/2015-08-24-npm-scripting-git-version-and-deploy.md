@@ -247,7 +247,7 @@ I've grown into the custom of always starting the application once it's pushed t
 
 In my case, being on a OS X system, launching the application once it's deployed is very easy:
 
-{% highlight bash%}
+```bash
 open [url] # for example 'open http://koavote.herokuapp.com'
 ```
 

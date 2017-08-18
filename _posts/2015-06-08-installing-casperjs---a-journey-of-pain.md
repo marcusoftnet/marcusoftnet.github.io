@@ -30,28 +30,28 @@ As it [turns out](http://superuser.com/questions/7150/mac-osx-conventional-place
 
 Now we can just copy the file there: 
 
-{%highlight bash%}
+```bash
 $ cp ~/Downloads/phantomjs-2.0.0-macosx/bin/phantomjs /usr/bin
-{%endhighlight%}
+```
 
 Restart your terminal (or wait till CasperJs is install) and now it works. 
 
 ## Yes yes ... I know about Homebrew
 You can also supposedly install [PhantomJS](http://www.phantomjs.org/) via [HomeBrew](http://brew.sh/):
 
-{%highlight bash%}
+```bash
 $ sudo brew update && brew install phantomjs
-{%endhighlight%}
+```
 
 For example. For the life of me I couldn't get this to work. I'm blaming Indonesian internet speed. But that's an option. Should you for any other reason don't wanna use HomeBrew you now have an option. 
 
 # CasperJs
 At this point it was much smoother. Installing CasperJs is a breeze and can be done with HomeBrew again. And it worked on the first try for me: 
 
-{%highlight bash%}
+```bash
 $ brew update
 $ brew install casperjs 
-{%endhighlight%}
+```
 
 On the second command you can add <code>--devel</code> to get the latests bits. I didn't do that but you can.
 
@@ -65,7 +65,7 @@ It's just <code>npm install casperjs -g</code> to install it on your system.
 # Trying it out
 Another, more fun, way to verify it is to write a small script. Like the example Casper provides, for example;
 
-{%highlight javascript
+```javascript
 var casper = require('casper').create();
 
 casper.start('http://casperjs.org/', function() {
@@ -77,15 +77,15 @@ casper.thenOpen('http://phantomjs.org', function() {
 });
 
 casper.run(); 
-{%endhighlight%}
+```
 
 Of course, before that, you need to create a new directory and then <code>npm init</code>. I could *not* get it to work when I <code>npm install casperjs</code> so I gave up on that. Here's the commands I ran.:
 
-{%highlight bash%}
+```bash
 $ mkdir casperdemo && cd casperdemo
 $ npm init
 $ touch demo.js
-{%endhighlight%}
+```
 
 In the <code>demo.js</code> file you enter the code above. And the you run it, of course, with <code>node demo.js</code>.... NO - that's wrong. 
 
@@ -103,7 +103,7 @@ Show it fail... (which it did for me of course) ... you can always try to reinst
 
 With Nightmare installed you can write very fluent looking code like this: 
 
-{%highlight javascript
+```javascript
 var Nightmare = require('nightmare');
 new Nightmare()
   .goto('http://yahoo.com')
@@ -114,7 +114,7 @@ new Nightmare()
       console.log(nightmare);
       console.log('Done!');
     });
-{%endhighlight%}
+```
    
 
 # Summary 

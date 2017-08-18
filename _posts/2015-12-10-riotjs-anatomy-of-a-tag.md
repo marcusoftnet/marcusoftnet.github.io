@@ -49,7 +49,7 @@ One of the great things about micro frameworks is that since they are small they
 
 The simplest I've come up with is to just create an HTML document like this: 
 
-{% highlight html  %}
+```html
 <!doctype html>
 <html>
   <head>
@@ -84,7 +84,7 @@ Let's create a `index.html` page with the template above and uncomment lines 9, 
 
 Now create a directory called `tags` and it it add a file `todo.tag` with the following Hello World content:
 
-{% highlight html %}
+```html
 <todo>
     <h3>My todo list</h3>
 </todo>
@@ -97,7 +97,7 @@ Fire up a simple web server, if you're on OsX just go `python -m SimpleHTTPServe
 # First dissection of the tag
 A tag can contain only HTML like this one. Or only Javascript, try just an empty logger for example with 
 
-{% highlight html %}
+```html
 <todo>
     console.log("The empty tag")
 </todo>
@@ -117,7 +117,7 @@ The attributes, that you make up btw, on the tag, becomes properties on the `opt
 # Another list?! 
 The great thing about components is that once you have defined them you can reuse them over and over. Let's add another todo list on our page. Let's make the `body` look like this:
 
-{% highlight html %}
+```html
 <body>
     <!-- Tags added here -->
     <todo title="Stuff to do"></todo>
@@ -127,7 +127,7 @@ The great thing about components is that once you have defined them you can reus
 
 For the second we didn't set a title and of course no title is display either. Let's create a sensible default. This can be done as you mount the tag, like this: 
 
-{% highlight html %}
+```html
 <script>
     riot.mount('todo', { 
         title: 'I want to behave!'
@@ -142,7 +142,7 @@ Let's add some script to our tag, just to prove a thing. There's a [bunch of eve
 
 Update `todo.tag` to this:
 
-{% highlight html %}
+```html
 <todo>
     <h3>{ opts.title }</h3>
 
@@ -161,7 +161,7 @@ OK, so now we have both HTML and some JavaScript in the tag. That's how it shoul
 
 To see this in action, try removing the `script`-tags. No, for real. Just take'em out. Like this: 
 
-{% highlight html %}
+```html
 <todo>
     <h3>{ opts.title }</h3>
 
@@ -179,7 +179,7 @@ I tend to keep them in since it helps my editors with syntax highlighting in the
 
 If we did the pre-processing on the server (remember that we do that in the browser) we could write our scripts in other languages or dialects too. For example coffee-script: 
 
-{% highlight html %}
+```html
 <script type="coffee">
     @hello = 'world'
     console.log @hello
@@ -191,7 +191,7 @@ There's also EcmaScript6 (`es6`), TypeScript (`typescript`) and `None`, which I 
 # Styling
 There's one thing more I wanted to mention here. The component can also have it's own styling, by simply include a style tag. Let's add something that makes the header a bit bigger, just for this component: 
 
-{% highlight html %}
+```html
   <style>
     todo h3 { font-size: 220%; color: red; }
   </style>
@@ -220,7 +220,7 @@ Secondly remove one of the `todo`-tags from the `index.html` file. One todo-list
 
 Finally we're going to feed in some default todo items into the list, just like we did on the title. Here's the full `index.html` page. The new items is found in the script at line 17-22.
 
-{% highlight html  %}
+```html
 <!doctype html>
 <html>
   <head>
@@ -256,7 +256,7 @@ If you refresh the browser you'll see our empty list displayed in the center of 
 
 Let's fix that, it's easy to do with Riot's `each`-loop functionality. Open the todo `todo.tag` file and add the following HTML. 
 
-{% highlight html  %}
+```html
 <h3>{ opts.title }</h3>
 
 <ul>
@@ -279,7 +279,7 @@ This just takes the values passed in to our tag and saves them in a local (`this
 
 The whole `todo.tag` should now look like this: 
 
-{% highlight html  %}
+```html
 <todo>
     <h3>{ opts.title }</h3>
 
@@ -328,7 +328,7 @@ Notice that we just remove items from the array, or change the individual `done`
 
 Riot supports a nice little abbreviation too, that means that we can take out the `function`-keyword, allowing for even more succinct syntax. Here's the complete file now. 
 
-{% highlight html %}
+```html
 <todo>
     <h3>{ opts.title }</h3>
     <ul>
@@ -376,7 +376,7 @@ In the `todo.tag` file let's add a new top level tag below our `todo` tag. Yes, 
 
 We call our new `todo-form`. This component handles everything around the form for adding new items; markup and logic (possible styling). Here it is:
 
-{% highlight html %}
+```html
 <todo-form>
     <form onsubmit={ add }>
       <input name="input" onkeyup={ edit }>
@@ -416,7 +416,7 @@ Let's use our new form and implement the `add` function in the `<todo></todo>` t
 
 Using the `<todo-form></todo-form>` is trivial: 
 
-{% highlight html %}
+```html
 <todo-form number_of_todos="{ items.length + 1 }"></todo-form>
 ```
 
@@ -424,7 +424,7 @@ Attributes are all lower-case by convention and to handle some browser compatibi
 
 Secondly we need to implement the `add` function of that actually adds the item to the `items` array. Pretty easy stuff: 
 
-{% highlight html %}
+```html
 add(itemText) {
   this.items.push({ title: itemText, done: false, hidden: false })
   this.update()
@@ -435,7 +435,7 @@ We're just pushing a new item into the array. Notice that in this case we need t
 
 The whole `<todo></todo>` tag now looks like this: 
 
-{% highlight html %}
+```html
 <todo>
     <h3>{ opts.title }</h3>
     <ul>

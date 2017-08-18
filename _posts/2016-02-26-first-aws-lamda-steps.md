@@ -127,7 +127,7 @@ claudia create --name aLittleGreeter --region us-west-2 --api-module index
 
 I often put this into my <code>package.json</code> file under the <code>scripts</code> node: 
 
-{% highlight json %}
+```json
 "scripts": {
     "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index"
 },
@@ -193,7 +193,7 @@ What you'd want to do instead of <code>create</code> this again is to <code>clau
 
 I created a <code>package.json</code> script for it too: 
 
-{% highlight json %}
+```json
 
     "scripts": {
         "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index",
@@ -207,7 +207,7 @@ Now when you change your code you can simply push the new version with <code>npm
 ### "Missing authentication token"
 Another error that I spent some time trying to understand was this:
 
-{% highlight json %}
+```json
     
     {
         message: "Missing Authentication Token"

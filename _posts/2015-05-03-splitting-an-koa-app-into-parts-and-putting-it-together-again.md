@@ -57,16 +57,16 @@ This will be a lot of code to write, but you will not see me writing about every
 # Humble beginnings
 First let's create a few folders:
 
-{% highlight bash%}
+```bash
 $ mkdir apis
 $ mkdir apis/user
 $ mkdir apis/address
 $ mkdir apis/order
-{% endhighlight%}
+```
 
 And then we move everything we have right in the root of our application right now in under <code>./apis/user</code>. Leaving the LICENSE and README for convince.
 
-{% highlight bash%}
+```bash
 $ mv *.js ./apis/user/
 $ mv package.json ./apis/user/
 $ mv node_modules/ ./apis/user/
