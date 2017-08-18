@@ -120,11 +120,11 @@ The first thing we need to do is to get hold of the current subtitle track, the 
 
 The .sbv file has a very simple format, easiest explained with an example
 
-{% highlight text %}
+```text
 0:00:03.800,0:00:11.710
 What should we do now?
 How should we spend our money the next quarter?
-{% endhighlight %}
+```
 
 In English this means:
 

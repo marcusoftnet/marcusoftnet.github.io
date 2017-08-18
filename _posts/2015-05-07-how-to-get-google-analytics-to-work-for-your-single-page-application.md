@@ -22,7 +22,7 @@ As with most things I learn it's based on others knowledge that I just tweak and
 # Infrastructure
 The first thing we did, based on the article above, was to create a custom javascript function for Google Analytics tracking. Here is where we ended up:
 
-{% highlight javascript %}
+```javascript
 function gaTrack(path, title) {
 $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
@@ -32,7 +32,7 @@ $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
   ga('set', track);
   ga('send', 'pageview');
 };
-{% endhighlight %}
+```
 
 * On line 1 we use jQuery (you can do this without jQuery if you check the end of the [mentioned article](https://mjau-mjau.com/blog/ajax-universal-analytics/)) to dynamically load the [Google Analytics](http://google.com/analytics) script
 * Line 2 defines a <code>ga</code> function in our window
@@ -47,7 +47,7 @@ After some great comments by [Jim Geurts](https://twitter.com/jgeurts?lang=en) I
 
 I don't really understand the full implications of that, but somehow as Jim kindly informed me when I asked, we need to create a tracker (line 2-4 above) only on the first load of the page. Here's two new functions that does that:
 
-{% highlight javascript  %}
+```javascript
 function gaInit() {
   $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
   window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
@@ -67,7 +67,7 @@ function gaTrack(path, title) {
 
   console.log("Tracked");
 };
-{% endhighlight %}
+```
 
 Basically I've just created a new <code>gaInit</code> function that returns the object it initializes, the <code>ga</code> object. In the <code>gaTrack</code> function I just check if the <code>window.ga</code> object is present, if not I call the <code>gaInit()</code> to create it, initializing <code>ga</code> just-in-time and only the first time. 
 
@@ -87,7 +87,7 @@ Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
       gaTrack("/", "Beranda");
     </script>
 </body>
-{% endhighlight %}
+```
 
 "Beranda" is Indonesian for "Home", which is how we will refer to this page. 
 
@@ -97,34 +97,34 @@ Well, that was easy.
 However, the problem is that once the page is downloaded there is no reload of the <code>index.html</code>. That's the whole idea of a SPA, right? How to track all the client-side navigation then? 
 
 First problem to solve is to catch all the things that's clicked on our page. Here jQuery comes to our help. For us, all things click-able are <code>a</code>-tags so we could write the following function:
-{% highlight javascript %}
+```javascript
 $("a").click(function(evt) {
   // tracking code here
 });
-{% endhighlight %}
+```
 
 However, there are other ways to track this, should you have other tags that recieve clicks. For example you could catch all clicks in the main div, or even body tag, if you give it an id or a class. Let's say that your main div is defined like this <code><div id="main"></code>, then you can write the following function to "catch" all clicks:
-{% highlight javascript %}
+```javascript
 $("#main").click(function(evt) {
   // tracking code here
 });
-{% endhighlight %}
+```
 ## Now let's track'em
 To track it we can simply use the <code>gaTrack(path, title)</code> we created before:
-{% highlight javascript %}
+```javascript
 $("a").click(function(evt) {
   var path = evt.currentTarget.pathname + evt.currentTarget.hash;
   var title = evt.currentTarget.title || evt.currentTarget.text;
   gaTrack(path, title);
 });
-{% endhighlight %}
+```
 
 On line 2 we simply pull the <code>pathname</code> and the <code>hash</code> from the <code>currentTarget</code> which is the item clicked. This will be the <code>page</code> that we send to Google Analytics.
 
 Line 3 requires a little more explanation. Should the <code>a</code>-tag contain text we use that from the <code>.text</code> property. Here's an example of such a link:
 {% highlight html %}
 <a class="page-scroll" href="#articles">Artikel</a>
-{% endhighlight %}
+```
 
 However, sometimes the <code>a</code>-tag wraps a lot of other things, divs and images etc. and in that case we will get that html-code in the <code>.text</code>-property. 
 
@@ -138,20 +138,20 @@ Here's such an example:
     </div>
     <img src="{{ article.imgURL }}" class="img-responsive" alt="">
 </a>
-{% endhighlight %}
+```
 
 The simple solution for us was just to add a <code>title</code>-attribute on the <code>a</code>-tag. This is a good practice anyway since that will displayed when the user hovers over an image for example. 
 
 Here's an example on how that can look:
 {% highlight html %}
 <a href="#article-{{ article.slug }}" title="{{ article.title }}" class="modal-link" data-toggle="modal">
-{% endhighlight %}
+```
 
 Now in our catch-all-click-handler we can check if the <code>title</code>-attribute is set and if not use the <code>.text</code>
 
-{% highlight javascript %}
+```javascript
 var title = evt.currentTarget.title || evt.currentTarget.text;
-{% endhighlight %}
+```
 
 # Summary
 With these simple functions we got very simple, client-side Google Analytics tracking on a granularity level of our choice.

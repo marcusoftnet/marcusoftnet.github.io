@@ -65,7 +65,7 @@ It's just <code>npm install casperjs -g</code> to install it on your system.
 # Trying it out
 Another, more fun, way to verify it is to write a small script. Like the example Casper provides, for example;
 
-{%highlight javascript%}
+{%highlight javascript
 var casper = require('casper').create();
 
 casper.start('http://casperjs.org/', function() {
@@ -103,7 +103,7 @@ Show it fail... (which it did for me of course) ... you can always try to reinst
 
 With Nightmare installed you can write very fluent looking code like this: 
 
-{%highlight javascript%}
+{%highlight javascript
 var Nightmare = require('nightmare');
 new Nightmare()
   .goto('http://yahoo.com')

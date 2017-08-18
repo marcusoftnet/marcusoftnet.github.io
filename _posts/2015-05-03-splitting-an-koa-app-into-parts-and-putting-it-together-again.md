@@ -71,7 +71,7 @@ $ mv *.js ./apis/user/
 $ mv package.json ./apis/user/
 $ mv node_modules/ ./apis/user/
 $ mv test ./apis/user/
-{% endhighlight %}
+```
 
 In our root folder there's only <code>LICENSE</code> and <code>README</code> and the <code>apis</code>-folder left... 
 
@@ -97,7 +97,7 @@ The first thing to realize is that there's no application in the root directory.
 
 I use <code>npm init</code> of course and create a simple application. I created an initial <code>index.js</code>, looking like this: 
 
-{% highlight javascript  %}
+```javascript
 var koa = require('koa');
 var app = module.exports = koa();
 var mount = require('koa-mount');
@@ -116,7 +116,7 @@ app.use(mount('/', rootApp));
 // listen and all of that
 app.listen(config.port);
 console.log('listening on port ' + config.port);
-{% endhighlight %}
+```
 
 Of course you need to <code>npm install koa koa-mount --save</code> too. 
 
@@ -128,16 +128,16 @@ I've written blog posts about most of these parts before, so I'll direct you to 
 
 Finally I added two new commands to my <code>package.json</code> to start it, both in production (notice the <code>prod</code> parameter that will be picked up by our configuration object) and for local runs:
 
-{% highlight javascript %}
+```javascript
 "scripts": {
     "start": "node --harmony index.js prod",
     "startLocal": "nodemon --harmony index.js"
 }
-{% endhighlight %}
+```
 ## Test for our root app
 While we're at it, let's write some tests for our "root"-application too. <code>npm install mocha supertest --save-dev</code> and then create a test directory (<code>mkdir test</code>) with a <code>rootApp.spec.js</code> file with the following content: 
 
-{% highlight javascript %}
+```javascript
 var supertest = require('supertest');
 var app = require("../");
 var config = require('../config')();
@@ -152,13 +152,13 @@ describe('Our application', function () {
             .end(done);
     });
 });
-{% endhighlight %}
+```
 
 And then a test command that looks like this, in the <code>package.json</code>
 
-{% highlight javascript %}
+```javascript
 "test": "./node_modules/mocha/bin/mocha --harmony-generators -u bdd -R spec"
-{% endhighlight %}
+```
 
 Let's run it with <code>npm test</code>. Works!
 
@@ -174,11 +174,11 @@ Mounting ([read previous post](http://www.marcusoft.net/2015/04/koa-js-and-the-p
 
 Mounting the Users-API from our previous posts, for example, will look like this:
 
-{% highlight javascript  %}
+```javascript
 var userApi = require('UserAPI');
 
 app.use(mount('/users', userApi));
-{% endhighlight %}
+```
 
 The mounting on line 3 is just as before, but please notice that we are mounting it under <code>/users</code>. This will cause us some pain soon. 
 
@@ -189,18 +189,18 @@ As I've written before [package.json & npm are a might tools](http://www.marcuso
 
 And with that I got a new dependency in my <code>package.json</code>:
 
-{% highlight javascript %}
+```javascript
 "dependencies": {
     "UserAPI": "file:apis/user",
     "koa": "^0.20.0",
     "koa-mount": "^1.3.0"
 },
-{% endhighlight %}
+```
 
 ## Test the mounting
 Let's add a test to make sure that our mounted API responds at expected. Here's my test for that: 
 
-{% highlight javascript %}
+```javascript
 it('and an user api to which we can post, for example', function (done) {
      request
 		.post('/users')
@@ -208,7 +208,7 @@ it('and an user api to which we can post, for example', function (done) {
 		.expect('location', /^\/users\/[0-9a-fA-F]{24}$/) 
 		.expect(201, done);
 });
-{% endhighlight %}
+```
 
 Yup, the test is simple and not a full test. But we're also just testing simple things: that we mounted it correctly. Notice the <code>\/users\/</code>, that is different from /user in the user test. This is because it's now mounted using another URL. Also remember that the "full" tests will be found under <code>/apis/user/test</code>. 
 
@@ -224,11 +224,11 @@ Starting a local application with <code>npm run startLocal</code> (see earlier s
 ### Running on same port
 This trying to say that there's more than one application listening to the same port. How can that b....aaaaah? Remember the individual api application files? They all have line like this:
 
-{% highlight javascript %}
+```javascript
 // Fire it up
 app.listen(3000);
 console.log("The app is listening. Port 3000");
-{% endhighlight %}
+```
 
 And now the main application is listening on that port too? What to do? 
 
@@ -238,14 +238,14 @@ What we can do instead is to run these APIs as entities that is not meant to be 
 
 To still be able to run each API separately we can pass a variable as we start it <code>node index.js standalone</code> for example and then only start listening when that is present. Like this: 
 
-{% highlight javascript %}
+```javascript
 // Start command in package.json:     "start": "node --harmony index.js standalone",
 
 // In app.js
 if(process.env.standalone){
 	app.listen(3000);
 }
-{% endhighlight %}
+```
 
 I've update the <code>Address</code>-api in this manner. The other apis I just taken the <code>app.listen()</code> out. 
 
@@ -259,30 +259,30 @@ But in the user api itself we have routes called POST /user, GET /user/:id etc. 
 ### Cleaning up Users
 Let's go through the users-api and simply remove the notion of <code>/user</code> in it. The app routes will look like this: 
 
-{% highlight javascript %}
+```javascript
 var userRoutes = require("./userRoutes.js");
 app.use(routes.post("/", userRoutes.add));
 app.use(routes.get("/:id", userRoutes.get));
 app.use(routes.put("/:id", userRoutes.update));
 app.use(routes.del("/:id", userRoutes.remove));
-{% endhighlight %}
+```
 
 Going into the <code>userRoutes.js</code> we will have to make some trickery. Because now the this api will move around. The URL will be different depending on where it's mounted. 
 
 Basically it's only in two lines where we're creating urls that we need to take this into consideration, where we set the header <code>location</code>. Here's that part of the post-handler:
 
-{% highlight javascript %}
+```javascript
 	this.set("location", this.originalUrl + "/" + insertedUser._id);
 	this.status = 201;
-{% endhighlight %}
+```
 
 In the POST case we can just use the original URL. In the PUT case we need some more code:
 
-{% highlight javascript %}
+```javascript
 var prefixOfUrl = this.originalUrl.replace(orderId, "");
 this.set("location", prefixOfUrl + "/" + id);
 this.status = 204;
-{% endhighlight %}
+```
 
 Here I just take away the <code>id</code> passed to the function and use the rest of the URL of the request. 
 
@@ -290,7 +290,7 @@ These "rules" are my conventions. You might need others more advanced.
 
 Finally in the tests make sure that the references to <code>/user</code> is removed and then the tests. For example, here's the test for POST
 
-{% highlight javascript %}
+```javascript
 it('creates a new user for complete posted data', function(done){
 	// Post
 	request
@@ -305,7 +305,7 @@ it('creates a new user for complete posted data', function(done){
 			}).then(done, done);
 		});				
 });
-{% endhighlight %}
+```
 
 See? No mentioning of /user. Rerunning the tests for <code>user</code> and it works!
 
@@ -319,22 +319,22 @@ Once that is done... FINALLY the tests are running without failure.
 ## Mount the address
 Mounting order are similar simple, but let me show you another way to mount applications. You can do a relative path for the require: 
 
-{% highlight javascript %}
+```javascript
 var addressApi = require('./apis/address/');
-{% endhighlight %}
+```
 
 This is great because it means that you don't need to <code>npm install ./apis/address</code> between every change you make. It sucks because you need to have all the dependencies for <code>address</code> in the root application. 
 Might be useful for development but probably not. 
 
 Let's use the other way; <code>npm install ./apis/address --save</code> and then
 
-{% highlight javascript %}
+```javascript
 var addressApi = require('AddressAPI');
 app.use(mount('/address', addressApi));
-{% endhighlight %}
+```
 
 And a test for that:
-{% highlight javascript %}
+```javascript
 it('and an address api to which we can post', function (done) {
 	var test_address = { 
 		userId: 987654321, 
@@ -350,7 +350,7 @@ it('and an address api to which we can post', function (done) {
 		.expect('location', /^\/address\/[0-9a-fA-F]{24}$/)
 		.end(done);
 	});
-{% endhighlight %}
+```
 
 ## Mount the orders and secure them
 Ok, to not repeat myself too much, let's as a final mount the order but do that with some authentication turned on. 
@@ -361,13 +361,13 @@ And we need to include the order-api: <code>npm install ./apis/order --save</cod
 
 Then we require the OrderApi it as before
 
-{% highlight javascript %}
+```javascript
 var orderApi = require('OrderAPI');
-{% endhighlight %}
+```
 
 But now let's plug in the authentication. Here's a little module I've create that takes care of the nitty gritty code for authentication:
 
-{% highlight javascript %}
+```javascript
 module.exports.reqBasic = function *(next){
 	try {
 		yield next;
@@ -383,18 +383,18 @@ module.exports.reqBasic = function *(next){
 		}
 	}
 };
-{% endhighlight %}
+```
 
 Yes, you are right! It looks exactly as a little [koa](http://koajs.com) application. Let's mount the orders-api under basic authentication and you'll be even more surprised:
 
-{% highlight javascript  %}
+```javascript
 var auth = require('koa-basic-auth');
 var userAuth = require('./authentication.js');
 
 app.use(userAuth.reqBasic);
 app.use(mount('/orders', auth(config.adminUser)));
 app.use(mount('/orders', orderApi));
-{% endhighlight %}
+```
 
 * First we just require the <code>koa-basic-auth</code> package and the little authentication module we just created
 * On line 4 we tell our application to use our basic authentication application.
@@ -403,7 +403,7 @@ app.use(mount('/orders', orderApi));
 * Then, line 6, we mount yet another application on the same url: the order API.
 
 Writing a test for this will be something like this:
-{% highlight javascript %}
+```javascript
 it('and an order api, but that requires login', function (done) {
 	var test_order = { 
     	orderId: '123456789', 
@@ -419,7 +419,7 @@ it('and an order api, but that requires login', function (done) {
 		.expect(201)
 		.end(done);
 });
-{% endhighlight %}
+```
 
 I added a test to check that not-logged in gives you a 401. See the code on [GitHub](https://github.com/marcusoftnet/UserApiWithTest).
 

@@ -25,7 +25,7 @@ In the package.json there's an optional node that you can set called ```engines`
 
 Love the informal tone of that documentation. Ok, so here we can list of not only Node, but also alternative runtime like io.js but also <a href="http://npmjs.org">npm</a>. This can be given as just a version number or with a range
 
-{% highlight javascript %}
+```javascript
 { "engines" : { "iojs" : "1.6.1" } } // exactly 1.6.1
 
 { "engines" : { "npm" : "~1.0.20" } } // around 1.0.20
@@ -33,16 +33,16 @@ Love the informal tone of that documentation. Ok, so here we can list of not onl
 { "engines" : { "node" : ">0.11.9" } } // above 0.11.9
 
 { "engines" : { "node" : ">=0.10.3 <0.12" } } // below or at 0.10.3 but not higher than 0.12
-{% endhighlight %}
+```
 
 But you could also state that your "stuff" runs on several version of Node. In the case of using iojs this is true for all Node applications that is not using the EcmaScript 6 features not yet released in Node. <a href="http://koajs.com">Koa</a> is a good example of this. This is an extract from their package.json
 
-{% highlight javascript %}
+```javascript
 "engines": {
     "node": ">= 0.11.16",
     "iojs": ">= 1.0.0"
 }
-{% endhighlight %}
+```
 
 Koa supports both node and io.js at the respectively stated versions.
 
@@ -59,12 +59,12 @@ Note that the ```engineStrict``` flag is set to false per default, leaving the `
 
 Basically it means that we can be more restrictive about what our code need to run. For example, let's say that I'm using some feature that only io.js supports, like the ```let```-statement for EcmaScript 6 for example. Then I can use the following configuration:
 
-{% highlight javascript %}
+```javascript
 "engineStrict" : true,
 "engines": {
     "iojs": "1.6.1"
 }
-{% endhighlight %}
+```
 
 This will ensure that only io.js at version 1.6.1 is used when running my module. But how is that ensured?
 
@@ -73,12 +73,12 @@ Well this is cool but what does that mean? I'm state the engine my things requir
 
 Let's take an example and test it out. Let's say that I have a package.json with the following configuration for engines:
 
-{% highlight javascript %}
+```javascript
 "engineStrict": true,
 "engines": {
     "node": "0.12.0"
 }
-{% endhighlight %}
+```
 
 But right now I'm running Node at ```v0.11.14``` (for example by going ```nvm install v0.11.14```) on my system. In my directory I go ```npm install``` to install all the packages my application depends on. Knowing what I know now I expect an error. I have the wrong version of the framework and I'm using the ```engineStrict```-flag, right?
 
@@ -100,17 +100,17 @@ This will install your application as a package, trigger the checks of the ```en
 
 If we try that again, with the same settings as before; engines: node = 0.12.0, and engineStrict = true... Lo and behold: we get the error we've been longing for:
 
-{% highlight bash %}
+```bash
 npm ERR! notsup Not compatible with your version of node/npm: demoapp@1.0.0
 npm ERR! notsup Required: {"node":"0.12.0"}
 npm ERR! notsup Actual:   {"npm":"2.0.0","node":"0.11.14"}
-{% endhighlight %}
+```
 
 Changing the ```engineStrict``` to false, give us warnings but it installs. Just as expected:
 
-{% highlight bash %}
+```bash
 npm WARN engine demoapp@1.0.0: wanted: {"node":"0.12.0"} (current: {"node":"0.11.14","npm":"2.0.0"})
-{% endhighlight %}
+```
 
 And finally, if we change the ```engines``` to match our running version (0.11.14) it works without errors.
 

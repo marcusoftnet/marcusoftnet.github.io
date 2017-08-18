@@ -42,32 +42,32 @@ The part on writing and running .coffee-files could vastly be simplified by simp
 
 Create a index.coffee file in the root (<code>touch index.coffee</code>) and add the following code:
 
-{% highlight coffeescript %}
+```coffeescript
 module.exports.greeting = greeting = (name) ->
 	"Hello #{name}!"
 
 console.log greeting "Marcus"
-{% endhighlight %}
+```
 
 Now you can start this application directly by simply invoking <code>coffee index.coffee</code>. Doing that will result in printing the greeting:
 
-{% highlight bash %}
+```bash
 Hello Marcus!
-{% endhighlight %}
+```
 
 Our start command in the package.json can also be simplified a lot in other words:
 
-{% highlight javascript %}
+```javascript
 "scripts": {
     "test": "mocha",
     "start" : "coffee index.coffee"
   }
-{% endhighlight %}
+```
 
 # Testing our system
 Now we can continue as I wrote to test our system under test like this:
 
-{% highlight coffeescript %}
+```coffeescript
 sut = require '../index.coffee'
 should = require 'should'
 
@@ -75,20 +75,20 @@ describe 'Writing Node with CoffeeScript', ->
 	it 'is easy to get started testing... or is it?', -> true
 	it 'can access exported functions in other modules', ->
 		sut.greeting('Marcus').should.equal 'Hello Marcus!'
-{% endhighlight %}
+```
 
 # More improvements
 So, that's cool, but maybe we need to distribute a JavaScript version of the code as well. Now we are really into what should be put into a build system like [grunt](http://gruntjs.com/), [gulp](http://gulpjs.com/) or even [make](https://blog.jcoglan.com/2014/02/05/building-javascript-projects-with-make/), but for the sake of brevity let's just create another npm script-node. In it we can now reuse the compile command from the previous post.
 
 Here's how the all my scripts look in the package.json-file.
 
-{% highlight javascript %}
+```javascript
 "scripts": {
     "test": "mocha",
     "start" : "coffee index.CoffeDemoTheCoffeeWay",
     "build" : "coffee --compile --output dist ."
   }
-{% endhighlight %}
+```
 
 This will compile all the .coffee files in the root (and sub directories) and put them in the <code>dist</code> folder.
 

@@ -69,7 +69,7 @@ The simplest I've come up with is to just create an HTML document like this:
     </script>
   </body>
 </html>
-{% endhighlight %}
+```
 
 This simple little starter template helps us to just get starting writing tags directly and have the compilation and transformations take place in the browser. 
 
@@ -88,7 +88,7 @@ Now create a directory called `tags` and it it add a file `todo.tag` with the fo
 <todo>
     <h3>My todo list</h3>
 </todo>
-{% endhighlight %}
+```
 
 Here we declare the `todo` tag. 
 
@@ -101,7 +101,7 @@ A tag can contain only HTML like this one. Or only Javascript, try just an empty
 <todo>
     console.log("The empty tag")
 </todo>
-{% endhighlight %}
+```
 
 The HTML, if present, by convention comes first. Let's tweak it a bit before we talk more about the scripting. And styling... 
 
@@ -123,7 +123,7 @@ The great thing about components is that once you have defined them you can reus
     <todo title="Stuff to do"></todo>
     <hr>
     <todo></todo>
-{% endhighlight %} 
+``` 
 
 For the second we didn't set a title and of course no title is display either. Let's create a sensible default. This can be done as you mount the tag, like this: 
 
@@ -133,7 +133,7 @@ For the second we didn't set a title and of course no title is display either. L
         title: 'I want to behave!'
     })
 </script>
-{% endhighlight %} 
+``` 
 
 There we go. Now we get one todo list with our custom title and if no title is supplied from the tag we pick up the default from when we mount the tag.
 
@@ -152,7 +152,7 @@ Update `todo.tag` to this:
         })
     </script>
 </todo>
-{% endhighlight %} 
+``` 
 
 This function will fire "right after the tag is mounted on the page". Let's try it by reloading our browser. Yes - we get that logging in the console twice, one per tag on the `index.html`
 
@@ -169,7 +169,7 @@ To see this in action, try removing the `script`-tags. No, for real. Just take'e
         console.log("Tag mounted")
     })
 </todo>
-{% endhighlight %} 
+``` 
 
 If you re-run it you'll see that it works just beautiful, we still get the 2 mounting logging messages. Right from the documentation its: 
 
@@ -184,7 +184,7 @@ If we did the pre-processing on the server (remember that we do that in the brow
     @hello = 'world'
     console.log @hello
 </script>
-{% endhighlight %}
+```
 
 There's also EcmaScript6 (`es6`), TypeScript (`typescript`) and `None`, which I don't really know what it means.
 
@@ -195,7 +195,7 @@ There's one thing more I wanted to mention here. The component can also have it'
   <style>
     todo h3 { font-size: 220%; color: red; }
   </style>
-{% endhighlight %}
+```
 
 Yeah, it's really big. Now when we re-run that `h3` is indeed bigger and red. But behind the scenes something really nifty has happened. If you view the source of the page (inspect the h3-element) you can see that Riot has move this styling to the `head` of the document. 
 
@@ -249,7 +249,7 @@ Finally we're going to feed in some default todo items into the list, just like 
 
   </body>
 </html>
-{% endhighlight %}
+```
 
 ## Loop out the todo's in the tag
 If you refresh the browser you'll see our empty list displayed in the center of the page, with the new CSS. But the `item` data, passed in, is not used and hence not displayed. 
@@ -267,7 +267,7 @@ Let's fix that, it's easy to do with Riot's `each`-loop functionality. Open the 
     <a href="#" onclick={ parent.remove }>X</a>
   </li>
 </ul>
-{% endhighlight %}
+```
 
 The [each loop](http://riotjs.com/guide/#loops) is the way you iterate over data (arrays or objects) in Riot. The loop reaches over the element that it is declared in, `<li> -- </li>` in our case. Within the loop we have a context for each item we loop over so we don't need to prefix `{title}` with item. 
 
@@ -298,7 +298,7 @@ The whole `todo.tag` should now look like this:
         console.log("Tag mounted")
     })
 </todo>
-{% endhighlight %}
+```
 
 And refreshing that will display a nice list of todos, based on the data we passed in from the `index.html` in the `riot.mount()` call. 
 
@@ -311,7 +311,7 @@ These refer to function in our tag. They are prefixed with `parent` since we, in
 
 Let's add the functions that simply operate on the `this.items` array that we just created. Like this: 
 
-{% highlight javascript  %}
+```javascript
     function toggle(e) {
       var item = e.item
       item.done = !item.done
@@ -322,7 +322,7 @@ Let's add the functions that simply operate on the `this.items` array that we ju
       var item = e.item
       this.items.splice(this.items.indexOf(item), 1)
     }
-{% endhighlight %}
+```
 
 Notice that we just remove items from the array, or change the individual `done` flags, Riot updates the UI for us. There are cases where you want to update the UI manually and then you use the `this.update()` function.
 
@@ -361,7 +361,7 @@ Riot supports a nice little abbreviation too, that means that we can take out th
         console.log("Tag mounted")
     })
 </todo>
-{% endhighlight %}
+```
 
 Now the component is coming together, we have the markup in the top of the tag and then the logic below. Looking good. 
 
@@ -396,7 +396,7 @@ We call our new `todo-form`. This component handles everything around the form f
         }
     }
 </todo-form>
-{% endhighlight %}
+```
 
 There's a number of things here, but really nothing new: 
 
@@ -418,7 +418,7 @@ Using the `<todo-form></todo-form>` is trivial:
 
 {% highlight html %}
 <todo-form number_of_todos="{ items.length + 1 }"></todo-form>
-{% endhighlight %}
+```
 
 Attributes are all lower-case by convention and to handle some browser compatibility issues. I use underscore between words for readability. Use whatever floats your boat. 
 
@@ -429,7 +429,7 @@ add(itemText) {
   this.items.push({ title: itemText, done: false, hidden: false })
   this.update()
 }
-{% endhighlight %}
+```
 
 We're just pushing a new item into the array. Notice that in this case we need to trigger an update with `this.update()`. I'm not 100% sure as to why, but I'm guessing that the event was happening in a sub component and Riot cannot keep track of that... Have to check that one up. 
 
@@ -475,7 +475,7 @@ The whole `<todo></todo>` tag now looks like this:
         console.log("Tag mounted")
     })
 </todo>
-{% endhighlight %}
+```
 
 If you run it it works just fine. 
 

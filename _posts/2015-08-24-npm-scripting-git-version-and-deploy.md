@@ -50,7 +50,7 @@ Both [TypeScript](https://www.npmjs.com/package/typescript) and [CoffeeScript](h
 
 Let's do both just for the fun of it. Here's my <code>package.json</code> updates with tasks to compile coffee-script.
 
-{% highlight javascript %}
+```javascript
 "devDependencies": {
 	"coffee-script": "^1.9.3"
 },
@@ -59,7 +59,7 @@ Let's do both just for the fun of it. Here's my <code>package.json</code> update
 	"compile:coffee" : "coffee --compile --output ./lib ./src/coffeescripts",
 	"compile": "npm run compile:coffee"
 }
-{% endhighlight %}
+```
 
 <blockquote>
 Note that I don't require this to be installed globally on the users computer. Including these tools as a <code>devDependecies</code> will make sure that I can use them. 
@@ -74,7 +74,7 @@ The <code>compile</code>-script will be an overarching script, where I do all co
 
 Speaking of let's add some TypeScript compilation too. 
 
-{% highlight javascript %}
+```javascript
 "devDependencies": {
 	"coffee-script": "^1.9.3",
 	"mocha": "^2.2.5",
@@ -88,13 +88,13 @@ Speaking of let's add some TypeScript compilation too.
 
 	"compile": "npm run compile:coffee && npm run compile:ts"
 },
-{% endhighlight %}
+```
 
 There we go. More of the same. And the <code>compile</code>-script is just updated with the <code>compile:ts</code>-script to make *all* compilation in one step.
 
 I've written a dumb little <code>index.js</code> that simply uses the code compiled from Type- and Coffee-Script. Here it is: 
 
-{% highlight javascript %}
+```javascript
 var fill = require("./lib/coffeeCode.js");
 var greeter = require("./lib/tsCode.js");
 
@@ -106,11 +106,11 @@ module.exports.greetAType = function (name) {
 	var g = new greeter();
 	return g.greet(name);
 };
-{% endhighlight %}
+```
 
 And some simple tests to verify that it works:
 
-{% highlight javascript %}
+```javascript
 var should = require("should");
 var app = require("../");
 
@@ -130,7 +130,7 @@ describe("Test placeholder", function () {
 		done();
 	});
 });
-{% endhighlight %}
+```
 
 This means that we now create a <code>test</code> and a suitable <code>pretest</code> task that runs the compilation before the testing, as we learned about in the [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html). 
 
@@ -143,7 +143,7 @@ Install rimraf with <code>npm install rimraf --save-dev</code>
 
 Here's the full <code>scripts</code>-node.
 
-{% highlight javascript %}
+```javascript
   "scripts": {
     "start"           : "node index.js",
     
@@ -156,7 +156,7 @@ Here's the full <code>scripts</code>-node.
     "compile"         : "npm run compile:coffee && npm run compile:ts",
     "clean"           : "rimraf lib/*"
 }
-{% endhighlight %}
+```
 
 Now that you go <code>npm t</code> (short cut for <code>npm test</code>, remember) the following happens:
 
@@ -176,9 +176,9 @@ That was compilation and testing from my list in the start of this post. Let's t
 
 If you think this sounds daunting, fear no more: this is actually built right into <code>npm</code> itself. Let's check the command with <code>npm version -h</code>: 
 
-{% highlight bash %}
+```bash
 npm version [<newversion> | major | minor | patch | prerelease | preminor | premajor ]
-{% endhighlight %}
+```
 
 What it's trying to say is that you can either set the version yourself or use one of the predefined constants. For example: <code>npm version patch</code> to increment the patch part of your version number (this 0.0.**X**.0) and write that too your <code>package.json</code> version field. 
 
@@ -188,13 +188,13 @@ Let's try it out. I have <code>"version": "1.0.0"</code> in my <code>package.jso
 
 Let's create a simple script that bumps the patch part: 
 
-{% highlight javascript %}
+```javascript
 "version:patch" : "npm version patch"
-{% endhighlight %}
+```
 
 Ok - let's see how it works:
 
-{% highlight bash %}
+```bash
 $ git tag
 $ npm run version:patch
 
@@ -204,14 +204,14 @@ $ npm run version:patch
 v1.0.1
 $ git tag
 v1.0.1
-{% endhighlight %}
+```
 
 The only downside of this is ... that the command updates the <code>package.json</code> file. Meaning that my fancy formatting disappears. Haven't found a way around that yet. 
 
 ### Committed to git
 One thing that is worth noticing that if you git repository contains stuff that is not committed yet you will get an error. Luckily the error message is good:
 
-{% highlight bash %}
+```bash
 $ npm run version:patch
 
 ... stuff ....
@@ -219,14 +219,14 @@ $ npm run version:patch
 npm ERR! Error: Git working directory not clean.
 npm ERR! M package.json
 
-{% endhighlight %}
+```
 
 <code>git commit</code> the changes in package.json and you're good to go. 
 
 ## Pushing
 Pushing the code is now almost trivial: just add scripts for pushing:
 
-{% highlight javascript %}
+```javascript
 "scripts": {
     // ...
     // Everything we've seen so far
@@ -234,7 +234,7 @@ Pushing the code is now almost trivial: just add scripts for pushing:
     "push:git" 		: "git push --tags origin HEAD:master",
     "push:heroku" 	: "git push heroku master"
 }
-{% endhighlight %}
+```
 
 Nothing very special here, of course. The <code>--tag</code> flag simply means that we want to push that tags to our remote git repository (name <code>origin</code> in this case).
 
@@ -249,7 +249,7 @@ In my case, being on a OS X system, launching the application once it's deployed
 
 {% highlight bash%}
 open [url] # for example 'open http://koavote.herokuapp.com'
-{% endhighlight %}
+```
 
 For Windows they tell me it's <code>start "http://koavote.herokuapp.com"</code>.
 
@@ -263,22 +263,22 @@ Chaining tasks is very easy, you just use <code>&&</code> between each task. If 
 
 This is the approach we will take below and it looks something like this: 
 
-{% highlight javascript %}
+```javascript
 "deploy": "npm run test && npm run version:patch && npm run deploy"
-{% endhighlight %}
+```
 
 Another thing that might be useful is to send the output from one script execution into the next script. You might want to bundle your JavaScript files and then minify them, for browser based applications. That can be accomplished with the <code>|</code> (pipe) functionality. Like this example "stolen" from a [great article here](http://www.jayway.com/2014/03/28/running-scripts-with-npm/):
 
-{% highlight javascript %}
+```javascript
 "build-js": "browserify -t reactify app/js/main.js | uglifyjs -mc > static/bundle.js"
-{% endhighlight %}
+```
 
 Finally you could use a tool like [npm-run-all](https://www.npmjs.com/package/npm-run-all) if you have a lot of tasks that you want more fine grained control over. 
 
 ## My example
 Here's my first stab of a complete deploy script, I'll start with the <code>deployToProd</code> script and then list all the sub task scripts (my, what do you call these...) underneath:
 
-{% highlight javascript %}
+```javascript
   "scripts": {
 	"deploy:prod"     : "npm run test && npm run version:patch && npm run push && npm run launch",  
 
@@ -300,7 +300,7 @@ Here's my first stab of a complete deploy script, I'll start with the <code>depl
 	"launch"          : "open https://npmfullbuilddemo.herokuapp.com/",
 	"start"           : "node --harmony app.js"
 }
-{% endhighlight %}
+```
 
 <blockquote>
 Oh, for the start command I've added a small web application, just to make sure it shows up. It's written using [koa](http://koajs.org) of course and hence I need the <code>--harmony</code> flag... Not on [iojs](www.pluralsight.com/courses/running-node-applications-io-js) but still on Node... :P

@@ -28,7 +28,7 @@ That would be so cool. Let me show to get that to work for a Koa application
 # Create the application
 I've created a very basic, but not trivial Koa application (using ```npm init```) and then this single file: 
 
-{% highlight javascript %}
+```javascript
 var koa = require('koa');
 var app = koa();
 
@@ -38,7 +38,7 @@ app.use(function *(){
 
 app.listen(9000);
 console.log("The app is now listening - try it on http://localhost:9000");
-{% endhighlight %}
+```
 
 It's just a little Hello world app, since that's where we all need to start, right? 
 
@@ -101,13 +101,13 @@ This will, the first time, download a 10Mb file for the entire OS. Secondly the 
 
 The entire scripts-node of my ```package.json``` now looks like this: 
 
-{% highlight javascript %}
+```javascript
 "scripts": {
   "image:create": "runtimeify index.js -o appImg",
   "image:start": "runtime-qemu ./appImg",
   "start": "npm run image:create && npm run image:start"
 }
-{% endhighlight %}
+```
 
 Fingers crossed. 
 

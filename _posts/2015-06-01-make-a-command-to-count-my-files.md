@@ -41,9 +41,9 @@ Well the answer is, with OS X / Linux measures, relatively easy to fix. Open you
 
 Like this:
 
-{% highlight bash %}
+```bash
 alias count='ls -1 | wc -l'
-{% endhighlight %}
+```
 
 Now you can close the Terminal, reboot your computer or what ever you fancy and the <code>count</code> command will still be present. 
 
@@ -52,34 +52,34 @@ Now I realized that I actually have to <code>cd</code> into the directory I want
 
 But that's easy to fix... Convert it to a function like this:
 
-{% highlight bash %}
+```bash
 function count() {  ls -1 "$1" | wc -l; }
-{% endhighlight %}
+```
 
 The <code>$1</code> is the first parameter passed to the function. The last ;-char is important, or you'll get a syntax error. 
 
 This is good because now I can do, for example this: 
 
-{% highlight bash %}
+```bash
 count ./Projects/blog/marcusoftnet.github.io/_posts/
-{% endhighlight %}
+```
 
 And see my glorious 977 (sorry) posts again. But I *have* to supply a parameter. It would be cool if it used the current directory is nothing was supplied. Well... that [can be done](http://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html) like this:
 
-{% highlight bash %}
+```bash
 function count() {  ls -1 "${1:-.}" | wc -l; }
-{% endhighlight %}
+```
 
 As everything Linux the commands are terse and super powerful, but basically the form is <code>{parameter:option}</code>. In the <code>option</code> part we give a <code>-</code> which translates to "if not supplied", or default value. In our case it's just the current directory, <code>.</code>.
 
 Put that into your <code>~/.bashrc</code>, save it and restart your Terminal. And now you can go: 
 
-{% highlight bash %}
+```bash
 marcus$ count 
       13
 marcus$ count Projects/blog/marcusoftnet.github.io/_posts/
      977
-{% endhighlight %}
+```
 
 Lovely!
 

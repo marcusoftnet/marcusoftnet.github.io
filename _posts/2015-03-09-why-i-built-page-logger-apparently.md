@@ -39,7 +39,7 @@ The site is very simple and traditional, so not of much interest (he said hoping
 
 The API part is more interesting, and was exceedingly simple... or so it seemed. Here's the meat of the implementation, all of the code can be found [here](https://github.com/marcusoftnet/page-logger)
 
-{% highlight javascript %}
+```javascript
 var parse = require("co-body");
 var monk = require('monk');
 var wrap = require("co-monk");
@@ -83,7 +83,7 @@ module.exports.storePageView = function *(){
 
 	this.status = 201; //Created - we don't supply a way to get the resource back out
 };
-{% endhighlight %}
+```
 
 ## CORS
 
@@ -95,7 +95,7 @@ Secondly anyone can post to this endpoint and I will swallow it, potentially flo
 
 [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) is a way to fix that. And with the amazing plethora of [middlewares for Koa](https://github.com/koajs/koa/wiki) this was supersimple to implement. [Koa-Cors](https://www.npmjs.com/package/koa-cors) is the telling name of the middleware I used;
 
-{% highlight javascript %}
+```javascript
 // app.js
 var app = module.exports = require("koa")();
 var cors = require("koa-cors");
@@ -112,7 +112,7 @@ app.use(route.post("/api/pageview", apiRoutes.storePageView));
 app.listen(config.port);
 console.log("Started, with the following configuration: ");
 console.log(config);
-{% endhighlight %}
+```
 
 As you can see, on line 7, in it's simplest form CORS is just one line, telling our application to use it (<code>app.use()</code>). Now, what does that mean?
 
@@ -123,7 +123,7 @@ Now, in my client, I had to set the Origin-header... I thought. But it turns out
 
 This means that the client really can be just this simple [JQuery](http://jquery.com/):
 
-{% highlight javascript %}
+```javascript
 function logPageView() {
     var pageViewData = {
         title  : document.title,
@@ -140,7 +140,7 @@ function logPageView() {
     );
 };
 
-{% endhighlight %}
+```
 
 Here I'm constructing all my required parameters from a the current document meaning that this function is easy to kick-off at the end of the page, once it's loaded. I could even put it into a .js-file that on the page-logger-site and just reference that from my blog. If I wanted to.
 
@@ -149,7 +149,7 @@ I needed one more part to limit the access to my application and that was to onl
 
 When a page-view is process I make a very simple validation against the sites I've listed in my configuration object (<code>config.clients</code>), that is just an array of parsed configuration string.
 
-{% highlight javascript %}
+```javascript
 
 module.exports.storePageView = function *(){
 
@@ -186,7 +186,7 @@ function getAppName (originHeader){
 function arrayElementExists (arr, element) {
 	return arr.indexOf(element)>-1;
 }
-{% endhighlight %}
+```
 
 And that takes care of this, in a very simple, straight-forward way. It most certainly can be more secure, but it works for me.
 

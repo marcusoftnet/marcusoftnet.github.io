@@ -31,9 +31,9 @@ AWS Lambda, for some reason, runs on an ancient version of Node. 0.10.36, releas
 
 Ok, that's a small thing to fix by using the [nvm tool](https://www.npmjs.com/package/nvm). Install this tool (<code>curl http://nvm-latest.herokuapp.com | bash</code>, for example) and then run the following command
 
-{% highlight bash %}
+```bash
 nvm install v0.10.36
-{% endhighlight %}
+```
 
 Great - now you can easily switch (<code>nvm use v0.10.36</code>) to this version of Node when you want to do Lambda development. 
 
@@ -44,18 +44,18 @@ Ok, great! Now set up a file with your [AWS credentials](https://console.aws.ama
 
 Create a credentials files in the <code>.aws</code> directory of your root, like this: 
 
-{% highlight bash %}
+```bash
 mkdir ~/.aws
 touch ~/.aws/credentials
-{% endhighlight %}
+```
 
 Open that file in your favorite editor (<code>sublime ~/.aws/credentials</code> for example) and add the following structure, using [your credentials](https://console.aws.amazon.com/iam/home#security_credential) of course: 
 
-{% highlight text %}
+```text
 [default]
 aws_access_key_id = <YEAH RIGHT>
 aws_secret_access_key = <AS IF I'D TELL YOU ABOUT THESE>
-{% endhighlight %}
+```
 
 ## Install Claudia
 Now we can install Claudia with the familiar command <code>npm install claudia -g</code>. 
@@ -72,28 +72,28 @@ This is NOT required to use Claudia, the Lambda deployment tool, but is very han
 ## Initialization 
 Create a new directory and do some init stuff: 
 
-{% highlight bash %}
+```bash
 mkdir aLittleGreeter
 cd aLittleGreeter/
 npm init
 ... enter through the wizard
 touch index.js
 npm install claudia-api-builder -S
-{% endhighlight %}
+```
 
 ## Ensure that our code gets deployed
 Now open the <code>package.json</code> file and add a new <code>files</code> property with all your <code>*.js</code> files. Like this: 
 
-{% highlight bash %}
+```bash
 "files" : ["*.js"],
-{% endhighlight %}
+```
 
 This ensures that the code we write (in <code>.js</code> files at least) gets deployed. 
 
 ## Write a simple API
 Here's the code for our API, I'll explain it below: 
 
-{% highlight javascript %}
+```javascript
 /* global require, module */
 var ApiBuilder = require("claudia-api-builder");
 var api = new ApiBuilder();
@@ -117,9 +117,9 @@ We are now going to use <code>claudia create</code>, which will create a new lam
 
 Here's the command in full, I'll go through the parts below: 
 
-{% highlight bash %}
+```bash
 claudia create --name aLittleGreeter --region us-west-2 --api-module index
-{% endhighlight %}
+```
 
 * The <code>--name</code> is the name that you will use to identify the API and the Lambda with. You'll see it all over the place as roles are prefixed etc. 
 * <code>--region</code> is the region where you will deploy your stuff to. [This page](http://docs.aws.amazon.com/general/latest/gr/rande.html) shows which services are available in which region
@@ -131,7 +131,7 @@ I often put this into my <code>package.json</code> file under the <code>scripts<
 "scripts": {
     "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index"
 },
-{% endhighlight %}
+```
 
 which means that users of my code can create the lambda using <code>npm run claudia:create</code>
 
@@ -139,9 +139,9 @@ Run that command now and wait until <code>claudia</code> finish her magic.
 
 If everything went well, you'll see some nice output from <code>claudia</code> that ends like this: 
 
-{% highlight bash %}
+```bash
 {"lambda": {"role" : "aLittleGreeter-executor", "name":"aLittleGreeter" ,"region":"us-west-2"}, "api" : {"id" : "mu2ptzrnc2", "module":"index"}}
-{% endhighlight %}
+```
 
 This is the content of the <code>claudia.json</code> that <code>claudia</code> created, which means that your service is created and waiting for you to access it. 
 
@@ -179,9 +179,9 @@ If you are anything like me; you probably messed up somewhere in there. This mea
 
 This fails, probably with something like: 
 
-{% highlight bash %}
+```bash
 Role with name aLittleGreeter-executor already exists.
-{% endhighlight %}
+```
 
 Because <code>claudia create</code> is for the first time only. Cleaning up after a creation is, [for now](), not supported by <code>claudia</code>. Doing it manually requires: 
 
@@ -200,7 +200,7 @@ I created a <code>package.json</code> script for it too:
         "claudia:update" : "claudia update"
     }
 
-{% endhighlight %}
+```
 
 Now when you change your code you can simply push the new version with <code>npm run claudia:deploy</code>
 
@@ -213,7 +213,7 @@ Another error that I spent some time trying to understand was this:
         message: "Missing Authentication Token"
     }
 
-{% endhighlight %}
+```
 
 This happens if you use a faulty URL, for example forget to add the <code>/hello/marcus</code> part in the end. 
 

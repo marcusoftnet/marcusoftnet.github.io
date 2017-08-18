@@ -31,33 +31,33 @@ Initalization of the project is straight forward for any Node developer, especia
 
 Start by doing:
 
-{% highlight bash %}
+```bash
 mkdir CoffeeDemo && cd CoffeeDemo
 git init
 npm init
-{% endhighlight %}
+```
 
 and accept the defaults (that's 9 enter-clicks, people...) of the last wizard, if you don't have any reason to do otherwise.
 
 Now, we of course need coffee-script installed. Best is probably to install it on our computer so run this command:
 
-{% highlight bash %}
+```bash
 npm install -g coffee-script
-{% endhighlight %}
+```
 
 Here I got a lot of warnings like these:
 
-{% highlight bash %}
+```bash
 npm WARN unmet dependency /usr/local/lib/node_modules/grunt-init/node_modules/prompt requires colors@'0.x.x' but will load
-{% endhighlight %}
+```
 
 But that had to do with that I was running the new craze [iojs](https://iojs.org/). It works anyway but maybe better to switch over to a version of Node that doesn't give you warnings.
 
 We then need the dependencies for our application, which is just test and assertions:
 
-{% highlight bash %}
+```bash
 npm install mocha should --save-dev
-{% endhighlight %}
+```
 
 Oh, get a [.gitignore for Node](https://www.gitignore.io/api/node) from the excellent [www.gitignore.io](https://www.gitignore.io/) site
 
@@ -66,53 +66,53 @@ Done - we are set up.
 # Run tests
 The first thing I tried to do was to get the tests to run. In order to do so I had to write a little test. In coffee-script of course, so the next paragraph should probably had come before this one... Well well. Do this:
 
-{% highlight bash %}
+```bash
 mkdir test
 touch test/spec.coffee
-{% endhighlight %}
+```
 
 Open that file in a text-editor and add the following naive test:
 
-{% highlight coffeescript %}
+```coffeescript
 describe "Writing Node with CoffeeScript", ->
 	it "is easy to get started testing... or is it?", -> true
-{% endhighlight %}
+```
 
 In CoffeesScript indentation is significant so make sure you enter it exactly as above.
 
 I want to run my tests with mocha and I want to end up with a <code>test</code>-command in the package.json. Let's try the simplest we can come up with:
 
-{% highlight javascript%}
+```javascript javascript
 "scripts": {
     "test": "mocha -w"
  }
-{% endhighlight %}
+```
 
 This simply tells mocha to run and watch changes in our test-directory (by convention). Let's save the file and run it and see what happens:
 
-{% highlight bash %}
+```bash
 npm test
-{% endhighlight %}
+```
 
 which gives us <code>0 passing (0ms)</code>... No tests passing? But there is one in the spec.coffee-file?
 
 However it's not JavaScript and we need to tell mocha to compile the .coffee files into JavaScript before it runs. This is done with a flag, that took me some time to track down: <code>--compilers coffee:coffee-script/register</code>. Add that to your test-script, in the package.json, making it look like this:
 
-{% highlight javascript%}
+{% highlight javascript
 "scripts": {
     "test": "mocha -w --compilers coffee:coffee-script/register"
  }
-{% endhighlight %}
+```
 
 Rerun <code>npm test</code> and YES! It works...
 
 There's other options you can set, I usually end up with a complete command that looks like this:
 
-{% highlight javascript%}
+{% highlight javascript
 "scripts": {
     "test": "mocha --compilers coffee:coffee-script/register -R spec -u bdd -w"
  }
-{% endhighlight %}
+```
 
 If you find that to long to read you could specify the options in a <code>mocha.opts</code> file, in the test-directory. It will look like this:
 
@@ -121,7 +121,7 @@ If you find that to long to read you could specify the options in a <code>mocha.
  -R spec
  -u bdd
  -w
-{% endhighlight %}
+```
 
 Leaving our test command simply as <code>mocha</code>. I personally don't like this approach since I find that it's more places to look. But it's an option.
 
@@ -130,21 +130,21 @@ Ok, we can run our tests... Let's write some code.
 # Write .coffee code
 In order to have this working properly let's first add a file with our production code (<code>mkdir src && touch src/index.coffee</code>) and add the following code:
 
-{% highlight coffeescript %}
+```coffeescript
 greeting = (name) ->
 	"Hello #{name}!"
-{% endhighlight %}
+```
 
 If you never seen CoffeeScript, this defines function <code>greeting</code> that takes one parameter <code>name</code> and returns (last row of a function automatically returns in coffeescript, and many other functional langauges) a string with the name inserted in.
 
 To not have all problems pour down on us at the same time, let's not add a test right now, but rather just call the function we defined below it. Like this:
 
-{% highlight coffeescript %}
+```coffeescript
 greeting = (name) ->
 	"Hello #{name}!"
 
 console.log greeting "Marcus"
-{% endhighlight %}
+```
 
 # Run .coffee code
 
@@ -152,12 +152,12 @@ Ok - let's run it. Naively I tried <code>node src/index.coffee</code>. But unsur
 
 In order to run Node code we first need to compile it. And then run the compiled JavaScript file. To spare you all my pain I'll just show you the command I ended up with for <code>npm start</code> in my <code>package.json</code>, and then talk through it:
 
-{% highlight javascript %}
+```javascript
 "scripts": {
 	"test": "mocha",
 	"start": "(coffee --compile --output dist --watch src &);node ./dist/index.js"
 }
-{% endhighlight %}
+```
 
 **UPDATED**
 If you haven't seen it before the ampersand ```&``` at the end of the first part of the command, is a UNIX way of starting a command in a separate process, in the background. 
@@ -175,12 +175,12 @@ Oh mama! That should probably go into a build file or something. But I'm keeping
 
 We can improve on this by using [Nodemon](http://nodemon.io/), that helps us to watch for changes. Install it with <code>npm install nodemon --save</code> and then change the start command into this:
 
-{% highlight javascript %}
+```javascript
 "scripts": {
     "test": "mocha",
     "start": "(coffee --compile -o dist --watch &);./node_modules/nodemon/bin/nodemon.js ./dist/index.js"
 }
-{% endhighlight %}
+```
 
 And the second part now starts Nodemon from our local node_modules-folder, not relying on that everyone that runs this code have Nodemon installed globally.
 
@@ -193,9 +193,9 @@ Ok, let's run it: <code>npm start</code>. It works!
 
 And if we change the <code>index.coffee</code> file ... it fails!
 
-{% highlight bash %}
+```bash
 Error: The two following source files have the same output file:
-{% endhighlight %}
+```
 
 This is a bug in [CoffeeScript 1.9.1](https://github.com/jashkenas/coffeescript/issues/3863). It is fixed but not yet released. Make sure that you're running something else than 1.9.1 <code>sudo npm install -g coffee-script@1.9.0</code> for example.
 
@@ -204,13 +204,13 @@ Ok, let's stich it all together. Now we can run tests and we can run our code. B
 
 In the <code>spec.coffee</code> first require the file:
 
-{% highlight coffeescript %}
+```coffeescript
 sut = require '../src/index.coffee'
-{% endhighlight %}
+```
 
 Then add a test that access the <code>greeting</code> function. This is the entire <code>spec.coffee</code> after these changes:
 
-{% highlight coffeescript %}
+```coffeescript
 sut = require '../src/index.coffee'
 should = require 'should'
 
@@ -218,26 +218,26 @@ describe 'Writing Node with CoffeeScript', ->
 	it 'is easy to get started testing... or is it?', -> true
 	it 'can access exported functions in other modules', ->
 		sut.greeting('Marcus').should.equal 'Hello Marcus!'
-{% endhighlight %}
+```
 
 Yes, I added should since that's a nice way to do assertions.
 
 Let's run the test <code>npm test</code>. It fails miserably:
 
-{% highlight bash %}
+```bash
 TypeError: undefined is not a function
-{% endhighlight %}
+```
 
 Luckily this is easy to understand... We have not exported the greeting function in our <code>/src/index.coffee</code>. Make that file look like this and it will be better:
 
-{% highlight coffeescript %}
+```coffeescript
 greeting = (name) ->
 	"Hello #{name}!"
 
 module.exports.greeting = greeting
 
 console.log greeting "Marcus Hammarberg"
-{% endhighlight %}
+```
 
 Better?! It rocks - because that acutally works. Since we are watching changes on our tests the change is picked up and it runs all our tests. Passing.
 

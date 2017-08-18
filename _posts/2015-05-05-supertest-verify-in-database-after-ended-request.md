@@ -38,7 +38,7 @@ If you want to tag along as I build this example out, [grab the code from this t
 # The start
 Here's the test I'm starting from, you'll find it in /test/user.post.js:
 
-{% highlight javascript  %}
+```javascript
 describe('POST to /user', function(){
 
 	var test_user = {};
@@ -63,7 +63,7 @@ describe('POST to /user', function(){
 
 	// and some other tests
 });
-{% endhighlight %}
+```
 
 There's a [testHelpers.js file](https://github.com/marcusoftnet/UserApiWithTest/blob/v1.1/test/testHelpers.js) where the <code>test_user</code> object is defined. 
 
@@ -73,7 +73,7 @@ The interesting part is of course the test from lines 14-21. It's a good test. W
 
 Running the tests <code>npm test</code>, before we start, makes sure that this work. 
 
-{% highlight bash %}
+```bash
 ... other tests ...
 
 POST to /user
@@ -82,7 +82,7 @@ POST to /user
 ... other tests ...
 
 6 passing (100ms)
-{% endhighlight %}
+```
 
 Ah well... I changed the status code from 200 to 201 in the example so that needs to be updated in the [userRoute.js](https://github.com/marcusoftnet/UserApiWithTest/blob/v1.1/userRoutes.js)... but then it works.  
 
@@ -91,7 +91,7 @@ What we want is to after the request has finished check the state of the databas
 
 And that takes a function. Let's by just using the end function. Like this: 
 
-{% highlight javascript  %}
+```javascript
 it('creates a new user for complete posted data', function(done){
 	// Post
 	request
@@ -101,7 +101,7 @@ it('creates a new user for complete posted data', function(done){
 		.expect(201)
 		.end(done);
 });
-{% endhighlight %}
+```
 
 This is just making the test a little bit clearer to read. "And then end the request and test by calling done" was basically what we said.
 
@@ -110,18 +110,18 @@ Rerunning the test to make sure it works, of course.
 # Our own function
 But we wanted to *do* something after the request as ended. Luckily we can by adding a function of our own as parameter to the <code>.end()</code>. Here's the trivial example of that:
 
-{% highlight javascript  %}
+```javascript
 .end(function () {
 	done();
 });
-{% endhighlight %}
+```
 
 Too trivial. Let's instead look up some data and verify that the <code>test_user.name</code> actually has been set in the database. Here's what we want to say:
 
-{% highlight javascript %}
+```javascript
 var userFromDb = yield users.findOne({ name: test_user.name});
 userFromDb.name.should.equal(test_user.name);
-{% endhighlight %}
+```
 
 (The <code>users</code> collection is defined in <code>testHelpers</code> and in our file we have a the following at the top, for easy access <code>var helpers = require('./testHelpers.js'); var users = helpers.users;</code>.
 
@@ -129,21 +129,21 @@ Note that you have to require and install [should](http://npmjs.org/package/shou
 
 Ha! Trivial again... I said... Until I remember that yield cannot be called in a non-generator function. Let's try and you'll see. Here's the code that will not work:
 
-{% highlight javascript %}
+```javascript
 .end(function (){
 	var userFromDb = yield users.findOne({ name: test_user.name});
 	userFromDb.name.should.equal(test_user.name);
 	done();
 });
-{% endhighlight %}
+```
 
 Running the tests again (<code>npm t</code>) and will get this error that I've [blogged about before](http://www.marcusoft.net/2014/04/WhenIGotGenerators.html)
 			
-{% highlight bash %}
+```bash
 var userFromDb = yield users.findOne({ name: test_user.name});
 				                       ^^^^^^^^^^
 SyntaxError: Unexpected identifier
-{% endhighlight %}
+```
 
 Basically it tries to say: "I don't know what you mean 'yield'" but it cannot express itself particularly good. 
 
@@ -156,14 +156,14 @@ This is where [co](https://github.com/tj/co) can help us. co is a little tool th
 Yes, exactly. I don't get that either. Still. But I think I can use it. Because basically it means that you can wrap a generator function with <code>co</code> and then execute the co function as a *normal* function. 
 
 This is how it would look, after you have added a <code>var co = require("co");</code> at the top of the file and <code>npm install co --save-dev</code>
-{% highlight javascript  %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});
 		userFromDb.name.should.equal(test_user.name);
 	})(done);
 });	
-{% endhighlight %}
+```
 
 ## Detour - broken example code
 You don't have to read this part if you didn't start from my [code](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1). But it will provide you with deeper understanding once you're through it.
@@ -180,13 +180,13 @@ I've updated my <code>package.json</code> in that manner now. Here's the the two
 {% highlight bash%}
 npm install koa koa-route co-body co-monk monk --save
 npm install mocha co should supertest --save-dev
-{% endhighlight %}
+```
 
 And now my <code>package.json</code> better represent the state I was actually running in at the time. Thank you [Danny](http://stackoverflow.com/users/4804849/danny) for that push to be better!
 
 ## Back to the detour
 Once that is done... all tests still fails. This time it has to do with <code>co</code> completely changing it's behavior to return a promise. Luckily all the failures are in the same function: <code>testHelpers.removeAll</code> and can be solved by just moving the call to <code>done</code> inside the function, like this: 
-{% highlight javascript  %}
+```javascript
 module.exports.removeAll = function(done){
 	co(function *(){
 		yield users.remove({});
@@ -194,11 +194,11 @@ module.exports.removeAll = function(done){
 		done();
 	});
 };	
-{% endhighlight %}
+```
 
 And now only 4 test still fail. These are the test using <code>co</code> in the old way. Most likely we invoke the <code>co</code> construction function directly (<code>co(...)();</code> for example). This is not how it behaves now when <code>co</code> returns a Promise. The fix is just to remove the <code>();</code> at the end of a call. Here's an example from <code>user.del.js</code>
 
-{% highlight javascript %}
+```javascript
 it('deletes an existing user', function(done){
 	co(function *() {
 		// Insert test user in database
@@ -211,7 +211,7 @@ it('deletes an existing user', function(done){
 			.expect(200, done);
 	}); // this line looked like this before: })(); 
 });
-{% endhighlight %}
+```
 
 And we're back. Test are passing and we are using the latest version of our tools. 
 Praise God for test when you update your infrastructure. And many other times too.
@@ -219,7 +219,7 @@ Praise God for test when you update your infrastructure. And many other times to
 # Back to the code at hand - let's assert it
 Before we run the tests, let's go through the updated <code>.end()</code> function. Here it is again so that you don't have to scroll:
 
-{% highlight javascript  %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});
@@ -227,7 +227,7 @@ Before we run the tests, let's go through the updated <code>.end()</code> functi
 		done();
 	});
 });	
-{% endhighlight %}
+```
 
 There's a couple of things to note:
 
@@ -255,34 +255,34 @@ But in a test we actually *want* it to execute now. And there's an easy, and sta
 <code>.then()</code> just takes a function that we execute after the Promise has returned. <code>done</code> is a perfect candidate for us.
 
 Here's how it would look: 
-{% highlight javascript %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});
 		userFromDb.name.should.equal(test_user.name);
 	}).then(done);
 });	
-{% endhighlight %}
+```
 
 AND. IT. WORKS! Tears of joy are streaming down my face as I realized... 
 
 # Or did it... failing for the right reason
 Well... for some reason I doubted this from time to time. And I changed the test to this: 
 
-{% highlight javascript %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name: test_user.name});
 		userFromDb.name.should.equal("This is not the name you are looking for");
 	}).then(done);
 });	
-{% endhighlight %}
+```
 
 Rerunning the test... and it hangs... 
 
-{% highlight bash %}
+```bash
 Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.
-{% endhighlight %}
+```
 
 Yup... spent another two weeks here. 
 
@@ -290,7 +290,7 @@ Well, it turns out that errors are not handled by <code>.then()</code> unless we
 
 That's what the second parameter, also a function, does. Like this for example:
 
-{% highlight javascript %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name : test_user.name });
@@ -299,30 +299,30 @@ That's what the second parameter, also a function, does. Like this for example:
 		done(err);
 	});
 });	
-{% endhighlight %}
+```
 
 And now we get the failing test we (read: I) was looking for during all that time: 
-{% highlight bash %}
+```bash
 AssertionError: expected 'Marcus' to be 'This is not the name you are looking for'
 + expected - actual
 
 +"This is not the name you are looking for"
 -"Marcus"
-{% endhighlight %}
+```
 
 Now I actually was crying. True story. 
 But I was also on such a high that I got an idea. I seem to remember, from my time programming F#, that many functional languages have short cuts for functions that only take one parameter. Basically it's passed implicitly or how you could explain it. 
 
 On a whim I just took the function out and changed it into this: 
 
-{% highlight javascript %}
+```javascript
 .end(function () {
 	co(function *() {
 		var userFromDb = yield users.findOne({ name : test_user.name });
 		userFromDb.name.should.equal("This is not the name you are looking for");
 	}).then(done, done);
 });	
-{% endhighlight %}
+```
 
 Basically saying to the second done-parameter; take the <code>err</code> object and pass it to <code>done</code>, in this case which is failing the test. 
 
@@ -337,7 +337,7 @@ co, since version 4.0.0, returns a promise. This perfect for users of [mocha](ht
 
 The test in it's entirety is displayed below. My code is [checked in here](https://github.com/marcusoftnet/UserApiWithTest), under [tag 1.2](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.2).
 
-{% highlight javascript %}
+```javascript
 var co = require("co");
 var should = require("should");
 var helpers = require('./testHelpers.js');
@@ -372,6 +372,6 @@ describe('POST to /user', function(){
 			});				
 	});
 });
-{% endhighlight %}
+```
 
 YESSSSSS!

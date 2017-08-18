@@ -30,7 +30,7 @@ That sounds easy but how does it really work and what opportunities does this gi
 
 # Basic (?) example
 
-{% highlight javascript  %}
+```javascript
 var koa = require('koa');
 var mount = require('koa-mount');
 
@@ -56,7 +56,7 @@ app.use(mount('/world', world));
 
 app.listen(3000);
 console.log('listening on port 3000');
-{% endhighlight %}
+```
 
 This is the example code that koa-mount supplies. Let's walk through it:
 1. At line 4-9 we create a small little Hello application that simply
@@ -78,7 +78,7 @@ Let's improve this a bit.
 # Separate files
 Let's address the second point above first, because that's trivial. Moving the applications to separate files are very simple. I moved them into a sub directory called ```subapps``` Here's the ```/subapps/hello.js``` application:
 
-{% highlight javascript %}
+```javascript
 var koa = require('koa');
 var app = module.exports = koa();
 
@@ -86,13 +86,13 @@ app.use(function *(next){
   yield next;
   this.body = 'Hello';
 });
-{% endhighlight %}
+```
 
 Only thing worth noticing is that I've exposed the ```app``` object using ```var app = module.exports = koa();``` on line 2.
 
 Here's the ```/subapps/world.js``` application. Exactly the same:
 
-{% highlight javascript  %}
+```javascript
 var koa = require('koa');
 var app = module.exports = koa();
 
@@ -100,11 +100,11 @@ app.use(function *(next){
   yield next;
   this.body = 'World';
 });
-{% endhighlight %}
+```
 
 Ok, this turns out very beautiful in the main application now: ```mountingAppsFromDifferentFiles.js```:
 
-{% highlight javascript  %}
+```javascript
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -118,7 +118,7 @@ app.use(mount('/world', worldApp));
 
 app.listen(3000);
 console.log('listening on port 3000');
-{% endhighlight %}
+```
 
 Here's we're just stitching together the application, giving each sub application the path under which they operate.
 
@@ -127,7 +127,7 @@ But that's still "just" middle ware. Let's see what a little more real applicati
 
 Here's an application using [koa-route](https://www.npmjs.com/package/koa-route) to create some routing:
 
-{% highlight javascript  %}
+```javascript
 "use strict";
 let koa = require('koa');
 let route = require('koa-route');
@@ -143,13 +143,13 @@ function *index() {
 function *user(name) {
 	this.body = `The name of the user is ${name}`;
 };
-{% endhighlight %}
+```
 
 Very simple: at the root of *this* application we return a string informing the users that they have reached the index of the sub app. The second route takes a ```name``` querystring parameter that we return in a EcmaScript 6 templated string (Achievement unlocked!)
 
 In our "main" application we can do this:
 
-{% highlight javascript  %}
+```javascript
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -163,7 +163,7 @@ app.use(mount('/sub/app/and/a/very/deep/path', deepPath));
 
 app.listen(3000);
 console.log('listening on port 3000');
-{% endhighlight %}
+```
 
 Now we can reach our sub application by going to ```http://localhost:3000/subApp``` which will return  ```You are on the index of the sub app```. From ```http://localhost:3000/subapp/user/marcus``` we will get a nice message greeting ... well me.
 
@@ -171,7 +171,7 @@ As a finale to this example I show how you can mount another instance of the app
 
 In fact you could also use the same instance of the sub application if you wanted. Like this:
 
-{% highlight javascript  %}
+```javascript
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -183,14 +183,14 @@ app.use(mount('/sub/app/and/a/very/deep/path', subApp));
 
 app.listen(3000);
 console.log('listening on port 3000');
-{% endhighlight %}
+```
 
 # Conclusion
 [koa-mount](https://github.com/koajs/mount) is perfect to compose bigger applications into smaller parts. Maybe you already have a blog application that you can reuse and just include under the ```/blog``` path. That's one line of code using ```koa-mount```.
 
 Bringing it back to my application that I've described at the top it will have a main application that looks something like this:
 
-{% highlight javascript  %}
+```javascript
 "use strict";
 let mount = require('koa-mount');
 let koa = require('koa');
@@ -206,7 +206,7 @@ app.use(mount('/admin', adminSite));
 
 app.listen(3000);
 console.log('listening on port 3000');
-{% endhighlight %}
+```
 
 In each of the directories I can now create and keep the site modular and nice. In fact I could create them as separate packages too if I wanted and then just mount the packages.
 
