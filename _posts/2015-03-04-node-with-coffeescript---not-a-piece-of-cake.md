@@ -82,7 +82,7 @@ In CoffeesScript indentation is significant so make sure you enter it exactly as
 
 I want to run my tests with mocha and I want to end up with a <code>test</code>-command in the package.json. Let's try the simplest we can come up with:
 
-```javascript javascript
+```javascript
 "scripts": {
     "test": "mocha -w"
  }
@@ -253,4 +253,4 @@ I'm by no means an expert. Consider this an experience report from me, an averag
 And please tell me if there are better ways.
 
 **UPDATE**
-There are! [Check out my follow up post](http://www.marcusoft.net/2015/03/coffeescript-what-ive-should-have-done.html)
+There are many! [Check out my follow up post](http://www.marcusoft.net/2015/03/coffeescript-what-ive-should-have-done.html)

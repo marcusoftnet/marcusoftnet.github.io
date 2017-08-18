@@ -104,7 +104,7 @@ api.get("/hello/{name}", function (request) {
 });
 
 module.exports = api;
-{% endhighlight  %}
+```
 
 Quite simply this creates little api for us that will respond to GET request to <code>/hello</code>. We also expect another part of the URL that is the <code>{name}</code> to say hello to. This will be parsed using the <code>request.pathParams.name</code>-property. 
 
@@ -216,9 +216,9 @@ Now when you change your code you can simply push the new version with <code>npm
 Another error that I spent some time trying to understand was this:
 
 ```json
-    {
-        message: "Missing Authentication Token"
-    }
+{
+    message: "Missing Authentication Token"
+}
 ```
 
 This happens if you use a faulty URL, for example forget to add the <code>/hello/marcus</code> part in the end. 
