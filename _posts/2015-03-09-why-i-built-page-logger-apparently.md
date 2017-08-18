@@ -16,7 +16,9 @@ I wrote a little application called [page-logger](https://page-logger.herokuapp.
 In this post I'll take you through some code, point to some things that I learned and finally some thoughts about learning from your data. I hope you like it.
 
 <a name='more'></a>
+
 # Why I built page-logger
+
 I've been using [Blogger](http://www.blogger.com) for a very long time. From when I started to blog (2006... oh my) until early last year... OMG - I've been doing this for 9 years.
 
 Oh, sorry... got lost in sentimentality there. Ok - last year I switched to [Jekyll](http://jekyllrb.com) hosted on [GitHub](http://www.github.com). That's worked out very well.
@@ -26,6 +28,7 @@ However - there's a nice feature of Blogger that I was missing. There's a lightw
 Yes, yes ... I'm sure that can be read out of Google Analytics too, but; firstly I don't know how, secondly I'm a coder and I wanted to build something. Hence: I tried to build it myself.
 
 # How I built page-logger - and what I learned
+
 My platform of choice (for now) is [NodeJs](http://nodejs.org) using the execellent [Koa](http://koajs.com) framework.
 
 Basically the application fell out in two simple parts;
@@ -139,7 +142,6 @@ function logPageView() {
     	}
     );
 };
-
 ```
 
 Here I'm constructing all my required parameters from a the current document meaning that this function is easy to kick-off at the end of the page, once it's loaded. I could even put it into a .js-file that on the page-logger-site and just reference that from my blog. If I wanted to.
@@ -150,7 +152,6 @@ I needed one more part to limit the access to my application and that was to onl
 When a page-view is process I make a very simple validation against the sites I've listed in my configuration object (<code>config.clients</code>), that is just an array of parsed configuration string.
 
 ```javascript
-
 module.exports.storePageView = function *(){
 
 	// other code shown before
