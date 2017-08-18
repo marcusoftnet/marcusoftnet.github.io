@@ -98,7 +98,7 @@ M: "Yup - scrolling back up... sure enough I saw it. Not really right in front o
 
 H: "But now wait a second... what if I cannot change the version of node? If it's on a server that I don't control or something. Talk about breaking change!"
 
-M: "Well... the nice Koa-guys showed me a trick. First install something called `bluebird`, with `npm install bluebird --save`. Then add this line at the top of you app.js:"
+M: "Well... the nice Koa-guys showed me a trick. First install something called `bluebird`, with `npm install bluebird --save`. Then add this line at the top of you app.js:
 
 ```javascript
 global.Promise = require('bluebird');

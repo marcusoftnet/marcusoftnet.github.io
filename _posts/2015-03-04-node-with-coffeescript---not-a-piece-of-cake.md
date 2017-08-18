@@ -98,7 +98,7 @@ which gives us <code>0 passing (0ms)</code>... No tests passing? But there is on
 
 However it's not JavaScript and we need to tell mocha to compile the .coffee files into JavaScript before it runs. This is done with a flag, that took me some time to track down: <code>--compilers coffee:coffee-script/register</code>. Add that to your test-script, in the package.json, making it look like this:
 
-{% highlight javascript
+```javascript
 "scripts": {
     "test": "mocha -w --compilers coffee:coffee-script/register"
  }
@@ -108,7 +108,7 @@ Rerun <code>npm test</code> and YES! It works...
 
 There's other options you can set, I usually end up with a complete command that looks like this:
 
-{% highlight javascript
+```javascript
 "scripts": {
     "test": "mocha --compilers coffee:coffee-script/register -R spec -u bdd -w"
  }
@@ -116,7 +116,7 @@ There's other options you can set, I usually end up with a complete command that
 
 If you find that to long to read you could specify the options in a <code>mocha.opts</code> file, in the test-directory. It will look like this:
 
-{% highlight bash%}
+```bash
  --compilers coffee:coffee-script/register
  -R spec
  -u bdd
