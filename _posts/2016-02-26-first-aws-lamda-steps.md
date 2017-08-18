@@ -140,7 +140,17 @@ Run that command now and wait until <code>claudia</code> finish her magic.
 If everything went well, you'll see some nice output from <code>claudia</code> that ends like this: 
 
 ```bash
-{"lambda": {"role" : "aLittleGreeter-executor", "name":"aLittleGreeter" ,"region":"us-west-2"}, "api" : {"id" : "mu2ptzrnc2", "module":"index"}}
+{
+    "lambda": {
+            "role" : "aLittleGreeter-executor", 
+            "name":"aLittleGreeter",
+            "region":"us-west-2"
+        }, 
+    "api" : {
+        "id" : "mu2ptzrnc2", 
+        "module":"index"
+    }
+}
 ```
 
 This is the content of the <code>claudia.json</code> that <code>claudia</code> created, which means that your service is created and waiting for you to access it. 
@@ -194,12 +204,10 @@ What you'd want to do instead of <code>create</code> this again is to <code>clau
 I created a <code>package.json</code> script for it too: 
 
 ```json
-
     "scripts": {
         "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index",
         "claudia:update" : "claudia update"
     }
-
 ```
 
 Now when you change your code you can simply push the new version with <code>npm run claudia:deploy</code>
@@ -208,11 +216,9 @@ Now when you change your code you can simply push the new version with <code>npm
 Another error that I spent some time trying to understand was this:
 
 ```json
-    
     {
         message: "Missing Authentication Token"
     }
-
 ```
 
 This happens if you use a faulty URL, for example forget to add the <code>/hello/marcus</code> part in the end. 
