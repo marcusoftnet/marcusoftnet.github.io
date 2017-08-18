@@ -19,21 +19,22 @@ H: "Yeah, I know. You told me like a million times."
 
 M: "Ok... sorry. Off to the terminal I went and went through the usual steps:"
 
-{% highlight bash %}
+```bash
 mkdir newAwesomeApp
 cd newAwesomeApp
 git init
 npm init
 npm install koa koa-route --save
 touch app.js
-{% endhighlight %}
+```
 
 <a name='more'></a>
 
 H: "Dude, is this a screen cast or are you going to tell me something interesting already?"
 
 M: "Well hang on for just a few seconds more. I wrote my first simple route, to verify it. And I'm glad I did"
-{% highlight javascript %}
+
+```javascript
 var app = require("koa")();
 var route = require("koa-route");
 
@@ -43,7 +44,8 @@ app.use(route.get("/", function *(){ this.body = "Yup, it's working!"}));
 // start it
 app.listen(3000);
 console.log("App listening... http://localhost:3000");
-{% endhighlight %}
+```
+
 H: "I'm borderline bored... "
 
 M: "And then! I fired it up as normal: node --harmony app.js. You know what happened?"
@@ -51,14 +53,16 @@ M: "And then! I fired it up as normal: node --harmony app.js. You know what happ
 H: "If you say 'It worked, because Koa is awesome' I'm leaving."
 
 M: "Eeeh, well it worked. Until I hit the route, http://localhost:3000/. Then it spit out an error like this:"
-{% highlight bash %}
+
+```bash
 /Volumes/Storage/Users/marcus/Projects/Koa/booooring.com/node_modules/koa/node_modules/co/index.js:47
   return new Promise(function(resolve, reject) {
              ^
 ReferenceError: Promise is not defined
     at Object.co (/Volumes/Storage/Users/marcus/Projects/Koa/booooring.com/node_modules/koa/node_modules/co/index.js:47:14)
 
-{% endhighlight %}
+```
+
 H: "Ok, you're running on the wrong version of Node."
 
 M: "No - I'm running version v0.11.12, installed using the awesome [nvm](https://github.com/creationix/nvm), of course."
@@ -94,10 +98,12 @@ M: "Yup - scrolling back up... sure enough I saw it. Not really right in front o
 
 H: "But now wait a second... what if I cannot change the version of node? If it's on a server that I don't control or something. Talk about breaking change!"
 
-M: "Well... the nice Koa-guys showed me a trick. First install something called 'bluebird', with 'npm install bluebird --save'. Then add this line at the top of you app.js:"
-{% highlight javascript %}
+M: "Well... the nice Koa-guys showed me a trick. First install something called `bluebird`, with `npm install bluebird --save`. Then add this line at the top of you app.js:"
+
+```javascript
 global.Promise = require('bluebird');
-{% endhighlight %}
+```
+
 M: "And then it started to work as well... but really you should try to keep to the right version. And read the npm log..."
 
 H: "I guess so..."
