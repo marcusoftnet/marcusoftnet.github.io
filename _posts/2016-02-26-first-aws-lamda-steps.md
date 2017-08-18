@@ -82,6 +82,7 @@ npm install claudia-api-builder -S
 ```
 
 ## Ensure that our code gets deployed
+
 Now open the <code>package.json</code> file and add a new <code>files</code> property with all your <code>*.js</code> files. Like this: 
 
 ```bash
@@ -91,6 +92,7 @@ Now open the <code>package.json</code> file and add a new <code>files</code> pro
 This ensures that the code we write (in <code>.js</code> files at least) gets deployed. 
 
 ## Write a simple API
+
 Here's the code for our API, I'll explain it below: 
 
 ```javascript
