@@ -179,7 +179,7 @@ Any parameter you pass to <code>npm</code> at the command prompt is used for tha
 What I found interesting is that this is passed on to <code>npm</code> scripts. So for our mega-build-script-calling-into-other-scripts thing we [built before](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html):
 
 ```javascript 
-    "deploy:prod": "npm run test && npm run version:patch && npm run push && npm run launch",
+"deploy:prod": "npm run test && npm run version:patch && npm run push && npm run launch",
 ``` 
 
 we can simply turn logging up or down by going <code>npm run deploy:prod -ddd</code> or <code>npm run deploy:prod -s</code>. 
