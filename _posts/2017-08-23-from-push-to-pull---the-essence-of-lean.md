@@ -105,7 +105,7 @@ That leaves one part of the puzzle. We have said that:
 
 The level that is missing is the (operational) strategy. Where is the capacity best spent, right now? I don't think that one stakeholder is the best person to make that judgment, at least not as long as that stakeholder is competing about the same capacity as other stakeholders. Which, is the normal situation in my experience. 
 
-Rather decisions like these should be made with a large scope in mind; what is best for the company-kind of thinking. This is probably best done in some kind of operational planning, leadership bi-weekly get together. In fact, this type of meeting has been called *[operational review](http://blog.kanbanery.com/the-seven-kanban-cadences/)* (or maybe this is a combo of that and service delivery and delivery planning) in the kanban community. 
+Rather decisions like these should be made with a large scope in mind; what is best for the company-kind of thinking. This is probably best done in some kind of operational planning, leadership bi-weekly get together. In fact, this type of meeting has been called *[strategy review](http://blog.kanbanery.com/the-seven-kanban-cadences/)*, in the kanban community. 
 
 Out of this meeting, we want to have clear directions on how the capacity should be allocated between the different stakeholders for the upcoming period. Here's an example on what can come out of such a meeting:
 
@@ -116,7 +116,7 @@ Given what we know now with our company and local priorities we have decided tha
 * The team get 20% of the capacity to decide on how to handle technical debt
 * The rest is left as slack time or to be used for emergencies. 
 
-You can, of course, argue for and against these priorities. I can already now hear poor Stakeholder C that have not been granted any capacity at all for the last 5 operational reviews screaming in agony. Maybe next meeting, C-ey. Maybe next...
+You can, of course, argue for and against these priorities. I can already now hear poor Stakeholder C that have not been granted any capacity at all for the last 5 strategy reviews screaming in agony. Maybe next meeting, C-ey. Maybe next...
 
 But rememer that we are now discussing capacity planning. It's not about **what is most important now**, because that is something that the stakeholder is best suited to know and care about. 
 
@@ -190,4 +190,4 @@ Here are a few first steps:
 
 * Establish a capacity division between your stakeholders, if that is not known. If it's not known just make up a capacity division and then call for a meeting with the stakeholders to discuss it. 
 
-  You probably know pretty well, but if not you have just called your first ever operational review meeting. 
+  You probably know pretty well, but if not you have just called your first ever strategy review meeting. 
