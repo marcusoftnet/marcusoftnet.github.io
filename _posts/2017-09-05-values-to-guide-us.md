@@ -21,21 +21,21 @@ In this post, I wanted to mention a couple of good examples of when values can m
 
 ## Aptitud
 
-I work for a consultancy called [Aptitud](http://www.aptitud.se/). We are about 35 people right now and the reason I like work there is that we are founded on some simple values and we are sticking to them. 
+I work for a consultancy called [Aptitud](http://www.aptitud.se/). We are about 30 people right now and the reason I like work there is that we are founded on some simple values and we are sticking to them. 
 
 The whole idea of Aptitud is founded on the value of trust and transparency. There's much to be said about what we have done around that but here are a few things that come out of those values. 
 
-* One of the first things we got in order is how to handle **buying** things. If I buy a computer, for example, that I think Aptitud is going to pay for - how is that handled in a transparent way. 
-  Easy - trust and transparency. We all trust you to use your brain and not buy something that you cannot according to the law (if you don't know - ask a colleague). Then the receipt is sent to the entire company. This well known for everyone and works great. 
+* Anyone is free to **buy** what they need to be able to their work without asking anyone
+  for permission. We trust everyone to be sensible and not buy something that you cannot according to the law (if you don't know - ask a colleague). Then the receipt is sent to the entire company. This well known for everyone and works great. 
 * If I want to **hire** someone that I think is great I get that person to meet one or two other Aptifolks. If they agree with me and we all think it's a great addition we just draw up the contract (help is available if needed) and it happens. Should we not be in agreement we involve a few more. 
   Easy - trust and transparency.
-* We have a model for how your **salary** is calculated that is well known. For awhile we had it published on our [website](http://www.aptitud.se), in a blog post. The salary is based off your hourly rate, with deductions for time for our slack time (Aptitud-days) and conferences. In a shared folder, we can easily see all other employees salary statements per month. Heck - we even do **time reporting** as an email to a common address, that everyone in the company can read.
+* We have a model for how your **salary** is calculated that is well known. For awhile we had it published on our [website](http://www.aptitud.se), in a blog post. The salary is based off your hourly rate, with deductions for time for our slack time (Aptitud-days, conferences and other activities that is not billable hours) and conferences. In a shared folder, we can easily see all other employees salary statements per month. Heck - we even do **time reporting** as an email to a common address, that everyone in the company can read.
   This means that everyone else in the company knows (could know) your salary. Together we work, on the same side of the table, to increase your value and hourly rate (if you want to).
   Transparent and easy.
 
-While that is pretty awesome, it's just a background. What I wanted to talk about specifically in this post is what happens when you let the values guide you. We have had a little bit of a crisis in the company, as two of our founders decided to leave us for other adventures. 
+While that is pretty awesome, it's just a background. What I wanted to talk about specifically in this post is what happens when you let the values guide you. We could have had a crises as two of our founders decided to leave for other adventerus, but this was the time when our values shone bright. 
 
-Now, this was a time for our values to shine. For different reasons, our values were not fully reflected in the ownership structure. We decided (together) to take the opportunity to do something about that. Now all employees are shareholders and associates in the company. We trust you from day 1. 
+For different reasons, our values were not fully reflected in the ownership structure. We decided (together) to take the opportunity to do something about that. Now all employees are shareholders and associates in the company. 
 
 How important are these values for us, you ask:
 
