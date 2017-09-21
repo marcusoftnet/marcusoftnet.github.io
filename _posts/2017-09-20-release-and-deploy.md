@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Release and deploy"
+title: "Deploy and release"
 author: "Marcus Hammarberg"
 date: 2017-09-20 16:53:42
 tags:
