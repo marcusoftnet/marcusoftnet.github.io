@@ -36,4 +36,4 @@ At first most people around me, didn't see the greatness with this distinction b
 
 There's much more to be said around this, the concept of feature toggle alone is book-worth of material. But I'm commuting on a ferry that's about to land so I just want to jot down this idea for further reference. I hope you found it useful.
 
-This is another concept (see [my post on pull priority](www.marcusoft.net/2017/08/from-push-to-pull-the-essence-of-lean.html) for another example) where I've found that splitting up decisions into smaller, separate parts is very useful and gives a competitive advantage over doing both **release and deploy** (in this case) in one bigger decision and action. 
+This is another concept (see [my post on pull priority](http://www.marcusoft.net/2017/08/from-push-to-pull-the-essence-of-lean.html) for another example) where I've found that splitting up decisions into smaller, separate parts is very useful and gives a competitive advantage over doing both **release and deploy** (in this case) in one bigger decision and action. 
