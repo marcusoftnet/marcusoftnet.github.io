@@ -10,15 +10,15 @@ tags:
  - Life of a consultant
 ---
 
-A year ago I had the great pleasure of speaking at the inaugural [Agile Island](http://www.naringsliv.ax/natverk/agile-islands). Åland (as it's written in Swedish) is a small group of islands between Sweden and Finland. It's kind of independent but a part of Finland. They speak Swedish with the most beautiful accent you can imagine.
+A year ago I had the great pleasure of speaking at the inaugural [Agile Islands](http://www.naringsliv.ax/natverk/agile-islands). Åland (as it's written in Swedish) is a small group of islands between Sweden and Finland. It's kind of independent but a part of Finland. They speak Swedish with the most beautiful accent you can imagine.
 
-The reason there's an agile conference in a society of about 25000 people (two stop lights on the entire island) is that they want to make the whole society aware and using agile practices. Sharing and cooperating around agile methods is one of the ways that they actually can compete and be attractive. It's a very inspiring and lofty goal 
+The reason there's an agile conference in a society of about 29000 people (two stop lights on the entire island) is that they want to make the whole society aware and using agile practices. Sharing and cooperating around agile methods is one of the ways that they actually can compete and be attractive. It's a very inspiring and lofty goal 
 
 Now I got invited back. The last year was a kick-off for agile practices (even some articles in the news there) and it left people wondering;
 
 > This all sounds awesome - but how do I get started
 
-Agile Island now asked me if I would be willing to help a company get started with agile. [Zebrabil](https://zebrabil.ax/) - a car dealership of 7 people. On stage in front of others. In 3 hours. 
+Agile Islands now asked me if I would be willing to help a company get started with agile. [Zebrabil](https://zebrabil.ax/) - a car dealership of 7 people. On stage in front of others. In 3 hours. 
 
 That sounded super scary and challenging, so I naturally accepted. I learned a lot by doing this and I wanted to share a few things.
 
