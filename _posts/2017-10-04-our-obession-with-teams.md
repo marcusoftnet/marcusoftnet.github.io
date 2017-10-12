@@ -30,7 +30,7 @@ What is a team really. Here's how I view it:
 
 The whole idea is that we get value from working on tasks together. 
 
-Let's check some ~better~ more formal definition (I have actually not read these before I wrote the sentence above). 
+Let's check some ~~better~~ more formal definition (I have actually not read these before I wrote the sentence above). 
 
 [Google says](https://www.google.se/search?q=definition+of+team&spell=1&sa=X&ved=0ahUKEwjFk_XHgtfWAhUDYJoKHaBdCuoQvwUIIygA&biw=1275&bih=680): 
 
@@ -56,7 +56,7 @@ Yay! I was not to far off in my simplistic definition. The defining trait is tha
 
 There's also a term being used more and more from the excellent [Five Dysfunctions of a team](http://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html) book: *your number one team*. To my understanding this represent my home team. A group of people where I feel safe (physiologically) to share my ups and downs. I go to this group for support in hard decisions. The team has a united front behind which we support each other. 
 
-This sounds like "home" or "family" in my book. A group and place even, where I can be myself. This would be the number place for me to sit and gravitate back to, even though I might be involved in other groups. 
+This sounds like "home" or "family" to me. A group, and place even, where I can be myself. This would be the number place for me to sit and gravitate back to, even though I might be involved in other groups. 
 
 ## Other form of cooperation
 
@@ -66,9 +66,11 @@ Often the word *team* is used to describe this, but it's not really what we mean
 
 They have just shared their individual work for alignment and knowledge, gaining transparency and shared understanding of status and progress. Occasionally the people in the workgroup have helped each other out with tasks and in reaching goal. 
 
-Here's the key; they didn't deliver value *together*. They delivered value. They stood next to each other and supported each other, but not together. There's no extra value from working as a team, other than sharing information. 
+Here's the key; they didn't deliver value *together*. They delivered value. They stood next to each other and supported each other. But they did not work together. There's no extra value from working as a team, other than sharing information. 
 
-That's not bad. In fact that is awesome and could be a game changer. But it's not a team. A team deliver value **together**. 
+That's not something bad. In fact that is awesome and could be a game changer. But it's not a team. A team delivers value **together**. There's an additional value of working together that is greater than the sum of the parts.  
+
+My favourite example of this, is also the strongest kind of team work I've seen in work environment; [mob programming](www.marcusoft.net/2013/08/repost-mob-programming-full-team-full-throttle.html). There's greater value in having these people working together at one keyboard, one screen - than the value of them being by themselves. The efficiency (keystrokes per minutes) goes down, but the effectiveness (working software in product) goes up **by being a team**. Is our work like that? Now? Do we want to become that? Why?
 
 It's not better or worse to be in a team, it's just a different form of cooperation and we are striving for different values. For example, the practices and goals of a coach (for example) might be different for a team than for a workgroup. A team is about coming closer together as a group while a workgroup is more about status reporting, alignment and planning, for example.
 
