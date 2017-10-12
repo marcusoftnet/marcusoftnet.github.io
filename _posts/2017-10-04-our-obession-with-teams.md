@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our obession with teams"
+title: "My obsession with teams"
 author: "Marcus Hammarberg"
 date: 2017-10-04 10:16:28
 tags:
