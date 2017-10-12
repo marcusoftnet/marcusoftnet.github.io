@@ -12,7 +12,7 @@ tags:
 
 I love working in teams, when I get the chance. There [are a few teams](http://www.marcusoft.net/2015/02/all-the-great-teams.html) that I've been in that still lives vividly in my mind. The way you feel togetherness and trust in teams are awesome. 
 
-But lately a thought has slipped into my mind; are teams always the best grouping of people to complete a task. What if I'm in more than one team? What kind of team feeling with that give me and the others in the team? What is a number one team? 
+But lately a thought has slipped into my mind; are teams always the best grouping of people to complete a task? What if I'm in more than one team? What kind of team feeling will that give me and the others in the team? What is a number one team? 
 
 And; just writing this post feels like blasphemy after 12+ years of promoting teams as the optimal way to work together. 
 
