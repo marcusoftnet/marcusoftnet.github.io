@@ -11,7 +11,7 @@ tags:
 
 [User story mapping](http://jpattonassociates.com/user-story-mapping/) is a very powerful tool by [Jeff Patton](http://jpattonassociates.com) and I have used it many times in IT context. With a user story map you list the steps of a user journey in your system on top and then list out the details of each of these steps below (see the picture below because this explaination doesn't really give the tool justice).
 
-<img src="http://jpattonassociates.com/wp-content/uploads/2015/01/StoryMapping.png" alt="An example of a user story map, stolen with pride from Jeff Pattons site,http://jpattonassociates.com" width="400px" />
+<img src="http://jpattonassociates.com/wp-content/uploads/2015/01/StoryMapping.png" alt="An example of a user story map, stolen with pride from Jeff Pattons site,http://jpattonassociates.com" width="100%" />
 
 This is awesome but one of the things that I always gets hanged up on when doing this is the incremental part of fleshing out the details. 
 
