@@ -9,9 +9,9 @@ tags:
  - Marcus private
 ---
 
-[User story mapping](http://jpattonassociates.com/user-story-mapping/) is a very powerful tool by [Jeff Patton](http://jpattonassociates.com) and I have used it many times in IT context. With a user story map you list the steps of a user journey in your system on top and then list out the details of each of these steps below (see the picture below because this explaination doesn't really give the tool justice)
+[User story mapping](http://jpattonassociates.com/user-story-mapping/) is a very powerful tool by [Jeff Patton](http://jpattonassociates.com) and I have used it many times in IT context. With a user story map you list the steps of a user journey in your system on top and then list out the details of each of these steps below (see the picture below because this explaination doesn't really give the tool justice).
 
-![An example of a user story map, stolen with pride from Jeff Pattons site,http://jpattonassociates.com](http://jpattonassociates.com/wp-content/uploads/2015/01/StoryMapping.png)
+<img src="http://jpattonassociates.com/wp-content/uploads/2015/01/StoryMapping.png" alt="An example of a user story map, stolen with pride from Jeff Pattons site,http://jpattonassociates.com" width="400px" />
 
 This is awesome but one of the things that I always gets hanged up on when doing this is the incremental part of fleshing out the details. 
 
@@ -62,6 +62,8 @@ Here's one example of what we did:
 And like that we fleshed out the details for the incremental versions of the full room. 
 
 ![User story mapping in action - family moving style](/img/IMG_3326.jpg)
+
+You can see these incremental "release" of our move, through the different color dividers we made on the board. Everything above the green divider in a column is needed for that version of the completed move, for that room.
 
 
 
