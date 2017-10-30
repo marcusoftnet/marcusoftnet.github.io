@@ -28,7 +28,7 @@ Here we go:
 >
 > May forever your flow be fast as lightning, to help you learn fast and improve
 >
-> In the name of Ohno, Deming and Andersson
+> In the name of Ohno, Deming and Anderson
 >
 > Kanban!
 
