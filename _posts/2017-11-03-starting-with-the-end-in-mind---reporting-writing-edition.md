@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Starting with the end in mind - reporting writing edition"
+title: "Report writing - using impact maps, Stephen Covey and increments"
 author: "Marcus Hammarberg"
 date: 2017-11-03 08:40:52
 tags:
