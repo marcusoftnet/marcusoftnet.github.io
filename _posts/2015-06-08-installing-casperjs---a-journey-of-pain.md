@@ -6,7 +6,6 @@ date: 2015-06-08 09:56:23
 tags:
  - Javascript
  - Tools
- - Testing
 ---
 
 My friends on twitter keeps telling my that [CasperJs](http://casperjs.org/) is great ("da bomb") for end-to-end-testing. Since I've been doing a lot of that, [in .NET](http://www.marcusoft.net/2012/05/specflow-page-objects-and.html) I took a look and it looks great. 
@@ -115,7 +114,7 @@ new Nightmare()
       console.log('Done!');
     });
 ```
-   
+
 
 # Summary 
 All-in-all this is probably the worst installation experience I've had on the Os X as a developer. I don't know why, more often it's super smooth. This was a lot of hick-ups. Now it works. 
