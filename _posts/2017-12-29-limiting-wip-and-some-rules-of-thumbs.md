@@ -51,7 +51,7 @@ This is not a bad thing. In fact, this is a super opportunity to do one of many 
 
 The "Drop down and give me 20"-experiment that Massimiliano is referring to is a nice experimental approach to finding a suitable WIP limit that [Dr. Donald Reinertsen presented at LKCE 2012](http://www.lean-kanban.eu/sessions/reinertsen/). The silly name is our feeble attempt to be funny...
 
-<img alt="Finding a suitable WIP limit by decreasing in small steps" src="drop down and give me 20.png" width="100%" />
+<img alt="Finding a suitable WIP limit by decreasing in small steps" src="/img/dropdownandgiveme20.png" width="100%" />
 
 The idea here is that we start with something that we know is way too much… **but** then agree to bring the WIP limit down little by little until we find a suitable one. 
 
