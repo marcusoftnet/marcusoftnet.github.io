@@ -90,7 +90,7 @@ Let's make a diagram out of that to show our result.
 
 This gave me a nice graph that looks like this and is a good start. 
 
-<iframe width="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=1615789057&amp;format=interactive"></iframe>
+<iframe width="488.5" height="302.05583333333334" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=1615789057&amp;format=interactive"></iframe>
 
 This is all too simple. Let's be a little bit more daring
 
@@ -180,7 +180,7 @@ Let's, **finally**, use all of this for something useful. Let's create a graph s
 
 Now the user can change team in the `J18`-dropdown box and see the graph update itself. Like a nice little reporting tool. Here's how the graph looks for me:
 
-<iframe width="100%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=505773454&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=505773454&amp;format=interactive"></iframe>
 
 # Summary
 
