@@ -20,7 +20,7 @@
 layout=post
 
 # Post text editor
-editor=e
+editor=typora
 
 # Post directory
 folder=_posts/
