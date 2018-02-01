@@ -44,9 +44,6 @@ I was happy but in the back of my head I was thinking:
 
 I ~~think I~~ tweeted about it:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Went into a room with a team. 99 issues in the backlog. Took out everything that was; <br>- wrong<br>- never should have been in there<br>- no one understood<br>- we will obviously not do<br><br>45 mins later - 56 issues left<a href="https://twitter.com/hashtag/backlog?src=hash&amp;ref_src=twsrc%5Etfw">#backlog</a> is inventory. It’s not free. <a href="https://twitter.com/hashtag/nobacklogs?src=hash&amp;ref_src=twsrc%5Etfw">#nobacklogs</a> <a href="https://t.co/RInDYIXWNa">https://t.co/RInDYIXWNa</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ...
 
 ## Some thoughts on backlogs
