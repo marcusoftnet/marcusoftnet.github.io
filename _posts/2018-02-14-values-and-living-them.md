@@ -36,11 +36,11 @@ Imagine, if you will, a company that grows (I'm making this up, from 2-3 experie
 
 Even when we are 20 people there's no problem. Culture governance comes almost automatic. But now we buy another company. A bunch of new values enters. And soon we need a finance department or an IT-department - and they bring their own values. 
 
-So we write our values down; Fun! Professional! Open! Well… the problem is that they mean different thing to different people. Do you think IT-people have a different interpretation of "Fun" compared to Finance-people (<= rhetorical question. Every person has a different take).
+So we write our values down; Fun! Professional! Open! Well… the problem is that they mean different thing to different people. Do you think IT-people have a different interpretation of "Fun" compared to Finance-people? (<= rhetorical question. Every person has a different take).
 
 ## What to do then?
 
-Ok, enough with the gloomy and bringing a solution to all of this! 
+Ok, enough with the gloomy; bring a solution to all of this! 
 
 Well… just as with most things you want to change in yourself you need to live it. Someone said:
 
