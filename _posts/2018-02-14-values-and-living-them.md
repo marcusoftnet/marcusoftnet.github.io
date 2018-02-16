@@ -68,6 +68,8 @@ Yes! That is what we want to see. It works. Let's [see it fail too](http://www.s
 
 > Marcus helped us being **innovative** yesterday when he shut down 3 of 4 ideas for hacks as 'not feasible'
 
+> When Marcus made it very clear that failure is not an option - well I tell ya… that really trigged my **innovation** spirit!
+
 Well… that's not innovative. And it shows clearly. 
 
 #### We're collaborative!
@@ -83,6 +85,8 @@ Perfect! Lovely collaborative spirit!
 And what about the opposite - would we spot it.
 
 > Great **collaboration** yesterday, Marcus. That you sit in an isolated part of the office for hours upon end really helps us be more than individuals.
+
+> "I don't care you do it - just do it. I tell. You do." Those sentences in the email to all of us really put us into **collaboration** mode, Marcus. Thanks.
 
 No no no… that is not right. Good. It fails as expected.
 
@@ -102,17 +106,23 @@ or
 
 > The **sincerity** of doing a deal with the company, without telling us, just because you know the founders are great.
 
-Oh my God - what's his problem. Opposite of what we wanted. Let's leave this and move one
+Oh my God - what's his problem?! Opposite of what we wanted. Let's leave this and move on.
 
 #### We're passionate!
 
 Here Spotify talks about their passion is the thing that drives them, the makes them bold and wanting to take big bets. 
 
-> Anna is so passionate. She just lights up when you talk about the content distribution version 3.6. It's contagious!
+> Anna is so **passionate**. She just lights up when you talk about the content distribution version 3.6. It's contagious!
 
-> Thanks Anna for your passion! That was a bold bet we took, but you made us all believe in it. 
+> Thanks Anna for your **passion**! That was a bold bet we took, but you made us all believe in it. 
 
 Yes! Great stuff, Anna! I see many Anna's across the company and now it starts to make sense what passionate means.
+
+Let's try the opposite:
+
+> That way that you always brings up the fact that work needs to be done because they have been in the backlog "like forever," Marcus. That shows your **passion** for our product in a great way.
+
+Ok - that is not the kind of passion I meant at least. 
 
 #### Playful
 
@@ -122,9 +132,11 @@ Spotify talks a lot about having fun at work. And they really live up to this in
 
 And Marcus, what is he up to?
 
-> Very playful spirit, voting for no decorations in public facing areas. Our professional appearance is more important. True!
+> Very **playful** spirit, voting for no decorations in public facing areas. Our professional appearance is more important. True!
 
-Well… he is not just following our values now, is he? 
+> Yes! Keeping the sound in the office to a minimum is very important. Not sudden burst of music and **playful**ness. Unless it is in the designated areas and times. Good point, Marcus. I'll add it to the PM and we will circulate it for maximum compliance across the company. 
+
+Well… he is not just following our values now, is he? Is he working for another company? With other values? Or does we just not share the definition of playful?
 
 ## Conclusion
 
