@@ -8,7 +8,7 @@ tags:
  - Life of a consultant
 ---
 
-Just finished ["The Art of Coaching", by Jenny Bird and Sara Gornall](https://www.amazon.com/dp/113889186X/), that thaught me a great deal so I thought I'd write down some thoughts and comments. 
+Just finished ["The Art of Coaching", by Jenny Bird and Sara Gornall](https://www.amazon.com/dp/113889186X/), that taught me a great deal so I thought I'd write down some thoughts and comments. 
 
 I honestly don't remember putting this book into my basket and was quite surprised when it arrived among some other books in my package. Hence I read the book with very open mind and curiosity. 
 
