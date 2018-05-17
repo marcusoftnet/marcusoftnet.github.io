@@ -16,6 +16,7 @@ I have done quite a few different talks and workshops during my career and here 
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forever more | 3 hours   |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop we examine the earlier phases of development and see how lean priniciples and kanban can help us to improve flow. | 2-3 hours |
+| [Serverless - What? Why? How? ](#) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with this capabilities. There will be demos | 1-2 hours |
 
 ## The Bungsu Story - inspirational presentation
 
@@ -140,3 +141,22 @@ This workshop is useful to connect the product team (product owner etc) closer t
 ### Length
 
 1 to 3 hours
+
+## Serverless - Why?! What?! How?
+
+Serverless is the new superpower in IT. In this talk we will take a look at why serverless gives us superpowers. We will check out, briefly, how to wield this new power. But with great powers comes some responsibility and we will briefly checkout how might we need to change our ways and our code to get the most out of the serverless superpower.
+
+### Outcomes
+- Understanding of what serverless is
+- Understanding of how it can help us to move faster
+- Orientation of the AWS platform, 10000 feets
+- Some demos shown with [Claudia Js](http://claudiajs.com)
+
+### Audience
+
+This is an overview of what serverless is but there will be code as well, nothing too complicated though.
+
+### Length
+
+1 - 2 hours
+
