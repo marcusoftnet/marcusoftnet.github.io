@@ -28,7 +28,7 @@ We started to apply the principles of kanban and in doing so turned the hospital
 
 While working with the hospital in this way I gained deeper insight and knowledge about what the principles of lean and kanban means and how they can be applied to make us more and more effective. And save us from disaster too...
 
-This talk is no turned into a [book that you can get here.](http://bit.ly/bungsubook)
+This talk is now turned into a [book that you can get here.](http://bit.ly/bungsubook)
 
 ### Outcomes
 
