@@ -25,7 +25,7 @@ The first thing to notice that there are two ways to copy/paste a chart; as a pi
 3. Select `Copy chart`
 4. Open the document (or presentation) where you want to paste it and just `CTRL+V`
 5. Now you will be presented with this dialog-box. 
-   <img src="img/pasteAsLink.jpg" width="100%" />
+   <img src="/img/pasteAsLink.jpg" width="100%" />
 6. Choose `Paste as link`
 7. Done
 
@@ -33,7 +33,7 @@ The first thing to notice that there are two ways to copy/paste a chart; as a pi
 
 If you ever have done the above steps you know that if the data for the diagram changes this copy of the diagram doesn't update automatically. Even though you just told it to be a link! There will be an `Update`-button there, that looks like this:
 
-<img src="img/updateChart.jpg" width="100%" />
+<img src="/img/updateChart.jpg" width="40%" />
 
 At first, this might seem like a bug but it's actually awesome because it gives you the option to decide when you want it to be updated. 
 
@@ -73,11 +73,11 @@ In the editor open the 'Current Triggers' option (found in the Edit-menu of all 
 
 First you will see this box:
 
-<img src="img/triggersNotSet.png " width="100%" />
+<img src="/img/triggersNotSet.png" width="100%" />
 
 Click on the link to create a new row, which will change the UI into the following layout:
 
-<img src="img/triggersSet.png " width="100%" />
+<img src="/img/triggersSet.png" width="100%" />
 
 Here's what this configuration tells us:
 
