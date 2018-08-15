@@ -144,16 +144,16 @@ Replacing that same thing in the `addressRoutes.js` and `orderRoutes.js` files a
 
 So close! One thing left.
 
+### Sidebar - Marcus is not a programmer anyone
+
+Here I will let you down my friends. There are a few test, and features, in the code around (basic) authentication that I couldn't get to work. 
+
+I just will take that out.  See below. 
+
+I think is my lack of programming drive that fails me. I simply don't find the energy sometimes, now a-days, to flesh out all the fails. Sorry about that. 
+
 ### Authentication
 
-I have acutally added basic authentication for the orders api, just to prove a point, I presume. That whole thing doesn't seem to work now, because we get:
-
-```bash
-Uncaught Error: expected 201 "Created", got 200 "OK"
-```
-
-That should have been 401 or 500 or something but is failing. My usage of koi-mount and koa-basic-auth is failing me https://github.com/koajs/basic-auth
-
-
+I will just disable this feature. It's stupid to start with and I don't have the energy to resolve it. I hope someone of you can find the time to fix it for me. 
 
 ### Refactor the tests
