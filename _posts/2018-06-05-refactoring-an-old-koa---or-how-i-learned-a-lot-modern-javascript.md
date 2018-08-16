@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Refactoring an old Koa - or how I learned a lot about modern JavaScript while refactoring an old app (I)"
+title: "Refactoring a Koa app - or how I learned a lot about modern JavaScript while refactoring an old app"
 author: "Marcus Hammarberg"
 date: 2018-06-05 21:07:13
 tags:
@@ -134,5 +134,13 @@ You can notice three things in my approach here:
 
 And I think… time to end this blog post. It's getting long already. I'll post them all at once, but in parts. 
 
-Hold on and meet me in the next one where we will do some refactoring. 
+Hold on and meet me in [the next post](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html) where we will do some refactoring. 
+
+Here are all the posts in the series
+
+* [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html) - this post.
+* [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
+* [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+* [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
+* [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
 

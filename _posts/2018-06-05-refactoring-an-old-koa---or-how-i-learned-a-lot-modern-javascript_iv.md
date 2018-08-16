@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Refactoring an old Koa - or how I learned a lot about modern JavaScript while refactoring an old app (II)"
+title: "Refactoring a Koa app (part IV) - update the production code"
 author: "Marcus Hammarberg"
 date: 2018-06-05 21:07:13
 tags:
@@ -11,7 +11,13 @@ tags:
 
 This is the fourth post in a series where I refactor an old (4 years) code base (an API written in [Koa](http://koajs.com)) to modern Javascript and tools. 
 
-Here are all the post in the series. 
+Here are all the posts in the series
+
+- [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
+- [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
+- [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+- [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) - this post
+- [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
 
 <a name='more'></a>
 
@@ -296,4 +302,4 @@ The good news, is that I now will do the same thing for the other apis (in folde
 * First checking is found under `Refactored OrderAPI` 
 * Second check in is found under `Refactored Address API`
 
-Then, in the final post, we will tackle the top-level api that puts all of this together. Might be long or short. See you there!
+Then, in the final post, we will tackle the top-level api that puts all of this together. Might be long or short. See [you there](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)!
