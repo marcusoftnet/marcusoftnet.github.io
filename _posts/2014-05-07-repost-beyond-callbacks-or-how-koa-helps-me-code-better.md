@@ -6,7 +6,7 @@ date: 2014-05-07 15:30:13
 tags:
  - Javascript
  - Tools
- - NodeJs
+ - Node
  - Koa
  - CodeBetter
 ---
@@ -17,9 +17,9 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 ## Orginal post
 
-For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript. 
+For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript.
 
-Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node ](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications. 
+Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node ](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications.
 
 That was … …wait (state)
 
@@ -70,7 +70,7 @@ function *getUser(userName) {
 };
 ```
 
-Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short – 
+Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short –
 
 Koa helps me Code Better! In the rest of this post I’ll introduce you to the concepts of Koa and give you a short overview to how it works.
 
@@ -106,7 +106,7 @@ console.log(elvis.next()); // ouputs { value: undefined, done: true }
 console.log(elvis.next()); // throws Error: Generator has already finished*/
 ```
 
-Note that I’m using the `.value` property to get the value out of the generator. The answer returned from the `.next()` is actually a little structure containing the value and a boolean property called done, which can be used to see if the sequence is finished or not. If fact, we could keep calling the function which would result in “undefined” for the fourth call and for the rest of the calls it would throw an `Sequence already finished` error. 
+Note that I’m using the `.value` property to get the value out of the generator. The answer returned from the `.next()` is actually a little structure containing the value and a boolean property called done, which can be used to see if the sequence is finished or not. If fact, we could keep calling the function which would result in “undefined” for the fourth call and for the rest of the calls it would throw an `Sequence already finished` error.
 
 I said above that yield most commonly is used within enumerations of sequences (`for(var item in list){ yield item;}` for example.) But the function is not an enumeration, but rather a generator-function. This is another feature that comes with ES6 and quite simply can be thought of like enumerators for functions, or simpler with the example above as a guide. In order for a function to be a generator function it needs to fulfil two things;
 
@@ -121,7 +121,7 @@ This explanation might render you totally unimpressed. And you may ask; “Why i
 
 > when the code encounters a `yield` statement, it suspends execution indefinitely, and doesn’t start again until you tell it to
 
-Or in laymen (that’s me) terms; when the code hits a yield it performs that action in non-blocking way, returning the execution control to Node that can do other things while our yield statements complete. It’s just like callbacks but without the callback. It’s [#beyondCallbacks](https://twitter.com/search?f=realtime&q=%23beyondCallbacks&src=typd) © I’m claiming that hashtag now, but you can use it freely. 
+Or in laymen (that’s me) terms; when the code hits a yield it performs that action in non-blocking way, returning the execution control to Node that can do other things while our yield statements complete. It’s just like callbacks but without the callback. It’s [#beyondCallbacks](https://twitter.com/search?f=realtime&q=%23beyondCallbacks&src=typd) © I’m claiming that hashtag now, but you can use it freely.
 
 That’s all the theory – let’s now take a look on how [Koa Js](http://www.koajs.com/) uses these techniques to help you write less and easier to read code. For the record I hold both those properties in the highest regard. Just two short notices first.
 
@@ -159,7 +159,7 @@ Sorry, one more thing. You will probably run into this error;
 
 ```javascript
 yield "One! For the money";
-^^^^^^^^^^^^^^^^^^^^ 
+^^^^^^^^^^^^^^^^^^^^
 
 SyntaxError: Unexpected string
 ```
@@ -174,9 +174,9 @@ It’s too embarrassing really talk about the number of times I’ve forgot this
 
 ## Koa Js – a generator based web framework
 
-Ok, back to the point of all this. This post is growing too long already, but I wanted to introduce you to Koa Js – a minimalistic web framework that uses generators to simplify the code you need to write a great deal. This is by no means a complete overview of this framework but rather just a little appetizer on how generators can be used. Let’s skip the Hello World example and instead build something a little more exciting. Let’s build a blog that stores posts in Mongo Db. It’s will not be long, I promise you, but it will show a couple of features of Koa Js and I’m sure you can take it from there. I’m also adding some structure to the application (as opposed of keeping everything in one file) and introducing testing. 
+Ok, back to the point of all this. This post is growing too long already, but I wanted to introduce you to Koa Js – a minimalistic web framework that uses generators to simplify the code you need to write a great deal. This is by no means a complete overview of this framework but rather just a little appetizer on how generators can be used. Let’s skip the Hello World example and instead build something a little more exciting. Let’s build a blog that stores posts in Mongo Db. It’s will not be long, I promise you, but it will show a couple of features of Koa Js and I’m sure you can take it from there. I’m also adding some structure to the application (as opposed of keeping everything in one file) and introducing testing.
 
-The [whole example can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode). Create a new directory called KoaMongoBlog and cd into it (`mkdir KoaMongoBlog* and then *cd KoaMongoBlog`). 
+The [whole example can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode). Create a new directory called KoaMongoBlog and cd into it (`mkdir KoaMongoBlog* and then *cd KoaMongoBlog`).
 
 Now create a `package.json` with the following content;
 
@@ -213,7 +213,7 @@ Now create a `package.json` with the following content;
 }
 ```
 
-As you can see there’s a number of packages that we are depending on and that’s how Koa rolls. Koa is really tiny and then you include the middleware you need. Examples of such in this case is koa-route (for routing DUH!), koa-logger (for… well you know) and co-monk (a generator friendly wrapper for Mongo Db access). Embrace the middleware! There’s loads of them and often they are tiny, no more than a single function. 
+As you can see there’s a number of packages that we are depending on and that’s how Koa rolls. Koa is really tiny and then you include the middleware you need. Examples of such in this case is koa-route (for routing DUH!), koa-logger (for… well you know) and co-monk (a generator friendly wrapper for Mongo Db access). Embrace the middleware! There’s loads of them and often they are tiny, no more than a single function.
 
 Note in my `package.json` that I have encapsulated the starting of the application in the scripts start node as described above. I’ve also growing into the habit to separate out the devDependencies from the dependencies needed in production. Next, create the application file, `app.js` and paste this in;
 
@@ -242,11 +242,11 @@ app.listen(3000);
 console.log('Blog engine fired up on http://localhost:3000');
 ```
 
-If you think this looks a lot like ExpressJs you are right. Koa is actually created by the VisionMedia guys, that created Express too. Wonder why they did that…? 
+If you think this looks a lot like ExpressJs you are right. Koa is actually created by the VisionMedia guys, that created Express too. Wonder why they did that…?
 
-Routing works as expected by telling the app to `.use` a certain function to response to a certain URL. Nothing strange. Also note how simple it is to use the middleware of Koa, just `app.use(logger())` and you’re done. Writing your own middleware, or encapsulating them is very easy to. [Here’s a post](http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html) where I create my own very simple middleware. 
+Routing works as expected by telling the app to `.use` a certain function to response to a certain URL. Nothing strange. Also note how simple it is to use the middleware of Koa, just `app.use(logger())` and you’re done. Writing your own middleware, or encapsulating them is very easy to. [Here’s a post](http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html) where I create my own very simple middleware.
 
-But right now, nothing is really happening in the app… it’s just routes. Let’s create the `blogRoutes.js` we’re requiring on line 11, just below the // routes comment. 
+But right now, nothing is really happening in the app… it’s just routes. Let’s create the `blogRoutes.js` we’re requiring on line 11, just below the // routes comment.
 
 Add the following code to it.
 
@@ -310,7 +310,7 @@ module.exports.remove = function *(id) {
 };
 ```
 
-There’s a couple of lines at the top where we are setting up our access to Mongo through a great little library called Monk. This all ends up with us getting a blogPosts collection that we then can use in our functions below. With the generator goodness around [Monk](https://github.com/visionmedia/monk)  (using [co-monk](http://npmjs.org/package/co-monk)) the code is almost trivial, yet powerful. Just like we like it. You see examples on `.findById(id)`, `.find()`, `.update` and `.remove` in the code and I barely need to describe those. Many of the method takes optional parameters making them powerful, for things like sorting and projections. See the [Monk test for examples](https://github.com/visionmedia/monk). The rendering to views is done using a template engine called [swig](http://paularmstrong.github.io/swig/docs/) which you can read about if you need to, it’s really simple.  You can pass data to the templates as a second parameter to render like this (`yield render(“view.html”, { posts : postList})`). 
+There’s a couple of lines at the top where we are setting up our access to Mongo through a great little library called Monk. This all ends up with us getting a blogPosts collection that we then can use in our functions below. With the generator goodness around [Monk](https://github.com/visionmedia/monk)  (using [co-monk](http://npmjs.org/package/co-monk)) the code is almost trivial, yet powerful. Just like we like it. You see examples on `.findById(id)`, `.find()`, `.update` and `.remove` in the code and I barely need to describe those. Many of the method takes optional parameters making them powerful, for things like sorting and projections. See the [Monk test for examples](https://github.com/visionmedia/monk). The rendering to views is done using a template engine called [swig](http://paularmstrong.github.io/swig/docs/) which you can read about if you need to, it’s really simple.  You can pass data to the templates as a second parameter to render like this (`yield render(“view.html”, { posts : postList})`).
 
 The call to the view engine is encapsulated in a simple function/middleware found in the `render.js` file.
 
@@ -349,7 +349,7 @@ This simple function just tells Koa where to find the views (`/views` folder) an
 
 Note the inclusion of a layout page at the top (`{ % extends … % }`), where you can set up the framework of the pages. The rest of the views, works the same way and [can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode).
 
-Ready to roll! You can now run you blog engine, written in less than 85 lines of code (not counting views). By you write tests first, right? Let’s try it out first and then write tests. [TDD is dead I heard](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)… 
+Ready to roll! You can now run you blog engine, written in less than 85 lines of code (not counting views). By you write tests first, right? Let’s try it out first and then write tests. [TDD is dead I heard](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)…
 
  To run this you need to:
 
@@ -389,7 +389,7 @@ describe('Blog with mongo:', function(){
 	it('updates an existing post', function(done){
 		co(function *(){
 			var post = yield posts.insert(test_post);
-			
+
 			var postUrl = '/post/' + post._id;
 			request
 				.post(postUrl)
@@ -398,13 +398,13 @@ describe('Blog with mongo:', function(){
 				.expect('location', postUrl);
 	    })(done);
 	});
-	
+
 });
 ```
 
-Here we are using [Supertest](http://www.marcusoft.net/2014/02/mnb-supertest.html) together with [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) to test our application. Note how simple it is to do requests against the application (line 4 and 29-33) and how we can validate the data on the page too. I should say a couple of words about [co](http://npmjs.org/package/co) and how I’m using it in testing. In order to show an existing post from the database on the page, I need first to insert it into mongo. I do that using the posts-collection from the `blogRoutes.js` file. 
+Here we are using [Supertest](http://www.marcusoft.net/2014/02/mnb-supertest.html) together with [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) to test our application. Note how simple it is to do requests against the application (line 4 and 29-33) and how we can validate the data on the page too. I should say a couple of words about [co](http://npmjs.org/package/co) and how I’m using it in testing. In order to show an existing post from the database on the page, I need first to insert it into mongo. I do that using the posts-collection from the `blogRoutes.js` file.
 
-When that is done I need to access the page and validate that the data is on there. Since the co-monk is using generators it’s expecting that we use yield, and hence wait until that line is completed before moving on, we need someone to control that flow of execution. That’s Koa when we’re running this as a web application, but in the testing case we need help from another library, `co` . Co controls the flow through the yields for us and we can write the code as in our tests. 
+When that is done I need to access the page and validate that the data is on there. Since the co-monk is using generators it’s expecting that we use yield, and hence wait until that line is completed before moving on, we need someone to control that flow of execution. That’s Koa when we’re running this as a web application, but in the testing case we need help from another library, `co` . Co controls the flow through the yields for us and we can write the code as in our tests.
 
 Note that the co constructor function wraps our entire test specification and then is immediately invoked, like this:
 
@@ -412,9 +412,9 @@ Note that the co constructor function wraps our entire test specification and th
 co(function *(){
 
   // the actual test that will use yield
-  
+
   // code, code, code
-  
+
   // and then, when we’re done…
 
 })(done);

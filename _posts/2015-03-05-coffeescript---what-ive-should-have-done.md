@@ -6,7 +6,7 @@ date: 2015-03-05 09:57:09
 tags:
  - Javascript
  - Tools
- - NodeJs
+ - Node
 ---
 
 The blog post I [wrote yesterday](http://www.marcusoft.net/2015/03/node-with-coffeescript---not-a-piece-of-cake.html) was from my experience at the time. I even ended the post with a call out for better ways.

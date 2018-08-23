@@ -4,15 +4,15 @@ title: "New PluralSight course: npm as a build tool"
 author: "Marcus Hammarberg"
 date: 2015-10-22 10:26:49
 tags:
- - NodeJs
+ - Node
  - Javascript
 ---
 
-I've just (October 21 2015) got news that my latest course for [PluralSight](http://www.pluralsight.com/) is published. 
+I've just (October 21 2015) got news that my latest course for [PluralSight](http://www.pluralsight.com/) is published.
 
 [Find it here](http://www.pluralsight.com/courses/npm-build-tool-introduction).
 
-This time I took the opportunity to put together a course on using npm (Node Package Manager) as a build tool. I think it makes for a very lightweight and flexible option for any JavaScript (or front-end heavy btw) project. 
+This time I took the opportunity to put together a course on using npm (Node Package Manager) as a build tool. I think it makes for a very lightweight and flexible option for any JavaScript (or front-end heavy btw) project.
 
 As you might know I've written a couple of posts on the topic:
 
@@ -51,6 +51,6 @@ In the course I dive much deeper and the topics discussed are:
     * Launch the Application
 * Other useful tricks with npm
 
-I think this is by far the best course I've made for PluralSight (my third) and I also think the topic is interesting and useful for most any Node / Front-end developer or team. It's simpler than Grunt/Gulp, quite simply. 
+I think this is by far the best course I've made for PluralSight (my third) and I also think the topic is interesting and useful for most any Node / Front-end developer or team. It's simpler than Grunt/Gulp, quite simply.
 
-I hope to see it do good. 
+I hope to see it do good.
