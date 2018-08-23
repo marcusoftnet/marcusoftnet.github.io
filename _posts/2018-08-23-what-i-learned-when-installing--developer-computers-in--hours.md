@@ -14,7 +14,7 @@ Yesterday I had a very interesting task for a client. I work as (brace yourselve
 
 Ok, to the point of this post. Part of this work means that we need 33 students to get up and running with their developer computers super fast. We want code to be written after a few hours. 
 
-Said and done - I created a set [dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) which will configure their computers properly with all the tools and (my opinionated) settings they will need. 
+Said and done - I created a set of [dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) which will configure their computers properly with all the tools and (my opinionated) settings they will need. 
 
 Yesterday 33 MacBook Pros came to the Aptitud office and 5 hours later I had installed, configured and test them all. 
 
