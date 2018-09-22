@@ -19,10 +19,10 @@
 # Post layout
 layout=post
 
-# Post text editor
-editor=open -a typora
+# Set text editor
+editor=code
 
-# Post directory
+# Posts directory
 folder=_posts/
 
 # Author
