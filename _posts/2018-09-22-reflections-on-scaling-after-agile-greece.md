@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflections on scaling and transformations after Agile Greece"
+title: "Reflections after Agile Greece"
 author: "Marcus Hammarberg"
 date: 2018-09-22 14:01:20
 tags:
