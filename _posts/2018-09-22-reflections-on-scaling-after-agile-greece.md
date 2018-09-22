@@ -17,7 +17,7 @@ As with many conferences an underlying theme starts to emerge from the different
 
 I wanted a few reflections that I got during this conference. It can be summed up in a few very strange sentences:
 
-> It's all about people, and they are complex systems working in complex systems. So you cannot trust them or facting them into do what you want. But you can put down your sword and listen, and that will open new possibilities that you didn't have before 
+> It's all about people, and they are complex systems working in complex systems. So you cannot trust their experiences or facting them into do what you want. But you can put down your sword and listen, and that will open new possibilities that you didn't have before 
 
 Let me explain how I interpret the messages of the two days.
 
@@ -43,25 +43,27 @@ Social systems are complex systems. That means that if you take it apart and put
 
 Hence, you cannot take a method or process that worked for one complex system and apply it to another and expect it to produce the similar result. 
 
-Example; the Spotify model has under many (since 2012) been cited, used and asked for as a great way to scale agile. 
+Example; the [Spotify model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) has under many (since 2012) been cited, used and asked for as a great way to scale agile. 
 
 Well... unless you are Spotify back in 2012 and have the same set of challenges... It will not work equally great for you, my friend. It will not work for you. Here. Now. With the people in your organisation. 
 
+Psst - even [Spotify has evolved long beyond that model](https://www.infoq.com/presentations/spotify-culture-stc). Obviously. They evolve, does mistakes, change, tweaks and learn.  
+
 Also think about other prescriptive methods. Where were they invented? What challenges did they face? What opportunities did they have? Are you the same? 
 
-### So you cannot trust ~~them~~ yourself
+### So you cannot trust ~~them~~ your experiences
 
 Further more, Prof Snowden told us, people are notoriously good in remembering and forgetting parts of the actual chain of events. If something great happen we interpreted our actions as things that helped that result. When things goes south it was bad luck. 
 
-This is highlight in many places in Daniel Kahnemans book Thinking Fast and Slow too. 
+This is highlight in many places in Daniel Kahnemans book [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) too. 
 
-At this point I got chills down my spine. I have just published a story about a hospital in Indonesia and how we used a method and process to help them survive and improve. And I can almost guarantee that I've forgotten, painted a better (or worse) picture than the actual facts. In any case I've told the book from my perspective and how I perceived it - there was at least 100 people more in the hospital. 
+At this point I got chills down my spine. [I have just published a story about a hospital in Indonesia](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=sr_1_2_twi_pap_2?ie=UTF8&qid=1537619450&sr=8-2&keywords=Marcus+Hammarberg) and how we used a method and process to help them survive and improve. And I can almost guarantee that I've forgotten, painted a better (or worse) picture than the actual facts. In any case I've told the book from my perspective and how I perceived it - there was at least 100 people more in the hospital. 
 
 Am I a baddie? Do I tell people to do that and succeed? 
 
 Well, I don't. In fact, I always try to ensure that the Bungsu story is an inspirational story that by all means is true. But I also suspect that you have a very different context and cannot apply the tools in the same way as we did; when the roof falls in, on a hospital running with loss and no renewed operational permit. And even if you did - you didn't have Dr Lillian, Ibu Elsye or a crazy Swede. 
 
-Read the story (DO IT!, DO IT NOW! ), be inspired by others but don't apply their concepts straight off. Think about **why** they did what they did and apply those prinicples to find your practices, when they make sense. 
+Read the story ([DO IT!, DO IT NOW!](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=sr_1_2_twi_pap_2?ie=UTF8&qid=1537619450&sr=8-2&keywords=Marcus+Hammarberg)), be inspired by others but don't apply their concepts straight off. Think about **why** they did what they did and apply those prinicples to find your practices, when they make sense. 
 
 ### Or facting them into do what you want
 
