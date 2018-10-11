@@ -38,7 +38,7 @@ Here's my answer to the question, in short:
 
 Well not really any rules - but there are a few simple heuristics that you can use.
 
-![Stop Starting - Start finishing](/img/stopStarting.jpg)
+<img src="/img/stopStarting.jpg" style="width:100%" alt="Stop starting - start finishing!" />
 
 First of all - Stop starting! Start finishing. Meaning; first, see if there is any work on the board that you can help to finish. Yes - even the work that you are not in charge of ("I cannot test that - I am not a tester", is a common excuse for example). Our customers don´t really care who does what as long as the value is created.
 
