@@ -16,7 +16,7 @@ I’m very quick to get excited over new things and this reflects in my posts th
 The underlying theme of it all is [agile](http://www.agilemanifesto.org) lean and it’s practical usage in the situations I find myself in.
 
 ## Why this blog?
-This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everthing I learned in my head and started to write it down instead. 
+This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everthing I learned in my head and started to write it down instead.
 
 During the years I learned so much by sharing and soon I picked up the theme for the blog: "sharing is learning". Just the other day I got some evidence that I might be on the right track too:
 <blockquote>We Learn . . .
@@ -26,10 +26,10 @@ William Glassner
 So ... it might be for my selfish learning purposes I write this. Anyway I'm very happpy to share this with you... to learn more ... to share more ... to learn more ... to
 
 ### My family
-Me and my wife Elin have three boys Albert 6, Arvid & Gustav 4 years. We live right now in Bandung, Indonesia but we are from Stockholm Sweden.
+I have one wife, Elin, and three boys; Albert (born 2008) and Arvid and Gustav (2010). We have lived in Indonesia for a few years, but home is Stockholm, Sweden.
 
 ### Salvation Army and Indonesia
-Yes, I live in Indonesia for three years (2014-2016) working for the Salvation Army there. Me and Elin are working with the 6 hospitals that the Salvation Army have, trying to help them to become more effective in their medical and spiritual ministry.
+Yes, I lived in Indonesia for two years (2014-2015) working for the Salvation Army there. Me and Elin are worked with the 6 hospitals (and 17 clinics) that the Salvation Army have, trying to help them to become more effective in their medical and spiritual ministry.
 
 ### Aptitud
 Back home in Sweden I work for [Aptitud](http://www.aptitud.se) - the best consultancy in Sweden! I am an agile coach working right between the business and IT if I get to choose. My motto is: Getting agile to work, which makes me focus on pragmatic solutions rather than theory.
@@ -46,6 +46,18 @@ By far the biggest thing I ever did was to write [Kanban In Action](http://bit.l
 Writing the book took about 2,5 years. Sometimes with a lot of frustration and work above our capacity. The pride and relief we felt when it was released was worth almost all of that work.
 
 If you haven’t got the book yet - get your’s today! We have done our very best to be both entertaining and informative.
+
+### Salvation: The Bungsu Story
+The thing that I'm most proud of recently for work is my book about our adventures in Indonesia. It's a roller coaster of a novel about the work and tribulations of the Rumah Sakit Bungsu and how we used the principles of kanban, lean and agile to help them out of a looming disaster. Twice!
+
+You can [get the book here](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=cm_cr_arp_d_product_top?ie=UTF8). Please do - I'm really, really proud of it.
+
+Or watch one of the many recorded talks of the story here:
+* [Brewing Agile 2017: Marcus Hammarberg: "Building A Hospital with Agile and Lean"](https://www.youtube.com/watch?v=5tTy5IMqzDE)
+* [LKNA16: @ Salvation Army Health: How Kanban Helped Save a Hospital in Indonesia](https://www.youtube.com/watch?v=nEKuY9P53Q4)
+* [AgileByExample 2017: Marcus Hammarberg - How Kanban Saved a hospital in Indonesia](https://www.youtube.com/watch?v=s0lP6WCWSUg)
+* [Agile Greece Summit 2018 - How Kanban saved a Salvation Army hospital in Indonesia](https://www.youtube.com/watch?v=8JcZlN2Fjmw)
+* [How lean and kanban saved a hospital in Indonesia. Twice! | Øredev 2016](https://vimeo.com/191275724)
 
 ### Speaking
 I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se), [Agile Singapore](http://2014.agilesingapore.org) and [Yow West](http://www.marcusoft.net/2015/05/yow-west----some-thoughts.html)
