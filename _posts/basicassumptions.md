@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: "3 basic (priorization) assumptions"
+author: "Marcus Hammarberg"
+date: 2018-10-29 17:45:48
+tags:
+ - Agile
+ - Kanban
+ - Lean
+---
 
 The last couple of weeks I have talked a lot about prioritization at my current client. In many conversations, I've felt the need to go back the foundation of things that I build my coaching and consulting on. For example, I might question how we prioritized as we done, and then I notice that people become defensive - thinking that I am questioning *them* rather than the way. 
 This has led me to reflect, formulate and then re-iterate three basic assumptions that are increasingly important to me:
