@@ -97,8 +97,9 @@ rm -rf aTemporaryPlace
 cd $cwd
 ```
 
-And then run it with `bash cloneRepository.sh orginisation orginal-repo new-repo`
+And then run it with `bash cloneRepository.sh organisation orginal-repo new-repo`, for example `bash cloneRepository.sh marcusoftnet salt-jsfs-reactstarter salt-jsfs-reactstarter`.
 
 ## Summary
 
 This was pretty fun to work with. That `hub` command opened up the possibilities and made for a nice, short and useful command.
+
