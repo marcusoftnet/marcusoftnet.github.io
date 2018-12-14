@@ -47,6 +47,7 @@ Let’s say that the template repository is called `marcusoft/salt-jsfs-reactsta
 2. Create the repository using `hub create marcusoft/salt-jsfs-reactstarter-vt19`
 3. You will need to login in with the credentials you access the saltsthlm organisation
 4. Now make a “bare” clone of the template repository `git clone --bare https://github.com/marcusoft/salt-jsfs-reactstarter`
+   1. By adding a flag `--single-branch ` we can ensure that we only copy the master branch (which is default, or by add a name). This what we need for the most cases and hence the script (below) has this set. 
 5. Now do: `cd salt-jsfs-reactstarter.git`
 6. Mirror-push to the new repository: `git push --mirror https://github.com/marcusoft/salt-jsfs-reactstarter-vt19`
 7. Finally remove the temporary clone stuff: `cd .. && rm -rf salt-jsfs-reactstarter.git`
@@ -98,3 +99,6 @@ cd $cwd
 
 And then run it with `bash cloneRepository.sh orginisation orginal-repo new-repo`
 
+## Summary
+
+This was pretty fun to work with. That `hub` command opened up the possibilities and made for a nice, short and useful command.
