@@ -40,7 +40,7 @@ The metrics suggested is easy to get hold of and can be useful to look at to get
 Here are a few principles for how I create these stats:
 
 - We **measure to learn** – not to punish. Hence we are more interested in trends and their elaborations rather than individual numbers. 145 might be an acceptable lead time if the overall trend is going down.
-- We value **transparency** over presenting a good picture. Hence I rather show all the data than trying to exclude some items just because it will make the graph look better.  I’ve found only slippery slopes when trying to decide which outliers to exclude…
+- We value **transparency** over presenting a good picture. Hence I rather show all the data than trying to exclude some items just because it will make the chart look better.  I’ve found only slippery slopes when trying to decide which outliers to exclude…
 - Process statistics, like the ones above, should **inform decisions** – not be the goal in itself. Use this data to discuss around in your retrospectives or to see if your improvements ideas actually made a difference or not. 
 - The dashboard is just a view of the data. The real data is in the system or on the board.
 - Updating stats should be easy and fast. When it takes a long time it doesn’t get done and very soon forgotten. I aim for under 1 minute/week to get these stats. 
@@ -80,7 +80,7 @@ For this special tab it’s good to know the columns in details so let’s talk 
 
 The dashboard is where the dashboard visualizations will reside. It will also be some overarching aggregations. 
 
-I might add separate copies of some diagrams on separate tabs later, for easier viewing.
+I might add separate copies of some charts on separate tabs later, for easier viewing.
 
 ### Configuration
 
@@ -98,19 +98,19 @@ To make a running chart we will need a few calculations made. Take a peek at the
 
 - **Slug** –  a way to represent the item in a visualization. I’ve found it very useful to make a calculation of this to make it understandable. In this case, I’ve put together a hyperlink (using the URL prefix from the configuration-tab) from the key. That makes the issue clickable in listings
 - **Lead time** – is simply the difference, in days, between the Creation date and the Closed date. The whole time it took to complete the item. 
-- **Closed date** – the date when the item was closed. It does only make sense to calculate the lead time for items that are closed and completed. This date is also used to group data points in the diagram.
+- **Closed date** – the date when the item was closed. It does only make sense to calculate the lead time for items that are closed and completed. This date is also used to group data points in the chart.
 - **Completed in Month** – the year and month in which this issue was completed. We will use this information to calculate some averages per month etc
 - **Average lead time** –  this is the average of all the issues closed in the same month as the current row
 - **Standard deviation** – the standard deviation for the all the issue closed in the same month as the item on the current row. We will use this number to calculate upper and lower control limits. In my data, the lead time distribution is very wide and hence the standard deviation gets big too. This can be handled with filters but I have not here. 
 - **Lower control limit** – well here we go; the average - one standard deviation gives a lower control limit. Meaning that ≈70% of the data points will be above this value. Through the hilariously named statistical rule; the [66-95-99.7 rule](https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule)
-   I’ve made sure this value never goes below 0 as that makes for a very strange graph.
+   I’ve made sure this value never goes below 0 as that makes for a very strange chart.
 - **Upper control limit** – the average + one standard deviation gives an upper control limit. Meaning that ≈70% of the data points will be below this value.  
 
-## A graph! For the love of God – make a graph already!
+## A chart! For the love of God – make a chart already!
 
 In coming blog posts, I will not go through all the information as closely as this, I think. But I thought it would be a good idea for this starter post. 
 
-Ok – the graph is thankfully a bit simpler to create, now that we have all the data. Do this:
+Ok – the chart is thankfully a bit simpler to create, now that we have all the data. Do this:
 
 1. On the “Lead time calculations”-sheet – select column A, B, C, E and G and H. You can shift-click to do this.
 2. Create a “Line chart”
@@ -128,7 +128,7 @@ When that is done you should have something that looks like this.
 
 ![Our finished running chart](/img/RunningChart.png)
 
-Although it looks a bit messy it’s quite a lot that we can read out of this diagram:
+Although it looks a bit messy it’s quite a lot that we can read out of this chart:
 
 - Each dot is an issue we finished. 
   - If we hover over it we will see the number and exact date for each
@@ -141,7 +141,7 @@ Although it looks a bit messy it’s quite a lot that we can read out of this di
 
 ## Summary
 
-I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single diagram in the dashboard. In [the next post](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html) – let's make a version that allows us to do some filtering. 
+I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single chart in the dashboard. In [the next post](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html) – let's make a version that allows us to do some filtering. 
 
 I wanted to create a powerful but simple tool, where the user can simply paste some data into one place and then the dashboard does the calculations needed to make better sense of the raw process data. 
 
