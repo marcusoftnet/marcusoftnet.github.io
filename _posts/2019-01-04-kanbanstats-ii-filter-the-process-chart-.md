@@ -12,7 +12,7 @@ tags:
 
 This is the second post in my series where I show how you can get make powerful visualizations of process data. As before, my goal here is that you can dump your process data into one tab of [my sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit?usp=sharing) and then the dashboard will make all the other calculations. 
 
-In the first post, I talked at some length about other goals of this tool and some of the principles I built these ideas on. 
+In the [first post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), I talked at some length about other goals of this tool and some of the principles I built these ideas on. 
 
 Speaking of those principles; in this post, I will violate one of them a bit, by adding a filter capability to the lead time chart, so that we can see just a part of the data. 
 
@@ -34,7 +34,7 @@ To get some more data to filter on I added a new column, copying over the “Siz
 
 ## What are we trying to do here
 
-The goal of all of this is to make a few lead time charts, like the one in the old post:
+The goal of all of this is to make a few lead time charts, like the one in the [previous post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html):
 
 - Lead times for all items we estimated to S
 - Lead times for all items we estimated to M

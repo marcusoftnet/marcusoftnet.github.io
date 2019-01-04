@@ -141,7 +141,7 @@ Although it looks a bit messy it’s quite a lot that we can read out of this di
 
 ## Summary
 
-I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single diagram in the dashboard. In the next post – let's make a version that allows us to do some filtering. 
+I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single diagram in the dashboard. In [the next post](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html) – let's make a version that allows us to do some filtering. 
 
 I wanted to create a powerful but simple tool, where the user can simply paste some data into one place and then the dashboard does the calculations needed to make better sense of the raw process data. 
 
