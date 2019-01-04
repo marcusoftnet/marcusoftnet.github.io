@@ -18,9 +18,9 @@ Speaking of those principles; in this post, I will violate one of them a bit, by
 
 <a name='more'></a>
 
-The reason I want to do this is that, as it the diagram stands now, it’s a bit too noisy and has a lot of outliers, for example.
+The reason I want to do this is that, as it the chart stands now, it’s a bit too noisy and has a lot of outliers, for example.
 
-The reason this is violating the principle is that I’ve yet to start filtering data out without running into problems. First, we can filter out some reasonable outliers (for example, everything with a lead time above 300 days…) and that might be good. But then we see new outliers and want to take them out as well. Before long someone (probably ourselves) will ask: “That graph is nice now, but it’s not showing all the data”. 
+The reason this is violating the principle is that I’ve yet to start filtering data out without running into problems. First, we can filter out some reasonable outliers (for example, everything with a lead time above 300 days…) and that might be good. But then we see new outliers and want to take them out as well. Before long someone (probably ourselves) will ask: “That chart is nice now, but it’s not showing all the data”. 
 
 This filter is a tool and needs to be used with care. With great powers yada yada yada. 
 
@@ -28,7 +28,7 @@ Also, I’m going to add this filtering-capability, so that we can filter on oth
 
 ## Setting it up
 
-Just for clarity, I will do this as a separate tab calculating lead times “Leadtimes with filters”. I created it by making a duplicate of the “Lead time calculations”-tab. I kept the diagram (that got copied) that is already showing the data in a nice way, but I changed the title to “Filtered lead times” to know what was what.
+Just for clarity, I will do this as a separate tab calculating lead times “Leadtimes with filters”. I created it by making a duplicate of the “Lead time calculations”-tab. I kept the chart (that got copied) that is already showing the data in a nice way, but I changed the title to “Filtered lead times” to know what was what.
 
 To get some more data to filter on I added a new column, copying over the “Size”-column from the “Raw data”-tab. 
 
@@ -55,9 +55,9 @@ Perfect! Google sheets now helped us to filter stuff.
 
 ### Caveat about fake data
 
-My graph was not vastly improved though since the spread is still around. That was mainly due to the fact that I faked all the estimates. 
+My chart was not vastly improved though since the spread is still around. That was mainly due to the fact that I faked all the estimates. 
 
-However, remember that estimates are just that; how big *we thought it would be **before we started to work with the item***. The graph is now, correctly, showing all the items that we estimated to S before we started. The data is showing us how long it really took.
+However, remember that estimates are just that; how big *we thought it would be **before we started to work with the item***. The chart is now, correctly, showing all the items that we estimated to S before we started. The data is showing us how long it really took.
 
 ## Filter and our functions
 
@@ -87,7 +87,7 @@ PERFECT!
 
 Or is it?
 
-The problem with the “simple” filter is that it needs to be changed manually. So, if you want to see the items estimated to “M” instead, you have to select “M” in that drop down. The graph updates to reflect that those changes. You can show the one or the other but not both views at the same time. 
+The problem with the “simple” filter is that it needs to be changed manually. So, if you want to see the items estimated to “M” instead, you have to select “M” in that drop down. The chart updates to reflect that those changes. You can show the one or the other but not both views at the same time. 
 
 Unless… you use Views. Ordinary and stationary views. 
 
@@ -106,3 +106,44 @@ Finally, create one more filter setting the Lead time filter to a condition “L
 Fine! We now have a few views. Let’s visualize them. 
 
 ## Making filtered charts
+
+Hmmm ... this did not turn out how I hoped and thought. Got some very useful hints from [Joey Spooner](https://www.spoonstein.com/) about how we could make a query (using the QUERY-function, which is super powerful), and from that make a new export. Like a view of the view.
+
+While that works fine it becomes pretty messy to setup (way beyond the scope of this post, at least) and also means that i need to replicate the view filtering. One of the things that I like with views is that it's simple AND dynamic. I can make up new filters and it will update the chart automatically. 
+
+Another tip from Joey was to make a picture out of the chart. This is very handy but static. I could totally see this being a viable solution with a script that basically just does that. 
+
+What I settled on is a ~~very~~ super simple and hacky solution: I'm going to make a link per filter view that will update the chart for me. 
+
+It's not as smooth as I wanted it to be but it helps us to answer a few questions that we have when we play around with the data. Often that is what data like this is best for; helping us to understand our world a bit better, by allowing us to study the data from different angles
+
+### MMF - Marcus Manageable Filter
+
+Ok - less philosofy and more doing. 
+
+* On the "Lead time with filter"-tab I've added a new filter row, A:E
+* Each of the columns now holds a `HYPERLINK` to the filter
+  * The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end. 
+    Select the whole address and use that as the first parameter
+  * The name is just a name for the filter `Only Size S` for example
+  * The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
+* Repeat for all views. 
+
+An user can now click one of those links and get the chart filtered. 
+
+![The chart filtered and done](/img/processChartLessThan300.png)
+
+## Export as picture
+
+I need to show to export the chart as a picture as well, because that could be handy to know, I would guess.
+
+* Click one of those filters
+* See how the chart updates
+* Click the menu dots of the chart
+* Select Download as picture in a suitable format. 
+
+## Summary
+
+Ok that last part was a bit dissapoiting. Let's move to another simpler world in the next post where we will calculate throughput; how much gets done per time unit. 
+
+In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter. 
