@@ -144,6 +144,7 @@ I need to show to export the chart as a picture as well, because that could be h
 
 ## Summary
 
-Ok that last part was a bit dissapoiting. Let's move to another simpler world in the next post where we will calculate throughput; how much gets done per time unit. 
+Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit. 
 
 In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter. 
+
