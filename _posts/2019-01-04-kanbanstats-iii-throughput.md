@@ -84,7 +84,7 @@ I added a moving average trend line too, for good measures. We are measuring for
 
 Here's how my completed per week diagram looks. 
 
-![Throughput per week](img/throughputPerWeek.png)
+![Throughput per week](/img/throughputPerWeek.png)
 
 ## Extra points
 
