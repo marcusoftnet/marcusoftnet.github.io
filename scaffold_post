@@ -20,7 +20,7 @@
 layout=post
 
 # Set text editor
-editor=code
+editor=open -a typora
 
 # Posts directory
 folder=_posts/
