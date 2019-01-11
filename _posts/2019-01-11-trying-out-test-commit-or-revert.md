@@ -17,7 +17,7 @@ I felt the same actually and now I've tried it. I was so provoked by it so I had
 
 The idea is pretty simple:
 
-> The full command then is “test && commit || revert”. If the tests fail, then the code goes back to the state where the tests last passed.
+> The full command then is “test && commit \I\I revert”. If the tests fail, then the code goes back to the state where the tests last passed.
 
 In this blog post, I have documented my complete workflow in getting this up and running and trying it out on a simple kata. The post became pretty long but is hopefully easy to follow.
 
