@@ -148,6 +148,7 @@ module.exports.single = (number) => {
 ```
 
 **Feeling before tcr-command**: NERVOUS! Will it run?
+
 **Result**: Passed and commit
 
 ### Second test run
@@ -170,9 +171,8 @@ module.exports.single = (number) => {
 }
 ```
 
-
-
 **Feeling before tcr-command**: Cocky! This will work...
+
 **Result**: Ah well...
 
 - Set up the whole test. Pretty sure of myself... failed and reverted.
@@ -200,7 +200,12 @@ module.exports.single = (n) => {
 }
 ```
 
+
+
 **Feeling before tcr-command**: Careful optimistic but still held my breath during the run.
+
+
+
 **Result**: Passed and commit.
 
 ### Refactoring the tests
@@ -226,6 +231,7 @@ module.exports.single = (n) => {
 ```
 
 **Feeling before tcr-command**: Very confident
+
 **Result**:
 
 - Passed and commit.
@@ -250,6 +256,7 @@ module.exports.single = (n) => {
 ```
 
 **Feeling before tcr-command**: Carefully confident and reflecting over the amount of code I wrote now... What if I lost it...
+
 **Result**:
 
 - FAILED! I asserted for '3' in the test and not 'Fizz'... 
@@ -277,6 +284,7 @@ module.exports.single = (n) => {
 ```
 
 **Feeling before tcr-command**: Pretty confident
+
 **Result**:
 
 - Passed and commit
@@ -303,6 +311,7 @@ module.exports.single = (n) => {
 ```
 
 **Feeling before tcr-command**: Very confident but no changes in production code ... This *should* work
+
 **Result**:
 
 - Passed and commit
@@ -329,9 +338,10 @@ module.exports.single = (n) => {
 ```
 
 **Feeling before tcr-command**: Again... I felt like this was a lot of code all of a sudden
+
 **Result**:
 
-- AND BLEUAH - it failed... because I checked for exactly 3, 5 and 3 and 5...  
+- AND BLEUAH - it failed... because I checked for exactly 3, 5 and 3 and 5... I didn't check for things _divisible_ with 3 or 5 
 - IDIOT - I needed more cases for Fizz and Buzz
 
 ### Seventh test run
