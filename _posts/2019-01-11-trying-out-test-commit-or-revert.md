@@ -33,9 +33,9 @@ In this blog post, I have documented my complete workflow in getting this up and
 
 ## The kata, the platform and the workflow
 
-I chose the [Fizz Buzz kata](http://codingdojo.org/kata/FizzBuzz/), because it is so simple that I could focus on the tooling and workflow instead. 
+I choosed the [Fizz Buzz kata](http://codingdojo.org/kata/FizzBuzz/), because it is so simple that I could focus on the tooling and workflow instead. 
 
-I also chose Node as I'm most comfortable there. 
+I also picked the Node-platform and JavaScript, as I'm most comfortable there. And this time I'm learning a new workflow and not a new platform. 
 
 For this setup, I will not go full "limbo" and run the tests automatically every 2 minutes but rather execute the command manually. 
 
@@ -63,7 +63,7 @@ Here are the commands I ran to get started:
    }
    ```
 
-   1. I'm linting my code with [standards](https://standardjs.com/)
+   1. I'm linting my code with [standard js](https://standardjs.com/)
    2. The testing is done using [mocha](https://mochajs.org/)
    3. And the `pretest` script is automatically running the linting before the tests are executed
 
@@ -104,8 +104,6 @@ The revert command is even simpler, but also more unforgiving
 "revert": "git reset --hard",
 ```
 
-
-
 Creating the final command became very simple. So simple that I didn't know if it would work. Here's the command:
 
 ```json
@@ -114,7 +112,15 @@ Creating the final command became very simple. So simple that I didn't know if i
 
 First, the `tcr` script will run the tests and if it works it will continue to the part after the `&&` and do the commit. If the `npm test` fails the part after the `||` will run and revert the changes. 
 
-I can now do the workflow by executing `npm run tcr`. Nice!
+You can think about it like this:
+
+```javascript
+(npm test && npm run commit) || npm run revert
+```
+
+That made it simpler to understand for me at least. 
+
+Anyway, I can now do the workflow by executing `npm run tcr`. Nice!
 
 ## The test runs
 
@@ -145,6 +151,26 @@ module.exports.single = (number) => {
 **Result**: Passed and commit
 
 ### Second test run
+
+Test:
+
+```javascript
+  it('returns "2" for 2', () => {
+    const result = fizzBuzzer.single(2)
+    assert.equal(result, '2')
+  })
+
+```
+
+Production code:
+
+```javascript
+module.exports.single = (number) => {
+  return '1'
+}
+```
+
+
 
 **Feeling before tcr-command**: Cocky! This will work...
 **Result**: Ah well...
