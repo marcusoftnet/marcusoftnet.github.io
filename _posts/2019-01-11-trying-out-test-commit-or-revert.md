@@ -9,7 +9,15 @@ tags:
  - TDD
 ---
 
-I stumbled over a new concept the other day. As it was conceived by Kent Beck, that inspired and thought me a lot in the past, I got interesting. When I read his [blog post](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) I got to this quote:
+I stumbled over a new concept the other day. As it was conceived by Kent Beck, that inspired and thought me a lot in the past, I got interesting. 
+
+**[UPDATED]**
+
+I read Kents blog post a bit too fast and missed that this idea was actually proposed by [Oddmund Strømmer](https://twitter.com/jraregris). Very sorry that I missed that in my writeup, Oddmund. Thanks for correcting me, [Raquel](https://rachelcarmena.github.io/2018/11/13/test-driven-programming-workflows.html).
+
+**[BACK TO THE OLD TEXT]**
+
+When I read his [blog post](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) I got to this quote:
 
 > I hated the idea so I had to try it.
 
