@@ -171,14 +171,19 @@ module.exports.single = (number) => {
 }
 ```
 
-**Feeling before tcr-command**: Cocky! This will work...
+**Feeling before tcr-command**: 
 
-**Result**: Ah well...
+* Set up the whole test. Pretty sure of myself... failed and reverted.
 
-- Set up the whole test. Pretty sure of myself... failed and reverted.
+* Cocky! This will work...
+
+**Result**: 
+
+* Ah well...
+
 - No production code changed... Hence I returned a constant of `1`.
-  *And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
-- Lost documentation too.
+  - And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
+- Lost documentation (i.e. this blog post) too. This was the point where I decided to move the documentation from ReadMe.md in the repository to a separate blog post. 
 
 ### Second test run - second try
 
@@ -203,8 +208,6 @@ module.exports.single = (n) => {
 
 
 **Feeling before tcr-command**: Careful optimistic but still held my breath during the run.
-
-
 
 **Result**: Passed and commit.
 
