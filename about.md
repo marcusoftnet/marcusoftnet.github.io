@@ -6,7 +6,7 @@ header-img: img/about-bg.jpg
 ---
 
 ## Normal short intro
-Agile coach, Christian, .NET/NodeJs Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lives in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook)
+Agile coach, Christian, .NET/NodeJs Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook)
 
 ## Longer introduction
 During the years I have been moving around quite a bit. I started my career as a developer but soon got to be leader for the teams I was in. This got me to look into finding ways to become more effective as a team.
