@@ -13,11 +13,11 @@ I have done quite a few different talks and workshops during my career and here 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
 | [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and <br />lean saving a hospital in Indonesia | 1 hour    |
 | [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on <br />how kanban can help you and your team to be even better | 1-2 hours |
-| [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the prinicples behind agile (and lean) | 1-2 hours |
-| [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
-| [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forever more | 3 hours   |
-| [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop we examine the earlier phases of development and see how lean priniciples and kanban can help us to improve flow. | 2-3 hours |
-| [Serverless - What? Why? How? ](#serverless---why-what-how) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with this capabilities. There will be demos | 1-2 hours |
+| [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the principles behind agile (and lean) | 1-2 hours |
+| [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
+| [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
+| [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop, we examine the earlier phases of development and see how lean principles and kanban can help us to improve flow. | 2-3 hours |
+| [Serverless - What? Why? How? ](#serverless---why-what-how) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with these capabilities. There will be demos | 1-2 hours |
 
 ## The Bungsu Story - inspirational presentation
 
@@ -27,15 +27,15 @@ Me?! A lean/agile coach. A westerner with little to no knowledge in hospital man
 
 We started to apply the principles of kanban and in doing so turned the hospital around into something amazing. Transforming not only the organisation but also some lives among the people in the staff.
 
-While working with the hospital in this way I gained deeper insight and knowledge about what the principles of lean and kanban means and how they can be applied to make us more and more effective. And save us from disaster too...
+While working with the hospital in this way I gained deeper insight and knowledge about the principles of lean and kanban means and how they can be applied to make us more and more effective. And save us from disaster too...
 
 This talk is now turned into a [book that you can get here.](http://bit.ly/bungsubook)
 
 ### Outcomes
 
-- Inspriration through a story about hardship, preseverance, friendship, love and victory
-- Knowing the foundational prinicples of kanban and how they can help in any kind of process and situation
-- Some practical knowledge on how to set and and work with kanban boards
+- Inspiration through a story about hardship, perseverance, friendship, love and victory
+- Knowing the foundational principles of kanban and how they can help in any kind of process and situation
+- Some practical knowledge on how to set and work with kanban boards
 
 ### Audience
 
@@ -43,41 +43,41 @@ This can be enjoyed by anyone in your organisation. It is a great way to introdu
 
 ### Length
 
-This is a 30 min to 1 hour presentation. Often I have a Q&A afterward around the coffee-tables.
+This is a 30 min to a 1-hour presentation. Often I have a Q&A afterwards around the coffee-tables.
 
 ## Kanban in Action - a kanban introduction
 
-In my consultancy, I’ve come to realize that most clients/teams I’ve coach don’t care too much about the theory. This presentation, therefore, takes a standpoint in the practical parts. I will also mimic my experience with most teams I’ve introduced kanban too, and do the introduction in small iterations.This means that the presentation also is a template for anyone that will need to introduce kanban to others.
+In my consultancy, I’ve come to realize that most clients/teams I’ve coached don’t care too much about the theory. This presentation, therefore, takes a standpoint in the practical parts. I will also mimic my experience with most teams I’ve introduced kanban too, and do the introduction in small iterations. This means that the presentation also is a template for anyone that will need to introduce kanban to others.
 
-This is one hour presentation that suits any audience from 2 to 300. It is fun and engaging but ties strongly back to the foundational principles of kanban.
+This is a one-hour presentation that suits any audience from 2 to 300. It is fun and engaging but ties strongly back to the foundational principles of kanban.
 
 ### Outcomes
 
 - Overview of how kanban can help you improve your process to more effectively deliver value
-- Knowing the foundational prinicples of kanban and how they can help
-- Practical knowledge in how to build and manage boards for teams
+- Knowing the foundational principles of kanban and how they can help
+- Practical knowledge of how to build and manage boards for teams
 - Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
 
 ### Audience
 
-This presentation is useful for almost anyone but most examples that we are using stems from system developement and maintenance. It can easily be tweaked into something that suits your particular needs and situation.
+This presentation is useful for almost anyone but most examples that we are using stems from system development and maintenance. It can easily be tweaked into something that suits your particular needs and situation.
 
 ### Length
 
-This is best as a 1 hour presentation - longer than that it is better run as a workshop (see below)
+This is best as a 1-hour presentation - longer than that it is better to run as a workshop (see below)
 
 ## Agile - principles over practices
 
 I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on.
 
-This leads to us following procedures that doesn't make sense to us, not getting the most out of what agile can give and that we see no or little improvement over time.
+This leads to us following procedures that don't make sense to us, not getting the most out of what agile can give and that we see no or little improvement over time.
 
-This presentation dives into the prinicples behind agile (and lean) to help us understand how these principles can be turned into practices to support and help us in our search for practices that is suited for us.
+This presentation dives into the principles behind agile (and lean) to help us understand how these principles can be turned into practices to support and help us in our search for practices that is suited for us.
 
 ### Outcomes
 
 - Overview of how agile and lean can help you improve your process to more effectively deliver value
-- Knowing the foundational prinicples of agile and lean, and how they can help you where you are
+- Knowing the foundational principles of agile and lean, and how they can help you where you are
 - Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
 
 ### Audience
@@ -90,23 +90,23 @@ I usually do this as a 1-2 hour presentation, but very frequently follow up with
 
 ## Kanban in Action - improve my kanban board
 
-Through my consultancy I've met many companies in different fields of work (from internet startup, through big banks and even hospitals in Indonesia). In each of these settings I have seen some similarities and common challenges.
+Through my consultancy, I've met many companies in different fields of work (from internet startup, through big banks and even hospitals in Indonesia). In each of these settings, I have seen some similarities and common challenges.
 
-I have therefor collected a long list (36 and growing) of practices that I keep coming back to in my recommendations and while helping teams and organisations.
+I have therefore collected a long list (36 and growing) of practices that I keep coming back to in my recommendations and while helping teams and organisations.
 
-This session is very practical but ties back to the theories behind kanban, lean and agile as the need arises. Most of the tips focuses on one team / one board, some of the practices have implications and benefits for the larger organsiation.
+This session is very practical but ties back to the theories behind kanban, lean and agile as the need arises. Most of the tips focus on one team / one board, some of the practices have implications and benefits for the larger organisation.
 
 The session can be run in several different modes:
 
-- As a pure presentation where I pick my own favorites (most borning)
-- As an interactive big room presentation where audience votes for the items they like the most (require access to www.heroku.comm, interactive and interest driven)
+- As a pure presentation where I pick my own favourites (most boring)
+- As an interactive big room presentation where audience votes for the items they like the most (require access to www.heroku.comm, interactive and interest-driven)
 - As a master class where I coach one team around their board and other people listen in / watches us go through some of the items on the list that the team likes the best. (great for that one team and might be the things that the others doesn't really want to see)
 
 ### Outcomes
 
 - A lot of practical tips on how to make the board and the practices around it ever better
-- Ideas and inspiration by learning from examples on how we could do our work differently
-- A wide range of problem, situation and solutions to common challenges for the kanban team
+- Ideas and inspiration by learning from examples of how we could do our work differently
+- A wide range of the problem, situation and solutions to common challenges for the kanban team
 - Through the example a solid understanding of what the principles of kanban, lean and agile means in practices.
 
 
@@ -122,23 +122,23 @@ This presentation is intended for teams that already are using agile methods and
 
 This workshop will teach you the foundations of kanban in a very practical and entertaining way. Kanban can help you improve your process to more effectively deliver value - no matter what process you are working with now, or how good you are in doing it.
 
-Kanban is just a few basic principles and practices - but the implications of them is hugely powerful, and can change not only your team but in the long run help and improve the entire organisation around you. You will learn how to discover, little by little, how to improve your ways of working to something better than you could imagine, through the evolutionary approach to process improvements.
+Kanban is just a few basic principles and practices - but the implications of them are hugely powerful, and can change not only your team but in the long run help and improve the entire organisation around you. You will learn how to discover, little by little, how to improve your ways of working to something better than you could imagine, through the evolutionary approach to process improvements.
 
-Kanban is "just" our guide - not a framework that tells you details on how and what. For this reason much of the content of the workshop will be driven by your needs, questions and context. This is better than me giving you a rigid framework that most likely will not suit your praticular need.
+Kanban is "just" our guide - not a framework that tells you details on how and what. For this reason, much of the content of the workshop will be driven by your needs, questions and context. This is better than me giving you a rigid framework that most likely will not suit your particular need.
 
 Come with an open mind and any kind of process - leave with practical tips, know-how and ideas that will help you improve. Tomorrow, and forever!
 
 ### Outcomes
 
 - Overview of how kanban can help you improve your process to more effectively deliver value
-- Knowing the foundational prinicples of kanban and how they can help
-- Practical knowledge in how to build and manage boards for teams
+- Knowing the foundational principles of kanban and how they can help
+- Practical knowledge of how to build and manage boards for teams
 - Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organise that
 - Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
 
 ### Audience
 
-This workshop is a great kick-off for your team that is just starting using agile methods or can also be used to reboot your work after reoorgs, new projects etc. It is fun, inclusive and interactive.
+This workshop is a great kick-off for your team that is just starting using agile methods or can also be used to reboot your work after reorgs, new projects etc. It is fun, inclusive and interactive.
 
 ### Length
 
@@ -146,15 +146,15 @@ At least 3 hours, I have done it full days as well
 
 ## Kanban in Action - upstream work
 
-This workshop focuses on some of the practices that happens before work hits a development team. Often these parts are left out to some poor product owner to just figure out and keep track of. But in true lean spirit we should consider the entire workflow from idea to production, from a customer perspective.
+This workshop focuses on some of the practices that happen before work hits a development team. Often these parts are left out to some poor product owner to just figure out and keep track of. But in true lean spirit, we should consider the entire workflow from idea to production, from a customer perspective.
 
-I have gather a few of the practices that I've come to appreciate and got great value from during my agile consultancy since 2005. I draw experiences from many different clients in many different fields - ranging from startups, via banks all the way to hospitals in Indonesia.
+I have gathered a few of the practices that I've come to appreciate and got great value from during my agile consultancy since 2005. I draw experiences from many different clients in many different fields - ranging from startups, via banks all the way to hospitals in Indonesia.
 
 ### Outcomes
 
 - Overview of how kanban can help you improve your process to more effectively deliver value
-- Knowing the foundational prinicples of kanban and how they can help
-- Practical knowledge in how to build and manage boards for teams
+- Knowing the foundational principles of kanban and how they can help
+- Practical knowledge of how to build and manage boards for teams
 - Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organise that
 
 ### Audience
@@ -167,13 +167,13 @@ This workshop is useful to connect the product team (product owner etc) closer t
 
 ## Serverless - Why?! What?! How?
 
-Serverless is the new superpower in IT. In this talk we will take a look at why serverless gives us superpowers. We will check out, briefly, how to wield this new power. But with great powers comes some responsibility and we will briefly checkout how might we need to change our ways and our code to get the most out of the serverless superpower.
+Serverless is the new superpower in IT. In this talk, we will take a look at why serverless give us superpowers. We will check out, briefly, how to wield this new power. But with great powers comes some responsibility and we will briefly checkout how might we need to change our ways and our code to get the most out of the serverless superpower.
 
 ### Outcomes
 - Understanding of what serverless is
 - Understanding of how it can help us to move faster
-- Orientation of the AWS platform, 10000 feets
-- Some demos shown with [Claudia Js](http://claudiajs.com)
+- An orientation of the AWS platform, 10000 feets
+- Some demos with [Claudia Js](http://claudiajs.com)
 
 ### Audience
 
