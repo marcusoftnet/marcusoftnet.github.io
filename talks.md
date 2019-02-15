@@ -13,6 +13,7 @@ I have done quite a few different talks and workshops during my career and here 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
 | [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and <br />lean saving a hospital in Indonesia | 1 hour    |
 | [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on <br />how kanban can help you and your team to be even better | 1-2 hours |
+| [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the prinicples behind agile (and lean) | 1-2 hours |
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forever more | 3 hours   |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop we examine the earlier phases of development and see how lean priniciples and kanban can help us to improve flow. | 2-3 hours |
@@ -64,6 +65,28 @@ This presentation is useful for almost anyone but most examples that we are usin
 ### Length
 
 This is best as a 1 hour presentation - longer than that it is better run as a workshop (see below)
+
+## Agile - principles over practices
+
+I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on.
+
+This leads to us following procedures that doesn't make sense to us, not getting the most out of what agile can give and that we see no or little improvement over time.
+
+This presentation dives into the prinicples behind agile (and lean) to help us understand how these principles can be turned into practices to support and help us in our search for practices that is suited for us.
+
+### Outcomes
+
+- Overview of how agile and lean can help you improve your process to more effectively deliver value
+- Knowing the foundational prinicples of agile and lean, and how they can help you where you are
+- Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
+
+### Audience
+This presentation is good for teams that of any kind (not only IT team, not only development) that just started their agile journey, or are just about to start using agile methods.
+
+It can also be used as a conversation starter between an agile team and people around the team that needs help understanding the principles the team are working from.
+
+### Length
+I usually do this as a 1-2 hour presentation, but very frequently follow up with a discussion / open space or hands-on coaching around a team board.
 
 ## Kanban in Action - improve my kanban board
 
