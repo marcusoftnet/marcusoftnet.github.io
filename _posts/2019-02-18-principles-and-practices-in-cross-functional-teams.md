@@ -89,7 +89,7 @@ The team representatives in the guild bring the ideas, new input and principles 
 
 The architecture guild just closed the meeting that had been awesome. Not only had it been the biggest turnout with 1-2 people per team represented, but they had finally decided on the preferred way to communicate; HTTP between bounded context service and Rabbit MQ between the micro-services within the bounded context. Easy clear and feels like a great idea. 
 
-Marcus and Anna, two devs that attended the architecture guild,  bump into each other the day after; 
+Marcus and Anna, two developers that attended the architecture guild,  bump into each other the day after; 
 
 Marcus: So, did you get started converting your internal HTTP calls to Rabbit MQ, yet? 
 
