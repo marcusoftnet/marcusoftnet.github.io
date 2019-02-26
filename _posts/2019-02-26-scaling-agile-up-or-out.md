@@ -9,7 +9,8 @@ tags:
  - Life of a consultant
 ---
 
-Scaling agile - up or out?
+Friend: `So in short - they too need to scale their agile initative.`
+Marcus: `Oh - cool! Up or out?`
 
 Scaling agile has to be the term that I've seen most discussions, posts, comments and conversations about the last couple of years. 
 
