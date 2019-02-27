@@ -27,7 +27,7 @@ In this post, I wanted to reason a bit about those tradeoffs.
 ## Computers
 The distiction between scaling _up_ and scaling _out_ is something that I first picked up in computer science when it comes to solving performance issues. I'm gonna try to make a description here that requires no previous knowledge of computers. Bare with me - it's just a short analogy
 
-Imagine that we have web site running on a server. It's not becoming hugely popular and we get loads of people hitting the website. This is great, but the server is buckling under the load. Each page takes longer and longer to show and we need to do something now. 
+Imagine that we have web site running on a server. It's now becoming hugely popular and we get loads of people hitting the website. This is great, but the server is buckling under the load. Each page takes longer and longer to show and we need to do something now. 
 
 Now we could:
 **scale up** - by beefing up the computer; more memory, more and faster CPUs, more disc. This will work, but after awhile, if the site load increase we will soon hit a barrier where the server cannot be beefed up any further. Also it's quite an expensive fix to the problem. 
