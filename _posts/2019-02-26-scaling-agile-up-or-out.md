@@ -49,7 +49,7 @@ Obviously we want this success story to spread. To all the 200 people in the org
 No **scaling up** might, and often does, mean that we:
   * fit the agile teams that we create into our current system, where we have layers of decision-making, planning and budgeting before the team is involved. The team can then be _autonomous, agile and nimble_ within the boundaries that we give it.  
   * add the current ways of working as a extra layer on top of the team so that it fits into the structure that we have created already. 
-  * add extra people into the team, in order to fit it into our current structure. Examples I've seen is the requirement specialist, a customer proxy (and even a customer proxy proxy), "make it look like RUP"-guy (oh, how I wished I made that one up), architects or documentation specialists. None of those are wrong in themselves, except mayby the RUP-reference, but these are competences - not people or even roles. 
+  * add extra people into the team, in order to fit it into our current structure. Examples I've seen is the requirement specialist, a customer proxy (and even a customer proxy proxy), "make it look like RUP"-guy (oh, how I wished I made that one up), architects or documentation specialists. None of those are wrong in themselves, except mayb the RUP-reference, but these are competences - not people or even roles. 
 
 **Scaling  up** in this context, for me, means to take whatever the team did and beef it up until it fits whatever the organisation around it did before this team was successful. Just as with computers **scaling up** is quicker, but cost much more (for the team), and eventually reach a tipping point - where the things that made that team successful in the first place, is not present anymore. 
 
@@ -59,7 +59,7 @@ Notice how these questions, problems and solutions are all focusing on how to ch
 Ok - let's try to take that successful team and instead **scale it out**. That would mean that we create many, small autononmous and independent teams, operating after not the same practices but the same principles that made the first team successful. Each team, with their unique context and individuals would find their own ways of working to create valuable outcome. 
 
 The challenge now becomes one of leadership:
-* How would each team know what they should do? Psst - give them an effect-oriented goal (`More customers!`)
+* How would each team know what they should do? Psst - give them an impact/outcome-oriented goal (`More customers!`, for example)
 * How would we know progress and follow up their progress? 
 * How would we synchronize work and releases across teams? 
 * What about dependencies between teams - who are in charge of keeping them together? 
