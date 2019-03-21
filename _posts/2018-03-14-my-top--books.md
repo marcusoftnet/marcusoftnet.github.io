@@ -24,7 +24,7 @@ Amazingly the book manages to do this in a very practical way and gives the read
 
 
 
-[This is lean](https://www.amazon.com/This-Lean-Resolving-Efficiency-Paradox-ebook/dp/B00JZZS7Q0/ref=sr_1_2?s=books&ie=UTF8&qid=1521040865&sr=1-2&keywords=this+is+lean) - I use diagrams from this book weekly if not daily. The book by Niclas Modig and Per Åhlström is by far the simplest explanation to what lean is all about I've read. The text was first written over a summer, as a quick research project for the Swedish government that needs to get a grasp of lean and it's implication. Short after the publication in Swedish, it became obvious that the book needed spreading across the globe. Well worth a read - and to have a spare copy to give away.
+[This is lean](https://www.amazon.com/This-Lean-Resolving-Efficiency-Paradox-ebook/dp/B00JZZS7Q0/ref=sr_1_2?s=books&ie=UTF8&qid=1521040865&sr=1-2&keywords=this+is+lean) - I use diagrams from this book weekly if not daily. The book by Niclas Modig and Per Åhlström is by far the simplest explanation to what lean is all about I've read. The text was first written over a summer, as a quick research project for the Swedish government that needs to get a grasp of lean and its implications. Short after the publication in Swedish, it became obvious that the book needed spreading across the globe. Well worth a read - and to have a spare copy to give away.
 
 
 
@@ -38,7 +38,7 @@ The book talks a lot about how the CIO role changes as lean and agile practices 
 
 I think this book is important for IT folks to read, as we are also in a creative business, and hence need to lead in ways that allow for creativity to flow and spread. I especially love the parts where the author reflects on what didn't work and how they improved it.
 
-And the stories about my favorite characters and how they were brought to life.
+And the stories about my favourite characters and how they were brought to life.
 
 
 
@@ -60,7 +60,7 @@ This book describes how they work with values and culture to build small autonom
 
 
 
-[Principles of product development flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0/ref=sr_1_1?s=books&ie=UTF8&qid=1521040739&sr=1-1&keywords=Principles+of+product+development+flow). This is a must-read. But when you do you have to commit to reading it. Because it's tough and dense. Don't take my word for it, the author Dr. Reinertseen, warns the reader about this in the foreword. A perfect book-club book.
+[Principles of product development flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation-ebook/dp/B007TKU0O0/ref=sr_1_1?s=books&ie=UTF8&qid=1521040739&sr=1-1&keywords=Principles+of+product+development+flow). This is a must-read. But when you do you have to commit to reading it. Because it's tough and dense. Don't take my word for it, the author Dr Reinertseen, warns the reader about this in the foreword. A perfect book-club book.
 
 But for those who dare - this is an absolute gem of a book. When I read it I saw many of the things that I just took as good practice and ideas explained and laid out in a new light. There are SO (175 principles I think) good things in this book that it's hard to take in, really. But it's well explained.
 
@@ -68,9 +68,9 @@ Read it slow and thoughtful and you will be rewarded with a much deeper understa
 
 
 
-[Sense and respond by Jeff Gothelf and Josh Seiden](https://www.amazon.com/Sense-Respond-Successful-Organizations-Continuously/dp/1633691888), could be described as the lighter version of Dr. Reinertsens Principles of Product development flow. It is very approachable and is packed with stories of both success and failure, on how to structure your work and organization to support an experimental mindset that is needed to win in the current world.
+[When will it be done](https://leanpub.com/whenwillitbedone) is a marvellous book by [Daniel Vacanti](https://twitter.com/danvacanti) on process metrics. I was a fan from page 1. Maybe 2. What I particularly love about this book is that 1) he talks about prognosis from real data, rather than estimated value and 2) he lays down the way to track this data and plot the graphs as something very very simple. 
 
-What I particularly love about this book is that you could basically give it to anyone in your organization and know that they would read it (!), get it and be inspired by it. No particular prerequisite knowledge is required. This ranks very high on my recommendation hit list.
+Track start and stop date per item, calculate 50 and the 85 percentiles, create a histogram and a scatter chart and you are half-way there to the best process data you ever saw. 
 
 
 
@@ -80,14 +80,24 @@ The book is packed with nuggets (nudges?) of management gold like "[Move the aut
 
 
 
+### Moved out
+
+In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books. 
+
+
+
+[Sense and respond by Jeff Gothelf and Josh Seiden](https://www.amazon.com/Sense-Respond-Successful-Organizations-Continuously/dp/1633691888), could be described as the lighter version of Dr Reinertsens Principles of Product development flow. It is very approachable and is packed with stories of both success and failure, on how to structure your work and organization to support an experimental mindset that is needed to win in the current world.
+
+What I particularly love about this book is that you could basically give it to anyone in your organization and know that they would read it (!), get it and be inspired by it. No particular prerequisite knowledge is required. This ranks very high on my recommendation hit list.
+
 ### My books
 
 Yes, of course, I need to get this out of the way. I've written two books and I'm immensely proud of them both, but they are not on the list.
 
-[Kanban In Action](https://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/ref=cm_cr_arp_d_product_top?ie=UTF8) is a very practical oriented introduction to kanban as a process improvement, flow-focused approach to software development. Although I'm one of the authors I can honestly say that it is really useful and contains a lot of hands-on experience.
+[Kanban In Action](https://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/ref=cm_cr_arp_d_product_top?ie=UTF8) is a very practical oriented introduction to kanban as process improvement, flow-focused approach to software development. Although I'm one of the authors I can honestly say that it is really useful and contains a lot of hands-on experience.
 
 [The Bungsu Story](https://t.co/rO179xXeHS) is an adventure description on how we used lean, agile and kanban to save a Salvation Army hospital from ruin (literally and financially). This book is great for inspiration and getting an overview, and also contains a lot of practical examples and hands-on tips.
 
 ## Conclusion
 
-That was my list. What is your favorite books? Please share in the comments and I'm happy to update this list as soon as I find books worth to quality onto the list.
+That was my list. What are your favourite books? Please share in the comments and I'm happy to update this list as soon as I find books worth to quality onto the list.
