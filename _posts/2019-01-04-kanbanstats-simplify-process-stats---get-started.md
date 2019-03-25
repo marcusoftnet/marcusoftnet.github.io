@@ -10,6 +10,9 @@ tags:
  - Kanban
 ---
 
+**UPDATE**
+I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+
 I have been coaching agile teams for about 15 years now. One thing that I often help teams that I coach is to tap their process of some valuable data. It turns out that many of the tools that we are using have a lot of data in them that we seldom look at and even more seldom act on.
 
 Most of these tools (like JIRA or Team Foundation server) obviously have ways of looking that this data too, but I’ve found that it’s either really hard to understand the visualizations or that the reports that you can produce simply don’t cut along the right axis.

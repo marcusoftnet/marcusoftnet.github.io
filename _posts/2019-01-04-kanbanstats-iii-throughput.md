@@ -10,6 +10,9 @@ tags:
  - Kanban
 ---
 
+**UPDATE**
+I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+
 Lead time is awesome to track and try to improve. In fact, it's something that will guide you to a lot of improvements and should be front-and-centre of your process metrics.
 
 But that says very little about how much that gets done per time unit. Doing one thing in a day, fast and with quality, and then nothing for the rest of the month means that no other things get done.

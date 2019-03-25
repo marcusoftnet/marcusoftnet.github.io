@@ -10,6 +10,9 @@ tags:
  - Scrum
 ---
 
+**UPDATE**
+I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+
 This post is all about just aggregating and averaging out to a single number... and then I can't control myself but start to lay that number out over the individual weeks too.
 
 That, and we will use the Gauge-chart for the first time in my life.
