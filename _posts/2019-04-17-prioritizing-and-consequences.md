@@ -63,6 +63,6 @@ Or, which is my favourite, when we really don't know the size - then let's set a
 We could, in a similar fashion, argue that Item A is WAAAAY bigger than Item B. Just look at it. It's several months worth of work. But that is no reason to yell at the team for following the priority and not doing Item B. But I would strongly recommend slicing any items that we want to spend the precious capacity of the team on, into smaller pieces than that. How about we set a rule that nothing bigger than 2 weeks can be started by the week?
 
 ## Summary
-Prioritizing Item A over Item B means that Item be is, rightly, on our `avoid at all cost`-list. We should promote and congratulate teams for doing that. This will not only give Item A the attention our prioritizing was meant to give it, but also give the team a focused work situation. 
+Prioritizing Item A over Item B means that Item B is, rightly, on our `avoid at all cost`-list. We should promote and congratulate teams for doing that. This will not only give Item A the attention our prioritizing was meant to give it, but also give the team a focused work situation. 
 
 Did you see that I didn't write `forever` and `always` in my bits of advice? I'm not smart enough for those kinds of advice. Thinking is still required. 
