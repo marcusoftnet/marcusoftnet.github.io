@@ -27,7 +27,7 @@ Mr Buffet now ask his pilot: `What are you going to do with the other 20?` and o
 To this Mr Buffet response is:
 > No. You’ve got it wrong, Mike. Everything you didn’t circle just became your Avoid-At-All-Cost list. No matter what, these things get no attention from you until you’ve succeeded with your top 5.
 
-Because if not the 5 prioritized items are not prioritized. He should drop the other 20 items and not look back or feel regret. Until he has the capacity to take on new items, for example when the first 5 are completed. 
+Because if he start focusing on the other 20, the 5 prioritized items are not prioritized. He should drop the other 20 items and not look back or feel regret. Until he has the capacity to take on new items, for example when the first 5 are completed. 
 
 ## Observation
 
@@ -35,7 +35,7 @@ When we prioritize we choose something over something else, with good intentions
 
 > the action or process of deciding the relative importance or urgency of a thing or things
 
-So when we, in a team, chose to spend time on thing A over thing B - it is for a reason. That reason might be good (more value sooner for example) or bad (someone screamed at us to do it). But that doesn't really matter. We have made our choice: Item A it is.
+So when we, in a team, chose to spend time on item A over item B - it is for a reason. That reason might be good (more value sooner for example) or bad (someone screamed at us to do it). But that doesn't really matter. We have made our choice: Item A it is.
 
 Now to the Warren-Buffet-question: what about Item B (and all other non-prioritized items)?:
 
@@ -47,10 +47,10 @@ But sadly, what I've experienced and seen in my explorations of the real world i
 
 * Teams get blamed for not doing Item B
 * There's an expectation that Item B will get done anyway, often unspoken.
-* Team feels bad that they couldn't take on Item B and sneak it in anyway
+* Team feels bad that they couldn't take on Item B and sneak it in anyway. 
 * Item B guy (often) gets grumpy and annoyed over that "Item B never gets done - I've been waiting forever"
 
-Seriously - I see this all over. And for a long time.
+Seriously - I see this all over. And for many years now.
 
 ## What would be cool to see instead
 That team should get rewarded for not doing Item B. We should applaud them and thank them. Item A got proper focus now. Thank you, team.
