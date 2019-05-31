@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflection on a daily retrospective"
+title: "Reflection on a daily retrospectives"
 author: "Marcus Hammarberg"
 date: 2019-05-31 10:23:00
 tags:
