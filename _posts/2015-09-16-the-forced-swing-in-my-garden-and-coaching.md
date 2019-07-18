@@ -22,6 +22,7 @@ I said: Nah... this is good enough for them. They are enjoying themselves plenty
 Two days later ...
 
 This is a post on coaching, asking before helping and not improving things that works fine.
+
 <a name='more'></a>
 
 <img src="/img/theforcedswing.jpg" style="float:right;padding:15px" width="50%">
