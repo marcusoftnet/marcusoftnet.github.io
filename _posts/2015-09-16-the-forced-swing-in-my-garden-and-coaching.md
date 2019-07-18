@@ -7,7 +7,6 @@ tags:
  - Agile
  - Lean
  - Life of a consultant
-excerpt_separator: <a name='more'></a>
 ---
 
 <img src="/img/theliana.jpg" style="float:left;padding:15px" width="50%">
