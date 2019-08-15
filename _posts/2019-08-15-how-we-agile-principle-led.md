@@ -45,7 +45,7 @@ So with a hesitant hand: let's go through some of our principles
 ## Visualization and transparency
 This big board is a really good example of the principle of transparency and the practice of visualization. 
 
-![Our board](https://pbs.twimg.com/media/EB16rfeX4AAGEHy?format=jpg)
+<img src="https://pbs.twimg.com/media/EB16rfeX4AAGEHy?format=jpg" width="100%" alt="Our board" />
 
 Visualizing is awesome because it takes information that previously was not visible and makes it apparent (and hopefully understandable) for everyone. This is in turn foster a culture of transparency and we can spread knowledge and get input from more people than just a few that the information in their head.
 
@@ -231,7 +231,7 @@ Because there are things like that - and it should be.
 ### What / How
 If you drew our organizational structure of teams it would look something like this:
 
-![Our team org](http://www.marcusoft.net/img/GuildsPrinciples.png)
+<img src="http://www.marcusoft.net/img/GuildsPrinciples.png" width="100%" alt="Our team org" />
 
 A classical matrix organization. But this also how we handle cross-cutting concerns; we form cross-cutting groups where needed. 
 
