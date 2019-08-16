@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How we do Agile - principle-led & context-dependent"
+title: "How we agile - principle-led & context-dependent"
 author: "Marcus Hammarberg"
 date: 2019-08-15 11:26:32
 tags:
