@@ -53,11 +53,12 @@ Visualizing is awesome because it takes information that previously was not visi
 So we have created this big board. It's my first ever vertical kanban board and very simply each column matches a team. The teams are responsible for products or a value stream (for example Partner Portal or Internal administration systems). I'll get back to that structure later in the post. 
 
 Each column contains the following information (from top):
-**Name and definition**. Each column/team has a name and a purpose that is given by the company leadership. Kinda: "We would love for you to improve the way we interact with our partners. Please"
-**Effects and KPI** the next row describes the effect (impact or outcome) that the team is here to create. The team themselves have come up with KPIs that describes these effects. For example: "Ok - if we're gonna improve the way we interact with partners then we think Number of active partners/day and Total Sales over the partner portal are good indications"
-**Just delivered** - here we keep the things we just delivered, until the next weekly meeting. Oh, btw - delivered means "used by users in production"
-**Now** - this row indicates the things that our teams are working with right now. For each of these "value deliverables," we strive to make a good connection to how the effects we are here to deliver. It also means that (sub-)activities that we need to do to deliver value are not reported here. Because they, individually, doesn't create value. This is how we keep the correct level of details.
-**Next** - these are the value deliverables that the teams want to do next. But honestly this is just the best guess, most commonly new thing pops up that trumps this list. 
+
+* **Name and definition**. Each column/team has a name and a purpose that is given by the company leadership. Kinda: "We would love for you to improve the way we interact with our partners. Please"
+* **Effects and KPI** the next row describes the effect (impact or outcome) that the team is here to create. The team themselves have come up with KPIs that describes these effects. For example: "Ok - if we're gonna improve the way we interact with partners then we think Number of active partners/day and Total Sales over the partner portal are good indications"
+* **Just delivered** - here we keep the things we just delivered, until the next weekly meeting. Oh, btw - delivered means "used by users in production"
+* **Now** - this row indicates the things that our teams are working with right now. For each of these "value deliverables," we strive to make a good connection to how the effects we are here to deliver. It also means that (sub-)activities that we need to do to deliver value are not reported here. Because they, individually, doesn't create value. This is how we keep the correct level of details.
+* **Next** - these are the value deliverables that the teams want to do next. But honestly this is just the best guess, most commonly new thing pops up that trumps this list. 
 
 Since this is a vertical board per team, value bubbles up from the ideas in **Next** to support the **Effects and KPIs**. I kinda like that visual representation. 
 
