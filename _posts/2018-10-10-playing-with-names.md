@@ -7,7 +7,6 @@ tags:
  - Agile
  - Kanban
  - Lean
- - Change management
 ---
 
 At my current client, we are trying to make a change to focus more on [flow than on resource utilization](http://www.marcusoft.net/2018/05/thinking-in-flow-some-recent-thoughts.html). This is harder than it sounds because much of the current ways of working, structures, roles and rewards are built to support another mindset.
