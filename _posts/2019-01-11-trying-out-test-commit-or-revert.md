@@ -4,7 +4,7 @@ title: "Trying out test commit or revert"
 author: "Marcus Hammarberg"
 date: 2019-01-11 14:32:45
 tags:
- - JavaScript
+ - Javascript
  - Programming
  - TDD
 ---
