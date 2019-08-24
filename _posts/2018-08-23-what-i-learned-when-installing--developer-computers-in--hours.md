@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2018-08-23 10:12:38
 tags:
  - Lean
- - JavaScript
+ - Javascript
  - Node
  - Life of a consultant
 ---
