@@ -8,10 +8,11 @@ tags:
  - Lean
  - Life of a consultant
 ---
-I have been involved in many agile so-called transformations over my, let's face it, long career. And the more I get to do that the less I care about the word agile. Because agile is just a way to behave - it's not an outcome. The outcomes are what we are after, the effects, the values. I've found it much more fruitful to discuss what those values are and means, than to argue whether Scrum holds up for scaling or not. 
+I have been involved in many agile so-called transformations over my, let's face it, long career. And the more I get to do that the less I care about the word agile. Because agile is "just" a way to behave - it's not an outcome. The outcomes are what we are after, the effects, the values. I've found it much more fruitful to discuss what those values are and means, than to argue whether Scrum holds up for scaling or not. 
 
 In this post I wanted to discuss three shifts in mindset and culture that I found:
 Important - as these shifts in thinking will or will not, hold your agile efforts back.
+
 * Fundamental - as in; goes beyond (below?) being agile or not. 
 * Not talked about or understood in the same way
 * Start asking some tough questions and hence rapidly increase learning.
@@ -25,7 +26,18 @@ My feeling is that if we discussed and changed this, half of the agile journey i
 
 <a name='more'></a>
 
+## Clarifications
+
+This is an update to the original text that I felt was needed since I was not clear in my intentions. Sorry. 
+
+But I don't mean that you need to make these shifts before you start thinking about agile. Or that without them agile doesn't work. Quite the opposite in fact; even bad agile is often an improvement to our current ways. 
+
+What I am saying though, is that when you start to do agile at any scale beyond a single team, you will soon start see these mindset shifts. And they are important and will challenge the current way of thinking in the organisation. To the point where many times (own experiences only here) the old ways are harder to change, than the urge to "become agile". 
+
+Hence I've found it very fruitful to at least understand and discuss these mindset shifts as we embark on the scaled agile journey. Because these are the things that agile will challenge. 
+
 ## From activities to value
+
 I wrote a [blog post about a client](http://www.marcusoft.net/2019/08/how-we-agile-principle-led.html) the other week, where we applied numerous agile principles and found some good practices from it. 
 At that client, if someone asks me what we have done and I am in a hurry I tell them: 
 
