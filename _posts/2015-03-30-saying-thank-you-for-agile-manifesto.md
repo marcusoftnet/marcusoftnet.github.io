@@ -48,6 +48,12 @@ For this I'm eternally grateful. My working life is so much more interesting due
 
 Ah... well see [above](http://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
 
+
+### Arie van Bennekum
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/arievanbennekum">@arievanbennekum</a> just wanted to say thank you for writing the <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> manifesto. It change my life to the better forever <a href="https://twitter.com/hashtag/9yearsAndCounting?src=hash">#9yearsAndCounting</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/586368020269809664">April 10, 2015</a></blockquote>
+
+I met Arie, in a corridor at Agile People 2019 and I was a treat to say Thank you to him and see that he 1) is still doing agile and 2) was passionate about it.
+
 ## Signatories I've at least said 'Thank you' to
 
 ### Robert C. Martin
