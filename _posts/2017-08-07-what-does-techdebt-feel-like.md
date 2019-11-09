@@ -13,7 +13,6 @@ The other day a man that I respect very high, [Jabe Bloom](https://twitter.com/c
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Dear tweeter friends.<br><br>In a tweet or two... could you describe what Technical Debt /feels/ like? <a href="https://twitter.com/hashtag/twitterBasedResearch?src=hash">#twitterBasedResearch</a><a href="https://twitter.com/hashtag/plsRT?src=hash">#plsRT</a></p>— Jabe Bloom (@cyetain) <a href="https://twitter.com/cyetain/status/893803861189767172">August 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 I tweeted a response but that question got me thinking. I wanted to expand a little bit further than a tweet and this post is where I did that.
 
 <a name='more'></a>
@@ -36,20 +35,21 @@ But my experience is something different. By far the most common creation of tec
 
 In these case you will hear dialog like this:
 
-> We really need to fix this or this will break horribly in the future
->
-> Sure, but could you work around it for now?
->
-> Yes, but then you have to PROMISE that we get to do it later.
->
-> Sure.
->
-> No! Promise! 
->
-> I, your boss, PROMISE. 
+> Dev: We really need to fix this or this will break horribly in the future
 
-It never gets done. The problem happens. Blame is dished out. Another emergency fix gets done and some more technical debt gets created. It's documented in new features that never that we are promised to do get time to do later. 
+> Boss/Project manager/Product owner: Sure, but could you work around it for now?
 
+> D: Yes, but then you have to PROMISE that we get to do it later.
+
+> B: Sure...
+
+> D: No! Promise! 
+
+> B: I, your boss, PROMISE. 
+
+You know what? It never gets fixed. And then the problem happens. Blame is dished out. Another emergency fix gets done and some more technical debt gets created. It's documented in new features that never that we are promised to do get time to do later. 
+
+All with the best intentions. From both sides.
 
 
 The original question was - how does technical debt **feel?** 
