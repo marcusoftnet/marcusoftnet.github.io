@@ -73,7 +73,7 @@ and hence the first question that popped into their head was
 
 And then they went on rebuilding all the cupboards and places to put stuff on in the entire factory so they looked like this: 
 
-![Scania Cupboard improved](/img/scania-cupboard.JPG)
+<img src="/img/scania-cupboard.JPG" width="200px" />
 
 Now the system is improved. 
 
