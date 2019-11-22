@@ -75,6 +75,8 @@ And then they went on rebuilding all the cupboards and places to put stuff on in
 
 <img src="/img/scania-cupboard.JPG" width="200px" />
 
+They had welded on a sloping plane on all horizontal surfaces so that you could not put things on there, without them falling to the floor. Hopefully, that would make people remember and pick things up and put the things in the proper place. 
+
 Now the system is improved. 
 
 You could have sacked the poor schmuck that knew he done something wrong - but then you didn't improve the system at all. 
