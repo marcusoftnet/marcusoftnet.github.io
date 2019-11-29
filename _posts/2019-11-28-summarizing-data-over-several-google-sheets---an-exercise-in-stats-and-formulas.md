@@ -151,7 +151,7 @@ I've formatted this for readability (pro tip: this can be entered like this usin
       * The range reference needs to have the same number of columns or an error will be thrown, but as noted we have a different number of rows in each reference. Different number of developers in each class
   * The QUERY has a few interesting attributes
     * Since IMPORTRANGE might get its data from different named columns we need to use the `Col1, Col2, Col3` syntax. This is highlighting the only drawback I've noticed with the QUERY-function; reordering the columns will mess up queries. 
-    * I then filter out all rows where `Col1` (where the name of the student or the string 'Mob Average' is stored) is `'Mob average'` or `Mob Average`... Spelling and casing - gets me every time.
+    * I then filter out all rows where `Col1` (where the name of the developer or the string 'Mob Average' is stored) is `'Mob average'` or `Mob Average`... Spelling and casing - gets me every time.
 
 
 
@@ -163,7 +163,7 @@ From here it's quite simple and similar to summarize for one class the PERCENTIL
 
 This gave me a table that looked like this: 
 
-<img src="/img/DataPointsAggregated" width="100%" />
+<img src="/img/DataPointsAggregated.png" width="100%" />
 
 With that in place, it was quite simple and the identical process of creating a chart with the green zone, for the entire population. Very much what we did above for the individual compared to the class. I will not repeat it here, as this blog post is get too long already. 
 
