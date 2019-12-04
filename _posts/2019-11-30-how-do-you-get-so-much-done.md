@@ -18,7 +18,7 @@ But last time when I was asked this question I stopped for awhile and thought to
 
 In this particular case I referred to a blog post I've written and the question back was: 
 
-> How do you find the time. 
+> How do you find the time to write blog posts? 
 
 In this blog post I share a couple of my ... tricks.
 
