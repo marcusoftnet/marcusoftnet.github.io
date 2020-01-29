@@ -15,11 +15,35 @@ But how?! This is quite provocative, even for me. I spent 4 years in university 
 
 How can this work? Because it quite obviously does. I have 100 devs telling me so.
 
-I was pondering this as I picked up the book [Antifragile by Nicholas Nassim Taleb](https://www.goodreads.com/book/show/13530973-antifragile) for a reread. And things clicked. Our training is antifragility applied to train. And we create antifragile developers. 
+I was pondering this as I picked up the book [Antifragile by Nicholas Nassim Taleb](https://www.goodreads.com/book/show/13530973-antifragile) for a reread. And things clicked. Our method is antifragility applied to training. And we create antifragile developers. 
 
 <a name='more'></a>
 
-In this post I will speak solely from my own experience and only make assumptions about my career, the author started even though he knew that many people share his experiences. 
+In this post I will speak solely from my own experience and only make assumptions about my career, the author (that's me, folks) started even though he knew that many people share his experiences. 
+
+## Antifragile?
+
+Before I go any further I owe you a short explanation to this uncommon word. This would be a VERY short summary of a topic that you really should read more about in the amazing book, mentioned above. This section is just my summary of the topic - and if it doesn't make sense it's on me. You should learn more from the source.
+
+For me, learning about this topic was a pivotal moment in my carer where things I just felt was right now all of a sudden got words and theory. 
+
+Anyhow, I'm gonna steal Mr. Nassim-Taleb's example; imagine that you want to send a bunch of champagne glasses to a far of the country (Siberia I think is his choice - you do yours). To be sure they arrive in one piece each, you wrap the packages in stickies. What do they say? Fragile.
+
+They don't respond well to being subjected to outside forces, being shaken och dropped or for that matter hit (too hard) against each other. 
+
+What is the opposite of that? 
+
+..., the author (me again), gave the reader a second to ponder up a question in their head by using way too long words frivolously to confuse them.
+
+Most people would say something robust. Like a block of steel. But that is not *anti*-fragile it's just netural. Fragile things are hurt by being mistreated. Robust things don't care. 
+
+*Anti*-fragile things, on the other, thrive while being misused. It grows by it. The subtitle of the Antifragile book sums it up: Things that gain from disorder. 
+
+Aha, the reader said, that was interesting. And also not that useful. What on earth are like that? 
+
+Well, a lot of things. Training, health, evolution, learning, sustainable organizations. When many of us try to build protection to stay the same and duck the changes around us, we are in fact making ourselves more fragile. If we instead, for example, built organizations that were meant to fail, break and learn from that, we would be *anti*-fragile in our approach. Most places where I have worked have not responded well to failure or mistakes.
+
+I wrote this post because I saw how some of these ideas made the accelarated career program tick.
 
 ## Applied knowledge
 
