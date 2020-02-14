@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How do I kanbanize my 300 items backlog - a reponse"
+title: "How do I kanbanize my 300 items backlog - a response"
 author: "Marcus Hammarberg"
 date: 2020-02-12 21:09:02
 tags:
