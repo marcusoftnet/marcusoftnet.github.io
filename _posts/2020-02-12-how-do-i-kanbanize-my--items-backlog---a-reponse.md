@@ -99,9 +99,13 @@ We can now take three different approaches:
 
 ### The Nihilist approach
 
-Well... apparently these 300+ user stories are supposed to be done. So in that case we just pick any old one and start and once it's done the next one. Until we are done or we are out of time. We have in essence a waterfall project dressed up as agile. 
+> Well... apparently these 300+ user stories are supposed to be done. So in that case we just pick any old one and start and once it's done the next one. Until we are done or we are out of time. We have in essence a waterfall project dressed up as agile. 
+>
+> Let's all go home. They will screw us over anyway. Life is futile in general. Goodbye.
 
-I've been in more projects like these than i case to remember. You can notice it by listening for a secret phrase: 
+
+
+I've been in more projects like these than I care to remember. You can notice if you're in one, by listening for a secret phrase: 
 
 > Well... the order doesn't really matter. **Nothing is done until everything is done**
 
@@ -113,11 +117,15 @@ This is not pre-historic things. Last time I heard the phrase said without a hin
 
 Let's go the other other extreme and see what we find there: oh - the agile ninja. What does she suggest?
 
-Don't spending a lot of time thinking about what is the most important - just pick an important thing and start to do that. Once you the smallest possible thing that could help the user with something - put it in front of a user. Based on their feedback, decided what to do next. Until you have achieved the outcome, expressed in business terms. 
+> Don't spending a lot of time thinking about what is the most important - just pick an important thing and start to do that. And throw the rest of the backlog out the window. If it is important it will come back.
+>
+> Once you the smallest possible thing that could help the user with something - put it in front of a user. Based on their feedback, decided what to do next. Until you have achieved the outcome, expressed in business terms. 
 
 Did you notice that it starts the same? But with two crucial details; we put something useable in front of an user, not when it's done but when we can learn from it. And what do we want to learn? What works, if it takes us closer to the business goal or if it move the business value needle in the right direction. 
 
-Come again? There is no defined business goal. Well, you probably know what the agile ninja would say; 
+Come again? What was that? 
+
+Your stories doesn't have a business value attached to them?! Well, hehe ... you probably know what the agile ninja would say; 
 
 >You don't know why you are doing this?
 >
@@ -129,11 +137,11 @@ It actually not as easy to it ... should be. At first this seems strange, but in
 
 ### The pragmatic old consultant
 
-> If the business value is stated in the story the then story will have to prove some business value
+> If the business value is not stated in the story the then story will have to prove some business value
 >
-> -- Old Pragmatic Consultant
+> -- Old Pragmatic Consultant trying to sound wise by playing with words
 
-The Pragmatic Old Consultant (or the POC for short) would suggest something like:
+The Pragmatic Old Consultant (or the POC for short ... and it's me, if you missed that) would suggest something like:
 
 Yes, I agree with the Agile Ninja and suggest that we take smaller list of stories. Let's do 10, but select a few that we understand well. If there's no business value attached to them we suggest one. Here's a trick that I've found useful to discover the business value;  
 
@@ -141,11 +149,13 @@ Yes, I agree with the Agile Ninja and suggest that we take smaller list of stori
 
 You'd be surprised how fast you will get to know if you got that wrong:
 
->  WHAT?! Registrations per day to go UP?! Are you crazy? We wanted it to go down for ... {rant continues}
+>  WHAT?! Registrations per day to go UP?! Are you crazy? We wanted it to go down for ... {rant continues and you get to know a lot about the intelligence of you and your entire family, as percieved by your coworkers}
 
-To which you respond with zen-like silence, nod, takes notes and say thank you. 
+To which you respond with zen-like silence, nod, takes notes and say thank you. You just got to know what the real business value was. 
 
-If you got it right you probably will not here a thing. Which is good since it means that you got it right. You might also get the highest praise:
+
+
+If you got it right you probably will not hear a thing. Which is good since it means that you got it right. You might also get the highest praise:
 
 > Yes, of course that is what we want. What did you think?!
 
@@ -153,7 +163,7 @@ Which again means that you got it right.
 
 
 
-Start deliver some stories, start tracking your progress against the business value and always make a number of presenting that before you present flow metrics, in your recurring demos (you do do demos, right?). 
+Now start deliver some stories, start tracking your progress against the business value and always make a number of presenting that before you present flow metrics, in your recurring demos (you do do demos, right?). 
 
 Let the discussions about business metric guide you for what to take next from the backlog, by keeping an eye on the deadline too so that we don't miss it.
 
@@ -161,22 +171,29 @@ Let the discussions about business metric guide you for what to take next from t
 
 > Heads up - 3 months to go. We should think about where we should put our best effort
 
-
-
 ## Delivery, the board, metrics and learning
 
 All this talk about business value rather than caring about stories, splitting them in to functional sensible bits from the users perspective ... makes my programmer fingers hurt. Can we please start to work? What goes on the board? 
 
 I hear you, young padawan. Let's build our board - here's a few things I want you to do:
 
-* Let the first column be called "Top 10"
-  * Only allow for 10 items in there
+* Find a whiteboard or wall you can tape or draw on
+  * Yes - I have heard about your JIRA system. But right now we're going old school information radiator which everyone can gather around and talk about.
+  * Get pens and post-its too, while you're at it 
+* This board will go from left to right, as I'm a westerner. Let the first column be called **"Next 10 important items"**
+  * Only allow for 10 items in there. Duh - it's in the name of the column.
   * Draw it (if you have a physical board), just a little bit to the left of the center of the board
-* Now create another column, broad a nice, to the left of the "Top 10 column" and call it "Options"
-  * Put all the other stickers that you have done, or as you come up with them, in here.
-  * You can group them by feature or if you dare - draw the [backlog as a mindmap](https://www.marcusoft.net/2016/06/backlog-and-features.html), an impact map is a good idea to start with
-* All the way to the right of the board create the done-column but call it "Learn", "Measure" or "Follow up"
-  * This will spark more frequent discussions about business value and how we should track it. 
+  * For extra credits, draw a "let's call a meeting and ask for the next 5 items"-line in the middle of the column. 
+  * Fill it with 10 important items. Don't spend a lot of time find THE most important ones. 
+  * Don't put anything in there that the teams takes longer than 3 days to complete. If so - split it or find another story that is important and suitable sized
+    * You can obviously have another value here... Like 3 weeks if that is better for you.
+* Now create another column, broad a nice, to the left of the "Next 10 important"-column and call it **"Options"**
+  * Put all the other stickers that you have done, or as you come up with them, in this column.
+  * If that is 300+ items you want make much out of that so instead, you can group/aggregate them by feature. Or, if you dare, draw the [backlog as a mindmap](https://www.marcusoft.net/2016/06/backlog-and-features.html). 
+    * An impact map is a good idea to start with as it also natrually brings out conversations about the real impact and business value we want to create.
+* All the way to the right of the board create the done-column but call it **"Learn", "Measure" or "Follow up"** or something like that.
+  * Do NOT call it Done or Completed or something that sends the message that we are not that interested of it once it's out in production. 
+  * This will spark more frequent discussions about business value and how we should track it. People will get properly confused - it will be fun, I promise.
   * You can, if you want to put a work in process limit on this column too. It' will create a [pull for celebrations](https://www.marcusoft.net/2012/09/working-to-cake-limit.html)
 * Finally put a WIP limit on the number of things that you are doing at the same time. There are some different ways to do that but my favourites are:
   * Never code alone - ensure that at least 2 people are always working on the tickets. This gets even more powerful now, if you don't have separate tasks but actually completed features
@@ -184,15 +201,17 @@ I hear you, young padawan. Let's build our board - here's a few things I want yo
 
 
 
-Now - once this is done start to generate some data, but simply noting start and end dates for the work. For extra points also add a "Added to Next 10 column"-date. Armed with these simple data points you can actually get quite a lot of data and prognosis out. For free.
+Now - once this is done start to generate some data for your work. This will be used to make predictions on and forecasts. This is easily done by simply noting "start" and "end"-dates for the work items. You can write it on the card if you want. 
 
-That is, if someone took the time to create a ... funny that you should ask! Here you go - [my kanban metric google sheet dashboard creator](https://docs.google.com/spreadsheets/d/1lmlelcMdvo1SvQ0JZXraGYQxnZ5TNZ5qxUj5CapJn40/edit#gid=1896547007). You can have it for free (File -> Download a copy...)
+For extra points also add a "Added to Next 10 column"-date. Armed with these simple data points you can actually get quite a lot of data and prognosis out. For free.
+
+That is, it's free if someone took the time to create a ... funny that you should ask! Here you go - [my kanban metric google sheet dashboard creator](https://docs.google.com/spreadsheets/d/1lmlelcMdvo1SvQ0JZXraGYQxnZ5TNZ5qxUj5CapJn40/edit#gid=1896547007). You can have it for free (File -> Download a copy...)
 
 ![A scatter chart for lead time](https://www.marcusoft.net/img/FlowTimeScatterPlotPercentiles.png)
 
 Here are the posts in a series describing this dashboard in detail:
 
-* [Introduction post on how this simple dashboard works](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+* [Introduction post on how this simple dashboard works](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html). Then there's a whole array of post describing each metric, what it is, how to gather it and what you can read from it:
   * [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
   * [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
   * [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
