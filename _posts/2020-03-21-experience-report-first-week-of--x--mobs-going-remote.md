@@ -10,17 +10,17 @@ tags:
 
 I've just experienced something fantastic and a real testament to what amazing people can do when given the room to be amazing (and have an apparent and real reason to do so)
 
-A week back, as I write this, our accelerated career program; [School of Applied Technology - the world's toughest coding bootcamp](https://salt.dev/) were running five mob programming teams (that we call mobs) in two locations. [This is how we teach](https://www.youtube.com/watch?v=iTAHCVwYvQs) and it has given us amazing results so far. 
+A week back, our accelerated career program; [School of Applied Technology - the world's toughest coding bootcamp](https://salt.dev/) were running five mob programming teams (that we call mobs) in two locations. [This is how we teach](https://www.youtube.com/watch?v=iTAHCVwYvQs) and it has given us amazing results so far. 
 
 But it's not cool being the "let's sit as close together as possible for 8 h per day"-teacher in times of Covid-19 infection spreading across the world. 
 
-So middle of last week we started to make plans, and we had a "just in case"-lecture for our 5 Amsterdam mobs last Friday, on the tooling. Then during the weekend, things escalated in Sweden and we decided to move over the 5 Stockholm mobs as well (yes, without training them). Monday, 6 days ago as I write this, we had moved everyone into our remote-only platform. 
+So in the middle of last week we started to make plans. Last Friday we had a “just in case”-lecture on tooling for our 5 Amsterdam mobs. Then during the weekend, things escalated in Sweden and we decided to move over the 5 Stockholm mobs as well (yes, without training them). Monday, 6 days ago as I write this, we had moved everyone into our remote-only platform. 
 
-And you know what; just about everyone found it not only useable but actually very useful and in frequent reports even better than before. 
+And you know what? Just about everyone found it not only useable but actually very useful and, in some reports, even better than before.
 
 In this blog post, I wanted to share our suggested platform setup and some findings that our mobs shared in our weekly retrospective/demo session last Friday.
 
-And before I write a word more; this was not me. It was the amazing instructor team of Salt (Mies, Zach, Daniel, Levy, and Adam) setting the stage and then the brilliant developers of Salt built their own, applied practices on top of that. Yes - just about every mob did it differently and I loved it.
+And before I write a word more: this was not my doing. It was the amazing instructor team of Salt (Mies, Zach, Daniel, Levy, and Adam) setting the stage and then the brilliant developers of Salt building their own applied practices on top of that. Yes - just about every mob did it differently and I loved it.
 
 <a name='more'></a>
 
@@ -34,7 +34,7 @@ We were already using Slack for all written communication in the course and we d
 
 What we did add was a tool used by (mainly?) gamers; [Discord](https://discordapp.com/). It's an app to communicate over text and voice, but also allows you to easily share your screen. I knew nothing about this tool as we started this week but it's quite simple to set up and even the free version works pretty well - we paid for upgrades as we have some special demands. 
 
-Creating a Discord server is literary as simple as clicking a `+`-button and naming your server. You can then invite people to the server to start to interact with each other. You can create roles and permissions (we have done this, thanks to our instructor Zach that had a lot of knowledge) - but you can also do this later if you want. 
+Creating a Discord server is literary literally as simple as clicking a `+`-button and naming your server. You can then invite people to the server to start to interact with each other. You can create roles and permissions (we have done this, thanks to our instructor Zach that had a lot of knowledge) - but you can also do this later if you want. 
 
 Discord is organized around the concept of channels - you can think about these as rooms. They come in two types; text and voice. Text channels are just about the same as Slack and we have used that to take questions during screen sharing lecture, sharing text stuff (code) within the mobs, etc. 
 
