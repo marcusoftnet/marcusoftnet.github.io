@@ -140,6 +140,12 @@ Some mobs played around with a [virtual whiteboard called Miro](https://miro.com
 
 Other mobs used the [remote retrospective tool](https://retrotool.io/) for [retrospectives](https://appliedtechnology.github.io/retros/) and that seemed to work just fine for them.
 
+### Discord mob robot - mobot
+
+One particular cool thing was that one of our developer created a little Discord mob robot that will assist with mob programing in the discord channels. You can download and play around with Zimri Leijens tool [MoBot by downloading it here](https://github.com/saltams/mobot)
+
+Thank you Zimri!
+
 ## Practices
 
 That was just about all the tools that we put in place, in just under a few hours and the mobs then used during the week. But no tool is very useful until you use it - until then it is truly unusable. 
