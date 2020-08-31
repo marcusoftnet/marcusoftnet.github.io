@@ -42,9 +42,15 @@ BOM - summarizing [servant leadership](https://en.wikipedia.org/wiki/Servant_lea
 
 Rolf combined this servant attitude with a coaching methodology of challenging us in the team to take steps outside our comfort zone, but always with a notion of that he had our back. 
 
-Finally, he was fun and easy-going combined with hard work and quality-focused when it came to delivery. It was the first time I saw these traits in combination and it made a huge impact on me. Things like ensuring that spelling, ordering and structure of slides we presented was up-to-date, practing demos and repeating things that we learned during the week are still vivid memories to me. As well as the joking attitude and easy going style during the meetings, without loosing focus and structured.   
+Finally, he was fun and easy-going combined with hard work and quality-focused when it came to delivery. It was the first time I saw these traits in combination and it made a huge impact on me. Things like ensuring that spelling, ordering and structure of slides we presented was up-to-date, practing demos and repeating things that we learned during the week are still vivid memories to me. 
 
-To me, all of that wrapped up into "how an IT-consultant behaves". I went on to be an IT consultant myself for about 20 years and counting (although I'm on a break now). And I have, since then, tried to bring some aspect of that into every gig.
+The way we conducted meetings also stuck: the joking attitude and easy going style during the meetings, without loosing focus and structure throughout the agenda. One fun thing that Rolf did was that he cried out in horror if only two people (out of the 25 in our team) were discussing something by themsleves during the meeting:
+
+>  AAAAaaah - too expensive. Please take it off-line
+
+
+
+To me, stuff like that wrapped up into "how an IT-consultant behaves". I went on to be an IT consultant myself for about 20 years and counting (although I'm on a break now). And I have, since then, tried to bring some aspect of that into every gig.
 
 
 
