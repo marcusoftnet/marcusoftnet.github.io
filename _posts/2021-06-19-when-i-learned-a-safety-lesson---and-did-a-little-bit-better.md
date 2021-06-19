@@ -22,7 +22,7 @@ I was waiting for the summer part of [Salt](https://www.salt.dev) to start and h
 
 In fact, I thought that sight was pretty nerdy so I tweeted about it. When I did I added this picture to the tweet.
 
-![Coding in the sun](codingInTheSun.jpg)
+![Coding in the sun](/img/codingInTheSun.jpg)
 
 Do you see the problem? Well, it took about 2 minutes before [consider the human](https://twitter.com/weitzelb) informed me that I just exposed my GitHub keys. 
 
