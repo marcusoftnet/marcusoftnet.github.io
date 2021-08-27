@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making boring fun - bash and code to the rescue"
+title: "Making boring fun - bash and Node to the rescue"
 author: "Marcus Hammarberg"
 date: 2021-08-26 19:54:53
 tags:
