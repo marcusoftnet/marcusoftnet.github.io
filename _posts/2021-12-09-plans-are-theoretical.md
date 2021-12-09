@@ -48,7 +48,9 @@ Heck - I have once been in a meeting where we got heat for being **early**. True
 
 All of this because we treat plans as reality rather than theory. The moment we start to work, plans becomes pretty useless. Planning, however, can be good since it can uncover uncertainty early. But, don't take it from me;
 
-<iframe src="https://www.brainyquote.com/quotes/dwight_d_eisenhower_164720"></iframe>
+> In preparing for battle I have always found that plans are useless, but planning is indispensable.
+>
+> [Dwight D. Eisenhower](https://www.brainyquote.com/quotes/dwight_d_eisenhower_164720)
 
 Another objection might be; but we update the plans as we go. To which I answer - "Ok, cool! But why?" To mimic the theory closer to the reality. Why not stick with reality instead?
 
