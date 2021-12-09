@@ -50,6 +50,10 @@ All of this because we treat plans as reality rather than theory. The moment we 
 
 <iframe src="https://www.brainyquote.com/quotes/dwight_d_eisenhower_164720"></iframe>
 
+Another objection might be; but we update the plans as we go. To which I answer - "Ok, cool! But why?" To mimic the theory closer to the reality. Why not stick with reality instead?
+
+How? Read on, my friend. Read on.
+
 ## What to do instead, wise-ass?
 
 Plan, but don't follow up performance against that plan. Instead, do 2 things; iterate quickly through your work (don't allow things that takes longer than 1 week to complete) and do data-driven prognosis.
