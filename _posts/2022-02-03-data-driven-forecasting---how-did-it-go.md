@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Data-driven forecasting - how did it go"
-author: "Marcus Hammarberg"
+title: 'Data-driven forecasting - how did it go'
+author: 'Marcus Hammarberg'
 date: 2022-02-03 15:56:18
 tags:
- - Agile
- - Lean
-
+  - Agile
+  - Lean
 ---
 
 I just ended recording a podcast episode on the [Scrum Master Toolbox podcast](https://scrum-master-toolbox.org/), with [Vasco Duarte](https://twitter.com/duarte_vasco?) and together with a hero of mine: [Dan Vacanti](https://twitter.com/danvacanti). And the podcast took it's starting point in a project I [wrote about here earlier]([A data-driven prognosis report](https://www.marcusoft.net/2021/10/a-data-driven-prognosis-report.html)), and how I did a data driven forecasting approach to reporting progress on that project. I can tell you - I felt like a junior high having their science project reviewed by two university professors.
