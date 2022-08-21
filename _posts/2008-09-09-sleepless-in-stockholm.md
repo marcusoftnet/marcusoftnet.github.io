@@ -4,8 +4,7 @@ title: Sleepless in Stockholm
 date: '2008-09-09T00:34:00.002+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-09-09T07:50:16.922+02:00'
 thumbnail: http://lh3.ggpht.com/eufMarcus/SMWoWGcJ0ZI/AAAAAAAAAWs/DwjsF6248Y8/s72-c/DSC_0002_thumb%5B1%5D.jpg?imgmax=800

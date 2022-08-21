@@ -4,8 +4,7 @@ title: USB-mice eating - maybe
 date: '2007-03-16T10:15:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2007-03-16T12:05:31.034+01:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rfphri9JkFI/AAAAAAAAAGg/HIWm-UU0Rpw/s72-c/IMAGE_002.jpg

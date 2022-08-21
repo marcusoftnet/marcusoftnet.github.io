@@ -5,8 +5,7 @@ assembly 'Nancy.ViewEngines.Razor.BuildProviders' error
 date: '2013-03-06T11:35:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - Nancy
+  - Marcus private - Nancy
   - Tools
   - .NET - ContinuousDelivery
 modified_time: '2013-03-06T11:35:19.266+01:00'

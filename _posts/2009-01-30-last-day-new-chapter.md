@@ -4,8 +4,7 @@ title: Last day - new chapter
 date: '2009-01-30T08:07:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2009-01-30T08:09:21.487+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6772939701414694365

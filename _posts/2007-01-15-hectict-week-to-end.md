@@ -4,8 +4,7 @@ title: Hectict week to an end
 date: '2007-01-15T07:34:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
   - Salvation Army
 modified_time: '2007-01-15T07:54:09.926+01:00'

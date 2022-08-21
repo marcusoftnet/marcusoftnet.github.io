@@ -1,15 +1,15 @@
 ---
 layout: post
-title: What to do now - Sprint Planner Helper
-Initialization
+title: What to do now - Sprint Planner Helper Initialization
 date: '2009-01-31T12:50:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
  - .NET - ASP.NET MVC
-  - Scrum
-  - Agile -
-Sprint Planner Helper - TDD
+   - Scrum
+  - Agile
+  - Sprint Planner Helper
+  - TDD
 modified_time: '2009-01-31T12:50:41.134+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1759927773062858386
 blogger_orig_url: http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html
@@ -22,18 +22,18 @@ project in order to stay in touch with the IT-business.
 
 Here is the reasons for me doing this at all:
 
--   Have fun! - the second it's boring or takes to much time I'll end
+- Have fun! - the second it's boring or takes to much time I'll end
     it. Promise
--   To learn about
+- To learn about
     [DDD](http://en.wikipedia.org/wiki/Domain-driven_design),
     [TDD](http://en.wikipedia.org/wiki/Test-driven_development) and
     [ASP.NET MVC](http://en.wikipedia.org/wiki/ASP.NET_MVC). These three
     things has attracted a lot of my interest I would like to try them
     out out. Oh yeah - it will be in C#! No more VB.NET for me - thank
     you very much.
--   Cannot take to much time (**max** 1 hour a day) - as stated earlier.
+- Cannot take to much time (**max** 1 hour a day) - as stated earlier.
     I am not working!
--   Document my progress here on the blog. This idea is a complete rip
+- Document my progress here on the blog. This idea is a complete rip
     off from a lot of different
     [places](http://www.asp.net/learn/mvc-videos/#MVCStorefrontStarterKit),
     but I could be nice to see if it attracts any reader and/or

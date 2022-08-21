@@ -4,8 +4,7 @@ title: I’m writing a book on Kanban!
 date: '2012-04-05T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
   - Kanban - Agile
 modified_time: '2012-04-05T08:12:42.634+02:00'

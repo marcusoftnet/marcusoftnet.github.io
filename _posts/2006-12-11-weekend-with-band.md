@@ -4,8 +4,7 @@ title: Weekend with the Band
 date: '2006-12-11T07:40:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - BrassBand
+  - Marcus private - BrassBand
 modified_time: '2006-12-11T07:48:15.203+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5673834059834811622
 blogger_orig_url: http://www.marcusoft.net/2006/12/weekend-with-band.html

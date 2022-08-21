@@ -4,8 +4,7 @@ title: Pictures from caroling in Old Town
 date: '2006-12-22T07:42:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - Salvation Army
+  - Marcus private - Salvation Army
 modified_time: '2006-12-22T07:47:11.394+01:00'
 thumbnail:
 http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYt-3N7AojI/AAAAAAAAADQ/JV8yRg-gkEA/s72-c/Tessin061219+027.jpg

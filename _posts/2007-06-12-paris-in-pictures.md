@@ -4,8 +4,7 @@ title: Paris in pictures
 date: '2007-06-12T07:25:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2007-06-12T07:37:30.267+02:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rm4wBkBiT3I/AAAAAAAAAKs/PJ-\_djvxwlo/s72-c/PICT1706.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6923083728218346314

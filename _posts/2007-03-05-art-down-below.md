@@ -4,8 +4,7 @@ title: Art down below
 date: '2007-03-05T07:35:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2007-03-05T07:41:15.559+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5384804617305238217
 blogger_orig_url: http://www.marcusoft.net/2007/03/art-down-below.html

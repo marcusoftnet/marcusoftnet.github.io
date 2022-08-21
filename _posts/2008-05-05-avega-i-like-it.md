@@ -4,8 +4,7 @@ title: Avega - I like it!
 date: '2008-05-05T07:45:00.006+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-05-05T08:20:47.695+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3885291506851472241

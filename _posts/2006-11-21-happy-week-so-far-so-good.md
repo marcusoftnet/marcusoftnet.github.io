@@ -4,8 +4,7 @@ title: Happy week - so far so good
 date: '2006-11-21T07:38:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2006-11-21T13:06:08.203+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7400246725902630226

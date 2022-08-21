@@ -4,8 +4,7 @@ title: New model job
 date: '2008-06-24T08:23:00.004+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-06-25T07:38:32.532+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9169450819170999636

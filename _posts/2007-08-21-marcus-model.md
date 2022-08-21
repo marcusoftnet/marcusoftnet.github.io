@@ -4,8 +4,7 @@ title: Marcus - the model?
 date: '2007-08-21T09:52:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
   - Salvation Army
 modified_time: '2007-08-21T09:57:51.072+02:00'

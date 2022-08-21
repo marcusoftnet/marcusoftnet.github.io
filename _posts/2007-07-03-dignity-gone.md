@@ -4,8 +4,7 @@ title: Dignity - gone!
 date: '2007-07-03T07:28:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - Salvation Army
+  - Marcus private - Salvation Army
 modified_time: '2007-07-03T07:54:32.869+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5179432351637438825
 blogger_orig_url: http://www.marcusoft.net/2007/07/dignity-gone.html ---

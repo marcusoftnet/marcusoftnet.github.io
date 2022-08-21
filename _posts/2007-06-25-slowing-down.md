@@ -4,8 +4,7 @@ title: Slowing down...
 date: '2007-06-25T15:09:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2007-06-25T15:13:58.107+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5958856346794259479
 blogger_orig_url: http://www.marcusoft.net/2007/06/slowing-down.html ---

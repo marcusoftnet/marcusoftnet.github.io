@@ -7,8 +7,8 @@ author: Marcus Hammarberg
 tags:
   - Tools - Lean
   - ife of a consultant
-   - Kanban -
-Agile - Salvation Army
+   - Kanban
+  - Agile- Salvation Army
 modified_time: '2014-10-14T08:42:15.875+02:00'
 thumbnail:
 http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png

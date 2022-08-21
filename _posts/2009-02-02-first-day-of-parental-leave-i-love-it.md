@@ -4,8 +4,7 @@ title: First day of parental leave - I love it!
 date: '2009-02-02T15:25:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2009-02-02T15:25:53.360+01:00'
 thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/SYcCcEgPtFI/AAAAAAAAAhE/Z4YNR7d5its/s72-c/DSC_0242_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2814906879620335144

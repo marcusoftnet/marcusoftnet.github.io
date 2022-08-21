@@ -4,8 +4,7 @@ title: Running Vista
 date: '2008-04-02T11:47:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2008-04-02T11:48:13.285+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4016149876415041136
 blogger_orig_url: http://www.marcusoft.net/2008/04/running-vista.html

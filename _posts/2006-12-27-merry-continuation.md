@@ -4,8 +4,7 @@ title: Merry ... continuation
 date: '2006-12-27T07:49:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - Fun
+  - Marcus private - Fun
 modified_time: '2006-12-27T07:54:37.801+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4434228925994019806
 blogger_orig_url: http://www.marcusoft.net/2006/12/merry-continuation.html

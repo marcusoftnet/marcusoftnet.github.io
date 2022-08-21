@@ -4,8 +4,7 @@ title: Facebook - explosion
 date: '2007-08-14T07:26:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Tools
 modified_time: '2010-12-14T16:22:38.336+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8506333806631973494

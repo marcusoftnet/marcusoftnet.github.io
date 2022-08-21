@@ -4,8 +4,7 @@ title: Marcus - the model
 date: '2007-08-27T08:03:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2009-10-19T15:31:35.433+02:00'
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/StxqJ4zEA0I/AAAAAAAAAJ4/X9W2MP7AcV0/s72-c/eufon_b\_N6361.jpg

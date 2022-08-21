@@ -5,7 +5,7 @@ date: '2007-01-03T16:19:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
- - Scrum
+  - Scrum
   - Agile
 modified_time: '2007-05-16T08:29:53.469+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8121637810301291815

@@ -4,8 +4,7 @@ title: Marcus doing new stuff
 date: '2009-09-11T08:33:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2009-09-11T08:33:32.830+02:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/SqnvO_Qm_JI/AAAAAAAAAG4/i2yTq7cZ-F0/s72-c/overview-gallery4-20090608%5B1%5D_thumb%5B3%5D.png?imgmax=800

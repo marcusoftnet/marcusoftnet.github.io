@@ -4,8 +4,7 @@ title: Debating a hero
 date: '2009-04-03T19:26:00.002+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
   - Agile
 modified_time: '2009-04-09T16:35:15.973+02:00'

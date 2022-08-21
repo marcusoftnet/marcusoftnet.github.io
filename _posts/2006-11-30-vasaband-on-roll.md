@@ -4,8 +4,7 @@ title: VasaBand - on the roll
 date: '2006-11-30T07:41:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private - BrassBand - Salvation Army
+  - Marcus private - BrassBand - Salvation Army
 modified_time: '2006-11-30T07:50:22.683+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6659423292729480900
 blogger_orig_url: http://www.marcusoft.net/2006/11/vasaband-on-roll.html

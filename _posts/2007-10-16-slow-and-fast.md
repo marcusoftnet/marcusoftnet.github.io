@@ -4,8 +4,7 @@ title: Slow and fast
 date: '2007-10-16T07:45:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
  - Scrum
 modified_time: '2014-10-28T07:25:49.243+01:00'

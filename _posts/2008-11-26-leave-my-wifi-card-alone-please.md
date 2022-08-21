@@ -4,8 +4,7 @@ title: Leave my WiFi-card alone! Please!
 date: '2008-11-26T15:03:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-11-26T15:03:20.380+01:00'
 thumbnail: http://lh6.ggpht.com/\_kkDJOSPNTLs/SS1XJ0tVMwI/AAAAAAAAAYo/lM1uki4OLUE/s72-c/power_thumb%5B7%5D.jpg?imgmax=800

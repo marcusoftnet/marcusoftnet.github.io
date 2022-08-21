@@ -4,8 +4,7 @@ title: A son is born!
 date: '2008-01-29T12:06:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2008-01-29T12:21:30.821+01:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-644964024397565861

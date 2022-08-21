@@ -4,8 +4,7 @@ title: Abbe - growing and growing
 date: '2008-03-09T19:12:00.004+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2008-03-09T19:36:54.699+01:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R9QuOrtDxaI/AAAAAAAAASI/meySp48QUxs/s72-c/PICT2590.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5354759544542362529

@@ -4,8 +4,7 @@ title: Powerpoint online – 280 slides
 date: '2009-09-21T14:36:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.189+01:00'

@@ -4,8 +4,7 @@ title: Home again - now with pictures
 date: '2007-05-02T07:51:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2007-05-03T07:37:13.064+02:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rjl08YeKfqI/AAAAAAAAAI0/XreWgtMyEK0/s72-c/PICT1512.JPG

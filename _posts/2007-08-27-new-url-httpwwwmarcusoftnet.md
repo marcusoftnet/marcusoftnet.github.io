@@ -4,8 +4,7 @@ title: New url - http://www.marcusoft.net/
 date: '2007-08-27T09:38:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2007-08-27T13:13:53.226+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7792379857910441375
 blogger_orig_url: http://www.marcusoft.net/2007/08/new-url-httpwwwmarcusoftnet.html ---

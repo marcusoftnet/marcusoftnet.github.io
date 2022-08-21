@@ -5,7 +5,7 @@ date: '2009-11-17T21:32:00.002+01:00'
 author: Marcus Hammarberg
 tags:
   - Kanban
-  - Scrum
+   - Scrum
   - Agile
 modified_time: '2009-11-26T13:30:42.360+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7371763485207165967

@@ -4,8 +4,9 @@ title: Sprint Planner Helper – Session 16
 date: '2009-03-03T11:50:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - DDD -
-Sprint Planner Helper
+  - DDD
+  - Sprint Planner Helper
+
 modified_time: '2009-03-04T09:31:36.506+01:00'
 thumbnail:
 http://lh6.ggpht.com/\_TI0jeIedRFk/Sa0LYLIAuFI/AAAAAAAAADg/twDyhMfi4gc/s72-c/edit%20a%20product_thumb%5B1%5D.jpg?imgmax=800

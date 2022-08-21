@@ -4,8 +4,7 @@ title: The blog in stereo
 date: '2008-11-25T19:20:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-11-25T19:20:33.675+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3908941120985289189

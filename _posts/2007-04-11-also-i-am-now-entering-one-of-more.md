@@ -4,10 +4,9 @@ title: Hectict times
 date: '2007-04-11T08:38:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
- - Scrum
+   - Scrum
   - Agile
 modified_time: '2007-05-16T08:49:26.679+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3957256200867345660
@@ -22,14 +21,14 @@ posted.
 The things i am going to do during this time include (strange
 combination, i must say):
 
--   playing solo at a concert with
+- aying solo at a concert with
     [SolnaBrass](http://www.solnabrass.com/)
--   starting new assignment within my work
--   ... and ending the previous one
--   doing talk about SCRUM in front of hundreds (brrrr)
--   presenting two concerts with [Gothenburg Brass
+- arting new assignment within my work
+- . and ending the previous one
+- ing talk about SCRUM in front of hundreds (brrrr)
+- esenting two concerts with [Gothenburg Brass
     Band](http://www.goteborgbrassband.org.se/)
--   being host at the get-together after Bengt Eklunds funeral
--   standard playing with the Salvation Army at Vasa
+- ing host at the get-together after Bengt Eklunds funeral
+- andard playing with the Salvation Army at Vasa
 
 Well - interesting times are ahead. I am sure it will be fun... also

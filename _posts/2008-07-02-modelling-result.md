@@ -4,8 +4,7 @@ title: Modelling - the result
 date: '2008-07-02T10:15:00.006+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
 modified_time: '2008-07-02T10:29:31.854+02:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SGs8PwZYmRI/AAAAAAAAAVg/uq94Mv2A3Fo/s72-c/MarcusHammarberg.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2416803812227480380

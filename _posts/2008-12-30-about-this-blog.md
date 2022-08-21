@@ -4,8 +4,7 @@ title: About this blog
 date: '2008-12-30T17:15:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2008-12-30T17:15:39.077+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2642592786103386391
