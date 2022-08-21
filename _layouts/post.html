@@ -2,102 +2,38 @@
 layout: default
 ---
 
-<!-- Post Header -->
-{% if page.header-img != null %}
-<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{{ page.header-img }}')">
-    {% else %}
-    <header class="intro-header" style="background-image: url('{{ site.baseurl }}/img/home-bg.jpg')">
-        {% endif %}
-        <div class="container" border="1">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="post-heading">
-                        <h1>{{ page.title }}</h1>
-                        {% if page.subtitle %}
-                        <h2 class="subheading">{{ page.subtitle }}</h2>
-                        {% endif %}
-                        <span class="meta">
-                            Posted by {{ page.author }} on {{ page.date | date: "%B %-d, %Y" }}
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<article class="post detailed">
+  <h1>{{ page.title }}</h1>
 
-    <!-- Post Content -->
-    <article class="hentry">
-        <div class="entry-title" style="display:none">{{ page.title }}</div>
-        <div class="entry-summary" style="display:none">{{ page.excerpt | strip_html }}</div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="col-lg-12">{% include post-tags.html %}</div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 entry-content">
+  <div>
+    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
+    {% if page.last_modified_at %}
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
+    {% endif %}
+    <div class="post-tags">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+  </div>
 
-                    {{ page.excerpt }}
+  <div class="entry">
+    {{ content }}
+  </div>
 
-                    {% include adsense.html %}
+  <div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+  </div>
 
-                    {{ page.content | remove: page.excerpt }}
+  <!--<div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>-->
 
-                    <hr>
-                    {% include relatedPosts.html %}
-
-                    <ul class="pager">
-                        {% if page.previous.url %}
-                        <li class="previous">
-                            <a href="{{page.previous.url}}" data-toggle="tooltip" data-placement="top"
-                                title="{{page.previous.title}}">&larr; Previous Post</a>
-                        </li>
-                        {% endif %}
-                        {% if page.next.url %}
-                        <li class="next">
-                            <a href="{{page.next.url}}" data-toggle="tooltip" data-placement="top"
-                                title="{{page.next.title}}">Next Post &rarr;</a>
-                        </li>
-                        {% endif %}
-                    </ul>
-
-                    <hr>
-
-                    <!-- disquss comments -->
-                    <div id="disqus_thread"></div>
-                    <script type="text/javascript">
-                        const disqus_shortname = '{{ site.disqus_shortname }}';
-                        const disqus_identifier = '{{ page.url }}';
-                        const disqus_url = '{{ site.url }}{{ page.url }}';
-
-                        /* * * DON'T EDIT BELOW THIS LINE * * */
-                        (function() {
-                          const dsq = document.createElement('script');
-  dsq.type = 'text/javascript';
-  dsq.async = true;
-                          dsq.src = `https://${disqus_shortname}.disqus.com/embed.js`;
-                          (
-    document.getElementsByTagName('head')[0] ||
-    document.getElementsByTagName('body')[0]
-  ).appendChild(dsq);
-                        })();
-                    </script>
-                    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments
-                            powered by Disqus.</a></noscript>
-
-                    <p>Published by
-                        <span class="author vcard">
-                            <span class="fn">{{ page.author }}</span>
-                        </span>
-                        on <time class="published"
-                            datetime="{{ page.date | date: "%B %-d, %Y" }}">{{ page.date | date: "%B %-d, %Y" }}</time>
-
-                        Last updated <time class="updated"
-                            datetime="{% if page.modified_time %}{{ page.modified_time }}{% else %}{{ page.date }}{% endif %}">{% if page.modified_time %}{{ page.modified_time | date: "%B %-d, %Y" }}{% else %}{{ page.date | date: "%B %-d, %Y" }}{% endif %}</time>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </article>
-    <hr>
+  {% include disqus.html %}
+</article>

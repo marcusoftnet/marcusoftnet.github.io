@@ -1,0 +1,29 @@
+---
+layout: post
+title: Oooh - thoose sweet zomibes (?) date: '2007-05-09T07:31:00.000+02:00'
+author: Marcus Hammarberg
+tags: - Marcus
+private - Fun modified_time: '2007-05-09T07:36:38.153+02:00'
+blogger_id: tag:blogger.com,1999:blog-36533086.post-6235340705393710752
+blogger_orig_url: http://www.marcusoft.net/2007/05/oooh-thoose-sweet-zomibes.html ---
+Found this great video on <span>="blsp-spelling-error">UTube</span>...
+
+
+<div align="left">
+
+Again, it amazes me how much time people have on their hands. I mean
+this is fun and all that but just think if this time was put into
+something useful... Worlds could change.
+
+</div>
+
+<div align="left">
+
+</div>
+
+<div align="left">
+
+For example - just think if they all played euphonium... changing of
+worlds, my friends... changing of worlds
+
+</div>
