@@ -1,10 +1,12 @@
 ---
 layout: post
-title: I'm back working date: '2009-08-10T09:46:00.005+02:00'
+title: I'm back working
+date: '2009-08-10T09:46:00.005+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-Life of a consultant modified_time: '2010-12-14T16:18:09.709+01:00'
+Life of a consultant
+modified_time: '2010-12-14T16:18:09.709+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3472298805023428131
 blogger_orig_url: http://www.marcusoft.net/2009/08/im-back-working-kinda.html
 ---

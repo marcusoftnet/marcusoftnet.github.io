@@ -1,6 +1,7 @@
 ---
 layout: post
-title: DDD – the coin drops for Marcus date: '2009-02-17T20:46:00.001+01:00'
+title: DDD – the coin drops for Marcus
+date: '2009-02-17T20:46:00.001+01:00'
 author: Marcus Hammarberg
 tags: - DDD -
 Scrum - Agile - Sprint Planner Helper

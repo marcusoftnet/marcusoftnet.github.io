@@ -3,8 +3,8 @@ layout: post
 title: Are you coding for change or for stability?
 date: '2013-04-18T08:00:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile
 modified_time: '2013-04-23T11:01:49.830+02:00'

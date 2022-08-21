@@ -1,6 +1,7 @@
 ---
 layout: post
-title: About this blog date: '2008-12-30T17:15:00.001+01:00'
+title: About this blog
+date: '2008-12-30T17:15:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

@@ -8,7 +8,8 @@ Hammarberg
 tags: - BDD
    - Tools
   - .NET - Specification by example - C# -
-SpecFlow modified_time: '2011-11-03T16:34:05.677+01:00'
+SpecFlow
+modified_time: '2011-11-03T16:34:05.677+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-508246732156716014
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
 ---

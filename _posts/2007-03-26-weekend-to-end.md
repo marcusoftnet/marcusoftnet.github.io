@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Weekend to an end date: '2007-03-26T07:45:00.000+02:00'
+title: Weekend to an end
+date: '2007-03-26T07:45:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

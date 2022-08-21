@@ -5,8 +5,8 @@ example
 date: '2011-05-27T20:41:00.001+02:00'
 author: Marcus Hammarberg
 tags: - BDD - Kanban - Agile
-modified_time: '2011-10-20T14:58:46.684+02:00' thumbnail:
-http://lh6.ggpht.com/-P5qnRhrhJ-4/Td_wWwDj1vI/AAAAAAAAA_c/7Eg93tbpZy0/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
+modified_time: '2011-10-20T14:58:46.684+02:00'
+thumbnail: http://lh6.ggpht.com/-P5qnRhrhJ-4/Td_wWwDj1vI/AAAAAAAAA_c/7Eg93tbpZy0/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5183569694525573431
 blogger_orig_url: http://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html
 ---

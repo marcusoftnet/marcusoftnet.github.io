@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Get rid of your xml – go Fluent NHibernate date: '2009-08-31T22:40:00.001+02:00'
+title: Get rid of your xml – go Fluent NHibernate
+date: '2009-08-31T22:40:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-NHibernate modified_time: '2009-08-31T22:40:17.280+02:00'
+NHibernate
+modified_time: '2009-08-31T22:40:17.280+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2355742159307873703
 blogger_orig_url: http://www.marcusoft.net/2009/08/get-rid-of-your-xml-go-fluent.html ---
 

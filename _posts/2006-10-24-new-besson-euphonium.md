@@ -1,9 +1,11 @@
 ---
 layout: post
-title: New Besson Euphonium date: '2006-10-24T15:08:00.000+02:00'
+title: New Besson Euphonium
+date: '2006-10-24T15:08:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Euphonium modified_time: '2006-10-26T07:53:34.248+02:00'
+tags:
+  - Euphonium
+modified_time: '2006-10-26T07:53:34.248+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116169569747573344
 blogger_orig_url: http://www.marcusoft.net/2006/10/new-besson-euphonium.html
 ---

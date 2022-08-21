@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Luck has nothing to do with it date: '2014-08-22T06:38:00.002+02:00'
+title: Luck has nothing to do with it
+date: '2014-08-22T06:38:00.002+02:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Agile
-modified_time: '2014-08-22T06:38:46.973+02:00' thumbnail:
-http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s72-c/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
+modified_time: '2014-08-22T06:38:46.973+02:00'
+thumbnail: http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s72-c/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1103084673136152864
 blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html ---
 

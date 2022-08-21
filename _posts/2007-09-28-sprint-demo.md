@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sprint demo date: '2007-09-27T22:04:00.001+02:00'
+title: Sprint demo
+date: '2007-09-27T22:04:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Scrum

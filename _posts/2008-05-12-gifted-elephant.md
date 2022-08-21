@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gifted elephant date: '2008-05-12T15:04:00.002+02:00'
+title: Gifted elephant
+date: '2008-05-12T15:04:00.002+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-05-12T15:06:30.865+02:00'

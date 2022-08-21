@@ -3,8 +3,9 @@ layout: post
 title: A Conchango Scrum TFS Template introduction
 date: '2008-03-11T15:48:00.007+01:00'
 author: Marcus Hammarberg
-tags: -
-TFS modified_time: '2010-12-14T16:22:51.429+01:00'
+tags:
+  - TFS
+modified_time: '2010-12-14T16:22:51.429+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-309585422301317756
 blogger_orig_url: http://www.marcusoft.net/2008/03/short-conchango-scrum-tfs-template.html
 ---
@@ -62,8 +63,7 @@ post](http://scrumforteamsystem.com/cs/forums/1646/ShowPost.aspx)
     sets up the links automatically. Otherwise you can set PBI -\> <span
     id="SPELLING_ERROR_0" class="blsp-spelling-error">SBI</span>
     relations in the links tab.
-5.  **<span id="SPELLING_ERROR_1"
-    class="blsp-spelling-error">Burndown</span> your backlog.**
+5.  **<span>Burndown</span> your backlog.**
     As work is completed and progress is made, mark the changes on the
     <span id="SPELLING_ERROR_2" class="blsp-spelling-error">SBIs</span>.
     Reducing the work remaining figures as needed.

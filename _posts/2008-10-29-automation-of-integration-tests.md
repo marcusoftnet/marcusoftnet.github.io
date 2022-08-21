@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Automation of integration tests date: '2008-10-28T21:03:00.001+01:00'
+title: Automation of integration tests
+date: '2008-10-28T21:03:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - TDD
 modified_time: '2010-12-14T16:22:38.225+01:00'

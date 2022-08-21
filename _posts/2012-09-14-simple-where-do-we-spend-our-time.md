@@ -3,10 +3,10 @@ layout: post
 title: Simple where-do-we-spend-our-time visualisation
 date: '2012-09-14T10:48:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant - Kanban - Agile
-modified_time: '2012-10-05T10:31:36.272+02:00' thumbnail:
-http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s72-c/work+item+types.JPG
+tags:
+  - Life of a consultant - Kanban - Agile
+modified_time: '2012-10-05T10:31:36.272+02:00'
+thumbnail: http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s72-c/work+item+types.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---

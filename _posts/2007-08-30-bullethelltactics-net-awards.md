@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Bullet Hell Tactics
-  - .NET Awards date: '2007-08-30T07:38:00.000+02:00'
+  - .NET Awards
+date: '2007-08-30T07:38:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-Fun modified_time: '2007-09-03T08:46:51.664+02:00'
+Fun
+modified_time: '2007-09-03T08:46:51.664+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-271606326206805595
 blogger_orig_url: http://www.marcusoft.net/2007/08/bullethelltactics-net-awards.html
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pixar - for the birds date: '2007-03-27T08:35:00.000+02:00'
+title: Pixar - for the birds
+date: '2007-03-27T08:35:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-03-27T08:37:15.026+02:00'

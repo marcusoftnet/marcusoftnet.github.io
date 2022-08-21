@@ -1,6 +1,7 @@
 ---
 layout: post
-title: www.marcusoft.net - 800 posts and counting date: '2013-01-28T15:24:00.001+01:00'
+title: www.marcusoft.net - 800 posts and counting
+date: '2013-01-28T15:24:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

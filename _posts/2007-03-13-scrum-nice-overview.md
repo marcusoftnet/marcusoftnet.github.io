@@ -1,6 +1,7 @@
 ---
 layout: post
-title: SCRUM - an nice overview date: '2007-03-13T10:46:00.000+01:00'
+title: SCRUM - an nice overview
+date: '2007-03-13T10:46:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

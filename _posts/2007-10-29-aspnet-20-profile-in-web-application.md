@@ -3,8 +3,8 @@ layout: post
 title: Asp.Net 2.0 Profile in Web Application Projects
 date: '2007-10-29T10:34:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant - Visual Studio
+tags:
+  - Life of a consultant - Visual Studio
 modified_time: '2010-12-14T16:19:05.517+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5749312230854668126
 blogger_orig_url: http://www.marcusoft.net/2007/10/aspnet-20-profile-in-web-application.html

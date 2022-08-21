@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Some great SOA – articles date: '2009-08-13T14:20:00.001+02:00'
+title: Some great SOA – articles
+date: '2009-08-13T14:20:00.001+02:00'
 author: Marcus Hammarberg
 tags: - SOA -
-Life of a consultant modified_time: '2009-08-13T14:20:11.318+02:00'
+Life of a consultant
+modified_time: '2009-08-13T14:20:11.318+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3078518711410422523
 blogger_orig_url: http://www.marcusoft.net/2009/08/some-great-soa-articles.html ---
 

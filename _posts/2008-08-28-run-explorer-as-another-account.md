@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Run Explorer as another account date: '2008-08-28T09:44:00.003+02:00'
+title: Run Explorer as another account
+date: '2008-08-28T09:44:00.003+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.233+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2313698324357646882

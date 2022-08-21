@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Free courses from Microsoft date: '2006-12-18T07:44:00.001+01:00'
+title: Free courses from Microsoft
+date: '2006-12-18T07:44:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET

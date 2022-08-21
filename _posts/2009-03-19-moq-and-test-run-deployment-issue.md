@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'MOQ and the “Test Run deployment issue: The
-location of the file or directory” problem' date: '2009-03-19T13:44:00.001+01:00'
+location of the file or directory” problem'
+date: '2009-03-19T13:44:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
    - TDD

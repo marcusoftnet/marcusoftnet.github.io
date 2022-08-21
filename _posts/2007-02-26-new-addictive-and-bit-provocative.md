@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New, addictive and a bit provocative date: '2007-02-26T10:11:00.000+01:00'
+title: New, addictive and a bit provocative
+date: '2007-02-26T10:11:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-02-26T10:13:36.357+01:00'

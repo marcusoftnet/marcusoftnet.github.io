@@ -1,9 +1,11 @@
 ---
 layout: post
-title: ASP.NET MVC presentations date: '2009-04-10T09:24:00.001+02:00'
+title: ASP.NET MVC presentations
+date: '2009-04-10T09:24:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-ASP.NET MVC modified_time: '2009-04-10T09:24:07.879+02:00'
+tags:
+  - ASP.NET MVC
+modified_time: '2009-04-10T09:24:07.879+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2218956877799670681
 blogger_orig_url: http://www.marcusoft.net/2009/04/aspnet-mvc-presentations.html ---
 

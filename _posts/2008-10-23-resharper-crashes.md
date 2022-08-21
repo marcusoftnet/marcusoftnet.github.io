@@ -1,9 +1,11 @@
 ---
 layout: post
-title: ReSharper crashes date: '2008-10-23T11:07:00.001+02:00'
+title: ReSharper crashes
+date: '2008-10-23T11:07:00.001+02:00'
 author: Marcus Hammarberg
 tags: - TFS -
-MSBuild modified_time: '2010-12-14T16:21:03.989+01:00'
+MSBuild
+modified_time: '2010-12-14T16:21:03.989+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1497074953926190551
 blogger_orig_url: http://www.marcusoft.net/2008/10/resharper-crashes.html ---
 

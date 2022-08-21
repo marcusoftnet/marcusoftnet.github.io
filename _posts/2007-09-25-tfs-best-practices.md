@@ -1,6 +1,7 @@
 ---
 layout: post
-title: TFS Best practices date: '2007-09-25T08:07:00.001+02:00'
+title: TFS Best practices
+date: '2007-09-25T08:07:00.001+02:00'
 author: Marcus Hammarberg
 tags: - TFS
 modified_time: '2007-09-25T08:09:36.658+02:00'

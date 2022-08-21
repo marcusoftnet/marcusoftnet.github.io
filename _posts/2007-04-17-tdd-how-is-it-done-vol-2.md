@@ -1,10 +1,12 @@
 ---
 layout: post
-title: TDD - how is it done? Vol 2 date: '2007-04-17T13:57:00.000+02:00'
+title: TDD - how is it done? Vol 2
+date: '2007-04-17T13:57:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-Agile - TDD modified_time: '2007-04-17T14:05:01.769+02:00'
+Agile - TDD
+modified_time: '2007-04-17T14:05:01.769+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5105649867606006552
 blogger_orig_url: http://www.marcusoft.net/2007/04/tdd-how-is-it-done-vol-2.html
 ---

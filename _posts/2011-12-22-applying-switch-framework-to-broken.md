@@ -3,8 +3,8 @@ layout: post
 title: Applying the Switch framework to broken builds
 date: '2011-12-22T12:54:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant - TFS - Agile
+tags:
+  - Life of a consultant - TFS - Agile
 modified_time: '2011-12-22T14:11:02.033+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1877650632727020736
 blogger_orig_url: http://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html

@@ -3,8 +3,9 @@ layout: post
 title: Credentials passing in SOA-solutions for .NET
 date: '2006-12-29T08:10:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-.NET - SOA modified_time: '2007-01-08T08:33:19.599+01:00'
+tags:
+  - .NET - SOA
+modified_time: '2007-01-08T08:33:19.599+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1388415888810018347
 blogger_orig_url: http://www.marcusoft.net/2006/12/credential-passing-in-soa-solutions-for.html
 ---

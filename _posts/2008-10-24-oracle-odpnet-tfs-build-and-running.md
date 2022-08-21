@@ -7,8 +7,8 @@ Marcus Hammarberg
 tags:
    - Tools
   - .NET
-modified_time: '2010-12-14T16:23:30.906+01:00' thumbnail:
-http://lh4.ggpht.com/\_kkDJOSPNTLs/SS6fx-hOzaI/AAAAAAAAAYw/EQ8PqS_WLSI/s72-c/installning%5B4%5D_thumb%5B5%5D.jpg?imgmax=800
+modified_time: '2010-12-14T16:23:30.906+01:00'
+thumbnail: http://lh4.ggpht.com/\_kkDJOSPNTLs/SS6fx-hOzaI/AAAAAAAAAYw/EQ8PqS_WLSI/s72-c/installning%5B4%5D_thumb%5B5%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6282787406161895821
 blogger_orig_url: http://www.marcusoft.net/2008/10/oracle-odpnet-tfs-build-and-running.html
 ---

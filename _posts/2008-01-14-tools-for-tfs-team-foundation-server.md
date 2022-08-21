@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tools for TFS - Team Foundation Server date: '2008-01-14T15:37:00.000+01:00'
+title: Tools for TFS - Team Foundation Server
+date: '2008-01-14T15:37:00.000+01:00'
 author: Marcus Hammarberg
 tags: - TFS
 modified_time: '2008-01-14T15:38:04.119+01:00'

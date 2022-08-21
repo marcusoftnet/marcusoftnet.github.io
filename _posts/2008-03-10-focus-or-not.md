@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Great project started date: '2008-03-09T19:00:00.005+01:00'
+title: Great project started
+date: '2008-03-09T19:00:00.005+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - SOA
@@ -18,9 +19,7 @@ company).
 
 I am very humbled by the magnitude of the project and where this can
 take us... At the same time it is so fun; we get to set stuff about the
-<span>="blsp-spelling-corrected">technology</span> ([<span
-id="SPELLING_ERROR_2"
-class="blsp-spelling-error">SOA</span>](http://en.wikipedia.org/wiki/Service-oriented_architecture),
+<span>="blsp-spelling-corrected">technology</span> ([<span>SOA</span>](http://en.wikipedia.org/wiki/Service-oriented_architecture),
 [<span>="blsp-spelling-error">WCF</span>](http://msdn2.microsoft.com/en-us/netframework/aa663324.aspx),
 Visual Studio 2008, TDD - the works) that i didn't dream of just a few
 months back. Also it is great to see the true use of SCRUM - it is

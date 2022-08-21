@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Vasa Band and Saturday night success date: '2009-09-06T21:11:00.001+02:00'
+title: Vasa Band and Saturday night success
+date: '2009-09-06T21:11:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

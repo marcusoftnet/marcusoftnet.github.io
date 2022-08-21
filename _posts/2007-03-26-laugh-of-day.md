@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Laugh of the day date: '2007-03-26T08:56:00.000+02:00'
+title: Laugh of the day
+date: '2007-03-26T08:56:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-03-26T09:06:07.521+02:00'

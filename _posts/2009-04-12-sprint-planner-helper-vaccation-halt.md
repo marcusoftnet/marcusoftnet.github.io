@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sprint Planner Helper - Vaccation halt date: '2009-04-11T20:55:00.001+02:00'
+title: Sprint Planner Helper - Vaccation halt
+date: '2009-04-11T20:55:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - Sprint Planner Helper

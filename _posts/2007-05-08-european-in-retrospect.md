@@ -1,9 +1,11 @@
 ---
 layout: post
-title: European - in retrospect date: '2007-05-08T07:43:00.000+02:00'
+title: European - in retrospect
+date: '2007-05-08T07:43:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - BrassBand modified_time: '2007-05-08T07:47:15.886+02:00'
+private - BrassBand
+modified_time: '2007-05-08T07:47:15.886+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-559311242726549207
 blogger_orig_url: http://www.marcusoft.net/2007/05/european-in-retrospect.html
 ---

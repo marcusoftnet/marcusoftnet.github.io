@@ -1,6 +1,7 @@
 ---
 layout: post
-title: “If you quit today”–make someone happy date: '2012-01-01T21:54:00.001+01:00'
+title: “If you quit today”–make someone happy
+date: '2012-01-01T21:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

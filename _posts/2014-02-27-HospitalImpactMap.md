@@ -8,8 +8,8 @@ Hammarberg
 tags: - MobProgramming
    - Tools - Lean - Agile - Impact
 mapping - Salvation Army - Indonesia
-modified_time: '2014-06-02T10:56:52.538+02:00' thumbnail:
-http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
+modified_time: '2014-06-02T10:56:52.538+02:00'
+thumbnail: http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310460295412389370
 blogger_orig_url: http://www.marcusoft.net/2014/02/HospitalImpactMap.html ---
 

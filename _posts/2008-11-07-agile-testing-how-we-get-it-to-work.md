@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Agile testing - how we get it to work date: '2008-11-06T22:06:00.001+01:00'
+title: Agile testing - how we get it to work
+date: '2008-11-06T22:06:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

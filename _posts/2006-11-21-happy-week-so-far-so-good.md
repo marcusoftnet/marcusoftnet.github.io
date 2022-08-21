@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Happy week - so far so good date: '2006-11-21T07:38:00.000+01:00'
+title: Happy week - so far so good
+date: '2006-11-21T07:38:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

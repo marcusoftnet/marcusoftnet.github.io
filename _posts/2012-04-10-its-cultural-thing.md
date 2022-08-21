@@ -1,6 +1,7 @@
 ---
 layout: post
-title: It’s a cultural thing date: '2012-04-09T22:07:00.001+02:00'
+title: It’s a cultural thing
+date: '2012-04-09T22:07:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

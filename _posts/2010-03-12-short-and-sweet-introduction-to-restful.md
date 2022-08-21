@@ -3,8 +3,8 @@ layout: post
 title: Short and sweet introduction to RESTful services
 date: '2010-03-12T12:48:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-SOA
+tags:
+  - SOA
   - Life of a consultant
 modified_time: '2010-03-12T12:48:40.891+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-340756781042224307

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Visual Studio 2008 videos II date: '2007-10-30T12:50:00.000+01:00'
+title: Visual Studio 2008 videos II
+date: '2007-10-30T12:50:00.000+01:00'
 author: Marcus Hammarberg tags:
 modified_time: '2010-12-14T16:20:33.395+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8279432722258789434

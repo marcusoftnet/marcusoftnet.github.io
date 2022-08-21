@@ -3,8 +3,8 @@ layout: post
 title: Supported Step Exporter – watch your language
 date: '2010-10-08T16:27:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - C# - SpecFlow
 modified_time: '2010-12-14T16:22:38.153+01:00'

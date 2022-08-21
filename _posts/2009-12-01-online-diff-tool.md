@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Online diff tool date: '2009-12-01T08:07:00.001+01:00'
+title: Online diff tool
+date: '2009-12-01T08:07:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.173+01:00'

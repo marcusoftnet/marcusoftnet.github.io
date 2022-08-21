@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Weird stuff on the agenda date: '2006-12-14T07:31:00.000+01:00'
+title: Weird stuff on the agenda
+date: '2006-12-14T07:31:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

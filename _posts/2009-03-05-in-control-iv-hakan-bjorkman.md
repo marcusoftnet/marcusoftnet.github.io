@@ -1,9 +1,11 @@
 ---
 layout: post
-title: In control IV – Håkan Björkman date: '2009-03-05T09:16:00.001+01:00'
+title: In control IV – Håkan Björkman
+date: '2009-03-05T09:16:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - BrassBand - Fun modified_time: '2009-03-05T09:16:45.623+01:00'
+private - BrassBand - Fun
+modified_time: '2009-03-05T09:16:45.623+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6067245503397737281
 blogger_orig_url: http://www.marcusoft.net/2009/03/in-control-iv-hakan-bjorkman.html ---
 

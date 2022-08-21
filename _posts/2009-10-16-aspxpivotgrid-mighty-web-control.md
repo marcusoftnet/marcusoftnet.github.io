@@ -1,9 +1,10 @@
 ---
 layout: post
-title: AspxPivotGrid – a mighty web control date: '2009-10-16T16:40:00.001+02:00'
+title: AspxPivotGrid – a mighty web control
+date: '2009-10-16T16:40:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
    - ASP.NET MVC

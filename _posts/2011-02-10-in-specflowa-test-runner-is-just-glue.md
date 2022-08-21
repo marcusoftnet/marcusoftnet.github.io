@@ -1,11 +1,13 @@
 ---
 layout: post
-title: In SpecFlow–a test runner is just glue date: '2011-02-10T01:34:00.001+01:00'
+title: In SpecFlow–a test runner is just glue
+date: '2011-02-10T01:34:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-SpecFlow modified_time: '2011-02-10T01:34:51.789+01:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/TVMykeuNQqI/AAAAAAAAA4w/41Mn4IdgjXc/s72-c/stupid%20steps%20in%20scenario_thumb.jpg?imgmax=800
+SpecFlow
+modified_time: '2011-02-10T01:34:51.789+01:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVMykeuNQqI/AAAAAAAAA4w/41Mn4IdgjXc/s72-c/stupid%20steps%20in%20scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1569234750775344083
 blogger_orig_url: http://www.marcusoft.net/2011/02/in-specflowa-test-runner-is-just-glue.html
 ---

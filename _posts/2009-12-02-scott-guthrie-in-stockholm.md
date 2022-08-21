@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Scott Guthrie in Stockholm date: '2009-12-02T15:14:00.001+01:00'
+title: Scott Guthrie in Stockholm
+date: '2009-12-02T15:14:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-ASP.NET MVC modified_time: '2010-12-14T16:18:09.703+01:00'
+ASP.NET MVC
+modified_time: '2010-12-14T16:18:09.703+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6428713655390600790
 blogger_orig_url: http://www.marcusoft.net/2009/12/scott-guthrie-in-stockholm.html ---
 

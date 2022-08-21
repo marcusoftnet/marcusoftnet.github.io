@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Great Silverlight 2.0 Tutorial date: '2008-04-22T07:40:00.005+02:00'
+title: Great Silverlight 2.0 Tutorial
+date: '2008-04-22T07:40:00.005+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

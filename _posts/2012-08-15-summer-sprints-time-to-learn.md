@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Summer sprints - a time to learn date: '2012-08-15T16:43:00.000+02:00'
+title: Summer sprints - a time to learn
+date: '2012-08-15T16:43:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Kanban
+tags:
+  - Kanban
   - Scrum
-   - Agile modified_time: '2012-08-15T16:43:07.207+02:00'
+   - Agile
+modified_time: '2012-08-15T16:43:07.207+02:00'
 thumbnail:
 http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1869399151811674415

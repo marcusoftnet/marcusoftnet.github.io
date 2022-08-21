@@ -1,6 +1,7 @@
 ---
 layout: post
-title: TDD and legacy code date: '2010-01-14T08:53:00.001+01:00'
+title: TDD and legacy code
+date: '2010-01-14T08:53:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

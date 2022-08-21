@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Planning poker online date: '2007-10-04T07:51:00.000+02:00'
+title: Planning poker online
+date: '2007-10-04T07:51:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Scrum
-   modified_time: '2010-12-14T16:22:38.298+01:00'
+
+modified_time: '2010-12-14T16:22:38.298+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6802096703375470653
 blogger_orig_url: http://www.marcusoft.net/2007/10/planning-poker-online.html ---
 Estimations can be quite tricky to do and even trickier to get from an

@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Conchango burndown chart is not working date: '2008-03-10T11:17:00.007+01:00'
+title: Conchango burndown chart is not working
+date: '2008-03-10T11:17:00.007+01:00'
 author: Marcus Hammarberg
 tags: - TFS -
-Scrum modified_time: '2010-12-14T16:22:51.435+01:00'
+Scrum
+modified_time: '2010-12-14T16:22:51.435+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7494630480846630128
 blogger_orig_url: http://www.marcusoft.net/2008/03/conchango-burndown-char-not-showing.html
 ---
 
 OK - one of the new technologies that we are using in my [really fun
 project](http://marcushammarberg.blogspot.com/2008/03/focus-or-not.html)
-is the [<span>="blsp-spelling-error">Conchango</span> Scrum template for <span
-id="SPELLING_ERROR_1"
-class="blsp-spelling-error">TFS</span>](http://scrumforteamsystem.com/).
+is the [<span>="blsp-spelling-error">Conchango</span> Scrum template for <span>TFS</span>](http://scrumforteamsystem.com/).
 This has already cause me to scream out loud so i will most certainly
 get back to it.
 
@@ -22,8 +22,7 @@ Let me get a couple of thing right first:
     [SCRUM](http://scrumforteamsystem.com/processguidance/v2/Scrum/Scrum.aspx).
     You miss a lot of the great interaction within the team when you
     need to do this kind of reporting.
--   I think that the <span id="SPELLING_ERROR_2"
-    class="blsp-spelling-error">Conchango</span> template is as good as
+-   I think that the <span>Conchango</span> template is as good as
     it probably will get when you are forced to use tools like this. I
     do hope that it might even get [slightly
     better](http://www.codeplex.com/scrumdashboard)...

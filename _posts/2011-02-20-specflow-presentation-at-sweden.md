@@ -3,8 +3,8 @@ layout: post
 title: SpecFlow presentation at Sweden Progressive .NET
 date: '2011-02-20T12:33:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-.NET
+tags:
+  - .NET
   - Life of a consultant
    - Agile - SpecFlow
 modified_time: '2013-08-22T11:59:06.452+02:00'

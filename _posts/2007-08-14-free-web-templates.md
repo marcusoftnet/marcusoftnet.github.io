@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Free web templates date: '2007-08-14T12:14:00.000+02:00'
+title: Free web templates
+date: '2007-08-14T12:14:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Web
 Design

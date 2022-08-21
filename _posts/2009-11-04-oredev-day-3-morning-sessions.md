@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'ÖreDev day \#3 – morning sessions' date: '2009-11-04T12:53:00.001+01:00'
+title: 'ÖreDev day \#3 – morning sessions'
+date: '2009-11-04T12:53:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-ÖreDev
+tags:
+  - ÖreDev
   - Life of a consultant
    - Agile
 modified_time: '2011-11-09T21:49:22.599+01:00'

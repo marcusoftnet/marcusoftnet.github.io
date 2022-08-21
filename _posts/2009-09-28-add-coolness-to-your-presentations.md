@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Add coolness to your presentations date: '2009-09-28T13:57:00.001+02:00'
+title: Add coolness to your presentations
+date: '2009-09-28T13:57:00.001+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Keep you eyes open date: '2008-03-13T07:28:00.002+01:00'
+title: Keep you eyes open
+date: '2008-03-13T07:28:00.002+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-03-13T07:30:15.423+01:00'

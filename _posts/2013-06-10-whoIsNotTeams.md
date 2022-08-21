@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Impact mapping - you are not WHO date: '2013-06-10T15:23:00.000+02:00'
+title: Impact mapping - you are not WHO
+date: '2013-06-10T15:23:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Lean - Agile modified_time: '2013-06-10T15:25:16.325+02:00'
+tags:
+  - Tools - Lean - Agile
+modified_time: '2013-06-10T15:25:16.325+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5361804377589118445
 blogger_orig_url: http://www.marcusoft.net/2013/06/whoIsNotTeams.html
 ---

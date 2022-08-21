@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Setting up a new development machine without
-pressing Next a single time, using Chocolately date: '2013-08-01T20:28:00.001+02:00'
+pressing Next a single time, using Chocolately
+date: '2013-08-01T20:28:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET - Agile - Visual Studio
 modified_time: '2013-08-05T08:49:42.359+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3525796959481201604

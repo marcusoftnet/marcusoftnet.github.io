@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Schlager treat date: '2007-07-03T07:54:00.000+02:00'
+title: Schlager treat
+date: '2007-07-03T07:54:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-07-03T15:01:07.773+02:00'

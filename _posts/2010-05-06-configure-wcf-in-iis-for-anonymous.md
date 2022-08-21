@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Configure WCF in IIS for anonymous access date: '2010-05-06T09:15:00.001+02:00'
+title: Configure WCF in IIS for anonymous access
+date: '2010-05-06T09:15:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

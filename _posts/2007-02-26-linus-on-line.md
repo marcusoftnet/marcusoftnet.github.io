@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Linus on the line... date: '2007-02-26T10:18:00.000+01:00'
+title: Linus on the line...
+date: '2007-02-26T10:18:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-02-26T10:23:43.688+01:00'

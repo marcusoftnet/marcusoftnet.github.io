@@ -1,9 +1,11 @@
 ---
 layout: post
-title: David Childs and the Hot Canary date: '2007-10-30T09:22:00.000+01:00'
+title: David Childs and the Hot Canary
+date: '2007-10-30T09:22:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2007-10-30T10:09:45.169+01:00'
+tags:
+  - BrassBand
+modified_time: '2007-10-30T10:09:45.169+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6302245462694710313
 blogger_orig_url: http://www.marcusoft.net/2007/10/david-childs-and-hot-canary.html
 ---

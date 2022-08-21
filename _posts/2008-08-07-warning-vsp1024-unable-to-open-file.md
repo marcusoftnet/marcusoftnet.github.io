@@ -30,8 +30,7 @@ here is what you need to do:
     class="blsp-spelling-corrected">you're</span> using for the test run
     under code coverage. It is <span id="SPELLING_ERROR_4"
     class="blsp-spelling-corrected">usually</span> called <span
-    style="font-family:courier new;"><span id="SPELLING_ERROR_5"
-    class="blsp-spelling-error">LocalTestRun</span>.<span
+    style="font-family:courier new;"><span>LocalTestRun</span>.<span
     id="SPELLING_ERROR_6"
     class="blsp-spelling-error">testrunconfig</span></span> and resides
     in the solution root.
@@ -40,8 +39,7 @@ here is what you need to do:
     id="SPELLING_ERROR_7"
     class="blsp-spelling-error">CodeCoverageItem</span></span>-elements
     change (or add) the attribute
-    <span style="font-family:courier new;"><span id="SPELLING_ERROR_8"
-    class="blsp-spelling-error">instrumentInPlace</span></span> from
+    <span style="font-family:courier new;"><span>instrumentInPlace</span></span> from
     "**true**" to "**false**"
 -   Save and rerun - works like a charm
 

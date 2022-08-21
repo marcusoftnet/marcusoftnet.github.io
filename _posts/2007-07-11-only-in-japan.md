@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Only in Japan date: '2007-07-11T14:39:00.000+02:00'
+title: Only in Japan
+date: '2007-07-11T14:39:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-09-12T19:24:32.799+02:00'

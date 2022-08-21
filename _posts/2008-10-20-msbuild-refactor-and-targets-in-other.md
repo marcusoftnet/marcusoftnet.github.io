@@ -3,8 +3,9 @@ layout: post
 title: MSBuild, refactor and targets in other files
 date: '2008-10-20T08:30:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-MSBuild modified_time: '2008-10-20T11:14:12.584+02:00'
+tags:
+  - MSBuild
+modified_time: '2008-10-20T11:14:12.584+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3420428001447646419
 blogger_orig_url: http://www.marcusoft.net/2008/10/msbuild-refactor-and-targets-in-other.html
 ---

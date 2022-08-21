@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Marcus and Mac: my clumsy fingers' date: '2009-10-05T10:11:00.001+02:00'
+title: 'Marcus and Mac: my clumsy fingers'
+date: '2009-10-05T10:11:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

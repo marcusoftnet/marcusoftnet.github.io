@@ -1,9 +1,11 @@
 ---
 layout: post
-title: What is SOA? What is SOAP-RPC? date: '2008-04-14T08:35:00.004+02:00'
+title: What is SOA? What is SOAP-RPC?
+date: '2008-04-14T08:35:00.004+02:00'
 author: Marcus Hammarberg
 tags: - SOA -
-Life of a consultant modified_time: '2008-04-14T15:46:43.471+02:00'
+Life of a consultant
+modified_time: '2008-04-14T15:46:43.471+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7521587768438377192
 blogger_orig_url: http://www.marcusoft.net/2008/04/what-is-soa-what-is-soap-rpc.html ---
 The now almost age-old question; "but what is

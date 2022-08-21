@@ -1,6 +1,7 @@
 ---
 layout: post
-title: NDoc is dead - long live Sandcastle? date: '2007-08-23T09:58:00.000+02:00'
+title: NDoc is dead - long live Sandcastle?
+date: '2007-08-23T09:58:00.000+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools
@@ -22,16 +23,13 @@ death of <span>="blsp-spelling-error">NDoc</span>".
 I've tried Sandcastle today and i am not impressed:
 
 
--   The product is still in <span id="SPELLING_ERROR_3"
-    class="blsp-spelling-error">CTP</span> (Community Technology
+-   The product is still in <span>CTP</span> (Community Technology
     Preview) - and it shows. It is not done yet!
 -   No good support exists (out-of-the-box) for <span
     id="SPELLING_ERROR_4" class="blsp-spelling-error">MSBuild</span>
     integration. There are some third-party product
--   It is <span id="SPELLING_ERROR_5"
-    class="blsp-spelling-error">sloo</span>-ow. At least twice the time
-    compared to <span id="SPELLING_ERROR_6"
-    class="blsp-spelling-error">NDoc</span>.
+-   It is <span>sloo</span>-ow. At least twice the time
+    compared to <span>NDoc</span>.
 
 I can only hope that these things will get better as the final <span
 id="SPELLING_ERROR_7" class="blsp-spelling-corrected">release</span>

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Getting dates automatic in Notepad date: '2008-08-07T13:24:00.003+02:00'
+title: Getting dates automatic in Notepad
+date: '2008-08-07T13:24:00.003+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools

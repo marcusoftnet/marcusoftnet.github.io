@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ASP.NET MVC - start date: '2008-01-14T14:57:00.001+01:00'
+title: ASP.NET MVC - start
+date: '2008-01-14T14:57:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

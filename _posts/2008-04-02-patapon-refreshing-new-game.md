@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Patapon - refreshing new game date: '2008-04-02T16:19:00.002+02:00'
+title: Patapon - refreshing new game
+date: '2008-04-02T16:19:00.002+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-04-02T16:22:35.503+02:00'

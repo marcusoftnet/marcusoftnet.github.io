@@ -3,7 +3,8 @@ layout: post
 title:
 date: '2010-06-07T20:24:00.000+02:00' author:
 Marcus Hammarberg
-tags: modified_time: '2010-06-07T20:24:36.783+02:00'
+tags:
+modified_time: '2010-06-07T20:24:36.783+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4488488677051332532
 blogger_orig_url: http://www.marcusoft.net/2010/06/in-my-current-project-we-have-had.html
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Pixar - again date: '2007-03-27T13:53:00.000+02:00'
+title: Pixar - again
+date: '2007-03-27T13:53:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-03-27T14:00:18.692+02:00'

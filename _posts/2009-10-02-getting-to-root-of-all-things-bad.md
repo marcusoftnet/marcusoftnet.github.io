@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Getting to the root of all things bad date: '2009-10-01T21:13:00.001+02:00'
+title: Getting to the root of all things bad
+date: '2009-10-01T21:13:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - Agile
 modified_time: '2010-12-14T16:22:38.186+01:00'

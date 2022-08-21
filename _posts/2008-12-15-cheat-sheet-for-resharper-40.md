@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cheat-sheet for Resharper 4.0 date: '2008-12-15T08:49:00.001+01:00'
+title: Cheat-sheet for Resharper 4.0
+date: '2008-12-15T08:49:00.001+01:00'
 author: Marcus Hammarberg tags:
 modified_time: '2008-12-15T08:53:28.339+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-30674332112376753

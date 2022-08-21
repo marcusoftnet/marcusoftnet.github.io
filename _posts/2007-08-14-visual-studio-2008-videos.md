@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Visual Studio 2008 videos date: '2007-08-14T12:02:00.000+02:00'
+title: Visual Studio 2008 videos
+date: '2007-08-14T12:02:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Langauge differences C# and VB.Net date: '2007-07-12T08:43:00.001+02:00'
+title: Langauge differences C# and VB.Net
+date: '2007-07-12T08:43:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET
+tags:
+  - VB.NET
   - Life of a consultant
 modified_time: '2007-07-12T08:46:57.118+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1394425658544540729

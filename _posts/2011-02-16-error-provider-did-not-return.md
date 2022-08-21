@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Error “The provider did not return a
-ProviderManifestToken string” with SQL Compact Edition date: '2011-02-16T13:51:00.001+01:00'
+ProviderManifestToken string” with SQL Compact Edition
+date: '2011-02-16T13:51:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-SpecFlow modified_time: '2011-02-16T14:34:46.482+01:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/TVvIRpWMf2I/AAAAAAAAA5U/Qa9CiARpmHw/s72-c/wlEmoticon-confusedsmile%5B2%5D.png?imgmax=800
+SpecFlow
+modified_time: '2011-02-16T14:34:46.482+01:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVvIRpWMf2I/AAAAAAAAA5U/Qa9CiARpmHw/s72-c/wlEmoticon-confusedsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6161852859030600182
 blogger_orig_url: http://www.marcusoft.net/2011/02/error-provider-did-not-return.html ---
 

@@ -3,8 +3,9 @@ layout: post
 title: 'ÖreDev Day \#2 - ASP.NET MVC with Scott Allen'
 date: '2009-11-03T10:13:00.007+01:00'
 author: Marcus Hammarberg
-tags: -
-ÖreDev - ASP.NET MVC modified_time: '2011-11-09T21:49:22.591+01:00'
+tags:
+  - ÖreDev - ASP.NET MVC
+modified_time: '2011-11-09T21:49:22.591+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-472327445991958099
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html
 ---

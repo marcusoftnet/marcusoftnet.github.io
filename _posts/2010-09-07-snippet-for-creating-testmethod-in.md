@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Snippet for creating testmethod in VB.NET date: '2010-09-07T12:53:00.000+02:00'
+title: Snippet for creating testmethod in VB.NET
+date: '2010-09-07T12:53:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET - TDD modified_time: '2010-09-07T12:56:47.429+02:00'
+tags:
+  - VB.NET - TDD
+modified_time: '2010-09-07T12:56:47.429+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8686879862246797209
 blogger_orig_url: http://www.marcusoft.net/2010/09/snippet-for-creating-testmethod-in.html
 ---

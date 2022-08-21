@@ -8,7 +8,8 @@ tags:
    - Tools
   - Life of a consultant
    - KanbanBoards - Agile - Salvation
-Army - Indonesia modified_time: '2014-11-07T09:19:34.844+01:00'
+Army - Indonesia
+modified_time: '2014-11-07T09:19:34.844+01:00'
 thumbnail:
 http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1668465135217375764

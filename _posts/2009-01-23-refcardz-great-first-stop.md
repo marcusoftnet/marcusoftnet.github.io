@@ -1,9 +1,10 @@
 ---
 layout: post
-title: RefCardz - great first stop date: '2009-01-23T14:38:00.001+01:00'
+title: RefCardz - great first stop
+date: '2009-01-23T14:38:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.211+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7805240594269252485

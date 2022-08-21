@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'ÖreDev day \#5 – afternoon' date: '2009-11-06T16:37:00.001+01:00'
+title: 'ÖreDev day \#5 – afternoon'
+date: '2009-11-06T16:37:00.001+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 .NET - ÖreDev - ASP.NET MVC

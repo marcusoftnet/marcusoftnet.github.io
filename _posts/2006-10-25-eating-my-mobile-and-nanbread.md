@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Eating my mobile... and a Nanbread date: '2006-10-25T07:37:00.000+02:00'
+title: Eating my mobile... and a Nanbread
+date: '2006-10-25T07:37:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   modified_time: '2006-10-26T07:53:10.509+02:00'
+
+modified_time: '2006-10-26T07:53:10.509+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116175519939418314
 blogger_orig_url: http://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread.html ---
 [<img src="http://www.myqtek.com/media/12359-8100_front.gif"

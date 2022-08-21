@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Let's do something instead! date: '2013-05-07T09:00:00.000+02:00'
+title: Let's do something instead!
+date: '2013-05-07T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Agile

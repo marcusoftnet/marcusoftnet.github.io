@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Visual Studio 2010 Quick Reference date: '2010-01-14T08:57:00.001+01:00'
+title: Visual Studio 2010 Quick Reference
+date: '2010-01-14T08:57:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET

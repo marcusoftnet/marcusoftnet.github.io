@@ -1,6 +1,7 @@
 ---
 layout: post
-title: The blog in stereo date: '2008-11-25T19:20:00.001+01:00'
+title: The blog in stereo
+date: '2008-11-25T19:20:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

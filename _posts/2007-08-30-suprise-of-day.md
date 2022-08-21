@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Suprise of the day? date: '2007-08-30T17:14:00.000+02:00'
+title: Suprise of the day?
+date: '2007-08-30T17:14:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-08-30T17:15:36.036+02:00'

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Looking for better date: '2014-04-21T14:43:00.001+02:00'
+title: Looking for better
+date: '2014-04-21T14:43:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Kanban - Agile

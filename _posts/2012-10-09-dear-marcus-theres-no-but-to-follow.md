@@ -3,8 +3,9 @@ layout: post
 title: 'Dear Marcus ... there''s no "but" to follow. '
 date: '2012-10-09T11:14:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Marcus private modified_time: '2013-06-07T20:54:02.869+02:00'
+tags:
+  - Marcus private
+modified_time: '2013-06-07T20:54:02.869+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8546017893577843804
 blogger_orig_url: http://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-follow.html
 ---

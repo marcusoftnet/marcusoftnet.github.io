@@ -8,8 +8,8 @@ Hammarberg
 tags: - Lean
   - Life of a consultant
    - Agile
-modified_time: '2013-03-12T09:00:05.592+01:00' thumbnail:
-http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s72-c/Screen+Shot+2013-03-11+at+15.46.00+.png
+modified_time: '2013-03-12T09:00:05.592+01:00'
+thumbnail: http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s72-c/Screen+Shot+2013-03-11+at+15.46.00+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2889868856905036157
 blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
 ---

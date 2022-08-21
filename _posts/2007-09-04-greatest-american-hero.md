@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Greatest American Hero date: '2007-09-04T08:10:00.000+02:00'
+title: Greatest American Hero
+date: '2007-09-04T08:10:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-09-04T16:04:51.661+02:00'

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Moving items in a CheckedListBox date: '2008-02-20T15:37:00.013+01:00'
+title: Moving items in a CheckedListBox
+date: '2008-02-20T15:37:00.013+01:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET - Visual Studio modified_time: '2010-12-14T16:19:05.491+01:00'
+tags:
+  - VB.NET - Visual Studio
+modified_time: '2010-12-14T16:19:05.491+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5888117216102285736
 blogger_orig_url: http://www.marcusoft.net/2008/02/moving-items-in-checkedlistbox.html ---
 This is a very common requirement in applications and one that i always

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Clean code - the pragmatic approach date: '2009-01-30T08:54:00.001+01:00'
+title: Clean code - the pragmatic approach
+date: '2009-01-30T08:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

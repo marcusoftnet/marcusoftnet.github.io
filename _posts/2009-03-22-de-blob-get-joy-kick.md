@@ -1,6 +1,7 @@
 ---
 layout: post
-title: De Blob – get a joy-kick! date: '2009-03-21T21:04:00.001+01:00'
+title: De Blob – get a joy-kick!
+date: '2009-03-21T21:04:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2009-05-05T11:31:06.975+02:00'

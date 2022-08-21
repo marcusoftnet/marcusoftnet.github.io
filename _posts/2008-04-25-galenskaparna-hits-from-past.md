@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Galenskaparna - hits from the past date: '2008-04-25T18:33:00.001+02:00'
+title: Galenskaparna - hits from the past
+date: '2008-04-25T18:33:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-04-25T18:35:22.453+02:00'

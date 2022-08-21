@@ -1,9 +1,11 @@
 ---
 layout: post
-title: The little home genealogist date: '2007-01-31T08:04:00.000+01:00'
+title: The little home genealogist
+date: '2007-01-31T08:04:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - Fun modified_time: '2007-01-31T08:08:00.261+01:00'
+private - Fun
+modified_time: '2007-01-31T08:08:00.261+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5373722382482052424
 blogger_orig_url: http://www.marcusoft.net/2007/01/little-home-genealogist.html
 ---

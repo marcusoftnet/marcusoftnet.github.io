@@ -1,9 +1,10 @@
 ---
 layout: post
-title: PostSharp - a new aspect on coding date: '2008-09-26T16:29:00.002+02:00'
+title: PostSharp - a new aspect on coding
+date: '2008-09-26T16:29:00.002+02:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET
+tags:
+  - VB.NET
   - .NET
   - Life of a consultant
    - Agile

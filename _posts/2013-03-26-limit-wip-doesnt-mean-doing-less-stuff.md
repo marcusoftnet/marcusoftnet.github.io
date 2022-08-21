@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Limit WIP doesn't mean doing less date: '2013-03-26T15:18:00.001+01:00'
+title: Limit WIP doesn't mean doing less
+date: '2013-03-26T15:18:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Kanban - Agile

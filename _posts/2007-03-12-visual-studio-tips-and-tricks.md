@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Visual Studio tips and tricks date: '2007-03-12T14:29:00.000+01:00'
+title: Visual Studio tips and tricks
+date: '2007-03-12T14:29:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

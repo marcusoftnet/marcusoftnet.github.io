@@ -1,6 +1,7 @@
 ---
 layout: post
-title: VasaBand - on the roll date: '2006-11-30T07:41:00.000+01:00'
+title: VasaBand - on the roll
+date: '2006-11-30T07:41:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

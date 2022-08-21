@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Norwegian Brass Band Championships – live date: '2009-02-06T17:18:00.001+01:00'
+title: Norwegian Brass Band Championships – live
+date: '2009-02-06T17:18:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2009-02-06T17:21:18.254+01:00'
+tags:
+  - BrassBand
+modified_time: '2009-02-06T17:21:18.254+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9022070833199977261
 blogger_orig_url: http://www.marcusoft.net/2009/02/norwegian-brass-band-championships-live.html
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How do i - great instruction resource date: '2007-11-07T08:15:00.001+01:00'
+title: How do i - great instruction resource
+date: '2007-11-07T08:15:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET
@@ -24,5 +25,4 @@ Here are my <span>="blsp-spelling-corrected">highlights</span>:
 
 -   [Asp.NET with AJAX](http://www.asp.net/learn/ajax-videos/)
 -   [Windows Forms](http://go.microsoft.com/?linkid=7198818)
--   [Windows Presentation Foundation (<span id="SPELLING_ERROR_5"
-    class="blsp-spelling-error">WPF</span>)](http://go.microsoft.com/?linkid=7198817)
+-   [Windows Presentation Foundation (<span>WPF</span>)](http://go.microsoft.com/?linkid=7198817)

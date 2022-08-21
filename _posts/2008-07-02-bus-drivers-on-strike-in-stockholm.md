@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Bus drivers on strike in Stockholm date: '2008-07-02T07:38:00.003+02:00'
+title: Bus drivers on strike in Stockholm
+date: '2008-07-02T07:38:00.003+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-07-02T07:41:56.830+02:00'

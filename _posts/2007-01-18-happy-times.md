@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Happy times date: '2007-01-18T07:59:00.000+01:00'
+title: Happy times
+date: '2007-01-18T07:59:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2007-01-18T08:06:51.782+01:00'
+private
+modified_time: '2007-01-18T08:06:51.782+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6976323073099803100
 blogger_orig_url: http://www.marcusoft.net/2007/01/happy-times.html ---
 After my last post i feel the need to write something positive, since

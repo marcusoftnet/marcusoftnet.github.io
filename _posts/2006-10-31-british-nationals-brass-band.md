@@ -1,9 +1,11 @@
 ---
 layout: post
-title: British Nationals, Brass band date: '2006-10-31T07:39:00.000+01:00'
+title: British Nationals, Brass band
+date: '2006-10-31T07:39:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2006-10-31T08:08:55.676+01:00'
+tags:
+  - BrassBand
+modified_time: '2006-10-31T08:08:55.676+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2099952499717017670
 blogger_orig_url: http://www.marcusoft.net/2006/10/british-nationals-brass-band.html ---
 The Nationals (British Nationals that is) of this year has been battled

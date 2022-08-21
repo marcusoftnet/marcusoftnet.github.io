@@ -1,9 +1,11 @@
 ---
 layout: post
-title: TeamSystem, MSBuild and ClickOnce date: '2007-06-04T08:02:00.000+02:00'
+title: TeamSystem, MSBuild and ClickOnce
+date: '2007-06-04T08:02:00.000+02:00'
 author: Marcus Hammarberg
 tags: - TFS -
-MSBuild modified_time: '2011-10-03T12:32:50.080+02:00'
+MSBuild
+modified_time: '2011-10-03T12:32:50.080+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2160098077060148442
 blogger_orig_url: http://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
 ---

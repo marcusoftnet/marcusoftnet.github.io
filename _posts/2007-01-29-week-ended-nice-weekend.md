@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Week ended - nice weekend date: '2007-01-29T07:35:00.000+01:00'
+title: Week ended - nice weekend
+date: '2007-01-29T07:35:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2007-01-29T07:45:32.246+01:00' thumbnail:
-http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAEw/UmBOLRCpza4/s72-c/PICT0384.JPG
+private
+modified_time: '2007-01-29T07:45:32.246+01:00'
+thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAEw/UmBOLRCpza4/s72-c/PICT0384.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-917660750540573695
 blogger_orig_url: http://www.marcusoft.net/2007/01/week-ended-nice-weekend.html
 ---

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Vacation time and stress management date: '2009-06-14T17:46:00.001+02:00'
+title: Vacation time and stress management
+date: '2009-06-14T17:46:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - Salvation Army modified_time: '2009-06-14T17:47:21.092+02:00'
+private - Salvation Army
+modified_time: '2009-06-14T17:47:21.092+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5634371849815943142
 blogger_orig_url: http://www.marcusoft.net/2009/06/vacation-time-and-stress-management.html
 ---

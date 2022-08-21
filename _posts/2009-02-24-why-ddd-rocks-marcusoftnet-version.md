@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Why DDD rocks – the marcusoft.net version date: '2009-02-23T21:43:00.001+01:00'
+title: Why DDD rocks – the marcusoft.net version
+date: '2009-02-23T21:43:00.001+01:00'
 author: Marcus Hammarberg
 tags: - DDD -
 Life of a consultant - ASP.NET MVC - TDD

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Music and photos from Vasa Band date: '2009-10-14T22:49:00.001+02:00'
+title: Music and photos from Vasa Band
+date: '2009-10-14T22:49:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

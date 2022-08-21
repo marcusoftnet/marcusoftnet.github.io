@@ -1,9 +1,10 @@
 ---
 layout: post
-title: SpecFlow.Assist.Dynamic–what is it? date: '2011-10-31T08:00:00.000+01:00'
+title: SpecFlow.Assist.Dynamic–what is it?
+date: '2011-10-31T08:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET - C# - SpecFlow
 modified_time: '2011-11-03T16:37:44.638+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4240793233483386742

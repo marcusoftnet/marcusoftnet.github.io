@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Red Beads and Limited WIP Society date: '2009-12-14T22:49:00.001+01:00'
+title: Red Beads and Limited WIP Society
+date: '2009-12-14T22:49:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: What BDD is all about date: '2012-06-14T08:49:00.001+02:00'
+title: What BDD is all about
+date: '2012-06-14T08:49:00.001+02:00'
 author: Marcus Hammarberg
 tags: - BDD -
 Life of a consultant - Agile - TDD

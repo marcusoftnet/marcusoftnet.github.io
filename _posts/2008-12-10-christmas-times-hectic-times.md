@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Christmas times - hectic times date: '2008-12-09T22:48:00.001+01:00'
+title: Christmas times - hectic times
+date: '2008-12-09T22:48:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

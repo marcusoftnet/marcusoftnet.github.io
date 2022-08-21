@@ -1,10 +1,12 @@
 ---
 layout: post
-title: WCF Self-hosting and configuration date: '2008-10-23T10:51:00.002+02:00'
+title: WCF Self-hosting and configuration
+date: '2008-10-23T10:51:00.002+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-WCF modified_time: '2009-01-12T07:59:40.503+01:00'
+WCF
+modified_time: '2009-01-12T07:59:40.503+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6303362849898349646
 blogger_orig_url: http://www.marcusoft.net/2008/10/wcf-self-hosting-and-configuration.html
 ---

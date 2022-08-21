@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Count your lines! Count them one by one date: '2007-06-18T12:11:00.000+02:00'
+title: Count your lines! Count them one by one
+date: '2007-06-18T12:11:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Visual Studio modified_time: '2010-12-14T16:22:38.373+01:00'
+tags:
+  - Tools - Visual Studio
+modified_time: '2010-12-14T16:22:38.373+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-874742231379780996
 blogger_orig_url: http://www.marcusoft.net/2007/06/line-counter.html ---
 Here is something that always is a point of discussion in software

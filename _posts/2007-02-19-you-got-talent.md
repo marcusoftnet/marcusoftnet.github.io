@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You got talent? date: '2007-02-19T08:02:00.000+01:00'
+title: You got talent?
+date: '2007-02-19T08:02:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2010-12-14T16:19:57.887+01:00'

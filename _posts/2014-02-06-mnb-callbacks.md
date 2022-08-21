@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Marcus Node Bits: Callback function is cool
-stuff, and I even know how to write them' date: '2014-02-06T11:50:00.000+01:00'
+stuff, and I even know how to write them'
+date: '2014-02-06T11:50:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-MobProgramming - Javascript
+tags:
+  - MobProgramming - Javascript
    - Tools
 modified_time: '2014-06-02T10:56:52.533+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7442756146419940924

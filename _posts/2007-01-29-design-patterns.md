@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Design patterns date: '2007-01-29T07:54:00.000+01:00'
+title: Design patterns
+date: '2007-01-29T07:54:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.385+01:00'

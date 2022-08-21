@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'ÖreDev day \#5 – keynote and morning' date: '2009-11-06T12:06:00.001+01:00'
+title: 'ÖreDev day \#5 – keynote and morning'
+date: '2009-11-06T12:06:00.001+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 Tools

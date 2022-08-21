@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 2008 European Championships - the results date: '2008-05-05T07:35:00.003+02:00'
+title: 2008 European Championships - the results
+date: '2008-05-05T07:35:00.003+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2008-05-05T07:45:38.479+02:00'
+tags:
+  - BrassBand
+modified_time: '2008-05-05T07:45:38.479+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-884317536801515701
 blogger_orig_url: http://www.marcusoft.net/2008/05/2008-european-championships-results.html
 ---

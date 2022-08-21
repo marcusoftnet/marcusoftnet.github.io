@@ -3,8 +3,9 @@ layout: post
 title: Creating link to TFS Reports in build script
 date: '2008-08-07T14:12:00.004+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools - TFS - MSBuild modified_time: '2010-12-14T16:22:38.258+01:00'
+tags:
+  - Tools - TFS - MSBuild
+modified_time: '2010-12-14T16:22:38.258+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8109744470981793374
 blogger_orig_url: http://www.marcusoft.net/2008/08/creating-link-to-tfs-reports-in-build.html
 ---
@@ -29,8 +30,7 @@ Here I must add that I know these two things:
     But I just want to show that 97% of our code is covered by out unit
     test. Calms the project management...
 -   secondly - it might be a simple thing to tweak the internal XML
-    Transformation of the [<span id="SPELLING_ERROR_4"
-    class="blsp-spelling-error">trx</span>2html](http://www.codeplex.com/trx2html)-tool.
+    Transformation of the [<span>trx</span>2html](http://www.codeplex.com/trx2html)-tool.
     But it doesn't feel good to have tweaked third party code in a
     professional environment.
 
@@ -46,17 +46,14 @@ drop-folder for our build so that all persons interested could see the
 latest results. Here is what I did - not pretty, but it works;
 
 -   I browsed to the report and dragged the link (the little icon in the
-    <span id="SPELLING_ERROR_6"
-    class="blsp-spelling-error">url</span>-field) to my desktop
+    <span>url</span>-field) to my desktop
 -   I opened that "Internet shortcut" in Notepad and copied the <span
     id="SPELLING_ERROR_7" class="blsp-spelling-error">entier</span>
     content
--   Then I added a <span id="SPELLING_ERROR_8"
-    class="blsp-spelling-error">txt</span>-file to my solution and
+-   Then I added a <span>txt</span>-file to my solution and
     pasted the content of the Internet shortcut into that file.
     For some reason you can't add a Internet shortcut to the solution.
--   Then I created a <span id="SPELLING_ERROR_9"
-    class="blsp-spelling-error">MSBuild</span> target that copies the
+-   Then I created a <span>MSBuild</span> target that copies the
     file to the drop location and change its file-extension to .<span
     id="SPELLING_ERROR_10" class="blsp-spelling-error">url</span>.
     Here is my target:

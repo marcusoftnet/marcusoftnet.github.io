@@ -1,6 +1,7 @@
 ---
 layout: post
-title: On constraints date: '2013-01-15T11:17:00.001+01:00'
+title: On constraints
+date: '2013-01-15T11:17:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Agile

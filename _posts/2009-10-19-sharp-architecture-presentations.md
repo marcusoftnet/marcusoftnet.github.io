@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sharp Architecture presentations date: '2009-10-19T17:42:00.001+02:00'
+title: Sharp Architecture presentations
+date: '2009-10-19T17:42:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

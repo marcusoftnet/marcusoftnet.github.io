@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Nerding away... date: '2007-06-01T08:39:00.000+02:00'
+title: Nerding away...
+date: '2007-06-01T08:39:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

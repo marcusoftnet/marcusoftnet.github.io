@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New euphonium sales site date: '2007-11-13T12:17:00.000+01:00'
+title: New euphonium sales site
+date: '2007-11-13T12:17:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Euphonium

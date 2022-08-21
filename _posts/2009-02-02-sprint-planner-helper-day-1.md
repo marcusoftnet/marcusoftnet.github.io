@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Sprint Planner Helper – Session 1 date: '2009-02-01T22:11:00.001+01:00'
+title: Sprint Planner Helper – Session 1
+date: '2009-02-01T22:11:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Sprint
-Planner Helper modified_time: '2009-02-11T22:20:46.906+01:00'
+Planner Helper
+modified_time: '2009-02-11T22:20:46.906+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3916968531467618756
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-day-1.html ---
 

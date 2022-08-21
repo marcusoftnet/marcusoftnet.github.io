@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Results from Swedish Championships date: '2006-11-17T08:07:00.000+01:00'
+title: Results from Swedish Championships
+date: '2006-11-17T08:07:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2006-11-17T15:48:40.034+01:00'
+tags:
+  - BrassBand
+modified_time: '2006-11-17T15:48:40.034+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5508656063660081007
 blogger_orig_url: http://www.marcusoft.net/2006/11/results-from-swedish-championships.html
 ---

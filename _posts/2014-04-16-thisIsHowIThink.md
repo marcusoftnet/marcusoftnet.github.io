@@ -1,13 +1,15 @@
 ---
 layout: post
-title: 'No... this is how I think ' date: '2014-04-16T04:13:00.003+02:00'
+title: 'No... this is how I think '
+date: '2014-04-16T04:13:00.003+02:00'
 author: Marcus Hammarberg
 tags: - Team
 Yayasan - Lean
   - Life of a consultant
    - Agile - Salvation Army -
-Indonesia modified_time: '2014-04-25T09:14:43.300+02:00' thumbnail:
-http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg
+Indonesia
+modified_time: '2014-04-25T09:14:43.300+02:00'
+thumbnail: http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3756488527386682835
 blogger_orig_url: http://www.marcusoft.net/2014/04/thisIsHowIThink.html
 ---

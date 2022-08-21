@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Linq Videos date: '2007-10-30T08:59:00.000+01:00'
+title: Linq Videos
+date: '2007-10-30T08:59:00.000+01:00'
 author: Marcus Hammarberg
 tags: - LINQ
 modified_time: '2010-12-14T16:20:33.398+01:00'

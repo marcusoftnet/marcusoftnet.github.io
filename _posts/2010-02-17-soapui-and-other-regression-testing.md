@@ -3,8 +3,8 @@ layout: post
 title: SOAPUi and others – regression testing services
 date: '2010-02-17T14:40:00.002+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - Agile
 modified_time: '2010-12-14T16:22:38.162+01:00'

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Reference work \#3 – TDD by example' date: '2009-09-17T10:32:00.001+02:00'
+title: 'Reference work \#3 – TDD by example'
+date: '2009-09-17T10:32:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

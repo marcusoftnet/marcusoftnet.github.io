@@ -3,8 +3,8 @@ layout: post
 title: 'Communication and rotting specifications '
 date: '2013-10-17T13:23:00.002+02:00'
 author: Marcus Hammarberg
-tags: -
-BDD
+tags:
+  - BDD
   - Life of a consultant
    - Specification by example - Agile
 modified_time: '2013-10-17T13:25:02.272+02:00'

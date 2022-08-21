@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Happy - and still going date: '2006-11-22T07:30:00.000+01:00'
+title: Happy - and still going
+date: '2006-11-22T07:30:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

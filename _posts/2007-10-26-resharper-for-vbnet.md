@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Resharper! For VB.NET? date: '2007-10-26T10:18:00.000+02:00'
+title: Resharper! For VB.NET?
+date: '2007-10-26T10:18:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET
+tags:
+  - VB.NET
   - Life of a consultant
    - Visual Studio
 modified_time: '2010-12-14T16:21:04.005+01:00'

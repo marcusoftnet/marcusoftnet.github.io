@@ -3,8 +3,8 @@ layout: post
 title: Should I add bugs-scenarios in my specification?
 date: '2012-03-07T20:55:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-BDD - Specification by example - Agile
+tags:
+  - BDD - Specification by example - Agile
 modified_time: '2012-03-27T15:17:19.985+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5573551079010100753
 blogger_orig_url: http://www.marcusoft.net/2012/03/should-i-add-bugs-scenarios-in-my.html

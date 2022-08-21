@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Whose line is it anyway? date: '2008-02-26T07:42:00.002+01:00'
+title: Whose line is it anyway?
+date: '2008-02-26T07:42:00.002+01:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-02-26T07:46:42.348+01:00'

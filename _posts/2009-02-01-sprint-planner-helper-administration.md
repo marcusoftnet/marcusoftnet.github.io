@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Sprint Planner Helper - administration date: '2009-02-01T15:33:00.001+01:00'
+title: Sprint Planner Helper - administration
+date: '2009-02-01T15:33:00.001+01:00'
 author: Marcus Hammarberg
 tags: - TFS -
-Sprint Planner Helper modified_time: '2009-02-01T16:20:33.259+01:00'
+Sprint Planner Helper
+modified_time: '2009-02-01T16:20:33.259+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8227553987869913597
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-administration.html
 ---

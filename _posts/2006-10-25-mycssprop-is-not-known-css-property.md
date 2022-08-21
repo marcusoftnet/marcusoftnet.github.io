@@ -3,8 +3,9 @@ layout: post
 title: '''myCssProp'' is not a known CSS property name'
 date: '2006-10-25T14:06:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-.NET - Visual Studio modified_time: '2010-12-14T16:19:05.676+01:00'
+tags:
+  - .NET - Visual Studio
+modified_time: '2010-12-14T16:19:05.676+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8811774914758431524
 blogger_orig_url: http://www.marcusoft.net/2006/10/mycssprop-is-not-known-css-property.html
 ---

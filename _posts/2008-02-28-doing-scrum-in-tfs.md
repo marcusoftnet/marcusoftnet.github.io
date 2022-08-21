@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Doing SCRUM in TFS date: '2008-02-28T15:45:00.003+01:00'
+title: Doing SCRUM in TFS
+date: '2008-02-28T15:45:00.003+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

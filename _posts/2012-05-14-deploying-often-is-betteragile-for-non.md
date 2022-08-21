@@ -7,8 +7,8 @@ author: Marcus Hammarberg
 tags:
   - Life of a consultant
    - Agile
-modified_time: '2012-05-14T12:28:22.839+02:00' thumbnail:
-http://lh5.ggpht.com/-TR0aKa6a52g/T7DeMuK-SwI/AAAAAAAABO0/-0gfQCQXp38/s72-c/Deploy%252520seldom_thumb%25255B3%25255D.png?imgmax=800
+modified_time: '2012-05-14T12:28:22.839+02:00'
+thumbnail: http://lh5.ggpht.com/-TR0aKa6a52g/T7DeMuK-SwI/AAAAAAAABO0/-0gfQCQXp38/s72-c/Deploy%252520seldom_thumb%25255B3%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1785069010922658762
 blogger_orig_url: http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html
 ---

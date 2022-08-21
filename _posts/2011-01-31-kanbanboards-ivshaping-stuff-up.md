@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Kanbanboards IV–shaping stuff up date: '2011-01-30T21:54:00.001+01:00'
+title: Kanbanboards IV–shaping stuff up
+date: '2011-01-30T21:54:00.001+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 .NET - ASP.NET MVC - KanbanBoards
-modified_time: '2011-01-30T21:55:55.120+01:00' thumbnail:
-http://lh5.ggpht.com/\_TI0jeIedRFk/TUXP0xEoVOI/AAAAAAAAAys/iZt4QifJ2ns/s72-c/slimmed%20controller_thumb.jpg?imgmax=800
+modified_time: '2011-01-30T21:55:55.120+01:00'
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TUXP0xEoVOI/AAAAAAAAAys/iZt4QifJ2ns/s72-c/slimmed%20controller_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5936748023655640119
 blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-up.html
 ---

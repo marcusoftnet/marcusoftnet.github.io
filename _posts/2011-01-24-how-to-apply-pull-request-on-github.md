@@ -9,8 +9,8 @@ tags:
    - Tools
   - .NET
   - Life of a consultant
-modified_time: '2013-08-22T11:58:35.339+02:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/TT098Mo8gnI/AAAAAAAAAws/4E9E1y1stNo/s72-c/tortoise%20git%20sync%20window_thumb.jpg?imgmax=800
+modified_time: '2013-08-22T11:58:35.339+02:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TT098Mo8gnI/AAAAAAAAAws/4E9E1y1stNo/s72-c/tortoise%20git%20sync%20window_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-492786643050013190
 blogger_orig_url: http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html
 ---

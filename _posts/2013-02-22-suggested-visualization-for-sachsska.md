@@ -8,7 +8,8 @@ Hammarberg
 tags:
   - Marcus private
   - Tools - Lean - Life of a
-consultant - Agile modified_time: '2013-02-24T17:51:12.070+01:00'
+consultant - Agile
+modified_time: '2013-02-24T17:51:12.070+01:00'
 thumbnail:
 http://2.bp.blogspot.com/-DPEZjG4KFGE/USpE9u7iwwI/AAAAAAAABa4/MPhZDYVZA_U/s72-c/Screen+Shot+2013-02-24+at+17.50.30+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8029179407855875544

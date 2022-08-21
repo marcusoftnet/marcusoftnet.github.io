@@ -1,6 +1,7 @@
 ---
 layout: post
-title: SpecFlow.Assist.Dynamic–how to use it date: '2011-11-01T08:00:00.000+01:00'
+title: SpecFlow.Assist.Dynamic–how to use it
+date: '2011-11-01T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 Tools

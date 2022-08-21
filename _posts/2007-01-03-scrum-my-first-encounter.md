@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Scrum - my first encounter date: '2007-01-03T16:19:00.000+01:00'
+title: Scrum - my first encounter
+date: '2007-01-03T16:19:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Moving to Indonesia date: '2013-06-10T09:00:00.000+02:00'
+title: Moving to Indonesia
+date: '2013-06-10T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - Lean - Salvation Army - Indonesia

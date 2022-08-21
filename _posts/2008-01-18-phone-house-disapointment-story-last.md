@@ -6,7 +6,8 @@ date: '2008-01-18T08:03:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
-   modified_time: '2008-01-18T08:34:41.658+01:00'
+
+modified_time: '2008-01-18T08:34:41.658+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8981416447779583624
 blogger_orig_url: http://www.marcusoft.net/2008/01/phone-house-disapointment-story-last.html
 ---

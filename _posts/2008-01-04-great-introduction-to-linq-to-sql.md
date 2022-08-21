@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Great introductions to Linq-To-SQL date: '2008-01-04T11:02:00.000+01:00'
+title: Great introductions to Linq-To-SQL
+date: '2008-01-04T11:02:00.000+01:00'
 author: Marcus Hammarberg
 tags: - LINQ
 modified_time: '2008-01-04T13:41:22.909+01:00'

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Windows Azure date: '2009-06-05T16:11:00.001+02:00'
+title: Windows Azure
+date: '2009-06-05T16:11:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.196+01:00'

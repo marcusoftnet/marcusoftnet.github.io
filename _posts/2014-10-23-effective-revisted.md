@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Effective revisted date: '2014-10-23T05:44:00.000+02:00'
+title: Effective revisted
+date: '2014-10-23T05:44:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Lean
+tags:
+  - Tools - Lean
   - Life of a consultant
    - Kanban - Agile - Salvation Army -
-Indonesia modified_time: '2014-10-23T05:44:28.638+02:00' thumbnail:
-http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
+Indonesia
+modified_time: '2014-10-23T05:44:28.638+02:00'
+thumbnail: http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8744532193182995906
 blogger_orig_url: http://www.marcusoft.net/2014/10/effective-revisted.html ---
 

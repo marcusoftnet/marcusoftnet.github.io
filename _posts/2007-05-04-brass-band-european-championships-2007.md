@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Brass band European Championships 2007 date: '2007-05-04T10:20:00.000+02:00'
+title: Brass band European Championships 2007
+date: '2007-05-04T10:20:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2007-05-04T10:28:55.105+02:00'
+tags:
+  - BrassBand
+modified_time: '2007-05-04T10:28:55.105+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2439048477123094484
 blogger_orig_url: http://www.marcusoft.net/2007/05/brass-band-european-championships-2007.html
 ---
@@ -21,10 +23,8 @@ Here is my very "from-the-hip" prediction of how the Europeans will
 end:
 
 1.  Cory
-2.  <span id="SPELLING_ERROR_3"
-    class="blsp-spelling-error">Stavanger</span>
-3.  <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-error">Gothenburg</span>
+2.  <span>Stavanger</span>
+3.  <span>Gothenburg</span>
 
 It of course will have to do with how and what the judes think about the
 different styles of playing.

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: WebCam Server date: '2008-03-18T13:32:00.002+01:00'
+title: WebCam Server
+date: '2008-03-18T13:32:00.002+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
  - Scrum
 modified_time: '2010-12-14T16:22:38.284+01:00'

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Happy all the day date: '2006-11-23T07:58:00.000+01:00'
+title: Happy all the day
+date: '2006-11-23T07:58:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

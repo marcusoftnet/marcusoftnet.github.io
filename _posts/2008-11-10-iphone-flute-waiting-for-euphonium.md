@@ -1,9 +1,11 @@
 ---
 layout: post
-title: IPhone flute - waiting for euphonium date: '2008-11-10T17:48:00.001+01:00'
+title: IPhone flute - waiting for euphonium
+date: '2008-11-10T17:48:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Fun modified_time: '2010-12-14T16:22:38.218+01:00'
+tags:
+  - Tools - Fun
+modified_time: '2010-12-14T16:22:38.218+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4717025218519991188
 blogger_orig_url: http://www.marcusoft.net/2008/11/iphone-flute-waiting-for-euphonium.html
 ---

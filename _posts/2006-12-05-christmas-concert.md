@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Christmas concert date: '2006-12-05T07:30:00.000+01:00'
+title: Christmas concert
+date: '2006-12-05T07:30:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - BrassBand modified_time: '2006-12-05T14:05:44.385+01:00'
+private - BrassBand
+modified_time: '2006-12-05T14:05:44.385+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6301195801056833480
 blogger_orig_url: http://www.marcusoft.net/2006/12/christmas-concert.html
 ---

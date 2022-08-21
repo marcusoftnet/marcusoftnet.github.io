@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Marcus likes... Clipboard.NET date: '2008-08-06T12:29:00.006+02:00'
+title: Marcus likes... Clipboard.NET
+date: '2008-08-06T12:29:00.006+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools

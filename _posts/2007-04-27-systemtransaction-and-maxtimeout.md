@@ -1,10 +1,12 @@
 ---
 layout: post
-title: System.Transaction and maxTimeout date: '2007-04-27T07:45:00.000+02:00'
+title: System.Transaction and maxTimeout
+date: '2007-04-27T07:45:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-Life of a consultant modified_time: '2007-04-27T07:52:15.807+02:00'
+Life of a consultant
+modified_time: '2007-04-27T07:52:15.807+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3176416818371085872
 blogger_orig_url: http://www.marcusoft.net/2007/04/systemtransaction-and-maxtimeout.html
 ---

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Back from the road date: '2006-10-30T08:00:00.000+01:00'
+title: Back from the road
+date: '2006-10-30T08:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand - Euphonium modified_time: '2006-10-30T08:03:48.997+01:00'
+tags:
+  - BrassBand - Euphonium
+modified_time: '2006-10-30T08:03:48.997+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6082049307851792675
 blogger_orig_url: http://www.marcusoft.net/2006/10/back-from-road.html
 ---

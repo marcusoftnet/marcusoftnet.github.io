@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Busy times - our choice? date: '2006-12-04T07:42:00.000+01:00'
+title: Busy times - our choice?
+date: '2006-12-04T07:42:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

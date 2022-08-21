@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Trying Coding Dojo, Kata and Extreme OOP date: '2010-01-05T19:07:00.001+01:00'
+title: Trying Coding Dojo, Kata and Extreme OOP
+date: '2010-01-05T19:07:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-Agile - C# - TDD modified_time: '2010-01-05T19:08:38.992+01:00'
+Agile - C# - TDD
+modified_time: '2010-01-05T19:08:38.992+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3549924587180405623
 blogger_orig_url: http://www.marcusoft.net/2010/01/trying-coding-dojo-kata-and-extreme-oop.html
 ---

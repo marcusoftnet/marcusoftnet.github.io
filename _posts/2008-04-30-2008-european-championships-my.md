@@ -3,8 +3,9 @@ layout: post
 title: 2008 European Championships - my predictions
 date: '2008-04-30T14:22:00.006+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2008-04-30T15:07:36.038+02:00'
+tags:
+  - BrassBand
+modified_time: '2008-04-30T15:07:36.038+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6282714289186759306
 blogger_orig_url: http://www.marcusoft.net/2008/04/2008-european-championships-my.html ---
 It's that great time of the year when the best brass band competition in

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Morning devotional - by friend of mine date: '2007-08-28T08:28:00.000+02:00'
+title: Morning devotional - by friend of mine
+date: '2007-08-28T08:28:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

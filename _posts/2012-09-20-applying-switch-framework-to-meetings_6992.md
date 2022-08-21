@@ -7,8 +7,8 @@ Marcus Hammarberg
 tags:
   - Life of a consultant
    - Agile
-modified_time: '2012-09-20T09:00:09.970+02:00' thumbnail:
-http://3.bp.blogspot.com/\_dVhQbe4S9AM/S0mvWNxDAgI/AAAAAAAAAJ4/uiVFWTex4Bs/s72-c/roti.png
+modified_time: '2012-09-20T09:00:09.970+02:00'
+thumbnail: http://3.bp.blogspot.com/\_dVhQbe4S9AM/S0mvWNxDAgI/AAAAAAAAAJ4/uiVFWTex4Bs/s72-c/roti.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-496174853263675189
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html
 ---

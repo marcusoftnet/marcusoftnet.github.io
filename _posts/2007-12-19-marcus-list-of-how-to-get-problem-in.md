@@ -47,8 +47,7 @@ So here you are; How to get problems:
     will not fire on the first click" are some common comments from web
     developers that you'll never hear a Windows developer say).
     In a nutshell - let Windows handle advanced stuff and let web be
-    simple <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-error">GUI's</span>.
+    simple <span>GUI's</span>.
 
 That a few things from the top of my head. Don't get me wrong here - you
 could very well include some or all of these but then beware - <span

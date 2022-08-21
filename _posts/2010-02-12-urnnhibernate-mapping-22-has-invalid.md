@@ -1,11 +1,13 @@
 ---
 layout: post
 title: ‘urn:nhibernate-mapping-2.2' has invalid child
-element 'property' and Fluent NHibnerate date: '2010-02-12T11:29:00.001+01:00'
+element 'property' and Fluent NHibnerate
+date: '2010-02-12T11:29:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-NHibernate modified_time: '2010-12-14T16:19:35.812+01:00'
+NHibernate
+modified_time: '2010-12-14T16:19:35.812+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8565856852452716878
 blogger_orig_url: http://www.marcusoft.net/2010/02/urnnhibernate-mapping-22-has-invalid.html
 ---

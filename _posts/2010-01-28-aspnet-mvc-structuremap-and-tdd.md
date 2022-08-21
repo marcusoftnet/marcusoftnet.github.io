@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ASP.NET MVC, StructureMap and … TDD? date: '2010-01-28T09:26:00.003+01:00'
+title: ASP.NET MVC, StructureMap and … TDD?
+date: '2010-01-28T09:26:00.003+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 .NET - NHibernate - ASP.NET MVC - Agile - TDD

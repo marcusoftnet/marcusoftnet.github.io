@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Marcusoft - Now in many languages date: '2008-06-14T13:49:00.004+02:00'
+title: Marcusoft - Now in many languages
+date: '2008-06-14T13:49:00.004+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2008-06-14T13:55:37.521+02:00'
+private
+modified_time: '2008-06-14T13:55:37.521+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-865799208095524726
 blogger_orig_url: http://www.marcusoft.net/2008/06/marcusoft-now-in-many-languages.html
 ---

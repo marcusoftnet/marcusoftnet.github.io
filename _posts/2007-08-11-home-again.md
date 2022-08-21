@@ -5,8 +5,8 @@ date: '2007-08-11T17:18:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2007-08-13T08:01:15.215+02:00' thumbnail:
-http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rr3VteMLC1I/AAAAAAAAALU/OYS8dmUkLdA/s72-c/PICT1952.JPG
+modified_time: '2007-08-13T08:01:15.215+02:00'
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rr3VteMLC1I/AAAAAAAAALU/OYS8dmUkLdA/s72-c/PICT1952.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2418878764709914777
 blogger_orig_url: http://www.marcusoft.net/2007/08/home-again.html ---
 [<img

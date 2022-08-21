@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Private source control repository with
-integration in Visual Studio for free date: '2009-10-26T10:36:00.001+01:00'
+integration in Visual Studio for free
+date: '2009-10-26T10:36:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.180+01:00'

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: UpdateModel, FormCollection and unit test date: '2009-03-29T17:22:00.001+02:00'
+title: UpdateModel, FormCollection and unit test
+date: '2009-03-29T17:22:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-ASP.NET MVC - Sprint Planner Helper - TDD
+tags:
+  - ASP.NET MVC - Sprint Planner Helper - TDD
 modified_time: '2009-03-30T21:42:08.943+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1434916614193180165
 blogger_orig_url: http://www.marcusoft.net/2009/03/updatemodel-formcollection-and-unit_5466.html

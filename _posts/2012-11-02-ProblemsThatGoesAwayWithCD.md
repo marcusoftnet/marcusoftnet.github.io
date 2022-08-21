@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Code Freeze, Recompile and Code generations -
-stuff that's not that scary with CD date: '2012-11-02T11:37:00.000+01:00'
+stuff that's not that scary with CD
+date: '2012-11-02T11:37:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Agile - ContinuousDelivery
+tags:
+  - Agile - ContinuousDelivery
 modified_time: '2012-11-02T11:37:35.910+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2349708152375787890
 blogger_orig_url: http://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html ---

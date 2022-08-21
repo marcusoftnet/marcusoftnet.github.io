@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Some experience with uncertainty date: '2013-09-16T15:09:00.001+02:00'
+title: Some experience with uncertainty
+date: '2013-09-16T15:09:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - Agile - Indonesia

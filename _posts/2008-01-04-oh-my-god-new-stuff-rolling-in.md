@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Oh my god - new stuff rolling in date: '2008-01-04T13:47:00.001+01:00'
+title: Oh my god - new stuff rolling in
+date: '2008-01-04T13:47:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET

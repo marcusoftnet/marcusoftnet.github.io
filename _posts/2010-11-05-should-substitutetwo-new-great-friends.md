@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Should & Substitute–two new great friends date: '2010-11-05T09:33:00.001+01:00'
+title: Should & Substitute–two new great friends
+date: '2010-11-05T09:33:00.001+01:00'
 author: Marcus Hammarberg
 tags: - BDD -
 Tools
-  - .NET - TDD modified_time: '2010-12-14T16:22:38.152+01:00'
+  - .NET - TDD
+modified_time: '2010-12-14T16:22:38.152+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1188276247401983374
 blogger_orig_url: http://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html
 ---

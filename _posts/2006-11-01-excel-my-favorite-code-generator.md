@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Excel - my favorite code generator date: '2006-11-01T08:39:00.000+01:00'
+title: Excel - my favorite code generator
+date: '2006-11-01T08:39:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.398+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3263601739160012005

@@ -3,8 +3,8 @@ layout: post
 title: Kanban-inzg the Avega Group Office–reflections
 date: '2011-09-26T22:05:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant - Kanban - Agile
+tags:
+  - Life of a consultant - Kanban - Agile
 modified_time: '2011-09-27T20:27:37.769+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1798314656243096071
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inzg-avega-group.html ---

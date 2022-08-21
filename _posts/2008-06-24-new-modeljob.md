@@ -1,6 +1,7 @@
 ---
 layout: post
-title: New model job date: '2008-06-24T08:23:00.004+02:00'
+title: New model job
+date: '2008-06-24T08:23:00.004+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Pictures from Ethopia date: '2009-05-04T11:20:00.001+02:00'
+title: Pictures from Ethopia
+date: '2009-05-04T11:20:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2009-05-04T11:21:10.473+02:00' thumbnail:
-http://lh5.ggpht.com/\_TI0jeIedRFk/Sf6hivv0UcI/AAAAAAAAAEw/ShS6Hsvm9QA/s72-c/DSC_0536_thumb%5B1%5D.jpg?imgmax=800
+private
+modified_time: '2009-05-04T11:21:10.473+02:00'
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/Sf6hivv0UcI/AAAAAAAAAEw/ShS6Hsvm9QA/s72-c/DSC_0536_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7597305624497546469
 blogger_orig_url: http://www.marcusoft.net/2009/05/pictures-from-ethopia.html ---
 

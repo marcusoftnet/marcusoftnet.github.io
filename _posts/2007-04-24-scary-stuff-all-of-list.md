@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Scary stuff - all of the list date: '2007-04-24T08:05:00.000+02:00'
+title: Scary stuff - all of the list
+date: '2007-04-24T08:05:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private - BrassBand modified_time: '2007-04-24T08:25:14.958+02:00'
+private - BrassBand
+modified_time: '2007-04-24T08:25:14.958+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3635859586967541408
 blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html
 ---
@@ -28,9 +30,7 @@ spoiled the order of the program. From what i heard in the audience that
 didn't interfere much. The band was also in excellent form. Good to
 hear!
 
-Yesterday, Monday, was a sad day when the funeral of [Bengt <span
-id="SPELLING_ERROR_2"
-class="blsp-spelling-error">Eklund</span>](http://marcushammarberg.blogspot.com/2007/04/bengt-eklund.html)
+Yesterday, Monday, was a sad day when the funeral of [Bengt <span>Eklund</span>](http://marcushammarberg.blogspot.com/2007/04/bengt-eklund.html)
 took place. The service was very nice(?) and a lot of fitting and good
 music was played. There was a lot of tears and sobbing though, and the
 farewell from the band is a memory that will stay with me forever. Thank

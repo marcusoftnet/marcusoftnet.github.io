@@ -1,6 +1,7 @@
 ---
 layout: post
-title: VSTS bug... or is it? date: '2007-05-10T07:41:00.000+02:00'
+title: VSTS bug... or is it?
+date: '2007-05-10T07:41:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

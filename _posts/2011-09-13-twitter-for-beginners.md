@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Twitter for beginners date: '2011-09-13T18:49:00.001+02:00'
+title: Twitter for beginners
+date: '2011-09-13T18:49:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
-modified_time: '2011-09-13T20:54:10.365+02:00' thumbnail:
-http://lh5.ggpht.com/-yeoIjXxHBis/Tm-mztJrm3I/AAAAAAAABCk/dSwbVyzD3UM/s72-c/twitter%252520reply%252520chain_thumb%25255B4%25255D.png?imgmax=800
+modified_time: '2011-09-13T20:54:10.365+02:00'
+thumbnail: http://lh5.ggpht.com/-yeoIjXxHBis/Tm-mztJrm3I/AAAAAAAABCk/dSwbVyzD3UM/s72-c/twitter%252520reply%252520chain_thumb%25255B4%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2503147979131111501
 blogger_orig_url: http://www.marcusoft.net/2011/09/twitter-for-beginners.html ---
 

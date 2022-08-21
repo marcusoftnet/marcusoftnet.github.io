@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Scary stuff \#1 - taken down' date: '2007-04-18T13:17:00.000+02:00'
+title: 'Scary stuff \#1 - taken down'
+date: '2007-04-18T13:17:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

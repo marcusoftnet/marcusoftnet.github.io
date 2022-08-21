@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Life changing events date: '2009-11-26T07:58:00.003+01:00'
+title: Life changing events
+date: '2009-11-26T07:58:00.003+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2009-11-27T09:27:54.059+01:00' thumbnail:
-http://1.bp.blogspot.com/\_TI0jeIedRFk/Sw4nZppeWdI/AAAAAAAAAKY/9Qn1DMFJMWY/s72-c/IMG_0054.JPG
+private
+modified_time: '2009-11-27T09:27:54.059+01:00'
+thumbnail: http://1.bp.blogspot.com/\_TI0jeIedRFk/Sw4nZppeWdI/AAAAAAAAAKY/9Qn1DMFJMWY/s72-c/IMG_0054.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5908278279614572935
 blogger_orig_url: http://www.marcusoft.net/2009/11/life-changing-events.html ---
 

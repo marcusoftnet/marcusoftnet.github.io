@@ -7,8 +7,8 @@ Marcus Hammarberg
 tags:
   - Life of a consultant
    - Kanban - Agile
-modified_time: '2011-09-19T09:02:31.079+02:00' thumbnail:
-http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/s72-c/IMG_1334_thumb1.jpg?imgmax=800
+modified_time: '2011-09-19T09:02:31.079+02:00'
+thumbnail: http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/s72-c/IMG_1334_thumb1.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7479834583625300041
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html ---
 This is the second post in a small series on how we helped some parts of

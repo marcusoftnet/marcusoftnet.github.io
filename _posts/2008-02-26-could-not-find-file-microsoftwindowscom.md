@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Could not find file
-'Microsoft.Windows.CommonLanguageRuntime error for testprojects date: '2008-02-26T07:39:00.004+01:00'
+'Microsoft.Windows.CommonLanguageRuntime error for testprojects
+date: '2008-02-26T07:39:00.004+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

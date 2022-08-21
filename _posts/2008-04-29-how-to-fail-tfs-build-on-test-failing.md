@@ -1,9 +1,11 @@
 ---
 layout: post
-title: How to fail a tfs-build on test failing date: '2008-04-29T08:02:00.003+02:00'
+title: How to fail a tfs-build on test failing
+date: '2008-04-29T08:02:00.003+02:00'
 author: Marcus Hammarberg
 tags: - TFS -
-MSBuild modified_time: '2008-04-29T08:18:08.316+02:00'
+MSBuild
+modified_time: '2008-04-29T08:18:08.316+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2628051183812318304
 blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-fail-tfs-build-on-test-failing.html
 ---

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Great tool(s) for VB.Net - Find dead code date: '2007-10-01T09:22:00.000+02:00'
+title: Great tool(s) for VB.Net - Find dead code
+date: '2007-10-01T09:22:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-VB.NET
+tags:
+  - VB.NET
    - Tools - Visual Studio
 modified_time: '2010-12-14T16:22:38.312+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4489020454513942304

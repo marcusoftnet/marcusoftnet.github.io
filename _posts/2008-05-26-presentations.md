@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Presentations date: '2008-05-26T07:59:00.001+02:00'
+title: Presentations
+date: '2008-05-26T07:59:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand - SOA
+tags:
+  - BrassBand - SOA
   - Life of a consultant
    - Euphonium
 modified_time: '2008-05-26T07:59:43.492+02:00'

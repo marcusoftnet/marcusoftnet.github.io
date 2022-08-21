@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Nancy Fx - now you can read her too! ' date: '2013-12-20T08:02:00.000+01:00'
+title: 'Nancy Fx - now you can read her too! '
+date: '2013-12-20T08:02:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Nancy
+tags:
+  - Nancy
    - Tools
   - .NET
   - Life of a consultant

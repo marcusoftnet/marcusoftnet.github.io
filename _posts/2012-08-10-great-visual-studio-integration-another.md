@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Great Visual Studio integration - another of the
-many reasons to upgrade to SpecFlow 1.9 date: '2012-08-09T21:19:00.001+02:00'
+many reasons to upgrade to SpecFlow 1.9
+date: '2012-08-09T21:19:00.001+02:00'
 author: Marcus Hammarberg
 tags: - BDD -
 Tools
-  - .NET - SpecFlow modified_time: '2012-08-09T21:19:52.184+02:00'
+  - .NET - SpecFlow
+modified_time: '2012-08-09T21:19:52.184+02:00'
 thumbnail:
 http://lh3.ggpht.com/-D9-xHMNcQZs/UCQNLj2AYcI/AAAAAAAABRk/fMIrv2IHpLI/s72-c/Screen%252520Shot%2525202012-08-09%252520at%25252021.09.06_thumb.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4917334123497966173

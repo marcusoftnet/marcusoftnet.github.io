@@ -1,6 +1,7 @@
 ---
 layout: post
-title: DDD – what’s the deal? date: '2009-05-18T19:12:00.001+02:00'
+title: DDD – what’s the deal?
+date: '2009-05-18T19:12:00.001+02:00'
 author: Marcus Hammarberg
 tags: - DDD
 modified_time: '2009-05-18T19:27:37.595+02:00'

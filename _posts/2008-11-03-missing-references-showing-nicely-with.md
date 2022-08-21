@@ -3,8 +3,9 @@ layout: post
 title: Missing references showing nicely with ReSharper
 date: '2008-11-03T15:35:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant modified_time: '2010-12-14T16:21:03.985+01:00'
+tags:
+  - Life of a consultant
+modified_time: '2010-12-14T16:21:03.985+01:00'
 thumbnail:
 http://lh4.ggpht.com/\_kkDJOSPNTLs/SQ8MPLCoO2I/AAAAAAAAAYM/DDAEMUZHpoY/s72-c/config_thumb%5B7%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8485039993098283981

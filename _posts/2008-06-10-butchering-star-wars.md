@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Butchering Star Wars date: '2008-06-10T08:18:00.003+02:00'
+title: Butchering Star Wars
+date: '2008-06-10T08:18:00.003+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2008-06-10T08:22:09.416+02:00'

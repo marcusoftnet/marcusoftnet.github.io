@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Get a life! Now! date: '2007-07-05T15:20:00.000+02:00'
+title: Get a life! Now!
+date: '2007-07-05T15:20:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-07-05T15:22:38.297+02:00'

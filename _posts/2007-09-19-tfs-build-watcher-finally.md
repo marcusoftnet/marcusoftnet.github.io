@@ -1,9 +1,10 @@
 ---
 layout: post
-title: TFS Build watcher - finally date: '2007-09-19T10:33:00.000+02:00'
+title: TFS Build watcher - finally
+date: '2007-09-19T10:33:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - TFS
 modified_time: '2010-12-14T16:22:38.318+01:00'

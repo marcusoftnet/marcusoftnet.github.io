@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Sprint Planner Helper – final date: '2009-05-14T10:15:00.001+02:00'
+title: Sprint Planner Helper – final
+date: '2009-05-14T10:15:00.001+02:00'
 author: Marcus Hammarberg
 tags: - DDD -
 Sprint Planner Helper - TDD

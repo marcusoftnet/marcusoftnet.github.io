@@ -1,6 +1,7 @@
 ---
 layout: post
-title: TDD for kids date: '2012-11-14T11:38:00.001+01:00'
+title: TDD for kids
+date: '2012-11-14T11:38:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

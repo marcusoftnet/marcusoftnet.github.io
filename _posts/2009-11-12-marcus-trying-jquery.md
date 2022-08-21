@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Marcus trying JQuery date: '2009-11-12T14:54:00.001+01:00'
+title: Marcus trying JQuery
+date: '2009-11-12T14:54:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET - Web Design
   - Life of a consultant
    - ASP.NET MVC

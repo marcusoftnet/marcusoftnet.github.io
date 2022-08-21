@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Group coding–a knowledge sharing tool date: '2010-12-10T10:17:00.001+01:00'
+title: Group coding–a knowledge sharing tool
+date: '2010-12-10T10:17:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

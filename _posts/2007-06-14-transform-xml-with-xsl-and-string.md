@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Transform XML with XSL, and string date: '2007-06-14T08:55:00.000+02:00'
+title: Transform XML with XSL, and string
+date: '2007-06-14T08:55:00.000+02:00'
 author: Marcus Hammarberg
 tags: - VB.NET
 modified_time: '2007-06-14T13:43:29.854+02:00'

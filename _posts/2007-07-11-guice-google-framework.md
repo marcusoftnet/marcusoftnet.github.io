@@ -1,9 +1,10 @@
 ---
 layout: post
-title: GUICE - a google framework date: '2007-07-11T07:26:00.000+02:00'
+title: GUICE - a google framework
+date: '2007-07-11T07:26:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.342+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7333737680150081575

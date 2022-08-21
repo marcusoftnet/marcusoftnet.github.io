@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Vasa Band does it again date: '2009-10-12T22:05:00.001+02:00'
+title: Vasa Band does it again
+date: '2009-10-12T22:05:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

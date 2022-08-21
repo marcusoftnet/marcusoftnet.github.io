@@ -1,6 +1,7 @@
 ---
 layout: post
-title: WCF - introductions date: '2008-02-29T07:51:00.005+01:00'
+title: WCF - introductions
+date: '2008-02-29T07:51:00.005+01:00'
 author: Marcus Hammarberg
 tags: - WCF
 modified_time: '2010-12-14T16:20:33.362+01:00'

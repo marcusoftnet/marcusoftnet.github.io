@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Abbe in the pulka-slopes date: '2009-02-23T19:12:00.001+01:00'
+title: Abbe in the pulka-slopes
+date: '2009-02-23T19:12:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2009-02-23T19:22:59.588+01:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/SaLnLQQakTI/AAAAAAAAACw/i3-cXOkvzG0/s72-c/DSC_0291_thumb.jpg?imgmax=800
+private
+modified_time: '2009-02-23T19:22:59.588+01:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/SaLnLQQakTI/AAAAAAAAACw/i3-cXOkvzG0/s72-c/DSC_0291_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4661288536482602952
 blogger_orig_url: http://www.marcusoft.net/2009/02/abbe-in-pulka-slopes.html ---
 

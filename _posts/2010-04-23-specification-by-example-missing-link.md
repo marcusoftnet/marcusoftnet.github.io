@@ -3,8 +3,8 @@ layout: post
 title: Specification by example – the missing link?
 date: '2010-04-22T20:01:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-BDD - DDD
+tags:
+  - BDD - DDD
   - Life of a consultant
    - Kanban
   - Scrum

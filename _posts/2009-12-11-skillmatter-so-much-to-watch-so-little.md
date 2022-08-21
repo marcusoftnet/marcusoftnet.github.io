@@ -3,8 +3,8 @@ layout: post
 title: Skillsmatter – so much to watch, so little time
 date: '2009-12-11T10:18:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-BDD
+tags:
+  - BDD
   - .NET
   - Life of a consultant
    - Agile

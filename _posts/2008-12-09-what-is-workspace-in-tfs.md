@@ -1,6 +1,7 @@
 ---
 layout: post
-title: What is a workspace in TFS? date: '2008-12-09T09:31:00.001+01:00'
+title: What is a workspace in TFS?
+date: '2008-12-09T09:31:00.001+01:00'
 author: Marcus Hammarberg
 tags: - TFS
 modified_time: '2008-12-09T09:31:25.606+01:00'

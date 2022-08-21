@@ -1,6 +1,7 @@
 ---
 layout: post
-title: WebDesign - a great introduction date: '2008-01-14T14:51:00.000+01:00'
+title: WebDesign - a great introduction
+date: '2008-01-14T14:51:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Web
 Design

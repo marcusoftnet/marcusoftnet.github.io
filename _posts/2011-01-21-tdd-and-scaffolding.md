@@ -1,10 +1,12 @@
 ---
 layout: post
-title: TDD and Scaffolding date: '2011-01-21T15:04:00.001+01:00'
+title: TDD and Scaffolding
+date: '2011-01-21T15:04:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -
-ASP.NET MVC - TDD modified_time: '2011-01-21T15:04:00.334+01:00'
+ASP.NET MVC - TDD
+modified_time: '2011-01-21T15:04:00.334+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5436875631721491002
 blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html ---
 

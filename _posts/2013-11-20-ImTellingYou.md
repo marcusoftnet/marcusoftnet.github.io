@@ -3,8 +3,8 @@ layout: post
 title: I'm telling you for the last time - Marcus style
 date: '2013-11-20T15:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-BDD - Lean
+tags:
+  - BDD - Lean
   - Life of a consultant
    - Specification by example - Kanban -
 Scrum - Agile - C# - SpecFlow

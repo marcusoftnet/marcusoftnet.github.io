@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Impact Mapping - great book, great tool date: '2012-12-03T09:00:00.000+01:00'
+title: Impact Mapping - great book, great tool
+date: '2012-12-03T09:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - Life of a consultant
    - Agile - ContinuousDelivery
 modified_time: '2012-12-03T09:00:02.636+01:00'

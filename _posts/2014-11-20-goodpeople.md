@@ -3,8 +3,8 @@ layout: post
 title: 'A good person and a bad system - my take '
 date: '2014-11-20T09:07:00.000+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Lean
+tags:
+  - Tools - Lean
   - Life of a consultant
    - Kanban - Agile
 modified_time: '2014-11-20T09:10:26.530+01:00'

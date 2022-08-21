@@ -7,8 +7,8 @@ author: Marcus
 Hammarberg
 tags: - BDD
   - .NET - SpecFlow
-modified_time: '2013-04-07T20:31:58.395+02:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/TY5UwUjWZkI/AAAAAAAAA7c/cCrQjjWIuao/s72-c/marking%20steps%20as%20pending_thumb.jpg?imgmax=800
+modified_time: '2013-04-07T20:31:58.395+02:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TY5UwUjWZkI/AAAAAAAAA7c/cCrQjjWIuao/s72-c/marking%20steps%20as%20pending_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6352021831868808402
 blogger_orig_url: http://www.marcusoft.net/2011/03/two-types-in-specflow-scenariocontext.html
 ---

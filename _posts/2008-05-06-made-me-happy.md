@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Made me smile date: '2008-05-06T07:58:00.002+02:00'
+title: Made me smile
+date: '2008-05-06T07:58:00.002+02:00'
 author: Marcus Hammarberg tags:
 modified_time: '2008-05-06T08:45:08.976+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7543601996402260284

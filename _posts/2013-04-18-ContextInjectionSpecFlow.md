@@ -3,8 +3,8 @@ layout: post
 title: Context injection of driver object in SpecFlow
 date: '2013-04-18T08:00:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-BDD
+tags:
+  - BDD
    - Tools
   - .NET - Specification by example - C# - SpecFlow
 modified_time: '2013-04-18T08:00:02.781+02:00'

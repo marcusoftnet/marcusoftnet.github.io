@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Way out book on Ruby date: '2008-05-08T14:28:00.002+02:00'
+title: Way out book on Ruby
+date: '2008-05-08T14:28:00.002+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

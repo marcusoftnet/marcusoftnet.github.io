@@ -1,6 +1,7 @@
 ---
 layout: post
-title: In Control II - Bobby McFerrin date: '2008-08-06T07:45:00.003+02:00'
+title: In Control II - Bobby McFerrin
+date: '2008-08-06T07:45:00.003+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2010-12-14T16:19:57.874+01:00'

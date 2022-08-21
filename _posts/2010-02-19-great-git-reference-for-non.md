@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Great Git-reference for non-commandliners date: '2010-02-19T09:12:00.001+01:00'
+title: Great Git-reference for non-commandliners
+date: '2010-02-19T09:12:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.161+01:00'

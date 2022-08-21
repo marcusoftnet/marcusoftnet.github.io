@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Who writes the specification, now again? date: '2011-09-13T19:30:00.001+02:00'
+title: Who writes the specification, now again?
+date: '2011-09-13T19:30:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Specification by example - Agile
+tags:
+  - Specification by example - Agile
 modified_time: '2011-09-13T22:16:34.263+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4387080625349899534
 blogger_orig_url: http://www.marcusoft.net/2011/09/who-writes-specification-now-again.html

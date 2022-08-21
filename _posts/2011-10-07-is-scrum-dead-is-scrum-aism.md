@@ -3,10 +3,11 @@ layout: post
 title: Is Scrum a –ism that doesn’t work for real?
 date: '2011-10-07T10:42:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Kanban
+tags:
+  - Kanban
   - Scrum
-   - Agile modified_time: '2011-11-03T19:48:44.402+01:00'
+   - Agile
+modified_time: '2011-11-03T19:48:44.402+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4605714862823598113
 blogger_orig_url: http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html ---
 The other day I got my hands on the

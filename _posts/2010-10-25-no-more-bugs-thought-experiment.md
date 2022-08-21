@@ -1,6 +1,7 @@
 ---
 layout: post
-title: No more bugs – a thought experiment date: '2010-10-25T11:54:00.001+02:00'
+title: No more bugs – a thought experiment
+date: '2010-10-25T11:54:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

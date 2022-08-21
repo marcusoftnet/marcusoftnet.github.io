@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Casting in VB.NET date: '2010-02-08T08:45:00.001+01:00'
+title: Casting in VB.NET
+date: '2010-02-08T08:45:00.001+01:00'
 author: Marcus Hammarberg
 tags: - VB.NET
 modified_time: '2010-02-08T08:48:01.372+01:00'

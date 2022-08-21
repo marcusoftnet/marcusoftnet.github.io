@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Candy-exposure date: '2007-08-20T09:39:00.000+02:00'
+title: Candy-exposure
+date: '2007-08-20T09:39:00.000+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
-private modified_time: '2007-08-20T14:48:10.212+02:00'
+private
+modified_time: '2007-08-20T14:48:10.212+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2956868458258965011
 blogger_orig_url: http://www.marcusoft.net/2007/08/candy-exposure.html
 ---
@@ -21,8 +23,7 @@ that sign:
     have it. Could you please have a cashier with no candy in it and put
     a sign above it so i know which one it is?"
 -   "(smack) Yeah, i know i should not (chew, chew) eat these - but hey
-    (<span id="SPELLING_ERROR_1"
-    class="blsp-spelling-error">gromp</span>) it's not my fault. Did you
+    (<span>gromp</span>) it's not my fault. Did you
     know that they put candy IN THE CASHIER??!! (smack) I stand helpless
     to that."
 

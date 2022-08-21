@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Design patterns II date: '2008-04-21T07:31:00.003+02:00'
+title: Design patterns II
+date: '2008-04-21T07:31:00.003+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   modified_time: '2008-04-21T07:39:22.134+02:00'
+
+modified_time: '2008-04-21T07:39:22.134+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1993322310507066871
 blogger_orig_url: http://www.marcusoft.net/2008/04/great-book-head-first-design-patterns.html
 ---

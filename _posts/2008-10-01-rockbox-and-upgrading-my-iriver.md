@@ -1,6 +1,7 @@
 ---
 layout: post
-title: RockBox and upgrading my IRiver date: '2008-10-01T12:26:00.001+02:00'
+title: RockBox and upgrading my IRiver
+date: '2008-10-01T12:26:00.001+02:00'
 author: Marcus Hammarberg tags:
 modified_time: '2008-10-01T12:28:28.964+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5877411300635892001

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: In control III - trombonists date: '2008-08-21T08:29:00.006+02:00'
+title: In control III - trombonists
+date: '2008-08-21T08:29:00.006+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand - Fun modified_time: '2008-08-22T09:27:20.060+02:00'
+tags:
+  - BrassBand - Fun
+modified_time: '2008-08-22T09:27:20.060+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2960134539198474093
 blogger_orig_url: http://www.marcusoft.net/2008/08/in-control-iii-trombonist.html
 ---

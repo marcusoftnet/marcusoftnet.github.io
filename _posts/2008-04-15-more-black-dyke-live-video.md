@@ -1,9 +1,11 @@
 ---
 layout: post
-title: More Black Dyke live video date: '2008-04-15T15:15:00.003+02:00'
+title: More Black Dyke live video
+date: '2008-04-15T15:15:00.003+02:00'
 author: Marcus Hammarberg
-tags: -
-BrassBand modified_time: '2008-04-16T07:56:42.541+02:00'
+tags:
+  - BrassBand
+modified_time: '2008-04-16T07:56:42.541+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2986599036065042380
 blogger_orig_url: http://www.marcusoft.net/2008/04/more-black-dyke-live-video.html
 ---

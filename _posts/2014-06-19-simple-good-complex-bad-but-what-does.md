@@ -7,8 +7,8 @@ author: Marcus Hammarberg
 tags: - Lean
   - Life of a consultant
    - Agile - Salvation Army
-modified_time: '2014-06-19T09:42:17.939+02:00' thumbnail:
-http://lh3.ggpht.com/-ZEP86dSBYcs/U6KT2VJntNI/AAAAAAAAEa0/yKk2l_sgQNo/s72-c/Slide3_thumb%25255B1%25255D.png?imgmax=800
+modified_time: '2014-06-19T09:42:17.939+02:00'
+thumbnail: http://lh3.ggpht.com/-ZEP86dSBYcs/U6KT2VJntNI/AAAAAAAAEa0/yKk2l_sgQNo/s72-c/Slide3_thumb%25255B1%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1426830830628928525
 blogger_orig_url: http://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html
 ---
@@ -34,8 +34,6 @@ This is a so called
 that nobody says again, but I fail to reach just about all the time. I
 find it very useful as a guiding north star both in organizations and
 programming. But what does it really mean?
-
-
 
 I have the good fortune to coach some managers in my current position
 and today we got to talk about that statement above with one of them.
@@ -77,7 +75,7 @@ one example from yesterday.
 
 Two very simple things that we have tried lately is:
 
--   make a board with a post-it for every task we’re doing. Do 3 columns
+- make a board with a post-it for every task we’re doing. Do 3 columns
     (To do, Doing & Done), meet everyday and ask people how every task
     is going (see below). Only that. Yeah, this is a the embryo to a
     <a href="http://bit.ly/theKanbanBook" target="_blank">kanban</a>
@@ -85,7 +83,7 @@ Two very simple things that we have tried lately is:
     For the current situation I’m helping to improve the communication
     in the organization. And by using this simple tool it was restarted
     in minutes. Just by showing people the information.
--   Create a hand drawn diagram (like the one above) for some important
+- Create a hand drawn diagram (like the one above) for some important
     metric your organization is trying to reach. Put it close to the
     entrance for the employees. Update it daily. Ask people what they
     think about that number, or if they want to track another number.
@@ -131,10 +129,10 @@ other part of Simple is to me short feedback loops. For example, when we
 create the board with task as above, we meet *daily* to talk about it.
 This has a number of advantages over meeting once a week:
 
--   the information is current
--   the meeting feels relevant
--   the meeting is short
--   problems that will occur (I’m saying anything else) will be small
+- the information is current
+- the meeting feels relevant
+- the meeting is short
+- problems that will occur (I’m saying anything else) will be small
 
 Funnily enough; if you meet seldom you can go through that list and make
 the opposites… And you <a
@@ -150,14 +148,14 @@ the other part of the heading – making things concrete often.
 When doing software development nowadays we try to make things concreter
 earlier by for example:
 
--   writing test cases on how the functionality should work before we
+- writing test cases on how the functionality should work before we
     write the application. In order to do so we have to think about HOW
     the system should work without being bogged down with WHAT we need
     to build to make that happen.
--   we run automated tests often. Several times an hours. Because this
+- we run automated tests often. Several times an hours. Because this
     makes our current progress concrete. “Now that I’ve changed this
     little calculation, does everything else work?”
--   we deploy to production often. Several times a day. Even for big
+- we deploy to production often. Several times a day. Even for big
     sites like
     <a href="http://www.google.com" target="_blank">Google</a> (did you
     see
@@ -171,11 +169,11 @@ earlier by for example:
 
 Examples in the business world might be:
 
--   post the cash from the cashier to the bank everyday, so that we get
+- post the cash from the cashier to the bank everyday, so that we get
     a concrete summation for every day.
--   track progress towards our project goal daily, so that we don’t go
+- track progress towards our project goal daily, so that we don’t go
     astray for a long time before being noticed about it
--   automate the creating of financial statements for the company so
+- automate the creating of financial statements for the company so
     that it can be created daily, so that we with little or no effort
     can create this and have granular progress tracking
 
@@ -201,7 +199,7 @@ Here’s an example from the world of accounting.
 > class="wlEmoticon wlEmoticon-confusedsmile"
 > style="border-top-style: none; border-bottom-style: none; border-right-style: none; border-left-style: none"
 > alt="Confused smile" />). Since it only occurred during the day in
-> question the problem cannot be that complex to untangle. 
+> question the problem cannot be that complex to untangle.
 >
 > On the other hand: if you post to the bank on a monthly basis, you get
 > the opportunity to verify your accounting against the concrete money
@@ -226,14 +224,14 @@ in that is up to you.
 
 Well… it’s basically the opposite of the above:
 
--   the opposite of transparency is *hiding information,* often in
+- the opposite of transparency is *hiding information,* often in
     complicated process built in for control, since the information is
     hidden…. \[big breath\] often in complicated process built for
     control of the process, since the information is not open and known
     in the company. This often creates more complicated processes that’s
     needed to control…
     I’ll stop there. Continue for as long as you see it fit.
--   the opposite of short feedback loops are *long feedback loops* and
+- the opposite of short feedback loops are *long feedback loops* and
     making things *concrete seldom*. For example, deploying software 3-4
     times a year. Making each release risky, hard and complicated. Or
     creating a financial statement only at the end of each year,
@@ -257,4 +255,4 @@ Transparent so that as many as possible knows the information and can
 see it, think about it, question it and suggest new ideas. And feel safe
 doing so. Short iterations so that we quickly get feedback on our
 actions, so that we’re rather working with small things quickly than big
-(or a lot of small) slowly. 
+(or a lot of small) slowly.

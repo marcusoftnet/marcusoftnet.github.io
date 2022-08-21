@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lots of things to do date: '2007-01-22T07:33:00.000+01:00'
+title: Lots of things to do
+date: '2007-01-22T07:33:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

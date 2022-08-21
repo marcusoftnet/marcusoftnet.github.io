@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gods care through the Band Tune Book date: '2014-10-31T08:03:00.001+01:00'
+title: Gods care through the Band Tune Book
+date: '2014-10-31T08:03:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - Euphonium - Salvation Army

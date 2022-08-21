@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Weekend over - let's rest date: '2008-06-02T08:05:00.001+02:00'
+title: Weekend over - let's rest
+date: '2008-06-02T08:05:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

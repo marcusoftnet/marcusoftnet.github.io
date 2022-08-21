@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Builds with TFS 2008 - soon... date: '2007-12-05T14:23:00.000+01:00'
+title: Builds with TFS 2008 - soon...
+date: '2007-12-05T14:23:00.000+01:00'
 author: Marcus Hammarberg
 tags: - TFS
 modified_time: '2010-12-14T16:20:33.382+01:00'

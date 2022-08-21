@@ -10,8 +10,8 @@ tags:
   - Life of a consultant
    - Kanban -
 Agile - Salvation Army - Indonesia
-modified_time: '2014-10-21T09:34:05.245+02:00' thumbnail:
-http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s72-c/kanbanInAction.improvement.jpg
+modified_time: '2014-10-21T09:34:05.245+02:00'
+thumbnail: http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s72-c/kanbanInAction.improvement.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4129921012150118099
 blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html ---
 

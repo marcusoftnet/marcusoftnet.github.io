@@ -5,7 +5,8 @@ type mapping
 date: '2008-09-04T20:08:00.001+02:00'
 author: Marcus
 Hammarberg
-tags: modified_time: '2008-09-04T20:08:58.121+02:00'
+tags:
+modified_time: '2008-09-04T20:08:58.121+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357478391735284163
 blogger_orig_url: http://www.marcusoft.net/2008/09/more-on-enterprise-library-entlib.html
 ---

@@ -9,8 +9,8 @@ tags: - BDD
   - .NET
   - Life of a consultant
    - SpecFlow
-modified_time: '2011-04-11T16:31:19.845+02:00' thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/TZ1Im7jduEI/AAAAAAAAA9U/L1rx7v20vnc/s72-c/step%20defintion_thumb.jpg?imgmax=800
+modified_time: '2011-04-11T16:31:19.845+02:00'
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TZ1Im7jduEI/AAAAAAAAA9U/L1rx7v20vnc/s72-c/step%20defintion_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2188015318186471315
 blogger_orig_url: http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html
 ---

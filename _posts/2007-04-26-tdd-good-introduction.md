@@ -1,6 +1,7 @@
 ---
 layout: post
-title: TDD - good introduction date: '2007-04-26T08:35:00.000+02:00'
+title: TDD - good introduction
+date: '2007-04-26T08:35:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant

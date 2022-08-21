@@ -3,8 +3,8 @@ layout: post
 title: What I've should done - my Jerk-store moment
 date: '2014-08-04T08:25:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Lean
+tags:
+  - Lean
   - Life of a consultant
    - Kanban
   - Scrum

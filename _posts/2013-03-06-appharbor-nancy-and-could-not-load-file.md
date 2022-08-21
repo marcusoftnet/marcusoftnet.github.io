@@ -1,14 +1,15 @@
 ---
 layout: post
 title: AppHarbor, Nancy and the Could not load file or
-assembly 'Nancy.ViewEngines.Razor.BuildProviders' error date: '2013-03-06T11:35:00.000+01:00'
+assembly 'Nancy.ViewEngines.Razor.BuildProviders' error
+date: '2013-03-06T11:35:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - Nancy
    - Tools
   - .NET - ContinuousDelivery
-modified_time: '2013-03-06T11:35:19.266+01:00' thumbnail:
-http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s72-c/Screen+Shot+2013-03-06+at+09.28.37+.png
+modified_time: '2013-03-06T11:35:19.266+01:00'
+thumbnail: http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s72-c/Screen+Shot+2013-03-06+at+09.28.37+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2452370248443791950
 blogger_orig_url: http://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not-load-file.html
 ---

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Screencast on Getting started with Koa Js date: '2014-05-19T06:42:00.001+02:00'
+title: Screencast on Getting started with Koa Js
+date: '2014-05-19T06:42:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Javascript
+tags:
+  - Javascript
    - Tools - Koa
   - Life of a consultant
 modified_time: '2014-05-19T10:44:20.456+02:00'

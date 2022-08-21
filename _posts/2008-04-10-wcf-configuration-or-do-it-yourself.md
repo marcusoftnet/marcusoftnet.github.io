@@ -1,6 +1,7 @@
 ---
 layout: post
-title: WCF configuration or Do it yourself date: '2008-04-10T12:32:00.006+02:00'
+title: WCF configuration or Do it yourself
+date: '2008-04-10T12:32:00.006+02:00'
 author: Marcus Hammarberg
 tags: - WCF
 modified_time: '2010-12-14T16:20:33.297+01:00'

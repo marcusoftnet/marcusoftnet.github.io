@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Weekend report - part 1 date: '2007-12-10T07:57:00.000+01:00'
+title: Weekend report - part 1
+date: '2007-12-10T07:57:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private - BrassBand - Salvation Army

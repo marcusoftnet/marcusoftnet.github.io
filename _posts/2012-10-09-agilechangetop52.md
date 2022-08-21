@@ -3,8 +3,8 @@ layout: post
 title: 'Top 5 Agile change tips \#2 - Sit together'
 date: '2012-10-09T09:00:00.000+02:00'
 author: Marcus Hammarberg
-tags: -
-Life of a consultant - Agile
+tags:
+  - Life of a consultant - Agile
 modified_time: '2012-10-09T09:00:17.255+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7185681103015336810
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop52.html

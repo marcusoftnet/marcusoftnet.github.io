@@ -1,9 +1,11 @@
 ---
 layout: post
-title: TeamSystem Builds date: '2007-05-29T08:04:00.000+02:00'
+title: TeamSystem Builds
+date: '2007-05-29T08:04:00.000+02:00'
 author: Marcus Hammarberg
 tags: - TFS -
-MSBuild modified_time: '2007-09-25T08:09:36.661+02:00'
+MSBuild
+modified_time: '2007-09-25T08:09:36.661+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1383699674345464248
 blogger_orig_url: http://www.marcusoft.net/2007/05/teamsystem-builds.html
 ---
@@ -31,14 +33,11 @@ started off:
     file](http://blogs.msdn.com/nagarajp/archive/2005/10/27/485980.aspx)
 -   [The order of which the events are
     fired](http://blogs.msdn.com/nagarajp/archive/2005/11/03/488876.aspx)
--   [How to create a <span id="SPELLING_ERROR_1"
-    class="blsp-spelling-error">manifestfile</span> with <span
+-   [How to create a <span>manifestfile</span> with <span
     id="SPELLING_ERROR_2"
     class="blsp-spelling-error">msbuild</span>](http://blogs.msdn.com/echarran/archive/2006/08/09/693284.aspx)
--   [How to do a <span id="SPELLING_ERROR_3"
-    class="blsp-spelling-error">ClickOnce</span>-deployment from the
-    <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-error">msbuild</span>-script](http://blogs.vertigosoftware.com/teamsystem/archive/2007/02/20/Incorporating_a_ClickOnce_Application_into_your_Team_Build.aspx)
+-   [How to do a <span>ClickOnce</span>-deployment from the
+    <span>msbuild</span>-script](http://blogs.vertigosoftware.com/teamsystem/archive/2007/02/20/Incorporating_a_ClickOnce_Application_into_your_Team_Build.aspx)
 
 The big thing to find out right now is how to incorporate a <span
 id="SPELLING_ERROR_5"

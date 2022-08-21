@@ -1,9 +1,10 @@
 ---
 layout: post
-title: cc all the things date: '2014-10-16T11:02:00.001+02:00'
+title: cc all the things
+date: '2014-10-16T11:02:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Tools - Lean
+tags:
+  - Tools - Lean
   - Life of a consultant
    - Kanban - Agile
 modified_time: '2014-10-16T11:02:16.304+02:00'

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Run as for MSI-files date: '2008-08-07T13:56:00.001+02:00'
+title: Run as for MSI-files
+date: '2008-08-07T13:56:00.001+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools

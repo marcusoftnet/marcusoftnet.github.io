@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Rhetorics - a good start date: '2008-01-21T07:53:00.000+01:00'
+title: Rhetorics - a good start
+date: '2008-01-21T07:53:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

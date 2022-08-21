@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Mor i skutan date: '2007-08-28T15:45:00.001+02:00'
+title: Mor i skutan
+date: '2007-08-28T15:45:00.001+02:00'
 author: Marcus Hammarberg
 tags: - Fun
 modified_time: '2007-08-28T15:48:34.473+02:00'

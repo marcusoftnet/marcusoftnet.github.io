@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Deploying ASP.NET MVC on IIS6 date: '2009-12-18T14:07:00.002+01:00'
+title: Deploying ASP.NET MVC on IIS6
+date: '2009-12-18T14:07:00.002+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

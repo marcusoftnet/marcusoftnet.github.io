@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Connectionstring.com - great resource date: '2008-08-22T13:05:00.001+02:00'
+title: Connectionstring.com - great resource
+date: '2008-08-22T13:05:00.001+02:00'
 author: Marcus Hammarberg
 tags:
    - Tools

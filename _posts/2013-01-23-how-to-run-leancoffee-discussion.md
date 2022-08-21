@@ -1,6 +1,7 @@
 ---
 layout: post
-title: How to run a LeanCoffee discussion date: '2013-01-23T08:00:00.000+01:00'
+title: How to run a LeanCoffee discussion
+date: '2013-01-23T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Agile

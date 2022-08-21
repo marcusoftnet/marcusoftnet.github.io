@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Avega - I like it! date: '2008-05-05T07:45:00.006+02:00'
+title: Avega - I like it!
+date: '2008-05-05T07:45:00.006+02:00'
 author: Marcus Hammarberg
 tags: - Marcus
 private

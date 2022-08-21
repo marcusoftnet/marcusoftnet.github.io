@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '"Do you think Kanban can help us?"' date: '2014-03-24T08:00:00.000+01:00'
+title: '"Do you think Kanban can help us?"'
+date: '2014-03-24T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags: - Lean -
 Life of a consultant - Kanban - Agile

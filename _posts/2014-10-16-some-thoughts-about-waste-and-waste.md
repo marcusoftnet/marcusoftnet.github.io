@@ -3,8 +3,8 @@ layout: post
 title: Some thoughts about waste and waste reduction
 date: '2014-10-16T10:39:00.001+02:00'
 author: Marcus Hammarberg
-tags: -
-Lean
+tags:
+  - Lean
   - Life of a consultant
    - Kanban - Agile
 modified_time: '2014-10-16T10:39:11.131+02:00'

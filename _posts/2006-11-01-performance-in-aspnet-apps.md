@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Performance in ASP.NET apps date: '2006-11-01T14:45:00.000+01:00'
+title: Performance in ASP.NET apps
+date: '2006-11-01T14:45:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET

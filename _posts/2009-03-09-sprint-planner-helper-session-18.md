@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Sprint Planner Helper – Session 18 date: '2009-03-08T22:55:00.001+01:00'
+title: Sprint Planner Helper – Session 18
+date: '2009-03-08T22:55:00.001+01:00'
 author: Marcus Hammarberg
 tags: - Sprint
-Planner Helper - LINQ modified_time: '2009-03-08T22:55:08.845+01:00'
+Planner Helper - LINQ
+modified_time: '2009-03-08T22:55:08.845+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8654594591785556931
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-18.html
 ---

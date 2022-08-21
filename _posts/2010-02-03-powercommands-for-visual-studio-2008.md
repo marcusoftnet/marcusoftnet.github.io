@@ -1,10 +1,12 @@
 ---
 layout: post
-title: PowerCommands for Visual Studio 2008 date: '2010-02-03T10:49:00.001+01:00'
+title: PowerCommands for Visual Studio 2008
+date: '2010-02-03T10:49:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
-  - .NET modified_time: '2010-12-14T16:22:38.165+01:00'
+tags:
+  - Tools
+  - .NET
+modified_time: '2010-12-14T16:22:38.165+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4362394711823504784
 blogger_orig_url: http://www.marcusoft.net/2010/02/powercommands-for-visual-studio-2008.html
 ---

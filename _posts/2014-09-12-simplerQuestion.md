@@ -8,8 +8,8 @@ tags:
    - Tools - Lean
   - Life of a consultant
    - Kanban - Agile
-modified_time: '2014-09-12T04:37:30.587+02:00' thumbnail:
-http://3.bp.blogspot.com/-n_MmG2QyzYU/VBJZ9d12qWI/AAAAAAAAG8I/X8Gfvpy9AYw/s72-c/david%2Bandersson.jpg
+modified_time: '2014-09-12T04:37:30.587+02:00'
+thumbnail: http://3.bp.blogspot.com/-n_MmG2QyzYU/VBJZ9d12qWI/AAAAAAAAG8I/X8Gfvpy9AYw/s72-c/david%2Bandersson.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8054044261438433216
 blogger_orig_url: http://www.marcusoft.net/2014/09/simplerQuestion.html
 ---

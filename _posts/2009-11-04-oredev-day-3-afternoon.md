@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'ÖreDev day \#3 – afternoon' date: '2009-11-04T16:26:00.001+01:00'
+title: 'ÖreDev day \#3 – afternoon'
+date: '2009-11-04T16:26:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - .NET -

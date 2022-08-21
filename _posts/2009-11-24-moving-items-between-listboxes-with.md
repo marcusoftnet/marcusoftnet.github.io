@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Moving items between listboxes with JQuery date: '2009-11-24T08:30:00.001+01:00'
+title: Moving items between listboxes with JQuery
+date: '2009-11-24T08:30:00.001+01:00'
 author: Marcus Hammarberg
-tags: -
-Tools
+tags:
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.174+01:00'
