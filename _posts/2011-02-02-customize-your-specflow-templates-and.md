@@ -4,8 +4,9 @@ title: Customize your SpecFlow templates and more
 date: '2011-02-01T21:48:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-.NET - SpecFlow
+  - BDD
+  - .NET
+   - SpecFlow
 modified_time: '2011-02-01T21:48:59.755+01:00'
 thumbnail:
 http://lh4.ggpht.com/\_TI0jeIedRFk/TUhxpwIsRBI/AAAAAAAAAzw/W00MMhuyCiI/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800

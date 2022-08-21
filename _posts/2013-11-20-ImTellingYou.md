@@ -6,8 +6,8 @@ author: Marcus Hammarberg
 tags:
   - BDD - Lean
   - Life of a consultant
-  - Specification by example - Kanban -
-Scrum - Agile - C# - SpecFlow
+  - Specification by example - Kanban
+  - Scrum - Agile - C# - SpecFlow
 modified_time: '2013-12-10T15:10:52.306+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8456584150489726017
 blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html ---

@@ -4,8 +4,8 @@ title: Sprint Planner Helper – Session 21
 date: '2009-03-20T22:11:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Sprint
-Planner Helper - TDD
+  - Sprint Planner Helper
+  - TDD
 modified_time: '2009-03-20T22:11:42.876+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6600362055931403549
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-21.html
@@ -43,25 +43,25 @@ So I’ll update my IRepository to something like this:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->     <span style="color: blue">public <span
-> style="color: blue">interface <span
-> style="color: #2b91af">IRepository\<T\>  <span
-> style="color: blue">where T :<span
-> style="color: #2b91af">IBaseEntity
+>an style="color: blue">public</span> <span
+> style="color: blue">interface</span> <span
+> style="color: #2b91af">IRepository</span>\<T\>  <span
+> style="color: blue">where</span> T :<span
+> style="color: #2b91af">IBaseEntity</span>
 >
->     {
 >
->         T GetById(<span style="color: blue">int id);
 >
->         <span style="color: #2b91af">IQueryable\<T\> Find();
+>Id(<span style="color: blue">int</span> id);
 >
->         <span style="color: blue">void Add(T entity);
+>tyle="color: #2b91af">IQueryable</span>\<T\> Find();
 >
->         <span style="color: blue">void Delete(T entity);
+>tyle="color: blue">void</span> Add(T entity);
 >
->         <span style="color: blue">void Save();
+>tyle="color: blue">void</span> Delete(T entity);
 >
->     }
+>tyle="color: blue">void</span> Save();
+>
+>
 >
 > </div>
 

@@ -4,8 +4,9 @@ title: Parental leave reading
 date: '2009-07-22T20:02:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - DDD -
-.NET
+  - DDD
+  - .NET
+
   - Life of a consultant
   - Agile
 modified_time: '2009-07-22T20:03:25.891+02:00'

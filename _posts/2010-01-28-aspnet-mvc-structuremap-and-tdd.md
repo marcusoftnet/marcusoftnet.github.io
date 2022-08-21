@@ -4,8 +4,9 @@ title: ASP.NET MVC, StructureMap and … TDD?
 date: '2010-01-28T09:26:00.003+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-.NET - NHibernate - ASP.NET MVC - Agile - TDD
+  - BDD
+  - .NET
+   - NHibernate - ASP.NET MVC - Agile - TDD
 modified_time: '2010-12-14T16:19:35.814+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8081588236115919566
 blogger_orig_url: http://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-tdd.html

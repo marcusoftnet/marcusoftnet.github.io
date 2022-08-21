@@ -4,8 +4,9 @@ title: Using ATDD in conversion project
 date: '2010-05-26T23:42:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-.NET
+  - BDD
+  - .NET
+
   - Life of a consultant
   - Agile
 modified_time: '2010-05-27T11:06:52.879+02:00'

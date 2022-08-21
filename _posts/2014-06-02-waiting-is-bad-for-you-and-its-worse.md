@@ -29,8 +29,6 @@ next time we clean it will not take as much time.
 In this post I wanted to share some thoughts on how this is general and
 what we can do to avoid this situation.
 
-
-
 To explain what just happened to the people in the room I drew this
 diagram on the whiteboard:
 
@@ -79,11 +77,11 @@ better.
 The good news is that we are in control of this fact, we decide how
 often we do the cleaning, reporting, refactoring or whatever.
 
--   Do the cleaning once a month – clean a long time at that occasion.
--   Do the reporting once a day – spend 30 seconds doing it
--   Refactor you code in the end of the sprint – spend 2-3 days doing it
+- Do the cleaning once a month – clean a long time at that occasion.
+- Do the reporting once a day – spend 30 seconds doing it
+- Refactor you code in the end of the sprint – spend 2-3 days doing it
     and also stand the risk of introducing new bugs.
--   \[your example here, or in the comments\]
+- \[your example here, or in the comments\]
 
 It can of course be stupid too… maybe. Why not clean every minute then?
 It will only take 10 seconds? Well, there’s a balance here, if you do to

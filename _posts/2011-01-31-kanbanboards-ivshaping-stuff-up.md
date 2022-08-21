@@ -4,8 +4,9 @@ title: Kanbanboards IV–shaping stuff up
 date: '2011-01-30T21:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-.NET - ASP.NET MVC - KanbanBoards
+  - BDD
+  - .NET
+  - ASP.NET MVC - KanbanBoards
 modified_time: '2011-01-30T21:55:55.120+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TUXP0xEoVOI/AAAAAAAAAys/iZt4QifJ2ns/s72-c/slimmed%20controller_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5936748023655640119
@@ -22,19 +23,17 @@ So I thought I’d give it an hour to clean stuff up. And maybe put some
 better looks on the site. Hopefully I’ll end up in a better place. Here
 are the things I have planned:
 
-1.  Remove all the Views and Controller methods that I’m not using
-2.  Bring in a theme for the site
-3.  Shape up the lists on the first page
-4.  Create a page object to write my acceptance tests against
-5.  Introduce a read service for the site – the start of my CQRS
+1. Remove all the Views and Controller methods that I’m not using
+2. Bring in a theme for the site
+3. Shape up the lists on the first page
+4. Create a page object to write my acceptance tests against
+5. Introduce a read service for the site – the start of my CQRS
     initiative
 
 Man – that looked long! But most of them are small. Just imaging how
 much better the code will be afterwards.
 
 Here we go.
-
-
 
 ### Remove unused stuff
 
@@ -103,7 +102,7 @@ data-border="0" width="279" height="180" alt="after" />](http://lh3.ggpht.com/_T
 I’m not happy of with the lists on the index page right now. I want
 something condensed that can be shown on a row. Maybe two with the
 thumbnail on top of the text. This is also layout stuff that I don’t
-know much about. 
+know much about.
 
 But first – I’m looping over two collections of KanbanBoards, creating
 the same HTML. That doesn’t feel
@@ -240,14 +239,14 @@ Eeh ... I’m back. I got into to it, I’m sorry. As I started to code out
 the test I couldn’t help myself. Sorry. Here is a short version of what
 I did:
 
--   I created a test project and wrote that first test for a ReadService
+- I created a test project and wrote that first test for a ReadService
     that returns ready packed ViewModels.
--   I then created a new Class library called ... ReadModel.
--   Into that I moved my ViewModel, Domain (KanbanBoard since it’s just
+- I then created a new Class library called ... ReadModel.
+- Into that I moved my ViewModel, Domain (KanbanBoard since it’s just
     a read model anyway), Repository and DBContext to go with it.
--   I didn’t move the database (as they did in the NCQRS example) since
+- I didn’t move the database (as they did in the NCQRS example) since
     I don’t feel comfortable with a .dll holding on to my database.
--   I refactored and cleaned up for a while – and then I could run the
+- I refactored and cleaned up for a while – and then I could run the
     tests again. Oh that feel so good – tests are a warm blanket that
     wraps around me in refactoring times.
 
