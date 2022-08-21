@@ -7,7 +7,7 @@ Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2013-03-05T15:09:37.252+01:00'
 thumbnail: http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4864005741396452887

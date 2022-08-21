@@ -3,8 +3,7 @@ layout: post
 title: Suggested visualization for the SÖS Children
 Emergency
 date: '2013-02-22T09:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Marcus private
   - Tools - Lean - Life of a

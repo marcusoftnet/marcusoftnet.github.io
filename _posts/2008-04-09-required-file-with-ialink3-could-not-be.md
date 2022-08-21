@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Required file 'alink.dll with IAlink3' could not
-be found - and the solution to it
+title: Required file 'alink.dll with IAlink3' could not be found - and the solution to it
 date: '2008-04-09T08:03:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -29,6 +28,7 @@ Studio 2008 DVD in the
 "**\<dvddrive\>:\WCU\dotNetFramework\dotNetMSP\x64**" folder (for 32-bit
 version look in the "\<dvddrive\>:\WCU\dotNetFramework\dotNetMSP\x86"
 folder):
+
 1. NetFX2.0-KB110806-v6000-x64.msu. Run it, wait forever, reboot when
 it's done.
 2. NetFX3.0-KB929300-v6000-x64.msu. Run it, wait forever, reboot when

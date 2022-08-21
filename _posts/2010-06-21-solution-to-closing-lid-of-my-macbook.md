@@ -3,8 +3,7 @@ layout: post
 title: Solution to closing the lid of my MacBook cause
 it to get VERY hot
 date: '2010-06-21T16:51:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Marcus private
  - Life of a consultant

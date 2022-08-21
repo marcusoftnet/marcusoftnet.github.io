@@ -3,11 +3,10 @@ layout: post
 title: Nancy.Testing - no hat, no shoes with
 Simple.Data
 date: '2013-02-04T09:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Nancy
-   - Tools
+  - Tools
   - .NET - C#
 modified_time: '2014-06-21T02:09:55.478+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3442155135108836212

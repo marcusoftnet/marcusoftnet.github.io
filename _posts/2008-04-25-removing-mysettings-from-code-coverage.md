@@ -3,8 +3,7 @@ layout: post
 title: Exclude generated code from code coverage result
 in Team System
 date: '2008-04-25T09:53:00.004+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - VB.NET - TFS
 modified_time: '2010-12-14T16:20:33.294+01:00'

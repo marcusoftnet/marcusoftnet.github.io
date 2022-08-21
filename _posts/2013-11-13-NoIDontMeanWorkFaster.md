@@ -3,12 +3,11 @@ layout: post
 title: 'What I''m talking about: No - I don''t mean
 work faster'
 date: '2013-11-12T21:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2013-11-12T21:04:32.841+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-328419199866986129
 blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html ---

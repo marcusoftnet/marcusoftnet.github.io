@@ -5,8 +5,8 @@ when using a dark theme
 date: '2011-08-30T14:55:00.001+02:00' author:
 Marcus Hammarberg
 tags:
-   - Tools
-  - Life of a consultant
+  - Tools
+  - ife of a consultant
    - Visual Studio
 modified_time: '2011-08-30T14:55:43.187+02:00'
 thumbnail: http://lh4.ggpht.com/-EQYi8VHYdsY/TlzdzRPCCoI/AAAAAAAABBc/yTVAO-CFSAw/s72-c/mouse%252520color%252520scheme_thumb%25255B2%25255D.jpg?imgmax=800

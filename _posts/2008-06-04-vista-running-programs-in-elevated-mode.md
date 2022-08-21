@@ -3,8 +3,7 @@ layout: post
 title: Vista - running programs with an elevated
 command prompt
 date: '2008-06-04T16:03:00.002+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
 modified_time: '2008-06-05T07:38:55.936+02:00'

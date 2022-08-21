@@ -5,7 +5,7 @@ date: '2007-06-25T15:15:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - VB.NET
-   - Tools - Visual Studio
+  - Tools - Visual Studio
 modified_time: '2010-12-14T16:22:38.352+01:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RoCpLUBiT5I/AAAAAAAAAK8/3lnzgbsdAPI/s72-c/docfinder.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5986658430063569109

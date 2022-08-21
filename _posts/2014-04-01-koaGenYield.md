@@ -6,7 +6,7 @@ date: '2014-04-01T09:00:00.000+02:00' author:
 Marcus Hammarberg
 tags:
   - Node - Javascript
-   - Tools - Koa
+  - Tools - Koa
 modified_time: '2014-04-06T14:41:45.558+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4757293937630995296
 blogger_orig_url: http://www.marcusoft.net/2014/04/koaGenYield.html ---

@@ -3,10 +3,9 @@ layout: post
 title: How to press F9-F12 in a Parallels Desktop
 Windows Image
 date: '2009-10-26T08:36:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.181+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-128803305506172494

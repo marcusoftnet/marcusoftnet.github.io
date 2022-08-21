@@ -3,10 +3,9 @@ layout: post
 title: Dos-script to delete all Visual Studio
 Intermediate files
 date: '2009-09-04T09:52:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - Life of a consultant
 modified_time: '2010-12-14T16:22:38.191+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-349034536879017212

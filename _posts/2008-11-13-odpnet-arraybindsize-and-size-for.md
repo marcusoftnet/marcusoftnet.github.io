@@ -1,11 +1,10 @@
 ---
 layout: post
-title: ODP.NET - ArrayBindSize and Size for
-PLSQLAssociativeArrays
-date: '2008-11-13T10:58:00.003+01:00' author:
-Marcus Hammarberg
+title: ODP.NET - ArrayBindSize and Size for PLSQLAssociativeArrays
+date: '2008-11-13T10:58:00.003+01:00'
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
 modified_time: '2010-12-14T16:23:30.903+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5487802933639404013
@@ -33,14 +32,14 @@ heads. It actually boils down to two properties on the <a
 href="http://youngcow.net/doc/oracle10g/win.102/b14307/OracleParameterClass.htm"
 target="_blank">OracleParameter</a>-class; Size and ArrayBindSize.
 
--   The **<a
+- The **<a
     href="http://youngcow.net/doc/oracle10g/win.102/b14307/OracleParameterClass.htm#i1012269"
     target="_blank">Size</a>**-property should be (in the case of using
     associative arrays) set to the number of elements in the array. The
     strange thing though is that the value of the property must be set
     for **output**-parameters. I mean - how do you know how much that is
     returned? In some cases you can know but far from all.
--   That is strange but the thing that leaves us hanging is the <a
+- That is strange but the thing that leaves us hanging is the <a
     href="http://youngcow.net/doc/oracle10g/win.102/b14307/OracleParameterClass.htm#i1011933"
     target="_blank"><strong>ArrayBindSize</strong></a>-property. It
     specifies the size of each element in the array and must be set for

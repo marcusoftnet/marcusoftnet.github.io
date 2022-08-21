@@ -8,7 +8,7 @@ tags:
   - Marcus private
   - Tools - Lean
   - Life of a consultant
-   - Kanban -
+  - Kanban -
 Agile - Salvation Army - Indonesia
 modified_time: '2014-10-21T09:34:05.245+02:00'
 thumbnail: http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s72-c/kanbanInAction.improvement.jpg

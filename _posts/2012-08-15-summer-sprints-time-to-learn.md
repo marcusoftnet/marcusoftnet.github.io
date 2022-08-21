@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Kanban
   - Scrum
-   - Agile
+  - Agile
 modified_time: '2012-08-15T16:43:07.207+02:00'
 thumbnail:
 http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg

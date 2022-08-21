@@ -7,7 +7,7 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-   - Agile - Salvation Army
+  - Agile - Salvation Army
 modified_time: '2014-06-19T09:42:17.939+02:00'
 thumbnail: http://lh3.ggpht.com/-ZEP86dSBYcs/U6KT2VJntNI/AAAAAAAAEa0/yKk2l_sgQNo/s72-c/Slide3_thumb%25255B1%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1426830830628928525

@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Life of a consultant
-   - Salvation Army
+  - Salvation Army
 modified_time: '2012-04-09T22:07:20.569+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6354054253980436752
 blogger_orig_url: http://www.marcusoft.net/2012/04/its-cultural-thing.html ---

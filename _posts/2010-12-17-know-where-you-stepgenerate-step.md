@@ -6,7 +6,7 @@ date: '2010-12-16T22:12:00.002+01:00' author:
 Marcus Hammarberg
 tags:
   - BDD
-   - Tools
+  - Tools
   - .NET - SpecFlow
 modified_time: '2010-12-16T22:14:19.582+01:00'
 thumbnail: http://3.bp.blogspot.com/\_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s72-c/step+definition+example+report.png

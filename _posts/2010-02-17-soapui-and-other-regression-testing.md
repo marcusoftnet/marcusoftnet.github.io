@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2010-12-14T16:22:38.162+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-559290756056572436
 blogger_orig_url: http://www.marcusoft.net/2010/02/soapui-and-other-regression-testing.html

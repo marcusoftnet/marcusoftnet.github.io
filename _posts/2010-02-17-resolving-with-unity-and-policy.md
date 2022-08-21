@@ -3,10 +3,9 @@ layout: post
 title: Resolving with Unity and Policy Injection using
 extension methods
 date: '2010-02-17T11:05:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
 modified_time: '2010-12-14T16:23:11.099+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4787243305328550278

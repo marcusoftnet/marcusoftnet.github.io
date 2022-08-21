@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Scrum
-   - Agile - WCF
+  - Agile - WCF
 modified_time: '2008-09-26T16:20:38.700+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6079851253242287882
 blogger_orig_url: http://www.marcusoft.net/2008/09/full-speed-and-free.html ---

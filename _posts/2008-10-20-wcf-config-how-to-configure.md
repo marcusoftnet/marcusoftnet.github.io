@@ -3,8 +3,7 @@ layout: post
 title: 'WCF Config: How to configure wsHttpBinding for
 no security'
 date: '2008-10-20T11:11:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - WCF
 modified_time: '2008-10-20T11:11:50.064+02:00'

@@ -3,8 +3,7 @@ layout: post
 title: 'Low WIP, hairdressers and Lean operation
 strategy '
 date: '2013-05-29T15:38:00.003+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Lean - Kanban - Agile
 modified_time: '2013-05-29T15:38:40.861+02:00'

@@ -3,10 +3,9 @@ layout: post
 title: Export all images from a Word (.doc) document
 ... and rename them
 date: '2013-07-29T10:50:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - Life of a consultant
 modified_time: '2013-07-29T10:50:31.650+02:00'
 thumbnail: http://1.bp.blogspot.com/-B2MKCS6z8U8/UfYsaPJa9_I/AAAAAAAABjs/0WLSFog_0ig/s72-c/Screen+Shot+2013-07-29+at+10.48.11+.png

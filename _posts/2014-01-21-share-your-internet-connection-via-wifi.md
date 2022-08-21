@@ -3,8 +3,7 @@ layout: post
 title: Share your internet connection via WiFi on
 Windows 8.1
 date: '2014-01-21T08:01:00.002+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Marcus private
   - Tools

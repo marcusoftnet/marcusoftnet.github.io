@@ -5,7 +5,7 @@ visualisations to knowledge
 date: '2014-09-16T04:34:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools - Lean
+  - Tools - Lean
   - Life of a consultant
    -
 Kanban - Agile - Salvation Army

@@ -3,8 +3,7 @@ layout: post
 title: How to run MSTest with publish parameter as
 MSBuild Exec-task
 date: '2008-10-29T08:56:00.004+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - TFS - MSBuild - TDD
 modified_time: '2008-10-30T11:03:07.512+01:00'

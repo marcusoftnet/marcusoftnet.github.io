@@ -7,7 +7,7 @@ tags:
   - Tools
   - .NET
   - Life of a consultant
-   - ASP.NET MVC
+  - ASP.NET MVC
 modified_time: '2010-12-14T16:22:38.183+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-127983959711797815
 blogger_orig_url: http://www.marcusoft.net/2009/10/aspxpivotgrid-mighty-web-control.html

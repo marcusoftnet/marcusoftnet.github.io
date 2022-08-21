@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Get more use from NCover date
-'2006-10-24T13:16:00.000+02:00'
+title: Get more use from NCover
+date: '2006-10-24T13:16:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools

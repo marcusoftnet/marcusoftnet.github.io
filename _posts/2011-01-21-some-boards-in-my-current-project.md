@@ -6,8 +6,8 @@ date: '2011-01-21T10:47:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Kanban
-  - Scrum
+  - Kanban
+  - crum
    - Agile
 modified_time: '2011-01-22T07:41:06.071+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TTlWvvTDc7I/AAAAAAAAAvI/e08Q24EVI9A/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800

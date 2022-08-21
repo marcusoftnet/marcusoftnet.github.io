@@ -5,7 +5,7 @@ date: '2008-06-04T12:24:00.007+02:00'
 author: Marcus Hammarberg
 tags:
   - VB.NET
-   - Tools
+  - Tools
 modified_time: '2010-12-14T16:22:38.275+01:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SEZwgxjljgI/AAAAAAAAAUQ/XzCpmdZ2llY/s72-c/resharper.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5443905703235417361

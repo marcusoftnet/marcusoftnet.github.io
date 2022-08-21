@@ -3,11 +3,10 @@ layout: post
 title: 'It''s just an experiment - experiments in
 practice '
 date: '2014-10-31T09:10:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools - Lean
-  - Life of a consultant
+  - Tools - Lean
+  - ife of a consultant
    - Kanban -
 Agile - Salvation Army
 modified_time: '2014-11-02T01:58:53.276+01:00'

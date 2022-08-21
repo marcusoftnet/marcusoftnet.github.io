@@ -3,8 +3,7 @@ layout: post
 title: Visual Studio 2008 Intellisense not working -
 and the fix
 date: '2008-05-26T12:33:00.004+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
 modified_time: '2010-12-14T16:21:03.997+01:00'
 thumbnail:

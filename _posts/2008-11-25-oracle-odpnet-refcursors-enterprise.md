@@ -3,10 +3,9 @@ layout: post
 title: Oracle, ODP.NET, RefCursors, Enterprise Library
 and Readers
 date: '2008-11-25T10:49:00.002+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
 modified_time: '2010-12-14T16:23:30.895+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4125820309210211075

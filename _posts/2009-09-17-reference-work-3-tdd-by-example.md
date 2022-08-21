@@ -5,7 +5,7 @@ date: '2009-09-17T10:32:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Agile - TDD
+  - Agile - TDD
 modified_time: '2009-09-17T10:34:31.932+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3084874139483823348
 blogger_orig_url: http://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html

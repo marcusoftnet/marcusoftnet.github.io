@@ -3,11 +3,10 @@ layout: post
 title: Impact Mapping - now helping Indonesian
 Hospitals
 date: '2014-02-27T08:39:00.002+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - MobProgramming
-   - Tools - Lean - Agile - Impact
+  - Tools - Lean - Agile - Impact
 mapping - Salvation Army - Indonesia
 modified_time: '2014-06-02T10:56:52.538+02:00'
 thumbnail: http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif

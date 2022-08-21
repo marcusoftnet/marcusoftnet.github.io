@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-   - Kanban - Agile
+  - Kanban - Agile
 modified_time: '2014-10-16T10:39:11.131+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4472025686517620555
 blogger_orig_url: http://www.marcusoft.net/2014/10/some-thoughts-about-waste-and-waste.html

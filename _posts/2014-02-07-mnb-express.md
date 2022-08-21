@@ -3,11 +3,10 @@ layout: post
 title: 'Marcus Node Bits: Express is best without
 generators'
 date: '2014-02-07T14:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript
-   - Tools
+  - Tools
 modified_time: '2014-06-02T10:56:52.524+02:00'
 thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954

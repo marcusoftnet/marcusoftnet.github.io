@@ -3,10 +3,9 @@ layout: post
 title: How to apply a pull request on GitHub with
 TortoiseGit
 date: '2011-01-24T09:53:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2013-08-22T11:58:35.339+02:00'

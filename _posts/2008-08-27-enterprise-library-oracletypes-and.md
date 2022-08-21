@@ -5,7 +5,7 @@ mapping
 date: '2008-08-27T08:46:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2010-12-14T16:23:30.932+01:00'

@@ -3,8 +3,7 @@ layout: post
 title: 'Team Yayasan week 2: Transparency, culture and
 lower WIP'
 date: '2014-03-08T14:10:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Team Yayasan - Lean - Kanban - Salvation Army -
 Indonesia

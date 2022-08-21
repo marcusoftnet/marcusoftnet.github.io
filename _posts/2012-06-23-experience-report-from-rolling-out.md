@@ -6,7 +6,7 @@ date: '2012-06-22T21:43:00.002+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2012-06-22T21:51:07.380+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-13261481129450050
 blogger_orig_url: http://www.marcusoft.net/2012/06/experience-report-from-rolling-out.html

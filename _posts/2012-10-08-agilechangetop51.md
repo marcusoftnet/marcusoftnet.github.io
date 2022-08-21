@@ -3,11 +3,10 @@ layout: post
 title: 'Top 5 Agile change tips \#1 - Get a great
 or-else-reason'
 date: '2012-10-08T09:00:00.000+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2012-10-08T09:00:15.230+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3921821758280341733
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop51.html

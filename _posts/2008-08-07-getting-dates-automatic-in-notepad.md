@@ -4,7 +4,7 @@ title: Getting dates automatic in Notepad
 date: '2008-08-07T13:24:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
 modified_time: '2014-02-06T04:01:51.521+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3411710330519539935
 blogger_orig_url: http://www.marcusoft.net/2008/08/getting-dates-automatic-in-notepad.html

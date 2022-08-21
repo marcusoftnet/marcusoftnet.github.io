@@ -3,8 +3,7 @@ layout: post
 title: Theory of constraints and Specification by
 example part II
 date: '2011-06-01T22:55:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BDD - Kanban - Agile
 modified_time: '2011-06-01T22:56:45.817+02:00'

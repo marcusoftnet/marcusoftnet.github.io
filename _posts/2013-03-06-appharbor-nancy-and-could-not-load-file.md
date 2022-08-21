@@ -7,7 +7,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus
 private - Nancy
-   - Tools
+  - Tools
   - .NET - ContinuousDelivery
 modified_time: '2013-03-06T11:35:19.266+01:00'
 thumbnail: http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s72-c/Screen+Shot+2013-03-06+at+09.28.37+.png

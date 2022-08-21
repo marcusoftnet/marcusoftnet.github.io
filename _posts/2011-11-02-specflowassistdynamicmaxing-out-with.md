@@ -3,11 +3,10 @@ layout: post
 title: SpecFlow.Assist.Dynamic–maxing out with
 Simple.Data
 date: '2011-11-02T08:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BDD
-   - Tools
+  - Tools
   - .NET - Specification by example - C# -
 SpecFlow
 modified_time: '2011-11-03T16:34:05.677+01:00'

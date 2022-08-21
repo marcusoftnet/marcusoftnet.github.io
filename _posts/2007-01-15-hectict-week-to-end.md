@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Life of a consultant
-   - Salvation Army
+  - Salvation Army
 modified_time: '2007-01-15T07:54:09.926+01:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s72-c/sture.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5391255051189945122

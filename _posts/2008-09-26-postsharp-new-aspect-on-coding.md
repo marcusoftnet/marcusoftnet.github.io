@@ -7,7 +7,7 @@ tags:
   - VB.NET
   - .NET
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2010-12-14T16:23:11.119+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6832974975942400336
 blogger_orig_url: http://www.marcusoft.net/2008/09/postsharp-new-aspect-on-coding.html ---

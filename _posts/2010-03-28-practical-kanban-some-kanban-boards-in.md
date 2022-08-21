@@ -3,8 +3,7 @@ layout: post
 title: Practical Kanban – some Kanban boards in
 practices
 date: '2010-03-28T12:07:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Kanban - Agile
 modified_time: '2010-03-28T12:22:41.725+02:00'

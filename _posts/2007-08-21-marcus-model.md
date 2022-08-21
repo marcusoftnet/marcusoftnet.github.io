@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Life of a consultant
-   - Salvation Army
+  - Salvation Army
 modified_time: '2007-08-21T09:57:51.072+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7292252712943025580
 blogger_orig_url: http://www.marcusoft.net/2007/08/marcus-model.html ---

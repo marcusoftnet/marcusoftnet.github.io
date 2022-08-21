@@ -3,8 +3,7 @@ layout: post
 title: Generic webservice creator using generics and
 delegates
 date: '2006-11-09T15:19:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET - Visual Studio
 modified_time: '2010-12-14T16:19:05.663+01:00'

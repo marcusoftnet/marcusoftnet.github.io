@@ -3,11 +3,10 @@ layout: post
 title: Nancy.Testing - a closer look through her
 testability
 date: '2013-01-24T09:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Nancy
-   - Tools
+  - Tools
   - .NET - Test - Agile
 modified_time: '2014-06-21T02:09:55.461+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2536136940455319768

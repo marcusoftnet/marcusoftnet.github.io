@@ -5,8 +5,8 @@ louder'
 date: '2014-09-12T04:22:00.002+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools - Lean
-  - Life of a consultant
+  - Tools - Lean
+  - ife of a consultant
    - Kanban - Agile
 modified_time: '2014-09-12T04:37:30.587+02:00'
 thumbnail: http://3.bp.blogspot.com/-n_MmG2QyzYU/VBJZ9d12qWI/AAAAAAAAG8I/X8Gfvpy9AYw/s72-c/david%2Bandersson.jpg

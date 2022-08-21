@@ -3,11 +3,10 @@ layout: post
 title: Fixed price is bad for you - agile for
 non-techies part I
 date: '2012-05-09T10:36:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2012-05-14T12:29:10.669+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9147693364987604261
 blogger_orig_url: http://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html

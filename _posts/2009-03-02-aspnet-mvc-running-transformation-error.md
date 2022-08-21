@@ -5,7 +5,7 @@ date: '2009-03-01T22:15:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - ASP.NET MVC
+  - ASP.NET MVC
 modified_time: '2009-03-07T22:58:15.133+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/Sar6-Cdw99I/AAAAAAAAADI/UjxSu9mWZxk/s72-c/templatedprocessing_thumb2.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8862835742123198589

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: WebService studio
-   - Tools for testing
+  - Tools for testing
 webservices
 date: '2008-03-14T15:19:00.005+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
 modified_time: '2010-12-14T16:22:38.289+01:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9qMjbtDxdI/AAAAAAAAASc/CjoKf0Uyu1I/s72-c/webservicestudio.JPG

@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-   - Kanban - Agile
+  - Kanban - Agile
 modified_time: '2014-11-20T04:01:43.904+01:00'
 thumbnail: http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s72-c/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846

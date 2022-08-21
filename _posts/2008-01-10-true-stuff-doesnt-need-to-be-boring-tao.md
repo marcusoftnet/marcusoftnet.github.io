@@ -3,8 +3,7 @@ layout: post
 title: True stuff doesn't need to be boring - The Tao
 of programming
 date: '2008-01-10T12:35:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Marcus private
  - Life of a consultant

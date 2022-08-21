@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-   - WCF
+  - WCF
 modified_time: '2009-01-12T07:58:37.499+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6824020646545763659
 blogger_orig_url: http://www.marcusoft.net/2008/12/addressfilter-mismatch-at.html ---

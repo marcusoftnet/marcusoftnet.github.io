@@ -3,8 +3,7 @@ layout: post
 title: 'Team Yayasan week 3: Understanding the problem
 and sloppy limits'
 date: '2014-03-17T05:18:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Team Yayasan - Lean - Kanban
 modified_time: '2014-03-17T05:18:29.327+01:00'

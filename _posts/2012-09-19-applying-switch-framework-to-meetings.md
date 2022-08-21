@@ -3,11 +3,10 @@ layout: post
 title: 'Applying Switch framework to: Meetings are not
 real work'
 date: '2012-09-19T09:00:00.000+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2012-09-24T11:05:51.476+02:00'
 thumbnail: http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527

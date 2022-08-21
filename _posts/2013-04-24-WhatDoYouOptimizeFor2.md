@@ -3,8 +3,7 @@ layout: post
 title: Are you coding for change or stability - the
 followup post
 date: '2013-04-24T09:00:00.000+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET - Lean - Agile
 modified_time: '2013-04-24T09:00:09.964+02:00'

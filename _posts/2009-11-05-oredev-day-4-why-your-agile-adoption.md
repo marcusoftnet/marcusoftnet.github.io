@@ -3,8 +3,7 @@ layout: post
 title: 'ÖreDev day \#4 – Why your agile adoption fails,
 with Dan North'
 date: '2009-11-05T14:13:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET - ÖreDev - ASP.NET MVC - Agile
 modified_time: '2011-11-09T21:49:22.616+01:00'

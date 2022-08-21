@@ -5,7 +5,7 @@ MVC 3
 date: '2011-01-25T20:37:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET - ASP.NET MVC
 modified_time: '2011-01-25T20:44:16.939+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TT8mpyamHvI/AAAAAAAAAx8/WJhDqtxDLXg/s72-c/ninject%20dependcy%20resolving%20in%20asp.net%20mvc_thumb%5B1%5D.jpg?imgmax=800

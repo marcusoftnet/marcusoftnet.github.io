@@ -5,7 +5,7 @@ date: '2008-02-28T15:45:00.003+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - TFS
+  - TFS
   - Scrum
 modified_time: '2008-02-28T15:57:33.878+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5097803901544413921

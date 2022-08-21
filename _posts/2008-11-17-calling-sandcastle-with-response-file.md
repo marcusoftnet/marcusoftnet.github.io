@@ -5,7 +5,7 @@ date: '2008-11-17T10:41:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - MSBuild
+  - MSBuild
 modified_time: '2011-10-04T14:36:14.999+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3106344506540062585
 blogger_orig_url: http://www.marcusoft.net/2008/11/calling-sandcastle-with-response-file.html

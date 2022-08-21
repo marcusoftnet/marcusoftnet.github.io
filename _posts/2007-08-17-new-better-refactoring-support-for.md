@@ -5,7 +5,7 @@ date: '2007-08-17T08:46:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - VB.NET
-   - Tools - Visual Studio
+  - Tools - Visual Studio
 modified_time: '2010-12-14T16:22:38.333+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3147894758690155120
 blogger_orig_url: http://www.marcusoft.net/2007/08/new-better-refactoring-support-for.html

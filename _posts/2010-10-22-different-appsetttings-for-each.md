@@ -3,12 +3,11 @@ layout: post
 title: Different appSetttings for each developer in the
 team - part II
 date: '2010-10-22T10:23:00.002+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-   - Visual Studio
+  - Visual Studio
 modified_time: '2010-12-14T16:17:50.660+01:00'
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781

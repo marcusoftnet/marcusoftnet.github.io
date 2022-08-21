@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2009-04-09T16:35:15.973+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2359394735398966764
 blogger_orig_url: http://www.marcusoft.net/2009/04/debating-hero.html

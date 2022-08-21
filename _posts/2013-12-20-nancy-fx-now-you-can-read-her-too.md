@@ -5,10 +5,10 @@ date: '2013-12-20T08:02:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Nancy
-   - Tools
+  - Tools
   - .NET
   - Life of a consultant
-   - C# - TDD
+  - C# - TDD
 modified_time: '2014-06-22T15:17:16.397+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8389897732025322547
 blogger_orig_url: http://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-her-too.html

@@ -3,8 +3,7 @@ layout: post
 title: Short and sweet introduction to Dependency
 Injection
 date: '2009-10-09T12:56:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET
 modified_time: '2009-10-09T12:56:35.667+02:00'

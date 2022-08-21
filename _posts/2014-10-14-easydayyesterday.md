@@ -3,11 +3,10 @@ layout: post
 title: The only easy day was yesterday - this is a
 message of hope
 date: '2014-10-14T08:42:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools - Lean
-  - Life of a consultant
+  - Tools - Lean
+  - ife of a consultant
    - Kanban -
 Agile - Salvation Army
 modified_time: '2014-10-14T08:42:15.875+02:00'

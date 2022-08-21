@@ -3,8 +3,7 @@ layout: post
 title: More on Enterprise Library (EntLib), ODP.NET and
 type mapping
 date: '2008-09-04T20:08:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
 modified_time: '2008-09-04T20:08:58.121+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357478391735284163
@@ -21,12 +20,12 @@ The main reason for why it took me the better part of the afternoon to
 sort out had to do with some really confusing name-setting. Here is was
 confused me;
 
--   in the namespace
+- the namespace
     [System.Data.Oracle](http://msdn.microsoft.com/en-us/library/system.data.oracleclient.aspx)
     Microsoft has provided a implementation of a Oracle client provider.
     Keyword: Microsoft -this implementation doesn't contain all the
     functionality in Oracle databases.
--   Because of that Oracle has given us the Oracle.DataAccess.Client or
+- cause of that Oracle has given us the Oracle.DataAccess.Client or
     [ODP.NET](http://www.oracle.com/technology/tech/windows/odpnet/index.html)
     for short. In this you'll have all the things you'll need.
 

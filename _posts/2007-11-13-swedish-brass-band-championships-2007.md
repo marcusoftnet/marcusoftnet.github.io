@@ -3,8 +3,7 @@ layout: post
 title: Swedish brass band championships 2007 -
 follow-up
 date: '2007-11-13T08:09:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BrassBand
 modified_time: '2007-11-13T08:22:24.319+01:00'

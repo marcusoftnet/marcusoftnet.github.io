@@ -5,7 +5,7 @@ testing services with SOAPUi
 date: '2010-03-30T21:42:00.002+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
   - Life of a consultant
    -

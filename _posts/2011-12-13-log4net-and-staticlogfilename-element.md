@@ -5,7 +5,7 @@ staticLogFileName setting
 date: '2011-12-13T13:29:00.001+01:00' author:
 Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
   - Life of a consultant
 modified_time: '2011-12-13T13:29:42.279+01:00'

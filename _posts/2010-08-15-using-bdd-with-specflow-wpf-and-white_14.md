@@ -5,7 +5,7 @@ date: '2010-08-14T21:06:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - VB.NET - BDD
-   - Tools
+  - Tools
   - .NET - Agile
 modified_time: '2010-12-14T16:22:38.155+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb%5B6%5D.jpg?imgmax=800

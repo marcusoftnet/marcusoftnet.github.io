@@ -3,8 +3,7 @@ layout: post
 title: Transactions in stored procedures with
 transaction scope
 date: '2008-04-07T14:31:00.004+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - VB.NET
   - .NET - C#

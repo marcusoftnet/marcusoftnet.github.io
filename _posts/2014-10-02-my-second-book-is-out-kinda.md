@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools - Test - Lean
   - Life of a consultant
-   - Specification by example -
+  - Specification by example -
 Agile
 modified_time: '2014-10-02T02:22:50.594+02:00'
 thumbnail: http://3.bp.blogspot.com/-43lZKd\_\_bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s72-c/ikon_photo_book_150px.jpg

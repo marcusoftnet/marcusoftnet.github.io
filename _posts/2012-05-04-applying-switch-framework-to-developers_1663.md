@@ -5,8 +5,8 @@ don’t want to write tests–part III
 date: '2012-05-04T12:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
-  - Life of a consultant
+  - Tools
+  - ife of a consultant
    - Agile -
 TDD
 modified_time: '2012-05-04T12:00:05.962+02:00'

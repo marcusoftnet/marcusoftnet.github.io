@@ -3,8 +3,7 @@ layout: post
 title: First stop for learning events, delegates and
 anonymous methods
 date: '2009-08-31T21:53:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - .NET - C#
 modified_time: '2009-08-31T21:53:49.383+02:00'

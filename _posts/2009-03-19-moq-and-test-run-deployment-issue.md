@@ -8,7 +8,7 @@ tags:
   - Tools
   - .NET
   - Life of a consultant
-   - TDD
+  - TDD
 modified_time: '2010-12-14T16:22:38.199+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8292620657830390019
 blogger_orig_url: http://www.marcusoft.net/2009/03/moq-and-test-run-deployment-issue.html

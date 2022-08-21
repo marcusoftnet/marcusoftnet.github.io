@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Clean up your steps–use page objects in SpecFlow
-step definitions
+title: Clean up your steps–use page objects in SpecFlow step definitions
 date: '2011-04-07T07:16:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - Life of a consultant
-   - SpecFlow
+  - SpecFlow
 modified_time: '2011-04-11T16:31:19.845+02:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TZ1Im7jduEI/AAAAAAAAA9U/L1rx7v20vnc/s72-c/step%20defintion_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2188015318186471315
@@ -34,8 +32,6 @@ handle this brittleness as well as structuring your test code in a nice,
 maintainable way. That in turn will help us to place code in the right
 place – which I like. Some guidelines, if you like.
 
-
-
 ### Inspiration
 
 I have of course not invented this by myself, but rather been inspired
@@ -48,16 +44,16 @@ In this particular case I read a series of post by
 <a href="http://twitter.com/chzy" target="_blank">Jeff Morgan</a> and
 his blog <http://www.cheezyworld.com/>. Here are the posts:
 
--   <a href="http://www.cheezyworld.com/2010/11/09/ui-tests-not-brittle/"
+- <a href="http://www.cheezyworld.com/2010/11/09/ui-tests-not-brittle/"
     target="_blank">UI Tests – How do we keep them from being brittle?</a>
--   <a href="http://www.cheezyworld.com/2010/11/13/ui-tests-part-two/"
+- <a href="http://www.cheezyworld.com/2010/11/13/ui-tests-part-two/"
     target="_blank">UI Tests – Part Two</a>
--   <a
+- <a
     href="http://www.cheezyworld.com/2010/11/19/ui-tests-introducing-a-simple-dsl/"
     target="_blank">UI Tests – Introducing a simple DSL</a>
--   <a href="http://www.cheezyworld.com/2010/11/21/ui-tests-default-dat/"
+- <a href="http://www.cheezyworld.com/2010/11/21/ui-tests-default-dat/"
     target="_blank">UI Tests – Default Data</a>
--   <a
+- <a
     href="http://www.cheezyworld.com/2010/12/16/ui-tests-putting-it-all-together/"
     target="_blank">UI Tests – putting it all together</a>
 
@@ -193,28 +189,32 @@ data-border="0" width="420" height="245" alt="customers page object" />](http://
 Using my base class correctly this class just contains stuff that has to
 do with this specific page:
 
--   <div align="left">
+- <div align="left">
+
    It sets the relative address in the constructor (“/Customers”)
    </div>
 
--   <div align="left">
+- <div align="left">
+
    It knows about specific columns in a table on the page
    </div>
 
--   <div align="left">
+- <div align="left">
+
    You can get the data of the page (customer names) in appropriate
     format, and that implementation is simplified by the use of an
     method in the base class (TableCellsById)
    </div>
 
--   <div align="left">
+- <div align="left">
+
    The actions of the page is represented as methods GotoNewCustomer is
 
     </div>
 
 My base class, as it looks now, can <a
 href="https://github.com/marcusoftnet/HairAndSoleless/blob/master/Specs.EndToEnd/Steps/PageObjects/PageObjectBase.cs"
-target="_blank">be found here.</a> 
+target="_blank">be found here.</a>
 
 #### Structure of your test code
 
@@ -222,14 +222,16 @@ Using page objects you also get an simplified “architecture” for your
 test code. It’s easy to know where to place functionality for step
 definitions, browser interactions etc. Three layers emerge:
 
-1.  <div align="left">
+1. <div align="left">
+
    The scenarios the text and the generated code from them. They serve
     the purpose of communicating with the different team member what the
     feature should be able to do.
     A bit like a View if you like
    </div>
 
-2.  <div align="left">
+2. <div align="left">
+
    The step definitions ties the code with the current implementation.
     It should only know about the Page Object and dispatch calls to
     them. We don’t want much code here – just enough to control the flow
@@ -237,7 +239,8 @@ definitions, browser interactions etc. Three layers emerge:
     A bit like a controller.
    </div>
 
-3.  <div align="left">
+3. <div align="left">
+
    The page object contains the nitty gritty details in how you
     automate the browser to read values from the page, fill out a form
     and submit it.

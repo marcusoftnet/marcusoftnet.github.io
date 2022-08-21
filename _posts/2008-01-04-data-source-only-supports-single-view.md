@@ -3,8 +3,7 @@ layout: post
 title: The data source '' only supports a single view
 named 'DefaultView'
 date: '2008-01-04T10:16:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - LINQ
 modified_time: '2008-01-04T10:21:34.024+01:00'

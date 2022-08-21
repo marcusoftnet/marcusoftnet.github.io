@@ -3,8 +3,7 @@ layout: post
 title: Working directory for Build Agents and building
 different branches
 date: '2008-12-09T14:13:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - TFS - MSBuild
 modified_time: '2008-12-09T14:13:58.165+01:00'

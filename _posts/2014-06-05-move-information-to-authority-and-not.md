@@ -6,7 +6,7 @@ date: '2014-06-05T06:39:00.001+02:00' author:
 Marcus Hammarberg
 tags:
   - Marcus private
-   - Lean
+  - Lean
   - Life of a consultant
    -
 Agile - Salvation Army - Indonesia

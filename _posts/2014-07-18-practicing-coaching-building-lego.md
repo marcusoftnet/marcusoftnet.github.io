@@ -7,7 +7,7 @@ tags:
   - Marcus
 private
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2014-07-19T14:26:51.129+02:00'
 thumbnail: http://4.bp.blogspot.com/-HpPbiNXxq_o/U8k2jRE46fI/AAAAAAAAFBo/jneZ9bCoIV8/s72-c/2014-06-23+09.43.19.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9115606127894985354

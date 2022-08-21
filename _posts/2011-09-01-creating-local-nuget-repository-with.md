@@ -5,7 +5,7 @@ dependencies bundles
 date: '2011-09-01T15:07:00.001+02:00' author:
 Marcus Hammarberg
 tags:
-   - Tools
+  - Tools
   - .NET
 modified_time: '2011-09-01T16:03:37.637+02:00'
 thumbnail: http://lh5.ggpht.com/-n34J70F2SuA/Tl-Qnb6o0pI/AAAAAAAABBk/iH5qSo5veR4/s72-c/adding%252520new%252520nuget%252520package%252520source_thumb.jpg?imgmax=800

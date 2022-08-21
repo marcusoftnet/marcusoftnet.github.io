@@ -7,7 +7,7 @@ author: Marcus Hammarberg
 tags:
   - Life of a consultant
  - Scrum
-   - Agile
+  - Agile
 modified_time: '2013-09-25T09:40:01.856+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3719361643283986207
 blogger_orig_url: http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html

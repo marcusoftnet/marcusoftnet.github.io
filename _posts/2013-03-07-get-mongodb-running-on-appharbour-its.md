@@ -3,11 +3,10 @@ layout: post
 title: Get MongoDB running on AppHarbour - it's an
 AppSetting thing
 date: '2013-03-07T09:32:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Nancy
-   - Tools
+  - Tools
   - .NET - ContinuousDelivery
 modified_time: '2013-03-07T09:32:05.227+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2488664060079678455

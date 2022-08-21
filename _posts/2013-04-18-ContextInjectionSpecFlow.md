@@ -5,7 +5,7 @@ date: '2013-04-18T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-   - Tools
+  - Tools
   - .NET - Specification by example - C# - SpecFlow
 modified_time: '2013-04-18T08:00:02.781+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865

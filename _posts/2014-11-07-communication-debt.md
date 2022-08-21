@@ -5,8 +5,8 @@ mornings
 date: '2014-11-07T09:19:00.004+01:00'
 author: Marcus Hammarberg
 tags:
-   - Tools
-  - Life of a consultant
+  - Tools
+  - ife of a consultant
    - KanbanBoards - Agile - Salvation
 Army - Indonesia
 modified_time: '2014-11-07T09:19:34.844+01:00'

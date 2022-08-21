@@ -3,12 +3,11 @@ layout: post
 title: 'What I''m talking about: Yes - I''m talking
 about changing'
 date: '2013-10-24T13:44:00.001+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2013-11-12T21:04:53.237+01:00'
 thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052

@@ -3,8 +3,7 @@ layout: post
 title: Swedish Brass Band Championships 2008 - the
 aftermath
 date: '2008-11-10T13:45:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BrassBand
 modified_time: '2008-11-10T13:45:32.203+01:00'

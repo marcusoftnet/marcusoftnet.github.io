@@ -6,7 +6,7 @@ date: '2014-05-06T15:33:00.000+02:00' author:
 Marcus Hammarberg
 tags:
   - Node - Javascript
-   - Tools - Life of a
+  - Tools - Life of a
 consultant
 modified_time: '2014-05-06T15:33:12.579+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1414687539616327239

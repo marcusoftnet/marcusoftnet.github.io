@@ -3,8 +3,7 @@ layout: post
 title: Happy birthday - Marcus inside
 (www.marcusoft.net)
 date: '2007-10-29T12:38:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: '2007-10-29T12:51:37.275+01:00'

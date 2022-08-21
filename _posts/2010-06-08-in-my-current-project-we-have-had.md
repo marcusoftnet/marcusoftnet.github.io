@@ -1,8 +1,8 @@
 ---
 layout: post
 title:
-date: '2010-06-07T20:24:00.000+02:00' author:
-Marcus Hammarberg
+date: '2010-06-07T20:24:00.000+02:00'
+author: Marcus Hammarberg
 tags:
 modified_time: '2010-06-07T20:24:36.783+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4488488677051332532
@@ -40,7 +40,6 @@ src="http://www.cardsonque.com/cards/Yikes.jpg" data-border="0"
 width="320" height="228" /></a>
 
 </div>
-
 
 We’re have tried to solve this by striking a deal with the business;
 could you have someone (with mandate to decide) in this room, between

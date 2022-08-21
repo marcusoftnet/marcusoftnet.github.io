@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - BrassBand - SOA
   - Life of a consultant
-   - Euphonium
+  - Euphonium
 modified_time: '2008-05-26T07:59:43.492+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9146102879703022399
 blogger_orig_url: http://www.marcusoft.net/2008/05/presentations.html

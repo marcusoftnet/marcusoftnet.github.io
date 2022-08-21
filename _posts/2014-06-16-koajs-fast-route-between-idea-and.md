@@ -3,8 +3,7 @@ layout: post
 title: KoaJs - the fast route between idea and
 production
 date: '2014-06-16T15:51:00.002+02:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - Javascript - Koa - Lean - Agile - ContinuousDelivery
 modified_time: '2014-06-20T09:44:31.696+02:00'

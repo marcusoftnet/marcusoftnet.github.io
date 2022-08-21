@@ -3,11 +3,10 @@ layout: post
 title: The "I'm not allowed to do columns like
 that"-problem
 date: '2013-02-20T09:00:00.000+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
-   - Tools
-  - Life of a consultant
+  - Tools
+  - ife of a consultant
    - Kanban - Agile
 modified_time: '2013-02-20T09:00:11.899+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-18478852401572606

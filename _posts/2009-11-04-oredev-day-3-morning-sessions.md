@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - ÖreDev
   - Life of a consultant
-   - Agile
+  - Agile
 modified_time: '2011-11-09T21:49:22.599+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6851193783892192301
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-3-morning-sessions.html ---

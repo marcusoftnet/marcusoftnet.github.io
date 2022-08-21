@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-   - Agile - SpecFlow
+  - Agile - SpecFlow
 modified_time: '2013-01-30T15:40:57.546+01:00'
 thumbnail: http://lh6.ggpht.com/-pWpMISDNgTI/T7OhNxh3t9I/AAAAAAAABPg/9HvHRV6w8IM/s72-c/wlEmoticon-confusedsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1609908988336242581

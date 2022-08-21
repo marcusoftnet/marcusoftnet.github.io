@@ -3,8 +3,7 @@ layout: post
 title: Two types in SpecFlow; ScenarioContext and
 FeatureContext
 date: '2011-03-26T22:04:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
   - BDD
   - .NET - SpecFlow

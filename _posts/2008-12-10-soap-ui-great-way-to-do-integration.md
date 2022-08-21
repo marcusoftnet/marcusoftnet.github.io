@@ -3,8 +3,7 @@ layout: post
 title: SOAP UI - a great way to do integration tests
 for services
 date: '2008-12-10T15:39:00.001+01:00'
-author: Marcus
-Hammarberg
+author: Marcus Hammarberg
 tags:
 modified_time: '2008-12-10T15:39:30.545+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1551771198832030366

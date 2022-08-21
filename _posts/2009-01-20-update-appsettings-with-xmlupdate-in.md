@@ -6,7 +6,7 @@ date: '2009-01-20T08:00:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-   - MSBuild
+  - MSBuild
 modified_time: '2009-01-20T08:00:15.088+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3488066834100206897
 blogger_orig_url: http://www.marcusoft.net/2009/01/update-appsettings-with-xmlupdate-in.html
