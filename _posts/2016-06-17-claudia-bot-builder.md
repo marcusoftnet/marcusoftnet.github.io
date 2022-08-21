@@ -20,7 +20,7 @@ In this post I wanted to check out a new tool around Claudia that helps you to b
 
 AWS Lambda is really cool but it leaves one of those: `Oh wow… now what am I going to use this for?` feeling. It's just code that scale infinity without you having to worry about it. It's a very open playing field.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## What we're going to build
 

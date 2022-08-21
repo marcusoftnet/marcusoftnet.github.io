@@ -16,7 +16,7 @@ This is a quick and simple way to verify and [smoke test](https://www.wikiwand.c
 
 And it's super easy to use. Tag along
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Our example... again
 I'm going to use something very similar to the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) for our example. Here's the short version:

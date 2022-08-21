@@ -14,7 +14,7 @@ In [my last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) o
 
 In this post I wanted to up the ante a little bit and store some data, more specifically in the AWS Document database called [DynamoDb](https://console.aws.amazon.com/dynamodb/home)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 You might want to read up on the basics (creating accounts, what is Claudia etc) in my earlier post. I'll write every step down here but I will not explain it as thorough as last post.
 
 # Dynamo Db?

@@ -17,7 +17,7 @@ My first ever [scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development
 
 Looking back I remember these things that was common about them, in the very particular order that I remember the traits...:
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Sat together
 The great teams I've been part of have all been seated together. I've been part of good teams that have been geographically distributed but the great ones have always been meeting or working in the same room, at the same time.
@@ -54,4 +54,4 @@ Well.... I dunno... what to say about this really. Reading this list I realize t
 
 But don't fret - this is exactly how you met your husband/wife. The first date is always awkward, right. But since you seem to share values and enjoyed spending time together you go for a second, less awkward date. And then another one and another one. Little by little you are creating a history together and before long it seems like you've always been together.
 
-If I wanted to create a great team I would try to reach or implement the traits above. Starting with a common, well-known goal, authority and responsibility for the team to act autonomous and a lot of fun together is a good start. It will not promise to be great, but it's a good start. 
+If I wanted to create a great team I would try to reach or implement the traits above. Starting with a common, well-known goal, authority and responsibility for the team to act autonomous and a lot of fun together is a good start. It will not promise to be great, but it's a good start.

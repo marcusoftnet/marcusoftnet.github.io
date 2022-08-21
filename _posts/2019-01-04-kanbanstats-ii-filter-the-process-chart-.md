@@ -19,7 +19,7 @@ In the [first post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-proces
 
 Speaking of those principles; in this post, I will violate one of them a bit, by adding a filter capability to the lead time chart, so that we can see just a part of the data.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The reason I want to do this is that, as it the chart stands now, it’s a bit too noisy and has a lot of outliers, for example.
 

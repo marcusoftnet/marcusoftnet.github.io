@@ -18,7 +18,7 @@ The book of course got me thinking waaay to big thoughts for my small head and I
 
 This time however I dared to question the book too. I love it. So much that I think it will take me question it a little bit.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 <img src="/img/theGoal.jpg" style="float:right" width="40%">
 Because there's one thing in the book that I have a little problem with. And I cannot wrap my head around it. It's ... The Goal. In the book our hero, Alex Rogo, comes to the realization that The Goal for his plant and the entire organization is to "Make money".

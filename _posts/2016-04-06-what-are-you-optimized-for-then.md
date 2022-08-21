@@ -18,7 +18,7 @@ Ok, in our discussion I, [again](http://www.marcusoft.net/2016/02/the-hidden-age
 
 I just have to write this down, and see if it becomes clearer for me. You can read it too if you want.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Value streams
 We talked a lot about flow and that often our current organizational setup makes flow harder, but the penny dropped around this problem statement when we came to speak about *value streams*.

@@ -13,7 +13,7 @@ tags:
 And we used it as our first picture in <a href="http://bit.ly/theKanbanBook">the book</a>.
 
 It's a great saying and teaches us a lot, and lately I've got a new practical experience of the implications of "stop starting - start finishing".
-<a name='more'></a>
+<!-- excerpt-end -->
 The meaning of "Stop starting - start finishing", to me, like a guiding star and policy that we agree on in the team, or in the company: here we try to complete things before we start new things.
 
 I think it was <a href="https://twitter.com/kjscotland">Karl Scotland</a> said it like this:

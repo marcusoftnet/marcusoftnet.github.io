@@ -18,7 +18,7 @@ In this short post I wanted to share those with you and maybe you can also get s
 
 My good friend <a href="http://twitter.com/hakanforss">Håkan Forss</a> wrote an excellent presentation called <a href="http://www.slideshare.net/HkanForss/what-can-traffic-in-stockholm-teach-you-about-queuing-theory">What can traffic in stockholm teach you about queuing theory</a>. That inspired me to write this post, at least a little.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # They never stop
 <img src="/img/trafficJakarta2.jpg" style="float:right" width="60%">

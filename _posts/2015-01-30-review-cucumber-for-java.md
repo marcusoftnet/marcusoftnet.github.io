@@ -31,7 +31,7 @@ Thank you!
 
 Below you'll find my detailed, but rough, notes that I wrote as I read the book.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Chapter 1
 Nice whirlwind tour of BDD, it’s purpose and it’s history. Also hints how BDD can be used to bridge the communication gap and build trust.

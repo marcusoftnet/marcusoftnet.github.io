@@ -35,7 +35,7 @@ Here's all the post in the series (the links will work as I post them):
 * [ca 10 minutes on root cause analysis](/2015/07/ca-minutes-on-root-cause-analysis.html)
 * [ca 10 minutes on effective meetings](/2015/08/ca-minutes-on-effective-meetings.html)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The idea is that this series of presentations should make sense going through from top to bottom or to see one by one. Here's my reasoning behind the topics and order:
 

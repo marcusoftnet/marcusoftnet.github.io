@@ -20,7 +20,7 @@ Yes - it will be great fun.  Mmmmmm frustration...
 
 Just kidding but I will try to write this so I can use it as a nice reminder post for when I fall into this reasoning again. Maybe you find it useful too.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Once again I was pondering why "they" just couldn't understand and start to do goal driven plans, a [vision statement](http://www.marcusoft.net/2014/10/vision-statements.html) that actually helped us to know where we were going and things like that.
 

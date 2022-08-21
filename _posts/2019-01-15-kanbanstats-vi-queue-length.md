@@ -25,7 +25,7 @@ As always [my sheet is found here](https://docs.google.com/spreadsheets/d/1IinrY
 
 Let's do it - queue length!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Why queue length?
 

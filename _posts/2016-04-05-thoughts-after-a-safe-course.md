@@ -16,7 +16,7 @@ The context of the training was that it was given for my client. Not as "let's g
 
 I wanted to share a few thoughts in this post. If you were looking (or hoping) for a SAFe-bashing by a Kanbanista... Sorry - I'm not that guy. I'm also in way [too good mood](/2016/04/brickell-key-award-i-am-nominated.html) to bash anything right now.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The course
 Your first time learning something has much to do with the teacher. I was in the expert hands of [Carl Vikman](https://twitter.com/cvikman) that both were very knowledgeable, had a pleasant way and most importantly understood the main reason for us being there - gain a common understanding (rather than learning SAFe)

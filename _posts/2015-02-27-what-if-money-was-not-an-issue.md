@@ -18,7 +18,7 @@ Before we continue, imagine the effort to roll this out in the world 5th biggest
 However... I work for hospitals in Indonesia. On the "other" side of things. For us this is also an opportunity since this will bring more patients to our hospitals and we get to serve those in need. But there's another side of the story that have very interesting implications around service quality, of all things.
 
 In this post I will tell you a little about that, quote a great book and then ask myself some tricky questions that I cannot answer. It will be a blast - tag along!
-<a name='more'></a>
+<!-- excerpt-end -->
 So, there's a set tariff for all treatments, operations and drugs from BPJS. Everything costs the same if you're a BPJS-patients - regardless of where you go.
 
 Let's say it differently; if you go to the best hospital in town, with state-of-the-art equipment and nurses (and other staff) trained and certified according to all known levels and rules... you _pay the same amount_ as if you where to go to the worst hospital in town.

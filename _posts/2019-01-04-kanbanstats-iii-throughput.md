@@ -23,7 +23,7 @@ Let's start to track another metric; throughput or
 
 With the data, we have this is pretty easy to get hold of.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Setting up
 

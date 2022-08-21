@@ -15,7 +15,7 @@ But one thing that trips me up a lot is the configuration and especially things 
 
 In this post I'll show you a little function / object that I've found plenty use of and that I now include in almost every project I deploy. I'll finish up with a little discussion on how to handle secrets too.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I don't know really where I picked this construct up, the first time, but I'm eternally grateful that I've found it. It's just a simple object, with a twist. Here's the code for my configuration object, let's go through it below:
 

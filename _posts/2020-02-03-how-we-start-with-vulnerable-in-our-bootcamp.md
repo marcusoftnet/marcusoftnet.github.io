@@ -14,12 +14,12 @@ In the [</salt>](https://salt.study/) accelerated learning program we emphasizes
 
 But there's a thing that needs to be in place in order for the learning to be allowed to flow freely; [psychological safety](https://en.wikipedia.org/wiki/Psychological_safety). We try to create a psychological safe space through two tools:
 
-* Trust 
-* Vulnerability 
+* Trust
+* Vulnerability
 
 Let me, very breifly, expand on how we use this in our training.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Trust
 
@@ -29,9 +29,9 @@ We build trust in the mob through some different exercises, but the underlying t
 
 Therefor the first exercise we run with the teams is one from this [book that I've written up here.](http://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html)
 
-## Vulnerability 
+## Vulnerability
 
-The second thing that will foster not only learning but also a psychological safe space is to dare (and be allowed) to be vulnerable within your team and the the school. Without this learning is heavily suffering. 
+The second thing that will foster not only learning but also a psychological safe space is to dare (and be allowed) to be vulnerable within your team and the the school. Without this learning is heavily suffering.
 
 Hence one of the first exercises of the [</salt>](https://salt.study/) boot camp is oral. The entire class are required to repeat after me:
 
@@ -43,7 +43,7 @@ Hence one of the first exercises of the [</salt>](https://salt.study/) boot camp
 
 When doing team-based learning (as mob programming is all about) it is paramount that everyone dares to air their questions, confusion and need for help. I've found that in saying it once in a big group, and in a bit of a fun way, increase the likelihood of people saying it again.
 
-We see how the mobs that starts to share their questions with eachother early also are taking better care of each other and the understanding comes more prominent in focus, rather than finishing the exercises. 
+We see how the mobs that starts to share their questions with eachother early also are taking better care of each other and the understanding comes more prominent in focus, rather than finishing the exercises.
 
 ## Conclusion
 

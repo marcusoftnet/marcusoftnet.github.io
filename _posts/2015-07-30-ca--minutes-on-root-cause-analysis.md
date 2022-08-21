@@ -30,7 +30,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In the presentation I give a very short introduction and just dive right into an made-up example that we did in our office. This will actually show you most of the practices you will need to know to create a root cause analysis map.
 

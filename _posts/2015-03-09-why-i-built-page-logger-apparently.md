@@ -15,7 +15,7 @@ I wrote a little application called [page-logger](https://page-logger.herokuapp.
 
 In this post I'll take you through some code, point to some things that I learned and finally some thoughts about learning from your data. I hope you like it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Why I built page-logger
 

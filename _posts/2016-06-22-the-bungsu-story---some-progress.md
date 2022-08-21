@@ -18,7 +18,7 @@ I'm writing [a book](http://bit.ly/bungsustory) about that journey. with my good
 
 This post is just an update about the progress of the work around the "Salvation Army hospital that rose again" that I'm calling it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Presenting
 I was fortunate enough to be able to present at Lean Kanban North America 2016. To my great joy they were interested in hearing about the my hospital journey there. The reception of my presentation was overwhelming. I saw people drying tears during the presentation at more than one occasion and I spoke with many people after the presentation.

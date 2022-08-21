@@ -20,7 +20,7 @@ You can help my nomination by supporting me in the form on [that page](http://lk
 
 But first - let me tell you a little bit about why you should do that, and what this price even is and some other questions that might go through your mind.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The award
 
@@ -30,7 +30,7 @@ But first - let me tell you a little bit about why you should do that, and what 
 It was the location for the first Lean Kanban Conference in 2009.
 
 ## What is the Brickell Key Award?
-The [Brickell Key Award](http://conf.leankanban.com/brickell) is an  award for extraordinary efforts and achievements within the international kanban community. 
+The [Brickell Key Award](http://conf.leankanban.com/brickell) is an  award for extraordinary efforts and achievements within the international kanban community.
 
 From the web page on the award:
 

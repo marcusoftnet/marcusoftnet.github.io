@@ -18,7 +18,7 @@ I know embarrassing amounts of information about post-its; how it, accidentally,
 
 But this simple little trick is something that most people I tell it to have not reflected about.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here's the sidebar, used by permission of the author...
 
@@ -36,4 +36,4 @@ The trick is to be careful that the sticky part doesn’t curl. Slide your finge
 <blockquote>
 Now you know and can pester all your friends with the proper way to remove a sticky. Not only is this a geeky party trick, but it will also, more seriously, save you problems with work items falling off your board.</blockquote>
 
-Told you... Geeky. 
+Told you... Geeky.

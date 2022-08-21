@@ -16,7 +16,7 @@ The villa was in an area of other villas in the same class together with some up
 I sat in our car on the way to the beach and we passed one hotel that looked small but very nice indeed. On the wall nothing was said about their services, no stars or anything like that. Just a simple, but [big](http://www.marcusoft.net/2014/09/ifyoubuildit.html), sign that said:
 <blockquote>Inspections welcome!</blockquote>
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I like this approach very much. It's open and friendly but at the same time states a quality awareness and pride about our work.
 

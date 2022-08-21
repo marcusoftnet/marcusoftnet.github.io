@@ -14,7 +14,7 @@ One of the things that I found early to be a stumbling block was to create a new
 So I looked for a post generator and found <a href="https://gist.github.com/kabrooski/6107707">this gist</a> that is used, at the command line, to scaffold up the structure of a new blog post.
 
 Let me show you how I tweaked it and a problem that I ran into, being a newbie.
-<a name='more'></a>
+<!-- excerpt-end -->
 ## Tweaking the script
 I'm very much a newbie in bash script files so bare with me and please enlighten me if this can be better.
 

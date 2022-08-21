@@ -22,7 +22,7 @@ Oh, this post is mostly me reasoning. I have no ambition so solve any problems. 
 
 Let's get started... I'm fearing it might be long.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Group vs individual
 First we need to realize one important fact. Indonesian (and many Asian cultures) is a group culture. This stands in stark (yes, Swedish readers that [word can be used here](http://www.thefreedictionary.com/stark)) contrast to my own culture which is very individual based.

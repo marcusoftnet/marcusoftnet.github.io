@@ -24,7 +24,7 @@ But that sprung a few ideas about things that I've started to use a lot and I th
 
 Cliffhanger; the last bullet is still not clear to me... It will be a blast seeing me stumble through that one.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 When I read James comment two things popped (every time I use that word I'm afraid that I will use two o's, instead of p's) into my head; how to split the test and how to split the API itself over several files.
 

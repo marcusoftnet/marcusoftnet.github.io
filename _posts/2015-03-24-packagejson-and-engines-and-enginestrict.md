@@ -16,7 +16,7 @@ I was hoping that I'd get a <a href="http://www.marcusoft.net/2015/01/koa-and-th
 
 In this post I'll show you how to use the <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html">package.json</a> file to make sure that you get warnings and errors when using the wrong version of the framework
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # engines
 In the package.json there's an optional node that you can set called ```engines```. From the <a href="https://docs.npmjs.com/files/package.json">documentation</a> we can read about what this is for:

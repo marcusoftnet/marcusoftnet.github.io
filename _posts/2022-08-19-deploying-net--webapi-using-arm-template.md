@@ -15,7 +15,7 @@ And nowadays [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resour
 
 But I ran into problems, and I wanted to share with you those problems and how I overcame it. Just your normal post on this blog in other words.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Creating the API
 

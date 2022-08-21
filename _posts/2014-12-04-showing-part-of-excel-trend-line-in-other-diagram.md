@@ -15,7 +15,7 @@ I had do it myself a little bit, and try to extract some Math-skills from *way* 
 
 In this post I'll show you what we did to get part of a big trend-curve to show up on a diagram showing part of the data. And how we later used that knowledge to start making some interesting prognostications
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The setup
 We do daily reporting for the number of patients we serve in an Excel sheet. In order to keep this reasonable we have created a sheet for each month. On this sheet we show a diagram with the data for the current month.

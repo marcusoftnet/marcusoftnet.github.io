@@ -24,7 +24,7 @@ This is the fifth post in my series on some simple kanban board statistics. We h
 1. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
 1. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Common questions
 

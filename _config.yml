@@ -7,8 +7,7 @@ description: "Marcus Hammarberg - my thoughts on lean, agile, kanban, nodejs, na
 baseurl: ""
 url: https://www.marcusoft.net
 enforce_ssl: https://www.marcusoft.net
-excerpt_separator: <a name='more'></a> # http://snippetrepo.com/snippets/customized-excerpt-separator-in-jekyll
-
+excerpt_separator: <!-- excerpt-end -->
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /img/avatar.jpg

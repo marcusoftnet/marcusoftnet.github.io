@@ -19,7 +19,7 @@ Most of these tools (like JIRA or Team Foundation server) obviously have ways of
 
 I’ve now grown tired of recreating these simple reports for every client and wanted to share my, very simple, stats here. This way I can reuse it for future clients and also maintain it in one place. The goal is simplicity – so I’ve put it on Google Sheets to be shareable. For the integration, between the dashboard and the different source systems, the goal is that you should be able to just paste in some data, in a certain simple format, in one tab (conveniently called “Raw data”) and then the dashboard will do all the other calculations.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I want to share 4 very simple metrics that are easy to get from a very simple export of all the items, that you are interested in, and then makes some useful and simple visualizations from it. The metrics are:
 

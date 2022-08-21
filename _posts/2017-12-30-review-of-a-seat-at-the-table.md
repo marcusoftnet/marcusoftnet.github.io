@@ -13,7 +13,7 @@ I've just read a classic. Mark my words - we will mention, refer to and hear a l
 
 It's an amazing book - you have to read it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 This book is written in a laid-back, funny and content-packed format and contains useful information for any leader in a modern IT-organisation. I have throughout the book been screaming out loud "YES!", "Exactly that!" or "Where were you when I was in the meeting last week?!" from the well explained and laid our arguments that Mark presents.
 

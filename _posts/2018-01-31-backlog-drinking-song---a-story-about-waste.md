@@ -19,7 +19,7 @@ This of course triggered this jolly team to start singing and we soon where humm
 
 In this post, I wanted to share how we cut the backlog in half in  45 minutes. And then share some thoughts on backlogs that I have running in my head.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Complete half of the backlog in 45 minutes
 

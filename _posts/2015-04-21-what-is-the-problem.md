@@ -24,7 +24,7 @@ But what is common for these organizations?
 
 Mind you I've only read 1/3 of the book... this might be answered later and then I'll will be ashamed of my feeble attempts to explain this here.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Change the world - to one without the problem
 The first thing that stands out is; when they face a problem, thats hindering them to become what they want, they solve it. Even if it means going against conventional wisdom or "the way we used to do things".

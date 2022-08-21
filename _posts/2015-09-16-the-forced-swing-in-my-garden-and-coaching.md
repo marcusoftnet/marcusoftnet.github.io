@@ -22,7 +22,7 @@ Two days later ...
 
 This is a post on coaching, asking before helping and not improving things that works fine.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 <img src="/img/theforcedswing.jpg" style="float:right;padding:15px" width="50%">
 Ok - two days later, the man came back with two nice handlebars, and he started to untangle my messy knot and tied the handlebars in a great position for the kids. It was clearly better and the kids love it.

@@ -13,7 +13,7 @@ This will not be an ordinary post. Just a write up of something horrible that ha
 During the Christmas our family experienced the worst scare and troubled time yet. In Indonesia but also in our lives. It all looks like it will play out alright but many people have asked me to share the story, so i will do that here.
 If I find the strange I'll write a follow up post with some lean-learnings that this could teach us, but not now.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The accident
 We were going for carolling on the Christmas eve. This is an old tradition from the band I grew up in and something that we have done in my family to. Today it failed: not only was people not at home, but also...

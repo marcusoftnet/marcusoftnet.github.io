@@ -105,7 +105,7 @@ fi
 
 echo "---" >> $filename
 echo "" >> $filename
-echo "<a name='more'></a>" >> $filename
+echo "<!-- excerpt-end -->" >> $filename
 echo >> $filename
 
 # open in chosen editor

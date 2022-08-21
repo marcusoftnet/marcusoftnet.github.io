@@ -23,7 +23,7 @@ I thought I'd write a simple little kata in Node to fresh up my CoffeeScript-fu.
 
 Well... there's quite a lot of setup and idiosyncrasies that you need to be aware of. This post tries to summary what I learned as I got my environment up and running. Specifically; initialization, run tests, write code and run my app.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Initialize project and more
 

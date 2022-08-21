@@ -13,10 +13,10 @@ One of the things that gets increasingly fascinating the older I get is the new 
 
 We built a little CMS to drive content and the whole page is a Single Page Application (SPA). As we approached being finished we of course wanted to add [Google Analytics](http://google.com/analytics) to the site. Dead simple.
 
-Or not maybe ... in this post I'll describe how we got it to work for our Single Page Application. Google Analytics default was is not built for that. And many descriptions you will find [out there](https://www.google.co.id/search?q=google+analytic+spa&oq=google+analytic+spa&aqs=chrome.0.69i59j69i64.5919j0j7&sourceid=chrome&es_sm=119&ie=UTF-8) is written based with a client-side framework in mind, like [Backbone.js](http://backbonejs.org). 
+Or not maybe ... in this post I'll describe how we got it to work for our Single Page Application. Google Analytics default was is not built for that. And many descriptions you will find [out there](https://www.google.co.id/search?q=google+analytic+spa&oq=google+analytic+spa&aqs=chrome.0.69i59j69i64.5919j0j7&sourceid=chrome&es_sm=119&ie=UTF-8) is written based with a client-side framework in mind, like [Backbone.js](http://backbonejs.org).
 
-What I write about below only requires jQuery, and that's mostly for convience. 
-<a name='more'></a>
+What I write about below only requires jQuery, and that's mostly for convience.
+<!-- excerpt-end -->
 As with most things I learn it's based on others knowledge that I just tweak and in this case I found a [GREAT article](https://mjau-mjau.com/blog/ajax-universal-analytics/) that contained much of the information I need, but didn't take me all the way. Go ahead and read it now!
 
 # Infrastructure
@@ -69,17 +69,17 @@ function gaTrack(path, title) {
 };
 ```
 
-Basically I've just created a new <code>gaInit</code> function that returns the object it initializes, the <code>ga</code> object. In the <code>gaTrack</code> function I just check if the <code>window.ga</code> object is present, if not I call the <code>gaInit()</code> to create it, initializing <code>ga</code> just-in-time and only the first time. 
+Basically I've just created a new <code>gaInit</code> function that returns the object it initializes, the <code>ga</code> object. In the <code>gaTrack</code> function I just check if the <code>window.ga</code> object is present, if not I call the <code>gaInit()</code> to create it, initializing <code>ga</code> just-in-time and only the first time.
 
 The rest of the article works as described below, and was to my joy not needed to be updated.
 
-Thanks Jim. 
+Thanks Jim.
 
 # Using it
 Now, this is where that article leaves us. And at least I felt a little bit abandoned at this point. Because now we need to use it... on A LOT of place. And I didn't really felt like writing a <code>onClick="ga()"</code> on every thing click-able in our page.
 
 ## The easy use
-The first place we should use this function is on the main page of the application, in my case <code>index.html</code>. This is the tracking of your grandfathers, tracking the loading a new page. 
+The first place we should use this function is on the main page of the application, in my case <code>index.html</code>. This is the tracking of your grandfathers, tracking the loading a new page.
 
 Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
 ```html
@@ -89,12 +89,12 @@ Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
 </body>
 ```
 
-"Beranda" is Indonesian for "Home", which is how we will refer to this page. 
+"Beranda" is Indonesian for "Home", which is how we will refer to this page.
 
 Well, that was easy.
 
 ## Catch'em all
-However, the problem is that once the page is downloaded there is no reload of the <code>index.html</code>. That's the whole idea of a SPA, right? How to track all the client-side navigation then? 
+However, the problem is that once the page is downloaded there is no reload of the <code>index.html</code>. That's the whole idea of a SPA, right? How to track all the client-side navigation then?
 
 First problem to solve is to catch all the things that's clicked on our page. Here jQuery comes to our help. For us, all things click-able are <code>a</code>-tags so we could write the following function:
 ```javascript
@@ -126,7 +126,7 @@ Line 3 requires a little more explanation. Should the <code>a</code>-tag contain
 <a class="page-scroll" href="#articles">Artikel</a>
 ```
 
-However, sometimes the <code>a</code>-tag wraps a lot of other things, divs and images etc. and in that case we will get that html-code in the <code>.text</code>-property. 
+However, sometimes the <code>a</code>-tag wraps a lot of other things, divs and images etc. and in that case we will get that html-code in the <code>.text</code>-property.
 
 Here's such an example:
 ```html
@@ -140,7 +140,7 @@ Here's such an example:
 </a>
 ```
 
-The simple solution for us was just to add a <code>title</code>-attribute on the <code>a</code>-tag. This is a good practice anyway since that will displayed when the user hovers over an image for example. 
+The simple solution for us was just to add a <code>title</code>-attribute on the <code>a</code>-tag. This is a good practice anyway since that will displayed when the user hovers over an image for example.
 
 Here's an example on how that can look:
 ```html

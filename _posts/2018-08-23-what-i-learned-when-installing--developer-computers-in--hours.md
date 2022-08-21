@@ -10,27 +10,27 @@ tags:
  - Life of a consultant
 ---
 
-Yesterday I had a very interesting task for a client. I work as (brace yourselves for a cool title) "Head of curriculum" for [School of Applied Technology](https://www.study-at-salt.com/). They create and run bootcamps and the first one we are running is "Fullstack JavaScript developer with React and Express". That title means that I've been creating the content of the course together with the person (Jakob) teaching it. 
+Yesterday I had a very interesting task for a client. I work as (brace yourselves for a cool title) "Head of curriculum" for [School of Applied Technology](https://www.study-at-salt.com/). They create and run bootcamps and the first one we are running is "Fullstack JavaScript developer with React and Express". That title means that I've been creating the content of the course together with the person (Jakob) teaching it.
 
-Ok, to the point of this post. Part of this work means that we need 33 students to get up and running with their developer computers super fast. We want code to be written after a few hours. 
+Ok, to the point of this post. Part of this work means that we need 33 students to get up and running with their developer computers super fast. We want code to be written after a few hours.
 
-Said and done - I created a set of [dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) which will configure their computers properly with all the tools and (my opinionated) settings they will need. 
+Said and done - I created a set of [dotfiles](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) which will configure their computers properly with all the tools and (my opinionated) settings they will need.
 
-Yesterday 33 MacBook Pros came to the Aptitud office and 5 hours later I had installed, configured and test them all. 
+Yesterday 33 MacBook Pros came to the Aptitud office and 5 hours later I had installed, configured and test them all.
 
 <img src="/img/gettingReady.jpg" style="width:100%" />
 
-In this blog post I wanted to describe how that was accomplished and what I learned in the process. The post will be some lean learnings and some bash scripting and something about dotfiles. 
+In this blog post I wanted to describe how that was accomplished and what I learned in the process. The post will be some lean learnings and some bash scripting and something about dotfiles.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The dotfiles and why I went this route
 
-Dotfiles are the files starting with `.` On Linux and OSX systems these typically contains configuration about your system and tools. A community has grown around sharing and tweaking these files to suit your particular need. 
+Dotfiles are the files starting with `.` On Linux and OSX systems these typically contains configuration about your system and tools. A community has grown around sharing and tweaking these files to suit your particular need.
 
-The [files I'm using for my personal need](https://github.com/marcusoftnet/dotfiles) are very elaborate and does not only configure your system but actually installs all the tools you need. So when I get a new computer at a client, I simply clone my dotfiles- repository into `~/Marcus/.dotfiles` and run the bootstrapping command. About 30 minutes later everything I need is not only installed but also configured the way I like it. 
+The [files I'm using for my personal need](https://github.com/marcusoftnet/dotfiles) are very elaborate and does not only configure your system but actually installs all the tools you need. So when I get a new computer at a client, I simply clone my dotfiles- repository into `~/Marcus/.dotfiles` and run the bootstrapping command. About 30 minutes later everything I need is not only installed but also configured the way I like it.
 
-Since many of the students in the bootcamp are new to programming or the platform we thought that we could help them get a suitable environment in order by using dotfiles  to configure their computer. They can then fork and tweak their settings to their individual need. 
+Since many of the students in the bootcamp are new to programming or the platform we thought that we could help them get a suitable environment in order by using dotfiles  to configure their computer. They can then fork and tweak their settings to their individual need.
 
 Also, everyone is using identical systems (MacBook Pros of the same release)  it proves a good delivery mechanism for getting the systems fast to a useable state. It also meant that I could do some simplifications in the deliver, for example I knew that everything could be installed with [HomeBrew](https://brew.sh/)
 
@@ -50,7 +50,7 @@ The easiest way to answer that question is to ask you to look through [this file
 
 ### How can I be part of this?
 
-Well first of all - Yes you can. :) 
+Well first of all - Yes you can. :)
 
 Secondly do this:
 
@@ -75,15 +75,15 @@ Yesterday morning 33 brand new MacBook Pros came to my office. My task was clear
 
 <img src="/img/smilingUnboxing.jpg" style="width:100%" />
 
-Here I am before I start. See that smile? I couldn't wipe it off. Also notice the big pile of unfinished work in the background. 
+Here I am before I start. See that smile? I couldn't wipe it off. Also notice the big pile of unfinished work in the background.
 
 ### My flow policies and rules
 
 Being a lean guy I immediately started to think about flow, lead times and work in process limits. This led me to set up some very simple rules for myself:
 
 * I will work my way backward; starting with the computer closest to being completed
-* I will only pick up new work when I don't need to input something. For example, some of the early stages of an installation takes some time (creating a user took about 1-2 minutes to create, before I could click the next button) In those times I could pick up new work. 
-* I will not many simultaneous installations - turned out to be around 5 computers running. With 6 I got really busy and stressed out. 
+* I will only pick up new work when I don't need to input something. For example, some of the early stages of an installation takes some time (creating a user took about 1-2 minutes to create, before I could click the next button) In those times I could pick up new work.
+* I will not many simultaneous installations - turned out to be around 5 computers running. With 6 I got really busy and stressed out.
 
 ### Setting up the workflow
 
@@ -92,7 +92,7 @@ All of this put together gave me a workflow like that looked like this:
 <img src="/img/installationWorkflow.png" style="width:100%" />
 
 1. Open and remove plastic
-2. Start computer 
+2. Start computer
    1. Make initial configuration (language, location, wifi access, keyboard)
    2. Make user config (username and password, by pass Siri, Touch ID etc that I couldn't do on the user behalf)
    3. Get the command to do bootstrapping (see below) from https://github.com/saltsthlm/jsfullstackdev-dotfiles
@@ -120,18 +120,18 @@ Here's a few things I learned while doing this
 
 Bootstrapping is sometimes referred to as "lifting yourself by the hair"... Here's an example:
 
-In order to get the dotfiles onto a computer, you need to run git command (`git clone https://github.com/saltsthlm/jsfullstackdev-dotfiles.git .dotfiles`). But a clean installation of MacOS doesn't contain OSX. That needs to be installed with `xcode-select --install`, but that opens a dialog box and hence cannot be done in a script. In doing 33 installations in succession I really wanted to minimise the number of clicks needed to be done. 
+In order to get the dotfiles onto a computer, you need to run git command (`git clone https://github.com/saltsthlm/jsfullstackdev-dotfiles.git .dotfiles`). But a clean installation of MacOS doesn't contain OSX. That needs to be installed with `xcode-select --install`, but that opens a dialog box and hence cannot be done in a script. In doing 33 installations in succession I really wanted to minimise the number of clicks needed to be done.
 
-Preferably I wanted one single script to do the complete installation. But that would also be impossible due to that dialog box to install git... 
+Preferably I wanted one single script to do the complete installation. But that would also be impossible due to that dialog box to install git...
 
-Turns out - git is installed as part of the installation of [HomeBrew](https://brew.sh/) . So as long as I installed Homebrew first I should be fine. 
+Turns out - git is installed as part of the installation of [HomeBrew](https://brew.sh/) . So as long as I installed Homebrew first I should be fine.
 
 To put it differently: I needed to install Homebrew, to install git that I need to do the installation. This my friends is called [Yak Shaving](https://whatis.techtarget.com/definition/yak-shaving)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A fully shaved Yak. <br>.<br>.<br>.<br>I won&#39;t say how long it took. <a href="https://t.co/sSWC1Pk7wH">pic.twitter.com/sSWC1Pk7wH</a></p>&mdash; mike rizzi (@rizzi) <a href="https://twitter.com/rizzi/status/1030752083975327746?ref_src=twsrc%5Etfw">August 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I ended up with a single script that I could trigger with one command to do the full installation. Here's the script 
+I ended up with a single script that I could trigger with one command to do the full installation. Here's the script
 
 ```bash
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -148,7 +148,7 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 3. Run the bootstrap script (which, incidentally, installs Homebrew unless it's installed)
 4. Run the script that installs [Oh-my-zsh](https://ohmyz.sh/)
 
-This script can be run with this command 
+This script can be run with this command
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/saltsthlm/jsfullstackdev-dotfiles/master/script/automationAug18.sh)"
@@ -158,13 +158,13 @@ Great - now I had one command to run in order to install everything in my dotfil
 
 ### Testing, testing and then some testing
 
-The process was smooth and I was up and running in just a few minutes. The reason for this was that I had run it many many times before I started. 
+The process was smooth and I was up and running in just a few minutes. The reason for this was that I had run it many many times before I started.
 
-First of all I have a version of the dotfiles on my own computer and I have used it for years now. I know this. 
+First of all I have a version of the dotfiles on my own computer and I have used it for years now. I know this.
 
-I then ran the [Salt dotfiles](https://github.com/saltsthlm/jsfullstackdev-dotfiles) many times and found many problems, on a virtual environment. I used [VirutalBox](https://www.virtualbox.org/) and a HighSierra image. Which meant that I could do a clean install many times over. 
+I then ran the [Salt dotfiles](https://github.com/saltsthlm/jsfullstackdev-dotfiles) many times and found many problems, on a virtual environment. I used [VirutalBox](https://www.virtualbox.org/) and a HighSierra image. Which meant that I could do a clean install many times over.
 
-This was hugely beneficial for the smoothness in the process. During the day when I worked on the proper computers I didn't change a thing in the scripts itself. Instead I could focus on getting it right and help the work to flow faster. 
+This was hugely beneficial for the smoothness in the process. During the day when I worked on the proper computers I didn't change a thing in the scripts itself. Instead I could focus on getting it right and help the work to flow faster.
 
 ### Optimisations and disruptions
 
@@ -183,7 +183,7 @@ Here's a few improvements that came to me as I worked:
 * I had to note the serial number of each computer (printed on the box) connected to the correct user. I did this in a Google Sheet. But the serial number was so small to read that I took a photo of each in order to see.
   * Before I found this out it took me 1-2 minutes to make out from the box
   * When I flipped to box over (to photo the serial number) I needed to take the plastic out, but not the lid off - since that could send the computer flipping out on the table. Not that it happened ... well only once and not that hard
-* In the beginning I spent a lot of frustrating minutes trying to put the empty box back and out of the lid. I then realised that I only needed to match the computer to it's corresponding bottom part (where the serial number is written). I could use any old lid. 
+* In the beginning I spent a lot of frustrating minutes trying to put the empty box back and out of the lid. I then realised that I only needed to match the computer to it's corresponding bottom part (where the serial number is written). I could use any old lid.
   * You can see the lids in a pile in the workflow picture above
 
 
@@ -192,6 +192,6 @@ Another thing I learned from was when I got a call half-way through and they sai
 
 ## Summary
 
-This was a real fun task and I learned a lot both about lean, flow and scripting, dotfiles and computers. 
+This was a real fun task and I learned a lot both about lean, flow and scripting, dotfiles and computers.
 
-I hope you found this useful too. 
+I hope you found this useful too.

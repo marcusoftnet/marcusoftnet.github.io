@@ -16,7 +16,7 @@ There are only 10, so if one is added another one needs to leave. That said - th
 
 For each, I've given a short little review and comment on why I like the book.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 [Toyota Kata](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238/ref=sr_1_1?s=books&ie=UTF8&qid=1521040881&sr=1-1&keywords=toyota+kata) - this book by Mike Rother is very interesting and useful. It describes how Toyota, inventors of Toyota Production System (that later became Lean) and the Toyota Way *thinks*. Because many organizations have tried to copy Toyota and failed - this book goes beyond the *how* and looks to the thinking, philosophy that makes the continuous improvement work.
 
@@ -68,9 +68,9 @@ Read it slow and thoughtful and you will be rewarded with a much deeper understa
 
 
 
-[When will it be done](https://leanpub.com/whenwillitbedone) is a marvellous book by [Daniel Vacanti](https://twitter.com/danvacanti) on process metrics. I was a fan from page 1. Maybe 2. What I particularly love about this book is that 1) he talks about prognosis from real data, rather than estimated value and 2) he lays down the way to track this data and plot the graphs as something very very simple. 
+[When will it be done](https://leanpub.com/whenwillitbedone) is a marvellous book by [Daniel Vacanti](https://twitter.com/danvacanti) on process metrics. I was a fan from page 1. Maybe 2. What I particularly love about this book is that 1) he talks about prognosis from real data, rather than estimated value and 2) he lays down the way to track this data and plot the graphs as something very very simple.
 
-Track start and stop date per item, calculate 50 and the 85 percentiles, create a histogram and a scatter chart and you are half-way there to the best process data you ever saw. 
+Track start and stop date per item, calculate 50 and the 85 percentiles, create a histogram and a scatter chart and you are half-way there to the best process data you ever saw.
 
 
 
@@ -82,7 +82,7 @@ The book is packed with nuggets (nudges?) of management gold like "[Move the aut
 
 ### Moved out
 
-In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books. 
+In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books.
 
 
 

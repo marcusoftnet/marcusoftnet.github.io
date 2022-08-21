@@ -15,7 +15,7 @@ tags:
 I've been very much into <a href="http://www.specificationbyexample.com">Specification by example</a> in my software development consulting. One of the key learnings for me there is to try to make things concrete earlier. Using specification by example we do this by, for each of the features we're building, sketching down some concrete examples on how that would work.
 
 For example; let's say that we are building a on-line store and the business rule says <code>Shipping is free for order with 3 items</code>. That's pretty easy, right? We all have a good opinion on how that rule should be... but is it the same opinion?
-<a name='more'></a>
+<!-- excerpt-end -->
 What I've found immensely useful here is to write down some really simple examples. Just to make sure that we understand it the same way. For this business our examples might look like this:
 
 | Number of items in order | Shipping free?

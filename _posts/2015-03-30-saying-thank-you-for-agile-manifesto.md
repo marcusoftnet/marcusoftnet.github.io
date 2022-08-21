@@ -18,7 +18,7 @@ There I was. Also a speaker at this conference half-around the world. Working wi
 The last 10 years of my career has been involving agile in one way or the other on a daily basis. And evolving me for the better, mostly daily.
 
 You know where this is going: I just had to thank him.
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In fact I vowed there and then that I would make it a goal to meet as many signatories of the Agile Manifesto, as possible. I wanted them to know that for me my life changed totally due to those ideas.
 

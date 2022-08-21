@@ -24,7 +24,7 @@ Also, don't miss the other posts on this blog on npm scripting:
 
 If you liked this post I know you will love the course! Thank you for reading this
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The makes of a makefile
 My current [make file](http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html) (that I copy around from project to project) does the following:

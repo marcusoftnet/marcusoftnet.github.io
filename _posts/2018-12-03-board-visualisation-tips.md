@@ -14,7 +14,7 @@ Quite often I get to introduce people to using a "work visualization board" (oft
 
 I wanted to share a few of the things that find myself repeating to new users of kanban boards.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## A board is just a tool
 

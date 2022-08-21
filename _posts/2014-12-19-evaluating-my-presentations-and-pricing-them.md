@@ -16,7 +16,7 @@ I'm waiting at a train station to go back after doing 2 presentations on kanban.
 One of the things that's always included in my presentation is a slide that asks for feedback. "I love feedback" is my presenter notes and then I ask the people in the room to give me some.
 
 I have experimented with a few ways to get proper and honest feedback and I wanted to share my latests experiment.
-<a name='more'></a>
+<!-- excerpt-end -->
 # Doing now
 What I've done up to now is to ask for two different metrics.
 

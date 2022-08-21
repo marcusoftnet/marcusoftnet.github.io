@@ -14,7 +14,7 @@ In my [last post](http://www.marcusoft.net/2015/01/emergency-lanes---some-tips.h
 
 Let me explain what I mean.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The board that my client, a hospital, have doesn't really look like your normal [kanban](http://bit.ly/theKanbanBook) board, we saw another need here. It's also in Indonesian but don't worry, I'll walk you through it. Here is how the board looked a couple of weeks ago.
 
