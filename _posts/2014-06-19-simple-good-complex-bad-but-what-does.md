@@ -4,7 +4,8 @@ title: Simple = Good. Complex = Bad. But what does it
 mean?
 date: '2014-06-19T09:40:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile - Salvation Army
 modified_time: '2014-06-19T09:42:17.939+02:00'

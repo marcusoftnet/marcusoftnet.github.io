@@ -3,7 +3,8 @@ layout: post
 title: Retreat - creative silience
 date: '2008-09-01T07:21:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2008-09-01T07:33:37.754+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1673910782798705182

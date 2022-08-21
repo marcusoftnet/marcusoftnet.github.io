@@ -5,7 +5,8 @@ Simple.Data
 date: '2013-02-04T09:00:00.000+01:00'
 author: Marcus
 Hammarberg
-tags: - Nancy
+tags:
+  - Nancy
    - Tools
   - .NET - C#
 modified_time: '2014-06-21T02:09:55.478+02:00'

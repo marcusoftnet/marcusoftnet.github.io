@@ -3,7 +3,8 @@ layout: post
 title: SpecFlow.exe and MsTest
 date: '2010-12-15T15:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Tools
   - Life of a consultant
    - SpecFlow

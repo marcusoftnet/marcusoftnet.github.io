@@ -3,7 +3,8 @@ layout: post
 title: CodeBetter - a new home for part of me
 date: '2013-08-15T15:49:00.004+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2013-08-15T15:54:22.794+02:00'

@@ -3,7 +3,8 @@ layout: post
 title: Dreidel-excuse
 date: '2006-11-30T13:29:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-11-30T13:32:32.922+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5448318958904725108

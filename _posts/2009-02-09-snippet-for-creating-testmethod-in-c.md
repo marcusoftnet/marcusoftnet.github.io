@@ -3,7 +3,8 @@ layout: post
 title: Snippet for creating testmethod in C#
 date: '2009-02-08T22:10:00.001+01:00'
 author: Marcus Hammarberg
-tags: - C# -
+tags:
+  - C# -
 TDD
 modified_time: '2010-12-14T16:20:33.214+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8870376295653513270

@@ -3,7 +3,8 @@ layout: post
 title: Abbe - a December update
 date: '2008-12-09T22:58:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-12-09T22:58:02.153+01:00'
 thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/ST7prZlXVrI/AAAAAAAAAY4/0WxmA2SHBjU/s72-c/DSC_0040_thumb%5B3%5D.jpg?imgmax=800

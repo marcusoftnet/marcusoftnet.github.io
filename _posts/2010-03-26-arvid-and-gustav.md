@@ -3,7 +3,8 @@ layout: post
 title: Arvid and Gustav
 date: '2010-03-25T20:06:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2010-03-25T20:06:44.497+01:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/S6u0LCNAE6I/AAAAAAAAAMA/5uShgEE5BT0/s72-c/DSC_2064_thumb.jpg?imgmax=800

@@ -3,7 +3,8 @@ layout: post
 title: Result of modelling
 date: '2008-08-26T18:16:00.003+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2008-08-26T19:53:32.342+02:00'

@@ -3,7 +3,8 @@ layout: post
 title: Albert - 2 and half... months
 date: '2008-04-11T19:16:00.008+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-04-14T16:03:42.145+02:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R\_-eC9oEHvI/AAAAAAAAAS8/iZe0-mLzStQ/s72-c/PICT2722.JPG

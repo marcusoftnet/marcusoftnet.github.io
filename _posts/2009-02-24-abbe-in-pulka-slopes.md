@@ -3,7 +3,8 @@ layout: post
 title: Abbe in the pulka-slopes
 date: '2009-02-23T19:12:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2009-02-23T19:22:59.588+01:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/SaLnLQQakTI/AAAAAAAAACw/i3-cXOkvzG0/s72-c/DSC_0291_thumb.jpg?imgmax=800

@@ -5,7 +5,8 @@ AppSetting thing
 date: '2013-03-07T09:32:00.001+01:00'
 author: Marcus
 Hammarberg
-tags: - Nancy
+tags:
+  - Nancy
    - Tools
   - .NET - ContinuousDelivery
 modified_time: '2013-03-07T09:32:05.227+01:00'

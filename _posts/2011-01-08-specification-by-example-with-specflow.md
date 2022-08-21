@@ -4,7 +4,8 @@ title: Specification by example with SpecFlow in TFS
 and the question of traceability
 date: '2011-01-07T22:33:00.002+01:00'
 author: Marcus Hammarberg
-tags: - BDD - TFS - Agile - SpecFlow
+tags:
+  - BDD - TFS - Agile - SpecFlow
 modified_time: '2011-01-13T21:18:16.228+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TSeGuHKFJKI/AAAAAAAAArM/XjCCauGjlF0/s72-c/specws_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4541921553992432260

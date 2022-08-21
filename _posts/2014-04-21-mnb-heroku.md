@@ -5,7 +5,8 @@ MongoHq)'
 date: '2014-04-21T16:02:00.000+02:00'
 author: Marcus
 Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools - Koa - Lean - Agile -
 ContinuousDelivery
 modified_time: '2014-05-29T14:22:24.020+02:00'

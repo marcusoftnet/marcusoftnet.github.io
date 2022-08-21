@@ -3,7 +3,8 @@ layout: post
 title: 2008 - what a year to look forward to!
 date: '2008-01-02T10:03:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-01-03T12:22:56.563+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1990770724840060092

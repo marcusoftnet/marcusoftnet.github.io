@@ -3,7 +3,8 @@ layout: post
 title: TFS, MSBuild and Code Coverage
 date: '2008-04-28T13:48:00.006+02:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 TDD
 modified_time: '2010-12-14T16:20:33.290+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2920252063191246961

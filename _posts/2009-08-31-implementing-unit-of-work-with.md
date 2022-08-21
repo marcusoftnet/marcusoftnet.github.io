@@ -3,7 +3,8 @@ layout: post
 title: Implementing Unit Of Work with NHibernate
 date: '2009-08-31T14:54:00.001+02:00'
 author: Marcus Hammarberg
-tags: - DDD -
+tags:
+  - DDD -
 NHibernate - Agile
 modified_time: '2009-08-31T14:56:38.686+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-49902724261637921

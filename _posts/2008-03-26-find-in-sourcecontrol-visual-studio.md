@@ -3,7 +3,8 @@ layout: post
 title: Find in SourceControl - Visual studio 2008
 date: '2008-03-26T10:06:00.003+01:00'
 author: Marcus Hammarberg
-tags: - TFS
+tags:
+  - TFS
 modified_time: '2010-12-14T16:20:33.317+01:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/R-oTPcP5M9I/AAAAAAAAASk/dDIeMqXWn3c/s72-c/tfs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7644610269079874995

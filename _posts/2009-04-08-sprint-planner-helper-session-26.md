@@ -3,7 +3,8 @@ layout: post
 title: Sprint Planner Helper – Session 26
 date: '2009-04-07T22:12:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Sprint
+tags:
+  - Sprint
 Planner Helper
 modified_time: '2009-04-07T22:12:48.614+02:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SduzvZvPLtI/AAAAAAAAAEI/HNFcB9fkQnU/s72-c/aggregates_thumb%5B1%5D.jpg?imgmax=800

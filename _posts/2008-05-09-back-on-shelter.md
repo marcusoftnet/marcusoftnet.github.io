@@ -3,7 +3,8 @@ layout: post
 title: Back on the shelter
 date: '2008-05-08T21:17:00.004+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-05-12T07:59:11.708+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7724150818158165227

@@ -3,7 +3,8 @@ layout: post
 title: Happy new year
 date: '2006-12-29T09:21:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-12-29T10:07:50.893+01:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/RZTarN7AonI/AAAAAAAAAEA/bnSsroIRvOk/s72-c/DSC_1606.JPG

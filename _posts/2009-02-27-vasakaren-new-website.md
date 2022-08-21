@@ -3,7 +3,8 @@ layout: post
 title: Vasakåren - new website
 date: '2009-02-26T19:27:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2009-02-26T19:27:56.900+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-685415709126567308

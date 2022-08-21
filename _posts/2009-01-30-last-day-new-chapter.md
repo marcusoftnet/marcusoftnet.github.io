@@ -3,7 +3,8 @@ layout: post
 title: Last day - new chapter
 date: '2009-01-30T08:07:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2009-01-30T08:09:21.487+01:00'

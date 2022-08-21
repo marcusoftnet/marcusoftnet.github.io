@@ -3,7 +3,8 @@ layout: post
 title: Patapon - refreshing new game
 date: '2008-04-02T16:19:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Fun
+tags:
+  - Fun
 modified_time: '2008-04-02T16:22:35.503+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8991258130911352916
 blogger_orig_url: http://www.marcusoft.net/2008/04/patapon-refreshing-new-game.html ---

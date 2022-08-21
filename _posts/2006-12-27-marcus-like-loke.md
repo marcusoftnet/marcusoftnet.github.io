@@ -3,7 +3,8 @@ layout: post
 title: 'Marcus like: Loke'
 date: '2006-12-27T11:09:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Fun
+tags:
+  - Fun
 modified_time: '2010-12-14T16:19:57.901+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3079094318279126395
 blogger_orig_url: http://www.marcusoft.net/2006/12/marcus-like-loke.html
