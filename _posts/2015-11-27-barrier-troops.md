@@ -6,7 +6,7 @@ date: 2015-11-27 13:08:27
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've been rereading the awesome [ReInventing Organizations](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/) by Fredric Laloux. The first chapter in particular is awesome. It's a history the evolution of organizations through history. What I like about it is that it highlights both the strength and weakness of each new stage of organizations.

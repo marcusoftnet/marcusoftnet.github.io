@@ -6,7 +6,7 @@ date: 2018-09-22 14:01:20
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've just attended [Agile Greece Summit](http://agilesummit.gr/) which was a wonderful event. Many awesome speaker, met a few of my heroes ([Linda Rising](http://lindarising.org/), [Michael Feathers](https://michaelfeathers.silvrback.com/), [David Snowden](http://cognitive-edge.com/our-people/dave-snowden/) and [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/)) and met new friends ([Portia Tung](https://twitter.com/portiatung), [Alison Coward](https://twitter.com/alisoncoward), [Lisi Hocke](https://twitter.com/lisihocke), [Gary Crawford](https://twitter.com/crawfrd) and [Gwen Diagram](https://twitter.com/gwendiagram), just to mention a few) and finally had many interesting and challenging conversations throughout the conference.

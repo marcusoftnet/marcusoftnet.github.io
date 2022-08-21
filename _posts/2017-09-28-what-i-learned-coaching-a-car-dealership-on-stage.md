@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 A year ago I had the great pleasure of speaking at the inaugural [Agile Islands](http://www.naringsliv.ax/natverk/agile-islands). Åland (as it's written in Swedish) is a small group of islands between Sweden and Finland. It's kind of independent but a part of Finland. They speak Swedish with the most beautiful accent you can imagine.

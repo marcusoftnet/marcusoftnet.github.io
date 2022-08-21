@@ -6,7 +6,7 @@ date: 2015-09-02 15:31:46
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 This is a just a short post, mainly an idea that I can get out of my head.

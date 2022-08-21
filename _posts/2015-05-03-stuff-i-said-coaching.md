@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-05-03 15:35:18
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
  - Lean
  - Kanban
  - Things I say often

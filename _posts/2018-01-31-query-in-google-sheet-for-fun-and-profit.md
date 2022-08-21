@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2018-01-31 13:11:41
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I had another opportunity to learn a thing or two about Google Sheets and it's internal functions. Again. [On a similar topic as last time](http://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html).

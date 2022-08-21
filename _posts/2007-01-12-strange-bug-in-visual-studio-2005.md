@@ -4,8 +4,9 @@ title: Bug in Visual Studio 2005
 date: '2007-01-12T12:35:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Visual Studio
+  - .NET
+  - Visual Studio
+
 modified_time: '2010-12-14T16:19:05.651+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1255301533495986662
 blogger_orig_url: http://www.marcusoft.net/2007/01/strange-bug-in-visual-studio-2005.html

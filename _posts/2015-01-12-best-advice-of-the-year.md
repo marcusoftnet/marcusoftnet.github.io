@@ -6,7 +6,7 @@ date: 2015-01-12 19:14:16
 tags:
  - Agile
  - Marcus private
- - Life of a consultant
+  - Life of a consultant
 ---
 
 When a year has passed I often try to think back and find the one most important thing I learned. This year that was a bit tricky since I've learned so amazingly much. So good - and some bad.

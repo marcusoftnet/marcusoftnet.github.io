@@ -6,7 +6,7 @@ date: 2016-02-29 15:33:38
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Recently I've been in many discussions about using agile in bigger enterprises that shows that one message of agile has been lost. It goes right to the basis of using agile (or lean for that matter, more on that later) in the first place.

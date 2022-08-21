@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-06-11 08:36:37
 tags:
  - Leadership
- - Life of a consultant
+  - Life of a consultant
  - Salvation Army
  - Indonesia
 ---

@@ -6,7 +6,7 @@ date: 2016-02-21 15:33:38
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have a couple of times been recommended the book [The five dysfunctions of a team](http://www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756) and the last couple of weeks I finally got around to read it.

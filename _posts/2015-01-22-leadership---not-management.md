@@ -7,7 +7,7 @@ tags:
  - Agile
  - Leadership
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Things I say often
 ---
 

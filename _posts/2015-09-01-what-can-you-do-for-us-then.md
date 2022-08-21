@@ -6,7 +6,7 @@ date: 2015-09-01 10:25:20
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 A couple of days ago I offered my services to one of the hospital directors here. In their current situation they could need some structuring and focus on start executing. I know that I can help them with this (using my normal "tricks" of visualization, transparency and short iterations etc) and hence asked if I could be of assistance.

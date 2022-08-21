@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
-   - SpecFlow
+  - SpecFlow
 modified_time: '2011-02-01T21:48:59.755+01:00'
 thumbnail:
 http://lh4.ggpht.com/\_TI0jeIedRFk/TUhxpwIsRBI/AAAAAAAAAzw/W00MMhuyCiI/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
@@ -38,23 +38,21 @@ and the StepDefinition-templates and (maybe most common) the
 Feature-template. All the structure is the same so you can follow it in
 the same manner as below.
 
-
-
 ### How to modify the Feature template
 
-1.  Make a Copy of the current template (SpecFlowFeature.zip) just to be
+1. Make a Copy of the current template (SpecFlowFeature.zip) just to be
     sure
-2.  Extract the file in SpecFlowFeature.zip a new folder
-3.  Open the SpecFlowFeature1.feature file in Visual Studio
-4.  Now you can edit the crap out of that thing <img
+2. Extract the file in SpecFlowFeature.zip a new folder
+3. Open the SpecFlowFeature1.feature file in Visual Studio
+4. Now you can edit the crap out of that thing <img
     src="http://lh4.ggpht.com/_TI0jeIedRFk/TUhxpwIsRBI/AAAAAAAAAzw/W00MMhuyCiI/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800"
     class="wlEmoticon wlEmoticon-winkingsmile"
     style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none"
     alt="Winking smile" />. In our case we wrote some instructions as
     comment, converted the thing into Swedish (our standard language in
     app.config) and wrote some common background steps
-5.  Save the file
-6.  Now (and here’s the trick) create a new zip-archive with just the 3
+5. Save the file
+6. Now (and here’s the trick) create a new zip-archive with just the 3
     files in it. Not the folder – that won’t work. Like this:
     [<img
     src="http://lh6.ggpht.com/_TI0jeIedRFk/TUhxq4Pe-GI/AAAAAAAAAz4/rL3RhKU6fl4/zipping%20together%20your%20template_thumb.jpg?imgmax=800"
@@ -62,9 +60,9 @@ the same manner as below.
     style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px auto; padding-left: 0px; padding-right: 0px; display: block; float: none; border-top: 0px; border-right: 0px; padding-top: 0px"
     data-border="0" width="404" height="305"
     alt="zipping together your template" />](http://lh4.ggpht.com/_TI0jeIedRFk/TUhxqYe6gNI/AAAAAAAAAz0/M8TP3kzZKXk/s1600-h/zipping%20together%20your%20template%5B2%5D.jpg)
-7.  And you are done. From Add new item in Visual Studio you can now use
+7. And you are done. From Add new item in Visual Studio you can now use
     your new template. And distribute it to your team-members to use.
-8.  I’m not sure – but a restart of Visual Studio will not hurt you. The
+8. I’m not sure – but a restart of Visual Studio will not hurt you. The
     new template is picked up but sometimes... Restart it now. No
     questions asked.
 
@@ -98,14 +96,14 @@ alt="vstemplate for Marcus feature" />](http://lh5.ggpht.com/_TI0jeIedRFk/TUhxsW
 
 The important stuff in this file is the following:
 
--   Name – the name that will show up in the Add New Item dialog
--   Description – showed to the right in the Add New item dialog.
+- Name – the name that will show up in the Add New Item dialog
+- Description – showed to the right in the Add New item dialog.
     Additional information in other words. Maybe which project that this
     template is used in etc.
--   Icon – yes you could potentially change the icon for the file. An
+- Icon – yes you could potentially change the icon for the file. An
     <a href="http://www.avegagroup.se" target="_blank">Avega</a> branded
     feature file for example
--   ProjectItem – this element points to the file where the template is
+- ProjectItem – this element points to the file where the template is
     stored, so be sure to match it with the .feature file in your
     zip-archive.
 

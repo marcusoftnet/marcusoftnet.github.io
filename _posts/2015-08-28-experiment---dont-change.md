@@ -6,7 +6,7 @@ date: 2015-08-28 10:19:30
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I re-read a [post I wrote](/2015/05/stuff-i-said-coaching.html) about 6 months ago, after a consultancy gig at [Nintex](http://www.nintex.com). And one thing in there resounded with me and some of the conversations I've been having lately.

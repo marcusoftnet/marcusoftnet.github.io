@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I had a colleague on one of my gigs many years ago, let's call him Olle (since that was his name). Olle just got a blood pressure meter for Christmas. He was around 45, at the time, and in reasonably good health, according to himself. But he was one of those guys that "had everything" and someone got him this machine. Mostly for fun.

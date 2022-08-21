@@ -4,7 +4,7 @@ title: "Role Models - Lars Littorin - the senior consultant"
 author: "Marcus Hammarberg"
 date: 2020-09-06 16:41:26
 tags:
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've started a little series of some (by far not all) of the people that have shaped me during my career as a consultant. The more I think back of the things they said, did, and taught me - the more I can see how I'm using their advice just about every week.

@@ -6,7 +6,7 @@ date: 2019-11-22 08:43:43
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've just finished a huge project here at work. I have recorded reference recordings of all the lectures in the [</salt> bootcamp](http://salt.dev). It was quite fun, quite exhausting but also quite rewarding as it basically drained me of every system development knowledge I have in me. And some that I didn't have in me (there's CSS in there, my friends...)

@@ -4,7 +4,7 @@ title: "CodeBetter.com posts reposted"
 author: "Marcus Hammarberg"
 date: 2017-04-19 15:30:39
 tags:
- - Life of a consultant
+  - Life of a consultant
  - CodeBetter
  - Javascript
  - Koa

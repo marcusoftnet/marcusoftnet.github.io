@@ -6,7 +6,7 @@ date: 2020-02-12 21:09:02
 tags:
  - Kanban
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I got a question, on twitter, the other week about how to handle a long list of backlog items on a kanban board. Here's the original tweet:

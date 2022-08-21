@@ -6,7 +6,7 @@ date: 2015-06-16 06:57:25
 tags:
  - Lean
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 This post brought to you in cooperation with ... no. Just kidding.

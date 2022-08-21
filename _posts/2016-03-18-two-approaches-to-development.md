@@ -6,7 +6,7 @@ date: 2016-03-16
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The last week I saw yet another time when [embracing uncertainty](https://vimeo.com/43603453) and embracing an experimental mindset, gave us great benefits and potential productivity gains.

@@ -6,7 +6,7 @@ date: 2015-05-10 14:33:45
 tags:
  - Lean
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The other day I commented on a tweet from [Paul Klipp](http://paulklipp.com/). A man I highly respect around all things Lean and Agile. Here's the tweet and my response:

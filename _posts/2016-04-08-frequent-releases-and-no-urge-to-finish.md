@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Yesterday we had a couple of very interesting discussions in the team, that got me thinking on being clearer around the purpose of kanban.

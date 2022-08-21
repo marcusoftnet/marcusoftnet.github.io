@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2020-09-02 00:00:00
 tags:
  - Marcus private
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've just started a series about a few a the people that have shaped, influenced, and affected me throughout my career. The reason I'm writing about this now is that I lately have had the opportunity to be a role model for other young developers - I notice that much of what I say and do comes from others; things I'm saying, manners I've picked up, approaches to code, development, and life in general.

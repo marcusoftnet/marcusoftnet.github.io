@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 When I do workshops on kanban/lean I ~~often~~ always include a game, since I think that adds to the experience of the principles I try to teach. One of my favourite is the Number Counting game that I, one **very** boring day did an animation of in PowerPoint. You can flip through it here:

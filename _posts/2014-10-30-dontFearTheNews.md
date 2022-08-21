@@ -1,12 +1,11 @@
 ---
 layout: post
-title: 'The "Don''t fear audits and the news"-business
-methodology - with certification '
+title: The "Don''t fear audits and the news"-business methodology - with certification
 date: '2014-10-30T05:18:00.003+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
- - Life of a consultant
+  - Life of a consultant
 modified_time: '2014-10-30T05:18:33.559+01:00'
 thumbnail: http://1.bp.blogspot.com/-NBHYux_gKvg/VFG1Hr22e-I/AAAAAAAAIgk/W8ONkkq1NIA/s72-c/253323619_eb37d646b9_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8050334069200900800
@@ -56,7 +55,6 @@ make sure that my work can take to be scrutinised and reviewed by
 everyone that I share it with.
 It's not scary - because that is how it is from the start.
 
-
 This is the same kind of thinking that can be found behind the <a
 href="http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html"
 target="_blank">Chaos Monkey at Netflix;</a>
@@ -80,7 +78,7 @@ playing this thought:
 
 > We are running our business so that we are never nervous for audits,
 > review or if a news paper/tv-station etc. tells us that they are going
-> to do investigate us. On the contrary - we welcome them. 
+> to do investigate us. On the contrary - we welcome them.
 
 We don't have to be nervous if we are already open. In fact, let's
 welcome them. Let's help the find the things they need. "Embrace the

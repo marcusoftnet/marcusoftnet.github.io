@@ -7,7 +7,7 @@ tags:
  - Lean
  - Kanban
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The last couple of weeks I have been re-discovering an old diagram (eerm … sketch really). You can find it scribbled on close to every whiteboard in our office now. Because it opened a lot of interesting discussions on flow, flow efficiency and optimizations for value delivery.

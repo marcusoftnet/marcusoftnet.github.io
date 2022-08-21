@@ -6,7 +6,7 @@ date: 2015-01-30 13:15:02
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 

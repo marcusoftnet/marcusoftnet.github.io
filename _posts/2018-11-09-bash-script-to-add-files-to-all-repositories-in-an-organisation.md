@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2018-11-09 14:10:45
 tags:
  - Programming
- - Life of a consultant
+  - Life of a consultant
 ---
 
 > Hey Marcus, can you just add a License file to each of our repositories?

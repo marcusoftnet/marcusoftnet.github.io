@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2020-02-06 21:07:00
 tags:
  - Programming
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The other day we started a new course here at [</salt>](http://salt.study) And the first day we are used to seeing some confusion from the developers and the odd strange, wrongly configured computer (by us). But the error in the title of this blog post:

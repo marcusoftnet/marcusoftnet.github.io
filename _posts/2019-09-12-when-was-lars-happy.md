@@ -6,7 +6,7 @@ date: 2019-09-10 08:45:17
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 One thing that I love in coaching and consulting is when things stick. My way to try to get there is to tell stories (psst - [there's a book on that](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287/ref=sr_1_1?keywords=made+to+stick&qid=1568215827&s=gateway&sr=8-1)) to try to emphasize or bring out certain points.

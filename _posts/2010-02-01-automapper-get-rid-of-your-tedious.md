@@ -1,7 +1,6 @@
 ---
 layout: post
-title: AutoMapper – get rid of your tedious mapping
-code
+title: AutoMapper – get rid of your tedious mapping code
 date: '2010-02-01T15:43:00.001+01:00'
 author: Marcus Hammarberg
 tags:

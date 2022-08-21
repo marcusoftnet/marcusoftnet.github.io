@@ -6,7 +6,7 @@ date: '2008-01-10T12:35:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
- - Life of a consultant
+  - Life of a consultant
 modified_time: '2008-01-10T12:41:39.176+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1108097675452977202
 blogger_orig_url: http://www.marcusoft.net/2008/01/true-stuff-doesnt-need-to-be-boring-tao.html

@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2019-11-05 11:08:03
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 No - this post will not be about Christianity per se. You don't have to worry.

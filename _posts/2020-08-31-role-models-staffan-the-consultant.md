@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2020-08-31 07:44:20
 tags:
  - Marcus private
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have a [great job](https://salt.study/)! I get to work with a lot of young people and get to train developers in the early stages of their careers. It's absolutely amazing to see people develop in these early steps of their career.

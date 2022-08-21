@@ -6,7 +6,7 @@ date: 2016-02-09 20:00:12
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 In my church, Vasakåren of the Salvation Army, there's some amazing work being done for people outside the church. All along the lines of William Booth (founder of the Salvation Army);

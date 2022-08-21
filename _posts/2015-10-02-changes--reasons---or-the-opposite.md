@@ -6,7 +6,7 @@ date: 2015-10-02 10:34:28
 tags:
  - Agile
  - Leadership
- - Life of a consultant
+  - Life of a consultant
 ---
 
 This is just a short post on a (in the western world) well-known topic. I think I read it first in [Switch](http://heathbrothers.com/books/switch/)

@@ -6,7 +6,7 @@ date: 2017-11-16 15:47:27
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've worked in a few places that have had hack weeks or hack days; a simple little thing where the whole company stops for a while and get to spend some time making something that you're really passionate about.

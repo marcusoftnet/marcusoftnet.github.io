@@ -6,7 +6,7 @@ date: 2017-02-13 20:10:00
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 [Scope creep](https://en.wikipedia.org/wiki/Scope_creep) is a common phenomenon in software development where the size and workload increases beyond what we first envisioned. In many cases this is so small that it happens without anyone really noticing but sometimes it can degenerate and slow down progress considerably. Sometimes even stopping a progress or team completely.

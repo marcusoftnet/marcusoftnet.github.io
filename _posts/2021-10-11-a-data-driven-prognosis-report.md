@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2021-10-11 15:04:16
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have a big project ahead here at [Salt](https://www.salt.dev) - I'm going to write an entire boot camp from scratch. This is done as a single-person project and all my other colleagues are working on as normal around me.

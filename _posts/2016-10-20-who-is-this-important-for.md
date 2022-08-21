@@ -6,7 +6,7 @@ date: 2016-10-20 20:57:44
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 From time to time we might end up with policies and ways of working that just seems like it's "the way we do things here". It can be tooling, procedures and even contractual policies but also many of the practices that we take for granted in agile and lean software development; stand ups, boards or user stories.

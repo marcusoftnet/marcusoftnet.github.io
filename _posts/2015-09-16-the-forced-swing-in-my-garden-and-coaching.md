@@ -6,7 +6,7 @@ date: 2015-09-16 08:36:16
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 <img src="/img/theliana.jpg" style="float:left;padding:15px" width="50%">

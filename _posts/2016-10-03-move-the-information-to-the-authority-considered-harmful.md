@@ -6,7 +6,7 @@ date: 2016-10-03 20:18:21
 tags:
  - Lean
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I'm a big fan of [David Marquet](http://www.davidmarquet.com/) and his [Turn the Ship around book](http://www.davidmarquet.com/books/) that shows on excellent form of leadership but also challenge the way organisations are viewed and managed.

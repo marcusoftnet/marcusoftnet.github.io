@@ -6,7 +6,7 @@ date: 2017-10-20 11:05:40
 tags:
  - Lean
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Work in process (WIP) limits is a powerful, lightweight tool to not only improve your process flow but also to find further improvements in your process. I consider it widly underused but hugely impactful.

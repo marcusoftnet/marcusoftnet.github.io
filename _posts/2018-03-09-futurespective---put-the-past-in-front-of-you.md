@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 "Wow - this release was awesome. So fast, almost no manual testing and only one bug found in testing,"  Sarah exclaimed in joy.

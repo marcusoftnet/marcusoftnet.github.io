@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-03-30 14:00:49
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 

@@ -4,7 +4,7 @@ title: "Writing a script to extract pictures from Word documents"
 author: "Marcus Hammarberg"
 date: 2017-08-15 15:33:04
 tags:
- - Life of a consultant
+  - Life of a consultant
  - Tools
  - Programming
 ---

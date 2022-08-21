@@ -6,7 +6,7 @@ date: 2019-02-26 16:34:46
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Friend: `So in short - they too need to scale their agile initative.`

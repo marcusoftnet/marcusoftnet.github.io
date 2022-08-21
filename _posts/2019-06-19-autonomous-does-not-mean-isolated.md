@@ -7,7 +7,7 @@ tags:
  - Lean
  - Leadership
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I wanted to write a short little post on a misunderstanding and confusion that pops up once you start to create cross-functional teams;

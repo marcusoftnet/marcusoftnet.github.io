@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2017-11-29 00:36:39
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I agreed to do something a little bit scary, a couple of weeks back. And then it got even more interesting as new information unfolded.

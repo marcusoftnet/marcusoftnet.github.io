@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-06-29 08:59:55
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I hear more and more about [Elixir](http://elixir-lang.org) from [some](https://twitter.com/DevLCSC) [people](https://twitter.com/jlind) that I really trust and respect. That means checking-out-new-technology-time for Marcus.

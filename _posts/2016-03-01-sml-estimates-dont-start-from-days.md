@@ -6,7 +6,7 @@ date: 2016-03-01
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Many teams I visit nowadays have ditched story points and start to use Small, Medium and Large (aka T-shirt sizes) estimation instead. I like that.

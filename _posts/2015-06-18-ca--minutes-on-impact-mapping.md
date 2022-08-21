@@ -8,7 +8,7 @@ tags:
  - Lean
  - Leadership
  - Agile
- - Life of a consultant
+  - Life of a consultant
  - Salvation Army
  - Impact mapping
 ---

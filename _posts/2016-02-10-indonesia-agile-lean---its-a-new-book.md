@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Indonesia
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Never in my life would I dream of [writing a book](http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html). But that have happened and we (me and [Joakim](http://joakimsunden.com/)) are super proud of the result and very humbled by the [good](http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/) [reception](https://www.goodreads.com/book/show/17789383-kanban-in-action) the book has got.

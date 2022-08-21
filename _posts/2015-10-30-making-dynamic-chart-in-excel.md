@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-10-30 13:30:32
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 

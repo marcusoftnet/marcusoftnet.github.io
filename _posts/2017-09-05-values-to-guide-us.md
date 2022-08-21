@@ -6,7 +6,7 @@ date: 2017-09-05 15:37:37
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I think I'm not a fan of best practices. For me, best practices are limiting us to be only as good as the practice. Admittedly, that can be pretty good - but I'm looking to become better than I ever thought possible.

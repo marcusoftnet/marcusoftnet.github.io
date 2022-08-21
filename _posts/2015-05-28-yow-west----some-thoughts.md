@@ -6,7 +6,7 @@ date: 2015-05-28 06:05:18
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I'm at the airport waiting to go back to Indonesia after great [Yow West 2015](http://west.yowconference.com.au/) conference. As always the mind is filled with impressions and memories. And as always when you think back is mostly the great people you met that sticks in your head.

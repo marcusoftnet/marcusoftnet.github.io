@@ -6,7 +6,7 @@ date: 2017-11-16 10:41:45
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Every other day I meet people and organisation that says something along the line of

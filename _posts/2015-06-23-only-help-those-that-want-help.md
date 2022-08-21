@@ -6,7 +6,7 @@ date: 2015-06-23 15:20:47
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I tweeted this the other day:

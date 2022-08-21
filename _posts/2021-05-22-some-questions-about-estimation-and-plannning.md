@@ -6,7 +6,7 @@ date: 2021-05-22 10:36:18
 tags:
  - Agile
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 One of the most amazing things about my current job as a teacher and "head master" at [Salt](https://www.salt.study) is to see amazing people take my material and make something more amazing with it. Or when see people start to venture down avenues that helped me (in this case agile, lean and no estimates) so much.

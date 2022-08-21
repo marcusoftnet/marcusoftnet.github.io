@@ -6,7 +6,7 @@ date: 2018-12-14 13:54:21
 tags:
  - Programming
  - Node
- - Life of a consultant
+  - Life of a consultant
 ---
 
 At [</salt>](https://www.study-at-salt.com/), a boot camp that I've been part of setting up, I get to try all kind of different things that I haven't done before. Mostly around configuring, management and supporting the students computers and our code.

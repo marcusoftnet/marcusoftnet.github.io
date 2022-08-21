@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 As a consultant, you get to see many, different organizations and look deeply into what makes them tick. This is a great benefit of my job, but at the same time quite hard to find from time to time. The reason for that is that most organizations have very lofty and worthy values but what is lived out is something else.

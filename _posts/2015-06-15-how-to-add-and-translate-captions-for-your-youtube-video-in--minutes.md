@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-06-15 08:32:12
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
  - Salvation Army
  - Indonesia
 ---

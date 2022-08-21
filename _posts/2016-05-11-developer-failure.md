@@ -6,7 +6,7 @@ date: 2016-05-11 12:00:00
 tags:
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I got a request by a nice man call Brandon Garlock to share some failure of mine. My contribution will be part of a:

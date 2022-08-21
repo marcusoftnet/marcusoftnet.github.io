@@ -4,7 +4,7 @@ title: "Some reflections after a few days as a musician"
 author: "Marcus Hammarberg"
 date: 2018-08-29 22:15:03
 tags:
- - Life of a consultant
+  - Life of a consultant
  - Agile
  - Lean
 ---

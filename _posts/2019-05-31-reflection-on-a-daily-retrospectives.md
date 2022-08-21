@@ -7,7 +7,7 @@ tags:
  - Agile
  - Kanban
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have created a course, a boot camp to teach people to become programmers in 12 weeks. It's quite amazing and you should apply if you want to change career. Check out [Salt - School of applied technology](https://salt.dev/)

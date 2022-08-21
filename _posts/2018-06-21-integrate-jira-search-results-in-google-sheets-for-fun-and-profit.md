@@ -9,7 +9,7 @@ tags:
  - Lean
  - Scrum
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 As an agile coach working in bigger companies you are sound exposed to [JIRA](https://www.atlassian.com/software/jira). JIRA - a tool that started out as a good idea and then grew into … a not as good idea.

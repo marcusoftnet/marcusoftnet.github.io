@@ -7,7 +7,7 @@ tags:
  - Lean
  - Agile
  - Salvation Army
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 

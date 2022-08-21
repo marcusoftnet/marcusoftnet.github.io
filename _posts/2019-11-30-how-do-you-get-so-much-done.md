@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Marcus private
- - Life of a consultant
+  - Life of a consultant
 ---
 
 > How do you get so much done? Where do you find the time?

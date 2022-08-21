@@ -8,7 +8,7 @@ tags:
  - Kanban
  - Lean
  - Indonesia
- - Life of a consultant
+  - Life of a consultant
 ---
 
 For quite some time I have been working with the management team of Rumah Sakit Bungsu in Bandung. It's been quite a journey and I've learned a lot from doing so.

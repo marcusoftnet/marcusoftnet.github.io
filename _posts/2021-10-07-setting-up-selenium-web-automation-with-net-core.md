@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2021-10-07 21:27:54
 tags:
  - .NET
- - Life of a consultant
+  - Life of a consultant
  - Programming
 ---
 

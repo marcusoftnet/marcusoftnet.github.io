@@ -10,7 +10,7 @@ tags:
  - Leadership
  - Indonesia
  - Salvation Army
- - Life of a consultant
+  - Life of a consultant
 ---
 
 In this presentation I break it down to the day-to-day management of a project or team. How can we keep our focus? How can we improve? How do we even know what we are doing right now?

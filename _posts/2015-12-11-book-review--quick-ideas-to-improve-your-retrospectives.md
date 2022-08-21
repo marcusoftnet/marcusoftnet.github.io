@@ -6,7 +6,7 @@ date: 2015-12-11 11:26:56
 tags:
  - Agile
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have a confession to make:

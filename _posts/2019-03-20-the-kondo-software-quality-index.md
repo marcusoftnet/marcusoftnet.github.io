@@ -6,7 +6,7 @@ date: 2019-03-20 18:16:46
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Before I start I want to give credit where credit is due:

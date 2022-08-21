@@ -6,7 +6,7 @@ date: 2015-01-26 11:00:49
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Things I say often
 ---
 

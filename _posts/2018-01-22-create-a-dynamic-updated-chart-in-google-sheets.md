@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2018-01-22 13:47:04
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 When I started my blog, almost 12 years ago, I often wrote posts of things that I would need to look up again. Sure enough, I sometimes stumble into my own posts when searching for solutions to problems I have.

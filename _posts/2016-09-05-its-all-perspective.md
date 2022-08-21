@@ -6,7 +6,7 @@ date: 2016-09-05 12:00:00
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The other week I attended a course that introduced a lean and agile mindset to a group of leaders in a company. My role was to sit back and observe (and to shoot in some of my experience during the training) - here's one thing I observed.

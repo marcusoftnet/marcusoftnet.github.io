@@ -7,7 +7,7 @@ tags:
  - Lean
  - Kanban
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have been working with a team now for close to 6 months. It's the same old story; team has a lot of very important things to do from 4-5 different stakeholders around the company, team try to keep up, stakeholders around them get upset with the slow progress on the "features", team struggles under a lot of tech debt that team postponed earlier to get faster progress on the "features".

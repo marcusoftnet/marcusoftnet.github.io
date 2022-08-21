@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Leadership
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 
@@ -67,4 +67,4 @@ Now, here's where it get interesting. If someone told me that "smoking is better
 # Conclusion
 I've found this reasoning very helpful for me to come up with alternative ways to formulate my goal. Sometimes step away from "my" goal and let them come up with "their" goal instead. Generally I find it very refreshing (read: a little painful) to shift perspective like this.
 
-Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise. 
+Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise.

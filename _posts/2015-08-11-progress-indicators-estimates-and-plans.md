@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Here in Indonesia Internet is often very slow. No, you don't understand. VERY slow. Downloading big files, like movies on iTunes, can be a project from 4 hours to days.

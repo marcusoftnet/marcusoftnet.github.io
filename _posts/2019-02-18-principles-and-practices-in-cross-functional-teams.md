@@ -6,7 +6,7 @@ date: 2019-02-18 18:28:48
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I have been involved in many organisational changes that turn the organisation sideways. From functional departments to cross-functional teams, from projects and completing activities to continuous delivery and focus on reaching effects.

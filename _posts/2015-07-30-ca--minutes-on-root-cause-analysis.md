@@ -7,7 +7,7 @@ tags:
  - Indonesia
  - Lean
  - Leadership
- - Life of a consultant
+  - Life of a consultant
  - Salvation Army
  - Tools
 ---

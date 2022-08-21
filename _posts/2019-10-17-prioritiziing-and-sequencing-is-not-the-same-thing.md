@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Having an (any) work in process (WIP) limit to your workload is the best way I know to improve speed, quality and focus on value in what we do. This goes for individuals, teams and whole organizations alike.

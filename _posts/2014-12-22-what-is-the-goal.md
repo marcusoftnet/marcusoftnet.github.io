@@ -6,7 +6,7 @@ date: 2014-12-22 10:10:37
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've been re-reading  <a href="http://www.amazon.com/The-Goal-Process-Ongoing-Improvement/dp/0884270610">The Goal</a>. For the fourth time. And I still got that buzz from it. It's such a great book - I recommend it to anyone interested in business and becoming more effective.

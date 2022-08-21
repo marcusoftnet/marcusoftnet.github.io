@@ -6,7 +6,7 @@ date: 2019-11-21 08:27:22
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I'm about to run a few retrospectives with a group of people with little to no experience of agile previously. In doing my preparations I went back to the core and start of retrospectives, why we do them, their purpose and meaning, etc.

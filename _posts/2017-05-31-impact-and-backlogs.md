@@ -6,7 +6,7 @@ date: 2017-05-31 13:12:24
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The word backlog has a negative ring to me (and I think to Swedish people in general). A backlog is a list of tasks that and I've yet not completed, things that still is required from me or my team. Putting something on a backlog is a nice way of saying; we will look at it… eventually.

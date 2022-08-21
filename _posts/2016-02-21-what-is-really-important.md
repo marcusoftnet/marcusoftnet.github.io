@@ -6,7 +6,7 @@ date: 2016-02-21 15:33:38
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Marcus private
 ---
 

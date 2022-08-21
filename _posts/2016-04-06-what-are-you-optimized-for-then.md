@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I was in a couple of very interesting discussions yesterday, through the mean of a [SAFe course](http://www.marcusoft.net/2016/04/thoughts-after-a-safe-course.html). Just sitting in the room with your peers and stakeholders, off-site, discussing how to work more effectively is really powerful - it turns out.

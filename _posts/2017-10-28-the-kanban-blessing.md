@@ -7,7 +7,7 @@ tags:
  - Kanban
  - Lean
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 This week have been a long list of firsts for me, as I have been in China (1st time) and done a full week of training and coaching at a remote client (1st) and also been away from my family for a pro-longed week (sadly not first but seldom).

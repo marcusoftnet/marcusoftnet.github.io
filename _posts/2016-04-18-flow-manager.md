@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 At my current client I don't have a role name. Or rather I do but that's not what I do, nor what I am there to do. It struck me that I have had this problem before. Many times.

@@ -6,7 +6,7 @@ date: 2019-01-20 16:34:46
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Although I often preach about embracing uncertainty and sometimes get comments about always being calm... despite that; I worry. As do we all.

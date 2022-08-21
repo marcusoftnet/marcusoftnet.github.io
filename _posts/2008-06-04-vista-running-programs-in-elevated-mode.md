@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Vista - running programs with an elevated
-command prompt
+title: Vista - running programs with an elevated command prompt
 date: '2008-06-04T16:03:00.002+02:00'
 author: Marcus Hammarberg
 tags:
@@ -22,7 +21,7 @@ href="http://www.tipandtrick.net/2008/how-open-command-prompt-as-administrator-o
 target="_blank">here</a>. That article talks about how to run the
 command prompt in an elevated mode and my favorite trick is to:
 
--   type CMD in Start-\>Run...
--   hit CTRL+SHIFT+ENTER - which is the shortcut to run things as
+- type CMD in Start-\>Run...
+- hit CTRL+SHIFT+ENTER - which is the shortcut to run things as
     administrator
--   Viola! - you're running as admin ;)
+- Viola! - you're running as admin ;)

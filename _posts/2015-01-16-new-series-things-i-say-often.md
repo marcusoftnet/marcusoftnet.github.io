@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-01-16 13:11:58
 tags:
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Things I say often
 ---
 

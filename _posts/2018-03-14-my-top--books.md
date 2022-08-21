@@ -6,7 +6,7 @@ date: 2018-03-14 15:04:34
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Tools
 ---
 

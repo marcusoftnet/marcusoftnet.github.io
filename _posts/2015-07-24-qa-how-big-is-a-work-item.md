@@ -6,7 +6,7 @@ date: 2015-07-24 11:47:02
 tags:
  - Agile
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Sometimes people email questions to me, directly. I love that (although I sometime need to postpone the answering for awhile) because it gives me such nice insight into how other teams work and function. Basically: I learn more and as you can see from the tag line of this blog... I'm into learning stuff.

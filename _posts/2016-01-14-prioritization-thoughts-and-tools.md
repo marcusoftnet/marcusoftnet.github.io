@@ -6,7 +6,7 @@ date: 2016-01-14 15:45:12
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 <blockquote>Basically we have a lot things to do, many different wills and opinions as to what is more important and 3 hours to get it done. Can you facilitate that for us?</blockquote>

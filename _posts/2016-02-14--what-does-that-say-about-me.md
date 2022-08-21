@@ -6,7 +6,7 @@ date: 2016-02-14 19:21:09
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I more and more realize that what I'm doing is about change management. It's involved in more or less every gig I get and I feel that I know just a fraction about what I need to handle it.

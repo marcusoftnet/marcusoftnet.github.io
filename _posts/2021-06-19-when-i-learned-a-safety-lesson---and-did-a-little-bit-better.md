@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2021-06-19 18:32:01
 tags:
  - Programming
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I like to automate repetitive and boring things I do in my daily work. This lead to that me write bash scripts from time to time, but the problem is that I'm a newbie scripter. I'm learning as I go.

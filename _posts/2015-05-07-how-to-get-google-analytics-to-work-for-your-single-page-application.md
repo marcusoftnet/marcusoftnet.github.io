@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2015-05-07 10:24:43
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
  - Javascript
 ---
 

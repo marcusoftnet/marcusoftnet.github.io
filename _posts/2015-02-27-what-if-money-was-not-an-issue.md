@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Leadership
- - Life of a consultant
+  - Life of a consultant
  - Indonesia
 ---
 

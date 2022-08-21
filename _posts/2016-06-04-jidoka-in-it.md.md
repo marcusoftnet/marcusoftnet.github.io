@@ -6,7 +6,7 @@ date: 2016-06-04 20:59:58
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
  - Kanban
 ---
 

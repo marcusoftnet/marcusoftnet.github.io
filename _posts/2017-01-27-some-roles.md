@@ -6,7 +6,7 @@ date: 2017-01-27 20:10:00
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 The other day I heard someone distinguish between a few roles that I take on from time to other. I've never made the different between those roles clear to myself and as a consequence I end up doing them all at the same time, in my consulting.

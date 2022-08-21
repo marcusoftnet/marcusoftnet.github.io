@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
- - Scrum
+  - Scrum
 modified_time: '2010-12-14T16:22:38.284+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-209759608610930719
 blogger_orig_url: http://www.marcusoft.net/2008/03/webcam-server.html

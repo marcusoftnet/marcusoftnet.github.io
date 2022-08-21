@@ -6,7 +6,7 @@ date: 2016-10-03 20:19:48
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've just completed my first ever big room planning meeting (a type of exercise made famous by [SAFe](http://scaledagileframework.com) in their [PI Planning](http://scaledagileframework.com/pi-planning/)). That was quite an excerises and I'm totally worn out. But also immensely impressed by the team and the amount of learning that took place in the room today.

@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Kanban
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Today I got a call from a friend that works in a big organisation. A bank with very old fashion and rigid processes for how software is handled and released.

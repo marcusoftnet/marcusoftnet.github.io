@@ -6,7 +6,7 @@ date: 2015-01-20 11:28:03
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've already [written about this before](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), but Hey - this was a [series](http://www.marcusoft.net/tags/#Things I say often) about things I said often.

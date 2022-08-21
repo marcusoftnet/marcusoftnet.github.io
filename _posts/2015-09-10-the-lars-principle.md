@@ -6,7 +6,7 @@ date: 2015-09-10 09:53:04
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Today I had a session with the management group of one of our [hospitals](http://www.ypkbk.id/#hospitals). We ended up talking about how to choose what we're going to do next. Questions like; "but how can we know what is best", "there's so many things to do" or "everyone have a different opinion" were discussed during and after the meeting.

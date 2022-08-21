@@ -7,7 +7,7 @@ tags:
  - Agile
  - Lean
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 Got a recommendation to read [Nature by Ron Jeffries](https://pragprog.com/book/rjnsd/the-nature-of-software-development) and I did. What a read! I loved it from the get go.

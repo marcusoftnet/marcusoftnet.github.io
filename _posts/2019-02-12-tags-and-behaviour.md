@@ -7,7 +7,7 @@ tags:
  - Agile
  - Scrum
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I just had a conversation with a client that I keep coming back to. It has to do with how we are using electronic systems that manager our work, for example JIRA and TFS.

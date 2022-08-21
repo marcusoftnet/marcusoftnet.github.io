@@ -6,7 +6,7 @@ date: 2017-06-15 10:01:44
 tags:
  - Agile
  - Lean
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I once was coaching at a team and had a big problem getting their attention and interest. We had many discussions about improvements and I used most of my tools but saw very little change.

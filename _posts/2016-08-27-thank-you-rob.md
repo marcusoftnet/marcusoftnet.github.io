@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2016-08-04
 tags:
  - Tools
- - Life of a consultant
+  - Life of a consultant
 ---
 
 I've just downloaded and started to read the [Imposters Handbook.](https://bigmachine.io/imposter/), by [Rob Conery](http://rob.conery.io/). It's a book about all those things that you don't want to reveal that you don't know. I most of them I **should** know since I have read Computer Science. But I don't. It's a great (in all senses of the word ≈500 pages!) read  and promise to deliver even better things ahead. Go get yours now!

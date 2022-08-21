@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2017-08-08 10:20:46
 tags:
  - Agile
- - Life of a consultant
+  - Life of a consultant
 ---
 
 One of the things I miss with being a programmer that you can look back on a day and see stuff that has been done. Or, better yet, when you know a bunch of code that you're going to write but haven't written it yet. I kind of like that feeling.
