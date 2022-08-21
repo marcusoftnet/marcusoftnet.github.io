@@ -4,7 +4,8 @@ title: '"Between the chairs" some thoughts on backlogs
 and things outside them'
 date: '2013-03-05T15:07:00.001+01:00' author:
 Marcus Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile
 modified_time: '2013-03-05T15:09:37.252+01:00'

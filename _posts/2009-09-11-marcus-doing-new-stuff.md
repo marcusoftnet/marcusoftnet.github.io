@@ -3,7 +3,8 @@ layout: post
 title: Marcus doing new stuff
 date: '2009-09-11T08:33:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2009-09-11T08:33:32.830+02:00'

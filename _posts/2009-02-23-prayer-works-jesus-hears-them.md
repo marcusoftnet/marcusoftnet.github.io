@@ -3,7 +3,8 @@ layout: post
 title: Prayer works – Jesus hears them
 date: '2009-02-22T20:04:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2009-02-22T20:04:32.746+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4166080631954390990

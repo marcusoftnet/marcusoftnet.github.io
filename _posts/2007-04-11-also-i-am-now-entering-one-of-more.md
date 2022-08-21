@@ -3,7 +3,8 @@ layout: post
 title: Hectict times
 date: '2007-04-11T08:38:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
  - Scrum

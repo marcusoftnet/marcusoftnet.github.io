@@ -3,7 +3,8 @@ layout: post
 title: Marcus - the model?
 date: '2007-08-21T09:52:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
    - Salvation Army

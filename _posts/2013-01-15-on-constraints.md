@@ -3,7 +3,8 @@ layout: post
 title: On constraints
 date: '2013-01-15T11:17:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Lean -
+tags:
+  - Lean -
 Life of a consultant - Agile
 modified_time: '2013-01-15T11:17:16.159+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5048683139140827296

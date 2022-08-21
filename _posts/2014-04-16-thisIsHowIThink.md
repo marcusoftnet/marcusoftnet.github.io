@@ -3,7 +3,8 @@ layout: post
 title: 'No... this is how I think '
 date: '2014-04-16T04:13:00.003+02:00'
 author: Marcus Hammarberg
-tags: - Team
+tags:
+  - Team
 Yayasan - Lean
   - Life of a consultant
    - Agile - Salvation Army -

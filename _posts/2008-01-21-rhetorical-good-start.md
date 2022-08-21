@@ -3,7 +3,8 @@ layout: post
 title: Rhetorics - a good start
 date: '2008-01-21T07:53:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2008-01-21T14:30:51.203+01:00'

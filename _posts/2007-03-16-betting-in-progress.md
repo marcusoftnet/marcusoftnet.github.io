@@ -3,7 +3,8 @@ layout: post
 title: USB-mice eating - maybe
 date: '2007-03-16T10:15:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2007-03-16T12:05:31.034+01:00'

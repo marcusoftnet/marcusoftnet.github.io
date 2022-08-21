@@ -3,7 +3,8 @@ layout: post
 title: Happy - and still going
 date: '2006-11-22T07:30:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2006-11-22T07:33:03.806+01:00'

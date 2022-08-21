@@ -4,7 +4,8 @@ title: Setting up a complete Node development machine.
 From scratch. For free
 date: '2014-03-26T02:45:00.002+01:00' author:
 Marcus Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools
 modified_time: '2014-04-06T14:41:45.586+02:00'
 thumbnail: http://4.bp.blogspot.com/-gILhj6-IEP4/Uy_XUm8ZHNI/AAAAAAAACHM/5Bl2QuYlNl8/s72-c/inceptiontop.jpg

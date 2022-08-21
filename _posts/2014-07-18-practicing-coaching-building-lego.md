@@ -3,7 +3,8 @@ layout: post
 title: Coaching exercise - building Lego
 date: '2014-07-18T17:16:00.003+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
    - Agile

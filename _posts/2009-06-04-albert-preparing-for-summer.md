@@ -3,7 +3,8 @@ layout: post
 title: Albert preparing for the summer
 date: '2009-06-04T16:58:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2009-06-04T16:58:31.493+02:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/SifgmtdviRI/AAAAAAAAAF0/vn-PrNvgszw/s72-c/DSC_0948_thumb%5B1%5D.jpg?imgmax=800

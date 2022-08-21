@@ -4,7 +4,8 @@ title: TF 20017 - The area or iteration provided for
 field 'IterationPath' could not be found
 date: '2008-02-29T15:52:00.005+01:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 Scrum
 modified_time: '2010-12-14T16:22:51.440+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6994981790785680649

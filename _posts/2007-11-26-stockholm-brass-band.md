@@ -3,7 +3,8 @@ layout: post
 title: Stockholm Brass Band
 date: '2007-11-26T12:35:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-11-26T12:44:38.039+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2251544957301809112

@@ -3,7 +3,8 @@ layout: post
 title: 'Marcus and Mac: my clumsy fingers'
 date: '2009-10-05T10:11:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2009-10-05T10:11:42.696+02:00'

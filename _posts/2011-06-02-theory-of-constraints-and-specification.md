@@ -5,7 +5,8 @@ example part II
 date: '2011-06-01T22:55:00.001+02:00'
 author: Marcus
 Hammarberg
-tags: - BDD - Kanban - Agile
+tags:
+  - BDD - Kanban - Agile
 modified_time: '2011-06-01T22:56:45.817+02:00'
 thumbnail: http://lh3.ggpht.com/-42_XIS4q5ng/TeanSuKOU9I/AAAAAAAAA_w/kGWbtqTEj24/s72-c/wlEmoticon-winkingsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2318944997718944184

@@ -3,7 +3,8 @@ layout: post
 title: Only in Japan
 date: '2007-07-11T14:39:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Fun
+tags:
+  - Fun
 modified_time: '2008-09-12T19:24:32.799+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4794972931905255185
 blogger_orig_url: http://www.marcusoft.net/2007/07/only-in-japan.html

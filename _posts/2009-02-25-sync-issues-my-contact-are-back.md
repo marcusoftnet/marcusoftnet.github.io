@@ -3,7 +3,8 @@ layout: post
 title: Sync Issues – my contact are back
 date: '2009-02-24T21:29:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2009-02-25T02:53:30.131+01:00'

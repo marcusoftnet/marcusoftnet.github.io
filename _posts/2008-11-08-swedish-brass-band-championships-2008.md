@@ -3,7 +3,8 @@ layout: post
 title: Swedish Brass Band Championships 2008
 date: '2008-11-07T18:25:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2008-11-07T18:25:22.492+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9150872395489673345

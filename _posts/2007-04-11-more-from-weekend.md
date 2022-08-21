@@ -3,7 +3,8 @@ layout: post
 title: More from the weekend
 date: '2007-04-11T08:26:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-04-11T08:38:38.221+02:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RhyCR1ggv-I/AAAAAAAAAIU/QOs6AEVk2HU/s72-c/PICT1412.JPG

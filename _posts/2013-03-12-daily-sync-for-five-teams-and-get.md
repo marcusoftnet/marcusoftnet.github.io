@@ -5,7 +5,8 @@ out of it
 date: '2013-03-12T09:00:00.000+01:00'
 author: Marcus
 Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile
 modified_time: '2013-03-12T09:00:05.592+01:00'

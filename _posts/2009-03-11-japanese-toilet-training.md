@@ -3,7 +3,8 @@ layout: post
 title: Japanese Toilet Training
 date: '2009-03-11T08:16:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Fun
 modified_time: '2009-03-11T08:17:30.630+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5739516066434680034

@@ -3,7 +3,8 @@ layout: post
 title: Filmtip of today
 date: '2006-10-30T14:09:00.002+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2010-01-29T13:53:39.483+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1347276628167410968

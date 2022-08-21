@@ -3,7 +3,8 @@ layout: post
 title: Marcus - the presenter
 date: '2006-12-14T14:08:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2006-12-14T14:20:04.683+01:00'
 thumbnail:

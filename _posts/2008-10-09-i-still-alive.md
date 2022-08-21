@@ -3,7 +3,8 @@ layout: post
 title: I'm still alive...
 date: '2008-10-09T09:16:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-10-09T09:16:10.389+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3992498879517120748

@@ -3,7 +3,8 @@ layout: post
 title: Marcus - published!
 date: '2007-11-15T13:06:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-11-16T07:25:12.991+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5712399718860877497

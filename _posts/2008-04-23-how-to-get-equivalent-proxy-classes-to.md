@@ -5,7 +5,8 @@ a shared interface
 date: '2008-04-23T07:42:00.005+02:00'
 author: Marcus
 Hammarberg
-tags: - VB.NET - SOA
+tags:
+  - VB.NET - SOA
   - Life of a consultant
    - C# - WCF
 modified_time: '2008-04-24T07:36:14.351+02:00'

@@ -3,7 +3,8 @@ layout: post
 title: Kanbanboards III–putting on the web
 date: '2011-01-23T22:26:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 .NET - ASP.NET MVC - KanbanBoards - SpecFlow
 modified_time: '2011-01-25T11:28:24.156+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TTyc-nZa-iI/AAAAAAAAAvo/ye0t1HcwTiE/s72-c/updated-scenario_thumb.jpg?imgmax=800

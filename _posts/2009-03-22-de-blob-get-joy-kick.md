@@ -3,7 +3,8 @@ layout: post
 title: De Blob – get a joy-kick!
 date: '2009-03-21T21:04:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Fun
+tags:
+  - Fun
 modified_time: '2009-05-05T11:31:06.975+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2156207795703249657
 blogger_orig_url: http://www.marcusoft.net/2009/03/de-blob-get-joy-kick.html ---

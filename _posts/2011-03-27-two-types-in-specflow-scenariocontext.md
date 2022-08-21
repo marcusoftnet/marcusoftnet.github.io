@@ -5,7 +5,8 @@ FeatureContext
 date: '2011-03-26T22:04:00.001+01:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
   - .NET - SpecFlow
 modified_time: '2013-04-07T20:31:58.395+02:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TY5UwUjWZkI/AAAAAAAAA7c/cCrQjjWIuao/s72-c/marking%20steps%20as%20pending_thumb.jpg?imgmax=800

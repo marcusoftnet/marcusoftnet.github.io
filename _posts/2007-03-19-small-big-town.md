@@ -3,7 +3,8 @@ layout: post
 title: Weekend in small big town
 date: '2007-03-19T07:43:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-03-20T12:48:17.140+01:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rf40YXWbeSI/AAAAAAAAAGo/RuFPUoDLpec/s72-c/PICT1400.JPG

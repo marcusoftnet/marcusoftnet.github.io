@@ -3,7 +3,8 @@ layout: post
 title: First Santa - completed!
 date: '2006-12-15T10:36:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-12-18T07:44:24.007+01:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RYY4h97AoiI/AAAAAAAAAC8/H_wEKrKPytc/s72-c/IMAGE_111.jpg

@@ -3,7 +3,8 @@ layout: post
 title: It's that time of year
 date: '2006-11-28T08:03:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-11-30T13:29:26.535+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-764653589294120333

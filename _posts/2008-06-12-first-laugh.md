@@ -3,7 +3,8 @@ layout: post
 title: First laughter from Albert
 date: '2008-06-12T12:45:00.005+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-06-12T12:52:42.871+02:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/SFD_bXm08NI/AAAAAAAAAUg/oBUqvgR-7Fo/s72-c/1.jpg

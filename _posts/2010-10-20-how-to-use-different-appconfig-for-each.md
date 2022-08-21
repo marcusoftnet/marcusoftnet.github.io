@@ -5,7 +5,8 @@ developer
 date: '2010-10-20T09:04:00.003+02:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
   - .NET
   - Life of a consultant
    - Agile

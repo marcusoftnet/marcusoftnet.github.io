@@ -3,7 +3,8 @@ layout: post
 title: Kanbanboards V–creating new boards
 date: '2011-02-05T21:08:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 .NET - ASP.NET MVC - KanbanBoards - SpecFlow
 modified_time: '2011-02-05T21:11:06.427+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TU2t4aBY_vI/AAAAAAAAA0k/pNIsi5pGUQs/s72-c/create%20specification%20with%20first%20scenario_thumb.jpg?imgmax=800

@@ -3,7 +3,8 @@ layout: post
 title: Free web templates
 date: '2007-08-14T12:14:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Web
+tags:
+  - Web
 Design
   - Life of a consultant
 modified_time: '2007-08-14T12:16:44.873+02:00'

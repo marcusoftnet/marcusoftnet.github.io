@@ -3,7 +3,8 @@ layout: post
 title: SpecFlow.Assist.Dynamic–how to use it
 date: '2011-11-01T08:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Tools
   - .NET - Specification by example - SpecFlow
 modified_time: '2011-11-03T16:39:48.397+01:00'

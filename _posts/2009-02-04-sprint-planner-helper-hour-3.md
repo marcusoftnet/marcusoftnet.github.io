@@ -3,7 +3,8 @@ layout: post
 title: Sprint Planner Helper – Session 3
 date: '2009-02-03T22:25:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Sprint
+tags:
+  - Sprint
 Planner Helper - C# - TDD
 modified_time: '2009-02-11T22:22:20.485+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4401996462216297568

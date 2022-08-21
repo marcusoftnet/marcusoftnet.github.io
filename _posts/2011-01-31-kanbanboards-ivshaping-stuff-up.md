@@ -3,7 +3,8 @@ layout: post
 title: Kanbanboards IV–shaping stuff up
 date: '2011-01-30T21:54:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 .NET - ASP.NET MVC - KanbanBoards
 modified_time: '2011-01-30T21:55:55.120+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TUXP0xEoVOI/AAAAAAAAAys/iZt4QifJ2ns/s72-c/slimmed%20controller_thumb.jpg?imgmax=800

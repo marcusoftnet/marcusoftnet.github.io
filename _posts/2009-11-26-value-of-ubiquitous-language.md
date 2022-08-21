@@ -3,7 +3,8 @@ layout: post
 title: The value of an ubiquitous language
 date: '2009-11-26T09:22:00.001+01:00'
 author: Marcus Hammarberg
-tags: - DDD -
+tags:
+  - DDD -
 SOA
   - Life of a consultant
    - Agile

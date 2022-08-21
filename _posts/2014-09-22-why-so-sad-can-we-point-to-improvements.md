@@ -4,7 +4,8 @@ title: Why so sad? Can we point to improvements without
 making people feel bad?
 date: '2014-09-22T09:31:00.004+02:00' author:
 Marcus Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Kanban - Agile
 modified_time: '2014-09-22T09:31:36.566+02:00'

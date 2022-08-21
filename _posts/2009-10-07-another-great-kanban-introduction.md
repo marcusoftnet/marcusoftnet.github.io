@@ -3,7 +3,8 @@ layout: post
 title: Another great Kanban introduction
 date: '2009-10-07T08:07:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Agile
+tags:
+  - Agile
 modified_time: '2009-10-07T08:09:37.847+02:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SswwoK-XYnI/AAAAAAAAAJs/-wD_yYK8HZo/s72-c/kanban_board%5B1%5D_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3983364908434712749

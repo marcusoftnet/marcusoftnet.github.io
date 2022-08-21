@@ -3,7 +3,8 @@ layout: post
 title: Conchango burndown chart is not working
 date: '2008-03-10T11:17:00.007+01:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 Scrum
 modified_time: '2010-12-14T16:22:51.435+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7494630480846630128

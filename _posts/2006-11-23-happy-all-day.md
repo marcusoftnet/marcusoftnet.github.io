@@ -3,7 +3,8 @@ layout: post
 title: Happy all the day
 date: '2006-11-23T07:58:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand - Salvation Army
 modified_time: '2006-11-23T08:04:08.476+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2015468865646890693

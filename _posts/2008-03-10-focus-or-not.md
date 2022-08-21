@@ -3,7 +3,8 @@ layout: post
 title: Great project started
 date: '2008-03-09T19:00:00.005+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - SOA
   - Life of a consultant
 modified_time: '2008-03-10T11:19:48.760+01:00'

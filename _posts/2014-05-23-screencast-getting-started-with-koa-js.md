@@ -5,7 +5,8 @@ through failures'
 date: '2014-05-23T05:27:00.001+02:00'
 author: Marcus
 Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools - Koa
 modified_time: '2014-05-23T05:28:03.212+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7043762977408748266

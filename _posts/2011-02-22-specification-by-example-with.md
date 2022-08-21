@@ -5,7 +5,8 @@ initial thoughts
 date: '2011-02-21T20:55:00.001+01:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
    - Tools - Agile
 modified_time: '2011-03-07T13:35:53.078+01:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TWLDTkH_uhI/AAAAAAAAA5s/4g7epwLPr5U/s72-c/%5Bspecws1%5B2%5D_thumb%5B3%5D.jpg?imgmax=800

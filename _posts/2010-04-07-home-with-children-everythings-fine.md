@@ -3,7 +3,8 @@ layout: post
 title: Home with children – everything’s fine
 date: '2010-04-07T10:58:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2010-04-07T10:58:45.416+02:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/S7xJPa9TRHI/AAAAAAAAAfA/fSeWajJw4IE/s72-c/DSC_2212_thumb%5B1%5D.jpg?imgmax=800

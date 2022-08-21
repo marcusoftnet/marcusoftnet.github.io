@@ -3,7 +3,8 @@ layout: post
 title: 4BarsRest - review of 'In perfect peace'
 date: '2007-12-07T12:49:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-12-07T12:53:46.922+01:00'
 thumbnail:

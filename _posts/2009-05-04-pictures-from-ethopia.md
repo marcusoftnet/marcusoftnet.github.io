@@ -3,7 +3,8 @@ layout: post
 title: Pictures from Ethopia
 date: '2009-05-04T11:20:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2009-05-04T11:21:10.473+02:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/Sf6hivv0UcI/AAAAAAAAAEw/ShS6Hsvm9QA/s72-c/DSC_0536_thumb%5B1%5D.jpg?imgmax=800

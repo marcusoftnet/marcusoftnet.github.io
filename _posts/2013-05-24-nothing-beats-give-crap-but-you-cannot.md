@@ -3,7 +3,8 @@ layout: post
 title: What if ... mob programming?
 date: '2013-05-24T15:20:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Lean -
+tags:
+  - Lean -
 Life of a consultant - Kanban - Agile - ContinuousDelivery
 modified_time: '2013-05-24T15:24:02.770+02:00'
 thumbnail: http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg

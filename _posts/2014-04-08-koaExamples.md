@@ -4,7 +4,8 @@ title: 'Marcus Node Bits: Let''s flex Koa Js, shall
 we?'
 date: '2014-04-08T14:12:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools - Koa
 modified_time: '2014-05-23T05:28:22.873+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-628425760225674799

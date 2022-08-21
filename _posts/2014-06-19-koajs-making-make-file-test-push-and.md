@@ -4,7 +4,8 @@ title: 'KoaJs: Making the make file test, push and all
 that'
 date: '2014-06-19T15:05:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools - Koa - Agile - ContinuousDelivery
 modified_time: '2014-06-19T15:11:11.132+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6635224330936661017

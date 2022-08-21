@@ -3,7 +3,8 @@ layout: post
 title: A lot of Team System
 date: '2007-09-27T21:38:00.000+02:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 Visual Studio
 modified_time: '2010-12-14T16:19:05.528+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7349605965807386338

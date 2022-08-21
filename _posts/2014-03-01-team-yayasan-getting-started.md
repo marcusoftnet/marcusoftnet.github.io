@@ -3,7 +3,8 @@ layout: post
 title: Team Yayasan - getting started
 date: '2014-03-01T07:56:00.003+01:00'
 author: Marcus Hammarberg
-tags: - Team
+tags:
+  - Team
 Yayasan - Lean - Kanban - Agile - Indonesia
 modified_time: '2014-03-17T02:37:31.541+01:00'
 thumbnail: http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg

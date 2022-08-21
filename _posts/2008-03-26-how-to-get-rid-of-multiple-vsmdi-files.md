@@ -3,7 +3,8 @@ layout: post
 title: How to get rid of multiple .vsmdi-files
 date: '2008-03-26T08:28:00.005+01:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 TDD
 modified_time: '2008-03-26T08:45:34.311+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7174602734773481204

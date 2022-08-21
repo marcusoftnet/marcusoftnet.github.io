@@ -3,7 +3,8 @@ layout: post
 title: Hello Aptitud!
 date: '2012-12-10T09:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2012-12-10T09:45:29.478+01:00'

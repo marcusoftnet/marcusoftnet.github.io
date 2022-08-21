@@ -3,7 +3,8 @@ layout: post
 title: Oooh - thoose sweet zomibes (?)
 date: '2007-05-09T07:31:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Fun
 modified_time: '2007-05-09T07:36:38.153+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6235340705393710752

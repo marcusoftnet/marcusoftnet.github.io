@@ -3,7 +3,8 @@ layout: post
 title: Saturday of brass band, presenting and fun
 date: '2009-12-05T20:37:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2009-12-05T20:37:17.301+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2388413803826974527

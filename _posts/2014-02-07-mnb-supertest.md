@@ -5,7 +5,8 @@ test an api'
 date: '2014-02-07T15:00:00.000+01:00'
 author: Marcus
 Hammarberg
-tags: - MobProgramming - Javascript - BDD
+tags:
+  - MobProgramming - Javascript - BDD
    - Tools - TDD -
 Node
 modified_time: '2014-06-02T10:56:52.507+02:00'

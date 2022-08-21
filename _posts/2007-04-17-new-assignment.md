@@ -3,7 +3,8 @@ layout: post
 title: New assignment
 date: '2007-04-17T13:52:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2007-04-17T13:57:29.181+02:00'

@@ -3,7 +3,8 @@ layout: post
 title: Some experience with uncertainty
 date: '2013-09-16T15:09:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Agile - Indonesia
 modified_time: '2013-09-16T15:10:53.153+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-314128669280077609

@@ -3,7 +3,8 @@ layout: post
 title: James Watson
 date: '2007-02-25T12:46:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-02-26T09:26:17.483+01:00'
 thumbnail:

@@ -3,7 +3,8 @@ layout: post
 title: Happy week - so far so good
 date: '2006-11-21T07:38:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2006-11-21T13:06:08.203+01:00'

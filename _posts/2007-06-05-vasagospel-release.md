@@ -3,7 +3,8 @@ layout: post
 title: VasaGospel release
 date: '2007-06-05T13:22:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2007-06-05T13:48:22.313+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4382808575833036990

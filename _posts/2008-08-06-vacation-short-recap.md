@@ -3,7 +3,8 @@ layout: post
 title: The vacation - short recap
 date: '2008-08-05T23:15:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-08-05T23:15:08.518+02:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/SJi_hNi3EeI/AAAAAAAAAVo/ffOnYQXqqDk/s72-c/DSC_0040.JPG

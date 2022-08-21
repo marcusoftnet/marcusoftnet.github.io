@@ -4,7 +4,8 @@ title: AppHarbor, Nancy and the Could not load file or
 assembly 'Nancy.ViewEngines.Razor.BuildProviders' error
 date: '2013-03-06T11:35:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Nancy
    - Tools
   - .NET - ContinuousDelivery

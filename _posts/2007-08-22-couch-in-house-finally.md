@@ -3,7 +3,8 @@ layout: post
 title: Couch in the house - finally
 date: '2007-08-21T20:14:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-08-21T20:20:50.014+02:00'
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RssshUnppKI/AAAAAAAAAMc/1OvgHW5I0KQ/s72-c/PICT2140.JPG

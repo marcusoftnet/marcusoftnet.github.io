@@ -3,7 +3,8 @@ layout: post
 title: Sprint Planner Helper – Session 11
 date: '2009-02-21T23:30:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Sprint
+tags:
+  - Sprint
 Planner Helper - TDD
 modified_time: '2009-02-21T23:30:40.161+01:00'
 thumbnail:

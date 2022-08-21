@@ -5,7 +5,8 @@ workshop at Elevate
 date: '2010-03-06T19:53:00.001+01:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
   - Life of a consultant
    - Agile
 modified_time: '2010-03-06T19:53:13.618+01:00'

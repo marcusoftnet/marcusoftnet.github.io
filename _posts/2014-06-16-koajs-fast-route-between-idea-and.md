@@ -5,7 +5,8 @@ production
 date: '2014-06-16T15:51:00.002+02:00'
 author: Marcus
 Hammarberg
-tags: - Javascript - Koa - Lean - Agile - ContinuousDelivery
+tags:
+  - Javascript - Koa - Lean - Agile - ContinuousDelivery
 modified_time: '2014-06-20T09:44:31.696+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4479719224435985617
 blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-fast-route-between-idea-and.html

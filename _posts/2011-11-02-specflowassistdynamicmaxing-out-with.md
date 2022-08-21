@@ -5,7 +5,8 @@ Simple.Data
 date: '2011-11-02T08:00:00.000+01:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
    - Tools
   - .NET - Specification by example - C# -
 SpecFlow

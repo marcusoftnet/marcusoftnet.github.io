@@ -3,7 +3,8 @@ layout: post
 title: Battle of the TFS build script
 date: '2007-05-31T08:59:00.000+02:00'
 author: Marcus Hammarberg
-tags: - TFS -
+tags:
+  - TFS -
 MSBuild - Visual Studio
 modified_time: '2010-12-14T16:19:05.589+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-900809608655174297

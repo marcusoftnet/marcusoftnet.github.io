@@ -3,7 +3,8 @@ layout: post
 title: Linus on the line...
 date: '2007-02-26T10:18:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Fun
+tags:
+  - Fun
 modified_time: '2007-02-26T10:23:43.688+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7260434656835734438
 blogger_orig_url: http://www.marcusoft.net/2007/02/linus-on-line.html

@@ -4,7 +4,8 @@ title: Some thoughts I got after talking with Woody
 Zuil
 date: '2014-07-23T04:01:00.003+02:00'
 author: Marcus Hammarberg
-tags: - Lean - Specification by example - Agile - Indonesia
+tags:
+  - Lean - Specification by example - Agile - Indonesia
 modified_time: '2014-07-23T04:04:52.337+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
 blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html

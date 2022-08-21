@@ -3,7 +3,8 @@ layout: post
 title: Marcus on the net
 date: '2006-10-24T13:01:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-10-26T07:54:47.178+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116168806472327241

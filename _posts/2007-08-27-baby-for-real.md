@@ -3,7 +3,8 @@ layout: post
 title: Baby - for real
 date: '2007-08-27T07:39:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-08-27T08:22:59.648+02:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RtJlBEnppMI/AAAAAAAAAMs/zlyHZueXsIs/s72-c/bebis2.JPG

@@ -3,7 +3,8 @@ layout: post
 title: Load-event of UserControls in design mode
 date: '2007-05-15T14:06:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Visual
+tags:
+  - Visual
 Studio
 modified_time: '2010-12-14T16:19:05.593+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3713039309925097026

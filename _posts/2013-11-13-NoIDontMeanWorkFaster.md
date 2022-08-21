@@ -5,7 +5,8 @@ work faster'
 date: '2013-11-12T21:00:00.000+01:00'
 author: Marcus
 Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile
 modified_time: '2013-11-12T21:04:32.841+01:00'

@@ -5,7 +5,8 @@ about changing'
 date: '2013-10-24T13:44:00.001+02:00'
 author: Marcus
 Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Agile
 modified_time: '2013-11-12T21:04:53.237+01:00'

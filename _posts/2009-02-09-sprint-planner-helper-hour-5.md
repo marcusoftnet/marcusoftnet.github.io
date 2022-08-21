@@ -3,7 +3,8 @@ layout: post
 title: Sprint Planner Helper – Session 5
 date: '2009-02-08T22:28:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Sprint
+tags:
+  - Sprint
 Planner Helper
 modified_time: '2009-05-05T11:15:29.920+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1830400696204581960

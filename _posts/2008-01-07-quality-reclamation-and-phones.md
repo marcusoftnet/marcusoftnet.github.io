@@ -3,7 +3,8 @@ layout: post
 title: Quality, reclamation and phones
 date: '2008-01-07T08:32:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-01-07T08:58:11.863+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6206110930991029468

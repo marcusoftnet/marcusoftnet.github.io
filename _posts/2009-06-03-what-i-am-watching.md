@@ -3,7 +3,8 @@ layout: post
 title: What I am watching
 date: '2009-06-02T23:10:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand - Fun
 modified_time: '2009-06-02T23:46:34.494+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2395401910198297949

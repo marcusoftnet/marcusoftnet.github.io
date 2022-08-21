@@ -4,7 +4,8 @@ title: MongoDb and the "10309 Unable to create/open
 lock file" on Ubuntu
 date: '2014-05-06T15:33:00.000+02:00' author:
 Marcus Hammarberg
-tags: - Node - Javascript
+tags:
+  - Node - Javascript
    - Tools - Life of a
 consultant
 modified_time: '2014-05-06T15:33:12.579+02:00'

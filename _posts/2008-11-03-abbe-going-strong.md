@@ -3,7 +3,8 @@ layout: post
 title: Abbe - going strong
 date: '2008-11-03T17:37:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-11-03T17:37:52.949+01:00'
 thumbnail: http://lh6.ggpht.com/\_kkDJOSPNTLs/SQ8ozDXCSLI/AAAAAAAAAYY/KZWQ9FxPyqc/s72-c/DSC_0017_thumb%5B4%5D.jpg?imgmax=800

@@ -4,7 +4,8 @@ title: TFS, Add solution to Source Control and some
 trouble along the way
 date: '2008-03-07T08:29:00.005+01:00' author:
 Marcus Hammarberg
-tags: - TFS
+tags:
+  - TFS
 modified_time: '2010-12-14T16:20:33.322+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7752698837169987400
 blogger_orig_url: http://www.marcusoft.net/2008/03/tfs-add-solution-to-source-control-and.html

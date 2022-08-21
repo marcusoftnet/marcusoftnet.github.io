@@ -3,7 +3,8 @@ layout: post
 title: code-tag in Firefox
 date: '2008-03-04T08:16:00.003+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Web Design
 modified_time: '2008-03-04T08:19:12.642+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8342509319035989584

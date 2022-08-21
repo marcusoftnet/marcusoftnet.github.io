@@ -3,7 +3,8 @@ layout: post
 title: Embrace uncertainty - the family version
 date: '2014-10-27T05:20:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Lean
   - Life of a consultant
    - Agile

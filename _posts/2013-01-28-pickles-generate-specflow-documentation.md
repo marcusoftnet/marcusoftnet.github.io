@@ -4,7 +4,8 @@ title: Pickles - generate SpecFlow documentation from
 MsBuild and PowerShell
 date: '2013-01-28T13:54:00.000+01:00' author:
 Marcus Hammarberg
-tags: - BDD
+tags:
+  - BDD
    - Tools - Specification by example -
 SpecFlow
 modified_time: '2013-07-30T20:15:45.084+02:00'

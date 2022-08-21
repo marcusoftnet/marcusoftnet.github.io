@@ -3,7 +3,8 @@ layout: post
 title: Have presentations - will travel
 date: '2012-12-10T11:30:00.000+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Lean
   - Life of a consultant
    - Kanban - Agile - SpecFlow - TDD

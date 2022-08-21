@@ -4,7 +4,8 @@ title: Nancy.Testing - executable specifications
 through the full stack, in memory
 date: '2013-02-07T14:55:00.003+01:00'
 author: Marcus Hammarberg
-tags: - Nancy
+tags:
+  - Nancy
    - Tools
   - .NET - Specification
 by example - C# - SpecFlow

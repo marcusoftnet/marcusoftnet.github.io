@@ -3,7 +3,8 @@ layout: post
 title: Bengt Eklund
 date: '2007-04-02T07:40:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-04-02T08:07:08.362+02:00'
 thumbnail:

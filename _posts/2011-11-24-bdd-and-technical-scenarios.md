@@ -3,7 +3,8 @@ layout: post
 title: BDD and technical scenarios
 date: '2011-11-23T22:34:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Agile
 modified_time: '2011-11-23T22:34:10.980+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102

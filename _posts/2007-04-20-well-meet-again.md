@@ -3,7 +3,8 @@ layout: post
 title: We'll meet again...
 date: '2007-04-20T07:41:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2007-04-20T07:46:56.961+02:00'

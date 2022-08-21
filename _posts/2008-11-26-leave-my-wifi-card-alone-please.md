@@ -3,7 +3,8 @@ layout: post
 title: Leave my WiFi-card alone! Please!
 date: '2008-11-26T15:03:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2008-11-26T15:03:20.380+01:00'

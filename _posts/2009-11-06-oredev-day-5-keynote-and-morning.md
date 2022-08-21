@@ -3,7 +3,8 @@ layout: post
 title: 'ÖreDev day \#5 – keynote and morning'
 date: '2009-11-06T12:06:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Tools
   - .NET - ÖreDev - NHibernate - Agile
 modified_time: '2011-11-09T21:49:22.612+01:00'

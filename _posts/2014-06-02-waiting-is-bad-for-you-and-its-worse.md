@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Waiting is bad for you… and it’s worse than you
-think
+title: Waiting is bad for you… and it’s worse than you think
 date: '2014-06-02T08:44:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Kanban - Agile - Salvation Army
 modified_time: '2014-06-02T08:44:48.859+02:00'

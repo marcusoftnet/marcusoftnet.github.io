@@ -4,7 +4,8 @@ title: 'TESTTOOLSTASK : warning VSP1024: Unable to open
 file ''file'' for writing.'
 date: '2008-08-07T07:32:00.004+02:00'
 author: Marcus Hammarberg
-tags: - TFS
+tags:
+  - TFS
 modified_time: '2010-12-14T16:20:33.256+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6393301215503286885
 blogger_orig_url: http://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-open-file.html

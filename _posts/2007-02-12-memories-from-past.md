@@ -3,7 +3,8 @@ layout: post
 title: Memories from the past
 date: '2007-02-12T07:33:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2010-12-14T16:19:57.891+01:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s72-c/poison.jpg

@@ -3,7 +3,8 @@ layout: post
 title: Pictures from caroling in Old Town
 date: '2006-12-22T07:42:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2006-12-22T07:47:11.394+01:00'
 thumbnail:

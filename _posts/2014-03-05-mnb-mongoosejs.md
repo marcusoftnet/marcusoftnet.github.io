@@ -4,7 +4,8 @@ title: 'Marcus Node Bits: Ok then, Moogose is pretty
 sweet'
 date: '2014-03-05T08:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - MobProgramming - Javascript
+tags:
+  - MobProgramming - Javascript
    - Tools - Agile
 modified_time: '2014-06-02T10:56:52.500+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2091121684384294337

@@ -4,7 +4,8 @@ title: A story on doing outside-in development with
 SpecFlow
 date: '2010-10-15T18:23:00.013+02:00'
 author: Marcus Hammarberg
-tags: - BDD
+tags:
+  - BDD
   - .NET - SpecFlow
 modified_time: '2010-10-15T19:11:09.821+02:00'
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s72-c/Screen+shot+2010-10-15+at+12.34.49.png

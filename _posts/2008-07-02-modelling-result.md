@@ -3,7 +3,8 @@ layout: post
 title: Modelling - the result
 date: '2008-07-02T10:15:00.006+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2008-07-02T10:29:31.854+02:00'
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SGs8PwZYmRI/AAAAAAAAAVg/uq94Mv2A3Fo/s72-c/MarcusHammarberg.jpg

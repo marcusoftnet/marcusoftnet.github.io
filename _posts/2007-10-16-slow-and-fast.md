@@ -3,7 +3,8 @@ layout: post
 title: Slow and fast
 date: '2007-10-16T07:45:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
  - Scrum

@@ -5,7 +5,8 @@ me, part I
 date: '2014-04-28T10:10:00.000+02:00'
 author: Marcus
 Hammarberg
-tags: - Team Yayasan
+tags:
+  - Team Yayasan
   - Life of a consultant
    - Salvation
 Army - Indonesia

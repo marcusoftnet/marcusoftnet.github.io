@@ -5,7 +5,8 @@ step definitions
 date: '2011-04-07T07:16:00.001+02:00'
 author: Marcus
 Hammarberg
-tags: - BDD
+tags:
+  - BDD
   - .NET
   - Life of a consultant
    - SpecFlow

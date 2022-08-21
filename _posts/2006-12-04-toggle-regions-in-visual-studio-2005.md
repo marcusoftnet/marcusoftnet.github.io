@@ -3,7 +3,8 @@ layout: post
 title: Toggle regions in Visual Studio 2005
 date: '2006-12-04T15:03:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Visual
+tags:
+  - Visual
 Studio
 modified_time: '2010-12-14T16:19:05.657+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2419507699672345756

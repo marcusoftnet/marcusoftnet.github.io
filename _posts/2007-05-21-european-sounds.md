@@ -3,7 +3,8 @@ layout: post
 title: European sounds
 date: '2007-05-21T08:09:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - BrassBand
 modified_time: '2007-05-21T08:15:38.150+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-466119577858273659

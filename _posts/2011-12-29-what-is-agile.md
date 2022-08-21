@@ -3,7 +3,8 @@ layout: post
 title: What is agile?
 date: '2011-12-29T11:08:00.001+01:00'
 author: Marcus Hammarberg
-tags: - Agile
+tags:
+  - Agile
 modified_time: '2012-01-01T21:40:46.550+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3944511374658002557
 blogger_orig_url: http://www.marcusoft.net/2011/12/what-is-agile.html

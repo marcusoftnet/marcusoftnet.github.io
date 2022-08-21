@@ -3,7 +3,8 @@ layout: post
 title: Bicycle comeback
 date: '2006-10-24T22:10:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-10-26T07:53:23.766+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116172125231863820

@@ -3,7 +3,8 @@ layout: post
 title: Candy-exposure
 date: '2007-08-20T09:39:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-08-20T14:48:10.212+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2956868458258965011

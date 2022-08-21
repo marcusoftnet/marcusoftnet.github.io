@@ -3,7 +3,8 @@ layout: post
 title: Good bye Avega!
 date: '2012-12-07T09:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2012-12-07T09:00:15.142+01:00'

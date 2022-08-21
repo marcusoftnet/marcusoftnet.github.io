@@ -3,7 +3,8 @@ layout: post
 title: Full speed and free
 date: '2008-09-26T16:20:00.001+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Scrum
    - Agile - WCF

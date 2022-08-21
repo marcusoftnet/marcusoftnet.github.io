@@ -3,7 +3,8 @@ layout: post
 title: WebDesign - a great introduction
 date: '2008-01-14T14:51:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Web
+tags:
+  - Web
 Design
   - Life of a consultant
 modified_time: '2008-01-14T14:52:21.240+01:00'

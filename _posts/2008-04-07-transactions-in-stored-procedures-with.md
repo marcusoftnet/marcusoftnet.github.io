@@ -5,7 +5,8 @@ transaction scope
 date: '2008-04-07T14:31:00.004+02:00'
 author: Marcus
 Hammarberg
-tags: - VB.NET
+tags:
+  - VB.NET
   - .NET - C#
 modified_time: '2008-04-09T13:35:18.428+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-293035297188284140

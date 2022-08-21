@@ -5,7 +5,8 @@ in Team System
 date: '2008-04-25T09:53:00.004+02:00'
 author: Marcus
 Hammarberg
-tags: - VB.NET - TFS
+tags:
+  - VB.NET - TFS
 modified_time: '2010-12-14T16:20:33.294+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7137896854594876672
 blogger_orig_url: http://www.marcusoft.net/2008/04/removing-mysettings-from-code-coverage.html

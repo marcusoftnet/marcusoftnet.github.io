@@ -3,7 +3,8 @@ layout: post
 title: Vaccation memories
 date: '2009-09-20T13:17:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2009-09-21T14:37:06.877+02:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SrYSpfDgENI/AAAAAAAAAH0/GJZ-ZBr8lgo/s72-c/DSC_1012_thumb.jpg?imgmax=800

@@ -4,7 +4,8 @@ title: 'Marcus Node Bits: Should is a nice way to do
 asserts'
 date: '2014-02-07T08:00:00.000+01:00'
 author: Marcus Hammarberg
-tags: - MobProgramming - Javascript - BDD
+tags:
+  - MobProgramming - Javascript - BDD
    - Tools - TDD
 modified_time: '2014-06-02T10:56:52.516+02:00'
 thumbnail: http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s72-c/Screen+Shot+2014-02-01+at+20.05.01+.png

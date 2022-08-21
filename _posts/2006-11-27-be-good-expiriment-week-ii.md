@@ -3,7 +3,8 @@ layout: post
 title: Be good - expiriment week II
 date: '2006-11-27T07:48:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-11-27T08:19:13.136+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7633822811227639909

@@ -3,7 +3,8 @@ layout: post
 title: Debating a hero
 date: '2009-04-03T19:26:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
    - Agile

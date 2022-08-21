@@ -3,7 +3,8 @@ layout: post
 title: Should & Substitute–two new great friends
 date: '2010-11-05T09:33:00.001+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Tools
   - .NET - TDD
 modified_time: '2010-12-14T16:22:38.152+01:00'

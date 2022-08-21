@@ -3,7 +3,8 @@ layout: post
 title: DDD – what’s the deal?
 date: '2009-05-18T19:12:00.001+02:00'
 author: Marcus Hammarberg
-tags: - DDD
+tags:
+  - DDD
 modified_time: '2009-05-18T19:27:37.595+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4714403665752490331
 blogger_orig_url: http://www.marcusoft.net/2009/05/ddd-whats-deal.html

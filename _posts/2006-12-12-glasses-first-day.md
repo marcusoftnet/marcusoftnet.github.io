@@ -3,7 +3,8 @@ layout: post
 title: Glasses - first day
 date: '2006-12-12T07:42:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2006-12-12T07:47:09.847+01:00'
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RX5Pu-X20jI/AAAAAAAAAAk/rbL9yl62GjE/s72-c/PICT1247.JPG

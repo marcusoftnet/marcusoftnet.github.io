@@ -3,7 +3,8 @@ layout: post
 title: 'Team Yayasan week 5: Redoing Todo'
 date: '2014-04-02T10:46:00.003+02:00'
 author: Marcus Hammarberg
-tags: - Team
+tags:
+  - Team
 Yayasan - Lean - Kanban - Agile - Salvation Army
 modified_time: '2014-04-03T02:42:33.128+02:00'
 thumbnail: http://3.bp.blogspot.com/-dEEnoC3BID0/UzvIZq2RxHI/AAAAAAAACKM/jjzx2WLSfUw/s72-c/2014-04-02+08.31.29.jpg

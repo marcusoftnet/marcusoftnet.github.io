@@ -3,7 +3,8 @@ layout: post
 title: Home again - now with pictures
 date: '2007-05-02T07:51:00.000+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
   - Life of a consultant
 modified_time: '2007-05-03T07:37:13.064+02:00'

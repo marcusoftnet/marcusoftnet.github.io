@@ -4,7 +4,8 @@ title: 'ÖreDev Day \#1 - Accomplishing more by doing
 less'
 date: '2009-11-02T16:58:00.004+01:00'
 author: Marcus Hammarberg
-tags: - ÖreDev
+tags:
+  - ÖreDev
   - Life of a consultant
    - Agile
 modified_time: '2011-11-09T21:49:22.569+01:00'

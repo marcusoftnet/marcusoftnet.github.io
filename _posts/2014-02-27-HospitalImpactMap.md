@@ -5,7 +5,8 @@ Hospitals
 date: '2014-02-27T08:39:00.002+01:00'
 author: Marcus
 Hammarberg
-tags: - MobProgramming
+tags:
+  - MobProgramming
    - Tools - Lean - Agile - Impact
 mapping - Salvation Army - Indonesia
 modified_time: '2014-06-02T10:56:52.538+02:00'

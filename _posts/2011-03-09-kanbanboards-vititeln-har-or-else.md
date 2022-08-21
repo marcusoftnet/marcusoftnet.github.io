@@ -3,7 +3,8 @@ layout: post
 title: KanbanBoards VI–OpenId Integration
 date: '2011-03-08T20:03:00.000+01:00'
 author: Marcus Hammarberg
-tags: - BDD -
+tags:
+  - BDD -
 Tools
   - .NET - ASP.NET MVC - KanbanBoards
 modified_time: '2011-03-08T20:03:13.839+01:00'

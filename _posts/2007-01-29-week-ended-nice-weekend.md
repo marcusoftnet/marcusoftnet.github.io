@@ -3,7 +3,8 @@ layout: post
 title: Week ended - nice weekend
 date: '2007-01-29T07:35:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private
 modified_time: '2007-01-29T07:45:32.246+01:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAEw/UmBOLRCpza4/s72-c/PICT0384.JPG

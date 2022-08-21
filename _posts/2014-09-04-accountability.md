@@ -4,7 +4,8 @@ title: Accountability, authority, trust, and all those
 things
 date: '2014-09-04T10:22:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Lean
+tags:
+  - Lean
   - Life of a consultant
    - Kanban - Agile - Salvation Army
 modified_time: '2014-09-04T10:22:38.712+02:00'

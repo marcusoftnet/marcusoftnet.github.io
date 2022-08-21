@@ -4,7 +4,8 @@ title: 'Unable to emit assembly: Referenced assembly
 does not have a strong name'
 date: '2007-09-18T12:46:00.001+02:00'
 author: Marcus Hammarberg
-tags: - VB.NET
+tags:
+  - VB.NET
   - .NET - Visual Studio
 modified_time: '2010-12-14T16:19:05.536+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5310005411164515714

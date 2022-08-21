@@ -3,7 +3,8 @@ layout: post
 title: Luck has nothing to do with it
 date: '2014-08-22T06:38:00.002+02:00'
 author: Marcus Hammarberg
-tags: - Lean -
+tags:
+  - Lean -
 Life of a consultant - Agile
 modified_time: '2014-08-22T06:38:46.973+02:00'
 thumbnail: http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s72-c/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg

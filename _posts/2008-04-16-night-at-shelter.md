@@ -3,7 +3,8 @@ layout: post
 title: A night at the shelter
 date: '2008-04-15T21:36:00.005+02:00'
 author: Marcus Hammarberg
-tags: - Marcus
+tags:
+  - Marcus
 private - Salvation Army
 modified_time: '2008-04-15T21:53:12.811+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-343545671301042006

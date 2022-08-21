@@ -4,7 +4,8 @@ title: Nancy.Testing - test-dialogues with Requests and
 Response
 date: '2013-01-31T11:43:00.000+01:00'
 author: Marcus Hammarberg
-tags: - Nancy
+tags:
+  - Nancy
    - Tools
   - .NET - C#
 modified_time: '2014-06-21T02:09:55.472+02:00'
