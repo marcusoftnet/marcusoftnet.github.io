@@ -12,12 +12,12 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/teamplain-rocks.html
 ---
 
 Just some short lines of praise to an excellent web <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">GUI</span> to
-access <span>="blsp-spelling-error">TFS</span> (Team Foundation Server) - [Team
+id="SPELLING_ERROR_0" class="blsp-spelling-corrected">GUI to
+access TFS (Team Foundation Server) - [Team
 plain](http://www.teamplain.com/).
 
-Via this <span>="blsp-spelling-corrected">GUI</span> you can easily access most
-functionality for <span>="blsp-spelling-error">TFS</span> in a very nice manner. And this
-have to be the nicest Web-GUI <span>="blsp-spelling-error">i've</span> ever seen. I could possibly be
-<span>="blsp-spelling-corrected">because</span> it's using AJAX - and
+Via this GUI you can easily access most
+functionality for TFS in a very nice manner. And this
+have to be the nicest Web-GUI i've ever seen. I could possibly be
+because it's using AJAX - and
 then my friends the future promises good thing for us.

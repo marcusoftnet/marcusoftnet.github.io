@@ -50,7 +50,7 @@ help:
 > <span style="font-family: 'Courier New';">Generate tests from all
 > feature files in a project
 > usage: specflow generateall projectFile \[/force\] \[/verbose\]
->     projectFile  Visual Studio Project File containing features</span>
+>     projectFile  Visual Studio Project File containing features
 
 OK. I put together a .bat file that does that. (Note that I’m on a
 64-bit machine and had to use some funky DOS-shortcut to get there. No

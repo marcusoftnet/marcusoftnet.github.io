@@ -14,7 +14,7 @@ Found this which looks very nice:
 <http://weblogs.asp.net/scottgu/archive/2007/05/19/using-linq-to-sql-part-1.aspx>
 
 Seems to cover a lot of the different aspects that you'll need to
-understand about <span>="blsp-spelling-error">LINQ</span> to <span>="blsp-spelling-error">SQL</span>.
+understand about LINQ to SQL.
 
 And here are some videos on the concept:
 <http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2007/05/10/9322.aspx>

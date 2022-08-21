@@ -33,7 +33,7 @@ Here are all the post in the series:
     write them</a>
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
@@ -45,7 +45,7 @@ Here are all the post in the series:
 This post is about the most commonly used web framework in Node:
 <a href="http://expressjs.com/" target="_blank">Express</a>.
 <span
-id="more"></span><a href="http://nodejs.org/" target="_blank">Node</a>
+id="more"><a href="http://nodejs.org/" target="_blank">Node</a>
 in itself is pretty cool and the three-line web server is mind blowing
 at first sight. Pretty soon though you want something that is a bit
 friendlier to code against. Most people seems to go
@@ -60,9 +60,9 @@ Couldn't agree more. The only thing is... most tutorials on Express uses
 the generators. That is the set of tools that comes with Express
 (install with <span
 style="font-family: Courier New, Courier, monospace;">npm install
-express -g) </span><span style="font-family: inherit;">and you'll have
+express -g) <span style="font-family: inherit;">and you'll have
 the generators all over. This site generator bothers me in two
-ways:</span>
+ways:
 
 -   it sets up a complete site, when I just want to do an API
 -   that site defaults to server-side generation, when I want to serve a
@@ -156,7 +156,7 @@ guide</a> is also nice.
 
 First and formost you should create an Express application. This is
 super simple since that's what the <span
-style="font-family: Courier New, Courier, monospace;">express()</span>
+style="font-family: Courier New, Courier, monospace;">express()
 function returns. Like this:
 
 In the little tweet example above you saw the app.get() function in
@@ -185,8 +185,8 @@ this function that I'm writing here".
 As I said the path parameter can contain parameters that we easily get
 hold of via the <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#req.params"
-target="_blank">req.params</a> </span><span
-style="font-family: inherit;">property</span>. Here's an example of a
+target="_blank">req.params</a> <span
+style="font-family: inherit;">property. Here's an example of a
 get to an URL with a parameter, called id
 
 </div>
@@ -199,7 +199,7 @@ Often your clients will be sending data in the body of the HTTP request.
 Express provides an easy way to extract those by using the middleware
 <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#req.body"
-target="_blank">bodyParser()</a></span> (see below). Which gives us this
+target="_blank">bodyParser()</a> (see below). Which gives us this
 easy way to access the body data
 
 </div>
@@ -236,12 +236,12 @@ but we can do as we want.
 <div>
 
 Note that I'm using the <span
-style="font-family: Courier New, Courier, monospace;">exports</span>-keyword
+style="font-family: Courier New, Courier, monospace;">exports-keyword
 in the <span
-style="font-family: Courier New, Courier, monospace;">userHandler.js</span>
+style="font-family: Courier New, Courier, monospace;">userHandler.js
 file. That let's the function be visible to other modules. I used the
 name <span
-style="font-family: Courier New, Courier, monospace;">handler</span> as
+style="font-family: Courier New, Courier, monospace;">handler as
 a nod to a way we created frameworks in the 90-ies. Everything that we
 really didn't know what to name was "handler". It should maybe have been
 "controller" in this case...
@@ -252,7 +252,7 @@ really didn't know what to name was "handler". It should maybe have been
 
 You return data via the response-object that is passed to the callback
 function for your route, often called <span
-style="font-family: Courier New, Courier, monospace;">res </span>but you
+style="font-family: Courier New, Courier, monospace;">res but you
 can of course name it what ever you want. The simplest is just to do
 send as we seen a lot of examples of already.
 
@@ -289,7 +289,7 @@ I found useful:
 
 <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#basicAuth"
-target="_blank">basicAuth()</a></span>- sets up basic authentication for
+target="_blank">basicAuth()</a>- sets up basic authentication for
 your site. As always, basic is sending the username and password in
 clear text, so beware.
 
@@ -301,9 +301,9 @@ clear text, so beware.
 
 <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#directory"
-target="_blank">directory()</a></span> - that helps you configure
+target="_blank">directory()</a> - that helps you configure
 directories, together with <span
-style="font-family: Courier New, Courier, monospace;">static()</span> it
+style="font-family: Courier New, Courier, monospace;">static() it
 can help you to serve up static files; like your client side JavaScript
 application for example
 
@@ -317,7 +317,7 @@ application for example
 
 The one middleware that impressed me the most, so far, is <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#app.param"
-target="_blank">app.param()</a></span>. This can help you do some really
+target="_blank">app.param()</a>. This can help you do some really
 powerful stuff, in just a few lines of code. To show this I'm going to
 <a
 href="http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/"

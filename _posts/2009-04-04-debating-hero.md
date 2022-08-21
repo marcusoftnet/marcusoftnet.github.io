@@ -18,16 +18,16 @@ Today I did something that I never dared before - I posted a comment on
 an article that I read in
 <a href="http://computersweden.idg.se/" target="_blank"><span
 id="SPELLING_ERROR_0"
-class="blsp-spelling-error">ComputerSweden</span></a>. Nothing scary
+class="blsp-spelling-error">ComputerSweden</a>. Nothing scary
 there - but the article was written by one of the IT-<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">heros</span> of
+id="SPELLING_ERROR_1" class="blsp-spelling-error">heros of
 Sweden,
 <a href="http://www.ivarjacobson.com/" target="_blank">Ivar <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">Jacobsson</span></a>.
-He invented <span>="blsp-spelling-error">RUP</span> and has been a busy debater and
+id="SPELLING_ERROR_2" class="blsp-spelling-error">Jacobsson</a>.
+He invented RUP and has been a busy debater and
 writer.
 
-His column was about Scrum and how it's "<span>="blsp-spelling-corrected">coming</span> apart" (my translation).
+His column was about Scrum and how it's "coming apart" (my translation).
 You can <a
 href="http://computersweden.idg.se/2.2683/1.222111/det-knakar-rejalt-i-scrums-fogar"
 target="_blank">read it here</a> (in Swedish).
@@ -39,4 +39,4 @@ target="_blank">my comment</a> and Ivar's promptly answer.
 The last row was something extra: "Marcus, you're welcome to write to me
 directly" :)
 
-I can't miss out on that <span>="blsp-spelling-corrected">opportunity</span>, can I.
+I can't miss out on that opportunity, can I.

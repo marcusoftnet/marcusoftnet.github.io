@@ -2,8 +2,8 @@
 layout: post
 title: 'Marcus Node Bits: Doing stuff in the terminal
 is not scary at all'
-date: '2014-02-05T08:00:00.000+01:00' author:
-Marcus Hammarberg
+date: '2014-02-05T08:00:00.000+01:00'
+author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript - Life of a
 consultant - Agile
@@ -31,7 +31,7 @@ Here are all the post in the series:
     write them</a>
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a> 
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
@@ -57,29 +57,29 @@ This is what I do when I start a new node project:
 
 
 -   <span
-    style="font-family: Courier New, Courier, monospace;">clear</span> -
+    style="font-family: Courier New, Courier, monospace;">clear -
     to get rid of all the stuff in the window when I start. I like my
     terminal nice and clean. 
 -   <span
-    style="font-family: Courier New, Courier, monospace;">pwd</span> -
+    style="font-family: Courier New, Courier, monospace;">pwd -
     to know which directory I'm in. And it has nothing to do with
     passwords, it's "present working directory"
 -   <span style="font-family: Courier New, Courier, monospace;">cd
-    \~/Projects/NodeStuff</span> - to get to my Node directory in my
+    \~/Projects/NodeStuff - to get to my Node directory in my
     Project-directory, where I've stored all the Node stuff
 -   <span style="font-family: Courier New, Courier, monospace;">mkdir
-    TheNewProject</span> - to create a new folder for "the new project"
+    TheNewProject - to create a new folder for "the new project"
 -   <span style="font-family: Courier New, Courier, monospace;">cd
-    TheNewProject</span> - to get into TheNewProject-directory
+    TheNewProject - to get into TheNewProject-directory
 -   <span style="font-family: Courier New, Courier, monospace;">mkdir
-    test</span> - to create a test directory
+    test - to create a test directory
 -   <span style="font-family: Courier New, Courier, monospace;">touch
-    package.json</span> - to create a package.json file. See
+    package.json - to create a package.json file. See
     <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
     target="_blank">this post</a> for more on that file and it's awesome
     capabilities. 
 -   <span style="font-family: Courier New, Courier, monospace;">sublime
-    .</span> - to open the current with sublime text 2. You can of
+    . - to open the current with sublime text 2. You can of
     course open it in another editor too.  
 
 

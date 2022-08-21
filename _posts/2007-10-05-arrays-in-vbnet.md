@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/arrays-in-vbnet.html
 OK - this is driving me mad. Arrays in VB.NET really, really <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
 id="SPELLING_ERROR_0"
-class="blsp-spelling-corrected">annoys</span></span> me. Here is a short
+class="blsp-spelling-corrected">annoys me. Here is a short
 list on how to work with arrays, in my example an array of strings.
 
 1.  Declaring an new empty array:
@@ -32,5 +32,5 @@ So - again the pain of VB.NET comes from the urge to want to help us all
 the time. Why, oh why, are there several ways of doing one thing?
 
 I will sure get back to this post a lot because i forget how this is
-done <span>every
-time</span> - much thanks to the "helpfulness" of VB.NET
+done every
+time - much thanks to the "helpfulness" of VB.NET

@@ -15,18 +15,18 @@ code you want a way to be sure that the quality of the comments are as
 good as they can be, and in the earliest stage possible.
 
 One way to accomplish this would have the compiler to issue an warning
-for all missing, <span>="blsp-spelling-corrected">faulty</span> or <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">un</span>-matched
+for all missing, faulty or <span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">un-matched
 comments it finds during compilation. In Visual Studio 2005 and C# this
 is very easy by setting the warning level to 4, treat all warning as
-errors and generating <span>="blsp-spelling-corrected">XML</span> documentation.
+errors and generating XML documentation.
 
 VB.NET however... is another story all together, and again i understand
-that this is a choice. It's like a <span>="blsp-spelling-corrected">philosophy</span> of the <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">language</span>;
+that this is a choice. It's like a philosophy of the <span
+id="SPELLING_ERROR_4" class="blsp-spelling-corrected">language;
 VB.NET stands for simplicity and getting help from the environment where
-C# stands for control and managing the <span>="blsp-spelling-error">nitty</span>-gritty details. However AI or
-help from the environment in my <span>="blsp-spelling-corrected">opinion</span> very often leads to
+C# stands for control and managing the nitty-gritty details. However AI or
+help from the environment in my opinion very often leads to
 situations where you want to get around the "help" but is unable because
 OF the "help".
 
@@ -43,8 +43,8 @@ So for VB.NET the only warnings you can get are:
 -   Recursive operator or property access - 41998,42004,42026
 -   Duplicate or overlapping catch blocks - 42029,42031
 
-None of these talk about missing/<span>="blsp-spelling-corrected">faulty</span> documentation. It doesn't
-help to generate XML <span>="blsp-spelling-corrected">documentation</span> and treat all
+None of these talk about missing/faulty documentation. It doesn't
+help to generate XML documentation and treat all
 warnings as error (as the settings in the project properties are
 called). Missing documentation will still run through the compiler like
 open water...
@@ -59,5 +59,5 @@ it would be to convert the code to C# and run the compiler against that
 code to see if any comments are missing. But how to automate that? Is
 that at all "nice"? What about compile times?
 
-I am a bit <span>="blsp-spelling-corrected">disappointed</span> on VB.NET right
-now... but <span>="blsp-spelling-corrected">I'll</span> try to get over it.
+I am a bit disappointed on VB.NET right
+now... but I'll try to get over it.

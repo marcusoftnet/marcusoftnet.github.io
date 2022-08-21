@@ -12,11 +12,11 @@ blogger_orig_url: http://www.marcusoft.net/2007/03/traffic-in-russia.html
 ---
 
 If you ever
-are in Russia... in St <span>="blsp-spelling-error"><span>="blsp-spelling-error">Petersburg</span></span>... please take the
+are in Russia... in St Petersburg... please take the
 bus. This is one of the crossings in the town.
 
-No lights. No stop-signs. No <span>="blsp-spelling-corrected">speed limit</span>. Looks pretty
-dangerous. Or like <span>="blsp-spelling-error"><span>="blsp-spelling-error">Borat</span></span> says: to drive like that
+No lights. No stop-signs. No speed limit. Looks pretty
+dangerous. Or like Borat says: to drive like that
 ".. is like giving gun to monkey. Very Dangerous! "
 
 

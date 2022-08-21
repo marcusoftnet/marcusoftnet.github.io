@@ -49,13 +49,13 @@ Not only that - the WHY need to be known in the whole organization.
 <span style="background-color: white">If the WHY isn't known it will be
 very hard to change people. In fact - you may end up trying to force the
 change on them and that will never work, or at least not produce a good
-result. </span>
+result.
 
 <span style="background-color: white">In my experience there's a pattern
 that happens when you try to force change upon people that don't see the
 WHY; they are very focused on the HOW and you end up in a lot of
 discussions on how to adjust their current way of working (a little) so
-it fits in the new world. </span>
+it fits in the new world.
 
 Introducing agile is in essence introducing a new why of thinking. You
 need to see this need and really want to get to the new place to be able
@@ -63,7 +63,7 @@ to do this. Compare:
 
 > "We cannot not do this the way we work today" vs "We need to work that
 > way - what should we change?"<span
-> style="background-color: white"> </span>
+> style="background-color: white"> 
 
 Finally - the WHY cannot come from the outside. You cannot bring an
 urgency to change with you as an outside consultant - it must come from
@@ -81,7 +81,7 @@ company that is ready to try "anything". But it's just a waste of effort
 and time to try to force change upon an organization that don't see the
 need or WHY they should change. We all have better things to do.
 
-### <span style="background-color: white">Use experience based learning</span>
+### <span style="background-color: white">Use experience based learning
 
 I've done a lot of different presentations, courses and educations as an
 agile coach (for example <a
@@ -99,7 +99,7 @@ more information as needed.
 Focus on the concepts and ignore details... for now. It's better that
 they g<span style="background-color: white">rasp a couple of basic
 concept fully that they get out of the class with a toolset to use but
-don't know how. </span>
+don't know how.
 
 <span style="background-color: white">The best way to get concepts to
 stick, in my experience, is to use
@@ -109,7 +109,7 @@ some kind of game or simulation (call it simulation if people think
 games are silly) followed by a discussion. It's the best thing I know to
 run a game and suddenly see the penny drop for people. I've never seen
 that happend from one second to another while doing a presentation.
-</span>
+
 
 The games I've used lately is
 <a href="http://www.netobjectives.com/resources/articles/the-dot-game/"
@@ -156,15 +156,15 @@ modelled after the
 Coffee</a> concept;
 
 -   <span style="background-color: white">get people who are interested
-    together</span>
+    together
 -   <span style="background-color: white">put together a short agenda
     for the meeting by asking people what they want to talk about.
-    Anything goes here but related to agile or lean is a given</span>
+    Anything goes here but related to agile or lean is a given
 -   <span style="background-color: white">talk for time boxed period of
     time (7 minutes) and when it's up vote if you want to continue or
-    not</span>
+    not
 -   <span style="background-color: white">make a mind-map of what you
-    talked about</span>
+    talked about
 
 We created this as a knowledge sharing room for the people in the
 organization involved in the agile roll out. It's open for anybody
@@ -190,7 +190,7 @@ patience here - they will come around and ask for it. And it's better to
 wait for that than to force coaching upon teams that don't see the use.
 Much better.
 
-<span style="background-color: white"></span>
+<span style="background-color: white">
 
 ### Conclusion
 

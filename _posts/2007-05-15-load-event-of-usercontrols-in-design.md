@@ -14,16 +14,16 @@ blogger_orig_url: http://www.marcusoft.net/2007/05/load-event-of-usercontrols-in
 Ran into another problem just now...
 
 If you have code in the Load-event of a Windows <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">usercontrol</span>, it
-will fire when the <span>="blsp-spelling-error">usercontrol</span> is shown in Visual Studio
+id="SPELLING_ERROR_0" class="blsp-spelling-error">usercontrol, it
+will fire when the usercontrol is shown in Visual Studio
 at design-time. This can be troublesome if the code doesn't compile or
-needs some <span>="blsp-spelling-error">runtime</span>-only variables.
+needs some runtime-only variables.
 
-However all Windows forms controls (forms, <span>="blsp-spelling-error">usercontrols</span> etc.) inherits from
-<span>="blsp-spelling-error">ComponentModel</span> which in turn has a
-property that's called <span>="blsp-spelling-error">DesignMode</span>. This property is true
+However all Windows forms controls (forms, usercontrols etc.) inherits from
+ComponentModel which in turn has a
+property that's called DesignMode. This property is true
 when the Component (control in our case) is shown in <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">designmode</span> in
+id="SPELLING_ERROR_6" class="blsp-spelling-error">designmode in
 Visual Studio.
 
 Beware for this [special case

@@ -17,9 +17,8 @@ new friends. I really had a great time with the band.
 
 The playing from the band also took of, and became better and better.
 For me too, even though a major split spoiled the very last note of the
-encore. Really <span>="blsp-spelling-corrected">embarrassing</span>, but hey - that's
+encore. Really embarrassing, but hey - that's
 life.
 
-Gave (<span id="SPELLING_ERROR_1" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">swedish</span> expression) blood on my
+Gave (swedish expression) blood on my
 tooth though. More. More practice!

@@ -79,14 +79,14 @@ cannot say what the cost will be. Two fundamental problems here;
 and **Features** instead. That means that you'll get everything to a
 fixed cost but we cannot say when (**Time**). This is not acceptable for
 most business either, but it's at least accomplishable in a pure
-technical way. </span>
+technical way.
 
 </div>
 
 <div>
 
 <span style="text-align: left">
-</span>
+
 
 </div>
 
@@ -98,7 +98,7 @@ will say exactly when we're done and on the cent what it will cost - but
 we cannot say what will be delivered. This is, sadly, not very nice
 either... at least in this pure form (but there is help - see below).
 But it's the best (least bad) out of these options for most people.
-</span>
+
 
 </div>
 

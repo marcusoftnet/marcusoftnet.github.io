@@ -4,8 +4,7 @@ title: Sync Issues – my contact are back
 date: '2009-02-24T21:29:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2009-02-25T02:53:30.131+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4796152958013813373

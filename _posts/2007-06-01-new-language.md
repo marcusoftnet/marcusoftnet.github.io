@@ -14,7 +14,7 @@ loud...
 
 <http://www.tlc-systems.com/babbage.htm>
 
-The next project will <span>="blsp-spelling-corrected">definitively</span> be programmed in
+The next project will definitively be programmed in
 Babbage...
 
-Thank you <span>="blsp-spelling-error">Pål</span>, for making my morning
+Thank you Pål, for making my morning

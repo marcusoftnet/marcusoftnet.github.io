@@ -14,8 +14,8 @@ blogger_orig_url: http://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-de
 
 OK - I'll make no fuzz about it. I am really excited about Scrum and
 what it can do. But now after two complete days with <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">mr</span> Scrum, Ken
-<span id="SPELLING_ERROR_1" class="blsp-spelling-error">Schwaber</span>,
+id="SPELLING_ERROR_0" class="blsp-spelling-error">mr Scrum, Ken
+Schwaber,
 i am completely turned around. It was as closed to a religious wake-up
 as you will ever come without God.
 
@@ -25,10 +25,10 @@ the way I've counted and tried to predict everything in advance - just
 half a year ago.
 
 The big differences are also the easiest - things like that people can
-take care of <span>="blsp-spelling-corrected">them self</span>, change will always
+take care of them self, change will always
 (ALWAYS) occur.
 
 So as long as i have a say in the question i will always conduct my
 projects as Scrum projects from now on. There is really no other way if
-you want quality. If i don't have a say <span>="blsp-spelling-error">i'll</span> still try to run them as Scrum
+you want quality. If i don't have a say i'll still try to run them as Scrum
 projects, just because i know it's best :)

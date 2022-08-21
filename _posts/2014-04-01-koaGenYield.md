@@ -2,8 +2,8 @@
 layout: post
 title: 'Marcus Node Bit: Let''s talk about yield and
 generators, shall we?'
-date: '2014-04-01T09:00:00.000+02:00' author:
-Marcus Hammarberg
+date: '2014-04-01T09:00:00.000+02:00'
+author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools - Koa
@@ -58,9 +58,9 @@ stuff here goes to Toby. Any crap is probably from me.
 ### What is yield?
 
 Now, on to the war... The first concept that tripped me a bit was <span
-style="font-family: Courier New, Courier, monospace;">yield</span>.  I
+style="font-family: Courier New, Courier, monospace;">yield.  I
 have not thought much about nor used <span
-style="font-family: Courier New, Courier, monospace;">yield</span> in
+style="font-family: Courier New, Courier, monospace;">yield in
 my mother-tongue, C#, that have had them for quite some time. Quite
 simple it can be described with the following code:
 
@@ -95,14 +95,14 @@ in it. And you need to add the asterisk.
 then?" you ask.
 We have to create a instance of the generator function and then get the
 *next* element in the sequence by calling ... <span
-style="font-family: Courier New, Courier, monospace;">next()</span>.
+style="font-family: Courier New, Courier, monospace;">next().
 Like this:
 
 
 That was the quote about mean when it said: "... until you tell it to".
 The code will halt at the yield until we tell it to continue, and we
 tell it by calling <span
-style="font-family: Courier New, Courier, monospace;">.next()</span> on
+style="font-family: Courier New, Courier, monospace;">.next() on
 the function instance.
 To run this, remember that you have to call Node with the "--harmony"
 flag, as described in
@@ -110,24 +110,24 @@ flag, as described in
 target="_blank">my earlier post</a>. This is the command I used:
 
 > <span style="font-family: Courier New, Courier, monospace;">node
-> --harmony callingGenerator.js</span>
+> --harmony callingGenerator.js
 
 Two things worth noting here. First, nothing happens until you
 call <span
-style="font-family: 'Courier New', Courier, monospace;">.next()</span>.The
+style="font-family: 'Courier New', Courier, monospace;">.next().The
 loop in the generator is doing nothing in the meantime. Like a block of
 code that waits for an asynchronous callback ^^.
 Also it's worth noting that what we get back is a object with two
 properties; *value* and *done* (true/false). The <span
-style="font-family: Courier New, Courier, monospace;">done</span>
+style="font-family: Courier New, Courier, monospace;">done
 parameter equals true when the sequence is over, as shown in this
 example:
 
 
 If you run that you will get <span
 style="font-family: Courier New, Courier, monospace;">done ===
-true</span> for the fourth call to <span
-style="font-family: Courier New, Courier, monospace;">.next()</span>
+true for the fourth call to <span
+style="font-family: Courier New, Courier, monospace;">.next()
 (with the value === undefined). The fifth call throws an exception
 ("Generator has already finished").
 
@@ -135,7 +135,7 @@ Tying back to the heading of this section: a generator is simply a
 function that represents a sequence of values. We saw examples of ending
 and non ending sequences above. You can use the generator by creating a
 generator object and call <span
-style="font-family: Courier New, Courier, monospace;">next()</span> to
+style="font-family: Courier New, Courier, monospace;">next() to
 get the next value.  It's like *iterating* through the return values of
 the function.
 
@@ -162,7 +162,7 @@ this. This example is doing some very simple logging and really made the
 usefulness of generators stand out for me. Start this simple site up and
 then access it from the terminal with "<span
 style="font-family: Courier New, Courier, monospace;">curl
-http://localhost:3000 -v</span>" so that you can see the headers
+http://localhost:3000 -v" so that you can see the headers
 returned, and there you see the X-Response-Time reported. As well at the
 console.
 
@@ -234,7 +234,7 @@ following commands:
 And then see the result with this:
 
 > <span style="font-family: Courier New, Courier, monospace;">curl
-> http://localhost:3000/user -v</span>
+> http://localhost:3000/user -v
 
 Pretty short and sweet for adding user, if you ask me. More interesting,
 let's go through the code.

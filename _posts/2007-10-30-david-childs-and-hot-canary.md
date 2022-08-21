@@ -12,12 +12,12 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/david-childs-and-hot-canary.h
 
 A
 few weeks back the British National Brass Band Championship took place
-with <span>="blsp-spelling-error">Grimethorpe</span> as winners for the second
+with Grimethorpe as winners for the second
 year running.
 
 As always there was a short interlude-concert before the results was
 announced, this year with Black Dyke Band. One of the featured soloist
-was David <span>="blsp-spelling-error">Childs</span> and his performance of Hot
+was David Childs and his performance of Hot
 Canary just blew my mind! That dude really has control - not a slip, not
 a hint of bad intonation AND having fun. Thank you!
 

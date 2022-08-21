@@ -12,8 +12,8 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/connectionstringcom-great-res
 
 I just found this great site
 [http://www.connectionstrings.com](http://www.connectionstrings.com/).
-Here you'll find the <span>="blsp-spelling-corrected">answer</span> to the age-old questions
-on how to write the <span>="blsp-spelling-corrected">connection string</span> for (almost)
+Here you'll find the answer to the age-old questions
+on how to write the connection string for (almost)
 every database provider.
 
 [Some people](http://www.blogger.com/profile/06485708514192583267) has

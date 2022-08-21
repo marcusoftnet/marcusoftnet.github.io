@@ -37,7 +37,7 @@ data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rm4vq0BiT1I/AAAAAAAAAK
 
 <div>
 
-Here are some pictures from Paris, where <span>="blsp-spelling-error">Elin</span> and I went this weekend. Not as
+Here are some pictures from Paris, where Elin and I went this weekend. Not as
 warm as in Sweden but perfect sightseeing-weather. We must have walked 2
 miles (Swedish that is) each day...
 

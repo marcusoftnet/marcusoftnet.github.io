@@ -29,7 +29,7 @@ have to get and rebuild the sources.
 The solution to this is of course to send and handle parameter in your
 build script. This post is a short introduction to how to do this.
 
-<span style="font-size:130%;">**Parameters in MSBuild-scripts**</span>
+<span style="font-size:130%;">**Parameters in MSBuild-scripts**
 A MSBuild-script can be started without the assistance of the TFS, of
 course. For example on the commandline (msbuild.exe). And besides the
 actual .proj-file the msbuild-enginge is going to run through you can
@@ -39,19 +39,19 @@ One of them is /p which is a list of parameters (separated by commas)
 that the script can act on. The parameter becomes a standard property in
 the build script. So if the build script is started like this:
 
-<span style="font-family:courier new;">msbuild.exe /p:Marcus=12
-build.proj</span>
-<span style="font-size:0;"></span>
+msbuild.exe /p:Marcus=12
+build.proj
+<span style="font-size:0;">
 it can be reached in the build script like this:
 
-<span style="font-family:Courier New;">\<Message Text="Marcus has the
-value:$(Marcus)" /\></span>
-<span style="font-family:Courier New;">\<Target
+\<Message Text="Marcus has the
+value:$(Marcus)" /\>
+\<Target
 Name="CreateDocumentationWhichTakesALongTime"
 Condition="$(Marcus)=='12'"\>
-</span>
 
-**<span style="font-size:130%;">Parameters to TFS Builds</span>**
+
+**<span style="font-size:130%;">Parameters to TFS Builds**
 But how do you get parameters send to the build script that is run
 inside TFS?
 
@@ -60,7 +60,7 @@ the dialog for Queueing new builds - the textbox is called MSBuild
 command-line arguments (duh!). In this box you give your arguments with
 the /p-switch;
 
-<span style="font-family:courier new;">/p:Marcus=12</span>
+/p:Marcus=12
 
 If you want a certain parameter to go with the build script each and
 every time you build you can do so via the .rsp-file that is located in

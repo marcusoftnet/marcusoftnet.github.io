@@ -13,16 +13,11 @@ blogger_orig_url: http://www.marcusoft.net/2006/11/results-from-swedish-champion
 [<img
 src="http://www.4barsrest.com/gallery/200/general_goth_bengt_childs.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; WIDTH: 200px; CURSOR: hand"
-data-border="0" />](http://www.4barsrest.com/gallery/200/general_goth_bengt_childs.jpg)4<span
-id="SPELLING_ERROR_0" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">BarsRest</span> are a bit slower than
-me ;-) but here is a an article about the [Swedish <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">BrassBand</span>
+data-border="0" />](http://www.4barsrest.com/gallery/200/general_goth_bengt_childs.jpg)4BarsRest are a bit slower than
+me ;-) but here is a an article about the [Swedish BrassBand
 Championships.](http://www.4barsrest.com/news/detail.asp?id=4441)
 
-But <span id="SPELLING_ERROR_2" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Gothenburg</span> has not won the US
+But Gothenburg has not won the US
 Championships, to my knowledge, but became world champions 1988, and
 that event was held in Australia.
 

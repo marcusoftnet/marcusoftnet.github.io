@@ -147,7 +147,7 @@ prompt with administrative privileges:
 </div>
 
 > <span style="font-family: monospace; white-space: pre;">netsh wlan
-> stop hostednetwork</span>
+> stop hostednetwork
 
 ### Conclusion
 

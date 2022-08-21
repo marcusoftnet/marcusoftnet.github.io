@@ -2,8 +2,8 @@
 layout: post
 title: Fluent NHibnerate CheckReference throws Expected
 ‘X’ but got ‘XProxy’
-date: '2009-09-08T15:43:00.001+02:00' author:
-Marcus Hammarberg
+date: '2009-09-08T15:43:00.001+02:00'
+author: Marcus Hammarberg
 tags:
   - .NET - NHibernate
 modified_time: '2010-12-14T16:19:35.818+01:00'

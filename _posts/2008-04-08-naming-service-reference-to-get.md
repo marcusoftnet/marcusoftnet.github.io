@@ -34,8 +34,8 @@ as it turns out you can include points (".") in the name of a web
 service reference. This gives us an opportunity to name the service
 reference in a namespace-like manner. For example we use:
 
-<span style="font-family:courier new;">Dim a as
-TI.SystemName.ObjectName.MethodName.Class</span>
+Dim a as
+TI.SystemName.ObjectName.MethodName.Class
 
 When we add many references in the same way they will be organized in a
 nice way. Simple and powerful - that how we like it.

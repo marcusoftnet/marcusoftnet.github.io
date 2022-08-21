@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Agile testing – some thoughts after an excellent
-Elevate-evening
+title: Agile testing – some thoughts after an excellent Elevate-evening
 date: '2009-11-13T11:57:00.001+01:00'
 author: Marcus Hammarberg
 tags:
@@ -25,17 +24,17 @@ got it to work in any of the agile teams I have been leading. Here are
 sample of my failures (as in failure is good – an opportunities to learn
 :));
 
--   **No testers and no testing in the team**. This was a disaster. We
+- **No testers and no testing in the team**. This was a disaster. We
     did agile development but when we were done a 3 month testing phase
     took place. Sounds a lot like waterfall to me. And we didn’t harvest
     any of the goodness that agile can bring.
--   **Testers in the team – but not doing agile testing**. So we decided
+- **Testers in the team – but not doing agile testing**. So we decided
     to move testers into the team. But they had to keep up with the
     company testing policies. So each time we did a change, how ever
     minor it was, it resulted in several days work for the testers;
     updating test cases, use cases and tests plan etc.
     That didn’t work very well either.
--   Finally we had **testers in the team that only tested the things we
+- Finally we had **testers in the team that only tested the things we
     worked with during the sprint**. And with an acceptance test-phase
     after each 4-5 sprints. This was the best result we’ve got at this
     customer, but it was very hard to get through to the testers at
@@ -59,15 +58,15 @@ target="_blank">Open Space</a>.
 As I hoped they all had some similar thoughts and underlying themes,
 which I takes as points worth noticing. For me three things stood out:
 
--   **Team commitment to test** - make the whole team think test. Make
+- **Team commitment to test** - make the whole team think test. Make
     sure that you don’t have developers and tester – only team members.
     Which fit very nicely with the next point;
--   **Definition of done** – include testing in your definition of done.
+- **Definition of done** – include testing in your definition of done.
     Or in other words; “We’re not done until the thing is tested.”
     We even got some suggestions on what to do if developers don’t take
     interest in testing; let testers be “sick” for a sprint, which will
     make developers to do the tests…
--   **Invest in automation –** all the success stories from yesterday
+- **Invest in automation –** all the success stories from yesterday
     included automation of regression tests. Learn some tools for that,
     for example
     <a href="http://seleniumhq.org/" target="_blank">Selenium</a> and
@@ -86,12 +85,12 @@ a feel for it.
 
 Doing automated regression tests will have plenty of benefits;
 
--   the system needs to be testable – can we write tests against a
+- the system needs to be testable – can we write tests against a
     service? do we need a test client that enable us to do automated
     tests?
--   you can start writing the regression tests before the code is done,
+- you can start writing the regression tests before the code is done,
     in many cases
--   you get a suite of tests that run through the whole system and
+- you get a suite of tests that run through the whole system and
     checks for breaks. Included in your Daily Build or Continuous
     Integration this will give you a nice status of your project.
 

@@ -81,24 +81,24 @@ this:
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">app.use(staticCache(\_\_dirname +
-> '/public/img'), { maxAge: 30 \* 24 \* 60 \* 60 });\]</span>
+> '/public/img'), { maxAge: 30 \* 24 \* 60 \* 60 });\]
 
 12:28:35 - "Ok, that looked simple let's try this out"
 12:28:40 - \[typed
 <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
 target="_blank"><span
 style="font-family: Courier New, Courier, monospace;">npm
-star</span>t</a> at the terminal and crashed on missing package\]
+start</a> at the terminal and crashed on missing package\]
 12:28:50 - "Oh, man! If I had a dime every time I forget to *npm
 install* things..."
 12:29:00 - \[typed <span
 style="font-family: Courier New, Courier, monospace;">npm install
-koa-static-cache --save</span> in the terminal. Waited for download\]
+koa-static-cache --save in the terminal. Waited for download\]
 12:29:25 - "Ok, let's see if my test broke"
 12:29:26 - \[typed npm test and waited for about 1 second\]
 12:29:29 - "No - that worked just fine. Does the site work?"
 12:29:33 - \[typed <span
-style="font-family: Courier New, Courier, monospace;">npm start,</span>
+style="font-family: Courier New, Courier, monospace;">npm start,
 went to http://localhost:3000\]
 12:29:38 - "Hey, it comes up. How can I verify if the images are cached
 or not?... If I reload... yes, it's superfast, but it was superfast
@@ -109,16 +109,16 @@ The Chrome dev tools has a network tab.
 Let's push this - it looks awesome!"
 12:30:05 - \[typed <span
 style="font-family: Courier New, Courier, monospace;">git add -all and
-then git commit -m "Added caching of images".</span>\]
+then git commit -m "Added caching of images".\]
 12:30:15 - \[typed<span
-style="font-family: Courier New, Courier, monospace;"> git push</span>
+style="font-family: Courier New, Courier, monospace;"> git push
 to push it to my
 <a href="https://github.com/marcusoftnet/koaVote" target="_blank">GitHub
 repo</a>\]
 12:30:20 - \[waited for the slow network\]
 12:30:40 - \[typed <span
 style="font-family: Courier New, Courier, monospace;">git push heroku
-master</span> to push to
+master to push to
 <a href="http://www.heroku.com/" target="_blank">Heroku</a>\]
 12:30:42 - \[waited while Heroku pushed to production\]
 12:31:05 - "Hey it's live! Let's test it!"

@@ -16,6 +16,7 @@ This now contains an update
 <http://marcushammarberg.blogspot.com/2006/11/more-about-generic-webservces.html>.
 Be sure to look it up for a more elegant solution.
 ====================================================
+
 Yesterday was spent with my nose deep down the documentation of .NET
 2.0, pondering poses and headscratching.
 
@@ -34,86 +35,67 @@ was to use generics - and that was right for quite a while.
 I created a class WebServiceCreator that has one (and so many overloads
 we need:-)) method:
 
-<span style="font-family:courier new;">public static TWebService
+public static TWebService
 GetWebService(string WebServiceURL)
-where TWebService : SoapHttpClientProtocol</span>
+where TWebService : SoapHttpClientProtocol
 
-This means that when this metod is called <span
-style="font-family:courier new;">TWebService</span> needs to be replaced
-with the type that <span
-style="font-family:courier new;">GetWebService</span> should return -
-and that type needs to be a <span
-style="font-family:courier new;">SoapHttpClientProtocol</span> - which
+This means that when this metod is called TWebService needs to be replaced
+with the type that GetWebService should return -
+and that type needs to be a SoapHttpClientProtocol - which
 all the webservice proxies inhierties. So the call would look something
 like this:
 
 <span
 style="font-family:courier new;font-size:85%;">DemoWebService.Service
-wss = WebServiceCreator.GetWebService(\[WebServiceURL\]);</span>
+wss = WebServiceCreator.GetWebService(\[WebServiceURL\]);
 
 So far just my thoughts and hopes on how this would work.... but the
-inner workings of the <span
-style="font-family:courier new;">GetWebService</span>-method was a bit
+inner workings of the GetWebService-method was a bit
 trickier.
 
 Somewhere someone would have to instanciate the WebService by calling a
-constructor. Since the <span
-style="font-family:courier new;">GetWebService</span>-method only
-manages generic types (<span
-style="font-family:courier new;">TWebService</span>) this would be very
+constructor. Since the GetWebService-method only
+manages generic types (TWebService) this would be very
 tricky... The following code would of course not compile:
 
-<span style="font-size:85%;"><span
-style="font-family:courier new;">TWebService wss = new
-TWebService();</span>
-</span>
+<span style="font-size:85%;">TWebService wss = new
+TWebService();
+
 The solution to this problem was to use a delegate that "points" to a
 method that creates the webservice of the right type. This delegate is
 then passed as a parameter to the GetWebService-method. The delegate
 looks like this:
 
 <span style="font-family:courier new;font-size:85%;">public delegate
-TWebService WebServiceConstructorDelegate();</span>
+TWebService WebServiceConstructorDelegate();
 
-<span style="font-family:courier new;">GetWebService</span> is then
+GetWebService is then
 updated to look like this (sorry for the weird indentention):
 
-<span style="font-size:85%;"><span
-style="font-family:courier new;">public static TWebService </span><span
-style="font-family:courier new;">GetWebService</span> <span
-style="font-family:courier new;">(</span></span>
-<span style="font-size:85%;"><span
-style="font-family:courier new;">WebServiceConstructorDelegate
-</span></span><span style="font-size:85%;"><span
-style="font-family:courier new;">ConstructorForWebService, string
+<span style="font-size:85%;">public static TWebService GetWebService (
+<span style="font-size:85%;">WebServiceConstructorDelegate
+<span style="font-size:85%;">ConstructorForWebService, string
 WebServiceURL)
-where TWebService : SoapHttpClientProtocol</span>
-</span>
+where TWebService : SoapHttpClientProtocol
+
 And when you call GetWebService you supply a method that creates the
 webservice like this (really sorry for the indentention):
 
-<span style="font-size:85%;"><span
-style="font-family:courier new;">DemoWebService.Service wss =
-</span><span
-style="font-family:courier new;">WebServiceCreator.GetWebService(</span>
-</span>
-<span style="font-size:85%;"><span style="font-family:courier new;">new
-</span><span
-style="font-family:courier new;">WebServiceCreator.WebServiceConstructorDelegate</span><span
-style="font-family:courier new;">(pCreateDemoWebService)</span>
-<span style="font-family:courier new;">,\[</span><span
-style="font-family:courier new;">WebServiceURL\]);</span> </span>
+<span style="font-size:85%;">DemoWebService.Service wss =
+WebServiceCreator.GetWebService(
 
-And then of course the small <span
-style="font-family:courier new;">pCreateDemoWebService</span> that is
+<span style="font-size:85%;">new
+WebServiceCreator.WebServiceConstructorDelegate(pCreateDemoWebService)
+,\[WebServiceURL\]);
+
+And then of course the small pCreateDemoWebService that is
 sent-in as delegate above is very simple:
 
-<span style="font-size:85%;"><span
-style="font-family:courier new;">private DemoWebService.Service
+<span style="font-size:85%;">private DemoWebService.Service
 pCreateDemoWebService()
 {
 return new Epas.Shared.Tests.DemoWebService.Service();
-}</span> </span>
+}
 
 But hey - what's this? Now we have a WebService creator that creates
 webservices of any type in a uniform way. So there is only one place to

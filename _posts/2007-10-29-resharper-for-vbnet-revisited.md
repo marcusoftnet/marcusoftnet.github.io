@@ -8,13 +8,13 @@ tags:
 modified_time: '2010-12-14T16:21:04.001+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6776151297451892784
 blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet-revisited.html ---
-<span id="SPELLING_ERROR_0" class="blsp-spelling-error">Ok</span> -
-<span id="SPELLING_ERROR_1" class="blsp-spelling-error">i'll</span> give
-<span id="SPELLING_ERROR_2" class="blsp-spelling-error">Resharper</span>
-another try - thanks to <span>="blsp-spelling-error">Ilya</span> <span>="blsp-spelling-error">Ryzhenkov</span> who <span
-id="SPELLING_ERROR_5" class="blsp-spelling-corrected">encouraged</span>
-me to try again. In all honesty the <span>="blsp-spelling-error">crasches</span> i experienced were all in a
-<span>="blsp-spelling-error">buildscript</span>-file, XML-syntax.
+Ok -
+i'll give
+Resharper
+another try - thanks to Ilya Ryzhenkov who <span
+id="SPELLING_ERROR_5" class="blsp-spelling-corrected">encouraged
+me to try again. In all honesty the crasches i experienced were all in a
+buildscript-file, XML-syntax.
 
-So <span id="SPELLING_ERROR_8" class="blsp-spelling-error">i'll</span>
+So i'll
 have to try it with pure VB.NET-code i expect... Here we go.

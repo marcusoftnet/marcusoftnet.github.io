@@ -305,36 +305,36 @@ as a final exercise. Note that here have translated the feature content
 to English as it’s Swedish in my sample:
 
 1.  The step “<span style="font-family: 'Courier New';">Given I am on
-    the homepage</span>” gets run as part of the scenario
+    the homepage” gets run as part of the scenario
 2.  SpecFlow calls into the step definition marked with the <span
     style="font-family: 'Courier New';">“\[Given(@”I am on the
-    homepage”)\]”. </span>That method is defined on the Steps-class
+    homepage”)\]”. That method is defined on the Steps-class
 3.  The step definition contains of a single line; “<span
-    style="font-family: 'Courier New';">\_teamListingPageWrapper.Visit();</span>”
+    style="font-family: 'Courier New';">\_teamListingPageWrapper.Visit();”
     1.  \_<span
-        style="font-family: 'Courier New';">teamListingPageWrapper</span>
+        style="font-family: 'Courier New';">teamListingPageWrapper
         is a private variable in the Steps-class
 4.  The Visit()-method is definied on the <span
-    style="font-family: 'Courier New';">PageWrapperBase</span> class
+    style="font-family: 'Courier New';">PageWrapperBase class
     that simply use the Browser instance to Open the URL for the page;
     <span
-    style="font-family: 'Courier New';">Browser.Open(pageURL);</span>
+    style="font-family: 'Courier New';">Browser.Open(pageURL);
     1.  The pageURL is put together from the prefix found in the
         app.config and the relative URL for the page we’re wrapping (“/”
         in this case)
 5.  If that works out the scenario continues on the next step: “<span
     style="font-family: 'Courier New';">Then a link for Create New team
-    should be present on the page</span>”
+    should be present on the page”
 6.  SpecFlow again calls into the right step definition
 7.  The step definition propagates into the page wrapper, in the method
     <span
-    style="font-family: 'Courier New';">AssertCreateNewTeamLinkExists()</span>
+    style="font-family: 'Courier New';">AssertCreateNewTeamLinkExists()
 8.  In the page wrapper we’re looking for that link on the page with the
     following line, that will throw and exception if it fails – as we
     want:
     <span
     style="font-family: 'Courier New';">Browser.Expect.Text("Create
-    New").In("a#NewLink");</span>
+    New").In("a#NewLink");
 9.  Our test passes!
 
 ## Conclusion

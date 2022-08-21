@@ -30,28 +30,28 @@ changed it into this (significant code in **bold**).
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
-> \[<span style="color: #2b91af">AcceptVerbs</span>(<span
-> style="color: #2b91af">HttpVerbs</span>.Post)\]       
+> \[<span style="color: #2b91af">AcceptVerbs(<span
+> style="color: #2b91af">HttpVerbs.Post)\]       
 >
->         <span style="color: blue">public</span> <span
-> style="color: #2b91af">ActionResult</span> Create(<span
-> style="color: #2b91af">FormCollection</span> form)       
+>         <span style="color: blue">public <span
+> style="color: #2b91af">ActionResult Create(<span
+> style="color: #2b91af">FormCollection form)       
 >
 >         {           
 >
 >             <span style="color: green">// Create ViewData           
-> </span>
 >
->             <span style="color: #2b91af">ProductForm</span> viewData =
-> <span style="color: blue">new</span> <span
-> style="color: #2b91af">ProductForm</span>(<span
-> style="color: blue">new</span> <span
-> style="color: #2b91af">Product</span>(),
+>
+>             <span style="color: #2b91af">ProductForm viewData =
+> <span style="color: blue">new <span
+> style="color: #2b91af">ProductForm(<span
+> style="color: blue">new <span
+> style="color: #2b91af">Product(),
 > productOwnerRepository.Find().ToList());
 >
 >  
 >
->             <span style="color: blue">try</span>           
+>             <span style="color: blue">try           
 >
 >             {               
 >
@@ -61,7 +61,7 @@ changed it into this (significant code in **bold**).
 >  
 >
 >                 <span style="color: green">// Get the productowner for
-> the selected product-owner id</span>
+> the selected product-owner id
 >
 >                 viewData.Product.Owner =
 > productOwnerRepository.GetById(viewData.SelectedOwnerID);               
@@ -69,7 +69,7 @@ changed it into this (significant code in **bold**).
 >  
 >
 >                 <span style="color: green">// add new product to the
-> repository                </span>
+> repository               
 >
 >                
 > productRepository.Add(viewData.Product);               
@@ -79,22 +79,22 @@ changed it into this (significant code in **bold**).
 >  
 >
 >                 <span style="color: green">// Go back to the
-> list                </span>
+> list               
 >
->                 <span style="color: blue">return</span>
+>                 <span style="color: blue">return
 > RedirectToAction(<span
-> style="color: #a31515">"Index"</span>);           
+> style="color: #a31515">"Index");           
 >
 >             }           
 >
->             <span style="color: blue">catch</span>
+>             <span style="color: blue">catch
 >
 >             {
 >
 >                
 > ModelState.AddRuleViolations(viewData.Product.GetRuleViolations());
 >
->                 <span style="color: blue">return</span>
+>                 <span style="color: blue">return
 > View(viewData);
 >
 >             }       
@@ -127,80 +127,80 @@ Here is a short sample that test the action method above.
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->         \[<span style="color: #2b91af">TestMethod</span>\]
+>         \[<span style="color: #2b91af">TestMethod\]
 >
->         <span style="color: blue">public</span> <span
-> style="color: blue">void</span>
+>         <span style="color: blue">public <span
+> style="color: blue">void
 > createControllerActionCanTakeAFormCollectionWithProductDataAndAddItToTheRepository()
 >
 >         {
 >
->             <span style="color: blue">var</span>
+>             <span style="color: blue">var
 > numberOfProductsBefore = productRepository.Find().Count();
 >
->             <span style="color: blue">var</span> form =
+>             <span style="color: blue">var form =
 > CreateProductTestFormCollection();
 >
 >  
 >
 >             
 >
->             <span style="color: blue">var</span> result =
+>             <span style="color: blue">var result =
 > productController.Create(form);
 >
 >  
 >
 >             <span
-> style="color: #2b91af">Assert</span>.IsNotNull(result);
+> style="color: #2b91af">Assert.IsNotNull(result);
 >
 >             <span
-> style="color: #2b91af">Assert</span>.IsInstanceOfType(result, <span
-> style="color: blue">typeof</span>(<span
-> style="color: #2b91af">RedirectToRouteResult</span>));
+> style="color: #2b91af">Assert.IsInstanceOfType(result, <span
+> style="color: blue">typeof(<span
+> style="color: #2b91af">RedirectToRouteResult));
 >
->             <span style="color: blue">var</span> redirectResult =
-> (<span style="color: #2b91af">RedirectToRouteResult</span>)result;
+>             <span style="color: blue">var redirectResult =
+> (<span style="color: #2b91af">RedirectToRouteResult)result;
 >
->             <span style="color: #2b91af">Assert</span>.AreEqual(<span
-> style="color: #a31515">"Index"</span>,
+>             <span style="color: #2b91af">Assert.AreEqual(<span
+> style="color: #a31515">"Index",
 > redirectResult.RouteValues\[<span
-> style="color: #a31515">"action"</span>\]);
+> style="color: #a31515">"action"\]);
 >
 >  
 >
 >             <span
-> style="color: #2b91af">Assert</span>.AreEqual(numberOfProductsBefore +
+> style="color: #2b91af">Assert.AreEqual(numberOfProductsBefore +
 > 1, productRepository.Find().Count());
 >
 >         }
 >
 >  
 >
->         <span style="color: blue">private</span> <span
-> style="color: blue">static</span> <span
-> style="color: #2b91af">FormCollection</span>
+>         <span style="color: blue">private <span
+> style="color: blue">static <span
+> style="color: #2b91af">FormCollection
 > CreateProductTestFormCollection()
 >
 >         {
 >
->             <span style="color: #2b91af">FormCollection</span> form =
-> <span style="color: blue">new</span> <span
-> style="color: #2b91af">FormCollection</span>();
+>             <span style="color: #2b91af">FormCollection form =
+> <span style="color: blue">new <span
+> style="color: #2b91af">FormCollection();
 >
 >             form.Add(<span
-> style="color: #a31515">"Product.Name"</span>, TESTFORM_NAME);
+> style="color: #a31515">"Product.Name", TESTFORM_NAME);
 >
 >             form.Add(<span
-> style="color: #a31515">"Product.Description"</span>,
+> style="color: #a31515">"Product.Description",
 > TESTFORM_DESCRIPTION);
 >
 >             form.Add(<span
-> style="color: #a31515">"SelectedOwnerID"</span>, <span
-> style="color: #2b91af">TestData</span>.TEST_PRODUCTOWNER_ID2.ToString());
+> style="color: #a31515">"SelectedOwnerID", <span
+> style="color: #2b91af">TestData.TEST_PRODUCTOWNER_ID2.ToString());
 >
 >  
 >
->             <span style="color: blue">return</span> form;
+>             <span style="color: blue">return form;
 >
 >         }
 >

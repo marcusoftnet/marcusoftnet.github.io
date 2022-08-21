@@ -48,7 +48,7 @@ Let's talk through this (only focus on the testingConfig.js file in this
 case):
 
 Line 3 starts the <span
-style="font-family: Courier New, Courier, monospace;">describe</span>-function.
+style="font-family: Courier New, Courier, monospace;">describe-function.
 This function takes a string and a callback function.
 
 -   Mocha will call all the describe-functions in your file one by one,
@@ -56,20 +56,20 @@ This function takes a string and a callback function.
     4-9).
 
 Line 4 calls the <span
-style="font-family: Courier New, Courier, monospace;">it</span>-function.
+style="font-family: Courier New, Courier, monospace;">it-function.
 Which takes a string (description) and a callback function.   
 
 -   For each describe-function Mocha will call the it-functions in it
     and the anonymous function we have created on line 5-7. 
 -   Note the parameter to this callback function (<span
-    style="font-family: 'Courier New', Courier, monospace;">done()</span>)
+    style="font-family: 'Courier New', Courier, monospace;">done())
 
 The it-function contains our assertions and is then finished by calling
 <span
-style="font-family: Courier New, Courier, monospace;">done()</span>
+style="font-family: Courier New, Courier, monospace;">done()
 
 -   <span style="font-family: inherit;">The done-function is used to
-    signal the end of our test. More about that later. </span>
+    signal the end of our test. More about that later. 
 
 ### How not to Node
 
@@ -78,7 +78,7 @@ about. Let's say that I want to return something from my function. Like
 this API that I started out doing a couple of days back:
 
 > <span style="font-family: Courier New, Courier, monospace;">var post =
-> getPostById(id);</span>
+> getPostById(id);
 
 Now that's just wrong. It's not the Node way and you'll get into trouble
 if you try to pursue that path. So let's do that and see what happens.
@@ -89,7 +89,7 @@ Ok so I wrote this code in my method:
 
 
 But I ended up returning <span
-style="font-family: Courier New, Courier, monospace;">undefined</span>.
+style="font-family: Courier New, Courier, monospace;">undefined.
 Every time. I couldn't understand why.
 This is my understanding of it:
 
@@ -115,7 +115,7 @@ Instead it looks something like this:
 
 > <span
 > style="font-family: 'Courier New', Courier, monospace;">getPostById(id,
-> callback);</span>
+> callback);
 
 </div>
 
@@ -153,7 +153,7 @@ Let's see what happens when someone tries to use this. First a test:
 
 When can see that we're nesting the callbacks and in the innermost
 callback we'll call out to <span
-style="font-family: Courier New, Courier, monospace;">done();</span>
+style="font-family: Courier New, Courier, monospace;">done();
 That function had me wondering when i started to do mocha testing. But
 now I understand. It will wait there until all the callbacks has
 completed. From the
@@ -170,20 +170,20 @@ ended up using it with sockets in Node.
 src="https://gist.github.com/marcusoftnet/9366464.js"\>
 
 Sockets is the sockets from Node and hence is non-blocking. So the <span
-style="font-family: Courier New, Courier, monospace;">socket.on()</span>
+style="font-family: Courier New, Courier, monospace;">socket.on()
 takes a string and a function. This function is called when someone
 calls the socket with the string ("post" in our example). We then call
 the <span
-style="font-family: Courier New, Courier, monospace;">createPost</span>
+style="font-family: Courier New, Courier, monospace;">createPost
 method that takes a ... callback, you guessed it. And it calls into the
 data access layer which takes callbacks and ...
 Finally all the callbacks has returned (and Node has done other things
 in the background which leads to it's awesome scalabilities) and we're
 back up in <span
-style="font-family: Courier New, Courier, monospace;">createPost</span>-anonymous
+style="font-family: Courier New, Courier, monospace;">createPost-anonymous
 callback block. We call broadcast an emit with "postAdded" and the post
 that was returned and we're done handling the callback block for <span
-style="font-family: Courier New, Courier, monospace;">socket.on("post")</span>
+style="font-family: Courier New, Courier, monospace;">socket.on("post")
 
 Yeah, I needed some oxygen to when I tried to follow that. This is cool
 and everything, but there must be a easier way. Now doesn't it?

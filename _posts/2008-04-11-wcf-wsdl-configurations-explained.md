@@ -22,27 +22,27 @@ The attributes that you should set are:
     targetNamepace in the wsdl (instead of <http://tempuri.org/>). Also
     you should use this namespace in the endpoint, with the
     bindingNamespace-attribute in the config-file:
-    <span style="font-family:courier new;">\<endpoint
-    bindingNamespace="</span>[<span
-    style="font-family:courier new;">http://www.marcusoft.net/Services/</span>](http://www.marcusoft.net/Services/)"<span
-    style="font-family:courier new;"> /\></span>
+    \<endpoint
+    bindingNamespace="[<span
+    style="font-family:courier new;">http://www.marcusoft.net/Services/](http://www.marcusoft.net/Services/)"<span
+    style="font-family:courier new;"> /\>
 -   **ServiceBehavior.ConfigurationName** - this is the name that you
     use as service name in the configuration file:
-    <span style="font-family:courier new;">\<service name="OffertTjanst"
+    \<service name="OffertTjanst"
     \>
-    </span>
+
 -   **ServiceBehavior.Name** - the name property has solely to do with
     the generated wsdl-file. It is generated as the Name-attribute in
     the wsdl-file:
-    <span style="font-family:courier new;">\<wsdl:definitions
+    \<wsdl:definitions
     name="ListDataTjanst" ...
-    </span>
+
 -   **ServiceContract.ConfigurationName** - (note: this is on the
     interface, service contract, all other attributes are on the service
     implementation) this name is used to reference the interface in the
     endpoint:
-    <span style="font-family:courier new;">\<endpoint address="..."
-    binding="..." contract="OffertContract" /\></span>
+    \<endpoint address="..."
+    binding="..." contract="OffertContract" /\>
 
 As i said at the start. These are the configurations i think are
 important - and the ones i feel really comfortable with... up to now.

@@ -40,16 +40,16 @@ So this is what you really need to configure on your service:
 Here is an example:
 <span style="font-family: courier new">\<system.serviceModel\>
 \<services\>
-</span><span style="font-family: courier new">  \<service
+<span style="font-family: courier new">  \<service
 name="Tjanster.ListDataTjanst"\>
    \<endpoint
       address=""
       binding="wsHttpBinding"            
       contract="Tjanster.Contracts.IListData" 
-   </span><span style="font-family: courier new">/\>
+   <span style="font-family: courier new">/\>
   \</service\>
-\</services\></span><span style="font-family: courier new">
-\</system.serviceModel\></span>
+\</services\><span style="font-family: courier new">
+\</system.serviceModel\>
 
 That's it! A bit more easy to read and understand the 50+ attributes
 that Visual Studio generates for you.
@@ -66,7 +66,7 @@ the endpoint you're using. Like this:
      contract="svcListData.ListDataTjanst"
    /\>
 \</client\>
-\</system.serviceModel\></span>
+\</system.serviceModel\>
 
 I am working on some details for how ConfigurationName, Name and
 Namespace relates to all this but I'll get back to that when i know how

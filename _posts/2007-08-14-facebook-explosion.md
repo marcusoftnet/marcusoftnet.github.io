@@ -13,21 +13,21 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/facebook-explosion.html
 ---
 
 OK -
-something has <span>="blsp-spelling-corrected">happened</span> on the net when i was on
+something has happened on the net when i was on
 vacation. The new site [www.facebook.com](http://www.facebook.com/) has
 suddenly exploded. With people, with functions and foremost with
 activity...
 
-I just <span>="blsp-spelling-corrected">heard</span> about before leaving but
+I just heard about before leaving but
 suddenly **everyone** has a account and is writing in guestbooks and
 adding photos.
 
 There are some quite cool functionality in there but all in all i am
 getting a bit annoyed by all these stay-in-touch-sites. I mean, who
 really has the time to maintain a work-network on <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">LinkedIn</span>,
-friend network on <span>="blsp-spelling-error">facebook</span> and a network of old
+id="SPELLING_ERROR_2" class="blsp-spelling-error">LinkedIn,
+friend network on facebook and a network of old
 schoolmates on whatever.com.
 
 Well, well it's always fun to meet friends so <span
-id="SPELLING_ERROR_4" class="blsp-spelling-error">i'll</span> tag along
+id="SPELLING_ERROR_4" class="blsp-spelling-error">i'll tag along

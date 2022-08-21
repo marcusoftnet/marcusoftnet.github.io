@@ -387,14 +387,14 @@ through the code. It's a mouth full but by no means complicated
 On line 6-15 is the constructor of the wrapper. Here we set up a
 Nancy.Testing.Browser indicating that we'll be using the <span
 style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">FairyTaleFigureModule
-</span>to test against.
+to test against.
 We store the browser object in a private field since we'll be using that
 all over the class. 
 
 -   On line 13 (brrr) we're setting up the dependency for the module,
     our <span
     style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">FairyTaleFigureRepository
-    </span>s. As before we using the production repository since we have
+    s. As before we using the production repository since we have
     already mocked out the data access with Simple.Data (see the
     Event-file above)
 
@@ -410,11 +410,11 @@ finally a number of hangarounds. 
 -   and finally do a GET to the newly created fairy tale figure. The
     results of the GET is stored in the <span
     style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">\_latestResponse
-    </span>variable for use in later methods.
+    variable for use in later methods.
 
 The rest of the methods (line 38-64) are small verification methods in
 which we assert against the stored response (<span
-style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">\_latestResponse</span>)
+style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">\_latestResponse)
 and verify that the name and evilness of the figured got rendered on the
 page properly. Or that all the hangarounds are as evil as their master
 (line 60-64).
@@ -444,7 +444,7 @@ Just a few notes on this:
 -   I'm trying to keep the code in the "routes" to a minimum and hand it
     of to private methods. I think that's a good idea for readability. 
 -   Not proud of the code in <span
-    style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">BindHangarounds</span> but
+    style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">BindHangarounds but
     I hope that someone will correct and help me writing something more
     ... Nancy-like there
 -   The repository is opening the Simple.Data -database in it's

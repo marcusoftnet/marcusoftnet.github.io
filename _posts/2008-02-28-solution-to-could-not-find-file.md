@@ -20,5 +20,5 @@ ClickOnce security settings-checkbox under
 Projects-\>Properties-\>Security.
 
 A better solution is the extract the code that is to be tested to an own
-project, but <span>="blsp-spelling-corrected">I'll</span> use the above for now. We're
-only using <span>="blsp-spelling-error">ClickOnce</span> for testing environments.
+project, but I'll use the above for now. We're
+only using ClickOnce for testing environments.

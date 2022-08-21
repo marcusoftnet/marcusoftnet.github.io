@@ -139,7 +139,7 @@ data-border="0" width="320" height="184" /></a>
 
 </div>
 
-#### <span style="font-size: 19px; font-weight: bold;">Conclusion</span>
+#### <span style="font-size: 19px; font-weight: bold;">Conclusion
 
 Of course this can be used on the command line, in your build script
 etc. to not have to run through all the tests on every check-in for

@@ -179,7 +179,7 @@ data-border="0" width="400" height="300" /></a>
 
 <span style="text-align: left;">I think it took about 1 hour and I did
 only help them to stay on track in their discussions, trying to remember
-to address all the branches we created. </span>
+to address all the branches we created. 
 
 </div>
 

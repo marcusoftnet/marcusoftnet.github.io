@@ -20,5 +20,5 @@ That would be something to dream of
 Pretty cool that a new Sovereign models is released. I always thought
 that Besson had abandonded them for Prestige. The Prestige is just to
 expensive for hobby-players like myself... maybe when I am a
-millionaire..<span style="color:#000000;">
-</span><span style="color:#000000;"></span>
+millionaire..
+

@@ -12,13 +12,13 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-ope
 ---
 
 This warning occurs when doing testing with <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">MSTest</span> and
+id="SPELLING_ERROR_0" class="blsp-spelling-error">MSTest and
 running the test under code coverage. It is related to the warning
-"<span style="font-family:courier new;">warning <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">VSP</span>2013:
+"warning <span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">VSP2013:
 Instrumenting this image requires it to run as a 32-bit process. The
-<span id="SPELLING_ERROR_2" class="blsp-spelling-error">CLR</span>
-header flags have been updated to reflect this.</span>"
+CLR
+header flags have been updated to reflect this."
 
 and has confused me a lot. Especially since, when running the tests in a
 build script, the warning seems to come and go.
@@ -28,26 +28,25 @@ post](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2149662&SiteID=1));
 here is what you need to do:
 
 -   Find the test configuration file <span id="SPELLING_ERROR_3"
-    class="blsp-spelling-corrected">you're</span> using for the test run
+    class="blsp-spelling-corrected">you're using for the test run
     under code coverage. It is <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-corrected">usually</span> called <span
-    style="font-family:courier new;"><span>LocalTestRun</span>.<span
+    class="blsp-spelling-corrected">usually called <span
+    style="font-family:courier new;">LocalTestRun.<span
     id="SPELLING_ERROR_6"
-    class="blsp-spelling-error">testrunconfig</span></span> and resides
+    class="blsp-spelling-error">testrunconfig and resides
     in the solution root.
 -   Open the file in a XML-editor
--   Find all the <span style="font-family:courier new;"><span
+-   Find all the <span
     id="SPELLING_ERROR_7"
-    class="blsp-spelling-error">CodeCoverageItem</span></span>-elements
+    class="blsp-spelling-error">CodeCoverageItem-elements
     change (or add) the attribute
-    <span style="font-family:courier new;"><span>instrumentInPlace</span></span> from
+    instrumentInPlace from
     "**true**" to "**false**"
 -   Save and rerun - works like a charm
 
-But hey, I can hear some people say, what is that <span
-style="font-family:courier new;"><span>="blsp-spelling-error">instrumentInPlace</span></span>-attribute?
-Well that's the <span>="blsp-spelling-error">hmrpf</span>... <span>="blsp-spelling-error">mmm</span> ... <span>="blsp-spelling-error">eeeh</span> - I don't know, to be honest.
-From [the <span>="blsp-spelling-error">MSDN</span>-help](http://msdn.microsoft.com/en-us/library/ms243141.aspx)
+But hey, I can hear some people say, what is that instrumentInPlace-attribute?
+Well that's the hmrpf... mmm ... eeeh - I don't know, to be honest.
+From [the MSDN-help](http://msdn.microsoft.com/en-us/library/ms243141.aspx)
 I only get confused:
 
 "If you need to gather code coverage information while you are testing

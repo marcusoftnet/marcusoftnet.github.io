@@ -48,8 +48,8 @@ many of the thoughts of lean but it's also quite boring.
 
 We, Aptitud, want something different. We want to build a hub in a
 knowledge network that is bigger than our company. We are building our
-company on [<span id="goog_1654367313"></span>trust<span
-id="goog_1654367314"></span>](http://www.blogger.com/), transparency and
+company on [<span id="goog_1654367313">trust<span
+id="goog_1654367314">](http://www.blogger.com/), transparency and
 having fun at work.
 
 I will of course come back to this a lot of time but let me give you two

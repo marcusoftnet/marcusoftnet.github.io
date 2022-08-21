@@ -2,8 +2,8 @@
 layout: post
 title: Move the authority to the information, and not
 the other way around
-date: '2014-06-05T06:39:00.001+02:00' author:
-Marcus Hammarberg
+date: '2014-06-05T06:39:00.001+02:00'
+author: Marcus Hammarberg
 tags:
   - Marcus private
   - Lean

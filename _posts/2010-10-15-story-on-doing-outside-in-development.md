@@ -291,7 +291,7 @@ data-border="0" width="320" height="49" /></a>
 
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Let’s write an
-application</span>
+application
 Now some code was needed in the web application. Marcus needed to get
 the page working and listing the features… which in turn meant that he
 had to pull the features from the service that Thomas had made.

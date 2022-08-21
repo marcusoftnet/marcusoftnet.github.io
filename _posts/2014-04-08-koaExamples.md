@@ -73,10 +73,10 @@ There's <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
 target="_blank">one package.json</a> for all the examples, which is
 awesome because that means that we can do "<span
 style="font-family: Courier New, Courier, monospace;">npm
-install</span>" in the root and get all the examples. All examples must
+install" in the root and get all the examples. All examples must
 be run with the <span
 style="font-family: Courier New, Courier, monospace;">"node
---harmony</span>" flag,
+--harmony" flag,
 <a href="http://www.marcusoft.net/2014/03/koaintro.html"
 target="_blank">as described earlier</a>.
 
@@ -85,9 +85,9 @@ target="_blank">as described earlier</a>.
 The first example that I recommend that you look at is the /blog
 example. Head into that directory and fire the site up (with "<span
 style="font-family: Courier New, Courier, monospace;">node --harmony
-index.js</span>" or better yet "<span
+index.js" or better yet "<span
 style="font-family: Courier New, Courier, monospace;">nodemon --harmony
-index.js</span>").
+index.js").
 Most of the action goes on in the single index.js file:
 
 This site is very basic of course but shows off a number of features
@@ -95,9 +95,9 @@ This site is very basic of course but shows off a number of features
 
 -   On line 7 we're including <span
     style="font-family: Courier New, Courier, monospace;"><a href="https://www.npmjs.org/package/koa-logger"
-    target="_blank">koa-logger</a></span> and make sure to use it on
+    target="_blank">koa-logger</a> and make sure to use it on
     line 20 (<span
-    style="font-family: Courier New, Courier, monospace;">app.use(logger())</span>).
+    style="font-family: Courier New, Courier, monospace;">app.use(logger())).
     This produce some very handy and nice output in the console. I use
     it for most of my sites. 
 -   Routing we've seen before and it's very simple to use, since it
@@ -105,18 +105,18 @@ This site is very basic of course but shows off a number of features
     <a href="http://expressjs.com/" target="_blank">ExpressJs</a>. It's
     of course a package of it's own, <span
     style="font-family: Courier New, Courier, monospace;"><a href="https://www.npmjs.org/package/koa-route"
-    target="_blank">koa-route</a>.</span>
+    target="_blank">koa-route</a>.
 -   With <span
     style="font-family: Courier New, Courier, monospace;"><a href="https://www.npmjs.org/package/co-body"
-    target="_blank">co-body</a> </span><span
+    target="_blank">co-body</a> <span
     style="font-family: inherit;">you can easily parse the content of a
     posted payload to an object. Note, on line 10 that the variable,
     from the require-statement is called parse. This is then used on
-    line 62 to parse the request (</span><span
+    line 62 to parse the request (<span
     style="font-family: Courier New, Courier, monospace;">var post =
-    yield parse(this);</span>)
+    yield parse(this);)
     The "<span
-    style="font-family: Courier New, Courier, monospace;">this</span>"
+    style="font-family: Courier New, Courier, monospace;">this"
     here might confuse you, shouldn't it be request? I have a little
     section on that below. 
 -   This site uses a view engine to called
@@ -127,15 +127,15 @@ This site is very basic of course but shows off a number of features
     simple as shown on line 35. Notice how we're passing the data, as
     the second parameter (<span
     style="font-family: Courier New, Courier, monospace;">{ posts: posts
-    }</span>). This can then be picked up by the partial view
+    }). This can then be picked up by the partial view
     (list.html) and looped over with <span
     style="font-family: Courier New, Courier, monospace;">{{ "{%" }} for
-    post in posts %}</span>
+    post in posts %}
     <span style="font-family: inherit;">Read more about templates and
     supported engines on the
     <a href="https://www.npmjs.org/package/co-views"
-    target="_blank">co-views npm-page</a></span><span
-    style="font-family: Courier New, Courier, monospace;">.</span>
+    target="_blank">co-views npm-page</a><span
+    style="font-family: Courier New, Courier, monospace;">.
 
 All in all this is a very good entry example I think. A nice little
 exercise could be to replace the in-memory storage with Mongo. Psst...
@@ -161,11 +161,11 @@ a couple of times:
 
 First, the request and response is baked into the Context object. This
 actually works better than you would think. <span
-style="font-family: Courier New, Courier, monospace;">ctx.header</span>
+style="font-family: Courier New, Courier, monospace;">ctx.header
 is just a shortcut to the header of the
 <a href="http://koajs.com/#request" target="_blank">Request</a> object
 and <span
-style="font-family: Courier New, Courier, monospace;">ctx.status</span>
+style="font-family: Courier New, Courier, monospace;">ctx.status
 hence is used to manipulate the status of the
 <a href="http://koajs.com/#response" target="_blank">Response</a>
 object.
@@ -173,19 +173,19 @@ object.
 You can get hold of some useful things from the Context object
 
 -   <span
-    style="font-family: Courier New, Courier, monospace;">ctx.app</span>
+    style="font-family: Courier New, Courier, monospace;">ctx.app
     is the application instance for your application.
 -   <span
     style="font-family: Courier New, Courier, monospace;">ctx.Request
-    </span>is the
+    is the
     Koa <a href="http://koajs.com/#request" target="_blank">Request</a> object.
     Note the difference to the <span
-    style="font-family: Courier New, Courier, monospace;">ctx.req</span>
+    style="font-family: Courier New, Courier, monospace;">ctx.req
     which is the Node request object. 
 -   <span
-    style="font-family: Courier New, Courier, monospace;">ctx.Response</span>
+    style="font-family: Courier New, Courier, monospace;">ctx.Response
     and <span
-    style="font-family: Courier New, Courier, monospace;">ctx.res</span>
+    style="font-family: Courier New, Courier, monospace;">ctx.res
     is
     the <a href="http://koajs.com/#response" target="_blank">Response</a> and
     Node response
@@ -194,13 +194,13 @@ You can get hold of some useful things from the Context object
 
 This makes for very succinct and terse code, since almost everything you
 need comes from the context and can be found on the <span
-style="font-family: Courier New, Courier, monospace;">this</span>
+style="font-family: Courier New, Courier, monospace;">this
 object. For example, take a look at lines 62 and 67 of the
 <a href="https://gist.github.com/marcusoftnet/9912981"
 target="_blank">example above</a>. Parse the incoming request? <span
-style="font-family: Courier New, Courier, monospace;">parse(this)</span>
+style="font-family: Courier New, Courier, monospace;">parse(this)
 of course. Redirect the response? <span
-style="font-family: Courier New, Courier, monospace;">this.redirect('/');</span> 
+style="font-family: Courier New, Courier, monospace;">this.redirect('/'); 
  
 
 </div>
@@ -225,7 +225,7 @@ logged to standard output (stderr) unless the NODE_ENV is test. But you
 can easily create a global error hook to do your own error handling.
 Just do <span
 style="font-family: Courier New, Courier, monospace;">app.on('err',
-function(err){});</span> and you can do your stuff there. 
+function(err){}); and you can do your stuff there. 
 
 </div>
 
@@ -347,16 +347,16 @@ testing both returned a nicely formatted error but also emitted an error
 event? 
 
 -   Since we have a reference of the <span
-    style="font-family: Courier New, Courier, monospace;">app</span>
+    style="font-family: Courier New, Courier, monospace;">app
     (from line 1) we can now setup an subscription for the "error"
     event. But it should happens only once. 
 -   Once it happens we check the .<span
-    style="font-family: Courier New, Courier, monospace;">message</span>
+    style="font-family: Courier New, Courier, monospace;">message
     of the passed in <span
-    style="font-family: Courier New, Courier, monospace;">err</span>-parameter.
+    style="font-family: Courier New, Courier, monospace;">err-parameter.
      
 -   We also get the context (<span
-    style="font-family: Courier New, Courier, monospace;">ctx</span>)
+    style="font-family: Courier New, Courier, monospace;">ctx)
     passed in and can check the status of that. 
 
 <div>
@@ -396,17 +396,17 @@ this easy:
 
 -   Line 1 requires the koa-basic-auth middleware. Note that we call
     this variable <span
-    style="font-family: Courier New, Courier, monospace;">auth</span>
+    style="font-family: Courier New, Courier, monospace;">auth
 -   Line 22 is the secret sauce. Here's we simply tell the <span
-    style="font-family: Courier New, Courier, monospace;">app</span> to
+    style="font-family: Courier New, Courier, monospace;">app to
     <span
-    style="font-family: Courier New, Courier, monospace;">use</span>
+    style="font-family: Courier New, Courier, monospace;">use
     the <span
     style="font-family: 'Courier New', Courier, monospace;">auth
-    </span><span style="font-family: inherit;">function</span>, for the
+    <span style="font-family: inherit;">function, for the
     listed <span
     style="font-family: Courier New, Courier, monospace;">name -
-    pass</span> objects.  
+    pass objects.  
 -   Lines 7-18 sees us use an similar try..catch for all the request
 
 <div>
@@ -449,7 +449,7 @@ Arguably this example is a bit overlong... Here are the important parts:
 
 -   Line 36 set's up the content types we accepts, by using the <span
     style="font-family: Courier New, Courier, monospace;">app.accepts()
-    </span>function. 
+    function. 
 -   Note that we store the response in a type variable that we then can
     use to filter the responses with. 
 -   Line 38 checks that we got something we can use
@@ -482,45 +482,45 @@ Let's go through the production code first:
 
 First stuff that's interesting is lines 9 and 11. Here's we require the
 co-monk library and store that in a variable called <span
-style="font-family: Courier New, Courier, monospace;">wrap</span>. That
+style="font-family: Courier New, Courier, monospace;">wrap. That
 can then be used to create a collection-like variable for easy access,
 as we do on line 11, we call is <span
-style="font-family: Courier New, Courier, monospace;">users</span>. 
+style="font-family: Courier New, Courier, monospace;">users. 
 
 And exposes the users to our tests on line 14, <span
 style="font-family: Courier New, Courier, monospace;">module.exports.users
-= users;</span>
+= users;
 
 <span style="font-family: inherit;">We use the
 <a href="https://www.npmjs.org/package/co-body"
 target="_blank">co-body</a> library to parse the requests into JSON
-objects. Look at line 28 for example. </span>
+objects. Look at line 28 for example. 
 
 <span style="font-family: inherit;">The
 <a href="https://github.com/visionmedia/monk" target="_blank">monk
 interface</a> is exposed through the
 <a href="https://www.npmjs.org/package/co-monk" target="_blank">co-monk
 library</a>. This is awesome, since that means that we can have
-interaction with our user collection like this:</span>
+interaction with our user collection like this:
 
--   <span style="font-family: inherit;">Insert : </span><span
+-   <span style="font-family: inherit;">Insert : <span
     style="font-family: Courier New, Courier, monospace;">yield
-    users.insert(user);</span>
+    users.insert(user);
 -   Find all: <span
     style="font-family: Courier New, Courier, monospace;">var res =
-    yield users.find({});</span>
+    yield users.find({});
 -   Find one: <span
     style="font-family: Courier New, Courier, monospace;">var res =
-    yield users.findOne({\_id:id});</span>
+    yield users.findOne({\_id:id});
 -   Update via id: <span
     style="font-family: Courier New, Courier, monospace;">yield
-    users.updateById(id, user);</span>
+    users.updateById(id, user);
 -   Update via other property: <span
     style="font-family: Courier New, Courier, monospace;">yield
-    users.update({name: 'Marcus'}, user);</span>
+    users.update({name: 'Marcus'}, user);
 -   Delete: <span
     style="font-family: Courier New, Courier, monospace;">yield
-    users.remove({\_id:id});</span>
+    users.remove({\_id:id});
 
 <div>
 
@@ -537,11 +537,11 @@ Ok, let's take a look that the test code:
 
 
 First thing to notice here is the <span
-style="font-family: Courier New, Courier, monospace;">removeAll</span>-function
+style="font-family: Courier New, Courier, monospace;">removeAll-function
 that we use in the <span
-style="font-family: Courier New, Courier, monospace;">beforeEach</span>
+style="font-family: Courier New, Courier, monospace;">beforeEach
 and <span
-style="font-family: Courier New, Courier, monospace;">after</span>-hooks:
+style="font-family: Courier New, Courier, monospace;">after-hooks:
 
 -   We're using the <a href="https://www.npmjs.org/package/co"
     target="_blank">co-library</a> here to wrap the functionality of our
@@ -553,7 +553,7 @@ style="font-family: Courier New, Courier, monospace;">after</span>-hooks:
     everything and yield to get the "async" behaviour we want.
 -   Note that the co-function takes the done-variable as parameter;
     <span
-    style="font-family: Courier New, Courier, monospace;">co(...)(done);</span>
+    style="font-family: Courier New, Courier, monospace;">co(...)(done);
     This is a bit of trickery that first tripped me up. I'm not sure I
     understand it fully but this works at least. And it makes sense in a
     way to; first to this (inside of the co-function) and then call
@@ -610,7 +610,7 @@ Simple but useful
 This examples doesn't use routing... at least not the koa-routes we've
 come to love. Instead the single route handling (lines 31-46) checks the
 <span
-style="font-family: Courier New, Courier, monospace;">this.method</span> for
+style="font-family: Courier New, Courier, monospace;">this.method for
 posts and just ignores everything that isn't.  
 
 -   This means that for the public-directory (that serves static files,
@@ -634,23 +634,23 @@ with uploads. Let's look at the uploading parts:
 <div>
 
 First, line 8 sets up a <span
-style="font-family: Courier New, Courier, monospace;">parse</span>
+style="font-family: Courier New, Courier, monospace;">parse
 variable, by requiring the <a href="http://npmjs.org/package/co-busboy"
 target="_blank">co-busboy</a> library (man, for some of those name, I
 guess that you had to be in the room when they were named...). This is a
 little handy library that helps us to parse multi-part requests. File
 uploads are always multipart (I think... at least mostly) and we are
 legio that have forgotten '<span
-style="font-family: Courier New, Courier, monospace;">enctype="multipart/form-data"</span>'
+style="font-family: Courier New, Courier, monospace;">enctype="multipart/form-data"'
 on our forms.
 
 With the parse-functionality that co-busboy gives us we can do "<span
 style="font-family: Courier New, Courier, monospace;">var parts =
-parse(this);". </span><span style="font-family: inherit;">This gives us
+parse(this);". <span style="font-family: inherit;">This gives us
 the different part of the the multipart request and we can then loop and
-yield through each of them</span><span
+yield through each of them<span
 style="font-family: Courier New, Courier, monospace;"> "while (part =
-yield parts)</span>"
+yield parts)"
 
 co-busboy is a convoluted in that the parts that you parse out can be
 one of the two types (read more on
@@ -659,9 +659,9 @@ target="_blank">co-busboy</a> npm page):
 
 -   Either it is an array, and then it holds values in key-value pairs
     (key in <span
-    style="font-family: Courier New, Courier, monospace;">part\[0\]</span>,
+    style="font-family: Courier New, Courier, monospace;">part\[0\],
     value in <span
-    style="font-family: Courier New, Courier, monospace;">part\[1\]</span>)
+    style="font-family: Courier New, Courier, monospace;">part\[1\])
 -   If it's not an array (aka plain old form values), well then it is a
     stream. This comes handy just now.
 
@@ -670,11 +670,11 @@ With co-busboy we can now easily store the stream to disk:
 -   We create a writeStream (<span
     style="font-family: Courier New, Courier, monospace;">var stream =
     fs.createWriteStream('/tmp/' + Math.random() +
-    part.filename);</span>) 
+    part.filename);) 
 -   pipe the <span
-    style="font-family: Courier New, Courier, monospace;">part</span> to
+    style="font-family: Courier New, Courier, monospace;">part to
     the stream.  Since the <span
-    style="font-family: Courier New, Courier, monospace;">part</span> is
+    style="font-family: Courier New, Courier, monospace;">part is
     a stream we just pipe it onto the writeStream.
     Yeah, you <a href="https://github.com/substack/stream-handbook"
     target="_blank">probably need to grok streams</a> to fully
@@ -717,10 +717,10 @@ Streaming now becomes very easy and can reduced to a one-line (line 13).
 Let's break it down:
 
 -   <span
-    style="font-family: Courier New, Courier, monospace;">fs.createReadStream(path)</span>
+    style="font-family: Courier New, Courier, monospace;">fs.createReadStream(path)
     simply creates a readStream (a stream for reading, Marcus...)
 -   this readstream is then assigned to the <span
-    style="font-family: Courier New, Courier, monospace;">this.body</span>
+    style="font-family: Courier New, Courier, monospace;">this.body
     property. Meaning that we stream the file back to the body. 
 -   finally we save a reference to the stream to be used in the clean up
     (see next bullet)
@@ -729,7 +729,7 @@ Line 2 sees us require
 the <a href="https://www.npmjs.org/package/finished"
 target="_blank">finished</a>-library (that "Execute a callback when a
 request closes, finishes, or errors") to a <span
-style="font-family: Courier New, Courier, monospace;">onFinished</span> variable.
+style="font-family: Courier New, Courier, monospace;">onFinished variable.
 I told you these things were tiny. 
 
 -   This is then used on the last line of our request to ensure we close

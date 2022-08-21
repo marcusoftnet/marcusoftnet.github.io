@@ -16,5 +16,5 @@ Foundation Server 2008:
 <http://msdn2.microsoft.com/en-us/teamsystem/bb964499.aspx>
 
 
-<span id="SPELLING_ERROR_0" class="blsp-spelling-error">Oooh</span> -
+Oooh -
 soon we will be there... I long for it... I want it... my precious

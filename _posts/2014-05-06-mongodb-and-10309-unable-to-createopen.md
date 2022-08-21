@@ -2,8 +2,8 @@
 layout: post
 title: MongoDb and the "10309 Unable to create/open
 lock file" on Ubuntu
-date: '2014-05-06T15:33:00.000+02:00' author:
-Marcus Hammarberg
+date: '2014-05-06T15:33:00.000+02:00'
+author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools - Life of a
@@ -25,7 +25,7 @@ Mongo installation dies on me with an error like this:
 > <span style="font-family: Courier New, Courier, monospace;">10309
 > Unable to create/open lock file: /data/db/mongod.lock errno:13
 > Permission denied Is a mongod instance already running?,
-> terminating</span>
+> terminating
 
 Yeah, I didn't get that either. The actual error is not hard to
 understand, there's some kind of permission needed on the

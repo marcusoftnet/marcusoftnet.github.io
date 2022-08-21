@@ -51,6 +51,6 @@ Find my short version below
     2005\My Exported Templates-folder and restart the studio
 8.  Viola!
 
-This solves some of the <span>="blsp-spelling-error">namespace</span> problem but the
+This solves some of the namespace problem but the
 folder-problem (i.e. if you create a folder in your project and put the
 class in there) is not solved... yet.

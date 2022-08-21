@@ -13,19 +13,11 @@ blogger_orig_url: http://www.marcusoft.net/2007/01/tuba-circus-dont-try-this-at-
 OK - found this on a site and it just blew my mind!
 
 I've actually heard that piece with
-<a href="http://www.baadsvik.com/" target="_blank"><span
-id="SPELLING_ERROR_0" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Øystein</span> <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Baadsvik</span></a> before but it
+<a href="http://www.baadsvik.com/" target="_blank">Øystein Baadsvik</a> before but it
 still amazing.
 
-For all non-<span>="blsp-spelling-corrected">brass players</span> - this is more or
-less impossible stuff. Imagine a footballer doing a <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">tripple</span>-<span
-id="SPELLING_ERROR_4" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">salkov</span> and kicking a basketball
+For all non-brass players - this is more or
+less impossible stuff. Imagine a footballer doing a tripple-salkov and kicking a basketball
 into the top corner of a goal from 200 meters - and you are close in how
 hard this is.
 

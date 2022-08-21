@@ -20,7 +20,7 @@ data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/SAcGzrgJ0AI/AAAAAAAAAT
 <div>
 
 I can't withhold this sweet picture. It is from the Youth Brass Band
-Championships in Great <span>="blsp-spelling-corrected">Britain</span> held last weekend. Note
+Championships in Great Britain held last weekend. Note
 that she's not even holding a normal cornet, it is smaller than a
 regular cornet. But she is still playing a singing E. What a
 concentrated face!

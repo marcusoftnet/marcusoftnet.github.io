@@ -14,15 +14,15 @@ blogger_orig_url: http://www.marcusoft.net/2008/02/could-not-find-file-microsoft
 
 We have encountered a quite annoying bug when creating a <span
 id="SPELLING_ERROR_0" class="blsp-spelling-corrected">test
-project</span> that references a Windows application. The Windows
-application have been deployed via <span>="blsp-spelling-error">ClickOnce</span> and that when the <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">testproject</span>
+project that references a Windows application. The Windows
+application have been deployed via ClickOnce and that when the <span
+id="SPELLING_ERROR_2" class="blsp-spelling-error">testproject
 stopped compiling.
 
 In the test project we got the "Could not find file
 'Microsoft.Windows.CommonLanguageRuntime" error message on <span
 id="SPELLING_ERROR_3"
-class="blsp-spelling-corrected">compilation</span>.
+class="blsp-spelling-corrected">compilation.
 
 Here is an article describing that problem:
 <http://support.microsoft.com/kb/907757>. No very good solution though.

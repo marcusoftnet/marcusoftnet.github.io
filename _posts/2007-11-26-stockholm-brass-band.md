@@ -12,8 +12,8 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/stockholm-brass-band.html
 ---
 
 I got the
-<span>="blsp-spelling-corrected">opportunity</span> to play with [<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Stockholms</span>
+opportunity to play with [<span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">Stockholms
 Brass Band](http://www.stockholmbrass.se/) this weekend. First baritone
 this time.
 
@@ -21,13 +21,13 @@ What a great bunch of guys! Really nice people and the playing was at a
 very high level. If they met a little more often they could kick some
 serious ... in any competition.
 
-Yesterday <span>="blsp-spelling-error">Håkan</span> <span>="blsp-spelling-error">Björkman</span>, <span>="blsp-spelling-corrected">solo trombonist</span> of the Royal
-Swedish Opera, blew the <span>="blsp-spelling-corrected">audience</span> away with a <span
+Yesterday Håkan Björkman, solo trombonist of the Royal
+Swedish Opera, blew the audience away with a <span
 id="SPELLING_ERROR_6"
-class="blsp-spelling-corrected">unbelievable</span> performance of a
-<span id="SPELLING_ERROR_7" class="blsp-spelling-corrected">crazy</span>
-hard piece called <span>="blsp-spelling-error">Doolalynastics</span>. What a player! I am
+class="blsp-spelling-corrected">unbelievable performance of a
+<span id="SPELLING_ERROR_7" class="blsp-spelling-corrected">crazy
+hard piece called Doolalynastics. What a player! I am
 truly amazed of his skills.
 
 [Here is a video](http://www.stockholmbrass.se/Videoklipp.htm) from the
-concert when we are playing the <span>="blsp-spelling-error">marsch</span> Celebrate Rotary.
+concert when we are playing the marsch Celebrate Rotary.

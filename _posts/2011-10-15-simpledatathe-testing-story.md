@@ -461,7 +461,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">Using a repository</span>
+style="font-size: 19px; font-weight: bold;">Using a repository
 In start of this post I said that the Simple.Data helps to write less
 code. Maybe so that we don’t need to use a separate repository. But
 maybe you want to use one anyway. To be able to mock out the repository
@@ -724,7 +724,7 @@ As you can see this gives me the ability to test out the code in the
 repository.
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">The future of mocking in
-Simple.Data</span>
+Simple.Data
 
 In the GitHub repository there is a branch
 (<a href="https://github.com/markrendle/Simple.Data/tree/dict-query"
@@ -845,7 +845,7 @@ actually took a stab of implementing it myself but when I saw that Mark
 had it in place already I thought I help him writing some documentation
 instead . This blog post is a start.
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">Conclusion</span>
+style="font-size: 19px; font-weight: bold;">Conclusion
 I am very impressed that Mark Rendle has supplied a mocking possibility
 with Simple.Data. It gives us a way to mock out the absolutely lowest
 level of database interaction, giving us the possibilities to test the

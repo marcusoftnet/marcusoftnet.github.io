@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/cool-wcf-utilis.html
 
 From the [last
 post](http://www.marcusoft.net/2008/08/i-like-powercommands-for-visual-studio.html)
-I found a new URL for [code stuff from <span>MSDN</span>](http://code.msdn.microsoft.com/)
+I found a new URL for [code stuff from MSDN](http://code.msdn.microsoft.com/)
 that I never heard about before. But this place is golden, golden I tell
 you.
 
@@ -20,6 +20,6 @@ Here are two small nuggets that I found in my first try:
 
 - <http://code.msdn.microsoft.com/FileTransportChannel>>
 - <http://code.msdn.microsoft.com/WCFExtras>> - that contain, among
-    other things, an implementation to get <span>WSDL</span> in a single file (that
-    [Christian <span>Weyer</span> does
+    other things, an implementation to get WSDL in a single file (that
+    [Christian Weyer does
     here](http://www.marcusoft.net/2008/08/wcf-wsdl-and-differences-from-web.html))

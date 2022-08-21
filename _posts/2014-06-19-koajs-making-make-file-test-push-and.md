@@ -45,7 +45,7 @@ But... In one regard I have lied. I told
 (friend and role model) that I could push to production with a single
 command. While that was true the command (<span
 style="font-family: Courier New, Courier, monospace;">git push heroku
-master</span>) did just that. Push to Heroku. But I wanted it to test my
+master) did just that. Push to Heroku. But I wanted it to test my
 code, version it, push to GitHub and then push to Heroku. You know - all
 the continuous delivery stuff.
 
@@ -68,13 +68,13 @@ know them).
 
 With the <a href="http://en.wikipedia.org/wiki/Make_(software)"
 target="_blank"><span
-style="font-family: Courier New, Courier, monospace;">make</span>
+style="font-family: Courier New, Courier, monospace;">make
 utility</a>, found on LINUX and OS X systems you can very easily define
 tasks and then chain them together to form more advanced commands. For
 example this creates a task named <span
-style="font-family: Courier New, Courier, monospace;">test</span> that
+style="font-family: Courier New, Courier, monospace;">test that
 runs <span
-style="font-family: Courier New, Courier, monospace;">mocha</span> with
+style="font-family: Courier New, Courier, monospace;">mocha with
 a lot of flags that I couldn't care less of typing.
 
 
@@ -101,14 +101,14 @@ course needs to be installed in your node_modules-folder. Preferably you
 do that with:
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install semver --save-dev</span>
+> install semver --save-dev
 
 This stores the semver dependency in your package.json as a development
 time dependency. Which is exactly as it should be.
 
 I then created a couple of other small tasks with finally made me write
 the <span
-style="font-family: Courier New, Courier, monospace;">deployProd</span> task.
+style="font-family: Courier New, Courier, monospace;">deployProd task.
 The task does the following:
 
 -   runs my tests
@@ -126,7 +126,7 @@ transforming your code from CoffeeScript or TypeScript, or doing some
 other mangling of the code.)
 
 And thanks to <span
-style="font-family: Courier New, Courier, monospace;">make</span>'s
+style="font-family: Courier New, Courier, monospace;">make's
 built in-features the command halts if anything didn't worked as
 expected, the test failed for example.
 
@@ -136,7 +136,7 @@ The task code? Well it's almost just reading the list above out loud.
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">deployProd: test
-> createMinorRelease pushGithub pushHeroku launch</span>
+> createMinorRelease pushGithub pushHeroku launch
 
 Here's the entire makefile.
 

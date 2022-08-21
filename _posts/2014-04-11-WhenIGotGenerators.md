@@ -28,22 +28,22 @@ target="_blank">README (not anymore maybe</a>):
 
 Running that code (either with "<span
 style="font-family: Courier New, Courier, monospace;">node --harmony
-koaErrorFail.js</span>" or test it with "<span
+koaErrorFail.js" or test it with "<span
 style="font-family: Courier New, Courier, monospace;">mocha
---harmony-generators koaErrorFail.js</span>") fail with the error from
+--harmony-generators koaErrorFail.js") fail with the error from
 the title of the blog post:
 
 > <div class="p1">
 >
 > <span style="font-family: Courier New, Courier, monospace;">yield
-> users.remove({});</span>
+> users.remove({});
 >
 > </div>
 >
 > <div class="p1">
 >
 > <span style="font-family: Courier New, Courier, monospace;">     
-> ^^^^^</span>
+> ^^^^^
 >
 > </div>
 >
@@ -51,14 +51,14 @@ the title of the blog post:
 >
 > <span
 > style="font-family: Courier New, Courier, monospace;">SyntaxError:
-> Unexpected identifier</span>
+> Unexpected identifier
 >
 > </div>
 
 At this point you start to think that you forgot to run the example with
 the <a href="http://www.marcusoft.net/2014/03/koaintro.html"
 target="_blank">"<span
-style="font-family: Courier New, Courier, monospace;">--harmony</span>"
+style="font-family: Courier New, Courier, monospace;">--harmony"
 flag</a>. But of course you do that, right?
 Ah, maybe you are running the
 <a href="http://www.marcusoft.net/2014/03/koaintro.html"
@@ -67,17 +67,17 @@ right. Right?
 
 However this code is not running within a generator function. And the
 keyword "<span
-style="font-family: Courier New, Courier, monospace;">yield</span>" is
+style="font-family: Courier New, Courier, monospace;">yield" is
 just allowed within a generator function. In fact, to my understanding,
 a function is a generator function if it has an asterisk before the name
 of the function and one or more "<span
-style="font-family: 'Courier New', Courier, monospace;">yield</span>"s
+style="font-family: 'Courier New', Courier, monospace;">yield"s
 within the function.
 
 But we want to say "<span
-style="font-family: 'Courier New', Courier, monospace;">yield</span>".
+style="font-family: 'Courier New', Courier, monospace;">yield".
 The <span
-style="font-family: 'Courier New', Courier, monospace;">yield </span>is
+style="font-family: 'Courier New', Courier, monospace;">yield is
 good. It's what helps us get non-blocking code. You are basically
 telling node to do something else while we wait for this operations.
 Like <a
@@ -104,9 +104,9 @@ function is then passed to
 the <a href="https://www.npmjs.org/package/co" target="_blank">co</a>-library
 constructor function. Finally we also invoke the function that
 co-returns, right away, hence the "<span
-style="font-family: Courier New, Courier, monospace;">)();" </span><span
+style="font-family: Courier New, Courier, monospace;">)();" <span
 style="font-family: inherit;">on l<span
-style="font-family: inherit;">ine 20</span>. </span>
+style="font-family: inherit;">ine 20. 
 
 ### Summary and hat tipping
 
@@ -141,25 +141,25 @@ Summing up the problem would be something like this:
 
 -   The "<span
     style="font-family: Courier New, Courier, monospace;">Unexpected
-    identifier</span>" is not really <span
-    style="font-family: Courier New, Courier, monospace;">users</span>
+    identifier" is not really <span
+    style="font-family: Courier New, Courier, monospace;">users
     (in my example), but rather that <span
-    style="font-family: Courier New, Courier, monospace;">yield</span>
+    style="font-family: Courier New, Courier, monospace;">yield
     is not valid outside a generator function. 
 -   We can create an anonymous generator function by wrapping the code
     in "<span
     style="font-family: Courier New, Courier, monospace;">function \*(){
-    // code }</span>"
+    // code }"
 -   Only problem left, is that we need someone that calls and drives
     through that function for us, continuing after a <span
-    style="font-family: 'Courier New', Courier, monospace;">yield</span> is
+    style="font-family: 'Courier New', Courier, monospace;">yield is
     reached for example. That could
     be <a href="https://www.npmjs.org/package/co" target="_blank">co</a>,
     for example.  
 -   The co constructor takes a generator function as parameter making
     our entire wrapping for this into "<span
     style="font-family: Courier New, Courier, monospace;">co(function
-    \*(){// code})();</span>"
+    \*(){// code})();"
 
 <div>
 

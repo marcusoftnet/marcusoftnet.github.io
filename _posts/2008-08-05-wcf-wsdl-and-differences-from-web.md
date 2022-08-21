@@ -21,8 +21,7 @@ services differs from the one generated with ASMX web services.
 The main difference is that the WSDL is generated with some kind of
 virtual links. That is; parts of the WSDL-file is retrieved using a
 different URL. For example:
-<span
-style="font-family:courier new;">schemaLocation="http://localhost:3236/Bokforing.svc?xsd=xsd0</span>
+schemaLocation="http://localhost:3236/Bokforing.svc?xsd=xsd0
 
 This seems to be working fine in Visual Studio 2008 (and hopefully in
 2005 also), since they are capable of navigating such references. But

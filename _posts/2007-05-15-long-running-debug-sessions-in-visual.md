@@ -63,11 +63,11 @@ However - some colleagues of mine showed me the possiblity to start
 several projects at once when debugging. Right-click the solution in
 Visual Studio 2005 and choose properties. Then go Common Properties -\>
 <span id="SPELLING_ERROR_0" class="blsp-spelling-corrected">Start
-up</span> projects. Here you can choose which projects to start when you
-debug your solution. Select to start the <span>="blsp-spelling-corrected">web service</span> (s) and <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">any other</span>
+up projects. Here you can choose which projects to start when you
+debug your solution. Select to start the web service (s) and <span
+id="SPELLING_ERROR_2" class="blsp-spelling-corrected">any other
 projects (the client for example) under Multiple <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">Start up</span>
+id="SPELLING_ERROR_3" class="blsp-spelling-corrected">Start up
 projects as shown below:
 
 </div>
@@ -100,7 +100,7 @@ This will start the projects each time you start the project.
 
 <div>
 
-This also solves the problem of the <span>="blsp-spelling-corrected">web service</span> not being started
+This also solves the problem of the web service not being started
 when you are debugging into it. Very annoying and very easy to forget...
 
 </div>

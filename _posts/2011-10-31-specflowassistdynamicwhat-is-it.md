@@ -185,7 +185,7 @@ So the actual step definition is pretty concise and slick. And actually
 the only thing that bothers me is that class User. It’s only needed by
 the step definition and it’s only purpose is to transport some data.
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">The solution</span>
+style="font-size: 19px; font-weight: bold;">The solution
 As I started to use <a href="https://github.com/markrendle/Simple.Data"
 target="_blank">Simple.Data</a> I realized that
 <a href="http://msdn.microsoft.com/en-us/library/dd264736.aspx"
@@ -193,9 +193,9 @@ target="_blank">dynamics</a> could solve this problem for us. So that
 instead can write:
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-\[Binding\]</span>
+\[Binding\]
 
 <div id="codeSnippetWrapper">
 
@@ -267,7 +267,7 @@ Just the code we need. No extra data carriers. Of course you’ll
 sacrifice intellisense, which is a big hurdle for a lot of us. But I got
 used to it – so can you.
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">How to get it</span>
+style="font-size: 19px; font-weight: bold;">How to get it
 
 The easiest way, by far, is to
 <a href="http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic"
@@ -275,7 +275,7 @@ target="_blank">download it via NuGet.</a>:
 
 > <span class="Apple-style-span"
 > style="font-family: monospace;">Install-Package
-> SpecFlow.Assist.Dynamic</span>
+> SpecFlow.Assist.Dynamic
 
 If you want to help out…you are more than welcome. I’m not planning on
 doing any more work on this right now. But I hope that you see a bug or
@@ -283,7 +283,7 @@ a improvement possibilities.
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
 target="_blank">Let me know via GitHub</a>
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">How it’s made</span>
+style="font-size: 19px; font-weight: bold;">How it’s made
 The first thing I did was actually to write
 <a href="http://www.blogger.com/www.specflow.org"
 target="_blank">SpecFlow</a> scenarios for how I wanted the new
@@ -359,9 +359,9 @@ this order:
 I wanted to do this to be able to do some more safe comparisons etc.
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Challenges and solutions in
-the implementation</span>
+the implementation
 <span class="Apple-style-span" style="font-weight: bold;">Creating
-object properties from header strings</span>
+object properties from header strings
 One of the first tricks I learned about is the <a
 href="http://msdn.microsoft.com/en-us/library/system.dynamic.expandoobject.aspx"
 target="_blank">ExpandoObject</a>. By reading up on this I learned a lot
@@ -521,7 +521,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 <span class="Apple-style-span" style="font-weight: bold;">Comparing
-dynamic objects</span>
+dynamic objects
 One problem that almost stumped me was how to compare dynamic instances.
 There is no way to check which properties a dynamic instance has. … In
 the .NET framework. … That I know of.
@@ -539,7 +539,7 @@ InvokeSet(object, memberName).
 Combining these two made it a lot easier to write the comparisons
 methods for dynamic instances and sets.
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">Reflection</span>
+style="font-size: 19px; font-weight: bold;">Reflection
 But it was also around this place (having to take a dependency on
 ImpromtuInterface) that I realized that my solution might be the wrong
 one. I’m wondering if I might have been closer to a pure “dynamic by the
@@ -549,7 +549,7 @@ have handle how properties are set and comparisions done…
 
 Well it works fine now. I’ll keep it like this.
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">The future</span>
+style="font-size: 19px; font-weight: bold;">The future
 
 Actually I would not like to have this NuGet package. I would rather see
 this included in the <a href="http://www.blogger.com/www.specflow.org"

@@ -13,13 +13,13 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/great-tools-for-vbnet-find-de
 
 OK - as you all well know Microsoft doesn't put as much effort into
 Visual Studio for VB.NET-developers as for C#-<span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">ditto</span>. I
+id="SPELLING_ERROR_0" class="blsp-spelling-corrected">ditto. I
 don't know why - but can only speculate that they don't won't that
 language around in the long run. This is not sarcasm - it quite obvious
 if you switch between the languages.
 
-So <span>someone
-else</span> has to help us - here are great bunch of tools that assist
+So someone
+else has to help us - here are great bunch of tools that assist
 the lonely VB.NET-developer in his struggles:
 <http://www.mztools.com/index.aspx>
 

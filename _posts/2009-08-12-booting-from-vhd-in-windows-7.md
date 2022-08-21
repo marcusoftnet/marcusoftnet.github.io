@@ -49,7 +49,7 @@ href="http://www.hanselman.com/blog/StepByStepTurningAWindows7DVDOrISOIntoABoota
 target="_blank">some help from mr Hanselman</a> again, and by
 downloading loads and loads of GBs (Windows 7 AIK, I never thought that
 I would download such things ...) I finally got it to work. By the way,
-here is my command line:</span>**
+here is my command line:**
 
 > cscript wim2vhd.wsf /wim:C:\VHDs\VS2010\2008Server\sources\install.wim
 > /sku:SERVERENTERPRISE /vhd:C:\VHDs\VS2010\vs2010beta.vhd

@@ -4,8 +4,7 @@ title: Good bye Avega!
 date: '2012-12-07T09:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus
-private
+  - Marcus private
   - Life of a consultant
 modified_time: '2012-12-07T09:00:15.142+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5057147655975788856
@@ -33,18 +32,15 @@ in Swedish so for all you english people (68% according to Google
 Analytics) I'm sorry about that, but this one goes out to
 my colleagues at Avega.
 
-
 <div class="separator" style="clear: both; text-align: center;">
 
 </div>
 
 <div style="text-align: center;">
 
-
-
 </div>
 
-<span style="text-align: left;">Avega - I love you!</span>
+<span style="text-align: left;">Avega - I love you!
 
 </div>
 

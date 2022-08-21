@@ -20,8 +20,7 @@ should have create a test project instead but now we didn't - ok...
 The problem was that the unit tests didn't show up in the test view. The
 solution was to add the following line into the project file (ripped
 from a working test project)
-<span
-style="font-family:courier new;">\<projecttypeguids\>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}\</projecttypeguids\></span>
+\<projecttypeguids\>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}\</projecttypeguids\>
 
 The GUID's are probably just my guids but the important stuff is that
 you'll need to add the **projecttypeguids** for your project in order to

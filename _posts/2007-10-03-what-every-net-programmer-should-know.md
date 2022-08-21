@@ -18,11 +18,11 @@ class="TitleLinkStyle" rel="bookmark">What Great .NET Developers Ought
 To Know (More .NET Interview Questions)</a>
 
 It's a list of thing that you should know to be great, according to
-Scott <span>="blsp-spelling-error">Hanselman</span>...
+Scott Hanselman...
 
 I am not sure - but it is well worth reading.
 
-<span>="blsp-spelling-corrected">Apparently</span> you can find <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">answers</span> to
+Apparently you can find <span
+id="SPELLING_ERROR_2" class="blsp-spelling-corrected">answers to
 many of the questions on this site:
 <http://www.ayende.com/Blog/PermaLink,guid,b6e3e8ce-4a6e-4cf0-af70-d360be9e8c76.aspx>

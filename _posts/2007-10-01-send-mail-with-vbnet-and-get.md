@@ -60,4 +60,4 @@ is the solution.
 
 Me so happy - me want to cry.
 
-<span class="small"></span>
+<span class="small">

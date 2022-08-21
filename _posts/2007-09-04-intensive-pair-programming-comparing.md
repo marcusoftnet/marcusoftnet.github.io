@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/09/intensive-pair-programming-co
 ---
 
 For about four days straight now we have been <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">battling</span> a
+id="SPELLING_ERROR_0" class="blsp-spelling-corrected">battling a
 classical, but hard programming problem; given two entity objects return
 a list of all the differences between the objects data. We solved the
 problem with reflection and some hard thinking. I am thinking about
@@ -22,7 +22,7 @@ posting an article on how later.
 It has been quite fun but the real lesson for me was pair programming!
 Try it if you haven't. It is intense, i can say - but also very
 productive. Not as many errors and the code gets an <span
-id="SPELLING_ERROR_1" class="blsp-spelling-corrected">immediate</span>
+id="SPELLING_ERROR_1" class="blsp-spelling-corrected">immediate
 review that is priceless. While the "driver" writes the co-pilot have a
 chance to reflect on was is going on.
 

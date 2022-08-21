@@ -44,8 +44,8 @@ you want this:
 > style="font-family: Courier New, Courier, monospace;">
 >     <span
 > style="font-family: 'Courier New', Courier, monospace;">key="MONGOHQ_URL"
-> value="mongodb://localhost/DotVoter"/\></span> </span><span
-> style="font-family: 'Courier New', Courier, monospace; font-size: x-small;"></span></span>
+> value="mongodb://localhost/DotVoter"/\> <span
+> style="font-family: 'Courier New', Courier, monospace; font-size: x-small;">
 
 </div>
 
@@ -58,43 +58,43 @@ You can then read that value as simple as this:
 
 > <span
 > style="font-family: Courier New, Courier, monospace; font-size: x-small;">private
-> readonly MongoCollection \_collection;</span>
+> readonly MongoCollection \_collection;
 
         <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">public
-MongoRepository()</span>
+MongoRepository()
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-      {</span>
+      {
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-          var connectionString = </span>
+          var connectionString = 
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
                
- ConfigurationManager.AppSettings.Get("MONGOHQ_URL");</span>
+ ConfigurationManager.AppSettings.Get("MONGOHQ_URL");
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">
-</span><span
-style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-          var client = new MongoClient(connectionString);</span>
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-          var server = client.GetServer();</span>
+          var client = new MongoClient(connectionString);
+<span
+style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
+          var server = client.GetServer();
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">
-</span><span
-style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-          var con = new MongoUrlBuilder(connectionString);</span>
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-          var db = server.GetDatabase(con.DatabaseName);</span>
+          var con = new MongoUrlBuilder(connectionString);
+<span
+style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
+          var db = server.GetDatabase(con.DatabaseName);
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
           \_collection =
-db.GetCollection(typeof(T).Name.ToLower());</span>
+db.GetCollection(typeof(T).Name.ToLower());
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;"> 
-      }</span>
+      }
 
 With that in place … it just works!

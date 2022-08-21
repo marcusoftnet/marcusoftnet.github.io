@@ -83,4 +83,4 @@ file:
 >     \<!-- Clean working directory --\>
 >     \<RemoveDir Directories="$(SandCastleWorkingDir)" /\>
 > \</Target\>
-> <span style="color: #333333; font-size: x-small;"></span>
+> <span style="color: #333333; font-size: x-small;">

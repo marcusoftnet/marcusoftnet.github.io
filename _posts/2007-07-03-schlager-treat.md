@@ -14,16 +14,16 @@ I had missed this:
 [http://www.aftonbladet.se/atv/player.html?catID=2672&<span
 id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
 id="SPELLING_ERROR_0"
-class="blsp-spelling-error">clipID</span></span>=14502](http://www.aftonbladet.se/atv/player.html?catID=2672&clipID=14502)
+class="blsp-spelling-error">clipID=14502](http://www.aftonbladet.se/atv/player.html?catID=2672&clipID=14502)
 
-<span id="SPELLING_ERROR_1" class="blsp-spelling-error"><span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Markolio</span></span>
-at his best. Heckling the <span>="blsp-spelling-error"><span>="blsp-spelling-error">schlager</span></span>-genre. The most <span
+<span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">Markolio
+at his best. Heckling the schlager-genre. The most <span
 id="SPELLING_ERROR_3"
-class="blsp-spelling-corrected">embarrassing</span> about this is that
+class="blsp-spelling-corrected">embarrassing about this is that
 this song would probably have rocked at the competition. I mean that
-kind of music is not really <span>="blsp-spelling-corrected">innovative</span> and challenging...
+kind of music is not really innovative and challenging...
 
-In short - i don't like <span>="blsp-spelling-error">schlagers</span> (or whatever the word is in
-<span id="SPELLING_ERROR_5" class="blsp-spelling-error">english</span>)
+In short - i don't like schlagers (or whatever the word is in
+english)
 but this song rocks.

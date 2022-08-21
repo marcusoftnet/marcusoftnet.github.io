@@ -13,29 +13,29 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/new-better-refactoring-suppor
 
 As I've [written
 before](http://marcushammarberg.blogspot.com/2007/06/refactoring-support-for-vb.html)
-the <span id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
+the <span
 id="SPELLING_ERROR_0"
-class="blsp-spelling-error">refactoring</span></span> support in Visual
-Studio 2005 is non-<span>="blsp-spelling-corrected">existing</span> (or at least very very
+class="blsp-spelling-error">refactoring support in Visual
+Studio 2005 is non-existing (or at least very very
 bad) for Visual Basic.
 
 So we have to settle with third party products. The best <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">I've</span> found
-is <span id="SPELLING_ERROR_3" class="blsp-spelling-error"><span>Refactor</span></span>! but it's not very
+id="SPELLING_ERROR_2" class="blsp-spelling-corrected">I've found
+is Refactor! but it's not very
 good either (my studio hangs from time to time after <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">installing</span>
-<span id="SPELLING_ERROR_5" class="blsp-spelling-error"><span>Refactor</span></span>!).
+id="SPELLING_ERROR_4" class="blsp-spelling-corrected">installing
+Refactor!).
 
 But now there are new hopes; a new version of <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error"><span>Refactor</span></span>! is highlighted when
+id="SPELLING_ERROR_6" class="blsp-spelling-error">Refactor! is highlighted when
 the studio is started. Download the new [version
 here](http://downloads.devexpress.com/IDETools/VB/RefactorVB.NET-2.5.0.exe)
 for free and see a [movie about its use
 here](http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20060608vbasicjs/manifest.xml).
 
-<span>="blsp-spelling-error">Refacator</span>! still has the coolest GUI
-<span id="SPELLING_ERROR_5" class="blsp-spelling-corrected">I've</span>
-seen for a long time. Not that <span>="blsp-spelling-corrected">usable</span> maybe but cool.
+Refacator! still has the coolest GUI
+<span id="SPELLING_ERROR_5" class="blsp-spelling-corrected">I've
+seen for a long time. Not that usable maybe but cool.
 
 I am keeping my fingers crossed for the product to be better than
 earlier versions... which is pretty hard when you are programming ;)

@@ -121,25 +121,25 @@ Action</a> is graphic-heavy!
 300 pictures is way more than I care to rename by hand. Remember that
 they wanted each file to be named <span
 style="font-family: Courier New, Courier, monospace;">\[chapter
-number\]\_\[sequence number in chapter\].png. </span><span
+number\]\_\[sequence number in chapter\].png. <span
 style="font-family: inherit;">I then found <a
 href="http://answers.oreilly.com/topic/2619-renaming-multiple-files-in-mac-os-x/"
 target="_blank">this awesome video</a> that shows how to do that with
-Automator. </span>
+Automator. 
 
 </div>
 
 <div>
 
 <span style="font-family: inherit;">
-</span>
+
 
 </div>
 
 <div>
 
 <span style="font-family: inherit;">Here are the steps I ended up
-using:</span>
+using:
 
 </div>
 
@@ -173,7 +173,7 @@ the files you want to rename and ... presto - they will be ranamed. 
 <div>
 
 <span style="font-family: inherit;">
-</span>
+
 
 </div>
 

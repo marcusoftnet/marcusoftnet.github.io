@@ -66,5 +66,5 @@ early stages of the page lifecycle.
 
 Thanks to all been involved in this solution. I have been pondering over
 this for at least two years. If anyone want to see the example in code
-email me at <span style="font-family:courier new;">marcus dot hammarberg
-(a) avega dot se </span>(in your face spam-bots ;))
+email me at marcus dot hammarberg
+(a) avega dot se (in your face spam-bots ;))

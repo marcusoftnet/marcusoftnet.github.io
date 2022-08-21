@@ -74,11 +74,11 @@ help us. I’ve created a gist of that code.
 I had to read this a couple of times before I fully understood how it
 goes together. This is how I understand it.
 Line 23 is where we use the <span
-style="font-family: Courier New;">auth</span> (that is required on
+style="font-family: Courier New;">auth (that is required on
 line 1) object and, in this case, simply hard code it to a user object.
 The properties of this object needs to be <span
-style="font-family: Courier New;">name</span> and <span
-style="font-family: Courier New;">pass</span>.
+style="font-family: Courier New;">name and <span
+style="font-family: Courier New;">pass.
 On line 27 we find the complete application that simply returns a
 string… A secret string… You need to be authenticated to see that.
 Lines 7-19 is where this authentication is required. Here we create a
@@ -88,14 +88,14 @@ downstream middleware”.  Remember that Koa is built up of tiny pieces of
 middleware (often just a single function) that is stitched together. The
 koa-basic-auth middleware passwords protects the middleware called after
 it. This comes handy now.
-The <span style="font-family: Courier New;">app.use()</span> is how
+The <span style="font-family: Courier New;">app.use() is how
 middleware is added to Koa. You probably seen <span
-style="font-family: Courier New;">app.use(logger())</span> is you’ve
+style="font-family: Courier New;">app.use(logger()) is you’ve
 read any Koa-examples. The function on 7-9 takes a <span
-style="font-family: Courier New;">next</span> variable as parameter,
+style="font-family: Courier New;">next variable as parameter,
 which is Koa’s way of representing the next middleware to call in the
 chain. We simply do your stuff in this middleware and then wait (using
-<span style="font-family: Courier New;">yield</span>) for the rest of
+<span style="font-family: Courier New;">yield) for the rest of
 the middleware chain. Or, as in this case, wraps the rest of the chain
 with something.
 This function wraps “the rest of the chain” with an error handler. Since
@@ -168,10 +168,10 @@ with this post to do but let’s go through the highlights:
 -   The last lines (28-30) is a function that simply exposes the object
     as a function. This is so that you can go <span
     style="font-family: Courier New;">var config =
-    require(\[path\])(‘test’)</span> if you wanted to. Or it picks up
+    require(\[path\])(‘test’) if you wanted to. Or it picks up
     the parameter from you starting node. And if nothing of that is
     supplied it defaults to ‘<span
-    style="font-family: Courier New;">local</span>’, which is the name I
+    style="font-family: Courier New;">local’, which is the name I
     used for my development environment.
 -   The config object itself is, thankfully, a bit more straightforward.
     It sets up the different settings for the environments. However only
@@ -179,9 +179,9 @@ with this post to do but let’s go through the highlights:
     that JavaScript objects is just key-value pairs and you can index
     into the objects with strings. That is what that strange line is
     really doing (<span style="font-family: Courier New;">config\[mode
-    \|\| process.argv\[2\] \|\| 'local'\]</span> would eventually be
+    \|\| process.argv\[2\] \|\| 'local'\] would eventually be
     evaluated as <span
-    style="font-family: Courier New;">config\[‘local’\]</span> for
+    style="font-family: Courier New;">config\[‘local’\] for
     example).
 
 Let’s talk a bit about the authentication parts also, sorry for that
@@ -190,17 +190,17 @@ longish detour;
 -   Lines 3-5 sets up an object that either uses the
     <a href="http://nodejs.org/api/process.html#process_process_env"
     target="_blank">process.env</a> parameters <span
-    style="font-family: Courier New;">BASIC_USER</span> and <span
-    style="font-family: Courier New;">BASIC_PASS</span> or some default
+    style="font-family: Courier New;">BASIC_USER and <span
+    style="font-family: Courier New;">BASIC_PASS or some default
     values. That object is stored in a <span
-    style="font-family: Courier New;">adminUser</span> variable.
+    style="font-family: Courier New;">adminUser variable.
 -   That variable is then slabbed onto the config-object, that I return,
     resulting in that I can use it like this in my authentication
     module:
 
 > <span style="font-family: Courier New;">var config =
 > require('../config')();
-> module.exports.user = config.user;</span>
+> module.exports.user = config.user;
 
 This means that if you have set anything in process.env.BASIC_USER that
 will be used, if not ‘marcus’ will be used. You can pass the process <a
@@ -250,7 +250,7 @@ Here’s is one test that does all that.
 
 
 The interesting line here is line 12 where I use the <span
-style="font-family: Courier New;">.auth()</span> function of supertest,
+style="font-family: Courier New;">.auth() function of supertest,
 passing it the variables from my config user described above.
 
 ## Summary

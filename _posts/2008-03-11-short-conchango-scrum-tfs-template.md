@@ -61,11 +61,11 @@ post](http://scrumforteamsystem.com/cs/forums/1646/ShowPost.aspx)
 4.  **Create your sprint backlog tasks**
     Using the "Add related item" menu option from the PBI context menu
     sets up the links automatically. Otherwise you can set PBI -\> <span
-    id="SPELLING_ERROR_0" class="blsp-spelling-error">SBI</span>
+    id="SPELLING_ERROR_0" class="blsp-spelling-error">SBI
     relations in the links tab.
-5.  **<span>Burndown</span> your backlog.**
+5.  **Burndown your backlog.**
     As work is completed and progress is made, mark the changes on the
-    <span id="SPELLING_ERROR_2" class="blsp-spelling-error">SBIs</span>.
+    SBIs.
     Reducing the work remaining figures as needed.
 
 This was all that i needed.... Why couldn't a short list like this be

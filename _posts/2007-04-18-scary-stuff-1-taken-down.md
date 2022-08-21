@@ -25,7 +25,7 @@ to the minute (a first for me :))
 The presentation was about SCRUM and it was quite well received. I've
 heard several people talking about it (both positive and negative word)
 already - which i take as a good thing. I could post the slides here if
-only <span>="blsp-spelling-error">BlogSpot</span> allowed me.
+only BlogSpot allowed me.
 
 So - continuing today on my road to a working environment, but much
 lesser amount of butterflies in the stomach...

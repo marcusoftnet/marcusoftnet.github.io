@@ -54,7 +54,7 @@ target="_blank">Developer Fusion C# to VB.NET conversion tool</a> to
 translate the code as I cannot make it by hand in VB.NET. I fail every
 time. I also used <a href="Pastie.org" target="_blank">pastie</a> to
 shared the code. It doesn't support VB.NET syntax. Sorry for
-that.</span>
+that.
 
 What we now have is the language obstructing you and confusing you with
 syntax. That makes the whole concept harder to understand – and it’s

@@ -17,7 +17,7 @@ lines of code, in- and excluding comments and blank rows if you want
 to.
 
 Really nice actually and quite fun also. It is at least some kind of
-<span>="blsp-spelling-corrected">measurement</span>, for the project
+measurement, for the project
 management anyway.
 
 Oh yeah - in six weeks we have produced 48 000 lines of code... We're so

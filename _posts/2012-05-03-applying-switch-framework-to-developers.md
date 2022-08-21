@@ -2,8 +2,8 @@
 layout: post
 title: Applying the Switch framework to developers
 don’t want to write tests
-date: '2012-05-03T08:00:00.000+02:00' author:
-Marcus Hammarberg
+date: '2012-05-03T08:00:00.000+02:00'
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Agile - TDD

@@ -322,7 +322,7 @@ down. Closer... There. Are you ready?
 
 <span style="font-size: x-small;">You know what... Agile is not the
 answer. Lean is not the answer. No Estimates is not the answer. We will
-find new ways. </span>We will improve. Like in Jurassic park: 
+find new ways. We will improve. Like in Jurassic park: 
 
 </div>
 

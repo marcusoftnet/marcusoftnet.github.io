@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2956868458258965011
 blogger_orig_url: http://www.marcusoft.net/2007/08/candy-exposure.html
 ---
 
-I found a, what i thought was, <span>="blsp-spelling-corrected">hilarious</span> sign in one of the
+I found a, what i thought was, hilarious sign in one of the
 major stores in Stockholm.
 
 Above one of the cashiers a big sign hung that stated (roughly
@@ -23,7 +23,7 @@ that sign:
     have it. Could you please have a cashier with no candy in it and put
     a sign above it so i know which one it is?"
 - "(smack) Yeah, i know i should not (chew, chew) eat these - but hey
-    (<span>gromp</span>) it's not my fault. Did you
+    (gromp) it's not my fault. Did you
     know that they put candy IN THE CASHIER??!! (smack) I stand helpless
     to that."
 

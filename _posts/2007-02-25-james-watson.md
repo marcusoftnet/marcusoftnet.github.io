@@ -16,13 +16,13 @@ src="http://3.bp.blogspot.com/_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF8/7xSx_9pz0z4/s
 id="BLOGGER_PHOTO_ID_5035439026795884754"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF8/7xSx_9pz0z4/s1600-h/PICT1336.JPG)I
-had the great <span>="blsp-spelling-corrected">opportunity</span> to play and rehearse
-under <span>="blsp-spelling-corrected">Mr</span> James Watson. He is really a
+had the great opportunity to play and rehearse
+under Mr James Watson. He is really a
 great guy and a great band instructor. We have had a very nice (but
 exhausting) four days with him and the concert on <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">Friday</span>
+id="SPELLING_ERROR_2" class="blsp-spelling-corrected">Friday
 night went quite alright (the band had some odd moments in <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">Couldcatcher</span>
+id="SPELLING_ERROR_3" class="blsp-spelling-error">Couldcatcher
 Fells).
 
 Then on the Saturday morning we did a short but very rewarding rehearsal

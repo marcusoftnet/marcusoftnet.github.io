@@ -21,8 +21,8 @@ data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R1k0KN0Da4I/AAAAAAAAAO
 
 <div>
 
-4<span id="SPELLING_ERROR_0" class="blsp-spelling-error">BarsRest</span>
-has just reviewed the last CD from <span>="blsp-spelling-error">Gothenburg</span> Brass Band - In Perfect
+4BarsRest
+has just reviewed the last CD from Gothenburg Brass Band - In Perfect
 Peace. You can read it here:
 <http://www.4barsrest.com/reviews/cds/cd344.asp>
 
@@ -36,7 +36,7 @@ Peace. You can read it here:
 
 <div>
 
-It's a more warm and <span>="blsp-spelling-corrected">appreciating</span> tone and language
+It's a more warm and appreciating tone and language
 the suites the spirit of the band and Bengt.
 
 </div>

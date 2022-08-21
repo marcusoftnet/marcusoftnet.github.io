@@ -18,7 +18,7 @@ demo we're going to hold today. And as frosting on the cake i caught a
 cold (kind of).
 
 Well, nothing to do about that - the sprint demo today will be running
-<span>="blsp-spelling-corrected">smoothly</span> even if i am a bit
+smoothly even if i am a bit
 slower than usual.
 
 The night at the shelter was quite quiet (:)) for me. I got to go to bed

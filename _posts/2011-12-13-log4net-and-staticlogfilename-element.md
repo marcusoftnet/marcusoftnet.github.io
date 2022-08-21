@@ -2,8 +2,8 @@
 layout: post
 title: Log4Net, RollingFile named by Date and the
 staticLogFileName setting
-date: '2011-12-13T13:29:00.001+01:00' author:
-Marcus Hammarberg
+date: '2011-12-13T13:29:00.001+01:00'
+author: Marcus Hammarberg
 tags:
   - Tools
   - .NET

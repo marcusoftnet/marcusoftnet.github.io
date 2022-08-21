@@ -111,11 +111,11 @@ like this:
 
 The "trick" can be found on line 7 (<span
 style="font-family: Courier New, Courier, monospace;">.find({hashtags :
-hashtag})</span>) which is Mongoose speak for: "find all the documents
+hashtag})) which is Mongoose speak for: "find all the documents
 that have the <span
-style="font-family: 'Courier New', Courier, monospace;">hashtag</span> in
+style="font-family: 'Courier New', Courier, monospace;">hashtag in
 the <span
-style="font-family: 'Courier New', Courier, monospace;">hashtags</span> array.".
+style="font-family: 'Courier New', Courier, monospace;">hashtags array.".
 
 ### Summary 
 

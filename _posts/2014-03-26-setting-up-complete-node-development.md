@@ -2,8 +2,8 @@
 layout: post
 title: Setting up a complete Node development machine.
 From scratch. For free
-date: '2014-03-26T02:45:00.002+01:00' author:
-Marcus Hammarberg
+date: '2014-03-26T02:45:00.002+01:00'
+author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools
@@ -832,16 +832,16 @@ your computer. Very handy and have been cloned in both Mac
     Terminal
 2.  Now enter this command; "<span
     style="font-family: Courier New, Courier, monospace;">sudo apt-get
-    install nodejs</span>". Use CTRL+SHIFT+V to paste (CTRL+SHIFT+C to
+    install nodejs". Use CTRL+SHIFT+V to paste (CTRL+SHIFT+C to
     copy) in the terminal window
 3.  "<span
-    style="font-family: Courier New, Courier, monospace;"><a href="http://xkcd.com/149/" target="_blank">sudo</a></span>"
+    style="font-family: Courier New, Courier, monospace;"><a href="http://xkcd.com/149/" target="_blank">sudo</a>"
     just means that you run this as administrator, kinda. You will have
     to enter your password. 
 4.  Wait while apt-get does it's magic.
 5.  Done. To check if it worked type "<span
     style="font-family: Courier New, Courier, monospace;">node
-    --version</span>" and you should see the version of Node that was
+    --version" and you should see the version of Node that was
     just installed...
 
 Sadly... that didn't bring down Nodes own package
@@ -854,11 +854,11 @@ need that. Very soon. Let's do it again:
 
 1.  Open terminal
 2.  "<span style="font-family: Courier New, Courier, monospace;">sudo
-    apt-get install npm</span>"
+    apt-get install npm"
 3.  Wait
 4.  Check with "<span
     style="font-family: Courier New, Courier, monospace;">npm
-    --version</span>"
+    --version"
 5.  Done
 
 </div>
@@ -893,21 +893,21 @@ easy. 
 1.  Open the terminal
 2.  First we need to clear out the cache of npm; "<span
     style="font-family: Courier New, Courier, monospace;">sudo npm cache
-    clean -f</span>"
+    clean -f"
 3.  Then install n; "<span
     style="font-family: Courier New, Courier, monospace;">sudo npm
-    install -g n</span>" (-g means install it globally on my system, not
+    install -g n" (-g means install it globally on my system, not
     only in the local folder). If you got errors... see below. 
 4.  Finally, use n to update NodeJs; "<span
     style="font-family: Courier New, Courier, monospace;">sudo n
-    stable</span>" (in this case we're updating to the most recent
+    stable" (in this case we're updating to the most recent
     stable release, but you can update it to a version number too.
     "<span style="font-family: Courier New, Courier, monospace;">sudo n
-    0.11.9</span>" for example if you're planning on doing
+    0.11.9" for example if you're planning on doing
     <a href="http://koajs.com/" target="_blank">KoaJs</a> work...)
 5.  That means that you can install more than one version of Node on the
     system. And you can switch between version using the "<span
-    style="font-family: Courier New, Courier, monospace;">n</span>"
+    style="font-family: Courier New, Courier, monospace;">n"
     command. Read
     <a href="https://github.com/visionmedia/n" target="_blank">more on their
     site </a>
@@ -920,7 +920,7 @@ easy. 
 
 When I ran the "<span
 style="font-family: Courier New, Courier, monospace;">npm
-install</span>" command for the first time I ran into some problems. The
+install" command for the first time I ran into some problems. The
 following error was shown "Error: failed to fetch from registry: n".
 Luckily others <a
 href="http://stackoverflow.com/questions/12913141/installing-from-npm-fails"
@@ -931,7 +931,7 @@ Here's the command
 </div>
 
 > <span style="font-family: Courier New, Courier, monospace;">npm config
-> set registry http://registry.npmjs.org/</span>
+> set registry http://registry.npmjs.org/
 
 <div>
 
@@ -946,13 +946,13 @@ not found?! I typed "curl" at the prompt and here is what it said:
 > curl
 > The program 'curl' is currently not installed.  You can install it by
 > typing:
-> sudo apt-get install curl</span>
+> sudo apt-get install curl
 
 <div>
 
 What a lovely error message! So I did that... "<span
 style="font-family: Courier New, Courier, monospace;">sudo apt-get
-install curl</span>"... and now finally it worked!
+install curl"... and now finally it worked!
 
 </div>
 
@@ -1000,20 +1000,20 @@ target="_blank">greater detail here</a>, on the manufacturers page. 
 2.  Add the MongoDb public key to apt-get's trusted servers; "<span
     style="font-family: Courier New, Courier, monospace;">sudo apt-key
     adv --keyserver hkp://keyserver.ubuntu.com:80 --recv
-    7F0CEB10</span>"
+    7F0CEB10"
 3.  Create a MongoDb list file; "<span
     style="font-family: Courier New, Courier, monospace;">echo 'deb
     http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen'
-    \| sudo tee /etc/apt/sources.list.d/mongodb.list</span>"
+    \| sudo tee /etc/apt/sources.list.d/mongodb.list"
 4.  Reload the apt-get repository; "<span
     style="font-family: Courier New, Courier, monospace;">sudo apt-get
-    update</span>"
+    update"
 5.  And now, finally we can install the latest version of MongoDb;
     "<span style="font-family: Courier New, Courier, monospace;">sudo
-    apt-get install mongodb-10gen</span>"
+    apt-get install mongodb-10gen"
 6.  We are now done and MongoDb is running in the background, as a
     service, ready for us to use. Type "<span
-    style="font-family: Courier New, Courier, monospace;">mongo</span>"
+    style="font-family: Courier New, Courier, monospace;">mongo"
     to open the interactive client. 
 
 Phew! That  was tricky. But as I said; the terminal is the Linux way.
@@ -1089,7 +1089,7 @@ lovely error message;
 > <span style="font-family: Courier New, Courier, monospace;">The
 > program 'git' is currently not installed.  You can install it by
 > typing:
-> sudo apt-get install git</span>
+> sudo apt-get install git
 
 </div>
 
@@ -1097,7 +1097,7 @@ lovely error message;
 
 And then you just follow the instructions and a "<span
 style="font-family: 'Courier New', Courier, monospace;">sudo apt-get
-install git</span>" later you are done. Git is installed.  
+install git" later you are done. Git is installed.  
 
 </div>
 
@@ -1125,9 +1125,9 @@ Let's install both of them using npm;
 
 1.  In the terminal
 2.  "<span style="font-family: Courier New, Courier, monospace;">sudo
-    npm install nodemon -g</span>"
+    npm install nodemon -g"
 3.  "<span style="font-family: Courier New, Courier, monospace;">sudo
-    npm install mocha -g</span>"
+    npm install mocha -g"
 4.  See you already fluent in this.
 5.  Done.
 

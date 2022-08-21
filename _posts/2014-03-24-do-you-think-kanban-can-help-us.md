@@ -242,8 +242,8 @@ And now my answer:
 
 > I hope you can make use of these advices. thanks for asking me. A lot
 > of more details and suggestions in [<span
-> id="goog_699323533"></span>our book<span
-> id="goog_699323534"></span>](https://www.blogger.com/), of course.  
+> id="goog_699323533">our book<span
+> id="goog_699323534">](https://www.blogger.com/), of course.  
 
 > Happy kanban-ing! 
 

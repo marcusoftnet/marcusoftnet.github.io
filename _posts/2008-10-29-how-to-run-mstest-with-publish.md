@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1620713112862171086
 blogger_orig_url: http://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html ---
 
 <span style="font-weight: bold;">\[UPDATED, see
-[this](http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html)\]</span>
+[this](http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html)\]
 
 I have created a task that runs some unit tests in a certain DLL and the
 publish the result to a TFS service. We use this task in our TFS MSBuild

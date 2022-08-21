@@ -36,8 +36,8 @@ that situation (or well work around it is maybe more to the point).
 In the connectionstring it is possible to add a parameter stating that
 you will not enlist in transactions:
 
-<span style="font-family:courier new;">new
-SqlConnection("connectionString;**Enlist=false**");</span>
+new
+SqlConnection("connectionString;**Enlist=false**");
 
 [Here](http://blogs.msdn.com/florinlazar/archive/2005/09/29/475546.aspx)
 is the article that pointed me to that direction.

@@ -77,7 +77,7 @@ data-border="0" width="135" height="200" /></a>
 
 </div>
 
-<span id="goog_746609428"></span><span id="goog_746609429"></span>This
+<span id="goog_746609428"><span id="goog_746609429">This
 reminds me of a small scene from the
 "<a href="http://www.imdb.com/title/tt0462128/" target="_blank">The new
 adventures of the old Christine</a>" where Christine is collecting money

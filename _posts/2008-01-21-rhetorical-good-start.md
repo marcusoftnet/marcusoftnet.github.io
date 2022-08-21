@@ -20,8 +20,8 @@ i really have a passion for. And then i often spoils the whole thing by
 taking to much or to fast.
 
 But here are, in Swedish, a very good site for people like me, who might
-need a brushing in the <span>="blsp-spelling-corrected">theoretical</span> way of how to
+need a brushing in the theoretical way of how to
 construct a good presentation:
 <http://www.falkman.se/>
 
-Note the guide under "<span>="blsp-spelling-error">Retoriska</span> <span>="blsp-spelling-error">Verktyg</span>"
+Note the guide under "Retoriska Verktyg"

@@ -214,7 +214,7 @@ target="_blank">SpecFlow.Assist.Dynamic</a> instead. It’s not much to it
 insert each one into the database.
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Shorten it up with Step
-Argument Transformations</span>
+Argument Transformations
 
 You can use a trick that I’ve put into
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
@@ -324,7 +324,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 This make sure that the step arguments are picked up from the dll.
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Asserting results in the
-Then-steps</span>
+Then-steps
 
 The other place where
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
@@ -334,9 +334,9 @@ If we expand my example from before in to a fully fledged feature, we
 get this:
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-Scenario: Searching for books</span>
+Scenario: Searching for books
 
 <div id="codeSnippetWrapper">
 
@@ -532,9 +532,9 @@ reader. Let me know if you did anything that helped you.
 
 ### Conclusion
 
-### <span class="Apple-style-span" style="font-size: small; font-weight: normal;">I have shown you how I use these helpers. Please note that they are inspired to a great deal by the Table helpers in the </span><a href="http://www.blogger.com/www.specflow.org"
+### <span class="Apple-style-span" style="font-size: small; font-weight: normal;">I have shown you how I use these helpers. Please note that they are inspired to a great deal by the Table helpers in the <a href="http://www.blogger.com/www.specflow.org"
 style="font-size: medium; font-weight: normal;"
-target="_blank">SpecFlow</a><span class="Apple-style-span" style="font-size: small; font-weight: normal;">.Assist namespace that have similar methods but for statically typed objects (that you need to create ^^)</span>
+target="_blank">SpecFlow</a><span class="Apple-style-span" style="font-size: small; font-weight: normal;">.Assist namespace that have similar methods but for statically typed objects (that you need to create ^^)
 
 I hope you find this helpful. Please let me know if I can improve.
 

@@ -33,7 +33,7 @@ Here are all the post in the series:
     this post
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a> 
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
@@ -61,11 +61,11 @@ this function:
 
 Quite simply (eh ... not really the first time I saw this but anyway)
 doSomething will execute using <span
-style="font-family: Courier New, Courier, monospace;">123</span> as the
-<span style="font-family: Courier New, Courier, monospace;">p</span>
+style="font-family: Courier New, Courier, monospace;">123 as the
+<span style="font-family: Courier New, Courier, monospace;">p
 parameter. It will finally call the callback function and hence execute
 my little anonymous function that does the <span
-style="font-family: Courier New, Courier, monospace;">console.log</span>.
+style="font-family: Courier New, Courier, monospace;">console.log.
 
 It took some time to wrap my head around this. And Yes, I know that
 promises is the new kid on the block, but I haven't come there yet.

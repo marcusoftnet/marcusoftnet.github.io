@@ -8,11 +8,11 @@ tags:
 modified_time: '2007-10-08T12:53:24.344+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4829204535328279220
 blogger_orig_url: http://www.marcusoft.net/2007/10/listen-just-listen-to-band.html ---
-Every <span>="blsp-spelling-corrected">Monday</span> morning i usually listens
+Every Monday morning i usually listens
 to the last broadcast of [Listen to the
 band](http://www.bbc.co.uk/radio/aod/networks/radio2/aod.shtml?radio2/listenband).
 This week there are some serious playing going on... <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Grimethorpe</span> and
+id="SPELLING_ERROR_1" class="blsp-spelling-error">Grimethorpe and
 Black Dyke.
 
 This is very, very good playing indeed - and live. Don't try this a home

@@ -66,7 +66,7 @@ twins were tearing down the door and entering the room, i might add):
 
 > <div class="p1">
 >
-> <span class="Apple-tab-span"></span>Would I be interested in writing
+> <span class="Apple-tab-span">Would I be interested in writing
 > that book for Manning?
 >
 > </div>
@@ -228,7 +228,7 @@ Here's a short excerpt from the introduction:
 
 We're going try an open process to how to write this book by documenting
 the patterns on a blog ([<span
-class="s1">www.kanbaninactionbook.com</span>](http://www.kanbaninactionbook.com/))
+class="s1">www.kanbaninactionbook.com](http://www.kanbaninactionbook.com/))
 as we write them. We hope to get feedback and suggestions for
 alterations and that new patterns emerge over time. The site will not
 contain the glue of the book, the narratives that puts these patterns

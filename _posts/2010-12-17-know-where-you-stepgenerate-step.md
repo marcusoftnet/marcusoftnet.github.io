@@ -2,8 +2,8 @@
 layout: post
 title: Know where you step–generate a step definition
 report with SpecFlow
-date: '2010-12-16T22:12:00.002+01:00' author:
-Marcus Hammarberg
+date: '2010-12-16T22:12:00.002+01:00'
+author: Marcus Hammarberg
 tags:
   - BDD
   - Tools

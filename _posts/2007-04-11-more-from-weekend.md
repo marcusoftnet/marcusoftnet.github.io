@@ -39,7 +39,7 @@ data-border="0" />
 
 <div>
 
-Here are some more pictures from the <span>="blsp-spelling-corrected">beautiful</span> [<span>Hypplen</span>](http://www.hitta.se/SearchCombi.aspx?SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=hyppeln)
+Here are some more pictures from the beautiful [Hypplen](http://www.hitta.se/SearchCombi.aspx?SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=hyppeln)
 (the place is nicer than it sounds, i promise).
 
 </div>
@@ -57,7 +57,7 @@ Here are some more pictures from the <span>="blsp-spelling-corrected">beautiful<
 It was surely a good weekend with a lot of winding down. Also my family
 are all very nice, which is so good when you get away like this. It's
 all very easy-going. Even though some of them get quite nasty when it
-comes to games, especially <span>="blsp-spelling-error">Fia</span>-med-<span>="blsp-spelling-error">knuff</span>. :)
+comes to games, especially Fia-med-knuff. :)
 
 </div>
 

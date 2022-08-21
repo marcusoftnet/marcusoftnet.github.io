@@ -2,8 +2,8 @@
 layout: post
 title: My mouse pointer disappeared in Visual Studio
 when using a dark theme
-date: '2011-08-30T14:55:00.001+02:00' author:
-Marcus Hammarberg
+date: '2011-08-30T14:55:00.001+02:00'
+author: Marcus Hammarberg
 tags:
   - Tools
   - ife of a consultant

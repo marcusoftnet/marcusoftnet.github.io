@@ -2,8 +2,8 @@
 layout: post
 title: NMock2 RemotingException ByRef value type
 parameter cannot be null
-date: '2009-01-22T08:56:00.001+01:00' author:
-Marcus Hammarberg
+date: '2009-01-22T08:56:00.001+01:00'
+author: Marcus Hammarberg
 tags:
   - .NET - Agile - TDD
 modified_time: '2012-08-12T09:30:52.050+02:00'
@@ -27,7 +27,7 @@ When I mock this method:
 >             End Class
 
 <span style="color: #666666;">by using the following code to do the
-mock </span>
+mock 
 
 >     Expect.Once.On(m_mockadFacadeObject).Method("CreateSomeThing")
 

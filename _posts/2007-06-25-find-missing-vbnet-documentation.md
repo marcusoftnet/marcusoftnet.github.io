@@ -35,7 +35,7 @@ Studio for C# that you are missing when you're using VB.NET.
 
 One of those things you miss is the possibility to get warning for
 missing and faulty XML comments used for documentation with for example
-<span id="SPELLING_ERROR_0" class="blsp-spelling-error">NDoc</span>. I
+NDoc. I
 wrote [about this
 before](http://marcushammarberg.blogspot.com/2007/06/vbnet-warnings-for-xml-documentation.html)
 and won't go into anymore details - but you can't get these warnings and
@@ -80,11 +80,11 @@ from the studio.
 
 <div>
 
-Anyone <span>="blsp-spelling-corrected">interested</span> in this add-in you can
-have it by writing to me on *<span>="blsp-spelling-error">marcus</span> (dot) <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">hammarberg</span> (at)
-<span id="SPELLING_ERROR_4" class="blsp-spelling-error">avega</span>
-(dot) <span>="blsp-spelling-error">se</span>.*
+Anyone interested in this add-in you can
+have it by writing to me on *marcus (dot) <span
+id="SPELLING_ERROR_3" class="blsp-spelling-error">hammarberg (at)
+avega
+(dot) se.*
 
 </div>
 

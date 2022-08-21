@@ -17,12 +17,12 @@ Also we start to think about that period or at least plan for it long
 ahead of it.
 
 But not here, i can tell you! (for real). We have been hacking away in a
-<span>="blsp-spelling-corrected">furious</span> tempo at work and
+furious tempo at work and
 rounding up some things from the moving. And then there is the wedding
-of <span id="SPELLING_ERROR_1" class="blsp-spelling-error">Elins</span>
+of Elins
 sister this weekend...
 
-Been busy - so not that many <span>="blsp-spelling-corrected">blog post</span> has been produced. But
+Been busy - so not that many blog post has been produced. But
 then again - now i can still claim that i only write when i have
-something <span>="blsp-spelling-corrected">interesting</span> to say... Like this
+something interesting to say... Like this
 post ;)

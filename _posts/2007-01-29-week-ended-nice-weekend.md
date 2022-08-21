@@ -20,7 +20,7 @@ data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAE
 
 <div>
 
-The last week was really intense, <span>="blsp-spelling-corrected">work wise</span>, with some stuff
+The last week was really intense, work wise, with some stuff
 starting off at my primary customer and a review for another customer in
 the last two days.
 
@@ -36,17 +36,14 @@ the last two days.
 
 <div>
 
-It all ended <span>="blsp-spelling-corrected">happily</span>, though, with a very nice
-weekend with, my now very enlarged, family. <span>="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Magnus</span> became a doctor a few
+It all ended happily, though, with a very nice
+weekend with, my now very enlarged, family. Magnus became a doctor a few
 weeks back and they had an graduation party. Which made us all go to
 congratulate him and also got us together on the special family-island
-[<span id="SPELLING_ERROR_3" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Hyppeln</span>](http://www.hyppeln.com/),
-in the <span id="SPELLING_ERROR_4" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Gothenburg</span> <span
+[Hyppeln](http://www.hyppeln.com/),
+in the Gothenburg <span
 id="SPELLING_ERROR_5"
-class="blsp-spelling-corrected">archipelago</span>. The above is a
+class="blsp-spelling-corrected">archipelago. The above is a
 picture from there, in the summer-time mind you well.
 
 </div>
@@ -78,7 +75,7 @@ winter. I could have looked at the waves for hours.
 
 I might, saying might, have been a bit to happy to make a good
 impression this weekend. But i really was, so <span
-id="SPELLING_ERROR_6" class="blsp-spelling-corrected">that's</span>
+id="SPELLING_ERROR_6" class="blsp-spelling-corrected">that's
 fairly right anyway.
 
 </div>

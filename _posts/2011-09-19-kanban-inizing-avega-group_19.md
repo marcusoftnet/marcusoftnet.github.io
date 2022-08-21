@@ -2,8 +2,8 @@
 layout: post
 title: Kanban-inizing the Avega Group office–getting
 the show on the road
-date: '2011-09-19T09:00:00.000+02:00' author:
-Marcus Hammarberg
+date: '2011-09-19T09:00:00.000+02:00'
+author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Kanban - Agile

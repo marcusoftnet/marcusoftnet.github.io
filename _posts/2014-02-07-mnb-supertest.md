@@ -35,7 +35,7 @@ Here are all the post in the series:
     write them</a>
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
@@ -78,16 +78,16 @@ test API and web applications and have a nice fluent interface that I
 immediately fell in love with. You install it, of course, with
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install supertest</span>
+> install supertest
 
 As always the best way to show you this is with an example. Let's write
 a little test for a simple GET
 
 See, that was very simple. Note the fluent interface and how you first
 compose your request (the <span
-style="font-family: Courier New, Courier, monospace;">.get()</span> and
+style="font-family: Courier New, Courier, monospace;">.get() and
 <span
-style="font-family: Courier New, Courier, monospace;">.set()</span>
+style="font-family: Courier New, Courier, monospace;">.set()
 functions) and then we can do the expects, all in one statement. It's
 pretty nice, I think!
 
@@ -96,7 +96,7 @@ can get hold of it. This is done with the
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">module.exports.getApp
-> = app;</span> 
+> = app; 
 
 statement so it's not too bad. In return you get a very simple way of
 testing the express application that don't even have to be up and

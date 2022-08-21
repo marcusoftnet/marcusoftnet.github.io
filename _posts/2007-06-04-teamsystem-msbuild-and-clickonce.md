@@ -50,7 +50,7 @@ This is how i did it:
 First i created an itemgroup (called ClickOnceProjects) with parameters
 for the ClickOnce-deployment. This item group could be repeted for all
 projects that is to be published with ClickOnce. <span
-class="small">`<ItemGroup><ClickOnceProjects Include="$(SolutionRoot)\$(ProjectNamespace).UI.Win\$(ProjectNamespace).UI.Win.vbproj"><ProjectPublishProperties>InstallUrl=\\[servername]\Install\</ProjectPublishProperties><PublishDirectoryName>$(ProjectNamespace).UI.Win.publish</PublishDirectoryName><DeploymentFolderClient>$(ClickOnceDropLocation)</DeploymentFolderClient><ExecutableName>App.exe</ExecutableName><DeploymentThumbPrint>$(SolutionRoot)\$(ProjectNamespace).UI.Win\$(ProjectNamespace).UI.Win_TemporaryKey.pfx</DeploymentThumbPrint> <DeploymentPublishProperties> Configuration=Release;ProductName=App;PublisherName=Us; GenerateManifests=true;WebPage=default.htm</DeploymentPublishProperties></ClickOnceProjects></ItemGroup>`</span>
+class="small">`<ItemGroup><ClickOnceProjects Include="$(SolutionRoot)\$(ProjectNamespace).UI.Win\$(ProjectNamespace).UI.Win.vbproj"><ProjectPublishProperties>InstallUrl=\\[servername]\Install\</ProjectPublishProperties><PublishDirectoryName>$(ProjectNamespace).UI.Win.publish</PublishDirectoryName><DeploymentFolderClient>$(ClickOnceDropLocation)</DeploymentFolderClient><ExecutableName>App.exe</ExecutableName><DeploymentThumbPrint>$(SolutionRoot)\$(ProjectNamespace).UI.Win\$(ProjectNamespace).UI.Win_TemporaryKey.pfx</DeploymentThumbPrint> <DeploymentPublishProperties> Configuration=Release;ProductName=App;PublisherName=Us; GenerateManifests=true;WebPage=default.htm</DeploymentPublishProperties></ClickOnceProjects></ItemGroup>`
 On the **AfterGet**-target (which gets called by the
 TeamSystem-build-engine when the sourcefiles are retrieved from
 SourceControl) i do the following:
@@ -64,11 +64,11 @@ SourceControl) i do the following:
     For this we used the \<Version\>-task from MSBuild Community Task
     like:
     <span
-    class="small">`<Version VersionFile="$(SolutionRoot)\SolutionItems\Version.txt" RevisionType="Increment"><Output TaskParameter="Major" PropertyName="Major" /><Output TaskParameter="Minor" PropertyName="Minor" /><Output TaskParameter="Build" PropertyName="Build" /><Output TaskParameter="Revision" PropertyName="Revision" /></Version><Message Text="New version: $(Major).$(Minor).$(Build).$(Revision)"/>`</span>
+    class="small">`<Version VersionFile="$(SolutionRoot)\SolutionItems\Version.txt" RevisionType="Increment"><Output TaskParameter="Major" PropertyName="Major" /><Output TaskParameter="Minor" PropertyName="Minor" /><Output TaskParameter="Build" PropertyName="Build" /><Output TaskParameter="Revision" PropertyName="Revision" /></Version><Message Text="New version: $(Major).$(Minor).$(Build).$(Revision)"/>`
 4.  Then the SolutionInfo.vb gets deleted and recreated with the new
     verion number by using the AssemblyInfo-task like:
     <span
-    class="small">`<DeleteCondition="Exists('$(SolutionRoot)\SolutionItems\SolutionInfo.vb')"Files="$(SolutionRoot)\SolutionItems\SolutionInfo.vb" /><!-- Recreate SolutionInfo.vb --><Message Text="SYSTEM_NAME: Recreating Solution.vb"/><AssemblyInfo CodeLanguage="VB"OutputFile="$(SolutionRoot)\SolutionItems\SolutionInfo.vb"ComVisible="false"CLSCompliant="false"AssemblyConfiguration="Release"AssemblyCompany="CompanyName"AssemblyProduct="SystemName"AssemblyCopyright="Copyright © Company 2007"AssemblyVersion="$(Major).$(Minor).$(Build).$(Revision)"/>`</span>
+    class="small">`<DeleteCondition="Exists('$(SolutionRoot)\SolutionItems\SolutionInfo.vb')"Files="$(SolutionRoot)\SolutionItems\SolutionInfo.vb" /><!-- Recreate SolutionInfo.vb --><Message Text="SYSTEM_NAME: Recreating Solution.vb"/><AssemblyInfo CodeLanguage="VB"OutputFile="$(SolutionRoot)\SolutionItems\SolutionInfo.vb"ComVisible="false"CLSCompliant="false"AssemblyConfiguration="Release"AssemblyCompany="CompanyName"AssemblyProduct="SystemName"AssemblyCopyright="Copyright © Company 2007"AssemblyVersion="$(Major).$(Minor).$(Build).$(Revision)"/>`
 
 
 Now the Team System build engine will go about and do it's stuff
@@ -80,18 +80,18 @@ ClickOnce-applications (specified in the itemgroup above) as follows:
 1.  Clean the content of the publish-location so that only the latest
     version of the build is available:
     <span
-    class="small">`<RemoveDir Directories="$(ClickOnceDropLocation)" /><MakeDir Directories="$(ClickOnceDropLocation)" />`</span>
+    class="small">`<RemoveDir Directories="$(ClickOnceDropLocation)" /><MakeDir Directories="$(ClickOnceDropLocation)" />`
 2.  Then do a MSBuild-publish. This creates variables/output that
     contains the files for the ClickOnce-deployment. All important for
     this task to execute sucessfully is that you controll the
     versionnumber (which we do as shown above).
     The task is executed as follows:
     <span
-    class="small">`<MSBuild Targets="Publish" Projects="@(ClickOnceProjects)"Properties="%(ClickOnceProjects.ProjectPublishProperties);%(ClickOnceProjects.DeploymentPublishProperties); PublishUrl=%(ClickOnceProjects.DeploymentFolderClient); MinimumRequiredVersion=$(Major).$(Minor).$(Build).$(Revision); ApplicationVersion=$(Major).$(Minor).$(Build).$(Revision)"><Output TaskParameter="TargetOutputs" ItemName="PublishTargetOutputs"/></MSBuild>`</span>
+    class="small">`<MSBuild Targets="Publish" Projects="@(ClickOnceProjects)"Properties="%(ClickOnceProjects.ProjectPublishProperties);%(ClickOnceProjects.DeploymentPublishProperties); PublishUrl=%(ClickOnceProjects.DeploymentFolderClient); MinimumRequiredVersion=$(Major).$(Minor).$(Build).$(Revision); ApplicationVersion=$(Major).$(Minor).$(Build).$(Revision)"><Output TaskParameter="TargetOutputs" ItemName="PublishTargetOutputs"/></MSBuild>`
 3.  The output of this target is then moved to the publish-location like
     so:
     <span
-    class="small">`<CreateItem Include="@(ClickOnceProjects->'%(RelativeDir)bin\Release\SystemName.publish\**\*.*')"><Output TaskParameter="Include" ItemName="FilesToPublish"/></CreateItem><!--Copy the publication-files to the server--><Copy SourceFiles="@(FilesToPublish)"DestinationFiles="@(FilesToPublish->'%(DeploymentFolderClient)\%(RecursiveDir)%(Filename)%(Extension)')"SkipUnchangedFiles="false" />`</span>
+    class="small">`<CreateItem Include="@(ClickOnceProjects->'%(RelativeDir)bin\Release\SystemName.publish\**\*.*')"><Output TaskParameter="Include" ItemName="FilesToPublish"/></CreateItem><!--Copy the publication-files to the server--><Copy SourceFiles="@(FilesToPublish)"DestinationFiles="@(FilesToPublish->'%(DeploymentFolderClient)\%(RecursiveDir)%(Filename)%(Extension)')"SkipUnchangedFiles="false" />`
 
 
 Then of course we check-in the Version.txt and the SolutionInfo.vb on a

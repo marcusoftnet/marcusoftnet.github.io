@@ -13,24 +13,24 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/ndoc-is-dead-long-live-sandca
 As i [written
 before](http://marcushammarberg.blogspot.com/2007/07/sandcastle-or-marcus-betting-on-wrong.html)
 Microsoft is plugging a documentation product called Sandcastle as a
-replacement for <span>="blsp-spelling-error">NDoc</span>. I was wondering were <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">NDoc</span> had gone
+replacement for NDoc. I was wondering were <span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">NDoc had gone
 but today i found [this
 article](http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx)
 which explains a lot. The header of the article is quite scary "...
-death of <span>="blsp-spelling-error">NDoc</span>".
+death of NDoc".
 
 I've tried Sandcastle today and i am not impressed:
 
 
--   The product is still in <span>CTP</span> (Community Technology
+-   The product is still in CTP (Community Technology
     Preview) - and it shows. It is not done yet!
 -   No good support exists (out-of-the-box) for <span
-    id="SPELLING_ERROR_4" class="blsp-spelling-error">MSBuild</span>
+    id="SPELLING_ERROR_4" class="blsp-spelling-error">MSBuild
     integration. There are some third-party product
--   It is <span>sloo</span>-ow. At least twice the time
-    compared to <span>NDoc</span>.
+-   It is sloo-ow. At least twice the time
+    compared to NDoc.
 
 I can only hope that these things will get better as the final <span
-id="SPELLING_ERROR_7" class="blsp-spelling-corrected">release</span>
+id="SPELLING_ERROR_7" class="blsp-spelling-corrected">release
 arrives. Or will it be part of Visual Studio 2008 - that is my guess.

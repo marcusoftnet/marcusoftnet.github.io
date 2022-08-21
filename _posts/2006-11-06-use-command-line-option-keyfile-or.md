@@ -38,7 +38,7 @@ To do this, following these instructions:
 3.  In between the start and end \<**AssemblyOriginatorKeyFile\>**
     element enter the absolute or relative path to the key file name, ie
     \<**AssemblyOriginatorKeyFile\><span
-    class="cb1">.\\..\\..\Build\StrongNameKeys\MyKey.snk\<</span>/AssemblyOriginatorKeyFile\>**
+    class="cb1">.\\..\\..\Build\StrongNameKeys\MyKey.snk\</AssemblyOriginatorKeyFile\>**
 4.  Save the file and reload the solution/project. You will now notice
     that Visual Studio happily uses the entered key file name and don't
     forget to remove the old AssemblyKeyFile attribute

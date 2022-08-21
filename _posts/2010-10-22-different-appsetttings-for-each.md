@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Different appSetttings for each developer in the
-team - part II
+title: Different appSetttings for each developer in the team - part II
 date: '2010-10-22T10:23:00.002+02:00'
 author: Marcus Hammarberg
 tags:
@@ -31,10 +30,9 @@ in .config-files. With that attribute you can point to another file that
 contains one or more keys from the appSettings-node. Two important
 things about that:
 
-
-1.  If the file is not present it will use the settings in
+1. If the file is not present it will use the settings in
     the original app.config
-2.  If the file is present the settings in it will override any
+2. If the file is present the settings in it will override any
     attributes that are specified in both places
 
 <div>
@@ -53,8 +51,6 @@ here. Here is what it looks like:
 
 <div>
 
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -68,8 +64,6 @@ data-border="0" width="320" height="50" /></a>
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -101,8 +95,6 @@ data-border="0" width="320" height="118" /></a>
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -124,8 +116,6 @@ data-border="0" /></a>
 </div>
 
 <div>
-
-
 
 </div>
 

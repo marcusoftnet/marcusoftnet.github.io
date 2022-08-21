@@ -18,10 +18,10 @@ is now down to almost nothing. Which i take that i am not afraid of
 nothing anymore - good!
 
 On Sunday i was presenter on the last concert of <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">Gothenborg</span>
+id="SPELLING_ERROR_0" class="blsp-spelling-error">Gothenborg
 Brass Band. Sad - but i tried to keep the focus of that fact and keep
 focus on the music instead. For me the concert also was a milestone
-since the conductor was Nicholas <span>="blsp-spelling-error">Childs</span> - the musical director of
+since the conductor was Nicholas Childs - the musical director of
 Black Dyke Band, brass band personality extraordinaire and one of my
 childhood idols. I still have posters of him (and his brother Robert) on
 my boy room wall.
@@ -31,7 +31,7 @@ spoiled the order of the program. From what i heard in the audience that
 didn't interfere much. The band was also in excellent form. Good to
 hear!
 
-Yesterday, Monday, was a sad day when the funeral of [Bengt <span>Eklund</span>](http://marcushammarberg.blogspot.com/2007/04/bengt-eklund.html)
+Yesterday, Monday, was a sad day when the funeral of [Bengt Eklund](http://marcushammarberg.blogspot.com/2007/04/bengt-eklund.html)
 took place. The service was very nice(?) and a lot of fitting and good
 music was played. There was a lot of tears and sobbing though, and the
 farewell from the band is a memory that will stay with me forever. Thank
@@ -49,8 +49,8 @@ So three big "thank you"-s are in order:
 -   Kerstin - thank you for trusting in me and for your confidence that
     i would pull it off. You made me strong and I hope that I could help
     you and your family in some way. Thank you
--   <span id="SPELLING_ERROR_3" class="blsp-spelling-error">GBB</span> -
+-   GBB -
     thanks for letting me into the band again and again. I feel like one
     of you and my thumbs are already white for you doing well at the
     <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-corrected">Europeans</span>.
+    class="blsp-spelling-corrected">Europeans.

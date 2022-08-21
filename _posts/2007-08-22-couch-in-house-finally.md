@@ -43,8 +43,8 @@ until... today!
 <div>
 
 If you like to wait and don't wont your orders handled fast i can
-recommend <span>="blsp-spelling-error">Folkhemmet</span>. I'll get back on the
-quality of <span>="blsp-spelling-corrected">their</span> furniture. Enough said!
+recommend Folkhemmet. I'll get back on the
+quality of their furniture. Enough said!
 
 </div>
 
@@ -56,7 +56,7 @@ quality of <span>="blsp-spelling-corrected">their</span> furniture. Enough said!
 
 <div>
 
-So here is <span>="blsp-spelling-error">Elin</span> taking a well deserved rest
+So here is Elin taking a well deserved rest
 after putting the whole thing together... I helped a little bit.
 
 </div>

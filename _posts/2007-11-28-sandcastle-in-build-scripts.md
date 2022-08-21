@@ -12,12 +12,12 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/sandcastle-in-build-scripts.h
 ---
 
 I
-found this article, via a tip from a <span>="blsp-spelling-corrected">colleague</span>, on how to use
-Sandcastle (<span>="blsp-spelling-corrected">Microsoft's</span> new documentation
+found this article, via a tip from a colleague, on how to use
+Sandcastle (Microsoft's new documentation
 generator) to generate system documentation as part of a build script:
 
 [Here it
 is](http://blog.maartenballiauw.be/post/2007/08/automatically-generate-sandcastle-documentation-using-cruisecontrol-net-or-vsts-team-build.aspx)
 
-Nice examples both for <span>="blsp-spelling-error">CruiseControl</span> and <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">TFS</span> also.
+Nice examples both for CruiseControl and <span
+id="SPELLING_ERROR_3" class="blsp-spelling-error">TFS also.

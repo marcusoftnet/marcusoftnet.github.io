@@ -14,7 +14,7 @@ Christmas time and she is doing a very good performance, in her style.
 This is before she started to wailing every song to death.
 
 Extra kudos to the very good gospel choir in the background. They really
-look like they are enjoying <span>="blsp-spelling-corrected">themselves</span>.
+look like they are enjoying themselves.
 
 Here you go, O holy night, with Maria Carey.
 

@@ -63,18 +63,18 @@ your analogy over to your context and situation quite easy.
     project is about clearing out the final details on how two
     organizations should be separated from each other. There's a lot of
     discussions, decisions and meetings to be had. A lot of people (4
-    teams of 6-8 people each) are involved.</span>
+    teams of 6-8 people each) are involved.
 -   <span style="font-size: small; font-weight: normal;">The other
     project is much smaller: we (4 - 5 of us) need to clear out some
     misunderstandings around a project run at one of our hospitals for
     the mother organization of the Salvation Army, so that they know
-    where and why we spend our funds this way.  </span>
+    where and why we spend our funds this way.  
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">For
 both of these projects a number of common factors are the
-same:</span></span>
+same:
 
 </div>
 
@@ -82,14 +82,14 @@ same:</span></span>
 
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">These projects are very important (the
-    word "paramount" has been used a couple of times)</span></span>
+    word "paramount" has been used a couple of times)
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">They are urgent, but on different
     timescales (month-months in the first case, day-days in the
-    second)</span></span>
+    second)
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">They are staffed with people that have
-    a lot of other things to do. </span></span>
+    a lot of other things to do. 
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -105,7 +105,7 @@ data-border="0" width="171" height="200" /></a>
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -113,16 +113,16 @@ data-border="0" width="171" height="200" /></a>
 
 <span style="font-size: small;"><span style="font-weight: normal;">All
 in all... the perfect setup for success. Don't you
-agree? </span></span><span
+agree? <span
 style="font-size: small; font-weight: normal;">And after you don't. Stop
-and think for awhile. </span>
+and think for awhile. 
 
 </div>
 
 <div>
 
 <span style="font-size: small; font-weight: normal;">You been in these
-projects.</span>
+projects.
 
 </div>
 
@@ -131,35 +131,35 @@ projects.</span>
 <div>
 
 <span style="font-size: small;"><span
-style="font-weight: normal;">Right?</span></span>
+style="font-weight: normal;">Right?
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span
-style="font-weight: normal;">Right?</span></span>
+style="font-weight: normal;">Right?
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span
-style="font-weight: normal;">Right, sure you have.</span></span>
+style="font-weight: normal;">Right, sure you have.
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">Me
-to. </span></span>
+to. 
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">So
-how does project like these look then?</span></span>
+how does project like these look then?
 
 </div>
 
@@ -173,20 +173,20 @@ how does project like these look then?</span></span>
 
 How we work
 
-### <span style="font-size: small;"><span style="font-weight: normal;">What ends up happening is not very hard to figure out. </span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">What ends up happening is not very hard to figure out. 
 
-### <span style="font-size: small;"><span style="font-weight: normal;">Person A start to work and then hand stuff over to the next person. Person B in turn doesn't have time right now... so after a day or two (or hour or two, take your pick), picks the task up and ... realize that he didn't really understand where A left off, so an email is sent (urgent email) to clarify the situation. </span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">Person A start to work and then hand stuff over to the next person. Person B in turn doesn't have time right now... so after a day or two (or hour or two, take your pick), picks the task up and ... realize that he didn't really understand where A left off, so an email is sent (urgent email) to clarify the situation. 
 
-### <span style="font-size: small;"><span style="font-weight: normal;">Sadly the A is involved in other things and after a day can explain what he meant and send a more comprehensive answer to B. Now B understands but ... has an important conference the rest of the week. But on Monday B can give answers and now can send it on to C. </span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">Sadly the A is involved in other things and after a day can explain what he meant and send a more comprehensive answer to B. Now B understands but ... has an important conference the rest of the week. But on Monday B can give answers and now can send it on to C. 
 
-### <span style="font-size: small;"><span style="font-weight: normal;">C has been wondering what's taken so long. As C reads the proposed actions, he realizes that A and B is focusing on the wrong things. Why wasn't C involved earlier, C thinks angrily. And sends a quite angry email to both A and B: "we should meet and discuss this! My next week is pretty busy but after that..." C sends the email and then storm past A and B's desks on his way for a coffee.</span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">C has been wondering what's taken so long. As C reads the proposed actions, he realizes that A and B is focusing on the wrong things. Why wasn't C involved earlier, C thinks angrily. And sends a quite angry email to both A and B: "we should meet and discuss this! My next week is pretty busy but after that..." C sends the email and then storm past A and B's desks on his way for a coffee.
 
 <div>
 
 <span style="font-size: small;">Actually, just writing that made me
 angry. It's just stupid, don't you agree? But still this is how many
 discussions and decision making processes are run. Both in Swedish and
-Indonesian companies I've worked for.</span>
+Indonesian companies I've worked for.
 
 </div>
 
@@ -197,11 +197,11 @@ Indonesian companies I've worked for.</span>
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">In
-processes like the one described above the work is </span>not <span
+processes like the one described above the work is not <span
 style="font-weight: normal;">being worked on much more than it is
 actually being worked. This, of course, has a dramatic and damaging
 effect on the lead time to complete the work. Try this very simple
-exercise, if you dare, on a whiteboard next to you:</span></span>
+exercise, if you dare, on a whiteboard next to you:
 
 </div>
 
@@ -211,15 +211,15 @@ exercise, if you dare, on a whiteboard next to you:</span></span>
 
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Draw a line across the entire board.
-    For extra measures mark it with dates (or weeks even)</span></span>
+    For extra measures mark it with dates (or weeks even)
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Write "Working" above it and "Waiting"
-    below it, to the left. </span></span>
+    below it, to the left. 
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Now plot where the task has been by
-    doing a staple diagram of sorts. </span></span><span
+    doing a staple diagram of sorts. <span
     style="font-size: small; font-weight: normal;">You'll end up with
-    something like this:</span>
+    something like this:
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -234,7 +234,7 @@ data-border="0" width="640" height="148" /></a>
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -243,7 +243,7 @@ data-border="0" width="640" height="148" /></a>
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">Now,
-for the fun part. </span></span>
+for the fun part. 
 
 </div>
 
@@ -253,13 +253,13 @@ for the fun part. </span></span>
 
 -   <span style="font-size: small; font-weight: normal;">Measure the
     length of the line as it's in "Working" area. It doesn't have to be
-    exact but enough to prove a point</span>
+    exact but enough to prove a point
 -   <span style="font-size: small; font-weight: normal;">Draw a new
     similar diagram below and plot only the "Working"-time on the
-    diagram.</span>
+    diagram.
 -   <span style="font-size: small; font-weight: normal;">You'll end up
     with something like this (I've even added a little waiting time in
-    the beginning, I'll get back to that later in the post):</span>
+    the beginning, I'll get back to that later in the post):
 
 
 
@@ -276,7 +276,7 @@ data-border="0" width="640" height="148" /></a>
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -287,14 +287,14 @@ true <a href="http://heathbrothers.com/download/switch-framework.pdf"
 target="_blank">Switch-spirit</a> we now have visualized information and
 hence "found the feeling" or felt the pain that's needed to improve.
 We've also "posted a postcard from the future" to show how fast it could
-go? Now, the only question is, how?</span></span>
+go? Now, the only question is, how?
 
 </div>
 
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -304,20 +304,20 @@ go? Now, the only question is, how?</span></span>
 this exercise is a very simple form of
 <a href="http://en.wikipedia.org/wiki/Value_stream_mapping"
 target="_blank">Value Stream Mapping</a>. You can do much more advance
-versions of this, but seldom do to get the point across.</span></span>
+versions of this, but seldom do to get the point across.
 
 </div>
 
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
 How to get to better
 
-### <span style="font-size: small;"><span style="font-weight: normal;">Ok, here it comes. My solution to this age old problem. I'm planning on releasing this as book later this year, but you can read it now. Please don't spread it since I want to trademark it. It's really big news.</span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">Ok, here it comes. My solution to this age old problem. I'm planning on releasing this as book later this year, but you can read it now. Please don't spread it since I want to trademark it. It's really big news.
 
 <div>
 
@@ -351,7 +351,7 @@ this is a bad, so **why** does this still happen?
 
 ### Why is this
 
-### <span style="font-size: small;"><span style="font-weight: normal;">By now, most of you probably has left me since I'm just ranting. So for you there back in the corner that still is reading this... this is a bit of a puzzle, right. Because everyone know this. Manning an urgent and important project with already busy people will lead to really hard scheduling and that in turn will hurt the lead time. Badly. </span></span>
+### <span style="font-size: small;"><span style="font-weight: normal;">By now, most of you probably has left me since I'm just ranting. So for you there back in the corner that still is reading this... this is a bit of a puzzle, right. Because everyone know this. Manning an urgent and important project with already busy people will lead to really hard scheduling and that in turn will hurt the lead time. Badly. 
 
 <div>
 
@@ -359,7 +359,7 @@ this is a bad, so **why** does this still happen?
 style="font-weight: normal;">Still, this is the common way of doing
 things. "I want you to engage in this project also", "We're pulling
 people from other project to create a task force to make sure that ..."
-You've heard things like these. </span></span>
+You've heard things like these. 
 
 </div>
 
@@ -382,14 +382,14 @@ think that it's because we're all too often focusing on keeping people
 busy and efficient. Don't miss
 <a href="http://dannorth.net/" target="_blank">Dan North</a> in this
 <a href="http://vimeo.com/7849591" target="_blank">excellent talk on
-effectiveness vs efficiency</a>. </span></span>
+effectiveness vs efficiency</a>. 
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -397,14 +397,14 @@ effectiveness vs efficiency</a>. </span></span>
 
 <span style="font-size: small;"><span style="font-weight: normal;">This,
 by the way, goes both for organizations but also for individuals: we
-want to be busy, right? </span></span> 
+want to be busy, right?  
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">It's
-super boring to have nothing to do. </span></span>And I don't look
+super boring to have nothing to do. And I don't look
 important either. 
 
 </div>
@@ -418,7 +418,7 @@ important either. 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">And
-we want our people to be busy, right? </span></span>
+we want our people to be busy, right? 
 
 </div>
 
@@ -427,7 +427,7 @@ we want our people to be busy, right? </span></span>
 <span style="font-size: small;"><span style="font-weight: normal;">They
 cannot just sit around do nothing, now can they? It's better that they
 do something than nothing. It's simply not efficient if they are not
-busy. </span></span>
+busy. 
 
 </div>
 
@@ -473,14 +473,14 @@ people in processes like these is often the lack of clear priorities.
 I've heard about a big bank in Sweden that had 15 projects that was top
 prioritized. That's 15 project that we should work on first. I'm not
 sure that's even English? Surely only one project (person, thing or
-whatever) can be the first?</span></span>
+whatever) can be the first?
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -491,14 +491,14 @@ also worked at a Swedish insurance companies that, in one project, had
 so many PRIO 1 items in the backlog so that they (wait for it)
 introduced PRIO 0. Yes, PRIO 0 is even more prioritized than PRIO 1.
 Surely this will redeem the situation? It's did not and pretty soon they
-had about 20 PRIO 0 in the backlog too.  </span></span>
+had about 20 PRIO 0 in the backlog too.  
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 
@@ -508,14 +508,14 @@ had about 20 PRIO 0 in the backlog too.  </span></span>
 a lot of things that is highest priority for teams and people we're
 making it very hard to for them to know what to do? In a lot of
 situations it really doesn't matter: they are making someone
-disappointed anyway. </span></span>
+disappointed anyway. 
 
 </div>
 
 <div>
 
 <span style="font-size: small;"><span style="font-weight: normal;">
-</span></span>
+
 
 </div>
 

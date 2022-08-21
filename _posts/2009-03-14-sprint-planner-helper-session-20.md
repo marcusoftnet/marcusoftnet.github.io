@@ -33,10 +33,10 @@ parameters:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
-> <span style="color: blue">public</span> <span
-> style="color: #2b91af">ActionResult</span> PrioUp(<span
-> style="color: blue">int</span> productID, <span
-> style="color: blue">int</span> productBacklogItemID)
+> <span style="color: blue">public <span
+> style="color: #2b91af">ActionResult PrioUp(<span
+> style="color: blue">int productID, <span
+> style="color: blue">int productBacklogItemID)
 >
 > </div>
 
@@ -50,12 +50,12 @@ my example:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
-> Html.ActionLink(<span style="color: #a31515">"Prio up"</span>,  <span
-> style="color: #a31515">"PrioUp"</span>, <span
-> style="color: #a31515">"ProductBacklogItem"</span>, <span
-> style="color: blue">new</span> {productID = Model.ID,
+> Html.ActionLink(<span style="color: #a31515">"Prio up",  <span
+> style="color: #a31515">"PrioUp", <span
+> style="color: #a31515">"ProductBacklogItem", <span
+> style="color: blue">new {productID = Model.ID,
 > productBacklogItemID = item.ID}, <span
-> style="color: blue">null</span>);
+> style="color: blue">null);
 >
 > </div>
 
@@ -70,29 +70,29 @@ So finally I added this routing-table entry, first of the entries:
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
 >             <span style="color: green">//
-> http://localhost/ProductBacklogItem/PrioUp/productId/productBacklogItemID</span>
+> http://localhost/ProductBacklogItem/PrioUp/productId/productBacklogItemID
 >
 >             <span style="color: green">//
-> http://localhost/ProductBacklogItem/PrioUp/1001/2</span>
+> http://localhost/ProductBacklogItem/PrioUp/1001/2
 >
 >             routes.MapRoute(
 >
 >                 <span
-> style="color: #a31515">"ProductBacklogPrio"</span>,                                      
-> <span style="color: green">// Name</span>
+> style="color: #a31515">"ProductBacklogPrio",                                      
+> <span style="color: green">// Name
 >
 >                 <span
-> style="color: #a31515">"{controller}/{action}/{productId}/{productBacklogItemID}"</span>,
-> <span style="color: green">// Url with parameters</span>
+> style="color: #a31515">"{controller}/{action}/{productId}/{productBacklogItemID}",
+> <span style="color: green">// Url with parameters
 >
->                 <span style="color: blue">new</span> {controller =
+>                 <span style="color: blue">new {controller =
 > <span
-> style="color: #a31515">"ProductBacklogItem"</span>},                   
-> <span style="color: green">// Parameter defaults</span>
+> style="color: #a31515">"ProductBacklogItem"},                   
+> <span style="color: green">// Parameter defaults
 >
->                 <span style="color: blue">new</span> { productId =
-> <span style="color: #a31515">@"\d+"</span>, productBacklogItemID =
-> <span style="color: #a31515">@"\d+"</span> }
+>                 <span style="color: blue">new { productId =
+> <span style="color: #a31515">@"\d+", productBacklogItemID =
+> <span style="color: #a31515">@"\d+" }
 >
 >             );
 >

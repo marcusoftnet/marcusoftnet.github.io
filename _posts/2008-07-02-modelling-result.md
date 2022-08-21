@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/07/modelling-result.html
 <div>
 
 As [I wrote earlier](http://www.marcusoft.net/2008/06/new-modeljob.html)
-I have done another "photo session" for <span>="blsp-spelling-error">[Avega](http://www.avega.se/)</span>. Who
+I have done another "photo session" for [Avega](http://www.avega.se/). Who
 knew that such assignments were to take place at a software consultant
 firm ;).
 

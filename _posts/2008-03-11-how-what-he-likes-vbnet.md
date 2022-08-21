@@ -26,4 +26,4 @@ just confirms that this is squeezed out, just for the sake of it.
 
 Well, well - he'll probably grow up and learn to talk a adult language.
 Hopefully soon. Or he might stay on and play with <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">Lego</span>. ;)
+id="SPELLING_ERROR_0" class="blsp-spelling-corrected">Lego. ;)

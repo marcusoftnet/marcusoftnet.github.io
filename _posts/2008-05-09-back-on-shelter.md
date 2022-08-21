@@ -25,15 +25,15 @@ the shelter. They are, many of them, younger than me. And already they
 are on the bottom of our society... Others have been there for years and
 years.
 
-We are so <span>="blsp-spelling-corrected">privileged</span> in our daily <span
-id="SPELLING_ERROR_1" class="blsp-spelling-corrected">lives</span> and
-so seldom stop and <span>="blsp-spelling-corrected">appreciate</span> it. Most of us have
+We are so privileged in our daily <span
+id="SPELLING_ERROR_1" class="blsp-spelling-corrected">lives and
+so seldom stop and appreciate it. Most of us have
 families, friends and co-workers that cares about how we are doing. We
-have stuff to do (work for example) - <span>="blsp-spelling-corrected">that's</span> another thing to ponder.
+have stuff to do (work for example) - that's another thing to ponder.
 What would you do if you didn't have anything to do? I know I'll go
 crazy pretty soon.
 
-All of this might sound like <span>="blsp-spelling-corrected">cliches</span> - but I dare you; think
+All of this might sound like cliches - but I dare you; think
 about it and you will most certainly think different of the people that
 doesn't fit in our well organized world.
 

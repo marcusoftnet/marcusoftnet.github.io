@@ -55,8 +55,7 @@ we can clearly see that 70101 is a bigger number than 65000.
 
 <div align="left">
 
-So here you have it - the <span>="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">MSBuild</span>-version of the
+So here you have it - the MSBuild-version of the
 Y2k-problem but rather Y2007-problem to be exact.
 
 </div>
@@ -67,20 +66,20 @@ Y2k-problem but rather Y2007-problem to be exact.
 
 <div align="left">
 
-The solutions are plentiful and very <span>="blsp-spelling-corrected">innovative</span>, for example:
+The solutions are plentiful and very innovative, for example:
 
 </div>
 
 -   <div align="left">
    [http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1066500&<span
     id="SPELLING_ERROR_2" class="blsp-spelling-error"
-    onclick="BLOG_clickHandler(this)">SiteID</span>=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1066500&SiteID=1)
+    onclick="BLOG_clickHandler(this)">SiteID=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1066500&SiteID=1)
    </div>
 
 -   <div align="left">
    [http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=940650&<span
     id="SPELLING_ERROR_3" class="blsp-spelling-error"
-    onclick="BLOG_clickHandler(this)">SiteID</span>=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=940650&SiteID=1)
+    onclick="BLOG_clickHandler(this)">SiteID=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=940650&SiteID=1)
    </div>
 
 But they all suffers from the flaw that you need to distribute any

@@ -14,10 +14,10 @@ Yesterday was the second job of my "modelling career". You remember [the
 first](http://www.marcusoft.net/2007/08/marcus-model_27.html) don't
 you?
 
-This time it was also for [<span>="blsp-spelling-error">Avega</span>](http://www.avega.se/) and for
+This time it was also for [Avega](http://www.avega.se/) and for
 a short interview in the annual report. Like the last time I felt really
 confused about wearing make-up and doing poses. This time was in the
-public also - at [<span>="blsp-spelling-error">Stureplan</span>](http://hitta.se/SearchCombi.aspx?vad=&var=stureplan%2c+stockholm)
+public also - at [Stureplan](http://hitta.se/SearchCombi.aspx?vad=&var=stureplan%2c+stockholm)
 downtown Stockholm. It was the same photographer - and he is great!
 
 And, I have to say it don't I, the pictures are sure to be great. It

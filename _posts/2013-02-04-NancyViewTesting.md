@@ -36,22 +36,22 @@ something like this:
 
 > > <span
 > > style="font-family: Courier New, Courier, monospace; font-size: x-small;">Nancy.ViewEngines.ViewNotFoundException:
-> > Unable to locate view 'FariyTaleFigure'</span>
+> > Unable to locate view 'FariyTaleFigure'
 >
 > > <span
 > > style="font-family: Courier New, Courier, monospace; font-size: x-small;">Currently
 > > available view engine extensions:
-> > sshtml,html,htm,cshtml,vbhtml</span>
+> > sshtml,html,htm,cshtml,vbhtml
 >
 > > <span
 > > style="font-family: Courier New, Courier, monospace; font-size: x-small;">Locations
 > > inspected:
-> > ,,,,,,,,views/SimpleDataModuleWithView/FariyTaleFigure-sv-SE,views/SimpleDataModuleWithView/FariyTaleFigure,SimpleDataModuleWithView/FariyTaleFigure-sv-SE,SimpleDataModuleWithView/FariyTaleFigure,views/FariyTaleFigure-sv-SE,views/FariyTaleFigure,FariyTaleFigure-sv-SE,FariyTaleFigure</span>
+> > ,,,,,,,,views/SimpleDataModuleWithView/FariyTaleFigure-sv-SE,views/SimpleDataModuleWithView/FariyTaleFigure,SimpleDataModuleWithView/FariyTaleFigure-sv-SE,SimpleDataModuleWithView/FariyTaleFigure,views/FariyTaleFigure-sv-SE,views/FariyTaleFigure,FariyTaleFigure-sv-SE,FariyTaleFigure
 >
 > > <span
 > > style="font-family: Courier New, Courier, monospace; font-size: x-small;">Root
 > > path:
-> > C:\Dev\DiscoveringNancyThroughTests\DiscoverNancy.Tests\NancyAndSimpleData.Tests\bin\Debug</span>
+> > C:\Dev\DiscoveringNancyThroughTests\DiscoverNancy.Tests\NancyAndSimpleData.Tests\bin\Debug
 
 Oh yeah - the two settings you need to do:
 

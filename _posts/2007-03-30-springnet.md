@@ -17,12 +17,12 @@ realize, when skimming through my posts on the blog, that this happens
 from time to time ... but i have learned some great programming skills
 the last week.
 
-At <span>Avega</span>,
+At Avega,
 where I work, we gave a seminar on Spring.NET, Dependency Injection and
 Aspect Orientation... and once again - i think i am in love.
 
 For the first time i finally understood Dependency injection and then
-the pieces and <span>beauty</span> of Spring.NET was very
+the pieces and beauty of Spring.NET was very
 obvious.
 
 Here are some links that might be useful:

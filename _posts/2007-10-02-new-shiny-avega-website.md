@@ -23,6 +23,6 @@ and wait for a while I'll flash (no pun intended) before your eyes. My
 10 seconds of fame on the net.
 
 This site adds to the <span style="color:#ffff00;"><span
-style="color:#000000;">proud feeling</span> </span>i already have for
+style="color:#000000;">proud feeling i already have for
 [Avega](http://www.avega.se/). The best place I've ever worked on. If
 you're interested of joining us, please let me know.

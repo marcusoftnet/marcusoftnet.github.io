@@ -23,31 +23,31 @@ it is and we'll have to live with it.
 
 So Team Foundation Server is used at my customer and that is how we will
 manage the project, code and documentation. We are also going to use the
-[SCRUM-project-template from <span>="blsp-spelling-error">Conchango</span>](http://www.scrumforteamsystem.com/en/default.aspx).
+[SCRUM-project-template from Conchango](http://www.scrumforteamsystem.com/en/default.aspx).
 
 However this is not good at all in my opinion. You force the team
-members to update <span>="blsp-spelling-corrected">their</span> work in Team Explorer
+members to update their work in Team Explorer
 before any Daily Scrum can be held, effective. For the team members that
 will be just an other place to do time sheets - it wont be done!
 
-Also the GUI (as <span>="blsp-spelling-corrected">I've</span> seen it) is not very good
+Also the GUI (as I've seen it) is not very good
 for moving things around. It is not agile at all, if you get what i
 mean. The easy "moving yellow stickers" methodology is <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">completely</span>
-out of the way and a "update your <span>="blsp-spelling-corrected">work items</span>. NOW!" - feeling is
+id="SPELLING_ERROR_3" class="blsp-spelling-corrected">completely
+out of the way and a "update your work items. NOW!" - feeling is
 there in its place.
 
 However, there might be a way out of this. There is an [<span
 id="SPELLING_ERROR_5"
-class="blsp-spelling-error">EpiServer</span>](http://www.episerver.com/en/)
-site-template that you can run <span>="blsp-spelling-corrected">on top</span> of the <span
-id="SPELLING_ERROR_7" class="blsp-spelling-error">Conchango</span>
+class="blsp-spelling-error">EpiServer](http://www.episerver.com/en/)
+site-template that you can run on top of the <span
+id="SPELLING_ERROR_7" class="blsp-spelling-error">Conchango
 template with might, just might, be the solution. [Here it
 is](http://www.codeplex.com/scrumdashboard).
 
 It promises a lot (dashboard with AJAX-support) and if it replicates the
 <span id="SPELLING_ERROR_8" class="blsp-spelling-corrected">brown
-paper</span> and yellow stickers in a good way - we'll might be able to
+paper and yellow stickers in a good way - we'll might be able to
 pull this off. I'll keep you posted.
 
 Keep your fingers crossed.

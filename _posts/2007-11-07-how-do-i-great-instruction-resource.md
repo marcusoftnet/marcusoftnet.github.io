@@ -13,16 +13,16 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/how-do-i-great-instruction-re
 During the last days i have run into more and more of the
 "How-do-I"-videos from Microsoft. They are really a great resource for
 getting fast introduction on a subject from everything to <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">Silverlight</span> to
-<span id="SPELLING_ERROR_1" class="blsp-spelling-error">LINQ</span>.
+id="SPELLING_ERROR_0" class="blsp-spelling-error">Silverlight to
+LINQ.
 
 Here is the overview link:
 <http://msdn2.microsoft.com/en-us/bb629407.aspx>.
 
-Below it you'll find several <span>="blsp-spelling-corrected">different</span> areas of <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">interest</span>.
-Here are my <span>="blsp-spelling-corrected">highlights</span>:
+Below it you'll find several different areas of <span
+id="SPELLING_ERROR_3" class="blsp-spelling-corrected">interest.
+Here are my highlights:
 
 -   [Asp.NET with AJAX](http://www.asp.net/learn/ajax-videos/)
 -   [Windows Forms](http://go.microsoft.com/?linkid=7198818)
--   [Windows Presentation Foundation (<span>WPF</span>)](http://go.microsoft.com/?linkid=7198817)
+-   [Windows Presentation Foundation (WPF)](http://go.microsoft.com/?linkid=7198817)

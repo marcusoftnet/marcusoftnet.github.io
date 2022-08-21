@@ -166,17 +166,17 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 In the Given step I’m using the step argument transformations that comes
 with SpecFlow.Assist.Dynamic and get a <span
-style="font-family: 'Courier New';">IList\<dynamic\></span> from the
+style="font-family: 'Courier New';">IList\<dynamic\> from the
 Table as parameter to the step definition. This can then be sent right
 on to the Simple.Data database object, like this:
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-\[Given(</span><span
+\[Given(<span
 style="background-color: white; color: #006080; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">@"the
-following accounts exist"</span><span class="Apple-style-span"
-style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]</span>
+following accounts exist"<span class="Apple-style-span"
+style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]
 
 <div id="codeSnippetWrapper">
 
@@ -208,16 +208,16 @@ Bom! Table loaded – one line.
 In the When-step I have faked up a controller. Here I am using
 SpecFlow.Assist.Dynamic to get a single instance, again with the use of
 the step argument transformations; this time it will turn the Table into
-a <span style="font-family: 'Courier New';">dynamic:</span>
+a <span style="font-family: 'Courier New';">dynamic:
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-\[When(</span><span
+\[When(<span
 style="background-color: white; color: #006080; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">@"I
-submit the following Create Account form"</span><span
+submit the following Create Account form"<span
 class="Apple-style-span"
-style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]</span>
+style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]
 
 <div id="codeSnippetWrapper">
 
@@ -252,17 +252,17 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 The actual FakeAccountController looks like this:
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-</span><span
-style="background-color: white; color: blue; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">public</span><span
+<span
+style="background-color: white; color: blue; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">public<span
 class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-</span><span
-style="background-color: white; color: blue; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">class</span><span
+<span
+style="background-color: white; color: blue; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">class<span
 class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-FakeAccountController</span>
+FakeAccountController
 
 <div id="codeSnippetWrapper">
 
@@ -331,12 +331,12 @@ content of the database. For now I just compare the number of rows,
 which is super lazy… but it’s ten o’clock and I’m tired…
 <span id="lnum1"
 style="background-color: white; color: #606060; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">
-1:</span><span class="Apple-style-span"
+1:<span class="Apple-style-span"
 style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; white-space: pre;">
-\[Then(</span><span
+\[Then(<span
 style="background-color: white; color: #006080; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">@"the
-following accounts should exist"</span><span class="Apple-style-span"
-style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]</span>
+following accounts should exist"<span class="Apple-style-span"
+style="background-color: white; font-family: 'Courier New', courier, monospace; font-size: 11px; line-height: 16px; text-align: left; white-space: pre;">)\]
 
 <div id="codeSnippetWrapper">
 
@@ -380,7 +380,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 <span class="Apple-style-span"
-style="font-size: 19px; font-weight: bold;">Conclusion</span>
+style="font-size: 19px; font-weight: bold;">Conclusion
 So by marrying the great Simple.Data framework with my small efforts in
 SpecFlow.Assist.Dynamic we can now move clear-text scenario data from
 and to the database very easily and with just a few lines of code.

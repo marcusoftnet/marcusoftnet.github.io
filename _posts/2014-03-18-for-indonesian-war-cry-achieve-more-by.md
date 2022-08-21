@@ -73,25 +73,25 @@ total time) as well as the time for each individual column.
 The first round I want you to do as much as possible at the same time,
 attending to all the columns at the same time. So do the columns row by
 row. Like this
-<span style="color: red;">A</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span><span
-style="color: blue;">I</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span>1
+<span style="color: red;">A<span class="Apple-tab-span"
+style="white-space: pre;"> <span
+style="color: blue;">I<span class="Apple-tab-span"
+style="white-space: pre;"> 1
 and then the next row:
-<span style="color: red;">B</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span><span
-style="color: blue;">II</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span>2
+<span style="color: red;">B<span class="Apple-tab-span"
+style="white-space: pre;"> <span
+style="color: blue;">II<span class="Apple-tab-span"
+style="white-space: pre;"> 2
 and then the next row:
-<span style="color: red;">C</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span><span
-style="color: blue;">III</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span>3
+<span style="color: red;">C<span class="Apple-tab-span"
+style="white-space: pre;"> <span
+style="color: blue;">III<span class="Apple-tab-span"
+style="white-space: pre;"> 3
 and so on until you reach
-<span style="color: red;">J</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span><span
-style="color: blue;">X</span><span class="Apple-tab-span"
-style="white-space: pre;"> </span>10
+<span style="color: red;">J<span class="Apple-tab-span"
+style="white-space: pre;"> <span
+style="color: blue;">X<span class="Apple-tab-span"
+style="white-space: pre;"> 10
 
 As a special treat to you people reading this online I include this as
 simulated exercise here:
@@ -169,14 +169,14 @@ of the things that isn't valueable.
 What in our life could we stop doing, simply because it's not valueable?
 Which of your "pens" could you put down?
 Worries?
-<span class="Apple-tab-span" style="white-space: pre;"> </span><a
+<span class="Apple-tab-span" style="white-space: pre;"> <a
 href="http://www.biblegateway.com/passage/?search=matthew+6%3A34&amp;version=NIV"
 target="_blank">Matt 6:34</a> -Therefore do not worry about tomorrow,
 for tomorrow will worry about itself. Each day has enough trouble of its
 own
-<span class="Apple-tab-span" style="white-space: pre;"> </span>
+<span class="Apple-tab-span" style="white-space: pre;">
 Money?
-<span class="Apple-tab-span" style="white-space: pre;"> </span><a
+<span class="Apple-tab-span" style="white-space: pre;"> <a
 href="http://www.biblegateway.com/passage/?search=Matt+6%3A19-21&amp;version=NIV"
 target="_blank">Matt 6:19-21</a> - Do not store up for yourselves
 treasures on earth, where moths and vermin destroy, and where thieves
@@ -185,13 +185,13 @@ where moths and vermin do not destroy, and where thieves do not break in
 and steal. For where your treasure is, there your heart will be also.
 
 Gossip?
-<span class="Apple-tab-span" style="white-space: pre;"> </span><a
+<span class="Apple-tab-span" style="white-space: pre;"> <a
 href="http://www.biblegateway.com/passage/?search=Proverbs+26%3A20&amp;version=NIV"
 target="_blank">Proverbs 26:20</a> - Without wood a fire goes out;
 without a gossip a quarrel dies down.
 
 My own importance or position?
-<span class="Apple-tab-span" style="white-space: pre;"> </span><a
+<span class="Apple-tab-span" style="white-space: pre;"> <a
 href="http://www.biblegateway.com/passage/?search=Matt+6%3A5&amp;version=NIV"
 target="_blank">Matt 6:5</a> - And when you pray, do not be like the
 hypocrites, for they love to pray standing in the synagogues and on the
@@ -214,6 +214,6 @@ to the next?
 
 God bless you in your strives to become more and more effective in doing
 the MOST good.<span class="Apple-tab-span" style="white-space: pre;">
-</span> 
+ 
 
 </div>

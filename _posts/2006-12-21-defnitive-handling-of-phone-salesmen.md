@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2006/12/defnitive-handling-of-phone-s
 If you are like me and don't approve of phone salesmen here's one
 way to handle them... if you can hold you're giggle.
 
-Thanks <span id="SPELLING_ERROR_1" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Magnus</span> for the tip
+Thanks Magnus for the tip
 
 
 

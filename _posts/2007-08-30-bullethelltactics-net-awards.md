@@ -13,13 +13,13 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/bullethelltactics-net-awards.
 ---
 
 A
-friend and <span>="blsp-spelling-corrected">colleague</span> (and current project
-member, actually) has created a game on the <span>="blsp-spelling-error">XNA</span> <span>="blsp-spelling-corrected">platform</span>. The game has been
+friend and colleague (and current project
+member, actually) has created a game on the XNA platform. The game has been
 competing in various contests but is now nominated to [.NET
 Awards](http://www.lidberg.se/awards/award.html), which is the arguable
 most prestigious award in the Microsoft community in Sweden.
 
 The game is called [Bullet Hell Tactics](http://shmup.blogspot.com/) and
 is great fun. Please download a try out version and then vote, vote,
-vote for Jens ([Team <span>="blsp-spelling-error">Shmup</span>](http://shmup.blogspot.com/))
+vote for Jens ([Team Shmup](http://shmup.blogspot.com/))
 and his game on the .NET Award site

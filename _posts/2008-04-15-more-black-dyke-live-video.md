@@ -11,10 +11,10 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/more-black-dyke-live-video.ht
 ---
 
 My
-God - they are producing at an <span>="blsp-spelling-corrected">unprecedented</span> speed right now.
+God - they are producing at an unprecedented speed right now.
 Here are another concert, with some truly great music:
 
 -   <http://video-2.leedsmet.ac.uk/View.aspx?ID=1170>
 -   <http://video-2.leedsmet.ac.uk/View.aspx?ID=1171> (The <span
-    id="SPELLING_ERROR_1" class="blsp-spelling-error">Engima</span>
+    id="SPELLING_ERROR_1" class="blsp-spelling-error">Engima
     Variations!!!)

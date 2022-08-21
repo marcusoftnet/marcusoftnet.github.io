@@ -32,7 +32,7 @@ data-border="0" /></a>
 
 <span class="Apple-style-span" style="color:#551A8B;"><span
 class="Apple-style-span" style="text-decoration: underline;">
-</span></span>
+
 
 </div>
 

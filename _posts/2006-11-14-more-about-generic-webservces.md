@@ -19,7 +19,7 @@ row:
 
 <span style="font-family:courier new;font-size:85%;">public static
 TWebService CreateWebService(string WebServiceURL)
-where TWebService : SoapHttpClientProtocol</span>
+where TWebService : SoapHttpClientProtocol
 
 means that TWebService must be of SoapHttpClientProtocol type.
 
@@ -27,7 +27,7 @@ However i ran into a bit of confusion when i wanted to instantiate
 TWebService. The compiler was not happy when i wrote:
 <span style="font-family:courier new;font-size:85%;">
 // This won't compile
-TWebService t = new TWebService(); </span>
+TWebService t = new TWebService();
 
 That is until i discovered another constraint - the Constructor
 Constraint. By using this constraint you can constrain the types that is
@@ -43,6 +43,6 @@ where TWebService : SoapHttpClientProtocol, new()
 {
 // This will be ok
 TWebService t = new TWebService();
-}</span>
+}
 
 Much nicer code without the previous delegate solution.

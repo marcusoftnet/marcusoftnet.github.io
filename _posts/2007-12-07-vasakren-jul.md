@@ -16,16 +16,16 @@ been in charge for the planning of it and i am quite nervous. Also the
 program up to this and this weekend has been almost to much to handle.
 
 But i am really looking forward to the concert tonight - it will be
-great. <span>="blsp-spelling-error">KarlMagnus</span> <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Fredriksson</span> is
-our guest soloist and that will <span>="blsp-spelling-corrected">surely</span> be great. <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">Vasa</span> Gospel is
+great. KarlMagnus <span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">Fredriksson is
+our guest soloist and that will surely be great. <span
+id="SPELLING_ERROR_3" class="blsp-spelling-error">Vasa Gospel is
 in kick-... form. And the band also sounds great. To top the whole thing
-off we have our youth gospel choir - <span>="blsp-spelling-error">Vasas</span> <span>="blsp-spelling-error">Granater</span> that will be nice addition
+off we have our youth gospel choir - Vasas Granater that will be nice addition
 to the whole scene.
 
 This will be great.
 
 The rest of the weekend will also be fun as i am presenter at the [<span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">WindCorp</span> Brass
+id="SPELLING_ERROR_6" class="blsp-spelling-error">WindCorp Brass
 band](http://www.windcorpbrassband.se/) Christmas concerts.

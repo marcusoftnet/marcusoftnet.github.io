@@ -14,11 +14,8 @@ Audio](http://www.salvoaudio.com/) yesterday.
 
 What a site! It contains tons of Salvation Army Brass band music, free
 as it seems! So if you ever wondered how it sounds, or if you are
-looking for <span id="SPELLING_ERROR_0" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">CD's</span> that is hard to find -
+looking for <span id="SPELLING_ERROR_0" classCD's that is hard to find -
 take a look here.
 
-Great tip, Andreas! And keep a lookout for the <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error"
-onclick="BLOG_clickHandler(this)">Vasa</span> Band (of Sweden) we try to
+Great tip, Andreas! And keep a lookout for the Vasa Band (of Sweden) we try to
 upload some stuff there.

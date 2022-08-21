@@ -83,18 +83,18 @@ rewrote the add method into this:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
-> <span style="color: blue">public</span> <span
-> style="color: blue">void</span> Add(T entity)
+> <span style="color: blue">public <span
+> style="color: blue">void Add(T entity)
 >
 >         {
 >
->             <span style="color: blue">if</span> (entity.ID == <span
-> style="color: #2b91af">BaseEntity</span>.NEWID)
+>             <span style="color: blue">if (entity.ID == <span
+> style="color: #2b91af">BaseEntity.NEWID)
 >
 >             {
 >
 >                 <span style="color: green">// get the new highest
-> id</span>
+> id
 >
 >                 entity.ID = FindAll().Max(x =\> x.ID) + 1;
 >
@@ -120,8 +120,8 @@ So the very simple Update-method:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
-> <span style="color: blue">public</span> <span
-> style="color: blue">void</span> Update(T entity)
+> <span style="color: blue">public <span
+> style="color: blue">void Update(T entity)
 >
 >         {
 >

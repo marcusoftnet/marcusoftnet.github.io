@@ -17,8 +17,8 @@ the Visual Studio videos I got this tip:
 <http://www.opensourcetemplates.org/>
 
 It is a site that holds a lot of free templates (<span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">CSS</span> and <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">XHTML</span>) that you
+id="SPELLING_ERROR_0" class="blsp-spelling-error">CSS and <span
+id="SPELLING_ERROR_1" class="blsp-spelling-error">XHTML) that you
 can use to build websites with. So now you have something to start off
 with instead of hacking it all by yourself.
 

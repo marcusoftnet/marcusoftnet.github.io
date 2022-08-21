@@ -2,8 +2,8 @@
 layout: post
 title: Oracle, ODP.NET, TFS Build and running tests
 under service account
-date: '2008-10-24T13:51:00.002+02:00' author:
-Marcus Hammarberg
+date: '2008-10-24T13:51:00.002+02:00'
+author: Marcus Hammarberg
 tags:
   - Tools
   - .NET

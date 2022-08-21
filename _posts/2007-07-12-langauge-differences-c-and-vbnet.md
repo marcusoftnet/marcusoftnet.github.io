@@ -11,13 +11,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1394425658544540729
 blogger_orig_url: http://www.marcusoft.net/2007/07/langauge-differences-c-and-vbnet.html
 ---
 
-When converting from C# to VB.Net (not <span>="blsp-spelling-corrected">liking</span> it though) i often find
+When converting from C# to VB.Net (not liking it though) i often find
 myself wondering "what is that keyword in VB.Net". There are tons of
-pages that <span>="blsp-spelling-corrected">answer</span> that question, this one is
+pages that answer that question, this one is
 quite good and it can be nice to have one stop for all your questions:
 
 <http://www.codeproject.com/dotnet/vbnet_c__difference.asp>
 
-If it fails for any <span>="blsp-spelling-corrected">reason</span> try "\[keyword in C#\]
-vb.net" in <span>="blsp-spelling-corrected">Google</span>.com. First hit will tell
-you the <span>="blsp-spelling-corrected">answer</span>, never fails.
+If it fails for any reason try "\[keyword in C#\]
+vb.net" in Google.com. First hit will tell
+you the answer, never fails.

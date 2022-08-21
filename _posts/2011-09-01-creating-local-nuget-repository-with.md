@@ -2,8 +2,8 @@
 layout: post
 title: Creating a local NuGet repository with
 dependencies bundles
-date: '2011-09-01T15:07:00.001+02:00' author:
-Marcus Hammarberg
+date: '2011-09-01T15:07:00.001+02:00'
+author: Marcus Hammarberg
 tags:
   - Tools
   - .NET

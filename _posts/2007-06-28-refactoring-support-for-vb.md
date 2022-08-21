@@ -8,10 +8,10 @@ tags:
 modified_time: '2010-12-14T16:19:05.550+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2442698285730963412
 blogger_orig_url: http://www.marcusoft.net/2007/06/refactoring-support-for-vb.html ---
-<span>="blsp-spelling-error">Refactoring</span> support for VB.NET in
+Refactoring support for VB.NET in
 Visual Studio is not very good out-of-the-box.
 
-No fear; here is a tool that introduces <span>="blsp-spelling-error">refactor</span> support for VB.NET -
+No fear; here is a tool that introduces refactor support for VB.NET -
 <http://msdn.microsoft.com/vbasic/downloads/tools/refactor/>
 
 It also has a very funky GUI...

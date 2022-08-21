@@ -50,10 +50,10 @@ for example.
 As always with Node frameworks Mongoose is really simple to install:
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install mongoose</span>
+> install mongoose
 
 Optionally passing (<span
-style="font-family: Courier New, Courier, monospace;">--save</span>) to
+style="font-family: Courier New, Courier, monospace;">--save) to
 update your package.json file.
 
 
@@ -88,9 +88,9 @@ On line 1 we are requiring mongoose as normal
 Line 3 - 9 declares our model. There are a lot of things that you can do
 here, like setting constraints (<span
 style="font-family: Courier New, Courier, monospace;">{type: Date,
-default: Date.now}</span> and <span
+default: Date.now} and <span
 style="font-family: Courier New, Courier, monospace;">{type: String,
-required: true}</span> are a couple that springs to mind). You can then
+required: true} are a couple that springs to mind). You can then
 use built-in <a href="http://mongoosejs.com/docs/validation.html"
 target="_blank">Mongoose validation</a> to validate that. I have not and
 I will tell you more about why later. 
@@ -104,28 +104,28 @@ Lines 13-16 sees us setting some values on it. 
 
 Line 18 calls the <span
 style="font-family: Courier New, Courier, monospace;">create()
-</span><span style="font-family: inherit;">method of the Post-object.
+<span style="font-family: inherit;">method of the Post-object.
 This can be thought of as a static method on the class rather than on
 the instance. I will not try to explain this with prototypes etc in
 Javascript. I think I understand it but dare not explain it. <a
 href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"
-target="_blank">Read JavaScript the good parts.</a> Twice.</span>
+target="_blank">Read JavaScript the good parts.</a> Twice.
 
 -   <span style="font-family: inherit;">The  <span
-    style="font-family: 'Courier New', Courier, monospace;">create()</span>has
+    style="font-family: 'Courier New', Courier, monospace;">create()has
     the follow signature: <span
     style="font-family: 'Courier New', Courier, monospace;">create({doc},
-    callback)</span>or <span
+    callback)or <span
     style="font-family: 'Courier New', Courier, monospace;">create(\[{doc},
-    callback\])</span>so you can add one or many objects.</span>
+    callback\])so you can add one or many objects.
 
 <span style="font-family: inherit;">Lines 19-23 is my callback function.
-In fact I could have called the </span><span
-style="font-family: Courier New, Courier, monospace;">.save()</span><span
-style="font-family: inherit;"> method on the </span><span
-style="font-family: Courier New, Courier, monospace;">post</span><span
+In fact I could have called the <span
+style="font-family: Courier New, Courier, monospace;">.save()<span
+style="font-family: inherit;"> method on the <span
+style="font-family: Courier New, Courier, monospace;">post<span
 style="font-family: inherit;"> object I new'ed up on line 12, but I
-prefer this approach. </span>
+prefer this approach. 
 
 -   To my callback I always get any errors as first param and then the
     document or documents created, updated or whatever as the second

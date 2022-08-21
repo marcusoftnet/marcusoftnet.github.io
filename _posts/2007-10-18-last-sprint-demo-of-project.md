@@ -16,11 +16,11 @@ think of what we have accomplished in this short while:
 
 -   4-5 persons
 -   6 months (including the famous Swedish <span id="SPELLING_ERROR_0"
-    class="blsp-spelling-corrected">vacation</span> month of 6 weeks)
+    class="blsp-spelling-corrected">vacation month of 6 weeks)
 -   100 000 lines of code
 -   Implementing and <span id="SPELLING_ERROR_1"
-    class="blsp-spelling-corrected">learning</span> new architecture and
+    class="blsp-spelling-corrected">learning new architecture and
     Scrum
 
 I am really proud of the project and the members in it. Thank you guys
-for the <span>="blsp-spelling-corrected">opportunity</span> to do this together.
+for the opportunity to do this together.

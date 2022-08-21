@@ -14,9 +14,9 @@ I ran
 into an old friend during the weekend. This is an old (80s?) show with
 improvisation theatre as game between four comedians. It is <span
 id="SPELLING_ERROR_0"
-class="blsp-spelling-corrected">hilarious</span>!
+class="blsp-spelling-corrected">hilarious!
 
-I met this program again on <span>="blsp-spelling-error">YouTube</span>. There are loads of clips
+I met this program again on YouTube. There are loads of clips
 there. Start
 [here](http://www.youtube.com/results?search_query=whose+line&search_type=).
 

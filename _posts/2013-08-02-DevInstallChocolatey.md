@@ -72,13 +72,13 @@ When Chocolatey is installed you can start using it's <a
 href="https://github.com/chocolatey/chocolatey/wiki/CommandsReference"
 target="_blank">commands</a> of which the most interesting is the "<span
 style="font-family: Courier New, Courier, monospace;"><a href="https://github.com/chocolatey/chocolatey/wiki/CommandsInstall"
-target="_blank">cinst</a></span>" command. This is the command that
+target="_blank">cinst</a>" command. This is the command that
 installs a
 <a href="http://chocolatey.org/packages" target="_blank">Chocolatey
 package</a> for you. I ended up using "<span
 style="font-family: Courier New, Courier, monospace;"><a
 href="https://github.com/chocolatey/chocolatey/wiki/CommandsInstallMissing"
-target="_blank">cinstm</a></span>"that only does the install if the
+target="_blank">cinstm</a>"that only does the install if the
 package isn't installed before.
 
 This means that it's now only a matter of doing a long list of
@@ -167,7 +167,7 @@ suggestions and maybe even inspire them. 
 <div>
 
 But hey - there is such a way! I can store my <span
-style="font-family: Courier New, Courier, monospace;">devApps.ps1</span>-file
+style="font-family: Courier New, Courier, monospace;">devApps.ps1-file
 in the cloud, at <a
 href="https://github.com/marcusoftnet/ScriptsAndStuff/blob/master/DevMachineInstall/devApps.ps1"
 target="_blank">GitHub.com</a> for example.  There people could actually
@@ -186,7 +186,7 @@ make pull requests and forks of my file to improve it. 
 So now I can only copy that file onto every new machine ... no - wait.
 There's a better way. Chocolatey used a cool little function called
 <span style="font-family: Courier New, Courier, monospace;">((new-object
-net.webclient).DownloadString()</span> in their install command. I can
+net.webclient).DownloadString() in their install command. I can
 use that too and download my devApps.ps1 file from Github. 
 
 </div>
@@ -256,11 +256,11 @@ How did I recover from such a horrible thing as a machine reboot? 
 
 Simple - just ran the exact same script again. Since it's using <span
 style="font-family: Courier New, Courier, monospace;">cinstm
-</span><span style="font-family: inherit;">the script went through what
+<span style="font-family: inherit;">the script went through what
 was installed already and then continued where it ended... I had to
-rerun the command but that was all. Cool. Really cool!</span>
+rerun the command but that was all. Cool. Really cool!
 
-### <span style="font-family: inherit;">Update 2</span>
+### <span style="font-family: inherit;">Update 2
 
 </div>
 
@@ -272,21 +272,21 @@ WebEssentials2012 failed but that was because of me. The script
 installed those add-ins to Visual Studio before Visual Studio itself. So
 I modified the <a href="https://github.com/marcusoftnet/ScriptsAndStuff"
 target="_blank">script</a> to run the Visual Studio installs
-first. </span>
+first. 
 
 </div>
 
 <div>
 
 <span style="font-family: inherit;">
-</span>
+
 
 </div>
 
 <div>
 
 <span style="font-family: inherit;">Also I failed. I forgot that for
-Visual Studio 2013 Preview you also need to install</span> "ASP.NET and
+Visual Studio 2013 Preview you also need to install "ASP.NET and
 Web Tools 2013 Refresh". But that's for a preview product so I felt that
 it didn't count. Now did it? 
 

@@ -43,23 +43,23 @@ So I’ll update my IRepository to something like this:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->     <span style="color: blue">public</span> <span
-> style="color: blue">interface</span> <span
-> style="color: #2b91af">IRepository</span>\<T\>  <span
-> style="color: blue">where</span> T :<span
-> style="color: #2b91af">IBaseEntity</span>
+>     <span style="color: blue">public <span
+> style="color: blue">interface <span
+> style="color: #2b91af">IRepository\<T\>  <span
+> style="color: blue">where T :<span
+> style="color: #2b91af">IBaseEntity
 >
 >     {
 >
->         T GetById(<span style="color: blue">int</span> id);
+>         T GetById(<span style="color: blue">int id);
 >
->         <span style="color: #2b91af">IQueryable</span>\<T\> Find();
+>         <span style="color: #2b91af">IQueryable\<T\> Find();
 >
->         <span style="color: blue">void</span> Add(T entity);
+>         <span style="color: blue">void Add(T entity);
 >
->         <span style="color: blue">void</span> Delete(T entity);
+>         <span style="color: blue">void Delete(T entity);
 >
->         <span style="color: blue">void</span> Save();
+>         <span style="color: blue">void Save();
 >
 >     }
 >

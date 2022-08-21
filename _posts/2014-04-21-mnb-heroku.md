@@ -61,13 +61,13 @@ line commands that is really powerful.
 The first things you probably use the tool belt for is probably:
 
 -   <span style="font-family: Courier New, Courier, monospace;">heroku
-    login</span> - to authenticate with the Heroku-site credentials
+    login - to authenticate with the Heroku-site credentials
 -   <span style="font-family: Courier New, Courier, monospace;">heroku
-    create \[appname\]</span> - create an Heroku application in a
+    create \[appname\] - create an Heroku application in a
     directory and on the Heroku site. And setup a nice link between them
     that is the real power of Heroku. 
 -   <span style="font-family: Courier New, Courier, monospace;">heroku
-    keys:add</span> - add your ssh-keys to let Heroku know that you are
+    keys:add - add your ssh-keys to let Heroku know that you are
     you. <a href="https://devcenter.heroku.com/articles/keys"
     target="_blank">Read this</a>.
 
@@ -75,7 +75,7 @@ The last point was also my first gist. I'll soon come back to it. But I
 need to explain one more command that you need to know about:
 
 -   <span style="font-family: Courier New, Courier, monospace;">git push
-    heroku \[branch\]</span> - remember above where we created the
+    heroku \[branch\] - remember above where we created the
     application. This also sets up a
     <a href="http://gitref.org/remotes/" target="_blank">git remote</a>
     for you. Aptly named heroku. This is awesome because it means that
@@ -98,7 +98,7 @@ first time:
 > heroku master
 > Permission denied (publickey).
 > fatal: Could not read from remote repository.
-> Please make sure you have the correct access rights</span>
+> Please make sure you have the correct access rights
 
 This was strange. I had ssh-keys in place (if you have not,
 <a href="https://devcenter.heroku.com/articles/keys"
@@ -145,7 +145,7 @@ using. Like this:
 > <span style="font-family: Courier New, Courier, monospace;">"engines":
 > {
 >     "node": "0.11.12"
-> }</span>
+> }
 
 </div>
 
@@ -178,7 +178,7 @@ since I had heard that name before. 
 
 Installing the addon is super simple: <span
 style="font-family: Courier New, Courier, monospace;">heroku addons:add
-mongohq</span>
+mongohq
 
 </div>
 
@@ -197,7 +197,7 @@ In order to use MongoHq in your application you need to get hold of the
 URL to the MongoDb database. The MongoHq addon exposes this through
 a environment variable which you can get hold of in Node by doing:
 "<span
-style="font-family: Courier New, Courier, monospace;">process.env.MONGOHQ_URL</span>".
+style="font-family: Courier New, Courier, monospace;">process.env.MONGOHQ_URL".
 
 </div>
 
@@ -242,7 +242,7 @@ target="_blank">Monk</a>) like this:
 > = require('../config')();
 > var monk = require('monk');
 > var wrap = require('co-monk');
-> var db = monk(config.mongoUrl);</span>
+> var db = monk(config.mongoUrl);
 
 </div>
 
@@ -268,7 +268,7 @@ target="_blank">Maw-maw-maw</a>. I got a really strange error.
 <div>
 
 When I opened my site (<span
-style="font-family: Courier New, Courier, monospace;">heroku open</span>
+style="font-family: Courier New, Courier, monospace;">heroku open
 form the command prompt by the way) it just gave me a bland: the site is
 not working, contact your admin kind of message. Admin... hey that's me
 in this case. I should probably read some logs or something. 
@@ -286,12 +286,12 @@ in this case. I should probably read some logs or something. 
 Reading logs at the prompt is actually quite simple, albeit a bit
 verbose in it's output: <span
 style="font-family: Courier New, Courier, monospace;">heroku logs
-</span>will flush the log before you eyes.  If the log is really big you
+will flush the log before you eyes.  If the log is really big you
 can do "<span
 style="font-family: Courier New, Courier, monospace;">heroku logs -n
-1500</span>" (last 1500 events) or "<span
+1500" (last 1500 events) or "<span
 style="font-family: Courier New, Courier, monospace;">heroku logs
--t</span>" (100 last events). 
+-t" (100 last events). 
 
 </div>
 
@@ -315,7 +315,7 @@ target="_blank">need better</a>. We need
 target="_blank">Papertrail</a>. Papertrail is a nice little addon that
 helps you read your log. Install it (<span
 style="font-family: Courier New, Courier, monospace;">heroku addons:add
-papertrail</span>) and you get a dashboard for you app with a nice UI to
+papertrail) and you get a dashboard for you app with a nice UI to
 see, read and search your logs. 
 
 </div>
@@ -343,11 +343,11 @@ hindered me:
     to start my application. It was not in my dependencies. Bad Marcus!
     I added that and updated my "<span
     style="font-family: Courier New, Courier, monospace;">npm
-    start</span>" command to point to the nodemon in my
+    start" command to point to the nodemon in my
     node_modules-directory (<span
     style="font-family: Courier New, Courier, monospace;">"start":
     "./node_modules/nodemon/bin/nodemon.js --harmony app.js
-    prod"</span>).
+    prod").
     If nothing of that made any sense to you
     <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
     target="_blank">read this first</a>.
@@ -366,7 +366,7 @@ and our local port in the local case. If you scroll back up you can see
 that I do that in my config-object (line 18), where set the port of my
 object to either the port from Heroku or a static one (<span
 style="font-family: Courier New, Courier, monospace;">port:
-process.env.PORT \|\| 5000,</span>)
+process.env.PORT \|\| 5000,)
 
 </div>
 

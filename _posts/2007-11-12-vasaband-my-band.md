@@ -12,14 +12,14 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/vasaband-my-band.html
 ---
 
 I've just returned from a tour with my Salvation Army Band - the
-<span id="SPELLING_ERROR_0" class="blsp-spelling-error">Vasa</span>
+Vasa
 Band. What a great group of people.
 
 We have had an amazing weekend with lots of fun, great fellowship and
 some really nice music making. The band makes me so proud - there are
 only we, we're nothing special but together we make it special.
 
-To see two twelve year <span>="blsp-spelling-error">olds</span> playing their hearts out on the
+To see two twelve year olds playing their hearts out on the
 last bar of a big piece, or to hear great and insightful presentations
 from a lot of members, ranging from 16 to sixty years, or to take part
 in the prayers before and after the festivals - that makes me so

@@ -50,9 +50,9 @@ That statement probably needs an explaination. Normally you would
 configure the IoC (inversion of control) container to know how and what
 to resolve as you ask it for objects. So you might say that "the next
 time someone asks for an <span
-style="font-family: Courier New, Courier, monospace;">IRespository</span>
+style="font-family: Courier New, Courier, monospace;">IRespository
 you should create a <span
-style="font-family: Courier New, Courier, monospace;">FakeRepository</span>".
+style="font-family: Courier New, Courier, monospace;">FakeRepository".
 
 The context injection doesn't work like that. It's purely convention and
 a very simple one too: it creates objects that have parameter-less
@@ -81,8 +81,8 @@ injection inversion of control container. There's an advanced version to
 this as well... Advanced, by the way, it contains 2 methods
 for registering types (<span
 style="font-family: Courier New, Courier, monospace;">RegisterInstanceAs(new
-Foo(), typeof (IFoo))</span> and <span
-style="font-family: Courier New, Courier, monospace;">RegisterTypeAs()</span>)
+Foo(), typeof (IFoo)) and <span
+style="font-family: Courier New, Courier, monospace;">RegisterTypeAs())
 and a single method for resolving.
 
 To use it you could write a

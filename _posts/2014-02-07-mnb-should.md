@@ -34,7 +34,7 @@ all the post in the series:
     write them</a>
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   Should is a nice way to do asserts - this post 
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
     target="_blank">monk is an easy way to access mongo</a>
@@ -71,13 +71,13 @@ It’s easily installed with
 <a href="https://npmjs.org/" target="_blank">npm</a>, of course
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install should</span><span style="font-family: inherit;"> </span>
+> install should<span style="font-family: inherit;"> 
 
 <span style="font-family: inherit;">and you're ready to use the should
-assertions in your test code. Oh well you need to: </span>
+assertions in your test code. Oh well you need to: 
 
 > <span style="font-family: Courier New, Courier, monospace;">var should
-> = require("should");</span>
+> = require("should");
 
 in your test file of course.
 
@@ -96,36 +96,36 @@ might like others...) come to use a lot:
 
 -   <span
     style="font-family: Courier New, Courier, monospace;">x.should.equal(y)
-    </span>- hey, I don't need to explain them. How is that for a great
+    - hey, I don't need to explain them. How is that for a great
     demonstration of the use of readable syntax...
 -   <span
-    style="font-family: Courier New, Courier, monospace;">x.should.be.true</span>
+    style="font-family: Courier New, Courier, monospace;">x.should.be.true
 -   <span
-    style="font-family: Courier New, Courier, monospace;">x.should.be.false</span>
+    style="font-family: Courier New, Courier, monospace;">x.should.be.false
 -   <span
     style="font-family: Courier New, Courier, monospace;">x.should.startWith("a
-    string")</span>
+    string")
 -   <span
-    style="font-family: Courier New, Courier, monospace;">not</span> -
+    style="font-family: Courier New, Courier, monospace;">not -
     just negates the assertions. <span
-    style="font-family: Courier New, Courier, monospace;">x.should.not.be.equal(y)</span>
+    style="font-family: Courier New, Courier, monospace;">x.should.not.be.equal(y)
     for example.
 
 In fact, there's an whole array (<span
 style="font-family: Courier New, Courier, monospace;">.an, .of, .a,
-.and, .be, .have, .with, .is, .which</span>) of those conjunctions that
+.and, .be, .have, .with, .is, .which) of those conjunctions that
 you could add for readability. Like this <span
-style="font-family: inherit;">example:</span><span
-style="font-family: Courier New, Courier, monospace;"> </span>
+style="font-family: inherit;">example:<span
+style="font-family: Courier New, Courier, monospace;"> 
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">user.should.be.an.instanceOf(Object).and.have.property('name',
-> 'tj'); </span>
+> 'tj'); 
 
-<span style="font-family: inherit;">I have only used</span><span
-style="font-family: Courier New, Courier, monospace;"> not</span><span
+<span style="font-family: inherit;">I have only used<span
+style="font-family: Courier New, Courier, monospace;"> not<span
 style="font-family: inherit;"> so far, but I could see that some of the
-others might be useful. </span>
+others might be useful. 
 
 ### ~~The trip ups~~The things I often forget
 
@@ -146,9 +146,9 @@ Here’s an example:
 
 Another, very basic thing, that trips me up is that I forget to add the
 <span
-style="font-family: Courier New, Courier, monospace;">require</span>
+style="font-family: Courier New, Courier, monospace;">require
 statement for <span
-style="font-family: Courier New, Courier, monospace;">should</span> in
+style="font-family: Courier New, Courier, monospace;">should in
 my test file. I presume I forget this since you don’t have to add one
 for mocha.  My feeble mind seems to reason “Hey, great! In tests we
 apparently don’t need to add any requires.”
@@ -157,14 +157,14 @@ Let’s say you have the following assertion:
 If you don’t add the require-statement for should you’ll end up with an
 error message like this:
 
-> <span class="Apple-tab-span" style="white-space: pre;"> </span><span
+> <span class="Apple-tab-span" style="white-space: pre;"> <span
 > style="font-family: Courier New, Courier, monospace;">"TypeError:
-> Cannot call method 'equal' of undefined"</span>
+> Cannot call method 'equal' of undefined"
 
 Luckily it’s easy fixed. Add this at the top of your test-file:
 
 > <span style="font-family: Courier New, Courier, monospace;">var should
-> = require(“should”);</span>
+> = require(“should”);
 
 ### "This way assert you should" - Yoda (and Rob Conery)
 
@@ -180,7 +180,7 @@ Up to then I used to write:
 
 > <span style="font-family: Courier New, Courier, monospace;">it("should
 > be defined"),
-> it("should validate presence of email")</span>
+> it("should validate presence of email")
 
 But really why put the "should" in there? In the immortal words of
 Yoda:
@@ -192,12 +192,12 @@ Or in our case:
 
 > Do or do not. There is no should!
 
-And just removing<span style="white-space: pre;"> </span>the "should"
+And just removing<span style="white-space: pre;"> the "should"
 from the assertions clears them up quite a lot.
 
 > <span style="font-family: Courier New, Courier, monospace;">it("is
 > defined")
-> it("validates presence of email")</span>
+> it("validates presence of email")
 
 This also makes for nicer reports, like this:
 

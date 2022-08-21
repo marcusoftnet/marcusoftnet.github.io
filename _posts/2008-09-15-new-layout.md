@@ -19,9 +19,9 @@ Aha - my tag cloud have disappeared - I'll get it back for you , sorry
 me.
 
 <span class="Apple-style-span"
-style="font-weight: bold;">\[UPDATED\]</span>
+style="font-weight: bold;">\[UPDATED\]
 
 Tag Cloud is back - thanks again for [an excellent
 description](http://phy3blog.googlepages.com/Beta-Blogger-Label-Cloud.html).
 Have also added my analytics tags which always disappear when you do an
-update...<span class="Apple-tab-span" style="white-space:pre"> </span>
+update...<span class="Apple-tab-span" style="white-space:pre">

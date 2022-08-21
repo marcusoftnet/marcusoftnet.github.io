@@ -11,16 +11,16 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4131265341622033949
 blogger_orig_url: http://www.marcusoft.net/2007/10/in-perfect-peace.html
 ---
 
-The last thing the <span>="blsp-spelling-error">Gothenburg</span> Brass band did before the
+The last thing the Gothenburg Brass band did before the
 stopped playing was go on a tour in England. On the tour the found time
 to record a CD and take part in the European Championships.
 
 
-I got the great <span>="blsp-spelling-corrected">privilege</span> to write the inlet of
+I got the great privilege to write the inlet of
 the CD, which is called In Perfect Peace after one of the pieces on the
 CD. That particular piece is written by Kenneth <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">Downie</span> and was
-very important for the band and Bengt <span>="blsp-spelling-error">Eklund</span>. So it's very fitting that the
+id="SPELLING_ERROR_2" class="blsp-spelling-error">Downie and was
+very important for the band and Bengt Eklund. So it's very fitting that the
 last CD is called that and that the piece is on it.
 
 About a week ago i found the CD in the catalog from [World of

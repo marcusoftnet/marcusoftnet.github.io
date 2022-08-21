@@ -1,7 +1,6 @@
 ---
 layout: post
-title: More on Enterprise Library (EntLib), ODP.NET and
-type mapping
+title: More on Enterprise Library (EntLib), ODP.NET and type mapping
 date: '2008-09-04T20:08:00.001+02:00'
 author: Marcus Hammarberg
 tags:

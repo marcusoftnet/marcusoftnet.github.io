@@ -10,10 +10,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2439048477123094484
 blogger_orig_url: http://www.marcusoft.net/2007/05/brass-band-european-championships-2007.html
 ---
 
-<span id="SPELLING_ERROR_0" class="blsp-spelling-error">Soo</span> -
+Soo -
 today the Europeans will start. My thoughts and hopes are of course with
-the <span>="blsp-spelling-error">Gothenburg</span> Brass Band. I had the
-<span>="blsp-spelling-corrected">opportunity</span> to hear the band a
+the Gothenburg Brass Band. I had the
+opportunity to hear the band a
 few weeks back i can say that they are in very good shape indeed.
 
 But - i don't think it will take them all the way. There are some
@@ -23,8 +23,8 @@ Here is my very "from-the-hip" prediction of how the Europeans will
 end:
 
 1.  Cory
-2.  <span>Stavanger</span>
-3.  <span>Gothenburg</span>
+2.  Stavanger
+3.  Gothenburg
 
 It of course will have to do with how and what the judes think about the
 different styles of playing.

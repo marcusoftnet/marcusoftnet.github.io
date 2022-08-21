@@ -31,10 +31,9 @@ describing how to do it. The key points are quite easy:
 Here is an example (yes, i know, it's in dredded VB.NET):
 
 
-<span
-style="font-family:courier new;">\<ServiceBehavior(Namespace:="http://www.marcusoft.net/Services/2008/04/MyService",
+\<ServiceBehavior(Namespace:="http://www.marcusoft.net/Services/2008/04/MyService",
 )\> \_
 Public Class MyServiceImplementation
-implements IService</span><span style="font-family:courier new;">
-</span><span style="font-family:courier new;">...
-End Class</span>
+implements IService
+...
+End Class

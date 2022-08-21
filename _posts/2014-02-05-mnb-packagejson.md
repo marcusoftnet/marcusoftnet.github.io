@@ -33,7 +33,7 @@ Here are all the post in the series:
     write them</a>
 -   <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a></span>
+    target="_blank">mocha is cool both as framework and test runner</a>
 -   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a> 
 -   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
@@ -86,9 +86,9 @@ all. I fill out the things I know, and that's often the better part of
 the file, actually.
 
 <span
-style="font-family: Courier New, Courier, monospace;">sublime</span>
+style="font-family: Courier New, Courier, monospace;">sublime
 <span
-style="font-family: Courier New, Courier, monospace;">package.json</span> -
+style="font-family: Courier New, Courier, monospace;">package.json -
 create the file and open it with
 <a href="http://www.sublimetext.com/" target="_blank">Sublime</a>.
 
@@ -98,16 +98,16 @@ target="_blank">this one for example</a>
 
 fill out the <span
 style="font-family: Courier New, Courier, monospace;">name, description,
-version</span> (0.0.1) nodes of the package.json
+version (0.0.1) nodes of the package.json
 
 create the <span
-style="font-family: Courier New, Courier, monospace;">scripts</span>
+style="font-family: Courier New, Courier, monospace;">scripts
 node and add scripts for starting the app.js file and test, with my
 <a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
 target="_blank">mocha switches.</a>
 
 create the <span
-style="font-family: Courier New, Courier, monospace;">dependencies</span>
+style="font-family: Courier New, Courier, monospace;">dependencies
 node and add the things that I will be using for this project. Typically
 
 -   express - my web framework of choice
@@ -118,14 +118,14 @@ node and add the things that I will be using for this project. Typically
 
 Save the package.json and go to the terminal and go <span
 style="font-family: Courier New, Courier, monospace;">npm
-install</span>. This will read the package.json and download and install
+install. This will read the package.json and download and install
 all the dependencies into your node_modules-folder.
 
 If I'm adding new dependencies I typically do that by adding them to
 package.json and rerun "npm install". You can do
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install \[package name\] --save</span> 
+> install \[package name\] --save 
 
 which will update the package.json for you, but I don't do that.
 
@@ -149,7 +149,7 @@ target="_blank">package.json even more powerful</a>. You have to start
 these scripts like this:
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> run-script startLocal</span> 
+> run-script startLocal 
 
 
 UPDATED:
@@ -160,7 +160,7 @@ below, but I'll mention them here too:
 
 
 -   <span style="font-family: Courier New, Courier, monospace;">npm
-    init</span> - is a interactive tool, that helps you build your
+    init - is a interactive tool, that helps you build your
     package.json file. So you don't need a template to tweak but can let
     the tool work for you. Really nice!
 -   There's a package.json node called devDependencies, for all the
@@ -173,9 +173,9 @@ below, but I'll mention them here too:
 -   Finally, my way to set up the test-command in the package.json
     required all the people that wanted to use the <span
     style="font-family: Courier New, Courier, monospace;">npm
-    test</span> command to have mocha installed globally (<span
+    test command to have mocha installed globally (<span
     style="font-family: Courier New, Courier, monospace;">npm install
-    mocha -g</span>). Not everyone wants that. Build servers for
+    mocha -g). Not everyone wants that. Build servers for
     example... So I've updated it to a better version that uses the
     mocha I have in my project local node_modules folder
 

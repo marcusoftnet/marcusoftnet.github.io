@@ -110,8 +110,8 @@ as much. BDD is about talking to each other - which is best done without
 tools.
 
 Read more (and better probably) here: [<span
-class="s2">http://dannorth.net/introducing-bdd/</span>](http://dannorth.net/introducing-bdd/), [<span
-class="s2">http://dannorth.net/whats-in-a-story/</span>](http://dannorth.net/whats-in-a-story/) .
+class="s2">http://dannorth.net/introducing-bdd/](http://dannorth.net/introducing-bdd/), [<span
+class="s2">http://dannorth.net/whats-in-a-story/](http://dannorth.net/whats-in-a-story/) .
 
 Thanks for giving me the opportunity to write this. I had to think hard,
 as I knew that bright guys like you are going to read this. "

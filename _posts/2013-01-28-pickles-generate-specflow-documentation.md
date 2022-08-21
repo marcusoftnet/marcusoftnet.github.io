@@ -2,8 +2,8 @@
 layout: post
 title: Pickles - generate SpecFlow documentation from
 MsBuild and PowerShell
-date: '2013-01-28T13:54:00.000+01:00' author:
-Marcus Hammarberg
+date: '2013-01-28T13:54:00.000+01:00'
+author: Marcus Hammarberg
 tags:
   - BDD
   - Tools - Specification by example -
@@ -196,7 +196,7 @@ Let's go through it line by (interesting) line:
 
 
 On line 5 you import the <span
-style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">PicklesDoc.Pickles.MSBuild.Tasks.dll</span> that
+style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">PicklesDoc.Pickles.MSBuild.Tasks.dll that
 contains the Pickles task. This is where you get the ability to access
 the Pickles functionality. You need to have that DLL and all of it's
 dependencies (found in the Pickles/msbuild-folder in my download)
