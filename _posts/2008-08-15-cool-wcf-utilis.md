@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cool WCF-utilis date: '2008-08-15T13:00:00.002+02:00'
+title: Cool WCF-utilis date '2008-08-15T13:00:00.002+02:00'
 author: Marcus Hammarberg
 tags: -
 Tools - WCF modified_time: '2010-12-14T16:22:38.246+01:00'
