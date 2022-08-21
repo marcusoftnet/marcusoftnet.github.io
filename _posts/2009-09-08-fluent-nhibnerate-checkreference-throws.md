@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Fluent NHibnerate CheckReference throws Expected
-‘X’ but got ‘XProxy’
+title: Fluent NHibnerate CheckReference throws Expected ‘X’ but got ‘XProxy’
 date: '2009-09-08T15:43:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - NHibernate
+  - .NET
+  - NHibernate
 modified_time: '2010-12-14T16:19:35.818+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1927364463858470307
 blogger_orig_url: http://www.marcusoft.net/2009/09/fluent-nhibnerate-checkreference-throws.html

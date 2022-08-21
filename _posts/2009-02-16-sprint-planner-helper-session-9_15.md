@@ -4,8 +4,7 @@ title: Sprint Planner Helper – Session 9
 date: '2009-02-15T21:08:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Sprint
-Planner Helper
+  - Sprint Planner Helper
 modified_time: '2009-02-15T21:08:20.980+01:00'
 thumbnail: http://lh5.ggpht.com/\_kkDJOSPNTLs/SZh2J1RxMmI/AAAAAAAAAhU/2dCIDpAItVQ/s72-c/addviewaspnetmvc_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-51752831053783427

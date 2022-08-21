@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Some reflections after a few days as a musician"
-author: "Marcus Hammarberg"
-date: 2018-08-29 22:15:03
+title: Some reflections after a few days as a musician
+author: Marcus Hammarberg
+date: '2018-08-29 22:15:03'
 tags:
   - Life of a consultant
- - Agile
- - Lean
+  - Agile
+  - Lean
 ---
 
 I've had the great opportunity to do some extra work in a very different environment this week; I've been a musician in a professional orchestra - the awesome [Östgöta Blåsarsymfoniker.](http://www.ostgotamusiken.se/)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pickles - generate SpecFlow documentation from
-MsBuild and PowerShell
+title: Pickles - generate SpecFlow documentation from MsBuild and PowerShell
 date: '2013-01-28T13:54:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - Tools - Specification by example -
-SpecFlow
+  - Tools
+  - Specification by example
+  - SpecFlow
 modified_time: '2013-07-30T20:15:45.084+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5238097084946695251
 blogger_orig_url: http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html
@@ -51,8 +51,6 @@ If you want to skip ahead you can
 <a href="https://dl.dropbox.com/u/2408484/picklesLab.zip"
 target="_blank">download my code here.</a>
 
-
-
 ### Pickles and how to get it
 
 <div>
@@ -63,13 +61,11 @@ Gherkin language, popularized in tools like Cucumber and SpecFlow". It's
 run
 by <a href="https://github.com/x97mdr" target="_blank">Jeffrey Cameron</a> and
 has a thriving community. I've done some small commits but love the tool
-and "sell" it to almost every client doing specification by example. 
+and "sell" it to almost every client doing specification by example.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -82,13 +78,11 @@ both have a cost associated with them. In the Relish case you can get it
 for free but then you have to publish your specs on their site,
 something that most companies doesn't want. SpecLog is a great tool and
 not a perfect fit for just documentation. It's more for collaboration
-around the early phases of Specification by example. 
+around the early phases of Specification by example.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -108,8 +102,6 @@ looks a lot like what we dreamt of then. It will be great!
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -118,13 +110,11 @@ The simplest way to get hold of pickles is from
 <a href="http://nuget.org/packages/pickles" target="_blank">NuGet</a>.
 This will download all the runners (MSBuild, Powershell, Nant and
 Console) and, in-fact, allow you to run Pickles directly from the NuGet
-console (package manager I think it's called). 
+console (package manager I think it's called).
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -140,8 +130,6 @@ target="_blank">Pickles files in one zip</a>.
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -154,14 +142,14 @@ The folder structure is like this:
 
 pickles - pickles stuff that I've downloaded via NuGet
 
--   MsBuild - just the stuff you'll need to call Pickles from MsBuild
--   Powershell - just the stuff you'll need to call Pickles from
+- MsBuild - just the stuff you'll need to call Pickles from MsBuild
+- Powershell - just the stuff you'll need to call Pickles from
     PowerShell
 
 Specs - a big structure with a lot of .feature files that you can use as
 a demo. Deep in the belows of that structure
 (/Specs/bin/debug/TestResult.xml) you'll find a testresult file that is
-important if you want to display the tests result. 
+important if you want to display the tests result.
 
 </div>
 
@@ -175,8 +163,6 @@ MsBuild file that you can incorporate (or call) from your build script.
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -194,13 +180,12 @@ The example build script shows it all really:
 
 Let's go through it line by (interesting) line:
 
-
 On line 5 you import the <span
 style="background-color: white; font-family: Consolas, 'Liberation Mono', Courier, monospace; font-size: 12px; line-height: 16px; white-space: pre;">PicklesDoc.Pickles.MSBuild.Tasks.dll that
 contains the Pickles task. This is where you get the ability to access
 the Pickles functionality. You need to have that DLL and all of it's
 dependencies (found in the Pickles/msbuild-folder in my download)
-accessible from you build script. 
+accessible from you build script.
 
 We then set up a PropertyGroup (lines 7-16) for all the currently
 supported variables. Doing this allows you to override these values if
@@ -219,8 +204,8 @@ Line 20-26 calls Pickles with all the supported parameters. It's pretty
 self-explanatory. The only ones that is required are FeatureDirectory
 and OutputDirectory. The other defaults to:
 
--   Format: Html
--   ResultsFormat: Nunit
+- Format: Html
+- ResultsFormat: Nunit
 
 <div>
 
@@ -235,8 +220,6 @@ You can try this out by openening a Visual Studio Command Prompt and go:
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -273,13 +256,13 @@ To call into pickles you can do the following:
 Let's go through that one line by line too. You'll recognize the
 parameter names etc.:
 
--   Line 2-9 is setting up the variables for our script. Change this to
+- Line 2-9 is setting up the variables for our script. Change this to
     match your situation.
--   Line 12 imports the module (DLL with the <a
+- Line 12 imports the module (DLL with the <a
     href="http://msdn.microsoft.com/en-us/library/windows/desktop/dd878294(v=vs.85).aspx"
     target="_blank">commandlet</a>). This is needed in order to call
     into the commandlet
--   Line 15-21 calls Pickles with all our parameters. As before,
+- Line 15-21 calls Pickles with all our parameters. As before,
     remember that only the FeatureDirectory and the OutputDirectory is
     required. I've supplied them all for clarity and for you to extend
 
@@ -292,13 +275,11 @@ PowerShell. Remember that you can call it from
 <a href="https://github.com/picklesdoc/pickles/wiki"
 target="_blank">Nant and as a console application</a> too. It works much
 the same and is easy to figure out how to get to work from these
-samples. 
+samples.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -307,13 +288,11 @@ samples. 
 Pickles will greatly enhance how the non-developers in your team can
 read and access the specification. You want them to read, comment and be
 a part of daily work with the specs. Don't let developer-centric tools
-stop you from doing that. 
+stop you from doing that.
 
 </div>
 
 <div>
-
-
 
 </div>
 

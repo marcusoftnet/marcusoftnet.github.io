@@ -4,8 +4,7 @@ title: Sprint Planner Helper – Session 10
 date: '2009-02-16T22:38:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Sprint
-Planner Helper
+  - Sprint Planner Helper
 modified_time: '2009-02-16T22:38:46.665+01:00'
 thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/SZnc5EtJJUI/AAAAAAAAAhk/0-y3-n75kzI/s72-c/sprintplannerinitmodel_thumb%5B4%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5583006853510556248
@@ -50,11 +49,11 @@ found during my session (such as attributes and actions):
 As user I can create a product that describes the product and the
 product owner so that the purpose of the product is known.
 
-1.  Each product has a product backlog that describes what is left to
+1. Each product has a product backlog that describes what is left to
     do.
-2.  Each product backlog item requires at least an ID, description,
+2. Each product backlog item requires at least an ID, description,
     initial priority.
-3.  Other properties are story points (how big is this compared to
+3. Other properties are story points (how big is this compared to
     other) and a document with additional business rules.
 
 As user I can update the information about the product and in the
@@ -66,26 +65,26 @@ product owner.
 As user I can create a sprint that represent a sprint in which some
 items of the product backlog is to be realized.
 
-1.  The sprint has a goal description and a start, stop and demo-date
+1. The sprint has a goal description and a start, stop and demo-date
     and the team members with availability (in % or hours) and focus
     factor (in %).
-2.  The sprint also contains a sprint backlog which initially contains a
+2. The sprint also contains a sprint backlog which initially contains a
     sprint backlog item for each product backlog item selected.
-3.  The sprint backlog contains summarized values for total number of
+3. The sprint backlog contains summarized values for total number of
     hours and story points.
 
 As user I can add sprint backlog item to the sprint during the planning
 in order to decide on the details of the sprint backlog items and their
 execution.
 
-1.  A sprint backlog item has an ID, Description,
+1. A sprint backlog item has an ID, Description,
     How-To-Demo-description, a list of Actions and a summarized total
     number of planned hours.
 
 As user I can add actions to a sprint backlog item in order to find out
 what to do to be done with the Sprint Backlog Item.
 
-1.  Each action has an ID, Description and hours (max 8 h)
+1. Each action has an ID, Description and hours (max 8 h)
 
 As user I can update, delete and change Sprint Backlog Items and Actions
 in order to easy plan the sprint.

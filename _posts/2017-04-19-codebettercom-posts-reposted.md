@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "CodeBetter.com posts reposted"
-author: "Marcus Hammarberg"
+title: CodeBetter.com posts reposted
+author: Marcus Hammarberg
 date: 2017-04-19 15:30:39
 tags:
   - Life of a consultant
- - CodeBetter
- - Javascript
- - Koa
+  - CodeBetter
+  - Javascript
+  - Koa
 ---
 
 In 2013 I got invited to write blog posts for [CodeBetter.com](CodeBetter.com). I was quite surprised and honoured, since that's a place where I've read many great posts over the year.

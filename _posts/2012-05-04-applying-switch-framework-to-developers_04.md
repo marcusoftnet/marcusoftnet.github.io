@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Applying the Switch framework to developers
-don’t want to write tests–part II
+title: Applying the Switch framework to developers don’t want to write tests–part II
 date: '2012-05-04T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - Agile - TDD
+  - .NET
+  - Agile
+  - TDD
 modified_time: '2012-05-04T08:00:06.339+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7328654065310556224
 blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html
@@ -29,8 +30,6 @@ Last time we took a look at the first principle – Direct the Rider. This
 time the turn has come to the elephant in the kitchen. The emotions and
 things that we cannot control by pure will power – it’s time to see if
 we can Motivate the Elephant.
-
-
 
 ### Motivate the Elephant
 
@@ -74,14 +73,14 @@ For us that means that you don’t want to enforce 100% code coverage. In
 fact – let’s just cover the steps that we take right now. I have 2
 simple rules for introducing tests in a non-tested code base:
 
-1.  Agree on that we write a small unit test for each bug that we find.
+1. Agree on that we write a small unit test for each bug that we find.
     Make sure that the test fails when the bug is present and is green
     when the bug is fixed. Take the measures needed to get the code
     under test. Please refer to the <a
     href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052"
     target="_blank">Working effectively with legacy code</a> book by
     Michael Feather for more on this.
-2.  <a href="http://dannorth.net/" target="_blank">Dan North</a> told
+2. <a href="http://dannorth.net/" target="_blank">Dan North</a> told
     great story that I often bring up in this kind of situations.
     Imagine that our code is a big dark scary forest. Now we need to go
     into the forest and make a small change in a clearing. So to protect

@@ -5,8 +5,9 @@ date: '2009-01-31T12:50:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
- - .NET - ASP.NET MVC
-   - Scrum
+  - .NET
+  - ASP.NET MVC
+  - Scrum
   - Agile
   - Sprint Planner Helper
   - TDD
