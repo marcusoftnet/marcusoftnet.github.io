@@ -12,9 +12,9 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/good-bye-avega.html
 ---
 
 
-<div>
 
-<div>
+
+
 
 Today is the last day I work for [Avega
 Group](http://www.avegagroup.se/). It's the best place I ever worked at
@@ -34,15 +34,12 @@ my colleagues at Avega.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 <div style="text-align: center;">
 
-</div>
 
 <span style="text-align: left;">Avega - I love you!
 
-</div>
 
 I've had the time of my life - I hope you have too!
 
@@ -50,4 +47,3 @@ The world is not so big - we'll probably run into each other out there.
 A lot I hope!
 Bye for now.
 
-</div>

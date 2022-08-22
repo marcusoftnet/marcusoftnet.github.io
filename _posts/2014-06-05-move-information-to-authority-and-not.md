@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/move-information-to-authority
 ---
 
 
-<div>
+
 
 [<img
 src="http://lh6.ggpht.com/-Pz1nhsV2bfE/U4_ytTWN3_I/AAAAAAAAD_U/7_S7oTlyuJU/David-Marquet_thumb%25255B26%25255D.jpg?imgmax=800"
@@ -231,4 +231,3 @@ to the authority. We have *moved the authority to the information
 instead of the opposite*.
 Works for us. How will you make it work for you?
 
-</div>

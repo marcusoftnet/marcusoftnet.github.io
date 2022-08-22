@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/accountability.html
 ---
 
 
-<div>
+
 
 How's that for a little topic to clear out in a blog post? I promise
 this will be just a short thought... even though the title promise more
@@ -30,7 +30,6 @@ Here's video with his latests message:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 I like this message for a number of reasons, but the part that stands
 out for me is "We know we are not perfect. We **want** to become better.
@@ -105,32 +104,27 @@ Oh by the wa, Transparency also gives
 - more involvement
 - better loyalty
 
-<div>
+
 
 if you're into those kind of things.
 
-</div>
 
 ### Summary
 
-<div>
+
 
 I don't have a problem with Accountability, but I much rather start with
 Trust and Transparency. Then Accountability comes automatically.  
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 I've written before about <a
 href="http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html"
 target="_blank">Commitment</a> and I think those ideas brush on this
 topic.
 
-</div>
 
-</div>

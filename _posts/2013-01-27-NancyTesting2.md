@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting2.html
 ---
 
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -23,7 +23,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://nancyfx.org/images/logo.png" data-border="0" width="178"
 height="200" /></a>
 
-</div>
 
 This is the second post in my series on the awesome testability of
 <a href="http://www.nancyfx.org/" target="_blank">Nancy</a> - a
@@ -43,18 +42,16 @@ The other posts can be found here:
 5.  <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
-<div>
+
 
 This post covers a basic feature that makes up much of the awesomeness
 that is around configurability in Nancy testing: the configurable
 bootstrapper. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 There's a
 <a href="https://github.com/NancyFx/Nancy/wiki/Testing-your-application"
@@ -65,21 +62,18 @@ swap out most anything from the Nancy framework. Even ViewEngines and
 the NancyEngine itself are possible to change to something that suits
 you better. In the testing case - we can supply fakes and mocks. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Let's get to it - there's a lot of code to get through.
 
-</div>
 
-<div>
+
 ### The Configurator and how we use it
 
-<div>
+
 
 To call into a Nancy module from a test the creators has given us the
 Nancy.Testing.Browser class, as we said the last time. This class helps
@@ -91,7 +85,7 @@ DefaultNancyBootstrapper that uses all the common Nancy conventions or
 settings.
 
 Or ... it can be a lamda. Like this:
-<div>
+
 
 Pardon the funky formatting, but I think that requires
 some explanation.
@@ -106,25 +100,22 @@ some explanation.
 -   On line 4 we are then using the Configurator to tell the browser to
     just load the module called ConfigBootTestModule
 
-<div>
+
 
 It takes some getting used to but my suspicion is that users of Nancy
 already use lambdas quite a lot and it doesn't scare them. The whole
 routing feature is built around lambdas, for example. 
 
-</div>
 
-<div>
+
 
 For us it means that we get a very crisp syntax to express how we want
 the environment to be set up. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The rest of this post dwells on some of the capabilities of the
 Configurator and what we can use these capabilities for. I will not
@@ -132,13 +123,11 @@ cover everything, since that would be a very boring blog post and some
 of the things you can swap out is beyond me why you would...
 There's loads of code in here, but I reckon that's just what you wanted
 
-</div>
 
-</div>
 
 ### Module
 
-<div>
+
 
 The first and most obvious use for the ConfigurableBootstrapper is to
 tell it to load the (Nancy)-Module your testing. Well actually if you
@@ -154,16 +143,15 @@ planning to test. I use it as a best practice since it also narrows down
 my test scope and asserts that things are where I thought they would
 be.
 Here's an examples of using the Module-methods:
-<div>
+
 
 Go to the repository to see other [ways to call
 Module(s)](https://github.com/marcusoftnet/DiscoveringNancyThroughTests/blob/master/DiscoverNancy.Tests/DiscoverNancy.Tests/ConfigurableBootstrapper_Module.cs)
 
-</div>
 
 ### Dependencies
 
-<div>
+
 
 The next thing that I think that most people would want to use is the
 Dependecy and Dependecies methods. With these you can supply fake
@@ -189,11 +177,10 @@ target="_blank">lot of overloads, see here</a>. In one of them me an
 found a bug here, where I plan to do my first contribution to the source
 of Nancy, I've annotated the source to show the workaround. 
 
-</div>
 
 ### AutoRegistration
 
-<div>
+
 
 When all of that is out of the way you start to think that this is not
 very Super Duper Happy, letting me configuring my dependencies like
@@ -215,11 +202,10 @@ more than one implementation for your interfaces in the test assembly?
 What if the production implementation get's registered first - can the
 order be trusted..? But for simple cases it's really nice. 
 
-</div>
 
 ### Other configurable properties
 
-<div>
+
 
 As I mentioned there's loads of things that you can swap out during
 testing (or for your own implementation). All of it in fact. That's a
@@ -228,19 +214,16 @@ the testing experience excellent and apparently not that hard to write
 for the NancyFx creators. They just used their own
 frameworks extensibility.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So I wont write examples for all of them, but I thought I'd list them
 and mention what you could use that for (in the cases I could see that):
 
-</div>
 
-<div>
+
 
 -   Binder - this gives you the ability to swap out the Nancy model
     binder. If you are using one of your own or for some reason need to
@@ -274,20 +257,18 @@ and mention what you could use that for (in the cases I could see that):
     target="_blank">it can be done</a>. Two version
     exists: NancyEngine(INancyEngine) and NancyEngine()
 
-<div>
+
 
 The rest of them, and some of the ones that I've mentioned are thing
 that I cannot see being used often, but still. It can be done. Most of
 them works the same way as the Module and Depencendy-methods I've
 described above
 
-</div>
 
-</div>
 
 ### Hooking into the pipeline
 
-<div>
+
 
 There are two more methods that can be useful: ApplicationStartup and
 RequestStartup. With these you can hook into the pipeline of a HTTP
@@ -299,10 +280,8 @@ before each request. There are other events that you can hook into as
 well (OnError and AfterRequest) but that's not as common, and works
 exactly the same. 
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -310,9 +289,8 @@ There's also a RequestStartup that works much the same way, but for a
 single Request:
 ### Summary
 
-</div>
 
-<div>
+
 
 As you can see there's loads of stuff that can be configured and swapped
 out during testing of your Nancy application. In fact - it can be
@@ -328,12 +306,7 @@ dive (maybe not as deep) into the configurability of the Request object.
 And the assertions on the Response-object.
 
 
-</div>
 
-</div>
 
-</div>
 
-</div>
 
-</div>

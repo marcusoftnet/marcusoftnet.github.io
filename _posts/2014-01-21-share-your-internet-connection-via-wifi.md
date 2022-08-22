@@ -15,9 +15,9 @@ blogger_orig_url: http://www.marcusoft.net/2014/01/share-your-internet-connectio
 ---
 
 
-<div>
 
-<div>
+
+
 
 For the first time in years, I'm using a Windows PC as my main computer.
 It's Windows 8.1 and thanks to a <a
@@ -51,7 +51,6 @@ better than me, so this is the short version + my gotchas.
 
 First, create a .bat-file with the following content.
 
-</div>
 
 This will create the hosted network (or hotspot if you want). The big
 gotcha here is that you need to run this under Administrative
@@ -83,7 +82,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-8rPX2yoxHtc/Ut4bQmQgvFI/AAAAAAAAB2g/iG-Vu-z5u9s/s1600/network+configuration+for+wifi+hotspot.png"
 data-border="0" width="320" height="212" /></a>
 
-</div>
 
 Open "Network and Sharing Center". This is easily done by a well-hidden
 gem of Windows 8.1.
@@ -101,20 +99,18 @@ to connect through this computer's Internet connection")
 
 And ... select your newly created hosted network
 
-<div>
+
 
 Yeah, sorry Mum. You wont pull that off. The only good news is that this
 configuration only needs to be done once. Once configured this will stay
 this way even if you shutdown the hosted network. As long as the network
 continues to get the same name ("Network connection 9" for example).
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 The gotcha here was that the first time I did this the Internet access
 didn't show up for my hosted network for quite some time. Although it
@@ -132,17 +128,15 @@ tab - \> Click on Adhoc support... -\> set value - Enable.
 
 Thanks a bunch Shirai!
 
-</div>
 
 ### Shutting the network down
 
-<div>
+
 
 Oh yeah, you might want to turn this off as well. That ~~easy~~ easier
 and just requires that you run the following command, from a command
 prompt with administrative privileges:
 
-</div>
 
 > <span style="font-family: monospace; white-space: pre;">netsh wlan
 > stop hostednetwork
@@ -156,4 +150,3 @@ work. I hope you don't have to spend the same amount of time.
 If anyone knows of a better, faster way of doing this: PLEASE let me
 know. I will happily delete this blog post.
 
-</div>

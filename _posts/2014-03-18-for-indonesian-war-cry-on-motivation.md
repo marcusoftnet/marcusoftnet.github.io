@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-mot
 ---
 
 
-<div>
+
 
 DISCLAIMER for frequent readers of this blog:
 I now work for
@@ -152,4 +152,3 @@ I have to come back to how I try to be the best Marcus I can be in
 another column. It's not really what you think. My goal is to do more by
 doing less.
 
-</div>

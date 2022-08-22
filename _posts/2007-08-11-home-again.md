@@ -18,7 +18,7 @@ id="BLOGGER_PHOTO_ID_5097465330428218194"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/Rr3VteMLC1I/AAAAAAAAALU/OYS8dmUkLdA/s1600-h/PICT1952.JPG)
 
-<div>
+
 
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/Rr3VS-MLC0I/AAAAAAAAALM/LZRZyIDL-fo/s400/PICT2011.JPG"
@@ -27,14 +27,14 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rr3VS-MLC0I/AAAAAAAAALM/LZRZyIDL-fo/s1600-h/PICT2011.JPG)
 
 
-<div>
+
 
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/Rr3U6-MLCzI/AAAAAAAAALE/XJFNeFoC-TE/s400/PICT1896.JPG"
 id="BLOGGER_PHOTO_ID_5097464462844824370"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rr3U6-MLCzI/AAAAAAAAALE/XJFNeFoC-TE/s1600-h/PICT1896.JPG)
-<div>
+
 
 I am home again after four weeks vacation. Feels great and i am really
 in the mood to get down and do some programming again, and playing, and
@@ -63,10 +63,9 @@ parenthood etc. in posts to follow. For now we are just very happy!
 
 And no
 
-<div>
+
 
 And yes - there are a lot of twins in the family. High ... risk/chance
 take your pick :)
 
-</div>
 

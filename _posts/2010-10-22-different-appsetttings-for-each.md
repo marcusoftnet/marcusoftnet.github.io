@@ -37,19 +37,17 @@ things about that:
 2. If the file is present the settings in it will override any
     attributes that are specified in both places
 
-<div>
+
 
 Here is what we did:
 
-</div>
 
-<div>
+
 
 We created a localAppSettings.config that contains the AppSettings that
 we want to override. Please note that this only contains . No -nodes in
 here. Here is what it looks like:
 
-</div>
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -67,13 +65,11 @@ relative TO THE PLACE WHERE THE TEST ARE RUN. In my case that was in
 *C:/Dev/Puls/Dev/PulsNet/GUI/PulsGui/LF.LIV.PEAAT/TestResults/localadmin_LF-E7A7A8B75E99%202010-10-22%2009_17_31/Out/*
 so the relative path is ... strange.
 
-</div>
 
-<div>
+
 
 Here is how our app.config appsettings look like:
 
-</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -90,7 +86,6 @@ Finally we set the localAppSettings.config to be excluded from source
 control as I explained [in the last
 post.](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
 
-</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -106,10 +101,8 @@ data-border="0" /></a>
 This solution is much nicer with a lower impact for everyone...
 including the build server.
 
-</div>
 
-<div>
+
 
 Thanks Anders!
 
-</div>

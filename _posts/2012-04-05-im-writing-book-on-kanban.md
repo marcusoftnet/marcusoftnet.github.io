@@ -14,17 +14,15 @@ blogger_orig_url: http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.htm
 ---
 
 
-<div>
+
 
  
 
-</div>
 
 <div class="p1">
 
 A fantastic thing has happened to me.
 
-</div>
 
 <div class="p1">
 
@@ -36,13 +34,11 @@ a book on <a href="http://www.kanban101.com" target="_blank">Kanban</a>
 and if I could come with some ideas or suggestions on the proposed
 content.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
@@ -51,20 +47,17 @@ please describe it in 5 minutes for a total newbie (not that Mike was
 that :))? What would I see in a book on Kanban? questions like that for
 about 45 minutes.
 
-</div>
 
 <div class="p1">
 
  
 
-</div>
 
 <div class="p1">
 
 Then - all of a sudden - the final question (just about the time as my
 twins were tearing down the door and entering the room, i might add):
 
-</div>
 
 > <div class="p1">
 >
@@ -80,13 +73,11 @@ happen. I have never aspired to write a book, although I've often wonder
 if i could do it given the chance. How do you actually do it? Just crack
 your knuckles and start to write? How much time does it take?
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
@@ -95,25 +86,21 @@ me?" was speeding through my head as I tried to end the call in a
 composed manner. When the virtual Skype hook was off the line I screamed
 right out, scaring wife, kids and probably some neighbors too.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
 So I'm going to write a book!
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 ### Now what?
 
@@ -121,7 +108,6 @@ So I'm going to write a book!
 
  
 
-</div>
 
 <div class="p1">
 
@@ -134,13 +120,11 @@ me and
 <a href="http://www.joakimsunden.com" target="_blank">Joakim Sundén</a>
 have been presenting numerous times it will be the book right there.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
@@ -148,7 +132,6 @@ After thinking that second thought I felt that I would be able to live
 with myself without at least asking Joakim if he wanted to help me write
 the book. He did (!!!!).
 
-</div>
 
 <div class="p1">
 
@@ -159,25 +142,21 @@ around Kanban have either come from Joakim or been pointers from him. He
 has also opened a lot of doors for me with speaking opportunities and
 contacts in the Kanban world.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
 So we're going to write it together. And I'm very happy about that too.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 ### What is it about?
 
@@ -190,19 +169,16 @@ different approach. We're writing a very practical book that shows a lot
 of different patterns that has emerged in the Kanban community around
 how to solve different situations, problems and opportunities.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
 Here's a short excerpt from the introduction:
 
-</div>
 
 > This book is a down-to-earth, no-frills, get-to-know-the-ropes
 > introduction to Kanban based on observations (and some hearsay!) and
@@ -233,13 +209,11 @@ alterations and that new patterns emerge over time. The site will not
 contain the glue of the book, the narratives that puts these patterns
 into a context or the introduction text to each chapter etc.
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p2">
 
@@ -247,17 +221,14 @@ The site is not public yet as we feel that we need a couple of patterns
 in place and decent shape to call it a site at all. I’ll get back to you
 on that…
 
-</div>
 
 <div class="p2">
 
  
 
-</div>
 
 <div class="p1">
 
 I'm very much looking forward to this project and I would love to hear
 your feedback on it. Now and during the time we write.
 
-</div>

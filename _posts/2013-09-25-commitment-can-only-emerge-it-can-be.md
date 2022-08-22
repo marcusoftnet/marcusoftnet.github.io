@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it
 ---
 
 
-<div>
+
 
 One of the things that I really love with my job is that you meet a lot
 of excellent people at the different clients. Some of these people are
@@ -56,7 +56,7 @@ misused, there's nothing wrong with the term itself. But you cannot:
 - Have them say aloud that they commit to a scope (yes, I've heard
     about things like that).
 
-<div>
+
 
 |                                                                                                   |
 |:-------------------------------------------------------------------------------------------------:|
@@ -85,20 +85,17 @@ understand WHY you
 really want</a> this thing you want them to build. And answer any
 question they might need you for around the WHAT.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 And if you do, you might, just might see commitment emerge. Commitment
 that could manifest itself in:
 
-</div>
 
-<div>
+
 
 - Delivering a better product, than even you expected
 - Building it faster, than you hoped
@@ -106,34 +103,27 @@ that could manifest itself in:
 - Being proud over what they/you have made. So proud that they
     continue to care about "our product"
 
-<div>
+
 
 In short; you might find a team that stand behind the product.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 So in short: Don't demand commitment. You can demand stuff but it's not
 commitment. You can support a team to feel empowered, proud and
 involved. And if you're lucky... you might see commitment emerge.  
 
-</div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Thanks Andy for pointing that out to me. Love talking to you!
 
-</div>
 
-</div>

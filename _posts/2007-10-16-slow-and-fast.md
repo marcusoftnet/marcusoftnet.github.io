@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/slow-and-fast.html
 ---
 
 
-<div>
+
 
 We are closing in on the end of the project (the development phase) and
 it a mixture of feelings that comes over me.
@@ -47,4 +47,3 @@ period now with very much on the agenda. Here's a short list:
 
 Well - that should keep me busy during the autumn.
 
-</div>

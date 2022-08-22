@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting5.html
 ---
 
 
-<div>
+
 
 When I showed the code from the [last
 post](http://www.marcusoft.net/2013/02/NancyTesting4.html) to
@@ -43,7 +43,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://nancyfx.org/images/logo.png" data-border="0" width="178"
 height="200" /></a>
 
-</div>
 
 As the tradition calls - let's look in wonder at Nancy's silhouette.
 If you came here and want to read up on what we have spoken about so
@@ -60,7 +59,7 @@ far, the other posts in the series can be found here:
 5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>(this post)
 
-<div>
+
 
 In this post I'll introduce you, short - very short, to
 <a href="http://www.specificationbyexample.com/"
@@ -68,15 +67,13 @@ target="_blank">Specification by example</a> and
 <a href="http://www.specflow.org/" target="_blank">SpecFlow</a> and some
 practices that makes automating your application ... bearable
 
-</div>
 
-<div>
+
 
 ### Specification by example and SpecFlow
 
-</div>
 
-<div>
+
 
 <a href="http://www.specificationbyexample.com/"
 target="_blank">Specification by example</a> is a way to analyze how
@@ -86,48 +83,42 @@ need. By doing so you can come up with a solution that is more in line
 with what they have envisioned. You're increasing the possiblity that
 you are building the thing **right.**
 
-</div>
 
-<div>
+
 
 **
 **
 
-</div>
 
-<div>
+
 
 As a nice side effect of having these discussions with the client you
 end up with a lot of examples that can easily be used as test cases to
 validate your code. Using certain formats and tools (hrmf SpecFlow hrmf)
 you could even have these example executed against your system.
 
-</div>
 
-<div>
+
 
 **
 **
 
-</div>
 
-<div>
+
 
 That means that you could run the examples you talked about against your
 system and they will tell you if you have implemented the feature as
 discussed or not. Your examples have become an **executable
 specification**.
 
-</div>
 
-<div>
+
 
 **
 **
 
-</div>
 
-<div>
+
 
 This was a super short introduction to the vast subject Specification by
 example (aka
@@ -137,28 +128,24 @@ heard about it before I encourage you to check it out. It changed my
 life - and will change yours too if you give it a change. It's a more
 fun way to do better code!
 
-</div>
 
-<div>
+
 
 **
 **
 
-</div>
 
-<div>
+
 
 Specification by example is not about the tools. It's actually most
 about the conversations that you and your client have around the
 examples. So to honor that very important fact - let's talk tools:
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 The tools I'm talking about here are tools that let you take the
 examples you talked about with your client and execute them, in a format
@@ -168,21 +155,18 @@ called <a href="http://www.cukes.info/" target="_blank">Cucumber</a> and
 the .NET implementation of that is called
 <a href="http://www.specflow.org/" target="_blank">SpecFlow</a>.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Simply put the flow of
 <a href="http://www.specflow.org/specflownew/" target="_blank">SpecFlow
 is like thi</a>s:
 
-</div>
 
-<div>
+
 
 1. You write your examples in a .feature-file, using the
     <a href="https://github.com/cucumber/cucumber/wiki/Gherkin"
@@ -203,7 +187,7 @@ is like thi</a>s:
     As you probably know, or understand, Asserts in test
     frameworks throw errors when the assertion fails.
 
-<div>
+
 
 Summing up this simply means that each row, or step, in your
 .feature-files, that contains your examples, is mapped to a
@@ -211,23 +195,19 @@ corresponding step definition, a method that defines what should happen
 in the step. For the step "When I log in" we automate the application to
 do log-in.
 
-</div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 SpecFlow has excellent support in Visual Studio and is completely free.
 
-</div>
 
 ### Maintainable test code and Page wrappers
 
-<div>
+
 
 When I first heard about specification by example I, like many others,
 wanted to automate as much as possible. And that's a good idea - surely
@@ -289,17 +269,15 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-4ITuI6HkUQ0/UROeBmSi6nI/AAAAAAAABaY/TDU-LChRDVU/s320/Screen+Shot+2013-02-07+at+13.24.53+.png"
 data-border="0" width="320" height="228" /></a>
 
-</div>
 
 The green boxes is code that you need to write (oh, well you need to
 write the .feature-file as well but that's not really code right). The
 rest of the picture is the frameworks work for us.
 
-</div>
 
 ### Example
 
-<div>
+
 
 Let's see how I've stitched this together. Mind you - this is my take on
 it. There's probably other ways to do this but this worked for me with
@@ -307,25 +285,22 @@ reasonable complexity. The example has quite a lot of moving parts for
 such small test, but that pays off in the long run. Trust me on that
 one.
 
-</div>
 
-<div>
+
 
 For our example we will take a look at the behavior around creating new
 fairy tale figures. Here's my feature:
 
-</div>
 
-<div>
+
 
 As you can see there's just a little introduction at the top, stating
 the reason of this functionality. What then follows are two distinct
 scenarios with concrete values. In the first one we're focusing on
 creating a fairytale figure with no hangarounds. Sad one.
 
-</div>
 
-<div>
+
 
 In that latter we create another figure (note that we don't care about
 the name and hence don't use one) and make sure that the hangaround
@@ -396,7 +371,7 @@ page properly. Or that all the hangarounds are as evil as their master
 The final part is just my small private helper methods to create the
 form. Nothing particular exciting there.
 
-<div>
+
 
 As I said - that's a mouth full when you first look at it. The number of
 lines in that code has partly to do with my formatting and my comments.
@@ -406,7 +381,6 @@ target="_blank">this series.</a>
 
 That just leaves the production code:
 
-</div>
 
 Just a few notes on this:
 
@@ -424,7 +398,7 @@ Just a few notes on this:
 
 ### Summary
 
-<div>
+
 
 There's you have it. Testing the entire application stack, from a human
 (and business) readable format, with the help of SpecFlow, all the way
@@ -432,26 +406,22 @@ to the ends of the dataaccess code (with the help of Simple.Data). All
 in memory. I don't think that can be done in many other frameworks (at
 least not on the .NET stack). Color me impressed!
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 That brings us to an end of this series. I've learned a great deal about
 both Nancy and testing Nancy. I can now reveal that when I started to
 write these blog post I had some problems grokking it. That was why I
 jumped in at the deep end like that.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Now that I know a bit more I can only say that I'm continioulsy being
 impressed with Nancy and her awesome testabilities. Great stuff
@@ -461,8 +431,5 @@ Oh yeah - almost forgot.
 <a href="https://github.com/marcusoftnet/DiscoveringNancyThroughTests"
 target="_blank">The code is up here.</a>
 
-</div>
 
-</div>
 
-</div>

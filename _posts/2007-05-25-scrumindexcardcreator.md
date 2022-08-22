@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/05/scrumindexcardcreator.html
 ---
 
 
-<div>
+
 
 <img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/RlpwXyObzbI/AAAAAAAAAKE/xErxoVOhuUg/s320/scrumindexcardcreator1.JPG"
@@ -40,4 +40,3 @@ To the right you'll find some screenshots of it.
 
 Anyone interested in it can contact me marcus,hammarberg(a)avega,se
 
-</div>

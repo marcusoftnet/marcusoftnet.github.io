@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html
 ---
 
 
-<div>
+
 
 With your
 <a href="http://www.specflow.org/" target="_blank">SpecFlow</a>
@@ -152,7 +152,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/_TI0jeIedRFk/TQjJvwiN9SI/AAAAAAAAAqI/jLAWtMkRrW0/s320/examplereport.png"
 data-border="0" width="320" height="158" /></a>
 
-</div>
 ### Putting it all together
 
 That’s neat – we now have three different .bat files that we need to
@@ -203,7 +202,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TQjJ4c73ElI/AAAAAAAAAqM/pIZm5ZEHHEU/s320/configuring+external+tools.png"
 data-border="0" width="320" height="311" /></a>
 
-</div>
 
 The arguments to the external command are:
 
@@ -221,4 +219,3 @@ You can
 <a href="https://github.com/marcusoftnet/Demo-Reporting-with-MsTest"
 target="_blank">download my code here</a>
 
-</div>

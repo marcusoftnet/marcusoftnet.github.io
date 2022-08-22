@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html
 ---
 
 
-<div>
+
 
 I'm working with vision statements and strategic planning right now.
 Man - this an area that is really misunderstood and misused I think.
@@ -44,47 +44,41 @@ clarifying:
 
 ### What is this good for?
 
-<div>
+
 
 Guidance. If you read this blog you know that I'm not specifically into
 detail planning. I don't think it's feasible. For one simple reason; the
 future is unknown. It's really the only thing that we know about it - it
 will not be exactly how we planned it.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 However - the list above is very handy anyway I think. Most of the
 points are not about planning but guidance, alignment and policies for
 how we act. In that regard this is greatly valuable.
 
-</div>
 
-<div>
+
 
 Hey, it's one of those days, I even think that the last point (that is
 planning) could be useable. This too will show us where we planning to
 go. From where we are now. With what we know.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 As long as we understand that these things will change, there's no
 problem.
 
-</div>
 
 ### There's a problem here
 
-<div>
+
 
 However... I found that many organisations are VERY reluctant to change
 these lists. To be quite frank the first point (the mission) maybe
@@ -92,12 +86,10 @@ shouldn't change. That would mean to change the whole reason for the
 organisations existence. That is basically destroying the organisation
 and rebuilding it into something completely different.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But the vision... might change. If we need to do some drastic
 adaptations to a new reality for example. Just imagine how the Internet
@@ -105,10 +97,8 @@ has changed business models. The vision for companies like N.Y. Times
 and CNN I imagine shifted radically with the new possibilities in a new
 media.  
 
-</div>
 
-<div>
-</div>
+
 
 |                                                                                                                       |
 |:---------------------------------------------------------------------------------------------------------------------:|
@@ -121,40 +111,34 @@ media.  
 |                          From <a href="http://bit.ly/theKanbanBook" target="_blank">Kanban in
                                                        Action</a>                                                       |
 
-<div>
+
 
 Strategic plans is very interesting, I think, and here we should be
 prepared to change much more than the previous ... levels. This has to
 do with a very important part that I've wrote in italics above: "where
 we are today".
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 This is also one of the really powerful tenants of kanban: "start where
 you are - change in small steps".
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The Commissioner of the Salvation Army (CEO in business terms) in
 Indonesia told me an old English joke that is suitable here:
 
-</div>
 
-<div>
+
 
 A man drove up to a woman on the sidewalk, in London, and asked:
 
-</div>
 
 > "How do I get to Piccadilly circus from here?"
 
@@ -183,18 +167,16 @@ target="_blank">And hence your disappointments... </a>
 
 ### You were speaking about a problem?
 
-<div>
+
 
 Oh, forgot about that... Well the problem I have seen a lot is that
 people and organisations in them are very reluctant to change. About
 anything. Especially vision statements.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So we write very lofty statements, with big fluffy words like
 "holistic", "empower", "best within selected areas", "leading" and
@@ -235,23 +217,19 @@ Good indicators and guides are hard to write. It's hard to get it right.
 But once created can prove invaluable to help and guide people in your
 organisation.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
 What is your approach to the problem that they are hard to write?
 
-</div>
 
 <div style="text-align: left;">
 
 Do you think really, really hard and then ~~carve it in stone~~ write it
 once so that you never never have to change this again?
 
-</div>
 
 <div style="text-align: left;">
 
@@ -259,14 +237,10 @@ Or do you change your process here so that you think hard for a short
 while and then make it easier to change and communicate - so that you
 have a living dialog about your vision and strategy.
 
-</div>
 
 <div style="text-align: left;">
 
 You choose.
 
-</div>
 
-</div>
 
-</div>

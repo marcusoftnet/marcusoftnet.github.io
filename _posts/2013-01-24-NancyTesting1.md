@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting1.html
 ---
 
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -24,7 +24,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://nancyfx.org/images/logo.png" data-border="0" width="178"
 height="200" /></a>
 
-</div>
 
 For quite some time I've been a fan and proponent of a .net web
 framework called
@@ -60,22 +59,20 @@ here's what I have planned:
 5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
-<div>
+
 
 The underlying idea here is to get to know Nancy better, through tests.
 Join me if you want. The speed of the blog posts will be much dependent
 on how the book writing goes (Kanban In Action...). At the time of
 writing I have the first two posts prepared, and the rest in my head.
 
-</div>
 
-<div>
+
 
 ### Why is Nancy easy.. to test
 
-</div>
 
-<div>
+
 
 Nancy is a web framework built from the ground up. Which means that it
 has no dependencies to System.Web or any of the web-stuff in .NET
@@ -84,13 +81,11 @@ framework. Those parts have been notoriously hard to test
 target="_blank">mocking</a> the complete Request-object is a nightmare
 that still haunts many of us).
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Not only that - the creators of Nancy have themselves worked with
 testing as a main feature of the framework, probably even test-first.
@@ -101,20 +96,17 @@ target="_blank">post on constraints</a>: they constrained themselves to
 test everything, which made them create a very testable framework. Thank
 you constraint!
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 There are two levels where this testability thoughts shine through to
 great effect;
 
-</div>
 
-<div>
+
 
 - Everything can be replaced! Nancy is built to replace every part of
     her - even core properties such as the NancyEngine itself (you can
@@ -124,7 +116,7 @@ great effect;
     test the complete stack of an Nancy-application, without touching
     slow and expensive resources such as the network.
 
-<div>
+
 
 That last part requires an explaination I think. When you create a
 Nancy.Testing.Browser you need to pass in a
@@ -132,22 +124,19 @@ Nancy.Bootstrapper.INancyBootstrapper. That might be seen as cumbersome
 but it gives you some great advantages and is not really hard as this
 example will show you:
 
-</div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Moreover - this will actually test **everything**, the complete
 Nancy-stack. Without hitting the network. Yes - I know. I didn't get
 that first either. But let's look what possibilities that gives us first
 and I'll try to explain it better afterwards:
 
-<div>
+
 
 As you can see from that example we can supply a fully populated
 Request-object, with all the context we need for our Request (headers,
@@ -166,16 +155,14 @@ target="_blank">headless browser.</a>
 
 #### Contrasting with ASP.NET MVC options
 
-</div>
 
-<div>
+
 
 If you were to test the same thing with an ASP.NET MVC application you
 are faced with two options:
 
-</div>
 
-<div>
+
 
 - test the controller directly. This is nice since the controller is
     just a class. You can supply dependencies and control the way it's
@@ -195,9 +182,8 @@ are faced with two options:
 
 ### Summing up Nancy testability
 
-</div>
 
-<div>
+
 
 [Nancy.Testing](http://nancy.testing/) gives you a great way to test
 your complete stack, with full control of it's execution. This in turn
@@ -205,22 +191,19 @@ gives you the opportunity to write small specific test, without a lot of
 setup to get to the right page on the site etc, and a really fast
 feedback-loop.
 
-</div>
 
-<div>
+
 
 ### The basic setup
 
-</div>
 
-<div>
+
 
 Here follows the steps I went through to get started testing a new
 application.
 
-</div>
 
-<div>
+
 
 1. Created a new Solution,
     <a href="https://github.com/marcusoftnet/DiscoveringNancyThroughTests"
@@ -238,7 +221,7 @@ application.
     target="_blank">Install-Package xUnit</a>)
 
 5. Wrote my first test
-    <div>
+
 
    </div>
 
@@ -250,7 +233,7 @@ application.
 
 7. So, the route was not found. I need to create the NancyModule that
     holds it. That's the famous Fit-In-A-Tweet-Module:
-    <div>
+
 
    </div>
 
@@ -299,8 +282,5 @@ In subsequent post we will dive deeper into these concepts and see how
 we can bend them to our will, creating a excellent testing environment
 for our applications.
 
-</div>
 
-</div>
 
-</div>

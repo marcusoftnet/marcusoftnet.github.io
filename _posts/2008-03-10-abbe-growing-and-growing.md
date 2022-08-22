@@ -19,7 +19,7 @@ id="BLOGGER_PHOTO_ID_5175812701540304290"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/R9QuOrtDxaI/AAAAAAAAASI/meySp48QUxs/s1600-h/PICT2590.JPG)
 
-<div>
+
 
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/R9QsEbtDxYI/AAAAAAAAAR4/DzJkvetrUII/s320/PICT2615.JPG"
@@ -28,7 +28,7 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R9QsEbtDxYI/AAAAAAAAAR4/DzJkvetrUII/s1600-h/PICT2615.JPG)
 
 
-<div>
+
 
 Albert (or Abbe for short) is growing and in equal parts impressing and
 driving us mad.
@@ -42,6 +42,4 @@ him again.
 Above are some recent photos. I haven't been able to catch a smile yet -
 but i am looking... watch this space
 
-</div>
 
-</div>

@@ -131,7 +131,6 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
   19: </package>
 ```
 
-</div>
 Most of the elements speaks clearly for themselves (I’ve shorten the
 content of some for readability):
 -   At line 5 you can see how you can send in a version number to the
@@ -187,9 +186,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    9: Write-Host "#############################"
 ```
 
-</div>
 
-</div>
 
 -   On line 1 we have some parameters that NuGet are sending to us. It’s
     basically some paths to different folder that might be interesting
@@ -218,9 +215,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    1: nuget pack Pickles.nuspec -Version %1
 ```
 
-</div>
 
-</div>
 Nothing strange here,  I simply point to the .nuspec-file and pass a
 parameter as version. This allows me to use this command (.cmd-file)
 from a DOS-prompt to create new packages by simply setting the version

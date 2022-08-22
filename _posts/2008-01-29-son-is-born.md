@@ -18,7 +18,7 @@ id="BLOGGER_PHOTO_ID_5160856808168754914"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s1600-h/PICT2446.JPG)
 
-<div>
+
 
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/R58LwnOODtI/AAAAAAAAAPU/0hNEalJ4gW4/s320/PICT2480.JPG"
@@ -27,14 +27,14 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/R58LwnOODtI/AAAAAAAAAPU/0hNEalJ4gW4/s1600-h/PICT2480.JPG)
 
 
-<div>
+
 
 Finally - after 9 months our baby has arrived. It is the most wonderful
 little boy you can imagine and we are so grateful for having him into
 our life.
 
-<div>
-<div>
+
+
 
 Here are some pictures of him.
 
@@ -44,7 +44,5 @@ Here are some pictures of him.
 Right now we are quite tired also, so i'll get back with details later
 on. A very quick thank you to all the people that have prayed for, warm
 thougt
-</div>
 
-</div>
 

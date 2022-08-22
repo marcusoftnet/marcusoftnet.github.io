@@ -28,18 +28,15 @@ id="BLOGGER_PHOTO_ID_5188038562687491794"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R_-dldoEHtI/AAAAAAAAASs/1bL7Y2t7fNw/s1600-h/PICT2647.JPG)
 
-<div>
 
-<div>
 
-<div>
+
+
+
 
 Thought that i might upload some new pictures of Albert. He is now 2 and
 half months and simlies when i get home after work. I can't resists
 him - of course. Some says that he looks like me...
 
-</div>
 
-</div>
 
-</div>

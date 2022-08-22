@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/09/working-to-cake-limit.html
 ---
 
 
-<div>
+
 
 When team transition from an iteration-based (i.e. Scrum) to a more
 flow-based (i.e. Kanban) approach to software development they often
@@ -56,7 +56,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-w_qio6tjuX0/UE5QG51lh6I/AAAAAAAABT8/8rmkm_bNWcw/s320/Screen+Shot+2012-09-10+at+22.39.42.png"
 data-border="0" width="320" height="230" /></a>
 
-</div>
 
 When I first saw this I thought it was a prank of some sort so I asked
 the team. But "No", the explained, "when we've reached 40 items in the
@@ -97,15 +96,13 @@ different kind of work will take:
 -   A medium have during the last 3 months taken around 5.7 days, with 2
     ones off by mostly 10 days. 
 
-<div>
+
 
 Things like that. Pretty cool, huh? Stakeholders often values
 predictability over speed in my experience.
 
-</div>
 
-<div>
-</div>
+
 
 
 **Number of items done / week** - with this simple metric we see our
@@ -121,4 +118,3 @@ current process. But without metrics you have no easy way of telling if
 you're improving or not.
 
 
-</div>

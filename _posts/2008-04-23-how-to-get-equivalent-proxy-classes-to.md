@@ -62,27 +62,24 @@ namespacestuff). Here is an example:
         public partial class WS_Migg_Header : IHeader { }
     }
 
-<div>
+
 
 I don't know if this is a pattern but is sure is nice. By using partial
 classes and implicit interface implementation (again? I'll switch to
 writing books soon...) we solved a quite hard problem in a very nice
 way.
 
-</div>
 
-<div>
+
 
 Now we can treat the headers uniformly by passing an interface instead
 of an implementation (["Classes are dead.](http://www.qi4j.org/) [Long
 live
 interfaces"](http://www.qi4j.org/images/18.22f90280115a3439d1a80002328/classes-are-dead.gif)).
 
-</div>
 
-<div>
+
 
 And we'll probably use the same trick for exception handling, and
 logging, and ...
 
-</div>

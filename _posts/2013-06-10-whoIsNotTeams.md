@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/06/whoIsNotTeams.html
 ---
 
 
-<div>
+
 
 I was asked to help a client to facilitate a
 <a href="http://impactmapping.org/" target="_blank">Impact Mapping</a>
@@ -62,7 +62,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://impactmapping.org/site/map.png" data-border="0" width="320"
 height="216" /></a>
 
-</div>
 
 In order to know that we're doing the right thing we also needs a solid
 understanding **who** we are doing it for. These are **actors** that we
@@ -90,4 +89,3 @@ impact) fast and efficient.
 What the client was after in this instance was a map that showed how
 their current organization was put together to support the goal. That's
 also great, but it isn't a impact map.
-</div>

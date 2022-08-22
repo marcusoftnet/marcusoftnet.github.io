@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/07/modelling-result.html
 ---
 
 
-<div>
+
 
 As [I wrote earlier](http://www.marcusoft.net/2008/06/new-modeljob.html)
 I have done another "photo session" for [Avega](http://www.avega.se/). Who
@@ -31,4 +31,3 @@ I am really pleased with the result. It almost looks like it was drawn
 or something. Really cool colors. It is a great photographer. The model
 leaves more to wish for but you'll have to work with what you've got...
 
-</div>

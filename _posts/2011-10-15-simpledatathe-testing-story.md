@@ -204,12 +204,10 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   35: }
 ```
 
-</div>
-
-</div>
 
 
-<div>
+
+
 
 So here (and yes, I’ve stolen the sample from the Simple.Data
 repository’s test project) we create a XmlMockAdapter in the Setup. On
@@ -217,7 +215,6 @@ row 9 through 16 we load it up with some XML data. This can of course be
 read from a file if you want to, but then your pushing the envelope on
 what a **unit**-test is, in my opinion.
 
-</div>
 
 
 Line 18 is important – that tells Simple.Data to use our \_mockAdapter.
@@ -234,9 +231,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    1: Database.UseMockAdapter(_mockAdapter);
 ```
 
-</div>
 
-</div>
 
 
 which in my opinion is much clearer. However it works in the same way.
@@ -419,9 +414,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   41: }
 ```
 
-</div>
 
-</div>
 I used the Database.Default property which simply gives us the default
 database in the .config, or in our case just the database with the
 mock-adapter. It’s just a shorthand for:
@@ -440,9 +433,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    2: db.Users.WhatEver;
 ```
 
-</div>
 
-</div>
 
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Using a repository
@@ -537,9 +528,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   19: }
 ```
 
-</div>
 
-</div>
 
 
 Worth noting here might be that I am not sending anything in to this
@@ -692,9 +681,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   34: }
 ```
 
-</div>
 
-</div>
 As you can see this gives me the ability to test out the code in the
 repository.
 <span class="Apple-style-span"
@@ -806,9 +793,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   22: }
 ```
 
-</div>
 
-</div>
 
 
 From the name of the branch (dict-query) you can deduce how that’s

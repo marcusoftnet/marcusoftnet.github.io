@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/improvmentlane.html
 ---
 
 
-<div>
+
 
 One of the best and shortest explanations to what Lean really is about,
 I've found in the
@@ -35,7 +35,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://4.bp.blogspot.com/-5tjLJXKatlw/VFGpzCr4vWI/AAAAAAAAIf8/r4z2jsmENaY/s1600/Screen%2BShot%2B2014-10-30%2Bat%2B10.00.02%2B.png"
 data-border="0" width="320" height="298" /></a>
 
-</div>
 
 The thing that made it "click" for me was a diagram that contrasted
 Resource efficiency with Flow efficiency. I love it! Even though I might
@@ -95,11 +94,9 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-esT55Mal4oI/VFGvagcbhmI/AAAAAAAAIgU/yVVmhHtXqjg/s1600/improvment_lane.jpg"
 data-border="0" width="640" height="124" /></a>
 
-</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 Ok - some of it is in Indonesian, so here's an explanation:
 
@@ -115,31 +112,28 @@ Ok - some of it is in Indonesian, so here's an explanation:
 - PIC (Person in Charge) is just the name of the person that we will
     ask about the status tomorrow morning.
 
-<div>
+
 
 The most important, and the reason for the this blog post, part of this
 lane is to the far right; Nanti (Next). Here is the things that we will
 try after this improvement.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 Now, for a Lean advocate as myself, I cringed a little when I realised:
 
-</div>
 
-<div>
+
 
 - I want this lane always working
 - I never want the Nanti-column to be empty
 - In fact, I want many things in there.
 
-<div>
+
 
 After some thoughts I realised the problems with having to many things
 in the Nanti-column; we don't know what to choose but I rather have to
@@ -147,21 +141,16 @@ many improvement ideas than no improvement ideas. We will still limit
 work in process to just 1 item at the time to make the changes small and
 speedy.
 
-</div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 We have already seen this very useful and helping us to focus on the
 improvement at hand (leaving the other ideas to the side for now),
 encouraging smaller steps and changes. But most of all; always having
 things that we are improving.
 
-</div>
 
-</div>

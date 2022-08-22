@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html
 ---
 
 
-<div>
+
 
 Let me tell you a story: when I was in university I took an "advanced"
 object oriented programming course. This was my first exposure to the
@@ -45,29 +45,25 @@ the same every time:
 -   "Oh man - that's one tall order!"
 -   "What a hard professor - that's almost an impossible task"
 
-<div>
+
 
 The thing is: he didn't tell us what he was going to change. Just that
 *something* was going to change. In two weeks. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 How do you think we approached that taks? 
 
-</div>
 
-<div>
+
 
 We coded very defensively. 
 
-</div>
 
-<div>
+
 
 -   "Oh my - what if he decides to change this?" 
 -   "This probably needs to be an interface, if we are asked to
@@ -75,7 +71,6 @@ We coded very defensively. 
 -   "No - that needs to be extracted since we then can change that part
     without touching part X"
 
-</div>
 
 
 Things like that. All in all it was an excellent assignment that thought
@@ -121,7 +116,7 @@ specification in the hands of the programmer (that by the way calls
 themselves **constructors** since that's all they really do, translate
 pseudo-code in Swedish to COBOL).
 
-<div>
+
 
 
 Everything around the setup for this system was to handle risk and
@@ -150,7 +145,7 @@ These two stories got me thinking.
 -   What kind of documentation do I need in a system that I'm going to
     change a lot?
 
-<div>
+
 
 What do you optimize for?
 
@@ -158,11 +153,7 @@ I wrote a follow-up
 [post](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html) on
 this topic if you want to read more.
 
-</div>
 
-</div>
 
-<div>
-</div>
 
-</div>
+

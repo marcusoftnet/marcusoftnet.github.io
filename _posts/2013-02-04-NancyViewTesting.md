@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyViewTesting.html
 ---
 
 
-<div>
+
 
 I'm in the middle of writing a blog post series on Nancy.Testing and
 this bit me a bit (sorry, couldn't resist myself).
@@ -57,7 +57,7 @@ Oh yeah - the two settings you need to do:
     You'll reach that setting by hitting F4 on the Razor file, the
     .cshtml.
 
-<div>
+
 
 After that it'll "just work".
 
@@ -66,6 +66,4 @@ here.](http://www.marcusoft.net/2013/01/NancyTesting1.html)
 My code can [be found
 here.](https://github.com/marcusoftnet/DiscoveringNancyThroughTests)
 
-</div>
 
-</div>

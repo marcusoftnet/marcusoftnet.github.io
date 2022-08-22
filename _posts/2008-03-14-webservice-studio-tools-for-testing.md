@@ -20,7 +20,7 @@ id="BLOGGER_PHOTO_ID_5177605261975864786"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/R9qMjbtDxdI/AAAAAAAAASc/CjoKf0Uyu1I/s1600-h/webservicestudio.JPG)
 
-<div>
+
 
 I got to know about a cool tool for testing web services today. The web
 page that normally is created for you have the small disadvantage that
@@ -44,4 +44,3 @@ are interested in getting one - please get back to me.
 Even better - if you know of a place to download this file - get back to
 me and I'll update the post.
 
-</div>

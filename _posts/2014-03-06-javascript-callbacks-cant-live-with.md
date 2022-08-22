@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/javascript-callbacks-cant-liv
 ---
 
 
-<div>
+
 
 This is a confession post. Yes,
 <a href="http://www.hanselman.com/blog/ImAPhonyAreYou.aspx"
@@ -115,7 +115,6 @@ Instead it looks something like this:
 > style="font-family: 'Courier New', Courier, monospace;">getPostById(id,
 > callback);
 
-</div>
 
 <div style="text-align: left;">
 
@@ -126,10 +125,8 @@ caller will also supply a callback and you call that. It's nice and
 clean, and also allows for Node to continue to operate in a non-blocking
 way.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -139,7 +136,6 @@ spinning.
 
 Let's see what happens when someone tries to use this. First a test:
 
-</div>
 <div style="text-align: left;">
 
 When can see that we're nesting the callbacks and in the innermost
@@ -151,7 +147,6 @@ completed. From the
 <a href="http://visionmedia.github.io/mocha/" target="_blank">Mocha
 documentation</a>:
 
-</div>
 
 > By adding a callback (usually named done) to it() Mocha will know that
 > it should wait for completion.
@@ -181,15 +176,14 @@ and everything, but there must be a easier way. Now doesn't it?
 
 ### How to promise instead
 
-<div>
+
 
 Promises! The mirage in the callback-desert. The wonderful sunrise that
 brings tears in the eyes of every Javascript developers. The thing that
 I don't use and haven't understood yet. Not completely at least.
 
-</div>
 
-<div>
+
 
 But I can show you this from the
 <a href="https://github.com/kriskowal/q" target="_blank">promise library
@@ -200,6 +194,4 @@ it's better, easier and clearer.
 That's enough for me to want to dive in and try to learn it. Promise
 (pun intended) to get back to you on that.
 
-</div>
 
-</div>

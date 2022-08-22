@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/hello-aptitud.html
 ---
 
 
-<div>
+
 
 
 So as I <a href="http://www.marcusoft.net/2012/12/good-bye-avega.html"
@@ -71,38 +71,31 @@ I'll also tell you how that's improved our work situation already.:
 These were just two simple examples where the key values have guided
 Aptitud towards simple, more people friendly solutions.
 
-<div>
-</div>
 
-<div>
+
+
 
 We have already heard from many that we are naïve and that this won't
 scale. We don't think so. We think great people accomplish great stuff -
 given the freedom to do so. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Oh yeah - if you think this sounds interesting.
 <a href="https://twitter.com/Aptitud_Sthlm" target="_blank">Contact
 us</a> and we'll tell you more. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 To all (all 9 of you that is...) my Aptidudes out there; Let's go! Let's
 be great!
 
 
 
-</div>
 
-</div>

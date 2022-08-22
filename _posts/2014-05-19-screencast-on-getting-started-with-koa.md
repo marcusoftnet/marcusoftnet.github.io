@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-on-getting-started
 ---
 
 
-<div>
+
 
 I got a <a href="http://www.marcusoft.net/2014/03/mnb-mongoosejs.html"
 target="_blank">comment from a reade</a>r. That's both encouraging and
@@ -34,21 +34,17 @@ content:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 <div class="separator" style="clear: both; text-align: left;">
-</div>
 
 <div class="separator" style="clear: both; text-align: left;">
 
 As always I learned a lot in the process, here's a few of the things
 that I picked up;
 
-</div>
 
 <div class="separator" style="clear: both; text-align: left;">
 
-</div>
 
 -   Rehearse it! Did the complete app 4 times before recording. And
     restarted the recording 2 times
@@ -61,4 +57,3 @@ that I picked up;
 -   Make sure the resolution is good enough to read code. This works in
     full screen but I'm not sure about the smaller screens...
 -   Turn updates off... 
-</div>

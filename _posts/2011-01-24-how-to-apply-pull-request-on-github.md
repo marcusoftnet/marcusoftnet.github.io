@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-
 ---
 
 
-<div>
+
 
 I am loving <a href="http://www.github.com/" target="_blank">GitHub</a>!
 Especially the social collaboration that occur around the projects and
@@ -73,4 +73,3 @@ but this is a way I got around a serious problem.
 It took me about 2 hours to find and apply this solution which is enough
 time for not want to have to do it again.
 
-</div>

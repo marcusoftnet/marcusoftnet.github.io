@@ -42,7 +42,6 @@ order to achieve this we have set the following configuration:
      11:       </filter>
      12:     </appender>
 
-</div>
 
 OK – nothing strange here really. And actually it worked fine for a long
 time. But all of a sudden we have ran into the problems I described
@@ -54,7 +53,6 @@ configuration above, setting the value to false;
 <div class="csharpcode">
       1:  <staticLogFileName value="false" />
 
-</div>
 
 And with that it started to work again. I found some questions around
 this on <a

@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and
 ---
 
 
-<div>
+
 
 At my current client we have split our teams into five smaller (8
 people) team. [I wrote about that process
@@ -34,19 +34,17 @@ this post fairly general, I'll try my best to make it understandable.
 
 ### The problem
 
-<div>
+
 
 My client now has five different teams that have separate backlogs and
 works towards realizing strategical important initiatives for the
 company. The teams are working of main features of the site, such as
 Search, User management and Product.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But sometimes things pop up that doesn't fit the backlog of any team.
 These things could be suggestions for improvements, urgent bugs or ideas
@@ -56,12 +54,10 @@ process to run smoother". High and low - some of these are quick and
 simple some take a while. And most are simply not known it could take a
 lot of time. We have to investigate to know more.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The problem up to now is that the people that come up with these
 suggestions don't know where to turn to and hence go directly to the
@@ -70,12 +66,10 @@ other end the teams feel an urge to just pick stuff that comes in up and
 start to work from it. Which in turn make the progress of the initiative
 to slow down.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 We stand the risk of ending up in a place when we only are doing
 "miscellaneous" stuff and the teams are standing the risk jumping from
@@ -83,7 +77,6 @@ task to task. This defeats the purpose of the teams that was created to
 be able to work of big chunks from their backlog, without
 being disturbed with minor items. Still people out there need help...
 
-</div>
 
 ### The solution
 
@@ -97,25 +90,22 @@ being disturbed with minor items. Still people out there need help...
                                 data-border="0" width="320" height="318" /></a>                                 |
 |                             "Mellan stolarna" is Swedish for "Between the chairs"                             |
 
-<div>
+
 
 First we visualized the things that fall "between the chairs" on our
 common board (I'll write a separate post on that). It's just a big
 square that anyone can post new topics in.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 We then settled for some policies for the work items that are posted in
 the square:
 
-</div>
 
-<div>
+
 
 - We clear the square on each morning meeting. Nothing should be left
     when the meeting is over.
@@ -129,7 +119,7 @@ the square:
     to the reporter and kindly informs them about the item not fitting
     in any team backlog right now.
 
-<div>
+
 
 This might seem harsh but first; there's no reason to be rude just
 because you say "No!" [It's a word that any product owner should use a
@@ -139,13 +129,11 @@ suggested initiatives. If we continue working on everything that comes
 up we shred our concentration and focus on the backlog for
 our initiative.
 
-</div>
 
-</div>
 
 ### The thoughts
 
-<div>
+
 
 This relatively simple problem caused us to dig into some quite advanced
 topics around prioritization and backlog management. Here's the thing:
@@ -189,31 +177,27 @@ This seems to be hard to understand but is actually quite naturally:
 - we have put together these teams to work on strategical important
     initiatives
 
-<div>
+
 
 Hence - the item is per definition important. We could still work on it,
 but that means that we stop work on other things. That's perfectly fine
 to do - but we should at least reflect over it and make a
 conscious decision.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 This is also quite natural if the item is urgent enough. If someone find
 an important bug ("The search field allows for SQL inject attacks" for
 example) we would gladly stop our work in our tracks and just fix that
 as fast as possible.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But when something isn't that important ("This 4 year old bug is still
 out there") we don't stop our work, but rather should throw it away.
@@ -222,30 +206,24 @@ starts to be trouble some (or more important, or more asked for, or
 \[fill in convincing argument here\]) we **will** hear about it. I
 promise!
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 The "Between the chairs"-square was in reality a way to visualize a
 systemic failure. We kept (and keep on) doing stuff that we haven't
 prioritized. We keep doing that since we at least want to respect the
 fact that these things keep popping up.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 If a lot of items comes up in the same kind of category we might
 actually have found a missing team. Or at least an area that one of the
 team **should** be doing that they are not doing right now.
 
-</div>
 
-</div>
 
-</div>

@@ -18,7 +18,6 @@ alone made me want an IPhone. Badly.
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d72539c6-c629-48be-a14e-7c2ea21293b4"
 class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-</div>
 
 And here:
 
@@ -26,7 +25,6 @@ And here:
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:f865f4a9-bb97-4de3-8731-84acf0f42bab"
 class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-</div>
 
 The cool thing is that Apple has create such a great mobile computing
 plattform. Telephony is just an application among others. Such as the

@@ -14,9 +14,9 @@ blogger_orig_url: http://www.marcusoft.net/2008/06/resharper-and-messed-up-intel
 ---
 
 
-<div>
 
-<div>
+
+
 
 Let me at the start of the post first say that I love
 [ReSharper](http://www.jetbrains.com/resharper/index.html). It is by far
@@ -35,7 +35,6 @@ Visual Studio. This will not give you as much support for "Smart
 Completion" but I'll take that over missing Intellisense everyday in the
 week, and twice on Sundays.
 
-</div>
 
 
 <img
@@ -43,14 +42,13 @@ src="http://1.bp.blogspot.com/_kkDJOSPNTLs/SEZwgxjljgI/AAAAAAAAAUQ/XzCpmdZ2llY/s
 id="BLOGGER_PHOTO_ID_5207973727461281282"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
-<div>
+
 
 Next - open the Visual Studio options and recheck that you have
 Intellisense enabled for are your languages.
 
-</div>
 
-<div>
+
 
 
 <img
@@ -67,6 +65,4 @@ least now you know how to solve it. Hopefully this will be fixed in the
 [next
 version](http://www.jetbrains.net/confluence/display/ReSharper/ReSharper+4.0+EAP+Notes)...
 
-</div>
 
-</div>

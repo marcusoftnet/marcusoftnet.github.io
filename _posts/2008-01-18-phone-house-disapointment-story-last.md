@@ -11,7 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/01/phone-house-disapointment-sto
 ---
 
 
-<div>
+
 
 OK - as you all know i am quite disappointed with the Phone House
 service quality and the way the treat their customers. You can read
@@ -29,42 +29,36 @@ support (try them - they are quite funny <support@phonehouse.se>) a lot
 of mail with questions on how i was supposed to act to get my
 non-working phone back, i finally called them.
 
-</div>
 
-<div>
+
 
 "Well that is quite tricky" - was the reply from the person answering
 the phone.
 
-</div>
 
-<div>
+
 
 "How is that?" - i replied
 
-</div>
 
-<div>
+
 
 "Well its a company contract and then some other things kick in"
 
-</div>
 
-<div>
+
 
 "But Swedish law ([Konsumentlagen](http://www.konsumentverket.se/))
 still applies i presume?!!" - i was actually quite surprised that i
 asked the question.
 
-</div>
 
-<div>
+
 
 "well .... it's ... quite complicated"
 
-</div>
 
-<div>
+
 
 You could probably guess the rest of the call. From what i understand of
 it all apparently the Phone House service quality level and their
@@ -72,31 +66,27 @@ contracts are not only annulling some parts of the Swedish law (on how
 you can complain etc.), they are also so hard to understand that only a
 executive person can handle it. And sometimes not even they.
 
-</div>
 
-<div>
+
 
 Anyway the person i talked to (who, by the way worked for the Phone
 House Service for companies) could not explain this very complicated
 contract for me - so i had to give up. And use the leverage that a 150
 person company can apply.
 
-</div>
 
-<div>
+
 
 So now i don't care about how the Phone House service quality is - i
 will never more be their customer. I bought my new telephone (picture
 below) at [Dustin](http://www.dustin.se/), and will continue to do so.
 
-</div>
 
-<div>
+
 
 Bye the Phone House - you'll might need to oversee how the staff is
 answering up to your service quality.
 
-</div>
 
 [<img
 src="http://www.dustin.se/dacsaportal/system/pages/other/wf_image_viewer.aspx?NoCache=s1dbirjzmycd2xngiu4yajb0&amp;ImageID=672709"

@@ -11,7 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/getting-dates-automatic-in-no
 ---
 
 
-<div>
+
 
 Just passed [this
 "trick"](http://blogs.msdn.com/ddysart/archive/2006/07/06/658295.aspx).
@@ -36,4 +36,3 @@ diary .
 [Check it
 out](http://blogs.msdn.com/ddysart/archive/2006/07/06/658295.aspx)
 
-</div>

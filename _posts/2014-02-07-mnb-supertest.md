@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-supertest.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn
@@ -50,7 +50,7 @@ This post is about a testing framework for HTTP:
 <a href="https://github.com/visionmedia/supertest"
 target="_blank">supertest</a>.
 
-<div>
+
 
 Really, I shouldn't need to write anything more after stating the name
 of the module. That's SUPER testing people. That's all we really
@@ -106,7 +106,6 @@ understanding of it.
 
 Now let's do a post as well and see how to send data to the server:
 
-</div>
 
 Here you can see me use the URL instead of the app-object. I (think that
 I) then have to make sure that the application is up and running so it's
@@ -122,4 +121,3 @@ the documentation for <a href="https://github.com/visionmedia/supertest"
 target="_blank">supertest</a> and <a href="https://github.com/visionmedia/superagent"
 target="_blank">super-agent</a>.
 
-</div>

@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean
 ---
 
 
-<div>
+
 
 <a href="http://nowthatsrandom.webs.com/photos/Randomness/afro.jpeg"
 data-imageanchor="1"
@@ -67,7 +67,7 @@ He was right and wrong at the same time.
 
 ### Flow efficiency versus resource utilization
 
-<div>
+
 
 <a
 href="http://3.bp.blogspot.com/-_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s1600/Screen+Shot+2013-05-29+at+10.13.46+.png"
@@ -80,9 +80,8 @@ reading this blog and pick up the book - i wont be offended) they use
 and illustration to explain what Lean really is. It's just a simple
 diagram, like the one to the right.
 
-</div>
 
-<div>
+
 
 I won't go into all the details on how to explain what Lean is here. For
 now we can just understand "Resource efficiency" as making sure that our
@@ -92,35 +91,30 @@ as fast as possible.  Read my friend [Håkan Forss post on the
 topic](https://hakanforss.wordpress.com/2012/03/18/the-balancing-act-of-getting-to-process-efficiency-nirvana/) instead.
 But this gives us a great framework to discuss our topic at hand.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Because with a team doing mob programming you would have great
 flow efficiency. Work could not be moving a long faster than that. But,
 as my colleague said: "That's not very efficient!" No - not from a
 resource efficiency perspective.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 And herein lies the crux (frist time I used that word) of the matter;
 Lean is a strategy that helps us find a good balance between the two
 axis in our diagram. Lean does that by focusing on flow efficiency
 firstly and then resource efficiency.
 
-</div>
 
 ### Firemen, mob programmers and hair dressers
 
-<div>
+
 
 What does that mean in practice then? Well - if it was so easy as to
 always maximize **only** flow then we  could just let the whole company
@@ -129,10 +123,8 @@ that a large percentage of the company would not do anything productive.
 On the other hand: the moment we needed anyone to help the work to flow,
 they would have time ready since they're just waiting around.
 
-</div>
 
-<div>
-</div>
+
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
@@ -156,7 +148,7 @@ http://www.listal.com/viewimage/25465</td>
 </tbody>
 </table>
 
-<div>
+
 
 That's very expensive and is not used in many setting. High risk
 settings are places where you could find very low WIP. The fire
@@ -165,24 +157,20 @@ out fire") to do. We, as a society gladly pay them too since the risk of
 them being busy with other things when we call them is something that we
 shy away from.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But do they really just "sit around"? No they train, they maintain their
 equipment and do a lot of preventive work (education for example). And
 pose for calendars. But, rest assured, if a fire alarm goes of - they
 put everything down and run for it.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 What about software development teams?  If we have a complete team in
 the room with a single keyboard. Are everyone active? No, not typing.
@@ -191,21 +179,17 @@ analysts for example) that can zone out and maybe even do other stuff.
 As long as they can leave it and join the group when we need them that's
 quite alright.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 They might even do stuff that help us move things forward faster.
 Instead of being nervous of "not having something to do" you should see
 if you can help move work forward.
 
-</div>
 
-<div>
-</div>
+
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
@@ -230,7 +214,7 @@ style="text-align: center;">From http://www.echinacities.com/Xi'an/city-guide<b
 </tbody>
 </table>
 
-<div>
+
 
 When I was sitting the that strange hair dresser chair which always make
 me feel like I'm strapped down against my will. Anyway - I was sitting
@@ -239,12 +223,10 @@ What did the hair dresser do? She was cutting my hair. I got her sending
 time. On the other hand this customer wanted to buy some wax or maybe
 book an appointment later.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Of course, she stopped cutting my hair for awhile and went over to the
 customers. She served the customer and then went back to me. But how did
@@ -252,17 +234,15 @@ she know what to do? Why did she prioritize the new customer over me? If
 she did that 5 times in a row I would feel scuffed... but so would the
 customers that she didn't attend.
 
-</div>
 
 ### Value, Flow and Waste elimination
 
-<div>
+
 
 There's a quote from [David J
 Andersson](http://www.agilemanagement.net/) (I think) that sums up the
 strategy here:
 
-</div>
 
 > Value trumps flow and flow trumps waste reduction
 
@@ -332,4 +312,3 @@ Do you know your teams prioritizations?
 Do you know when to break them? Do you know why?
 Can you make these policies more explicit to help your team?
 
-</div>

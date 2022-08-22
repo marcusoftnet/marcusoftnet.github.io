@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/02/memories-from-past.html
 ---
 
 
-<div>
+
 
 Got to listen in to a band that i loved as a teenager yesterday.
 [Poison](http://www.poisonweb.com/thepoisonwebhtml/poison_web_all.html),
@@ -31,7 +31,6 @@ lyrics.
 
 Listen to them and let it take you back. Way back.
 
-</div>
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s320/poison.jpg"
 id="BLOGGER_PHOTO_ID_5030534360488120354" style="CURSOR: hand"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s1600-h/poison.jpg)

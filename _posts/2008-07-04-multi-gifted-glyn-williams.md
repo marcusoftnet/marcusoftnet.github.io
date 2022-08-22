@@ -24,4 +24,3 @@ class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 The new grandfathers clock
 
-</div>

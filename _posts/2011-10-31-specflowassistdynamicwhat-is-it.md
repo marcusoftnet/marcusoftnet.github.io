@@ -179,9 +179,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   23: }
 ```
 
-</div>
 
-</div>
 
 
 So the actual step definition is pretty concise and slick. And actually
@@ -261,9 +259,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   15: }
 ```
 
-</div>
 
-</div>
 
 
 Just the code we need. No extra data carriers. Of course you’ll
@@ -314,9 +310,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    1: public static IEnumerable<dynamic> CreateDynamicSet(this Table table)
 ```
 
-</div>
 
-</div>
 
 
 One for each of the new features I wanted to support, four in all:
@@ -394,9 +388,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    2: a.Name = "Marcus";
 ```
 
-</div>
 
-</div>
 
 
 I’m simply telling the compiler to let me write anything on the “a”
@@ -440,9 +432,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    7: }
 ```
 
-</div>
 
-</div>
 
 
 In the TryGetMember override I can handle access to any member and do
@@ -519,9 +509,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   14: }
 ```
 
-</div>
 
-</div>
 
 <span class="Apple-style-span" style="font-weight: bold;">Comparing
 dynamic objects

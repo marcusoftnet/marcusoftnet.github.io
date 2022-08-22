@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/09/virtual-pc-performance-tip-mu
 ---
 
 
-<div>
+
 
 I often get to work with brilliant people. That’s one the real benefits
 of being a consultant, I would argue. Last week I got to know Thomas
@@ -123,4 +123,3 @@ about… But my virtual system is now flying! And I also got a lot better
 screen resolution. Full screen, baby!
 Thank you Thomas.
 
-</div>

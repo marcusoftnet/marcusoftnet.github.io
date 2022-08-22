@@ -94,9 +94,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    6:         | The Good book | God et. al        | 1          |
 ```
 
-</div>
 
-</div>
 
 I can write the following short statements with
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
@@ -195,9 +193,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   22: }
 ```
 
-</div>
 
-</div>
 
 There’s a lot to be said about the data access code, for example you
 probably are using an ORM of sorts and hopefully you can send dynamic
@@ -258,9 +254,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    5: }
 ```
 
-</div>
 
-</div>
 
 Pretty slick, huh? This is how it works:
 
@@ -310,9 +304,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    5: </specFlow>
 ```
 
-</div>
 
-</div>
 
 This make sure that the step arguments are picked up from the dll.
 <span class="Apple-style-span"
@@ -372,9 +364,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   10:         | The Goal      | Eliah Goldratt    | 123345678   |
 ```
 
-</div>
 
-</div>
 
 I can now write the following steps:
 
@@ -491,9 +481,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   27: }
 ```
 
-</div>
 
-</div>
 
 Don’t worry about the Given and When-steps, it’s just fake. I have save
 the original list into a private variable called \_books and then simply

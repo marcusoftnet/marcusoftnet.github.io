@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/experiments-in-practice.html
 ---
 
 
-<div>
+
 
 At my current client we're starting to work with improvements, as
 <a href="http://www.marcusoft.net/2014/10/improvmentlane.html"
@@ -106,4 +106,3 @@ I will keep you posted on the progress, but I can tell you that this
 totally changed the way we saw this "project". It's just an experiment.
 We can afford to be wrong.
 
-</div>

@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-getting-started-wi
 ---
 
 
-<div>
+
 
 When I first started to use
 <a href="http://www.koajs.com/" target="_blank">Koa Js</a> I was, like
@@ -33,7 +33,6 @@ I hope you enjoy it.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 There are also some tips that have helped me in there. If you prefer
 reading about how to install this it's basically the same content as
@@ -45,4 +44,3 @@ sounds away, even if it also made my voice a bit murky (if possible).
 Still no solution to improve the resolution. I have to look into that
 some more.
 
-</div>

@@ -40,7 +40,6 @@ style="margin-left: 1em; margin-right: 1em;"><img
 src="http://www.cardsonque.com/cards/Yikes.jpg" data-border="0"
 width="320" height="228" /></a>
 
-</div>
 
 We’re have tried to solve this by striking a deal with the business;
 could you have someone (with mandate to decide) in this room, between
@@ -57,7 +56,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://www.nexternal.com/armynavy/images/SWAT-Halloween-Costume1.gif"
 data-border="0" /></a>
 
-</div>
 
 And that was much easier to get them to agree on.
 

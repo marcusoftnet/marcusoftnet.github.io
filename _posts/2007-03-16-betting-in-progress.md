@@ -20,7 +20,7 @@ id="BLOGGER_PHOTO_ID_5042450133540245586"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/Rfphri9JkFI/AAAAAAAAAGg/HIWm-UU0Rpw/s1600-h/IMAGE_002.jpg)
 
-<div>
+
 
 [](http://4.bp.blogspot.com/_kkDJOSPNTLs/RfphQi9JkEI/AAAAAAAAAGY/IPQp1IQJ0CI/s1600-h/IMAGE_002.jpg)Today
 we're kicking off a new subproject at my customer. And except four new

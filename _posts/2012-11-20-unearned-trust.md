@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/11/unearned-trust.html
 ---
 
 
-<div>
+
 
 Today I've experience a rare thing. I went into a restaurant in
 Stockholm. It was a new place to me I've never been there before, to my
@@ -101,12 +101,11 @@ on being great - and he was.
 
 ### Pay it forward
 
-<div>
+
 
 What would happen to you if someone showed you trust, that you haven't
 earned:
 
-</div>
 
 > "Welcome onboard, John. We would like you to deploy to production
 > today"
@@ -138,7 +137,7 @@ No trust! Not even earned trust. Just distrust and control mechanisms.
 
 ### Summary
 
-<div>
+
 
 These where just some thoughts that popped up in my head as I was met
 with **unearned trust**. There are
@@ -147,35 +146,27 @@ target="_blank">religions built around this concept</a> - then it's
 called grace. And grace can never be earned. It's given for free and
 unearned.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 You cannot do anything to deserve to be met with trust. It's a gift. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 You can, however, pass it on. Trust others that you have no reason to
 trust. Maybe, just maybe they will grow from that, do better work and
 start trusting others in turn. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 I trust you to do that. 
 
-</div>
 
-</div>

@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/uncertainty-living-on-other-s
 ---
 
 
-<div>
+
 
 I'm a big proponent of trying to live with and take embrace of
 uncertainty when you can. I've been saying "It's just how things are -
@@ -61,7 +61,7 @@ was equally likely that we got a letter the next day stating:
 -   "Mr Who? We haven't even heard of you?" \[papers gone in other
     words\]
 
-<div>
+
 
 We were in a Schrödinger cat situation where both these (and every other
 possibility) was equally likely. This drove people around us (and us)
@@ -69,28 +69,24 @@ mad. The most common reaction was actually that people couldn't take it
 in at all. When I explained the situation, as above, a common question
 back was: "Ok, but **when** are you leaving?" 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 It's very demanding living in such a state and it tired our family and
 the people around us. We could make no plans. We could commit to
 nothing. Everything was up for grabs.
 
-</div>
 
 ### Very slight status and what followed
 
-<div>
+
 
 Yesterday (Sunday 15 September) we got an email from our workplace (the
 Salvation Army HQ) in Indonesia. It was short and didn't state that much
 but the difference for us was profound:
 
-</div>
 
 > We still have no status for when this is complete, but you can count
 > on not leaving before middle of October. 
@@ -107,40 +103,35 @@ there's still facts in there that we can start to use. We're
     next week. 
 -   we can plan for things within this timeframe
 
-<div>
+
 
 And finally: our pulse and shoulders went down a bit, just from the fact
 that they have started to look into our matter. They have our paper and
 have started to process them. No risk of them not even having our
 papers. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Add to this that we now have a channel from which we can get more
 frequent status reports. 
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 This little story taught me a great deal about uncertainty, from both
 sides of the coin. Living in uncertainty is hard. A small status can
 make a big difference in how stressful the uncertainty is experience.
 You probably don't know how much for your stakeholders. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The best you can do is to keep a tight feedback loop and be honest with
 what you know now. It's probably more than you understand. It's very
@@ -148,8 +139,6 @@ seldom that we know absolutely nothing about the situation. The small
 status you can give might be comforting for your stakeholder, especially
 if you report your progress often and transparently. 
 
-</div>
 
-<div>
-</div>
+
 </div>

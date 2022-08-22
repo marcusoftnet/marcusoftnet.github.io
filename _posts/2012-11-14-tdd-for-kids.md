@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/11/tdd-for-kids.html
 ---
 
 
-<div>
+
 
 I had the opportunity to do something exciting yesterday. I was invited
 by my good friend Tristessa to teach a class on programming for her
@@ -42,7 +42,6 @@ here (beware it's long!):
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 
 The <a href="https://github.com/marcusoftnet/TDDForKids.git"
@@ -138,4 +137,3 @@ that taught me a lot.
 
 Thanks guys - that was one great afternoon. 
 
-</div>

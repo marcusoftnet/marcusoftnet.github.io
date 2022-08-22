@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html
 ---
 
 
-<div>
+
 
 I've been doing something for real! A very
 <a href="http://warm-brushlands-9555.herokuapp.com/"
@@ -47,7 +47,6 @@ href="https://devcenter.heroku.com/articles/getting-started-with-nodejs"
 target="_blank">article is a great starting point</a> for NodeJs
 applications and I suggest your read it before you start.
 
-</div>
 
 ### Setting up Heroku
 
@@ -87,14 +86,13 @@ need to explain one more command that you need to know about:
 
 #### Error: git push heroku master -\> Permission denied (publickey)
 
-<div>
+
 
 I was happy. Everything had gone so great. I had installed and run the
 Heroku tool belt command. They all worked like a charm. I even started
 to think that I knew what I was doing. Then I pushed to Heroku for the
 first time:
 
-</div>
 
 > <span style="font-family: Courier New, Courier, monospace;">git push
 > heroku master
@@ -113,7 +111,7 @@ target="_blank">StackOverflow</a>.
 
 #### package.json and the engine-node
 
-<div>
+
 
 Oh yeah... almost forgot. I'm of course using
 <a href="http://www.marcusoft.net/2014/03/koaintro.html"
@@ -123,12 +121,10 @@ than the current version. You need to tell Heroku that you're planning
 to use another version of node also, otherwise it will use the latest
 stable version.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Luckily this is super simple. In you
 [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) file
@@ -137,27 +133,24 @@ just define a node called
 target="_blank">engines</a>" and give it the version of Node you're
 using. Like this:
 
-</div>
 
-<div>
+
 
 > <span style="font-family: Courier New, Courier, monospace;">"engines":
 > {
 > "node": "0.11.12"
 > }
 
-</div>
 
 <div style="text-align: left;">
 
 Thank you [Jonathan Channon](https://twitter.com/jchannon) for reminding
 me to write this. Tripped me up at first.
 
-</div>
 
 ### MongoHq
 
-<div>
+
 
 Now I could push my code to Heroku. Great - but I needed a database as
 well. Luckily Heroku is built around modules that you add to your
@@ -165,29 +158,25 @@ application. In Heroku-speak: addons that you provision. I choose
 <a href="https://addons.heroku.com/mongohq" target="_blank">MongoHq</a>
 since I had heard that name before.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Installing the addon is super simple: <span
 style="font-family: Courier New, Courier, monospace;">heroku addons:add
 mongohq
 
-</div>
 
 <div style="text-align: left;">
 
 The addon is then added to your application on the Heroku site and
 configured as needed. But your are not using it in your application.
 
-</div>
 
 #### Getting it to work with your app
 
-<div>
+
 
 In order to use MongoHq in your application you need to get hold of the
 URL to the MongoDb database. The MongoHq addon exposes this through
@@ -195,20 +184,17 @@ a environment variable which you can get hold of in Node by doing:
 "<span
 style="font-family: Courier New, Courier, monospace;">process.env.MONGOHQ_URL".
 
-</div>
 
-<div>
+
 
 You can see the settings for you application
 under https://dashboard.heroku.com/apps/\[your application
 name\]/settings.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now, this poses a bit of a problem since you want to use your local
 MongoDb server when developing and the one in the cloud at MongoHq when
@@ -229,28 +215,25 @@ target="_blank">Monk</a>) like this:
 > var wrap = require('co-monk');
 > var db = monk(config.mongoUrl);
 
-</div>
 
-<div>
+
 
 Ok, that worked just fine. Exceptionally actually. Because it just
 worked. MongoHq rocks!
 
-</div>
 
 ### Problems and logging
 
-<div>
+
 
 Now I hade everything installed. I pushed "the button" to Heroku and
 <a href="http://sadtrombone.com/?play=true"
 target="_blank">Maw-maw-maw</a>. I got a really strange error.
 
-</div>
 
 #### Error: Web process failed to bind to $PORT within 60 seconds of launch
 
-<div>
+
 
 When I opened my site (<span
 style="font-family: Courier New, Courier, monospace;">heroku open
@@ -258,10 +241,8 @@ form the command prompt by the way) it just gave me a bland: the site is
 not working, contact your admin kind of message. Admin... hey that's me
 in this case. I should probably read some logs or something.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -275,18 +256,15 @@ style="font-family: Courier New, Courier, monospace;">heroku logs -n
 style="font-family: Courier New, Courier, monospace;">heroku logs
 -t" (100 last events).
 
-</div>
 
-<div>
+
 
 But it's not very nice to read, nor searchable.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 We <a href="http://www.marcusoft.net/2014/04/lookingForBetter.html"
 target="_blank">need better</a>. We need
@@ -297,12 +275,10 @@ style="font-family: Courier New, Courier, monospace;">heroku addons:add
 papertrail) and you get a dashboard for you app with a nice UI to
 see, read and search your logs.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 With that in place the <a
 href="http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx"
@@ -310,9 +286,8 @@ target="_blank">Yak was shaved</a> and I could get back to trying to
 figure out why my site didn't show. There were two problems that
 hindered me:
 
-</div>
 
-<div>
+
 
 1. I was using
     <a href="https://github.com/remy/nodemon" target="_blank">Nodemon</a>
@@ -332,7 +307,7 @@ hindered me:
 2. I then ran into the "Web process failed to bind to $PORT within 60
     seconds of launch" mentioned above. Let's talk more about that.
 
-<div>
+
 
 Heroku dynamically assigns your app a port, so you can't set the port to
 a fixed number. Heroku adds the port to the env, so you can pull it from
@@ -344,18 +319,14 @@ object to either the port from Heroku or a static one (<span
 style="font-family: Courier New, Courier, monospace;">port:
 process.env.PORT \|\| 5000,)
 
-</div>
 
 ### Conclusion
 
-</div>
 
-<div>
+
 
 There's always bumps in the road. These were mine. Overall I was still
 very impressed with the smooth ride to live site in production that
 Heroku and MongoHq treated me to.
 
-</div>
 
-</div>

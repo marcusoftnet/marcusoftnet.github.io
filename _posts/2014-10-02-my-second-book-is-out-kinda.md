@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.h
 ---
 
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -29,7 +29,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-43lZKd__bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s1600/ikon_photo_book_150px.jpg"
 data-border="0" /></a>
 
-</div>
 
 To many of my colleagues and friends writing a book is at the top of the
 dream list or life goals. I have been very fortunate to have done that,
@@ -56,10 +55,9 @@ apartment and here to Indonesia. I had a job that was running out and
 that I tried to extend month by month as our visas was delay. It was
 busy times.
 
-<div>
-</div>
 
-<div>
+
+
 
 I wrote the chapter a little bit in the same style as we used in Kanban
 In Action, with a short story about a project failing, to start things
@@ -91,6 +89,4 @@ old :)  
 I'm proud to have been part of this project, in a small small way. Thank
 you for asking me and letting me.
 
-</div>
 
-</div>

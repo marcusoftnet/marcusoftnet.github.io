@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html
 ---
 
 
-<div>
+
 
 [SpecFlow](http://specflow.org/) is a wonderful tool. With a lot of
 hidden gems inside of it. I have been using and coding on it now for
@@ -41,7 +41,7 @@ The [Context injection
 feature](https://github.com/techtalk/SpecFlow/wiki/Context-Injection)
 (as it's called in SpecFlow) is one of those "just works"-feature and
 you don't have to think to much about how. Here's a simple example:
-<div>
+
 
 The context injection feature simply creates the Driver object for us,
 as long as it has a parameterless constructor... or can figure out how
@@ -72,9 +72,8 @@ it comes to stich your testing infrastructure together.
 
 ### Going advanced 
 
-</div>
 
-<div>
+
 
 I told you above about the default,
 resolve-parameter-less-constructor-objects features of the context
@@ -93,9 +92,8 @@ configure the container. Like this:
 
 
 
-</div>
 
-<div>
+
 
 (Note the \[Binding\]-attribute on the class of hooks, I forget that one
 every time...)
@@ -106,21 +104,17 @@ have objects that you just want one of. One example that springs to mind
 is a WebDriver object. This is often expensive and resource intensive to
 create and you often just need one active per scenario. 
 
-</div>
 
-<div>
+
 
 ### Wrap up
 
-</div>
 
-<div>
+
 
 The Context Injection feature of SpecFlow is not very well known and
 using it is rare in the implementations I've seen. That's a pity since
 it can clean up your testing infrastructure quite a bit. And you should.
 Testing code is also code - it deserves your love too. 
 
-</div>
 
-</div>

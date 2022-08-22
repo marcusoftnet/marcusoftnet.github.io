@@ -44,7 +44,7 @@ remember:
 
 ### Communicating with examples
 
-<div>
+
 
 We started this part by doing a simulation (a Black Jack game) in which
 we tried out what happens when we try to do "traditional" testing on a
@@ -78,9 +78,8 @@ concepts by using examples such as BlackJack and Busted for example.
 
 Two kind of exercises for creating examples as a group stood out to me:
 
-</div>
 
-<div>
+
 
 - Diverge and merge - where you intentionally let several groups work
     on the same example for a while and then merge the groups to compare
@@ -90,27 +89,24 @@ Two kind of exercises for creating examples as a group stood out to me:
     down a case and then each write the expected outcome. Compare and
     learn.
 
-<div>
+
 
 The main thing you want here is probably not the examples but rather to
 learn and get a shared understanding of the problem at hand. The
 examples is a great way to reach there and also to document them in.
 
-</div>
 
-</div>
 
 ### Key process patterns of successful teams
 
-<div>
+
 
 This part I knew the most about during the course, since I've read the
 book and done presentation on these patterns. I still learned stuff of
 course:
 
-</div>
 
-<div>
+
 
 - All the teams that was successful in implementing Specification by
     example specified collaborative and did that using examples
@@ -118,16 +114,14 @@ course:
 - Put up a couple of examples and try to break them (drill a hole in
     them) to see if all relevant key examples has been found
 
-<div>
+
 
 We then talked about some common collaboration patterns and when they
 might be applicable:
 
-</div>
 
-</div>
 
-<div>
+
 
 - All-team workshops - when stakeholders are available, you need loads
     of knowledge transfer (you don't know much about the domain) or you
@@ -144,11 +138,10 @@ might be applicable:
     else review it. Good if your are distributed and have a hard time to
     get hold of people needed to answer questions.
 
-</div>
 
 ### What makes a good specification
 
-<div>
+
 
 I loved this part and learned loads from this. The main part of this was
 us dissecting and discussing a big load of examples (great idea -
@@ -160,9 +153,8 @@ a big list of stuff that was good or bad with them.
 
 Here are the good part, as we finally summarized them:
 
-</div>
 
-<div>
+
 
 - A descriptive title (what you would Google for to find this
     document)
@@ -188,15 +180,13 @@ Here are the good part, as we finally summarized them:
 - No new concepts introduced simply due to the fact that we're going
     to test this with a tool
 
-<div>
+
 
 Other stuff that came up from Gojkos presentation was:
 
-</div>
 
-</div>
 
-<div>
+
 
 - Don't write workflow scripts - write WHAT should be tested not HOW
     it should be tested. 90% of the team failing with BDD does this.
@@ -210,11 +200,10 @@ Other stuff that came up from Gojkos presentation was:
 - Write the description of the test to be a description on how to read
     the examples.
 
-</div>
 
 ### Fitting into a development process
 
-<div>
+
 
 This was basically a number of case studies that showed how different
 teams had fitted the ideas of Specification by example into their
@@ -226,9 +215,8 @@ teams to very rigid waterfall-type of processes.
 
 A few tips I picked up:
 
-</div>
 
-<div>
+
 
 - Set aside time before the planning (be it sprint planning or
     whatever) to prepare some key examples. That will make the actually
@@ -245,11 +233,10 @@ A few tips I picked up:
 - Make sure that you get a mindset of collective ownership for the
     specification
 
-</div>
 
 ### Adoption strategies and patterns
 
-<div>
+
 
 This was something that our group came back to. How do you introduce
 these concepts? How do you sell it to the team or the stakeholders.
@@ -276,18 +263,16 @@ Gojko had three points:
     source of information (send links to them to answer questions),
     document business process (do not "write tests")  
 
-</div>
 
-<div>
+
 
 This section also contained a lot of other stuff but it was discussed
 and is hard to write down here.
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 This post was my brain dump. I don't expect anyone to get it if you
 wasn't there. If you still did I'm very happy. If you didn't get it -
@@ -299,4 +284,3 @@ please ask a question below and I'll answer to the best of my knowledge.
 Again - thank you Gojko for a great course. I learned loads from you.
 Again.
 
-</div>

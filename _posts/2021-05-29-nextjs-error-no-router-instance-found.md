@@ -31,7 +31,6 @@ And I then added a click-handler like this:
 ```javascript
 <div onClick={router.push('/')}>
   ...stuff
-</div>
 ```
 
 And it blew up, with a very nice, but ultimately not helpful error message:
@@ -49,7 +48,6 @@ As I've written the function now, the `router.push('/')`will be called on server
 ```javascript
 <div onClick={() => router.push('/')}>
  ... stuff
-</div>
 ```
 
 And I had one of those .... BUT OF COURSE.

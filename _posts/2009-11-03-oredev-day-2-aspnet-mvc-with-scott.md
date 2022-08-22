@@ -13,10 +13,9 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-
 
 Now we're getting into the "real stuff" or rather IT-related stuff.
 
-<div>
-</div>
 
-<div>
+
+
 
 I am now attending a session with [Scott
 Allen](http://odetocode.com/blogs/scott/), who is a great guy by the
@@ -24,19 +23,16 @@ way, on [ASP.NET MVC](http://www.asp.net/mVC/). As readers of this blog
 know I love this framework already since it got me back on understanding
 web development again.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 OK - since Scott is dropping god nuggets as he speak, I thought that I
 put it here as we go, in no particular order;
 
-</div>
 
-<div>
+
 
 - When you create the "URL template" for routing you can specify
     anything you want. For example
@@ -71,11 +67,9 @@ put it here as we go, in no particular order;
 - The web.config in the View-folder is just to get people not to try
     to pull down your views directly.
 
-<div>
+
 
 Thank you Scott for a great overview. I link the slides here when
 available.
 
-</div>
 
-</div>

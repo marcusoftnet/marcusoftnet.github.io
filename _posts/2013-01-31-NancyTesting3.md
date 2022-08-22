@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting3.html
 ---
 
 
-<div>
+
 
 This is the third post in my series on Nancy.Testing. It will focus a
 lot of the Browser and the Response object. Together with the Browser
@@ -39,19 +39,17 @@ The other posts can be found here:
 5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
-<div>
+
 
 By now you're probably just looking for the code so let's dive right in.
 
-</div>
 
-<div>
+
 
 ### Browser
 
-</div>
 
-<div>
+
 
 The Browser object is the one that you use to issue requests to the site
 you're testing. Most of the Browser configuration is done through the
@@ -91,7 +89,6 @@ That leaves some special things (expect for AjaxRequest that's really
 special and I'll leave for you to examine on your own). First out is to
 create your HTTP Body on your own. Here's an example of doing that:
 
-</div>
 
 <div style="text-align: left;">
 
@@ -101,11 +98,9 @@ Nancy.Testing.Test code) we're sending in some JSon in the body on line
 11. That's handily taken care of by the handler and bound to our model
 (line 25).
 
-</div>
 
 <div style="text-align: left;">
 
-</div>
 
 <div style="text-align: left;">
 
@@ -113,11 +108,9 @@ You can also send JSon directly in the body.
 Very conveniently Nancy.Testing also supplies a method for converting a
 class to Json for you:
 
-</div>
 
 <div style="text-align: left;">
 
-</div>
 
 <div style="text-align: left;">
 
@@ -125,19 +118,17 @@ Let's now go to the other side of the request and take a closer look at
 the Response-object and see the help that Nancy.Testing gives us there.
 It's plenty!
 
-</div>
 
 ### Response
 
-<div>
+
 
 There's loads of interesting stuff on the response object. First you
 can, of course, access all the properties and assert that expected data
 was returned. Here's a couple of examples:
 
-</div>
 
-<div>
+
 
 Nothing really strange and suprising there. You can access the
 properties of the Response just as expected and do your own assertions
@@ -157,22 +148,20 @@ The Body itself which I'll talk about later
 
 The HTTP status code
 
-<div>
+
 
 ### Other Response methods
 
 There's also some special methods that checks for redirects:
 
-</div>
 
 And also for getting the Body into different formats and even deserilize
 it into model objects:
 
-</div>
 
 #### Body assertions
 
-<div>
+
 
 The Body property is a little gem in itself in that it has all the
 elements of the
@@ -182,36 +171,30 @@ search these with normal CSS Selectors. This gives a very
 nice experience checking for presence of tags, it's content and id etc.
 I've put together some examples here:
 
-</div>
 
-<div>
+
 
 But hey - there's more: the error messages are to die for. Here's one:
 
-</div>
 
 > "The expected value 'A second message with isd' was not a sub-string
 > of the actual value 'A second message with id'."
 
 Tester nirvana - right there! Thank the creators!
 
-<div>
+
 
 ### Summary
 
-</div>
 
-<div>
+
 
 Probably broke my long-blog-post-record there. So I'll end it now.
 
-</div>
 
-<div>
+
 
 A lot of goodies in here for you to deep-dive in. Get my full [code
 here](https://github.com/marcusoftnet/DiscoveringNancyThroughTests).
 
-</div>
 
-</div>

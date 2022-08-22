@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughpu
 ---
 
 
-<div>
+
 
 The last week the blog post turned long. Sorry. This meant to just be
 short updates. Here's another one.
@@ -57,7 +57,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-Kg-g-uCJ1jQ/Uy-roNQTyZI/AAAAAAAACGw/wYANSOKM1fk/s1600/2014-03-24+10.44.28.jpg"
 data-border="0" width="240" height="320" /></a>
 
-</div>
 
 We have put a dot on our Reason-sticky to indicate how many days we have
 waited. Yeah, that's 13 dots  for the one on the left there. And we have
@@ -119,4 +118,3 @@ This very slow week thaught us a great deal.
 
 >  
 
-</div>

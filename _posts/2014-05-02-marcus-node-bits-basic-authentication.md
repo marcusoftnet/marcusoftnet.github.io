@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authen
 ---
 
 
-<div>
+
 
 As
 <a href="http://www.marcusoft.net/search/label/Koa" target="_blank">you
@@ -252,4 +252,3 @@ wanted. Hmmm… there might be something in there…
 pushing it out into production and starting to use it for real</a>. I
 should write about that. Nah! It will never catch on.
 
-</div>

@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/12/what-do-you-want-to-give-cust
 ---
 
 
-<div>
+
 
 We've just got our visas for entering Indonesia! Lovely!
 
@@ -53,19 +53,17 @@ typical "It's delayed"-responses above but once you think about it even
 - "we have had a great week - made good progress on your file."
 - "yeah, there's a lot of things going on right now. Feels great!"
 
-<div>
+
 
 And then it struck me; I have done this (in the past). In IT! And I've
 seen this strategy being used, even lately, in companies. This is what
 happens with big bang releases where you build and build and build and
 then release the complete product.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Because, in my visa-process, there's really just one thing that I was
 interested in; get the visa in my hand. Not until then could I book my
@@ -73,34 +71,29 @@ tickets and go on my journey. I couldn't care less that department X of
 the Y office has now started to work on my file. With intense enthusiasm
 and loving every minute of it.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So when we eventually got the visa the immediate reaction was actually
 "Well... FINALLY! That was about time!" (I don't use curse words, but
 would have if I could. Here. And here. And a long one after this
 sentence. HERE!)
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Summing up; setting up your process in a Big Bang fashion bootstrap
 yourself for a series of bad news that eventually will disappoint the
 customer.
 
-</div>
 
 ### Another way?
 
-<div>
+
 
 There must be another way... This cannot be the best we found so far.
 Sadly, as far as visa-approving-processes goes, I have not a clue on how
@@ -109,12 +102,10 @@ first, aim to improve and
 <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">CHANGE</a> your process is a great way to get started.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 However, I know a bit about doing this for IT. And if we
 <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
@@ -124,28 +115,22 @@ frequently, starting with the ones that are most important to our
 business first... well then we have set ourselves up for a very
 different kind of experience for our customer.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Quite the opposite from the above in fact; with small frequent release
 you have a series of good news until, all of a sudden, you have exactly
 what your customer needed.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The million dollar question(s) is; which one do you prefer?  How will
 you <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">CHANGE</a> today towards that goal?
 
-</div>
 
-</div>

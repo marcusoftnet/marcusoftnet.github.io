@@ -52,7 +52,7 @@ failed miserably with. Over and over. And learned a lot from.
 
 ### 1 - Get a great "or else"-reason to change
 
-<div>
+
 
 This is where most change initiatives fail, I would think. In order to
 change people you need to give them a real good reason. In the Lean
@@ -61,7 +61,6 @@ a <a href="http://globalliteracy.org/content/kotters-8-step-change-model"
 target="_blank">sense of urgency</a>. You can sum this up with the
 following reasoning:
 
-</div>
 
 > What should we answer people when they ask: "Why do you want me to
 > change right now?"
@@ -84,7 +83,6 @@ man approached him and said:
 
 He was this guy:
 
-</div>
 
 |                                                                          |
 |:------------------------------------------------------------------------:|
@@ -126,7 +124,7 @@ versus
 
 ### Summary
 
-<div>
+
 
 This was the first post of my top 5 ways succeed with agile
 transformation projects. Read the rest here:
@@ -142,7 +140,5 @@ transformation projects. Read the rest here:
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve (this post)</a>
 
-</div>
 
-<div>
-</div>
+

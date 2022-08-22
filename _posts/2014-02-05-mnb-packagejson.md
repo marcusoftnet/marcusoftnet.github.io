@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-packagejson.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn
@@ -178,4 +178,3 @@ below, but I'll mention them here too:
     example... So I've updated it to a better version that uses the
     mocha I have in my project local node_modules folder
 
-</div>

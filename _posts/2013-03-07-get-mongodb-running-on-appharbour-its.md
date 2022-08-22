@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/get-mongodb-running-on-apphar
 ---
 
 
-<div>
+
 
 I have been playing around a bit with [MongoDB](http://www.mongodb.org/)
 for the first time of my life. It's really a very nice experience and
@@ -44,7 +44,6 @@ you want this:
 > value="mongodb://localhost/DotVoter"/\> <span
 > style="font-family: 'Courier New', Courier, monospace; font-size: x-small;">
 
-</div>
 
 That MONGOHQ_URL is a special name that the MongoDB add-on looks for at
 deploy time. It's replaced with your configuration variable (see

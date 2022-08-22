@@ -60,9 +60,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    5: Assert.AreEqual(s.Length, 12);
 ```
 
-</div>
 
-</div>
 
 We now have a “dynamic” string. So the “s.Length” part compiles fine,
 but that’s actually just because the compile time checking is disabled.
@@ -122,9 +120,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
                                 de.GetBirthCertificate(DateTime.Now));
 ```
 
-</div>
 
-</div>
 
 Yes – it’s super easy to add properties for Name and Age and then use
 them in a dynamic function that is defined by a lambda expression and
@@ -306,9 +302,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
   36: }
 ```
 
-</div>
 
-</div>
 
 If you check row 21 you’ll see how I override the methods TrySetMember.
 Then I can pickup the name of the dynamic property the developer used
@@ -347,9 +341,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    4:         .Cast<User>();
 ```
 
-</div>
 
-</div>
 
 It looks like magic but now we can understand it. Ok – this is how I
 understand it without reading the source.
@@ -383,9 +375,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    2: WHERE Name = 'Bob'
 ```
 
-</div>
 
-</div>
 
 Neat – right?
 

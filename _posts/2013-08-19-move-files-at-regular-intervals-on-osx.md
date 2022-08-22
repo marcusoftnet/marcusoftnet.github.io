@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/08/move-files-at-regular-interva
 ---
 
 
-<div>
+
 
 I've been starting to use <a href="http://support.apple.com/kb/HT2488"
 target="_blank">Automator</a> for some tasks that I commonly do and it's
@@ -52,44 +52,38 @@ Automator robot </td>
 </tbody>
 </table>
 
-<div>
+
 
 Open Automator - I still have a problem with that cute robot holding a
 bazooka. I want to move files not blow them to heaven come. Well, well -
 open the Automator application. 
 
-</div>
 
-<div>
-</div>
 
-<div>
-</div>
 
-<div>
+
+
+
 
 You are now greeted with a big dialog that asks you to pick a "Type for
 your document". This is a question that at least I didn't know how to
 answer but you could go with Workflow or Application - both will work
 for our objectives. I picked Workflow. 
 
-</div>
 
 #### Find the files
 
-<div>
+
 
 Now search for a couple of Actions in the search box. First we need to
 find the finder items that we want to move ("Find Finder Items" is the
 name of that action).  Double-click that action and it will appear in
 the area to the right. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now you can configure where the Find Finder Items action is going to
 look and based on which criteria the selection shall be done. My task
@@ -97,12 +91,10 @@ looks in the /Dropbox/Camera uploads/ folder and selects all the files
 that is "not in the last 1 months". There's loads of combinations and
 opportunities for the selection. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 **Watch out!** I had some trouble to get the
 <a href="http://www.nickshubin.com/articles/mac/find_finder_item.html"
@@ -111,11 +103,10 @@ to re-index my
 <a href="http://support.apple.com/kb/ht2409" target="_blank">search
 index for spotlight</a>.  
 
-</div>
 
 #### Move the files
 
-<div>
+
 
 To move the files we need another action called: "Move Finder Items".
 Search for it and doubleclick it. You can then configure where you want
@@ -123,18 +114,15 @@ the files moved to. "Which files?", you might wonder. Well the files
 that you've sent to the action. It's selected with the Find Finder
 items. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 When you're done your complete application looks like this:
 
-</div>
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -145,37 +133,31 @@ style="margin-left: 1em; margin-right: 1em; text-align: center;"><img
 src="http://4.bp.blogspot.com/-C59ead7LJrg/UhIUivOlvZI/AAAAAAAABmk/8ZDF8z8qxG4/s320/Screen+Shot+2013-08-19+at+14.50.09+.png"
 data-border="0" width="320" height="184" /></a>
 
-</div>
 <div class="separator" style="clear: both; text-align: left;">
 
 Save the application with a suitable name: MovePhotos.application for
 example. 
 
-</div>
 
-</div>
 
 ### Scheduling jobs with ... iCal?
 
-<div>
+
 
 The second part of the story is to run this task on a recurring basis.
 Weekly for me, but choose your poison. This is strangely enough done
 with iCal. Yes - the calendar application. (You can do this at the
 terminal but hey - this is the graphical guide). 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Here is how it's done:
 
-</div>
 
-<div>
+
 
 Open iCal
 
@@ -199,14 +181,11 @@ Done
 
 ### Conclusion
 
-</div>
 
-<div>
+
 
 This actually works very nicely for me. But it took me a couple of hours
 to figure out. Now you don't have to endure the same pain. And me
 neither when I look again. 
 
-</div>
 
-</div>

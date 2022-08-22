@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-
 ---
 
 
-<div>
+
 
 Have you ever had a conversation and then a couple of hours later you
 come up with a much better way of stating your matter or a better
@@ -26,7 +26,6 @@ Seinfeld.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 
 I almost always have those kinds of revolutions after coaching gigs.
@@ -188,4 +187,3 @@ href="http://www.slideshare.net/erikschon/the-mental-leaps-at-ericsson-3g"
 target="_blank">You can see his presentation here</a>. I think it's an
 awesome read. 
 
-</div>

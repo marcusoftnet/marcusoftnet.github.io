@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.htm
 ---
 
 
-<div>
+
 
 I’ve been putting together a sample for my client on how to automate
 against a web page. The purpose is to show how the tools are used and
@@ -346,4 +346,3 @@ wrappers as the features dictated.
 I hope that you have got something out of this and that you can start
 use SpecFlow with FluentAutomation from this.
 
-</div>

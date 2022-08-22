@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-making-make-file-test-p
 ---
 
 
-<div>
+
 
 The last couple of days I have enjoyed the speed and easy-going-flow
 that <a href="http://nodejs.org/" target="_blank">Node</a>,
@@ -120,7 +120,7 @@ The task does the following:
 - push to heroku
 - launches the site in my browser for verification
 
-<div>
+
 
 (This could be preceded by a build task if you're minimising,
 transforming your code from CoffeeScript or TypeScript, or doing some
@@ -133,7 +133,6 @@ expected, the test failed for example.
 
 The task code? Well it's almost just reading the list above out loud.
 
-</div>
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">deployProd: test
@@ -145,4 +144,3 @@ There! I'm not lying to Woody anymore. Feels great. For more than just
 that reason. Because now I truly have 1 single command to deploy my
 application properly.
 
-</div>

@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/some-thoughts-about-waste-and
 ---
 
 
-<div>
+
 
 Every Lean practitioner goes through a phase of "waste elimination
 frenzy". At least the ones I've met. Ah, well.... I did at least.
@@ -45,7 +45,7 @@ is waste and not, by
 > bill
 > — Jon Terry (@leankitjon) [October 14,
 > 2014](https://twitter.com/leankitjon/status/521858229954174976)
-<div>
+
 
 I shared what I learned from <a
 href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCIQFjAA&amp;url=http%3A%2F%2Fwww.djaa.com%2F&amp;ei=_34_VOybOKanmAWv1IBI&amp;usg=AFQjCNGb425WH5zpVzFdP_JnggihXCQVOg&amp;sig2=r4m5fztOX3EWhmk8u5bp3A"
@@ -64,13 +64,12 @@ are correct. Sir."
 
 ### What's a little waste really?
 
-<div>
+
 
 Because it's true. Standup is not directly adding value. 
 
-</div>
 
-<div>
+
 
 Just as raising the hammer to hit the nail is not driving the nail into
 the board. It's just preparing to do that. But maybe, just maybe,
@@ -79,29 +78,24 @@ a nail gun. Or do we need nails altogether? The value comes from the
 finished product, not the individual nailed boards. Maybe we should glue
 them together? 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Let's bring it back to standup. Most people I've met find these short
 meetings valuable. But they are, in the true lean-sense, waste. How can
 this be? 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 I learned <a href="http://www.agiledesign.co.uk/tag/lean-thinking"
 target="_blank">a little phrase</a> (also from David J Andersson, if I'm
 not mistaken) that helped me to get this clear:
 
-</div>
 
 > Value trumps flow, flow trumps waste elimination 
 
@@ -117,28 +111,24 @@ better flow to get value.
 
 ### What is waste elimination good for then?
 
-</div>
 
-<div>
+
 
 I think it's important to understand that waste elimination is just a
 tool to make our process more efficient. But it's not a goal in itself
 to eliminate waste. The goal is to increase the value that the system is
 producing. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Meaning that the hunt for waste should be treated as you smell the
 diapers of a baby (to borrow from
 <a href="https://twitter.com/KentBeck" target="_blank">Kent Beck</a> and
 his code smells analogy):
 
-</div>
 
 > If smell something bad you should at least investigate. It doesn't
 > have to mean problems, but it's worth a quick check just to make
@@ -166,4 +156,3 @@ you can reason with that stubborn consultant.
 Waste reduction is about becoming more efficient.... but that's not as
 important as becoming more effective.
 
-</div>

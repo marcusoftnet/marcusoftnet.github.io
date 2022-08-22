@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/have-presentations-will-trave
 ---
 
 
-<div>
+
 
 I have a couple of slow weeks before my next assignment starts for real,
 so as an early Christmas gift
@@ -137,11 +137,9 @@ stories - good and bad. </td>
 </tbody>
 </table>
 
-<div>
+
 
 I would love to come and talk to you on these subjects. Make it a
 happening over lunch or an afternoon of learning.  
 
-</div>
 
-</div>

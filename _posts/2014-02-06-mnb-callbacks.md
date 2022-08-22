@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-callbacks.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn
@@ -87,4 +87,3 @@ There's an excellent plugin to Sublime.
 <a href="https://github.com/fbzhong/sublime-jslint" target="_blank">Get
 it now</a>.
 
-</div>

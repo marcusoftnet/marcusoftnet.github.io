@@ -14,11 +14,11 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/koaExamples.html
 ---
 
 
-<div>
 
-<div>
 
-<div>
+
+
+
 
 The <a href="http://www.marcusoft.net/2014/03/koaintro.html"
 target="_blank">first</a>
@@ -149,7 +149,7 @@ target="_blank">I couldn't hold it in...</a>
 
 ### Where's the request and response, dude?
 
-<div>
+
 
 Let's break shortly from the examples, more are to come, and mention the
 <a href="http://koajs.com/#context" target="_blank">API of Koa Context
@@ -157,9 +157,8 @@ object</a>. It's very well described on their site (follow that link),
 but I dare to do some comments here for somethings that made me go Huh?
 a couple of times:
 
-</div>
 
-<div>
+
 
 First, the request and response is baked into the Context object. This
 actually works better than you would think. <span
@@ -192,7 +191,7 @@ You can get hold of some useful things from the Context object
     the <a href="http://koajs.com/#response" target="_blank">Response</a> and
     Node response
 
-<div>
+
 
 This makes for very succinct and terse code, since almost everything you
 need comes from the context and can be found on the <span
@@ -204,22 +203,19 @@ style="font-family: Courier New, Courier, monospace;">parse(this)
 of course. Redirect the response? <span
 style="font-family: Courier New, Courier, monospace;">this.redirect('/');
 
-</div>
 
-</div>
 
 ### More examples
 
-<div>
+
 
 Let's continue with some more examples that I think can be useful for
 most of us.
 
-</div>
 
 #### ErrorHandling
 
-<div>
+
 
 Error handling is nicely baked into Koa. If you do nothing everything is
 logged to standard output (stderr) unless the NODE_ENV is test. But you
@@ -228,12 +224,10 @@ Just do <span
 style="font-family: Courier New, Courier, monospace;">app.on('err',
 function(err){}); and you can do your stuff there.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Another thing that happens automatically is that a HTTP status 500 is
 returned to the client, of course. Let's look at an example that does
@@ -259,14 +253,13 @@ handling. Powerful stuff!
 Line 24-26 is a function that responds to all the call to this
 application.
 
-<div>
+
 
 The order of the calls had me thinking hard. And long. And then hard
 again. But here it is:
 
-</div>
 
-<div>
+
 
 1. The application set's up a try..catch around all the middlewares and
     requests.
@@ -280,31 +273,26 @@ again. But here it is:
 7. Which triggers the app.on('error') subscription. That logs the
     error.
 
-<div>
+
 
 I hope I got that right...
 
-</div>
 
-</div>
 
-</div>
 
 ### What about testing?
 
-<div>
+
 
 We break again from the example to mention a few words about testing.
 Like all Javascript frameworks worth its salt the support for testing is
 excellent (still in awe of this Javascripters!) and Koa Js is no
 exception.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Let's take the testing of the error handling example as an ... well
 example. It
@@ -339,29 +327,26 @@ event?
     style="font-family: Courier New, Courier, monospace;">ctx)
     passed in and can check the status of that.
 
-<div>
+
 
 There's of course more to say about testing, but I'm safe to say that
 the support in Koa got you well covered.
 
-</div>
 
-</div>
 
 ### And still more examples
 
-<div>
+
 
 I'll try to do some more examples. Starting with one that not yet is in
 the examples repository.
 <a href="https://github.com/koajs/examples/pull/27" target="_blank">Not.
 Yet</a>. :)
 
-</div>
 
 #### Basic Authentication
 
-<div>
+
 
 There's a nice little middleware to do basic authentication
 (<a href="https://www.npmjs.org/package/koa-basic-auth"
@@ -383,40 +368,34 @@ this easy:
     pass objects.  
 - Lines 7-18 sees us use an similar try..catch for all the request
 
-<div>
+
 
 It's not pretty but it's quick and good enough for administration sites
 etc.
 
-</div>
 
-</div>
 
 #### Content negotiation
 
-<div>
+
 
 <a href="http://en.wikipedia.org/wiki/Content_negotiation"
 target="_blank">Content negotiation</a> simply means that you can have
 one route that answers for request for several content types. If you ask
 for HTML you'll get HTML back and JSON when you ask for JSON etc.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Koa got you covered. Here's how you do it:
 
-</div>
 
 Arguably this example is a bit overlong... Here are the important parts:
 
-</div>
 
-<div>
+
 
 - Line 36 set's up the content types we accepts, by using the <span
     style="font-family: Courier New, Courier, monospace;">app.accepts()
@@ -492,17 +471,15 @@ interaction with our user collection like this:
     style="font-family: Courier New, Courier, monospace;">yield
     users.remove({\_id:id});
 
-<div>
+
 
 See?! It's almost ridiculously simple! Very nice, short and sweet!
 
-</div>
 
-<div>
+
 
 Ok, let's take a look that the test code:
 
-</div>
 First thing to notice here is the <span
 style="font-family: Courier New, Courier, monospace;">removeAll-function
 that we use in the <span
@@ -543,21 +520,18 @@ co-function that:
 We use the same trick for the update test (lines 47-56) and the delete
 test (58-66)
 
-<div>
+
 
 This testing was a bit hard to get going first but once I wrapped my
 head around (well not completely maybe...) the co-function I think it
 came out pretty nice.
 
-</div>
 
-</div>
 
 #### Upload files
 
-</div>
 
-<div>
+
 
 The final example is not something that you'll do everyday but something
 that I'm needing in a little app I'm building; uploading files (and
@@ -590,14 +564,13 @@ the request has a body and that it's not
 <a href="http://restcookbook.com/HTTP%20Methods/idempotency/"
 target="_blank">idempotent (?!)</a>, if not it serves up the 404.html.
 
-<div>
+
 
 Ok, that was a lot of good stuff that didn't even remotely had to do
 with uploads. Let's look at the uploading parts:
 
-</div>
 
-<div>
+
 
 First, line 8 sets up a <span
 style="font-family: Courier New, Courier, monospace;">parse
@@ -655,17 +628,15 @@ With co-busboy we can now easily store the stream to disk:
 - This writes the file to disk (to the path you provided when you
     created the writeStream).
 
-<div>
+
 
 That was not too hard, now was it?
 
-</div>
 
 #### Stream files back to the client
 
-</div>
 
-<div>
+
 
 Ok, streaming files to the client was so super-easy that I just had to
 include that here too:
@@ -696,19 +667,16 @@ I told you these things were tiny.
     everything off in a nice, non-leaking fashion. Without callbacks of
     course :P
 
-</div>
 
-<div>
+
 
 Short and sweet!
 
-</div>
 
-</div>
 
 ### Summary
 
-<div>
+
 
 The goal of this blog post was to walk your through a bunch of Koa Js
 examples, that could help you get going and understand the Koa
@@ -716,30 +684,24 @@ capabilities faster. Some are from the Koa-people and some are from me.
 I learned a lot by doing this very carefully and slowly. I hope you have
 picked up somethings by reading this.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 I'm planning to build a little application using most of the things
 above. I will probably blog about that when it's done. With Koa that
 should total to 29 lines of code, right? :)
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Thanks for reading this!
 
-</div>
 
-<div>
-</div>
+
 
 I like Koa Js. I've written a couple of post about it. Here they will be
 when they are published:
@@ -750,4 +712,3 @@ when they are published:
     target="_blank">Let's talk about yield and generators, shall we?</a>
 - Marcus Node Bits: Let's flex Koa Js, shall we? (this post)
 
-</div>

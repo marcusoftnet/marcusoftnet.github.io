@@ -11,7 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/08/rules-versus-guiding-stars-an
 ---
 
 
-<div>
+
 
 In Sweden there's a radio show on each summer, everyday. It has the
 creative name
@@ -29,7 +29,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://www.rankopedia.com/CandidatePix/31646.gif" data-border="0"
 width="200" height="200" /></a>
 
-</div>
 
 This year I've only caught a few of them, and the one I'll tell you
 about now I only heard 5 minutes of. The program was hosted by the
@@ -95,17 +94,15 @@ of a discussion with the players, maybe even as suggestions from them.
 
 ### Software development
 
-<div>
+
 
 I've never in my life written this much, or even thought this much,
 about soccer before. Let's get back to software development. What are
 the rules in our business? How can we apply this thinking in the
 software development process?
 
-</div>
 
-<div>
-</div>
+
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
@@ -116,7 +113,7 @@ software development process?
                     data-border="0" width="200" height="116" /></a>                     |
 |                             From http://nrglogicblog.com                              |
 
-<div>
+
 
 The first thing I came to think about is estimates and predictions and
 how we hold people accountable for these.
@@ -129,17 +126,14 @@ now and the 3 hours we put in estimating this, we think it'll take us
 company wide plan and even changed on a slide that they were
 presenting!
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 <a href="https://vimeo.com/43603453" target="_blank">Dan North says it
 best</a>:
 
-</div>
 
 > "We would rather be wrong than uncertain"
 
@@ -204,27 +198,22 @@ There are people working with organizing the people that are doing the
 estimation in some cases. We then require one part of the organization
 to COMMIT to the estimates ... or else!
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
 These are rules that we impose on each other. With rules comes
 consequences. With consequences comes suffering.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
 Since we are imposing the rules we can also stop using them and start
 relying on each other and work from goals and guiding stars instead.
 
-</div>
 
 Finally; have any customer ever phoned you up and thanked you for those
 detailed plans? No, because they don't care about plans. They care about
@@ -233,4 +222,3 @@ case or ... Never plans and estimates.
 
 Thank you Andreas for you input on this article.
 
-</div>

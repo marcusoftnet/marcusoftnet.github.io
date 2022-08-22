@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/what-i-missed-longed-for-happ
 ---
 
 
-<div>
+
 
 Tomorrow I will end a 30 day social media fast.
 
@@ -47,7 +47,7 @@ the reasons for me taking it up again...
 
 ### Missed
 
-<div>
+
 
 I missed the quick check ins or possibilities to ask people questions,
 like
@@ -71,11 +71,10 @@ Mostly I've missed talking to people. How is Hugo doing? Did Emma
 succeed with her plans? Have Tobbe delivered that speech he was working
 with? Things like that. I missed talking with people.
 
-</div>
 
 ### Not missed
 
-<div>
+
 
 I don't miss the stress about checking my twitter stream. I have now
 decided to do that 3 times a day. 20 minutes max when i get into the
@@ -90,7 +89,6 @@ I don't miss the stress of tweeting. "oh, this would make a great
 tweet". I will not tweet that anymore. My day to day life simple is not
 that interesting. I think.
 
-</div>
 |                                                                                              |
 |:--------------------------------------------------------------------------------------------:|
 |                                              <a
@@ -102,7 +100,7 @@ that interesting. I think.
 |                From <a href="http://knowyourmeme.com/memes/haters-gonna-hate"
                                target="_blank">Know You Meme</a>                               |
 
-<div>
+
 
 I don't  miss the anxiety of publishing things. "Dare I publish this?",
 "Wonder what X would answer to this tweet". Those thoughts still make me
@@ -110,11 +108,10 @@ sweat actually. I will not think about that. Any hard comments will go
 unregarded from now.
 Haters gonna hate.
 
-</div>
 
 ### Go back
 
-<div>
+
 
 I will go back using social media (twitter foremost, facebook sparsely).
 Mostly because that's a good way to keep in touch with friends and
@@ -138,6 +135,4 @@ traffic to my blog as well :). Yes, I'm vain in that way. No apologies
 
 See you other there. Now more carefully.
 
-</div>
 
-</div>

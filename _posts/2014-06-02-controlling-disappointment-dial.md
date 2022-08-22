@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/controlling-disappointment-di
 ---
 
 
-<div>
+
 
 Walking my oldest son, Albert, to and from school is one of the
 highlights of the days here in Indonesia. At least when he’s in a good
@@ -113,4 +113,3 @@ and less things set before we start, we will also be less likely to be
 disappointed. We might even end up in place that is better than what we
 could think of before we started.
 
-</div>

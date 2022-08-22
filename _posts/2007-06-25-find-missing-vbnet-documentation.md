@@ -26,8 +26,8 @@ am not that impressed with VB.NET. Don't get me wrong it is a great
 language but i think that there are a lot of improvements in Visual
 Studio for C# that you are missing when you're using VB.NET.
 
-<div>
-<div>
+
+
 
 One of those things you miss is the possibility to get warning for
 missing and faulty XML comments used for documentation with for example
@@ -60,6 +60,4 @@ have it by writing to me on *marcus (dot) hammarberg (at)
 avega
 (dot) se.*
 
-</div>
 
-</div>

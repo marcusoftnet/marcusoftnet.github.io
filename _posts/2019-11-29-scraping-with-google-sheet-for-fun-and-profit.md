@@ -77,9 +77,9 @@ The only thing to note here is that I needed to [ENCODEURL](https://support.goog
 
 Coolio - now we have links to click. But let's use another Google Sheet function called [IMPORTXML](https://support.google.com/docs/answer/3093342?hl=en), to get the data from the page the URL points to.
 
-I went back to the Indeed search result, now by clicking one of my generated links, and then right-clicked the "Sida 1 av 197 resultat" text, and selected Inspect. This took me to the Google Chrome developers tools, at the location of the <div> in the HTML document.
+I went back to the Indeed search result, now by clicking one of my generated links, and then right-clicked the "Sida 1 av 197 resultat" text, and selected Inspect. This took me to the Google Chrome developers tools, at the location of the  in the HTML document.
 
-In there I can just right click the <div> again and select Copy -> Copy XPath. In this case I got:
+In there I can just right click the  again and select Copy -> Copy XPath. In this case I got:
 
 ```text
 //*[@id="searchCountPages"]

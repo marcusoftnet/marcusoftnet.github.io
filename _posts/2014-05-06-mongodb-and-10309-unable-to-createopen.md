@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/mongodb-and-10309-unable-to-c
 ---
 
 
-<div>
+
 
 Ok, this was about to drive me crazy, and it seems like a lot of people
 <a
@@ -51,7 +51,7 @@ target="_blank">This tip</a> worked for me:
     $USER /data/db"
 4. Run "mongod" to start Mongo and verify that it works
 
-<div>
+
 
 Aaaand after that... It still didn't work. I had to reinstall the whole
 thing. <a
@@ -61,12 +61,9 @@ Mongo. And here's a description <a
 href="http://askubuntu.com/questions/197564/how-do-i-add-a-line-to-my-etc-apt-sources-list"
 target="_blank">on how to edit /etc/apt/sources.list</a>
 
-</div>
 
-<div>
 
-</div>
+
 
 I'm sure this will help me again when I need it!
 
-</div>

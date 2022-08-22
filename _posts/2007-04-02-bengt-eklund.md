@@ -18,7 +18,7 @@ id="BLOGGER_PHOTO_ID_5048707855081333170"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RhCdC4TY4bI/AAAAAAAAAHM/Y0vwXirlIo4/s1600-h/vi+tar+emot+appl%C3%A5der.jpg)
 
-<div>
+
 
 This weekend a very inspirational and important brass teacher was taken
 home. Although i have known about his [decease for quite some while
@@ -32,18 +32,16 @@ him, but that all went away after just meeting him outside the rehearsal
 room. Since then Bengt has continued to fascinate me, give me valuable
 tips (both for playing and life) and being a great friend.
 
-</div>
 
-<div>
+
 
 Some of the greatest things i have been doing with my instrument was
 through or via Bengt and GBB. I remember quite vivid some concerts from
 USA 2005, the amazing tour of New Zealand the same year or just some
 great rehearsals. Tips from Bengt help me each day in my playing.
 
-</div>
 
-<div>
+
 
 So - thank you Bengt, for everything! You will live on in my mind for a
 long, long time.
@@ -52,4 +50,3 @@ I can already see Bengt conducting the rehearsals of the heavenly brass
 band. They will surely play with a lot of ping, spin and "stroking the
 cat" when we all get there...
 
-</div>

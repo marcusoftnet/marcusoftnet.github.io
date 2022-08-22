@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/08/DevInstallChocolatey.html
 ---
 
 
-<div>
+
 
 Up to now I have sadly not have time to look into
 <a href="http://chocolatey.org/" target="_blank">Chocolatey</a>. I know
@@ -36,7 +36,7 @@ This post describes my journey.
 
 ### Getting a virtual windows installation in place
 
-<div>
+
 
 I use OS X and
 <a href="http://www.virtualbox.org/" target="_blank">VirtualBox</a> to
@@ -44,28 +44,24 @@ run virtual instances of windows. Creating a virtual image is simple
 enough in VirtualBox and then you can attach an .iso-file with the
 Windows installation.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The Windows 8.1 installation was pretty fast and within 30-40 minutes I
 had a bare-bones Windows installation in place.
 
-</div>
 
 ### Getting my stuff in place - local version
 
-<div>
+
 
 One of the really cool things about Chocolatey is that you can install
 it directly from the prompt (that's cmd-prompt, no powershell stuff)
 with a command you just copy from
 <a href="http://chocolatey.org/" target="_blank">their homepage</a>:
 
-</div>
 
 When Chocolatey is installed you can start using it's <a
 href="https://github.com/chocolatey/chocolatey/wiki/CommandsReference"
@@ -99,7 +95,7 @@ like a file with these commands in and then just execute those commands.
 This can be done (thanks
 <a href="https://github.com/carllindelof" target="_blank">Calle</a> for
 the tip) with this command:
-<div>
+
 
 And then my devApps.ps1 file just contains installation commands I want.
 Like this for example:
@@ -110,43 +106,36 @@ run:
 
 ### Getting my stuff in place - cloud version
 
-</div>
 
-<div>
+
 
 If you start looking around in the Chocolatey package directory you'll
 soon get too-much-apathy. There's really no way to know what is in there
 without searching for it, which implies that you know what to search
 for. And what is good.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Over a number of installations and years we have all stacked up our own
 favorite tools and utilities that we like (and in some cases have a
 unhealthy relationship with).  
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now if there could only be a way to save my list of things that I like
 and usually install. This way I could share it with others and get tips,
 suggestions and maybe even inspire them.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But hey - there is such a way! I can store my <span
 style="font-family: Courier New, Courier, monospace;">devApps.ps1-file
@@ -155,12 +144,10 @@ href="https://github.com/marcusoftnet/ScriptsAndStuff/blob/master/DevMachineInst
 target="_blank">GitHub.com</a> for example.  There people could actually
 make pull requests and forks of my file to improve it.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So now I can only copy that file onto every new machine ... no - wait.
 There's a better way. Chocolatey used a cool little function called
@@ -168,12 +155,10 @@ There's a better way. Chocolatey used a cool little function called
 net.webclient).DownloadString() in their install command. I can
 use that too and download my devApps.ps1 file from Github.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Like this:
 
@@ -182,11 +167,10 @@ the file. Of course, once you think about it since you don't want to
 download the GitHub HTML-page. Of course - but I missed that the first
 time around.
 
-</div>
 
 ### Summary
 
-<div>
+
 
 This is so cool - I now have a installation script for all my
 development application that takes my machine from bare-bones Windows
@@ -200,26 +184,22 @@ here: <https://github.com/marcusoftnet/ScriptsAndStuff>
 
 ### Update
 
-</div>
 
-<div>
+
 
 Right smack in the middle of my installation my virtual machine
 rebooted. I don't really know why but that gave script-based
 installations time to really shine.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 How did I recover from such a horrible thing as a machine reboot?
 
-</div>
 
-<div>
+
 
 Simple - just ran the exact same script again. Since it's using <span
 style="font-family: Courier New, Courier, monospace;">cinstm
@@ -229,9 +209,8 @@ rerun the command but that was all. Cool. Really cool!
 
 ### <span style="font-family: inherit;">Update 2
 
-</div>
 
-<div>
+
 
 <span style="font-family: inherit;">It worked... Kind of (see below)! It
 took me about 4 hours of letting the script run. Resharper and
@@ -241,21 +220,17 @@ I modified the <a href="https://github.com/marcusoftnet/ScriptsAndStuff"
 target="_blank">script</a> to run the Visual Studio installs
 first.
 
-</div>
 
-<div>
+
 
 <span style="font-family: inherit;">
 
-</div>
 
-<div>
+
 
 <span style="font-family: inherit;">Also I failed. I forgot that for
 Visual Studio 2013 Preview you also need to install "ASP.NET and
 Web Tools 2013 Refresh". But that's for a preview product so I felt that
 it didn't count. Now did it?
 
-</div>
 
-</div>

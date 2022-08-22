@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/my-sons-experience-reality.ht
 ---
 
 
-<div>
+
 
 The one talk that made the most impact of me have to be "Embrace
 Uncertainty" by Dan North. If you haven't seen it... ~~You're dead to
@@ -95,4 +95,3 @@ Could I?
 If I cannot have the certainty you are looking for, am I willing to
 accept other kinds?
 
-</div>

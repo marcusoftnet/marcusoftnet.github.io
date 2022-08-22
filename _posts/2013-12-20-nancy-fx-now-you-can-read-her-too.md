@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-her
 ---
 
 
-<div>
+
 
 I fell in love with
 <a href="http://www.nancyfx.org/" target="_blank">Nancy</a> at first
@@ -57,4 +57,3 @@ Get your book
 here [bit.ly/IHouZT](http://www.packtpub.com/nancy-web-development/book)
 
 
-</div>

@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/dontFearTheNews.html
 ---
 
 
-<div>
+
 
 > If you lie you have to have great memory
 
@@ -110,6 +110,4 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-kgWsuHhhXTA/VFG79U7yllI/AAAAAAAAIg0/cUW6KSXiUhA/s1600/Screen%2BShot%2B2014-10-30%2Bat%2B11.17.33%2B.png"
 data-border="0" width="400" height="265" /></a>
 
-</div>
 
-</div>

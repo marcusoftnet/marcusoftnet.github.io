@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-should.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn about <a href="http://nodejs.org/" target="_blank">Node</a>,
@@ -214,5 +214,4 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s1600/Screen+Shot+2014-02-01+at+20.05.01+.png"
 data-border="0" /></a>
 
-</div>
 </div>

@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-
 ---
 
 
-<div>
+
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 |       <a href="http://ecx.images-amazon.com/images/I/91Pv76bx9FL._SL1500_.jpg"
@@ -43,19 +43,17 @@ you a couple things that I noticed and that was very eye-opening for
 me.
 ### How to run this ... exercise
 
-<div>
+
 
 The whole thing is quite simple. Get a Lego model that you and a kid you
 have close. I did this with my own kids, but you can "borrow" one. Just
 ask permission or it all end up strange and a bit criminal :). Below I
 named my son "the kid".
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Then bascially just build the model. I try not to touch the Legos as an
 exercise for myself and also try to involve my sons more and more in the
@@ -63,26 +61,22 @@ goals, and the plans on how we're going to build. This will be a gradual
 process that have to do with experiences of Lego-building you and your
 kid have. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now, the most important part, is that you afterwards reflect on your
 behaviour. What worked? What failed? What do you call failure? What does
 the kid call failure? 
 
-</div>
 
-<div>
+
 
 What felt good? What felt bad? When did you have most fun? When did you
 see progress in how the kid acted and understood? What did you say to
 reach that point? And other questions like that. 
 
-</div>
 
 ### My reflections
 
@@ -120,27 +114,24 @@ more on his own. 
 As a final exercise I let Albert instruct me. He found that hard and but
 fun since he could tell me off :)
 
-<div>
+
 
 Now, I know that building is just for the fun of it. And we sure had fun
 (that specific model is really cool as well because it can be rebuilt in
 3 different ways). These reflections was just something that popped into
 my head as we went along. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The analogies I drew from this was when I have done very hands-on
 coaching, showing people new techniques or tools. My two best advices
 for that kind of things are:
 
-</div>
 
-<div>
+
 
 -   Step away from the ~~Legos~~ keyboard. Let the person you are
     teaching be the driver
@@ -149,24 +140,20 @@ for that kind of things are:
     do this that you didn't think off. Would you want to be the one
     holding back the creativity of new stars? 
 
-<div>
+
 
 PS
 
-</div>
 
-</div>
 
-<div>
+
 
 I of course have to show the finished product.
 
-</div>
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
-</div>
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -176,6 +163,4 @@ src="http://3.bp.blogspot.com/-xAzsPH8QD40/U8k2TGkGokI/AAAAAAAAFBg/FLiipCg-_GQ/s
 data-border="0" width="320" height="192" /></a>
 
 </div>
-</div>
 
-</div>

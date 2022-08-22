@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/mnb-mongoosejs.html
 ---
 
 
-<div>
+
 
 I often blog too early. I get excited and want to tell everyone as soon
 as possible. I whip together a demo and then write a blog post about my
@@ -45,7 +45,7 @@ be seen through
 <a href="https://github.com/LearnBoost/monk" target="_blank">Monk</a>
 for example.
 
-<div>
+
 
 As always with Node frameworks Mongoose is really simple to install:
 
@@ -56,9 +56,8 @@ Optionally passing (<span
 style="font-family: Courier New, Courier, monospace;">--save) to
 update your package.json file.
 
-</div>
 
-<div>
+
 
 Here's an example on how to create a new thing (in this case a Post in
 the <a href="http://github.com/aptitud/AptiTalk"
@@ -70,9 +69,8 @@ the <a href="http://mongoosejs.com/" target="_blank">Mongoose</a> homepage -
 no use restating that here), but rather part of an API I wrote for our
 application:
 
-</div>
 
-<div>
+
 
 On line 1 we are requiring mongoose as normal
 
@@ -126,61 +124,53 @@ prefer this approach.
 The callback checks for errors and returns success or failure via two
 methods I have created for that.
 
-<div>
+
 
 That's quite a lot of code you say. The good news, I respond, is that
 the model of course only needs to be declare once. And the rest of the
 operations you need (finding, updating, removing etc.) looks very
 similar indeed. Here's a list of them in action:
 
-</div>
 
 ###
 
 ### Testing Mongoose
 
-<div>
+
 
 Testing Mongoose is pretty straight forward. If you can live with
 "integration"-tests that is. As I'm a recently converted C# developer
 doing JavaScript mostly now I find myself searching for concepts and
 implementations that I maybe shouldn't be looking for.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So for a long time I tried to mock the database out. Using a "tightly
 shut" abstraction like Mongoose I found this very hard indeed. I can
 mock out Mongoose itself... but then my tests are testing nothing.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 (Mocking though, I should add, is pretty sweet in a dynamic language
 like JavaScript. You can just supply your own implementation in the
 test. Basically overriding the real implementation just for the test)
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 It all ended up with a real good comment from one of the best JavaScript
 devs I know
 - <a href="https://twitter.com/CarlBergquist" target="_blank">Carl
 Bergquist</a>:
 
-</div>
 
 > "How short are your feedback loops? Hit the database already!" (or
 > something like that)
@@ -205,9 +195,8 @@ post ^^.
 
 ### ORM or Data Access framework?
 
-</div>
 
-<div>
+
 
 Ok, so why did I diss this awesome framework the first time around?
 Because I didn't even thing about a ORM, I just wanted data access. For
@@ -217,25 +206,20 @@ target="_blank">simple tools</a> and shy'ed away from the complex as
 much as I could. When I saw that I needed to create a model, and that
 Mongoose hid all things Mongo from me... I was a bit hesitant.
 
-</div>
 
-<div>
+
 
 Now, when I've used the tool I feel much better. It's worth the ...
 "toll" I pay by creating models etc, I think. The API that Mongoose
 exposes is very nice and powerful and I have yet been near running into
 a situation that I cannot handle.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 In short - I should have looked harder and longer. ORM can be
 ligthweight too, apparently. Thank you Mongoose for showing me that.
 
-</div>
 
-</div>

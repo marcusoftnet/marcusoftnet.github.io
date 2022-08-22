@@ -18,7 +18,7 @@ id="BLOGGER_PHOTO_ID_5067626063402356066"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s1600-h/PICT1580.JPG)
 
-<div>
+
 
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPS9SObzVI/AAAAAAAAAJU/1z-qPZxOQiA/s320/PICT1578.JPG"
@@ -27,7 +27,7 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPS9SObzVI/AAAAAAAAAJU/1z-qPZxOQiA/s1600-h/PICT1578.JPG)
 
 
-<div>
+
 
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPSzSObzUI/AAAAAAAAAJM/1ArcROyexY8/s320/PICT1577.JPG"
@@ -35,9 +35,9 @@ id="BLOGGER_PHOTO_ID_5067625784229481794"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPSzSObzUI/AAAAAAAAAJM/1ArcROyexY8/s1600-h/PICT1577.JPG)
 
-<div>
 
-<div>
+
+
 
 Yesterday we moved! From our 30 square meters to 63 feels like a move
 from a closet to a hangar...
@@ -57,7 +57,7 @@ long time either. Also we move one floor down - which helped the tempo a
 great
 
 
-<div>
+
 
 I'll include some pictures from the apparent.
 
@@ -67,8 +67,5 @@ I'll include some pictures from the apparent.
 A special thank you to the nice folks at Indiska Odenplan, who stored
 our bench for 1 1/2 month. Thanks - it worked out great.
 
-</div>
 
-</div>
 
-</div>

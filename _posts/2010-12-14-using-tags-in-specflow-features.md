@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/12/using-tags-in-specflow-featur
 ---
 
 
-<div>
+
 
 Since I first read about
 <a href="https://github.com/aslakhellesoy/cucumber/wiki"
@@ -137,7 +137,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/_TI0jeIedRFk/TQdXP9v4aMI/AAAAAAAAAqE/2ub9D7gAH3M/s320/reshaper+showing+features+with+tags+as+categories.png"
 data-border="0" width="320" height="184" /></a>
 
-</div>
 
 #### <span style="font-size: 19px; font-weight: bold;">Conclusion
 
@@ -153,4 +152,3 @@ target="_blank">demo project here</a>.
 Please note that I’ve only used tags for Scenario-hooks in the
 demo-project, but they work the same for features.
 
-</div>

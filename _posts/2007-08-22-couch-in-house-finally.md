@@ -19,7 +19,7 @@ id="BLOGGER_PHOTO_ID_5101219953909540002"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/RssshUnppKI/AAAAAAAAAMc/1OvgHW5I0KQ/s1600-h/PICT2140.JPG)
 
-<div>
+
 
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/RsssUEnppJI/AAAAAAAAAMU/N86ZuiZcjNo/s400/PICT2137.JPG"
@@ -28,7 +28,7 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/RsssUEnppJI/AAAAAAAAAMU/N86ZuiZcjNo/s1600-h/PICT2137.JPG)
 
 
-<div>
+
 
 We have just bought a new sofa to our apartment. Or rather we bought
 about two months ago but a long, long story including delay for six
@@ -48,6 +48,4 @@ quality of their furniture. Enough said!
 So here is Elin taking a well deserved rest
 after putting the whole thing together... I helped a little bit.
 
-</div>
 
-</div>

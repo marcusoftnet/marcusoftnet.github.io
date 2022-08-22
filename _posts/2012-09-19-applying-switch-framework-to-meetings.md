@@ -55,21 +55,19 @@ work.
 
 ### Switch framework
 
-<div>
+
 
 You'll need some introduction to the framework. Please (really do -
 it'll change your life)
 <a href="http://www.heathbrothers.com/switch/" target="_blank">read the
 book</a> to get the full picture
 
-</div>
 
-<div>
 
-<div>
-</div>
 
-<div>
+
+
+
 
 |                                                                                                               |
 |:-------------------------------------------------------------------------------------------------------------:|
@@ -90,12 +88,10 @@ the elephant with some reins from his topside position. The only problem
 is that if the six-ton elephant wants to go into the bushes to have
 something to eat … those reins will not help much.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 In order to accomplish change you will have to address both the rider
 and the elephant part of people. The rider need clear instructions while
@@ -104,14 +100,11 @@ done. Finally you need to shape the path on which they are going to be
 traveling. The Switch framework gives you some guidelines on how to
 accomplish that.
 
-</div>
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Under the headings; Direct the rider, Motivate the elephant and Shape
 the path (they both are heading down) Chip and Dan Heath gives a lot of
@@ -121,12 +114,10 @@ higher probability of the change to happen and
 <a href="http://www.heathbrothers.com/madetostick/"
 target="_blank">Stick</a> .
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 This post talks about directing the rider - read on about <a
 href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html"
@@ -134,20 +125,17 @@ target="_blank">Motivating the elephant</a> and <a
 href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6053.html"
 target="_blank">Shaping the path</a> in the other posts in the series.
 
-</div>
 
 ### Follow the bright spots
 
-<div>
+
 
 One very effective and simple way to get change is to follow the bright
 spots. What works? Who has got this down? Where is the best place to see
 the change implemented today?
 
-</div>
 
-<div>
-</div>
+
 
 |                                                                                                                     |
 |:-------------------------------------------------------------------------------------------------------------------:|
@@ -161,7 +149,7 @@ the change implemented today?
   href="http://britsandbaseball.wordpress.com/2012/04/19/meet-the-travelling-companions-part-2-chit-chat-with-goffy/"
                                      target="_blank">The Baseball Travellers</a>                                      |
 
-<div>
+
 
 In the Switch book a story around this is about a doctor trying to help
 poor peasants to overcome starvation and save children that died from
@@ -171,37 +159,31 @@ did simple things differently (for example feeding the kids 4 times a
 day instead of 2 (same amount of food in total) or adding other
 vegetables instead of rice every now and then).
 
-</div>
 
-<div>
+
 
 The guy trying to help them out simple pointed to this and thought
 this behavior to the other mother with a great effect as a result.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 In our case we could ask ourselves; which meetings are great? (yes, now
 you all sadly said NONE together but I don't think it's true), when was
 the last time you felt that you had attended a great meeting? What
 happend then?
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 For me personal it's quite simple things;
 
-</div>
 
-<div>
+
 
 - I came out the meeting and felt that we actually accomplished
     something. We have decided or made something in the meeting. Or
@@ -214,40 +196,34 @@ For me personal it's quite simple things;
     actual content instead of messing around trying to show slides
     correctly.
 
-</div>
 
-<div>
+
 
 If you look around your organisation you will most definitely find
 people that do this already. If not all of it so some or at least
 sometimes. What can you do to follow that? How can you get them to do
 more of it and always hold great meetings?
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 In the next section we will take a look at some more down to earth tips
 on how to make it work in practice.
 
-</div>
 
 ### Script the critical moves
 
-<div>
+
 
 Under this heading the Switch authors talk about
 simple, prescriptive behaviors that we can follow without thinking to
 much and end up in a better way. For me it comes back to Shu-Ha-Ri from
 martial arts.
 
-</div>
 
-<div>
-</div>
+
 
 |                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------:|
@@ -259,59 +235,51 @@ martial arts.
                              data-border="0" width="320" height="240" /></a>                              |
 |                                   From <http://www.rochdalekarate.com/>                                   |
 
-<div>
+
 
 Shu Ha Ri the reasoning about how you learn new techniques in martial
 arts.
 
-</div>
 
-<div>
+
 
 **Shu** means Obey the rules - do exactly what the sensei tells you. Do
 it over and over again until it's second nature. This is what Script the
 critical moves is all about.
 
-</div>
 
-<div>
+
 
 **Ha** means roughly Break the rules. Try something new that you haven't
 done before. But do that taking a stance in the basic rules you know.
 
-</div>
 
-<div>
+
 
 **Ri** means Leave the rules. Make up new rules for yourself. When you
 are the master you can make up new techniques.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So here we want some really simple rules or guidelines to follow. In our
 case this can be as simple as guidelines for how to hold effective
 meetings, that are distributed to all meeting rooms, for example. And
 probably taught to the whole organisation. Why not when you are hired?
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 For simple rules I would go with for example these (some <a
 href="http://michaelhyatt.com/seven-rules-for-more-effective-meetings.html"
 target="_blank">ideas borrowed from here</a>):
 
-</div>
 
-<div>
+
 
 - Write a great **Invite** - make sure that you only invite the people
     that are needed. Make sure they know why they are there and why they
@@ -330,7 +298,7 @@ target="_blank">ideas borrowed from here</a>):
 - Before you leave make sure that **Actions** are clear and with an
     owner and a due date.
 
-<div>
+
 
 **UPDATE:** ~~Don't try to make an abbreviation of that ... I tried
 and dislocated my tongue trying to say it out loud...~~ Thanks to the
@@ -340,32 +308,27 @@ Unestrand)</a> there's now an excellent abbreviation for this. FAT I/O -
 make sure that your meetings are using it! I'm here by claiming rights
 to that abbreviation FAT I/O (tm).
 
-</div>
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Seriously - try to have a few simple rules that everybody can follow.
 Post them everywhere. And teach them to everyone. So that people that
 are conducting bad meetings are reminded by the attendees on how to do
 it better.
 
-</div>
 
 ### Point to the destination
 
-<div>
+
 
 This is my favorite point. And a great trick for getting there faster.
 It goes like this; "Imagine a world where ... ". You simply paint or
 make up the future as it will become when we make all these changes.
 When we get there!
 
-</div>
 
 It's a great way to show the goal to everyone involved in the change we
 undertaking. Let this be a vision, something that we might never reach
@@ -379,16 +342,15 @@ In our case we could talk about:
 - No more fully booked calendars
 - Every person in the meeting contributes
 
-<div>
+
 
 You can probably do much better than me when it comes to come up with
 a beautiful future.
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 I've deliberately not talked about meeting free days or having fewer
 meetings here. I think those can be great for productivity but I'm also
@@ -396,18 +358,15 @@ afraid that they may reinforce that meetings are not real work. And we
 don't want that. Quite the opposite in fact - we want the meetings we
 have to feel important and fun.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Yes - we could probably cut down on the actual number as well, but that
 will probably happen when you start to ask questions on why we're
 holding the meeting.
 
-</div>
 
 In this post I have tried different ways of addressing the Rider - the
 one that could reason about this and really know how a great meeting

@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/01/hectict-week-to-end.html
 ---
 
 
-<div>
+
 
 Last week was a real burnout, of a start for this year. Something booked
 for each day last week, which is to much, for me anyway. And yesterday
@@ -40,13 +40,11 @@ for some Spa tonight. This is a "cheerer-uper" i got from
 other stuff i did a year a ago. Feels real good that we can make use of
 it after the last week.
 
-</div>
 
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s400/sture.JPG"
 id="BLOGGER_PHOTO_ID_5020146299661677794" style="CURSOR: hand"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s1600-h/sture.JPG)
 
-<div>
 
-</div>
+

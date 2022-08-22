@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and
 ---
 
 
-<div>
+
 
 I'm working for [Tradera](http://www.tradera.com/) right now and as I've
 [blogged about
@@ -38,7 +38,7 @@ or Syncro whatever you call it. We call it Daily Sync.
 
 ### The problem
 
-<div>
+
 
 It's really quite simple really; you have several teams and you want
 some sort of synchronization between them, share information or just
@@ -57,9 +57,8 @@ project](http://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html
 but that also froms questions about levels of details and double
 bookkeeping.
 
-</div>
 
-<div>
+
 
 I mean; in order to keep the big board interesting we want it to show
 the right level of details but that's also reflected on each team board,
@@ -73,9 +72,8 @@ You then have the meeting itself; **who** should come? **What** should
 you talk about? Are you reporting (receiving) or are you deciding
 (sending) **information**?
 
-</div>
 
-<div>
+
 
 If the Daily Sync is going to be interesting you need to talk about
 things that involve everybody in the meeting. Or at least things that
@@ -94,11 +92,10 @@ their daily before the Daily Sync we would have current team statuses
 but it's harder to send information from Daily Sync that stand the risk
 to become just a status meeting.  
 
-</div>
 
 ### The reason
 
-<div>
+
 
 We went back to the root of the Daily Sync - what's the reason to have
 such a meeting. The information about the team status is out there, in
@@ -122,15 +119,13 @@ been exchanged in the respectively teams. That meant that we focused the
 Daily Sync on things that ... wait for it... needed to be synched
 between the teams. And that only.
 
-</div>
 
 ### Our solution ... s
 
-<div>
+
 
 This is our Daily Sync board as it looks today:
 
-</div>
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -145,9 +140,8 @@ data-border="0" width="400" height="276" /></a>
 For us focusing the Daily Sync means that we focus on three things every
 morning:
 
-</div>
 
-<div>
+
 
 - what is being released during the day - we have created a board with
     columns for "To Release", "Releasing", "Follow up" and finally
@@ -165,13 +159,12 @@ morning:
     board where we show important links, dates and the "Between the
     chairs"-square.
 
-<div>
+
 
 We're not:
 
-</div>
 
-<div>
+
 
 - showing the work items that the individual teams have on their board
     on the big Daily Sync board. When they are about to release
@@ -186,15 +179,13 @@ We're not:
     teams were doing but we realized that we got to know which teams
     needed help anyhow so we have removed the stop-lights.  
 
-</div>
 
-<div>
+
 
 Who attends the meeting:
 
-</div>
 
-<div>
+
 
 - anyone that's interested - it's an open meeting
 - every team needs to send one person that can accept or deny stuff
@@ -203,11 +194,9 @@ Who attends the meeting:
 
 ### Conclusion
 
-</div>
 
-</div>
 
-<div>
+
 
 This is how we got the Daily Sync meetings to work for us; they are
 short (usually under 10 minutes) and meaningful for everyone attending.
@@ -220,6 +209,4 @@ They are not perfect and we change the content and form of them. Often.
 The only thing that's certain is that we haven't perfected this. But
 we're reaching there.
 
-</div>
 
-</div>

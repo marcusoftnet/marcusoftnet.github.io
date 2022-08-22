@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/lets-do-something-instead.htm
 ---
 
 
-<div>
+
 
 I'm surrounded by brilliant minds at work. Both at my company
 ([Aptitud](http://www.aptitud.se/)), at my clients and in my community.
@@ -88,7 +88,7 @@ It's probably a bit more expensive but well worth it in the long run.
 
 ### Team and potential problems
 
-<div>
+
 
 I've been involved in putting new teams together at lot, merging and
 splitting old groups. Inevitable a discussion takes place as the new
@@ -96,68 +96,57 @@ team is forming up around; what will we do now, will our "old" backlog
 be considered, who will take care of X, who's calling the shots in the
 new team etc. 
 
-</div>
 
-<div>
+
 
 Perfectly natural and understandable. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But quite often we create a lot of hypothetical problems that might
 occur or not. We might run into all of those problems, or we might hit
 all of them. Nobody knows. Hey - we might even run into problems that we
 ... (gasp) didn't even think about yet.    
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 What should we do?
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Build something together. Start delivering stuff. Put stuff out the door
 and see if any of the problems you were thinking of are actually is
 occurring or not. And then we have a context to actually try to steer
 away from it. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 What should we start doing? 
 
-</div>
 
-<div>
+
 
 How about the most scary thing first. Or if you don't know what's
 scary - do the smallest possible thing that you think will get out of
 the door. Make sure it's some business need that you fulfilling at the
 time and you'll even start impressing people and building a team.
 
-</div>
 
 ### What is the right thing to prioritize now?
 
-<div>
+
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
@@ -174,12 +163,10 @@ Product](http://en.wikipedia.org/wiki/Minimum_viable_product) from [Lean
 Startup](http://theleanstartup.com/). The idea here is to create a small
 increment of a product for the sole reason of learning. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 When you don't know how the product you're building will be received or
 the feature accepted by your customers, what can you do? Well put
@@ -188,39 +175,33 @@ you can think of so that you don't overinvest in your efforts. No,
 smaller than that. Try again - you can come up with something smaller. I
 dare you!
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 The thing is - we're doing stuff. Together. We're learning about the
 need, the product and how we're working together. And when we do we can
 start improving on that. 
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 I'm not saying "don't think". I'm saying "don't think too much before
 you start doing something". 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 My grandma was a Salvation Army Officer (pastor) for all her life. I
 love the Salvation Army because it combines religion with doing stuff,
 the church and social work. Grandma Märta often said things like this
 (and I'm paraphrasing, sorry Grandma):
 
-</div>
 
 > Praying is great and everything, but sometime we have to take down our
 > hands and lift someone up from the gutter.
@@ -228,4 +209,3 @@ the church and social work. Grandma Märta often said things like this
 What will you learn when you start doing stuff? What will you learn
 about your team when you do stuff together? 
 
-</div>

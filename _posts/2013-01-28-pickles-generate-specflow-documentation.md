@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/pickles-generate-specflow-doc
 ---
 
 
-<div>
+
 
 If your doing <a href="http://specificationbyexample.com/"
 target="_blank">specification by example</a> or
@@ -53,7 +53,7 @@ target="_blank">download my code here.</a>
 
 ### Pickles and how to get it
 
-<div>
+
 
 Pickles describes itself as: "Pickles is an open source living
 documentation generator that works on feature files written in the
@@ -111,9 +111,8 @@ target="_blank">Pickles files in one zip</a>.
 
 The folder structure is like this:
 
-</div>
 
-<div>
+
 
 pickles - pickles stuff that I've downloaded via NuGet
 
@@ -126,11 +125,10 @@ a demo. Deep in the belows of that structure
 (/Specs/bin/debug/TestResult.xml) you'll find a testresult file that is
 important if you want to display the tests result.
 
-</div>
 
 ### MSBuild
 
-<div>
+
 
 Enough talk already: let's get down to business and create a little
 MsBuild file that you can incorporate (or call) from your build script.
@@ -172,13 +170,12 @@ and OutputDirectory. The other defaults to:
 - Format: Html
 - ResultsFormat: Nunit
 
-<div>
+
 
 You can try this out by openening a Visual Studio Command Prompt and go:
 
-</div>
 
-<div>
+
 
  msbuild PicklesMsBuild.proj
 
@@ -192,9 +189,7 @@ from the root of my
 <a href="https://dl.dropbox.com/u/2408484/picklesLab.zip"
 target="_blank">sample</a>.
 
-</div>
 
-</div>
 
 ### PowerShell
 
@@ -223,7 +218,7 @@ parameter names etc.:
 
 ### Summary
 
-<div>
+
 
 There we go - a help for you to call Pickles from MsBuild and
 PowerShell. Remember that you can call it from
@@ -247,6 +242,4 @@ My example as described above can be
 <a href="https://dl.dropbox.com/u/2408484/picklesLab.zip"
 target="_blank">downloaded here, as a zip.</a>
 
-</div>
 
-</div>

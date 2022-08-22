@@ -31,7 +31,7 @@ two phases:
     integration tests in place we are shield from introducing any big
     bugs.
 
-<div>
+
 
 OK, the first phase mean that we worked our way through the old code,
 form by form. It was 265 of them and we created a simple tracking tool
@@ -40,15 +40,13 @@ KB). As we progressed we tracked the time we put in on all the things we
 did. Finally we could estimate how long time it would take us, and how
 much of that, that was left.
 
-</div>
 
-<div>
+
 
  
 
-</div>
 
-<div>
+
 
 Of course the usual stuff happened. Two day into phase 1 my project
 leader (who also is a great guy, that really have adopted agile
@@ -57,9 +55,8 @@ done?". I hate to being forced to answer that question without any data
 so I actually put it off for two weeks. But then the question came
 again... "Now you must know... When are you done?".
 
-</div>
 
-<div>
+
 
 ### Data gathering
 
@@ -69,13 +66,11 @@ Here is our last month day by day - how much time is left to do. (And do
 remember that this is a great team, that update this calculation several
 times every day):
 
-</div>
 
 <div class="separator" style="text-align: center; clear: both">
 
-</div>
 
-<div>
+
 
 <div class="separator" style="text-align: center; clear: both">
 
@@ -85,14 +80,12 @@ style="margin-left: 1em; margin-right: 1em" data-imageanchor="1"><img
 src="http://1.bp.blogspot.com/_TI0jeIedRFk/TN0gsoa8xpI/AAAAAAAAAps/ftKzqoISnCA/s400/estimated+time+left.JPG"
 data-border="0" width="400" height="268" /></a>
 
-</div>
 ### Analysis
 
 From this we can see that:
 
-</div>
 
-<div>
+
 
 -   when we first started to track time left (that took a few days) we
     guess that we had about 670 hours left. 
@@ -106,19 +99,17 @@ From this we can see that:
     reuse code we already written, we got better on doing this etc. 
 -   And now (2010-11-12) we're at 602 hours left.
 
-<div>
+
 
 I wouldn't be to surprised if the hours will rise some and fall some
 during the days left. I am quite sure that it wont be a steady line down
 to zero from today.
 
-</div>
 
-</div>
 
 ### Conclusion
 
-<div>
+
 
 When I was asked "When are you done?" I would have answered "In 670
 hours" if I've used the data we had at hand. This was wrong.
@@ -143,4 +134,3 @@ that timespan.
 I'm sorry. The emperor is naked - you cannot estimate a software project
 with any certainty.
 
-</div>

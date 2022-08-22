@@ -19,15 +19,12 @@ Again, it amazes me how much time people have on their hands. I mean
 this is fun and all that but just think if this time was put into
 something useful... Worlds could change.
 
-</div>
 
 <div align="left">
 
-</div>
 
 <div align="left">
 
 For example - just think if they all played euphonium... changing of
 worlds, my friends... changing of worlds
 
-</div>

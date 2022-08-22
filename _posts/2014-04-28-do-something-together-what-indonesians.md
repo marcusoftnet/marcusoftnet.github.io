@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/do-something-together-what-in
 ---
 
 
-<div>
+
 
 One of the things that really surprised me and my wife when we were
 about to move to Indonesia was the schedule for our office. Every Friday
@@ -122,4 +122,3 @@ that tree. We have cleaned this together. I think it's a great way to
 know the person behind the keys of all those emails, or that code or
 what have you.
 
-</div>

@@ -11,7 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-
 ---
 
 
-<div>
+
 
 I'm turning 40 years old today. This is a letter to Marcus 60 years old.
 Or maybe a new version of my 20 year old self, if I ever invent a time
@@ -58,40 +58,34 @@ parents probably do. The kids are wonderful:
     day. Arvid just invented a little sign-language for himself (signs
     for eating, car and crackers are in there). 
 
-<div>
+
 
 And there's no "but" to follow. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Everyone else in your family are near and dear to you. No one is sick.
 You have contact with all of them and there's no conflicts. 
 
-</div>
 
-<div>
+
 
 And there's no but to follow.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 At work you are doing alright. Excellent in fact. You still don't get
 that fully yourself but people are actually interested in what you have
 to say and what you think. 
 
-</div>
 
-<div>
+
 
 You are working for Avega Group the best employeer you've had and you
 have a great role, Avega Coach, that means that you spend part of you're
@@ -99,24 +93,20 @@ time doing presale, presentations and coaching of other consultants at
 Avega. You have been elected Employee of the Year two times by your
 peers. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Right now you're very much into Kanban and Lean and this year you are
 writing a book (Yes I know!!! It's sick!) called Kanban in Action. It's
 hard work and rolls along nicely. 
 
-</div>
 
-<div>
+
 
 And there's no "but" to follow. 
 
-</div>
 
 
 You and your family are members at the Vasa Corps of the Salvation Army.
@@ -148,4 +138,3 @@ I'm proud of you!
 
 And there's no "but" to follow.
 
-</div>

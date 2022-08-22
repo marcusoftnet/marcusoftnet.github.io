@@ -18,7 +18,7 @@ id="BLOGGER_PHOTO_ID_5174227139887883490"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R86MK2Qz5OI/AAAAAAAAARE/fVwd4StsW_U/s1600-h/trackitem.JPG)
 
-<div>
+
 
 Ooooh - so nice. And so easy now when i know how to do it...
 
@@ -41,4 +41,3 @@ Explorer which greatly reduces confusion on where you are.
 The setting is found under Tools-\>Options-\>Project and
 Solutions-\>General-\>Track Active item in Solution Explorer
 
-</div>

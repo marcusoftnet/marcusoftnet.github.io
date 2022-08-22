@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-fast-route-between-idea
 ---
 
 
-<div>
+
 
 A couple of days ago I had a great experience in why a modular framework
 is a great thing, that I wanted to share in this blog post. You will
@@ -166,4 +166,3 @@ href="http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html
 target="_blank">follow up to this post</a> showing how I made this even
 simpler with a single command in a Makefile.
 
-</div>

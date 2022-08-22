@@ -19,7 +19,7 @@ id="BLOGGER_PHOTO_ID_5043526225891129634"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/Rf40YXWbeSI/AAAAAAAAAGo/RuFPUoDLpec/s1600-h/PICT1400.JPG)
 
-<div>
+
 
 This weekend was spent at my sister, Therese, in Linköping. This is the
 fith (or so) town in Sweden, in size but the difference from Stockholm
@@ -33,4 +33,3 @@ So in a way we made a small vaccation, to another place (not another
 time though) over the weekend. Even the weather was wierd with sunshine
 and hailstorms interchangning each other.
 
-</div>

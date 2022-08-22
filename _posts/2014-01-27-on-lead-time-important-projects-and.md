@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/01/on-lead-time-important-projec
 ---
 
 
-<div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -26,7 +26,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://2.bp.blogspot.com/-InN1Jg0ngAM/UuXiUF0543I/AAAAAAAAB4g/_wCZLQ4V6lI/s1600/doing-the-most-good-for-web.jpg"
 data-border="0" width="200" height="73" /></a>
 
-</div>
 
 I've started work in a very different organization, in a very different
 culture and see the same problems. For those that don't know yet, I have
@@ -65,15 +64,14 @@ your analogy over to your context and situation quite easy.
     the mother organization of the Salvation Army, so that they know
     where and why we spend our funds this way.  
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">For
 both of these projects a number of common factors are the
 same:
 
-</div>
 
-<div>
+
 
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">These projects are very important (the
@@ -95,16 +93,14 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-6rkenI7BJfI/UuXLM-NjceI/AAAAAAAAB3w/UDIdmrIuFPg/s1600/yeah+sure.gif"
 data-border="0" width="171" height="200" /></a>
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">All
 in all... the perfect setup for success. Don't you
@@ -112,53 +108,44 @@ agree? <span
 style="font-size: small; font-weight: normal;">And after you don't. Stop
 and think for awhile. 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small; font-weight: normal;">You been in these
 projects.
 
-</div>
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span
 style="font-weight: normal;">Right?
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span
 style="font-weight: normal;">Right?
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span
 style="font-weight: normal;">Right, sure you have.
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">Me
 to. 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">So
 how does project like these look then?
 
-</div>
 <div style="text-align: left;">
-</div>
 
 How we work
 
@@ -170,14 +157,13 @@ How we work
 
 ### <span style="font-size: small;"><span style="font-weight: normal;">C has been wondering what's taken so long. As C reads the proposed actions, he realizes that A and B is focusing on the wrong things. Why wasn't C involved earlier, C thinks angrily. And sends a quite angry email to both A and B: "we should meet and discuss this! My next week is pretty busy but after that..." C sends the email and then storm past A and B's desks on his way for a coffee.
 
-<div>
+
 
 <span style="font-size: small;">Actually, just writing that made me
 angry. It's just stupid, don't you agree? But still this is how many
 discussions and decision making processes are run. Both in Swedish and
 Indonesian companies I've worked for.
 
-</div>
 
 ### Lead time
 
@@ -192,7 +178,6 @@ actually being worked. This, of course, has a dramatic and damaging
 effect on the lead time to complete the work. Try this very simple
 exercise, if you dare, on a whiteboard next to you:
 
-</div>
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Draw a line across the entire board.
     For extra measures mark it with dates (or weeks even)
@@ -213,20 +198,17 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-Bfc3vV95bFw/UuXPpi1vryI/AAAAAAAAB34/hb6d1OeM_Vw/s1600/bad+leadtime.jpg"
 data-border="0" width="640" height="148" /></a>
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">Now,
 for the fun part. 
 
-</div>
 -   <span style="font-size: small; font-weight: normal;">Measure the
     length of the line as it's in "Working" area. It doesn't have to be
     exact but enough to prove a point
@@ -244,14 +226,12 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-0qmjw8_fAng/UuXQg6ecy6I/AAAAAAAAB4E/dl1-5sGq5uQ/s1600/better+leadtime.jpg"
 data-border="0" width="640" height="148" /></a>
 
-</div>
 
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
 <div style="text-align: left;">
 
@@ -262,14 +242,12 @@ hence "found the feeling" or felt the pain that's needed to improve.
 We've also "posted a postcard from the future" to show how fast it could
 go? Now, the only question is, how?
 
-</div>
 
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
 <div style="text-align: left;">
 
@@ -279,51 +257,45 @@ this exercise is a very simple form of
 target="_blank">Value Stream Mapping</a>. You can do much more advance
 versions of this, but seldom do to get the point across.
 
-</div>
 
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
 How to get to better
 
 ### <span style="font-size: small;"><span style="font-weight: normal;">Ok, here it comes. My solution to this age old problem. I'm planning on releasing this as book later this year, but you can read it now. Please don't spread it since I want to trademark it. It's really big news.
 
-<div>
+
 
 -   Find a time when everyone can work in the same room together
 -   Work on it until it's done
 -   Done!
 
-<div>
+
 
 It's also known as "Go in a room and get it done" or
 <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
 target="_blank">"Sit together - work together"</a>.
 
-</div>
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Sorry, I was being ironic there for awhile. But one could ask oneself,
 as one (being me) has done from time to time: so **everyone** knows that
 this is a bad, so **why** does this still happen?
 
-</div>
 
 ### Why is this
 
 ### <span style="font-size: small;"><span style="font-weight: normal;">By now, most of you probably has left me since I'm just ranting. So for you there back in the corner that still is reading this... this is a bit of a puzzle, right. Because everyone know this. Manning an urgent and important project with already busy people will lead to really hard scheduling and that in turn will hurt the lead time. Badly. 
 
-<div>
+
 
 <span style="font-size: small;"><span
 style="font-weight: normal;">Still, this is the common way of doing
@@ -331,7 +303,6 @@ things. "I want you to engage in this project also", "We're pulling
 people from other project to create a task force to make sure that ..."
 You've heard things like these. 
 
-</div>
 
 #### Effective versus efficient
 
@@ -345,7 +316,7 @@ You've heard things like these. 
                           data-border="0" width="200" height="150" /></a>                          |
 |                                 "Nothing to do is super boring"                                  |
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">I
 think that it's because we're all too often focusing on keeping people
@@ -354,61 +325,52 @@ busy and efficient. Don't miss
 <a href="http://vimeo.com/7849591" target="_blank">excellent talk on
 effectiveness vs efficiency</a>. 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">This,
 by the way, goes both for organizations but also for individuals: we
 want to be busy, right?  
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">It's
 super boring to have nothing to do. And I don't look
 important either. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">And
 we want our people to be busy, right? 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">They
 cannot just sit around do nothing, now can they? It's better that they
 do something than nothing. It's simply not efficient if they are not
 busy. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 That statement is perfectly true. Consider the case of writing code. As
 it turns out, the hard part is not typing. It's understanding each
 other. A software company is not selling "keystrokes / minute". They are
 selling finished (features in their) software that people are using. 
 
-</div>
 
 > <a
 > href="http://zuill.us/WoodyZuill/2012/09/16/the-8-agile-maxims-of-woody-zuill/"
@@ -429,7 +391,7 @@ If I could think faster I would have responded:
 
 #### Priority
 
-<div>
+
 
 <span style="font-size: small;"><span
 style="font-weight: normal;">Another thing that doesn't help the poor
@@ -439,16 +401,14 @@ prioritized. That's 15 project that we should work on first. I'm not
 sure that's even English? Surely only one project (person, thing or
 whatever) can be the first?
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">I've
 also worked at a Swedish insurance companies that, in one project, had
@@ -457,16 +417,14 @@ introduced PRIO 0. Yes, PRIO 0 is even more prioritized than PRIO 1.
 Surely this will redeem the situation? It's did not and pretty soon they
 had about 20 PRIO 0 in the backlog too.  
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">With
 a lot of things that is highest priority for teams and people we're
@@ -474,22 +432,19 @@ making it very hard to for them to know what to do? In a lot of
 situations it really doesn't matter: they are making someone
 disappointed anyway. 
 
-</div>
 
-<div>
+
 
 <span style="font-size: small;"><span style="font-weight: normal;">
 
 
-</div>
 
-<div>
+
 
 <a
 href="https://www.google.com/search?q=prioritize+definition&amp;oq=prioritize&amp;aqs=chrome.2.69i57j0l5.6599j0j7&amp;sourceid=chrome&amp;espv=210&amp;es_sm=122&amp;ie=UTF-8#q=prioritize+definition"
 target="_blank">Google defined "prioritize'</a> as:
 
-</div>
 
 > designate or treat (something) as more important than other things.
 
@@ -509,17 +464,15 @@ than PRIO 1.
 
 ### What I will do now
 
-<div>
+
 
 I think it's better, and much more effective (as well as efficient in
 fact) to wait until the time is right to do this project. When we reach
 that point we can explain, for everyone involved, why this is now the
 most important thing we can do right now. 
 
-</div>
 
-<div>
-</div>
+
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -530,38 +483,32 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-0qmjw8_fAng/UuXQg6ecy6I/AAAAAAAAB4E/dl1-5sGq5uQ/s1600/better+leadtime.jpg"
 data-border="0" width="320" height="74" /></a>
 
-</div>
 
-<div>
+
 
 That's why the second version of my simplified value stream map had a
 waiting time in the beginning. In order to be efficient when we do get
 together it might be worth waiting awhile first. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Then we go into a room and get it done. We bring the people that we need
 to make the decisions we need to make and we get the work done. Or at
 least as far as we can given the constraints we're given. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Going into the room without important decision makers, in other words:
 without the authority to make decision, is a waste of time. The work
 will not be done. It will only be started. We want to finish stuff. Not
 start stuff. 
 
-</div>
 
 > > It’s not “the more you start, the more you finish,” it’s “the more
 > > you finish, the more you finish.”
@@ -569,4 +516,3 @@ start stuff. 
 > > —<a href="http://leanandkanban.wordpress.com/" target="_blank">David P.
 > > Joyce</a>
 
-</div>

@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-terminal.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn
@@ -93,4 +93,3 @@ Oh yeah, I'm running the terminal in a window that covers the screen
 from top to bottom and about half the window in size. And I'm using the
 slick Pro-profile that gives it a nice transparent look.
 
-</div>

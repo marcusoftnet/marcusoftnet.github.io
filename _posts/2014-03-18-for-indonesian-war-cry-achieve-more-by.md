@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-achiev
 ---
 
 
-<div>
+
 
 DISCLAIMER for frequent readers of this blog:
 I now work
@@ -102,7 +102,6 @@ simulation - less is more!</a>** from
 **<a href="http://www.slideshare.net/marcusoftnet" target="_blank">Marcus
 Hammarberg</a>**
 
-</div>
 
 When you ready, start the timer and go as fast as you can. Remember to
 time it takes to finish each column as well as the time it takes to
@@ -205,4 +204,3 @@ to the next?
 God bless you in your strives to become more and more effective in doing
 the MOST good.<span class="Apple-tab-span" style="white-space: pre;">
 
-</div>

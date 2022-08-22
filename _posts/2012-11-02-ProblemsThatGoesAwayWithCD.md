@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.ht
 ---
 
 
-<div>
+
 
 Sure enough... There's an abbreviation for
 <a href="http://en.wikipedia.org/wiki/Continuous_delivery"
@@ -90,10 +90,8 @@ to Change Things When Change Is Hard.</a> And a little bit from Lean and
 the <a href="http://www-personal.umich.edu/~mrother/Homepage.html"
 target="_blank">Toyota Kata</a>.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -105,10 +103,8 @@ to keep one. They could only build cars for the people that order them
 and hence needed them to flow fast from order to finished product. It
 didn't for starters but that was what they needed to do.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -117,20 +113,16 @@ here \[future idealised state\]. How do we get there? Let's try some
 different experiments to see if we get closer or further away from
 that.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
 Ok - of on tangent here. But the idea to think about an ideal future and
 see how wonderful everything would be there, to then try to get there.
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -139,7 +131,6 @@ Just imagine all the things that used to be big problems, things that
 you avoided and thought of as bad - what would happen with them. Here's
 a couple of once that I've thought of lately:
 
-</div>
 
 ### The problems
 
@@ -182,46 +173,40 @@ it good and safe.
                     data-border="0" width="200" height="200" /></a>                    |
 |                             From http://fixitwizkid.com/                             |
 
-<div>
+
 
 I remember when we wrote lots of code, in strange ways, just to avoid
 recompilation.  We created strange tables (Id, Key, Value) that allowed
 us to add columns. Just to **avoid** recompiling our code. And got
 horrors to maintain.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 We put more and more information, even business rules or stored
 procedures, so that we could change it without recompiling and deploy.
 
-</div>
 
-<div>
+
 
 Brrr - I shiver at the thought.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But, mind you well, recompilation of big system are expensive under some
 circumstances. Just getting hold of the code, doing regression tests of
 the complete system could make any release manager to start crying,
 right?
 
-</div>
 
 > "No, please. No more. Don't change that code any more. Hands off!"
 
-<div>
+
 
 Imagine that a recompilation was free. And deploy is done as part of
 normal procedure at least several times a day. We take pride in being
@@ -229,7 +214,6 @@ able to change our system often and securely. Recompilation, testing and
 deployment should just be a shrug of your shoulders, not a shiver down
 your spine.
 
-</div>
 
 #### Code generation
 
@@ -250,35 +234,29 @@ something. And now the problem is not so big or scary anymore.
 
 ### Summary
 
-<div>
+
 
 Well that was just three short examples that popped into my head when I
 started to think about this. Please don't read this as a silver bullet
 or understand it as I'm saying that getting continuous delivery into
 place is something easy.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 It's really not. For a legacy system it can be really hard work. But I
 am saying that it's worth it. And a wonderful future is to be had once
 we get there. This is just taking a few programming related things and
 looking closer into them.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now... What should we start change in order to move closer to that
 future?
 
-</div>
 
-</div>

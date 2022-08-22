@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/on-constraints.html
 ---
 
 
-<div>
+
 
 As always it's hard to boot up all processes in a new year. The blogging
 process apparently was down prioritized by my internal product owner.
@@ -65,10 +65,8 @@ have on any agilistas out there. But I have been involved in quite a few
 "rollouts" in my career. That it's: implement agile in an organisation.
  
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -77,10 +75,8 @@ organisation to move. I wrote about this before and called the
 <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
 target="_blank">constraint a "or else"-reason.</a>
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -90,7 +86,6 @@ yelled at or maybe (very seldom at least in Sweden) gets fired. That
 means that trying new ways of working is just syntactical differences on
 the same thing. 
 
-</div>
 
 > "Yeah, yeah... user story or use case - we know the drill. Let's do as
 > we always do, people. No hurry". 
@@ -105,7 +100,6 @@ faster. Or if the constraint was in time; "the stuff that's ready for
 this date gets shipped. No exceptions!" Now we have a real reason to do
 something fundamentally different from what we usually do. 
 
-</div>
 
 <div style="text-align: left;">
 
@@ -113,10 +107,8 @@ In order to overcome the constraint (that might be real or made up mind
 you) we **have** to do something differently. We **have to change** the
 way we work or do things. 
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -125,11 +117,10 @@ always to do with to much resources. Success or failure is not a big
 thing. It will continue anyway. Sure we celebrate success but we
 wouldn't change fundamentally how we work to get it. 
 
-</div>
 
 ### Immutability
 
-<div>
+
 
 <a href="http://en.wikipedia.org/wiki/Immutable_object"
 target="_blank">Immutability</a> is a programming term meaning roughly:
@@ -139,12 +130,10 @@ often found with the
 target="_blank">functional programming</a> paradigm but can be used
 elsewhere.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 I know! First time I thought: "well, that was handy. Why create it in
 the first place, then? Data change right?"
@@ -164,11 +153,10 @@ It all started with the, self-imposed, constraint of immutability. In
 order to cope with it - we had to change the way we work. Out of that
 came great stuff.
 
-</div>
 
 ### "I'll change that in a week"
 
-<div>
+
 
 When I went to university we had a course in object oriented
 programming. It was basically a 4 week hand-in programming task: we were
@@ -183,11 +171,10 @@ line of code we wrote was scrutinized and challenged for replaceability
 (which is the <a href="http://video.javazone.no/talk/49367318"
 target="_blank">trademark of good agile architectures</a> by the way). 
 
-</div>
 
 ### Time boxes and WIP limits
 
-<div>
+
 
 Finally (I'm probably boring you to death by now) why on earth do we do
 sprints or time boxes in agile methods? Why so short as 2 weeks? 1
@@ -207,9 +194,8 @@ our workflow.
 
 ### Conclusion
 
-</div>
 
-<div>
+
 
 With no constraints you have no incitament to improve. Constraints
 forces us outside our comfort zone and pushes us to improve in order to
@@ -217,32 +203,26 @@ handle with the constraint. The constraints might not exists naturally -
 but you should put one in place any way. It's the little nagging thing
 that helps us remember that we should improve.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 This blog post is probably old new for a lot of you, but I found myself
 coming back to constraints again and again. It's the foundation for
 improvements. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Now the only question remains: what should we improve towards? What is
 our goal? 
 
-</div>
 
-<div>
+
 
 But that's another blog post. For now I leave you with: It depends ...
 
-</div>
 </div>

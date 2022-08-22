@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-im
 ---
 
 
-<div>
+
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
@@ -107,19 +107,17 @@ sucks.
         target="_blank">bulldog1</a> used under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/"
                                         target="_blank">Creatives Common</a>                                        |
 
-<div>
+
 
 I'm the first to confess that I do this badly now but I've found two
 areas where I will focus to become ever better; listening and using
 context.
 
-</div>
 
-<div>
 
-</div>
 
-<div>
+
+
 
 The first one is pretty obvious and a so called truism; everyone need to
 be better at listening, always. But maybe if I stop for awhile and think
@@ -127,7 +125,6 @@ what they are actually saying to me. One of my heroes,
 <a href="http://dannorth.net/" target="_blank">Dan North</a>, has a nice
 saying that I quote from time to time:
 
-</div>
 
 > What is true in their world to make them do this/think this/say this?
 
@@ -171,4 +168,3 @@ You know what; fine with me. I'm happy just talking about the easy parts
 of kanban. Maybe people can use that. And smarter people than me can
 talk about the complex part of kanban.  
 
-</div>

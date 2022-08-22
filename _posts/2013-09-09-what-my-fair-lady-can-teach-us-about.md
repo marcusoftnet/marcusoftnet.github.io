@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/what-my-fair-lady-can-teach-u
 ---
 
 
-<div>
+
 
 I have a confession to make: I'm a sucker for musicals. Especially those
 old ones with those jolly tunes. One of my all-time favorites is: [My
@@ -30,7 +30,6 @@ beautiful and complicated words. So Eliza sings the following song:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 The lyrics is brutal and to the point:
 
@@ -46,12 +45,11 @@ The lyrics is brutal and to the point:
 
 ### Don't you usually write about IT?
 
-<div>
+
 
 Well let's get this back on track... What does this have to do with us?
 What did this song tell me?
 
-</div>
 
 That often reporting and reports isn't enough. Even diagrams might fall
 short. If "we're on fire" about something that we have done - then show
@@ -74,4 +72,3 @@ progress (good and bad) in a way that they understand.
 
 If you're on fire - show me!
 
-</div>

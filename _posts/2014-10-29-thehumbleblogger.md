@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/thehumbleblogger.html
 ---
 
 
-<div>
+
 
 I hate fights.
 And arguments.
@@ -86,4 +86,3 @@ discussion of the subject.
 
 And yes, I forget about these things. Often. Please remind me.
 
-</div>

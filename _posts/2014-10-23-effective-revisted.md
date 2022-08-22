@@ -137,7 +137,6 @@ Where do you think we started to implement efficiency?
 Yes that's right - we trained the developers in being more efficient.
 Surely that would help us.
 
-</div>
 
 . In fact a lot of the time was waiting time. Decided on beforehand by
 schedules. Because we only deploy 4 times a year. It's right there. In
@@ -157,53 +156,46 @@ code faster.
 
 ### Health care
 
-<div>
+
 
 Right now I'm serving in a new area (and a new country) trying to help
 the six hospitals that the Salvation Army has in Indonesia. I went in
 very bold - effectiveness; I know this. Just make the system flow faster
 to the end-customer, which is the patient in this case.
 
-</div>
 
 #### What is the goal in this case?
 
-<div>
+
 
 But ... what is the goal of a health care service provider. Is it speedy
 delivery really... No not really. The goal of health care (as I think
 now, I hope this changes to something wiser) is to cure the patient, or
 quality in the health service.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Using effectiveness as your guiding star and principle you will
 automatically get a patient perspective and put the patient (who said
 end-customer?) in focus. This how we measure the quality of our
 service - the experience and end-result of the patient.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Sure the internal processes are important and needs to be looked over
 but if we're not putting quality care first and the patient in focus...
 we're running the wrong way.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 That doesn't mean that a fast flow is uninteresting. If your process
 flows faster the quality have to be good. If your process produce bad
@@ -214,50 +206,43 @@ manufacturing and software development) the faster flow can in itself be
 something to strive for. In health care I see it more as a mean to
 increase the quality - which is the goal of the system.
 
-</div>
 
 ### Pastors, coaches and parents
 
-<div>
+
 
 For a pastor the effectiveness will be ... eeeh? This is harder. The
 only thing I'm sure of is that counting the number of pastoral calls,
 number of meetings held, number of prayers said etc. is not the target.
 This at best measuring the efficiency of the pastor.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 And that's not what we are after - we are after the effectiveness of the
 system. The goal, the purpose of the pastor being in the church. Or
 having a church in the first place.
 
-</div>
 
 #### What is the goal in this case?
 
-<div>
+
 
 I'm no pastor. And I don't for a second think that I know more about
 their very special job than they do. I simply cannot answer this
 question adequately.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 But this is a nice way to reason about this question that I've used for
 myself, when I was asked the same kind of question about the role of an
 agile coach:
 
-</div>
 
 > If we didn't have a pastor here - how would you notice the difference?
 
@@ -290,4 +275,3 @@ improve for real? To improve the effectiveness rather than to improve
 efficiency? Are you willing to not only run fast - but to run towards
 the goal?
 
-</div>

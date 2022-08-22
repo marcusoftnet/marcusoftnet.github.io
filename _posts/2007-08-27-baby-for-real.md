@@ -19,7 +19,7 @@ id="BLOGGER_PHOTO_ID_5103252396858516674"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RtJlBEnppMI/AAAAAAAAAMs/zlyHZueXsIs/s1600-h/bebis2.JPG)
 
-<div>
+
 
 [<img
 src="http://1.bp.blogspot.com/_kkDJOSPNTLs/RtJk90nppLI/AAAAAAAAAMk/T7J2AUcjcYY/s400/bebis1.JPG"
@@ -27,7 +27,7 @@ id="BLOGGER_PHOTO_ID_5103252341023941810"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/RtJk90nppLI/AAAAAAAAAMk/T7J2AUcjcYY/s1600-h/bebis1.JPG)
 
-<div>
+
 
 As I've [hinted in earlier
 post](http://marcushammarberg.blogspot.com/2007/08/home-again.html) we
@@ -37,7 +37,6 @@ Up to now a lot of things has been questions and guessing about how
 many, kind and most important health. But on Friday we went to an
 ultra-sonic scan and got to know a lot:
 
-</div>
 
 -   There is one - there are a lot of twins in the family but that is up
     to another family member to handle as it seems
@@ -50,4 +49,3 @@ ultra-sonic scan and got to know a lot:
 So now we know that we can stay in our apartment for a while and that
 everything is alright so far. A great relief.
 
-</div>

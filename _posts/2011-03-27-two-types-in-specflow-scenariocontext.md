@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/03/two-types-in-specflow-scenari
 ---
 
 
-<div>
+
 
 The other day I got the opportunity to try to figure out some
 elaborative error handling with
@@ -224,4 +224,3 @@ alt="Winking smile" />.
 <a href="https://github.com/marcusoftnet/ProgressiveNetDemos/"
 target="_blank">The code is here.</a>
 
-</div>

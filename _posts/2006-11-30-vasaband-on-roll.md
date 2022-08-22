@@ -17,7 +17,7 @@ src="http://photos1.blogger.com/x/blogger2/4958/4459/320/921092/julkonsert%2006.
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/x/blogger2/4958/4459/1600/118140/julkonsert%2006.jpg)
 
-<div>
+
 
 My band, the Vasa band of the Salvation Army, is really taking off right
 now.
@@ -42,12 +42,10 @@ like to look into the future) i predict that the spring will be great.
 I just love to play in the band! It's so fun and we have a great time -
 thank you guys!
 
-</div>
 
 
-<div>
+
 
 If you are in the Stockholm, you're more than welcome to our Christmas
 concert, 6 dec, 1900.
 
-</div>

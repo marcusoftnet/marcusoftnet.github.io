@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-split
 ---
 
 
-<div>
+
 
 I have a new coaching assignment at
 <a href="http://www.tradera.com/" target="_blank">Tradera</a> which is
@@ -83,7 +83,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-zoGsR5Z8uz8/UP553fs4fVI/AAAAAAAABaE/1v0f9oOQ8lQ/s200/IMG_2848.jpg"
 data-border="0" width="150" height="200" /></a>
 
-</div>
 
 The second day each team put up a booth for their team. Here the could
 again present themselves in a way that would attract people to their
@@ -105,7 +104,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-D43ZGtiqsNk/UP553Q_m9RI/AAAAAAAABaA/WzaDu4nWQ7Q/s200/IMG_2847.jpg"
 data-border="0" width="150" height="200" /></a>
 
-</div>
 
 The result was aggregated and the day after we moved into place in our
 new teams. Note that some teams didn't start their work right away in
@@ -141,4 +139,3 @@ what they like rather than being assigned a team.
 I'm very happy and grateful to be at Tradera that dare to try new stuff.
 We great people comes great stuff.
 
-</div>

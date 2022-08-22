@@ -107,9 +107,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   13:      | John       | Galt      | j@g.com |
 ```
 
-</div>
 
-</div>
 
 SpecFlow.Assist.Dynamic will convert the “First name” header into
 “FirstName” as you <a
@@ -157,9 +155,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    8: }
 ```
 
-</div>
 
-</div>
 
 In the Given step I’m using the step argument transformations that comes
 with SpecFlow.Assist.Dynamic and get a <span
@@ -196,9 +192,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    5: }
 ```
 
-</div>
 
-</div>
 
 Bom! Table loaded – one line.
 In the When-step I have faked up a controller. Here I am using
@@ -240,9 +234,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    6: }
 ```
 
-</div>
 
-</div>
 
 The actual FakeAccountController looks like this:
 <span id="lnum1"
@@ -316,9 +308,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   14: }
 ```
 
-</div>
 
-</div>
 
 Finally the Then-step compares the Table from the scenario to the
 content of the database. For now I just compare the number of rows,
@@ -369,9 +359,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    9: }
 ```
 
-</div>
 
-</div>
 
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Conclusion

@@ -19,7 +19,7 @@ id="BLOGGER_PHOTO_ID_5052056124935684066"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RhyCR1ggv-I/AAAAAAAAAIU/QOs6AEVk2HU/s1600-h/PICT1412.JPG)
 
-<div>
+
 
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/RhyCIFggv9I/AAAAAAAAAIM/w2D_q3BRzpY/s320/PICT1419.JPG"
@@ -27,9 +27,9 @@ id="BLOGGER_PHOTO_ID_5052055957431959506"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/RhyCIFggv9I/AAAAAAAAAIM/w2D_q3BRzpY/s1600-h/PICT1419.JPG)
 
-<div>
 
-<div>
+
+
 
 [](http://4.bp.blogspot.com/_kkDJOSPNTLs/RhyBFVggv6I/AAAAAAAAAH0/34TuvifTVAA/s1600-h/PICT1412.JPG)<img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/RhyBWVggv8I/AAAAAAAAAIE/CrKXdyv0-yc/s320/PICT1427.JPG"
@@ -38,12 +38,11 @@ style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
 
 
-<div>
+
 
 Here are some more pictures from the beautiful [Hypplen](http://www.hitta.se/SearchCombi.aspx?SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=hyppeln)
 (the place is nicer than it sounds, i promise).
 
-</div>
 
 
 
@@ -53,8 +52,5 @@ are all very nice, which is so good when you get away like this. It's
 all very easy-going. Even though some of them get quite nasty when it
 comes to games, especially Fia-med-knuff. :)
 
-</div>
 
-</div>
 
-</div>

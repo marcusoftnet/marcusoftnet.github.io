@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/08/codebetter-new-home-for-part-
 ---
 
 
-<div>
+
 
 I started this blog about 8 years ago. It now contains 830-ish posts
 (this 831 I think). I have also just passed 20000 tweets:
@@ -51,34 +51,30 @@ A few things that stand out for me are:
 -   Offered to blog at [CodeBetter.com](http://codebetter.com/) - next
     to some of the heroes I've been learning from
 
-<div>
+
 
 In some of the cases above I'm still convinced that they've got the
 wrong person (but I wont tell them). In all of the cases above I'm
 convinced that it has to do with my "presence" on the net. 
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 I'm very humbled from all of this and looking back I truly cannot
 comprehend how lucky I've been. 
 
-</div>
 
 ### CodeBetter
 
-<div>
+
 
 If you look carefully on the list above you see CodeBetter in the list.
 Right out of the blue I got contacted with the following question:
 
-</div>
 
-<div>
+
 
 > [@Codebetter](https://twitter.com/Codebetter)
 > [@marcusoftnet](https://twitter.com/marcusoftnet) Would you like to
@@ -86,9 +82,8 @@ Right out of the blue I got contacted with the following question:
 > — Brendan Tompkins (@btompkins) [August 1,
 > 2013](https://twitter.com/btompkins/statuses/362963570784354304)
 
-</div>
 
-<div>
+
 
 This was followed up with a <a
 href="http://codebetter.com/brendantompkins/2013/08/02/welcome-marcus-hammarberg/"
@@ -116,10 +111,8 @@ wrote for me. Stuff that I interested me. That evolved but I always
 wrote about stuff that engaged me. I think that makes for better
 writing. 
 
-</div>
 
 <div style="text-align: left;">
-</div>
 
 <div style="text-align: left;">
 
@@ -128,11 +121,9 @@ that engages you. You'll be amazed what will follow from that. Sharing
 truly is knowledge since you'll learn more as you share - ask any
 teacher.    
 
-</div>
 
-</div>
 
-<div>
+
 
 
 More advices from some very
@@ -144,9 +135,6 @@ Involved</a> production of
 <a href="http://tekpub.com/" target="_blank">TekPub</a>. Watch it - it's
 well worth the money!
 
-</div>
 
-<div>
-</div>
 
-</div>
+

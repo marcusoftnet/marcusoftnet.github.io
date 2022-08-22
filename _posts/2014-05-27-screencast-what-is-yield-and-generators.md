@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-what-is-yield-and-
 ---
 
 
-<div>
+
 
 I made another little screencast about
 <a href="http://www.koajs.com/" target="_blank">Koa Js</a>. This time I
@@ -23,7 +23,6 @@ going on.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-</div>
 
 **Y**o,
 **I**
@@ -33,4 +32,3 @@ going on.
 is my new way of explaining what happens when you say **yield** in your
 code. I hope you enjoy this.
 
-</div>

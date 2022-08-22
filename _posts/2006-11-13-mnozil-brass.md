@@ -14,13 +14,12 @@ blogger_orig_url: http://www.marcusoft.net/2006/11/mnozil-brass.html
 style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 320px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://www.mnozilbrass.at/fileadmin/site_tpl/img/band.jpg)
 
-<div>
+
 
 Just a short notice....
 
-</div>
 
-<div>
+
 
 Went to a marvelous concert last night with [Mnzoil
 Brass](http://www.mnozilbrass.at/). Great, great stuff! This is a really
@@ -32,4 +31,3 @@ it. Magic!
 
 If they are in the same part of the world as you - don't miss it!
 
-</div>

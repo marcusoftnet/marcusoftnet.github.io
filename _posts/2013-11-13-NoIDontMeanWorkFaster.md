@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html
 ---
 
 
-<div>
+
 
 Often when I try to explain Lean and Agile and there's a couple of
 things that I fail to communicate clearly. Quite shortly these things
@@ -48,7 +48,7 @@ moving faster:
 - faster feedback loops
 - etc.
 
-<div>
+
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
@@ -66,40 +66,34 @@ presentations sometimes; is this really correct? Should I come out like
 the guy talking about faster, faster, faster? Isn't this exactly what
 the Ford-dudes talked about in the early years of this century?
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 All of this is summed up with an excellent question, from my colleague
 and friend [@anderslowenborg](https://twitter.com/anderslowenborg);
 
-</div>
 
 ### Why does it have to go so fast all the time?
 
-<div>
+
 
 After really thinking long and hard about this I have come to realised
 that it really *should* flow faster, as fast as possible in fact. But
 not faster... let's come back to that last part and instead try to
 answer the question in the heading of this section.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 There's many reasons to strive to a faster flow, faster process but here
 are a few that I come back to:
 
-</div>
 
-<div>
+
 
 - with a shorter feedback loop **we will learn about our product
     faster.** This is the foundational thinking behind [continuous
@@ -129,40 +123,34 @@ are a few that I come back to:
 
 ### As fast as possible - but not faster
 
-</div>
 
-<div>
+
 
 Ok - so we want to move fast. Yes... but not too fast. One way to go
 faster is to be sloppy and skip stuff that takes time, testing for
 example. But that's not what I'm talking about.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 First - we want to keep a sustainable pace, a tempo that you can keep
 week in and week out. This is not a sprint (how's that for a bad name of
 an iteration, Scrum...) it's a marathon.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Secondly - we want to keep a tempo that doesn't hurts our quality. What
 happens when code quality goes down? It takes more time to code new
 features, because you have to work around a lot of stuff, jump through
 hoops etc.
 
-</div>
 
-<div>
+
 
 Keeping a tempo in which we take the code quality into consideration,
 keeping <a
@@ -170,13 +158,11 @@ href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/013235
 target="_blank">the code clean</a> and doing refactorings as we see
 needed, will ensure that we can keep the tempo up.
 
-</div>
 
-<div>
+
 
 Yes, it's a self-enforcing loop.
 
-</div>
 
 ### Do we have to work faster?
 
@@ -187,13 +173,11 @@ short, beat the galley drum faster. But I do mean flow the work faster
 through your process. This can be achieved in a number of things, most
 feel quite contra-effective at first.
 
-</div>
 
 <div style="text-align: left;">
 
 Here are few things that I often come back to:  
 
-</div>
 -   Do **fewer things at the same time**, a.k.a. Limit Work in Process.
     By doing less things at the same time you make sure that each item
     is flowing faster through your process. [Books has been written
@@ -217,7 +201,7 @@ Here are few things that I often come back to:  
 
 ### Conclusion
 
-<div>
+
 
 No, I don't mean you should move faster or increase your tempo. But I do
 mean that you should strive to let your work flow faster through your
@@ -225,6 +209,4 @@ process. And faster still. Through this you will learn a lot about your
 work and get small pieces completed to your customer, where they can get
 value from it.
 
-</div>
 
-</div>

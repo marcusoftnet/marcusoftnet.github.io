@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-t
 ---
 
 
-<div>
+
 
 Yesterday I had the good fortune to have a chat with
 <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a>
@@ -63,7 +63,6 @@ wants a problem solved. All the things we are doing to solve the problem
 for the customer is just "best so far" and we should change it as soon
 as we are creative enough to look outside our current understanding.
 
-</div>
 
 <div style="text-align: left;">
 
@@ -73,7 +72,6 @@ question introduced to new concepts. I'm a programmer so this list is a
 bit skewed, but this is my exact words or thoughts when I heard about
 some concepts that I now have come to appreciate:
 
-</div>
 
 - WHAT?! Two people at one keyboard. That's just stupid! (Pair
     programming)
@@ -307,4 +305,3 @@ Thanks a lot for the inspiration Woody - looking forward to the next
 time.
 DS
 
-</div>

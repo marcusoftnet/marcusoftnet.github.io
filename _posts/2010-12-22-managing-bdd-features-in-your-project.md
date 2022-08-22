@@ -131,7 +131,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/_TI0jeIedRFk/TRH_cbh-9NI/AAAAAAAAAqw/3SjZhSN62Do/s320/specws.jpg"
 data-border="0" width="320" height="156" /></a>
 
-</div>
 (Short side note – I actually was on to that track in an
 <a href="http://www.marcusoft.net/2010/08/story-on.html"
 target="_blank">earlier post</a> also, which I hope lessen the stupidity

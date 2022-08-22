@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/WhenIGotGenerators.html
 ---
 
 
-<div>
+
 
 It was quite sometime since I wrote a blog post with an error message in
 the title. However I have now got this error so many times, and keep
@@ -23,7 +23,7 @@ happens.
 Here's an example on how to make this error occur, from the co-monk
 library <a href="https://github.com/visionmedia/co-monk/pull/4"
 target="_blank">README (not anymore maybe</a>):
-<div>
+
 
 Running that code (either with "<span
 style="font-family: Courier New, Courier, monospace;">node --harmony
@@ -108,9 +108,8 @@ style="font-family: inherit;">ine 20.
 
 ### Summary and hat tipping
 
-</div>
 
-<div>
+
 
 I would not have grasped this
 <a href="http://zef.me/6096/callback-free-harmonious-node-js"
@@ -121,18 +120,15 @@ he write that article but he also helped me when I
 target="_blank">reached out to him on Twitter</a>. Thank you mr Zef, my
 hat is tipped towards you. Loudly (?)
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 Summing up the problem would be something like this:
 
-</div>
 
-<div>
+
 
 - The "<span
     style="font-family: Courier New, Courier, monospace;">Unexpected
@@ -156,14 +152,11 @@ Summing up the problem would be something like this:
     style="font-family: Courier New, Courier, monospace;">co(function
     *(){// code})();"
 
-<div>
+
 
 I can now find eternal peace. I will probably never be able to explain
 this again, but then I can come back to this post and "the time I
 understood generators".
 
-</div>
 
-</div>
 
-</div>

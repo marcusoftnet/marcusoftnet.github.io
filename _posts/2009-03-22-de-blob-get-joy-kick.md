@@ -22,7 +22,6 @@ Here is a short clip that introduce the game and the plot:
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:7a1ebb15-5ee1-41c9-bf0b-b272fd00f8a1"
 class="wlWriterEditableSmartContent"
 style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">
-</div>
 
 I’m sorry to say that it will ruin my <a
 href="http://www.marcusoft.net/search/label/Sprint%20Planner%20Helper"

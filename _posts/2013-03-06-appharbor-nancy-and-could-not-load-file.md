@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not
 ---
 
 
-<div>
+
 
 I've built a small application. Just something I threw together with a
 friend during a hack-session at the client. (It's a [dot
@@ -44,7 +44,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s320/Screen+Shot+2013-03-06+at+09.28.37+.png"
 data-border="0" width="320" height="118" /></a>
 
-</div>
 
 That failed with the following error:
 
@@ -81,4 +80,3 @@ That made my application compile and being deployed. Where back on the
 That problem cost us a lot of trial and error... and frustration. But
 now you don't have to experience the same thing.
 
-</div>

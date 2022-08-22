@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html
 ---
 
 
-<div>
+
 
 I'm writing down some of the things I've picked up when I started to
 learn
@@ -71,7 +71,7 @@ ways:
 - that site defaults to server-side generation, when I want to serve a
     static JavaScript client
 
-<div>
+
 
 Nowadays I tend to default to a simple backend API (see, I din't even
 write REST API just to avoid religious battles. Smooth operator :)),
@@ -79,20 +79,17 @@ that just serve JSON and then a Javascript client that calls into that
 API, using <a href="http://angularjs.org/" target="_blank">AngularJS</a>
 for example.
 
-</div>
 
-<div>
+
 
 I don't need Jade, Sessions and folders for controllers etc. My whole
 API will be 1-5 files depending on how modular I'm feeling. I might need
 a public folder but that's easy enough to fix.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 So my suggestion is that you ditch the
 <a href="http://expressjs.com/guide.html#executable"
@@ -104,12 +101,10 @@ well it resembles
 <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a> too, but
 Nancy is cooler.
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 In fact, on their <a href="http://expressjs.com/guide.html#executable"
 target="_blank">guide-page</a>,
@@ -122,11 +117,10 @@ fit-in-a-tweet-web application:
 This little application just responds with "Hello World" when you access
 it on [http://localhost:3000](http://localhost:3000/)
 
-</div>
 
 ### Understanding Express
 
-<div>
+
 
 The API for Express is very easy and in fact there just a couple of
 basic things that you need to know in order to start coding up an API.
@@ -140,9 +134,8 @@ documentation</a>, it's great. And the
 <a href="http://expressjs.com/guide.html" target="_blank">starting
 guide</a> is also nice.
 
-</div>
 
-<div>
+
 
 First and formost you should create an Express application. This is
 super simple since that's what the <span
@@ -156,12 +149,10 @@ manner. They take an URL path and a callback function.
 You can understand it as: "when somebody *Posts* to '/orders/', execute
 this function that I'm writing here".
 
-</div>
 
-<div>
-</div>
 
-<div>
+
+
 
 As I said the path parameter can contain parameters that we easily get
 hold of via the <span
@@ -177,7 +168,6 @@ style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.
 target="_blank">bodyParser()</a> (see below). Which gives us this
 easy way to access the body data
 
-</div>
 
 To this you can post a HTTP form like this (using the awesome
 <a href="http://www.getpostman.com/" target="_blank">Postman extension
@@ -192,9 +182,8 @@ src="http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s
 data-border="0" width="640" height="328" /></a>
 
 </div>
-</div>
 
-<div>
+
 
 Sometimes, or rather after awhile, writing the functions inline gets a
 bit messy. You can then write the handling code in a separate module and
@@ -212,9 +201,8 @@ a nod to a way we created frameworks in the 90-ies. Everything that we
 really didn't know what to name was "handler". It should maybe have been
 "controller" in this case...
 
-</div>
 
-<div>
+
 
 You return data via the response-object that is passed to the callback
 function for your route, often called <span
@@ -222,18 +210,16 @@ style="font-family: Courier New, Courier, monospace;">res but you
 can of course name it what ever you want. The simplest is just to do
 send as we seen a lot of examples of already.
 
-</div>
 
-<div>
+
 
 When you send JSON back there's a special method for that. The
 content-type will automatically be set to "application/json" for you
 when using this method as a nice little service to you.
 
-</div>
 ### Middleware
 
-<div>
+
 
 At the heart of Express is the Connect middleware. For the most part you
 don't need to care about Connect since it's nicely exposed as a couple
@@ -255,7 +241,6 @@ target="_blank">basicAuth()</a>- sets up basic authentication for
 your site. As always, basic is sending the username and password in
 clear text, so beware.
 
-</div>
 #### directory and static
 
 <span
@@ -266,10 +251,9 @@ style="font-family: Courier New, Courier, monospace;">static() it
 can help you to serve up static files; like your client side JavaScript
 application for example
 
-</div>
 #### app.param() - an example of middleware, that is really powerful
 
-<div>
+
 
 The one middleware that impressed me the most, so far, is <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#app.param"
@@ -292,6 +276,4 @@ Yeah, as you can see express is not that hard and that the same time
 powerful. Just like we like it. I think you get the know the framework
 much better without the generators. Go old school and type it yourself!
 
-</div>
 
-</div>

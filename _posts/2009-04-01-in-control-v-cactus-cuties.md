@@ -20,7 +20,6 @@ They are just spot on in their parts – and the balance is just amazing.
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d18717d6-aebb-405b-9857-a1655387e51d"
 class="wlWriterEditableSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-</div>
 
 I don’t care that is sugar-sweet and patriotic, music-making like this
 always makes me happy.

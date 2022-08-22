@@ -17,22 +17,22 @@ src="http://photos1.blogger.com/blogger2/4958/4459/200/project%202.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%202.0.jpg)
 
-<div>
+
 
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/200/project%201.jpg"
 style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.0.jpg)
 
-<div>
+
 
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%202.jpg)
 
-<div>
+
 
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.jpg)
 
-<div>
+
 
 This might be an obvious thing for some but i have missed its full
 potential for a while. And thank You Stefan for pointing it out to me.
@@ -68,10 +68,6 @@ A final note - if a folder is added within a project the folder name
 will be a part of the namespace of the items in the folder. This can of
 course also be handy - but the difference needs to be understood.
 
-</div>
 
-</div>
 
-</div>
 
-</div>

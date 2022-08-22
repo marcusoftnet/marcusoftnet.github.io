@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-and
 ---
 
 
-<div>
+
 
 I've just published my <a
 href="http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html"
@@ -37,4 +37,3 @@ Thank you for reading my blog. Even though I started to write it for
 myself - comments and reactions is  what kept me going on for 6 years! I
 cannot promise 6 more but right now I'm on a roll. 
 
-</div>
