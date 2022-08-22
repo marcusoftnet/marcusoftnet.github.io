@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/odpnet-arraybindsize-and-size
 ---
 
 
-
 I have <a
 href="http://www.marcusoft.net/2008/09/how-to-pass-and-receive-associative.html"
 target="_blank">written</a> about this before but I'll make a short

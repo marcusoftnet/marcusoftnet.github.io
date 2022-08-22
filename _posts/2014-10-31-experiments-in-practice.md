@@ -1,23 +1,22 @@
 ---
 layout: post
-title: It''s just an experiment - experiments in
-practice '
-date: 2014-10-31T09:10:00.001+01:00
+title: Its just an experiment - experiments in practice
+date: 2014-10-31T08:10:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools  - Lean
-  - ife of a consultant
-
+  - Tools
+  - Lean
+  - Life of a consultant
   - Kanban
-
-  - Agile- Salvation Army
-modified_time: 2014-11-02T01:58:53.276+01:00
+  - Agile
+  - Salvation Army
+modified_time: 2014-11-02T00:58:53.276Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2929863065570671239
 blogger_orig_url: http://www.marcusoft.net/2014/10/experiments-in-practice.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 At my current client we're starting to work with improvements, as
 <a href="http://www.marcusoft.net/2014/10/improvmentlane.html"

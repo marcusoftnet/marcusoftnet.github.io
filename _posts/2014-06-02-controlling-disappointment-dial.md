@@ -16,8 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/controlling-disappointment-di
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Walking my oldest son, Albert, to and from school is one of the
 highlights of the days here in Indonesia. At least when he’s in a good

@@ -15,8 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/01/on-lead-time-important-projec
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <div class="separator" style="clear: both; text-align: center;">
 

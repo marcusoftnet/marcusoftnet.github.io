@@ -13,8 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/uncertainty-living-on-other-s
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm a big proponent of trying to live with and take embrace of
 uncertainty when you can. I've been saying "It's just how things are -

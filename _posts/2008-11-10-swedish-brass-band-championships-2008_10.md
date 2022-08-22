@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/swedish-brass-band-championsh
 ---
 
 
-
 The Swedish brass band movement has a new champion... The king is dead -
 long live the king!
 

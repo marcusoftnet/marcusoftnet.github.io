@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Let me tell you a story: when I was in university I took an "advanced"
 object oriented programming course. This was my first exposure to the

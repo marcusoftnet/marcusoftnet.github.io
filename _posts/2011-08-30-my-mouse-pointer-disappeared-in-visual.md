@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/08/my-mouse-pointer-disappeared-
 ---
 
 
-
 I have started to use dark theme for Visual Studio. You know about the
 site where you can get great themes, right? <http://studiostyl.es/>. I’m
 using the [Son of

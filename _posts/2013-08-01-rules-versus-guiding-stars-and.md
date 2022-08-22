@@ -1,18 +1,17 @@
 ---
 layout: post
-title: Rules versus guiding stars ... and a lot about
-soccer
-date: 2013-08-01T15:20:00.002+02:00
+title: Rules versus guiding stars ... and a lot about soccer
+date: 2013-08-01T13:20:00.002Z
 author: Marcus Hammarberg
 tags:
   - Agile
-modified_time: 2013-08-01T16:00:43.953+02:00
+modified_time: 2013-08-01T14:00:43.953Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7711855420494540411
 blogger_orig_url: http://www.marcusoft.net/2013/08/rules-versus-guiding-stars-and.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 In Sweden there's a radio show on each summer, everyday. It has the
 creative name
@@ -21,7 +20,6 @@ target="_blank">"Summer"</a>. It has been playing every summer since the
 50-ies and is a Swedish institution. The concept is each: invite Swedes
 that have done interesting stuff last year or so and let them talk about
 their life during 1,5 hours, mixed with music of their choice.
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -66,13 +64,13 @@ episode from a 2006 training camp:
         style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
   src="http://gfx2.aftonbladet-cdn.se/image/10639583/485/normal/b50e8a6667427/P%C3%A5+v%C3%A4g+ut"
                           data-border="0" width="200" height="150" /></a>                           |
-|                                  From http://www.aftonbladet.se                                   |
+|                                  From <http://www.aftonbladet.se>                                   |
 
 > One of the few rules that the Swedish National team have is that you
 > should be on the hotel 2300 the day before a game. A reasonable rule,
 > I think. However in 2006 three of the biggest stars of the team
 > (Zlatan Ibrahimovic, Olof Mellberg and Christian Wilhelmsson) went out
-> later than that. 
+> later than that.
 
 > A rule was broken and now the consequences had to be met. There was
 > not much to talk about really since the rule was clear: the three
@@ -86,12 +84,11 @@ still have gone out and that would have been bad, but the discussions
 that followed would have been much more easier to hold, interesting and
 most important consequences was not on the table.
 
--   "Do you think coming home 0130 the day before a game is reasonable?"
--   "Why is this bad?"
--   "What can we do differently to make sure that we understand this
+- "Do you think coming home 0130 the day before a game is reasonable?"
+- "Why is this bad?"
+- "What can we do differently to make sure that we understand this
     guiding star better?"
--   "How do you feel that you supported the team in this situation?"
-
+- "How do you feel that you supported the team in this situation?"
 
 There could still be consequences of course but that would then come out
 of a discussion with the players, maybe even as suggestions from them.
@@ -124,13 +121,13 @@ software development process?
 The first thing I came to think about is estimates and predictions and
 how we hold people accountable for these.
 
-> "Do you COMMIT to these estimates?" 
+> "Do you COMMIT to these estimates?"
 
 I've even heard about teams doing a quick estimate ("with what we know
 now and the 3 hours we put in estimating this, we think it'll take us
 3-6 months") having their estimate (3 months of course) put into the
 company wide plan and even changed on a slide that they were
-presenting! 
+presenting!
 
 </div>
 
@@ -150,7 +147,7 @@ So what if that poor team had to COMMIT to that plan? Here I use the
 word commit in the worst possible, but still most widely used, sense;
 
 > "commit to these estimate by writing your names here on the dotted
-> line." 
+> line."
 
 That kind of commit has an implied consequence connected to it. You
 could almost here the "or else" in that last sentence, right? There's
@@ -182,7 +179,7 @@ thing. And acknowledge the fact that we really don't know what is the
 best approach.
 
 Also; we know exactly how much it will cost to run this team of 4 people
-under 6 months (4 ppl * 6 months * monthly salary). Now - how do we
+under 6 months (4 ppl *6 months* monthly salary). Now - how do we
 want to spend that money? What is the best way of investing in this team
 so that we get closer to our goal?
 These are much nicer questions to ask than to have to handle the
@@ -198,7 +195,7 @@ consequences of failing our deadlines and plans.
                    style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
   src="http://images2.wikia.nocookie.net/__cb20130402044061/starwars/images/thumb/d/d6/Yoda_SWSB.png/250px-Yoda_SWSB.png"
                                       data-border="0" width="173" height="200" /></a>                                      |
-|                                         From http://starwars.wikia.com/wiki/Yoda                                         |
+|                                         From <http://starwars.wikia.com/wiki/Yoda>                                         |
 
 <div style="text-align: left;">
 
@@ -215,7 +212,7 @@ to COMMIT to the estimates ... or else!
 <div style="text-align: left;">
 
 These are rules that we impose on each other. With rules comes
-consequences. With consequences comes suffering. 
+consequences. With consequences comes suffering.
 
 </div>
 
@@ -225,10 +222,9 @@ consequences. With consequences comes suffering. 
 <div style="text-align: left;">
 
 Since we are imposing the rules we can also stop using them and start
-relying on each other and work from goals and guiding stars instead. 
+relying on each other and work from goals and guiding stars instead.
 
 </div>
-
 
 Finally; have any customer ever phoned you up and thanked you for those
 detailed plans? No, because they don't care about plans. They care about

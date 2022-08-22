@@ -1,24 +1,25 @@
 ---
 layout: post
-title: Impact Mapping - now helping Indonesian
-Hospitals
-date: 2014-02-27T08:39:00.002+01:00
+title: Impact Mapping - now helping Indonesian Hospitals
+date: 2014-02-27T07:39:00.002Z
 author: Marcus Hammarberg
 tags:
   - MobProgramming
-  - Tools  - Lean
-  - Agile - Impact
-mapping
+  - Tools
+  - Lean
+  - Agile
+  - Impact mapping
   - Salvation Army
   - Indonesia
-modified_time: 2014-06-02T10:56:52.538+02:00
-thumbnail: http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
+modified_time: 2014-06-02T08:56:52.538Z
+thumbnail: >-
+  http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310460295412389370
 blogger_orig_url: http://www.marcusoft.net/2014/02/HospitalImpactMap.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have a
 <a href="http://se.linkedin.com/in/marcushammarberg" target="_blank">new
@@ -48,6 +49,7 @@ In this post I'll describe how we used three (Root cause analysis,
 Impact mapping and Limit WIP) of the tools that I've picked up during
 the latest years to help a struggling hospital director to get a solid
 understanding and a plan for how to proceed.
+
 ### Introduction
 
 <div>
@@ -56,7 +58,7 @@ The hospital director is a very young (28?) woman doctor who was
 promoted because "we had no one else". She has no management training
 and was given a hospital that is in terrible condition, with a lack of
 motivation among the staff, and a bleak economical future to say the
-least. 
+least.
 
 </div>
 
@@ -95,7 +97,7 @@ We're not there.
 
 Yet.
 I just wanted to show how we applied the ideas with these tools in a
-very different domain from what it was first intended too. 
+very different domain from what it was first intended too.
 
 </div>
 
@@ -108,7 +110,7 @@ question to answer. There were so many problems. But then I came to
 think about
 <a href="http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000"
 target="_blank">Root Cause Analysis</a> and how that from time to time
-have led me to see how problems are related to each other. 
+have led me to see how problems are related to each other.
 
 </div>
 
@@ -134,7 +136,7 @@ look at..."
 
 As the exercise unfolded I came to realize that Root Cause Analysis not
 is a problem *solving* tool - it's a problem *understanding* tool. More
-on that soon. 
+on that soon.
 
 </div>
 
@@ -146,7 +148,7 @@ on that soon. 
 I simply took a sticky and wrote "BOR is too low" on it and stuck right
 in the middle of the board. And then we started upwards: "So what? Who
 cares if our BOR is too low?". That got them going, I tell you. Before
-long they had produced this: 
+long they had produced this:
 
 </div>
 
@@ -163,7 +165,7 @@ data-border="0" width="400" height="300" /></a>
 
 <span style="text-align: left;">I think it took about 1 hour and I did
 only help them to stay on track in their discussions, trying to remember
-to address all the branches we created. 
+to address all the branches we created.
 
 </div>
 
@@ -172,7 +174,7 @@ to address all the branches we created. 
 We took a step back and looked at the tree we created and realized that
 we now had a much better understanding on why we need to solve this
 problem. It touched on some really basic and very important issues that
-in turn was reinforcing our problem ("BOR is too low"). 
+in turn was reinforcing our problem ("BOR is too low").
 
 </div>
 
@@ -182,7 +184,7 @@ in turn was reinforcing our problem ("BOR is too low"). 
 <div>
 
 We then worked our way downward asking WHY-questions, as usual. Soon
-this picture had emerged: 
+this picture had emerged:
 
 </div>
 
@@ -195,15 +197,12 @@ style="margin-left: 1em; margin-right: 1em; text-align: center;"><img
 src="http://2.bp.blogspot.com/-eJW32S7XUfY/Uw7DT0z959I/AAAAAAAACBA/Zieyr-uwFCU/s1600/2014-02-13+10.37.17.jpg"
 data-border="0" width="320" height="240" /></a>
 
-
-
-
 I was a bit disappointed at first, since I was hoping that we would find
 a single real issue that we all came to realize: This, that's what we
 need to address.
 But we didn't. Instead it was a solid understanding of the problem
 domain, the reason for that problem to occur and the consequences of
-having the problem around. 
+having the problem around.
 
 </div>
 
@@ -214,7 +213,7 @@ having the problem around. 
 I suggested a break, but that's not how Indonesians do it. They just
 keep working. I have to try to help them with that.
 Without any further ado we headed right into the next section:
-<a href="http://impactmapping.org/" target="_blank">Impact mapping</a>. 
+<a href="http://impactmapping.org/" target="_blank">Impact mapping</a>.
 
 </div>
 
@@ -226,7 +225,7 @@ Without any further ado we headed right into the next section:
 My thinking here was that given our, now improved, understanding of the
 problem we could start to formulate a plan for how to turn it around. So
 we created a sticky called "*Increase BOR with 6 ppl / day*". I
-challenged that. 
+challenged that.
 
 </div>
 
@@ -241,7 +240,7 @@ target="_blank">F1-question</a>. One of the anecdotes from Switch came
 to mind and I suggested that we crisp up the goal a bit. So we said "*On
 May 30th, 0900, we will have increased BOR with 6 ppl / day*". They then
 change that into the real number (like 24 patients a day) which is even
-better. 
+better.
 
 </div>
 
@@ -250,17 +249,17 @@ better. 
 
 <div>
 
-With that sticky on the board I started to ask them *who *they thought
+With that sticky on the board I started to ask them *who*they thought
 could help us reach this goal. This confused them, so I took the cover
 of the Impact Mapping book as an example and talked about the racing
 team and who could help them to win the F1-cup (I'm no F1-guy, but maybe
-I should start following that...). 
+I should start following that...).
 
 </div>
 
 <div>
 
-That example resonated with them and we got to work again. 
+That example resonated with them and we got to work again.
 
 </div>
 
@@ -276,7 +275,7 @@ time, first creating breath (all the *Who's* first) and then going to
 the next level (*How*) per role. Then per *How* the *What's*. That
 requires some discipline and a facilitator might be needed to not dive
 to deep and go for the *What's* to early. This meeting was just another
-reaffirmation of the knowledge. 
+reaffirmation of the knowledge.
 
 </div>
 
@@ -318,23 +317,23 @@ data-border="0" width="150" height="200" /></a>
 Yeah, it was a bit messy. And I've had this experience quite often when
 I create maps like these. These are my general tips:
 
-
--   Get really big board
--   Remember when you start to draw that it will be big and detailed in
+- Get really big board
+- Remember when you start to draw that it will be big and detailed in
     the end
--   Move the What's to a separate paper or board when you start to talk
-    about the. 
--   When you document it. Use something simple, like a phone (these
+- Move the What's to a separate paper or board when you start to talk
+    about the.
+- When you document it. Use something simple, like a phone (these
     photos is taken with my iPhone 5) and take both overview and
-    detailed pictures. 
--   Although there's awesome tools out there (looking at you
+    detailed pictures.
+- Although there's awesome tools out there (looking at you
     <a href="http://www.mindmup.com/" target="_blank">MindMup</a>)
     there's really nothing beating standing together in front of a
     whiteboard. The tactileness and directness is something else. I, for
-    one, like it more. 
--   That said: do consider moving to a tool after the initial workshop.
+    one, like it more.
+- That said: do consider moving to a tool after the initial workshop.
     As documentation for example. Search, navigation and a lot of other
     features is very helpful to find stuff in your model.
+
 ### Limit Work In Progress
 
 </div>
@@ -344,7 +343,7 @@ I create maps like these. These are my general tips:
 And with that we headed right into selecting a couple of actions. The
 young doctor was super happy. She would try all of them (35+) and start
 them tomorrow. The Lean-guy inside me cringed. Violently. I think it
-showed. 
+showed.
 
 </div>
 
@@ -361,7 +360,7 @@ target="_blank">blogged about before</a> (and written about in
 this <a href="http://manning.com/hammarberg/KanbaninAction_CH13.pdf"
 target="_blank">free sample chapter from an excellent book</a>). I like
 this exercise since you can run it with a single person and it's very
-to-the-point and gets the message across. 
+to-the-point and gets the message across.
 
 </div>
 
@@ -375,7 +374,7 @@ a <a href="http://martinfowler.com/bliki/DotVoting.html"
 target="_blank">Dot vote</a> session to get the top 3 items to start
 investigating. We wanted "bang for the buck" - biggest impact with least
 effort. They got that too. But still, as we went around the board and
-voted they were asking me for more dots... :P 
+voted they were asking me for more dots... :P
 
 </div>
 
@@ -385,7 +384,7 @@ voted they were asking me for more dots... :P 
 <div>
 
 Here we could of course have gone much more advanced and tried numbers
-and weights, but this was good enough for now. 
+and weights, but this was good enough for now.
 
 </div>
 
@@ -395,7 +394,7 @@ and weights, but this was good enough for now. 
 
 This is as far as I know. The doctor was very happy since she now got a
 structured problem and an action plan, instead of an unstructured
-problem and a lot of small activities. That felt really good. 
+problem and a lot of small activities. That felt really good.
 
 </div>
 
@@ -409,7 +408,7 @@ maybe not the "get me a list of things to do" or "show me the root cause
 so that I can fix it", but rather to give a complete picture and
 overview. In a visual and direct manner. It problem and strategy
 understanding that is the key point, I think. From that it's much
-simpler to create a plan. 
+simpler to create a plan.
 
 </div>
 
@@ -420,7 +419,7 @@ simpler to create a plan. 
 
 The tools I've picked up under many years in the IT sector worked just
 fine here. Perfect in matter of fact. Maybe our problems isn't that
-special after all. 
+special after all.
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Team Yayasan week 5: Redoing Todo'
-date: 2014-04-02T10:46:00.003+02:00
+title: Team Yayasan week 5 Redoing Todo
+date: 2014-04-02T08:46:00.003Z
 author: Marcus Hammarberg
 tags:
   - Team Yayasan
@@ -9,15 +9,15 @@ tags:
   - Kanban
   - Agile
   - Salvation Army
-modified_time: 2014-04-03T02:42:33.128+02:00
-thumbnail: http://3.bp.blogspot.com/-dEEnoC3BID0/UzvIZq2RxHI/AAAAAAAACKM/jjzx2WLSfUw/s72-c/2014-04-02+08.31.29.jpg
+modified_time: 2014-04-03T00:42:33.128Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-dEEnoC3BID0/UzvIZq2RxHI/AAAAAAAACKM/jjzx2WLSfUw/s72-c/2014-04-02+08.31.29.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6826546676553991315
 blogger_orig_url: http://www.marcusoft.net/2014/04/team-yayasan-week-5-redoing-todo.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 This week started a bit late due to a public holiday, the Hindu new
 years celebrations, (the joys of working in a country that respect 4

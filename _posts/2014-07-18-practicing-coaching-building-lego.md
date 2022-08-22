@@ -15,8 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 |       <a href="http://ecx.images-amazon.com/images/I/91Pv76bx9FL._SL1500_.jpg"

@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/together-in-transformation-ag
 ---
 
 
-
 Today I did a presentation for the Salvation Army at a Hearing day that
 our Territoral Commander, Victor Poke has assembled. I was a bit
 confused at first but then I felt quite at easy with the whole thing

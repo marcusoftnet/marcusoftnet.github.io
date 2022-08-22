@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Team Yayasan week 2: Transparency, culture and lower WIP'
-date: 2014-03-08T14:10:00.001+01:00
+title: Team Yayasan week 2 - Transparency, culture and lower WIP
+date: 2014-03-08T13:10:00.001Z
 author: Marcus Hammarberg
 tags:
   - Team Yayasan
@@ -9,15 +9,15 @@ tags:
   - Kanban
   - Salvation Army
   - Indonesia
-modified_time: 2014-03-17T02:37:31.547+01:00
-thumbnail: http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
+modified_time: 2014-03-17T01:37:31.547Z
+thumbnail: >-
+  http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6567161020781209891
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 This week was really, really interesting. The things that happened on
 the board and within the team was good but what happened with our

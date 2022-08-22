@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/wcf-self-hosting-and-configur
 ---
 
 
-
 One of the really cool features of WCF is the possibility to be able to
 change binding in the config... Of course the transport need to be
 supported by the host. For example you can't use TCP/IP transport in a

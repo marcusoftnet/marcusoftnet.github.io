@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2007/09/unable-to-emit-assembly-refer
 ---
 
 
-
 <div align="left">
 
 Hmmm - another "Why does VB.NET hides so many useful things from me?"

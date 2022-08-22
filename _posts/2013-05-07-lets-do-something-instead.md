@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/lets-do-something-instead.htm
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm surrounded by brilliant minds at work. Both at my company
 ([Aptitud](http://www.aptitud.se/)), at my clients and in my community.

@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-fast-route-between-idea
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 A couple of days ago I had a great experience in why a modular framework
 is a great thing, that I wanted to share in this blog post. You will

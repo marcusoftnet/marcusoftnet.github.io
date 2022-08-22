@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-quick-refe
 ---
 
 
-
 Picked
 <a href="http://vs2010quickref.codeplex.com/" target="_blank">this</a>
 up from a tweet by

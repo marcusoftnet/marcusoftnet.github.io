@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-i
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Have you noticed that people and organisations that are great have a lot
 of luck? And the opposite is also true: a poorly managed companies are

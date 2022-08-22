@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/06/windows-azure.html
 ---
 
 
-
 I don't know that much about
 <a href="http://www.microsoft.com/azure/" target="_blank">Azure</a>...
 yet. But I am quite sure that is will be more and more important in the

@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-
 ---
 
 
-
 Last week I attended the premier agile conference in Sweden,
 <a href="http://agilasverige.se/" target="_blank">Agila Sverige</a>. In
 one of the <a href="http://en.wikipedia.org/wiki/Open-space_technology"

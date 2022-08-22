@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-t
 ---
 
 
-
 I’ve been playing around a bit with
 <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> and
 StructureMap (an IOC container). It all looks very nice and works

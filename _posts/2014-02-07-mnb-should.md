@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Marcus Node Bits: Should is a nice way to do
-asserts'
-date: 2014-02-07T08:00:00.000+01:00
+title: Marcus Node Bits - Should is a nice way to do asserts
+date: 2014-02-07T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming - Javascript - BDD
+  - MobProgramming
+  - Javascript
+  - BDD
   - Tools
   - TDD
-modified_time: 2014-06-02T10:56:52.516+02:00
-thumbnail: http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s72-c/Screen+Shot+2014-02-01+at+20.05.01+.png
+modified_time: 2014-06-02T08:56:52.516Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s72-c/Screen+Shot+2014-02-01+at+20.05.01+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5065072872368802136
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-should.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm writing down some of the things I've picked up when I started to
 learn about <a href="http://nodejs.org/" target="_blank">Node</a>,
@@ -23,27 +25,27 @@ learn about <a href="http://nodejs.org/" target="_blank">Node</a>,
 <a href="http://www.mongodb.org/" target="_blank">Mongo</a>. Here are
 all the post in the series:
 
--   <a href="http://www.marcusoft.net/2014/02/mnb-terminal.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-terminal.html"
     target="_blank">Doing stuff in the terminal is not scary at all</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
     target="_blank">npm is not only for getting packages</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
     target="_blank">Package.json is a mighty tool</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-git.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-git.html"
     target="_blank">Git is not that hard, but I need to refresh my
     knowledge</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-callbacks.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-callbacks.html"
     target="_blank">Callback function is cool stuff, and I even know how to
     write them</a>
--   <span
+- <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
     target="_blank">mocha is cool both as framework and test runner</a>
--   Should is a nice way to do asserts - this post 
--   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
+- Should is a nice way to do asserts - this post
+- <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
     target="_blank">monk is an easy way to access mongo</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-express.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-express.html"
     target="_blank">Express is best without generators</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-supertest.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-supertest.html"
     target="_blank">supertest is a nice way to test an api</a>
 
 This post is about an assertion framework that I've come to love;
@@ -74,10 +76,10 @@ It’s easily installed with
 <a href="https://npmjs.org/" target="_blank">npm</a>, of course
 
 > <span style="font-family: Courier New, Courier, monospace;">npm
-> install should<span style="font-family: inherit;"> 
+> install should<span style="font-family: inherit;">
 
 <span style="font-family: inherit;">and you're ready to use the should
-assertions in your test code. Oh well you need to: 
+assertions in your test code. Oh well you need to:
 
 > <span style="font-family: Courier New, Courier, monospace;">var should
 > = require("should");
@@ -97,18 +99,18 @@ The full list of the assertions that is supported can be
 target="_blank">found here</a> but here’s the ones that *I’ve* (you
 might like others...) come to use a lot:
 
--   <span
+- <span
     style="font-family: Courier New, Courier, monospace;">x.should.equal(y)
-    - hey, I don't need to explain them. How is that for a great
+  - hey, I don't need to explain them. How is that for a great
     demonstration of the use of readable syntax...
--   <span
+- <span
     style="font-family: Courier New, Courier, monospace;">x.should.be.true
--   <span
+- <span
     style="font-family: Courier New, Courier, monospace;">x.should.be.false
--   <span
+- <span
     style="font-family: Courier New, Courier, monospace;">x.should.startWith("a
     string")
--   <span
+- <span
     style="font-family: Courier New, Courier, monospace;">not -
     just negates the assertions. <span
     style="font-family: Courier New, Courier, monospace;">x.should.not.be.equal(y)
@@ -119,16 +121,16 @@ style="font-family: Courier New, Courier, monospace;">.an, .of, .a,
 .and, .be, .have, .with, .is, .which) of those conjunctions that
 you could add for readability. Like this <span
 style="font-family: inherit;">example:<span
-style="font-family: Courier New, Courier, monospace;"> 
+style="font-family: Courier New, Courier, monospace;">
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">user.should.be.an.instanceOf(Object).and.have.property('name',
-> 'tj'); 
+> 'tj');
 
 <span style="font-family: inherit;">I have only used<span
 style="font-family: Courier New, Courier, monospace;"> not<span
 style="font-family: inherit;"> so far, but I could see that some of the
-others might be useful. 
+others might be useful.
 
 ### ~~The trip ups~~The things I often forget
 

@@ -1,18 +1,15 @@
 ---
 layout: post
-title: Top 5 Agile change tips \#3 - Let them change
-how they work'
-date: 2012-10-10T09:00:00.000+02:00
+title: Top 5 Agile change tips 3 - Let them change how they work
+date: 2012-10-10T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-10-10T09:00:02.243+02:00
+modified_time: 2012-10-10T07:00:02.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3292166009938146484
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop53.html
 ---
-
 
 
 This is the third post on my top 5 ways of making sure that your agile
@@ -20,16 +17,15 @@ change initiative succeeds.
 
 This is the list - in order of importance:
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a>
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a> (this post)
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
-    target="_blank">Support the initiative</a> 
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+    target="_blank">Support the initiative</a>
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
 ### \#3 Let them change how they work
@@ -40,7 +36,7 @@ You need to open up and let go off the wheel. An agile transformation
 is, if anything, a culture shift. Towards autonomy and from top level
 steering. This should go into the agile transformation too. In effect
 this mean, in the words of all agile coaches, to **take it to the
-team**. 
+team**.
 
 </div>
 
@@ -52,7 +48,7 @@ team**. 
 The guys that are going to live in this environment - they are the ones
 best equipped to know what to do about it. Hey - they are there right
 now. They probably even knows what doesn't work too. Trust them -
-support them. But do not tell them a better way. 
+support them. But do not tell them a better way.
 
 </div>
 
@@ -62,11 +58,11 @@ support them. But do not tell them a better way. 
 <div>
 
 This goes even when they ask for it, I would say. I have been asked to
-give teams tools so many times. 
+give teams tools so many times.
 
 </div>
 
-> Just tell us what to do 
+> Just tell us what to do
 
 > How do people normally go about this?
 
@@ -119,21 +115,18 @@ much. As long as we're improving.
 This was the third post of my top 5 list to succeed with agile
 transformation projects:
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a>
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a> (this post)
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
-    target="_blank">Support the initiative</a> 
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+    target="_blank">Support the initiative</a>
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
 </div>
 
 <div>
 </div>
-
-

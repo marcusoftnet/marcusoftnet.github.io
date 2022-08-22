@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/urnnhibernate-mapping-22-has-
 ---
 
 
-
 OK – this was almost driving me crazy.
 
 For demonstration purposes I had used the

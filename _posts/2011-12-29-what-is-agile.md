@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/12/what-is-agile.html
 ---
 
 
-
 About a year ago I got asked by my project manager to “just give a quick
 intro and overview; What is agile? 20 minutes or so…” That didn’t feel
 to bad – but when I got home and started to prepare it struck me; it’s

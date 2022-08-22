@@ -1,20 +1,19 @@
 ---
 layout: post
-title: For the Indonesian War Cry: On Motivation'
-date: 2014-03-18T08:18:00.002+01:00
+title: For the Indonesian War Cry - On Motivation
+date: 2014-03-18T07:18:00.002Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
   - Indonesia
-modified_time: 2014-03-18T08:18:10.051+01:00
+modified_time: 2014-03-18T07:18:10.051Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4311236184618518878
 blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 DISCLAIMER for frequent readers of this blog:
 I now work for
@@ -41,7 +40,6 @@ END DISCLAIMER
 Here is the first of two short articles that I've written for the
 Indonesian War Cry. I hope you like it.
 
-
 I was asked to write something about motivation. This puzzled me a bit,
 since I don't always feel that I'm motivated or motivated others. So I
 asked: "Why me?". "They tell me you are very motivated" was the
@@ -57,10 +55,8 @@ work in an effective manner.
 Back to motivation. What is motivation really? If we check a
 encyclopedia it says something along the lines of:
 
-
--   to give (someone) a reason for doing something
--   to be a reason for (something)
-
+- to give (someone) a reason for doing something
+- to be a reason for (something)
 
 So to be motivated is to have a reason for doing something. The keyword
 that comes back again and again in those phrases is "reason". The basic
@@ -100,7 +96,7 @@ all christian churches. But the Salvation Army starts in another end;
 seeing the physical needs of our fellow man to. Never is this summed up
 better in the slogan that Indonesia has adopted:
 
-> Heart to God - hand to man. 
+> Heart to God - hand to man.
 
 That's our reason for me being here. Helping others around me and doing
 so with my heart close to God and his will, in the spirit of Jesus
@@ -154,6 +150,6 @@ for him.
 
 I have to come back to how I try to be the best Marcus I can be in
 another column. It's not really what you think. My goal is to do more by
-doing less. 
+doing less.
 
 </div>

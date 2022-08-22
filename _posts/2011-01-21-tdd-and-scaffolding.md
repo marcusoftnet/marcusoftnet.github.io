@@ -1,13 +1,13 @@
 ---
 layout: post
 title: TDD and Scaffolding
-date: 2011-01-21T15:04:00.001+01:00
+date: 2011-01-21T14:04:00.001Z
 author: Marcus Hammarberg
 tags:
-  - .NET -
-ASP.NET MVC
+  - .NET
+  - ASP.NET MVC
   - TDD
-modified_time: 2011-01-21T15:04:00.334+01:00
+modified_time: 2011-01-21T14:04:00.334Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5436875631721491002
 blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html
 ---
@@ -39,6 +39,7 @@ href="http://www.google.se/search?sourceid=chrome&amp;ie=UTF-8&amp;q=tdd+scaffol
 target="_blank">I couldn’t find to much about it</a> I though I jot down
 some thoughts on the subject. I think that it’s something that will be
 used more and more in the Microsoft sphere.
+
 ### Definition
 
 On <a href="http://en.wikipedia.org/wiki/Scaffolding"
@@ -127,16 +128,16 @@ it’s still code. Not compiled assemblies that I include. I am
 And herein lies the problem (for me at least); the code is a bit tricky
 to classify and handle.
 
--   If it is my code I sure want a way to test it. Especially if I am
+- If it is my code I sure want a way to test it. Especially if I am
     going to do changes in it later on. Otherwise the Red light will not
     shine when I mess the code up later.
     Actually I would like to have the test code scaffolded in the same
     way as the production code – “tests to get me going”.
--   If it’s not my code I don’t want to see it. I don’t care how
+- If it’s not my code I don’t want to see it. I don’t care how
     <a href="http://code.google.com/p/elmah/" target="_blank">ELMAH</a>,
     <a href="http://unity.codeplex.com/" target="_blank">Unity</a> or
     <a href="http://www.nhforge.org" target="_blank">NHibernate</a> are
-    constructed internally. Or at least I don’t want to. 
+    constructed internally. Or at least I don’t want to.
 
 I suppose that the code could be a mix of those two but in reality I
 can’t see how to draw that line. This is either is my code (in which
@@ -158,7 +159,7 @@ In my current project I’ve written a tool that generate data access code
 opted to generate tests as well. The code is also supposed to change
 over time I wanted the team to have a way to trap any errors down the
 road. Also since I wrote the template with TDD that came very cheap to
-me. 
+me.
 
 If you treat the code as theirs, as a third party tools that you happen
 to generate, I would suggest to tweak the code to reflect that. You can

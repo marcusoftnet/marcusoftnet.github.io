@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/09/working-to-cake-limit.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 When team transition from an iteration-based (i.e. Scrum) to a more
 flow-based (i.e. Kanban) approach to software development they often

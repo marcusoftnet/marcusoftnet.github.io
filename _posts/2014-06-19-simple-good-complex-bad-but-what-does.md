@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/simple-good-complex-bad-but-w
 ---
 
 
-
 I’m a programmer. But I, for some strange reason, often find myself
 doing management consulting on different levels. Since my basic
 schooling is in programming I ~~sometimes~~ often find myself using

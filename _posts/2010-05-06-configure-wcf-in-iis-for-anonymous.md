@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/05/configure-wcf-in-iis-for-anon
 ---
 
 
-
 This case may sound strange and I have seen loads of post that describes
 how to get out of this behavior. But we have a case where we want to
 allow anonymous access and the let a external component manage the

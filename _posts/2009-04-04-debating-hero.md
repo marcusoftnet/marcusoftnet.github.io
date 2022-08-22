@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/04/debating-hero.html
 ---
 
 
-
 Today I did something that I never dared before - I posted a comment on
 an article that I read in
 <a href="http://computersweden.idg.se/" target="_blank"><span

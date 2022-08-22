@@ -1,17 +1,18 @@
 ---
 layout: post
-title: System.InvalidOperationException: No automation provider available MsTest and FluentAutomation'
-date: 2012-05-28T16:08:00.001+02:00
+title: >-
+  System.InvalidOperationException No automation provider available MsTest and
+  FluentAutomation
+date: 2012-05-28T14:08:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - C#
-modified_time: 2012-05-28T16:08:22.349+02:00
+modified_time: 2012-05-28T14:08:22.349Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2846331516279827243
 blogger_orig_url: http://www.marcusoft.net/2012/05/systeminvalidoperationexception-no.html
 ---
-
 
 
 We’ve run into a little issue with

@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/kanban-example-by-henrik-knib
 ---
 
 
-
 Finally today I need to store a reference to
 <a href="http://tinyurl.com/kanbanexample" target="_blank">this
 Kanban-example</a> that

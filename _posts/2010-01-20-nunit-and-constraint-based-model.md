@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/01/nunit-and-constraint-based-mo
 ---
 
 
-
 At the
 <a href="http://blog.avegagroup.se/elevate/" target="_blank">Elevate</a>
 presentation <a

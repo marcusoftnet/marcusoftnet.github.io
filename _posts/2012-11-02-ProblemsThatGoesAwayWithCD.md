@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Code Freeze, Recompile and Code generations -
-stuff that's not that scary with CD
-date: 2012-11-02T11:37:00.000+01:00
+title: >-
+  Code Freeze, Recompile and Code generations - stuff thats not that scary with
+  CD
+date: 2012-11-02T10:37:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Agile - ContinuousDelivery
-modified_time: 2012-11-02T11:37:35.910+01:00
+  - Agile
+  - ContinuousDelivery
+modified_time: 2012-11-02T10:37:35.910Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2349708152375787890
 blogger_orig_url: http://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Sure enough... There's an abbreviation for
 <a href="http://en.wikipedia.org/wiki/Continuous_delivery"
@@ -27,6 +29,7 @@ often - like all the time. No really I mean continuous delivering.
 Yes, I know that if first feel a bit scary and unachievable  but in this
 blog post I'll try to show you a couple of things that make that strive
 worthwhile. I think
+
 ### Continuous Delivery?
 
 |                                                                                                  |
@@ -86,7 +89,7 @@ book
 <a href="http://heathbrothers.com/switch/" target="_blank">Switch: How
 to Change Things When Change Is Hard.</a> And a little bit from Lean and
 the <a href="http://www-personal.umich.edu/~mrother/Homepage.html"
-target="_blank">Toyota Kata</a>. 
+target="_blank">Toyota Kata</a>.
 
 </div>
 
@@ -101,7 +104,7 @@ production and optimising for resource allocation? Probably the fact
 that they were bombed to pieces. They didn't have any stocks, nor money
 to keep one. They could only build cars for the people that order them
 and hence needed them to flow fast from order to finished product. It
-didn't for starters but that was what they needed to do. 
+didn't for starters but that was what they needed to do.
 
 </div>
 
@@ -113,7 +116,7 @@ didn't for starters but that was what they needed to do. 
 So they flipped the way they thought about the problem: we need to be
 here \[future idealised state\]. How do we get there? Let's try some
 different experiments to see if we get closer or further away from
-that. 
+that.
 
 </div>
 
@@ -123,7 +126,7 @@ that. 
 <div style="text-align: left;">
 
 Ok - of on tangent here. But the idea to think about an ideal future and
-see how wonderful everything would be there, to then try to get there. 
+see how wonderful everything would be there, to then try to get there.
 
 </div>
 
@@ -185,7 +188,7 @@ it good and safe.
 I remember when we wrote lots of code, in strange ways, just to avoid
 recompilation.  We created strange tables (Id, Key, Value) that allowed
 us to add columns. Just to **avoid** recompiling our code. And got
-horrors to maintain. 
+horrors to maintain.
 
 </div>
 
@@ -201,7 +204,7 @@ procedures, so that we could change it without recompiling and deploy.
 
 <div>
 
-Brrr - I shiver at the thought. 
+Brrr - I shiver at the thought.
 
 </div>
 
@@ -213,7 +216,7 @@ Brrr - I shiver at the thought. 
 But, mind you well, recompilation of big system are expensive under some
 circumstances. Just getting hold of the code, doing regression tests of
 the complete system could make any release manager to start crying,
-right? 
+right?
 
 </div>
 
@@ -225,7 +228,7 @@ Imagine that a recompilation was free. And deploy is done as part of
 normal procedure at least several times a day. We take pride in being
 able to change our system often and securely. Recompilation, testing and
 deployment should just be a shrug of your shoulders, not a shiver down
-your spine. 
+your spine.
 
 </div>
 
@@ -253,7 +256,7 @@ something. And now the problem is not so big or scary anymore.
 Well that was just three short examples that popped into my head when I
 started to think about this. Please don't read this as a silver bullet
 or understand it as I'm saying that getting continuous delivery into
-place is something easy. 
+place is something easy.
 
 </div>
 

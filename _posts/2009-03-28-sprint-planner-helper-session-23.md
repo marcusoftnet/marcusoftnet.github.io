@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 This has been the longest of my sessions so far and by far. It has
 actually stretched over 4 separate “hours” and almost a week since my
 schedule has been busy with other stuff.

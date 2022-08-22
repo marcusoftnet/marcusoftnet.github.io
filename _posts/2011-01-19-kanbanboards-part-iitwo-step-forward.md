@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-
 ---
 
 
-
 ### Disclaimers and introduction
 
 I am now the

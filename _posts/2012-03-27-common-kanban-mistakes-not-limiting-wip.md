@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Common Kanban mistakes: Not limiting WIP'
-date: 2012-03-26T21:30:00.001+02:00
+title: Common Kanban mistakes  Not limiting WIP
+date: 2012-03-26T19:30:00.001Z
 author: Marcus Hammarberg
 tags:
   - Kanban
   - Agile
-modified_time: 2012-03-27T15:16:56.015+02:00
+modified_time: 2012-03-27T13:16:56.015Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-557483721164471838
 blogger_orig_url: http://www.marcusoft.net/2012/03/common-kanban-mistakes-not-limiting-wip.html
 ---
@@ -82,14 +82,14 @@ sprint.
 So we want to let the team limit the work to their capacity.
 For sheer numbers there are loads of strategies:
 
--   2 for each person so you can start with something else if you get
+- 2 for each person so you can start with something else if you get
     stuck
--   1 per person so you are forced to help each other when you get stuck
--   \# of persons divided by 2 to get a real focus on collaboration
--   Start with what you think is the bottleneck. For example just limit
+- 1 per person so you are forced to help each other when you get stuck
+- \# of persons divided by 2 to get a real focus on collaboration
+- Start with what you think is the bottleneck. For example just limit
     WIP for the 2 testers to maybe 4 items and let the rest of the team
     adjust to that limitation.
--   Any old number and  change it as needed
+- Any old number and  change it as needed
 
 In any case; **you want a low WIP limit but not 1**. If you set it to 1
 then it means that even the slightest disturbance ~~in the force~~ in
@@ -125,9 +125,9 @@ slower progress through your value stream.
 
 Kanban is really simple:
 
--   Visualize work – by the help of a board for example
--   Limit Work in process in some way
--   Help work to flow – manage the problems that occurs and make the
+- Visualize work – by the help of a board for example
+- Limit Work in process in some way
+- Help work to flow – manage the problems that occurs and make the
     items move fast through your process.
 
 That’s it! Don’t take any stuff out. Kanban is so small it cannot even

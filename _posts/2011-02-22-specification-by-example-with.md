@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Specification by example with SpecLog–some
-initial thoughts
-date: 2011-02-21T20:55:00.001+01:00
+title: Specification by example with SpecLog–some initial thoughts
+date: 2011-02-21T19:55:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
   - Agile
-modified_time: 2011-03-07T13:35:53.078+01:00
-thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TWLDTkH_uhI/AAAAAAAAA5s/4g7epwLPr5U/s72-c/%5Bspecws1%5B2%5D_thumb%5B3%5D.jpg?imgmax=800
+modified_time: 2011-03-07T12:35:53.078Z
+thumbnail: >-
+  http://lh4.ggpht.com/\_TI0jeIedRFk/TWLDTkH_uhI/AAAAAAAAA5s/4g7epwLPr5U/s72-c/%5Bspecws1%5B2%5D_thumb%5B3%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1461423135737723573
 blogger_orig_url: http://www.marcusoft.net/2011/02/specification-by-example-with.html
 ---
@@ -44,6 +44,7 @@ specification by example process – the tool is called
 <a href="http://www.techtalk.at/" target="_blank">TechTalk</a> (as
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> is). It
 looks promising – very promising indeed.
+
 ### Reflection
 
 Please allow me to elaborate on something that I have been thinking on
@@ -240,48 +241,48 @@ still early and leaves some holes that will be filled later.
 
 #### Likes
 
--   supports a variety of ways to work and doesn’t force a process on
+- supports a variety of ways to work and doesn’t force a process on
     you
--   very informative website that talks a lot about the concepts behind
+- very informative website that talks a lot about the concepts behind
     the product. Great!
--   love the concept of workspaces that you can arbitrary group your
+- love the concept of workspaces that you can arbitrary group your
     requirements on / in. You can even display the same requirement on
     several workspaces
--   Great connection possibilities between the requirements and any
+- Great connection possibilities between the requirements and any
     checked in scenarios written in Gherkin.
--   Possibility to write acceptance criteria separated from the actual
+- Possibility to write acceptance criteria separated from the actual
     Gherkin file (which you can link to). This means that, if you want
     to, you can write the acceptance criteria or scenarios and then
     formalize these as scenarios in Gherkin.
--   Every template that is used can be customized to your need (Swedish
+- Every template that is used can be customized to your need (Swedish
     for example). That’s just great – and follow the way of the Cucumber
     very well. The editor is a bit ... rough but that doesn’t matter.
 
 #### Improvements-points
 
--   I would love to be able to create refinements directly on the
+- I would love to be able to create refinements directly on the
     workspace, maybe by just dropping one on the other.
--   Better visualization of the relationships between requirement on the
+- Better visualization of the relationships between requirement on the
     workspace area...
--   For big system I suspect that the search capabilities need
+- For big system I suspect that the search capabilities need
     improvement (saw something on Lucene in later releases, that’ll fix
     that...)
--   Even if I don’t want to generate my Gherkin-content from the
+- Even if I don’t want to generate my Gherkin-content from the
     acceptance criteria (and I don’t!) – I would love to create the
     Gherkin-file and get the user story injected etc. Create my
     Gherkin-skeleton
--   Even though the website is great I miss some manual to the product
+- Even though the website is great I miss some manual to the product
     itself. The
     <a href="http://www.speclog.net/watch/" target="_blank">videos are
     great</a> but I stumble on details (see below)
--   When I try to link a file I get an error message that says something
+- When I try to link a file I get an error message that says something
     like “Linking Gherkin is only supported when your using a shared
     repository with a version control system”. Ok ... I cannot do this
     in a single file that’s alright. But when I try to hook into one it
     seems like I need to hook into a server of sorts. Could I try this
     on my own computer? What if I want to use Git (or Github)? Hmmm –
     this is a strange – I probably miss something here...
--   It
+- It
     <a href="http://www.speclog.net/buy/" target="_blank">costs money</a>...
     Well being a OSS-buff I needed to throw that in there. But I can
     understand it. For now.

@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting3.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 This is the third post in my series on Nancy.Testing. It will focus a
 lot of the Browser and the Response object. Together with the Browser

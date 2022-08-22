@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
-
 Today I focused on finally getting the controller for my Product Owner
 tested and done.
 

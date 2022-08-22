@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/how-to-press-f9-f12-in-parall
 ---
 
 
-
 OK – I am a developer. I use all these crazy keys and combination that I
 suspect no normal person would ever think about. But for us (developers)
 a combination like CTRL+R,T (run all test in Visual Studio Solution) and

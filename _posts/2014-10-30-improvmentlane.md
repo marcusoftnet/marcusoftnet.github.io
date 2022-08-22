@@ -18,8 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/improvmentlane.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 One of the best and shortest explanations to what Lean really is about,
 I've found in the

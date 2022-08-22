@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 Today I plan to finish up the last part of the prioritizing of Product
 Backlog Items (see <a
 href="http://www.marcusoft.net/2009/03/sprint-planner-helper-session-19.html"

@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/limit-wip-doesnt-mean-doing-l
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm having the opportunity to coach in an organization that isn't used
 to agile practices. This is very refreshing and they are constantly

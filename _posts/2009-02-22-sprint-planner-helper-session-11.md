@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
-
 It’s been a while since I did some code on the project. Abbe has been
 quite sickly and I have not had the time. No worries – it’s all a hobby
 ;)

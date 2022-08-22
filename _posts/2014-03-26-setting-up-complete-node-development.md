@@ -15,8 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/setting-up-complete-node-deve
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <div class="separator" style="clear: both; text-align: center;">
 

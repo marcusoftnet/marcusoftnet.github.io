@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 I am now almost ready with the first user story of my own backlog.
 
 > 1\. As user I can create a product that describes the product and the

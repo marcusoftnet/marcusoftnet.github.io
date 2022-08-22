@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/06/vacation-time-and-stress-mana
 ---
 
 
-
 Yes, I know that some people will refer to
 <a href="http://en.wikipedia.org/wiki/Seinfeld"
 target="_blank">Seinfeld</a> and the

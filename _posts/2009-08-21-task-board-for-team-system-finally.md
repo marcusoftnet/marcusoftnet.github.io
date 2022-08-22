@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/08/task-board-for-team-system-fi
 ---
 
 
-
 I have been <a
 href="http://www.marcusoft.net/2008/03/short-conchango-scrum-tfs-template.html"
 target="_blank">quite harsh</a> to the

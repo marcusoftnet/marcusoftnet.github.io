@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-completing-nerddin
 ---
 
 
-
 I am now done with the run-through the walkthrough for the
 <a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> book
 I’ve talked about <a

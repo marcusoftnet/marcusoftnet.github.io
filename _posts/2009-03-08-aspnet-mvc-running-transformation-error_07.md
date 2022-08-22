@@ -12,7 +12,6 @@ blogger_orig_url: >-
 ---
 
 
-
 The <a
 href="http://www.marcusoft.net/2009/03/aspnet-mvc-running-transformation-error.html"
 target="_blank">issue that I had</a> with creating views for nested

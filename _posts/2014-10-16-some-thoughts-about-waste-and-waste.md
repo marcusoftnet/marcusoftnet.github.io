@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/some-thoughts-about-waste-and
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Every Lean practitioner goes through a phase of "waste elimination
 frenzy". At least the ones I've met. Ah, well.... I did at least.

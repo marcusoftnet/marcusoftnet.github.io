@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/do-you-think-kanban-can-help-
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 One thing that is really interesting and very enjoyable is to have long
 time contacts over social media (in my case Twitter mostly). Many of

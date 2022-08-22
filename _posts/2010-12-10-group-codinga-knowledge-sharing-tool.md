@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/12/group-codinga-knowledge-shari
 ---
 
 
-
 I have the good fortune to from time to time give courses in
 <a href="http://en.wikipedia.org/wiki/Test-driven_development"
 target="_blank">TDD</a>. I organize these events in two parts; one

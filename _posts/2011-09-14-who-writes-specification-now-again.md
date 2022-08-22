@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/09/who-writes-specification-now-
 ---
 
 
-
 There’s been a lot of buzz around
 <a href="http://specificationbyexample.com/"
 target="_blank">Specification by example</a> lately. At least in my

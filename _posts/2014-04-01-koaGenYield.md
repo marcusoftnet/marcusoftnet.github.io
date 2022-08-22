@@ -1,19 +1,20 @@
 ---
 layout: post
-title: Marcus Node Bit: Let''s talk about yield and
-generators, shall we?'
-date: 2014-04-01T09:00:00.000+02:00
+title: Marcus Node Bits - Let us talk about yield and generators, shall we?
+date: 2014-04-01T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Node - Javascript
-  - Tools - Koa
-modified_time: 2014-04-06T14:41:45.558+02:00
+  - Node
+  - Javascript
+  - Tools
+  - Koa
+modified_time: 2014-04-06T12:41:45.558Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4757293937630995296
 blogger_orig_url: http://www.marcusoft.net/2014/04/koaGenYield.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <a href="http://www.koajs.com/" target="_blank">Koa Js</a> removes need
 for callbacks but still have uses non-blocking code. How is that
@@ -100,7 +101,6 @@ We have to create a instance of the generator function and then get the
 style="font-family: Courier New, Courier, monospace;">next().
 Like this:
 
-
 That was the quote about mean when it said: "... until you tell it to".
 The code will halt at the yield until we tell it to continue, and we
 tell it by calling <span
@@ -124,7 +124,6 @@ properties; *value* and *done* (true/false). The <span
 style="font-family: Courier New, Courier, monospace;">done
 parameter equals true when the sequence is over, as shown in this
 example:
-
 
 If you run that you will get <span
 style="font-family: Courier New, Courier, monospace;">done ===
@@ -168,7 +167,6 @@ http://localhost:3000 -v" so that you can see the headers
 returned, and there you see the X-Response-Time reported. As well at the
 console.
 
-
 Let's see if we can break it down a bit. app.use() is how Koa defines
 middleware. In this case the middleware is just two simple generator
 functions. When the request comes in the following happens:
@@ -181,7 +179,7 @@ next middleware in line
 So, we end up in the logger middleware. This generator function does the
 same thing. Get hold of "now" and yields out the next middleware
 
--   There's no more middleware defined so we are taken to the response
+- There's no more middleware defined so we are taken to the response
     (for any route in this case) that always sets the body to "Hello
     world!"
 
@@ -190,7 +188,7 @@ middleware that calculate the response time for this request and blurts
 it out on the console
 
 The x-response-time middleware does the same thing, but saves the result
-into the header of the response. 
+into the header of the response.
 
 <div>
 
@@ -198,7 +196,7 @@ If you want to you could read the middleware code like this: "Get the
 start time. Do whatever else you need to do. When that is done subtract
 the current time from the start and save the result in the header". In a
 easy to read, sequential fashion. No callbacks and long indention
-chains. 
+chains.
 
 </div>
 
@@ -210,7 +208,7 @@ chains. 
 I like that. A lot. It's simple, short and easy to read and understand.
 All the hard stuff about generators... Well we don't have to think so
 much about that. Yield means: "do everything else you need to do at this
-point". 
+point".
 
 </div>
 
@@ -226,14 +224,13 @@ with generators right now):
 
 </div>
 
-
 Again, using curl (why not?) we can now add a couple of users with the
 following commands:
 
 And then see the result with this:
 
 > <span style="font-family: Courier New, Courier, monospace;">curl
-> http://localhost:3000/user -v
+> <http://localhost:3000/user> -v
 
 Pretty short and sweet for adding user, if you ask me. More interesting,
 let's go through the code.
@@ -254,20 +251,20 @@ out to other things.
 
 In the create generator function (note the asterisk) we have two yields
 
--   first (line 21) we parse the body (with co-body) and if that should
+- first (line 21) we parse the body (with co-body) and if that should
     take time, for big file for example, we yield the response. Koa can
     let other execute in the meantime. Just like for a callback. But
-    without the callback. 
--   secondly, on line 27, we store the object in mongo. And better yield
-    there too since that might take time, or at least is IO. 
--   Did you see that try...catch. It's back baby! Error handling that
+    without the callback.
+- secondly, on line 27, we store the object in mongo. And better yield
+    there too since that might take time, or at least is IO.
+- Did you see that try...catch. It's back baby! Error handling that
     feels reasonable. Structured exception handling I think it's called.
     The alternative is in other words ...  :)
 
 In the list generator we just yield the result from our, very simple,
-Mongo query. See line 38. 
+Mongo query. See line 38.
 
-Line 43 fires the whole thing up. 
+Line 43 fires the whole thing up.
 
 ### Conclusion
 
@@ -278,7 +275,7 @@ what's the deal with generators, what did that really give me? Its
 actually pretty easy to forget and to me that is a good thing. Because I
 just write the code like I would "normally" without callbacks. Feels
 much more natural to me. And when I'm doing IO or Networking I remember
-to yield to let Koa do other things. 
+to yield to let Koa do other things.
 
 </div>
 
@@ -287,23 +284,23 @@ to yield to let Koa do other things. 
 
 <div>
 
-I have had GREAT use of a couple of articles to explain this to me. 
+I have had GREAT use of a couple of articles to explain this to me.
 
 </div>
 
 <div>
 
--   <a href="http://tobyho.com/2013/06/16/what-are-generators/"
+- <a href="http://tobyho.com/2013/06/16/what-are-generators/"
     target="_blank">What Is This Thing Called Generators?</a> is
     **awesome** and a must read.
--   Two articles from Mozilla on the topic was interesting; <a
+- Two articles from Mozilla on the topic was interesting; <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators"
     target="_blank">the first</a> was obsolete but had great examples.
     <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*"
     target="_blank">The second</a> is up to date but very short and ...
-    left me wanting more. 
--   <a href="http://www.koajs.com/" target="_blank">KoaJs</a> own site
+    left me wanting more.
+- <a href="http://www.koajs.com/" target="_blank">KoaJs</a> own site
     has a couple of good examples
 
 </div>
@@ -320,10 +317,10 @@ target="_blank">here in a repo</a>.
 I like Koa Js. I've written a couple of post about it. Here they will be
 when they are published:
 
--   <a href="http://www.marcusoft.net/2014/03/koaintro.html"
+- <a href="http://www.marcusoft.net/2014/03/koaintro.html"
     target="_blank">Let's talk about Koa for a while, shall we?</a>
--   Let's talk about yield and generators, shall we? (this post)
--   <a href="http://www.marcusoft.net/2014/04/koaExamples.html"
+- Let's talk about yield and generators, shall we? (this post)
+- <a href="http://www.marcusoft.net/2014/04/koaExamples.html"
     target="_blank">Marcus Node Bits: Let's flex Koa Js, shall we?</a>
 
 </div>

@@ -13,8 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-on-getting-started
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I got a <a href="http://www.marcusoft.net/2014/03/mnb-mongoosejs.html"
 target="_blank">comment from a reade</a>r. That's both encouraging and

@@ -1,23 +1,20 @@
 ---
 layout: post
-title: Applying Switch framework to: Meetings are not
-real work - part II'
-date: 2012-09-20T09:00:00.000+02:00
+title: Applying Switch framework to  Meetings are not real work - part II
+date: 2012-09-20T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2013-03-18T09:30:41.757+01:00
-thumbnail: http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s72-c/Screen+Shot+2012-09-18+at+20.15.11.png
+modified_time: 2013-03-18T08:30:41.757Z
+thumbnail: >-
+  http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s72-c/Screen+Shot+2012-09-18+at+20.15.11.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2180919324545037588
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
-
+<div>
 
 This is the second post in my series where I try to apply the Switch
 framework to the problem of people thinking that meetings aren't not
@@ -36,7 +33,6 @@ forces, it's lazy and rather just do what is fun. We need a totally
 different approach here. Keep in mind the size of the Elephant - it will
 go the other way if it wants to.
 
-
 ### Find the feeling
 
 <div>
@@ -45,7 +41,7 @@ The first thing we need to do is get the Elephant to feel for the cause.
 A <a
 href="http://www.businessinsider.com/where-is-your-sense-of-urgency-take-6-steps-to-get-your-company-moving-2010-10?op=1"
 target="_blank">sense of urgency</a> as it's often called in the
-Lean literature. 
+Lean literature.
 
 </div>
 
@@ -68,14 +64,14 @@ data-border="0" width="320" height="89" /></a>
 In the Switch book there's a wonderful story about this. A company had a
 lot of different factories. They bought a lot of different clothing and
 equipment from different vendors. This costed a lot since every factory
-bought their own stuff. No big purchase discounts could be had. 
+bought their own stuff. No big purchase discounts could be had.
 
 </div>
 
 <div>
 
 A project was created ... but no one care. Their elephants was not
-involved. 
+involved.
 
 </div>
 
@@ -122,7 +118,7 @@ So this was very clever. He did a visual representation of how much
 items there really was. Something that was really hard to grasp in
 figures. He then chocked them a bit. This created a sense of urgency.
 Note the "WE need to fix this NOW". They felt that this needed to be
-address. But they all saw it as their problem. WE - not YOU. 
+address. But they all saw it as their problem. WE - not YOU.
 
 </div>
 
@@ -136,7 +132,6 @@ lost in bad meetings. One way could be to have a
 <a href="http://www.firstbigstep.net/uploads/MeetingCalc.html"
 target="_blank">Meeting Hourly Rate Calculator</a> running in the
 background.
-
 
 </div>
 
@@ -198,7 +193,7 @@ data-border="0" width="320" height="116" /></a>
 And write all the recurring meetings your having in the first column.
 Then have everybody rate the value of the meeting on a scale from 1-5
 (for example). Then list the length of the meeting. For good measures
-you could track if people feel that the meetings are mandatory. 
+you could track if people feel that the meetings are mandatory.
 
 </div>
 
@@ -210,7 +205,7 @@ you could track if people feel that the meetings are mandatory. 
 With this data we can see which meeting that are the most valuable. And
 also which ones that take up a lot of our time. Finally - just think if
 people are attending meetings just because they think they have to, when
-they in reality don't? That would be waste indeed. 
+they in reality don't? That would be waste indeed.
 
 </div>
 
@@ -234,14 +229,14 @@ A final thing I've tried is to calculate how much time the meeting is
 taking relative the sprint, iteration or week. For example; we're doing
 a sprint planning (1 day) for an 3 week sprint. That is; we preparing
 the work for the next 3 weeks and taking 8 h / 120 h = 7% of our time
-for this. 
+for this.
 
 </div>
 
 <div>
 
 Does that feel good? How about 4 hours instead? A little lesser
-planning, but just 4 % of our allocated time. 
+planning, but just 4 % of our allocated time.
 
 </div>
 
@@ -264,11 +259,9 @@ We're starting at XX:XX and ending at YY:YY. Not a minute later.
 
 When this meeting is over I hope that we have achieved:
 
-
--   Goal 1
--   Goal 2
--   Goal 3
-
+- Goal 1
+- Goal 2
+- Goal 3
 
 I hope that you can take time out of your schedule and help us with
 this. "
@@ -321,7 +314,7 @@ lazy subconscious of the people we're trying to change. That just leaves
 the last part - shaping the path on which the Rider and the Elephant are
 walking down. That's the subject of the <a
 href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html"
-target="_blank">next post</a>. See you there. 
+target="_blank">next post</a>. See you there.
 
 </div>
 

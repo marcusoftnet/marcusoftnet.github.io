@@ -1,16 +1,15 @@
 ---
 layout: post
 title: Summer sprints - a time to learn
-date: 2012-08-15T16:43:00.000+02:00
+date: 2012-08-15T14:43:00.000Z
 author: Marcus Hammarberg
 tags:
   - Kanban
-   - Scrum
-
+  - Scrum
   - Agile
 modified_time: 2012-08-15T16:43:07.207+02:00'
-thumbnail:
-http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg
+thumbnail: >-
+  http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1869399151811674415
 blogger_orig_url: http://www.marcusoft.net/2012/08/summer-sprints-time-to-learn.html
 ---
@@ -19,7 +18,6 @@ Sweden is a great country! We even have laws that states that everybody
 has the right to five (5!) weeks vacation every year. Many people even
 have 6 or more. And most of us take at least 3-4 of them in a row during
 the summer - the best time to be in Sweden.
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -36,7 +34,7 @@ data-border="0" width="320" height="239" /></a>
 
 <div class="separator" style="clear: both; text-align: left;">
 
-That's all good but what happens at the offices do you think? 
+That's all good but what happens at the offices do you think?
 
 </div>
 
@@ -61,7 +59,7 @@ data-border="0" /></a>
 Well that's easy to figure out. There's no-one there. And since not
 everyone have vacation at the exact same time (normally) this can go on
 for about 2 months or more. This of course poses a problem for teams
-that want to work close together. 
+that want to work close together.
 
 </div>
 
@@ -110,12 +108,12 @@ possible for that workforce.
 I like this approach because of the flexibility - but it have some
 problems to it.
 
--   Who decides? The big problem with an extended period of time of
+- Who decides? The big problem with an extended period of time of
     people being away is that you don't have the "right" people to ask
     questions. If you're stuck - you are really stuck. So you need to be
     careful what to pick. Picking the wrong stories leads to a lot of
-    stories being "almost done" - an agilist worst nightmare. 
--   Sooo ... what can WE do? You may find yourself in a situation where
+    stories being "almost done" - an agilist worst nightmare.
+- Sooo ... what can WE do? You may find yourself in a situation where
     it's just 2 database guys at the office on week. And the 10 top
     priority stories has to do with front end stuff. This can either be
     solved by dodging the things you cannot do (breaking the priority
@@ -137,7 +135,7 @@ with responsibilities. First and most apparent the responsibility of
 requirements and acceptance of work items. This is commonly done by one
 person. In fact, even the agile method Scrum advocate a single Product
 Owner.
-So if she is not present ... we have a problem to solve. 
+So if she is not present ... we have a problem to solve.
 
 </div>
 
@@ -148,7 +146,7 @@ So if she is not present ... we have a problem to solve. 
 
 But there's other responsibilities as well - we still have specialists
 that cannot easily do other work. Designers, database experts or
-programmers are examples of that. 
+programmers are examples of that.
 
 </div>
 
@@ -168,7 +166,7 @@ something about it.
 So more than anything I think the focus of the summer sprints should be
 on learning. When did we run into problems? Is there areas that just one
 of us knows about? Can we share the acceptance responsibility? Can it be
-delegated? 
+delegated?
 
 </div>
 
@@ -179,7 +177,7 @@ delegated? 
 
 We're talking a lot about cross functional team that share
 responsibilities but in reality ... this have a way of beloning to
-someone. This is a great opportunity to find those out. 
+someone. This is a great opportunity to find those out.
 
 </div>
 
@@ -190,7 +188,7 @@ someone. This is a great opportunity to find those out. 
 
 The CIO of the Swedish lorry maker
 <a href="http://www.scania.com/" target="_blank">Scania</a>, Leif
-Östling has a saying that have spread through out the organisation: 
+Östling has a saying that have spread through out the organisation:
 
 </div>
 
@@ -219,6 +217,6 @@ weeks of free time.  :)
 
 Maybe this "problem" could be that start of your team starting to really
 collaborate. If nothing else so just to be able to handle the next
-vacation period. 
+vacation period.
 
 </div>

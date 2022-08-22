@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/sharp-architecture-presentati
 ---
 
 
-
 Found a great presentation on the excellent
 <a href="http://www.sharparchitecture.net/" target="_blank">S#arp
 Architecture</a> framework. The presentation is given by

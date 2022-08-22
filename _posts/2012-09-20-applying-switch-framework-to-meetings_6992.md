@@ -1,19 +1,18 @@
 ---
 layout: post
-title: Applying Switch framework to: Meetings are not
-real work - part III'
-date: 2012-09-20T09:00:00.001+02:00
+title: Applying Switch framework to  Meetings are not real work - part III
+date: 2012-09-20T07:00:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-09-20T09:00:09.970+02:00
-thumbnail: http://3.bp.blogspot.com/\_dVhQbe4S9AM/S0mvWNxDAgI/AAAAAAAAAJ4/uiVFWTex4Bs/s72-c/roti.png
+modified_time: 2012-09-20T07:00:09.970Z
+thumbnail: >-
+  http://3.bp.blogspot.com/\_dVhQbe4S9AM/S0mvWNxDAgI/AAAAAAAAAJ4/uiVFWTex4Bs/s72-c/roti.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-496174853263675189
-blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html
+blogger_orig_url: >-
+  http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html
 ---
-
 
 
 This is the final post in my series on the problem that a lot of people
@@ -38,7 +37,6 @@ take.
 
 Let's go!
 
-
 ### Tweak the environment
 
 <div>
@@ -48,7 +46,7 @@ the context we act in the change in the behaviour will follow. For
 example - if you have a system for queuing up calls in a call center ...
 a lot of calls will be in queue. To get quicker response time, throw the
 system out and have direct access. A bit brutal example but you get what
-I'm aiming at. 
+I'm aiming at.
 
 </div>
 
@@ -58,7 +56,7 @@ I'm aiming at. 
 <div>
 
 So what could we do to tweak the environment to make better,
-more qualitative meetings happen? 
+more qualitative meetings happen?
 
 </div>
 
@@ -103,7 +101,7 @@ A very big problem at one client I was working as was that invitations
 was resent. This meant that I invited Roger and he thought that maybe
 Mattias should hear about this too. And Mattias in turn thought that
 this could probably be good if we shared with everyone doing .NET
-development. 
+development.
 
 </div>
 
@@ -115,7 +113,7 @@ development. 
 So when the actual meeting took place I was not met by Roger but rather
 by 25 devs. Totally different meeting, and given an average hourly rate
 of say 1000 SEK that meeting now costed 26 000 SEK / h. Not my
-intention. 
+intention.
 
 </div>
 
@@ -128,13 +126,13 @@ A brute force, tweak the environment way of handling this is to sure
 that you don't allow resending of invitations. If more people should be
 added you could always go back to the sender and check with her. This
 gives better control of the attendee creep and the focus of the
-meeting. 
+meeting.
 
 </div>
 
 <div>
 
-This can probably be enforced technically if you want too. 
+This can probably be enforced technically if you want too.
 
 </div>
 
@@ -173,7 +171,7 @@ stand up for the stand-up. <a
 href="http://www.blogger.com/blogger.g?blogID=36533086#editor/target=post;postID=496174853263675189"
 target="_blank">There's a reason to do so</a>. We don't want it long.
 Standing up will help it to be so. Still I see a lot of teams sitting
-down for their standup ... and the meetings starts to linger of course. 
+down for their standup ... and the meetings starts to linger of course.
 
 </div>
 
@@ -203,10 +201,10 @@ example. This will have a two-folded effect;
 
 <div>
 
-1.  You, as an organiser, will start to see trends and get some data to
+1. You, as an organiser, will start to see trends and get some data to
     improve upon. If you collect them and analyze them you can start to
     see company trends
-2.  Everybody knows that we will do a ROTI of the meeting quality after
+2. Everybody knows that we will do a ROTI of the meeting quality after
     each meeting. This will put a little pressure on us to do a good
     meeting. Nothing to threaten people with but just making sure that
     we think.
@@ -241,7 +239,7 @@ the likelihood of us falling into the pit of success". Do that!
 <div>
 
 Now we probably got a few people with us on the train. Now we want the
-spread the word - start an epidemic about doing great meetings. 
+spread the word - start an epidemic about doing great meetings.
 
 </div>
 
@@ -254,7 +252,7 @@ Here you want to create forums and meeting places to share tips and
 tools for conducting great meetings. Start book circles or other things
 for interested people. Focus on the people that is driving this on - the
 other will follow and there's no use wasting time on the negative
-persons in the beginning. 
+persons in the beginning.
 
 </div>
 
@@ -264,7 +262,7 @@ persons in the beginning. 
 <div>
 
 Maybe even record some meetings for inspiration. Or track the number of
-meetings / months with a ROTI over 3. 
+meetings / months with a ROTI over 3.
 
 </div>
 
@@ -285,7 +283,7 @@ great at meetings. Help this culture to spread.
 <div>
 
 That ends this mini-series on how help us getting to the bottom with the
-problem about people perceiving meetings as not being real work. 
+problem about people perceiving meetings as not being real work.
 
 </div>
 
@@ -295,7 +293,7 @@ problem about people perceiving meetings as not being real work. 
 <div>
 
 I'm sure that you have a lot of ideas that I've missed. Please comment
-and leave them here. I want to improve. 
+and leave them here. I want to improve.
 
 </div>
 
@@ -307,7 +305,7 @@ and leave them here. I want to improve. 
 There's a lot of little things that make the change happen of course.
 You need to address both the Rider and the Elephant, in different ways
 too. Maybe not everything should happen at once, but rather gradually be
-built into the culture at your company. 
+built into the culture at your company.
 
 </div>
 
@@ -320,7 +318,7 @@ But you can start. With the people around you - make the change happen!
 The subtitle of the Switch book is "How to make change when change is
 hard". All of the stories in the book are about people with little or no
 official power that made a big difference in their environment. You
-could be that person too. 
+could be that person too.
 
 </div>
 

@@ -12,10 +12,9 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/good-bye-avega.html
 ---
 
 
+<div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Today is the last day I work for [Avega
 Group](http://www.avegagroup.se/). It's the best place I ever worked at

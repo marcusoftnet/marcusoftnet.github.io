@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-servic
 ---
 
 
-
 I have <a
 href="http://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html"
 target="_blank">already blogged</a> about

@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Marcus Node Bits: Deploying to Heroku (and
-MongoHq)'
-date: 2014-04-21T16:02:00.000+02:00
+title: Marcus Node Bits - Deploying to Heroku (and MongoHq)'
+date: 2014-04-21T14:02:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Node - Javascript
-  - Tools - Koa  - Lean
-  - Agile -
-ContinuousDelivery
-modified_time: 2014-05-29T14:22:24.020+02:00
+  - Node
+  - Javascript
+  - Tools
+  - Koa
+  - Lean
+  - Agile
+  - ContinuousDelivery
+modified_time: 2014-05-29T12:22:24.020Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6218298441525731501
 blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I've been doing something for real! A very
 <a href="http://warm-brushlands-9555.herokuapp.com/"
@@ -43,7 +45,7 @@ For the most part I was impressed over the smoothness and "it just
 works"-factor throughout the deployment of my application.  This <a
 href="https://devcenter.heroku.com/articles/getting-started-with-nodejs"
 target="_blank">article is a great starting point</a> for NodeJs
-applications and I suggest your read it before you start. 
+applications and I suggest your read it before you start.
 
 </div>
 
@@ -60,13 +62,13 @@ line commands that is really powerful.
 
 The first things you probably use the tool belt for is probably:
 
--   <span style="font-family: Courier New, Courier, monospace;">heroku
+- <span style="font-family: Courier New, Courier, monospace;">heroku
     login - to authenticate with the Heroku-site credentials
--   <span style="font-family: Courier New, Courier, monospace;">heroku
+- <span style="font-family: Courier New, Courier, monospace;">heroku
     create \[appname\] - create an Heroku application in a
     directory and on the Heroku site. And setup a nice link between them
-    that is the real power of Heroku. 
--   <span style="font-family: Courier New, Courier, monospace;">heroku
+    that is the real power of Heroku.
+- <span style="font-family: Courier New, Courier, monospace;">heroku
     keys:add - add your ssh-keys to let Heroku know that you are
     you. <a href="https://devcenter.heroku.com/articles/keys"
     target="_blank">Read this</a>.
@@ -74,7 +76,7 @@ The first things you probably use the tool belt for is probably:
 The last point was also my first gist. I'll soon come back to it. But I
 need to explain one more command that you need to know about:
 
--   <span style="font-family: Courier New, Courier, monospace;">git push
+- <span style="font-family: Courier New, Courier, monospace;">git push
     heroku \[branch\] - remember above where we created the
     application. This also sets up a
     <a href="http://gitref.org/remotes/" target="_blank">git remote</a>
@@ -141,7 +143,7 @@ using. Like this:
 
 > <span style="font-family: Courier New, Courier, monospace;">"engines":
 > {
->     "node": "0.11.12"
+> "node": "0.11.12"
 > }
 
 </div>
@@ -149,7 +151,7 @@ using. Like this:
 <div style="text-align: left;">
 
 Thank you [Jonathan Channon](https://twitter.com/jchannon) for reminding
-me to write this. Tripped me up at first. 
+me to write this. Tripped me up at first.
 
 </div>
 
@@ -161,7 +163,7 @@ Now I could push my code to Heroku. Great - but I needed a database as
 well. Luckily Heroku is built around modules that you add to your
 application. In Heroku-speak: addons that you provision. I choose
 <a href="https://addons.heroku.com/mongohq" target="_blank">MongoHq</a>
-since I had heard that name before. 
+since I had heard that name before.
 
 </div>
 
@@ -179,7 +181,7 @@ mongohq
 <div style="text-align: left;">
 
 The addon is then added to your application on the Heroku site and
-configured as needed. But your are not using it in your application. 
+configured as needed. But your are not using it in your application.
 
 </div>
 
@@ -214,9 +216,6 @@ you are running live. There's myriads of ways to solve this but I have
 dragged a little configuration utility around for a while. It's just a
 single file that exports an object with the configuration variables I
 need. Here is one incarnation of it:
-
-
-
 
 The first lines sets up my database connection strings, and uses the
 MONGOHQ_URL if it is present. I can then use my configuration object
@@ -257,7 +256,7 @@ When I opened my site (<span
 style="font-family: Courier New, Courier, monospace;">heroku open
 form the command prompt by the way) it just gave me a bland: the site is
 not working, contact your admin kind of message. Admin... hey that's me
-in this case. I should probably read some logs or something. 
+in this case. I should probably read some logs or something.
 
 </div>
 
@@ -274,13 +273,13 @@ can do "<span
 style="font-family: Courier New, Courier, monospace;">heroku logs -n
 1500" (last 1500 events) or "<span
 style="font-family: Courier New, Courier, monospace;">heroku logs
--t" (100 last events). 
+-t" (100 last events).
 
 </div>
 
 <div>
 
-But it's not very nice to read, nor searchable. 
+But it's not very nice to read, nor searchable.
 
 </div>
 
@@ -296,7 +295,7 @@ target="_blank">Papertrail</a>. Papertrail is a nice little addon that
 helps you read your log. Install it (<span
 style="font-family: Courier New, Courier, monospace;">heroku addons:add
 papertrail) and you get a dashboard for you app with a nice UI to
-see, read and search your logs. 
+see, read and search your logs.
 
 </div>
 
@@ -315,7 +314,7 @@ hindered me:
 
 <div>
 
-1.  I was using
+1. I was using
     <a href="https://github.com/remy/nodemon" target="_blank">Nodemon</a>
     to start my application. It was not in my dependencies. Bad Marcus!
     I added that and updated my "<span
@@ -330,8 +329,8 @@ hindered me:
     target="_blank">read this first</a>.
     <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
     target="_blank">And then this</a>.
-2.  I then ran into the "Web process failed to bind to $PORT within 60
-    seconds of launch" mentioned above. Let's talk more about that. 
+2. I then ran into the "Web process failed to bind to $PORT within 60
+    seconds of launch" mentioned above. Let's talk more about that.
 
 <div>
 
@@ -355,7 +354,7 @@ process.env.PORT \|\| 5000,)
 
 There's always bumps in the road. These were mine. Overall I was still
 very impressed with the smooth ride to live site in production that
-Heroku and MongoHq treated me to. 
+Heroku and MongoHq treated me to.
 
 </div>
 

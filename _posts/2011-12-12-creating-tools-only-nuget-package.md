@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/12/creating-tools-only-nuget-pac
 ---
 
 
-
 I have started to help out in a new OSS project. The last one was
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> and now
 it’s

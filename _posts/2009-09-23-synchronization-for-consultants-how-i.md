@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/synchronization-for-consultan
 ---
 
 
-
 OK – this has been quite a journey and I am not completely satisfied
 with the solution yet – but I works. During the journey I have also
 deleted all my contacts and calendar items on my phone about five times…

@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/11/goodpeople.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 W. Edwards Deming is one the big quote-machines in the management
 business and one of the most often cited is this:

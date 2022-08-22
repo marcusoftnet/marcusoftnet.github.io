@@ -16,8 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/suggested-visualization-for-s
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have small children (5, 3 and 3 years old). During the winter half of
 the year that means that they are sick. A lot. No really: like you

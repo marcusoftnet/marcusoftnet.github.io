@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Marcus Node Bits: Basic Authentication with
-Koa'
-date: 2014-05-02T15:26:00.001+02:00
+title: Marcus Node Bits - Basic Authentication with Koa
+date: 2014-05-02T13:26:00.001Z
 author: Marcus Hammarberg
 tags:
   - Javascript
-  - Tools - Koa
-modified_time: 2014-06-09T04:59:00.503+02:00
-thumbnail: http://lh5.ggpht.com/-fD9vojC0hwk/U2OczEnFGpI/AAAAAAAAC3w/u8pjXbXFELU/s72-c/wlEmoticon-sadsmile2.png?imgmax=800
+  - Tools
+  - Koa
+modified_time: 2014-06-09T02:59:00.503Z
+thumbnail: >-
+  http://lh5.ggpht.com/-fD9vojC0hwk/U2OczEnFGpI/AAAAAAAAC3w/u8pjXbXFELU/s72-c/wlEmoticon-sadsmile2.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8966292886396606059
 blogger_orig_url: http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 As
 <a href="http://www.marcusoft.net/search/label/Koa" target="_blank">you
@@ -64,16 +64,11 @@ target="_blank">koa-basic-auth</a>) and this post describes how I set
 that up. In doing so I learned a couple of things about Koa and how the
 middleware works. It was interesting for me – I hope you enjoy it too.
 
-
-## Basic Authentication
-
 Let’s head up to the <a href="https://github.com/koajs/basic-auth"
 target="_blank">koa-basic-auth code</a> and see what they have to say to
 help us. I’ve created a gist of that code.
 
-
 I had to read this a couple of times before I fully understood how it
-goes together. This is how I understand it.
 Line 23 is where we use the <span
 style="font-family: Courier New;">auth (that is required on
 line 1) object and, in this case, simply hard code it to a user object.
@@ -104,21 +99,19 @@ we are using koa-basic-auth (on line 23) to require authentication on
 the complete site, all our requests will throw an 401 Unauthorized
 error. We catch that (line 11) and creates a response that:
 
--   Set’s the status to 401
--   Writes a nice message to the body of the response
--   Set’s the header to
-    <a href="http://en.wikipedia.org/wiki/Basic_access_authentication"
-    target="_blank">WWW-Authenticate</a> that for most browsers (?)
+- Set’s the status to 401
+- Writes a nice message to the body of the response
+- t’s the header to
+  <a href="http://en.wikipedia.org/wiki/Basic_access_authentication"
+  target="_blank">WWW-Authenticate</a> that for most browsers (?)
     triggers the all familiar basic authentication log-in box.  
 
 Yeah, that’s a pretty around about way of doing it you might think, but
 it’s just a couple of lines of code that sets up this. I did, however
 encapsulate this in another file resulting in this:
 
-
 Which is the same thing but only exposes 2 lines (ah, well 4 if you
 count the require-statement) in your app.js. A bit simpler. Hence
-better, in my book.
 
 ## For parts of my site
 
@@ -144,7 +137,6 @@ that it was almost trivial to append that to my application.
 Here’s how it looks in my application right now using the same
 authentication.js as above:
 
-
 It was all about 2 new lines (9 and 10) that says which URLs that should
 be password protected. And my reqBasic-middleware function is still
 included on line 8.
@@ -166,19 +158,19 @@ object ended up looking;
 There’s quite a lot of stuff going on in there that really doesn’t have
 with this post to do but let’s go through the highlights:
 
--   The last lines (28-30) is a function that simply exposes the object
+- The last lines (28-30) is a function that simply exposes the object
     as a function. This is so that you can go <span
     style="font-family: Courier New;">var config =
     require(\[path\])(‘test’) if you wanted to. Or it picks up
-    the parameter from you starting node. And if nothing of that is
+  the parameter from you starting node. And if nothing of that is
     supplied it defaults to ‘<span
     style="font-family: Courier New;">local’, which is the name I
     used for my development environment.
--   The config object itself is, thankfully, a bit more straightforward.
+- The config object itself is, thankfully, a bit more straightforward.
     It sets up the different settings for the environments. However only
     one of them are returned by the function we just mentioned. Remember
     that JavaScript objects is just key-value pairs and you can index
-    into the objects with strings. That is what that strange line is
+  into the objects with strings. That is what that strange line is
     really doing (<span style="font-family: Courier New;">config\[mode
     \|\| process.argv\[2\] \|\| 'local'\] would eventually be
     evaluated as <span
@@ -188,18 +180,18 @@ with this post to do but let’s go through the highlights:
 Let’s talk a bit about the authentication parts also, sorry for that
 longish detour;
 
--   Lines 3-5 sets up an object that either uses the
+- Lines 3-5 sets up an object that either uses the
     <a href="http://nodejs.org/api/process.html#process_process_env"
     target="_blank">process.env</a> parameters <span
     style="font-family: Courier New;">BASIC_USER and <span
-    style="font-family: Courier New;">BASIC_PASS or some default
+  style="font-family: Courier New;">BASIC_PASS or some default
     values. That object is stored in a <span
     style="font-family: Courier New;">adminUser variable.
--   That variable is then slabbed onto the config-object, that I return,
+- That variable is then slabbed onto the config-object, that I return,
     resulting in that I can use it like this in my authentication
     module:
 
-> <span style="font-family: Courier New;">var config =
+> pan style="font-family: Courier New;">var config =
 > require('../config')();
 > module.exports.user = config.user;
 
@@ -249,12 +241,9 @@ target="_blank">Supertest</a>. I just pick up my testing-config object
 and use those parameters to authenticate the Supertest request with.
 Here’s is one test that does all that.
 
-
 The interesting line here is line 12 where I use the <span
 style="font-family: Courier New;">.auth() function of supertest,
 passing it the variables from my config user described above.
-
-## Summary
 
 I learned a lot from getting this to work. Much more than things about
 authentication and doing the very basic password protection I first

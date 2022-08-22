@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/01/wcf-with-handcrafted-wsdl-gen
 ---
 
 
-
 This is problem that has haunted us for the good part of the autumn and
 winter;
 

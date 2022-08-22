@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-a
 ---
 
 
-
 It’s been a while since I blogged.
 <a href="http://twitter.com/marcusoftnet" target="_blank">Twitter</a> is
 taking over. I compensate that with a major blog post.

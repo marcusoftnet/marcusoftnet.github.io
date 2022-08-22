@@ -1,21 +1,18 @@
 ---
 layout: post
-title: What My Fair Lady can teach us about
-communication '
-date: 2013-09-09T18:51:00.001+02:00
+title: What My Fair Lady can teach us about communication
+date: 2013-09-09T16:51:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2013-09-23T10:47:40.764+02:00
+modified_time: 2013-09-23T08:47:40.764Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7982866793575880275
 blogger_orig_url: http://www.marcusoft.net/2013/09/what-my-fair-lady-can-teach-us-about.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have a confession to make: I'm a sucker for musicals. Especially those
 old ones with those jolly tunes. One of my all-time favorites is: [My
@@ -24,7 +21,6 @@ musicals it happens from time to time that I find myself singing the
 tunes. Out loud. The other day it happened again, but this time it was
 actually appropriate. In fact; the song I was humming told me something
 about visualization.
-
 
 Here's the scene: Eliza Dolittle have is fed
 being taught how to speak properly. And leaves the professor that tries
@@ -35,7 +31,6 @@ beautiful and complicated words. So Eliza sings the following song:
 <div class="separator" style="clear: both; text-align: center;">
 
 </div>
-
 
 The lyrics is brutal and to the point:
 
@@ -49,15 +44,14 @@ The lyrics is brutal and to the point:
 > Haven’t your lips longed for my touch?
 > Don’t say how much, Show me! Show me!
 
-### Don't you usually write about IT? 
+### Don't you usually write about IT?
 
 <div>
 
 Well let's get this back on track... What does this have to do with us?
-What did this song tell me? 
+What did this song tell me?
 
 </div>
-
 
 That often reporting and reports isn't enough. Even diagrams might fall
 short. If "we're on fire" about something that we have done - then show

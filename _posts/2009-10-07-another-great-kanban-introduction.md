@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/another-great-kanban-introduc
 ---
 
 
-
 Got a tip from
 <a href="http://www.joakimsunden.com/" target="_blank">Joakim Sundén</a>
 about an article that introduces Kanban in a great way. <a

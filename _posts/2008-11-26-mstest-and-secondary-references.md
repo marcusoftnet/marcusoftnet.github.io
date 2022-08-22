@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/mstest-and-secondary-referenc
 ---
 
 
-
 We've just solved a tricky thing in our project. We still don't get what
 is happening under the covers but now we've got it to work.
 

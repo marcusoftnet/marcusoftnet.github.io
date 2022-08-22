@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-session
 ---
 
 
-
 I have come to realize that I am not working… Not very flattering that I
 has taken me about 2,5 months to come to that conclusion but here I am.
 

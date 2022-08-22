@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/developing-in-neta-new-era-ha
 ---
 
 
-
 ### News
 
 The other day I just realized how much have changed in the way we

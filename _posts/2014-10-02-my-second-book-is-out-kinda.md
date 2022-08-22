@@ -1,22 +1,24 @@
 ---
 layout: post
 title: My second book is out ... kinda
-date: 2014-10-02T02:22:00.002+02:00
+date: 2014-10-02T00:22:00.002Z
 author: Marcus Hammarberg
 tags:
-  - Tools - Test  - Lean
+  - Tools
+  - Test
+  - Lean
   - Life of a consultant
-
-  - Specification by example -
-Agile
-modified_time: 2014-10-02T02:22:50.594+02:00
-thumbnail: http://3.bp.blogspot.com/-43lZKd\_\_bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s72-c/ikon_photo_book_150px.jpg
+  - Specification by example
+  - Agile
+modified_time: 2014-10-02T00:22:50.594Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-43lZKd\_\_bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s72-c/ikon_photo_book_150px.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8141264207080780779
 blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -52,7 +54,7 @@ Action</a>, or at least going through the gruesome and long
 review-process. Also we where in the middle of moving out of our
 apartment and here to Indonesia. I had a job that was running out and
 that I tried to extend month by month as our visas was delay. It was
-busy times. 
+busy times.
 
 <div>
 </div>
@@ -65,7 +67,6 @@ off and made a short treatment of each of the main points of
 Specification by example. I then wrapped the chapter off by telling the
 story again. Now the project succeeds... and they are using
 Specification by example :)
-
 
 Still, don't know why I said yes in hindsight, I accepted. And wrote my
 8 pages in about 6 hours. I have since then spent maybe 6 more hours
@@ -88,7 +89,7 @@ But Swedish is not that hard. I picked it up when I was under 5 years
 old :)  
 
 I'm proud to have been part of this project, in a small small way. Thank
-you for asking me and letting me. 
+you for asking me and letting me.
 
 </div>
 

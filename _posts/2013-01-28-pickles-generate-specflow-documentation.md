@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/pickles-generate-specflow-doc
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 If your doing <a href="http://specificationbyexample.com/"
 target="_blank">specification by example</a> or

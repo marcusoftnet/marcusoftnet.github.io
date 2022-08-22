@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-bo
 ---
 
 
-
 OK – after the last post of refactoring I now feels great to turn my
 focus on some new functionality; I want to let the users create new
 Kanban boards. This involves some new views and controllers stuff,

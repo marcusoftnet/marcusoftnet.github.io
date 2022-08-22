@@ -17,8 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/thisIsHowIThink.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have recently come to realize that some of the most basic of my
 thinking is not as evident and obvious to people around me as they are

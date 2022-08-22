@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.htm
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I’ve been putting together a sample for my client on how to automate
 against a web page. The purpose is to show how the tools are used and

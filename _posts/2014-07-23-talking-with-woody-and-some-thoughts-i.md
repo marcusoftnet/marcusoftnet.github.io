@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-t
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Yesterday I had the good fortune to have a chat with
 <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a>

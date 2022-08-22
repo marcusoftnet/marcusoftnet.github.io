@@ -1,21 +1,20 @@
 ---
 layout: post
-title: Todo: Add tests ...'
-date: 2014-10-16T09:30:00.000+02:00
+title: Todo Add tests ...
+date: 2014-10-16T07:30:00.000Z
 author: Marcus Hammarberg
 tags:
   - Javascript
   - Tools
   - Agile
   - TDD
-modified_time: 2014-10-16T09:30:12.630+02:00
+modified_time: 2014-10-16T07:30:12.630Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3554400885091043447
 blogger_orig_url: http://www.marcusoft.net/2014/10/todo-add-tests.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I added this line in a
 <a href="https://github.com/marcusoftnet/Kwitansi/blob/master/README"
@@ -34,23 +33,22 @@ prints a receipt. It's kinda of important that it's correct.
 
 It just struck me:
 
-
--   how much harder it is to write the tests afterwards
--   how much I change in my production code, that wasn't in place, when
+- how much harder it is to write the tests afterwards
+- how much I change in my production code, that wasn't in place, when
     I go through it and test it
--   how much more boring it is to write the tests afterward
--   how easy and tempting it is to "cheat" and not test the hard stuff
--   how hard the feeling "this is not done/safe/correct/complete" hits
+- how much more boring it is to write the tests afterward
+- how easy and tempting it is to "cheat" and not test the hard stuff
+- how hard the feeling "this is not done/safe/correct/complete" hits
     me in the face
--   how little satisfaction I get from completing a test. It's just like
+- how little satisfaction I get from completing a test. It's just like
     paying off an overdue bill. "Yes, I should have done this before.
-    Now it's done". 
+    Now it's done".
 
 <div>
 
 I'm not saying that You have to write your tests first. I'm just saying
 that to me it's: easier, safer, less boring, gives me better discipline
-and more rewarding. You do as you want. 
+and more rewarding. You do as you want.
 
 </div>
 
@@ -60,7 +58,7 @@ and more rewarding. You do as you want. 
 <div>
 
 I will never write "TODO: Add tests..." again without remember these
-feelings. 
+feelings.
 
 </div>
 

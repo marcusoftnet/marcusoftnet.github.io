@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
-
 Ok – today I’ll start by making a factory for the product class. I have
 some issues with the factory patterns and here is my reasoning; another
 class is the creator and must hence have access to the NEW-method of the

@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/06/LeanUXEffectMap.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I ran across a <a
 href="http://heltsonika.wordpress.com/2012/10/11/lean-ux-med-effektkartan/"

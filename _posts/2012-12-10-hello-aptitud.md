@@ -12,8 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/hello-aptitud.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 
 So as I <a href="http://www.marcusoft.net/2012/12/good-bye-avega.html"

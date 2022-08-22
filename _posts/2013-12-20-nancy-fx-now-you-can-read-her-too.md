@@ -16,8 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-her
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I fell in love with
 <a href="http://www.nancyfx.org/" target="_blank">Nancy</a> at first

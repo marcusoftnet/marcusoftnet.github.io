@@ -15,10 +15,9 @@ blogger_orig_url: http://www.marcusoft.net/2014/01/share-your-internet-connectio
 ---
 
 
+<div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 For the first time in years, I'm using a Windows PC as my main computer.
 It's Windows 8.1 and thanks to a <a

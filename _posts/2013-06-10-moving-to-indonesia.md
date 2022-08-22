@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/06/moving-to-indonesia.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Well the title really says it all, but there's big changes coming for me
 and my family this autumn. We're moving to [Bandung,

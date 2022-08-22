@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/iphone-flute-waiting-for-euph
 ---
 
 
-
 OK - this might be the coolest "useless" application I've seen... but it
 alone made me want an IPhone. Badly.
 

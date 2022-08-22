@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2012/06/experience-report-from-rollin
 ---
 
 
-
 I just ended my biggest coaching assignment in my career. So far. It
 started in January and aimed to roll out agile in a organization of 120
 (and then some) people – 60 on the business side and 60 on the IT-side.

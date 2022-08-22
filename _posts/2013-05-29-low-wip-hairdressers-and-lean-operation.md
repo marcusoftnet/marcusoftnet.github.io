@@ -1,22 +1,21 @@
 ---
 layout: post
-title: Low WIP, hairdressers and Lean operation
-strategy '
-date: 2013-05-29T15:38:00.003+02:00
+title: Low WIP, hairdressers and Lean operation strategy
+date: 2013-05-29T13:38:00.003Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Kanban
   - Agile
-modified_time: 2013-05-29T15:38:40.861+02:00
-thumbnail: http://3.bp.blogspot.com/-\_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s72-c/Screen+Shot+2013-05-29+at+10.13.46+.png
+modified_time: 2013-05-29T13:38:40.861Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-\_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s72-c/Screen+Shot+2013-05-29+at+10.13.46+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5197645370134929012
 blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <a href="http://nowthatsrandom.webs.com/photos/Randomness/afro.jpeg"
 data-imageanchor="1"
@@ -34,7 +33,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-ali
 src="http://cdn1.sbnation.com/imported_assets/1300763/dolph-lundgren-flat-top-rocky.jpg"
 data-border="0" width="111" height="130" /></a>When I want it to be more
 like this guy to the left.
-
 
 The conversations at most hair dressers in Sweden is not very
 interested, mostly due to the fact that I'm not interested in
@@ -82,7 +80,6 @@ reading this blog and pick up the book - i wont be offended) they use
 and illustration to explain what Lean really is. It's just a simple
 diagram, like the one to the right.
 
-
 </div>
 
 <div>
@@ -93,7 +90,7 @@ resources or people are utilized to max. Maximizing "Flow efficiency" on
 the other hand is making sure that work is flowing through our process
 as fast as possible.  Read my friend [Håkan Forss post on the
 topic](https://hakanforss.wordpress.com/2012/03/18/the-balancing-act-of-getting-to-process-efficiency-nirvana/) instead.
-But this gives us a great framework to discuss our topic at hand. 
+But this gives us a great framework to discuss our topic at hand.
 
 </div>
 
@@ -105,7 +102,7 @@ But this gives us a great framework to discuss our topic at hand. 
 Because with a team doing mob programming you would have great
 flow efficiency. Work could not be moving a long faster than that. But,
 as my colleague said: "That's not very efficient!" No - not from a
-resource efficiency perspective. 
+resource efficiency perspective.
 
 </div>
 
@@ -117,7 +114,7 @@ resource efficiency perspective. 
 And herein lies the crux (frist time I used that word) of the matter;
 Lean is a strategy that helps us find a good balance between the two
 axis in our diagram. Lean does that by focusing on flow efficiency
-firstly and then resource efficiency. 
+firstly and then resource efficiency.
 
 </div>
 
@@ -130,7 +127,7 @@ always maximize **only** flow then we  could just let the whole company
 do just one single thing. But we don't do that. Because that would mean
 that a large percentage of the company would not do anything productive.
 On the other hand: the moment we needed anyone to help the work to flow,
-they would have time ready since they're just waiting around. 
+they would have time ready since they're just waiting around.
 
 </div>
 
@@ -166,7 +163,7 @@ settings are places where you could find very low WIP. The fire
 department for example; they mostly sit around and wait for work ("put
 out fire") to do. We, as a society gladly pay them too since the risk of
 them being busy with other things when we call them is something that we
-shy away from. 
+shy away from.
 
 </div>
 
@@ -178,7 +175,7 @@ shy away from. 
 But do they really just "sit around"? No they train, they maintain their
 equipment and do a lot of preventive work (education for example). And
 pose for calendars. But, rest assured, if a fire alarm goes of - they
-put everything down and run for it. 
+put everything down and run for it.
 
 </div>
 
@@ -192,7 +189,7 @@ the room with a single keyboard. Are everyone active? No, not typing.
 There might even be specialists (designers, database experts or business
 analysts for example) that can zone out and maybe even do other stuff.
 As long as they can leave it and join the group when we need them that's
-quite alright. 
+quite alright.
 
 </div>
 
@@ -203,7 +200,7 @@ quite alright. 
 
 They might even do stuff that help us move things forward faster.
 Instead of being nervous of "not having something to do" you should see
-if you can help move work forward. 
+if you can help move work forward.
 
 </div>
 
@@ -240,7 +237,7 @@ me feel like I'm strapped down against my will. Anyway - I was sitting
 there getting my hair cut. All of a sudden a customer enters the shop.
 What did the hair dresser do? She was cutting my hair. I got her sending
 time. On the other hand this customer wanted to buy some wax or maybe
-book an appointment later. 
+book an appointment later.
 
 </div>
 
@@ -279,7 +276,6 @@ For example, adding "waste" of having a lot of programmers in the same
 room working together on the same problem is wasteful from a resource
 utilization perspective. But that's alright since it's great for our
 flow. Until the point where we find it too expensive.
-
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
@@ -329,7 +325,7 @@ These policies were probably implicit. Or they might have been written
 on the wall in the coffee room. I don't know. That doesn't matter. She
 did.
 
-### Conclusion 
+### Conclusion
 
 What are you optimizing for?
 Do you know your teams prioritizations?

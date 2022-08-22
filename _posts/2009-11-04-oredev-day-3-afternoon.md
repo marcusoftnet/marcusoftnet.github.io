@@ -1,13 +1,15 @@
 ---
 layout: post
-title: ÖreDev day \#3 – afternoon'
-date: 2009-11-04T16:26:00.001+01:00
+title: ÖreDev day 3 – afternoon
+date: 2009-11-04T15:26:00.001Z
 author: Marcus Hammarberg
 tags:
-  - .NET -
-ÖreDev - NHibernate
-  - Agile - WCF
-modified_time: 2011-11-09T21:49:22.573+01:00
+  - .NET
+  - ÖreDev
+  - NHibernate
+  - Agile
+  - WCF
+modified_time: 2011-11-09T20:49:22.573Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3732020210808748696
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-3-afternoon.html
 ---
@@ -32,6 +34,7 @@ out. He’s great and quite funny also.
 OK – best so far! By far!
 
 ##### Explorations of <a href="https://www.hibernate.org/343.html"
+
 target="_blank">NHibernate</a>
 
 This will be another talk by Stephen Bohlen, the <a
@@ -43,11 +46,11 @@ We’re learning about add-ons (etc.) to NHibernate.
 
 Here are some nuggets that I managed to throw down:
 
--   <a href="http://sourceforge.net/projects/rhino-tools/"
+- <a href="http://sourceforge.net/projects/rhino-tools/"
     target="_blank">Rhino Tools</a>
--   <a href="http://code.google.com/p/unhaddins/"
+- <a href="http://code.google.com/p/unhaddins/"
     target="_blank">uNhAddins</a>
--   <a
+- <a
     href="http://www.codinginstinct.com/2008/05/nhibernate-validator.html"
     target="_blank">NHibernate Validator</a> (hey, first hit on Google
     to
@@ -55,17 +58,17 @@ Here are some nuggets that I managed to throw down:
     Here’s it using a <a
     href="http://brendanjerwin.github.com/2009/03/11/using-nhibernate-validator-with-fluent-nhibernate.html"
     target="_blank">fluent interface</a>
--   <a href="http://code.google.com/p/nhlambdaextensions/"
+- <a href="http://code.google.com/p/nhlambdaextensions/"
     target="_blank">NHLambdaExtensions</a>
--   <a href="http://sourceforge.net/projects/nhcontrib/develop"
+- <a href="http://sourceforge.net/projects/nhcontrib/develop"
     target="_blank">NHibernate Burrow</a> – business transactions
     (without hitting the database)
--   <a href="http://fluentnhibernate.org/" target="_blank">Fluent
+- <a href="http://fluentnhibernate.org/" target="_blank">Fluent
     NHibernate</a>, which <a
     href="http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html"
     target="_blank">I praised already</a>
--   <a href="http://nhprof.com/" target="_blank">NHProfiler</a>
--   and finally <a href="http://code.google.com/p/hornget/"
+- <a href="http://nhprof.com/" target="_blank">NHProfiler</a>
+- and finally <a href="http://code.google.com/p/hornget/"
     target="_blank">HornGet.NET</a>
 
 This was great but oh so fast, I’m short of breath…
@@ -80,24 +83,24 @@ up now and I expect some pretty advanced stuff.
 Yep – I will be some not so well-know productiveness things in WCF.
 Another list:
 
--   <a href="http://msdn.microsoft.com/en-us/library/bb552363.aspx"
+- <a href="http://msdn.microsoft.com/en-us/library/bb552363.aspx"
     target="_blank">WCFServiceHost</a> a generic WCF host supplied with
     Visual Studio. Works great when debugging.
--   And a generic test client,
+- And a generic test client,
     <a href="http://msdn.microsoft.com/en-us/library/bb552364.aspx"
     target="_blank">WCFTestClient</a>. And this can be combined
     together. Great stuff!
--   Instrumentation for WCF can be applied with
+- Instrumentation for WCF can be applied with
     <a href="http://msdn.microsoft.com/en-us/library/ms735098.aspx"
     target="_blank">&lt;diagnostics performanceCounters=”all” /&gt;</a>
--   I already knew about the
+- I already knew about the
     <a href="http://msdn.microsoft.com/en-us/library/ms732009.aspx"
     target="_blank">WCF Service Configuration Editor</a> in Visual
     Studio, but it’s a secret for many.
--   But I didn’t know about
+- But I didn’t know about
     <a href="http://msdn.microsoft.com/en-us/library/ms732023.aspx"
     target="_blank">Microsoft Service Trace Viewer</a>
--   <a
+- <a
     href="http://en.csharp-online.net/WCF_Essentials—Implementing_InProcFactory_T"
     target="_blank">InProcFactory</a> looks cool – you can actually
     create a WCF-service from any .NET-class, on the fly.

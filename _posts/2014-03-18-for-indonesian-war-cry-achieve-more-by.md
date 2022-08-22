@@ -1,22 +1,19 @@
 ---
 layout: post
-title: For the Indonesian War Cry: Achieve more by
-doing less'
-date: 2014-03-18T08:42:00.003+01:00
+title: For the Indonesian War Cry - Achieve more by doing less
+date: 2014-03-18T07:42:00.003Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-
   - Salvation Army
   - Indonesia
-modified_time: 2014-03-18T08:42:36.437+01:00
+modified_time: 2014-03-18T07:42:36.437Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5247113248900127168
 blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-achieve-more-by.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 DISCLAIMER for frequent readers of this blog:
 I now work
@@ -43,6 +40,7 @@ Indonesian War Cry. <a
 href="http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html"
 target="_blank">You can read the first here.</a> This article is about
 Achieving more by doing less. I hope you like it.
+
 ### Achieving more by doing less
 
 In my <a href="http://achieve/" target="_blank">last article</a> I
@@ -106,19 +104,16 @@ Hammarberg</a>**
 
 </div>
 
-
 When you ready, start the timer and go as fast as you can. Remember to
 time it takes to finish each column as well as the time it takes to
 finish all three. Go!
 
 When you're done you probably end up with times like these:
 
-
--   Letter column completed after 1:20 min
--   Roman numbers completed after 1:22 min
--   Normal numbers completed after 1:24 min
--   Total time: 1:24 min.
-
+- Letter column completed after 1:20 min
+- Roman numbers completed after 1:22 min
+- Normal numbers completed after 1:24 min
+- Total time: 1:24 min.
 
 You probably felt that this was a very stupid way of working. And it was
 stressful. And you probably dropped the pen, or wrote in the wrong color
@@ -132,12 +127,10 @@ the total time. Go!
 
 Done? Great, you probably ended up with a result like this:
 
-
--   Letter column completed after 0:12 min
--   Roman numbers completed after 0:14 min
--   Normal numbers completed after 0:08 min
--   Total time: 0:34 min.
-
+- Letter column completed after 0:12 min
+- Roman numbers completed after 0:14 min
+- Normal numbers completed after 0:08 min
+- Total time: 0:34 min.
 
 What?! That's just 1/3 of the time? And the frist column was finished
 after 12 seconds compared with 1:20 min in the first round.
@@ -211,6 +204,5 @@ to the next?
 
 God bless you in your strives to become more and more effective in doing
 the MOST good.<span class="Apple-tab-span" style="white-space: pre;">
- 
 
 </div>

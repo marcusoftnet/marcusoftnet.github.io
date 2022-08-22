@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
-
 After some consideration I have decided to follow the
 <a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> best
 practices quite closely – and do the listing of the products as a

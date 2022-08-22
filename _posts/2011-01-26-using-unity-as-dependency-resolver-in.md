@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/using-unity-as-dependency-res
 ---
 
 
-
 There have been a lot of improvements and additions to [dependency
 resolving](http://bradwilson.typepad.com/blog/2010/07/service-location-pt1-introduction.html)
 in <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> 3.

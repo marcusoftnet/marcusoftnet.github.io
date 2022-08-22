@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/10/specification-by-example-is-a
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Over and over again I've seen the main gain from using
 <a href="http://specificationbyexample.com/"

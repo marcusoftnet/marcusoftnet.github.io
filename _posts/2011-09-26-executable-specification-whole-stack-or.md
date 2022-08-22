@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/09/executable-specification-whol
 ---
 
 
-
 This is really an age-old BDD question that pops up from time to time.
 Just now I got a question from an ex-colleague about it. A bit rephrased
 it something like this:

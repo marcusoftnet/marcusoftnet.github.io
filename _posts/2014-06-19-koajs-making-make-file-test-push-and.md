@@ -1,21 +1,22 @@
 ---
 layout: post
-title: KoaJs: Making the make file test, push and all
-that'
-date: 2014-06-19T15:05:00.002+02:00
+title: KoaJs Making the make file test, push and all that
+date: 2014-06-19T13:05:00.002Z
 author: Marcus Hammarberg
 tags:
-  - Node - Javascript
-  - Tools - Koa
-  - Agile - ContinuousDelivery
-modified_time: 2014-06-19T15:11:11.132+02:00
+  - Node
+  - Javascript
+  - Tools
+  - Koa
+  - Agile
+  - ContinuousDelivery
+modified_time: 2014-06-19T13:11:11.132Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6635224330936661017
 blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 The last couple of days I have enjoyed the speed and easy-going-flow
 that <a href="http://nodejs.org/" target="_blank">Node</a>,
@@ -79,7 +80,6 @@ runs <span
 style="font-family: Courier New, Courier, monospace;">mocha with
 a lot of flags that I couldn't care less of typing.
 
-
 Ok, you say. I can do that with package.json and npm too -
 <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
 target="_blank">picked it up from you blog actually</a>.
@@ -91,7 +91,6 @@ href="http://andreypopp.com/posts/2013-05-16-makefile-recipes-for-node-js.html"
 target="_blank">right off from here</a>) that increments the version
 number, updates the package.json file and then commits those changes to
 git.
-
 
 It looks horrendous but it's basically executing a string of node code
 to update the package.json and then just use ordinary git bash commands
@@ -113,13 +112,13 @@ the <span
 style="font-family: Courier New, Courier, monospace;">deployProd task.
 The task does the following:
 
--   runs my tests
--   use the release-function defined above to create a new minor (0.X.0)
+- runs my tests
+- use the release-function defined above to create a new minor (0.X.0)
     release
--   commits and tag that in git
--   push to github
--   push to heroku
--   launches the site in my browser for verification
+- commits and tag that in git
+- push to github
+- push to heroku
+- launches the site in my browser for verification
 
 <div>
 
@@ -142,9 +141,8 @@ The task code? Well it's almost just reading the list above out loud.
 
 Here's the entire makefile.
 
-
 There! I'm not lying to Woody anymore. Feels great. For more than just
 that reason. Because now I truly have 1 single command to deploy my
-application properly. 
+application properly.
 
 </div>

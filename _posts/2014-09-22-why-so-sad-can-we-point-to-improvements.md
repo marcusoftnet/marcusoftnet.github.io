@@ -16,8 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-im
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"

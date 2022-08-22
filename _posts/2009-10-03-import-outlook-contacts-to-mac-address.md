@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/import-outlook-contacts-to-ma
 ---
 
 
-
 OK – I know that a lot of stuff has been written on this. But most of
 these doesn’t really cut what I want. Mainly for two reasons:
 

@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/10/supported-step-exporter-watch
 ---
 
 
-
 After working intensively with
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> <a
 href="http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html"

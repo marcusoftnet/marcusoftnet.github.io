@@ -1,21 +1,24 @@
 ---
 layout: post
-title: Cucumber / SpecFlow pro tip: push HOW down'
-date: 2013-04-17T08:00:00.000+02:00
+title: Cucumber / SpecFlow pro tip - push HOW down
+date: 2013-04-17T06:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Nancy - BDD - Test - Specification by example
+  - Nancy
+  - BDD
+  - Test
+  - Specification by example
   - Agile
   - SpecFlow
-modified_time: 2013-04-17T08:00:09.379+02:00
-thumbnail: http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s72-c/pushing+how+down.png
+modified_time: 2013-04-17T06:00:09.379Z
+thumbnail: >-
+  http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s72-c/pushing+how+down.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8179040185480084998
 blogger_orig_url: http://www.marcusoft.net/2013/04/PushTheHowDown.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I've just attended my first ever [CukeUp
 conference](http://skillsmatter.com/event/agile-testing/cukeup-2013),
@@ -49,7 +52,6 @@ That point was then something that run through almost every talk
 (including my in fact) on the conference. At least the once that I heard
 so far.
 
-
 The main point is this; specification by example is way to clarify how
 the system should *behave* by using concrete examples. This can be done
 before any code is implemented and can clear out a lot of
@@ -71,9 +73,9 @@ When all you really wanted to say was:
 
 The first version has some merits:
 
--   it's pretty easy to automate with a few generic [step
+- it's pretty easy to automate with a few generic [step
     definitions](https://github.com/techtalk/SpecFlow/wiki/Step-Definitions)
--   the implementation is taking place already, HOW the system is to be
+- the implementation is taking place already, HOW the system is to be
     implemented is shining through ... but that's not really the intent
     now is it.
 
@@ -85,10 +87,10 @@ The first version sucks because:
 
 <div>
 
--   it's almost impossible to see the "tree for the forest". What is
-    this scenario describing? 
--   It's boring for any non-technical person to read
--   It was meant to clarify but it just added confusion
+- it's almost impossible to see the "tree for the forest". What is
+    this scenario describing?
+- It's boring for any non-technical person to read
+- It was meant to clarify but it just added confusion
 
 <div>
 
@@ -98,8 +100,8 @@ The second version is better because:
 
 <div>
 
--   it clearly shows the (in this case very simple) behavior. 
--   It's understandable by everyone, even non-techies, even techies.
+- it clearly shows the (in this case very simple) behavior.
+- It's understandable by everyone, even non-techies, even techies.
 
 But the second version doesn't say anything about HOW the system or even
 the automation is done. That's just what we wanted but where did the HOW
@@ -111,7 +113,6 @@ Well - we pushed it down. Further than you think too. As you probably
 well aware of each line in our scenario maps to a step definition. This
 is the code that Cucumber / SpecFlow calls when the scenario is
 executed. A SpecFlow feature looks something like this:
-
 
 This is the method that get's called by Cucumber/SpecFlow as the
 scenario is executed. Great you think - let's keep the HOW there. Let's
@@ -171,7 +172,7 @@ this in the form of the [Page Object
 Wrapper](http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html)
 that I've blogged about before. While this is a great idea I think that
 the DSL/Driver constructed above is better. It becomes a higher level
-Driver, that contains the Page Objects you might need. 
+Driver, that contains the Page Objects you might need.
 
 </div>
 
@@ -184,7 +185,7 @@ If you don't have a higher level Driver you'll need to orchestrate how
 you call between the different pages right in the step definitions,
 making them more complicated and harder to maintain. A DSL/Driver object
 that in turns calls into the Page Object is a much better, and more
-maintainable solution, in my opinion. 
+maintainable solution, in my opinion.
 
 </div>
 
@@ -199,12 +200,12 @@ And finally, here is the HOW:
 
 </div>
 
-
 Here we interact with the system to enter stuff and assert the output
 from the system. Of course drivers doesn't have to be run against web
 pages only. Here's another driver that interacts with the
 [Nancy](http://www.nancyfx.org/) [testing
 browser](http://www.marcusoft.net/2013/01/NancyTesting1.html):
+
 ### Conclusion and "was that really necessary?"
 
 Yes, there's a layered architecture right there. Here's how it looks in
@@ -229,10 +230,9 @@ data-border="0" width="400" height="325" /></a>
     outcomes. Might interact with Page objects/drivers in turn.  
 4.  Automation code - driver objects that performs the HOW (finally) in
     the interaction with the system. Enters input, reads and asserts
-    values back from the system. Web page automation is found here. 
+    values back from the system. Web page automation is found here.
 5.  System under test - the system that you are testing. The production
     code
-
 
 It's not suitable for a single feature that you might throw away at the
 end of the sprint. But if you will maintain the tests over a period of

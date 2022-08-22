@@ -1,22 +1,23 @@
 ---
 layout: post
-title: Team Yayasan week 4: Throughput and lead times'
-date: 2014-03-24T06:44:00.000+01:00
+title: Team Yayasan week 4 - Throughput and lead times
+date: 2014-03-24T05:44:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan  - Lean
+  - Team Yayasan
+  - Lean
   - Kanban
   - Agile
   - Salvation Army
-modified_time: 2014-03-24T06:44:15.030+01:00
-thumbnail: http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
+modified_time: 2014-03-24T05:44:15.030Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2414901018966712482
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 The last week the blog post turned long. Sorry. This meant to just be
 short updates. Here's another one.
@@ -58,7 +59,6 @@ data-border="0" width="240" height="320" /></a>
 
 </div>
 
-
 We have put a dot on our Reason-sticky to indicate how many days we have
 waited. Yeah, that's 13 dots  for the one on the left there. And we have
 worked maybe 2 hours on that one....
@@ -66,7 +66,6 @@ worked maybe 2 hours on that one....
 Also, this week we started 4-5 new items that was Large or Medium.
 Meaning that they will take some time before they are finished. And
 accordingly, after this week our throughput looked like this:
-
 
 |                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------:|
@@ -93,7 +92,7 @@ throughput. Since they all will arrive at the same time. Especially if
 you do L items only... Another reason to strive for smaller things.
 
 > Small things, arriving frequently and often is better than large
-> things arriving seldom. 
+> things arriving seldom.
 
 > Old Marcus proverb (since this morning)
 

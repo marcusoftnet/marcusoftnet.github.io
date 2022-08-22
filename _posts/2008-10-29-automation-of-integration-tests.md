@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/automation-of-integration-tes
 ---
 
 
-
 In my current project we have reached a very good code coverage percent
 (98,7 %, yes we are proud) - but we are aspiring to take it a step
 further.

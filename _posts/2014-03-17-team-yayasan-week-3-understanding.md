@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Team Yayasan week 3: Understanding the problem
-and sloppy limits'
-date: 2014-03-17T05:18:00.000+01:00
+title: Team Yayasan week 3 - Understanding the problem and sloppy limits
+date: 2014-03-17T04:18:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan  - Lean
+  - Team Yayasan
+  - Lean
   - Kanban
-modified_time: 2014-03-17T05:18:29.327+01:00
-thumbnail: http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
+modified_time: 2014-03-17T04:18:29.327Z
+thumbnail: >-
+  http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7834322553779832021
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-3-understanding.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Every week (or in case of this week) we hold a short
 <a href="http://en.wikipedia.org/wiki/Retrospective"
@@ -30,8 +30,8 @@ target="_blank">someone should write about that</a>.
 
 Going into this week we decided two things to improve:
 
--   Deep dive into why we don't get reports in time
--   Lower our work in process limit from 14 to 12. 
+- Deep dive into why we don't get reports in time
+- Lower our work in process limit from 14 to 12.
 
 <div>
 
@@ -69,7 +69,7 @@ and following the policies we had discuss.
 I think this is why a team coach can be handy. I think. Someone that
 stands a bit on the side and take a little different perspective.
 
-It's now confession time; 
+It's now confession time;
 
 </div>
 
@@ -83,20 +83,19 @@ success". It should be easy to do right and hard to do wrong.
 
 In our team this sloppyness has manifested itself in these things:
 
-
--   Breaking the work in process limit for days, with no discussion
+- Breaking the work in process limit for days, with no discussion
     (great coaching there, Marcus. Not!)
--   Adding items into the Doing column without checking if there's
+- Adding items into the Doing column without checking if there's
     something we can help complete
--   Not estimating tasks to Small, Medium and Large
--   Not talking about a Definition of Done. 
+- Not estimating tasks to Small, Medium and Large
+- Not talking about a Definition of Done.
 
 <div>
 
 So we have now (on this short retrospective we had this morning) decided
 to try to be better. I will try to be a bit more active in my coaching
 around the board and we all will try to follow the few rules that we
-have set up. 
+have set up.
 
 </div>
 
@@ -121,7 +120,7 @@ Now to something very much more interesting and fun. And rewarding too.
 We had a problem that we had to nag and remind our hospitals to get
 their reports to us in. This week we completed the finance reporting for
 last year. And right now we are 76 days (yeah, nothing for this year)
-for the current finance reporting. 
+for the current finance reporting.
 
 </div>
 
@@ -133,7 +132,7 @@ for the current finance reporting. 
 We decided to invest a couple (2 x 2) hours to try to understand more
 about this. I wanted to try something that I haven't run before too, so
 we created two workshops with different purposes: first understand the
-problem and then come up with actions to try to allivate the problem. 
+problem and then come up with actions to try to allivate the problem.
 
 </div>
 
@@ -180,7 +179,7 @@ Again I was impressed with how this exercise helps you do understand the
 consequences of not fixing the problem. The Why-questions was also
 important and good things came out of that, but to really see the
 long-reaching (failing to reach vision/mission for example) consequences
-of not fixing this problem is the thing that sticks. 
+of not fixing this problem is the thing that sticks.
 
 </div>
 
@@ -199,7 +198,7 @@ href="http://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html"
 target="_blank">many</a> <a
 href="http://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html"
 target="_blank">times</a> about it. I've always thought that it would
-make a great workshop and now I got the time to try it. 
+make a great workshop and now I got the time to try it.
 
 </div>
 
@@ -237,7 +236,7 @@ Hammarberg</a>**
 My idea was to go through all of the aspects of change Switch is
 mentioning and try to come up with ideas around each one of them. And
 that was what we did. But first, a short intro to the ideas in Switch,
-or the rest of this blog post will be silly. 
+or the rest of this blog post will be silly.
 
 </div>
 
@@ -248,14 +247,13 @@ or the rest of this blog post will be silly. 
 The authors talk about the human psyche being like a rider and an
 elephant going down a jungle path.
 
-
--   The rider is our conscious, logical reasoning. We know where we
+- The rider is our conscious, logical reasoning. We know where we
     going and why. Let's do it!
--   The elephant is our subconscious, emotional side. The one that is a
+- The elephant is our subconscious, emotional side. The one that is a
     bit oh I'm hungry, let's get a cookie... Yeah, you know that side,
     right. The problem is that the elephant weight 5 tons and the rider
     is directing him with two leather reins... The rider cannot win
--   The path they are travelling on is also part on how to make change
+- The path they are travelling on is also part on how to make change
     happen. Is it full of distractions? Is it easy to follow? Is there a
     path or do they have to make one?
 
@@ -266,7 +264,7 @@ rider and the elephant and help to form the path. To me the ideas in
 Switch is a thinking framework. Different aspects that you can think
 about how to tackle change. We can come up with only one idea and that
 might work. But if we make sure to address all the parts of the Switch
-framework we have a much higher chance to make change happen. 
+framework we have a much higher chance to make change happen.
 
 </div>
 
@@ -286,7 +284,7 @@ have directed the rider, motivated the elephant and shaped the path.
 
 I used that in my workshop by telling one of these stories before we
 dived in. It worked... not flawlessly but it worked. It's of course a
-lot to take in. 
+lot to take in.
 
 </div>
 
@@ -314,7 +312,7 @@ data-border="0" width="400" height="300" /></a>
 And then we <a href="http://martinfowler.com/bliki/DotVoting.html"
 target="_blank">dot voted</a> to get a list of the thing we would make
 the biggest difference. Here is our list, with two of the items being
-crossed over already; 
+crossed over already;
 
 </div>
 
@@ -331,7 +329,7 @@ data-border="0" width="320" height="240" /></a>
 <div>
 
 Two of the things that we have start doing have actually made a
-difference already. 
+difference already.
 
 </div>
 
@@ -366,24 +364,24 @@ And here's how a reminder email can look like, following that advice:
 > to improve". That's why we keep pushing us and keep nagging about
 > reports being late. Like this. I am NOT angry with any single one of
 > you, I just want us to improve. Us. The Yayasan. And all the hospitals
-> and clinics in it. And the Kantor Yayasan. Us. 
+> and clinics in it. And the Kantor Yayasan. Us.
 
 > Ok, right now we are waiting for the finance report. I learned this
 > monday that we have got all the reports from all hospitals up to 31/12
 > 2013. That's great! But that also means that we 73 days that is not
-> reported. See attached photo. Our goal is that it should be 1. 
+> reported. See attached photo. Our goal is that it should be 1.
 
 > This renders a lot of extra work for Bp Deny and Bp Anton since they
 > have to call several times a day (see attached photo) and remind us to
 > get our reports in on time. And keeping the Kantor Pusat accounting up
 > to date is considerable harder too, since the different books from the
-> different hospitals is out of synchronization. 
+> different hospitals is out of synchronization.
 
 > Let's help them and get the report for February in. It's the only
 > thing that is still missing, so it's not that much left now! We're
-> halfway there! 
+> halfway there!
 
-> Thank you for help us to be a better Yayasan! 
+> Thank you for help us to be a better Yayasan!
 
 Sorry about that lengthy text, but it was really interesting to try to
 follow our own advice. Try it yourself and you'll see that you get a
@@ -406,7 +404,7 @@ data-border="0" width="240" height="320" /></a>
 <div class="separator" style="clear: both; text-align: left;">
 
 That is showing the number of calls we do each day as well as showing
-how many days behind (76) we are compared to the goal (1). 
+how many days behind (76) we are compared to the goal (1).
 
 </div>
 
@@ -416,7 +414,7 @@ how many days behind (76) we are compared to the goal (1). 
 <div class="separator" style="clear: both; text-align: left;">
 
 We will be continuing working with the other things we came up with as
-well. 
+well.
 
 </div>
 
@@ -427,7 +425,7 @@ well. 
 <div>
 
 Oh, man! This was a long post. I hope I didn't bore you totally with
-that. We learn. We improve. That's the summary of all of this. 
+that. We learn. We improve. That's the summary of all of this.
 
 </div>
 

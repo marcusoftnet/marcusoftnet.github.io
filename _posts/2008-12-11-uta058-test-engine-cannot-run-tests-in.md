@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/12/uta058-test-engine-cannot-run
 ---
 
 
-
 We have a done a MsTest-dll that contain our integration tests that is
 run after each deploy to our daily build environment.
 

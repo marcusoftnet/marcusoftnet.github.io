@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/automapping-with-fluentnhiber
 ---
 
 
-
 I ran across <a
 href="http://ayende.com/Blog/archive/2008/12/11/fluent-nhibernate.aspx"
 target="_blank">this post by Ayende</a> and it pretty much sums up where

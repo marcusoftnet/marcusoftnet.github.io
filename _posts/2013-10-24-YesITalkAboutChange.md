@@ -1,22 +1,21 @@
 ---
 layout: post
-title: What I''m talking about: Yes - I''m talking
-about changing'
-date: 2013-10-24T13:44:00.001+02:00
+title: What I am talking about - Yes - Im talking about changing
+date: 2013-10-24T11:44:00.001Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-
   - Agile
-modified_time: 2013-11-12T21:04:53.237+01:00
-thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
+modified_time: 2013-11-12T20:04:53.237Z
+thumbnail: >-
+  http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052
 blogger_orig_url: http://www.marcusoft.net/2013/10/YesITalkAboutChange.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have done numerous presentations on Lean and Agile and there's a
 couple of things that I often feel that I don't succeed in implanting in
@@ -40,7 +39,7 @@ When I introduce people to Lean I often play a little game with
 them. <a href="http://blog.crisp.se/2008/09/08/mattiasskarin/1220882915232"
 target="_blank">Pass the pennies</a> or
 <a href="http://www.netobjectives.com/resources/articles/the-dot-game"
-target="_blank">The Dot Game</a> are my two current favorites. 
+target="_blank">The Dot Game</a> are my two current favorites.
 
 </div>
 
@@ -66,7 +65,7 @@ number of coins to pass per batch (or
 <a href="http://en.wikipedia.org/wiki/Work_in_process"
 target="_blank">Work In Process</a> if you want). The rows is the
 individual workers timings and the result for the First coin to arrive
-and the Total time. 
+and the Total time.
 
 </div>
 
@@ -74,7 +73,7 @@ and the Total time. 
 
 Note the big difference for the 20-coin-batch result and the
 1-coin-batch result. Also note what happens with the individual workers
-timings. 
+timings.
 
 </div>
 
@@ -100,7 +99,7 @@ played...). The comment often sound something like:
 > This all sound nice in theory but you know here, we I live, let's call
 > it reality for the sake of argument, that stuff doesn't work. We need
 > to wait for others, or there's third party suppliers. Also we have
-> instructions that tells us to ... 
+> instructions that tells us to ...
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -156,7 +155,7 @@ when I talk about this.
 I once visited a team that had a really bad reputation for being slow.
 It was a support team and they "took forever to get something done". The
 first thing we did was to visualize their process and added their
-current work item into the different stages of their workflow. 
+current work item into the different stages of their workflow.
 
 </div>
 
@@ -165,7 +164,7 @@ current work item into the different stages of their workflow. 
 
 <div>
 
-It looked something like this: 
+It looked something like this:
 
 </div>
 
@@ -186,12 +185,12 @@ data-border="0" width="400" height="135" /></a>
 
 And, after we played the game, talked about Lean and everyone had agree
 on that we were here to complete work items not being busy - the comment
-of course came: 
+of course came:
 
 </div>
 
 > But that won't work for us, this is the way we do things around here.
-> There's a lot of built in waiting in our process. 
+> There's a lot of built in waiting in our process.
 
 I'm talking about changing that. I'm talking about removing those
 waiting states. I'm talking about doing our work in a different way to
@@ -233,7 +232,7 @@ One of the things that really fascinates me about Toyota is their vision
 and that they aim to accomplish that through focusing on
 one-piece-continuous-flow. That is just mind blowing to me. Toyotas
 vision is **not** to sell X million cars. It's to have a smooth flow in
-their process. 
+their process.
 
 </div>
 
@@ -245,7 +244,7 @@ their process. 
 That means that Toyota have a very clear and distinctive true north:
 one-piece-continuous-flow. They are not there yet and probably never
 will be, but in the striving towards that ideal state they allow
-themselves to innovate and evolve their process in small increments. 
+themselves to innovate and evolve their process in small increments.
 
 </div>
 
@@ -260,7 +259,7 @@ doing so they can allow themselves to experiment, in very small
 increments, and see if their hypothesis was confirmed or disproved. You
 can read more about this in the excellent book
 <a href="http://www-personal.umich.edu/~mrother/Homepage.html"
-target="_blank">Toyota Kata</a>. 
+target="_blank">Toyota Kata</a>.
 
 </div>
 
@@ -275,7 +274,7 @@ target="_blank">Toyota Kata</a>. 
              style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
    src="http://4.bp.blogspot.com/-Dz-S3gae76c/UmkAFJ0V_QI/AAAAAAAABvY/PqqZv4F0Lro/s200/buildmeasurelearn.png"
                                 data-border="0" width="191" height="200" /></a>                                |
-|                                             From http://lean.st/                                             |
+|                                             From <http://lean.st/>                                             |
 
 <div>
 
@@ -297,7 +296,7 @@ movement</a>.
 The current way of working is only best so far, for a company with a
 mindset like Toyota. Changing the process is the normality, that's how
 we work. A failed experiment is just a learning that disproved our
-hypothesis - that's a good thing. We learned and can improve from that. 
+hypothesis - that's a good thing. We learned and can improve from that.
 
 </div>
 
@@ -310,7 +309,7 @@ Doing these kind of changes with a long feedback loop is both
 cumbersome, hard and risky, as you will not see the effect of you
 suggested change (experiment) in a long time. With a short feedback
 loop, which in turn pushes us towards doing tiny changes, it's much
-easier and safer to experiment. 
+easier and safer to experiment.
 
 </div>
 
@@ -319,18 +318,18 @@ easier and safer to experiment. 
 
 <div>
 
-Change is the normality. 
+Change is the normality.
 
 </div>
 
-### Conclusion 
+### Conclusion
 
 <div>
 
 Yes - I'm talking about changing the way you work today. In ways that
 neither you nor I could foresee. But keeping our eye on our true north
 (be it one-piece-continuous-flow or something else that you and your
-organization finds important) we will improve. 
+organization finds important) we will improve.
 
 </div>
 

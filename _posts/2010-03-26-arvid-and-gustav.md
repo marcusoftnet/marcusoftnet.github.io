@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/arvid-and-gustav.html
 ---
 
 
-
 The last week have really been something extra. Last Friday, early
 morning we got some signs on that the
 <a href="http://www.marcusoft.net/2009/11/life-changing-events.html"

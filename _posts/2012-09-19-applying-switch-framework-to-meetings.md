@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Applying Switch framework to: Meetings are not
-real work'
-date: 2012-09-19T09:00:00.000+02:00
+title: Applying Switch framework to  Meetings are not real work
+date: 2012-09-19T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-09-24T11:05:51.476+02:00
-thumbnail: http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
+modified_time: 2012-09-24T09:05:51.476Z
+thumbnail: >-
+  http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
 ---
@@ -53,7 +52,6 @@ href="http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.h
 target="_blank">Developers don't want to test</a>. I thought that this
 could be a good fit; Applying the Switch framework to Meetings are not
 work.
-
 
 ### Switch framework
 
@@ -104,7 +102,7 @@ and the elephant part of people. The rider need clear instructions while
 the elephant need motivation and some reasons for why this should be
 done. Finally you need to shape the path on which they are going to be
 traveling. The Switch framework gives you some guidelines on how to
-accomplish that. 
+accomplish that.
 
 </div>
 
@@ -144,7 +142,7 @@ target="_blank">Shaping the path</a> in the other posts in the series.
 
 One very effective and simple way to get change is to follow the bright
 spots. What works? Who has got this down? Where is the best place to see
-the change implemented today? 
+the change implemented today?
 
 </div>
 
@@ -171,14 +169,14 @@ not having enough to eat. What he simply did was to see what the mothers
 did for the kids that actually survived - because those existed. They
 did simple things differently (for example feeding the kids 4 times a
 day instead of 2 (same amount of food in total) or adding other
-vegetables instead of rice every now and then). 
+vegetables instead of rice every now and then).
 
 </div>
 
 <div>
 
 The guy trying to help them out simple pointed to this and thought
-this behavior to the other mother with a great effect as a result. 
+this behavior to the other mother with a great effect as a result.
 
 </div>
 
@@ -199,22 +197,22 @@ happend then?
 
 <div>
 
-For me personal it's quite simple things; 
+For me personal it's quite simple things;
 
 </div>
 
 <div>
 
--   I came out the meeting and felt that we actually accomplished
+- I came out the meeting and felt that we actually accomplished
     something. We have decided or made something in the meeting. Or
-    better yet - we all learned something in the progress. 
--   Also when I felt that everybody in the room had their place and we
+    better yet - we all learned something in the progress.
+- Also when I felt that everybody in the room had their place and we
     couldn't have come to the same great result without everybody
-    present - that also is a great meeting for me. 
--   Not dragging out - great meetings may even feel a bit too short.
--   Not technical hiccups - leaving us all the time we wanted for the
+    present - that also is a great meeting for me.
+- Not dragging out - great meetings may even feel a bit too short.
+- Not technical hiccups - leaving us all the time we wanted for the
     actual content instead of messing around trying to show slides
-    correctly. 
+    correctly.
 
 </div>
 
@@ -259,7 +257,7 @@ martial arts.
            style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
    src="http://4.bp.blogspot.com/-6caXeNINimQ/UFgn7YJlOkI/AAAAAAAABYE/g2sW_8VDLpk/s320/CLASSES_KATA.jpg"
                              data-border="0" width="320" height="240" /></a>                              |
-|                                   From http://www.rochdalekarate.com/                                   |
+|                                   From <http://www.rochdalekarate.com/>                                   |
 
 <div>
 
@@ -272,7 +270,7 @@ arts.
 
 **Shu** means Obey the rules - do exactly what the sensei tells you. Do
 it over and over again until it's second nature. This is what Script the
-critical moves is all about. 
+critical moves is all about.
 
 </div>
 
@@ -286,7 +284,7 @@ done before. But do that taking a stance in the basic rules you know.
 <div>
 
 **Ri** means Leave the rules. Make up new rules for yourself. When you
-are the master you can make up new techniques. 
+are the master you can make up new techniques.
 
 </div>
 
@@ -298,7 +296,7 @@ are the master you can make up new techniques. 
 So here we want some really simple rules or guidelines to follow. In our
 case this can be as simple as guidelines for how to hold effective
 meetings, that are distributed to all meeting rooms, for example. And
-probably taught to the whole organisation. Why not when you are hired? 
+probably taught to the whole organisation. Why not when you are hired?
 
 </div>
 
@@ -315,22 +313,22 @@ target="_blank">ideas borrowed from here</a>):
 
 <div>
 
--   Write a great **Invite** - make sure that you only invite the people
+- Write a great **Invite** - make sure that you only invite the people
     that are needed. Make sure they know why they are there and why they
-    are needed in order to accomplish the goal of the meeting. 
--   Have a clear **Outcome** or Goal for the meeting. State the goal in
+    are needed in order to accomplish the goal of the meeting.
+- Have a clear **Outcome** or Goal for the meeting. State the goal in
     the beginning; "We are here to X! Let's go!" or "After this meeting
     we will have done/reached Y"
--   **Timebox** the meeting - adjust the content of the meeting to a
+- **Timebox** the meeting - adjust the content of the meeting to a
     certain time and not the other way around. In this way people know
     when they are available again and can trust on it being so. Start
-    with just having 45 min meetings instead of the ubiquitous 1 hour. 
--   Offer each other the **Focus** gift - when we're in this short
+    with just having 45 min meetings instead of the ubiquitous 1 hour.
+- Offer each other the **Focus** gift - when we're in this short
     meeting (it is short, right?) we are focused. Put away computers and
     phones on a table at the door. This will also send a signal about
-    you being really serious about the focus. 
--   Before you leave make sure that **Actions** are clear and with an
-    owner and a due date. 
+    you being really serious about the focus.
+- Before you leave make sure that **Actions** are clear and with an
+    owner and a due date.
 
 <div>
 
@@ -340,7 +338,7 @@ excellent
 <a href="https://twitter.com/chibbeu" target="_blank">@chibbeu (Christer
 Unestrand)</a> there's now an excellent abbreviation for this. FAT I/O -
 make sure that your meetings are using it! I'm here by claiming rights
-to that abbreviation FAT I/O (tm). 
+to that abbreviation FAT I/O (tm).
 
 </div>
 
@@ -354,7 +352,7 @@ to that abbreviation FAT I/O (tm). 
 Seriously - try to have a few simple rules that everybody can follow.
 Post them everywhere. And teach them to everyone. So that people that
 are conducting bad meetings are reminded by the attendees on how to do
-it better. 
+it better.
 
 </div>
 
@@ -369,23 +367,22 @@ When we get there!
 
 </div>
 
-
 It's a great way to show the goal to everyone involved in the change we
 undertaking. Let this be a vision, something that we might never reach
 but is well worth reaching FOR.
 
 In our case we could talk about:
 
--   I only attend important meetings
--   Every meeting being productive
--   Coming out more energized that you went in
--   No more fully booked calendars
--   Every person in the meeting contributes
+- I only attend important meetings
+- Every meeting being productive
+- Coming out more energized that you went in
+- No more fully booked calendars
+- Every person in the meeting contributes
 
 <div>
 
 You can probably do much better than me when it comes to come up with
-a beautiful future. 
+a beautiful future.
 
 </div>
 
@@ -397,7 +394,7 @@ I've deliberately not talked about meeting free days or having fewer
 meetings here. I think those can be great for productivity but I'm also
 afraid that they may reinforce that meetings are not real work. And we
 don't want that. Quite the opposite in fact - we want the meetings we
-have to feel important and fun. 
+have to feel important and fun.
 
 </div>
 
@@ -408,10 +405,9 @@ have to feel important and fun. 
 
 Yes - we could probably cut down on the actual number as well, but that
 will probably happen when you start to ask questions on why we're
-holding the meeting. 
+holding the meeting.
 
 </div>
-
 
 In this post I have tried different ways of addressing the Rider - the
 one that could reason about this and really know how a great meeting

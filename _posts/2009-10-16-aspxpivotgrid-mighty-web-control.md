@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/aspxpivotgrid-mighty-web-cont
 ---
 
 
-
 OK – this might well be one of the “biggest” web control I ever used.
 
 The application we’re building has a feature that let’s the user play

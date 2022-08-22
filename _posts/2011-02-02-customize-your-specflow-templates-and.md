@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/02/customize-your-specflow-templ
 ---
 
 
-
 I got this tip from a non-developer. An intern actually. He’s brilliant
 though and figured this out by himself, about 3 months after I
 introduced him to

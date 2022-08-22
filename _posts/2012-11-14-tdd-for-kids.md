@@ -14,7 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/11/tdd-for-kids.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I had the opportunity to do something exciting yesterday. I was invited
 by my good friend Tristessa to teach a class on programming for her

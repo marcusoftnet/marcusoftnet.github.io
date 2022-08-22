@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Find the control–a way to stabilize UI
-automation… a bit
-date: 2012-05-23T11:07:00.001+02:00
+title: Find the control–a way to stabilize UI automation… a bit
+date: 2012-05-23T09:07:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Agile
   - SpecFlow
-modified_time: 2012-05-23T11:09:35.847+02:00
+modified_time: 2012-05-23T09:09:35.847Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4713664336685455661
 blogger_orig_url: http://www.marcusoft.net/2012/05/find-controla-way-stabilize-ui.html
 ---
@@ -35,6 +34,7 @@ page and position.
 In this post I will examine those different approaches and suggest one
 way that I’ve found very useful to further handle the brittleness of a
 webpage.
+
 #### What was the problem now again?
 
 The problem with testing against a web page is that those tests tend to
@@ -85,7 +85,7 @@ or stop using a table for layout etc.
 By using those we could say that we are violating the
 <a href="http://en.wikipedia.org/wiki/Single_responsibility_principle"
 target="_blank">SRP Single Responsibility Principle</a> since the CSS
-class now have 2 reasons to change. 
+class now have 2 reasons to change.
 
 One could argue, at least with certain web frameworks, that even the ID
 or Name couldn’t safely be used for find the control when Automating.

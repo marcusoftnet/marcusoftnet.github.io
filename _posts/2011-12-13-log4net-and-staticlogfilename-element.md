@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/12/log4net-and-staticlogfilename
 ---
 
 
-
 We have been chasing some strange logging bugs for a while in my current
 project. We are using
 <a href="http://logging.apache.org/log4net/" target="_blank">log4net</a>

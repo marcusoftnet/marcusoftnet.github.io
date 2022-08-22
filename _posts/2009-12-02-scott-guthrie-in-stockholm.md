@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Scott Guthrie in Stockholm
-date: 2009-12-02T15:14:00.001+01:00
+date: 2009-12-02T14:14:00.001Z
 author: Marcus Hammarberg
 tags:
-  - .NET -
-ASP.NET MVC
-modified_time: 2010-12-14T16:18:09.703+01:00
+  - .NET
+  - ASP.NET MVC
+modified_time: 2010-12-14T15:18:09.703Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6428713655390600790
 blogger_orig_url: http://www.marcusoft.net/2009/12/scott-guthrie-in-stockholm.html
 ---
@@ -30,13 +30,13 @@ aims to be extensible and possible to tweek to your preferences.
 From <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> 2
 I especially like
 
--   The
+- The
     <a href="http://msdn.microsoft.com/en-us/library/dd470179(VS.100).aspx"
     target="_blank">xxxFor HTML-helper</a> methods
--   The
+- The
     <a href="http://msdn.microsoft.com/en-us/library/ee402949(VS.100).aspx"
     target="_blank">EditorFor</a> helper methods
--   <a
+- <a
     href="http://odetocode.com/Blogs/scott/archive/2009/10/13/asp-net-mvc2-preview-2-areas-and-routes.aspx"
     target="_blank">Areas</a> (which I understood for the first time
     during this presentation, thank you Scott).

@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/moq-and-test-run-deployment-i
 ---
 
 
-
 The <a
 href="http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx"
 target="_blank">NerdDinner</a> example uses the

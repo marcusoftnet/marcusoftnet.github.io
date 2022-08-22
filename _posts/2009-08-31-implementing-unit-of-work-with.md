@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Implementing Unit Of Work with NHibernate
-date: 2009-08-31T14:54:00.001+02:00
+date: 2009-08-31T12:54:00.001Z
 author: Marcus Hammarberg
 tags:
-  - DDD -
-NHibernate
+  - DDD
+  - NHibernate
   - Agile
-modified_time: 2009-08-31T14:56:38.686+02:00
+modified_time: 2009-08-31T12:56:38.686Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-49902724261637921
 blogger_orig_url: http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html
 ---
@@ -28,19 +28,19 @@ I have been doing some labs with NHibernate the last couple. And as
 often with me – I think I am in love. NHibernate really rocks. The
 mapping files are quite hard to chew off at first and I suspect that
 there are many tricks and traps for me to find. But still – so
-beautiful. 
+beautiful.
 
 Of course the Net has helped me a lot on my quest. Here are some
 articles that I’ve used:
 
--   <a
+- <a
     href="https://www.hibernate.org/hib_docs/nhibernate/1.2/reference/en/html_single/"
     target="_blank">The NHibernate API Reference</a>
--   A great <a
+- A great <a
     href="http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/04/01/your-first-nhibernate-based-application.aspx"
     target="_blank">first-time tutorial</a> that helped me in the early
     stages
--   Here is a great couple of articles describing the unit of work
+- Here is a great couple of articles describing the unit of work
     pattern implemented with NHibernate (<a
     href="http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/04/10/nhibernate-and-the-unit-of-work-pattern.aspx"
     target="_blank">part 1</a>, <a
@@ -48,10 +48,10 @@ articles that I’ve used:
     target="_blank">2</a>, <a
     href="http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/04/26/nhibernate-and-the-unit-of-work-pattern-part-3.aspx"
     target="_blank">3</a>)
--   <a
+- <a
     href="http://sdesmedt.wordpress.com/2006/09/04/nhibernate-part-4-mapping-techniques-for-aggregation-one-to-many-mapping/"
     target="_blank">More advanced mapping scenarios</a>
--   Description on how to <a
+- Description on how to <a
     href="http://codebetter.com/blogs/peter.van.ooijen/archive/2008/05/29/nhibernate-many-to-many-collections-or-mapping-is-not-one-table-one-class.aspx"
     target="_blank">map many-to-many entities</a>, without having to
     specify a connection entity that matches the connection table.

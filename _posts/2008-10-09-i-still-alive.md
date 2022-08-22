@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/i-still-alive.html
 ---
 
 
-
 The blogging has been down to a minimum for the last couple of weeks.
 This has to do with the current project being rushed to say the least.
 

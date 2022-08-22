@@ -18,8 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting5.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 When I showed the code from the [last
 post](http://www.marcusoft.net/2013/02/NancyTesting4.html) to

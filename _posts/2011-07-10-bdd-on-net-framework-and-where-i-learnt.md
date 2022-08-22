@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/07/bdd-on-net-framework-and-wher
 ---
 
 
-
 I got a very well formulated email from Jose Samonte the other day. He
 asked me about some resources on
 <a href="http://en.wikipedia.org/wiki/Behavior_Driven_Development"

@@ -12,8 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/06/whoIsNotTeams.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I was asked to help a client to facilitate a
 <a href="http://impactmapping.org/" target="_blank">Impact Mapping</a>

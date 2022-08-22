@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/waiting-should-be-note-and-no
 ---
 
 
-
 Quite often when you create a visualized version of your workflow you
 end up with a waiting column. This is where items goes while your are
 waiting for someone else, or something else to happen before you can

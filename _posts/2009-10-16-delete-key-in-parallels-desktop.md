@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/delete-key-in-parallels-deskt
 ---
 
 
-
 OK – this might well be one of the shortest thing I’ve written but it’s
 sooo annoying.
 

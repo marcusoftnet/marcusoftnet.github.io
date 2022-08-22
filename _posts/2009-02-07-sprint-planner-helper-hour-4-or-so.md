@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-4-
 ---
 
 
-
 OK – I have been doing some thinking and model crunching and found out
 that still is chewing of to much. There was no really good starting
 point for me. Finally it struck me: The product manages one or more

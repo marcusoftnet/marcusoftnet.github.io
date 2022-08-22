@@ -1,22 +1,20 @@
 ---
 layout: post
-title: What do you want to give customers; bad or good
-news? '
-date: 2013-12-06T08:50:00.002+01:00
+title: What do you want to give customers; bad or good news?
+date: 2013-12-06T07:50:00.002Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Lean
   - Agile
   - Indonesia
-modified_time: 2013-12-08T20:53:20.953+01:00
+modified_time: 2013-12-08T19:53:20.953Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4948431215303714546
 blogger_orig_url: http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 We've just got our visas for entering Indonesia! Lovely!
 
@@ -35,10 +33,9 @@ things - just to match that prediction.
 
 But we got a couple of;
 
--   "it will probably take 2 weeks more"
--   "no news - probably a week or two more"
--   "well... haven't heard anything yet - should be done soon". 
-
+- "it will probably take 2 weeks more"
+- "no news - probably a week or two more"
+- "well... haven't heard anything yet - should be done soon".
 
 all of which just told us that this will take longer. And longer. And.
 Longer.
@@ -52,16 +49,16 @@ get bad news until our visas was done. You've already seen examples of
 typical "It's delayed"-responses above but once you think about it even
 *good* news will not do much for you:
 
--   "it's almost done"
--   "we have had a great week - made good progress on your file."
--   "yeah, there's a lot of things going on right now. Feels great!"
+- "it's almost done"
+- "we have had a great week - made good progress on your file."
+- "yeah, there's a lot of things going on right now. Feels great!"
 
 <div>
 
 And then it struck me; I have done this (in the past). In IT! And I've
 seen this strategy being used, even lately, in companies. This is what
 happens with big bang releases where you build and build and build and
-then release the complete product. 
+then release the complete product.
 
 </div>
 
@@ -86,7 +83,7 @@ and loving every minute of it.
 So when we eventually got the visa the immediate reaction was actually
 "Well... FINALLY! That was about time!" (I don't use curse words, but
 would have if I could. Here. And here. And a long one after this
-sentence. HERE!) 
+sentence. HERE!)
 
 </div>
 
@@ -97,11 +94,11 @@ sentence. HERE!) 
 
 Summing up; setting up your process in a Big Bang fashion bootstrap
 yourself for a series of bad news that eventually will disappoint the
-customer. 
+customer.
 
 </div>
 
-### Another way? 
+### Another way?
 
 <div>
 
@@ -110,7 +107,7 @@ Sadly, as far as visa-approving-processes goes, I have not a clue on how
 to improve this. I do know that putting your customer and her needs
 first, aim to improve and
 <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
-target="_blank">CHANGE</a> your process is a great way to get started. 
+target="_blank">CHANGE</a> your process is a great way to get started.
 
 </div>
 
@@ -125,7 +122,7 @@ target="_blank">CHANGED</a> our process into delivering small increments
 (that's working pieces of software to production, for the rest of us)
 frequently, starting with the ones that are most important to our
 business first... well then we have set ourselves up for a very
-different kind of experience for our customer. 
+different kind of experience for our customer.
 
 </div>
 
@@ -136,7 +133,7 @@ different kind of experience for our customer. 
 
 Quite the opposite from the above in fact; with small frequent release
 you have a series of good news until, all of a sudden, you have exactly
-what your customer needed. 
+what your customer needed.
 
 </div>
 
@@ -147,7 +144,7 @@ what your customer needed. 
 
 The million dollar question(s) is; which one do you prefer?  How will
 you <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
-target="_blank">CHANGE</a> today towards that goal? 
+target="_blank">CHANGE</a> today towards that goal?
 
 </div>
 

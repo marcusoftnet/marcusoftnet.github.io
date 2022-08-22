@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Kanban-inizing the Avega Group office–getting
-the show on the road
-date: 2011-09-19T09:00:00.000+02:00
+title: Kanban-inizing the Avega Group office–getting the show on the road
+date: 2011-09-19T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Kanban
   - Agile
-modified_time: 2011-09-19T09:02:31.079+02:00
-thumbnail: http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/s72-c/IMG_1334_thumb1.jpg?imgmax=800
+modified_time: 2011-09-19T07:02:31.079Z
+thumbnail: >-
+  http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/s72-c/IMG_1334_thumb1.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7479834583625300041
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html
 ---
@@ -29,21 +28,21 @@ time!) but should change and this is just a suggestion.
 Together with the teams we created a simple
 board, containing the following columns and policies:
 
--   **Inbox** – their to do list for a horizon that feel comfortable. We
+- **Inbox** – their to do list for a horizon that feel comfortable. We
     didn’t limit the number of items here, but suggested that they may
     think about that.
     Also we told them that the size of the items here could vary. When
     the move it into the next column the work items is broken down into
     smaller tasks
--   **Today** – the items that is due today. We suggested that they
+- **Today** – the items that is due today. We suggested that they
     should be between 0-8 hours in size and a work in process limit of
     max 6 per person.
--   **Doing** – the current work going on. We told them to create
+- **Doing** – the current work going on. We told them to create
     <a href="http://www.southparkstudios.se/avatar" target="_blank">2
     avatars</a> each and used that as WIP-limit for this column.
-    -   This column has a sub column of **Waiting** for stuff that is
+  - This column has a sub column of **Waiting** for stuff that is
         waiting for someone or something that hinder the progress
--   **Done** – stuff they finished. We suggested that they keep the
+- **Done** – stuff they finished. We suggested that they keep the
     stickies around until the end of each week , grouped by day. And
     then to hold a retrospective based on the outcome of the week. What
     worked? What felt great/bad?
@@ -68,12 +67,12 @@ width="403" height="302" alt="IMG_1333" />](http://lh4.ggpht.com/-wci4GQqDYrI/Tn
 They were up and running. The first few days we got comment like
 these:
 
--   “Hmmm – why is 4 stickies in waiting? Maybe I can take one of them”
--   “Creating avatars was to much fun – we created 4 each “(Breaking the
+- “Hmmm – why is 4 stickies in waiting? Maybe I can take one of them”
+- “Creating avatars was to much fun – we created 4 each “(Breaking the
     WIP-limit on doing with 100% (writers note))
--   “So nice to don’t have to hold all these task in my head”
--   “This made communication around the work easier and more concrete”
--   “Others will see how much we do. And have done – Ha ha!”
+- “So nice to don’t have to hold all these task in my head”
+- “This made communication around the work easier and more concrete”
+- “Others will see how much we do. And have done – Ha ha!”
 
 And finally a small episode that Morgan oversaw/heard:
 As one of the teams was hold a morning meeting two “clients” to the team

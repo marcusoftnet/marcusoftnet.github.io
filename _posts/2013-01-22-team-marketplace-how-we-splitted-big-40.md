@@ -17,8 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-split
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have a new coaching assignment at
 <a href="http://www.tradera.com/" target="_blank">Tradera</a> which is

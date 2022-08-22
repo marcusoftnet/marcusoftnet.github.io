@@ -10,7 +10,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integ
 ---
 
 
-
 Just found this
 <a href="http://www.soapui.org" target="_blank">tool</a> - or actually
 I've used but missed it's greatness...

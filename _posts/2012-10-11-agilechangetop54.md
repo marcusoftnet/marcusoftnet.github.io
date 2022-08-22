@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Top 5 Agile change tips \#4 - Support the
-initiative'
-date: 2012-10-11T09:00:00.000+02:00
+title: Top 5 Agile change tips 4 - Support the initiative
+date: 2012-10-11T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-10-11T09:00:16.968+02:00
+modified_time: 2012-10-11T07:00:16.968Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3150258399185542597
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop54.html
 ---
@@ -23,31 +21,29 @@ with. Over and over. And learned a lot from.
 
 </div>
 
-<div class="p2">
-</div>
-
 <div class="p1">
 
 This is the list - in order of importance:
 
 </div>
 
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a>
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a>
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
     target="_blank">Support the initiative</a> (this post)
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
+
 ### \#4 Support the initiative
 
 <div>
 
 This should be a no brainer but once you see it in action it's seldom
-handled correctly. 
+handled correctly.
 
 </div>
 
@@ -61,7 +57,7 @@ model for that, supporting the new ways. This means that the change must
 start with management. Yes - start. No - it is not enough that they are
 informed, on a need-to-know basis. They need to know how to support the
 teams to improve. To help them avoid falling back into the old ways of
-working. 
+working.
 
 </div>
 
@@ -74,7 +70,7 @@ Before somebody says it; I know that I just (#3) said that you should
 let people organize themselves in the way they see fit. But such freedom
 need to be supported from above. So we have a vision (the WHY) and
 support for the change from above and the actual change happening
-organically from the bottom up. 
+organically from the bottom up.
 
 </div>
 
@@ -93,7 +89,7 @@ If we saw that we're going to create a learning organization we need to
 make room for that learning. Managers must support this and for example,
 allow for slack. Managers cannot **say** that we want to create a
 learning organization and at the same time require that everybody are
-shipping in the required hours. That is sending two signals at once. 
+shipping in the required hours. That is sending two signals at once.
 
 </div>
 
@@ -102,7 +98,7 @@ shipping in the required hours. That is sending two signals at once. 
 The support from above need to be given on the floor. Walking around,
 being interested, asking questions and coaching the teams to continue
 improving. Hmmm - sounds like the things that a boss **should** be
-doing, right? 
+doing, right?
 
 </div>
 
@@ -115,7 +111,7 @@ There are strong forces at play here. At one client I was told not to
 talk about slack and learning since that manager had his bonus
 calculated from the allocation percentage of his employees. If they
 worked 100% he got more money. Even if they did stupid, non productive
-work. And learned nothing. 
+work. And learned nothing.
 
 </div>
 
@@ -127,7 +123,7 @@ But we were going to create a learning organization...  
 
 <div>
 
-It doesn't add up. 
+It doesn't add up.
 
 </div>
 
@@ -139,7 +135,7 @@ It doesn't add up. 
 So in order to succeed I would say that everybody above the teams need
 to not only know what going on, but also be trained enough to give the
 support and coaching that the organization needs. So that we are sure
-we're not sending the wrong signals. 
+we're not sending the wrong signals.
 
 </div>
 
@@ -176,5 +172,3 @@ succeed with agile transformation projects  
     target="_blank">Use visualised data to improve</a>
 
 </div>
-
-

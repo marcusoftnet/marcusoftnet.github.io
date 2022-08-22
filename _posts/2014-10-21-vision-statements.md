@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm working with vision statements and strategic planning right now.
 Man - this an area that is really misunderstood and misused I think.

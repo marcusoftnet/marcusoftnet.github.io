@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 I don’t think I ever been doing system development in a nicer place – I
 am right now in <a href="http://www.hitta.se/LargeMap.aspx?var=Hyppeln"
 target="_blank">Hyppeln</a> in the Gothenburg archipelago. The weather

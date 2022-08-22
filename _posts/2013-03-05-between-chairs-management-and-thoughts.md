@@ -1,23 +1,21 @@
 ---
 layout: post
-title: "Between the chairs" some thoughts on backlogs
-and things outside them'
-date: 2013-03-05T15:07:00.001+01:00
+title: Between the chairs some thoughts on backlogs and things outside them
+date: 2013-03-05T14:07:00.001Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-
   - Agile
-modified_time: 2013-03-05T15:09:37.252+01:00
-thumbnail: http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
+modified_time: 2013-03-05T14:09:37.252Z
+thumbnail: >-
+  http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4864005741396452887
 blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 At my current client we have split our teams into five smaller (8
 people) team. [I wrote about that process
@@ -33,6 +31,7 @@ This post shows our findings and I'll try to unfold my thinking on why I
 thought that the problem is overstated as well.
 Since we're now brushing on business critical strategies I need to keep
 this post fairly general, I'll try my best to make it understandable.
+
 ### The problem
 
 <div>
@@ -40,7 +39,7 @@ this post fairly general, I'll try my best to make it understandable.
 My client now has five different teams that have separate backlogs and
 works towards realizing strategical important initiatives for the
 company. The teams are working of main features of the site, such as
-Search, User management and Product. 
+Search, User management and Product.
 
 </div>
 
@@ -55,7 +54,7 @@ for the future. Examples of these could be: "Add product page that is
 mobile friendly", "User X123 cannot log in" or "Fix the registration
 process to run smoother". High and low - some of these are quick and
 simple some take a while. And most are simply not known it could take a
-lot of time. We have to investigate to know more. 
+lot of time. We have to investigate to know more.
 
 </div>
 
@@ -69,7 +68,7 @@ suggestions don't know where to turn to and hence go directly to the
 team that they think are most suited (or where they know people). In the
 other end the teams feel an urge to just pick stuff that comes in up and
 start to work from it. Which in turn make the progress of the initiative
-to slow down. 
+to slow down.
 
 </div>
 
@@ -102,7 +101,7 @@ being disturbed with minor items. Still people out there need help...
 
 First we visualized the things that fall "between the chairs" on our
 common board (I'll write a separate post on that). It's just a big
-square that anyone can post new topics in. 
+square that anyone can post new topics in.
 
 </div>
 
@@ -118,17 +117,17 @@ the square:
 
 <div>
 
--   We clear the square on each morning meeting. Nothing should be left
-    when the meeting is over. 
--   If you have posted an item on the board you have to come to the next
-    morning meeting and 
--   For every item we post we ask the teams if it belongs to any team
+- We clear the square on each morning meeting. Nothing should be left
+    when the meeting is over.
+- If you have posted an item on the board you have to come to the next
+    morning meeting and
+- For every item we post we ask the teams if it belongs to any team
     backlog. It doesn't have to be high prioritized but if it's part of
     what they are working, or intended to work on. "We'll take it and
     put it on place 65 in our backlog" is a perfectly acceptable answer
--   If no team takes the item we decided on someone that takes it back
+- If no team takes the item we decided on someone that takes it back
     to the reporter and kindly informs them about the item not fitting
-    in any team backlog right now. 
+    in any team backlog right now.
 
 <div>
 
@@ -138,7 +137,7 @@ lot. ](http://www.youtube.com/watch?v=502ILHjX9EE) Secondly - the teams
 were created for a reason: to promote working with the
 suggested initiatives. If we continue working on everything that comes
 up we shred our concentration and focus on the backlog for
-our initiative. 
+our initiative.
 
 </div>
 
@@ -155,7 +154,6 @@ initiatives. When we do that we cannot also "continue to do everything
 else" or we stand the risk to just do the small, quick stuff that pops
 up.
 
-
 |                                                                                                               |
 |:-------------------------------------------------------------------------------------------------------------:|
 |                                                       <a
@@ -164,7 +162,7 @@ up.
               style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
    src="http://4.bp.blogspot.com/-SO45pIhicKA/UTXr7lAazbI/AAAAAAAABbc/c4Z05mjJ-7E/s320/donkey-in-air-cart.jpg"
                                 data-border="0" width="320" height="228" /></a>                                 |
-|                                         From http://woldfitness.com/                                          |
+|                                         From <http://woldfitness.com/>                                          |
 
 For many people prioritization seems to mean "ordering" when it in
 reality means "not doing some stuff". This has to do with that there's
@@ -187,9 +185,8 @@ definition. And we should throw it away."
 
 This seems to be hard to understand but is actually quite naturally:
 
-
--   the item didn't belong to any team backlog (they all declined)
--   we have put together these teams to work on strategical important
+- the item didn't belong to any team backlog (they all declined)
+- we have put together these teams to work on strategical important
     initiatives
 
 <div>
@@ -197,7 +194,7 @@ This seems to be hard to understand but is actually quite naturally:
 Hence - the item is per definition important. We could still work on it,
 but that means that we stop work on other things. That's perfectly fine
 to do - but we should at least reflect over it and make a
-conscious decision. 
+conscious decision.
 
 </div>
 
@@ -209,7 +206,7 @@ conscious decision. 
 This is also quite natural if the item is urgent enough. If someone find
 an important bug ("The search field allows for SQL inject attacks" for
 example) we would gladly stop our work in our tracks and just fix that
-as fast as possible. 
+as fast as possible.
 
 </div>
 
@@ -234,7 +231,7 @@ promise!
 The "Between the chairs"-square was in reality a way to visualize a
 systemic failure. We kept (and keep on) doing stuff that we haven't
 prioritized. We keep doing that since we at least want to respect the
-fact that these things keep popping up. 
+fact that these things keep popping up.
 
 </div>
 
@@ -245,7 +242,7 @@ fact that these things keep popping up. 
 
 If a lot of items comes up in the same kind of category we might
 actually have found a missing team. Or at least an area that one of the
-team **should** be doing that they are not doing right now. 
+team **should** be doing that they are not doing right now.
 
 </div>
 

@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/getting-to-root-of-all-things
 ---
 
 
-
 Last week on the
 <a href="http://www.marcusoft.net/2009/09/kanban-great-agile-tool.html"
 target="_blank">Kanban course</a> we brushed on

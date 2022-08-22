@@ -1,11 +1,12 @@
 ---
 layout: post
-title: ÖreDev day \#4 – morning'
+title: ÖreDev day 4 – morning
 date: 2009-11-05T11:45:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
-  - .NET - ÖreDev
+  - .NET
+  - ÖreDev
   - Agile
 modified_time: 2011-11-09T20:49:22.586Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4549561414632747159
@@ -57,7 +58,7 @@ not well enough to re-loop it here. Sorry.
 
 <a href="http://en.wikipedia.org/wiki/Functional_programming"
 target="_blank">Functional languages</a> are strange in itself and four
-functional programmers running through code they wrote a late night… 
+functional programmers running through code they wrote a late night…
 You can probably understand my confusion.
 
 ##### Test-Driven Web UI Development
@@ -71,18 +72,18 @@ testers and (TDD-)developers in an agile team.
 
 Here are some random stuff that I picked up:
 
--   <a href="http://seleniumhq.org/projects/ide/"
+- <a href="http://seleniumhq.org/projects/ide/"
     target="_blank">Selenium</a> looks like a cool UI-automation testing
     framework. It free!
--   Selenium can actually generate test-code in a programming language
+- Selenium can actually generate test-code in a programming language
     of your choice. Beware that the tests are just a starting point –
     not the full blown test suite to use for ever and ever…
--   As programmers we shouldn’t do things that decreases productivity
+- As programmers we shouldn’t do things that decreases productivity
     for the testers. It’s the whole teams productivity that counts.
--   The tests should describe the product not the implementation.
--   Good BDD-tests should be like a Table of Contents in a book. You
+- The tests should describe the product not the implementation.
+- Good BDD-tests should be like a Table of Contents in a book. You
     don’t want to go into details if not needed.
--   Pair programming with a tester and a developer may be a way to find
+- Pair programming with a tester and a developer may be a way to find
     issues really quick. But I think a good, solid understanding of the
     test framework is needed.
 

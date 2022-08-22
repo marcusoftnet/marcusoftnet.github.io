@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/test-nhibnernate-mappings-wit
 ---
 
 
-
 After a couple of days in the Fluent-world I am taking to it as a fish
 to water.
 

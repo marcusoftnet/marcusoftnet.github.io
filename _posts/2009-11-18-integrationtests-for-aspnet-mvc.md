@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/integrationtests-for-aspnet-m
 ---
 
 
-
 While I am “at it” I cannot help but tip you on <a
 href="http://blog.codeville.net/2009/06/11/integration-testing-your-aspnet-mvc-application/"
 target="_blank">this article</a> that shows a neat way to do

@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyViewTesting.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm in the middle of writing a blog post series on Nancy.Testing and
 this bit me a bit (sorry, couldn't resist myself).

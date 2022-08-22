@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/08/object-oriented-database-wort
 ---
 
 
-
 I have been doing a very small lab with an object-oriented database,
 <a href="http://www.db4o.com" target="_blank">db4o</a>, and I am very
 impressed indeed.

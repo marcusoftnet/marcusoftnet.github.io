@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/missing-references-showing-ni
 ---
 
 
-
 I found a feature that I thought was bug in Visual Studio... If you have
 <a href="http://www.jetbrains.com/resharper/"
 target="_blank">ReSharper</a> (4.0 in my case) installed it shows your

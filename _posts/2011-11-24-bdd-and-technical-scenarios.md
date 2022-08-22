@@ -1,12 +1,12 @@
 ---
 layout: post
 title: BDD and technical scenarios
-date: 2011-11-23T22:34:00.001+01:00
+date: 2011-11-23T21:34:00.001Z
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Agile
-modified_time: 2011-11-23T22:34:10.980+01:00
+  - BDD
+  - Agile
+modified_time: 2011-11-23T21:34:10.980Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102
 blogger_orig_url: http://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html
 ---
@@ -24,6 +24,7 @@ Sham’s question was something like this:
 > them which may confuse them as they try to work out what scenarios
 > exist under the user story or am I wrong here? Maybe all tests should
 > be visible under a user story?
+
 #### TDD and BDD
 
 This is really one of the things we struggle with when coming from using
@@ -53,13 +54,13 @@ So after that long introduction… If you have technical stories or
 scenarios that your stakeholder cannot understand, I think you have a
 couple of possibilities:
 
--   If the feature in question is a business feature – you should
+- If the feature in question is a business feature – you should
     probably discuss it further. If it’s an important business feature
     it will also be important for the business users. Rephrase it in the
     language of the business users. Hide the technicalities behind their
     terms. How it’s actually implemented is NOT important on this level.
     It’s a TDD-level thing.
--   If the feature is a truly technical scenario – it shouldn’t be in
+- If the feature is a truly technical scenario – it shouldn’t be in
     the BDD-specifications facing the business user at all. It shouldn’t
     be presented to them and quite frankly – they probably don’t care.
     (If they do one could wonder if they truly are a business user at
@@ -83,10 +84,10 @@ not about HOW it does that. Not about HOW it’s implemented.
 A good way to ensure that you don’t miss that target is to work you way
 backwards;
 
--   start with the “So that”-part of the user story – the reason for the
+- start with the “So that”-part of the user story – the reason for the
     user story to exists. If you get that in place everything will be so
     much easier to understand and reason about.
--   then for the scenarios start with the “Then”-part – the goal and
+- then for the scenarios start with the “Then”-part – the goal and
     assertions you are going to make to know that you have fulfilled the
     goals of the scenarios.
 

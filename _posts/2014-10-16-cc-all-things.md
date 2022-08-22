@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/cc-all-things.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 We are working a lot with
 <a href="http://www.marcusoft.net/2014/09/accountability.html"

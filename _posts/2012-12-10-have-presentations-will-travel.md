@@ -1,24 +1,23 @@
 ---
 layout: post
 title: Have presentations - will travel
-date: 2012-12-10T11:30:00.000+01:00
+date: 2012-12-10T10:30:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Lean
+  - BDD
+  - Lean
   - Life of a consultant
-
   - Kanban
   - Agile
   - SpecFlow
   - TDD
-modified_time: 2012-12-13T21:14:29.174+01:00
+modified_time: 2012-12-13T20:14:29.174Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-820434950966250266
 blogger_orig_url: http://www.marcusoft.net/2012/12/have-presentations-will-travel.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have a couple of slow weeks before my next assignment starts for real,
 so as an early Christmas gift
@@ -39,7 +38,6 @@ Brasil (!). Might do this again. Longing to be bored again.
 
 These are the presentations that I can give with
 an hours notice:
-
 
 <table data-border="1">
 <colgroup>
@@ -140,7 +138,6 @@ stories - good and bad. </td>
 </table>
 
 <div>
-
 
 I would love to come and talk to you on these subjects. Make it a
 happening over lunch or an afternoon of learning.  

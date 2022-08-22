@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2012/05/deploying-often-is-betteragil
 ---
 
 
-
 This is the second post of some of the things that I find myself talking
 to business people (and some technical folks too for that matter) when
 trying to explain agile thinking. <a

@@ -17,8 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 At my current "client" we have been employing a lot of activities to
 increase the number of customer we serve per day.

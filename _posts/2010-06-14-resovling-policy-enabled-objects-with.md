@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/06/resovling-policy-enabled-obje
 ---
 
 
-
 I had the opportunity to use
 <a href="http://unity.codeplex.com/" target="_blank">Unity</a> and
 <a href="http://entlib.codeplex.com/" target="_blank">Enterprise

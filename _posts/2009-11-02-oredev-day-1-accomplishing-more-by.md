@@ -1,19 +1,16 @@
 ---
 layout: post
-title: ÖreDev Day \#1 - Accomplishing more by doing
-less'
-date: 2009-11-02T16:58:00.004+01:00
+title: ÖreDev Day 1 - Accomplishing more by doing less
+date: 2009-11-02T15:58:00.004Z
 author: Marcus Hammarberg
 tags:
   - ÖreDev
   - Life of a consultant
-
   - Agile
-modified_time: 2011-11-09T21:49:22.569+01:00
+modified_time: 2011-11-09T20:49:22.569Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2142245261599319871
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-more-by.html
 ---
-
 
 
 <div>
@@ -52,22 +49,22 @@ was about doing less of some thing, namely:
 
 <div>
 
--   **Fear** - here we talked a lot about why we fear stuff like time,
+- **Fear** - here we talked a lot about why we fear stuff like time,
     not being seen etc. Also the antidote is to be generous which I
     think sounds very nice. Being generous with your attention, your joy
     etc.
--   **Assumptions** - we stopped for a while and pondered the false
+- **Assumptions** - we stopped for a while and pondered the false
     assumptions that we often bring to a situation. Also we did an
     excellent exercise in which we looped and dipped. looping is simple
     retell a story and see how it was received / interpreted. Dipping is
     talking about your emotions surrounding the story and story telling.
--   **Distractions** - how many thing that distracts us. Especially in
+- **Distractions** - how many thing that distracts us. Especially in
     the social media tsunami of today. We learned that successful people
     have their priorities in order and act on them. Be present and
     reduce your Work In Progress was other lessons learned. I mentioned
     Pomodoro as a great technique to manage distractions.
--   **Resistance** - actually we didn't get into this one at all…
--   **Busyness** - we all want to look busy. But why? A thought was
+- **Resistance** - actually we didn't get into this one at all…
+- **Busyness** - we all want to look busy. But why? A thought was
     thrown out that it had to do with fear of life being short. If we
     are busy we think that we get the most out of it… But we would be
     wrong - we don't have time to see that life is passing…

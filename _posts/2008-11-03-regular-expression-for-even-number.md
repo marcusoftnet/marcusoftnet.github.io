@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/regular-expression-for-even-n
 ---
 
 
-
 Let me first be very clear - I'm not a
 <a href="http://en.wikipedia.org/wiki/Regular_expression"
 target="_blank">RegExp</a>-guy. I find them quite hard to understand at

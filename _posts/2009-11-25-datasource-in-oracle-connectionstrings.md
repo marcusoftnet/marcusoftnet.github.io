@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/datasource-in-oracle-connecti
 ---
 
 
-
 I had already forgot about this one… The
 <a href="http://www.oracle.com/" target="_blank">Oracle</a>-way of doing
 things is different and feels quite old to me.

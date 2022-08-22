@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/10/no-more-bugs-thought-experime
 ---
 
 
-
 I’m reading the excellent
 <a href="http://heathbrothers.com/switch/" target="_blank">Switch: How
 to Change Things When Change Is Hard</a>. And in it I stumbled on a

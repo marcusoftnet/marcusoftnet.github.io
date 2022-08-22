@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/testing-with-unity-policy-inj
 ---
 
 
-
 I have been chasing this for quite some time now, about 4 days on and
 off. But now I have nailed it, thanks to Christer Cederborg – my Unity
 beacon in the dependency injection mist.

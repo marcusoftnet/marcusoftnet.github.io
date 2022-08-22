@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/transactions-in-stored-proced
 ---
 
 
-
 Yesterday i got a question from a collegue who had run into trouble
 using the TransactionScope-construct in .NET.
 

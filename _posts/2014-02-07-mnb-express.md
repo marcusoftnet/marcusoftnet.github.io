@@ -1,47 +1,48 @@
 ---
 layout: post
-title: Marcus Node Bits: Express is best without
-generators'
-date: 2014-02-07T14:00:00.000+01:00
+title: Marcus Node Bits - Express is best without generators
+date: 2014-02-07T13:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming - Javascript
+  - MobProgramming
+  - Javascript
   - Tools
-modified_time: 2014-06-02T10:56:52.524+02:00
-thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
+modified_time: 2014-06-02T08:56:52.524Z
+thumbnail: >-
+  http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I'm writing down some of the things I've picked up when I started to
 learn
 about <a href="http://nodejs.org/" target="_blank">Node</a>, <a href="http://expressjs.com/" target="_blank">Express</a> and <a href="http://www.mongodb.org/" target="_blank">Mongo</a>.
 Here are all the post in the series:
 
--   <a href="http://www.marcusoft.net/2014/02/mnb-terminal.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-terminal.html"
     target="_blank">Doing stuff in the terminal is not scary at all</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
     target="_blank">npm is not only for getting packages</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
     target="_blank">Package.json is a mighty tool</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-git.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-git.html"
     target="_blank">Git is not that hard, but I need to refresh my
     knowledge</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-callbacks.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-callbacks.html"
     target="_blank">Callback function is cool stuff, and I even know how to
     write them</a>
--   <span
+- <span
     style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
     target="_blank">mocha is cool both as framework and test runner</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
     target="_blank">Should is a nice way to do asserts</a>
--   <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
+- <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
     target="_blank">monk is an easy way to access mongo</a>
--   Express is best without generators - this post
--   <a href="http://www.marcusoft.net/2014/02/mnb-supertest.html"
+- Express is best without generators - this post
+- <a href="http://www.marcusoft.net/2014/02/mnb-supertest.html"
     target="_blank">supertest is a nice way to test an api</a>
 
 This post is about the most commonly used web framework in Node:
@@ -66,8 +67,8 @@ express -g) <span style="font-family: inherit;">and you'll have
 the generators all over. This site generator bothers me in two
 ways:
 
--   it sets up a complete site, when I just want to do an API
--   that site defaults to server-side generation, when I want to serve a
+- it sets up a complete site, when I just want to do an API
+- that site defaults to server-side generation, when I want to serve a
     static JavaScript client
 
 <div>
@@ -76,7 +77,7 @@ Nowadays I tend to default to a simple backend API (see, I din't even
 write REST API just to avoid religious battles. Smooth operator :)),
 that just serve JSON and then a Javascript client that calls into that
 API, using <a href="http://angularjs.org/" target="_blank">AngularJS</a>
-for example. 
+for example.
 
 </div>
 
@@ -101,7 +102,7 @@ find a very powerful and terse framework that resembles
 <a href="http://nancyfx.org/" target="_blank">NancyFx</a> a lot. Ah,
 well it resembles
 <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a> too, but
-Nancy is cooler. 
+Nancy is cooler.
 
 </div>
 
@@ -115,9 +116,6 @@ target="_blank">guide-page</a>,
 <a href="http://expressjs.com/" target="_blank">ExpressJs</a> is showing
 you the minimal version first. And we can write the ubiquitous
 fit-in-a-tweet-web application:
-
-
-
 
 <div style="text-align: left;">
 
@@ -142,7 +140,6 @@ documentation</a>, it's great. And the
 <a href="http://expressjs.com/guide.html" target="_blank">starting
 guide</a> is also nice.
 
-
 </div>
 
 <div>
@@ -154,10 +151,7 @@ function returns. Like this:
 
 In the little tweet example above you saw the app.get() function in
 action. The really good news is that all the HTTP verbs act in the same
-manner. They take an URL path and a callback function. 
-
-
-
+manner. They take an URL path and a callback function.
 
 You can understand it as: "when somebody *Posts* to '/orders/', execute
 this function that I'm writing here".
@@ -175,9 +169,6 @@ style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.
 target="_blank">req.params</a> <span
 style="font-family: inherit;">property. Here's an example of a
 get to an URL with a parameter, called id
-
-
-
 
 Often your clients will be sending data in the body of the HTTP request.
 Express provides an easy way to extract those by using the middleware
@@ -210,9 +201,6 @@ bit messy. You can then write the handling code in a separate module and
 include that. Express, default, puts these in a folder called "routes",
 but we can do as we want.
 
-
-
-
 Note that I'm using the <span
 style="font-family: Courier New, Courier, monospace;">exports-keyword
 in the <span
@@ -234,14 +222,13 @@ style="font-family: Courier New, Courier, monospace;">res but you
 can of course name it what ever you want. The simplest is just to do
 send as we seen a lot of examples of already.
 
-
 </div>
 
 <div>
 
 When you send JSON back there's a special method for that. The
 content-type will automatically be set to "application/json" for you
-when using this method as a nice little service to you. 
+when using this method as a nice little service to you.
 
 </div>
 ### Middleware
@@ -293,14 +280,12 @@ href="http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-wit
 target="_blank">lean on an example from this site</a> and walk your
 through it:
 
-
-
-
 You could also do hard coded paths, of course (like /users) and create a
 little snippet that loads users by id. This is shown to great effect in
 the documentation for <a href="http://expressjs.com/api.html#app.param"
 style="font-family: &#39;Courier New&#39;, Courier, monospace;"
 target="_blank">app.param()</a> and I've adapted it here:
+
 ### Conclusion
 
 Yeah, as you can see express is not that hard and that the same time

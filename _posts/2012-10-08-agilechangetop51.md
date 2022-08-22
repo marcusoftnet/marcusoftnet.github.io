@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Top 5 Agile change tips \#1 - Get a great
-or-else-reason'
-date: 2012-10-08T09:00:00.000+02:00
+title: Top 5 Agile change tips 1 - Get a great or-else-reason
+date: 2012-10-08T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-10-08T09:00:15.230+02:00
+modified_time: 2012-10-08T07:00:15.230Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3921821758280341733
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop51.html
 ---
@@ -40,18 +38,18 @@ up in my head (MY GOD - the horrors...) but things that I've tried and
 failed miserably with. Over and over. And learned a lot from.
  Here we go - in order of importance:
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a> (this
     post)
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a>
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a>
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
     target="_blank">Support the initiative</a>
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
+
 ### \#1 Get a great "or else"-reason to change
 
 <div>
@@ -124,7 +122,7 @@ head:
 versus
 
 > Release every week?! We need to do that. What should we change to get
-> there? 
+> there?
 
 ### Summary
 
@@ -133,21 +131,18 @@ versus
 This was the first post of my top 5 ways succeed with agile
 transformation projects. Read the rest here:
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a>
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a>
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
     target="_blank">Support the initiative</a>
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve (this post)</a>
 
 </div>
 
 <div>
 </div>
-
-

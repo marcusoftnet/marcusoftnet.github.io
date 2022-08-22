@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/06/resharper-and-messed-up-intel
 ---
 
 
-
 <div>
 
 <div>

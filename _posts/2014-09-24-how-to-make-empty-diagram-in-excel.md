@@ -16,10 +16,9 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-
 ---
 
 
+<div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 If I don't write this down I will forget it before the end of the day.
 That right there was the reason I started my blog, ca 900 posts ago.
@@ -128,7 +127,7 @@ Secondly let's add some nice text for the axis
 While we're at it, let's add a Diagram heading (Diagram layout-tab, then
 Diagram heading)
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Once that is done you might have something that looks like this:
 
@@ -144,7 +143,7 @@ data-border="0" width="320" height="235" /></a>
 
 </div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Now, let's make this an empty diagram, by not removing but hiding the
 "Number of customers" line. If you remove the line... the diagram
@@ -152,13 +151,13 @@ collapses or expands depending on where you thresholds are set. 
 
 </div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 But you can hide the line. Here's how:
 
 </div>
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 -   Right click on the line and select "Format data series..."
 -   Select "Line" and then "Color"

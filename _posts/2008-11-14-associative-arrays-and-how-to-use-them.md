@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/associative-arrays-and-how-to
 ---
 
 
-
 My questions in an <a
 href="http://www.marcusoft.net/2008/11/odpnet-arraybindsize-and-size-for.html"
 target="_blank">earlier post</a> was promptly answered by

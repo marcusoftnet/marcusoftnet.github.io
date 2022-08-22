@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/running-vista.html
 ---
 
 
-
 OK - for the first time I am running Vista. I am really impressed so
 far. Looks nice and work great - that's how we want to have it, isn't
 it? That all Mac users probably goes bananas over all the

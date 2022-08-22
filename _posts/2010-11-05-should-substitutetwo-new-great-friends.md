@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/11/should-substitutetwo-new-grea
 ---
 
 
-
 Recently I’ve stumbled upon two great framework that greatly enhanced my
 test code.
 

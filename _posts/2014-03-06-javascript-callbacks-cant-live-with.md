@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Javascript callbacks: can''t live with them
-can''t live without them... or can you? '
-date: 2014-03-06T08:00:00.000+01:00
+title: >-
+  Javascript callbacks - cannot live with them cannot live without them... or
+  can you?
+date: 2014-03-06T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming - Javascript
+  - MobProgramming
+  - Javascript
   - Tools
-modified_time: 2014-06-02T10:56:52.519+02:00
+modified_time: 2014-06-02T08:56:52.519Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5949303220137372164
 blogger_orig_url: http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 This is a confession post. Yes,
 <a href="http://www.hanselman.com/blog/ImAPhonyAreYou.aspx"
@@ -39,11 +40,9 @@ mission statement on
 non-blocking. Which means that you see a lot of code like this in
 Node:
 
-
 One time when this really shines in testing with
 <a href="http://visionmedia.github.io/mocha/" target="_blank">Mocha</a>
 for example. Here's a bit of Mocha for you:
-
 
 Let's talk through this (only focus on the testingConfig.js file in this
 case):
@@ -52,25 +51,25 @@ Line 3 starts the <span
 style="font-family: Courier New, Courier, monospace;">describe-function.
 This function takes a string and a callback function.
 
--   Mocha will call all the describe-functions in your file one by one,
+- Mocha will call all the describe-functions in your file one by one,
     and when it does that it will fire the anonymous function (line
     4-9).
 
 Line 4 calls the <span
 style="font-family: Courier New, Courier, monospace;">it-function.
-Which takes a string (description) and a callback function.   
+Which takes a string (description) and a callback function.
 
--   For each describe-function Mocha will call the it-functions in it
-    and the anonymous function we have created on line 5-7. 
--   Note the parameter to this callback function (<span
+- For each describe-function Mocha will call the it-functions in it
+    and the anonymous function we have created on line 5-7.
+- Note the parameter to this callback function (<span
     style="font-family: 'Courier New', Courier, monospace;">done())
 
 The it-function contains our assertions and is then finished by calling
 <span
 style="font-family: Courier New, Courier, monospace;">done()
 
--   <span style="font-family: inherit;">The done-function is used to
-    signal the end of our test. More about that later. 
+- <span style="font-family: inherit;">The done-function is used to
+    signal the end of our test. More about that later.
 
 ### How not to Node
 
@@ -88,21 +87,20 @@ access layer. But since everything (!) in Node is non-blocking you'll
 likely run into similar problems no matter what you try.
 Ok so I wrote this code in my method:
 
-
 But I ended up returning <span
 style="font-family: Courier New, Courier, monospace;">undefined.
 Every time. I couldn't understand why.
 This is my understanding of it:
 
--   When I call Post.find() I supply an anonymous function
--   This function is called asynchronously by Mongoose when the data is
+- When I call Post.find() I supply an anonymous function
+- This function is called asynchronously by Mongoose when the data is
     returned from the database
--   Which bascially means that on line 5-15 I'm just declaring what is
+- Which bascially means that on line 5-15 I'm just declaring what is
     going to happen when we execute the query. It's not executed right
-    away. 
--   So the code after the anonymous function (line 5-15) can be executed
-    before the anonymous code. Or not. 
--   Which means that there's no value to return when we get to line 18. 
+    away.
+- So the code after the anonymous function (line 5-15) can be executed
+    before the anonymous code. Or not.
+- Which means that there's no value to return when we get to line 18.
 
 The idea of waiting (with a thread.sleep() equivalent) just made me
 smiled. In a tiered way. There's something wrong here.
@@ -124,11 +122,10 @@ Instead it looks something like this:
 
 With this implementation:
 
-
 This is basically just pushing the problem upwards, if you like. You're
 caller will also supply a callback and you call that. It's nice and
 clean, and also allows for Node to continue to operate in a non-blocking
-way. 
+way.
 
 </div>
 
@@ -189,7 +186,7 @@ and everything, but there must be a easier way. Now doesn't it?
 
 Promises! The mirage in the callback-desert. The wonderful sunrise that
 brings tears in the eyes of every Javascript developers. The thing that
-I don't use and haven't understood yet. Not completely at least. 
+I don't use and haven't understood yet. Not completely at least.
 
 </div>
 
@@ -199,13 +196,10 @@ But I can show you this from the
 <a href="https://github.com/kriskowal/q" target="_blank">promise library
 Q's site</a>:
 
-
-
-
 I cannot, sadly, explain what's going on there fully. But I can see that
 it's better, easier and clearer.
 That's enough for me to want to dive in and try to learn it. Promise
-(pun intended) to get back to you on that. 
+(pun intended) to get back to you on that.
 
 </div>
 

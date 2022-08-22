@@ -15,8 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I am loving <a href="http://www.github.com/" target="_blank">GitHub</a>!
 Especially the social collaboration that occur around the projects and

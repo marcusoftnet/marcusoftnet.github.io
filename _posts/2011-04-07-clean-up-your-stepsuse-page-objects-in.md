@@ -16,7 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-o
 ---
 
 
-
 If you are a developer doing
 <a href="http://en.wikipedia.org/wiki/Behavior_Driven_Development"
 target="_blank">BDD</a>, as me, you’ll soon run into the joys of UI

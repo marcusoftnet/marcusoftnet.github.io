@@ -16,8 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/aligning-our-sights-what-indo
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have now been in Indonesia for about 4 months. There's so many new
 impressions and things that I've seen, learned and experienced that I'm

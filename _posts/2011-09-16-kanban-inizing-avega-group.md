@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Kanban-inizing the Avega Group office–setting
-the stage
-date: 2011-09-16T09:00:00.000+02:00
+title: Kanban-inizing the Avega Group office–setting the stage
+date: 2011-09-16T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Kanban
   - Agile
-modified_time: 2011-09-16T09:00:11.577+02:00
-thumbnail: http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
+modified_time: 2011-09-16T07:00:11.577Z
+thumbnail: >-
+  http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2993379680989849936
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html
 ---
@@ -40,6 +39,7 @@ a great learning opportunity.
 
 This has just started but I thought I’ll try to blog about the
 experience here.
+
 #### The teams and some background
 
 The teams we approached were the Support team and the Marketing team.
@@ -141,12 +141,12 @@ class="wlEmoticon wlEmoticon-smile"
 style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none"
 alt="Smile" />).
 
--   The first time the complete exercise took (with my numbers) roughly
+- The first time the complete exercise took (with my numbers) roughly
     2.5 time longer time (1.12 versus 0.28)
--   The first column – the most important project – was delivered after
+- The first column – the most important project – was delivered after
     001.10 minutes the first time around and in 8 seconds (!!) the
     second
--   The quality suffered in many cases (writing the wrong letters,
+- The quality suffered in many cases (writing the wrong letters,
     writing uglier and forgetting rows) in the first exercise – while
     the second time around almost no-one messed up (I did – if you look
     closely <img
@@ -154,7 +154,7 @@ alt="Smile" />).
     class="wlEmoticon wlEmoticon-smile"
     style="border-bottom-style: none; border-left-style: none; border-top-style: none; border-right-style: none"
     alt="Smile" />)
--   The general feeling was “calmer and more focused” for the second
+- The general feeling was “calmer and more focused” for the second
     iteration.
 
 Morgan and I was very happy with the outcome that we thought created an

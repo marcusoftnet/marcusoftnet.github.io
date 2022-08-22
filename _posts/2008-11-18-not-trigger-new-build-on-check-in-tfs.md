@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/not-trigger-new-build-on-chec
 ---
 
 
-
 OK - today we found out why we are building 650 builds each week...
 
 As part of our build process we are checking out (and in) a version-file

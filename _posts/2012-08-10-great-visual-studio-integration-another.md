@@ -18,7 +18,6 @@ blogger_orig_url: http://www.marcusoft.net/2012/08/great-visual-studio-integrati
 ---
 
 
-
 This is a small tribute to a great tool. Mostly for fun but there are
 some great stuff in the latest release of SpecFlow.
 <a href="http://www.specflow.org/specflownew/WhatsNew19.html"

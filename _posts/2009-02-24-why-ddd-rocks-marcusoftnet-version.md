@@ -14,7 +14,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/why-ddd-rocks-marcusoftnet-ve
 ---
 
 
-
 Today I had very interesting conversation with a colleague and friend.
 He is very accomplished in matters concerning
 <a href="http://en.wikipedia.org/wiki/Application_Lifecycle_Management"

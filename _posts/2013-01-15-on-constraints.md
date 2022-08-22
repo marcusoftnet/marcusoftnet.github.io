@@ -13,8 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/on-constraints.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 As always it's hard to boot up all processes in a new year. The blogging
 process apparently was down prioritized by my internal product owner.

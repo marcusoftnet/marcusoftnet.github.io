@@ -1,22 +1,23 @@
 ---
 layout: post
 title: Team Yayasan - getting started
-date: 2014-03-01T07:56:00.003+01:00
+date: 2014-03-01T06:56:00.003Z
 author: Marcus Hammarberg
 tags:
-  - Team
-Yayasan  - Lean
+  - Team Yayasan
+  - Lean
   - Kanban
   - Agile
   - Indonesia
-modified_time: 2014-03-17T02:37:31.541+01:00
-thumbnail: http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
+modified_time: 2014-03-17T01:37:31.541Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1338677593036398302
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-getting-started.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I have a wonderful opportunity on my hands. I have been given a team of
 4 people that never have done agile or lean before (albeit one of the is
@@ -40,13 +41,14 @@ us.
 I will blog about our experiences and tribulations here to remember it
 all. This is the first post, and it's a bit long, but I need to set a
 proper context. I'll keep it shorter later.
+
 ### Background
 
 <div>
 
 You probably wonder about "Yayasan" and what that means, so I thought
 I'd give a short introduction to what's happening here and what we are
-supposed to do. 
+supposed to do.
 
 </div>
 
@@ -76,13 +78,12 @@ data-border="0" width="320" height="240" /></a>
 
 <div>
 
-
 My tasks coming to Indonesia was to be a consultant to the Yayasan.
 However when I got here my first reactions was that the Yayasan was just
 a couple of boards (Management Board, Trustee board and Supervisory
 board) that directed and controlled the work of the Yayasan. No one did
 the work. There was a single women that was the "operations" parts of
-Yayasan. Amazing as she is that was not sufficient. 
+Yayasan. Amazing as she is that was not sufficient.
 
 </div>
 
@@ -94,7 +95,7 @@ Yayasan. Amazing as she is that was not sufficient. 
 The first thing I had to do here was to talk to one of the hospital
 directors about his frustrations that things was moving so slow. You
 DON'T say? The Yayasan organisation was set up for control, not for
-speed. 
+speed.
 
 </div>
 
@@ -107,7 +108,7 @@ Being me I made my voice clear about this in a couple of meetings, and
 when you do that you end up doing the work instead. Let that be a lesson
 to all of you. The Yayasan suggested that I would become <a
 href="http://www.linkedin.com/nhome/updates?topic=5844287070452850688"
-target="_blank">"The executive director" of Yayasan.</a> 
+target="_blank">"The executive director" of Yayasan.</a>
 
 </div>
 
@@ -117,21 +118,21 @@ target="_blank">"The executive director" of Yayasan.</a> 
 <div>
 
 That impressive (and a  bit scary) title and be interpreted in two
-ways: 
+ways:
 
 </div>
 
 <div>
 
--   leader of a corporate group consisting 6 hospitals (a 100-200 ppl
+- leader of a corporate group consisting 6 hospitals (a 100-200 ppl
     each) + 13 clinics (2-5 ppl) over the vast Indonesian country
--   team-leader for 4 people in the operations office. 
+- team-leader for 4 people in the operations office.
 
 <div>
 
 I go for the second one for now. Feels less scary and also I get my
 orders and authority from the Management Board so far, so it's probably
-a more accurate description. 
+a more accurate description.
 
 </div>
 
@@ -154,7 +155,7 @@ trying to puzzle things together; "where's that document", "who decided
 that", "haven't you got my email?" I think that has to do with
 organisations here being set up for control and review to great part.
 There's not much transparency and hence people-dependent to a great
-deal. 
+deal.
 
 </div>
 
@@ -166,7 +167,7 @@ deal. 
 I thought we should change that and suggested it to the teams. They
 liked it and we created a site (using the excellent IBM Connections
 tool) where everyone in the Yayasan could share information with each
-other. 
+other.
 
 </div>
 
@@ -179,7 +180,7 @@ So instead of me answering emails to single persons I could answer email
 on the site in a forum where everyone can read it. In the same manner we
 can share files with each other instead of sending numerous different
 versions of the same document around. The document on the site is the
-current version. 
+current version.
 
 </div>
 
@@ -189,7 +190,7 @@ current version. 
 <div>
 
 Finally we created a wiki where we added information around each
-hospital and clinic. 
+hospital and clinic.
 
 </div>
 
@@ -215,7 +216,7 @@ created a wiki about it. Here's an extract of it
 > Ultimately this leads to trust being built up and shared among the
 > members of the organisation. We trust each other to do good and I, as
 > member of the organisation, knows that everything I do will be visible
-> for everyone else in the organisation. 
+> for everyone else in the organisation.
 
 </div>
 
@@ -227,14 +228,14 @@ created a wiki about it. Here's an extract of it
 >
 > The mission for us is: "to make the clinics and hospitals in the
 > Yayasan great" and everything we do is guided by the question: "Does
-> this make the clinic or hospital better?" 
+> this make the clinic or hospital better?"
 
-> **Humble - **We think that you know best what works best in your
+> **Humble -**We think that you know best what works best in your
 > context, at your clinic or hospital. We can help you if you need us,
 > but will try to shy away from forcing you to do something. We don't
 > want to be a police force but rather be someone that helps and
 > challenge you to become better (than you thought you could be...). We
-> want to be less law enforcer and more coach. 
+> want to be less law enforcer and more coach.
 
 I can already see how getting these keywords down and trying to live by
 them have helped us to improve and develop our focus.
@@ -269,7 +270,6 @@ data-border="0" width="320" height="240" /></a>
 
 </div>
 
-
 After that we had a discussion about limiting the number of things we
 do. We then went down to our office and created a very simple board. On
 a cupboard. Here's our first version.
@@ -284,7 +284,6 @@ src="http://1.bp.blogspot.com/-_xrFdcPVV3A/UxF_pRg6fBI/AAAAAAAACB8/l3TCx4xRqCg/s
 data-border="0" width="320" height="240" /></a>
 
 </div>
-
 
 We agreed on doing a short standup each morning after devotional to talk
 about what's up to day. We also started, thanks to an awesome suggestion
@@ -301,7 +300,6 @@ src="http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s
 data-border="0" width="320" height="240" /></a>
 
 </div>
-
 
 Finally I added the keywords that we had on our site, on the wall too.
 Just as a reminder.
@@ -328,8 +326,7 @@ things).
 We agreed to try to do something about these issues next week. We
 suggested two changes that we're trying for next week:
 
-
--   Limiting the Doing-column (Sedang in Indonesian) to 14 items. It's a
+- Limiting the Doing-column (Sedang in Indonesian) to 14 items. It's a
     lot I know but as you'll see in my summary below I'm not in a hurry.
     Also I wanted to try a technique that
     <a href="http://reinertsenassociates.com/" target="_blank">Donald
@@ -338,9 +335,9 @@ suggested two changes that we're trying for next week:
     btw</a>). Each week we will lower this limit with 20% until it
     hurts. Then we start our discussions about how to improve from
     there. Right now it's not hurting at all...
--   We decided to classify all the items in Todo (Akan) in S, M, L and
+- We decided to classify all the items in Todo (Akan) in S, M, L and
     (XL). That's is if something is XL we break it down. Nothing should
-    take longer than 2 weeks, that's our idea now at least. 
+    take longer than 2 weeks, that's our idea now at least.
 
 <div>
 
@@ -364,7 +361,7 @@ data-border="0" width="300" height="400" /></a>
 
 There's a lot of things that I would like to speed up. But I'm not in a
 hurry right now. And there's some awesome people in the team, I want to
-see where they can take us. Letting them lead - not me. 
+see where they can take us. Letting them lead - not me.
 
 </div>
 
@@ -374,7 +371,7 @@ see where they can take us. Letting them lead - not me. 
 <div>
 
 We'll continue with retrospectives and the changes we have suggested
-from our first retrospective. 
+from our first retrospective.
 
 </div>
 

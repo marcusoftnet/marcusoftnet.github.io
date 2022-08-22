@@ -12,8 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-and
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I've just published my <a
 href="http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html"

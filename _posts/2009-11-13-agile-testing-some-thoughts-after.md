@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/agile-testing-some-thoughts-a
 ---
 
 
-
 Yesterday was another
 <a href="http://blog.avegagroup.se/elevate/" target="_blank">Elevate</a>-evening
 and again I was impressed by the diversity and knowledge of the

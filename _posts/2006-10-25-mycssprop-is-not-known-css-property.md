@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2006/10/mycssprop-is-not-known-css-pr
 ---
 
 
-
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/320/csserror.0.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"

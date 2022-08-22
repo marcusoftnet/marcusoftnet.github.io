@@ -13,7 +13,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/moving-items-between-listboxe
 ---
 
 
-
 OK – this was so special and lucky… Being a newbie at
 <a href="http://jquery.com/" target="_blank">JQuery</a> I was wondering
 on how to move items between listboxes. Well a <a

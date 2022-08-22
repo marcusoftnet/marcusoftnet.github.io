@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/status-of-workitems-where-to-
 ---
 
 
-
 This is a question that arises very soon or sometime even before you
 start doing work with a board; Scrum, Kanban or Scrumbut.
 

@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/12/saturday-of-brass-band-presen
 ---
 
 
-
 I am on my way home after presenting at two concerts with
 <a href="http://www.windcorpbrassband.se/" target="_blank">Windcorp
 Brass Band</a>. Exhausted but very happy.

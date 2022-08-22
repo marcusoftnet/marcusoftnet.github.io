@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 As most of you probably know [I'm on my way to leave the country and do
 other type of work for a

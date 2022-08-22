@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/music-and-photos-from-vasa-ba
 ---
 
 
-
 Just because of the current flow in the band I found the energy to
 create a video of from our performance in Örebro in september. This is
 also my first YouTube-upload ever.

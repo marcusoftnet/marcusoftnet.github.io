@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sync-issues-my-contact-are-ba
 ---
 
 
-
 With a little help from <a
 href="http://www.microsoft.com/windows/windows-vista/features/sync-center.aspx"
 target="_blank">Windows Sync Center</a> and my own stupidity all my

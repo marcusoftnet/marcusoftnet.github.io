@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focu
 ---
 
 
-
 I have been introduced to a new concept called
 <a href="http://www.pomodorotechnique.com/" target="_blank">The Pomodoro
 Technique</a>. It’s a way to work in a very focused and lean way, on the

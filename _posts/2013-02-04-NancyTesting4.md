@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting4.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 This is the fourth (oh my!) post in my series on Nancy.Testing. This
 time we will leave the Nancy.Testing specific stuff and let our gal meet

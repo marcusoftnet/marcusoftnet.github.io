@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/lookingForBetter.html
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Apparently
 <a href="http://www.marcusoft.net/2014/04/thisIsHowIThink.html"

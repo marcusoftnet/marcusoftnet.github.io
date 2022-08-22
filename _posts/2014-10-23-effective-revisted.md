@@ -1,26 +1,23 @@
 ---
 layout: post
-title: Effective revisted
-date: 2014-10-23T05:44:00.000+02:00
+title: Effective revisited
+date: 2014-10-23T03:44:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Tools  - Lean
+  - Tools
+  - Lean
   - Life of a consultant
-
   - Kanban
   - Agile
-  - Salvation Army -
-Indonesia
-modified_time: 2014-10-23T05:44:28.638+02:00
-thumbnail: http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
+  - Salvation Army
+  - Indonesia
+modified_time: 2014-10-23T03:44:28.638Z
+thumbnail: >-
+  http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8744532193182995906
 blogger_orig_url: http://www.marcusoft.net/2014/10/effective-revisted.html
 ---
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
 
 I'm talking a lot about **effectiveness** and how it difference from
 **efficiency**. This probably have to do with two things; first - the
@@ -37,7 +34,6 @@ post in Swedish you'll get what I mean:
 Ah, the poverty! It's the same word. There's no difference... in
 Swedish. I've still to understand if that means that Swedes are focused
 on effectiveness of efficiency.
-
 
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
@@ -76,7 +72,7 @@ difference between the two concepts:
 > particular how you move your legs, when is the best time to raise your
 > head, how long should your steps be in the beginning, middle or end of
 > the raise. How do I use the energy from the start in my first 10
-> meters. Etc. Etc. 
+> meters. Etc. Etc.
 
 > For a sprinter, **effectiveness** is running in the right direction.
 > Towards the goal, if I may offer a suggestion.
@@ -147,7 +143,7 @@ Surely that would help us.
 schedules. Because we only deploy 4 times a year. It's right there. In
 our IT-policy.
 
-#### What is the goal in this case? 
+#### What is the goal in this case?
 
 Software exists to solve a problem for an user. Until it's used software
 is truly useless, to use the wise words of <a
@@ -166,7 +162,7 @@ code faster.
 Right now I'm serving in a new area (and a new country) trying to help
 the six hospitals that the Salvation Army has in Indonesia. I went in
 very bold - effectiveness; I know this. Just make the system flow faster
-to the end-customer, which is the patient in this case. 
+to the end-customer, which is the patient in this case.
 
 </div>
 
@@ -177,7 +173,7 @@ to the end-customer, which is the patient in this case. 
 But ... what is the goal of a health care service provider. Is it speedy
 delivery really... No not really. The goal of health care (as I think
 now, I hope this changes to something wiser) is to cure the patient, or
-quality in the health service. 
+quality in the health service.
 
 </div>
 
@@ -189,7 +185,7 @@ quality in the health service. 
 Using effectiveness as your guiding star and principle you will
 automatically get a patient perspective and put the patient (who said
 end-customer?) in focus. This how we measure the quality of our
-service - the experience and end-result of the patient. 
+service - the experience and end-result of the patient.
 
 </div>
 
@@ -200,7 +196,7 @@ service - the experience and end-result of the patient. 
 
 Sure the internal processes are important and needs to be looked over
 but if we're not putting quality care first and the patient in focus...
-we're running the wrong way. 
+we're running the wrong way.
 
 </div>
 
@@ -216,7 +212,7 @@ demand.
 The difference, for me, is that for other business (such as
 manufacturing and software development) the faster flow can in itself be
 something to strive for. In health care I see it more as a mean to
-increase the quality - which is the goal of the system. 
+increase the quality - which is the goal of the system.
 
 </div>
 
@@ -227,7 +223,7 @@ increase the quality - which is the goal of the system. 
 For a pastor the effectiveness will be ... eeeh? This is harder. The
 only thing I'm sure of is that counting the number of pastoral calls,
 number of meetings held, number of prayers said etc. is not the target.
-This at best measuring the efficiency of the pastor. 
+This at best measuring the efficiency of the pastor.
 
 </div>
 
@@ -238,7 +234,7 @@ This at best measuring the efficiency of the pastor. 
 
 And that's not what we are after - we are after the effectiveness of the
 system. The goal, the purpose of the pastor being in the church. Or
-having a church in the first place. 
+having a church in the first place.
 
 </div>
 
@@ -248,7 +244,7 @@ having a church in the first place. 
 
 I'm no pastor. And I don't for a second think that I know more about
 their very special job than they do. I simply cannot answer this
-question adequately. 
+question adequately.
 
 </div>
 

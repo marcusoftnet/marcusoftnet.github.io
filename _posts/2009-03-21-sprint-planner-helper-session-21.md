@@ -12,7 +12,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 I’m back! After [doing a
 detour](http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html)
 through the <a

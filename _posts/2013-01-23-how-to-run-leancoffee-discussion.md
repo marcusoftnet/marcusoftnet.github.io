@@ -13,8 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/how-to-run-leancoffee-discuss
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 On a Sunday night a got a mail that asked me to do a presentation
 tomorrow. New client. Want to put best foot forward. :) So I threw one

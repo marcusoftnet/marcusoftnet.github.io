@@ -1,13 +1,12 @@
 ---
 layout: post
-title: First stop for learning events, delegates and
-anonymous methods
-date: 2009-08-31T21:53:00.001+02:00
+title: First stop for learning events, delegates and anonymous methods
+date: 2009-08-31T19:53:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - C#
-modified_time: 2009-08-31T21:53:49.383+02:00
+modified_time: 2009-08-31T19:53:49.383Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8533106289960370612
 blogger_orig_url: http://www.marcusoft.net/2009/08/first-stop-for-learning-events.html
 ---

@@ -15,7 +15,6 @@ blogger_orig_url: >-
 ---
 
 
-
 This is the last post in my series on how to motivate developers to
 write test for their code. Please read the first two posts to get some
 context (<a

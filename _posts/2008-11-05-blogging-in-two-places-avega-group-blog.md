@@ -10,7 +10,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/blogging-in-two-places-avega-
 ---
 
 
-
 <a href="http://www.avega.se" target="_blank">Avega</a> is starting up a
 <a href="http://blog.avegagroup.se" target="_blank">corporate blog</a>
 and have asked me to post some posts there. Sounds great so I have just

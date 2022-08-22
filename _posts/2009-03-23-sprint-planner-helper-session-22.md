@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
-
 I have had some serious thoughts on what to do next in my project. On
 one hand I want to update the way I am doing the GUI for the product and
 product backlog. Right now I am warm and learning a lot about ASP.NET

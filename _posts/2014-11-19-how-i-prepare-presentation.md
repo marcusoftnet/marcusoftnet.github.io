@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.ht
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 I've just been to
 <a href="http://2014.agilesingapore.org/" target="_blank">Agile

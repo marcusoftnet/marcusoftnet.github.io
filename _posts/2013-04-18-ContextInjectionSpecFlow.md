@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 [SpecFlow](http://specflow.org/) is a wonderful tool. With a lot of
 hidden gems inside of it. I have been using and coding on it now for

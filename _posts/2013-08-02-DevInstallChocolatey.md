@@ -1,21 +1,22 @@
 ---
 layout: post
-title: Setting up a new development machine without
-pressing Next a single time, using Chocolately
-date: 2013-08-01T20:28:00.001+02:00
+title: >-
+  Setting up a new development machine without pressing Next a single time using
+  Chocolately
+date: 2013-08-01T18:28:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Agile
   - Visual Studio
-modified_time: 2013-08-05T08:49:42.359+02:00
+modified_time: 2013-08-05T06:49:42.359Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3525796959481201604
 blogger_orig_url: http://www.marcusoft.net/2013/08/DevInstallChocolatey.html
 ---
 
 
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Up to now I have sadly not have time to look into
 <a href="http://chocolatey.org/" target="_blank">Chocolatey</a>. I know
@@ -33,6 +34,7 @@ target="_blank">powershell</a> and consider myself to be a newbie
 Chocolatey user.
 
 This post describes my journey.
+
 ### Getting a virtual windows installation in place
 
 <div>
@@ -51,7 +53,7 @@ Windows installation.
 <div>
 
 The Windows 8.1 installation was pretty fast and within 30-40 minutes I
-had a bare-bones Windows installation in place. 
+had a bare-bones Windows installation in place.
 
 </div>
 
@@ -84,14 +86,13 @@ powershell (cinst is a powershell command) commands. Like this one for
 example that installs
 <a href="http://www.7-zip.org/" target="_blank">7Zip</a>:
 
-
 There are four problems with this, at least for me:
 
--   I don't like powershell
--   I don't want to sit around issuing commands every other minute or
+- I don't like powershell
+- I don't want to sit around issuing commands every other minute or
     hour (for big installs)
--   It's not repeatable
--   I don't know or remember the packages I want to have. Chocolatey has
+- It's not repeatable
+- I don't know or remember the packages I want to have. Chocolatey has
     1200 packages at the time of writing.
 
 Let's leave that last one and address the other issues first. I would
@@ -107,6 +108,7 @@ Like this for example:
 I could then merge the "get Chocolatey" -command with the "install dev
 apps"-command and have a single install.bat that I run to get this to
 run:
+
 ### Getting my stuff in place - cloud version
 
 </div>
@@ -138,7 +140,7 @@ unhealthy relationship with).  
 
 Now if there could only be a way to save my list of things that I like
 and usually install. This way I could share it with others and get tips,
-suggestions and maybe even inspire them. 
+suggestions and maybe even inspire them.
 
 </div>
 
@@ -152,7 +154,7 @@ style="font-family: Courier New, Courier, monospace;">devApps.ps1-file
 in the cloud, at <a
 href="https://github.com/marcusoftnet/ScriptsAndStuff/blob/master/DevMachineInstall/devApps.ps1"
 target="_blank">GitHub.com</a> for example.  There people could actually
-make pull requests and forks of my file to improve it. 
+make pull requests and forks of my file to improve it.
 
 </div>
 
@@ -165,7 +167,7 @@ So now I can only copy that file onto every new machine ... no - wait.
 There's a better way. Chocolatey used a cool little function called
 <span style="font-family: Courier New, Courier, monospace;">((new-object
 net.webclient).DownloadString() in their install command. I can
-use that too and download my devApps.ps1 file from Github. 
+use that too and download my devApps.ps1 file from Github.
 
 </div>
 
@@ -176,13 +178,10 @@ use that too and download my devApps.ps1 file from Github. 
 
 Like this:
 
-
-
-
 A small gotcha for me was that you have to reference the RAW-version of
 the file. Of course, once you think about it since you don't want to
 download the GitHub HTML-page. Of course - but I missed that the first
-time around. 
+time around.
 
 </div>
 
@@ -200,7 +199,7 @@ and I only one powershell command. Not too bad.
 My installation scripts can be found, forked and improved
 here: <https://github.com/marcusoftnet/ScriptsAndStuff>
 
-### Update 
+### Update
 
 </div>
 
@@ -208,7 +207,7 @@ here: <https://github.com/marcusoftnet/ScriptsAndStuff>
 
 Right smack in the middle of my installation my virtual machine
 rebooted. I don't really know why but that gave script-based
-installations time to really shine. 
+installations time to really shine.
 
 </div>
 
@@ -217,7 +216,7 @@ installations time to really shine. 
 
 <div>
 
-How did I recover from such a horrible thing as a machine reboot? 
+How did I recover from such a horrible thing as a machine reboot?
 
 </div>
 
@@ -241,14 +240,13 @@ WebEssentials2012 failed but that was because of me. The script
 installed those add-ins to Visual Studio before Visual Studio itself. So
 I modified the <a href="https://github.com/marcusoftnet/ScriptsAndStuff"
 target="_blank">script</a> to run the Visual Studio installs
-first. 
+first.
 
 </div>
 
 <div>
 
 <span style="font-family: inherit;">
-
 
 </div>
 
@@ -257,7 +255,7 @@ first. 
 <span style="font-family: inherit;">Also I failed. I forgot that for
 Visual Studio 2013 Preview you also need to install "ASP.NET and
 Web Tools 2013 Refresh". But that's for a preview product so I felt that
-it didn't count. Now did it? 
+it didn't count. Now did it?
 
 </div>
 

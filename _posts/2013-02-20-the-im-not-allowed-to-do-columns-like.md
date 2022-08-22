@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/the-im-not-allowed-to-do-colu
 ---
 
 
-
-<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
 
 Today I talked with someone that was about to create her first ever
 board, for a team. She was a bit worried as she couldn't fit her normal
