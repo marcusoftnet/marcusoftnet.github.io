@@ -6,7 +6,9 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
-   - ASP.NET MVC - KanbanBoards - SpecFlow
+   - ASP.NET MVC
+  - KanbanBoards
+  - SpecFlow
 modified_time: '2011-01-25T11:28:24.156+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TTyc-nZa-iI/AAAAAAAAAvo/ye0t1HcwTiE/s72-c/updated-scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9181359261521028249

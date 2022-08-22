@@ -4,10 +4,13 @@ title: "Using the scientific method on our board"
 author: "Marcus Hammarberg"
 date: 2015-11-24 15:10:47
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
- - Indonesia
+
+  - Indonesia
   - Life of a consultant
 ---
 

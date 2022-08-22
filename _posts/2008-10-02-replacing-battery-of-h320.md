@@ -18,9 +18,7 @@ id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:d0e0ddff-1afd-44f5-b906-1e7f033296
 class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 
-<div>
 
-</div>
 
 </div>
 

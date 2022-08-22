@@ -4,7 +4,8 @@ title: "The Lars-principle"
 author: "Marcus Hammarberg"
 date: 2015-09-10 09:53:04
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

@@ -4,7 +4,8 @@ title: "The things I (we) worry about in vain"
 author: "Marcus Hammarberg"
 date: 2019-01-20 16:34:46
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

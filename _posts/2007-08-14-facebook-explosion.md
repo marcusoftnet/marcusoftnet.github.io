@@ -23,10 +23,8 @@ adding photos.
 
 There are some quite cool functionality in there but all in all i am
 getting a bit annoyed by all these stay-in-touch-sites. I mean, who
-really has the time to maintain a work-network on <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">LinkedIn,
+really has the time to maintain a work-network on LinkedIn,
 friend network on facebook and a network of old
 schoolmates on whatever.com.
 
-Well, well it's always fun to meet friends so <span
-id="SPELLING_ERROR_4" class="blsp-spelling-error">i'll tag along
+Well, well it's always fun to meet friends so i'll tag along

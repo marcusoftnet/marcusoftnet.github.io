@@ -1,7 +1,6 @@
 ---
 layout: post
-title: BDD with SpecFlow – some thoughts after a
-workshop at Elevate
+title: BDD with SpecFlow – some thoughts after a workshop at Elevate
 date: '2010-03-06T19:53:00.001+01:00'
 author: Marcus Hammarberg
 tags:
@@ -95,11 +94,11 @@ has it’s own best practices and trick that you’ll need to pick up before
 being productive. Here is a great article series that take you from
 basic to advanced:
 
--   <a href="http://www.engineyard.com/blog/2009/cucumber-introduction/"
+- <a href="http://www.engineyard.com/blog/2009/cucumber-introduction/"
     target="_blank">Basic syntax and usage</a>
--   <a href="http://www.engineyard.com/blog/2009/cucumber-more-advanced/"
+- <a href="http://www.engineyard.com/blog/2009/cucumber-more-advanced/"
     target="_blank">A bit more advanced features</a>
--   <a
+- <a
     href="http://www.engineyard.com/blog/2009/15-expert-tips-for-using-cucumber/"
     target="_blank">15 Best practices in Gherkin</a>
 
@@ -128,31 +127,31 @@ method to run for a certain step.
 
 Here we found out some problems and opportunities:
 
--   The steps can be located in any class with the Binding-attribute.
+- The steps can be located in any class with the Binding-attribute.
     There is no connection between the scenario and the binding. It just
     a bunch of steps. If more than one attribute match a step in a
     scenario SpecFlow will throw and exception and inform you about it.
--   <a href="http://www.specflow.org" target="_blank">SpecFlow</a>
+- <a href="http://www.specflow.org" target="_blank">SpecFlow</a>
     supports that you can have more than one attributes (two different
     \[When\]’s for example) on the same method. Using this technique you
     could have very specific strings in the attributes and still have
     them call the same method.
--   In the attributes for the steps you can use <a
+- In the attributes for the steps you can use <a
     href="http://github.com/techtalk/SpecFlow/blob/master/Samples/BowlingKata/Bowling.Specflow/BowlingSteps.cs"
     target="_blank">regular expressions</a> to be able to send different
     data to the same step. This could also be a bit confusing since some
     regular expressions will match a “bigger” portion of a string than
     you first might have guessed. This feature is standard Gherkin.
--   Another, and maybe better way, to send data is the <a
+- Another, and maybe better way, to send data is the <a
     href="http://github.com/aslakhellesoy/cucumber-rails-test/blob/master/features/manage_lorries.feature"
     target="_blank">table construct in Gherkin</a>. I found this a much
     better way to keep your scenarios clean and less sensitive for
     change.
     The syntax for tables are a bit special though:
-    -   You need to have space after the pipe (\|) sign.
-    -   The table (of course) need headers, so that you can reference
+  - You need to have space after the pipe (\|) sign.
+  - The table (of course) need headers, so that you can reference
         different columns in your code. The first line is the header.
--   A thing that confused me, but is the way it has to work, is that a
+- A thing that confused me, but is the way it has to work, is that a
     pending step will stop the execution of the rest of the scenario.
 
 All in all I think
@@ -168,19 +167,19 @@ bugs in tools and frameworks than I ever seen… None of them had to do
 with <a href="http://www.specflow.org" target="_blank">SpecFlow</a> and
 some of them had to do with me…
 
--   We used <a href="http://www.jetbrains.com/resharper/beta/beta.html"
+- We used <a href="http://www.jetbrains.com/resharper/beta/beta.html"
     target="_blank">Resharper 5.0 Beta</a> (different versions). I
     cannot imagining Visual Studio without Resharper, but this time I
     started to soon. Thanks to some great support
     <a href="http://www.jetbrains.net/devnet/thread/286635"
     target="_blank">some of the issues</a> were solved during the weeks
     we developed the code.
--   I still cannot get Resharper to run the test from the .feature-file.
+- I still cannot get Resharper to run the test from the .feature-file.
     “No test found in file” is the response that I get from Resharper
     for that… That worked for a while but has disappeared now. I haven’t
     reported a bug for that yet – not sure if it’s in Resharper or in
     SpecFlow.
--   I also <a href="http://code.google.com/p/moq/issues/detail?id=234"
+- I also <a href="http://code.google.com/p/moq/issues/detail?id=234"
     target="_blank">reported a bug</a> in
     <a href="http://code.google.com/p/moq/" target="_blank">Moq</a> –
     but that was completely my fault. And I have to endure the

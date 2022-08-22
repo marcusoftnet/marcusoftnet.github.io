@@ -1,12 +1,12 @@
 ---
 layout: post
-title: WhiteStepHelper – a small step toward smaller
-steps
+title: WhiteStepHelper – a small step toward smaller steps
 date: '2010-09-17T19:00:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2010-09-28T09:28:49.844+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5718687913603168178
 blogger_orig_url: http://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html
@@ -58,7 +58,7 @@ for my need.
 So I created a White finder that looks for the AutomationProperties.Name
 with the well known name and returns the ID for that control. It works
 fine and gives us a simple yet powerful way of keeping the
-specifications in a format that the user understands. 
+specifications in a format that the user understands.
 
 ### Asserts
 
@@ -93,15 +93,15 @@ target="_blank">The code can be found on GitHub</a>.
 During writing the steps so far I’ve learned a lot. Here are some
 highlights:
 
--   When I first could write a scenario and run it without writing any
+- When I first could write a scenario and run it without writing any
     new steps was a really strange and joyful experience. I told the
     application what it should do (in Swedish) and it just did that…
--   I had a real strange bug for a while. I used the
+- I had a real strange bug for a while. I used the
     Window.Keyboard.HoldKey-method and forgot to call .LeaveKey… Which
     meant that the Control-key of my keyboard was registered as being
     pressed all the time. White uses your computer to automate the
     application. Some strange situations may occur.
--   The performance of White is a bit slow. Especially some operations,
+- The performance of White is a bit slow. Especially some operations,
     such as traversing trees etc. This don’t worry me so much since this
     is integrationtest. It’s ok for them to take a while. But beware so
     that you don’t put this in places which is run over and over.
@@ -111,12 +111,12 @@ highlights:
     href="http://white.codeplex.com/wikipage?title=Speed%20up%20performance%20by%20Position%20based%20search&amp;referringTitle=Performance"
     target="_blank">out this to get much better (1/4 of the time)
     performance</a>. Use WithCache
--   Also beware that the attributes that SpecFlow looks for can be found
+- Also beware that the attributes that SpecFlow looks for can be found
     in any class. And can be applied multiple times. That means that
     BeforeFeature and AfterScenario can be applied multiple times, if
     you don’t watch yourself.
--   Take advantage of the fact that the attributes can be applied
+- Take advantage of the fact that the attributes can be applied
     multiple times. Sometimes the same action-step can be reused as both
     a Given and a Then.
--   The name of the Step-method is not nearly as important as the
+- The name of the Step-method is not nearly as important as the
     attributes.

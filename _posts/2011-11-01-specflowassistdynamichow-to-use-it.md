@@ -4,9 +4,11 @@ title: SpecFlow.Assist.Dynamic–how to use it
 date: '2011-11-01T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Tools
-  - .NET - Specification by example - SpecFlow
+  - BDD
+  - Tools
+  - .NET
+  - Specification by example
+  - SpecFlow
 modified_time: '2011-11-03T16:39:48.397+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-651375687003503
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamichow-to-use-it.html
@@ -26,7 +28,6 @@ and some tricks that you might not know about.
 Again – this is not the documentation for SpecFlow.Assist.Dynamic –
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki"
 target="_blank">that can be found here</a>.
-
 
 ### Installation
 
@@ -96,16 +97,11 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
-
 I can write the following short statements with
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
 target="_blank">SpecFlow.Assist.Dynamic</a>:
 
-
 <div id="codeSnippetWrapper">
-
-
 
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
@@ -202,7 +198,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 There’s a lot to be said about the data access code, for example you
 probably are using an ORM of sorts and hopefully you can send dynamic
 objects to it. I’ll show other ways to do that later.
@@ -230,9 +225,9 @@ used.
 I have supplied three such argument transformations that converts Table
 arguments into:
 
--   A dynamic instance
--   A IEnumerable\<dynamic\>
--   A IList\<dynamic\>
+- A dynamic instance
+- A IEnumerable\<dynamic\>
+- A IList\<dynamic\>
 
 So the example above can be written like this, using these step argument
 transformations:
@@ -266,20 +261,19 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 Pretty slick, huh? This is how it works:
 
--   <a href="http://www.blogger.com/www.specflow.org"
+- <a href="http://www.blogger.com/www.specflow.org"
     target="_blank">SpecFlow</a> matches my Given statement with the
     Step definition marked with the Given-attribute above.
--   From the .feature-file it knows that a table is sent to the step. It
+- From the .feature-file it knows that a table is sent to the step. It
     send that table.
--   In the
+- In the
     <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
     target="_blank">SpecFlow.Assist.Dynamic</a>** **dll step argument
     methods are found that matches a Table and the IList\<dynamic\> that
     I am using in the method signature
--   <a href="http://www.blogger.com/www.specflow.org"
+- <a href="http://www.blogger.com/www.specflow.org"
     target="_blank">SpecFlow</a> converts my argument using that method
     and simply returns a IList\<dynamic\> containing the data from the
     table.
@@ -289,7 +283,6 @@ href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki/Step-argument
 target="_blank">about this on my wiki.</a>
 Oh yeah – **very important**! To get this to work you need to add a
 configuration into your app.config:
-
 
 <div id="codeSnippetWrapper">
 
@@ -319,7 +312,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
 
 This make sure that the step arguments are picked up from the dll.
 <span class="Apple-style-span"
@@ -383,9 +375,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 I can now write the following steps:
-
 
 <div id="codeSnippetWrapper">
 
@@ -504,7 +494,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 Don’t worry about the Given and When-steps, it’s just fake. I have save
 the original list into a private variable called \_books and then simply
 filter that out in the When-step. In a real example the When-step would
@@ -533,6 +522,7 @@ reader. Let me know if you did anything that helped you.
 ### Conclusion
 
 ### <span class="Apple-style-span" style="font-size: small; font-weight: normal;">I have shown you how I use these helpers. Please note that they are inspired to a great deal by the Table helpers in the <a href="http://www.blogger.com/www.specflow.org"
+
 style="font-size: medium; font-weight: normal;"
 target="_blank">SpecFlow</a><span class="Apple-style-span" style="font-size: small; font-weight: normal;">.Assist namespace that have similar methods but for statically typed objects (that you need to create ^^)
 

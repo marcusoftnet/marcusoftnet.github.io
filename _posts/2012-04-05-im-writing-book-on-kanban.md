@@ -6,7 +6,9 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-  - Kanban - Agile
+
+  - Kanban
+  - Agile
 modified_time: '2012-04-05T08:12:42.634+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5666632138891207928
 blogger_orig_url: http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html ---

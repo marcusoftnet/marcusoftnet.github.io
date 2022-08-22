@@ -4,7 +4,8 @@ title: "Review: Nature by Ron Jeffries"
 author: "Marcus Hammarberg"
 date: 2015-09-07 10:19:40
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Tools
   - Life of a consultant

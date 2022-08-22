@@ -4,7 +4,8 @@ title: "Big room planning - a workaround that can be useful"
 author: "Marcus Hammarberg"
 date: 2016-10-03 20:19:48
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

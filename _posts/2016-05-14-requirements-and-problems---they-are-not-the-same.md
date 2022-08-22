@@ -4,10 +4,12 @@ title: "Requirements are not problem/opportunity descriptions"
 author: "Marcus Hammarberg"
 date: 2016-05-14 12:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 A few weeks back a [team mate](twitter.com/anjonsson), developer and agile dude extraordinare, said something profound:

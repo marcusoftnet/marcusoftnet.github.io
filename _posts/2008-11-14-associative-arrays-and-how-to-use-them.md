@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Associative arrays - and how to use them...
-wisely
+title: Associative arrays - and how to use them... wisely
 date: '2008-11-14T10:46:00.002+01:00'
 author: Marcus Hammarberg
 tags:

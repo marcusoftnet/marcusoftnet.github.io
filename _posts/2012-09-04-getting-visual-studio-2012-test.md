@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Getting Visual Studio 2012 Test Explorer to work
-with NUnit,xUnit and SpecFlow
+title: Getting Visual Studio 2012 Test Explorer to work with NUnit,xUnit and SpecFlow
 date: '2012-09-04T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
-  - Visual Studio -
-SpecFlow - TDD
+  - Visual Studio
+  - SpecFlow
+  - TDD
 modified_time: '2012-09-04T09:00:07.749+02:00'
 thumbnail: http://3.bp.blogspot.com/-FX9dvj7RrdI/UEOyDE4vZxI/AAAAAAAABTM/lXpDG8swOPk/s72-c/Screen+Shot+2012-09-02+at+21.18.46.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5998573811657878660
@@ -50,7 +50,6 @@ the Visual Studio Gallery (you'll find it under the Online-tab in the
 dialog) for NUnit, xUnit or whatever framework your using. What you are
 looking for are Test adapters for Visual Studio 2012. Like these:
 
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -65,7 +64,7 @@ data-border="0" width="320" height="176" /></a>
 
 When that is installed I was again happy to see that Visual Studio picks
 up my SpecFlow specifications and I can run them from the test
-explorer. 
+explorer.
 
 </div>
 
@@ -80,10 +79,10 @@ there too, for us SpecFlow-users:
 
 <div>
 
--   Double clicking a test takes you too... The specification and not
+- Double clicking a test takes you too... The specification and not
     the generated test. Thank you very much mr Hidden pragma (#line
     hidden)
--   You can run only failed, or passed for that matter and even a
+- You can run only failed, or passed for that matter and even a
     shortcut for rerunning the last test run. It seems like
     TDD practices are getting a firm footing at Microsoft...
    <a
@@ -92,7 +91,7 @@ there too, for us SpecFlow-users:
     style="margin-left: 1em; margin-right: 1em; text-align: center;"><img
     src="http://4.bp.blogspot.com/-P1R_y4OI1us/UET6sootD2I/AAAAAAAABTg/vqkwYj0uxPo/s320/Screen+Shot+2012-09-03+at+20.43.51.png"
     data-border="0" width="320" height="116" /></a>
--   There is, from the Test menu, an option to rerun the tests on every
+- There is, from the Test menu, an option to rerun the tests on every
     build. So it's a bit like a poor
     mans <a href="http://continuoustests.com/" target="_blank">MightyMoose</a>
     and <a href="http://www.ncrunch.net/" target="_blank">NCrunch</a>
@@ -108,15 +107,13 @@ there too, for us SpecFlow-users:
 
 These small things made me happy and my productivity boost a bit again.
 Once I knew who to get it to run with the testframeworks I normally
-use. 
+use.
 
 </div>
 
 </div>
 
 <div>
-
-
 
 </div>
 

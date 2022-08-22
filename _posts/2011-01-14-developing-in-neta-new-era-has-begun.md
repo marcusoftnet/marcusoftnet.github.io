@@ -5,7 +5,9 @@ date: '2011-01-13T21:11:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - KanbanBoards - Agile
+  - .NET
+  - KanbanBoards
+  - Agile
 modified_time: '2011-02-05T21:13:11.775+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TS9gf84iOrI/AAAAAAAAArw/fAKXyaQG_TQ/s72-c/wlEmoticon-smile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5907964016203666193
@@ -67,7 +69,7 @@ the one I find most interesting:
     target="_blank">POCO classes</a>, mapped to a database,
     automatically. It looks nice, so nice.
 -   [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/)
-    – scaffolds loads of stuff for you in MVC 3 projects. Looks \*very\*
+    – scaffolds loads of stuff for you in MVC 3 projects. Looks *very*
     promising. I didn’t say “brings Ruby-On-Rails to the .NET sphere”...
     but I it was on my mind <img
     src="http://lh5.ggpht.com/_TI0jeIedRFk/TS9gf84iOrI/AAAAAAAAArw/fAKXyaQG_TQ/wlEmoticon-smile%5B2%5D.png?imgmax=800"
@@ -102,7 +104,7 @@ post. My plan is to try to write so little code as possible and get
 these tools to work for me. Also I progress step by step using the tools
 and my knowledge to solve the problem at hand, at the <a
 href="http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment/"
-target="_blank">last responsible moment</a>. I will \*not\* download a
+target="_blank">last responsible moment</a>. I will *not* download a
 bunch of stuff that I think that I will need – only when I actually need
 it.
 

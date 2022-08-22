@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - VB.NET - BDD
   - Tools
-  - .NET - Agile
+  - .NET
+  - Agile
 modified_time: '2010-12-14T16:22:38.155+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb%5B6%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4211414648845018243
@@ -319,7 +320,7 @@ Given-statement that SpecFlow-generated for Calculation Type from this:
 
 to this:
 
-> \<Given("that I choose '(.\*)' in the list (.\*)")\>
+> \<Given("that I choose '(.*)' in the list (.*)")\>
 
 And then implemented a generic method that selects a value from a combo
 box like follows:

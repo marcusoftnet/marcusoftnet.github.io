@@ -4,7 +4,8 @@ title: Great SCRUM-resources
 date: '2008-11-13T12:33:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Scrum - Agile
+  - Scrum
+  - Agile
 modified_time: '2008-11-13T12:33:07.197+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2248959270375678236
 blogger_orig_url: http://www.marcusoft.net/2008/11/great-scrum-resources.html ---

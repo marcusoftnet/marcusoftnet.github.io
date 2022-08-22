@@ -9,6 +9,7 @@ tags:
   - .NET
   - ÖreDev
   - NHibernate
+
   - Agile
 modified_time: '2011-11-09T21:49:22.612+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7581226974756991164

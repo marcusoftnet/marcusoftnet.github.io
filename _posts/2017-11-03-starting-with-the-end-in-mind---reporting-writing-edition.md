@@ -6,7 +6,8 @@ date: 2017-11-03 08:40:52
 tags:
  - Lean
   - Life of a consultant
- - Agile
+
+  - Agile
 ---
 
 I had one of the more intense writing sessions in my life the other day - getting about 17 pages and 6000 words out in 2,5 hours. But that's not as important, although fun, compared to the quality and how we did it.

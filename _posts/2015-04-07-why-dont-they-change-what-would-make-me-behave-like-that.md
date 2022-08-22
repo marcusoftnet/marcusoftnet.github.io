@@ -4,11 +4,13 @@ title: "Why don't they change: What would make me behave like that?"
 author: "Marcus Hammarberg"
 date: 2015-04-07 09:24:21
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Leadership
   - Life of a consultant
- - Indonesia
+
+  - Indonesia
 ---
 
 I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html), [twice](http://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.

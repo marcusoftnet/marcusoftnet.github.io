@@ -14,15 +14,12 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/vasakrens-jul.html
 My corps, the Vasa corps of the Salvation Army, is
 gifted with many very good musical talents. For example
 Vasa
-Gospel, Vasas Granater (youth gospel) and the <span
-id="SPELLING_ERROR_5" class="blsp-spelling-error">VasaBand.
+Gospel, Vasas Granater (youth gospel) and the VasaBand.
 
 Each year we get together and perform a Christmas concert. This year i
-am in a group that put that concert together. It will be on [<span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">Nybrokajen
+am in a group that put that concert together. It will be on [Nybrokajen
 11](http://www.nybrokajen11.rikskonserter.se/) and will include the
-mentioned groups and also some guests, for example [Karl-<span
-id="SPELLING_ERROR_7" class="blsp-spelling-error">Magnus <span
+mentioned groups and also some guests, for example [Karl-Magnus <span
 id="SPELLING_ERROR_8"
 class="blsp-spelling-error">Fredriksson](http://www.musiken.nu/).
 

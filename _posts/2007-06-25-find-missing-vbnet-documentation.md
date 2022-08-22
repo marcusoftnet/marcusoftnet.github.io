@@ -28,9 +28,7 @@ Studio for C# that you are missing when you're using VB.NET.
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -46,9 +44,7 @@ it sucks.
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -61,9 +57,7 @@ list (see picture).
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -73,17 +67,14 @@ from the studio.
 
 </div>
 
-<div>
 
-</div>
 
 
 
 <div>
 
 Anyone interested in this add-in you can
-have it by writing to me on *marcus (dot) <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">hammarberg (at)
+have it by writing to me on *marcus (dot) hammarberg (at)
 avega
 (dot) se.*
 

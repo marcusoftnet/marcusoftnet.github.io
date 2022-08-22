@@ -4,9 +4,11 @@ title: "Deploy and release"
 author: "Marcus Hammarberg"
 date: 2017-09-20 16:53:42
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

@@ -4,7 +4,8 @@ title: "My top 10 books"
 author: "Marcus Hammarberg"
 date: 2018-03-14 15:04:34
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
  - Tools

@@ -11,9 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/mor-i-skutan.html ---
 This sketch is so funny - i have had
 some trouble at work because of this.
 
-But here you are - Galenskaparna - <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">Mor i <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">Skutan. (Will
+But here you are - Galenskaparna - Mor i Skutan. (Will
 not work well in translation)
 
 

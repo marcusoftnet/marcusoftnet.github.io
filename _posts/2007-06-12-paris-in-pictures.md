@@ -42,17 +42,13 @@ miles (Swedish that is) each day...
 
 </div>
 
-<div>
-
-</div>
 
 
 
 
 
-<div>
 
-</div>
+
 
 </div>
 

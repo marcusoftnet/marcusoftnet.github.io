@@ -4,11 +4,13 @@ title: "What if money was not an issue?"
 author: "Marcus Hammarberg"
 date: 2015-02-27 08:16:15
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Leadership
   - Life of a consultant
- - Indonesia
+
+  - Indonesia
 ---
 
 In Indonesia there's an interesting development going on right now in health care. A nationwide health insurance is being rolled out. For everyone. Until now health care has been paid for privately or via private health insurances, but with the advent of BPJS (that it's called) everyone can now afford to go to the hospital... or at least there's fixed tariffs.

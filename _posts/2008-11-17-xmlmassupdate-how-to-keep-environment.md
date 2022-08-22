@@ -1,7 +1,6 @@
 ---
 layout: post
-title: XMLMassUpdate - how to keep environment in place
-with MSBuild
+title: XMLMassUpdate - how to keep environment in place with MSBuild
 date: '2008-11-17T14:17:00.001+01:00'
 author: Marcus Hammarberg
 tags:

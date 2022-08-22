@@ -1,17 +1,17 @@
 ---
 layout: post
-title: The only easy day was yesterday - this is a
-message of hope
+title: The only easy day was yesterday - this is a message of hope
 date: '2014-10-14T08:42:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
-  - ife of a consultant
-   - Kanban
-  - Agile- Salvation Army
+  - Tools
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
+  - Salvation Army
 modified_time: '2014-10-14T08:42:15.875+02:00'
-thumbnail:
-http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
+thumbnail: http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4622216197719868034
 blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
 ---
@@ -28,10 +28,10 @@ And the staff finds themselves with much more work than they have
 experienced in about 5 years. Yesterday was our best day so far and it
 was amazing to see the difference from a normal day;
 
--   Everyone was moving fast - compared to sitting around waiting
--   Everyone was focused - compared to not really knowing what to do
--   Everyone was excited - compared to disillusioned and bored
--   Everyone was tired after the day - compared to feeling tired of
+- Everyone was moving fast - compared to sitting around waiting
+- Everyone was focused - compared to not really knowing what to do
+- Everyone was excited - compared to disillusioned and bored
+- Everyone was tired after the day - compared to feeling tired of
     boredom
 
 |                                                                                                                         |
@@ -58,8 +58,6 @@ embarking on continuous improvements and why this not is a problem, but
 rather a message of hope.
 Under one condition...
 
-
-
 ### What does "The only easy day was yesterday" mean?
 
 |                                                                                                                                                                                                                                                                             |
@@ -81,13 +79,11 @@ First of all the
 target="_blank">Navy Seals</a> is an elite military unit in the US Navy.
 They are famous for one of the hardest and toughest training programs in
 the world. Part of it is referred to as "Hell week", and that goes on
-for 10 days... 
+for 10 days...
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -96,13 +92,11 @@ for 10 days... 
 "The only easy day was yesterday" simply means; "things will just get
 harder from now on". Never has this been more true since you at any time
 during the 8+24-week training period will be expelled if you fail a
-test. 
+test.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -115,8 +109,6 @@ target="_blank">Why so focused on the problems?</a>
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -153,8 +145,6 @@ always get worse, harder, tougher? Can I please change company?
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -162,13 +152,11 @@ always get worse, harder, tougher? Can I please change company?
 Let me first say that my economical skills are limited. This might brush
 on finance ideas such as if we always need to do better and better and
 maybe there are other theories about this. I don't know. Please
-enlighten me. 
+enlighten me.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -177,13 +165,11 @@ enlighten me. 
 But for this particular client we have had a trend of running the
 company at about 40-50% of the levels we needed to even cover our costs.
 For several years. External input of funds and simply not paying all our
-debts has been the solution for quite some time. 
+debts has been the solution for quite some time.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -192,13 +178,11 @@ debts has been the solution for quite some time. 
 Now that we are pushing more customers to the company there will, for
 the foreseeable future, be more and more to do. Before 80 customers per
 day was "a lot"... yesterday we had 145 and I would think that the new
-"normal" will be around 130-180 maybe. 
+"normal" will be around 130-180 maybe.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -216,7 +200,7 @@ Löwenborg</a> said to me describing working for a startup;
 
 > It was like riding kayak in a white water river. All I could do was
 > trying to paddle along and steer... there was no use trying to turn
-> the kayak around.   
+> the kayak around.
 
 ### That sounds horrible... please bring some good news
 
@@ -287,7 +271,7 @@ target="_blank">Creative Commons</a></td>
 
 <div>
 
-Now you say; 
+Now you say;
 
 </div>
 
@@ -317,13 +301,11 @@ It was a tiny change - if it proves to be wrong we just go back.
 <div>
 
 One final comment. Why do we want to have more and more to do? Or move
-faster and faster? 
+faster and faster?
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -331,20 +313,18 @@ faster and faster? 
 
 Because that's where innovation happens. Why? Because with small load,
 less things to do we don't need to be effective, we don't need to think
-about quality etc. Under small load we can manage anyway. 
+about quality etc. Under small load we can manage anyway.
 
 </div>
 
 <div>
-
-
 
 </div>
 
 <div>
 
 So quality is bad. Who cares? I have so little to do that I have time to
-fix my bad quality too. 
+fix my bad quality too.
 
 </div>
 
@@ -352,13 +332,11 @@ fix my bad quality too. 
 
 This process is very ineffective. So what? We have nothing better to
 do - we can take our time filling these forms out, or do this things
-twice etc. 
+twice etc.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -366,7 +344,7 @@ twice etc. 
 
 When we increased the number of customers in our current client we saw
 all kinds of spontaneous improvements spring into action. Just because
-we had to. 
+we had to.
 
 </div>
 
@@ -376,13 +354,11 @@ we had to. 
 
 "The only easy day was yesterday" - from now of we need to improve. This
 is a message of hope since this will make us better and better to handle
-this load. 
+this load.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -391,7 +367,7 @@ this load. 
 And you know what; pretty soon we will find that we can handle the
 higher load without being stressed out, without feeling rushed. Because
 we have improved our environment, our processes and services into
-something better. Something better than we even knew was possible. 
+something better. Something better than we even knew was possible.
 
 </div>
 

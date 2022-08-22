@@ -6,7 +6,10 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
-  - .NET - Specification by example - C# - SpecFlow
+  - .NET
+  - Specification by example
+  - C#
+  - SpecFlow
 modified_time: '2013-04-18T08:00:02.781+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865
 blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html ---
@@ -92,9 +95,7 @@ configure the container. Like this:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

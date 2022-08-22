@@ -4,10 +4,12 @@ title: "Stuff I said coaching"
 author: "Marcus Hammarberg"
 date: 2015-05-03 15:35:18
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
  - Lean
- - Kanban
+
+  - Kanban
  - Things I say often
 ---
 

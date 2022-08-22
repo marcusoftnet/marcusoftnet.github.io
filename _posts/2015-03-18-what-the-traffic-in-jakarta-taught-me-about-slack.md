@@ -4,7 +4,8 @@ title: "What the traffic in Jakarta taught me about slack"
 author: "Marcus Hammarberg"
 date: 2015-03-18 10:57:09
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Marcus private
 ---

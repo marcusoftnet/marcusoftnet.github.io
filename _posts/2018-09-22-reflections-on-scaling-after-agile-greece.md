@@ -4,7 +4,8 @@ title: "Reflections after Agile Greece"
 author: "Marcus Hammarberg"
 date: 2018-09-22 14:01:20
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

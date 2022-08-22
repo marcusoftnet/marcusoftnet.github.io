@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
+
   - Agile
 modified_time: '2009-04-09T16:35:15.973+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2359394735398966764
@@ -18,11 +19,9 @@ an article that I read in
 <a href="http://computersweden.idg.se/" target="_blank"><span
 id="SPELLING_ERROR_0"
 class="blsp-spelling-error">ComputerSweden</a>. Nothing scary
-there - but the article was written by one of the IT-<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">heros of
+there - but the article was written by one of the IT-heros of
 Sweden,
-<a href="http://www.ivarjacobson.com/" target="_blank">Ivar <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">Jacobsson</a>.
+<a href="http://www.ivarjacobson.com/" target="_blank">Ivar Jacobsson</a>.
 He invented RUP and has been a busy debater and
 writer.
 

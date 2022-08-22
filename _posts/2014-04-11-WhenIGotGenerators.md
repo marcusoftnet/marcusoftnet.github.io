@@ -148,7 +148,7 @@ Summing up the problem would be something like this:
     is not valid outside a generator function. 
 -   We can create an anonymous generator function by wrapping the code
     in "<span
-    style="font-family: Courier New, Courier, monospace;">function \*(){
+    style="font-family: Courier New, Courier, monospace;">function *(){
     // code }"
 -   Only problem left, is that we need someone that calls and drives
     through that function for us, continuing after a <span
@@ -159,7 +159,7 @@ Summing up the problem would be something like this:
 -   The co constructor takes a generator function as parameter making
     our entire wrapping for this into "<span
     style="font-family: Courier New, Courier, monospace;">co(function
-    \*(){// code})();"
+    *(){// code})();"
 
 <div>
 

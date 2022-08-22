@@ -5,7 +5,8 @@ date: '2011-12-11T21:30:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2011-12-11T21:51:57.425+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8208460981540200585
 blogger_orig_url: http://www.marcusoft.net/2011/12/creating-tools-only-nuget-package.html
@@ -118,7 +119,7 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
 ```
 
 ```
-  16:     <file src="bin\Release\*.dll" target="tools" />
+  16:     <file src="bin\Release*.dll" target="tools" />
 ```
 
 ```

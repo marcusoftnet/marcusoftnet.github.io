@@ -6,7 +6,6 @@ author: Marcus Hammarberg
 tags:
   - Life of a consultant
  - Scrum
-
 modified_time: '2007-09-13T08:04:57.989+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5818644234273162870
 blogger_orig_url: http://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-development.html

@@ -22,8 +22,7 @@ has been upgraded to support .NET 2.0 but they probably knew that
 Sandcastle was coming along.
 
 Also - i have been betting and introducing NDoc for .NET 2.0 (Alpha) in some of
-my build scripts. When Sandcastle finally arrive (<span
-id="SPELLING_ERROR_5" class="blsp-spelling-error">CTP now so
+my build scripts. When Sandcastle finally arrive (CTP now so
 should take about a year) documentation generation will probably be done
 better with Sandcastle than with NDoc Alpha.
 

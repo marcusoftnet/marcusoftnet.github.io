@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Theory of constraints and Specification by
-example
+title: Theory of constraints and Specification by example
 date: '2011-05-27T20:41:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - BDD - Kanban - Agile
+  - BDD
+  - Kanban
+  - Agile
 modified_time: '2011-10-20T14:58:46.684+02:00'
 thumbnail: http://lh6.ggpht.com/-P5qnRhrhJ-4/Td_wWwDj1vI/AAAAAAAAA_c/7Eg93tbpZy0/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5183569694525573431
@@ -40,7 +41,6 @@ target="_blank">Elijah Goldratt</a> and
 <a href="http://gojko.net/" target="_blank">Gojko Adzic</a> to mention a
 few.
 
-
 ### Theory of Constraints
 
 About a year ago I read the magnificent <a
@@ -66,15 +66,15 @@ Here is a short example of this;
 > style="border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none;"
 > alt="Smile" />). This is done by an array of machines that transforms
 > the raw material into the welded steel plates that Marcusoft Welded
-> Steelplates are famous for. 
+> Steelplates are famous for.
 > Here is how the plant is organized today:
 >
-> 1.  The plant receives the raw steel plates and the first machine cut
+> 1. The plant receives the raw steel plates and the first machine cut
 >     it into roughly the right shape
-> 2.  The second machine welds parts to the plate
-> 3.  The third machine paints the steel plate in the colors the
+> 2. The second machine welds parts to the plate
+> 3. The third machine paints the steel plate in the colors the
 >     customer wants
-> 4.  The final machine removes excess material that might not be
+> 4. The final machine removes excess material that might not be
 >     needed, rough corners and things sticking out etc.
 >
 > However the plant soon run into problems. The raw material is not very
@@ -124,6 +124,7 @@ You’re probably guessing 25-50% of the time here?
 
 > \- Errr – because we will know what we’ll need to do this time
 > around.
+>
 > - We can avoid any pitfalls we’ve made already
 
 Because system development is a knowledge creating process. When you
@@ -150,6 +151,7 @@ creating the prototype and specifications that all the other cars are
 built from.
 
 ### <a href="http://specificationbyexample.com/"
+
 target="_blank">Specification by example</a>
 
 The idea with specification by example is that you specify the system

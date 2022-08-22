@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Know where you step–generate a step definition
-report with SpecFlow
+title: Know where you step–generate a step definition report with SpecFlow
 date: '2010-12-16T22:12:00.002+01:00'
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
-  - .NET - SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2010-12-16T22:14:19.582+01:00'
 thumbnail: http://3.bp.blogspot.com/\_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s72-c/step+definition+example+report.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3594256389110553732
@@ -43,9 +43,7 @@ Here is the command I used:
 > SpecFlow.exe stepdefinitionreport Specs\Specs.csproj
 > ```
 
-
 That produces a report as follows:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -56,8 +54,6 @@ src="http://3.bp.blogspot.com/_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s
 data-border="0" width="320" height="203" /></a>
 
 </div>
-
-
 
 The report could be very useful I think especially if you have a large
 project with loads of steps.

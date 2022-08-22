@@ -18,6 +18,5 @@ all) details is going on my nerves...
 Every morning there is something about her children forgetting keys and
 sleeping over, or why not something even more personal?
 
-And it's loud - i could probably tape it and make some kind of <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">diary for
+And it's loud - i could probably tape it and make some kind of diary for
 her...

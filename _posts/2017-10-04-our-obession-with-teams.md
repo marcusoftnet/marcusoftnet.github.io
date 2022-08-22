@@ -4,10 +4,12 @@ title: "My obsession with teams"
 author: "Marcus Hammarberg"
 date: 2017-10-04 10:16:28
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 I love working in teams, when I get the chance. There [are a few teams](http://www.marcusoft.net/2015/02/all-the-great-teams.html) that I've been in that still lives vividly in my mind. The way you feel togetherness and trust in teams are awesome.

@@ -5,8 +5,10 @@ author: "Marcus Hammarberg"
 date: 2016-04-05 20:16:34
 tags:
  - Lean
- - Kanban
- - Agile
+
+  - Kanban
+
+  - Agile
  - Tools
 ---
 

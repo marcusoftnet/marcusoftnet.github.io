@@ -5,7 +5,9 @@ date: '2012-05-04T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - .NET
+
   - Agile
+
   - TDD
 modified_time: '2012-05-04T08:00:06.339+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7328654065310556224

@@ -4,7 +4,8 @@ title: "... what does that say about me"
 author: "Marcus Hammarberg"
 date: 2016-02-14 19:21:09
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

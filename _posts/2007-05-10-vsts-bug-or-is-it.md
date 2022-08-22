@@ -5,6 +5,7 @@ date: '2007-05-10T07:41:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - TFS
   - Visual Studio
 modified_time: '2010-12-14T16:19:05.616+01:00'

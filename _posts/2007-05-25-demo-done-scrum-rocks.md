@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Life of a consultant
    - Scrum
+
   - Agile
 modified_time: '2007-05-25T08:12:42.764+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6521077029563469445

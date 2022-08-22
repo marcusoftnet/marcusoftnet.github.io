@@ -4,7 +4,8 @@ title: "Values to guide us"
 author: "Marcus Hammarberg"
 date: 2017-09-05 15:37:37
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

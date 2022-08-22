@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Why so sad? Can we point to improvements without
-making people feel bad?
+title: Why so sad? Can we point to improvements without making people feel bad?
 date: '2014-09-22T09:31:00.004+02:00'
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-  - Kanban - Agile
+  - Kanban
+  - Agile
 modified_time: '2014-09-22T09:31:36.566+02:00'
 thumbnail: http://2.bp.blogspot.com/-9W2LBAd18gY/VB_P1GmDsnI/AAAAAAAAHX8/n7mJpgna_VM/s72-c/3496249511_2d194b807f_z.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6249188199569374805
@@ -46,6 +46,7 @@ target="_blank">Creatives Common</a></td>
 negative? "It's managements fault", "This needs to go faster", "The
 quality is substandard", "You don't use TDD" ... tell me when to
 stop...
+
 - Because that where we have "unrealised improvement opportunities",
 dummy!
 
@@ -109,13 +110,11 @@ sucks.
 
 I'm the first to confess that I do this badly now but I've found two
 areas where I will focus to become ever better; listening and using
-context. 
+context.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -133,7 +132,6 @@ saying that I quote from time to time:
 
 If I reflected more about things like that when see objections or notice
 that I'm just "whining"... maybe that could be better.
-
 
 |                                                                                                                    |
 |:------------------------------------------------------------------------------------------------------------------:|
@@ -166,7 +164,7 @@ complete book, would you read it?"-survey. I never forget one of the
 answers that came back:
 
 > Yes, it sounds pretty interesting... but that's what we call the easy
-> parts of kanban. 
+> parts of kanban.
 
 You know what; fine with me. I'm happy just talking about the easy parts
 of kanban. Maybe people can use that. And smarter people than me can

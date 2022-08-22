@@ -23,9 +23,7 @@ really, really good - a new look on the "visa"-genre.
 
 
 
-<div>
 
-</div>
 
 
 

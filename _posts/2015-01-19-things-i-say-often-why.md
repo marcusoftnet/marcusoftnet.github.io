@@ -4,7 +4,8 @@ title: "Things I say often: Why?"
 author: "Marcus Hammarberg"
 date: 2015-01-19 11:08:19
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
  - Things I say often

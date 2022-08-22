@@ -4,9 +4,11 @@ title: "Frequent releases and no urge to finish"
 author: "Marcus Hammarberg"
 date: 2016-04-08 07:07:25
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

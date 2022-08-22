@@ -4,7 +4,8 @@ title: "3 mindset shifts for agile transformations"
 author: "Marcus Hammarberg"
 date: 2019-08-29 21:21:59
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---
@@ -118,7 +119,8 @@ That is great (or - [check out the origins or Taylor and Gannts ideas](https://b
 Allowing the team to discover and learn as fast as possible. Support them to be autonomous and free to do this discovery better.
 
 ## From functions to value streams
-The last shift in mindset is one of organizational paradigm - agile will promote a shift towards a product mindset. Much of the agile literature and thinking is geared towards product thinking.
+The last shift in mindset is one of organizational paradigm
+  - Agile will promote a shift towards a product mindset. Much of the agile literature and thinking is geared towards product thinking.
 
 In my experience, this is particularly challenging to grasp and understand, in organizations that have been project-driven on top of a functionally structured organization. One where you will find a "business", an IT department and a separate operations department. Or even a development and testing department.
 

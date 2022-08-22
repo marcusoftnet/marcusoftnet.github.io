@@ -4,8 +4,9 @@ title: Delegation and my jedi mind trick
 date: '2014-06-06T06:15:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Agile
+  - Lean
+  - Life of a consultant
+  - Agile
 modified_time: '2014-06-06T06:15:36.646+02:00'
 thumbnail: http://lh3.ggpht.com/-aomQ9ZtCY_g/U5FAXcNkP2I/AAAAAAAAEAc/ftGtlyIU0Ik/s72-c/cringe_thumb.gif?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3857759954962312283

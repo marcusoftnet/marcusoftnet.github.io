@@ -4,8 +4,11 @@ title: What if ... mob programming?
 date: '2013-05-24T15:20:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Kanban - Agile - ContinuousDelivery
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
+  - ContinuousDelivery
 modified_time: '2013-05-24T15:24:02.770+02:00'
 thumbnail: http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
@@ -43,12 +46,7 @@ No - I didn't say: work this way (neither [Walk this
 way](http://www.youtube.com/watch?v=4B_UYYPb-Gk), btw). I said: What if
 ... we worked this way? What would happen?
 
-
-
-
 ### How would our work flow?
-
-
 
 |                                                                                                                                                                           |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -88,7 +86,7 @@ We pay them for not producing "value" (as in putting out fires) and just
 sitting around waiting to do work. This is because we don't want to risk
 them being busy when we need them.
 
-### What would happen with roles? 
+### What would happen with roles?
 
 |                                                                                                                                                                                            |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -116,7 +114,7 @@ be done?
 No - since the work (the one thing they are working on) needs to move
 forward. They would do the work that is needed.
 
-#### Care deeply about this. Now!
+#### Care deeply about this. Now
 
 "Why?" you ask. Well because they care about the product. Or at least
 should care about the product. That's why they show up to the mob each
@@ -147,13 +145,11 @@ Bruntesson](http://numlock.se/), said this in an effective way:
 
 Some roles we commonly use is there to "bridge the communication gap"
 between other parties. Business Analysts often describes themselves in
-this way (they OF COURSE do a lot of other useful things too). 
+this way (they OF COURSE do a lot of other useful things too).
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -161,13 +157,11 @@ this way (they OF COURSE do a lot of other useful things too). 
 
 If everyone needed to move the work forward is in the same room... that
 need to take information back and forth between people pretty much goes
-away. 
+away.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -201,13 +195,11 @@ they'll manage. I trust in the mob and people in it. It's great people!
 | Photo Credit: [Elsie esq.](http://www.flickr.com/photos/61132483@N00/8229790/) via [Compfight](http://compfight.com/) [cc](http://creativecommons.org/licenses/by/2.0/) |
 
 Is the mob doing Scrum? Or XP? Which milestone are they passning right
-now? 
+now?
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -221,21 +213,17 @@ way they can come up with. For this work.
 
 <div style="text-align: left;">
 
-
-
 </div>
 
 <div style="text-align: left;">
 
-They might even \*gasp\* change the way they work during a workday. Yes,
+They might even *gasp* change the way they work during a workday. Yes,
 you read that correctly. Mid-iteration. Hey, come to think about it.
 Iteration or not - that's not important
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -248,27 +236,25 @@ Iteration or not - that's not important
 <div style="text-align: left;">
 
 They might. If it's useful. A retrospective is a great way to step aside
-and talk about the way you work with a little distance. 
+and talk about the way you work with a little distance.
 
 </div>
 
 <div style="text-align: left;">
 
 Standups... I really don't know. They are working one thing. There's
-really not much to talk about. 
+really not much to talk about.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
 <div style="text-align: left;">
 
 They could have a board to visualize what's going on. For stuff coming
-up next for example. Or things that is completed. 
+up next for example. Or things that is completed.
 
 </div>
 
@@ -280,8 +266,6 @@ going on and what the next things coming up are.  
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -300,8 +284,6 @@ happen.
 
 <div style="text-align: left;">
 
-
-
 </div>
 
 <div style="text-align: left;">
@@ -309,7 +291,7 @@ happen.
 Interesting enough the same company tried to run another in the same
 manner. "Let's do it like they did." But that doesn't work now does it.
 It's not HOW you run it - it's WHY you run it that makes a difference.
-Thanks Anders for the story and that last point. 
+Thanks Anders for the story and that last point.
 
 </div>
 
@@ -319,19 +301,17 @@ Thanks Anders for the story and that last point. 
 
 A team succeeds and fails as a team. No single person has made this
 happen but the parts has worked together to a better whole, greater than
-the parts. 
+the parts.
 
 </div>
 
 <div>
 
-The team is the heros or everyone in the team is the hero if you want. 
+The team is the heros or everyone in the team is the hero if you want.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -339,13 +319,11 @@ The team is the heros or everyone in the team is the hero if you want. 
 
 This doesn't mean that we cannot allow greatness within the team. We
 need great people, the better we are the better we can help each other
-to reach our common goal. 
+to reach our common goal.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -359,8 +337,6 @@ seen on a Swedish arena in ages. Maybe forever.
 <div class="separator" style="clear: both; text-align: center;">
 
 </div>
-
-
 
 </div>
 
@@ -381,13 +357,11 @@ asked: "How about that Zlatan?" The coach grew angry on the reporter:
 I'm still struggling seeing a team ONLY doing mob programming. And this
 was not a blog post that was propagating for mob programming. I merely
 saw mob programming as an extreme form of team-work and that started to
-get me thinking about the implications of that. 
+get me thinking about the implications of that.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -396,19 +370,17 @@ get me thinking about the implications of that. 
 Thanks to bunch of people that I have discussed this with during the
 week (Calle, Anders, Andy etc) and big thanks to Ville and Tobbe that
 got me thinking about this with their interesting presentation at Agila
-Sverige. 
+Sverige.
 
 </div>
 
 <div>
 
-
-
 </div>
 
 <div>
 
-I hope this got you thinking too. Love to hear your thoughts below. 
+I hope this got you thinking too. Love to hear your thoughts below.
 
 </div>
 

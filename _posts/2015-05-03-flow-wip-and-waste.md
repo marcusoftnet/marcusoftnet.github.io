@@ -5,9 +5,11 @@ author: "Marcus Hammarberg"
 date: 2015-05-03 15:03:25
 tags:
  - Lean
- - Agile
+
+  - Agile
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 As I [wrote about earlier](http://www.marcusoft.net/2015/05/stuff-i-said-coaching.html) I've just returned from 3 days of coaching at [Nintex](http://www.nintex.com) in Kuala Lumpur.

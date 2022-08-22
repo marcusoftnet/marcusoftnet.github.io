@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to pass and receive associative arrays with
-ODP.NET
+title: How to pass and receive associative arrays with ODP.NET
 date: '2008-09-09T15:45:00.004+02:00'
 author: Marcus Hammarberg
 tags:

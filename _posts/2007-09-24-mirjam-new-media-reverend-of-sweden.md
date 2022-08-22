@@ -25,10 +25,8 @@ And you can [see it again
 here](http://www.svt.se/svt/jsp/Crosslink.jsp?d=69758) (Click on
 "<a href="javascript:SgOpenArgs(" target="_top"
 data-d="52840&amp;lid=puff_836905&amp;lpos=lasMer&#39;,&#39;largevideoplayer&#39;,790,600,&#39;scrolling=no,resizable=no,status=yes&#39;)&quot;">Se
-programmen i <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">SVT Play</a>"
+programmen i SVT Play</a>"
 and choose the 15 sept show).
 
 Way to go Miriam
-- you are honoring our prayer group on your mission trip to <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">Norrland ;)
+- you are honoring our prayer group on your mission trip to Norrland ;)

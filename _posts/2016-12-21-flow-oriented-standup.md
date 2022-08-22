@@ -4,8 +4,10 @@ title: "Some useful practices for flow oriented standup meetings"
 author: "Marcus Hammarberg"
 date: 2016-12-21
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
 ---
 

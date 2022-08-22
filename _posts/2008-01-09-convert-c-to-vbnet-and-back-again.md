@@ -4,7 +4,8 @@ title: Convert C# to VB.NET and back again
 date: '2008-01-09T10:11:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - VB.NET - C#
+  - VB.NET
+  - C#
   - Visual Studio
 modified_time: '2010-12-14T16:19:05.496+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7418565028219310670

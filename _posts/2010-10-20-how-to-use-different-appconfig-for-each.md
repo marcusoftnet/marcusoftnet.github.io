@@ -1,7 +1,6 @@
 ---
 layout: post
-title: How to use different app.config for each
-developer
+title: How to use different app.config for each developer
 date: '2010-10-20T09:04:00.003+02:00'
 author: Marcus Hammarberg
 tags:
@@ -40,12 +39,12 @@ is a class library and doesn’t hold a App Domain. It’s MSTest that runs
 the test so it’s probably MSTest’s config that need to be tweaked.
 But we’ve found a simple (and yes, more brute way I agree) to do this:
 
--   I created an app.master.config that contains all the keys and the
+- I created an app.master.config that contains all the keys and the
     settings we’re using on test run on the build server.
--   I checked in that app.master.config
--   I then created an app.config in my own project and changed the keys
+- I checked in that app.master.config
+- I then created an app.config in my own project and changed the keys
     to my personal settings.
--   And then, and here’s the thing, I selected the app.config and went
+- And then, and here’s the thing, I selected the app.config and went
     Exclude from project in the Source Control menu.
 
 |                                                                                                                       |

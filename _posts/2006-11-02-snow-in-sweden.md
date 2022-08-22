@@ -24,9 +24,7 @@ the Stockholm-area.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -40,9 +38,7 @@ can it happen?
 
 
 
-<div>
 
-</div>
 
 
 
@@ -56,9 +52,7 @@ stopped etc) but then again we knew about this storm for about 2 weeks.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -72,9 +66,7 @@ tonight).
 
 
 
-<div>
 
-</div>
 
 
 

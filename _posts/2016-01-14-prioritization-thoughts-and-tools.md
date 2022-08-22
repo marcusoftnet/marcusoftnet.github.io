@@ -4,7 +4,8 @@ title: "Prioritization - some thoughts and tools"
 author: "Marcus Hammarberg"
 date: 2016-01-14 15:45:12
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

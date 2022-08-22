@@ -4,6 +4,7 @@ title: Not trigger new build on check-in - TFS Build version of ExclusionFilters
 date: '2008-11-18T09:56:00.001+01:00'
 author: Marcus Hammarberg
 tags:
+
   - TFS
   - MSBuild
 modified_time: '2008-11-18T09:56:59.177+01:00'

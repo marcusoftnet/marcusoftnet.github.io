@@ -20,15 +20,12 @@ class="blsp-spelling-error">refactoring support in Visual
 Studio 2005 is non-existing (or at least very very
 bad) for Visual Basic.
 
-So we have to settle with third party products. The best <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">I've found
+So we have to settle with third party products. The best I've found
 is Refactor! but it's not very
-good either (my studio hangs from time to time after <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">installing
+good either (my studio hangs from time to time after installing
 Refactor!).
 
-But now there are new hopes; a new version of <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">Refactor! is highlighted when
+But now there are new hopes; a new version of Refactor! is highlighted when
 the studio is started. Download the new [version
 here](http://downloads.devexpress.com/IDETools/VB/RefactorVB.NET-2.5.0.exe)
 for free and see a [movie about its use

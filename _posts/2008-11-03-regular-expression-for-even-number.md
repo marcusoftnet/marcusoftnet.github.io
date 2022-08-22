@@ -27,7 +27,7 @@ But after reading a bit at
 place</a> I learned enough to create my first own, naïve regular
 expression - a regular expression to allow only even numbers:
 
-> **^\d\*?((0)\|(2)\|(4)\|(6)\|(8))$** 
+> **^\d*?((0)\|(2)\|(4)\|(6)\|(8))$** 
 
 Again - my apologies for being a newbie on this... but hey it works.
 

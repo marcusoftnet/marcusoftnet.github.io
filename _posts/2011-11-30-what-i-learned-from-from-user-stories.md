@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - Specification by example
+
   - Agile
 modified_time: '2011-11-29T22:34:36.362+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7973153048578917460
@@ -56,9 +57,7 @@ asked the customer (Gojko) what he was expecting.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -70,9 +69,7 @@ were a lot of disagreements.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -84,9 +81,7 @@ concepts by using examples such as BlackJack and Busted for example.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -171,9 +166,7 @@ a big list of stuff that was good or bad with them.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -242,9 +235,7 @@ teams to very rigid waterfall-type of processes.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -319,9 +310,7 @@ please ask a question below and I'll answer to the best of my knowledge.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

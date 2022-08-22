@@ -25,8 +25,7 @@ was very pleased with their playing. How the judges missed that i don't know - b
 you never do.
 
 I still think GBB made and excellent job and really
-went out with a bang. This is the last we will ever hear from <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">GBB. What a way
+went out with a bang. This is the last we will ever hear from GBB. What a way
 to end an era of high level brass band playing - a tour (playing with
 Black Dyke) a CD recording (I'm looking forward to it) and
 then the Europeans.

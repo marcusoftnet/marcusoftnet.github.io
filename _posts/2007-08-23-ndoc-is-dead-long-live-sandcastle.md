@@ -13,8 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/ndoc-is-dead-long-live-sandca
 As i [written
 before](http://marcushammarberg.blogspot.com/2007/07/sandcastle-or-marcus-betting-on-wrong.html)
 Microsoft is plugging a documentation product called Sandcastle as a
-replacement for NDoc. I was wondering were <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">NDoc had gone
+replacement for NDoc. I was wondering were NDoc had gone
 but today i found [this
 article](http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx)
 which explains a lot. The header of the article is quite scary "...
@@ -31,6 +30,5 @@ I've tried Sandcastle today and i am not impressed:
 -   It is sloo-ow. At least twice the time
     compared to NDoc.
 
-I can only hope that these things will get better as the final <span
-id="SPELLING_ERROR_7" class="blsp-spelling-corrected">release
+I can only hope that these things will get better as the final release
 arrives. Or will it be part of Visual Studio 2008 - that is my guess.

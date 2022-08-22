@@ -5,10 +5,12 @@ author: "Marcus Hammarberg"
 date: 2018-06-21 13:55:11
 tags:
  - Tools
- - Agile
+
+  - Agile
  - Lean
  - Scrum
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

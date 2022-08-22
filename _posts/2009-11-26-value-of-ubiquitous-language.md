@@ -7,6 +7,7 @@ tags:
   - DDD -
 SOA
   - Life of a consultant
+
   - Agile
 modified_time: '2009-11-26T09:24:18.509+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-611891532521926659

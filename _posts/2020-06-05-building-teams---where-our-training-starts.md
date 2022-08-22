@@ -4,7 +4,8 @@ title: "Building teams - where our training starts"
 author: "Marcus Hammarberg"
 date: 2020-06-05 08:55:00
 tags:
- - Agile
+
+  - Agile
  - Lean
 ---
 

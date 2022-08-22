@@ -8,6 +8,7 @@ tags:
   - .NET
 
   - Life of a consultant
+
   - Agile
 modified_time: '2009-07-22T20:03:25.891+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4098259383771149911

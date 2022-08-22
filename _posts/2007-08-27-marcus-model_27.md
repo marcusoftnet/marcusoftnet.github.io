@@ -53,15 +53,11 @@ very big. Sorry.
 I am quite happy with the outcome - just think what some editing in
 PhotoShop can accomplish ;)
 
-<div>
-
-</div>
 
 
 
 
-<div>
 
-</div>
+
 
 </div>

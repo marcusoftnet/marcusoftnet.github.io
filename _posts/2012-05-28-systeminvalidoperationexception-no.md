@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'System.InvalidOperationException: No automation
-provider available MsTest and FluentAutomation'
+title: 'System.InvalidOperationException: No automation provider available MsTest and FluentAutomation'
 date: '2012-05-28T16:08:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant - C#
+  - .NET
+  - Life of a consultant
+  - C#
 modified_time: '2012-05-28T16:08:22.349+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2846331516279827243
 blogger_orig_url: http://www.marcusoft.net/2012/05/systeminvalidoperationexception-no.html
@@ -33,8 +33,6 @@ Forss</a> and
 I managed to get this to work.
 
 Scroll to the end for the short version, by the way.
-
-
 
 The first thing that I had forgot was that MsTest uses a Visual Studio
 project template of it’s own. You cannot use the Windows Class Library
@@ -64,8 +62,8 @@ about which files it should deploy to the TestResults folder. This is
 done by opening the Local.testsettings file and go the the
 Deployment-tab. Here you can;
 
--   Enable file deployment
--   Tell MsTest which files and folders to deploy.
+- Enable file deployment
+- Tell MsTest which files and folders to deploy.
 
 So first we did that. We told MsTest to deploy all of the files in the
 <a href="http://www.nuget.org" target="_blank">NuGet</a> packages folder
@@ -92,17 +90,11 @@ category of project)
 Install FluentAutomation via NuGet;
    Install-Package FluentAutomation.SeleniumWebDriver
 
-
-
 Double click the Local.testsettings file and go to the Deployment-tab.
 
-
-
--   Check the Enable Deployment checkbox
--   Click Apply and Close
--   Be amazed that the dialog didn’t have a OK-button…
-
-
+- Check the Enable Deployment checkbox
+- Click Apply and Close
+- Be amazed that the dialog didn’t have a OK-button…
 
 Run the test,
 <a href="http://fluent.stirno.com/docs/" target="_blank">for example
@@ -111,7 +103,5 @@ href="http://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
 target="_blank">See this post</a>
 
 It should now work!
-
-
 
 Hope this help.

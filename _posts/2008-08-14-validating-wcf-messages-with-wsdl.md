@@ -4,8 +4,8 @@ title: Validating WCF-messages with WSDL
 date: '2008-08-14T07:59:00.005+02:00'
 author: Marcus Hammarberg
 tags:
-  - SOA -
-WCF
+  - SOA
+  - WCF
 modified_time: '2008-08-14T08:33:51.879+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6621610237746349724
 blogger_orig_url: http://www.marcusoft.net/2008/08/validating-wcf-messages-with-wsdl.html
@@ -19,8 +19,7 @@ Then you (read: I) forget it and all of a sudden you don't think that
 much about it; the generated proxy or services code doesn't contain
 logic. Period.
 
-It's even more so when you only create services that is generating <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">WSDL when
+It's even more so when you only create services that is generating WSDL when
 asked. BUT (and it's a big but ;)) - when you start doing [Contract
 First](http://en.wikipedia.org/wiki/Design_by_contract) you are actually
 specifying the [WSDL](http://en.wikipedia.org/wiki/Web_Services_Description_Language)

@@ -4,10 +4,12 @@ title: "Some thoughts after Lean Kanban North America 2016"
 author: "Marcus Hammarberg"
 date: 2016-05-19 12:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 I'm writing this post in a small crappy hotel room that will be my home for a few days. It's quite the change after being station at the nice, beach-side hotel where [Lean Kanban North America 2016](http://lkna16.leankanban.com/) was held.

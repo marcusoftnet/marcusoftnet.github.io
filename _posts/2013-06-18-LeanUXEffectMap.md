@@ -4,10 +4,11 @@ title: Lean UX with effect map - from HeltSonika
 date: '2013-06-17T21:51:00.004+02:00'
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean - Agile
+  - Tools
+  - Lean
+  - Agile
 modified_time: '2013-06-18T21:18:25.753+02:00'
-thumbnail:
-http://1.bp.blogspot.com/-8_0fODNcsQE/Ub9oQmn3VrI/AAAAAAAABhw/44Lsv73oLBQ/s72-c/Screen+Shot+2013-06-17+at+21.48.26+.png
+thumbnail: http://1.bp.blogspot.com/-8_0fODNcsQE/Ub9oQmn3VrI/AAAAAAAABhw/44Lsv73oLBQ/s72-c/Screen+Shot+2013-06-17+at+21.48.26+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-798473969077811208
 blogger_orig_url: http://www.marcusoft.net/2013/06/LeanUXEffectMap.html
 ---
@@ -32,7 +33,6 @@ worry - i still know nothing about that. But I learned a lot by reading
 this I hope you do too. So, from the next paragraph when you read "I
 think" it's actually Dan thinking. Just so you know. Over to Dan.
 
-
 ## Lean UX with effect map
 
 An IT-project is often started with an idea about how business impact
@@ -41,7 +41,7 @@ to streamline their business to save money. But IT-projects are
 expensive and nobody knows if the idea will fly or not. The person that
 came up with the idea *thinks* that there's a customer-base that will
 use the perceived product. There's a big risk in investing
-10 millions in realizing the idea. And* *how will the ideas be realized?
+10 millions in realizing the idea. And**how will the ideas be realized?
 A new Intranet can look and work in a myriad of ways.
 
 <a href="" id="more"></a>
@@ -60,13 +60,11 @@ phase) and thinks that they have solved this problem. Instead of
 collect information about the current situation by doing interviews,
 observations and data analysis. When this is done we create design
 specifications that is tested out on the target audience and then is
-handed over to the developer that implements it. 
+handed over to the developer that implements it.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -104,13 +102,11 @@ million and hope that we will deliver the product in two years, we
 instead spend a smaller sum to build a minimal version of the product
 (MVP) that we can deliver in a month. The minimal version is used to
 gain insights about the target audience, insights that you then use to
-improve and build the next version. 
+improve and build the next version.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -125,11 +121,11 @@ hard time to get at:
 
 <div>
 
--   Will the target audience use / pay for the product?
--   How will the users adjust their lives after the product, when they
-    have used it for several months? 
--   How will the usage of the product change over time? 
--   Will the users learn how the product works?
+- Will the target audience use / pay for the product?
+- How will the users adjust their lives after the product, when they
+    have used it for several months?
+- How will the usage of the product change over time?
+- Will the users learn how the product works?
 
 </div>
 
@@ -172,11 +168,11 @@ the effect map comes in.
 
 Since I recently started to define a MVP with the help of my old
 favorite modell the effect map I thought I would share how I did that
-via an example. 
+via an example.
 
 </div>
 
-#### The idea - The handyman service!
+#### The idea - The handyman service
 
 <div style="text-align: left;">
 
@@ -203,13 +199,11 @@ stakeholders (people with money, ideas or business knowledge) build an
 effect map during one or more workshops. The effect map covers the
 business impact (or the effect goal), our target audiences that we think
 help us reach the business impact, their needs or incentive and how we
-can support those needs. 
+can support those needs.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -223,23 +217,23 @@ functionality of the system:
 
 <div>
 
--   You reason, in a structured fashion, from business goals and target
+- You reason, in a structured fashion, from business goals and target
     audiences (user centric) instead of having people sitting around and
     "make up" things without really saying why this is a good idea
--   The group creates a common understanding kring the campaign, summed
-    up in a clear model that everyone can understand. 
--   When you talke about functionality you can easily end up
+- The group creates a common understanding kring the campaign, summed
+    up in a clear model that everyone can understand.
+- When you talke about functionality you can easily end up
     sub-optimizing by forgetting a target audience group or incentive
     for them
--   It's soon clear how well you know your audience and areas where you
-    need to get more information. 
+- It's soon clear how well you know your audience and areas where you
+    need to get more information.
 
 <div>
 
 The effect map that we create is initially built around *guesses* about
 who our target audiences are, their  needs and what we need to do to
 support them. It will make up a kind of base-hypothesis for the entire
-project. 
+project.
 
 </div>
 
@@ -262,14 +256,14 @@ data-border="0" width="320" height="111" /></a>
 
 The first step when building an effect map is to formulate an effect
 goal. What do we want to achieve or how will we make/save money with
-this idea? 
+this idea?
 
 </div>
 
 <div>
 
 In our example we want people to pay for a service with instructions
-for DIY'ers. 
+for DIY'ers.
 
 </div>
 
@@ -298,13 +292,9 @@ have to write the instructions, right?
 
 <div>
 
-
-
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -316,7 +306,7 @@ What does the target audience need and want - which are the driving
 forces that will make them want to  contribute to the effect goal? We
 think that, for example, the DIY'ers want help where ever they are, even
 when they are standing bent over a washing machine with the screw driver
-in one hand. 
+in one hand.
 
 </div>
 
@@ -332,8 +322,6 @@ My entire example map looks like this:
 
 <div>
 
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -347,8 +335,6 @@ data-border="0" width="640" height="432" /></a>
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
-
-
 
 </div>
 
@@ -372,8 +358,6 @@ make a service  or product sellable.
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -392,13 +376,11 @@ data-border="0" width="320" height="216" /></a>
 In our example we think that the **DIY:er** is the absolutely most
 important target audience. My idea was a service that turns
 towards amateurs, the DIY:ers are abundant out there and they are the
-ones that will pay for the service. 
+ones that will pay for the service.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -407,13 +389,11 @@ ones that will pay for the service. 
 We think that the most important driving force in the example is **Needs
 help fixing at home** and the most important measure is that there are
 great **graphical instructions** on how to go about to fix something in
-your house. 
+your house.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -462,8 +442,6 @@ graphical descriptions for home fixing.  
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -479,17 +457,17 @@ those. Here are some example scenarios:
 
 </div>
 
--   The DIY:er downloads and pays for the DIY:er application
--   The next the the DIY:er is about to install is newly bought washing
+- The DIY:er downloads and pays for the DIY:er application
+- The next the the DIY:er is about to install is newly bought washing
     machine
--   He picks up his mobile and open the app
--   Searches for "washing machine" and get's a list of instructions for
+- He picks up his mobile and open the app
+- Searches for "washing machine" and get's a list of instructions for
     washing machines
--   He choses the instruction for "install washing machine"
--   Reads the instruction
--   Goes back to the store to get more material
--   Open the app again to double check which pipe-parts that is needed
--   Goes back home again and installs the machine
+- He choses the instruction for "install washing machine"
+- Reads the instruction
+- Goes back to the store to get more material
+- Open the app again to double check which pipe-parts that is needed
+- Goes back home again and installs the machine
 
 <div>
 
@@ -511,7 +489,7 @@ observations. Now we could take contact with and interview the users
 that's actually using our service, not just our *potential* users. And
 if we should end up with no users, well then we could get back to the
 effect map and change the base hypothesis or just abort the project all
-together. 
+together.
 
 </div>
 
@@ -522,13 +500,11 @@ effect map. When the next build-iteration is planned we can go back to
 the map and extract a new hypothesis. Next step maybe is to find out if
 we can make the service attractive to professionals, or we stay on our
 prioritized target audience. It all comes down to what we see give us
-the most business value, at the specific time. 
+the most business value, at the specific time.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -550,8 +526,6 @@ data-border="0" width="640" height="318" /></a>
 
 </div>
 
-
-
 </div>
 
 ## The best of two worlds
@@ -563,13 +537,11 @@ instead deliver business value early, improve continuous and cooperate
 in cross functional teams. But there's nothing that says that this way
 of working not can be combined with traditional UX-methods and models
 like interviews, observations, user surveys and building prototypes
-etc. 
+etc.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -584,14 +556,12 @@ what we think.
 
 <div>
 
-
-
 </div>
 
 <div>
 
 You're allowed to cherry-pick from the both worlds and adjust to the
-current situation. I do that. 
+current situation. I do that.
 
 </div>
 
@@ -608,23 +578,23 @@ than I that have done that:
 
 <div>
 
--   [The UX of MVP:s](http://www.andersramsay.com/the-ux-of-mvps/) av
+- [The UX of MVP:s](http://www.andersramsay.com/the-ux-of-mvps/) av
     Anders Ramsay
--   [Experiments
+- [Experiments
     101](http://mindtheproduct.com/2012/08/experiments-101/) av Simon
     Cast
--   [Lean Startup is Great UX
+- [Lean Startup is Great UX
     Packaging](http://uxdesign.smashingmagazine.com/2012/10/10/lean-startup-is-great-ux-packaging/) av
     Tomer Sharon
--   [Continous Discovery](http://kaeru.se/entry_18.php) av Martin
+- [Continous Discovery](http://kaeru.se/entry_18.php) av Martin
     Christensen
--   [Lean UX is not just for lean
+- [Lean UX is not just for lean
     startups](http://www.jeffgothelf.com/blog/lean-ux-is-not-just-for-lean-startups/) av
     Jeff Gothelf
--   [Agile UX vs Lean
+- [Agile UX vs Lean
     UX](http://www.andersramsay.com/agile-ux-vs-lean-ux/) av Anders
     Ramsay
--   [Lean UX: Getting out of the deliverables
+- [Lean UX: Getting out of the deliverables
     business](http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/) av
     Jeff Gothelf
 

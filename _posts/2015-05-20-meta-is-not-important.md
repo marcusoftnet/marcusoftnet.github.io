@@ -7,7 +7,8 @@ tags:
  - Lean
  - Leadership
   - Life of a consultant
- - Agile
+
+  - Agile
 ---
 
 I had a couple of great conversations yesterday that gave me a small epiphany. Here's the small thing that I came up with:

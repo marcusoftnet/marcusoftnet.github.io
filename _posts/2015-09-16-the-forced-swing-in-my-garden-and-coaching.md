@@ -4,7 +4,8 @@ title: "The forced swing in my garden... and coaching"
 author: "Marcus Hammarberg"
 date: 2015-09-16 08:36:16
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

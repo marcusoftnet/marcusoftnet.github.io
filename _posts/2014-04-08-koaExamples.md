@@ -327,9 +327,7 @@ target="_blank">mocha</a> of course. Here's the test code:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

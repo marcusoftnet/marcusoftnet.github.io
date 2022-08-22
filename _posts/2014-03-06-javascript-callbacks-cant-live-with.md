@@ -206,9 +206,7 @@ Q's site</a>:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

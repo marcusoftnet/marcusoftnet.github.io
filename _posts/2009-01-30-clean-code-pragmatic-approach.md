@@ -4,8 +4,9 @@ title: Clean code - the pragmatic approach
 date: '2009-01-30T08:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant - Agile
+  - .NET
+  - Life of a consultant
+  - Agile
 modified_time: '2009-01-30T08:54:00.393+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2966390881866212042
 blogger_orig_url: http://www.marcusoft.net/2009/01/clean-code-pragmatic-approach.html ---

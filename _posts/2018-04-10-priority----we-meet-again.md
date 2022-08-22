@@ -4,10 +4,12 @@ title: "Priority 0 - we meet again"
 author: "Marcus Hammarberg"
 date: 2018-04-10 13:34:57
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 I once worked at a large company where they had so many priorities 1 features that they decided to introduce … bam-bam-ba-baaaa … *Priority 0*. But after a few minutes, we ended up with about 5 items in that category and we realized the ridiculousness of continue to do Priority -1 etc.

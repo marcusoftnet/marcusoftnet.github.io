@@ -1,11 +1,12 @@
 ---
 layout: post
-title: The right way of calling MSTest in a TFS build
-script
+title: The right way of calling MSTest in a TFS build script
 date: '2008-10-30T10:49:00.004+01:00'
 author: Marcus Hammarberg
 tags:
-  - TFS - MSBuild - TDD
+  - TFS
+  - MSBuild
+  - TDD
 modified_time: '2011-10-04T14:35:06.154+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4478037245458920181
 blogger_orig_url: http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html

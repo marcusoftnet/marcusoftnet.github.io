@@ -4,8 +4,10 @@ title: The “talk about later”-list
 date: '2014-06-03T06:59:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Kanban - Agile
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
   - Salvation Army
 modified_time: '2014-06-03T06:59:30.112+02:00'
 thumbnail: http://lh4.ggpht.com/-q-cGsE2G1kc/U41RJdC9isI/AAAAAAAAD7M/QuCxsovKKTY/s72-c/Aesop_pushkin01_thumb.jpg?imgmax=800

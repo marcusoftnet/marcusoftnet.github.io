@@ -4,10 +4,12 @@ title: "A scary thought experiment"
 author: "Marcus Hammarberg"
 date: 2016-05-27 12:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 Just a short post on a little thought experiment I've been testing out.

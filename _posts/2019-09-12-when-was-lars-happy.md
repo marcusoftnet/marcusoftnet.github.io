@@ -4,7 +4,8 @@ title: "When was Lars happy?"
 author: "Marcus Hammarberg"
 date: 2019-09-10 08:45:17
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

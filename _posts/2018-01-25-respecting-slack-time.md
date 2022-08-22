@@ -5,8 +5,10 @@ author: "Marcus Hammarberg"
 date: 2018-01-25 13:32:09
 tags:
  - Lean
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
 ---
 
 As a consultant and coach, I find it very fascinating to see how the same topic has a tendency to arise in many different place and conversations I'm in. All of sudden everyone needs to chat about flow, or estimation or what-have-you.

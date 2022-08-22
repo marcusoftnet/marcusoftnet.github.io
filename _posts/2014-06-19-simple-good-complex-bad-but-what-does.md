@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Simple = Good. Complex = Bad. But what does it
-mean?
+title: Simple = Good. Complex = Bad. But what does it mean?
 date: '2014-06-19T09:40:00.001+02:00'
 author: Marcus Hammarberg
 tags:

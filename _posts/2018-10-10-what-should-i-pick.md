@@ -4,9 +4,11 @@ title: "What should I pick?"
 author: "Marcus Hammarberg"
 date: 2018-10-10 17:45:07
 tags:
- - Kanban
+
+  - Kanban
  - Lean
- - Agile
+
+  - Agile
 ---
 
 I got a question the other day from Enea Zuliani and Michele Degrassi. It was particularly heartwarming to read as they just read [Kanban In Action](http://bit.ly/theKanbanBook) and now have started to use. Kanban. In action.

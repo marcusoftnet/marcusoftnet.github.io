@@ -4,6 +4,7 @@ title: Agile?
 date: '2007-03-08T14:53:00.000+01:00'
 author: Marcus Hammarberg
 tags:
+
   - Agile
 modified_time: '2007-03-08T15:43:04.561+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5673093106192127144

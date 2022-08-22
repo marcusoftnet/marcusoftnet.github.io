@@ -26,8 +26,7 @@ the warmth and spirit of the band.
 The weekend also celebrated the 25="blsp-spelling-error" onclick="BLOG_clickHandler(this)">th
 anniversary of the band and a lot
 of the celebrations was, with due right, directed to Bengt Eklund - the founder, director
-and inspiration for the band during all these years. By now <span
-id="SPELLING_ERROR_7" class="blsp-spelling-corrected">everyone
+and inspiration for the band during all these years. By now everyone
 knows that Bengt is ill and it felt very good to be able to do such a
 good show and party for his sake.
 

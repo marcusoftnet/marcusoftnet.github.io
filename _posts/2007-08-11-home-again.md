@@ -42,9 +42,7 @@ all the other stuff that i normally do.
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -60,9 +58,7 @@ for me. :)
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -73,9 +69,7 @@ baby!
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -87,9 +81,7 @@ parenthood etc. in posts to follow. For now we are just very happy!
 
 
 
-<div>
 
-</div>
 
 <div>
 

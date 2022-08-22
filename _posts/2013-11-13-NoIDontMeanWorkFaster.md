@@ -7,6 +7,7 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
+
   - Agile
 modified_time: '2013-11-12T21:04:32.841+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-328419199866986129
@@ -207,9 +208,7 @@ Here are few things that I often come back to:  
 
 </div>
 
-<div style="text-align: left;">
 
-</div>
 
 -   Do **fewer things at the same time**, a.k.a. Limit Work in Process.
     By doing less things at the same time you make sure that each item

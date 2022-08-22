@@ -4,8 +4,10 @@ title: 'Team Yayasan week 5: Redoing Todo'
 date: '2014-04-02T10:46:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-  - Team
-Yayasan - Lean - Kanban - Agile
+  - Team Yayasan
+  - Lean
+  - Kanban
+  - Agile
   - Salvation Army
 modified_time: '2014-04-03T02:42:33.128+02:00'
 thumbnail: http://3.bp.blogspot.com/-dEEnoC3BID0/UzvIZq2RxHI/AAAAAAAACKM/jjzx2WLSfUw/s72-c/2014-04-02+08.31.29.jpg
@@ -33,8 +35,6 @@ It's still a little too little data to draw any conclusions but we are
 confident that with this data tracked we will soon start to understand
 our work.
 
-
-
 ### Retrospectives
 
 <div>
@@ -51,8 +51,6 @@ does matter!</a>
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -60,7 +58,7 @@ does matter!</a>
 The retrospective today, 2 days delayed due to Hindu public holiday and
 not all people being office, was particular interesting. We rather have
 everyone there than do it on a certain date. But we hold a improvement
-meeting every week. 
+meeting every week.
 
 </div>
 
@@ -72,13 +70,11 @@ This weekend we had a meeting we all the leaders of our customers, the
 directors of the hospitals. From that meeting came a flood of small
 tasks that we needed to address; write PMs, check on status for
 projects, help people start using tools etc. etc. So we saw a need to do
-something about our board structure. 
+something about our board structure.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -105,8 +101,6 @@ data-border="0" width="400" height="300" /></a>
 
 <div class="separator" style="clear: both; text-align: left;">
 
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -119,26 +113,26 @@ Here's what we decided to do:
 
 </div>
 
--   We kept the Doing and Done columns (although I showed you what we
+- We kept the Doing and Done columns (although I showed you what we
     did with the Done-column later)
--   The Todo column have a limit of max 6 items, we later changed that
-    to 8. 
--   We changed the name of "To do this week", meaning that this is
+- The Todo column have a limit of max 6 items, we later changed that
+    to 8.
+- We changed the name of "To do this week", meaning that this is
     imminent items that we have decided to do as soon as we're done
     doing the things in Doing.
--   The Todo column has a prioritised order from top to bottom. 
--   When we put something in Todo we also set S, M or L on the item if
+- The Todo column has a prioritised order from top to bottom.
+- When we put something in Todo we also set S, M or L on the item if
     it's not already classified. And note the date when it was put into
     the Todo-column.  
--   We added a "Next" column before that. To better understand it we
+- We added a "Next" column before that. To better understand it we
     called it "Next month", meaning that this column contains stuff that
     is worthy our attention but not now. Usually this means work that we
     will start within a month. We write the items in the "Next
     month"-column on cards but there's no other requirements for them.
     There's no order either. Just a bunch of stuff.
--   Finally we added an Ideas-column where we could note down ideas.
+- Finally we added an Ideas-column where we could note down ideas.
     These can big project or small tasks. There's no order, just a
-    couple rows of text. No cards even. 
+    couple rows of text. No cards even.
 
 <div>
 
@@ -160,11 +154,7 @@ data-border="0" width="400" height="300" /></a>
 
 <div>
 
-
-
 </div>
-
-
 
 <div>
 
@@ -195,7 +185,7 @@ Todo. Here, this makes me very proud, we're trying an experiment
 combining ideas from
 <a href="http://davidmarquet.com/" target="_blank">David Marquet</a> and
 <a href="http://www.aptitud.se/" target="_blank">Aptitud</a> (my Swedish
-employer). 
+employer).
 
 </div>
 
@@ -214,15 +204,15 @@ If not, see if there's anything worth starting from Todo. If so - do it!
 
 If you still don't have anything to do
 
--   check the "Next month"-column for something that looks interesting
--   Get at least one other person to the board and explain what you are
-    planning to do. 
--   Start by saying something like "I intend to do ... because I think
+- check the "Next month"-column for something that looks interesting
+- Get at least one other person to the board and explain what you are
+    planning to do.
+- Start by saying something like "I intend to do ... because I think
     that would help our clinics and hospitals by ..."
 
 Still out of work - check the Ideas column and repeat the process for
 the Next column above. This is often "bigger" work items so maybe you
-should involve a couple of more people in the decision. 
+should involve a couple of more people in the decision.
 
 Still out of work? Do something that's fun and that you think will help
 us
@@ -233,7 +223,7 @@ I love that "I intend to" - part ripped from David Marquet's excellent
 book <a
 href="http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404"
 target="_blank">Turn the ship around</a> and could probably write a
-couple of post on that alone. But i will not. 
+couple of post on that alone. But i will not.
 
 </div>
 
@@ -244,7 +234,7 @@ couple of post on that alone. But i will not. 
 The part on involving more people in your decision the bigger it gets is
 something we have used at Aptitud. Works great there! Buying a new
 computer - ask a colleague and describe your reasons to her. Hiring a
-new colleague, involve a few more people in the decision. 
+new colleague, involve a few more people in the decision.
 
 </div>
 
@@ -267,13 +257,11 @@ The "Done"/"Selesai" column is now reduced to reporting only and has
 been move off the board (aka the cupboard) altogether. We created a very
 simple reporting sheet where we just note down the size of each item as
 well as the start and stop date. This will make it simple to produce our
-diagrams as shown last week. 
+diagrams as shown last week.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -292,7 +280,7 @@ column of "done" stuff.
 All in all this was a very refreshing exercise. As I said in the
 beginning the important thing is that we always are **trying to
 improve**, experimenting with different things. This week it was like
-this. 
+this.
 
 </div>
 

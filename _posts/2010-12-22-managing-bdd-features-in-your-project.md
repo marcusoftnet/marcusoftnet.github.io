@@ -7,7 +7,10 @@ tags:
   - BDD
   - .NET
   - Life of a consultant
-  - TFS - Agile - SpecFlow
+
+  - TFS
+  - Agile
+  - SpecFlow
 modified_time: '2011-01-13T21:18:53.615+01:00'
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TRH-yMkOTrI/AAAAAAAAAqs/T9aoPLDlot0/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6919193304724604886

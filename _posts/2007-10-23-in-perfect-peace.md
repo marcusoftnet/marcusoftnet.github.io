@@ -17,8 +17,7 @@ to record a CD and take part in the European Championships.
 
 I got the great privilege to write the inlet of
 the CD, which is called In Perfect Peace after one of the pieces on the
-CD. That particular piece is written by Kenneth <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">Downie and was
+CD. That particular piece is written by Kenneth Downie and was
 very important for the band and Bengt Eklund. So it's very fitting that the
 last CD is called that and that the piece is on it.
 

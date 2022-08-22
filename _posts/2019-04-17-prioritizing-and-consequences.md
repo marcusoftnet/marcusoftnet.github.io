@@ -4,10 +4,12 @@ title: "The consequences of prioritizing"
 author: "Marcus Hammarberg"
 date: 2019-04-17 11:56:05
 tags:
- - Agile
+
+  - Agile
  - Scrum
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 Been talking a lot about the consequences of prioritizing today at my client. And about [psycological safety](https://docs.google.com/document/d/1BAmaH1_U4z5tc3QpV5pMDoPsGmVSVYdSzefIfwjeT7E/export?format=pdf)

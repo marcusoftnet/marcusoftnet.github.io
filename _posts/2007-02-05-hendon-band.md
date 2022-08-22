@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-262928376502019380
 blogger_orig_url: http://www.marcusoft.net/2007/02/hendon-band.html ---
 I went to a short concert last afternoon with the Hendon band. This is one of the
 biggest bands in the Salvation and maybe elsewhere. So i had prepared
-for a real "earcleaner" but to my big <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">surprise
+for a real "earcleaner" but to my big surprise
 they managed to play very controlled and balanced.
 
 Strong, yes for sure, but also very soft where needed. Great to hear.

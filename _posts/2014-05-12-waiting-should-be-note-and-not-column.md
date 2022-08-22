@@ -6,7 +6,9 @@ author: Marcus Hammarberg
 tags:
   - Tools - Team Yayasan - Lean
   - Life of a consultant
-  - Kanban - Agile
+
+  - Kanban
+  - Agile
 modified_time: '2014-05-12T08:46:20.318+02:00'
 thumbnail: http://lh4.ggpht.com/-ackfKbH6pEU/U3BuGyHsEFI/AAAAAAAADbE/gnl-qSLU6Og/s72-c/example1_thumb%25255B66%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3379764614197030165

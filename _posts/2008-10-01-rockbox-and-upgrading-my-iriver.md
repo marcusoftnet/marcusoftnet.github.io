@@ -2,7 +2,8 @@
 layout: post
 title: RockBox and upgrading my IRiver
 date: '2008-10-01T12:26:00.001+02:00'
-author: Marcus Hammarberg tags:
+author: Marcus Hammarberg
+tags:
 modified_time: '2008-10-01T12:28:28.964+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5877411300635892001
 blogger_orig_url: http://www.marcusoft.net/2008/10/rockbox-and-upgrading-my-iriver.html
@@ -15,9 +16,9 @@ And even though I am often heckled by IPod-owners I still love it. It
 has some features that no-one have included in another product. For
 example:
 
--   The possibility to directly connect it to another device and move
+- The possibility to directly connect it to another device and move
     stuff between them.
--   You can download a separate operating system and install that on the
+- You can download a separate operating system and install that on the
     device if you like.
 
 That second point is quite cool and I've just downloaded the latest

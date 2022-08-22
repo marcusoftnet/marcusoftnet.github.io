@@ -4,7 +4,8 @@ title: "Talking about what really matters to us - what I learned from a spiritua
 author: "Marcus Hammarberg"
 date: 2019-11-05 11:08:03
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

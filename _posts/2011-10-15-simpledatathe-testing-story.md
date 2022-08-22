@@ -5,7 +5,8 @@ date: '2011-10-14T21:51:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - C#
+  - .NET
+  - C#
 modified_time: '2011-11-03T19:46:59.686+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2699078655489363036
 blogger_orig_url: http://www.marcusoft.net/2011/10/simpledatathe-testing-story.html
@@ -208,9 +209,7 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 
 
-<div>
 
-</div>
 
 
 

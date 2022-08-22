@@ -52,9 +52,7 @@ the right) And nothing has changed in the naming of my folder.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -67,9 +65,7 @@ are added by simply dragging them to the folder.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

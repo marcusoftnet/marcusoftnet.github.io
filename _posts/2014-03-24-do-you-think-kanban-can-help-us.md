@@ -1,11 +1,13 @@
 ---
 layout: post
-title: '"Do you think Kanban can help us?"'
+title: Do you think Kanban can help us?
 date: '2014-03-24T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Kanban - Agile
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
 modified_time: '2014-03-24T08:00:13.700+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1552795069584789818
 blogger_orig_url: http://www.marcusoft.net/2014/03/do-you-think-kanban-can-help-us.html
@@ -156,13 +158,13 @@ First Kristof's question:
 
 And now my answer:
 
-> Hello Kristof! 
+> Hello Kristof!
 
 > I was happy and interested when I started to read your mail, taking on
 > leadership responsibilities is always rewarding and will develop you
 > in more areas than you first will understand.
 > And thank you for making this an easy question to answer: Yes, kanban
-> will help you! :) 
+> will help you! :)
 
 > Well, I return your favour and answer it a bit more elaborated than
 > that.
@@ -171,9 +173,9 @@ And now my answer:
 > you're facing), strive to complete work fast and help the workflow to
 > work better. This could be summarised in:
 >
-> -   Visualize 
-> -   Limit work in process
-> -   Help the work to flow
+> - Visualize
+> - Limit work in process
+> - Help the work to flow
 >
 > And these three principles has been bunched together into something
 > that we call kanban. But in reality they are just guiding principles
@@ -190,18 +192,18 @@ And now my answer:
 > When you draw it - make sure it's made for changing. The only thing
 > that is certain is that it's not correct. I usually draw my boards
 > quickly (sloppy?) and on a whiteboard to indicate that this is just
-> "best so far". 
+> "best so far".
 
 > Then you should start to think about what kind of behaviour you want
 > to see. You wrote that each developer is working on his separate
 > projects. Do you want to move away from that? Or is that what you want
-> to see in the future as well? 
+> to see in the future as well?
 
 > In Lean we focus on shortening lead-times (time from order to
 > delivery, the whole process). Or put differently; if you put yourself
 > in the the shoes of the customer; what do you want then? Would the
 > customers need be address with higher quality, and faster if you
-> started to work together? 
+> started to work together?
 
 > All of this is just questions that I thought of when I imagined your
 > visualized board in front of me. I'm quite sure that you will come up
@@ -231,20 +233,20 @@ And now my answer:
 > process to allow for this quicker flow?
 > These are questions that will help you improve. The strive for quicker
 > flow will guide you to a better process. The board/process will start
-> to 'speak' to you, if you like. 
+> to 'speak' to you, if you like.
 
 > Make sure you meet regularly and reflect and change the board. In my
 > current, very newbie-team, we meet once a week. And the meeting
 > typically takes 20 min or less. But we change something(s) every time.
 > Just to try to do better.
 > The only catch is; you need to know what "better" means... this ties
-> back to what I wrote above. Ask your managers about this to.      
+> back to what I wrote above. Ask your managers about this to.
 
 > I hope you can make use of these advices. thanks for asking me. A lot
 > of more details and suggestions in [<span
 > id="goog_699323533">our book<span
 > id="goog_699323534">](https://www.blogger.com/), of course.  
 
-> Happy kanban-ing! 
+> Happy kanban-ing!
 
 </div>

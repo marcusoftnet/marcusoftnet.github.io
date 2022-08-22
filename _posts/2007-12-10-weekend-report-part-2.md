@@ -33,6 +33,5 @@ said something wrong - well thank you for not noticing.
 
 But finally thank you [Windcorp Brass
 Band](http://www.windcorpbrassband.se/) for a great weekend. I enjoyed
-every moment of it! I'll add some pictures from the weekend when i <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">remember my
+every moment of it! I'll add some pictures from the weekend when i remember my
 camera

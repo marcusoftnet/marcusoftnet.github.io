@@ -1,12 +1,12 @@
 ---
 layout: post
-title: BDD on .NET Framework and where I learned about
-it
+title: BDD on .NET Framework and where I learned about it
 date: '2011-07-09T21:02:00.002+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - Agile
+  - .NET
+  - Agile
 modified_time: '2011-09-14T09:31:18.229+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7319819737087236385
 blogger_orig_url: http://www.marcusoft.net/2011/07/bdd-on-net-framework-and-where-i-learnt.html
@@ -31,8 +31,6 @@ read
 <a href="http://dannorth.net/whats-in-a-story" target="_blank">“What’s
 in a story”</a> – that article is equally good and provides a great
 background and understanding.
-
-
 
 #### Learn from others
 
@@ -60,21 +58,21 @@ TV</a> for example.
 
 Other stuff I’ve learned from are (in no particular order):
 
--   The excellent book
+- The excellent book
     <a href="http://www.growing-object-oriented-software.com"
     target="_blank">Growing Object Oriented Systems Guided by Tests</a>
     (or GOOS for short)
--   <a href="http://specflow.org/specflow/screencast.aspx"
+- <a href="http://specflow.org/specflow/screencast.aspx"
     target="_blank">This web cast by Rob Conery</a>
--   <a
+- <a
     href="http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/"
     target="_blank">This blog post by Steven Sandersson</a>
--   The <a href="https://github.com/cucumber/cucumber/wiki/Gherkin"
+- The <a href="https://github.com/cucumber/cucumber/wiki/Gherkin"
     target="_blank">excellent wiki on Gherkin</a> (the language used by
     Cucumber)
--   Loads of stuff on
+- Loads of stuff on
     <a href="http://gojko.net" target="_blank">Gojko Adzic’s site</a>
--   Reading and contributing to the
+- Reading and contributing to the
     <a href="https://github.com/techtalk/SpecFlow/" target="_blank">SpecFlow
     source code on GitHub</a>. I especially like the
     <a href="https://github.com/techtalk/SpecFlow/Tests/FeatureTests"

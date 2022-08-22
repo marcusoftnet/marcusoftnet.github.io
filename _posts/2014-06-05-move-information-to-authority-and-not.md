@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Move the authority to the information, and not
-the other way around
+title: Move the authority to the information, and not the other way around
 date: '2014-06-05T06:39:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Lean
   - Life of a consultant
-
-  - Agile- Salvation Army - Indonesia
+  - Agile- Salvation Army
+  - Indonesia
 modified_time: '2014-06-06T05:03:32.339+02:00'
 thumbnail: http://lh6.ggpht.com/-Pz1nhsV2bfE/U4_ytTWN3_I/AAAAAAAAD_U/7_S7oTlyuJU/s72-c/David-Marquet_thumb%25255B26%25255D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7435568262273030003
@@ -204,7 +203,7 @@ target="_blank">chaordic organization/mindset</a> I think its called).
 <a
 href="http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdfe%20people%20have%20tried%20and%20succeed"
 target="_blank">Some people have tried and succeed</a>, go ahead and
-explore your possibilities. 
+explore your possibilities.
 Secondly, doing this to an existing organization is much harder than
 starting from fresh. Trust me, I work (well ok… not really,
 <a href="http://www.marcusoft.net/2013/06/moving-to-indonesia.html"

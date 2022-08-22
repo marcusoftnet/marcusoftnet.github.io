@@ -4,7 +4,8 @@ title: "YOW West 2015 - some thoughts"
 author: "Marcus Hammarberg"
 date: 2015-05-28 06:05:18
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

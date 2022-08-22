@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Applying the Switch framework to developers
-don’t want to write tests
+title: Applying the Switch framework to developers don’t want to write tests
 date: '2012-05-03T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-  - Agile - TDD
+  - Agile
+  - TDD
 modified_time: '2012-05-03T08:00:04.866+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6471968641873307367
 blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html
@@ -39,8 +39,6 @@ href="http://www.heathbrothers.com/resources/download/switch-framework.pdf"
 target="_blank">Switch Framework</a> to developers ignoring broken
 builds. Why not try that same trick again – I thought to myself. ‘¨
 
-
-
 I’ve linked the <a
 href="http://www.heathbrothers.com/resources/download/switch-framework.pdf"
 target="_blank">Switch Framework</a> about but really you need (you
@@ -70,7 +68,7 @@ target="_blank">automated acceptance testing</a> and
 target="_blank">Specification by example</a> are all practices that
 shorten the feedback loop. But, as I said, this hasn’t been understood
 by everybody yet – and many still frown upon testing code as a second
-grade citizen in code country. 
+grade citizen in code country.
 
 Let’s apply the powerful, yet simple, Switch Framework to that problem
 and see if we can get some tips on how to get them on the train. I will
@@ -95,7 +93,7 @@ and the elephant part of people. The rider need clear instructions while
 the elephant need motivation and some reasons for why this should be
 done. Finally you need to shape the path on which they are going to be
 traveling. The Switch framework gives you some guidelines on how to
-accomplish that. 
+accomplish that.
 
 And there… I have now summed up about 4 pages in the book. Read the rest
 to get the full picture.

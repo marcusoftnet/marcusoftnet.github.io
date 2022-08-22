@@ -4,9 +4,11 @@ title: "KanbanStats VI: Queue length"
 author: "Marcus Hammarberg"
 date: 2019-01-15 08:16:49
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
  - Scrum
 ---
 

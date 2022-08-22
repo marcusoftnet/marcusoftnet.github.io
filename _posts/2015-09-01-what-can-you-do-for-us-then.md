@@ -4,7 +4,8 @@ title: "What can you do for us then?"
 author: "Marcus Hammarberg"
 date: 2015-09-01 10:25:20
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

@@ -7,8 +7,11 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - ife of a consultant
-   - KanbanBoards - Agile - Salvation
-Army - Indonesia
+
+  - KanbanBoards
+  - Agile - Salvation
+Army
+  - Indonesia
 modified_time: '2014-11-07T09:19:34.844+01:00'
 thumbnail:
 http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg

@@ -25,9 +25,7 @@ different work items.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

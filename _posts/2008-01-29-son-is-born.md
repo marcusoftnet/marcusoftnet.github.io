@@ -32,9 +32,7 @@ our life.
 
 <div>
 
-<div>
 
-</div>
 
 
 
@@ -46,9 +44,7 @@ Here are some pictures of him.
 
 
 
-<div>
 
-</div>
 
 <div>
 
@@ -58,13 +54,9 @@ thougths of and lit candles (!) during the childbirth.
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 </div>
 

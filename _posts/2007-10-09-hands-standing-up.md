@@ -15,9 +15,7 @@ video with the Cory Band and a singing group. Really nice and made the
 hairs of my arm stand on end.
 
 
-<div>
 
-</div>
 
 
 

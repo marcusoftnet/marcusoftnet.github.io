@@ -4,7 +4,8 @@ title: "Coaching when help is not wanted or important"
 author: "Marcus Hammarberg"
 date: 2017-06-15 10:01:44
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

@@ -5,7 +5,8 @@ and sloppy limits'
 date: '2014-03-17T05:18:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan - Lean - Kanban
+  - Team Yayasan - Lean
+  - Kanban
 modified_time: '2014-03-17T05:18:29.327+01:00'
 thumbnail: http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7834322553779832021

@@ -47,5 +47,5 @@ To make a long story short - this command solved the problem on our
 build machine. Good enough for us:
 
 > caspol -machine -addgroup 1 -url
-> [\\\\\[machine\]\Drops\\](file://\\%5Bmachine%5D\Drops\)\* FullTrust
+> [\\\\\[machine\]\Drops\\](file://\\%5Bmachine%5D\Drops\)* FullTrust
 > -name FileW

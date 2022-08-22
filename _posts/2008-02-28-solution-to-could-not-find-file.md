@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Solution to the "Could not find file
-'Microsoft.Windows.CommonLanguageRuntime error" for testprojects
+title: Solution to the "Could not find file 'Microsoft.Windows.CommonLanguageRuntime error" for testprojects
 date: '2008-02-28T11:13:00.004+01:00'
 author: Marcus Hammarberg
 tags:

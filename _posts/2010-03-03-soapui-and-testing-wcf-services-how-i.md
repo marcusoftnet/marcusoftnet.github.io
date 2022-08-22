@@ -1,12 +1,13 @@
 ---
 layout: post
-title: SOAPUi and testing WCF Services – how I made it
-work
+title: SOAPUi and testing WCF Services – how I made it work
 date: '2010-03-03T13:12:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - Agile - WCF
+  - .NET
+  - Agile
+  - WCF
 modified_time: '2010-12-14T16:22:38.160+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4181984269981750147
 blogger_orig_url: http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html
@@ -46,9 +47,9 @@ We have worked contract first and started with a WSDL-file. I used
 <a href="http://wscfblue.codeplex.com/" target="_blank">WSCF.blue</a>
 (great tool) to generate the service stub. And then…
 
--   I <a href="http://sourceforge.net/projects/soapui/files/soapui/3.5"
+- I <a href="http://sourceforge.net/projects/soapui/files/soapui/3.5"
     target="_blank">downloaded SOAPUi</a>. Go on - do it now- it’s free!
--   I created a <a
+- I created a <a
     href="http://www.soapui.org/userguide/projects/images/new_wsdl_project.gif"
     target="_blank">new project</a> by pointing the wizard to my
     WSDL-file. I also asked the tool to create a starter testcase for
@@ -56,7 +57,7 @@ We have worked contract first and started with a WSDL-file. I used
     Beware of the location or endpoint address – it’s read from the
     WSDL-file and most likely you will need to change that to your
     computer or the server where your service is deployed.
--   I then added a new WSDL to the SECI service to the project. This is
+- I then added a new WSDL to the SECI service to the project. This is
     needed to be able to call
 
 I was now ready to create my test case with the test steps I need to
@@ -66,13 +67,13 @@ test.
 First I created some parameters for my test suite. This is actually
 hidden away a bit.
 
--   Open the test suite editor by right clicking it and chose “Show
+- Open the test suite editor by right clicking it and chose “Show
     TestSuite Editor”
--   In the lower section of the editor you’ll find a “tab” that is named
+- In the lower section of the editor you’ll find a “tab” that is named
     Properties
--   Here you can add properties that will be visible for the whole test
+- Here you can add properties that will be visible for the whole test
     suite
--   I added some inparameters to the SECI service and the token I will
+- I added some inparameters to the SECI service and the token I will
     pass on
 
 I then called the SECI service, passing it values from the parameters I

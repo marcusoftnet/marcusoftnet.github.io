@@ -111,7 +111,8 @@ public class BlogTests : IDisposable
 }
 ```
 
-Oh man - C#! This takes me back.
+Oh man
+  - C#! This takes me back.
 
 Sorry, I've wiped the tears now and am ready to explain what is going on.
 

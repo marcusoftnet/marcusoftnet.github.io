@@ -4,8 +4,10 @@ title: "Comments on common board practices - Walk the board from right to left"
 author: "Marcus Hammarberg"
 date: 2017-03-04 20:13:13
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Scrum
 ---
 

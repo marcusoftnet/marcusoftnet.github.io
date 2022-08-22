@@ -4,8 +4,10 @@ title: "Playing with names"
 author: "Marcus Hammarberg"
 date: 2018-10-10 17:45:48
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
 ---
 

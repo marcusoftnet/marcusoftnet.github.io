@@ -21,9 +21,7 @@ id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:c212ab08-cca6-4129-ac07-42a9e33009
 class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">
 
-<div>
 
-</div>
 
 The new grandfathers clock
 

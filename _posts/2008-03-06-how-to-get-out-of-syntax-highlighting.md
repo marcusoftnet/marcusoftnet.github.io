@@ -26,9 +26,7 @@ with syntax highlighting, when using snippets.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -42,9 +40,7 @@ some scary green color (see picture above).
 
 
 
-<div>
 
-</div>
 
 
 

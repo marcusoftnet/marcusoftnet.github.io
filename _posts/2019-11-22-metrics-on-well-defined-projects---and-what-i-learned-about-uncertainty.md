@@ -4,7 +4,8 @@ title: "Metrics on 'well-defined' projects - and what I learned about uncertaint
 author: "Marcus Hammarberg"
 date: 2019-11-22 08:43:43
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

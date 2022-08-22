@@ -4,9 +4,11 @@ title: "What are you optimized for then?"
 author: "Marcus Hammarberg"
 date: 2016-04-06 11:07:25
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

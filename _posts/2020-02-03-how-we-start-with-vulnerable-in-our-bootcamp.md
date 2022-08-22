@@ -4,7 +4,8 @@ title: "How we start with trust and vulnerable in our developer training"
 author: "Marcus Hammarberg"
 date: 2020-02-03 10:17:37
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Programming
  - Management

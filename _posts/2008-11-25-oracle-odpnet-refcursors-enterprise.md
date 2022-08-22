@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Oracle, ODP.NET, RefCursors, Enterprise Library
-and Readers
+title: Oracle, ODP.NET, RefCursors, Enterprise Library and Readers
 date: '2008-11-25T10:49:00.002+01:00'
 author: Marcus Hammarberg
 tags:
@@ -38,12 +37,12 @@ made many calls to said stored procedure).
 After a lot of researching we found out the following actions to solve
 the problems:
 
--   You firstly always need to dispose readers from Enterprise Library,
+- You firstly always need to dispose readers from Enterprise Library,
     after finishing using them. My bad here - just forget about it. <a
     href="http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=352908&amp;SiteID=1"
     target="_blank">Here is a description</a> on how to do it with the
     beautiful using-construct.
--   Then you need to explicitly call Dispose on all your
+- Then you need to explicitly call Dispose on all your
     RefCursor-parameters. This is quite strange - especially since our
     code only adds the parameter to the stored procedure command and
     doesn't use it any more.

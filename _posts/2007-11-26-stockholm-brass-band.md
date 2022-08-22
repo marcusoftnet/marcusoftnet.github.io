@@ -11,8 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/11/stockholm-brass-band.html
 ---
 
 I got the
-opportunity to play with [<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Stockholms
+opportunity to play with [Stockholms
 Brass Band](http://www.stockholmbrass.se/) this weekend. First baritone
 this time.
 

@@ -4,7 +4,8 @@ title: "Tags, markers and behaviour it drives on the board"
 author: "Marcus Hammarberg"
 date: 2019-01-20 16:34:46
 tags:
- - Agile
+
+  - Agile
  - Scrum
  - Lean
   - Life of a consultant

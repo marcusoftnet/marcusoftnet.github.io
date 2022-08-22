@@ -4,10 +4,12 @@ title: "Jidoka - an old Toyota practice makes an guest appearance"
 author: "Marcus Hammarberg"
 date: 2016-06-04 20:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 When I started to learn about lean I naturally heard a lot of Toyota stories - it's pretty inevitable since the whole thinking comes from there. One thing that I learned about was translated as [autonomation](https://en.wikipedia.org/wiki/Autonomation). I was pretty sure it was a mistranslation.

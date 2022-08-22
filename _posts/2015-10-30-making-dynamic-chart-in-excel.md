@@ -6,7 +6,8 @@ date: 2015-10-30 13:30:32
 tags:
  - Tools
   - Life of a consultant
- - Indonesia
+
+  - Indonesia
 ---
 
 It was quite some time since I wrote a How-to-post. Here's an Excel-thing that I managed to solve today that's been bothering me for a long time.

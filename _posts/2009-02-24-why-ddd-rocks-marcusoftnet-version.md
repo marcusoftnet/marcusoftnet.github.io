@@ -4,8 +4,11 @@ title: Why DDD rocks – the marcusoft.net version
 date: '2009-02-23T21:43:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - DDD -
-Life of a consultant - ASP.NET MVC - TDD
+  - DDD
+  - Life of a consultant
+  - ASP.NET MVC
+
+  - TDD
 modified_time: '2009-02-23T21:43:54.324+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4192933904487220024
 blogger_orig_url: http://www.marcusoft.net/2009/02/why-ddd-rocks-marcusoftnet-version.html

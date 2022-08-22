@@ -4,11 +4,14 @@ title: "ca 15 minutes on Kanban"
 author: "Marcus Hammarberg"
 date: 2015-06-19 14:30:08
 tags:
- - Kanban
+
+  - Kanban
  - Lean
- - Agile
+
+  - Agile
  - Leadership
- - Indonesia
+
+  - Indonesia
 
   - Salvation Army
   - Life of a consultant

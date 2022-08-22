@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Two types in SpecFlow; ScenarioContext and
-FeatureContext
+title: Two types in SpecFlow; ScenarioContext and FeatureContext
 date: '2011-03-26T22:04:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2013-04-07T20:31:58.395+02:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TY5UwUjWZkI/AAAAAAAAA7c/cCrQjjWIuao/s72-c/marking%20steps%20as%20pending_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6352021831868808402
@@ -25,7 +25,6 @@ was a FeatureContext object as well.
 This post looks a bit closer on these to guys and gives some tips on how
 you might want to use them in your code.
 
-
 ### ScenarioContext
 
 Most of us has at least seen the ScenarioContext from the the code that
@@ -41,7 +40,6 @@ SpecFlow generates when a missing step definition is found:
 >         ScenarioContext.Current.Pending();    }
 > }
 > ```
-
 
 But there are some other interesting stuff you can do with and get from
 that object. I’ve tried to write scenarios that show that off. You can
@@ -66,7 +64,6 @@ src="http://lh5.ggpht.com/_TI0jeIedRFk/TY5UxZKJKTI/AAAAAAAAA7k/pUVR41aJoa4/step%
 title="step defintions with pending" data-border="0"
 style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
 width="420" height="191" alt="step defintions with pending" />](http://lh5.ggpht.com/_TI0jeIedRFk/TY5Uw8mrBfI/AAAAAAAAA7g/meTAZ9NTztQ/s1600-h/step%20defintions%20with%20pending%5B2%5D.jpg)
-
 
 #### ScenarioContext.Current
 
@@ -99,7 +96,6 @@ style="background-image: none; border-bottom: 0px; border-left: 0px; border-righ
 width="420" height="241"
 alt="storing and retriving via typesafe extensions" />](http://lh4.ggpht.com/_TI0jeIedRFk/TY5UzPSVEwI/AAAAAAAAA7w/P9ppLVS-4xw/s1600-h/storing%20and%20retriving%20via%20typesafe%20extensions%5B2%5D.jpg)
 
-
 #### ScenarioContext.ScenarioInfo
 
 You can also get hold of some information about the scenario you’re
@@ -129,7 +125,6 @@ src="http://lh4.ggpht.com/_TI0jeIedRFk/TY5U210K9II/AAAAAAAAA8M/_Uw2DHRKZaA/featu
 title="feature for test error" data-border="0"
 style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
 width="420" height="70" alt="feature for test error" />](http://lh3.ggpht.com/_TI0jeIedRFk/TY5U2XKXNPI/AAAAAAAAA8I/eopgGbw6SP4/s1600-h/feature%20for%20test%20error%5B2%5D.jpg)
-
 
 [<img
 src="http://lh3.ggpht.com/_TI0jeIedRFk/TY5U33n9ecI/AAAAAAAAA8U/VQzGzzzrDhs/using%20test%20error%20to%20log_thumb.jpg?imgmax=800"
@@ -171,7 +166,6 @@ src="http://lh4.ggpht.com/_TI0jeIedRFk/TY5U6yuKLEI/AAAAAAAAA8s/uWegZLBHqlI/curre
 title="current scenarioblock stepdefinition" data-border="0"
 style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
 width="420" height="138" alt="current scenarioblock stepdefinition" />](http://lh3.ggpht.com/_TI0jeIedRFk/TY5U6QnvCUI/AAAAAAAAA8o/CneKglARyLM/s1600-h/current%20scenarioblock%20stepdefinition%5B2%5D.jpg)
-
 
 ### FeatureContext
 

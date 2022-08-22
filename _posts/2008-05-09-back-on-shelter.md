@@ -24,8 +24,7 @@ the shelter. They are, many of them, younger than me. And already they
 are on the bottom of our society... Others have been there for years and
 years.
 
-We are so privileged in our daily <span
-id="SPELLING_ERROR_1" class="blsp-spelling-corrected">lives and
+We are so privileged in our daily lives and
 so seldom stop and appreciate it. Most of us have
 families, friends and co-workers that cares about how we are doing. We
 have stuff to do (work for example) - that's another thing to ponder.

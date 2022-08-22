@@ -4,9 +4,11 @@ title: "Prioritizing and sequencing are not the same things"
 author: "Marcus Hammarberg"
 date: 2019-10-17 15:00:42
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: TFS Build targets and properties - the official
-list
+title: TFS Build targets and properties - the official list
 date: '2008-11-11T10:41:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - TFS - MSBuild
+  - TFS
+  - MSBuild
 modified_time: '2008-11-11T10:41:42.055+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6662911047123782891
 blogger_orig_url: http://www.marcusoft.net/2008/11/tfs-build-targets-and-properties.html
@@ -34,10 +34,10 @@ haven't had a good answer ([this was my best so
 far](http://www.marcusoft.net/2007/05/teamsystem-builds.html)) but now I
 found a list of the customable targets and properties.
 
--   [Customizable Team Foundation Build
+- [Customizable Team Foundation Build
     Targets](http://msdn.microsoft.com/en-us/library/aa337604.aspx) (and
     their run order)
--   [Customizable Team Foundation Build
+- [Customizable Team Foundation Build
     Properties](http://msdn.microsoft.com/en-us/library/aa337598.aspx)
 
 Also I found out that any properties you define in the build script can

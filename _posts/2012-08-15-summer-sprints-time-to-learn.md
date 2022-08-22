@@ -4,8 +4,10 @@ title: Summer sprints - a time to learn
 date: '2012-08-15T16:43:00.000+02:00'
 author: Marcus Hammarberg
 tags:
+
   - Kanban
    - Scrum
+
   - Agile
 modified_time: '2012-08-15T16:43:07.207+02:00'
 thumbnail:

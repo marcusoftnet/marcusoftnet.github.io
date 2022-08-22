@@ -4,8 +4,10 @@ title: Looking for better
 date: '2014-04-21T14:43:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Kanban - Agile
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
 modified_time: '2014-04-21T14:43:50.529+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7433831584229980430
 blogger_orig_url: http://www.marcusoft.net/2014/04/lookingForBetter.html

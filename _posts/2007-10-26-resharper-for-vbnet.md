@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet.html
 ---
 
 Oh my
-god - the worlds most well known and loved <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">refactoring
+god - the worlds most well known and loved refactoring
 tool [Resharper](http://www.jetbrains.com/resharper/),
 now contains support for
 [VB.NET](http://www.jetbrains.com/resharper/features/newfeatures.html#vbImprovements).

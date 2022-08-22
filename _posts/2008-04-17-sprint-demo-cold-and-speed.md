@@ -5,8 +5,7 @@ date: '2008-04-17T08:18:00.007+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
- - Scrum
-
+  - Scrum
 modified_time: '2008-05-16T08:13:47.615+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7921648991803962963
 blogger_orig_url: http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html

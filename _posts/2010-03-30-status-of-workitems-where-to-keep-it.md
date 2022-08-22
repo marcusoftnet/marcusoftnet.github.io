@@ -4,8 +4,10 @@ title: Status of workitems – where to keep it
 date: '2010-03-30T09:10:00.001+02:00'
 author: Marcus Hammarberg
 tags:
+
   - Kanban
    - Scrum
+
   - Agile
 modified_time: '2010-03-30T09:10:07.408+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6661326606084940078

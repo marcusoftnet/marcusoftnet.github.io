@@ -4,7 +4,9 @@ title: You say 'continuous delivery', I say 'limit WIP'
 date: '2012-10-12T09:57:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Tools - Kanban - Agile
+  - Tools
+  - Kanban
+  - Agile
 modified_time: '2012-10-12T12:25:44.623+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6086100727965739079
 blogger_orig_url: http://www.marcusoft.net/2012/10/you-say-continuous-delivery-i-say-limit.html

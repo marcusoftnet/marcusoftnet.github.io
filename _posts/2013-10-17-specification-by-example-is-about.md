@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - Life of a consultant
-  - Specification by example - Agile
+  - Specification by example
+  - Agile
 modified_time: '2013-10-17T13:25:02.272+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4899659258879319994
 blogger_orig_url: http://www.marcusoft.net/2013/10/specification-by-example-is-about.html

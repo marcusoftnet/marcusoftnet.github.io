@@ -1,11 +1,11 @@
 ---
 layout: post
-title: MVP is not another word for iterations - it's
-for learning
+title: MVP is not another word for iterations - it's for learning
 date: '2013-05-13T11:04:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean - Agile
+  - Lean
+  - Agile
 modified_time: '2013-05-13T15:34:26.443+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-405187406250963476
 blogger_orig_url: http://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-iterations.html
@@ -34,7 +34,6 @@ In this post I'll share some things that I've been thinking about around
 this recently. If I'm wrong about these things I look forward to your
 comments and further education on the topic.
 
-
 ### MVP
 
 The thing from Lean startup that many people seems to pick up on lately
@@ -60,7 +59,6 @@ The same goes for Lean startup - we want to learn what our customers
 wants as early as possible. We might have a *hypothesis* about what they
 want but until we've tried it out on real customers it only that: a
 hypothesis.
-
 
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
@@ -102,13 +100,12 @@ stories, themes and epics
 are](http://www.mountaingoatsoftware.com/blog/stories-epics-and-themes).
 Here's my thoughts:
 
-
 A **user story** describes a functionality from an users need. It's
 usually small and typically takes around a week or two to complete for
 the team. It's not fully specified on paper but rather is a "placeholder
 for a conversation"
 
--   When the team starts to work with an user story they might break it
+- When the team starts to work with an user story they might break it
     down in **tasks** that needs to be completed in order to complete
     the entire user story. These tasks can vary in size from just a
     couple of minutes to several days. They are totally optional to
@@ -118,7 +115,7 @@ Going up the scale there's something called an **epic**. That's a big
 user story. Bigger than the team wants to manage, which in other words
 translates to something that's bigger than 1-2 weeks worth of work. They
 can still be useful in early stages of planning, since we can leave big
-stories in there and break them down as we start to work with them. 
+stories in there and break them down as we start to work with them.
 
 **Theme** is a term that I've never used and seldom heard about. It's a
 group of related user stories, like all the stories around buying stuff
@@ -133,7 +130,7 @@ part of an user story or several user stories. It really don't cut along
 the same axis.
 
 That's how I have understood the terms and how I have used them during
-the years I've been talking about user stories. 
+the years I've been talking about user stories.
 
 </div>
 
@@ -149,8 +146,6 @@ examples:
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -170,8 +165,6 @@ a more well-informed second step.
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -184,8 +177,6 @@ do the next lap around the loop.
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -218,13 +209,11 @@ The difference between MVP and User stories/Epics is one of mindset. MVP
 focus on learning. An MVP can consist of an user story, a bunch of them
 (theme), a really big user story (epic) or part of an user story (a
 task). That's not important. What are we trying to learn from this. That
-is important. And a useful question to ask too. 
+is important. And a useful question to ask too.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 

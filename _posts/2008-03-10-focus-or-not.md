@@ -26,11 +26,9 @@ months back. Also it is great to see the true use of SCRUM - it is
 rocking, as it of course would.
 
 But it has come to my attention that readers of the blog are missing
-some personal comments on non-IT stuff. This is trademark Marcus <span
-id="SPELLING_ERROR_4" class="blsp-spelling-error">Hammarberg
+some personal comments on non-IT stuff. This is trademark Marcus Hammarberg
 behaviour - i get swallowed by new thing.
 
 But i wont leave you hanging out there with nothing to do... So here
-above are some short postings on interesting things that have <span
-id="SPELLING_ERROR_5" class="blsp-spelling-corrected">happened
+above are some short postings on interesting things that have happened
 during the week.

@@ -4,7 +4,8 @@ title: "Ferguson never touched the ball"
 author: "Marcus Hammarberg"
 date: 2014-12-23 07:57:20
 tags:
- - Agile
+
+  - Agile
  - Leadership
  - Lean
  - Tools

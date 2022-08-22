@@ -4,8 +4,10 @@ title: "QA: How big is a work item?"
 author: "Marcus Hammarberg"
 date: 2015-07-24 11:47:02
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
   - Life of a consultant
 ---
 

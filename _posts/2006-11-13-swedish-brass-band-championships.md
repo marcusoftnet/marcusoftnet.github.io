@@ -30,21 +30,13 @@ order a month ahead of the competition. The only thing i missed was the
 points. [See for
 yourself](http://marcushammarberg.blogspot.com/2006/10/swedish-brass-band-championships.html)
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -55,21 +47,13 @@ indeed.
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -80,9 +64,7 @@ great stuff! Thank you!
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

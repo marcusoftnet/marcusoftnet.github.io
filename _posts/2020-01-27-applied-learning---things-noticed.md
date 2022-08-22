@@ -5,7 +5,8 @@ author: "Marcus Hammarberg"
 date: 2020-01-27 09:18:28
 tags:
  - Programming
- - Agile
+
+  - Agile
  - Management
 ---
 

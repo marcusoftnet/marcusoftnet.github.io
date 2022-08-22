@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
+
   - Agile
 modified_time: '2013-03-12T09:00:05.592+01:00'
 thumbnail: http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s72-c/Screen+Shot+2013-03-11+at+15.46.00+.png
@@ -48,9 +49,7 @@ present. But did we really know everything?
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -72,9 +71,7 @@ twice. And keep them synchronized.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -93,9 +90,7 @@ restating what they just had said in their standup.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -121,9 +116,7 @@ that's something we need and want to know that it's missing.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -134,9 +127,7 @@ you but you'll get it if you're interested.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -156,9 +147,7 @@ This is our Daily Sync board as it looks today:
 
 </div>
 
-<div>
 
-</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -170,13 +159,9 @@ data-border="0" width="400" height="276" /></a>
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -252,9 +237,7 @@ short (usually under 10 minutes) and meaningful for everyone attending.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

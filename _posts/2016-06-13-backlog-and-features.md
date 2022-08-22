@@ -4,10 +4,12 @@ title: "Backlog and features"
 author: "Marcus Hammarberg"
 date: 2016-06-13 12:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 A couple of weeks ago I tweeted:

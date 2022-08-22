@@ -4,7 +4,8 @@ title: "A data-driven prognosis report"
 author: "Marcus Hammarberg"
 date: 2021-10-11 15:04:16
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

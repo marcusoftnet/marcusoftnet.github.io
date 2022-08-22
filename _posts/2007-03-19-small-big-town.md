@@ -26,9 +26,7 @@ styles from the citys just by walking around in the cities.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

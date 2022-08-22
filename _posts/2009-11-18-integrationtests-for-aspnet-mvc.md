@@ -5,7 +5,8 @@ date: '2009-11-17T21:29:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - ASP.NET MVC - Agile
+  - .NET - ASP.NET MVC
+  - Agile
 modified_time: '2010-12-14T16:22:38.175+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6915727805215632792
 blogger_orig_url: http://www.marcusoft.net/2009/11/integrationtests-for-aspnet-mvc.html

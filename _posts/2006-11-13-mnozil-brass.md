@@ -27,9 +27,7 @@ it. Magic!
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

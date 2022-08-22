@@ -14,8 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-ope
 This warning occurs when doing testing with <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">MSTest and
 running the test under code coverage. It is related to the warning
-"warning <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">VSP2013:
+"warning VSP2013:
 Instrumenting this image requires it to run as a 32-bit process. The
 CLR
 header flags have been updated to reflect this."

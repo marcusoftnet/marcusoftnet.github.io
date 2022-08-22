@@ -25,9 +25,7 @@ we're kicking off a new subproject at my customer. And except four new
 features the customer has ask for only one (1) bug to be fixed. I don't
 think that this will hold.
 
-<div>
 
-</div>
 
 
 
@@ -38,9 +36,7 @@ one bug-fix i will eat my USB-mouse"
 
 </div>
 
-<div>
 
-</div>
 
 
 

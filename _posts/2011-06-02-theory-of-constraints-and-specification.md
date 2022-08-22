@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Theory of constraints and Specification by
-example part II
+title: Theory of constraints and Specification by example part II
 date: '2011-06-01T22:55:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - BDD - Kanban - Agile
+  - BDD
+  - Kanban
+  - Agile
 modified_time: '2011-06-01T22:56:45.817+02:00'
 thumbnail: http://lh3.ggpht.com/-42_XIS4q5ng/TeanSuKOU9I/AAAAAAAAA_w/kGWbtqTEj24/s72-c/wlEmoticon-winkingsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2318944997718944184
@@ -37,8 +38,6 @@ So it came as no surprise that Håkan had a few, rightful, objections to
 my reasoning. He’s points made me think another lap and I thought that
 it could be interesting to present it here.
 
-
-
 To be able to follow this reasoning <a
 href="http://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html"
 target="_blank">you should read the earlier post</a>. Go on – we’ll be
@@ -62,11 +61,11 @@ target="_blank">Wikipedia we learn</a>:
 > Assuming the goal of the organization has been articulated (e.g.,
 > "Make money now and in the future") the steps are:
 >
-> 1.  Identify the constraint
-> 2.  Decide how to exploit the constraint
-> 3.  Subordinate all other processes to above decision
-> 4.  Elevate the constraint
-> 5.  If, as a result of these steps, the constraint has moved, return
+> 1. Identify the constraint
+> 2. Decide how to exploit the constraint
+> 3. Subordinate all other processes to above decision
+> 4. Elevate the constraint
+> 5. If, as a result of these steps, the constraint has moved, return
 >     to Step 1. Don't let inertia become the constraint.
 
 There’s a couple of things worth thinking about here in the context

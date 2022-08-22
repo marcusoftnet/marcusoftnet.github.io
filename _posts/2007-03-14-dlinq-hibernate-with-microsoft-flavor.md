@@ -4,8 +4,8 @@ title: DLINQ - Hibernate with Microsoft flavor
 date: '2007-03-14T13:22:00.002+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-NHibernate
+  - .NET
+  - NHibernate
 modified_time: '2009-10-19T17:44:03.870+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8118350437797908369
 blogger_orig_url: http://www.marcusoft.net/2007/03/dlinq-hibernate-with-microsoft-flavor.html

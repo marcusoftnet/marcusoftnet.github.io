@@ -4,10 +4,12 @@ title: "A story about dentists... busy dentists"
 author: "Marcus Hammarberg"
 date: 2018-12-12 12:09:17
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Scrum
- - Kanban
+
+  - Kanban
 ---
 
 When I introduce agile I do that through a nice little quandrat originally from the [This is Lean](https://thisislean.com/) book by [Pär Åhlström](http://parahlstrom.com/) and [Niclas Modig](https://twitter.com/leanonmyself), and visualized by [Håkan Forss](http://www.marcusoft.net/img/thisIsLean.png). I've [wrote about it here](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). This post will only focus on the top left triangle - where we focus on maximizing resource utilization.

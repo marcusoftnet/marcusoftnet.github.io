@@ -5,7 +5,8 @@ with Dan North'
 date: '2009-11-05T14:13:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - ÖreDev - ASP.NET MVC - Agile
+  - .NET - ÖreDev - ASP.NET MVC
+  - Agile
 modified_time: '2011-11-09T21:49:22.616+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9969726431816509
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-why-your-agile-adoption.html

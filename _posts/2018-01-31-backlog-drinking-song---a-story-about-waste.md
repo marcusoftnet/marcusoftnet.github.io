@@ -4,9 +4,11 @@ title: "Some thoughts on backlogs"
 author: "Marcus Hammarberg"
 date: 2018-01-31 09:56:52
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
  - Scrum
 ---
 

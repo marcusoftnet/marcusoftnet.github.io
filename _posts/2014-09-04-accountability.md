@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Accountability, authority, trust, and all those
-things
+title: Accountability, authority, trust, and all those things
 date: '2014-09-04T10:22:00.002+02:00'
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-  - Kanban - Agile
+  - Kanban
+  - Agile
   - Salvation Army
 modified_time: '2014-09-04T10:22:38.712+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1565427642585029622
@@ -32,7 +32,6 @@ Here's video with his latests message:
 
 </div>
 
-
 I like this message for a number of reasons, but the part that stands
 out for me is "We know we are not perfect. We **want** to become better.
 We start Now!" I like that kind of transparency and humbleness.
@@ -40,8 +39,6 @@ We start Now!" I like that kind of transparency and humbleness.
 The keyword in the message is Accountability. I have a bit of a hard
 time with that word as I think it sends a pretty harsh tone, but it
 really comes back to where you start.
-
-
 
 > Accountability - the quality or state of being accountable; especially
 > :  an obligation or willingness to accept responsibility or to account
@@ -102,16 +99,15 @@ virtue of the information being known to everyone that wants to.
 
 Oh by the wa, Transparency also gives
 
-
--   faster decisions
--   less corruption
--   less gossip
--   more involvement
--   better loyalty 
+- faster decisions
+- less corruption
+- less gossip
+- more involvement
+- better loyalty
 
 <div>
 
-if you're into those kind of things. 
+if you're into those kind of things.
 
 </div>
 
@@ -126,8 +122,6 @@ Trust and Transparency. Then Accountability comes automatically.  
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -135,10 +129,8 @@ Trust and Transparency. Then Accountability comes automatically.  
 I've written before about <a
 href="http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html"
 target="_blank">Commitment</a> and I think those ideas brush on this
-topic. 
+topic.
 
 </div>
-
-
 
 </div>

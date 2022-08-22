@@ -4,9 +4,11 @@ title: "KanbanStats V: Single numbers"
 author: "Marcus Hammarberg"
 date: 2019-01-10 07:48:33
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
  - Scrum
 ---
 

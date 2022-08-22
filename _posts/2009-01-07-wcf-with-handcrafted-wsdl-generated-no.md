@@ -1,7 +1,6 @@
 ---
 layout: post
-title: WCF with handcrafted WSDL generated no
-FaultExceptions
+title: WCF with handcrafted WSDL generated no FaultExceptions
 date: '2009-01-07T11:07:00.001+01:00'
 author: Marcus Hammarberg
 tags:

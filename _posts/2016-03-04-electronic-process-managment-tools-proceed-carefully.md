@@ -4,12 +4,14 @@ title: "Electronic process management tools - proceed with care"
 author: "Marcus Hammarberg"
 date: 2016-03-04
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
  - Tools
  - Scrum
- - Kanban
+
+  - Kanban
 ---
 
 I'm a fan of physical boards. But I have to say: many of the tools I've used are amazing (like [JIRA](https://www.atlassian.com/software/jira), [LeanKit](http://leankit.com/) etc.) in that they support working with the tool in a great way: shortcuts, intelligent search and great design.

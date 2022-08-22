@@ -4,8 +4,10 @@ title: "Emergency lanes - some tips"
 author: "Marcus Hammarberg"
 date: 2015-01-26 09:20:05
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Scrum
 ---
 

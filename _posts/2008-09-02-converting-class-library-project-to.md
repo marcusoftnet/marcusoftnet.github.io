@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Converting Class library project to MS Test
-project
+title: Converting Class library project to MS Test project
 date: '2008-09-02T14:52:00.005+02:00'
 author: Marcus Hammarberg
 tags:

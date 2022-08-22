@@ -5,7 +5,8 @@ date: '2009-08-31T14:54:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - DDD -
-NHibernate - Agile
+NHibernate
+  - Agile
 modified_time: '2009-08-31T14:56:38.686+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-49902724261637921
 blogger_orig_url: http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html ---

@@ -5,7 +5,8 @@ followup post
 date: '2013-04-24T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - Lean - Agile
+  - .NET - Lean
+  - Agile
 modified_time: '2013-04-24T09:00:09.964+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7663992142364497452
 blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html ---
@@ -347,9 +348,7 @@ like these:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

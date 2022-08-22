@@ -4,8 +4,10 @@ title: "KanbanStats - an average improvement"
 author: "Marcus Hammarberg"
 date: 2019-03-25 12:41:24
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
 ---
 

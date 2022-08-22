@@ -41,9 +41,7 @@ tips (both for playing and life) and being a great friend.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -58,9 +56,7 @@ great rehearsals. Tips from Bengt help me each day in my playing.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -71,9 +67,7 @@ long, long time.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

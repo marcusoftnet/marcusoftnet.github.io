@@ -4,7 +4,8 @@ title: "Some thoughts on scaled agile"
 author: "Marcus Hammarberg"
 date: 2021-06-13 10:05:01
 tags:
- - Agile
+
+  - Agile
 ---
 
 I indirectly got a question that I thought would make a good blog post. The question came from the brilliant [Emer](https://twitter.com/emernichiobhain) on this LinkedIn post. That post in itself is a great read on the US Air Force's thoughts on agile in general - great stuff in there.
@@ -22,10 +23,10 @@ Hi [Emer](https://www.linkedin.com/in/ACoAAAPoJzoBoQ8bWJ4Pcc-36f-5pfjZjdBv_JU) -
 The trick with scaling is that there are no recipes that will work everywhere, just as with agile itself. This is also why some of us are ticked off with the packing of exactly that, like the one above. It's a very unagile way to introduce agile
 
 However, there are things to read that I think will trigger your imagination and inspiration:
-\* [Practices_for_Scaling_Lean_and_Agile](https://www.craiglarman.com/wiki/index.php?title=Book) is a good starting point
-\* There are ideas about scaling in [The Blue Kanban book](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402) that holds up very well.
-\* I also like the idea of [Klaus Leopold about flight levels](https://2020.leanability.com/en/blog/2017/04/flight-levels-the-organizational-improvement-levels/) , and his [book](https://www.leanability.com/en/books/) is brilliant
-\* There also the famous [Spotify model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) that was the way they solved in 2012-2014, which is a good read
+* [Practices_for_Scaling_Lean_and_Agile](https://www.craiglarman.com/wiki/index.php?title=Book) is a good starting point
+* There are ideas about scaling in [The Blue Kanban book](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402) that holds up very well.
+* I also like the idea of [Klaus Leopold about flight levels](https://2020.leanability.com/en/blog/2017/04/flight-levels-the-organizational-improvement-levels/) , and his [book](https://www.leanability.com/en/books/) is brilliant
+* There also the famous [Spotify model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) that was the way they solved in 2012-2014, which is a good read
 
 But ultimately it will be up to your own needs and your context - because whatever you choose to do will need to change. You will do something that works now but will have to change.
 

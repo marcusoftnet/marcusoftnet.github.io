@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Nancy.Testing - no hat, no shoes with
-Simple.Data
+title: Nancy.Testing - no hat, no shoes with Simple.Data
 date: '2013-02-04T09:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
-  - .NET - C#
+  - .NET
+  - C#
 modified_time: '2014-06-21T02:09:55.478+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3442155135108836212
 blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting4.html
@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting4.html
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-
 
 This is the fourth (oh my!) post in my series on Nancy.Testing. This
 time we will leave the Nancy.Testing specific stuff and let our gal meet
@@ -30,28 +29,26 @@ blog post, but then it's just code all the way down.
 
 The other posts in the series can be found here:
 
-1.  <a href="http://www.marcusoft.net/2013/01/NancyTesting1.html"
+1. <a href="http://www.marcusoft.net/2013/01/NancyTesting1.html"
     target="_blank">Intro to testing with Nancy</a>
-2.  <a href="http://www.marcusoft.net/2013/01/NancyTesting2.html"
+2. <a href="http://www.marcusoft.net/2013/01/NancyTesting2.html"
     target="_blank">The Configurable bootstrapper</a>
-3.  <a href="http://www.marcusoft.net/2013/01/NancyTesting3.html"
-    target="_blank">The Browser and Response objects</a> 
-4.  <a href="http://www.marcusoft.net/2013/02/NancyTesting4.html"
+3. <a href="http://www.marcusoft.net/2013/01/NancyTesting3.html"
+    target="_blank">The Browser and Response objects</a>
+4. <a href="http://www.marcusoft.net/2013/02/NancyTesting4.html"
     target="_blank">Hat and shoeless testing with Simple.Data</a>(this
     post)
-5.  <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
+5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
 <div>
 
 Let's dive right in a say hello to Simple.Data, if you haven't met him
-already. 
+already.
 
 </div>
 
 <div>
-
-
 
 ### Simple.Data
 
@@ -68,16 +65,12 @@ write data access as simple as:
 
 <div>
 
-</div>
-
-<div>
-
 As expected this code opens a connection to the database (as configured
 in your .config-file, but you could supply a connection string if you
 wanted). It then issues a SQL-query against the database with a
 WHERE-part that search for Users with the given Email. Like this:
 
-> SELECT \* FROM Users WHERE Email = '@p1'
+> SELECT * FROM Users WHERE Email = '@p1'
 
 Simple right? Oh yeah - it's all in the name.  
 
@@ -94,27 +87,22 @@ Here's how some test-code that shows what I mean.
 
 <div>
 
-</div>
-
-<div>
-
 The important part here lies in the test code:
 
-
--   Line 6-7 sets up an InMemoryAdapter and tells the static
+- Line 6-7 sets up an InMemoryAdapter and tells the static
     Database-object to use that adapter for subsequent calls to
     Database.Open(). This is a GREAT thing since we now, in our
     testcode, can change the behavior of the code in the production
-    code. 
--   Line 10-11 adds a new object into the database. Hihi - you and I
+    code.
+- Line 10-11 adds a new object into the database. Hihi - you and I
     know that it's going against the InMemoryAdapter, since that's what
     we told Database on line 7. This was the first time we called
     Database.Open() and got a database object using the InMemoryAdapter
     back.
--   Line 14 calls into our  method under test. When that method calls
+- Line 14 calls into our  method under test. When that method calls
     Database.Open() (SimpleDataMethodToTest.cs line 3) it ALSO gets the
-    InMemoryAdapter back, since we set it in our testcode. 
--   The rest of the test method does our asserts. 
+    InMemoryAdapter back, since we set it in our testcode.
+- The rest of the test method does our asserts.
 
 <div>
 
@@ -128,13 +116,11 @@ entire stack downwards, to just before we do the jump over the network
 
 <div>
 
-All the way down... or just all the stuff that we have written. 
+All the way down... or just all the stuff that we have written.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -142,7 +128,7 @@ All the way down... or just all the stuff that we have written. 
 
 For those wondering, yes - you can setup [joins, auto incrementing
 key](http://simplefx.org/simpledata/docs/pages/Test/Configuration.htm)s
-etc for your InMemoryAdapter. 
+etc for your InMemoryAdapter.
 
 </div>
 
@@ -175,7 +161,7 @@ rendering in the browser (that these days could be a lot, I'll give you
 that :))
 Shoeless - we Simple.Data testing we can test ALL our code, all the way
 to and including the actual data access code. Just removing the final,
-bottom layer (the actual call to the database) is removed. 
+bottom layer (the actual call to the database) is removed.
 
 </div>
 
@@ -187,10 +173,6 @@ Yeah, I know, I know. Too much talk - too little code. I'll show you 2
 examples on how this could work.
 Here's the first one:
 
-<div>
-
-</div>
-
 In this example we first configure the InMemoryAdapter to hold a new
 FairyTaleFigure "Gollum" and then call into the Module that just returns
 a string.
@@ -200,27 +182,22 @@ and returns a rendered Razor view.
 
 <div>
 
-</div>
-
-<div>
-
 There's nothing new in here, really. But let's go through it real
 fast:
 
-
--   In FullStack_Test.cs (that's the test code in there), we first setup
+- In FullStack_Test.cs (that's the test code in there), we first setup
     a InMemoryAdapter with Joins and Autoincrementing keys and tell
     Simple.Data to use that adapter for all subsequent calls to
-    Database.Open(). 
--   On line 35-36 in the same file we configure the
+    Database.Open().
+- On line 35-36 in the same file we configure the
     [ConfigurableBoostrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html) to
     use our **production** repository. That's quite ok since we just
-    told Simple.Data to use our "mock" the InMemoryAdapter. 
--   We then proceed to call into the SimpleDataModuleWithView, via the
+    told Simple.Data to use our "mock" the InMemoryAdapter.
+- We then proceed to call into the SimpleDataModuleWithView, via the
     [Nancy.Testing.Browser](http://www.marcusoft.net/2013/01/NancyTesting2.html) object.
     That's calling the entire stack - but not doing network calls, mind
     you. We're cutting in just before the web server itself.
--   The rest of the code is standard Nancy and Razor code. Mind that the
+- The rest of the code is standard Nancy and Razor code. Mind that the
     Razor view (the .cshtml-file) needs to be set to ["Copy if
     newer"](http://www.marcusoft.net/2013/02/NancyViewTesting.html) in
     the Properties window, Copy to output directory in order for

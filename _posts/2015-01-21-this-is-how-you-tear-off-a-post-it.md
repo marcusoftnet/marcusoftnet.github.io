@@ -4,9 +4,11 @@ title: "Things I say often: NO! This is how you tear off a post-it"
 author: "Marcus Hammarberg"
 date: 2015-01-21 07:01:10
 tags:
- - Agile
+
+  - Agile
  - Scrum
- - Kanban
+
+  - Kanban
  - Things I say often
 ---
 

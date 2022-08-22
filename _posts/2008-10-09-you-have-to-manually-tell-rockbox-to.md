@@ -1,7 +1,6 @@
 ---
 layout: post
-title: You have to manually tell RockBox to charge via
-USB
+title: You have to manually tell RockBox to charge via USB
 date: '2008-10-09T13:50:00.003+02:00'
 author: Marcus Hammarberg
 tags:

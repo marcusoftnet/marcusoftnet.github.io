@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Specification by example with SpecFlow in TFS
-and the question of traceability
+title: Specification by example with SpecFlow in TFS and the question of traceability
 date: '2011-01-07T22:33:00.002+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD - TFS - Agile - SpecFlow
+  - BDD
+  - TFS
+  - Agile
+  - SpecFlow
 modified_time: '2011-01-13T21:18:16.228+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TSeGuHKFJKI/AAAAAAAAArM/XjCCauGjlF0/s72-c/specws_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4541921553992432260
@@ -51,7 +53,6 @@ could be used in this workflow. Since I haven’t use the different work
 item types much I got together with Hugo (who is now my colleague!) and
 tried to flesh things out. This is our findings.
 
-
 ### Specification
 
 All the work that is done before a feature is implemented should of
@@ -61,7 +62,7 @@ link to it or read up on it before you get together but the important
 “handshake” is the .feature-file and the scenarios in it.
 It’s here we, together write down our common understanding of the
 functionality. A good place to do this is in the Sprint planning meeting
-(for Scrum) or an early stage of your agile process. 
+(for Scrum) or an early stage of your agile process.
 [<img
 src="http://lh5.ggpht.com/_TI0jeIedRFk/TSeGuHKFJKI/AAAAAAAAArM/XjCCauGjlF0/specws_thumb%5B2%5D.jpg?imgmax=800"
 title="All roles bring their respective background to the specification workshop"
@@ -134,9 +135,9 @@ But the good news is that we can create a scenario that shows how to
 reproduce the bug, as a SpecFlow scenario. When that is done and the bug
 is fixed we can do two things to keep the traceability chain intact:
 
-1.  Resolve the bug at check-in, or whatever your state diagram allow
+1. Resolve the bug at check-in, or whatever your state diagram allow
     the developer to do
-2.  In the test case where the bug is found, the developer can create an
+2. In the test case where the bug is found, the developer can create an
     <a href="http://msdn.microsoft.com/en-us/library/dd553273.aspx"
     target="_blank">Associated Automation</a>. This is a field where you
     can point to different kind of automated test; among others Unit
@@ -153,24 +154,24 @@ title="linking work items and features" data-border="0"
 style="background-image: none; border-bottom: 0px; border-left: 0px; border-right: 0px; border-top: 0px; display: block; float: none; margin-left: auto; margin-right: auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
 width="502" height="437" alt="linking work items and features" />](http://lh5.ggpht.com/_TI0jeIedRFk/TSg0YPS8k-I/AAAAAAAAArY/wAktg6mYekY/s1600-h/linking%20work%20items%20and%20features%5B8%5D.png)
 
-1.  User story work items contains the “raw” requirements and links to
+1. User story work items contains the “raw” requirements and links to
     any documents that is needed to understand the story.
-2.  The user story and other background information is used to create a
+2. The user story and other background information is used to create a
     feature file, for example in a sprint planning meeting.
     The feature will be our executable specification during development
     and afterwards serve as a regression verification of our systems
     current state
-3.  A test leader create a test plan to plan the exploratory testing of
+3. A test leader create a test plan to plan the exploratory testing of
     the system.
-4.  This plan contains many different test cases that states how the
+4. This plan contains many different test cases that states how the
     tests should be conducted. The test cases tests a user story and
     describes the different stages of the test, with expected outcome.
-5.  If a bug is found it’s assigned to a developer
-6.  The developer creates scenario that shows how the bug can be
+5. If a bug is found it’s assigned to a developer
+6. The developer creates scenario that shows how the bug can be
     reproduced.
-7.  The scenario and the corrections in the system are associated with
+7. The scenario and the corrections in the system are associated with
     the bug at check-in time.
-8.  Finally the developer returns to the test case and associate the
+8. Finally the developer returns to the test case and associate the
     scenario as an associated automation, for later automation.
 
 ### Conclusion

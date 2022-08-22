@@ -1,11 +1,11 @@
 ---
 layout: post
-title: In SpecFlow–a test runner is just glue
+title: In SpecFlow the test runner is just glue
 date: '2011-02-10T01:34:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2011-02-10T01:34:51.789+01:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVMykeuNQqI/AAAAAAAAA4w/41Mn4IdgjXc/s72-c/stupid%20steps%20in%20scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1569234750775344083
@@ -18,8 +18,6 @@ running <a href="http://www.specflow.org" target="_blank">SpecFlow</a>
 scenarios with MSTest. That shouldn’t be I thought to myself – in
 SpecFlow the test runner is only used for the auto-generated stuff (#2
 in this pictures) and shouldn’t affect the code you write. Lets try it.
-
-
 
 The default test runner is NUnit so first I simply create a new
 Specs-project and created the following scenario:

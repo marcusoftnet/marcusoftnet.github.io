@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Testing with Unity, Policy injection and solving
-“Ambiguous match found. (Strategy type Instance Interception Strategy”
-problem
+title: Testing with Unity, Policy injection and solving “Ambiguous match found. (Strategy type Instance Interception Strategy” problem
 date: '2010-03-16T13:04:00.001+01:00'
 author: Marcus Hammarberg
 tags:

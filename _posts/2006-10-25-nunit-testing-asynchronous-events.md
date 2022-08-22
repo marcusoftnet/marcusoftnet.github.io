@@ -15,8 +15,7 @@ In my current project we are using a some asynchronous webservice method calls. 
 actual call are in turn encapsulated in a layer that is used by the GUI,
 the "ClientCommand"-layer.
 
-However when writing tests for these method we ran into <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">trouble....
+However when writing tests for these method we ran into trouble....
 First the NUnit-framework is not very
 good at handling events at all, but by using this excellent
 [article](http://www.peterprovost.org/archive/2005/05/29/3497.aspx) by

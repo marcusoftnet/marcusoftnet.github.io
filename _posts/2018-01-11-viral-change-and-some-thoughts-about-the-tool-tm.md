@@ -4,9 +4,11 @@ title: "Viral Change and some thoughts about tools"
 author: "Marcus Hammarberg"
 date: 2018-01-11 11:47:47
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 The other day a co-worker (Anders - awesome guy!) pointed me to a change management tool/methodology called [Viral Change](http://www.viralchange.com/). I read about it and got quite hooked I have to say, but I'm not yet ready to make a report on how it works or it's merited.

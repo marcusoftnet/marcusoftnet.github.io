@@ -4,7 +4,8 @@ title: "Impacts or backlogs"
 author: "Marcus Hammarberg"
 date: 2017-05-31 13:12:24
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

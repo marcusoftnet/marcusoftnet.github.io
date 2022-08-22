@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 'Team Yayasan week 2: Transparency, culture and
-lower WIP'
+title: 'Team Yayasan week 2: Transparency, culture and lower WIP'
 date: '2014-03-08T14:10:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan - Lean - Kanban
-  - Salvation Army -
-Indonesia
+  - Team Yayasan
+  - Lean
+  - Kanban
+  - Salvation Army
+  - Indonesia
 modified_time: '2014-03-17T02:37:31.547+01:00'
 thumbnail: http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6567161020781209891
@@ -37,16 +38,13 @@ write what's really happening? Yes - this will be our experiences, as
 they happen. It's just us. But I think and hope that it will be
 interesting to follow.
 
-
-
 ### Team Yayasan
 
 We left the board as it was on the Friday and started the week by
 reminding ourselves about what we talked about on the retrospective:
 
-
--   Limit the number of items in Doing to max 14
--   Classify new items in S, M or L in effort. 
+- Limit the number of items in Doing to max 14
+- Classify new items in S, M or L in effort.
 
 <div>
 
@@ -64,15 +62,13 @@ data-border="0" width="240" height="320" /></a>
 
 </div>
 
-
-
 <div>
 
 Pretty soon we realised that we rather than use the limit as a max we
 filled the Doing column to the limit all the time. This caused a problem
 in more than one way, since it did not only hurt our focus and the lead
 time for the items. But also we started to have a hard time, actually
-see items. Here you can see how things is hiding under each other. 
+see items. Here you can see how things is hiding under each other.
 
 </div>
 
@@ -87,8 +83,6 @@ data-border="0" width="240" height="320" /></a>
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -115,6 +109,7 @@ Indonesian) but often it's full of items (7 is our "record" so far).
 
 To get some more control over what happened we decide to do two things
 with items in the waiting column:
+
 - First each item needs a sticky attached to it that state the reason
 for our waiting, or blockage
 - Secondly, each day we put a little dot on the waiting sticky to show
@@ -145,8 +140,6 @@ focus. So with 6 items in Waiting we only had 8 items to work with.
 
 <div>
 
-
-
 </div>
 
 <div>
@@ -156,13 +149,11 @@ decided to run the retrospective on the Thursday instead. Looking
 through the board we found that one item had been waiting a very long
 time. It had to do with reporting from the hospitals. We suspect that
 it's tricky and complicated and hence set off a couple of hours next
-week to see if we can do something about that. 
+week to see if we can do something about that.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -170,7 +161,7 @@ week to see if we can do something about that. 
 
 We also added a new criteria for putting items in the Todo-column: They
 need a "definition of done" so we know what we're supposed to do with
-them. Preferable we can answer "When this is done we have ...". 
+them. Preferable we can answer "When this is done we have ...".
 
 </div>
 
@@ -194,8 +185,6 @@ data-border="0" width="320" height="240" /></a>
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -227,13 +216,11 @@ how we hit a some walls during the week. We, Team Yayasan, have
 Transparency as our guiding star and try to strive for more transparency
 (with**in** the Salvation Army I might add, we're not exposing ourselves
 outwards... oh well this blog maybe then). This is news and very scary
-to a lot of people around us. 
+to a lot of people around us.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -242,13 +229,11 @@ to a lot of people around us. 
 During the last week we had a couple of encounters where we thought we
 asked simple, non-threating questions but was met with very strong
 reactions of protection and blaming others. Strange in our eyes. We also
-became a bit sad about this. 
+became a bit sad about this.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -258,20 +243,18 @@ But on the Tuesday we had a chat around this in the team. We agreed that
 as long as we think that we are doing the right thing by pushing for
 more transparency, and we have the blessings from people above us - we
 could press on. Some resistance was expected. We just have to stand
-together and keep pushing. 
+together and keep pushing.
 
 </div>
 
 <div>
 
 I also went to a higher authority and asked if we where going down the
-wrong route and should back off. We shouldn't. 
+wrong route and should back off. We shouldn't.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -280,7 +263,7 @@ wrong route and should back off. We shouldn't. 
 I firmly think that transparency only brings good things in it's tracks.
 I'm sure there's a limit for it somewhere (legal of course) but I have
 yet to find it. It's in any case a great guiding star and our team will
-keep going for it. 
+keep going for it.
 
 </div>
 

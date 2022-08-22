@@ -4,7 +4,8 @@ title: "A walking retrospective that only turns up the good"
 author: "Marcus Hammarberg"
 date: 2017-04-27 16:31:35
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Tools
 ---

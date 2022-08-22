@@ -13,8 +13,7 @@ Everybody who knows me knows my
 feelings on doing complex WebGUI. In short i think it is
 stupid - and also i have never met a developer yet who can show me a
 robust and simple way of managing the events of a web page. It is
-always, always fixes like; hidden fields, setting stuff in <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">prerender etc
+always, always fixes like; hidden fields, setting stuff in prerender etc
 etc.
 
 So my personal opinion of this is - don't do it! Web is for simple

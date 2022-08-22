@@ -4,7 +4,9 @@ title: Some thoughts on KPI’s in agile organizations
 date: '2012-02-13T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Life of a consultant - Kanban - Agile
+  - Life of a consultant
+  - Kanban
+  - Agile
 modified_time: '2012-02-13T08:00:06.894+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5306069240380609300
 blogger_orig_url: http://www.marcusoft.net/2012/02/some-thoughts-on-kpis-in-agile.html ---

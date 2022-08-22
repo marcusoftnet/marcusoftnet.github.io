@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2019-11-28 10:20:43
 tags:
   - Life of a consultant
- - Tools
+  - Tools
 ---
 
 In my current job, as Head of Quality and Curriculum at [</salt>](https://salt.dev), my thirst for being data-driven is frequently useful. In particular when it comes to test results for the developers in our courses. We test the developers every weekend (for 10/13 weeks) and we have now run 4 courses using the same tests... A gold mine of knowledge if you can mine it.
@@ -90,8 +90,6 @@ One thing that I am not happy about, but it's good enough, is that the lower are
 
 Now we want to summarize the result of all classes - each class has a Google Sheet with their results stored in, and we need to get that data into one aggregated sheet where we can draw a chart, like the one for one class, but for all classes.
 
-
-
 But first, let's talk about summarizing the data. I consulted a friend and master-statistician; [Dan Vacanti](https://leanpub.com/u/daniel_vacanti) to ask how to summarize percentiles:
 
 > Top 10% of the top 10% of 4 classes is not really the top 10%? Should I do the average top 10% or the median top 10%?
@@ -111,11 +109,7 @@ There's a very powerful function in Google Sheets called [IMPORTRANGE](https://s
 
 It's quite amazing because that function will now go out to the reference Google Sheet and import this range into the cell where you enter the formula. With  `=IMPORTRANGE("http://https://docs.google.com/spreadsheets/d/[id here]", "TestDataAggregation!B2:O38")` in cell B1 we will get all that data imported.
 
-
-
 I knew about IMPORTRANGE since before and I also knew about the powerhouse of a function called QUERY. QUERY takes a range of cells and then a [SQL-statement](https://developers.google.com/chart/interactive/docs/querylanguage). It's crazy!? You can write SQL-statements on top of Google Sheets. I've used this a lot, for example in my [Kanban Stats board](https://docs.google.com/spreadsheets/d/1lmlelcMdvo1SvQ0JZXraGYQxnZ5TNZ5qxUj5CapJn40/edit#gid=1846043679), described in some blog posts.
-
-
 
 But what I found out yesterday was how Google Sheet lets you combine ranges. Because I now had 4 sheets with data for each class that I wanted to, not only IMPORTRANGE but also combine into one big range. And clean up a bit, as we have some summary rows in the middle of the data (i.e. MEDIAN result per mob).
 
@@ -126,8 +120,6 @@ First, combining ranges can be done using the following syntax `={Range1;Range2;
 Note that `={Range1,Range2,Range3}` instead will create a new result range with 9 columns and 3 rows. In this case, the number of rows needs to be the same in the ranges.
 
 (If you, like me, couldn't spot the difference... `;` to append rows, `,` to append columns).
-
-
 
 IMPORTRANGE gives us a range. And QUERY operates on a range. And now we know how to combine ranges. Which means that our resulting formula will look something like this:
 
@@ -152,8 +144,6 @@ I've formatted this for readability (pro tip: this can be entered like this usin
   * The QUERY has a few interesting attributes
     * Since IMPORTRANGE might get its data from different named columns we need to use the `Col1, Col2, Col3` syntax. This is highlighting the only drawback I've noticed with the QUERY-function; reordering the columns will mess up queries.
     * I then filter out all rows where `Col1` (where the name of the developer or the string 'Mob Average' is stored) is `'Mob average'` or `Mob Average`... Spelling and casing - gets me every time.
-
-
 
 And that is a wrap - we now get the data from 3 different sheets combined into one big range.
 

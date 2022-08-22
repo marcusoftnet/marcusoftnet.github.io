@@ -5,6 +5,7 @@ date: '2009-10-28T12:47:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - Agile
 modified_time: '2009-10-28T12:47:00.792+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-541360700060127361

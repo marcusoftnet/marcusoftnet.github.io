@@ -35,9 +35,7 @@ until... today!
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -47,9 +45,7 @@ quality of their furniture. Enough said!
 
 </div>
 
-<div>
 
-</div>
 
 
 

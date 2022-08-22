@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Save some space - limit the number of old test
-results
+title: Save some space - limit the number of old test results
 date: '2009-02-02T22:27:00.001+01:00'
 author: Marcus Hammarberg
 tags:
+
   - TDD
 modified_time: '2010-12-14T16:20:33.223+01:00'
 thumbnail: http://lh5.ggpht.com/\_kkDJOSPNTLs/SYdlJbNkQtI/AAAAAAAAAhM/mO2snzO8AfM/s72-c/testresults_thumb%5B1%5D.jpg?imgmax=800

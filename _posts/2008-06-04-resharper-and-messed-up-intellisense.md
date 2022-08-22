@@ -43,9 +43,7 @@ id="BLOGGER_PHOTO_ID_5207973727461281282"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
 
-<div>
 
-</div>
 
 <div>
 

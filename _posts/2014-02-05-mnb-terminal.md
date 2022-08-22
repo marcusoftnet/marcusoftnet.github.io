@@ -6,7 +6,8 @@ date: '2014-02-05T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript - Life of a
-consultant - Agile
+consultant
+  - Agile
 modified_time: '2014-06-02T10:56:52.504+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2426962620931304334
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-terminal.html ---

@@ -5,7 +5,9 @@ date: '2011-01-27T09:27:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - MobProgramming - BDD
-  - .NET - ÖreDev - Kanban - Agile - CQRS
+  - .NET - ÖreDev
+  - Kanban
+  - Agile - CQRS
 modified_time: '2014-06-02T10:56:52.530+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7262514878258726848
 blogger_orig_url: http://www.marcusoft.net/2011/01/cqrsanother-love-story.html ---

@@ -13,8 +13,7 @@ new capabilities of our new workplace -
 The voice of the guy doing the presentations is driving me mad (he
 sounds like the bad guy from Seven) but it works.
 
-By the way - I've just downloaded <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">SilverLight
+By the way - I've just downloaded SilverLight
 (runtime,
 i think) from Microsoft. And all of a sudden a lot of their pages looks
 so nice and has some really cool features.

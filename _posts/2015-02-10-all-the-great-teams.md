@@ -4,11 +4,13 @@ title: "All the great teams"
 author: "Marcus Hammarberg"
 date: 2015-02-10 07:07:37
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
  - Scrum
- - Kanban
+
+  - Kanban
 ---
 
 I reflected a little bit about the great teams I've had the honor to be part of. It's just a few out of all the teams that I've been part of that I would call great. But they all shared some common traits.

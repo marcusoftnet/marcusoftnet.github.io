@@ -4,7 +4,8 @@ title: "What is The Goal?"
 author: "Marcus Hammarberg"
 date: 2014-12-22 10:10:37
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

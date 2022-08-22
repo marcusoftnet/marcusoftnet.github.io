@@ -6,7 +6,8 @@ date: 2015-06-01 09:11:03
 tags:
  - Tools
  - Marcus private
- - Agile
+
+  - Agile
 ---
 
 This is a very hands-on post, since I thought the last couple of ones (including the one I just threw away) was a bit high flying.

@@ -4,6 +4,7 @@ title: 'Plans are theoretical'
 author: 'Marcus Hammarberg'
 date: 2021-12-09 11:44:17
 tags:
+
   - Agile
   - Management
 ---

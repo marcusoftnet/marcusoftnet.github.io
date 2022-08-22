@@ -4,10 +4,12 @@ title: "What I've learned from the first 30% of Reinventing Organizations"
 author: "Marcus Hammarberg"
 date: 2015-04-21 16:58:27
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Leadership
- - Kanban
+
+  - Kanban
 ---
 
 I'm reading [Reinventing Organizations](www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501) right now and it's an inspiring read to say the least. Finally someone puts words and structure to what I've tried to do, achieve and explain to others.

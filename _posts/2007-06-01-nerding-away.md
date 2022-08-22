@@ -4,8 +4,8 @@ title: Nerding away...
 date: '2007-06-01T08:39:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant - Fun
+  - .NET
+  - Life of a consultant - Fun
 modified_time: '2007-06-01T08:43:54.742+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310265368623382915
 blogger_orig_url: http://www.marcusoft.net/2007/06/nerding-away.html ---

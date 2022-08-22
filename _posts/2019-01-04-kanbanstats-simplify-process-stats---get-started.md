@@ -4,10 +4,12 @@ title: "KanbanStats: Simplify process stats - get started"
 author: "Marcus Hammarberg"
 date: 2019-01-04 11:40:19
 tags:
- - Agile
+
+  - Agile
  - Scrum
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 **UPDATE**

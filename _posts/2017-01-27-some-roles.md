@@ -4,7 +4,8 @@ title: "Some roles I take on - and what they are"
 author: "Marcus Hammarberg"
 date: 2017-01-27 20:10:00
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

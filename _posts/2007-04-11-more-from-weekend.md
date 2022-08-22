@@ -45,9 +45,7 @@ Here are some more pictures from the beautiful [Hypplen](http://www.hitta.se/Sea
 
 </div>
 
-<div>
 
-</div>
 
 
 

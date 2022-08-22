@@ -7,8 +7,7 @@ tags:
   - VB.NET
   - Visual Studio
 modified_time: '2010-12-14T16:19:05.578+01:00'
-thumbnail:
-http://2.bp.blogspot.com/\_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s72-c/solutionprops2.JPG
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s72-c/solutionprops2.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1604975735963282913
 blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-showing-build-configuration.html
 ---
@@ -28,12 +27,6 @@ while.
 
 <div>
 
-</div>
-
-
-
-<div>
-
 In VB.NET the current configuration (Debug/Release) is not shown. This
 is quite confusing if you are setting properties on a project, for
 instance. Which configuration are you setting the property for?
@@ -42,21 +35,9 @@ instance. Which configuration are you setting the property for?
 
 <div>
 
-</div>
-
-
-
-<div>
-
 Here is the solution; it turns out that VB.NET is hiding the
 configuration for you by default. So to show them again go:
 Tools-\>Options-\>Projects and Solutions-\>Show advanced build
 configurations
-
-</div>
-
-
-
-<div>
 
 </div>

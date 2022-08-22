@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ASP.NET MVC "The parameters dictionary contains
-a null entry for parameter”
+title: ASP.NET MVC "The parameters dictionary contains a null entry for parameter”
 date: '2009-03-12T20:40:00.001+01:00'
 author: Marcus Hammarberg
 tags:

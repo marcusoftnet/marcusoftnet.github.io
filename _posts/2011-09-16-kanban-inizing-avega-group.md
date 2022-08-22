@@ -6,7 +6,9 @@ date: '2011-09-16T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-  - Kanban - Agile
+
+  - Kanban
+  - Agile
 modified_time: '2011-09-16T09:00:11.577+02:00'
 thumbnail: http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2993379680989849936

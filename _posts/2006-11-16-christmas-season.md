@@ -22,8 +22,7 @@ lot of more professional bands around, i can
 promise you.
 
 One thing that strikes me every year this happens (i.e. almost every
-year) is that it's so easy to get lost in the busy-ness <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">surrounding
+year) is that it's so easy to get lost in the busy-ness surrounding
 Christmas. This is also well known, we say this to each
 other each year; but do we remember the true reason for Christmas: Jesus
 and his coming to this earth for you and

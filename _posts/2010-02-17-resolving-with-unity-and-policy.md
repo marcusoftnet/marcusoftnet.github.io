@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Resolving with Unity and Policy Injection using
-extension methods
+title: Resolving with Unity and Policy Injection using extension methods
 date: '2010-02-17T11:05:00.001+01:00'
 author: Marcus Hammarberg
 tags:

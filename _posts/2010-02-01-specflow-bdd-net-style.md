@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - BDD -
 Tools
-  - .NET - TDD
+  - .NET
+  - TDD
 modified_time: '2010-12-14T16:22:38.168+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1344077807142885649
 blogger_orig_url: http://www.marcusoft.net/2010/02/specflow-bdd-net-style.html ---

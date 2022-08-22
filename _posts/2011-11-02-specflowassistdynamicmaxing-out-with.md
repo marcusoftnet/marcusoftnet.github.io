@@ -1,14 +1,15 @@
 ---
 layout: post
-title: SpecFlow.Assist.Dynamic–maxing out with
-Simple.Data
+title: SpecFlow.Assist.Dynamic–maxing out with Simple.Data
 date: '2011-11-02T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
-  - .NET - Specification by example - C# -
-SpecFlow
+  - .NET
+  - Specification by example
+  - C#
+  - SpecFlow
 modified_time: '2011-11-03T16:34:05.677+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-508246732156716014
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
@@ -29,7 +30,6 @@ is not the formal documentation. It can be found
 target="_blank">here</a>. These are just my personal preferences and
 thoughts on how to use it. This time with Simple.Data. And it won’t be
 long.
-
 
 ### SpecFlow and Simple.Data
 
@@ -110,7 +110,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 SpecFlow.Assist.Dynamic will convert the “First name” header into
 “FirstName” as you <a
 href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki/Conventions-used"
@@ -121,8 +120,6 @@ marked with the attribute BeforeScenario. And while I’m there I clear
 out the Accounts table as well:
 
 <div id="codeSnippetWrapper">
-
-
 
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
@@ -163,7 +160,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 
 </div>
 
-
 In the Given step I’m using the step argument transformations that comes
 with SpecFlow.Assist.Dynamic and get a <span
 style="font-family: 'Courier New';">IList\<dynamic\> from the
@@ -202,7 +198,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
 
 Bom! Table loaded – one line.
 In the When-step I have faked up a controller. Here I am using
@@ -247,7 +242,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
 
 The actual FakeAccountController looks like this:
 <span id="lnum1"
@@ -324,7 +318,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
 
 Finally the Then-step compares the Table from the scenario to the
 content of the database. For now I just compare the number of rows,

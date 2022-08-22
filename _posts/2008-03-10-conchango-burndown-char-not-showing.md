@@ -4,6 +4,7 @@ title: Conchango burndown chart is not working
 date: '2008-03-10T11:17:00.007+01:00'
 author: Marcus Hammarberg
 tags:
+
   - TFS
   - Scrum
 modified_time: '2010-12-14T16:22:51.435+01:00'
@@ -42,11 +43,9 @@ item](http://scrumforteamsystem.com/processguidance/v2/Process/TheSprint/Sprints
 caused me a lot of worries.
 
 As far as i can understand the Sprint work item is a representation of
-all the work items being worked on in a sprint. However <span
-id="SPELLING_ERROR_5" class="blsp-spelling-error">Conchango has
+all the work items being worked on in a sprint. However Conchango has
 chosen to build these upon the
-Areas and iterations that is inherited living in <span
-id="SPELLING_ERROR_7" class="blsp-spelling-error">TFS. This is a
+Areas and iterations that is inherited living in TFS. This is a
 bit confusing... or maybe not but one of the reports are: All sprints
 that returns 12 sprints when only 3 sprints is added to areas and
 iterations.

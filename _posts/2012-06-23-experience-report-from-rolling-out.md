@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Experience report from rolling out agile in a
-big (120+ ppl) organization
+title: Experience report from rolling out agile in a big (120+ ppl) organization
 date: '2012-06-22T21:43:00.002+02:00'
 author: Marcus Hammarberg
 tags:
@@ -29,8 +28,6 @@ Let me first state that not everything in this article is based from
 experience from this one client. If you read this and work there; not
 all of this happened at your place. Know this - it's the same at a lot
 of places where I've coached.
-
-
 
 ### You need a WHY
 
@@ -63,7 +60,7 @@ to do this. Compare:
 
 > "We cannot not do this the way we work today" vs "We need to work that
 > way - what should we change?"<span
-> style="background-color: white"> 
+> style="background-color: white">
 
 Finally - the WHY cannot come from the outside. You cannot bring an
 urgency to change with you as an outside consultant - it must come from
@@ -110,7 +107,6 @@ games are silly) followed by a discussion. It's the best thing I know to
 run a game and suddenly see the penny drop for people. I've never seen
 that happend from one second to another while doing a presentation.
 
-
 The games I've used lately is
 <a href="http://www.netobjectives.com/resources/articles/the-dot-game/"
 target="_blank">the Dot Game</a> (link requires free registration) to
@@ -155,15 +151,15 @@ modelled after the
 <a href="http://sumpanleancoffee.wordpress.com/" target="_blank">Lean
 Coffee</a> concept;
 
--   <span style="background-color: white">get people who are interested
+- <span style="background-color: white">get people who are interested
     together
--   <span style="background-color: white">put together a short agenda
+- <span style="background-color: white">put together a short agenda
     for the meeting by asking people what they want to talk about.
     Anything goes here but related to agile or lean is a given
--   <span style="background-color: white">talk for time boxed period of
+- <span style="background-color: white">talk for time boxed period of
     time (7 minutes) and when it's up vote if you want to continue or
     not
--   <span style="background-color: white">make a mind-map of what you
+- <span style="background-color: white">make a mind-map of what you
     talked about
 
 We created this as a knowledge sharing room for the people in the

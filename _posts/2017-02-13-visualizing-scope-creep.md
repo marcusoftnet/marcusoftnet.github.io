@@ -4,7 +4,8 @@ title: "An idea for visualising scope creep"
 author: "Marcus Hammarberg"
 date: 2017-02-13 20:10:00
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

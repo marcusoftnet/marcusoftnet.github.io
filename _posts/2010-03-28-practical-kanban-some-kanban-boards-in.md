@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Practical Kanban – some Kanban boards in
-practices
+title: Practical Kanban – some Kanban boards in practices
 date: '2010-03-28T12:07:00.001+02:00'
 author: Marcus Hammarberg
 tags:

@@ -5,7 +5,8 @@ author: "Marcus Hammarberg"
 date: 2017-10-20 11:05:40
 tags:
  - Lean
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

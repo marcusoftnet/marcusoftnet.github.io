@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private - Lean
   - Life of a consultant
+
   - Agile
 modified_time: '2014-10-27T05:20:56.862+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6023087985767811697

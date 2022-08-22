@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Creating a local NuGet repository with
-dependencies bundles
+title: Creating a local NuGet repository with dependencies bundles
 date: '2011-09-01T15:07:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -36,8 +35,6 @@ In this post I’ll show you how to easily create a  local package where
 you can setup the dependencies you want. And how to use it in your
 solution.
 
-
-
 #### Strategy
 
 Our sneaky plan is to basically create a package that only has
@@ -58,8 +55,8 @@ follow the first 4 steps in <a
 href="http://gregorsuttie.wordpress.com/2011/01/03/using-a-nuget-local-repository/"
 target="_blank">this excellent blog post</a> or just go:
 
--   Create a folder (mine is in C:\Dev\LocalNuGet)
--   In Visual Studio go Tools-\>Library Package Manager-\>Package
+- Create a folder (mine is in C:\Dev\LocalNuGet)
+- In Visual Studio go Tools-\>Library Package Manager-\>Package
     Manager Settings and add your path above to the Package Sources:
 
 [<img
@@ -69,7 +66,7 @@ style="background-image: none; border-bottom: 0px; border-left: 0px; margin: 0px
 data-border="0" width="404" height="234"
 alt="adding new nuget package source" />](http://lh6.ggpht.com/-jW0Q6Ymm4vk/Tl-Qmqj4qkI/AAAAAAAABBg/3tXjLnqUNrs/s1600-h/adding%252520new%252520nuget%252520package%252520source%25255B2%25255D.jpg)
 
--   Double check that everything is fine, by going to the Package
+- Double check that everything is fine, by going to the Package
     Manager console and try to select your package source in the drop
     down for Package Source:
 
@@ -129,12 +126,12 @@ is great if you want to update version etc.
 
 To test your handiwork do this:
 
--   Open a project that you want to add your package to
--   Go to Package Manager console
--   Pick your Package Source (as above)
--   Type “Install-Package" and hit tab. This will show your local
+- Open a project that you want to add your package to
+- Go to Package Manager console
+- Pick your Package Source (as above)
+- Type “Install-Package" and hit tab. This will show your local
     packages
--   Pick your package and hit Enter. And lo and behold:
+- Pick your package and hit Enter. And lo and behold:
 
 [<img
 src="http://lh3.ggpht.com/-8EHw-IxVTOY/Tl-QtMW7BgI/AAAAAAAABCM/rdj69ccGrWI/the%252520magic_thumb.jpg?imgmax=800"
@@ -154,12 +151,12 @@ bundle. That will remove it with it’s dependencies.
 You can build packages that build on top of each other. For example you
 can have:
 
--   SpecFlowWithNUnit – just
+- SpecFlowWithNUnit – just
     <a href="www.specflow.org" target="_blank">SpecFlow</a> and NUnit.
--   SpecFlowWithNunitAndShould – which has a dependency to your local
+- SpecFlowWithNunitAndShould – which has a dependency to your local
     package SpecFlowWithNUnit and adds dependency to Should from the
     official source
--   SpecFlowWithNUnitAndShouldAndMoq – … you get the picture.
+- SpecFlowWithNUnitAndShouldAndMoq – … you get the picture.
 
 In this example I added dependencies to specific version of the other
 NuGet package. This can be done by simply removing the version number of

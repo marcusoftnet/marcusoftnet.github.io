@@ -5,6 +5,7 @@ date: '2008-02-28T15:45:00.003+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - TFS
   - Scrum
 modified_time: '2008-02-28T15:57:33.878+01:00'
@@ -32,16 +33,14 @@ will be just an other place to do time sheets - it wont be done!
 
 Also the GUI (as I've seen it) is not very good
 for moving things around. It is not agile at all, if you get what i
-mean. The easy "moving yellow stickers" methodology is <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">completely
+mean. The easy "moving yellow stickers" methodology is completely
 out of the way and a "update your work items. NOW!" - feeling is
 there in its place.
 
 However, there might be a way out of this. There is an [<span
 id="SPELLING_ERROR_5"
 class="blsp-spelling-error">EpiServer](http://www.episerver.com/en/)
-site-template that you can run on top of the <span
-id="SPELLING_ERROR_7" class="blsp-spelling-error">Conchango
+site-template that you can run on top of the Conchango
 template with might, just might, be the solution. [Here it
 is](http://www.codeplex.com/scrumdashboard).
 

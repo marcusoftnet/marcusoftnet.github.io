@@ -16,15 +16,13 @@ code you want a way to be sure that the quality of the comments are as
 good as they can be, and in the earliest stage possible.
 
 One way to accomplish this would have the compiler to issue an warning
-for all missing, faulty or <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">un-matched
+for all missing, faulty or un-matched
 comments it finds during compilation. In Visual Studio 2005 and C# this
 is very easy by setting the warning level to 4, treat all warning as
 errors and generating XML documentation.
 
 VB.NET however... is another story all together, and again i understand
-that this is a choice. It's like a philosophy of the <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">language;
+that this is a choice. It's like a philosophy of the language;
 VB.NET stands for simplicity and getting help from the environment where
 C# stands for control and managing the nitty-gritty details. However AI or
 help from the environment in my opinion very often leads to

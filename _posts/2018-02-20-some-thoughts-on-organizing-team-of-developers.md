@@ -4,9 +4,11 @@ title: "Some thoughts on organizing a team of developers"
 author: "Marcus Hammarberg"
 date: 2018-02-20 08:34:00
 tags:
- - Agile
+
+  - Agile
  - Scrum
- - Kanban
+
+  - Kanban
  - Lean
 ---
 

@@ -4,8 +4,10 @@ title: "Some kanban questions from a keen learner, and my answers"
 author: "Marcus Hammarberg"
 date: 2015-12-07 11:05:30
 tags:
- - Kanban
- - Agile
+
+  - Kanban
+
+  - Agile
 ---
 
 I sometimes have the good fortune to get questions sent to me via email. Often they are very thought provoking and makes me put some (or in this case considerable) effort behind to be able to get a intelligent answer. Also, I try to share my answers on line to increase the learning possibilities.

@@ -4,7 +4,8 @@ title: "Scaling agile - up or out"
 author: "Marcus Hammarberg"
 date: 2019-02-26 16:34:46
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

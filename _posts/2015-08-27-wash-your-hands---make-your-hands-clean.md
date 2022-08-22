@@ -4,10 +4,12 @@ title: "Wash your hands - make your hands clean"
 author: "Marcus Hammarberg"
 date: 2015-08-27 08:04:21
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Indonesia
+
+  - Indonesia
 ---
 
 We're ready to sit down to eat. The kids comes running and I do the regular check-up: Nope - all hands, some of the faces covered in dirt. Me:

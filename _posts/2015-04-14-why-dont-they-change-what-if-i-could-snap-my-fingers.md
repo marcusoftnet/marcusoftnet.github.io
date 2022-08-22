@@ -4,7 +4,8 @@ title: "Why don't they change: what if I could just snap my fingers?"
 author: "Marcus Hammarberg"
 date: 2015-04-14 11:10:55
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Leadership
 

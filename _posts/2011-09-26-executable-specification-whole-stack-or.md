@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Executable specification - the whole stack or
-not
+title: Executable specification - the whole stack or not
 date: '2011-09-26T14:45:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - Specification by example
+  - .NET
+  - Specification by example
 modified_time: '2011-09-26T14:45:34.880+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3657259940402708159
 blogger_orig_url: http://www.marcusoft.net/2011/09/executable-specification-whole-stack-or.html
@@ -34,8 +34,6 @@ used by the application.
 And that's when it strikes us - this thing with test-data is really
 hard. And a bit slow also.
 
-
-
 #### Through the GUI
 
 Up to this summer I was all for the whole-stack approach since if you
@@ -56,7 +54,7 @@ cases or test completeness was executed against the “controller level”
 I liked that approach very much. In my last project we ran in to major
 problems with the test execution time. We had 300 acceptance tests that
 just took too long to execute and was also quite brittle due to some
-problems with out GUI automation tool of choice. 
+problems with out GUI automation tool of choice.
 
 So if you don’t have to – don’t go through the GUI.
 
@@ -77,14 +75,14 @@ through the whole stack and hit the database directly.
 If you go against a real database you have a few options for managing
 test-data:
 
--   Have setup/teardown method that creates (and deletes) the test data
+- Have setup/teardown method that creates (and deletes) the test data
     the tests need. This can in
     <a href="http://www.cukes.info" target="_blank">Cucumber</a>-like
     settings be accomplished with <a
     href="http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
     target="_blank">hooks and tags</a>. I would prefer this approach if
     there’s not too extensive test data to set up.
--   Create a test database with known test-data and restore it before
+- Create a test database with known test-data and restore it before
     the tests. Use this approach by selecting out some of your real data
     too be used in tests. You have test data in a known state.
 

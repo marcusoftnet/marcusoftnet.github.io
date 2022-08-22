@@ -1,13 +1,11 @@
 ---
 layout: post
-title: My mouse pointer disappeared in Visual Studio
-when using a dark theme
+title: My mouse pointer disappeared in Visual Studio when using a dark theme
 date: '2011-08-30T14:55:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - ife of a consultant
-
+  - Life of a consultant
   - Visual Studio
 modified_time: '2011-08-30T14:55:43.187+02:00'
 thumbnail: http://lh4.ggpht.com/-EQYi8VHYdsY/TlzdzRPCCoI/AAAAAAAABBc/yTVAO-CFSAw/s72-c/mouse%252520color%252520scheme_thumb%25255B2%25255D.jpg?imgmax=800
@@ -38,10 +36,10 @@ target="_blank">discussion here.</a> “for cursor, select a windows black
 mouse scheme in control panel.”. That means the following – I didn’t
 even know you could do this:
 
--   Open Control panel
--   Open Appearance and Personalization
--   Open Personalization
--   Finally – click Change mouse pointers. That will open this window:
+- Open Control panel
+- Open Appearance and Personalization
+- Open Personalization
+- Finally – click Change mouse pointers. That will open this window:
 
 [<img
 src="http://lh4.ggpht.com/-EQYi8VHYdsY/TlzdzRPCCoI/AAAAAAAABBc/yTVAO-CFSAw/mouse%252520color%252520scheme_thumb%25255B2%25255D.jpg?imgmax=800"
@@ -49,7 +47,7 @@ title="mouse color scheme"
 style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: block; float: none; margin-left: auto; border-top: 0px; margin-right: auto; border-right: 0px; padding-top: 0px"
 data-border="0" width="217" height="244" alt="mouse color scheme" />](http://lh4.ggpht.com/-ig5XHAUpXgc/TlzdyHpDVKI/AAAAAAAABBY/SMlq-8SJb0k/s1600-h/mouse%252520color%252520scheme%25255B4%25255D.jpg)
 
--   Select the Scheme called – Windows Black (system scheme)
+- Select the Scheme called – Windows Black (system scheme)
 
 This will turn the mouse pointer to a brighter color when going into a
 black windows. I can see again!

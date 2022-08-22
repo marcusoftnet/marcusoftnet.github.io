@@ -4,7 +4,8 @@ title: "What does technical debt feel like?"
 author: "Marcus Hammarberg"
 date: 2017-08-07 09:15:24
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Programming
 ---

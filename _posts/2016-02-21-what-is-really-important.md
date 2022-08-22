@@ -4,7 +4,8 @@ title: "What is important, really?"
 author: "Marcus Hammarberg"
 date: 2016-02-21 15:33:38
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
  - Marcus private

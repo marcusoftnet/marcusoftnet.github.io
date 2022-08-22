@@ -4,9 +4,11 @@ title: "Thinking in flow - some recent thoughts"
 author: "Marcus Hammarberg"
 date: 2018-05-28 20:47:34
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 I talk a lot about flow these days and I'm continuously fascinated how many good things follow by shifting our focus to supporting a better, faster and smoother flow.

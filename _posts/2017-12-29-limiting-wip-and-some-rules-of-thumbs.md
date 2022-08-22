@@ -4,8 +4,10 @@ title: "Limiting WIP and some rules of thumb"
 author: "Marcus Hammarberg"
 date: 2017-12-29 20:58:40
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
 ---
 

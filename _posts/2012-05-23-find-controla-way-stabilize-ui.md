@@ -6,7 +6,9 @@ date: '2012-05-23T11:07:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - Agile - SpecFlow
+  - .NET
+  - Agile
+  - SpecFlow
 modified_time: '2012-05-23T11:09:35.847+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4713664336685455661
 blogger_orig_url: http://www.marcusoft.net/2012/05/find-controla-way-stabilize-ui.html ---

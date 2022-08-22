@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Enterprise Library, OracleTypes and their
-mapping
+title: Enterprise Library, OracleTypes and their mapping
 date: '2008-08-27T08:46:00.003+02:00'
 author: Marcus Hammarberg
 tags:
@@ -38,20 +37,19 @@ defined in the database.
 
 To accomplish this I did some very small but useful tricks:
 
-
--   The OracleDatabase doesn't have a factory that takes the
+- The OracleDatabase doesn't have a factory that takes the
     connectionstring-name as parameter. So I used the standard factory
     to get the connection-string and passed it as a parameter into the
     constructor of the OracleDatabase-class. Like so:
        New OracleDatabase(DatabaseFactory.CreateDatabase(CONNECTIONSTRING_CONFIG_GBP).ConnectionString)
 
--   To get a OracleCommand rather than the standard DbCommand I created
+- To get a OracleCommand rather than the standard DbCommand I created
     a method that simple cast into the right command:
        Private Function SkapaOracleSPCommand(ByVal spNamn As String) As OracleCommand
                 Return DirectCast(m_gbpDB.GetStoredProcCommand(spNamn), OracleCommand)
         End Function
 
--   Finally I created two methods that creates OracleParameters, one for
+- Finally I created two methods that creates OracleParameters, one for
     in (with null-handling) and one for out-parameter (no value or size
     set):
            Private Function CreateOracleOutParameter(ByVal namn As String, ByVal typ As OracleType) As OracleParameter

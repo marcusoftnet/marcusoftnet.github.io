@@ -4,7 +4,9 @@ title: Some common Kanban questions–my suggestions
 date: '2012-01-23T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Life of a consultant - Kanban - Agile
+  - Life of a consultant
+  - Kanban
+  - Agile
 modified_time: '2012-01-23T08:00:09.381+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5823647146010711072
 blogger_orig_url: http://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html ---

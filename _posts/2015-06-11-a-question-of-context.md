@@ -8,7 +8,8 @@ tags:
   - Life of a consultant
 
   - Salvation Army
- - Indonesia
+
+  - Indonesia
 ---
 
 I have a story to tell you. It's mostly about me and my ignorance, I'm sad to say.

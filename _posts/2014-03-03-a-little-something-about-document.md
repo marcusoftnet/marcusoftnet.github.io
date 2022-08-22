@@ -1,7 +1,6 @@
 ---
 layout: post
-title: A little lesson about document database
-modelling
+title: A little lesson about document database modelling
 date: '2014-03-03T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
@@ -51,19 +50,19 @@ Check for errors
 Now loop over all the hashtags in the message ("a \#message like \#this
 \#contains 3 \#tags" for example)
 
-For each of the tags... 
+For each of the tags...
 
 add it to the database...
 
--   check for error and ... ? remove the post too? 
+- check for error and ... ? remove the post too?
 
 but if it exists I should instead get it and then update the array of
 posts and update the Hashtag
 
--   check for error and ... remove the post and stop processing further?
+- check for error and ... remove the post and stop processing further?
 
 When everything is completed - and no errors has occurred in any of the
-interactions with the database. 
+interactions with the database.
 
 And then callbacks on top of that... It got hairy I'm telling you.
 
@@ -71,13 +70,11 @@ And then callbacks on top of that... It got hairy I'm telling you.
 
 About this place I started to get second thoughts. Nothing had been this
 hard with Mongo before. And this is a really simple data model. It
-shouldn't be this hard. 
+shouldn't be this hard.
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -87,13 +84,11 @@ Often when I get that feeling I try to take a break. For about 24 h. And
 then approach the model again, as for the first time. I did that this
 time and when I got back the answer was bright and clear for me: "we
 don't need a Hashtag-collection. It's just what an old relation-dude
-like I wanted to keep the 'tables' in order". 
+like I wanted to keep the 'tables' in order".
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -105,8 +100,6 @@ like this:
 
 </div>
 
-
-
 <div>
 
 The "trick" can be found on line 7 (<span
@@ -117,7 +110,7 @@ style="font-family: 'Courier New', Courier, monospace;">hashtag in
 the <span
 style="font-family: 'Courier New', Courier, monospace;">hashtags array.".
 
-### Summary 
+### Summary
 
 </div>
 
@@ -129,7 +122,7 @@ relational databases what
 <a href="http://www.manning.com/petricek/" target="_blank">functional
 programming</a> is to object orientation. That is could can write the
 code in the same way as you did, but then you're missing out on the
-whole idea. 
+whole idea.
 
 </div>
 

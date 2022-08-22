@@ -4,7 +4,8 @@ title: "No #No - more #Less"
 author: "Marcus Hammarberg"
 date: 2015-05-25 16:36:41
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
  - Leadership
 ---

@@ -5,7 +5,8 @@ author: "Marcus Hammarberg"
 date: 2015-11-07 12:46:41
 tags:
  - Marcus private
- - Indonesia
+
+  - Indonesia
 ---
 
 Instead of posting this longish description in the social medias I thought I'd write it up here. That way it's easier to refer people here instead.

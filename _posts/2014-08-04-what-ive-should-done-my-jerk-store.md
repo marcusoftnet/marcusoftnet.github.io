@@ -6,9 +6,11 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
+
   - Kanban
   - crum
-   - Agile
+
+  - Agile
 modified_time: '2014-08-10T14:38:47.506+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7430677175134339617
 blogger_orig_url: http://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-store.html
@@ -178,7 +180,7 @@ was not taken into consideration.
     and frustration, but hopefully leading to something better. Define
     that better so that you can point towards this.
 -   Create a function that can take care of questions. Sending
-    information is \*\*not\*\* enough. Create a safe haven for asking
+    information is **not** enough. Create a safe haven for asking
     questions. 
 
 My good friend Håkan Forss have done a similar assignment (bigger scale)

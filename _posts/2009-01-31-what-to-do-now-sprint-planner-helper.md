@@ -8,8 +8,10 @@ tags:
   - .NET
   - ASP.NET MVC
   - Scrum
+
   - Agile
   - Sprint Planner Helper
+
   - TDD
 modified_time: '2009-01-31T12:50:41.134+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1759927773062858386

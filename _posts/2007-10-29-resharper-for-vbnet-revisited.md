@@ -12,8 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet-revisited
 Ok -
 i'll give
 Resharper
-another try - thanks to Ilya Ryzhenkov who <span
-id="SPELLING_ERROR_5" class="blsp-spelling-corrected">encouraged
+another try - thanks to Ilya Ryzhenkov who encouraged
 me to try again. In all honesty the crasches i experienced were all in a
 buildscript-file, XML-syntax.
 

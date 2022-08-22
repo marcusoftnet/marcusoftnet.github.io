@@ -19,8 +19,7 @@ LINQ.
 Here is the overview link:
 <http://msdn2.microsoft.com/en-us/bb629407.aspx>.
 
-Below it you'll find several different areas of <span
-id="SPELLING_ERROR_3" class="blsp-spelling-corrected">interest.
+Below it you'll find several different areas of interest.
 Here are my highlights:
 
 -   [Asp.NET with AJAX](http://www.asp.net/learn/ajax-videos/)

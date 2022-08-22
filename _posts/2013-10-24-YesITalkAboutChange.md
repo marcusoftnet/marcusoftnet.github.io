@@ -7,6 +7,7 @@ author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
+
   - Agile
 modified_time: '2013-11-12T21:04:53.237+01:00'
 thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png

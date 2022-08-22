@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Type '\[typename\]' is not CLS-compliant,
-interface, tests and dependency injection
+title: Type '\[typename\]' is not CLS-compliant, interface, tests and dependency injection
 date: '2008-03-05T13:43:00.010+01:00'
 author: Marcus Hammarberg
 tags:

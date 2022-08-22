@@ -7,6 +7,7 @@ tags:
   - BDD
   - Tools
   - Specification by example
+
   - SpecFlow
 modified_time: '2013-07-30T20:15:45.084+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5238097084946695251
@@ -65,9 +66,7 @@ and "sell" it to almost every client doing specification by example.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -82,9 +81,7 @@ around the early phases of Specification by example.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -100,9 +97,7 @@ looks a lot like what we dreamt of then. It will be great!
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -114,9 +109,7 @@ console (package manager I think it's called).
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -128,9 +121,7 @@ target="_blank">Pickles files in one zip</a>.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -162,9 +153,7 @@ MsBuild file that you can incorporate (or call) from your build script.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -172,9 +161,7 @@ The example build script shows it all really:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -219,9 +206,7 @@ You can try this out by openening a Visual Studio Command Prompt and go:
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -249,9 +234,7 @@ second contribution. I've created a little commandlet called
 
 To call into pickles you can do the following:
 
-<div>
 
-</div>
 
 Let's go through that one line by line too. You'll recognize the
 parameter names etc.:
@@ -279,9 +262,7 @@ samples.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -292,9 +273,7 @@ stop you from doing that.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

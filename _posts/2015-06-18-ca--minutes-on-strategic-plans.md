@@ -4,10 +4,12 @@ title: "ca 15 minutes on strategic plans"
 author: "Marcus Hammarberg"
 date: 2015-06-18 11:12:16
 tags:
- - Indonesia
+
+  - Indonesia
  - Lean
  - Leadership
- - Agile
+
+  - Agile
   - Life of a consultant
 
   - Salvation Army

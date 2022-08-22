@@ -35,9 +35,7 @@ something here.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

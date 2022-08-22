@@ -41,7 +41,7 @@ some steps on how to include the functionality in your build script:
 
    \<target name="CreateTRXReports"\>
     \<createitem
-    include="$(DropLocation)\\$(BuildNumber)\TestResults\\\*.trx"\>
+    include="$(DropLocation)\\$(BuildNumber)\TestResults\\*.trx"\>
     \<output itemname="trxfiles" taskparameter="Include"\>
     \</createitem\>
     \<ridotasks.trx2html filename="%(trxfiles.Identity)"\>
@@ -49,7 +49,7 @@ some steps on how to include the functionality in your build script:
 5.  Inform your project where to find your latest reports, which is the
     same directory as the testresult itself
    \<Exec Command="xcopy
-    "$(DropLocation)\\$(BuildNumber)\TestResults\\\*.htm"
+    "$(DropLocation)\\$(BuildNumber)\TestResults\\*.htm"
     "$(TestResultReportPath)" /Q /H /R /Y" /\>
 
 That's an easy way to keep everyone informed

@@ -41,9 +41,9 @@ need to <a href="http://www.codeplex.com/Sandcastle"
 target="_blank">Sandcastle</a> and get the same result. Here is a short
 extract from our response file:
 
-> -assembly=SystemName.\*.dll, SystemName.\*.xml
-> -dependency=Microsoft.Practices\*
-> -dependency=System.Dependency\*
+> -assembly=SystemName.*.dll, SystemName.*.xml
+> -dependency=Microsoft.Practices*
+> -dependency=System.Dependency*
 > -VisibleItems="InheritedMembers, InheritedFrameworkMembers, Protected,
 > SealedProtected"
 > -ShowMissingParams=true

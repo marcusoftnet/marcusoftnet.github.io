@@ -1,13 +1,13 @@
 ---
 layout: post
-title: AppHarbor, Nancy and the Could not load file or
-assembly 'Nancy.ViewEngines.Razor.BuildProviders' error
+title: AppHarbor, Nancy and the Could not load file or assembly 'Nancy.ViewEngines.Razor.BuildProviders' error
 date: '2013-03-06T11:35:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private - Nancy
   - Tools
-  - .NET - ContinuousDelivery
+  - .NET
+  - ContinuousDelivery
 modified_time: '2013-03-06T11:35:19.266+01:00'
 thumbnail: http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s72-c/Screen+Shot+2013-03-06+at+09.28.37+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2452370248443791950
@@ -30,7 +30,6 @@ As we wanted something out there fast we built it with
 Since all of these (saved Mongo) has served me well in the past I was
 very surprised when we ran into problem.
 
-
 When a commit is pushed to AppHarbor the application is compiled and the
 test (if any) are run. That worked fine for us but then a stage is run
 that's called "Site precompilation".
@@ -44,7 +43,6 @@ src="http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s
 data-border="0" width="320" height="118" /></a>
 
 </div>
-
 
 That failed with the following error:
 
@@ -80,6 +78,5 @@ That made my application compile and being deployed. Where back on the
 
 That problem cost us a lot of trial and error... and frustration. But
 now you don't have to experience the same thing.
-
 
 </div>

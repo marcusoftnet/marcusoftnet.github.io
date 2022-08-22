@@ -8,15 +8,7 @@ modified_time: '2010-12-14T16:20:33.277+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8412792532818677787
 blogger_orig_url: http://www.marcusoft.net/2008/05/shortcuts.html ---
 Anyone
-who <span
-id="SPELLING_ERROR_2" class="blsp-spelling-error">has <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">worked <span
-id="SPELLING_ERROR_4" class="blsp-spelling-error">with <span
-id="SPELLING_ERROR_5" class="blsp-spelling-error">me <span
-id="SPELLING_ERROR_6" class="blsp-spelling-error">know <span
-id="SPELLING_ERROR_7" class="blsp-spelling-error">that I <span
-id="SPELLING_ERROR_8" class="blsp-spelling-error">love <span
-id="SPELLING_ERROR_9" class="blsp-spelling-error">shortcuts
+who has worked with me know that I love shortcuts
 (that is
 <span id="SPELLING_ERROR_11" class="blsp-spelling-error">keyboard
 shortcuts - i <span

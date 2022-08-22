@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Update AppSettings with XmlUpdate in build
-scripts
+title: Update AppSettings with XmlUpdate in build scripts
 date: '2009-01-20T08:00:00.001+01:00'
 author: Marcus Hammarberg
 tags:
@@ -28,12 +27,12 @@ href="http://geekswithblogs.net/paulwhitblog/archive/2006/04/11/74844.aspx"
 target="_blank">here</a>):
 
 > \<XmlUpdate
->    Namespace="<http://schemas.microsoft.com/.NetConfiguration/v2.0>"
->    XmlFileName="$(SourceDir)\Core\ABSuite\ABClient\App.config"
->   
+> Namespace="<http://schemas.microsoft.com/.NetConfiguration/v2.0>"
+> XmlFileName="$(SourceDir)\Core\ABSuite\ABClient\App.config"
+>
 > **Xpath="//configuration/appSettings/add\[@key='Main.ConnectionString'\]/@value"**
->    Value="$(DatabaseConnectionString)"
->   /\>
+> Value="$(DatabaseConnectionString)"
+> /\>
 
 Also here is a great site to pick up some
 <a href="http://www.zvon.org/xxl/XPathTutorial/Output/examples.html"

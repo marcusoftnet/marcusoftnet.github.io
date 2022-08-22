@@ -23,9 +23,7 @@ now.
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -38,13 +36,9 @@ also starting to play better and better.
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -53,9 +47,7 @@ like to look into the future) i predict that the spring will be great.
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -66,13 +58,9 @@ thank you guys!
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 
 

@@ -4,8 +4,11 @@ title: What BDD is all about
 date: '2012-06-14T08:49:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Life of a consultant - Agile - TDD
+  - BDD
+  - Life of a consultant
+  - Agile
+
+  - TDD
 modified_time: '2012-06-14T08:49:18.169+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9079199862341884847
 blogger_orig_url: http://www.marcusoft.net/2012/06/what-bdd-is-all-about.html
@@ -52,7 +55,6 @@ about the tools**.
 
 <div class="p2">
 
-
 Oh the obsession of tools in our business! So many wrong turns we take
 because of that. We so quickly want to jump to How to do stuff without
 knowing much about What to do and not caring at all about Why we are
@@ -80,7 +82,6 @@ scenario - code to that works. That is enough. For now.
 
 <div class="p2">
 
-
 The test ability can also be used to catch regression problems and make
 sure that as we developing new features we don't break stuff that used
 to work.
@@ -97,12 +98,11 @@ documentation;
 > exactly what the system actually does...
 
 And it was great. I'd say that 97% of it was right. Problem was that I
-didn't knew which 3% that was wrong... So it was not much use to me. 
+didn't knew which 3% that was wrong... So it was not much use to me.
 
 </div>
 
 <div class="p2">
-
 
 To sum up - yes that article is a describes a way to do BDD - but thats
 only the first section. The resti is about tools. And they don't matter

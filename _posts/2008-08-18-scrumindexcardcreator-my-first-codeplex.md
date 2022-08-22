@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ScrumIndexCardCreator - my first CodePlex
-project
+title: ScrumIndexCardCreator - my first CodePlex project
 date: '2008-08-18T08:25:00.002+02:00'
 author: Marcus Hammarberg
 tags:
@@ -24,7 +23,6 @@ You can read about, and contribute to, the project and the application
 here <http://www.codeplex.com/ScrumIndexCard>.
 
 So... this [Scrum Index Card
-Creator](http://www.codeplex.com/ScrumIndexCard) is the first <span
-id="SPELLING_ERROR_1" class="blsp-spelling-corrected">official
+Creator](http://www.codeplex.com/ScrumIndexCard) is the first official
 release from [Marcusoft](http://www.marcusoft.net/).
 I wonder where is might end...

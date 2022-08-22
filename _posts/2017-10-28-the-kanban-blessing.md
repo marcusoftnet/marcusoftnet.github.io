@@ -4,9 +4,11 @@ title: "The kanban blessing"
 author: "Marcus Hammarberg"
 date: 2017-10-28 11:44:48
 tags:
- - Kanban
+
+  - Kanban
  - Lean
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

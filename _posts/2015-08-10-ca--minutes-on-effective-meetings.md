@@ -4,10 +4,12 @@ title: "ca 10 minutes on effective meetings"
 author: "Marcus Hammarberg"
 date: 2015-08-10 11:26:32
 tags:
- - Indonesia
+
+  - Indonesia
  - Lean
  - Leadership
- - Agile
+
+  - Agile
   - Life of a consultant
 
   - Salvation Army

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The data source '' only supports a single view
-named 'DefaultView'
+title: The data source '' only supports a single view named 'DefaultView'
 date: '2008-01-04T10:16:00.000+01:00'
 author: Marcus Hammarberg
 tags:

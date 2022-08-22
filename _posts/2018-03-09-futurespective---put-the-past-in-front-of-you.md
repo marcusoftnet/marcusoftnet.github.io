@@ -4,9 +4,11 @@ title: "Futurespective - put the past in front of you"
 author: "Marcus Hammarberg"
 date: 2018-03-09 15:09:16
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

@@ -5,7 +5,8 @@ author: "Marcus Hammarberg"
 date: 2017-08-07 15:56:47
 tags:
  - Lean
- - Agile
+
+  - Agile
 ---
 
 This summer I decided to read [The Machine that change the world](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795). This a must-read for every Lean aficionado and the book that first coined the term in the first place.

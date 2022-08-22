@@ -5,6 +5,7 @@ Army
 date: '2009-02-07T21:04:00.001+01:00'
 author: Marcus Hammarberg
 tags:
+
   - Agile
   - Salvation Army
 modified_time: '2009-02-07T21:04:37.549+01:00'

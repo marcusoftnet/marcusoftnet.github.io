@@ -6,7 +6,8 @@ date: 2019-01-11 14:32:45
 tags:
  - Javascript
  - Programming
- - TDD
+
+  - TDD
 ---
 
 I stumbled over a new concept the other day. As it was conceived by Kent Beck, that inspired and thought me a lot in the past, I got interesting.

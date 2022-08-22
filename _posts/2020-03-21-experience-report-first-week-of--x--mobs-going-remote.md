@@ -4,7 +4,8 @@ title: "Experience report: first week of 2 x 5 mobs going remote"
 author: "Marcus Hammarberg"
 date: 2020-03-21 12:11:23
 tags:
- - Agile
+
+  - Agile
  - Programming
 ---
 

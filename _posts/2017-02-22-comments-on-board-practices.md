@@ -4,8 +4,10 @@ title: "Comments on common board practices - blocked should not be a column"
 author: "Marcus Hammarberg"
 date: 2017-02-22 08:48:13
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Scrum
 ---
 

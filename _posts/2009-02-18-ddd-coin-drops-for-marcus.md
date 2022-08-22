@@ -5,7 +5,8 @@ date: '2009-02-17T20:46:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - DDD
-  - Scrum - Agile - Sprint Planner Helper
+  - Scrum
+  - Agile - Sprint Planner Helper
 modified_time: '2009-02-18T12:03:35.713+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6314861110076624802
 blogger_orig_url: http://www.marcusoft.net/2009/02/ddd-coin-drops-for-marcus.html ---

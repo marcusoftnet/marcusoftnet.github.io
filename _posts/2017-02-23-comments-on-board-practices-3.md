@@ -4,8 +4,10 @@ title: "Comments on common board practices - Done? There is no Done"
 author: "Marcus Hammarberg"
 date: 2017-02-23 12:48:13
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Scrum
 ---
 

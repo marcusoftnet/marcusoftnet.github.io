@@ -4,9 +4,11 @@ title: "Some reflections after seeing mob programming in action"
 author: "Marcus Hammarberg"
 date: 2016-08-04
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 Since the first time I heard the term [mob programming](https://en.wikipedia.org/wiki/Mob_programming) it has intrigued me. I love things that challenges me and me perceptions.

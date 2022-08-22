@@ -4,8 +4,10 @@ title: "Some questions about estimation and plannning"
 author: "Marcus Hammarberg"
 date: 2021-05-22 10:36:18
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
   - Life of a consultant
 ---
 
@@ -38,7 +40,8 @@ Hi Øyvind!
 
 This is a big question and we might need to have a face2face chat over this.
 
-But “shortly” - agile techniques has sometimes been misinterpreted as “don’t plan at all”, which I think is a misconception. For me it’s all about making adjustments so that we can iterate and learn faster and faster. This gives us more flexibility - i.e. we become agile.
+But “shortly”
+  - Agile techniques has sometimes been misinterpreted as “don’t plan at all”, which I think is a misconception. For me it’s all about making adjustments so that we can iterate and learn faster and faster. This gives us more flexibility - i.e. we become agile.
 I would take [Dan Norths](https://dannorth.net/) advice going into a project like this and [optimize for discovery]( https://dannorth.net/2010/08/30/introducing-deliberate-discovery/).
 
 Hence - I would spend some time in planning the architecture and make some high-level plans for how the thing is going to be built. But remember; you don’t know yet, since you most certainly will discover things along the way. Hence - just plan for what you know/need now and be ready to change. In other words - every document you write, decision you make - make it easy to change. [Read this](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)  that was one of my aha-experiences.

@@ -4,7 +4,8 @@ title: "Principles and practices, guilds and cross-functional teams"
 author: "Marcus Hammarberg"
 date: 2019-02-18 18:28:48
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

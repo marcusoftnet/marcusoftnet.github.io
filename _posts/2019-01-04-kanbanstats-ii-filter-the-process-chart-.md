@@ -4,10 +4,12 @@ title: "KanbanStats II: filter the process chart "
 author: "Marcus Hammarberg"
 date: 2019-01-04 11:56:05
 tags:
- - Agile
+
+  - Agile
  - Scrum
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 **UPDATE**

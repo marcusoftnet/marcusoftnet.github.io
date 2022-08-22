@@ -4,10 +4,11 @@ title: How to run a LeanCoffee discussion
 date: '2013-01-23T08:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Agile
+  - Lean
+  - Life of a consultant
+  - Agile
 modified_time: '2014-02-05T07:52:09.860+01:00'
-blogger_id: tag:blogger.com,1999:blog-36533086.post-4246626537979187189
+blogger_id: 'tag:blogger.com,1999:blog-36533086.post-4246626537979187189'
 blogger_orig_url: http://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html
 ---
 
@@ -34,9 +35,6 @@ target="_blank">LeanKaffeSump</a> quite a few time, but have also run
 them as corporate internal event, as well as for meetings of all
 sorts.
 
-
-
-
 |                                                                                                              |
 |:------------------------------------------------------------------------------------------------------------:|
 |                                                      <a
@@ -45,7 +43,7 @@ sorts.
              style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
   src="http://rlv.zcache.com.au/i_love_toyota_japan_aisuru_toyota_japan_mug-p168208813132347434enq1b_216.jpg"
                                 data-border="0" width="200" height="200" /></a>                                |
-|                                        From http://rlv.zcache.com.au/                                        |
+|                                        From <http://rlv.zcache.com.au/>                                        |
 
 It doesn't take much to run on. If you have coffee and a couple of
 Toyota mugs your halfway there.
@@ -54,7 +52,6 @@ run, and have seen them run. Variants are abundant and you should change
 it to suit your particular situation.
 
 Here we go:
-
 
 First get coffee. This is the only required ingredient :)
 
@@ -75,10 +72,10 @@ topics.
 Got a tip from my friend
 <a href="http://joakimsunden.com/" target="_blank">Joakim</a> on how to
 decide the number of dots/votes per person. The number of stickies
-divided by 3. 
+divided by 3.
 
--   12 stickies / 3 = 4 votes per person. 
--   2 stickies / 3 = ah, well 1 vote per person then. 
+- 12 stickies / 3 = 4 votes per person.
+- 2 stickies / 3 = ah, well 1 vote per person then.
 
 When you have an initial order of your topics - start to talk about the
 first one. This will be the one that most people in the group wanted to

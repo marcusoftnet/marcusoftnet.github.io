@@ -4,9 +4,11 @@ title: "Lean/flow simulation experiments"
 author: "Marcus Hammarberg"
 date: 2017-12-22 11:09:11
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

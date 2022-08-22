@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Do something together - what Indonesians taught
-me, part I
+title: Do something together - what Indonesians taught me, part I
 date: '2014-04-28T10:10:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Team Yayasan
   - Life of a consultant
-  - Salvation
-Army - Indonesia
+  - Salvation Army
+  - Indonesia
 modified_time: '2014-04-28T10:10:10.069+02:00'
 thumbnail:
 http://3.bp.blogspot.com/--GQDF-Y30OU/U14KX1zBgeI/AAAAAAAACnc/26LC75vcscs/s72-c/2014-04-25+11.48.29.jpg
@@ -46,18 +45,17 @@ The thing that really caught my attention and the
 fact that I liked this from the get-go was that we were doing this
 **together**. Here's how a typical exercise pass would look like:
 
-
--   8-9 aerobics, the whole office. Everyone participates to their
-    ability. We usually follow a video and someone in the office that is
+  ability. We usually follow a video and someone in the office that is
     leading the exercise. I SUCK at this, of course. We have also taken
     walks or jogs around Bandung city.
--   9-10 some other sporting activity. Some of us play ping-pong or
-    badminton. The soccer ball has been out and I even tried some
+
+- 9-10 some other sporting activity. Some of us play ping-pong or
+  badminton. The soccer ball has been out and I even tried some
     <a href="http://www.youtube.com/watch?v=TsCWr1L0z7g"
     target="_blank">Takraw</a> (awesome sport by the way, but super hard
     to do. Harder than it looks even).
--   10-1030 snack and coffee together, before we hit the showers or just
-    head for the office in our sweaty clothes. Yeah, it's a bit smelly
+- 10-1030 snack and coffee together, before we hit the showers or just
+  head for the office in our sweaty clothes. Yeah, it's a bit smelly
     but it's only 1,5 h to lunch.
 
 It's a couple of hours full of laughter and easy going conversations.
@@ -67,7 +65,7 @@ exercise pass I thought to myself:
 
 > If I was a company owner/leader I would happily invest two hours each
 > week where people get together and have fun. And exercise. And talk to
-> each other to get to know each other better. 
+> each other to get to know each other better.
 
 The same goes for the cleaning days (every 4 week), but they have an
 additional twist. On these days we take the exercise time to clean or
@@ -76,9 +74,7 @@ with laughter and conversation. The additional part is that we now are
 cleaning the localities that we ourselves are using. We're making it
 better/nicer/cleaner for us.
 
-
 <table class="tr-caption-container" data-cellpadding="0"
-data-cellspacing="0"
 style="float: left; margin-right: 1em; text-align: left;">
 <colgroup>
 <col style="width: 100%" />
@@ -124,6 +120,6 @@ target="_blank">previous post</a> I think that doing stuff together,
 especially physical things, bonds people. We, you and I, have planted
 that tree. We have cleaned this together. I think it's a great way to
 know the person behind the keys of all those emails, or that code or
-what have you. 
+what have you.
 
 </div>

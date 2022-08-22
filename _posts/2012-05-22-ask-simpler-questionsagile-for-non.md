@@ -4,7 +4,8 @@ title: Ask simpler questions–agile for non-techies III
 date: '2012-05-22T16:10:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Life of a consultant - Agile
+  - Life of a consultant
+  - Agile
 modified_time: '2012-05-22T16:10:35.764+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8353209360813982392
 blogger_orig_url: http://www.marcusoft.net/2012/05/ask-simpler-questionsagile-for-non.html

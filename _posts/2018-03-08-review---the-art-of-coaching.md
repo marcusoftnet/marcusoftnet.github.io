@@ -4,7 +4,8 @@ title: "Review - The art of coaching"
 author: "Marcus Hammarberg"
 date: 2018-03-08 08:30:47
 tags:
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

@@ -4,7 +4,8 @@ title: "Best advice for me this year"
 author: "Marcus Hammarberg"
 date: 2015-01-12 19:14:16
 tags:
- - Agile
+
+  - Agile
  - Marcus private
   - Life of a consultant
 ---

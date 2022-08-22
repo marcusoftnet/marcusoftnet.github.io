@@ -4,7 +4,8 @@ title: "The nervous stats checker oscillating syndrome"
 author: "Marcus Hammarberg"
 date: 2017-04-24 10:48:51
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Tools
   - Life of a consultant

@@ -4,7 +4,9 @@ title: On lead time and important projects
 date: '2014-01-27T05:41:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - MobProgramming - Lean - Agile - Indonesia
+  - MobProgramming - Lean
+  - Agile
+  - Indonesia
 modified_time: '2014-01-28T05:43:08.449+01:00'
 thumbnail: http://2.bp.blogspot.com/-InN1Jg0ngAM/UuXiUF0543I/AAAAAAAAB4g/\_wCZLQ4V6lI/s72-c/doing-the-most-good-for-web.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6329581777686380371
@@ -55,9 +57,7 @@ your analogy over to your context and situation quite easy.
 
 ###
 
-<div style="text-align: left;">
 
-</div>
 
 -   <span style="font-size: small; font-weight: normal;">The first
     project is about clearing out the final details on how two
@@ -205,9 +205,7 @@ exercise, if you dare, on a whiteboard next to you:
 
 </div>
 
-<div style="text-align: left;">
 
-</div>
 
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Draw a line across the entire board.
@@ -247,9 +245,7 @@ for the fun part. 
 
 </div>
 
-<div style="text-align: left;">
 
-</div>
 
 -   <span style="font-size: small; font-weight: normal;">Measure the
     length of the line as it's in "Working" area. It doesn't have to be

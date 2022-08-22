@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Team marketplace - how we splitted a big 40
-person team into 5 small in 2 hours
+title: Team marketplace - how we splitted a big 40 person team into 5 small in 2 hours
 date: '2013-01-22T12:32:00.002+01:00'
 author: Marcus Hammarberg
 tags:
-  - Lean -
-Life of a consultant - Agile
+  - Lean
+  - Life of a consultant
+  - Agile
 modified_time: '2013-02-11T13:50:54.020+01:00'
 thumbnail: http://3.bp.blogspot.com/-zoGsR5Z8uz8/UP553fs4fVI/AAAAAAAABaE/1v0f9oOQ8lQ/s72-c/IMG_2848.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3948823221238371465
@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-split
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-
 
 I have a new coaching assignment at
 <a href="http://www.tradera.com/" target="_blank">Tradera</a> which is
@@ -34,8 +33,6 @@ input around HOW to go about organizing this. And make no mistake - they
 we're well on their way doing this in a excellent way already. I merely
 supplied some confirmation and ideas. The good thing about working with
 great clients (:))
-
-
 
 ### The challenge
 
@@ -74,7 +71,6 @@ The first day was ended with an open discussion held as a
 <a href="http://www.leancoffee.org/" target="_blank">Lean Coffee</a> and
 we went for a beer (or other cold beverage, Salvation Army friends) or
 two.
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -133,12 +129,12 @@ what they like rather than being assigned a team.
 
 ### Take-aways
 
--   It worked!
--   Great group of people being allowed to think for themselves can
-    actually solve hard problems (reorganize 40 people) pretty fast. 
--   This exercise built a great Go!-feeling in the group. 
--   No-one (of the 20+ i asked) felt that this was stupid and not
-    worthwhile -\> important stuff can be done with a twist of fun too. 
+- It worked!
+- Great group of people being allowed to think for themselves can
+    actually solve hard problems (reorganize 40 people) pretty fast.
+- This exercise built a great Go!-feeling in the group.
+- No-one (of the 20+ i asked) felt that this was stupid and not
+    worthwhile -\> important stuff can be done with a twist of fun too.
 
 I'm very happy and grateful to be at Tradera that dare to try new stuff.
 We great people comes great stuff.

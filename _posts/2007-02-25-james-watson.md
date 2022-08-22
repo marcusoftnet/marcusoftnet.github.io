@@ -18,10 +18,8 @@ data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF
 had the great opportunity to play and rehearse
 under Mr James Watson. He is really a
 great guy and a great band instructor. We have had a very nice (but
-exhausting) four days with him and the concert on <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">Friday
-night went quite alright (the band had some odd moments in <span
-id="SPELLING_ERROR_3" class="blsp-spelling-error">Couldcatcher
+exhausting) four days with him and the concert on Friday
+night went quite alright (the band had some odd moments in Couldcatcher
 Fells).
 
 Then on the Saturday morning we did a short but very rewarding rehearsal

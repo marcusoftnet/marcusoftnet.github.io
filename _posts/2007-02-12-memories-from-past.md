@@ -18,9 +18,7 @@ which believe it or not was a hard rock band in the 80's
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -32,9 +30,7 @@ lyrics.
 
 </div>
 
-<div>
 
-</div>
 
 
 

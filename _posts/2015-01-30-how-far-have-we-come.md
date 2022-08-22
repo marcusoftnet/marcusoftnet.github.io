@@ -4,10 +4,12 @@ title: "How far have we come?"
 author: "Marcus Hammarberg"
 date: 2015-01-30 13:15:02
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Indonesia
+
+  - Indonesia
 ---
 
 A few days back I said something to my client that apparently many people on twitter found interesting.

@@ -5,8 +5,10 @@ author: "Marcus Hammarberg"
 date: 2018-02-15 13:18:08
 tags:
  - Lean
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
 ---
 
 I'm talking less and less about agile and even lean, these days. Instead, the poison I'm selling now is **flow**. In all honesty, it might be better to put it like this:

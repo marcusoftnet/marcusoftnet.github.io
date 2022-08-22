@@ -4,10 +4,12 @@ title: "Solving the underpants gnomes pitfall"
 author: "Marcus Hammarberg"
 date: 2016-05-20 12:59:58
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 I have a problem; I often have a hard time connecting our vision and overarching goals to the items that we are actually working on. I want to be able to pick up anything we do and understand *why* we are doing this *now* and how it will take us closer to our goal.

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Short and sweet introduction to Dependency
-Injection
+title: Short and sweet introduction to Dependency Injection
 date: '2009-10-09T12:56:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -16,6 +15,6 @@ OK – I am already sold on this concept and most experienced developers
 probably are but here is a great (and short) <a
 href="http://blog.wekeroad.com/smackdown/200-page-manual-on-inversion-of-control-plus-or-minus-199/"
 target="_blank">introduction to Dependency Injection and Inversion of
-Control.</a> 
+Control.</a>
 
 Don’t let the title scare you – it’s not that long an article.

@@ -4,10 +4,12 @@ title: "Teams are immutable structures"
 author: "Marcus Hammarberg"
 date: 2017-09-22 14:27:56
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 Sometimes in my consultancy the soft "people ware" thinking can borrow ideas from the harder "software" concepts. I want to relate such an idea that I cannot get out of my head:

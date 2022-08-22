@@ -50,9 +50,7 @@ here. Here is what it looks like:
 
 </div>
 
-<div>
 
-</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -64,9 +62,7 @@ data-border="0" width="320" height="50" /></a>
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -94,9 +90,7 @@ data-border="0" width="320" height="118" /></a>
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -116,9 +110,7 @@ data-border="0" /></a>
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

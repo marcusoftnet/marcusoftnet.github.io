@@ -4,9 +4,11 @@ title: "Review of A seat at the table"
 author: "Marcus Hammarberg"
 date: 2017-12-30 11:34:40
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 I've just read a classic. Mark my words - we will mention, refer to and hear a lot about Mark Schwartz great book ["A seat at the table"](https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118/ref=asap_bc?ie=UTF8).

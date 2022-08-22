@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ASP.NET MVC – Running transformation error
-solved
+title: ASP.NET MVC – Running transformation error solved
 date: '2009-03-07T22:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:

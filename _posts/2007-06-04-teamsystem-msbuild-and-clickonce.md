@@ -4,8 +4,8 @@ title: TeamSystem, MSBuild and ClickOnce
 date: '2007-06-04T08:02:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - TFS -
-MSBuild
+  - TFS
+  - MSBuild
 modified_time: '2011-10-03T12:32:50.080+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2160098077060148442
 blogger_orig_url: http://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
@@ -38,7 +38,6 @@ Microsoft recommended me to use the MSBuild Community Tasks.
 
 ------------------------------------------------------------------------
 
-
 So - now to my buildscript. What we wanted to do was fairly simple (we
 thought); we just wanted to build the application and then perform a
 ClickOnce-publish to a certain location, in such a way that the latest
@@ -55,44 +54,40 @@ On the **AfterGet**-target (which gets called by the
 TeamSystem-build-engine when the sourcefiles are retrieved from
 SourceControl) i do the following:
 
-
-1.  Check out Version.txt which is a file with the versionnumber
-2.  Check out Soulution.vb. This is a AssemblyInfo-file that is shared
+1. Check out Version.txt which is a file with the versionnumber
+2. Check out Soulution.vb. This is a AssemblyInfo-file that is shared
     (linked-in) in all the projects of our solution. In this way we can
     get the same versionnumber for all our assemblies.
-3.  Update the Versionnumber by incrementing the revsionnumber with one.
+3. Update the Versionnumber by incrementing the revsionnumber with one.
     For this we used the \<Version\>-task from MSBuild Community Task
     like:
     <span
     class="small">`<Version VersionFile="$(SolutionRoot)\SolutionItems\Version.txt" RevisionType="Increment"><Output TaskParameter="Major" PropertyName="Major" /><Output TaskParameter="Minor" PropertyName="Minor" /><Output TaskParameter="Build" PropertyName="Build" /><Output TaskParameter="Revision" PropertyName="Revision" /></Version><Message Text="New version: $(Major).$(Minor).$(Build).$(Revision)"/>`
-4.  Then the SolutionInfo.vb gets deleted and recreated with the new
+4. Then the SolutionInfo.vb gets deleted and recreated with the new
     verion number by using the AssemblyInfo-task like:
     <span
     class="small">`<DeleteCondition="Exists('$(SolutionRoot)\SolutionItems\SolutionInfo.vb')"Files="$(SolutionRoot)\SolutionItems\SolutionInfo.vb" /><!-- Recreate SolutionInfo.vb --><Message Text="SYSTEM_NAME: Recreating Solution.vb"/><AssemblyInfo CodeLanguage="VB"OutputFile="$(SolutionRoot)\SolutionItems\SolutionInfo.vb"ComVisible="false"CLSCompliant="false"AssemblyConfiguration="Release"AssemblyCompany="CompanyName"AssemblyProduct="SystemName"AssemblyCopyright="Copyright © Company 2007"AssemblyVersion="$(Major).$(Minor).$(Build).$(Revision)"/>`
-
 
 Now the Team System build engine will go about and do it's stuff
 compiling etc. But then on the **AfterDropBuild-**target (when the
 executables is dropped to the build location) i publish the
 ClickOnce-applications (specified in the itemgroup above) as follows:
 
-
-1.  Clean the content of the publish-location so that only the latest
+1. Clean the content of the publish-location so that only the latest
     version of the build is available:
     <span
     class="small">`<RemoveDir Directories="$(ClickOnceDropLocation)" /><MakeDir Directories="$(ClickOnceDropLocation)" />`
-2.  Then do a MSBuild-publish. This creates variables/output that
+2. Then do a MSBuild-publish. This creates variables/output that
     contains the files for the ClickOnce-deployment. All important for
     this task to execute sucessfully is that you controll the
     versionnumber (which we do as shown above).
     The task is executed as follows:
     <span
     class="small">`<MSBuild Targets="Publish" Projects="@(ClickOnceProjects)"Properties="%(ClickOnceProjects.ProjectPublishProperties);%(ClickOnceProjects.DeploymentPublishProperties); PublishUrl=%(ClickOnceProjects.DeploymentFolderClient); MinimumRequiredVersion=$(Major).$(Minor).$(Build).$(Revision); ApplicationVersion=$(Major).$(Minor).$(Build).$(Revision)"><Output TaskParameter="TargetOutputs" ItemName="PublishTargetOutputs"/></MSBuild>`
-3.  The output of this target is then moved to the publish-location like
+3. The output of this target is then moved to the publish-location like
     so:
     <span
-    class="small">`<CreateItem Include="@(ClickOnceProjects->'%(RelativeDir)bin\Release\SystemName.publish\**\*.*')"><Output TaskParameter="Include" ItemName="FilesToPublish"/></CreateItem><!--Copy the publication-files to the server--><Copy SourceFiles="@(FilesToPublish)"DestinationFiles="@(FilesToPublish->'%(DeploymentFolderClient)\%(RecursiveDir)%(Filename)%(Extension)')"SkipUnchangedFiles="false" />`
-
+    class="small">`<CreateItem Include="@(ClickOnceProjects->'%(RelativeDir)bin\Release\SystemName.publish***.*')"><Output TaskParameter="Include" ItemName="FilesToPublish"/></CreateItem><!--Copy the publication-files to the server--><Copy SourceFiles="@(FilesToPublish)"DestinationFiles="@(FilesToPublish->'%(DeploymentFolderClient)\%(RecursiveDir)%(Filename)%(Extension)')"SkipUnchangedFiles="false" />`
 
 Then of course we check-in the Version.txt and the SolutionInfo.vb on a
 successful build (as the last part of the **AfterDropBuild**-target) and

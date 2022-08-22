@@ -4,7 +4,9 @@ title: 'Cucumber / SpecFlow pro tip: push HOW down'
 date: '2013-04-17T08:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - Nancy - BDD - Test - Specification by example - Agile - SpecFlow
+  - Nancy - BDD - Test - Specification by example
+  - Agile
+  - SpecFlow
 modified_time: '2013-04-17T08:00:09.379+02:00'
 thumbnail: http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s72-c/pushing+how+down.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8179040185480084998
@@ -262,9 +264,7 @@ I find this structure very helpful and I hope you do too.
 
 </div>
 
-<div>
 
-</div>
 
 </div>
 

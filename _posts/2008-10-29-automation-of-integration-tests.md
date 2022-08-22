@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
+
   - TDD
 modified_time: '2010-12-14T16:22:38.225+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5393877567027229759

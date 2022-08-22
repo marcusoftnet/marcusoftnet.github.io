@@ -1,12 +1,10 @@
 ---
 layout: post
-title: The Phone House Disapointment Story - last
-chapter
+title: The Phone House Disapointment Story - last chapter
 date: '2008-01-18T08:03:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
-
 modified_time: '2008-01-18T08:34:41.658+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8981416447779583624
 blogger_orig_url: http://www.marcusoft.net/2008/01/phone-house-disapointment-story-last.html
@@ -33,14 +31,6 @@ non-working phone back, i finally called them.
 
 </div>
 
-
-
-<div>
-
-</div>
-
-
-
 <div>
 
 "Well that is quite tricky" - was the reply from the person answering
@@ -48,23 +38,17 @@ the phone.
 
 </div>
 
-
-
 <div>
 
 "How is that?" - i replied
 
 </div>
 
-
-
 <div>
 
 "Well its a company contract and then some other things kick in"
 
 </div>
-
-
 
 <div>
 
@@ -74,21 +58,11 @@ asked the question.
 
 </div>
 
-
-
 <div>
 
 "well .... it's ... quite complicated"
 
 </div>
-
-
-
-<div>
-
-</div>
-
-
 
 <div>
 
@@ -100,14 +74,6 @@ executive person can handle it. And sometimes not even they.
 
 </div>
 
-
-
-<div>
-
-</div>
-
-
-
 <div>
 
 Anyway the person i talked to (who, by the way worked for the Phone
@@ -117,14 +83,6 @@ person company can apply.
 
 </div>
 
-
-
-<div>
-
-</div>
-
-
-
 <div>
 
 So now i don't care about how the Phone House service quality is - i
@@ -133,27 +91,12 @@ below) at [Dustin](http://www.dustin.se/), and will continue to do so.
 
 </div>
 
-
-
-<div>
-
-</div>
-
-
-
 <div>
 
 Bye the Phone House - you'll might need to oversee how the staff is
 answering up to your service quality.
 
 </div>
-
-
-
-<div>
-
-</div>
-
 
 [<img
 src="http://www.dustin.se/dacsaportal/system/pages/other/wf_image_viewer.aspx?NoCache=s1dbirjzmycd2xngiu4yajb0&amp;ImageID=672709"

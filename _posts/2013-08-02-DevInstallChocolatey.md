@@ -6,7 +6,8 @@ date: '2013-08-01T20:28:00.001+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - Agile
+  - .NET
+  - Agile
   - Visual Studio
 modified_time: '2013-08-05T08:49:42.359+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3525796959481201604
@@ -103,9 +104,7 @@ This can be done (thanks
 <a href="https://github.com/carllindelof" target="_blank">Calle</a> for
 the tip) with this command:
 
-<div>
 
-</div>
 
 <div>
 

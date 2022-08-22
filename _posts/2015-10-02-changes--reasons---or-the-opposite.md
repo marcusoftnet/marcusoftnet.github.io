@@ -4,7 +4,8 @@ title: "Changes - reasons or the opposite"
 author: "Marcus Hammarberg"
 date: 2015-10-02 10:34:28
 tags:
- - Agile
+
+  - Agile
  - Leadership
   - Life of a consultant
 ---

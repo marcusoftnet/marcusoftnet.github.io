@@ -27,9 +27,7 @@ the last two days.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -49,9 +47,7 @@ picture from there, in the summer-time mind you well.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -64,23 +60,18 @@ winter. I could have looked at the waves for hours.
 
 
 
-<div>
 
-</div>
 
 
 
 <div>
 
 I might, saying might, have been a bit to happy to make a good
-impression this weekend. But i really was, so <span
-id="SPELLING_ERROR_6" class="blsp-spelling-corrected">that's
+impression this weekend. But i really was, so that's
 fairly right anyway.
 
 </div>
 
 
 
-<div>
 
-</div>

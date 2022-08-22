@@ -5,7 +5,8 @@ date: '2013-06-10T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private - Lean
-  - Salvation Army - Indonesia
+  - Salvation Army
+  - Indonesia
 modified_time: '2013-06-10T15:25:53.605+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1012190930985440668
 blogger_orig_url: http://www.marcusoft.net/2013/06/moving-to-indonesia.html ---

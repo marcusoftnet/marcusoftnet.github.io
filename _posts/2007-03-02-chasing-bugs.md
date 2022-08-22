@@ -4,8 +4,8 @@ title: Chasing bugs
 date: '2007-03-02T12:37:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant
+  - .NET
+  - Life of a consultant
 modified_time: '2007-03-02T13:03:01.751+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3239091661353820808
 blogger_orig_url: http://www.marcusoft.net/2007/03/chasing-bugs.html ---

@@ -4,7 +4,8 @@ title: "Open letter: Management tips to Dr Lillian"
 author: "Marcus Hammarberg"
 date: 2015-03-15 20:46:21
 tags:
- - Agile
+
+  - Agile
  - Leadership
  - Lean
   - Life of a consultant

@@ -28,8 +28,7 @@ But if you need to do this over and over you want to work with the
 XML-file in memory. In order to get the nice formatting you'll need to
 do some XML transformations also.
 
-So get the IE XML style sheet for displaying <span
-id="SPELLING_ERROR_4" class="blsp-spelling-corrected">XML (from
+So get the IE XML style sheet for displaying XML (from
 here for example:
 <http://www.biglist.com/lists/xsl-list/archives/200003/msg00769.html>)
 and import it as a resource in your project. You could also hold it as a
@@ -39,8 +38,7 @@ The following method does the transformation for you:
 `''' `
 
 
-''' Transforms the XML-string with the sent-in <span
-id="SPELLING_ERROR_5" class="blsp-spelling-error">XSL-string
+''' Transforms the XML-string with the sent-in XSL-string
 '''
 
 
@@ -50,8 +48,7 @@ id="SPELLING_ERROR_5" class="blsp-spelling-error">XSL-string
 transformation
 '''
 ''' An example of a call to set the XML in a webbrowser
-''' WebBrowser1.<span
-id="SPELLING_ERROR_11" class="blsp-spelling-error">DocumentStream
+''' WebBrowser1.DocumentStream
 = TransformXML(<span
 id="SPELLING_ERROR_13" class="blsp-spelling-error">xml,
 My.Resources.PositionsDetaljer)

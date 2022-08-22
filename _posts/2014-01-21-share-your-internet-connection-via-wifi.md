@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Share your internet connection via WiFi on
-Windows 8.1
+title: Share your internet connection via WiFi on Windows 8.1
 date: '2014-01-21T08:01:00.002+01:00'
 author: Marcus Hammarberg
 tags:
@@ -49,7 +48,7 @@ href="http://techotv.com/windows-8-internet-sharing-wifi-hotspot-wireless-ad-hoc
 target="_blank">describe this approach in great detail</a> and much
 better than me, so this is the short version + my gotchas.
 
-First, create a .bat-file with the following content. 
+First, create a .bat-file with the following content.
 
 </div>
 
@@ -86,10 +85,10 @@ data-border="0" width="320" height="212" /></a>
 </div>
 
 Open "Network and Sharing Center". This is easily done by a well-hidden
-gem of Windows 8.1. 
+gem of Windows 8.1.
 
--   Go to the Start-screen and just start typing "Network and" and it
-    will show up for you to select. 
+- Go to the Start-screen and just start typing "Network and" and it
+    will show up for you to select.
 
 Click the link to your network connection that has access to Internet.
 In my case the "Ethernet"-network.
@@ -106,13 +105,11 @@ And ... select your newly created hosted network
 Yeah, sorry Mum. You wont pull that off. The only good news is that this
 configuration only needs to be done once. Once configured this will stay
 this way even if you shutdown the hosted network. As long as the network
-continues to get the same name ("Network connection 9" for example). 
+continues to get the same name ("Network connection 9" for example).
 
 </div>
 
 <div>
-
-
 
 </div>
 

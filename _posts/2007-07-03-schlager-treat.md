@@ -16,8 +16,7 @@ id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
 id="SPELLING_ERROR_0"
 class="blsp-spelling-error">clipID=14502](http://www.aftonbladet.se/atv/player.html?catID=2672&clipID=14502)
 
-<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Markolio
+Markolio
 at his best. Heckling the schlager-genre. The most <span
 id="SPELLING_ERROR_3"
 class="blsp-spelling-corrected">embarrassing about this is that

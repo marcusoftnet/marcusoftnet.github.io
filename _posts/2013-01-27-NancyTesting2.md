@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
-  - .NET - C#
+  - .NET
+  - C#
 modified_time: '2014-06-21T02:09:55.455+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2035700742916788295
 blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting2.html
@@ -100,9 +101,7 @@ settings.
 
 Or ... it can be a lamda. Like this:
 
-<div>
 
-</div>
 
 <div>
 
@@ -193,9 +192,7 @@ target="_blank">TinyIoC</a> that's built into Nancy and that you almost
 cannot see).
 Let's see the Dependency-method in action:
 
-<div>
 
-</div>
 
 
 As you can see it's merely a question of supplying the class as a type
@@ -208,9 +205,7 @@ Finally if your module have more than one dependency you can registrer
 them all at once with the Dependencies-method. With this method you can
 supply more than one Dependency.
 
-<div>
 
-</div>
 
 
 This method also have a <a
@@ -242,9 +237,7 @@ assembly that will get registered first.
 This all results in this test. Note that I don't have to hand
 Nancy.Testing my dependencies. It just works.
 
-<div>
 
-</div>
 
 
 However - this is a bit dangerous, of course. What happen if you have
@@ -335,9 +328,7 @@ request and add functionality to it as needed.
 
 Here's one example using the ApplicationStartup-method:
 
-<div>
 
-</div>
 
 
 
@@ -363,9 +354,7 @@ exactly the same. 
 There's also a RequestStartup that works much the same way, but for a
 single Request:
 
-<div>
 
-</div>
 
 ### Summary
 

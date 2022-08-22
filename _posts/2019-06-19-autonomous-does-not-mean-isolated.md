@@ -6,7 +6,8 @@ date: 2019-06-19 11:26:32
 tags:
  - Lean
  - Leadership
- - Agile
+
+  - Agile
   - Life of a consultant
 ---
 

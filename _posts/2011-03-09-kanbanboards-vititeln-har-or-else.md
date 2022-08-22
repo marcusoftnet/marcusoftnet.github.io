@@ -4,9 +4,11 @@ title: KanbanBoards VI–OpenId Integration
 date: '2011-03-08T20:03:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Tools
-  - .NET - ASP.NET MVC - KanbanBoards
+  - BDD
+  - Tools
+  - .NET
+  - ASP.NET MVC
+  - KanbanBoards
 modified_time: '2011-03-08T20:03:13.839+01:00'
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TWfHO5e-0HI/AAAAAAAAA6I/mmMSFVaF2Y8/s72-c/openid%20message%20handlers_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1325740255107798275
@@ -25,9 +27,9 @@ target="_blank">last installment of the series</a>.
 
 To do that properly I need to touch on two main areas of functionality:
 
--   Authentication – here I plan to use OpenID and see if I can plug-in
+- Authentication – here I plan to use OpenID and see if I can plug-in
     some functionality that already exists.
--   Uploading pictures – just for fun I will try to store the pictures
+- Uploading pictures – just for fun I will try to store the pictures
     in the database and see how that sits. I can already here give away
     the fact that I didn’t do this today.
 
@@ -35,8 +37,6 @@ And finally show that the whole thing works using an acceptance test
 that verifies the functionality end-to-end.
 
 Let’s go.
-
-
 
 ### Feedback and updates
 
@@ -48,12 +48,12 @@ after some manual hacking I think I’m back on track.
 
 Darren showed two thing that I haven’t thought of earlier:
 
--   A new feature (upcoming in
+- A new feature (upcoming in
     <a href="http://www.specflow.org" target="_blank">SpecFlow</a>) is
     that you can store a factory method inside the
     ScenarioContext.Current. That method is executed when you Get the
     value out of the Current dictionary. That cleaned up a lot of stuff
--   A thing that I haven’t really thought of is that you can use
+- A thing that I haven’t really thought of is that you can use
     attributes, such as BeforeScenario on more than one place. If you
     organize your steps in different logical block (for the controller,
     for the different repositories etc.) you can then have the setup for
@@ -122,15 +122,15 @@ From the <a href="http://openidportablearea.codeplex.com/documentation"
 target="_blank">OpenIdPortableArea documentation</a> I get some help to
 wire it up. Let’s see:
 
--   Need to AreaRegistration.RegisterAllAreas() in Global.asax. That’s
+- Need to AreaRegistration.RegisterAllAreas() in Global.asax. That’s
     done already in MVC3 applications
--   Use the Authorize-attribute for the controller actions I want the
+- Use the Authorize-attribute for the controller actions I want the
     user to be authenticated to run. In my case, so far, it’s the
     Create-action.
--   And then I need to point the forms authentication in the web.config
+- And then I need to point the forms authentication in the web.config
     to the controller action “\~/OpenId” which is supplied by the
     portable area.
--   OpenIdPortableArea uses a <a
+- OpenIdPortableArea uses a <a
     href="http://www.code-magazine.com/article.aspx?quickid=1003111&amp;page=4"
     target="_blank">message bus supplied by MvcContrib</a> to
     communicate with OpenID. So I need to use that, which is done with
@@ -190,24 +190,24 @@ asked for help.
 
 Here how it happened;
 
--   I contacted Brandon Satrom
+- I contacted Brandon Satrom
     (<a href="http://twitter.com/brandonsatrom"
     target="_blank">@brandonsatrom</a>) and asked if he have had the
     same problem when he did his screencasts
--   He experienced the same thing when he used Razor views.
--   So I contacted John Nelson
+- He experienced the same thing when he used Razor views.
+- So I contacted John Nelson
     (<a href="http://twitter.com/johncoder" target="_blank">@johncoder</a>)
     who created the OpenID Portable Area in the first place.
--   Aware of the problems he was just about to release a new version of
+- Aware of the problems he was just about to release a new version of
     the OpenId Portable Area.
--   Two days later it was on
+- Two days later it was on
     <a href="http://nuget.org" target="_blank">NuGet.org</a> – one
     version for <a
     href="http://nuget.org/Packages/Packages/Details/OpenIdPortableArea-RazorViews-2-0-0-0"
     target="_blank">Razor views</a> and one for <a
     href="http://nuget.org/Packages/Packages/Details/OpenIdPortableArea-WebFormsViews-2-0-0-0"
     target="_blank">WebForms</a>
--   John kindly contacted me back. I downloaded and ran into some small
+- John kindly contacted me back. I downloaded and ran into some small
     understanding problems. But John “held my hand” and pretty soon I
     had a working integration (see below)
 
@@ -222,8 +222,8 @@ target="_blank">and dependencies</a>)
 
 Get the version of your choice with one of these commands:
 
--   Install-Package OpenIdPortableArea.RazorViews
--   Install-Package OpenIdPortableArea.WebFormsViews
+- Install-Package OpenIdPortableArea.RazorViews
+- Install-Package OpenIdPortableArea.WebFormsViews
 
 Add the following little snippet to get a “login widget”; you know the
 little thing that says “Login” and “You’re logged in as”: [<img
@@ -244,8 +244,8 @@ alt="Authentication message handler" />](http://lh6.ggpht.com/_TI0jeIedRFk/TXZ82
 
 The rest is configured by the NuGet package. It:
 
--   Adds the appropriate configuration to your web.config
--   Adds Views and controllers under the Area-folder
+- Adds the appropriate configuration to your web.config
+- Adds Views and controllers under the Area-folder
 
 ### The message handlers
 
@@ -343,4 +343,4 @@ continue to check in the code. <a
 href="https://github.com/marcusoftnet/KanbanBoards/commit/cb0b45eb005feb9c245c2c95a1ac7d3bce09bd51"
 target="_blank">Here’s the commit for this post</a>
 
-Thank you for reading this far – I’ve learned a lot. 
+Thank you for reading this far – I’ve learned a lot.

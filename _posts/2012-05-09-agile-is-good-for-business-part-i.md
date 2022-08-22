@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Fixed price is bad for you - agile for
-non-techies part I
+title: Fixed price is bad for you  - Agile for non-techies part I
 date: '2012-05-09T10:36:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -43,8 +42,6 @@ you an advantage.
 
 <div>
 
-
-
 ### Time boxing
 
 Time boxing is a fundamental thing to many agile methods but foremost
@@ -69,9 +66,9 @@ cannot say what the cost will be. Two fundamental problems here;
 
 <div>
 
--   Most (business) people don't like to have cost be an undecided
-    factor (I say – neither do I). It might become very expensive. 
--   Secondly software development doesn't always go faster by just
+- Most (business) people don't like to have cost be an undecided
+    factor (I say – neither do I). It might become very expensive.
+- Secondly software development doesn't always go faster by just
     throwing more money and people into the process. Just as 9 women
     cannot deliver a baby in 1 month. Some things take time...
 
@@ -87,7 +84,6 @@ technical way.
 
 <span style="text-align: left">
 
-
 </div>
 
 <div>
@@ -99,12 +95,9 @@ we cannot say what will be delivered. This is, sadly, not very nice
 either... at least in this pure form (but there is help - see below).
 But it's the best (least bad) out of these options for most people.
 
-
 </div>
 
 <div style="text-align: left">
-
- 
 
 </div>
 

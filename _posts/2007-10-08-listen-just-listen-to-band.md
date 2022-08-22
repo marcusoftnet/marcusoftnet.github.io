@@ -11,8 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/listen-just-listen-to-band.ht
 Every Monday morning i usually listens
 to the last broadcast of [Listen to the
 band](http://www.bbc.co.uk/radio/aod/networks/radio2/aod.shtml?radio2/listenband).
-This week there are some serious playing going on... <span
-id="SPELLING_ERROR_1" class="blsp-spelling-error">Grimethorpe and
+This week there are some serious playing going on... Grimethorpe and
 Black Dyke.
 
 This is very, very good playing indeed - and live. Don't try this a home

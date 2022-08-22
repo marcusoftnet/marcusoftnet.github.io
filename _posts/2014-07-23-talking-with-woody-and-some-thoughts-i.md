@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Some thoughts I got after talking with Woody
-Zuil
+title: Some thoughts I got after talking with Woody Zuil
 date: '2014-07-23T04:01:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-  - Lean - Specification by example - Agile - Indonesia
+  - Lean
+  - Specification by example
+  - Agile
+  - Indonesia
 modified_time: '2014-07-23T04:04:52.337+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
 blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
@@ -20,7 +22,7 @@ over Skype. I was a really nice hour that just flew by, where we
 exchanged stories, ideas and had a few laughs.
 
 Let me, as a side note, just say that I love that; just exchanging
-stories with people. I \*\*always\*\* learn new stuff and quite often
+stories with people. I **always** learn new stuff and quite often
 stories from my own experience pop back into my memory.
 This is the best part of conferences - meeting, interacting with others.
 That's what I miss the most, being a little sidestepped here in
@@ -30,8 +32,6 @@ on either of those inventions).
 
 I just thought I summarise some of the things that I took away with me
 from our conversation.
-
-
 
 ### It was never about the estimates, really
 
@@ -61,7 +61,7 @@ Secondly, this goes for *anything* we do. The customer doesn't want
 requirements, plans, standups, tests or even the code. The customer
 wants a problem solved. All the things we are doing to solve the problem
 for the customer is just "best so far" and we should change it as soon
-as we are creative enough to look outside our current understanding. 
+as we are creative enough to look outside our current understanding.
 
 </div>
 
@@ -71,30 +71,27 @@ For some, I'm included, looking beyond our current ways and practices is
 very hard to do. That's one of the reasons I always react with doubt and
 question introduced to new concepts. I'm a programmer so this list is a
 bit skewed, but this is my exact words or thoughts when I heard about
-some concepts that I now have come to appreciate: 
+some concepts that I now have come to appreciate:
 
 </div>
 
-
-
--   WHAT?! Two people at one keyboard. That's just stupid! (Pair
+- WHAT?! Two people at one keyboard. That's just stupid! (Pair
     programming)
--   Meeting every morning? Shouldn't agile mean less meetings?
+- Meeting every morning? Shouldn't agile mean less meetings?
     (Standups)
--   Writing the test \*\*before\*\* the code? That super hard to do, and
+- Writing the test **before** the code? That super hard to do, and
     it will produce a lot of test code that just testing the code (TDD)
--   Dependency Injection is just for computer science researchers. I'm
+- Dependency Injection is just for computer science researchers. I'm
     coding here - I don't need that (brrr totally true I'm afraid)
--   Open source?! But we need someone to take responsibility for the
+- Open source?! But we need someone to take responsibility for the
     maintain of the code we're using
--   Javascript is just for designers. It make things twirl and beep
+- Javascript is just for designers. It make things twirl and beep
     (Ouch, that's also true, I'm afraid)
--   Mob programming?! This is just wrong - all of the team in the same
+- Mob programming?! This is just wrong - all of the team in the same
     room. With one keyboard!
--   Chaos monkey - why on earth would you write a program that is
-    \*causing\* problems. We need stable IT here. Who did that? (Netflix
+- Chaos monkey - why on earth would you write a program that is
+    *causing* problems. We need stable IT here. Who did that? (Netflix
     dudes, the biggest infrastructure/application on the planet)
-
 
 I could go on and on but I've probably bored you already. You probably
 are much better to assimilate new ideas. Two things that I'm proud of
@@ -110,7 +107,7 @@ how else could we \[fill in your reason here\].
 
 Which brings me to 3
 
-#### It was never about the estimates...
+#### It was never about the estimates
 
 No. It was about becoming better solving customer problems. It could
 have been \#noRequirements \#noCode \#noDevelopers or what have you.
@@ -171,7 +168,7 @@ But the point here according to me is that if you do something small
 often it doesn't really matter that it's the most important thing.
 
 If you push things into production 2 times a year it's of course
- \*super\* important that you're doing the most important thing. But if
+ *super* important that you're doing the most important thing. But if
 you're (like my last two gigs) push things 10-20 times a day, it's not
 as important.
 
@@ -230,46 +227,42 @@ Our team won. They crushed the others. But they didn't won because they
 wrote the most nifty gold-finding algoritm. The won because they
 iterated fastest. Here's what they did:
 
-
 First they created the simplest thing that could possible move the guy
 around. It was one of the team members (Joakim Sundén I think) that used
-the WASD-keys to move the "robot". So it was not even a robot. 
+the WASD-keys to move the "robot". So it was not even a robot.
 
 As the first version was created Joakim started to go around collect
 gold, manually. In doing so he didn't only just started to collect gold,
 he also fed back ideas to the programmers
 
--   "Guys, the server is lagging. Maybe we should make sure we get a
+- "Guys, the server is lagging. Maybe we should make sure we get a
     response before the next command. They are queued up now and I run
     over the edge"
--   "You know what would be great? If our guy could remember where he
+- "You know what would be great? If our guy could remember where he
     was when he had to go back home. He could then automatically replay
     those steps to get back to the same location"
--   and more like that
+- and more like that
 
 The team worked on the new features in two groups and the feature
-(either one) that was completed first was deployed at the next round. 
+(either one) that was completed first was deployed at the next round.
 
 Every feature was created in the simple possible manner first (remember
 this still wasn't a robot), wasting no time on the playing field, where
 Joakim was collecting gold.
-
 
 If my memory serves me right it was not until the last round that the
 robot did automatic picking of gold. By then the winners where already
 clear; Team Avega had won. Also the other 3 teams aimed to implement an
 automated robot:
 
-
--   1 didn't finish at all - 0 gold
--   the other two was significantly slower to produce their first
+- 1 didn't finish at all - 0 gold
+- the other two was significantly slower to produce their first
     version on the playing field. Since that was their first version it
     had some severe bugs that slowed them down significantly. Hence much
-    less gold than our team. 
-
+    less gold than our team.
 
 Team Avega won because they iterated faster and deployed something
-valuable faster. They did not build what \*the specification\* (game
+valuable faster. They did not build what *the specification* (game
 instructions) said, but took the aim of the game and use that as their
 inspiration to become better than even they thought they could be.
 
@@ -282,15 +275,13 @@ Real short on this; I've blogged about
 target="_blank">constraints before.</a> But when you listen to the
 history of Woody you here constraints come into play again and again:
 
-
--   "I couldn't afford to study full time, so I had to learn on the job
+- "I couldn't afford to study full time, so I had to learn on the job
     meaning that I always pushed myself a little bit more"
--   "Learning to program I only had 1 hour to spend each day and I
+- "Learning to program I only had 1 hour to spend each day and I
     needed to build stuff for myself so I ..."
--   "My firm couldn't make big investments so we had to take on jobs
+- "My firm couldn't make big investments so we had to take on jobs
     that showed that we could finance the purchase expensive equipment
     before we went to the bank"
-
 
 That only strengthen my thesis; with constraints comes innovation. The
 worst thing that could happen to a project, team or company is to have

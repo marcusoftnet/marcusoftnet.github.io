@@ -41,13 +41,9 @@ from a closet to a hangar...
 
 </div>
 
-<div>
 
-</div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -57,9 +53,7 @@ to another.
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -80,9 +74,7 @@ I'll include some pictures from the apparent.
 
 </div>
 
-<div>
 
-</div>
 
 
 

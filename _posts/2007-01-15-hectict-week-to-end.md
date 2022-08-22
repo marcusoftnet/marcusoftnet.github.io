@@ -21,9 +21,7 @@ me and Elin was in charge of the meeting at our Salvation army corps.
 
 </div>
 
-<div>
 
-</div>
 
 
 
@@ -37,9 +35,7 @@ know how to cope with it.
 
 </div>
 
-<div>
 
-</div>
 
 
 

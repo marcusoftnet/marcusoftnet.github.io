@@ -4,13 +4,16 @@ title: "The Brickell Key Award - I am nominated!"
 author: "Marcus Hammarberg"
 date: 2016-04-05 19:32:44
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
  - Marcus private
 
   - Salvation Army
- - Indonesia
+
+  - Indonesia
 ---
 
 Something amazing has happened! I am one of 6 nominees to the prestigious [Brickell Key Award](http://lkna16.leankanban.com/brickellkey/).

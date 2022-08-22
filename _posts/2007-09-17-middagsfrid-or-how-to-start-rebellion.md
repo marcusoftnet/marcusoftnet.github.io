@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Middagsfrid - or how to start a rebellion among
-your parents
+title: Middagsfrid - or how to start a rebellion among your parents
 date: '2007-09-17T08:29:00.000+02:00'
 author: Marcus Hammarberg
 tags:

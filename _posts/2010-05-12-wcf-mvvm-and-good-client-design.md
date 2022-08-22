@@ -4,10 +4,10 @@ title: WCF, MVVM and good client design
 date: '2010-05-11T21:56:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant
+  - .NET
+  - Life of a consultant
 modified_time: '2010-05-11T21:56:18.222+02:00'
-blogger_id: tag:blogger.com,1999:blog-36533086.post-5876123677039343472
+blogger_id: 'tag:blogger.com,1999:blog-36533086.post-5876123677039343472'
 blogger_orig_url: http://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-design.html
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Dos-script to delete all Visual Studio
-Intermediate files
+title: Dos-script to delete all Visual Studio Intermediate files
 date: '2009-09-04T09:52:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -35,18 +34,12 @@ this:
 >
 >
 
-
-
-
 I don’t know if you are like me and don’t know the first things of DOS.
 Well this script deletes the following:
 
-
-
-
--   All Debug-folders (both obj/Debug and bin/Debug)
--   All folders that Resharper generates for you
--   All TestResults folder (<a
+- All Debug-folders (both obj/Debug and bin/Debug)
+- All folders that Resharper generates for you
+- All TestResults folder (<a
     href="http://www.marcusoft.net/2009/02/save-some-space-limit-number-of-old.html"
     target="_blank">they can be massive!!</a>)
--   All the crazy vsmdi-files that hold testlist for you
+- All the crazy vsmdi-files that hold testlist for you

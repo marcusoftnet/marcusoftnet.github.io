@@ -7,6 +7,7 @@ tags:
   - BDD
   - .NET
   - Life of a consultant
+
   - SpecFlow
 modified_time: '2011-04-11T16:31:19.845+02:00'
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TZ1Im7jduEI/AAAAAAAAA9U/L1rx7v20vnc/s72-c/step%20defintion_thumb.jpg?imgmax=800
@@ -250,7 +251,7 @@ definitions, browser interactions etc. Three layers emerge:
 So in a way you can structure your code in MVC fashion, which I find
 very helpful. And before the bashing begins – this is of course not MVC
 pattern in full. Nothing is handed back to the view (or specification)
-but the structure the other way (sending stuff in) is a \*bit\* like
+but the structure the other way (sending stuff in) is a *bit* like
 MVC. I think.
 
 **\[UPDATED\]**

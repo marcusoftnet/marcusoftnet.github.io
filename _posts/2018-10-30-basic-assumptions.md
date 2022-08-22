@@ -4,8 +4,10 @@ title: "3 basic (priorization) assumptions"
 author: "Marcus Hammarberg"
 date: 2018-10-30 17:45:48
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
 ---
 

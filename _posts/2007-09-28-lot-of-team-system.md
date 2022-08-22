@@ -13,10 +13,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7349605965807386338
 blogger_orig_url: http://www.marcusoft.net/2007/09/lot-of-team-system.html
 ---
 
-This <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">entire week
+This entire week
 has been concerned with Team Foundation Server (<span
-id="SPELLING_ERROR_1" class="blsp-spelling-error"><span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">TFS) and
 Visual Studio Team System (VSTS).
 
@@ -27,8 +25,7 @@ easy configuration stuff for msbuild for example). In short
 i like it. A lot.
 
 But the more i learn about TFS the more i want to use
-<span
-id="SPELLING_ERROR_4" class="blsp-spelling-error">TFS to
+TFS to
 the full extend of the product. I have a hunch that it will rock more
 and more as you start to use more and more features.
 

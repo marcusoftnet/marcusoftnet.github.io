@@ -4,7 +4,8 @@ title: "The Kondo software quality index"
 author: "Marcus Hammarberg"
 date: 2019-03-20 18:16:46
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

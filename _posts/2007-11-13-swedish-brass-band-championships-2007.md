@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Swedish brass band championships 2007 -
-follow-up
+title: Swedish brass band championships 2007 - follow-up
 date: '2007-11-13T08:09:00.000+01:00'
 author: Marcus Hammarberg
 tags:
@@ -11,8 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2880669356695036627
 blogger_orig_url: http://www.marcusoft.net/2007/11/swedish-brass-band-championships-2007.html
 ---
 
-As i
-[predicted](http://marcushammarberg.blogspot.com/2007/10/swedish-brass-band-championships-2007.html)
+As I [predicted](http://marcushammarberg.blogspot.com/2007/10/swedish-brass-band-championships-2007.html)
 the Swedish Brass band championships this year was mostly a formal
 matter when it comes the first places.
 

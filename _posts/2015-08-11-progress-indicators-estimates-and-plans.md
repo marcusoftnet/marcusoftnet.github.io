@@ -4,9 +4,11 @@ title: "Progress indicators, estimates and plans"
 author: "Marcus Hammarberg"
 date: 2015-08-11 11:16:37
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
   - Life of a consultant
 ---
 

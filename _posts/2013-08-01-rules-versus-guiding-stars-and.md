@@ -5,6 +5,7 @@ soccer
 date: '2013-08-01T15:20:00.002+02:00'
 author: Marcus Hammarberg
 tags:
+
   - Agile
 modified_time: '2013-08-01T16:00:43.953+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7711855420494540411
@@ -186,7 +187,7 @@ thing. And acknowledge the fact that we really don't know what is the
 best approach.
 
 Also; we know exactly how much it will cost to run this team of 4 people
-under 6 months (4 ppl \* 6 months \* monthly salary). Now - how do we
+under 6 months (4 ppl * 6 months * monthly salary). Now - how do we
 want to spend that money? What is the best way of investing in this team
 so that we get closer to our goal?
 These are much nicer questions to ask than to have to handle the

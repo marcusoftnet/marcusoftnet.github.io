@@ -4,7 +4,8 @@ title: "Remote work, transparency, and feedback"
 author: "Marcus Hammarberg"
 date: 2020-05-03 17:26:02
 tags:
- - Agile
+
+  - Agile
  - Lean
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Pomodoro – being agile and focused on the
-individual level
+title: Pomodoro – being agile and focused on the individual level
 date: '2009-08-14T15:39:00.001+02:00'
 author: Marcus Hammarberg
 tags:
@@ -25,14 +24,14 @@ Technique seems like a great way of handling that.
 
 Here are some resources that I found on the subject:
 
--   <a
+- <a
     href="http://blog.staffannoteberg.com/2008/02/22/pomodoro-technique-in-5-minutes/"
     target="_blank">Pomodoro Technique in 5 minutes</a>
--   <a
+- <a
     href="http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_v1-3.pdf"
     target="_blank">Book</a> from the inventor of Pomodoro, Francesco
     Cirillo
--   <a href="http://www.pomodoro-book.com/DRAFT_pomodoro-book.pdf"
+- <a href="http://www.pomodoro-book.com/DRAFT_pomodoro-book.pdf"
     target="_blank">Pomodoro Technique Illustrated</a>
 
 And finally a great lightning talk by

@@ -4,8 +4,10 @@ title: "TDD for 9 year olds - an experiment in teaching my sons class"
 author: "Marcus Hammarberg"
 date: 2017-12-18 20:26:19
 tags:
- - Agile
- - TDD
+
+  - Agile
+
+  - TDD
  - Programming
  - Marcus private
 ---

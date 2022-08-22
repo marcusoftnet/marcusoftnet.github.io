@@ -4,9 +4,11 @@ title: "Some kanban Q & A Feb 2017"
 author: "Marcus Hammarberg"
 date: 2017-03-03 09:04:44
 tags:
- - Agile
+
+  - Agile
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 My job is to help clients to use and adapt the principles of lean and agile to achieve a better flow of value. Sometimes I get questions from friends and old clients about how to do specific things. And sometimes I get questions from complete strangers.

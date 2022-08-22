@@ -25,9 +25,7 @@ people either don't work at all or that they work half the day.
 
 
 
-<div>
 
-</div>
 
 
 
@@ -42,9 +40,7 @@ struggling to keep the tempo up.
 
 
 
-<div>
 
-</div>
 
 
 

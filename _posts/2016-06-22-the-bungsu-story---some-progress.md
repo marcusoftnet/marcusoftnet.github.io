@@ -4,10 +4,13 @@ title: "The Bungsu Story - some progress"
 author: "Marcus Hammarberg"
 date: 2016-06-22 19:35:55
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Lean
- - Indonesia
+
+  - Indonesia
 ---
 
 About six months ago I got home from the adventure of our life time in Indonesia. At the time I was actually feeling very underwhelmed and that we've failed in our work there.

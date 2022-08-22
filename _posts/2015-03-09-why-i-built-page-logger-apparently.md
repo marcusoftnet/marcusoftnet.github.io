@@ -7,7 +7,8 @@ tags:
  - Javascript
  - Node
  - Koa
- - Agile
+
+  - Agile
  - Lean
 ---
 

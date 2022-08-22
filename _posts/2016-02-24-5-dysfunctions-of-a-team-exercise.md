@@ -4,7 +4,8 @@ title: "An exercise from 5 dysfunctions of a team"
 author: "Marcus Hammarberg"
 date: 2016-02-21 15:33:38
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
 ---

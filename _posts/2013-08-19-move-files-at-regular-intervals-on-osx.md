@@ -164,9 +164,7 @@ data-border="0" width="320" height="184" /></a>
 
 </div>
 
-<div>
 
-</div>
 
 <div class="separator" style="clear: both; text-align: left;">
 

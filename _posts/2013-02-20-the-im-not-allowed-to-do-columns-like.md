@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The "I'm not allowed to do columns like
-that"-problem
+title: The "I'm not allowed to do columns like that"-problem
 date: '2013-02-20T09:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - ife of a consultant
-   - Kanban - Agile
+  - Life of a consultant
+  - Kanban
+  - Agile
 modified_time: '2013-02-20T09:00:11.899+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-18478852401572606
 blogger_orig_url: http://www.marcusoft.net/2013/02/the-im-not-allowed-to-do-columns-like.html
@@ -15,7 +15,6 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/the-im-not-allowed-to-do-colu
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-
 
 Today I talked with someone that was about to create her first ever
 board, for a team. She was a bit worried as she couldn't fit her normal
@@ -25,7 +24,6 @@ same time.
 
 In this blog post I'll tell you more and then show why I thought that
 she had got some really bad advice.
-
 
 Here's how our dialog played out:
 Me: "What do you mean: I can't fit our workflow on the board"
@@ -42,7 +40,7 @@ She: "Our (Scrum-)teacher said that writing the sequence of our process
 like that was waterfall and that it was wrong.
 
 Ok - first and foremost: Scrum, agile, kanban, do whatever and even the
-board are \*\*tools\*\*. Bend them to your will and make them work for
+board are **tools**. Bend them to your will and make them work for
 you.
 
 Map the workflow on the board to your process, exactly as it works
@@ -91,7 +89,7 @@ Make it work for you not against you. You never heard a carpenter say:
 This is not news. It's common sense. Use it. Start where you are and
 make the board reflect your process. Improve from where you are now -
 not where literature on Scrum, XP or any other process tells you that
-you *should* be. 
+you *should* be.
 
 </div>
 

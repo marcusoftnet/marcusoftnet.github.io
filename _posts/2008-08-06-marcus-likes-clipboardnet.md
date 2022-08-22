@@ -8,8 +8,7 @@ tags:
 modified_time: '2010-12-14T16:22:38.271+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3280235566942894208
 blogger_orig_url: http://www.marcusoft.net/2008/08/marcus-likes-clipboardnet.html ---
-Found [this cool tool](https://clipmon32.bountysource.com/) that <span
-id="SPELLING_ERROR_0" class="blsp-spelling-corrected">remembers a
+Found [this cool tool](https://clipmon32.bountysource.com/) that remembers a
 list of things that you have copied onto your Clipboard. You can then
 easily pick among the items and
 paste back things you have copied a while ago.

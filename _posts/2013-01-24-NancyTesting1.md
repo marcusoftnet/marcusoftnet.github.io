@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Nancy.Testing - a closer look through her
-testability
+title: Nancy.Testing - a closer look through her testability
 date: '2013-01-24T09:00:00.000+01:00'
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
-  - .NET - Test - Agile
+  - .NET
+  - Test
+  - Agile
 modified_time: '2014-06-21T02:09:55.461+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2536136940455319768
 blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting1.html
@@ -48,15 +49,15 @@ gives us some nice features to play with.
 I thought I devote a couple of posts to the testing abilities of Nancy,
 here's what I have planned:
 
-1.  <a href="http://www.marcusoft.net/2013/01/NancyTesting1.html"
+1. <a href="http://www.marcusoft.net/2013/01/NancyTesting1.html"
     target="_blank">Intro to testing with Nancy</a>(this post)
-2.  <a href="http://www.marcusoft.net/2013/01/NancyTesting2.html"
+2. <a href="http://www.marcusoft.net/2013/01/NancyTesting2.html"
     target="_blank">The Configurable bootstrapper</a>
-3.  <a href="http://www.marcusoft.net/2013/01/NancyTesting3.html"
-    target="_blank">The Browser and Response objects</a> 
-4.  <a href="http://www.marcusoft.net/2013/02/NancyTesting4.html"
+3. <a href="http://www.marcusoft.net/2013/01/NancyTesting3.html"
+    target="_blank">The Browser and Response objects</a>
+4. <a href="http://www.marcusoft.net/2013/02/NancyTesting4.html"
     target="_blank">Hat and shoeless testing with Simple.Data</a>
-5.  <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
+5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
 <div>
@@ -64,13 +65,11 @@ here's what I have planned:
 The underlying idea here is to get to know Nancy better, through tests.
 Join me if you want. The speed of the blog posts will be much dependent
 on how the book writing goes (Kanban In Action...). At the time of
-writing I have the first two posts prepared, and the rest in my head. 
+writing I have the first two posts prepared, and the rest in my head.
 
 </div>
 
 <div>
-
-
 
 ### Why is Nancy easy.. to test
 
@@ -83,13 +82,11 @@ has no dependencies to System.Web or any of the web-stuff in .NET
 framework. Those parts have been notoriously hard to test
 (<a href="http://en.wikipedia.org/wiki/Mock_object"
 target="_blank">mocking</a> the complete Request-object is a nightmare
-that still haunts many of us). 
+that still haunts many of us).
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -108,26 +105,24 @@ you constraint!
 
 <div>
 
-
-
 </div>
 
 <div>
 
 There are two levels where this testability thoughts shine through to
-great effect; 
+great effect;
 
 </div>
 
 <div>
 
--   Everything can be replaced! Nancy is built to replace every part of
+- Everything can be replaced! Nancy is built to replace every part of
     her - even core properties such as the NancyEngine itself (you can
     imagine what that does...). This is a dream for someone who needs to
     mock stuff out.
--   The [Nancy.Testing](http://nancy.testing/) framework helps you to
+- The [Nancy.Testing](http://nancy.testing/) framework helps you to
     test the complete stack of an Nancy-application, without touching
-    slow and expensive resources such as the network. 
+    slow and expensive resources such as the network.
 
 <div>
 
@@ -141,11 +136,7 @@ example will show you:
 
 </div>
 
-
-
 <div>
-
-
 
 </div>
 
@@ -155,12 +146,6 @@ Moreover - this will actually test **everything**, the complete
 Nancy-stack. Without hitting the network. Yes - I know. I didn't get
 that first either. But let's look what possibilities that gives us first
 and I'll try to explain it better afterwards:
-
-<div>
-
-</div>
-
-
 
 <div>
 
@@ -186,18 +171,18 @@ target="_blank">headless browser.</a>
 <div>
 
 If you were to test the same thing with an ASP.NET MVC application you
-are faced with two options: 
+are faced with two options:
 
 </div>
 
 <div>
 
--   test the controller directly. This is nice since the controller is
+- test the controller directly. This is nice since the controller is
     just a class. You can supply dependencies and control the way it's
     called to test what you want. But you get back a View-object.
     The templated view is not executed, so you don't know how the page
-    is generated. 
--   Which brings us to option number 2: test against the view. To do
+    is generated.
+- Which brings us to option number 2: test against the view. To do
     this you will have to fire up a <a
     href="http://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
     target="_blank">browser automation tool</a> that first need to
@@ -206,7 +191,7 @@ are faced with two options: 
     application is made, routed, the view generated and the HTML
     returned.
     In short - this takes a lot of time, and slows down both testing and
-    the feedback loop. 
+    the feedback loop.
 
 ### Summing up Nancy testability
 
@@ -237,37 +222,39 @@ application.
 
 <div>
 
-1.  Created a new Solution,
+1. Created a new Solution,
     <a href="https://github.com/marcusoftnet/DiscoveringNancyThroughTests"
     target="_blank">NancyTesting</a>
 
-2.  Added class library for test, DiscoverNancy.Tests
+2. Added class library for test, DiscoverNancy.Tests
 
-3.  Nugot Nancy.Testing
+3. Nugot Nancy.Testing
     (<a href="http://nuget.org/packages/Nancy.Testing"
     target="_blank">Install-Package Nancy.Testing</a>) into the test
     class library.
 
-4.  Installed my test framework of choice: xUnit
+4. Installed my test framework of choice: xUnit
     (<a href="http://install-package%20xunit/"
     target="_blank">Install-Package xUnit</a>)
 
-5.  Wrote my first test
+5. Wrote my first test
     <div>
+
    </div>
 
-6.  That failed of course since the application and route doesn't
+6. That failed of course since the application and route doesn't
     existed. But if failed with an error stating:
        "Xunit.Sdk.EqualException: Assert.Equal() Failure
         Expected: OK
         Actual:   NotFound"
 
-7.  So, the route was not found. I need to create the NancyModule that
+7. So, the route was not found. I need to create the NancyModule that
     holds it. That's the famous Fit-In-A-Tweet-Module:
     <div>
+
    </div>
 
-8.  With that in place my test passed. 
+8. With that in place my test passed.
 
 This was of course a very simplistic example, and I'll be showing you
 more advanced examples later. But it shows a lot of the testability of
@@ -281,26 +268,26 @@ Nancy.Testing-framework, but very briefly. I thought I list the
 important classes and concepts here and give a high-level description of
 it:
 
--   Nancy.Testing.Browser - this is the main object of the testing
+- Nancy.Testing.Browser - this is the main object of the testing
     infrastructure in Nancy. The class that you use to call your
     application. It has methods for performing all HTTP Requests (GET,
     POST, PUT ... <a
     href="http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods"
     target="_blank">you know them</a>) and returns a response object.
--   The Request object is, as said above, our way to access the routes
+- The Request object is, as said above, our way to access the routes
     and functionality in the Nancy Module under test. With the Request
     object we can send in all the context (Forms, Querystring and
-    headers) that's needed to test out our application. 
--   The Response object gives us the ability to assert the content of
+    headers) that's needed to test out our application.
+- The Response object gives us the ability to assert the content of
     our response, may it be simple status codes or complex views that's
-    generated from our application. 
--   Bootstrapper - the
+    generated from our application.
+- Bootstrapper - the
     <a href="https://github.com/NancyFx/Nancy/wiki/Bootstrapper"
     target="_blank">Bootstrapper</a> is the thing that wires together a
     Nancy application. From a testing point of view there's great news
     here. The bootstrapper is needed to create a Browser object and
     through this we can control most of the environment, that the
-    NancyModule we are testing, is executing under. 
+    NancyModule we are testing, is executing under.
 
 ### Summary
 
@@ -310,7 +297,7 @@ and we briefly looked into the moving parts of Nancy testing.
 
 In subsequent post we will dive deeper into these concepts and see how
 we can bend them to our will, creating a excellent testing environment
-for our applications. 
+for our applications.
 
 </div>
 

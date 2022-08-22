@@ -15,6 +15,5 @@ feel good about themselves and to be proud.
 Really builds team spirit.
 
 If you haven't tried SCRUM out yet - do it already. It's dead simple to
-get started and will give you results (faster, <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">reliable
+get started and will give you results (faster, reliable
 deliveries, better team spirit, happier customers) right away.

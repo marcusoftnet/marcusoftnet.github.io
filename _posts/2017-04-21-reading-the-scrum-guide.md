@@ -4,8 +4,10 @@ title: "Reading the Scrum Guide"
 author: "Marcus Hammarberg"
 date: 2017-04-21 10:16:18
 tags:
- - Agile
- - Kanban
+
+  - Agile
+
+  - Kanban
  - Scrum
  - Lean
 ---

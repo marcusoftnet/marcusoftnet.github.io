@@ -4,8 +4,8 @@ title: Oracle and .NET - start here
 date: '2008-06-03T13:52:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant
+  - .NET
+  - Life of a consultant
 modified_time: '2008-06-03T14:10:47.195+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2610418444745090626
 blogger_orig_url: http://www.marcusoft.net/2008/06/oracle-and-net-start-here.html

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A story on doing outside-in development with
-SpecFlow
+title: A story on doing outside-in development with SpecFlow
 date: '2010-10-15T18:23:00.013+02:00'
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - SpecFlow
+  - .NET
+  - SpecFlow
 modified_time: '2010-10-15T19:11:09.821+02:00'
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s72-c/Screen+shot+2010-10-15+at+12.34.49.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2428948475329972132
@@ -117,7 +117,6 @@ data-border="0" width="320" height="75" /></a>
 
 </div>
 
-
 Yeah! That looked good. “Let’s run that and see where it leads us” – he
 said to himself and ran the tests.
 It failed! Or actually it was inconclusive. Which was no big surprise to
@@ -163,7 +162,6 @@ data-border="0" width="320" height="257" /></a>
 
 </div>
 
-
 “Great” – Marcus thought to himself “ with this in place I can change
 the app.config file to point to the root of my application.” He added an
 app.config that contained some settings and a RootUrl-key.
@@ -179,7 +177,6 @@ data-border="0" /></a>
 
 </div>
 
-
 And with that in place Marcus ran the tests again. A browser flashed
 before his eyes… It was an Internet Explorer but he couldn’t see the
 content. Also when he checked the test run results he could see that
@@ -194,8 +191,6 @@ src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD6bgPauI/AAAAAAAAAnc/DDDi8m2riAo/s
 data-border="0" width="320" height="98" /></a>
 
 </div>
-
-
 
 <div
 id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2068d381-1444-4f17-94ae-db08182ef93a"
@@ -229,7 +224,6 @@ src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD7DWTzlI/AAAAAAAAAnk/LNuKYhfhSdA/s
 data-border="0" width="320" height="200" /></a>
 
 </div>
-
 
 He stored that setting in the project, by setting the Specific Port
 radio button on the Web-properties for the ASP.NET MVC project. He then
@@ -313,17 +307,16 @@ data-border="0" width="320" height="85" /></a>
 
 </div>
 
-
 With <a href="http://en.wikipedia.org/wiki/Test-driven_development"
 target="_blank">TDD</a> Marcus started fleshed out the structure of the
 HomeController and it’s index-method. Still amazed on how well this
 process works he found himself:
 
--   Creating some fake data with NSubsitute
--   Passing the IFeatureDBWrapper substitute into the HomeController,
+- Creating some fake data with NSubsitute
+- Passing the IFeatureDBWrapper substitute into the HomeController,
     which in turn (and with the help of Resharper in a few keystrokes)
     made the HomeController take an IFeatureDBWrapper as parameter
--   Verify that the right method was called and returned the faked data
+- Verify that the right method was called and returned the faked data
 
 Here is the test and the controller that was test-driven in the
 process:
@@ -337,8 +330,6 @@ src="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD9_SP0sI/AAAAAAAAAoA/9Rw-3eIvp-Y/s
 data-border="0" width="400" height="186" /></a>
 
 </div>
-
-
 
 ### Better check with the specifications
 
@@ -366,8 +357,6 @@ data-border="0" width="320" height="60" /></a>
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
-
 </div>
 
 And now it fails as it should. Marcus went on  to add that title to the
@@ -387,7 +376,6 @@ src="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD-b6W9WI/AAAAAAAAAoE/h0lfMu8tBTc/s
 data-border="0" width="320" height="234" /></a>
 
 </div>
-
 
 “Back to the specs” – Marcus said out loud. He ran them and they failed
 but this time as he expected. On Assertion when not finding the
@@ -409,8 +397,6 @@ data-border="0" width="320" height="97" /></a>
 
 </div>
 
-
-
 that looked like this when rendered in the browser:
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -422,8 +408,6 @@ src="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD_VEZT7I/AAAAAAAAAoQ/qqg5cL8LSQ0/s
 data-border="0" width="320" height="162" /></a>
 
 </div>
-
-
 
 Marcus looked at his watch. Not even lunch yet… “Maybe I’ll start
 writing the second scenario now. It will probably be faster” – he dived

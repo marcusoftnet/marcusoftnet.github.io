@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Synchronization for consultants – how I got it
-to work
+title: Synchronization for consultants – how I got it to work
 date: '2009-09-22T21:19:00.002+02:00'
 author: Marcus Hammarberg
 tags:

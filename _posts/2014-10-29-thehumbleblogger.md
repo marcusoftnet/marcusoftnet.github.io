@@ -1,7 +1,6 @@
 ---
 layout: post
-title: The humble blogger approach - some practical
-tips
+title: The humble blogger approach - some practical tips
 date: '2014-10-29T03:11:00.000+01:00'
 author: Marcus Hammarberg
 tags:

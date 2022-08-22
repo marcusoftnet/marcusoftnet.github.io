@@ -4,7 +4,8 @@ title: "Review: #NoEstimates - the book"
 author: "Marcus Hammarberg"
 date: 2015-10-15 15:14:26
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Tools
 ---

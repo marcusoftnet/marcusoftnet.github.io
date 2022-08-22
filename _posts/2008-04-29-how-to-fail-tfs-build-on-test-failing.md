@@ -4,8 +4,9 @@ title: How to fail a tfs-build on test failing
 date: '2008-04-29T08:02:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-  - TFS -
-MSBuild
+
+  - TFS
+  - MSBuild
 modified_time: '2008-04-29T08:18:08.316+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2628051183812318304
 blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-fail-tfs-build-on-test-failing.html
@@ -25,8 +26,7 @@ is to check the status of the test-run and then update the status of the
 complete build.
 
 I extended his code to use the test-status-flag on the tasks that follow
-the test, i.e. the publish task. This task deploys the <span
-id="SPELLING_ERROR_2" class="blsp-spelling-corrected">executables
+the test, i.e. the publish task. This task deploys the executables
 to my <span id="SPELLING_ERROR_3" class="blsp-spelling-corrected">test
 server, update the documentation etc.
 

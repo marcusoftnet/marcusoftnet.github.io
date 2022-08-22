@@ -6,10 +6,8 @@ author: Marcus Hammarberg
 tags:
   - DDD
   - Sprint Planner Helper
-
 modified_time: '2009-03-04T09:31:36.506+01:00'
-thumbnail:
-http://lh6.ggpht.com/\_TI0jeIedRFk/Sa0LYLIAuFI/AAAAAAAAADg/twDyhMfi4gc/s72-c/edit%20a%20product_thumb%5B1%5D.jpg?imgmax=800
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/Sa0LYLIAuFI/AAAAAAAAADg/twDyhMfi4gc/s72-c/edit%20a%20product_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8188991577348770009
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-16.html
 ---

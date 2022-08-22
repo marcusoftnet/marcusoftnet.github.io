@@ -4,10 +4,12 @@ title: "KanbanStats III: throughput"
 author: "Marcus Hammarberg"
 date: 2019-01-04 13:47:16
 tags:
- - Agile
+
+  - Agile
  - Scrum
  - Lean
- - Kanban
+
+  - Kanban
 ---
 
 **UPDATE**

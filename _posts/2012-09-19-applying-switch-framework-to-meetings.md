@@ -6,6 +6,7 @@ date: '2012-09-19T09:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - Agile
 modified_time: '2012-09-24T11:05:51.476+02:00'
 thumbnail: http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
@@ -19,8 +20,8 @@ Whoopie - another meeting!
 Experienced that? No - didn't think so either.
 Most of us hate meetings, and sadly not without reason many times. But a
 thing that really bugs me is when this culture is classifying meetings
-as non-work. In our business there seems to be lot of people (\*cough\*
-developers \*cough\*) that think that the only real work is pushing down
+as non-work. In our business there seems to be lot of people (*cough*
+developers *cough*) that think that the only real work is pushing down
 the keys on a keyboard. Preferably writing code.
 
 This can take strange expressions sometimes; we seems to think that

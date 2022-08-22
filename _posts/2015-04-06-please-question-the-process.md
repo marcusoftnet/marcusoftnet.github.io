@@ -4,7 +4,8 @@ title: "Please question the process"
 author: "Marcus Hammarberg"
 date: 2015-04-06 08:51:39
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Leadership
 ---

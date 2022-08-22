@@ -4,10 +4,12 @@ title: "The metric / visualization pirate 'rules'"
 author: "Marcus Hammarberg"
 date: 2015-10-15 08:19:07
 tags:
- - Agile
+
+  - Agile
  - Lean
   - Life of a consultant
- - Kanban
+
+  - Kanban
 ---
 
 At my current client, the hospital RS Bungsu in Bandung, we are working a lot with metrics and visualizations. This has proven to have a profound effect in interest, focus and understanding for the entire staff.

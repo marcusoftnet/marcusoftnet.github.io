@@ -7,6 +7,7 @@ tags:
   - Marcus private
 
   - Salvation Army
+
   - Indonesia
 modified_time: '2014-05-29T14:35:40.891+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5858312803103136395
@@ -58,9 +59,7 @@ supports dynamic yet?"
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -72,9 +71,7 @@ the main stream community?
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -96,9 +93,7 @@ opening a browser.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -108,9 +103,7 @@ that interesting. I think.
 
 </div>
 
-<div>
 
-</div>
 
 |                                                                                              |
 |:--------------------------------------------------------------------------------------------:|
@@ -143,9 +136,7 @@ family on the other side of the globe.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -155,9 +146,7 @@ talking with people.
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 
@@ -166,9 +155,7 @@ traffic to my blog as well :). Yes, I'm vain in that way. No apologies
 
 </div>
 
-<div>
 
-</div>
 
 <div>
 

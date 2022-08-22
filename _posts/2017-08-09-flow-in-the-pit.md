@@ -5,8 +5,10 @@ author: "Marcus Hammarberg"
 date: 2017-08-09 11:26:20
 tags:
  - Lean
- - Kanban
- - Agile
+
+  - Kanban
+
+  - Agile
 ---
 
 This little clip pops up from time to time in my [twitter feed](http://twitter.com/marcusoftnet)

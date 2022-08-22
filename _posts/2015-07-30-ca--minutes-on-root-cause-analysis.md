@@ -4,7 +4,8 @@ title: "ca 10 minutes on Root Cause Analysis"
 author: "Marcus Hammarberg"
 date: 2015-07-30 15:42:34
 tags:
- - Indonesia
+
+  - Indonesia
  - Lean
  - Leadership
   - Life of a consultant

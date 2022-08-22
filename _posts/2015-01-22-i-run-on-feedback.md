@@ -4,7 +4,8 @@ title: "Things I say often: I run on feedback"
 author: "Marcus Hammarberg"
 date: 2015-01-22 12:30:01
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Marcus private
  - Things I say often

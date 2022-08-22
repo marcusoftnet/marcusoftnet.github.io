@@ -4,10 +4,12 @@ title: "Board visualisation tips"
 author: "Marcus Hammarberg"
 date: 2018-12-03 21:09:17
 tags:
- - Agile
+
+  - Agile
  - Lean
  - Scrum
- - Kanban
+
+  - Kanban
 ---
 
 Quite often I get to introduce people to using a "work visualization board" (often referred to as a kanban board),  these days. When I do I'm struck with the common misconceptions that follow many tools - especially tools that I have been nudged (or forced) to use..

@@ -4,8 +4,9 @@ title: Group coding–a knowledge sharing tool
 date: '2010-12-10T10:17:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET -
-Life of a consultant - Agile
+  - .NET
+  - Life of a consultant
+  - Agile
 modified_time: '2010-12-10T10:17:58.699+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7270124472381611475
 blogger_orig_url: http://www.marcusoft.net/2010/12/group-codinga-knowledge-sharing-tool.html

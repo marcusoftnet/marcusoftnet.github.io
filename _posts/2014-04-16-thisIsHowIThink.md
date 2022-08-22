@@ -4,12 +4,12 @@ title: 'No... this is how I think '
 date: '2014-04-16T04:13:00.003+02:00'
 author: Marcus Hammarberg
 tags:
-  - Team
-Yayasan - Lean
+  - Team Yayasan
+  - Lean
   - Life of a consultant
   - Agile
-  - Salvation Army -
-Indonesia
+  - Salvation Army
+  - Indonesia
 modified_time: '2014-04-25T09:14:43.300+02:00'
 thumbnail: http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3756488527386682835
@@ -43,7 +43,6 @@ matters, have pointed out some flaws or ... unclear reasoning in this
 post. I have updated the post a number of times thanks to them. Anything
 good in here is probably from them. Thank you.\]
 
-
 ### Why are we here?
 
 <div>
@@ -61,7 +60,7 @@ for the early Salvation Army soliders</a>:
 
 I think we are here to produce value for someone. Let's, just for fun,
 call this person "the customer". It's a name as good as any, right?
-In all honesty, if we think a little bit wider that *customer *could be
+In all honesty, if we think a little bit wider that *customer*could be
 ourselves as well, or anyone around us.
 
 Come to think about it the definition of value is a bit tricky to. It
@@ -76,11 +75,11 @@ that customer with value. I think it's useful to try to reflect on what
 value we produce for our customers and how we can improve on that.
 For everything we do we can ask ourselves:
 
--   Is this making my customer happier?
--   How is this producing value for the customer?
--   If the customer was in the room now, what would he suggest that we
+- Is this making my customer happier?
+- How is this producing value for the customer?
+- If the customer was in the room now, what would he suggest that we
     do?
--   Do I need to help the customer understand how our suggestion could
+- Do I need to help the customer understand how our suggestion could
     be even better for her?
 
 I like to sum this up in a short question that can be our guiding star
@@ -103,7 +102,7 @@ everything we do:
 What is your question or guiding star? Why are you here? Why are you
 working here together? Can you formulate that in an F1-question.
 
-### Small and fast 
+### Small and fast
 
 <div>
 
@@ -111,7 +110,7 @@ Furthermore I believe that we should delivering things as fast as
 possible. And in small batches. Both these things has to do with
 learning stuff; for everything we complete we will learn something. The
 more we learn the better we will become in producing better, more,
-faster to our customers. 
+faster to our customers.
 
 </div>
 
@@ -126,7 +125,7 @@ to a big project where you hear nothing for several months.
 
 </div>
 
-### Getting done. Fast.
+### Getting done. Fast
 
 <div>
 
@@ -138,7 +137,7 @@ quality in mind. Because
 <a href="http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html"
 target="_blank">just going faster is not going to help much</a>, since
 that means that the quality goes down. Bad quality work will come back
-to us. 
+to us.
 
 </div>
 
@@ -156,8 +155,6 @@ simulation I did a couple of months ago:
 </div>
 
 <div>
-
-
 
 <div style="margin-bottom: 5px;">
 
@@ -189,7 +186,7 @@ call this "a simulation aimed to illustrate a single principle, namely
 that Lower WIP -\> faster flow. That's all it does. But from this I've
 often found a lot of eyes open, and AHA! experiences had.  And if you
 can see the principle manifested in your, much more complex context,
-then it can teach us something. 
+then it can teach us something.
 
 </div>
 
@@ -211,8 +208,8 @@ To me the distinction between efficiency and effectiveness is very
 important. Since it's the same word (!?) in Swedish I have had a hard
 time to distinguish between them. This is the easiest way I've heard;
 
--   Efficiency is running as fast as you can
--   Effectiveness is making sure that you are running towards the goal
+- Efficiency is running as fast as you can
+- Effectiveness is making sure that you are running towards the goal
 
 Another, more classical way to say this is; effectiveness is the doing
 the right thing. Efficiency is do thing the thing right. Thanks
@@ -243,24 +240,24 @@ The goal is to produce value for our customer as fast as possible, and
 as I said we should challenge everything we do today, that hinders us
 from going faster.
 
--   "But we need to supervise and control in this way!" - No, you don't.
+- "But we need to supervise and control in this way!" - No, you don't.
     You need control, but that can be achieved in other ways. By
-    implementing great transparency for example. 
--   "<a href="http://zuill.us/WoodyZuill/category/estimating/"
+    implementing great transparency for example.
+- "<a href="http://zuill.us/WoodyZuill/category/estimating/"
     target="_blank">But my customer want estimates!</a>" - Yes, but
     that's just because you haven't showed him the alternative. I've
     never seen an end-customer call a company up and said thank you for
     the awesome estimating in the latests project. But I have seen
-    end-customer thank people for the new feature in the product. 
--   "But this is how our organisational chart looks. It's all decided" -
+    end-customer thank people for the new feature in the product.
+- "But this is how our organisational chart looks. It's all decided" -
     Do you think there's something we can change in it that would make
     the process go faster? That would produce value for our customer
     faster? How do we need to change the organisation to reach
     *that* goal?
--   "We need to make sure that we think this over properly before we
+- "We need to make sure that we think this over properly before we
     act" - Yes of course... but will our customer be happier by that? Or
     can we find another way to make our decision less scary, smaller
-    maybe, so that we don't need to think about it as long, or as hard. 
+    maybe, so that we don't need to think about it as long, or as hard.
 
 </div>
 
@@ -314,13 +311,11 @@ I love this way of making improvements or changes. Also this approach is
 know as <a href="http://en.wikipedia.org/wiki/Scientific_method"
 target="_blank">the Scientific method</a> and is the way all science has
 been discovered since about 4th century BCE through Aristotle, so its
-well established. Tried and tested. 
+well established. Tried and tested.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -355,23 +350,23 @@ information about the things we're making knows the most.
 
 That leaves us with a choice;
 
--   We can move the information to the decision makers in the top of the
+- We can move the information to the decision makers in the top of the
     hierarchy/organization so that they can make informed decisions.
     This has proven pretty hard and expensive. Also the information
     often travels too slow for the management level to act fast enough
--   Move the authority to the information. That means, trust our
+- Move the authority to the information. That means, trust our
     employees on all levels to make the improvements they see fit. This
     is really scary, because that means that we loose the perceived
     control on the top management level. The gain, however is immense;
     everyone is involved in improvement, every persons creativity,
     inspiration and intelligence. The loss of control can be managed by
     using a transparent culture where all information is known to
-    everyone. 
+    everyone.
 
 <div>
 
 I'm all for the second approach, since it's much faster and produced
-more value faster for our customer (see the top of this article). 
+more value faster for our customer (see the top of this article).
 
 </div>
 
@@ -398,13 +393,11 @@ slave away, producing money as fast as possible for someone else,
 forgetting my own needs. I need to be happy to be able to do a good job.
 Thank
 you <a href="http://twitter.com/drunkcod" target="_blank">Tobbe </a>and <a href="http://twitter.com/emilcardell" target="_blank">Emil </a>for
-this input and pointing out the holes in my reasoning. 
+this input and pointing out the holes in my reasoning.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -421,8 +414,6 @@ improvements.  
 
 <div style="text-align: left;">
 
-
-
 </div>
 
 <div style="text-align: left;">
@@ -433,13 +424,11 @@ the reasoning found today in lean and agile in the software movement
 (and other places). If you don't give the teams and people autonomy,
 help them develop their mastery and ultimately show them that they are
 important, they have a purpose reaching a continuously improving process
-/ organization will be very hard. If not impossible. I think. 
+/ organization will be very hard. If not impossible. I think.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -448,13 +437,11 @@ important, they have a purpose reaching a continuously improving process
 You might think different. I have heard, both in Indonesia and Sweden by
 the way, about other approaches to try to continuously evolve the
 organizations. I heard and seen those fail. But I have not seen all the
-approaches in the world... 
+approaches in the world...
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -467,13 +454,11 @@ are here (the things I've talked about in the post) and then extending
 the <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
 target="_blank">autonomy to the individual teams and employees to change
 their environment and processes</a> to more effectively reach that goal
-is much more ... effective. I've seen that succeed. A number of times. 
+is much more ... effective. I've seen that succeed. A number of times.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
@@ -481,20 +466,18 @@ is much more ... effective. I've seen that succeed. A number of times. 
 
 And I've seen it fail too. Because it's hard, since it means letting go
 of power and (perceived) control, something that most people are more
-reluctant to let go than money, in my experience. 
+reluctant to let go than money, in my experience.
 
 </div>
 
 <div style="text-align: left;">
-
-
 
 </div>
 
 <div style="text-align: left;">
 
 Again - thanks Emil and Tobbe for making me think harder and add this
-section. I feel you made this post more complete.   
+section. I feel you made this post more complete.
 
 </div>
 
@@ -506,13 +489,11 @@ We are here to bring value to some customer. Us just working without
 producing value for someone is truly useless. Hence I think we should
 change the way we work to become better and better in producing value
 for our customer faster, with better quality and more frequently. Our
-processes, organization, rules etc. just just "best so far". 
+processes, organization, rules etc. just just "best so far".
 
 </div>
 
 <div>
-
-
 
 </div>
 
@@ -521,13 +502,11 @@ processes, organization, rules etc. just just "best so far". 
 I'm not saying that I'm right and you are wrong. I'm just saying that
 this is the way that I reason, so that you can understand me if we end
 up in a discussion. I want us to change to improve. I think improving is
-improvements for our customer. 
+improvements for our customer.
 
 </div>
 
 <div>
-
-
 
 </div>
 
