@@ -10,7 +10,7 @@ enforce_ssl: https://www.marcusoft.net
 excerpt_separator: <!-- excerpt-end -->
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /img/avatar.jpg
+avatar: /img/avatar.png
 
 #
 # Flags below are optional
