@@ -1,12 +1,15 @@
 ---
 layout: post
-title: 'ÖreDev day \#5 – keynote and morning'
+title: 'ÖreDev day 5 – keynote and morning'
 date: '2009-11-06T12:06:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - BDD -
-Tools
-  - .NET - ÖreDev - NHibernate - Agile
+  - BDD
+  - Tools
+  - .NET
+  - ÖreDev
+  - NHibernate
+  - Agile
 modified_time: '2011-11-09T21:49:22.612+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7581226974756991164
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morning.html
@@ -55,17 +58,17 @@ Audit your input and streamline it.
 
 Tools
 
--   <a href="www.rescuetime.com/" target="_blank">Rescue Time</a> –
+- <a href="www.rescuetime.com/" target="_blank">Rescue Time</a> –
     introspective retrospectives
--   <a href="http://www.43folders.com/" target="_blank">43 folders</a>
+- <a href="http://www.43folders.com/" target="_blank">43 folders</a>
     looks quite messy but powerful
--   Sync to paper – check out <http://pocketmod.com/>
--   Write things down that you want to do during a week. And check that
+- Sync to paper – check out <http://pocketmod.com/>
+- Write things down that you want to do during a week. And check that
     the list is done or not at the end of the week
--   <a href="http://www.evernote.com/" target="_blank">Evernote</a>
--   <a href="http://www.rememberthemilk.com/" target="_blank">Remember the
+- <a href="http://www.evernote.com/" target="_blank">Evernote</a>
+- <a href="http://www.rememberthemilk.com/" target="_blank">Remember the
     milk</a> instead of todo.txt
--   Use email rules as above (to:/cc: and calendar invites)
+- Use email rules as above (to:/cc: and calendar invites)
 
 This was very funny and informative. The funniest is that he did
 basically the same as the Zen-guru Marc Lesser. But oh so different…

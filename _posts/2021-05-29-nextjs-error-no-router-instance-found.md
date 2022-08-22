@@ -36,7 +36,7 @@ And I then added a click-handler like this:
 
 And it blew up, with a very nice, but ultimately not helpful error message:
 
-### Error: No router instance found. you should only use "next/router" inside the client side of your app.
+### Error: No router instance found. you should only use "next/router" inside the client side of your app
 
 So this [error even has an page](https://nextjs.org/docs/messages/no-router-instance) on the Next.JS site and it's helpfully trying to tell me that I'm using the `router` on the server-side. It also sent me down the wrong route (hehe sorry) to try to create the routing in the `useEffect` hook.
 

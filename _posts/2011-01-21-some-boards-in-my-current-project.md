@@ -1,14 +1,13 @@
 ---
 layout: post
-title: The power of Visualization used in my current
-project
+title: The power of Visualization used in my current project
 date: '2011-01-21T10:47:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Kanban
-  - crum
-   - Agile
+  - Scrum
+  - Agile
 modified_time: '2011-01-22T07:41:06.071+01:00'
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TTlWvvTDc7I/AAAAAAAAAvI/e08Q24EVI9A/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2276640867182322749
@@ -32,8 +31,6 @@ src="http://lh3.ggpht.com/_TI0jeIedRFk/TTlWvvTDc7I/AAAAAAAAAvI/e08Q24EVI9A/wlEmo
 class="wlEmoticon wlEmoticon-winkingsmile"
 style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none"
 alt="Winking smile" />
-
-
 
 ### Project status board
 
@@ -65,13 +62,13 @@ data-border="0" width="243" height="357" alt="status per team" />](http://lh4.gg
 Each team are communicating their status by the use of three
 visualizations:
 
--   A traffic light (Red, Green, Yellow) that answers the question; “Do
+- A traffic light (Red, Green, Yellow) that answers the question; “Do
     we think that we will make our deadline?”
--   To the far left they also show the number of items **left** in their
+- To the far left they also show the number of items **left** in their
     respective backlog.
--   For each team there’s also noted their deadlines and other important
+- For each team there’s also noted their deadlines and other important
     dates to work against.
--   Finally on the right of the board there’s a section for any
+- Finally on the right of the board there’s a section for any
     problems.
 
 So with this there’s several ways to quickly get the status of the
@@ -119,13 +116,13 @@ different speed and with different methods.
 This is manifested in “funny” (?) in the section showing the backlog
 where the rows for each team right now says:
 
--   Team 1 – 18/24 backlog items left
--   Team 2 – 97/97 items left + 1/1 for an other little thing that
+- Team 1 – 18/24 backlog items left
+- Team 2 – 97/97 items left + 1/1 for an other little thing that
     doesn’t fit into their normal work (?)
--   Team 3 – 6/8 items left. Each item takes about 4-8 weeks to complete
+- Team 3 – 6/8 items left. Each item takes about 4-8 weeks to complete
     though.
--   Team 4 – 250 / 270 items to complete.
--   Team 5 – No known backlog. This is a maintenance team that gets work
+- Team 4 – 250 / 270 items to complete.
+- Team 5 – No known backlog. This is a maintenance team that gets work
     through a mailbox. About 15 work items passed through their lane on
     the board each day.
 
@@ -155,9 +152,9 @@ And we have a development team that converts a big VB6 client GUI to
 to visualize their work since they are tackling crosscutting concerns
 through the complete system. For example:
 
--   create and implement a new data access strategy through the whole
+- create and implement a new data access strategy through the whole
     system
--   remove all the Visual Basic 6 references that still is left in the
+- remove all the Visual Basic 6 references that still is left in the
     converted code.
 
 The complete backlog is just a couple of items. But they have to be done

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Applying the Switch framework to developers
-don’t want to write tests–part III
+title: Applying the Switch framework to developers don’t want to write tests–part III
 date: '2012-05-04T12:00:00.000+02:00'
 author: Marcus Hammarberg
 tags:
   - Tools
-  - ife of a consultant
-   - Agile -
-TDD
+  - Life of a consultant
+  - Agile
+  - TDD
 modified_time: '2012-05-04T12:00:05.962+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8461407434616449279
 blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_1663.html
@@ -26,8 +25,6 @@ target="_blank">part 2</a>).
 This post talks about the last part of the Switch Framework – Shape the
 path. This is all about making the change easier by helping our rider
 and elephant to get a smooth path to walk on as they change.
-
-
 
 ### Tweak the environment
 
@@ -61,7 +58,7 @@ href="http://hakanforss.wordpress.com/2011/09/05/standard-work-in-software-devel
 target="_blank">Håkan Forss has written extensively</a> on this in a
 project which I started and he finished. It was very simple actually
 with us just writing done what it meant to be done in this column; for
-example “at least one unit test written” (starting small). 
+example “at least one unit test written” (starting small).
 
 Another thing is what’s called “action triggers”, i.e. something in the
 environment that tells you to do something or act in a certain way –
