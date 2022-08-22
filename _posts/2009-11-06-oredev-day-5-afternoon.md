@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ÖreDev day \#5 – afternoon'
+title: ÖreDev day 5 – afternoon
 date: 2009-11-06T15:37:00.001Z
 author: Marcus Hammarberg
 tags:

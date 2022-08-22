@@ -38,11 +38,11 @@ This is the list - in order of importance:
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
-### \#4 Support the initiative
+### 4 - Support the initiative
 
 <div>
 
-This should be a no brainer but once you see it in action it's seldom
+This should be a no-brainer but once you see it in action it's seldom
 handled correctly.
 
 </div>

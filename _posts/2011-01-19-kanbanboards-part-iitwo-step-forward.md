@@ -20,7 +20,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-
 
 I am now the
 <a href="http://www.marcusoft.net/2010/03/arvid-and-gustav.html"
-target="_blank">father of three kids</a>. They are my \#1 priority. This
+target="_blank">father of three kids</a>. They are my 1 priority. This
 project will come second.  I’m doing the project for myself mostly, but
 am very humbled by the fact that several people already have shown
 interest in my undertakings.

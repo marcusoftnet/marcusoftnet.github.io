@@ -42,7 +42,7 @@ come out then...".
 
 Well he didn't so i open the door. He was still on the toilet looking at
 me, almost shameful:
-"I have made \#2!" - How did he want me to react to that! Corking up the
+"I have made 2!" - How did he want me to react to that! Corking up the
 champange?
 Marcus: "Well.... done? Please come out"
 "I can't clean myself"

@@ -27,7 +27,6 @@ I set this up, problems I’ve ran into and solutions to them and
 target="_blank">the code</a>.
 Please join me on the journey!
 
-
 ### Why test against the UI now again?
 
 The first thing to notice that testing against the UI is not the best
@@ -42,16 +41,16 @@ don’t need to know the internals of the application, and can be
 useful.
 The pros of testing against the UI are (IMHO):
 
--   You’re testing the complete application stack, end-to-end
--   It’s building a confidence and trust with your stakeholders, since
+- You’re testing the complete application stack, end-to-end
+- It’s building a confidence and trust with your stakeholders, since
     they can actually see the application being run on the screen.
 
 The cons is (sadly):
 
--   The tests take much longer time to run
--   The tests becomes brittle since the GUI often is the part of the
+- The tests take much longer time to run
+- The tests becomes brittle since the GUI often is the part of the
     application that changes most
--   Since you’re testing the whole stack of the application it’s harder
+- Since you’re testing the whole stack of the application it’s harder
     to setup correct test data and and other prerequisite. You cannot,
     easily, fake or mock part of the application infrastructure.
 
@@ -85,7 +84,6 @@ target="_blank">this post for more information</a>. I don’t want that
 since I want to be able to move the database together with the source.
 So I updated the Web.Config with this:
 
-
 All of this is made in a web application called Web found in
 <a href="https://github.com/marcusoftnet/SpecFlowAndFluentAutomation"
 target="_blank">the source code</a>.
@@ -97,19 +95,19 @@ I then created a class library called Specs (hey, love that
 target="_blank">BDD</a> stuff you know) and in that created the
 following folders:
 
--   Features – where my
+- Features – where my
     <a href="http://www.specflow.org/" target="_blank">SpecFlow</a>
     features will go
--   Steps – where my step definitions will end up
--   Automation – for all the infrastructure to get the automation to
-    work. In this folder I created a sub folder: 
-    -   PageWrappers – this folder will contain the wrappers for the
+- Steps – where my step definitions will end up
+- Automation – for all the infrastructure to get the automation to
+    work. In this folder I created a sub folder:
+  - PageWrappers – this folder will contain the wrappers for the
         different pages
 
 After that initial set up I was ready to start pulling
 <a href="http://www.nuget.org/" target="_blank">NuGet</a> packages in:
 
-> Install-Package SpecFlow 
+> Install-Package SpecFlow
 
 > Install-Package
 > <a href="http://www.nunit.org/" target="_blank">NUnit</a>
@@ -151,7 +149,7 @@ FluentAutomationTest:
 
 But sadly that didn’t work out as planned…
 
-### Gotcha \#1 – Firefox is default
+### Gotcha 1 – Firefox is default
 
 Firefox is the default browser for FluentAutomation. So, as I didn’t
 have it on the computer I tried to reconfigure the test to use another
@@ -160,7 +158,7 @@ browser.
 This works but I don’t want to say in each and every test which browser
 to use. But there is a Setup-method…
 
-### Gotcha \#2 – Setup is not for everything
+### Gotcha 2 – Setup is not for everything
 
 Every test class that will use the FluentAutomation should inherit from
 FluentTest. This gives you, amongst other things, a Setup-method to
@@ -176,7 +174,7 @@ this:
 
 So now the test is using InternetExplorer. But …
 
-### Gotcha \#3 – InternetExplorer and Enable protect mode
+### Gotcha 3 – InternetExplorer and Enable protect mode
 
 When that test started to run I got the next exception, with a very
 helpful message telling me that I needed to enable the protect mode for
@@ -194,7 +192,7 @@ alt="Confused smile" />) is checked.
 Re-running the test and everything was dandy! Success. Surely Chrome
 must be much simpler …
 
-### Gotcha \#4 – Download and copy the ChromeDriver
+### Gotcha 4 – Download and copy the ChromeDriver
 
 I flipped the I.Use() statement to use BrowserType.Chrome and crossed my
 fingers. No! Another helpful exception though. It told me to get and
@@ -219,10 +217,10 @@ fast.
 Now just back to Firefox. I downloaded it and change the
 I.Use()-statement to use BrowserType.FireFox (which is default). And …
 
-### Gotcha \#5 – Firefox not working
+### Gotcha 5 – Firefox not working
 
 This has to do with the SeleniumDriver not supporting the latest
-versions of Firexfox, <a
+versions of Firefox, <a
 href="http://www.simonrhart.com/2011/11/openqaseleniumwebdriverexception-failed.html"
 target="_blank">see this post</a>:
 
@@ -256,12 +254,12 @@ in here also. Here is my first stab:
 
 A few things to notice here:
 
--   Each page wrapper that inherits this base class will need to supply
+- Each page wrapper that inherits this base class will need to supply
     the relative path to the page
--   The base path will be stored in App.Config for the Specs-project
+- The base path will be stored in App.Config for the Specs-project
     which will give us possibilities to change that easy as we move
     through the environments
--   I’m using a static instance for the Browser so that I don’t need to
+- I’m using a static instance for the Browser so that I don’t need to
     open a close for each test
 
 Here is a page using that base class:
@@ -283,8 +281,8 @@ target="_blank">events and hooks</a> that you can use to perform task
 that you want to run before and after tests.
 In this case I’m:
 
--   Cleaning out the testdata I’ve used and change after each scenario
--   Closing the browser after each test run. You DO want to do this or
+- Cleaning out the testdata I’ve used and change after each scenario
+- Closing the browser after each test run. You DO want to do this or
     you’ll have 50+ browser instances open pretty quickly.
 
 ### Steps
@@ -299,7 +297,6 @@ of the scenario.
 Another tip is that you can stack different Given/When/Then-attributes
 on top of each other for readability. Like this:
 
-
 All of those steps will hit the same step definition HomePage().
 
 ## From feature to automation
@@ -308,38 +305,38 @@ Let’s follow a step from feature file all the way down to the automation
 as a final exercise. Note that here have translated the feature content
 to English as it’s Swedish in my sample:
 
-1.  The step “<span style="font-family: 'Courier New';">Given I am on
+1. The step “<span style="font-family: 'Courier New';">Given I am on
     the homepage” gets run as part of the scenario
-2.  SpecFlow calls into the step definition marked with the <span
+2. SpecFlow calls into the step definition marked with the <span
     style="font-family: 'Courier New';">“\[Given(@”I am on the
     homepage”)\]”. That method is defined on the Steps-class
-3.  The step definition contains of a single line; “<span
+3. The step definition contains of a single line; “<span
     style="font-family: 'Courier New';">\_teamListingPageWrapper.Visit();”
-    1.  \_<span
+    1. \_<span
         style="font-family: 'Courier New';">teamListingPageWrapper
         is a private variable in the Steps-class
-4.  The Visit()-method is definied on the <span
+4. The Visit()-method is definied on the <span
     style="font-family: 'Courier New';">PageWrapperBase class
     that simply use the Browser instance to Open the URL for the page;
     <span
     style="font-family: 'Courier New';">Browser.Open(pageURL);
-    1.  The pageURL is put together from the prefix found in the
+    1. The pageURL is put together from the prefix found in the
         app.config and the relative URL for the page we’re wrapping (“/”
         in this case)
-5.  If that works out the scenario continues on the next step: “<span
+5. If that works out the scenario continues on the next step: “<span
     style="font-family: 'Courier New';">Then a link for Create New team
     should be present on the page”
-6.  SpecFlow again calls into the right step definition
-7.  The step definition propagates into the page wrapper, in the method
+6. SpecFlow again calls into the right step definition
+7. The step definition propagates into the page wrapper, in the method
     <span
     style="font-family: 'Courier New';">AssertCreateNewTeamLinkExists()
-8.  In the page wrapper we’re looking for that link on the page with the
+8. In the page wrapper we’re looking for that link on the page with the
     following line, that will throw and exception if it fails – as we
     want:
     <span
     style="font-family: 'Courier New';">Browser.Expect.Text("Create
     New").In("a#NewLink");
-9.  Our test passes!
+9. Our test passes!
 
 ## Conclusion
 

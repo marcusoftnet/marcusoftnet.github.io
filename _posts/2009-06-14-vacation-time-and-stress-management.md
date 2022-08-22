@@ -32,7 +32,7 @@ for things that I might miss. It's a viscous circle. Also it tend to
 happen more and more frequently.
 
 But the sermon today spoke almost directly to me; it was about Jesus as
-our Lord, as \#1 in our life's. And a part of the scripture that was
+our Lord, as 1 in our life's. And a part of the scripture that was
 read was <a
 href="http://www.biblegateway.com/passage/?search=matt%206:33;&amp;version=31;"
 target="_blank">Matthew 6:33</a>

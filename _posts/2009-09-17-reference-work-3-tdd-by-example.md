@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reference work \#3 – TDD by example'
+title: Reference work 3 – TDD by example
 date: 2009-09-17T08:32:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -56,4 +56,4 @@ Oh yeah – now I have <a
 href="http://books.google.se/books?id=7dlaMs0SECsC&amp;dq=domain+driven+design+evans&amp;printsec=frontcover&amp;source=bn&amp;hl=sv&amp;ei=TPSxSur8FtzKjAeql6XVCw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4#v=onepage&amp;q=&amp;f=false"
 target="_blank">Domain-driven design: tackling complexity in the heart
 of software</a> on the table next to my bed. I am longing to read that
-one to. Reference work \#4…
+one to. Reference work 4…

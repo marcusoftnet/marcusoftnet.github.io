@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 5 Agile change tips \#2 - Sit together'
+title: Top 5 Agile change tips 2 - Sit together
 date: 2012-10-09T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -19,19 +19,18 @@ miserably with. Over and over. And learned a lot from.
 
 This is the list - in order of importance:
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a> (this post)
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a>
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
-    target="_blank">Support the initiative</a> 
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+    target="_blank">Support the initiative</a>
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
-### \#2 Sit together
+### 2 - Sit together
 
 <div>
 
@@ -97,18 +96,15 @@ other.
 This was the second post in my series of top 5 things to think about to
 succeed with agile transformation projects
 
-
-1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
+1. <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
-2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
+2. <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"
     target="_blank">Sit together</a> (this post)
-3.  <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
+3. <a href="http://www.marcusoft.net/2012/10/agilechangetop53.html"
     target="_blank">Let them change how they work</a>
-4.  <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
-    target="_blank">Support the initiative</a> 
-5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
+4. <a href="http://www.marcusoft.net/2012/10/agilechangetop54.html"
+    target="_blank">Support the initiative</a>
+5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
 </div>
-
-

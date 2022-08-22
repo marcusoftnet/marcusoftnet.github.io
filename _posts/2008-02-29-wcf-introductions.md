@@ -17,17 +17,16 @@ the Internet for good introductions to WCF and to message based calls.
 
 Here what i have found so far:
 
-
 A good highlevel article from MSDN -
 <http://msdn2.microsoft.com/en-us/library/aa480190.aspx>
 
 Some great and simply screen cast on how to use Visual Studio 2008 and
 WCF by Darryl Burling:
 
--   [Screen cast \# 2](http://burling.co.nz/MS/VS2008WCF.html) (can't
-    find \#1??)
--   [Screen cast \# 3](http://burling.co.nz/MS/VS2008WCFWF.html)
--   [Screen cast \# 4](http://burling.co.nz/MS/VS2008CAS.html)
+- [Screen cast \# 2](http://burling.co.nz/MS/VS2008WCF.html) (can't
+    find 1??)
+- [Screen cast \# 3](http://burling.co.nz/MS/VS2008WCFWF.html)
+- [Screen cast \# 4](http://burling.co.nz/MS/VS2008CAS.html)
 
 [The difference between Messaging and
 RPC](http://www2.sys-con.com/itsg/virtualcd/WebServices/archives/0304/melgar/index.html)

@@ -42,7 +42,6 @@ things better, to improve the effectiveness (the rate with which we
 reach our goal, if you remember). Just about every start-up company out
 there grew out of urges like these.
 
-
 <table class="tr-caption-container" data-cellpadding="0"
 data-cellspacing="0"
 style="float: left; margin-right: 1em; text-align: left;">
@@ -97,7 +96,7 @@ Why did Toyota come up with
 target="_blank">Toyota Production System</a> (roughly what we westerners
 calls lean)? Because they were smarter? Because they had someone there
 to point the way? Because they had a tradition of improvements etc (oh,
-well maybe that in fact...). 
+well maybe that in fact...).
 
 </div>
 
@@ -110,7 +109,7 @@ I think, and I have not seen any evidence for this being true I confess,
 that it had to do with the whole country being in ruins after the second
 world war. They had nothing! No factories left. No raw material. Few
 people. But they still decided that they could build cars for customers
-that wanted them. 
+that wanted them.
 
 </div>
 
@@ -119,7 +118,7 @@ that wanted them. 
 In order to do so with their
 <a href="http://www.marcusoft.net/2013/01/on-constraints.html"
 target="_blank">current constraints</a> they needed to focus on flowing
-value through the system fast. 
+value through the system fast.
 
 </div>
 
@@ -133,7 +132,7 @@ value through the system fast. 
 Focusing on reducing the time from order to car on your driveway. I see
 customer focus. They could have focused on their internal process,
 optimizing efficiency. But that was not their main goal, luckily. It was
-the effectiveness of the system. 
+the effectiveness of the system.
 
 </div>
 
@@ -148,7 +147,7 @@ the effectiveness of the system. 
   style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
              src="http://AgileManifesto.org/background.jpg" data-border="0"
                             width="320" height="240" /></a>                             |
-|                            From http://AgileManifesto.org                             |
+|                            From <http://AgileManifesto.org>                             |
 
 <a href="http://agilemanifesto.org/" target="_blank">Agile</a>. Same
 thing. A bunch of really smart guys came together, because the IT
@@ -159,7 +158,7 @@ href="http://www.drdobbs.com/architecture-and-design/the-non-existent-software-c
 target="_blank">don't trust the CHAOS report</a>, at least this was
 their experience (and mine, but they didn't invite me to the meeting...
 I had a really strict spam-filter back then... yeah, that was probably
-it). 
+it).
 
 </div>
 
@@ -168,7 +167,7 @@ it). 
 They <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">changed how they did work</a>... in order to deliver
 value to the customer, faster, and with better quality.
-Customer-focused. 
+Customer-focused.
 
 </div>
 
@@ -191,14 +190,13 @@ loudly, after each of these practices that today are mainstream. Do it
 as a homage to the pioneers that have fought to use these, if nothing
 else:
 
--   test driven development
--   involving customer in the software development process, early and
+- test driven development
+- involving customer in the software development process, early and
     continuously
--   pair programming
--   continuous delivery
--   \[agile practice \#24\]
--   \[agile practice that only you do in your context that have improved
-    your effectiveness\]
+- pair programming
+- continuous delivery
+- agile practice 42
+- agile practice that only you do in your context that have improved your effectiveness
 
 ### More examples?
 
@@ -227,7 +225,8 @@ href="http://techcrunch.com/2012/11/17/heres-how-spotify-scales-up-and-stays-agi
 target="_blank">Small, autonomous teams in charge of small parts of an
 overall product!</a> <a href="http://msdn.microsoft.com/en-us/magazine/cc337902.aspx"
 target="_blank">Alt.Net
-  - .NET framework programming without Microsoft
+
+- .NET framework programming without Microsoft
 (which basically introduced Open Source in the .NET world)</a>  <a href="http://theleanstartup.com/" target="_blank">Putting unfinished
 work into production to validate your ideas!</a>
 <a href="http://koajs.com/" target="_blank">Removing callbacks in
@@ -242,7 +241,7 @@ Node! </a>
 
 Yeah, I'm a simple man. It's a lot about software development in there.
 That's where I get most of my experience. But you can probably come up
-with a lot of examples in your domain, from your experience. 
+with a lot of examples in your domain, from your experience.
 
 </div>
 
@@ -275,7 +274,6 @@ other way.  In all honesty it scared me away from posting anything
 around those topic for awhile. I'm not afraid but I have better things
 to do than being yelled at and called names etc.
 
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a href="http://i.imgur.com/Og6PtyZ.jpg" data-imageanchor="1"
@@ -301,7 +299,6 @@ No - we (or they depending on which side of the fence you're on) want
 value. Output. We don't care much about the inside of the machine. Do
 whatever you need to do to continue to produce awesome, thank you.
 
-
 </div>
 
 <div>
@@ -312,7 +309,7 @@ down. Closer... There. Are you ready?
 
 <span style="font-size: x-small;">You know what... Agile is not the
 answer. Lean is not the answer. No Estimates is not the answer. We will
-find new ways. We will improve. Like in Jurassic park: 
+find new ways. We will improve. Like in Jurassic park:
 
 </div>
 
@@ -338,26 +335,25 @@ here\] simply will not listen.
 I have devised a training plan for you (and me) to get us. They are both
 very simple but will take you far:
 
-
-1.  Figure out who your customer is. Dare ask "Why are we here?" Hint;
+1. Figure out who your customer is. Dare ask "Why are we here?" Hint;
     it's not "the business" or the project manager. It's the one paying
     your bills...
-2.  Change something in *your* environment for the better to improve
+2. Change something in *your* environment for the better to improve
     your effectiveness in producing value for that customer. Start with
     something that you control and can change. Do small things first.
     Trivial stuff, but with the customer in mind. Motivate your change
     with increased value for the customer. Remember that you can do
     experiments that you think will improve your effectiveness and then
     evaluate.
-3.  Try to do such small changes at least once a week, preferably one
-    everyday. 
-4.  Read
+3. Try to do such small changes at least once a week, preferably one
+    everyday.
+4. Read
     <a href="http://heathbrothers.com/books/switch" target="_blank">Switch -
     how to change things when change is hard</a>. It's full of
     motivational stories of people with no or little power, money and
     influence that have change big organisations and even countries in
-    some cases. 
-5.  Start from 2 again. Repeat and reach wider and wider. Start asking
+    some cases.
+5. Start from 2 again. Repeat and reach wider and wider. Start asking
     questions on "Why we are here?"
 
 <div>
@@ -374,7 +370,7 @@ about change and getting others onboard.
 <div>
 
 I hope you found this post interesting. I learned a lot by trying to
-write it down. 
+write it down.
 
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scary stuff \#1 - taken down'
+title: Scary stuff 1 - taken down
 date: 2007-04-18T11:17:00.000Z
 author: Marcus Hammarberg
 tags:

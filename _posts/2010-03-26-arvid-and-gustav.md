@@ -33,7 +33,7 @@ title="Gustav Hammarberg"
 style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px"
 data-border="0" width="244" height="163" alt="Gustav Hammarberg" />](http://lh5.ggpht.com/_TI0jeIedRFk/S6u0LcjYPjI/AAAAAAAAAME/H6UepQWqzVY/s1600-h/DSC_2047%5B2%5D.jpg)
 
-Since then Gustav (twin \#2) has been sick. The short story is that
+Since then Gustav (twin 2) has been sick. The short story is that
 being born to early his lungs had not developed fully. And he has also
 been a better and is not on his way to a full recovery. We’re hoping to
 be back home with the twins in the beginning of the next week.
@@ -44,7 +44,7 @@ title="Arvid Hammarberg"
 style="border-bottom: 0px; border-left: 0px; display: inline; border-top: 0px; border-right: 0px"
 data-border="0" width="163" height="244" alt="Arvid Hammarberg" />](http://lh6.ggpht.com/_TI0jeIedRFk/S6u0Mu6gIHI/AAAAAAAAAMM/340c7ZdV9Z0/s1600-h/DSC_2045%5B4%5D.jpg)
 
-Arvid (twin \#1 with ca 30 min) is a very calm and peaceful person so
+Arvid (twin 1 with ca 30 min) is a very calm and peaceful person so
 far. Gustav has a bit more temper. But they are both quite easy going.
 Gustav looks a lot like me and Arvid is a bit thinner in his looks.
 

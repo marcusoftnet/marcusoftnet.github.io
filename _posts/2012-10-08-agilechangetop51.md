@@ -50,7 +50,7 @@ failed miserably with. Over and over. And learned a lot from.
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
-### \#1 Get a great "or else"-reason to change
+### 1 - Get a great "or else"-reason to change
 
 <div>
 

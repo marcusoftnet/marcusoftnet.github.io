@@ -28,7 +28,7 @@ This is the list - in order of importance:
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
-### \#3 Let them change how they work
+### 3 - Let them change how they work
 
 <div>
 

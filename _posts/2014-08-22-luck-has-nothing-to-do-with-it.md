@@ -27,8 +27,8 @@ good news; because that means that we can control it, do something about
 it.
 
 I'll share a few stories and then some thoughts in this post.
-### Example 1 - Clarinet players
 
+### Example 1 - Clarinet players
 
 I had the good fortune to do my military service in the <a
 href="http://www.forsvarsmakten.se/sv/organisation/livgardet/forsvarsmusiken/armens-musikkar/"
@@ -45,7 +45,6 @@ amazing musicians and some of them went on to great heights.
   src="http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s1600/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg"
                                                              data-border="0" width="200" height="200" /></a>                                                              |
 |                                                                       Nothing to do with Kristian                                                                       |
-
 
 I'm a brass musician (euphonium, mind you) and I had little experience
 with wood winds, whats easy and hard on those instruments, before being
@@ -77,7 +76,7 @@ it.
 I have been working with an organisation lately that was missing a vital
 permit. They were super late with their application. They official
 authorities promised to handle things as fast as possible, since they
-really needed that permit. 
+really needed that permit.
 
 </div>
 
@@ -90,7 +89,7 @@ Without the permit they were subjected to big risks.
 <div>
 
 They pushed hard, got the application in just in time, started to
-wait.... and got unlucky. 
+wait.... and got unlucky.
 
 </div>
 
@@ -149,7 +148,7 @@ margins. Luck has nothing to do with it.
 <div style="text-align: left;">
 
 I've worked a lot in the insurance industry. They manage risks for a
-living - that's how they make their money. 
+living - that's how they make their money.
 
 </div>
 
@@ -157,7 +156,7 @@ living - that's how they make their money. 
 
 At one such company the IT department had declared the "Stable IT"-year.
 They were reducing their 4 releases a year to 2. Just to make sure that
-the IT ran stable and nice. 
+the IT ran stable and nice.
 
 </div>
 
@@ -169,15 +168,15 @@ What happened at those deployment periods, do you think?  
 -   Before them everyone was trying to get all the things they needed
     ready. Corners was cut
 -   During the deployment about 300 systems was deployed and changed at
-    once. 
+    once.
 -   The complexity of the deployment projects was enormous.
 -   They had 4 full-time employed Deployment project managers, just to
     coordinate the activities
--   If they were really lucky everything went just as planned. 
+-   If they were really lucky everything went just as planned.
 -   Often (who said "Always"?!) things went bad. For at least some of
     the dependencies. Unluck and unexpected things.
 -   Minor extra releases had to be made. After the main release.
-    Changing things even further. 
+    Changing things even further.
 
 At this time I gave a Lean presentation and I had a slide on continuous
 delivery in there. This made them angry. I tried to show them with a
@@ -215,7 +214,7 @@ we just plan a little bit more ... next time will be without errors.
 
 No... it will not. Because you will not be lucky. It's too complex to do
 at the same time. Unexpected things will happen and with this complexity
-it will be impossible to handle.  Luck has nothing to do with it. 
+it will be impossible to handle.  Luck has nothing to do with it.
 
 </div>
 
@@ -225,7 +224,7 @@ it will be impossible to handle.  Luck has nothing to do with it. 
 
 Well, you can't. Or at least you should not have that as a strategy.
 Things happen that we didn't expect all the time. Some of them goes our
-way, some of them goes against our expectation. 
+way, some of them goes against our expectation.
 
 </div>
 
@@ -240,15 +239,15 @@ To me we now have two choices:
 
 <div>
 
-1.  \#noUnexpected - Plan for every possible outcome so that we quite
+1. \#noUnexpected - Plan for every possible outcome so that we quite
     sure that we're never surprised
-2.  \#changeIsTheNewStable - Adjust your process and ways of working so
+2. \#changeIsTheNewStable - Adjust your process and ways of working so
     that you can change when unexpected things happen
 
 <div>
 
 If you've read anything of what I've written you know that I lean
-strongly against \#2. I think \#1 above will be impossible, to expensive
+strongly against 2. I think 1 above will be impossible, to expensive
 and very slow. There's a great talk by
 <a href="https://vimeo.com/86396740" target="_blank">Dan North on the
 topic of unexpected events</a> that I recommend.
@@ -262,11 +261,11 @@ topic of unexpected events</a> that I recommend.
 
 <div>
 
-With \#2 alternative we're taking the ever changing nature of reality
+With 2 alternatives we're taking the ever changing nature of reality
 into consideration and instead prepare to change
 (<a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">yes... I said it again... change</a>) our process,
-policies and ways of working. 
+policies and ways of working.
 
 </div>
 
@@ -278,7 +277,7 @@ policies and ways of working. 
 Now, this is not just something that we can say "Now" and start to do.
 Or well it is... but this will cost. We you want to do this you now have
 to do the work to implement the change. Rewrite the "Standard Operating
-Procedure", roll out new training programs. 
+Procedure", roll out new training programs.
 
 </div>
 
@@ -291,7 +290,7 @@ And here's the bad news; you will have to do this often. In fact, you
 will have to have ways to get feedback faster, and to change faster in
 order for this to be an improvement tool. (Notice how cleverly I avoided
 to say how **fast** to get feedback and do changes. I only said faster.
-Ever faster). The smaller changes you do the faster you can do them. 
+Ever faster). The smaller changes you do the faster you can do them.
 
 </div>
 
@@ -303,7 +302,7 @@ Ever faster). The smaller changes you do the faster you can do them. 
 So maybe, writing "Standard operating procedures" is not the way to go.
 Or we should write them differently. Or let the people who work with the
 current situation change themselves. Maybe we shouldn't train as we do
-today... 
+today...
 
 </div>
 

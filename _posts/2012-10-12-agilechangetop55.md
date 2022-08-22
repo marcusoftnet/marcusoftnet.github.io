@@ -29,7 +29,8 @@ change initiative succeeds. Here's the list - in order of importance:
     target="_blank">Use visualised data to improve (this post)</a>
 
 </div>
-### \#5 Use visualized data to improve
+
+### 5 - Use visualized data to improve
 
 <div>
 

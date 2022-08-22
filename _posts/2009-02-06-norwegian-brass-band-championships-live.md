@@ -19,8 +19,8 @@ link: <http://www1.nrk.no/nett-tv/distrikt/hordaland/verdi/89482>.
 target="_blank">Here</a> is the order of play.
 
 My tip for the whole thing is:
-1- Eikanger Bjorsvik (Go Patrik!) – Draw \#3
-2 – Stavanger – Draw \#9
-3 – Manger – Draw \#1 (I missed that)
+1- Eikanger Bjorsvik (Go Patrik!) – Draw 3
+2 – Stavanger – Draw 9
+3 – Manger – Draw 1 (I missed that)
 
 Dark horse - Oslo Brass Band
