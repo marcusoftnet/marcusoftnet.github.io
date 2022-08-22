@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  MOQ and the Test Run deployment issue The location of the file or directory
+title: MOQ and the Test Run deployment issue The location of the file or directory
   problem
 date: 2009-03-19T12:44:00.001Z
 author: Marcus Hammarberg

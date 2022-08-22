@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  The "Don''t fear audits and the news"-business methodology - with
+title: The "Don''t fear audits and the news"-business methodology - with
   certification
 date: 2014-10-30T04:18:00.003Z
 author: Marcus Hammarberg

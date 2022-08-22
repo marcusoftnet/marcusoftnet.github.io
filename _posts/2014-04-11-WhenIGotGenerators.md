@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  KoaJs and the SyntaxError Unexpected identifier error - or that time when I
+title: KoaJs and the SyntaxError Unexpected identifier error - or that time when I
   understood generators
 date: 2014-04-11T14:43:00.001Z
 author: Marcus Hammarberg

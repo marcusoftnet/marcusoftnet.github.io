@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Refactoring a Koa app - or how I learned a lot about modern JavaScript while
+title: Refactoring a Koa app - or how I learned a lot about modern JavaScript while
   refactoring an old app
 author: Marcus Hammarberg
 date: 2018-06-05T21:07:13.000Z

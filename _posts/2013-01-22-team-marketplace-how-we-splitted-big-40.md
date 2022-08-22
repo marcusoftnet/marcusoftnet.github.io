@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Team marketplace - how we splitted a big 40 person team into 5 small in 2
+title: Team marketplace - how we splitted a big 40 person team into 5 small in 2
   hours
 date: 2013-01-22T11:32:00.002Z
 author: Marcus Hammarberg

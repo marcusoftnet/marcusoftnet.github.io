@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Error message "Could not load file or assembly
+title: Error message "Could not load file or assembly
   'Microsoft.VisualStudio.Enterprise.ASPNetHelper" when deploying
 date: 2008-04-04T07:41:00.001Z
 author: Marcus Hammarberg

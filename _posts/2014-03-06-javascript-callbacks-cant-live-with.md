@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Javascript callbacks - cannot live with them cannot live without them... or
+title: Javascript callbacks - cannot live with them cannot live without them... or
   can you?
 date: 2014-03-06T07:00:00.000Z
 author: Marcus Hammarberg

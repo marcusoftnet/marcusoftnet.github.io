@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  UTA058 The test engine cannot run tests in the assembly for out integration
+title: UTA058 The test engine cannot run tests in the assembly for out integration
   test
 date: 2008-12-11T13:35:00.001Z
 author: Marcus Hammarberg

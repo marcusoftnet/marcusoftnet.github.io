@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Use command line option '/keyfile' or appropriate project settings instead of
+title: Use command line option '/keyfile' or appropriate project settings instead of
   'AssemblyKeyFile'
 date: 2006-11-06T07:16:00.000Z
 author: Marcus Hammarberg

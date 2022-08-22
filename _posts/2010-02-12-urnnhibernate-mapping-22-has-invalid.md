@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  ‘urn:nhibernate-mapping-2.2' has invalid child element 'property' and Fluent
+title: ‘urn:nhibernate-mapping-2.2' has invalid child element 'property' and Fluent
   NHibnerate
 date: 2010-02-12T10:29:00.001Z
 author: Marcus Hammarberg

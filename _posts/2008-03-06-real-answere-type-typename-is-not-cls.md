@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Real answere - Type '\[typename\]' is not CLS-compliant, interface, tests and
-  dependency injection
+title: Real answer - Type typename is not CLS-compliant, interface, tests and dependency injection
 date: 2008-03-06T06:31:00.004Z
 author: Marcus Hammarberg
 tags:

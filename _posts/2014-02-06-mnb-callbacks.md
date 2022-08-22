@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Marcus Node Bits - Callback function is cool stuff, and I even know how to
+title: Marcus Node Bits - Callback function is cool stuff, and I even know how to
   write them
 date: 2014-02-06T10:50:00.000Z
 author: Marcus Hammarberg

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Great Visual Studio integration - another of the many reasons to upgrade to
+title: Great Visual Studio integration - another of the many reasons to upgrade to
   SpecFlow 1.9
 date: 2012-08-09T19:19:00.001Z
 author: Marcus Hammarberg

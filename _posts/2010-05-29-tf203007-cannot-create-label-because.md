@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  TF203007 Cannot create the label because the version controlled item […]
+title: TF203007 Cannot create the label because the version controlled item […]
   already exists or has been specified more than once
 date: 2010-05-28T18:38:00.001Z
 author: Marcus Hammarberg

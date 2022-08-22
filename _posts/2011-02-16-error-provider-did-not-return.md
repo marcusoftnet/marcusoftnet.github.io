@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Error “The provider did not return a ProviderManifestToken string” with SQL
+title: Error “The provider did not return a ProviderManifestToken string” with SQL
   Compact Edition
 date: 2011-02-16T12:51:00.001Z
 author: Marcus Hammarberg

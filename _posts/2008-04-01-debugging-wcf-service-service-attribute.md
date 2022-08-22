@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Debugging WCF Service - the Service attribute value in the ServiceHost
+title: Debugging WCF Service - the Service attribute value in the ServiceHost
   directive could not be found
 date: 2008-04-01T11:26:00.004Z
 author: Marcus Hammarberg

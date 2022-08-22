@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  System.InvalidOperationException No automation provider available MsTest and
+title: System.InvalidOperationException No automation provider available MsTest and
   FluentAutomation
 date: 2012-05-28T14:08:00.001Z
 author: Marcus Hammarberg

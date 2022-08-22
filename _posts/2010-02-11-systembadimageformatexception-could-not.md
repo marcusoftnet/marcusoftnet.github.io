@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  System.BadImageFormatException Could not load file or assembly
+title: System.BadImageFormatException Could not load file or assembly
   System.Data.SQLite
 date: 2010-02-11T07:02:00.001Z
 author: Marcus Hammarberg

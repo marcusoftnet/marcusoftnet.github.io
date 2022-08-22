@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  TF 20017 - The area or iteration provided for field 'IterationPath' could not
+title: TF 20017 - The area or iteration provided for field 'IterationPath' could not
   be found
 date: 2008-02-29T14:52:00.005Z
 author: Marcus Hammarberg

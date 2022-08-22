@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Setting up a new development machine without pressing Next a single time using
+title: Setting up a new development machine without pressing Next a single time using
   Chocolately
 date: 2013-08-01T18:28:00.001Z
 author: Marcus Hammarberg

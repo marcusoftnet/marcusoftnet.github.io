@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Required file 'alink.dll with IAlink3' could not be found - and the solution
+title: Required file 'alink.dll with IAlink3' could not be found - and the solution
   to it
 date: 2008-04-09T06:03:00.001Z
 author: Marcus Hammarberg

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Comments on common board practices - It’s not a kanban board if you don’t have
+title: Comments on common board practices - It’s not a kanban board if you don’t have
   a WIP limit
 author: Marcus Hammarberg
 date: 2017-02-27T15:13:13.000Z

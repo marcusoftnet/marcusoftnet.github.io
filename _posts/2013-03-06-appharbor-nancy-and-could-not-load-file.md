@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  AppHarbor, Nancy and the Could not load file or assembly
+title: AppHarbor, Nancy and the Could not load file or assembly
   'Nancy.ViewEngines.Razor.BuildProviders' error
 date: 2013-03-06T10:35:00.000Z
 author: Marcus Hammarberg

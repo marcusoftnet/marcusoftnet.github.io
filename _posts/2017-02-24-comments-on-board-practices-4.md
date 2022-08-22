@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Comments on common board practices - Colours speaks volumes. Use colours
+title: Comments on common board practices - Colours speaks volumes. Use colours
   wisely
 author: Marcus Hammarberg
 date: 2017-02-24T15:13:13.000Z

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Code Freeze, Recompile and Code generations - stuff thats not that scary with
+title: Code Freeze, Recompile and Code generations - stuff thats not that scary with
   CD
 date: 2012-11-02T10:37:00.000Z
 author: Marcus Hammarberg
