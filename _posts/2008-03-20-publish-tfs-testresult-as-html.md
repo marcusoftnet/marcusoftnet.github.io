@@ -48,7 +48,7 @@ some steps on how to include the functionality in your build script:
     \</createitem\>
     \<ridotasks.trx2html filename="%(trxfiles.Identity)"\>
     \</target\>
-5.  Inform your project where to find your latest reports, which is the
+5. Inform your project where to find your latest reports, which is the
     same directory as the testresult itself
    \<Exec Command="xcopy
     "$(DropLocation)\\$(BuildNumber)\TestResults\\*.htm"

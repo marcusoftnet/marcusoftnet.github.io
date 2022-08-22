@@ -181,7 +181,6 @@ Ok - the content of the script will be different per repository, that was the wh
 
 * Run linting scripts and make sure that it's the expected number of linting errors
 
-
 * Run the tests and make sure the right number of tests fails, as it should be once the repository is returned.
 
 The script as a whole will return a string with information about the verification and exit status (if any of the tests fail, I'd like to indicate a failure, for example).

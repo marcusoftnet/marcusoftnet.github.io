@@ -59,7 +59,7 @@ There's still a "Raw data"-tab where the export from a tool can be poured. Or yo
 
 Now I can "easily" grab all of that data and do the lead time calculations using the [QUERY](https://support.google.com/docs/answer/3093343?hl=en&authuser=0)-function like this:
 
-```
+```text
 =QUERY('Raw data'!A:H, "SELECT A, dateDiff(H, G) + 1, toDate(H) WHERE H IS NOT NULL ORDER BY H LABEL dateDiff(H, G) + 1 'Flow time', toDate(H) 'Date closed' ")
 ```
 
@@ -74,7 +74,7 @@ This looks hairy but is really quite simple:
 Cool - that means that we now calculate the flow time and closed date per item automatically. More so, as the dataset grows with new lines it will automatically be picked up by the query and added to the end. No need to remember to append new rows of formulas… yet.
 The month closed is calculated by just appending the parts of the date together. I've also included a check for no data so that I can have a formula for rows where the QUERY will add rows later:
 
-```
+```text
 =IF(C2<>"", YEAR(C2) & "-" & IF(MONTH(C2)<10,"0"&MONTH(C2),MONTH(C2)), "")
 ```
 
@@ -88,7 +88,7 @@ Pretty good, huh? And it follows the good practice of a forecast: a span and a c
 
 And even better - supersimple to calculate:
 
-```
+```text
 =IF(B2<>"", PERCENTILE(B:B, 0.5), "")
 ```
 
@@ -99,7 +99,7 @@ That is:
 
 I even created a header containing this information:
 
-```
+```text
 ="50% (" &E2 & " days)"
 ```
 
@@ -151,7 +151,7 @@ This is just from the top of my head, but since throughput is tracking the numbe
 
 Now my throughput reporting looks like this:
 
-```
+```text
                         Total    S    M    L
 50% percentile / month    29        15    5    9
 85% percentile / month    13        9    1    2

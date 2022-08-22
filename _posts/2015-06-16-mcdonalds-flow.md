@@ -62,9 +62,9 @@ Rather, it's easy in a McDonalds restaurant to see and focus on the work flowing
 1. Customer comes to the counter
 1. Customer makes my order
 1. A cashier dispatch the order to the burger makers
- 1. Burger gets made
- 1. Cashier picks up money
- 1. Cashier picks up drinks
+1. Burger gets made
+1. Cashier picks up money
+1. Cashier picks up drinks
 1. Cashier gets the food
 1. Customer picks up my food and go to the table
 1. Customer eats and enjoy the calm environment

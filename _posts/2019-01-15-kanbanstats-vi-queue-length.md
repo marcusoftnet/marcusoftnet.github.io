@@ -83,7 +83,7 @@ In order to do that we will use the [`VLOOKUP`-function](https://support.google.
 
 First - to get the name of the column per status.
 
-```
+```text
 =VLOOKUP(D2, $A:$B, 2, FALSE)
 ```
 
@@ -99,7 +99,7 @@ First I get the `UNIQUE`-column names and put them into column `G` (`=SORT(UNIQU
 
 The total number of items per can now be calculated by summarizing all with a certain column name:
 
-```
+```text
 =SUMIF(F:F, G2, E:E)
 ```
 
@@ -120,7 +120,7 @@ For example; let's try to answer how long it will take us to empty the backlog i
 
 In order to do that we are going to use the calculations about [throughput that we did before](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) and the average number of items, we complete per week. We can get that by doing the average of the "Completed per week"-column on the "Throughput calculations sheet"
 
-```
+```text
 =H2/AVERAGE('Throughput calculations'!I:I)
 ```
 

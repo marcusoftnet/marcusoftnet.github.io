@@ -142,7 +142,7 @@ We want developers like that. Because they will be ready to keep learning for th
 
 (I'm not screaming in people's face, though... I'm [more of a poem-guy](https://www.youtube.com/watch?v=vyGB-bLA62Q&) :))
 
-# Summary
+## Summary
 
 As I read the book Antifragile I realized why this works;
 

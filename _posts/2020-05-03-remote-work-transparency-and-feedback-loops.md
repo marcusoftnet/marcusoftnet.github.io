@@ -22,6 +22,8 @@ Have you ever written a question to someone in chat and then got stuck waiting f
 
 > What do you think about the documentation update I finished yesterday?
 
+, or
+
 > What are the latest sales numbers?
 
 or

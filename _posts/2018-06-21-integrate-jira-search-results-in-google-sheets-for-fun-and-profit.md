@@ -30,7 +30,7 @@ In short:
 
 [JIRA](https://www.atlassian.com/software/jira) has a really powerful tool in searching for issues, through it's query langauge [JQL](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14). If you head on to the search feature (Issues -> Search for issues) we can try something out:
 
-```
+```text
 Resolution is not empty and labels in (roar-subzero-tech, wtp-unplanned)
 ```
 
@@ -48,7 +48,7 @@ This mean that should we change the definition we just change this filter query 
 
 Fun fact: I actually just change that filter to this
 
-```
+```text
 Resolution is not empty and labels in (roar-subzero-tech)
 ```
 
@@ -60,7 +60,7 @@ Now considering a case where you have many teams in an organsations; `roar-subze
 
 Ha! This is easy: just make a filter like above and then use that in a filter of filter query like this:
 
-```
+```text
 filter in (tech-items-for-roar-subzero, tech-items-for-roar-counters, tech-items-for-roar-reporters, tech-items-for-roar-core)
 ```
 
@@ -74,7 +74,7 @@ But we can do more, since that now is a lot of items (potentially) we need to fi
 
 I created yet another filter that I called `tech-items-for-roar-last-month` and wrote it like this:
 
-```
+```text
 filter in (tech-items-for-roar) and resolved > -30d
 ```
 
@@ -120,7 +120,7 @@ Now this is cool, but requires us to go to this page and click these buttons eve
 
 Do that again, but this time **right-click** `CSV (Current fields)` and copy the link address. You should have something like this on you clipboard:
 
-```
+```text
 https://{serveraddress}/sr/jira.issueviews:searchrequest-csv-current-fields/30966/SearchRequest-30966.csv
 ```
 

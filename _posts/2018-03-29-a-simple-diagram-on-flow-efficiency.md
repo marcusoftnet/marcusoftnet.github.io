@@ -57,7 +57,7 @@ Simply just decorate the diagram with the names of the process-stages (in some c
 
 Now we can easily calculate the flow efficiency (using the numbers in the picture):
 
-```
+```text
 Work Dep 1: 12 h
 Wait: 2 weeks á 40 h = 80 h
 Work Dep 2: 1 day * 8 h = 8 h

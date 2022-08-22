@@ -36,7 +36,7 @@ Putting a tag on the item, means that it is different from the other, untagged i
 
 Yes, your behaviour about reporting changed. We wanted this item to be reported differently.
 
-# Summary
+## Summary
 
 Visualization is a powerful tool. We should use it wisely so that each thing we visualize is related to a change in behaviour we want to see. Tagging work is such a visualization. For each tag, ask yourselves:
 

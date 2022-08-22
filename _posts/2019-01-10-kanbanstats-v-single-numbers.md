@@ -64,7 +64,7 @@ Ok with that in place the averages are pretty easy to do.
 
 The average lead time is very simple to calculate:
 
-```
+```text
 =Average(E2:E)
 ```
 
@@ -78,7 +78,7 @@ To do this I first listed all our unique estimates: `=UNIQUE($C$2:$C)` which, fo
 
 I then created the following average-formula, to select the lead times for all the work estimated to S:
 
-```
+```text
 =AverageIf($C$2:$C, I4, $E$2:$E)
 ```
 
@@ -126,7 +126,7 @@ Doing the MEDIAN calculations are very similar to the average... except in it's 
 
 Yup - dead simple:
 
-```
+```text
 =MEDIAN(E2:E)
 ```
 
@@ -134,7 +134,7 @@ Yup - dead simple:
 
 Now it becomes a little tricky since Median doesn't have a `MEDIANIF`. So we will just the [FILTER](https://www.lifewire.com/google-spreadsheets-median-function-3123873)-function to do the filtering and then pass the result of the MEDIAN function. Like this:
 
-```
+```text
 =MEDIAN(FILTER($E$2:$E, $C$2:$C =K4 ))
 ```
 

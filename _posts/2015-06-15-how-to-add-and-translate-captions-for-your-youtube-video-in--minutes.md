@@ -64,10 +64,10 @@ Now you can click to "Add new subtitles or CC":
 1. First select the language that the subtitles will be in. In my case English.
 1. For "Select Method" there's a number of options, which of I found the "Transcribe and set timings" the easiest by far. Click it.
 1. This opens a wizard, that truly deserve the name. It's meant to be used so that you type while the video plays. But that's very hard to do, there's an easier way:
- 1. In the Video transcript we paste all the presenter notes. [Here's a great little trick](https://apple.stackexchange.com/questions/136118/how-to-print-full-presenter-notes-without-slides-in-keynote/142533#142533?newreg=ffd688b861374b5cbd4b75a490bdb30f) for how to get hold of them as text, when using Keynote
- 1. Click Save or wait for it to be auto-saved
- 1. Now click "Set timings". This will try to match up what's said in the video with the transcript text. AMAZING! And it's pretty good what I've seen, so far
- 1. At this point you'll have to wait a couple of minutes before YouTube is done. Well worth it comparing to write all that by hand.
+1. In the Video transcript we paste all the presenter notes. [Here's a great little trick](https://apple.stackexchange.com/questions/136118/how-to-print-full-presenter-notes-without-slides-in-keynote/142533#142533?newreg=ffd688b861374b5cbd4b75a490bdb30f) for how to get hold of them as text, when using Keynote
+1. Click Save or wait for it to be auto-saved
+1. Now click "Set timings". This will try to match up what's said in the video with the transcript text. AMAZING! And it's pretty good what I've seen, so far
+1. At this point you'll have to wait a couple of minutes before YouTube is done. Well worth it comparing to write all that by hand.
 
 Soon you will have very good subtitles for you video. The quality of the subtitles will of course depend on how close you follow the transcript when you are recording / presenting.
 

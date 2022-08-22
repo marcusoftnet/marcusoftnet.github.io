@@ -169,7 +169,7 @@ git commit -m "Initial commit"
 
 Then I created a new repo in GitHub and pushed my local repository there:
 
-```
+```bash
 git remote add origin git@github.com:marcusoftnet/WebAPIExercises.git
 git branch -M main
 git push -u origin main

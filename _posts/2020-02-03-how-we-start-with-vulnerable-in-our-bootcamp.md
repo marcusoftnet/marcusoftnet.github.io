@@ -35,11 +35,9 @@ The second thing that will foster not only learning but also a psychological saf
 
 Hence one of the first exercises of the [</salt>](https://salt.study/) boot camp is oral. The entire class are required to repeat after me:
 
-> I don't know
-
-> I don't understand.
-
-> Heck ... I don't even have the foggiest idea
+* `I don't know`
+* `I don't understand`
+* `Heck ... I don't even have the foggiest idea`
 
 When doing team-based learning (as mob programming is all about) it is paramount that everyone dares to air their questions, confusion and need for help. I've found that in saying it once in a big group, and in a bit of a fun way, increase the likelihood of people saying it again.
 

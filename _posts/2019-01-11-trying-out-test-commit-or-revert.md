@@ -16,7 +16,7 @@ I read Kents blog post a bit too fast and missed that this idea was actually pro
 
 And after some [even more research the origins seems to be traced back](https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520) to a group of people that took a workshop with Kent Beck. Not only Oddmund Strømme but also Lars Barlindhaug and Ole Tjensvoll Johannessen. Those Norwegians... always a few steps ahead of me.
 
-**[BACK TO THE OLD TEXT]**
+### [BACK TO THE OLD TEXT]
 
 When I read his [blog post](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864) I got to this quote:
 

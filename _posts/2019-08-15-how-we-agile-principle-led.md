@@ -262,7 +262,7 @@ The product owner for the teams meet weekly (or if it is bi-weekly) and that is 
 
 There are other groups forming around other types of cross-cutting concerns; developing and testing for example. And hey; Agile, of course. We share and spread information but leave the decisions up to the autonomous teams.
 
-### Why
+### Why again
 
 The first thing that I've noticed here is that much of the things that used to be a need for synchronization goes away as we start to focus on team autonomy and effects.
 

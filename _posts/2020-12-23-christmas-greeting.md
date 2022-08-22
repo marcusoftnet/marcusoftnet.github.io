@@ -37,7 +37,6 @@ Here it is, with me playing together with my good friend Jon-Anders Martinhussen
 > I have paused at the road to rest for a while
 >
 > And was caught by the borderland that unites night and day
-
 > And a ray of light behind the arched window frame
 >
 > Has united those spirits that are here in time with us
@@ -51,9 +50,8 @@ Here it is, with me playing together with my good friend Jon-Anders Martinhussen
 >
 > And I sing to the heavens, maybe someone else listens
 >
-> "Hosianna in the highest," then I start to walk
-
-> And I go to the others, I want to feel Cristmas peace
+> "Hosanna in the highest," then I start to walk
+> And I go to the others, I want to feel Christmas peace
 >
 > I want to believe that He was born and exists with us in time
 >
