@@ -45,7 +45,7 @@ is: <http://kurtsh.spaces.live.com/blog/cns!DA410C7F7E038D!1902.entry>
     Select the "Compact" option then select "Replacing the original
     file".  This will take a few minutes.
 
-One thing to note is that bullet point \#3 describes that you should
+One thing to note is that bullet point 3 describes that you should
 attach the .ISO image that is referenced. This can be done directly in
 Virtual PC and the menu command is called capture (CD -\> capture ISO
 image...). Maybe self explanatory for some but I looked around a while
