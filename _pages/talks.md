@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Talks and workshops"
-description: "Some of my talks and workshops"
-header-img: "img/about-bg.jpg"
+permalink: /talks/
+title: Talks and workshops
+description: Some of my talks and workshops
+header-img: img/about-bg.jpg
 ---
 
 I have done quite a few different talks and workshops during my career and here are a few that have proven popular and appreciated.
@@ -17,7 +18,7 @@ I have done quite a few different talks and workshops during my career and here 
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop, we examine the earlier phases of development and see how lean principles and kanban can help us to improve flow. | 2-3 hours |
-| [Serverless - What? Why? How? ](#serverless---why-what-how) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with these capabilities. There will be demos | 1-2 hours |
+| [Serverless - What? Why? How?](#serverless---why-what-how) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with these capabilities. There will be demos | 1-2 hours |
 
 ## The Bungsu Story - inspirational presentation
 
@@ -81,11 +82,13 @@ This presentation dives into the principles behind agile (and lean) to help us u
 - Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
 
 ### Audience
+
 This presentation is good for teams that of any kind (not only IT team, not only development) that just started their agile journey, or are just about to start using agile methods.
 
 It can also be used as a conversation starter between an agile team and people around the team that needs help understanding the principles the team are working from.
 
 ### Length
+
 I usually do this as a 1-2 hour presentation, but very frequently follow up with a discussion / open space or hands-on coaching around a team board.
 
 ## Kanban in Action - improve my kanban board
@@ -109,7 +112,6 @@ The session can be run in several different modes:
 - A wide range of the problem, situation and solutions to common challenges for the kanban team
 - Through the example a solid understanding of what the principles of kanban, lean and agile means in practices.
 
-
 ### Audience
 
 This presentation is intended for teams that already are using agile methods and wants some inspiration to take it to the next level. Since the content is audience driven we can adjust it to the level that benefits the team the most.
@@ -118,7 +120,7 @@ This presentation is intended for teams that already are using agile methods and
 
 1 to 3 hours - depending on the audience input.
 
-## Kanban in Action - process improvements now! And forever!
+## Kanban in Action - process improvements now! And forever
 
 This workshop will teach you the foundations of kanban in a very practical and entertaining way. Kanban can help you improve your process to more effectively deliver value - no matter what process you are working with now, or how good you are in doing it.
 
@@ -170,6 +172,7 @@ This workshop is useful to connect the product team (product owner etc) closer t
 Serverless is the new superpower in IT. In this talk, we will take a look at why serverless give us superpowers. We will check out, briefly, how to wield this new power. But with great powers comes some responsibility and we will briefly checkout how might we need to change our ways and our code to get the most out of the serverless superpower.
 
 ### Outcomes
+
 - Understanding of what serverless is
 - Understanding of how it can help us to move faster
 - An orientation of the AWS platform, 10000 feets
@@ -182,4 +185,3 @@ This is an overview of what serverless is but there will be code as well, nothin
 ### Length
 
 1 - 2 hours
-

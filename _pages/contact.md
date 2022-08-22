@@ -1,12 +1,11 @@
 ---
 layout: page
-title: "Contact me"
-description: "How may I help you?"
-header-img: "img/contact-bg.jpg"
-header-img-caption: "Old telephone by <a href='https://www.flickr.com/photos/ajc1/'>AJ Cann</a> used under <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>Creative Commons</a>"
+title: Contact me
+permalink: /contact/
+description: How may I help you?
+header-img: img/contact-bg.jpg
 ---
 
-{{ page.header-img-caption }}
 
 [@marcusoftnet](<https://twitter.com/>{{ site.twitter_username }})
 
