@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Ok then, Moogose is pretty
+title: Marcus Node Bits: Ok then, Moogose is pretty
 sweet'
-date: '2014-03-05T08:00:00.000+01:00'
+date: 2014-03-05T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript
   - Tools
   - Agile
-modified_time: '2014-06-02T10:56:52.500+02:00'
+modified_time: 2014-06-02T10:56:52.500+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2091121684384294337
 blogger_orig_url: http://www.marcusoft.net/2014/03/mnb-mongoosejs.html
 ---
@@ -66,11 +66,8 @@ Here's an example on how to create a new thing (in this case a Post in
 the <a href="http://github.com/aptitud/AptiTalk"
 target="_blank">AptiTalk</a> application):
 
-</div>
 
 
-
-<div>
 
 Let's go through it in detail, since it's not the most basic example
 (that can be found on
@@ -143,11 +140,8 @@ similar indeed. Here's a list of them in action:
 
 </div>
 
-</div>
 
 
-
-<div>
 
 ###
 
@@ -163,9 +157,6 @@ implementations that I maybe shouldn't be looking for. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -177,9 +168,6 @@ mock out Mongoose itself... but then my tests are testing nothing. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -191,9 +179,6 @@ test. Basically overriding the real implementation just for the test)
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -252,9 +237,6 @@ a situation that I cannot handle. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

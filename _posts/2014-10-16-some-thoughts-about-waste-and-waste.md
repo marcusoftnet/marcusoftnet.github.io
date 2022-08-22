@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some thoughts about waste and waste reduction
-date: '2014-10-16T10:39:00.001+02:00'
+date: 2014-10-16T10:39:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-10-16T10:39:11.131+02:00'
+modified_time: 2014-10-16T10:39:11.131+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4472025686517620555
 blogger_orig_url: http://www.marcusoft.net/2014/10/some-thoughts-about-waste-and-waste.html
 ---
@@ -46,9 +46,6 @@ is waste and not, by
 > bill
 > — Jon Terry (@leankitjon) [October 14,
 > 2014](https://twitter.com/leankitjon/status/521858229954174976)
-
-
-
 <div>
 
 I shared what I learned from <a
@@ -86,9 +83,6 @@ them together? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -100,9 +94,6 @@ this be? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -139,9 +130,6 @@ producing. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

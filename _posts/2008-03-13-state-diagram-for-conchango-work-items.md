@@ -1,11 +1,11 @@
 ---
 layout: post
 title: State diagram for Conchango work items
-date: '2008-03-13T08:57:00.004+01:00'
+date: 2008-03-13T08:57:00.004+01:00
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: '2010-12-14T16:22:51.425+01:00'
+modified_time: 2010-12-14T16:22:51.425+01:00
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9ktYrtDxcI/AAAAAAAAASU/GFZ-Pox2QKM/s72-c/conchango.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3002085824029122061
 blogger_orig_url: http://www.marcusoft.net/2008/03/state-diagram-for-conchango-work-items.html
@@ -23,11 +23,8 @@ When we started to use the Conchango template for Team Foundation Server
 i immediately got a few questions about how the states flow for the
 different work items.
 
-</div>
 
 
-
-<div>
 
 So - i know that you can get a kind of State diagram for work items but
 don't know where to get it. Apparently it's possible to see with the

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpecFlow.Assist.Dynamic–how to use it
-date: '2011-11-01T08:00:00.000+01:00'
+date: 2011-11-01T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,7 +9,7 @@ tags:
   - .NET
   - Specification by example
   - SpecFlow
-modified_time: '2011-11-03T16:39:48.397+01:00'
+modified_time: 2011-11-03T16:39:48.397+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-651375687003503
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamichow-to-use-it.html
 ---

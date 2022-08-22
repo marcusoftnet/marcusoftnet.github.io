@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Team marketplace - how we splitted a big 40 person team into 5 small in 2 hours
-date: '2013-01-22T12:32:00.002+01:00'
+date: 2013-01-22T12:32:00.002+01:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Agile
-modified_time: '2013-02-11T13:50:54.020+01:00'
+modified_time: 2013-02-11T13:50:54.020+01:00
 thumbnail: http://3.bp.blogspot.com/-zoGsR5Z8uz8/UP553fs4fVI/AAAAAAAABaE/1v0f9oOQ8lQ/s72-c/IMG_2848.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3948823221238371465
 blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html

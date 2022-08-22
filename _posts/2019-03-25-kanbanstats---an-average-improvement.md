@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KanbanStats - an average improvement"
-author: "Marcus Hammarberg"
+title: KanbanStats - an average improvement
+author: Marcus Hammarberg
 date: 2019-03-25 12:41:24
 tags:
 
@@ -38,13 +38,7 @@ All of this new knowledge amounts a bit of an embarrassing situation for me, as 
 But hey - learning is learning and now I want to redeem myself and do something better.
 
 In this blog post, I will instead show you a better (and much simpler) way to show data that helps you forecast (not estimate mind you) *when it will be done*.
-
-
-
 Also, Mr Vacanti solved a thing that I always end up arguing about. What if something starts and stop on the same day? How long is that? Well… 1 day of course. But if you do a date-diff function it will be 0 days. Hence we should always add one day to the result of the date-diff function.
-
-
-
 I also learned a thing or two about the all-powerful [QUERY](https://support.google.com/docs/answer/3093343?hl=en&authuser=0)-function of Google Sheet that we will make use of in this post. All by myself. No help needed!
 
 ## What I got right
@@ -80,17 +74,11 @@ This looks hairy but is really quite simple:
   * Notice that the expression needs to be exactly the same as it stood in the SELECT-clause. `LABEL dateDiff(H, G) + 1 'Flow time'` for example
 
 Cool - that means that we now calculate the flow time and closed date per item automatically. More so, as the dataset grows with new lines it will automatically be picked up by the query and added to the end. No need to remember to append new rows of formulas… yet.
-
-
-
 The month closed is calculated by just appending the parts of the date together. I've also included a check for no data so that I can have a formula for rows where the QUERY will add rows later:
 
 ```
 =IF(C2<>"", YEAR(C2) & "-" & IF(MONTH(C2)<10,"0"&MONTH(C2),MONTH(C2)), "")
 ```
-
-
-
 Now for the new learning. Rather than using averages and the standard deviations, Mr Vacanti suggests using percentiles. At the 50%-percentile we know that 50% of the data is below this point and 50% above it. At the 85%-percentile we rather know that 85% of the data is below that point in data.
 
 This is very useful information for someone that wants to make a forecast because now we can say something like this:

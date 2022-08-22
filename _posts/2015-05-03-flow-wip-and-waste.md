@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Order points, value, flow and waste"
-author: "Marcus Hammarberg"
+title: Order points, value, flow and waste
+author: Marcus Hammarberg
 date: 2015-05-03 15:03:25
 tags:
  - Lean

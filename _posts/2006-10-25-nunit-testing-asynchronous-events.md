@@ -1,12 +1,12 @@
 ---
 layout: post
 title: NUnit testing asynchronous events
-date: '2006-10-25T12:14:00.000+02:00'
+date: 2006-10-25T12:14:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: '2010-12-14T16:22:38.409+01:00'
+modified_time: 2010-12-14T16:22:38.409+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2786272295120950128
 blogger_orig_url: http://www.marcusoft.net/2006/10/nunit-testing-asynchronous-events.html
 ---

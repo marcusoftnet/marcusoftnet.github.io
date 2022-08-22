@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Marcus Node Bits: supertest is a nice way to test an api'
-date: '2014-02-07T15:00:00.000+01:00'
+title: Marcus Node Bits: supertest is a nice way to test an api'
+date: 2014-02-07T15:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming
@@ -10,7 +10,7 @@ tags:
   - Tools
   - TDD
   - Node
-modified_time: '2014-06-02T10:56:52.507+02:00'
+modified_time: 2014-06-02T10:56:52.507+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3190239835699558696
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-supertest.html
 ---

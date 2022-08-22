@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thank you Rob"
-author: "Marcus Hammarberg"
+title: Thank you Rob
+author: Marcus Hammarberg
 date: 2016-08-04
 tags:
  - Tools

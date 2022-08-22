@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Refactoring a Koa app - or how I learned a lot about modern JavaScript while refactoring an old app"
-author: "Marcus Hammarberg"
+title: Refactoring a Koa app - or how I learned a lot about modern JavaScript while refactoring an old app
+author: Marcus Hammarberg
 date: 2018-06-05 21:07:13
 tags:
  - Javascript
@@ -76,9 +76,6 @@ Since then it's been included out of the box and this flag is not needed. Time t
 ```
 
 Sidenote; the strange `./node_modules/mocha/bin/mocha` reference that I have in there is not needed. `npm` can use tools in the local `node_modules`-folder without that prefix. I didn't know this at the time. Already an improvement.
-
-
-
 Let's run it again; `npm t` and … yes. New errors this time. Progress.
 
 This time we get an error saying something like `var skinClassName = 'Skin' + NativeClass.name; ... Cannot read property 'name' of undefined `. This has to do with a framework that I'm using to access MongoDb called [Monk](https://github.com/Automattic/monk). The [error is well-known](https://github.com/sahat/tvshow-tracker/issues/9) and has been fixed, in later versions of the framework.
@@ -113,9 +110,6 @@ var user = yield users.findOne({_id: id});
 ```
 
 All documents in MongoDb gets an id called `_id` by default, and hence the code above finds one document with the `_id` matching the `id` we pass to it.
-
-
-
 Now do a similar change for the `.updateById` and change line 38 [into this](https://automattic.github.io/monk/docs/collection/findOneAndUpdate.html):
 
 ```javascript

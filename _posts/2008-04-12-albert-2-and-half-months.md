@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Albert - 2 and half... months
-date: '2008-04-11T19:16:00.008+02:00'
+date: 2008-04-11T19:16:00.008+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2008-04-14T16:03:42.145+02:00'
+modified_time: 2008-04-14T16:03:42.145+02:00
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R\_-eC9oEHvI/AAAAAAAAAS8/iZe0-mLzStQ/s72-c/PICT2722.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4391917120948496386
 blogger_orig_url: http://www.marcusoft.net/2008/04/albert-2-and-half-months.html

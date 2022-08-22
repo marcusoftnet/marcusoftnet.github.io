@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Next.JS Error: No router instance found"
-author: "Marcus Hammarberg"
+title: Next.JS Error: No router instance found
+author: Marcus Hammarberg
 date: 2021-05-29 22:43:03
 tags:
  - JavaScript

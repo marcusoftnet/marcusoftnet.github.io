@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Meta is not the most important thing"
-author: "Marcus Hammarberg"
+title: Meta is not the most important thing
+author: Marcus Hammarberg
 date: 2015-05-20 11:52:02
 tags:
  - Lean

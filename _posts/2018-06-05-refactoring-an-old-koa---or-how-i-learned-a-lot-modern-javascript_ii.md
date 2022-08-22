@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Refactoring a Koa app (part II) - refactoring the tests"
-author: "Marcus Hammarberg"
+title: Refactoring a Koa app (part II) - refactoring the tests
+author: Marcus Hammarberg
 date: 2018-06-05 21:07:13
 tags:
  - Javascript
@@ -134,6 +134,3 @@ This will fail the tests, as we renamed and reshuffled somethings. Simple fixes 
 Ok - that is better but now we need to get to the meat and start using some of the modern features that exists in ES6. Let's do that in the [next post](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html). See you there.
 
 By the way… Thank God for tests - this is a joy to refactor!
-
-
-

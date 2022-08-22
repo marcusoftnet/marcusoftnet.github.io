@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You control the disappointment dial - use it!
-date: '2014-06-02T10:21:00.001+02:00'
+date: 2014-06-02T10:21:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private - Lean
@@ -9,7 +9,7 @@ tags:
 
   - Agile
   - Indonesia
-modified_time: '2014-06-03T13:35:08.189+02:00'
+modified_time: 2014-06-03T13:35:08.189+02:00
 thumbnail: http://lh5.ggpht.com/-etwQsyDn5wQ/U4wz55-pmnI/AAAAAAAAD6U/8LkDqHcl5ws/s72-c/walkingwithAlbert_thumb%25255B37%25255D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1975251623952516075
 blogger_orig_url: http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html

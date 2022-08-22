@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Refactoring a Koa app (part IV) - update the production code"
-author: "Marcus Hammarberg"
+title: Refactoring a Koa app (part IV) - update the production code
+author: Marcus Hammarberg
 date: 2018-06-05 21:07:13
 tags:
  - Javascript
@@ -111,9 +111,6 @@ const users = db.get('users')
 ```
 
 Since I didn't change the name of the exported variable everything worked just fine. I could now see the logging in the console and promptly removed that statment.
-
-
-
 Still that didn't explain why my test where passing, because I still had a hunch that they were not running properly.  I changed my delete test into this:
 
 ```javascript
@@ -175,9 +172,6 @@ const app = new Koa()
 ```
 
 Now I feel better. It's at least updated to the latest versions of the frameworks we are using.
-
-
-
 Let's re-run the tests.
 
 WHOA! They are passing. We were doing it right all along. Now the packages are updated and can do what we thought would be working from the start. Update your packages early kids.
@@ -256,9 +250,6 @@ describe('User API', () => {
 ```
 
 Also a full description of this approach code is found [in a separate post](http://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html)
-
-
-
 When `.end()` is back in there the tests starts to fail again. I will not lie - this took the better part of a day to clear up and I'm not sure I remember everything I did. Two apparent errors was hindering me:
 
 1) the `await users.remove({})` I had in the `afterEach` hook for mocha was not good. Since this was in an async handler `afterEach(async () => {` , as all the test were they started to wipe the collection clean uncontrollable, or at least unpredictable. So I removed that hook althogether.

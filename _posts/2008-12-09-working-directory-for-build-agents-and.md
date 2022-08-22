@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Working directory for Build Agents and building different branches
-date: '2008-12-09T14:13:00.001+01:00'
+date: 2008-12-09T14:13:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - TFS
   - MSBuild
-modified_time: '2008-12-09T14:13:58.165+01:00'
+modified_time: 2008-12-09T14:13:58.165+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8089000883201304042
 blogger_orig_url: http://www.marcusoft.net/2008/12/working-directory-for-build-agents-and.html
 ---

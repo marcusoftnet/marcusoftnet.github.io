@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Task Board for Team System – finally!
-date: '2009-08-21T09:12:00.001+02:00'
+date: 2009-08-21T09:12:00.001+02:00
 author: Marcus Hammarberg
 tags:
 
   - TFS
   - Scrum
-modified_time: '2010-12-14T16:22:51.422+01:00'
+modified_time: 2010-12-14T16:22:51.422+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4031569125441489431
 blogger_orig_url: http://www.marcusoft.net/2009/08/task-board-for-team-system-finally.html
 ---

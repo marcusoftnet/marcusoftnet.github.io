@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "50 Quick Ideas on User stories"
-author: "Marcus Hammarberg"
+title: 50 Quick Ideas on User stories
+author: Marcus Hammarberg
 date: 2014-12-21 22:55:32
 tags:
 

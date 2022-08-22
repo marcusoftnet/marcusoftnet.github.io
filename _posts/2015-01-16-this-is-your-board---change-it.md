@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Things I say often: This is your board - change it"
-author: "Marcus Hammarberg"
+title: Things I say often: This is your board - change it
+author: Marcus Hammarberg
 date: 2015-01-16 13:42:03
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "xUnit - closing Selenium driver after ALL test in suite"
-author: "Marcus Hammarberg"
+title: xUnit - closing Selenium driver after ALL test in suite
+author: Marcus Hammarberg
 date: 2021-10-25 13:42:39
 tags:
  - Programming

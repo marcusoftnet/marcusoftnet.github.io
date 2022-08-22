@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Booting from a VHD in Windows 7
-date: '2009-08-12T10:35:00.002+02:00'
+date: 2009-08-12T10:35:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.195+01:00'
+modified_time: 2010-12-14T16:22:38.195+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7385064068883905711
 blogger_orig_url: http://www.marcusoft.net/2009/08/booting-from-vhd-in-windows-7.html ---
 

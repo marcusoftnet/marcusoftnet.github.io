@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Reflections after Agile Greece"
-author: "Marcus Hammarberg"
+title: Reflections after Agile Greece
+author: Marcus Hammarberg
 date: 2018-09-22 14:01:20
 tags:
 
@@ -78,9 +78,6 @@ Imagine that you have a debate with someone you don't agree with. It can be some
 Now do you think that they will say: Thank you! I now see the light. You showed me how stupid I was and I regret that. But thank you. You knew best.
 
 Newflash: that will never happen. If anything they will believe even more that they are right. You strenghten (or even frighten) them more.
-
-
-
 This is bad news for anyone like me that are hired to do transformations (shrug) and turn peoples mind. Linda just said that I cannot. [Facts will not change our mind](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 
 ### But you can put down your sword and listen

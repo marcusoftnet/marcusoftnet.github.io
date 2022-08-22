@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Punk being nice
-date: '2008-05-07T08:55:00.004+02:00'
+date: 2008-05-07T08:55:00.004+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private - Fun
-modified_time: '2008-05-07T09:16:12.680+02:00'
+modified_time: 2008-05-07T09:16:12.680+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6501219215488877752
 blogger_orig_url: http://www.marcusoft.net/2008/05/punk-beeing-nice.html
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Marcus - the model
-date: '2007-08-27T08:03:00.001+02:00'
+date: 2007-08-27T08:03:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2009-10-19T15:31:35.433+02:00'
+modified_time: 2009-10-19T15:31:35.433+02:00
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/StxqJ4zEA0I/AAAAAAAAAJ4/X9W2MP7AcV0/s72-c/eufon_b\_N6361.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4456630280434339226
 blogger_orig_url: http://www.marcusoft.net/2007/08/marcus-model_27.html
@@ -37,9 +37,6 @@ class="Apple-style-span" style="text-decoration: underline;">
 
 <div>
 
-
-
-
 <div>
 
 The pictures from [last week's photo
@@ -52,12 +49,4 @@ very big. Sorry.
 
 I am quite happy with the outcome - just think what some editing in
 PhotoShop can accomplish ;)
-
-
-
-
-
-
-
-
 </div>

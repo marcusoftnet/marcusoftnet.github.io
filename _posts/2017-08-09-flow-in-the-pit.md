@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Flow in the F1-pit - thoughts on an inspiring video"
-author: "Marcus Hammarberg"
+title: Flow in the F1-pit - thoughts on an inspiring video
+author: Marcus Hammarberg
 date: 2017-08-09 11:26:20
 tags:
  - Lean
@@ -38,9 +38,6 @@ There's also a lot of specialised gear in action;
 * The drills and the bolts on the wheels are custom-made to be fast to take on and off at this speed.
 
 And the list goes on. It's so cool to see in action.
-
-
-
 But what fascinates and inspire me even more is the history and strategy that led up to this. This shows what amazing feats (ca 2 sec to change 4 tires, refuel and make adjustments) when an organisation optimise for flow.
 
 Here's what I notice as I think about it:

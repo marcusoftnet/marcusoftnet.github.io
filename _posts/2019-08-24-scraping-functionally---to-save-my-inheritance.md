@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Scraping functionally - to save my inheritance"
-author: "Marcus Hammarberg"
+title: Scraping functionally - to save my inheritance
+author: Marcus Hammarberg
 date: 2019-08-24 12:33:13
 tags:
  - Programming
@@ -234,9 +234,6 @@ const parseQuote = async htmlString => {
 Getting the quote html is done by calling into our own `getData` as we wrote before. Notice that since this is the only statement we don't need a `return` and since `await` is implicitly assumed for the return value in an `async` function,  `return await getData(link)` just becomes `getData(link)`. Pretty cool, huh?
 
 The warning was `Redundant use of await on a return value.` [and you can read more here.](https://eslint.org/docs/rules/no-return-await)
-
-
-
 The next function (`parseQuote`) takes this html string and picks it apart using cheerio. For now let's just pick out the text, with a selector of `blockquote > p` that does the job.
 
 And let's test it too

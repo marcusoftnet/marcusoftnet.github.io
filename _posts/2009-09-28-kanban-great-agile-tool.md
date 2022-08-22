@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Kanban – a great agile tool
-date: '2009-09-28T08:55:00.001+02:00'
+date: 2009-09-28T08:55:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2009-09-28T08:55:32.984+02:00'
+modified_time: 2009-09-28T08:55:32.984+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4636001046731964170
 blogger_orig_url: http://www.marcusoft.net/2009/09/kanban-great-agile-tool.html ---
 

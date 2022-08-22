@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Changing endpoint from the command line when testing services with SOAPUi
-date: '2010-03-30T21:42:00.002+02:00'
+date: 2010-03-30T21:42:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
   - C#
   - WCF
-modified_time: '2010-12-14T16:22:38.158+01:00'
+modified_time: 2010-12-14T16:22:38.158+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7243669668355727942
 blogger_orig_url: http://www.marcusoft.net/2010/03/changing-endpoint-from-command-line.html
 ---

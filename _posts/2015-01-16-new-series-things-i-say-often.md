@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "New series: 'Things I say often'"
-author: "Marcus Hammarberg"
+title: New series: 'Things I say often'
+author: Marcus Hammarberg
 date: 2015-01-16 13:11:58
 tags:
  - Lean

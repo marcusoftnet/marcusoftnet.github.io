@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Values to guide us"
-author: "Marcus Hammarberg"
+title: Values to guide us
+author: Marcus Hammarberg
 date: 2017-09-05 15:37:37
 tags:
 
@@ -62,9 +62,6 @@ Indeed he probably inspired me with the following quote:
 This is what I mean with that values and principles helps us to find new practices. Practices that will make us better than we originally thought possible. If we let them guide us.
 
 I also like this quote from chapter 3
-
-
-
 > Value bring purpose to practices (chapter 3, page 12)
 
 The practices are just the manifestation of the principles we are following. These principles are in turn rooted in the values we adhere to.

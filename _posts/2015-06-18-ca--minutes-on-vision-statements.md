@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ca 10 minutes on Vision statements"
-author: "Marcus Hammarberg"
+title: ca 10 minutes on Vision statements
+author: Marcus Hammarberg
 date: 2015-06-18 10:47:47
 tags:
 

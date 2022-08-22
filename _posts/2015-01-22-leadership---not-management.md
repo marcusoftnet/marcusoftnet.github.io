@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Things I say often: I'm into leadership - not management"
-author: "Marcus Hammarberg"
+title: Things I say often: I'm into leadership - not management
+author: Marcus Hammarberg
 date: 2015-01-22 09:37:38
 tags:
 

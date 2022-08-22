@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "npm scripting: git, version and deploy"
-author: "Marcus Hammarberg"
+title: npm scripting: git, version and deploy
+author: Marcus Hammarberg
 date: 2015-08-24 13:24:58
 tags:
  - Javascript

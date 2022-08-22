@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The power of Visualization used in my current project
-date: '2011-01-21T10:47:00.001+01:00'
+date: 2011-01-21T10:47:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
@@ -10,7 +10,7 @@ tags:
   - Scrum
 
   - Agile
-modified_time: '2011-01-22T07:41:06.071+01:00'
+modified_time: 2011-01-22T07:41:06.071+01:00
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TTlWvvTDc7I/AAAAAAAAAvI/e08Q24EVI9A/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2276640867182322749
 blogger_orig_url: http://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html

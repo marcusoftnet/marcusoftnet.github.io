@@ -1,14 +1,14 @@
 ---
 layout: post
 title: How to get equivalent proxy-classes to implement a shared interface
-date: '2008-04-23T07:42:00.005+02:00'
+date: 2008-04-23T07:42:00.005+02:00
 author: Marcus Hammarberg
 tags:
   - VB.NET - SOA
   - Life of a consultant
   - C#
   - WCF
-modified_time: '2008-04-24T07:36:14.351+02:00'
+modified_time: 2008-04-24T07:36:14.351+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4450307372019789671
 blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-get-equivalent-proxy-classes-to.html
 ---

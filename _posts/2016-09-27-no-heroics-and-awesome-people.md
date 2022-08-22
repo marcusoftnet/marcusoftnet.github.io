@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "No heroics and awesome people"
-author: "Marcus Hammarberg"
+title: No heroics and awesome people
+author: Marcus Hammarberg
 date: 2016-09-27 22:51:52
 tags:
 

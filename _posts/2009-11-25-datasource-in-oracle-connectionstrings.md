@@ -1,12 +1,12 @@
 ---
 layout: post
 title: DataSource in Oracle Connectionstrings
-date: '2009-11-24T19:35:00.001+01:00'
+date: 2009-11-24T19:35:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2010-12-14T16:23:30.890+01:00'
+modified_time: 2010-12-14T16:23:30.890+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4137345923394061671
 blogger_orig_url: http://www.marcusoft.net/2009/11/datasource-in-oracle-connectionstrings.html
 ---
@@ -38,14 +38,8 @@ you can put all of that information into your connectionstring:
 >
 >
 
-
-
-
 In this manner you will have “everything” you need in for the
 application to work in the application .config. Not spread out in
 different folder such as c:\app\client_1\network\admin or whatever.
-
-
-
 
 I like! 

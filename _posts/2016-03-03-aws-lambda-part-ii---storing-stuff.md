@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "AWS Lambda/Claudia part II - Storing stuff"
-author: "Marcus Hammarberg"
+title: AWS Lambda/Claudia part II - Storing stuff
+author: Marcus Hammarberg
 date: 2016-03-03 21:04:51
 tags:
  - Tools

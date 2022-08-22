@@ -2,7 +2,7 @@
 layout: post
 title: Vision statements - why not say what you REALLY
 mean?
-date: '2014-10-21T09:34:00.000+02:00'
+date: 2014-10-21T09:34:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -13,7 +13,7 @@ tags:
 
   - Agile- Salvation Army
   - Indonesia
-modified_time: '2014-10-21T09:34:05.245+02:00'
+modified_time: 2014-10-21T09:34:05.245+02:00
 thumbnail: http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s72-c/kanbanInAction.improvement.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4129921012150118099
 blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html ---
@@ -55,9 +55,6 @@ will not be exactly how we planned it. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -77,9 +74,6 @@ go. From where we are now. With what we know. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -102,9 +96,6 @@ and rebuilding it into something completely different. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -118,9 +109,6 @@ media.  
 </div>
 
 <div>
-
-
-
 </div>
 
 |                                                                                                                       |
@@ -144,9 +132,6 @@ we are today". 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -157,9 +142,6 @@ you are - change in small steps". 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -211,9 +193,6 @@ anything. Especially vision statements. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -260,9 +239,6 @@ organisation. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "QA: How big is a work item?"
-author: "Marcus Hammarberg"
+title: QA: How big is a work item?
+author: Marcus Hammarberg
 date: 2015-07-24 11:47:02
 tags:
 

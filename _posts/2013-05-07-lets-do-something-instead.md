@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Let's do something instead!
-date: '2013-05-07T09:00:00.000+02:00'
+date: 2013-05-07T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Agile
-modified_time: '2013-05-07T20:17:18.806+02:00'
+modified_time: 2013-05-07T20:17:18.806+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6757202335518255949
 blogger_orig_url: http://www.marcusoft.net/2013/05/lets-do-something-instead.html ---
 
@@ -25,13 +25,7 @@ our hypothesis stands up to the reality that we throw them into.
 
 Let me give you a few ... well examples and ideas that have formed my
 thinking around this.
-
-
-
 ### Getting to know new people
-
-
-
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 |        <a href="http://redstarresume.files.wordpress.com/2011/08/09571bg.gif"
@@ -109,9 +103,6 @@ Perfectly natural and understandable. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -124,9 +115,6 @@ all of them. Nobody knows. Hey - we might even run into problems that we
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -136,9 +124,6 @@ What should we do?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -151,9 +136,6 @@ away from it. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -193,9 +175,6 @@ increment of a product for the sole reason of learning. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -210,9 +189,6 @@ dare you!
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -233,9 +209,6 @@ you start doing something". 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

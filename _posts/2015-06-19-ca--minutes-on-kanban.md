@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ca 15 minutes on Kanban"
-author: "Marcus Hammarberg"
+title: ca 15 minutes on Kanban
+author: Marcus Hammarberg
 date: 2015-06-19 14:30:08
 tags:
 

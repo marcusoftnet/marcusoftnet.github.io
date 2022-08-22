@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What I learned coaching a car dealership on stage"
-author: "Marcus Hammarberg"
+title: What I learned coaching a car dealership on stage
+author: Marcus Hammarberg
 date: 2017-09-28 11:18:47
 tags:
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Javascript callbacks: can''t live with them
+title: Javascript callbacks: can''t live with them
 can''t live without them... or can you? '
-date: '2014-03-06T08:00:00.000+01:00'
+date: 2014-03-06T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript
   - Tools
-modified_time: '2014-06-02T10:56:52.519+02:00'
+modified_time: 2014-06-02T10:56:52.519+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5949303220137372164
 blogger_orig_url: http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html
 ---
@@ -132,9 +132,6 @@ way. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -146,9 +143,6 @@ spinning.
 Let's see what happens when someone tries to use this. First a test:
 
 </div>
-
-
-
 <div style="text-align: left;">
 
 When can see that we're nesting the callbacks and in the innermost
@@ -204,11 +198,8 @@ But I can show you this from the
 <a href="https://github.com/kriskowal/q" target="_blank">promise library
 Q's site</a>:
 
-</div>
 
 
-
-<div>
 
 I cannot, sadly, explain what's going on there fully. But I can see that
 it's better, easier and clearer.

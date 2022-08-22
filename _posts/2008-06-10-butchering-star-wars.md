@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Butchering Star Wars
-date: '2008-06-10T08:18:00.003+02:00'
+date: 2008-06-10T08:18:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: '2008-06-10T08:22:09.416+02:00'
+modified_time: 2008-06-10T08:22:09.416+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5110854271985701620
 blogger_orig_url: http://www.marcusoft.net/2008/06/butchering-star-wars.html
 ---
@@ -18,11 +18,6 @@ told (I presume) to play the trumpet and dance.
 
 Said and done - this clip is now a legendary clip on YouTube with about
 3 million views. Here you go:
-
-
-
-
-
 
 <div align="left">
 

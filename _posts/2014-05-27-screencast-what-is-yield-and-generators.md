@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Screencast: What is yield and generators?'
-date: '2014-05-27T02:45:00.004+02:00'
+title: Screencast: What is yield and generators?'
+date: 2014-05-27T02:45:00.004+02:00
 author: Marcus Hammarberg
 tags:
   - Javascript
   - Tools - Koa
-modified_time: '2014-05-27T02:45:49.642+02:00'
+modified_time: 2014-05-27T02:45:49.642+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5602886170962895507
 blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-what-is-yield-and-generators.html
 ---

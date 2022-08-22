@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Deploying to Heroku (and
+title: Marcus Node Bits: Deploying to Heroku (and
 MongoHq)'
-date: '2014-04-21T16:02:00.000+02:00'
+date: 2014-04-21T16:02:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools - Koa - Lean
   - Agile -
 ContinuousDelivery
-modified_time: '2014-05-29T14:22:24.020+02:00'
+modified_time: 2014-05-29T14:22:24.020+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6218298441525731501
 blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html ---
 
@@ -35,9 +35,6 @@ This Sunday I wanted to deploy the first version of it. To
 <a href="http://www.heroku.com/" target="_blank">Heroku</a>. It went
 pretty smooth but I wanted to share my story and some problems I ran
 into.
-
-
-
 <div style="text-align: left;">
 
 For the most part I was impressed over the smoothness and "it just
@@ -125,9 +122,6 @@ stable version.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -170,9 +164,6 @@ since I had heard that name before. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -211,9 +202,6 @@ name\]/settings.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -225,11 +213,8 @@ dragged a little configuration utility around for a while. It's just a
 single file that exports an object with the configuration variables I
 need. Here is one incarnation of it:
 
-</div>
 
 
-
-<div>
 
 The first lines sets up my database connection strings, and uses the
 MONGOHQ_URL if it is present. I can then use my configuration object
@@ -275,9 +260,6 @@ in this case. I should probably read some logs or something. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -301,9 +283,6 @@ But it's not very nice to read, nor searchable. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -320,9 +299,6 @@ see, read and search your logs. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

@@ -2,12 +2,12 @@
 layout: post
 title: How to run MSTest with publish parameter as
 MSBuild Exec-task
-date: '2008-10-29T08:56:00.004+01:00'
+date: 2008-10-29T08:56:00.004+01:00
 author: Marcus Hammarberg
 tags:
   - TFS - MSBuild
   - TDD
-modified_time: '2008-10-30T11:03:07.512+01:00'
+modified_time: 2008-10-30T11:03:07.512+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1620713112862171086
 blogger_orig_url: http://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html ---
 

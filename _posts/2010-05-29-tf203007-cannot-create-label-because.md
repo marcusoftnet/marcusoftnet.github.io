@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'TF203007: Cannot create the label because the
+title: TF203007: Cannot create the label because the
 version controlled item \[…\] already exists or has been specified more
 than once'
-date: '2010-05-28T20:38:00.001+02:00'
+date: 2010-05-28T20:38:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - TFS
-modified_time: '2010-05-28T20:38:53.799+02:00'
+modified_time: 2010-05-28T20:38:53.799+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7602326061290665776
 blogger_orig_url: http://www.marcusoft.net/2010/05/tf203007-cannot-create-label-because.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How we agile - principle-led & context-dependent"
-author: "Marcus Hammarberg"
+title: How we agile - principle-led & context-dependent
+author: Marcus Hammarberg
 date: 2019-08-15 11:26:32
 tags:
  - Lean

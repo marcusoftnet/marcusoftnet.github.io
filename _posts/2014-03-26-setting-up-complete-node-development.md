@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Setting up a complete Node development machine. From scratch. For free
-date: '2014-03-26T02:45:00.002+01:00'
+date: 2014-03-26T02:45:00.002+01:00
 author: Marcus Hammarberg
 tags:
   - Node
   - Javascript
   - Tools
-modified_time: '2014-04-06T14:41:45.586+02:00'
+modified_time: 2014-04-06T14:41:45.586+02:00
 thumbnail: http://4.bp.blogspot.com/-gILhj6-IEP4/Uy_XUm8ZHNI/AAAAAAAACHM/5Bl2QuYlNl8/s72-c/inceptiontop.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6779226674205683514
 blogger_orig_url: http://www.marcusoft.net/2014/03/setting-up-complete-node-development.html

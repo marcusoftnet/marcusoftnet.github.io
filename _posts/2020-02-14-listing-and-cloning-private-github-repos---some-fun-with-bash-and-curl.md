@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Listing and cloning private GitHub repos - some fun with bash and curl"
-author: "Marcus Hammarberg"
+title: Listing and cloning private GitHub repos - some fun with bash and curl
+author: Marcus Hammarberg
 date: 2020-02-14 12:00:53
 tags:
  - Programming

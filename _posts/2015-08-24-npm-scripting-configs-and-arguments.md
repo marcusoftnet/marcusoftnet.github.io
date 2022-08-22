@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "npm scripting: configs and arguments... and some more tricks"
-author: "Marcus Hammarberg"
+title: npm scripting: configs and arguments... and some more tricks
+author: Marcus Hammarberg
 date: 2015-08-24 13:23:57
 tags:
  - Javascript

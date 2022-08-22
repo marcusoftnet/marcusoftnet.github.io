@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Package.json is a mighty
+title: Marcus Node Bits: Package.json is a mighty
 tool'
-date: '2014-02-05T14:00:00.000+01:00'
+date: 2014-02-05T14:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript
   - Tools
-modified_time: '2014-06-02T10:56:52.527+02:00'
+modified_time: 2014-06-02T10:56:52.527+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6766940189243715152
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-packagejson.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing a Koa application with supertest using async/await"
-author: "Marcus Hammarberg"
+title: Testing a Koa application with supertest using async/await
+author: Marcus Hammarberg
 date: 2018-06-12 20:43:07
 tags:
  - Koa
@@ -110,9 +110,6 @@ I make a reference to the system under test `./api.js`
 Supertest is my weapon of choice when it comes to testing api's so that is included as well
 
 Finally we make the same configuration for the Mongo/Monk stuff ensuring that we have a reference to the `user` collection that we can issue commands against the database in a smooth way.
-
-
-
 Next up is the test infrastructure:
 
 ```javascript
@@ -155,9 +152,6 @@ This means that the tests starts in a prestine state without take a long time.
 * Second thing I want to do is to create the supertest `request` object, so that it's a fresh request object for each test. This is done with `request = supertest(server)`
 
 Final part is a small little utility that I will use to check for errors, better explained below.
-
-
-
 Finally it's time for a test:
 
 ```javascript

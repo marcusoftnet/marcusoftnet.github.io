@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KanbanStats II: filter the process chart "
-author: "Marcus Hammarberg"
+title: KanbanStats II: filter the process chart
+author: Marcus Hammarberg
 date: 2019-01-04 11:56:05
 tags:
 

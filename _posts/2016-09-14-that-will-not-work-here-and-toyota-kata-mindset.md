@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Toyota Kata and the 'We can't do that here'-fallacy"
-author: "Marcus Hammarberg"
+title: Toyota Kata and the 'We can't do that here'-fallacy
+author: Marcus Hammarberg
 date: 2016-09-14 10:51:52
 tags:
 

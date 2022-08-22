@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The hidden agenda of agile...."
-author: "Marcus Hammarberg"
+title: The hidden agenda of agile....
+author: Marcus Hammarberg
 date: 2016-02-29 15:33:38
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Things I say often: Why?"
-author: "Marcus Hammarberg"
+title: Things I say often: Why?
+author: Marcus Hammarberg
 date: 2015-01-19 11:08:19
 tags:
 

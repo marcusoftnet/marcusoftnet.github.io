@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Installing CasperJs - a journey of pain"
-author: "Marcus Hammarberg"
+title: Installing CasperJs - a journey of pain
+author: Marcus Hammarberg
 date: 2015-06-08 09:56:23
 tags:
  - Javascript

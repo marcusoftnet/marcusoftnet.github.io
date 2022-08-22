@@ -1,12 +1,12 @@
 ---
 layout: post
 title: TeamSystem Builds
-date: '2007-05-29T08:04:00.000+02:00'
+date: 2007-05-29T08:04:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - TFS
   - MSBuild
-modified_time: '2007-09-25T08:09:36.661+02:00'
+modified_time: 2007-09-25T08:09:36.661+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1383699674345464248
 blogger_orig_url: http://www.marcusoft.net/2007/05/teamsystem-builds.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sweet brass bander
-date: '2008-04-17T10:13:00.003+02:00'
+date: 2008-04-17T10:13:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - BrassBand - Fun
-modified_time: '2008-04-17T18:57:43.755+02:00'
+modified_time: 2008-04-17T18:57:43.755+02:00
 thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SAcGzrgJ0AI/AAAAAAAAATQ/LDW4SNw5vnQ/s72-c/Wire-Youth.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5419241435390255067
 blogger_orig_url: http://www.marcusoft.net/2008/04/sweet-brass-band.html

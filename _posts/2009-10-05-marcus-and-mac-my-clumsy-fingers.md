@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Marcus and Mac: my clumsy fingers'
-date: '2009-10-05T10:11:00.001+02:00'
+title: Marcus and Mac: my clumsy fingers'
+date: 2009-10-05T10:11:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2009-10-05T10:11:42.696+02:00'
+modified_time: 2009-10-05T10:11:42.696+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7204361642552393801
 blogger_orig_url: http://www.marcusoft.net/2009/10/marcus-and-mac-my-clumsy-fingers.html
 ---

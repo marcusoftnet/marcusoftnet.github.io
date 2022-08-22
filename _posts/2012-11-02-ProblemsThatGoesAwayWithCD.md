@@ -2,12 +2,12 @@
 layout: post
 title: Code Freeze, Recompile and Code generations -
 stuff that's not that scary with CD
-date: '2012-11-02T11:37:00.000+01:00'
+date: 2012-11-02T11:37:00.000+01:00
 author: Marcus Hammarberg
 tags:
 
   - Agile - ContinuousDelivery
-modified_time: '2012-11-02T11:37:35.910+01:00'
+modified_time: 2012-11-02T11:37:35.910+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2349708152375787890
 blogger_orig_url: http://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html ---
 
@@ -26,9 +26,6 @@ often - like all the time. No really I mean continuous delivering.
 Yes, I know that if first feel a bit scary and unachievable  but in this
 blog post I'll try to show you a couple of things that make that strive
 worthwhile. I think
-
-
-
 ### Continuous Delivery?
 
 |                                                                                                  |
@@ -93,9 +90,6 @@ target="_blank">Toyota Kata</a>. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -111,9 +105,6 @@ didn't for starters but that was what they needed to do. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -126,9 +117,6 @@ that. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -139,9 +127,6 @@ see how wonderful everything would be there, to then try to get there. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -204,9 +189,6 @@ horrors to maintain. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -223,9 +205,6 @@ Brrr - I shiver at the thought. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -278,9 +257,6 @@ place is something easy. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -293,9 +269,6 @@ looking closer into them.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

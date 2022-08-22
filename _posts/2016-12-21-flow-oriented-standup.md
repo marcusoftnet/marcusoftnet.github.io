@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some useful practices for flow oriented standup meetings"
-author: "Marcus Hammarberg"
+title: Some useful practices for flow oriented standup meetings
+author: Marcus Hammarberg
 date: 2016-12-21
 tags:
 

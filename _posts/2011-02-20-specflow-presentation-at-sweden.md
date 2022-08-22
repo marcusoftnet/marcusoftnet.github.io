@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpecFlow presentation at Sweden Progressive .NET
-date: '2011-02-20T12:33:00.001+01:00'
+date: 2011-02-20T12:33:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
@@ -9,7 +9,7 @@ tags:
 
   - Agile
   - SpecFlow
-modified_time: '2013-08-22T11:59:06.452+02:00'
+modified_time: 2013-08-22T11:59:06.452+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6620558657478065759
 blogger_orig_url: http://www.marcusoft.net/2011/02/specflow-presentation-at-sweden.html
 ---
@@ -47,9 +47,6 @@ target="_blank">the project here</a>.  And here is the presentation.
 
 **[Specification by example with specflow
 110217](http://www.slideshare.net/marcusoftnet/specification-by-example-with-specflow-110217 "Specification by example with specflow 110217")**
-
-
-
 <div
 style="padding-bottom: 12px; padding-left: 0px; padding-right: 0px; padding-top: 5px;">
 

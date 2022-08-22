@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer sprints - a time to learn
-date: '2012-08-15T16:43:00.000+02:00'
+date: 2012-08-15T16:43:00.000+02:00
 author: Marcus Hammarberg
 tags:
 
@@ -9,7 +9,7 @@ tags:
    - Scrum
 
   - Agile
-modified_time: '2012-08-15T16:43:07.207+02:00'
+modified_time: 2012-08-15T16:43:07.207+02:00'
 thumbnail:
 http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1869399151811674415
@@ -31,9 +31,6 @@ data-border="0" width="320" height="239" /></a>
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -43,9 +40,6 @@ That's all good but what happens at the offices do you think? 
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -59,9 +53,6 @@ data-border="0" /></a>
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -74,9 +65,6 @@ that want to work close together. 
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -153,9 +141,6 @@ So if she is not present ... we have a problem to solve. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -187,9 +172,6 @@ delegated? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -201,9 +183,6 @@ someone. This is a great opportunity to find those out. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -233,9 +212,6 @@ weeks of free time.  :)
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

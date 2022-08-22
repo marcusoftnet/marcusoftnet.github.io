@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ScrumIndexCardCreator
-date: '2007-05-25T08:15:00.000+02:00'
+date: 2007-05-25T08:15:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Scrum
   - Agile
-modified_time: '2007-05-28T08:02:53.899+02:00'
+modified_time: 2007-05-28T08:02:53.899+02:00
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlpwXyObzbI/AAAAAAAAAKE/xErxoVOhuUg/s72-c/scrumindexcardcreator1.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4966481514230234420
 blogger_orig_url: http://www.marcusoft.net/2007/05/scrumindexcardcreator.html ---
@@ -23,11 +23,8 @@ id="BLOGGER_PHOTO_ID_5069487936020139458"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
 
-</div>
 
 
-
-<div>
 
 I have thrown together a small application for generating index cards
 from a Excel-based backlog list. This is very handy when you do sprint

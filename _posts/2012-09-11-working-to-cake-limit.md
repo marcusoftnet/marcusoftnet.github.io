@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working to the Cake-limit
-date: '2012-09-10T22:55:00.000+02:00'
+date: 2012-09-10T22:55:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
@@ -10,7 +10,7 @@ tags:
   - crum
 
   - Agile
-modified_time: '2012-12-04T13:29:51.506+01:00'
+modified_time: 2012-12-04T13:29:51.506+01:00
 thumbnail: http://2.bp.blogspot.com/-w_qio6tjuX0/UE5QG51lh6I/AAAAAAAABT8/8rmkm_bNWcw/s72-c/Screen+Shot+2012-09-10+at+22.39.42.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2885495205288364594
 blogger_orig_url: http://www.marcusoft.net/2012/09/working-to-cake-limit.html ---
@@ -104,9 +104,6 @@ predictability over speed in my experience.
 </div>
 
 <div>
-
-
-
 </div>
 
 

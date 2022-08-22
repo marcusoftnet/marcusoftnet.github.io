@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "When I learned a safety lesson - and did a little bit better"
-author: "Marcus Hammarberg"
+title: When I learned a safety lesson - and did a little bit better
+author: Marcus Hammarberg
 date: 2021-06-19 18:32:01
 tags:
  - Programming

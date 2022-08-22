@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Online diff tool
-date: '2009-12-01T08:07:00.001+01:00'
+date: 2009-12-01T08:07:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.173+01:00'
+modified_time: 2010-12-14T16:22:38.173+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6537020066430405833
 blogger_orig_url: http://www.marcusoft.net/2009/12/online-diff-tool.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Supertest: Verify database after request"
-author: "Marcus Hammarberg"
+title: Supertest: Verify database after request
+author: Marcus Hammarberg
 date: 2015-05-05 10:07:10
 tags:
  - Tools

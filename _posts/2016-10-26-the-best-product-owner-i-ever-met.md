@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The best product owner I ever met"
-author: "Marcus Hammarberg"
+title: The best product owner I ever met
+author: Marcus Hammarberg
 date: 2016-10-26 11:20:52
 tags:
 

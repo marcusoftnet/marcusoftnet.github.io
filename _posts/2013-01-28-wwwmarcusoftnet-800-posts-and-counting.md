@@ -1,12 +1,12 @@
 ---
 layout: post
 title: www.marcusoft.net - 800 posts and counting
-date: '2013-01-28T15:24:00.001+01:00'
+date: 2013-01-28T15:24:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2013-01-28T15:29:10.901+01:00'
+modified_time: 2013-01-28T15:29:10.901+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7904302299992204183
 blogger_orig_url: http://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-and-counting.html
 ---

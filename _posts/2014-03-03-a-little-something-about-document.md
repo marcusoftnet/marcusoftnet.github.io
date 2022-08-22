@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A little lesson about document database modelling
-date: '2014-03-03T08:00:00.000+01:00'
+date: 2014-03-03T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
-modified_time: '2014-03-03T09:11:20.066+01:00'
+modified_time: 2014-03-03T09:11:20.066+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3446493776187439494
 blogger_orig_url: http://www.marcusoft.net/2014/03/a-little-something-about-document.html
 ---

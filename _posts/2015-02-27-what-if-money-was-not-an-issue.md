@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What if money was not an issue?"
-author: "Marcus Hammarberg"
+title: What if money was not an issue?
+author: Marcus Hammarberg
 date: 2015-02-27 08:16:15
 tags:
 

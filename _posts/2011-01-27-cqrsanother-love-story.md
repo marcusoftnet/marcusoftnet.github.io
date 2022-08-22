@@ -1,14 +1,14 @@
 ---
 layout: post
 title: CQRS–another love story
-date: '2011-01-27T09:27:00.001+01:00'
+date: 2011-01-27T09:27:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - BDD
   - .NET - ÖreDev
   - Kanban
   - Agile - CQRS
-modified_time: '2014-06-02T10:56:52.530+02:00'
+modified_time: 2014-06-02T10:56:52.530+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7262514878258726848
 blogger_orig_url: http://www.marcusoft.net/2011/01/cqrsanother-love-story.html ---
 
@@ -34,9 +34,6 @@ Greg Young from [ÖreDev](http://www.oredev.org) last year. It was called
 After a short while – I was in love again. I had another of those before
 and after moments. I already knew about this but this time it really got
 to me. And stuck!
-
-
-
 Before I stepped on the tube I saw things one way – and after I was a
 completely different thing. I see my earlier work with new eyes now – I
 cannot believe that I wanted to do it that way. Just like when I first

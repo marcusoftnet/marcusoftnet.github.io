@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Changing the die - that can't go faster"
-author: "Marcus Hammarberg"
+title: Changing the die - that can't go faster
+author: Marcus Hammarberg
 date: 2017-08-07 15:56:47
 tags:
  - Lean

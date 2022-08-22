@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Let''s flex Koa Js, shall
+title: Marcus Node Bits: Let''s flex Koa Js, shall
 we?'
-date: '2014-04-08T14:12:00.000+02:00'
+date: 2014-04-08T14:12:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools - Koa
-modified_time: '2014-05-23T05:28:22.873+02:00'
+modified_time: 2014-05-23T05:28:22.873+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-628425760225674799
 blogger_orig_url: http://www.marcusoft.net/2014/03/koaExamples.html ---
 
@@ -230,9 +230,6 @@ function(err){}); and you can do your stuff there. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -241,11 +238,8 @@ Another thing that happens automatically is that a HTTP status 500 is
 returned to the client, of course. Let's look at an example that does
 this:
 
-</div>
 
 
-
-<div>
 
 In this example we can also see error propagation in action.
 
@@ -311,9 +305,6 @@ exception. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -325,11 +316,8 @@ target="_blank">supertest</a> since it tests the entire stack. And
 <a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
 target="_blank">mocha</a> of course. Here's the test code:
 
-</div>
 
 
-
-<div>
 
 Line 1 is important, this is where we get a reference to the
 application. Simple stuff; just require the application. Ha!
@@ -386,11 +374,8 @@ There's a nice little middleware to do basic authentication
 target="_blank">koa-basic-auth</a>) which makes basic authentication
 this easy:
 
-</div>
 
 
-
-<div>
 
 -   Line 1 requires the koa-basic-auth middleware. Note that we call
     this variable <span
@@ -428,9 +413,6 @@ for HTML you'll get HTML back and JSON when you ask for JSON etc. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -531,9 +513,6 @@ See?! It's almost ridiculously simple! Very nice, short and sweet!
 Ok, let's take a look that the test code:
 
 </div>
-
-
-
 First thing to notice here is the <span
 style="font-family: Courier New, Courier, monospace;">removeAll-function
 that we use in the <span
@@ -702,11 +681,8 @@ That was not too hard, now was it? 
 Ok, streaming files to the client was so super-easy that I just had to
 include that here too:
 
-</div>
 
 
-
-<div>
 
 By using the path Node module we can easily get the extension name of a
 file as of line 12. 
@@ -757,9 +733,6 @@ picked up somethings by reading this. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -771,9 +744,6 @@ should total to 29 lines of code, right? :) 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -783,9 +753,6 @@ Thanks for reading this!
 </div>
 
 <div>
-
-
-
 </div>
 
 I like Koa Js. I've written a couple of post about it. Here they will be

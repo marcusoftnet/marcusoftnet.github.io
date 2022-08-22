@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Top 5 Agile change tips \#1 - Get a great
+title: Top 5 Agile change tips \#1 - Get a great
 or-else-reason'
-date: '2012-10-08T09:00:00.000+02:00'
+date: 2012-10-08T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-10-08T09:00:15.230+02:00'
+modified_time: 2012-10-08T09:00:15.230+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3921821758280341733
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop51.html
 ---
@@ -51,9 +51,6 @@ failed miserably with. Over and over. And learned a lot from.
     target="_blank">Support the initiative</a>
 5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
-
-
-
 ### \#1 Get a great "or else"-reason to change
 
 <div>
@@ -150,9 +147,6 @@ transformation projects. Read the rest here:
 </div>
 
 <div>
-
-
-
 </div>
 
 

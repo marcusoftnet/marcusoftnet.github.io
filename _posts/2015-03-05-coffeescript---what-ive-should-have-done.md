@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CoffeeScript - what I've should have done"
-author: "Marcus Hammarberg"
+title: CoffeeScript - what I've should have done
+author: Marcus Hammarberg
 date: 2015-03-05 09:57:09
 tags:
  - Javascript

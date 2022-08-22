@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Run react-script tests without watch"
-author: "Marcus Hammarberg"
+title: Run react-script tests without watch
+author: Marcus Hammarberg
 date: 2021-05-31 20:23:28
 tags:
  - JavaScript

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I prepare and create presentations
-date: '2014-11-19T09:02:00.000+01:00'
+date: 2014-11-19T09:02:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-11-20T04:01:43.904+01:00'
+modified_time: 2014-11-20T04:01:43.904+01:00
 thumbnail: http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s72-c/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
 blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html ---
@@ -36,9 +36,6 @@ not keep a straight face... ok - once again...) on design of slides nor
 do I have deep communication education. I have failed a lot though and I
 really enjoy doing presentation. Below works for me - your milage may
 vary.
-
-
-
 ### Strategy - introduction
 
 <div>
@@ -51,9 +48,6 @@ each iteration producing something more and more polished. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -67,9 +61,6 @@ Sometimes that works. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -86,16 +77,13 @@ and sometimes I skip steps. I has to do with how much time I've got. 
 Once I have a talk coming up I usually know just the title or the theme
 for the talk. In this case I also had an abstract, but that's seldom the
 case. Let's pretend we just had a
-title: "Kanban in Action". Often I
+title: Kanban in Action". Often I
 have a time constraint too. This is a 2 hour talk, 45 min or workshop or
 10 min talk. 
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -108,9 +96,6 @@ what would be good for them? What should I include, what should I skip? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -147,9 +132,6 @@ step I take my notes from the thinking and turn them into a script. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -161,9 +143,6 @@ Buy it now - you will not be disappointed. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -185,9 +164,6 @@ add content in there. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -204,9 +180,6 @@ Like the screen shot on the right. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -218,9 +191,6 @@ blogging - I just get it out there. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -230,9 +200,6 @@ In fact that will prove useful in a little while.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -253,9 +220,6 @@ data-border="0" width="337" height="400" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -267,9 +231,6 @@ I tend to move things around a lot in this phase. And "cut and paste"
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -297,9 +258,6 @@ requirements. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -321,9 +279,6 @@ data-border="0" width="400" height="253" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -342,9 +297,6 @@ I get time over and redo this template. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -366,9 +318,6 @@ min of talking. That's maybe 15 lines above. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -380,9 +329,6 @@ talk about on the slide. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -402,9 +348,6 @@ data-border="0" width="400" height="285" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -416,9 +359,6 @@ it.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -436,9 +376,6 @@ a word per slide. Giving me maybe 50 slides for 45 minutes. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -451,9 +388,6 @@ picture to the right. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -490,9 +424,6 @@ replace just about all of the headings with pictures. It might look
 something like the picture on the left
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -534,9 +465,6 @@ src="http://1.bp.blogspot.com/-VciF1sBWD5g/VGw280CLU2I/AAAAAAAAJb0/9EZTrA-hJT4/s
 data-border="0" width="400" height="255" /></a>
 
 </div>
-
-
-
 <div style="text-align: left;">
 
 At this point the presentation is more or less completed. I usually run
@@ -560,17 +488,11 @@ resources for my work:
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -593,9 +515,6 @@ that you can reuse.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -606,9 +525,6 @@ More on that below. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -620,9 +536,6 @@ creator. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -647,9 +560,6 @@ Commons</a> for example. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -660,9 +570,6 @@ in question properly. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -712,9 +619,6 @@ a license. Like the picture to the right. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -744,9 +648,6 @@ reputation enough to get to
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -769,9 +670,6 @@ I don't use them for flying, spinning or dropping pictures in. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -786,9 +684,6 @@ instructive and clarifying. 
 </div>
 
 <div>
-
-
-
 <div style="margin-bottom: 5px;">
 
 **<a
@@ -844,9 +739,6 @@ that. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -859,9 +751,6 @@ most times I share them too. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -903,9 +792,6 @@ My latest presentation can be found here: 
 </div>
 
 <div style="text-align: left;">
-
-
-
 <div style="margin-bottom: 5px;">
 
 **<a

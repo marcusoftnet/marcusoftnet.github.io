@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Meteor and the 'Uncaught SyntaxError: Unexpected token Y' error"
-author: "Marcus Hammarberg"
+title: Meteor and the 'Uncaught SyntaxError: Unexpected token Y' error
+author: Marcus Hammarberg
 date: 2015-06-05 10:39:14
 tags:
  - Javascript

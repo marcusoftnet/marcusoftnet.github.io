@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Run as for MSI-files
-date: '2008-08-07T13:56:00.001+02:00'
+date: 2008-08-07T13:56:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
-modified_time: '2010-12-14T16:22:38.262+01:00'
+modified_time: 2010-12-14T16:22:38.262+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3734436501828174890
 blogger_orig_url: http://www.marcusoft.net/2008/08/run-as-for-msi-files.html
 ---

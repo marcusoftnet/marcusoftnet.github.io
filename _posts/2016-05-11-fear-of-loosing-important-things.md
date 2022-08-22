@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our fear of forgetting important things"
-author: "Marcus Hammarberg"
+title: Our fear of forgetting important things
+author: Marcus Hammarberg
 date: 2016-04-29 12:00:00
 tags:
  - Lean

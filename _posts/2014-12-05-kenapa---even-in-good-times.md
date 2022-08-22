@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Always ask kenapa"
-author: "Marcus Hammarberg"
+title: Always ask kenapa
+author: Marcus Hammarberg
 date: 2014-12-05 07:10:51
 tags:
 - Life of a consultant

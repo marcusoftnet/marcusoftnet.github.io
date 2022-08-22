@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Role models - Christian the developer"
-author: "Marcus Hammarberg"
+title: Role models - Christian the developer
+author: Marcus Hammarberg
 date: 2020-09-02 00:00:00
 tags:
  - Marcus private
@@ -37,13 +37,7 @@ The meeting ended after a process and structure had been set up and we parted wa
 > /C
 
 At this point I **know** that I was gaping because I distinctly remember picking up my jaws from the floor.
-
-
-
 Two days later we got to sit down with Christian and he walked us through a template architecture that the team was using and got us started with the app. It was like going on rails - and we succeeded to deliver an app in just a few weeks, that normally would have taken months.
-
-
-
 Two more stories, there are many, that have affected me;
 
 I remember being involved in another project with someone that worked closely with Christian. This was 2001 if I'm not mistaken. It was a Friday morning and the end of the first week of the project. We had just got a first [tracer bullet](http://www.bigagiletoolkit.com/B2B/Tracer_and_Spike.aspx) up. As I came into the office my coworker says:
@@ -57,9 +51,6 @@ I couldn't believe my ears. Why? We had nothing useful - it was just getting a n
 If I had been really on my toes I would understand the significance of that and started to research continuous deployments... but now it took me 4-5 years more to grasp.
 
 This too blew me away - not only was it a good idea, but I could see that Christians' air, ideas, and thoughts affected others. Even when he was not in the room.
-
-
-
 Finally, I remember the first time our consultancy team had a meeting. We started with an ice-breaker, quite a tricky question: `What is the most important thing for you, at work?`.
 
 Now, you should know, that Christian has a very straight forward, no holds barred, sometimes borderline rude, approach. The opposite of me that am very careful not to step on any toes. Especially at that time when I was junior in all aspects of the word.
@@ -75,9 +66,6 @@ Have fun at work. Make work fun for others, while having fun. If it is not fun -
 I realize that I'm privileged to be able to just "fun" as a factor to if I want a job or not. And I'm grateful for that. But I also think that chasing "fun" has led me to where I am today.
 
 The first time that idea (follow the fun) enter my head was in that meeting when Christian laid out his approach in four words.
-
-
-
 Christian - thank you for taking me under your wings and for all the support you showed me in my early development as a young software developer. And above all - thank you for putting me onto the path of chasing the "fun" at work.
 
 Thank you!

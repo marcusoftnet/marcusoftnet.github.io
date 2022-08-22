@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pre and Post hooks for npm scripting"
-author: "Marcus Hammarberg"
+title: Pre and Post hooks for npm scripting
+author: Marcus Hammarberg
 date: 2015-08-21 07:03:49
 tags:
  - Javascript

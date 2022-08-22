@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thinking in flow - some recent thoughts"
-author: "Marcus Hammarberg"
+title: Thinking in flow - some recent thoughts
+author: Marcus Hammarberg
 date: 2018-05-28 20:47:34
 tags:
 
@@ -101,9 +101,6 @@ Ok - let's say that UAT (User acceptance testing) is slow and a lot of items get
     `OI! UAT-people! Code is ready to be UAT'ed`
     we could go
     `OI! UAT-people! Code is ready, I've run report 1,2,3 and 6 and they look good. Anything else I could check to next time to make your life easier and UAT even faster?`
-
-
-
 Another example that come up was, clumsily, tweeted by me the other day like this:
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Don’t pull work that you already know will not flow smoothly. Prep it first<br><br>Or more positive note; only pull work you know will flow smoothly <a href="https://twitter.com/hashtag/lean?src=hash&amp;ref_src=twsrc%5Etfw">#lean</a> <a href="https://twitter.com/hashtag/kanban?src=hash&amp;ref_src=twsrc%5Etfw">#kanban</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/1001083818718253062?ref_src=twsrc%5Etfw">May 28, 2018</a></blockquote>
@@ -121,9 +118,6 @@ Not pulling those items make we can spend our precious capacity to work that wil
 According to [Theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) (and common sense), every system has one bottleneck that slows down production. Improving the flow through the bottleneck means that we are improving the flow of the system. Improving the flow in other parts of the system, than the bottleneck, will not improve the overflow and could potentially hurt the flow of the bottleneck.
 
 If we are not the bottleneck (hey - it might be the UAT guys) we could pull things that we know might not flow. It's ok for now as we are not the bottleneck.
-
-
-
 Let me share one last example, this time not from IT. I was at a bank office the other day. In the olden days, we used to have to go *to* a certain building to conduct banking business, youngsters.
 
 While I was there, there was a queue of people. Naturally. As I was patiently waiting my turn a bank employee came walking towards me and the other people waiting. He asked me: `What are you here for?`. I stated my business and he replied `Ah - cool. They have to do a credit check-up for that. I can do that while you wait.`

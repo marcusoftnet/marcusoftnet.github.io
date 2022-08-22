@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Free books and presentations on Agile stuff
-date: '2007-03-08T15:24:00.000+01:00'
+date: 2007-03-08T15:24:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Agile
   - Visual Studio
-modified_time: '2010-12-14T16:19:05.643+01:00'
+modified_time: 2010-12-14T16:19:05.643+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4668417735253888665
 blogger_orig_url: http://www.marcusoft.net/2007/03/free-books-and-presentations-on-agile.html
 ---

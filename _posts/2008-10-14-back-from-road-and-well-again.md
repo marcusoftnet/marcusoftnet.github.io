@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Back from the road and well again
-date: '2008-10-14T18:04:00.001+02:00'
+date: 2008-10-14T18:04:00.001+02:00
 author: Marcus Hammarberg tags:
-modified_time: '2008-10-14T18:04:13.877+02:00'
+modified_time: 2008-10-14T18:04:13.877+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3239158553466281381
 blogger_orig_url: http://www.marcusoft.net/2008/10/back-from-road-and-well-again.html ---
 

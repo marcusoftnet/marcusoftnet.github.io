@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Deploy and release"
-author: "Marcus Hammarberg"
+title: Deploy and release
+author: Marcus Hammarberg
 date: 2017-09-20 16:53:42
 tags:
 

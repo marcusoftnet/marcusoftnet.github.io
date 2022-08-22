@@ -2,13 +2,13 @@
 layout: post
 title: Together in transformation – An agile Salvation
 Army
-date: '2009-02-07T21:04:00.001+01:00'
+date: 2009-02-07T21:04:00.001+01:00
 author: Marcus Hammarberg
 tags:
 
   - Agile
   - Salvation Army
-modified_time: '2009-02-07T21:04:37.549+01:00'
+modified_time: 2009-02-07T21:04:37.549+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-60086817531068992
 blogger_orig_url: http://www.marcusoft.net/2009/02/together-in-transformation-agile.html
 ---

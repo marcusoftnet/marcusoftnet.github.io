@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review: Nature by Ron Jeffries"
-author: "Marcus Hammarberg"
+title: Review: Nature by Ron Jeffries
+author: Marcus Hammarberg
 date: 2015-09-07 10:19:40
 tags:
 

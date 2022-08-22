@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Creating link to TFS Reports in build script
-date: '2008-08-07T14:12:00.004+02:00'
+date: 2008-08-07T14:12:00.004+02:00
 author: Marcus Hammarberg
 tags:
   - Tools - TFS - MSBuild
-modified_time: '2010-12-14T16:22:38.258+01:00'
+modified_time: 2010-12-14T16:22:38.258+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8109744470981793374
 blogger_orig_url: http://www.marcusoft.net/2008/08/creating-link-to-tfs-reports-in-build.html
 ---
@@ -68,9 +68,6 @@ latest results. Here is what I did - not pretty, but it works;
         &lt;Message Text="Create link to build report" />
        &lt;Copy SourceFiles="$(SolutionRoot)\Solution Items\Tools\BuildReportLink.txt" DestinationFiles="\\$(DropServerName)\Drops\$(AppName)\TestResults\BuildReportLink.url" />
       &lt;/Target>
-
-
-
 -   Finally I made my build script call that target
 
 As I said - maybe not a very pretty solution but it sure came through

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Using tags in SpecFlow features
-date: '2010-12-13T22:30:00.005+01:00'
+date: 2010-12-13T22:30:00.005+01:00
 author: Marcus Hammarberg
 tags:
   - Agile
   - SpecFlow
-modified_time: '2012-11-29T21:50:51.777+01:00'
+modified_time: 2012-11-29T21:50:51.777+01:00
 thumbnail: http://4.bp.blogspot.com/\_TI0jeIedRFk/TQdXP9v4aMI/AAAAAAAAAqE/2ub9D7gAH3M/s72-c/reshaper+showing+features+with+tags+as+categories.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8822445321832123412
 blogger_orig_url: http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html

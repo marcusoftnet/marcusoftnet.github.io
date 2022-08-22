@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ca 15 minutes on Impact mapping"
-author: "Marcus Hammarberg"
+title: ca 15 minutes on Impact mapping
+author: Marcus Hammarberg
 date: 2015-06-18 11:26:05
 tags:
 

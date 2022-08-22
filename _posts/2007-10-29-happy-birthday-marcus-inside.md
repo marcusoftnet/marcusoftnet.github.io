@@ -2,11 +2,11 @@
 layout: post
 title: Happy birthday - Marcus inside
 (www.marcusoft.net)
-date: '2007-10-29T12:38:00.001+01:00'
+date: 2007-10-29T12:38:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2007-10-29T12:51:37.275+01:00'
+modified_time: 2007-10-29T12:51:37.275+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2496410496021557951
 blogger_orig_url: http://www.marcusoft.net/2007/10/happy-birthday-marcus-inside.html ---
 Today i have had this blog for a whole year. I never thought that it
@@ -27,8 +27,5 @@ would evolve to this. Here are some interesting (?) facts and statics.
 -   2007-08-27 was another important date in the history of the blog
     since the URL and name was changed into the current
     [marcusoft.net](http://www.marcusoft.net/)
-
-
-
 So - there you have it - happy birthday
 [marcusoft.net](http://www.marcusoft.net/)

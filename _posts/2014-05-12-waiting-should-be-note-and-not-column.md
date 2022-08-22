@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “Waiting” should be a note and not a column
-date: '2014-05-12T08:46:00.001+02:00'
+date: 2014-05-12T08:46:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools - Team Yayasan - Lean
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-05-12T08:46:20.318+02:00'
+modified_time: 2014-05-12T08:46:20.318+02:00
 thumbnail: http://lh4.ggpht.com/-ackfKbH6pEU/U3BuGyHsEFI/AAAAAAAADbE/gnl-qSLU6Og/s72-c/example1_thumb%25255B66%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3379764614197030165
 blogger_orig_url: http://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html
@@ -47,9 +47,6 @@ die. Slowly.
 I have now explained the contents of this blog post to a number of
 teams, although it’s simple, and thought that I should write it down so
 that I don’t have to restate it over and over.
-
-
-
 First if you move the sticky out of the Doing column you are losing
 information about it’s current status. It’s now not Doing it’s waiting.
 For all but the very trivial boards (as above) this is a problem when

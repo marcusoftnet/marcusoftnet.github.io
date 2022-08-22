@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Week ended - nice weekend
-date: '2007-01-29T07:35:00.000+01:00'
+date: 2007-01-29T07:35:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2007-01-29T07:45:32.246+01:00'
+modified_time: 2007-01-29T07:45:32.246+01:00
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAEw/UmBOLRCpza4/s72-c/PICT0384.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-917660750540573695
 blogger_orig_url: http://www.marcusoft.net/2007/01/week-ended-nice-weekend.html
@@ -26,11 +26,6 @@ the last two days.
 </div>
 
 
-
-
-
-
-
 <div>
 
 It all ended happily, though, with a very nice
@@ -46,22 +41,12 @@ picture from there, in the summer-time mind you well.
 </div>
 
 
-
-
-
-
-
 <div>
 
 Very nice to meet all and to see the wildness of God's nature during the
 winter. I could have looked at the waves for hours.
 
 </div>
-
-
-
-
-
 
 
 <div>
@@ -71,7 +56,4 @@ impression this weekend. But i really was, so that's
 fairly right anyway.
 
 </div>
-
-
-
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Mobilephones forbidden on the subway in Stockholm
-date: '2007-01-22T07:40:00.000+01:00'
+date: 2007-01-22T07:40:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2007-06-01T12:15:34.358+02:00'
+modified_time: 2007-06-01T12:15:34.358+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1226455410688214850
 blogger_orig_url: http://www.marcusoft.net/2007/01/mobilephones-forbidden-on-subway-in.html
 ---

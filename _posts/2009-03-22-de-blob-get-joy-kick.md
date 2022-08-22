@@ -1,11 +1,11 @@
 ---
 layout: post
 title: De Blob – get a joy-kick!
-date: '2009-03-21T21:04:00.001+01:00'
+date: 2009-03-21T21:04:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: '2009-05-05T11:31:06.975+02:00'
+modified_time: 2009-05-05T11:31:06.975+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2156207795703249657
 blogger_orig_url: http://www.marcusoft.net/2009/03/de-blob-get-joy-kick.html ---
 
@@ -20,9 +20,6 @@ Here is a short clip that introduce the game and the plot:
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:7a1ebb15-5ee1-41c9-bf0b-b272fd00f8a1"
 class="wlWriterEditableSmartContent"
 style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px">
-
-
-
 </div>
 
 I’m sorry to say that it will ruin my <a

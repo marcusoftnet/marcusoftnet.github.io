@@ -1,12 +1,12 @@
 ---
 layout: post
 title: SCRUM vs RUP - practical comparison
-date: '2007-10-02T10:41:00.001+02:00'
+date: 2007-10-02T10:41:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-modified_time: '2007-10-02T12:51:38.586+02:00'
+modified_time: 2007-10-02T12:51:38.586+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6623804660638275061
 blogger_orig_url: http://www.marcusoft.net/2007/10/scrum-vs-rup-practical-comparison.html
 ---

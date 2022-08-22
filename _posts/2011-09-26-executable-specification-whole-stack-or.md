@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Executable specification - the whole stack or not
-date: '2011-09-26T14:45:00.001+02:00'
+date: 2011-09-26T14:45:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - Specification by example
-modified_time: '2011-09-26T14:45:34.880+02:00'
+modified_time: 2011-09-26T14:45:34.880+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3657259940402708159
 blogger_orig_url: http://www.marcusoft.net/2011/09/executable-specification-whole-stack-or.html
 ---

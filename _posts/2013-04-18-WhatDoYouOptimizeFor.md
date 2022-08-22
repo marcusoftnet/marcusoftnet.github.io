@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Are you coding for change or for stability?
-date: '2013-04-18T08:00:00.001+02:00'
+date: 2013-04-18T08:00:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
 
   - Agile
-modified_time: '2013-04-23T11:01:49.830+02:00'
+modified_time: 2013-04-23T11:01:49.830+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4901344307200799475
 blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html ---
 
@@ -52,9 +52,6 @@ The thing is: he didn't tell us what he was going to change. Just that
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -165,9 +162,6 @@ this topic if you want to read more.
 </div>
 
 <div>
-
-
-
 </div>
 
 </div>

@@ -2,14 +2,14 @@
 layout: post
 title: Setting up a new development machine without
 pressing Next a single time, using Chocolately
-date: '2013-08-01T20:28:00.001+02:00'
+date: 2013-08-01T20:28:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Agile
   - Visual Studio
-modified_time: '2013-08-05T08:49:42.359+02:00'
+modified_time: 2013-08-05T08:49:42.359+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3525796959481201604
 blogger_orig_url: http://www.marcusoft.net/2013/08/DevInstallChocolatey.html ---
 
@@ -31,9 +31,6 @@ target="_blank">powershell</a> and consider myself to be a newbie
 Chocolatey user.
 
 This post describes my journey.
-
-
-
 ### Getting a virtual windows installation in place
 
 <div>
@@ -47,9 +44,6 @@ Windows installation.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -103,9 +97,6 @@ like a file with these commands in and then just execute those commands.
 This can be done (thanks
 <a href="https://github.com/carllindelof" target="_blank">Calle</a> for
 the tip) with this command:
-
-
-
 <div>
 
 And then my devApps.ps1 file just contains installation commands I want.
@@ -114,9 +105,6 @@ Like this for example:
 I could then merge the "get Chocolatey" -command with the "install dev
 apps"-command and have a single install.bat that I run to get this to
 run:
-
-
-
 ### Getting my stuff in place - cloud version
 
 </div>
@@ -131,9 +119,6 @@ for. And what is good.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -145,9 +130,6 @@ unhealthy relationship with).  
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -159,9 +141,6 @@ suggestions and maybe even inspire them. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -176,9 +155,6 @@ make pull requests and forks of my file to improve it. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -192,20 +168,14 @@ use that too and download my devApps.ps1 file from Github. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 Like this:
 
-</div>
 
 
-
-<div>
 
 A small gotcha for me was that you have to reference the RAW-version of
 the file. Of course, once you think about it since you don't want to
@@ -241,9 +211,6 @@ installations time to really shine. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

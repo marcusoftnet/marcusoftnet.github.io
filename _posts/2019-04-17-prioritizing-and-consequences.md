@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The consequences of prioritizing"
-author: "Marcus Hammarberg"
+title: The consequences of prioritizing
+author: Marcus Hammarberg
 date: 2019-04-17 11:56:05
 tags:
 

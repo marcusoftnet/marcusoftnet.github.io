@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Applying Switch framework to: Meetings are not
+title: Applying Switch framework to: Meetings are not
 real work'
-date: '2012-09-19T09:00:00.000+02:00'
+date: 2012-09-19T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-09-24T11:05:51.476+02:00'
+modified_time: 2012-09-24T11:05:51.476+02:00
 thumbnail: http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
@@ -68,9 +68,6 @@ book</a> to get the full picture
 <div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -97,9 +94,6 @@ something to eat … those reins will not help much.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -116,9 +110,6 @@ accomplish that. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -134,9 +125,6 @@ target="_blank">Stick</a> .
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -160,9 +148,6 @@ the change implemented today? 
 </div>
 
 <div>
-
-
-
 </div>
 
 |                                                                                                                     |
@@ -197,9 +182,6 @@ this behavior to the other mother with a great effect as a result. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -212,9 +194,6 @@ happend then?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -248,9 +227,6 @@ more of it and always hold great meetings?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -272,9 +248,6 @@ martial arts.
 </div>
 
 <div>
-
-
-
 </div>
 
 |                                                                                                         |
@@ -317,9 +290,6 @@ are the master you can make up new techniques. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -332,9 +302,6 @@ probably taught to the whole organisation. Why not when you are hired? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -379,9 +346,6 @@ to that abbreviation FAT I/O (tm). 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -437,9 +401,6 @@ have to feel important and fun. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

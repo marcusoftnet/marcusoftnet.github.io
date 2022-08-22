@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Book review: 50 quick ideas to improve your retrospectives"
-author: "Marcus Hammarberg"
+title: Book review: 50 quick ideas to improve your retrospectives
+author: Marcus Hammarberg
 date: 2015-12-11 11:26:56
 tags:
 

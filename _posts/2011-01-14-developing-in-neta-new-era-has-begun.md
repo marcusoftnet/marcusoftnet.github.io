@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Developing in .Net–a new era has begun
-date: '2011-01-13T21:11:00.001+01:00'
+date: 2011-01-13T21:11:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - KanbanBoards
   - Agile
-modified_time: '2011-02-05T21:13:11.775+01:00'
+modified_time: 2011-02-05T21:13:11.775+01:00
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TS9gf84iOrI/AAAAAAAAArw/fAKXyaQG_TQ/s72-c/wlEmoticon-smile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5907964016203666193
 blogger_orig_url: http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html
@@ -107,9 +107,6 @@ href="http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment/
 target="_blank">last responsible moment</a>. I will *not* download a
 bunch of stuff that I think that I will need – only when I actually need
 it.
-
-
-
 ### Coding - Getting up and running
 
 OK let’s go. Today I want to simply set up the environment and get my

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fun with scripting - running a test suite against 30 different solutions"
-author: "Marcus Hammarberg"
+title: Fun with scripting - running a test suite against 30 different solutions
+author: Marcus Hammarberg
 date: 2019-10-08 17:34:43
 tags:
  - Programming
@@ -118,9 +118,6 @@ We now have all the parts we need to write the orchestration of the script. What
   * Execute the test script against their code
   * Execute the linting script against their code
   * Report to files their results
-
-
-
 Let's check how we set that structure up and then talk about the actual work being done later.
 
 First of all, we need to head into the folder for this test. The script we are executing is the same for all tests but each test behaves a bit different.
@@ -144,9 +141,6 @@ mkdir oneFolderPerDev
 ```
 
 This is one of the tricks to ensure that we can run the script over and over easily.
-
-
-
 Now for the loop. We've stored all the developers' names in a text file called ... `allDevelopers.txt` and that is read into a variable with the same name:
 
 ```bash

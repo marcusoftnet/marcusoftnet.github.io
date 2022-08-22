@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Calling SOAPUi Testscript from MSBuild
-date: '2010-04-14T20:31:00.001+02:00'
+date: 2010-04-14T20:31:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET - MSBuild
-modified_time: '2010-12-14T16:22:38.157+01:00'
+modified_time: 2010-12-14T16:22:38.157+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-955286889235744294
 blogger_orig_url: http://www.marcusoft.net/2010/04/calling-soapui-testscript-from-msbuild.html
 ---

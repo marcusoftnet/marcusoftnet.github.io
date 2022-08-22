@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Last day - new chapter
-date: '2009-01-30T08:07:00.001+01:00'
+date: 2009-01-30T08:07:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2009-01-30T08:09:21.487+01:00'
+modified_time: 2009-01-30T08:09:21.487+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6772939701414694365
 blogger_orig_url: http://www.marcusoft.net/2009/01/last-day-new-chapter.html ---
 

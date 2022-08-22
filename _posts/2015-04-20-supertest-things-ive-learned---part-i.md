@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Supertest: Things I've learned - part I"
-author: "Marcus Hammarberg"
+title: Supertest: Things I've learned - part I
+author: Marcus Hammarberg
 date: 2015-04-20 09:20:08
 tags:
  - Javascript

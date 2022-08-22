@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ScrumIndexCardCreator - my first CodePlex project
-date: '2008-08-18T08:25:00.002+02:00'
+date: 2008-08-18T08:25:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Tools
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.243+01:00'
+modified_time: 2010-12-14T16:22:38.243+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8218660768324070029
 blogger_orig_url: http://www.marcusoft.net/2008/08/scrumindexcardcreator-my-first-codeplex.html
 ---

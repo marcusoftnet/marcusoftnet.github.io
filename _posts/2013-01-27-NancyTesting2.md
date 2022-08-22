@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Nancy.Testing - configure her boot...strapper
-date: '2013-01-27T09:00:00.000+01:00'
+date: 2013-01-27T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
   - .NET
   - C#
-modified_time: '2014-06-21T02:09:55.455+02:00'
+modified_time: 2014-06-21T02:09:55.455+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2035700742916788295
 blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting2.html
 ---
@@ -52,9 +52,6 @@ bootstrapper. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -71,9 +68,6 @@ you better. In the testing case - we can supply fakes and mocks. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -83,9 +77,6 @@ Let's get to it - there's a lot of code to get through.
 </div>
 
 <div>
-
-
-
 ### The Configurator and how we use it
 
 <div>
@@ -100,9 +91,6 @@ DefaultNancyBootstrapper that uses all the common Nancy conventions or
 settings.
 
 Or ... it can be a lamda. Like this:
-
-
-
 <div>
 
 Pardon the funky formatting, but I think that requires
@@ -134,9 +122,6 @@ the environment to be set up. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -169,9 +154,6 @@ planning to test. I use it as a best practice since it also narrows down
 my test scope and asserts that things are where I thought they would
 be.
 Here's an examples of using the Module-methods:
-
-
-
 <div>
 
 Go to the repository to see other [ways to call
@@ -191,10 +173,6 @@ flexing any IoC container (other than
 target="_blank">TinyIoC</a> that's built into Nancy and that you almost
 cannot see).
 Let's see the Dependency-method in action:
-
-
-
-
 As you can see it's merely a question of supplying the class as a type
 parameter, but there's a number of ways to call the Dependency method.
 <a
@@ -204,10 +182,6 @@ target="_blank">Look here</a> to see more of them in action.
 Finally if your module have more than one dependency you can registrer
 them all at once with the Dependencies-method. With this method you can
 supply more than one Dependency.
-
-
-
-
 This method also have a <a
 href="https://github.com/marcusoftnet/DiscoveringNancyThroughTests/blob/master/DiscoverNancy.Tests/DiscoverNancy.Tests/ConfigurableBootstraper_Dependecies.cs"
 target="_blank">lot of overloads, see here</a>. In one of them me an
@@ -236,10 +210,6 @@ you have some mock instances of the dependent interfaces in the testing
 assembly that will get registered first.
 This all results in this test. Note that I don't have to hand
 Nancy.Testing my dependencies. It just works.
-
-
-
-
 However - this is a bit dangerous, of course. What happen if you have
 more than one implementation for your interfaces in the test assembly?
 What if the production implementation get's registered first - can the
@@ -261,9 +231,6 @@ frameworks extensibility.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -327,15 +294,6 @@ RequestStartup. With these you can hook into the pipeline of a HTTP
 request and add functionality to it as needed.
 
 Here's one example using the ApplicationStartup-method:
-
-
-
-
-
-</div>
-
-<div style="text-align: left;">
-
 As you can see it's as easy as registering a block of code that is run
 before each request. There are other events that you can hook into as
 well (OnError and AfterRequest) but that's not as common, and works
@@ -344,18 +302,12 @@ exactly the same. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
 
 There's also a RequestStartup that works much the same way, but for a
 single Request:
-
-
-
 ### Summary
 
 </div>

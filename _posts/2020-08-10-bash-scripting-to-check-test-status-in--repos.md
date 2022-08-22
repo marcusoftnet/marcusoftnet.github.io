@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bash scripting to check the status of 100 repositories"
-author: "Marcus Hammarberg"
+title: Bash scripting to check the status of 100 repositories
+author: Marcus Hammarberg
 date: 2020-08-10 15:38:56
 tags:
  - Javascript

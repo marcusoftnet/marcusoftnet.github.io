@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What are you going do when it's really important, then?"
-author: "Marcus Hammarberg"
+title: What are you going do when it's really important, then?
+author: Marcus Hammarberg
 date: 2018-06-03 20:52:22
 tags:
  - Lean
@@ -20,9 +20,6 @@ I have a very particular set of memories from my childhood, that revolves around
 > Tell me, what are you going to do if it really hurts, then?
 
 That was maybe not pedagogically correct for a child in pain but it at least got me thinking. Indeed… what comes after screaming and crying? Could I turn this up? Would it make a difference? Would I get … yes, what was it I wanted, really? Maybe just a hug or comfort. Could I get that by other means of communication that the display I was putting on now?
-
-
-
 Of course, 7-year old Marcus didn't reflect on his behaviour this deeply. Hey, 44-year old Marcus barely does that. But at some clients, that thought comes back to me from time to time. In the way deadlines are communicated.
 
 <!-- excerpt-end -->
@@ -32,9 +29,6 @@ Have you ever heard something like this, concerting something you are *developin
 > This **has** to be done, by Tuesday!
 
 You know you have. The important feature X. It just **have to** be done!
-
-
-
 Sentences like begs so many questions. Here are a few:
 
 * Or else? What will happen (to us) if we don't get it done? What is the punishment?
@@ -46,9 +40,6 @@ Sentences like begs so many questions. Here are a few:
 * This is horrible stress and I don't want it to happen again - are you willing to have a meeting, in retrospect - once all of this is over, to ensure that we do these things better the next time around?
 
 But alas, people ~~screaming~~ speaking that kind of sentences seldom have the patience and time to listen to any of my questions and I'm left trying to do whatever I can to get it done. Often with stress, bad quality and bad feelings for the person and my job as a result.
-
-
-
 Brrr… horrible. Let's spins this a bit more positive, shall we? Because, in many instances that I've experienced **have to** really means **I want to**, so that the sentence, in nice-speak, becomes:
 
 > I would like this to be completed by Tuesday, if possible.
@@ -72,9 +63,6 @@ Kids have tried to solve this problem:
 But that's just silly (although I've actually heard that last time spoken by grown-up managers a few times).
 
 Indeed silly.
-
-
-
 Thinking of this we soon realize that the poor person telling us that it **have to** be done, probably just want to express, with emphasis, that this is important. But just as I reflected… let's think about a better way to express this. One that, maybe, could take some of the drama out of it and be more objective and tangible.
 
 Luckily for us, way smarter people than me have already thought long and hard about this. My favourite is a very mellow and goodhearted (in person), but super clear and a bit short (his own words) in writing [Dr Donald Reinertsen](https://twitter.com/dreinertsen?lang=en).
@@ -100,9 +88,6 @@ But you are much better of hearing what Dr Reinertsen says:
 And then he basically says that it's an economic measurement he's looking for: the nominator (above the line for the rest of us) is a financial measure and the denominator is a unit of time. For example; dollars per day, revenue per month or something like that.
 
 > What is a unit of time **worth** to us?
-
-
-
 Now, this is great because this is an objective (well.. it's a fair amount of guessing aka estimating in there, but still) measure for us. Come to think about it;
 
 * I don't think any of the **have to be done** work I have worked on ever had an amount per days attached to them
@@ -119,9 +104,6 @@ So let's help them and us to know the value of the work we do.
 * `What happens after Tuesday, if we don't make it?`
 * `How many dollars of that will happen each day or week?`
 * and finally: `The other things on your list for us to do - can we quantify them in the same way?`
-
-
-
 Now, I would recommend not doing this in the heat of the moment. Some that just screamed at you and then walked out is not ready to go into a discussion. Just now.
 
 But there are still options:
@@ -131,7 +113,4 @@ But there are still options:
 * Or do it yourself and present it in hindsight. `We calculated feature X to cost us $40/day, so getting that out earlier earned us $120. Do you agree?`
 
 * Ask to have this for other things in the backlog: `Hey feature X didn't feel great for us; we had no idea about why we were doing it, nor what it was worth to you. Could you give us an estimate of how much money each late day would cost us, for the next time? We can help if you want.`
-
-
-
 When people say `have to` they often mean `I want to`. Asking *why* it have to be done by a certain date, reveals the real need better, in my experience

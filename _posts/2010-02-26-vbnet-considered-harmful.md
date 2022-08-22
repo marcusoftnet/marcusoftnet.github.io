@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Vb.net considered harmful
-date: '2010-02-26T09:19:00.001+01:00'
+date: 2010-02-26T09:19:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - .NET
   - C#
-modified_time: '2010-02-26T09:23:06.710+01:00'
+modified_time: 2010-02-26T09:23:06.710+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8741078323839573558
 blogger_orig_url: http://www.marcusoft.net/2010/02/vbnet-considered-harmful.html ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Great introduction to BDD
-date: '2009-06-12T22:03:00.002+02:00'
+date: 2009-06-12T22:03:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
 
   - TDD
-modified_time: '2009-06-13T12:35:07.138+02:00'
+modified_time: 2009-06-13T12:35:07.138+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3866509650310930638
 blogger_orig_url: http://www.marcusoft.net/2009/06/great-introduction-to-bdd.html ---
 

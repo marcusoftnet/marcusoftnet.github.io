@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to add and translate subtitles for your YouTube video in 10 minutes"
-author: "Marcus Hammarberg"
+title: How to add and translate subtitles for your YouTube video in 10 minutes
+author: Marcus Hammarberg
 date: 2015-06-15 08:32:12
 tags:
  - Tools

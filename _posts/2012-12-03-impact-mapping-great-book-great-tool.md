@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Impact Mapping - great book, great tool
-date: '2012-12-03T09:00:00.000+01:00'
+date: 2012-12-03T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
 
   - Agile - ContinuousDelivery
-modified_time: '2012-12-03T09:00:02.636+01:00'
+modified_time: 2012-12-03T09:00:02.636+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7066734482832063838
 blogger_orig_url: http://www.marcusoft.net/2012/12/impact-mapping-great-book-great-tool.html
 ---
@@ -38,9 +38,6 @@ they only accept review from people how bought the book directly from
 the. Well - this will have to do instead then.
 I'll hint right now that this would be a 5-star review (to add to the 9
 other 5-start reviews that's already on Amazon).
-
-
-
 ### What is it?
 
 <div>
@@ -54,9 +51,6 @@ place. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -77,9 +71,6 @@ There must be some pieces to the puzzle I'm missing. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -111,9 +102,6 @@ Again. Why were we doing this now again?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -141,9 +129,6 @@ understood Impact maps here. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -167,9 +152,6 @@ really appreciate. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -202,9 +184,6 @@ about it. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -237,9 +216,6 @@ presentation](http://skillsmatter.com/podcast/home/make-impact-not-software)
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -251,9 +227,6 @@ I cannot wait to try this out. It one of those things that just feel
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -280,9 +253,6 @@ happend to me a couple of times. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -300,9 +270,6 @@ Group 2012-11-28.  
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -315,9 +282,6 @@ great power, right? Great responsibilities. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -328,9 +292,6 @@ out. It's a great tool that can will you. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

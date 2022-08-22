@@ -1,14 +1,14 @@
 ---
 layout: post
 title: No more bugs – a thought experiment
-date: '2010-10-25T11:54:00.001+02:00'
+date: 2010-10-25T11:54:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - Agile
-modified_time: '2010-10-25T11:54:19.072+02:00'
-blogger_id: 'tag:blogger.com,1999:blog-36533086.post-4353853140548734745'
+modified_time: 2010-10-25T11:54:19.072+02:00
+blogger_id: tag:blogger.com,1999:blog-36533086.post-4353853140548734745'
 blogger_orig_url: http://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html
 ---
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: VB.NET - not that bad
-date: '2007-04-20T07:47:00.000+02:00'
+date: 2007-04-20T07:47:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - .NET
   - Visual Studio
-modified_time: '2010-12-14T16:19:05.633+01:00'
+modified_time: 2010-12-14T16:19:05.633+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7097480928420453058
 blogger_orig_url: http://www.marcusoft.net/2007/04/vbnet-not-that-bad.html
 ---

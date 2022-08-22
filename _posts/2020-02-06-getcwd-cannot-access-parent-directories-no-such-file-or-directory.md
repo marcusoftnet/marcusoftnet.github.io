@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "getcwd: cannot access parent directories: No such file or directory"
-author: "Marcus Hammarberg"
+title: getcwd: cannot access parent directories: No such file or directory
+author: Marcus Hammarberg
 date: 2020-02-06 21:07:00
 tags:
  - Programming

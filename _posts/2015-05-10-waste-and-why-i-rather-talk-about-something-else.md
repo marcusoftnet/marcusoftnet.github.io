@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Waste and why I rather talk about something else"
-author: "Marcus Hammarberg"
+title: Waste and why I rather talk about something else
+author: Marcus Hammarberg
 date: 2015-05-10 14:33:45
 tags:
  - Lean

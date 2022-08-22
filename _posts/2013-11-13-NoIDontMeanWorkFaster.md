@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'What I''m talking about: No - I don''t mean
+title: What I''m talking about: No - I don''t mean
 work faster'
-date: '2013-11-12T21:00:00.000+01:00'
+date: 2013-11-12T21:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
 
   - Agile
-modified_time: '2013-11-12T21:04:32.841+01:00'
+modified_time: 2013-11-12T21:04:32.841+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-328419199866986129
 blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html ---
 
@@ -70,9 +70,6 @@ the Ford-dudes talked about in the early years of this century? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -94,9 +91,6 @@ answer the question in the heading of this section. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -147,9 +141,6 @@ example. But that's not what I'm talking about. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -161,9 +152,6 @@ an iteration, Scrum...) it's a marathon. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -207,9 +195,6 @@ feel quite contra-effective at first. 
 Here are few things that I often come back to:  
 
 </div>
-
-
-
 -   Do **fewer things at the same time**, a.k.a. Limit Work in Process.
     By doing less things at the same time you make sure that each item
     is flowing faster through your process. [Books has been written

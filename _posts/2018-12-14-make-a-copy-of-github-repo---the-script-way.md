@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Make a copy of GitHub repo - the script way"
-author: "Marcus Hammarberg"
+title: Make a copy of GitHub repo - the script way
+author: Marcus Hammarberg
 date: 2018-12-14 13:54:21
 tags:
  - Programming

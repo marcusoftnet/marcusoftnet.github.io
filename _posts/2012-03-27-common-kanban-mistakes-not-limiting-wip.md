@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Common Kanban mistakes: Not limiting WIP'
-date: '2012-03-26T21:30:00.001+02:00'
+title: Common Kanban mistakes: Not limiting WIP'
+date: 2012-03-26T21:30:00.001+02:00
 author: Marcus Hammarberg
 tags:
 
   - Kanban
   - Agile
-modified_time: '2012-03-27T15:16:56.015+02:00'
+modified_time: 2012-03-27T15:16:56.015+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-557483721164471838
 blogger_orig_url: http://www.marcusoft.net/2012/03/common-kanban-mistakes-not-limiting-wip.html
 ---

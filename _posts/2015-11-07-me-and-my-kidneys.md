@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Me and my kidneys"
-author: "Marcus Hammarberg"
+title: Me and my kidneys
+author: Marcus Hammarberg
 date: 2015-11-07 12:46:41
 tags:
  - Marcus private

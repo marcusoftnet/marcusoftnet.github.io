@@ -2,7 +2,7 @@
 layout: post
 title: If you build it - things will improve; turning
 visualisations to knowledge
-date: '2014-09-16T04:34:00.000+02:00'
+date: 2014-09-16T04:34:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Tools - Lean
@@ -11,7 +11,7 @@ tags:
 Kanban
   - Agile
   - Salvation Army
-modified_time: '2014-11-04T03:49:01.421+01:00'
+modified_time: 2014-11-04T03:49:01.421+01:00
 thumbnail: http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916
 blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html ---
@@ -64,9 +64,6 @@ of the data. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -82,9 +79,6 @@ moving things around radiates a lot more information quite simply. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -137,9 +131,6 @@ forgotten and the information grows stale and unused. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -150,9 +141,6 @@ used to radiate information about our work instead. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -203,9 +191,6 @@ which leads to less learning and less improvements. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +201,6 @@ and post it on the wall - people will ignore it. Pretty as it might be. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -230,9 +212,6 @@ notices it and look at it. Ugly as it might be. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -243,9 +222,6 @@ thought to myself: "Man, this is WAY to big." 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -268,9 +244,6 @@ with. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -294,9 +267,6 @@ useful for me, when it comes to get people to understand. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -309,9 +279,6 @@ interest or understanding of the information you need them to act upon. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -355,9 +322,6 @@ they understood the information before them. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -390,9 +354,6 @@ Don't draw yourself! Give the pen to someone else. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -405,9 +366,6 @@ give the pen to someone in the team. Better yet - pass it around. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -451,9 +409,6 @@ change it so that we can do that. Let the tool evolve too. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -466,9 +421,6 @@ needed. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -492,9 +444,6 @@ the room. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -515,9 +464,6 @@ But stay there. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -529,9 +475,6 @@ People will start to cooperate towards a common improved future. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -542,9 +485,6 @@ you that this will happen. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -564,9 +504,6 @@ learning.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

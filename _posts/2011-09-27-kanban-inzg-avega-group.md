@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Kanban-inzg the Avega Group Office–reflections
-date: '2011-09-26T22:05:00.001+02:00'
+date: 2011-09-26T22:05:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Kanban
   - Agile
-modified_time: '2011-09-27T20:27:37.769+02:00'
+modified_time: 2011-09-27T20:27:37.769+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1798314656243096071
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inzg-avega-group.html ---
 
@@ -26,9 +26,6 @@ With this post I wanted to do some reflections on how the introduction
 of Kanban took hold for the teams and also what Morgan and me learned in
 the process. We are used to do this for IT-projects and teams working
 with system development or maintenance.
-
-
-
 #### Reflection on the result for the teams
 
 ##### First week

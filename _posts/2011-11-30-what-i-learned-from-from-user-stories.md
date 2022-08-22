@@ -1,14 +1,14 @@
 ---
 layout: post
 title: What i learned from 'From User stories to Acceptance tests' with Gojko Adzic
-date: '2011-11-29T20:27:00.001+01:00'
+date: 2011-11-29T20:27:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
   - Specification by example
 
   - Agile
-modified_time: '2011-11-29T22:34:36.362+01:00'
+modified_time: 2011-11-29T22:34:36.362+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7973153048578917460
 blogger_orig_url: http://www.marcusoft.net/2011/11/what-i-learned-from-from-user-stories.html
 ---
@@ -55,11 +55,8 @@ implementation rather than on business value. We even got the acceptance
 test case but returned them as we thought it was a mistake. No group
 asked the customer (Gojko) what he was expecting.
 
-</div>
 
 
-
-<div>
 
 From that we started to look on how hard it is to understand each other
 and how the telephone game plays out in a software process. For even
@@ -67,11 +64,8 @@ such simple stuff as to [how many points a simple symbol
 has](http://gojko.net/2008/08/29/how-many-points-are-there-in-a-five-point-star/) there
 were a lot of disagreements.
 
-</div>
 
 
-
-<div>
 
 We saw how using concrete examples could clarify that a great deal. And
 when we went back to our simulation and applied examples to the
@@ -79,11 +73,8 @@ requirements we've got we actually could find a whole lot
 of inconsistencies in them. Here is was really powerful to find business
 concepts by using examples such as BlackJack and Busted for example.
 
-</div>
 
 
-
-<div>
 
 Two kind of exercises for creating examples as a group stood out to me:
 
@@ -164,11 +155,8 @@ us dissecting and discussing a big load of examples (great idea -
 examples to understand how to write examples). Together we came up with
 a big list of stuff that was good or bad with them.
 
-</div>
 
 
-
-<div>
 
 Here are the good part, as we finally summarized them:
 
@@ -233,11 +221,8 @@ teams had fitted the ideas of Specification by example into their
 process. It was quite interesting as it ranged from fully fledged agile
 teams to very rigid waterfall-type of processes.
 
-</div>
 
 
-
-<div>
 
 A few tips I picked up:
 
@@ -308,11 +293,8 @@ This post was my brain dump. I don't expect anyone to get it if you
 wasn't there. If you still did I'm very happy. If you didn't get it -
 please ask a question below and I'll answer to the best of my knowledge.
 
-</div>
 
 
-
-<div>
 
 Again - thank you Gojko for a great course. I learned loads from you.
 Again.

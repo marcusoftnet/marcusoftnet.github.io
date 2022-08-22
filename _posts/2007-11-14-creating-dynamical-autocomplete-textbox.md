@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Creating a dynamical AutoComplete textbox
-date: '2007-11-14T13:20:00.001+01:00'
+date: 2007-11-14T13:20:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - .NET
   - Visual Studio
-modified_time: '2010-12-14T16:19:05.508+01:00'
+modified_time: 2010-12-14T16:19:05.508+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4324360961164731150
 blogger_orig_url: http://www.marcusoft.net/2007/11/creating-dynamical-autocomplete-textbox.html
 ---

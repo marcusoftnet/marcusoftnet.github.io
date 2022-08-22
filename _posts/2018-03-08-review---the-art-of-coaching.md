@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review - The art of coaching"
-author: "Marcus Hammarberg"
+title: Review - The art of coaching
+author: Marcus Hammarberg
 date: 2018-03-08 08:30:47
 tags:
 
@@ -20,17 +20,11 @@ Confession time: I have no formal training as a coach, and still that is the mos
 > Have you clients ever complained about your lack of formal training?
 
 A great coaching question that moved me ahead in my thinking.
-
-
-
 I'm leading with this story because this book is packed with stories like this. The reason the book is called "The **art** of coaching" is that it is packed with drawings that the authors made together with their clients. Packed - I tell you. One on every page.
 
 And with each drawing follows a short story on a situation when a client (or the authors) found the drawing useful and revealing and how to use it, in coaching conversations of you might have.
 
 The book ends with a short chapter on the elements the drawings are made of. Furthermore, it contains some tips on how to use drawings to amplify the shared understanding and reveal new perspectives in the coaching sessions.
-
-
-
 I found the book very interesting and I learned quite a lot about coaching through the drawings that the authors went through.
 
 One thing I particularly like was that the drawings are beautiful but simple. I felt like I could do them myself later. This was very encouraging.

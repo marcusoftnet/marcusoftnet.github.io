@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Teams are immutable structures"
-author: "Marcus Hammarberg"
+title: Teams are immutable structures
+author: Marcus Hammarberg
 date: 2017-09-22 14:27:56
 tags:
 
@@ -79,23 +79,14 @@ Great, you think. I have 5 teams. That means 50 S, 20 M and 5 L work items per w
 Because this is dead wrong. The teams are immutable. You cannot transfer one estimate from one team to another. What one team thinks is a S might be 5 S for another. And once you change one team member from one team - it is no longer the same team and that same team might now, if asked, re-estimate a S-task to M. Or S again.
 
 It's not transferable - because it's not the same team.
-
-
-
 I'm building a self-assessment survey for teams in my department of 20 teams. Teams will rank themselves on agile practices, using a [fist-of-five-voting](https://medium.com/101ideasforagileteams/fist-of-five-1dbaffa1e68d) technique. This will be tracked in radar chart to help the team to know where to focus their improvement efforts.
 
 Great, someone said, now we can see how the entire department are doing, by summarizing the scores for each team. No - you cannot. Same misstake. Team assessments is not transferable to other teams. What one team thinks is a 3 might be the other teams 6.
 
 And again, the same goes if you change team members in an existing team.
-
-
-
 We sometimes ask ourselves if we should have fixed teams or throw together tasks forces for certain tasks. I think there might be value in both approaches, but as team are immutable structures and hence the speed, quality and ways of working that was great for one team might not work equally well as you change members (adding or removing a single member counts) in the team.
 
 They, at the very least, need time to find their own ways and practices. Sure this can be helped (a little) with policies but the time is needed to let the (new) team form.
-
-
-
 The best soccer player Sweden ever had is Zlatan Ibrahimovic. By a landslide. Something funny happened at the end of his career in the Swedish national team. The team had not had a great period, but Zlatan had still been amazing on the pictch when the rest of the team feed him the right balls to work on.
 
 Then he quit. A brand new team arose. It was restructured to it's core and new leaders, new player and even new strategies was born out of neccesserity. The team started to win again - after loosing the best player in the world?!

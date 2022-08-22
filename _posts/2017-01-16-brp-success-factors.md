@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3 success factors for a big room planning"
-author: "Marcus Hammarberg"
+title: 3 success factors for a big room planning
+author: Marcus Hammarberg
 date: 2017-01-16 13:10:00
 tags:
 

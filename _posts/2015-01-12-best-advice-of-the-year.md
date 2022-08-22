@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Best advice for me this year"
-author: "Marcus Hammarberg"
+title: Best advice for me this year
+author: Marcus Hammarberg
 date: 2015-01-12 19:14:16
 tags:
 

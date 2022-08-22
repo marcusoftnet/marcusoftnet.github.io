@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What if only small works?"
-author: "Marcus Hammarberg"
+title: What if only small works?
+author: Marcus Hammarberg
 date: 2016-02-09 20:00:12
 tags:
 

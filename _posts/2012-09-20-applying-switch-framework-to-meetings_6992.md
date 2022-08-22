@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Applying Switch framework to: Meetings are not
+title: Applying Switch framework to: Meetings are not
 real work - part III'
-date: '2012-09-20T09:00:00.001+02:00'
+date: 2012-09-20T09:00:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-09-20T09:00:09.970+02:00'
+modified_time: 2012-09-20T09:00:09.970+02:00
 thumbnail: http://3.bp.blogspot.com/\_dVhQbe4S9AM/S0mvWNxDAgI/AAAAAAAAAJ4/uiVFWTex4Bs/s72-c/roti.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-496174853263675189
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html
@@ -52,9 +52,6 @@ I'm aiming at. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -65,9 +62,6 @@ more qualitative meetings happen? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -79,9 +73,6 @@ They are called meeting requests for a reason, people!
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -116,9 +107,6 @@ development. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -131,9 +119,6 @@ intention. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -164,9 +149,6 @@ agent informs them too.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -181,9 +163,6 @@ helping us to keep our time box.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -198,9 +177,6 @@ down for their standup ... and the meetings starts to linger of course. 
 </div>
 
 <div>
-
-
-
 </div>
 
 |                                                                                                |
@@ -235,9 +211,6 @@ example. This will have a two-folded effect;
     we think.
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -272,9 +245,6 @@ spread the word - start an epidemic about doing great meetings. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -288,9 +258,6 @@ persons in the beginning. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -301,9 +268,6 @@ meetings / months with a ROTI over 3. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -325,9 +289,6 @@ problem about people perceiving meetings as not being real work. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -338,9 +299,6 @@ and leave them here. I want to improve. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -353,9 +311,6 @@ built into the culture at your company. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -369,13 +324,7 @@ could be that person too. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
-
-
-
 </div>

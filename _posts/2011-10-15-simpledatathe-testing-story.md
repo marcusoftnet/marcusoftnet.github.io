@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Simple.Data–the testing story
-date: '2011-10-14T21:51:00.001+02:00'
+date: 2011-10-14T21:51:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - C#
-modified_time: '2011-11-03T19:46:59.686+01:00'
+modified_time: 2011-11-03T19:46:59.686+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2699078655489363036
 blogger_orig_url: http://www.marcusoft.net/2011/10/simpledatathe-testing-story.html
 ---
@@ -208,11 +208,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 
-
-
-
-
-
 <div>
 
 So here (and yes, I’ve stolen the sample from the Simple.Data
@@ -231,9 +226,6 @@ something like this:
 
 
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
 
@@ -259,9 +251,6 @@ performing insert, updates and deletes:
 
 
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
 
@@ -432,11 +421,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
-
-
-
-
 I used the Database.Default property which simply gives us the default
 database in the .config, or in our case just the database with the
 mock-adapter. It’s just a shorthand for:
@@ -473,9 +457,6 @@ First my, very simple, repository:
 
 
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
 
@@ -571,9 +552,6 @@ is my test code:
 
 
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
 
@@ -716,9 +694,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 </div>
 
 </div>
-
-
-
 As you can see this gives me the ability to test out the code in the
 repository.
 <span class="Apple-style-span"
@@ -739,9 +714,6 @@ A test would then look something like this (peeking the source again):
 
 
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: none; border-right-style: none; border-top-style: none; color: black; direction: ltr; font-family: 'Courier New', courier, monospace; font-size: 8pt; line-height: 12pt; overflow: visible; padding-bottom: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; text-align: left; width: 100%;">
 

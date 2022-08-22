@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How do i - great instruction resource
-date: '2007-11-07T08:15:00.001+01:00'
+date: 2007-11-07T08:15:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
-modified_time: '2010-12-14T16:20:33.392+01:00'
+modified_time: 2010-12-14T16:20:33.392+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7645524779308366099
 blogger_orig_url: http://www.marcusoft.net/2007/11/how-do-i-great-instruction-resource.html
 ---

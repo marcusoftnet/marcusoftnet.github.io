@@ -1,12 +1,12 @@
 ---
 layout: post
 title: BDD and technical scenarios
-date: '2011-11-23T22:34:00.001+01:00'
+date: 2011-11-23T22:34:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD -
 Agile
-modified_time: '2011-11-23T22:34:10.980+01:00'
+modified_time: 2011-11-23T22:34:10.980+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102
 blogger_orig_url: http://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html ---
 
@@ -22,9 +22,6 @@ Sham’s question was something like this:
 > them which may confuse them as they try to work out what scenarios
 > exist under the user story or am I wrong here? Maybe all tests should
 > be visible under a user story?
-
-
-
 #### TDD and BDD
 
 This is really one of the things we struggle with when coming from using

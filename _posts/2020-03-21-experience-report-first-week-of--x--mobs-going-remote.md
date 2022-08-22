@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Experience report: first week of 2 x 5 mobs going remote"
-author: "Marcus Hammarberg"
+title: Experience report: first week of 2 x 5 mobs going remote
+author: Marcus Hammarberg
 date: 2020-03-21 12:11:23
 tags:
 
@@ -52,9 +52,6 @@ We have created a channel per mob and this is where the biggest part of the work
 At this time you are probably wondering how they can work on the same code base, and that can be found in the next section. For now; they do work in the same code base. Hold on
 
 During the week we have created a few extra rooms; a breakroom where we can meet between the mobbing sessions for a fika and a late-night-mobbing for those people that want to work late at night.
-
-
-
 We have also used Discord to give lectures and presentations; which works the same with the exception that we are about 30 people in the channel. During presentations, we have used a text-channel for questions and only allow the person giving the lecture to talk ... In Stockholm. In our Amsterdam office, the developers have been allowed to speak freely.
 
 We have learned a lot about how to behave in an environment like that during the week;

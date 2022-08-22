@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Get started writing NodeJs with CoffeeScript - not a piece of cake"
-author: "Marcus Hammarberg"
+title: Get started writing NodeJs with CoffeeScript - not a piece of cake
+author: Marcus Hammarberg
 date: 2015-03-04 09:23:07
 tags:
  - Javascript

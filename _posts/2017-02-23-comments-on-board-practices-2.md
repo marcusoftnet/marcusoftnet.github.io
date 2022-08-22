@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Comments on common board practices - Todo/Doing/Done is not your process"
-author: "Marcus Hammarberg"
+title: Comments on common board practices - Todo/Doing/Done is not your process
+author: Marcus Hammarberg
 date: 2017-02-23 08:48:13
 tags:
 

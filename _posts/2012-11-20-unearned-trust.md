@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Unearned trust
-date: '2012-11-20T13:58:00.001+01:00'
+date: 2012-11-20T13:58:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-11-20T13:58:11.469+01:00'
+modified_time: 2012-11-20T13:58:11.469+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3449916534710255811
 blogger_orig_url: http://www.marcusoft.net/2012/11/unearned-trust.html
 ---
@@ -151,9 +151,6 @@ unearned.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -163,9 +160,6 @@ You cannot do anything to deserve to be met with trust. It's a gift. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -177,9 +171,6 @@ start trusting others in turn. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

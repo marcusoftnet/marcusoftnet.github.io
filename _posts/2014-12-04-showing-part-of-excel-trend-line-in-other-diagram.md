@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Showing part of Excel trend line in other diagram"
-author: "Marcus Hammarberg"
+title: Showing part of Excel trend line in other diagram
+author: Marcus Hammarberg
 date: 2014-12-04 14:21:41
 tags:
 - Tools

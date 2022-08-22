@@ -1,12 +1,12 @@
 ---
 layout: post
 title: We'll meet again...
-date: '2007-04-20T07:41:00.000+02:00'
+date: 2007-04-20T07:41:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2007-04-20T07:46:56.961+02:00'
+modified_time: 2007-04-20T07:46:56.961+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7674306098552155455
 blogger_orig_url: http://www.marcusoft.net/2007/04/well-meet-again.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: ASP.NET MVC released!
-date: '2009-03-19T14:03:00.001+01:00'
+date: 2009-03-19T14:03:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - ASP.NET MVC
-modified_time: '2009-03-19T14:03:11.304+01:00'
+modified_time: 2009-03-19T14:03:11.304+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4946218396835126227
 blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-released.html ---
 

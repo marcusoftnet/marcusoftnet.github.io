@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Thoughts after a SAFe course"
-author: "Marcus Hammarberg"
+title: Thoughts after a SAFe course
+author: Marcus Hammarberg
 date: 2016-04-05 20:16:34
 tags:
  - Lean

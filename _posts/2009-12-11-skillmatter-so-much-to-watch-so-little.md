@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skillsmatter – so much to watch, so little time
-date: '2009-12-11T10:18:00.001+01:00'
+date: 2009-12-11T10:18:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2009-12-11T10:19:24.245+01:00'
+modified_time: 2009-12-11T10:19:24.245+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1185758968968146998
 blogger_orig_url: http://www.marcusoft.net/2009/12/skillmatter-so-much-to-watch-so-little.html
 ---

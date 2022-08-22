@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My post scaffolder for Jekyll"
-author: "Marcus Hammarberg"
+title: My post scaffolder for Jekyll
+author: Marcus Hammarberg
 date: 2014-12-09 08:09:13
 tags:
 - Tools

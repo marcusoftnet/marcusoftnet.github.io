@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Improving presence of a remote worker in our team
-date: '2012-10-03T09:46:00.002+02:00'
+date: 2012-10-03T09:46:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Agile
-modified_time: '2012-10-03T09:56:43.366+02:00'
+modified_time: 2012-10-03T09:56:43.366+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-835259150443180617
 blogger_orig_url: http://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html
 ---

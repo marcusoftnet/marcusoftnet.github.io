@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why don't they change: What would make me behave like that?"
-author: "Marcus Hammarberg"
+title: Why don't they change: What would make me behave like that?
+author: Marcus Hammarberg
 date: 2015-04-07 09:24:21
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "No #No - more #Less"
-author: "Marcus Hammarberg"
+title: No #No - more #Less
+author: Marcus Hammarberg
 date: 2015-05-25 16:36:41
 tags:
 

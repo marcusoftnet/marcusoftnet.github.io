@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I've should done - my Jerk-store moment
-date: '2014-08-04T08:25:00.000+02:00'
+date: 2014-08-04T08:25:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
@@ -11,7 +11,7 @@ tags:
   - crum
 
   - Agile
-modified_time: '2014-08-10T14:38:47.506+02:00'
+modified_time: 2014-08-10T14:38:47.506+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7430677175134339617
 blogger_orig_url: http://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-store.html
 ---

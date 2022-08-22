@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How far have we come?"
-author: "Marcus Hammarberg"
+title: How far have we come?
+author: Marcus Hammarberg
 date: 2015-01-30 13:15:02
 tags:
 

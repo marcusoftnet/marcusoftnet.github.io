@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 13
-date: '2009-02-23T21:58:00.001+01:00'
+date: 2009-02-23T21:58:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
-modified_time: '2009-02-23T21:58:47.348+01:00'
+modified_time: 2009-02-23T21:58:47.348+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7360412179127831398
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-13.html
 ---

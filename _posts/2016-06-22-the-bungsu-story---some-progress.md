@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Bungsu Story - some progress"
-author: "Marcus Hammarberg"
+title: The Bungsu Story - some progress
+author: Marcus Hammarberg
 date: 2016-06-22 19:35:55
 tags:
 

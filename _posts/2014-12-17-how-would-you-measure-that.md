@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How would you measure that?"
-author: "Marcus Hammarberg"
+title: How would you measure that?
+author: Marcus Hammarberg
 date: 2014-12-17 12:49:02
 tags:
 - Agile

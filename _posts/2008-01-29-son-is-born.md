@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A son is born!
-date: '2008-01-29T12:06:00.001+01:00'
+date: 2008-01-29T12:06:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2008-01-29T12:21:30.821+01:00'
+modified_time: 2008-01-29T12:21:30.821+01:00
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-644964024397565861
 blogger_orig_url: http://www.marcusoft.net/2008/01/son-is-born.html ---
@@ -31,35 +31,17 @@ little boy you can imagine and we are so grateful for having him into
 our life.
 
 <div>
-
-
-
-
-
 <div>
 
 Here are some pictures of him.
 
-</div>
 
 
-
-
-
-<div>
 
 Right now we are quite tired also, so i'll get back with details later
 on. A very quick thank you to all the people that have prayed for, warm
-thougths of and lit candles (!) during the childbirth.
-
-</div>
-
-
-
-
-
+thougt
 </div>
 
 </div>
 
-</div>

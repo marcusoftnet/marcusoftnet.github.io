@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Flow and dependencies"
-author: "Marcus Hammarberg"
+title: Flow and dependencies
+author: Marcus Hammarberg
 date: 2018-02-15 13:18:08
 tags:
  - Lean
@@ -60,9 +60,6 @@ Here are a few things that would significantly improve flow in this situation:
 Don't allow new things into the backlog if there are items waiting to be tested. At the very least don't start new work unless there's unfinished work in UAT. Finish that first, or potentially (and likely) throw the work away if it is too old and not relevant. Yes, it happens. I threw away 90 items from the backlog of one team without any complaints
 
 > Stop starting - start finishing
-
-
-
 Just before Team B starts work on the feature request; check in with Team A to see if they are ready to do their part.
 
 ​    **Team B:** "Hey, Team A people? We are about to start work on feature change request 19293945212123. We need you to do testing a few days. You ready?"
@@ -72,9 +69,6 @@ Just before Team B starts work on the feature request; check in with Team A to s
 ​    **Team B:** "Ok - great. Then **I will not start this now since that would slow me down**. I can do something else in the meantime. Let me know when you're ready."
 
 > Do not start work that you know will be blocked. Ensure flow to the best of your ability
-
-
-
 When Team B start work with the feature sit down with Team A and talk about how this feature will be tested. Potentially come up with ways to speed up and improve quality of the tests - maybe we can automate the test?
 
 If you cannot get that time ("Because Team A is busy all the time and never want to talk to us ever" for example), try this: document your understanding of the feature as a few tests or examples on how it should behave. Like this:
@@ -90,9 +84,6 @@ Send this to Team A and do not start work until they agree with your statements.
 > Never be blocked
 >
 > > Robert C. Martin, aka "Uncle Bob"
-
-
-
 You can probably come up with other things that are better suited for your situation. The goal is to let the workflow as smooth and fast as possible. It could mean that not start it too early, or spend waiting/queuing time to ensure that the workflows smoother.
 
 ### Swedish police passport department

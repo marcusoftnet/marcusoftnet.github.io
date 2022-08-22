@@ -1,11 +1,11 @@
 ---
 layout: post
 title: First Santa - completed!
-date: '2006-12-15T10:36:00.000+01:00'
+date: 2006-12-15T10:36:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2006-12-18T07:44:24.007+01:00'
+modified_time: 2006-12-18T07:44:24.007+01:00
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RYY4h97AoiI/AAAAAAAAAC8/H_wEKrKPytc/s72-c/IMAGE_111.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5000153235170939039
 blogger_orig_url: http://www.marcusoft.net/2006/12/first-sant-completed.html
@@ -32,9 +32,6 @@ of the rhymes had to do with the parts of the body that they work with.
 Nothing to bad though...
 
 </div>
-
-
-
 
 <div>
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Basic Authentication with
+title: Marcus Node Bits: Basic Authentication with
 Koa'
-date: '2014-05-02T15:26:00.001+02:00'
+date: 2014-05-02T15:26:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Javascript
   - Tools - Koa
-modified_time: '2014-06-09T04:59:00.503+02:00'
+modified_time: 2014-06-09T04:59:00.503+02:00
 thumbnail: http://lh5.ggpht.com/-fD9vojC0hwk/U2OczEnFGpI/AAAAAAAAC3w/u8pjXbXFELU/s72-c/wlEmoticon-sadsmile2.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8966292886396606059
 blogger_orig_url: http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html

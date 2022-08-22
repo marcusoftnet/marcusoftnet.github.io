@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Limiting WIP and some rules of thumb"
-author: "Marcus Hammarberg"
+title: Limiting WIP and some rules of thumb
+author: Marcus Hammarberg
 date: 2017-12-29 20:58:40
 tags:
 
@@ -48,9 +48,6 @@ This is not a bad thing. In fact, this is a super opportunity to do one of many 
 * Use this slack time to learn something that you think would be beneficial.
 * Rest! For God's sake - take a break and get some air.
 
-
-
-
 The "Drop down and give me 20"-experiment that Massimiliano is referring to is a nice experimental approach to finding a suitable WIP limit that [Dr. Donald Reinertsen presented at LKCE 2012](http://www.lean-kanban.eu/sessions/reinertsen/). The silly name is our feeble attempt to be funny...
 
 <img alt="Finding a suitable WIP limit by decreasing in small steps" src="/img/dropdownandgiveme20.png" width="100%" />
@@ -76,9 +73,6 @@ After writing the book WIP limits have grown on me as a very powerful tool to co
 For example, consider eXtreme Programming. This methodology prescribes a very tight timebox of one week. Our WIP is limited to the amount of work that we can get **Done** in one week. This means that we need very good and fast collaboration within the team, we need to have high-quality work to be able to move fast, we need fast tooling around us so that we don't waste time waiting for build scripts to run, we need to work together so that everyone can help out etc. etc.
 
 All of these good things come out of us limiting WIP.
-
-
-
 Another aspect of thinking about WIP limits as a tool is that we need to **use** the tool rather than being slaves under it. I often point out to teams that I coach that they, themselves, are setting the WIP limits. Hence they can change it - up or down.
 
 I remember a story from the excellent [Toyota Kata book](http://bit.ly/theKanbanBook) where a Toyota Sensei (Side-note: I would love to meet a Toyota Sensei. For my inner eye they are dressed like Obi-Wan, mythical beings for a nobler time… Sorry - back to the story) points to a workstation and exclaims:
@@ -128,9 +122,6 @@ That last part also indicates that we should have some way to see if the flow is
 ## Conclusion and summary
 
 WIP limits are tools. There's no right, or one-answer, for what a WIP limit should be for you and your team. It's contextual and depending on many variables. Experiment and monitor the flow of value to see if the WIP limit you are using now is helping you. WIP limits promote better, faster and smoother flow and help you find improvement opportunities.
-
-
-
 Another way to formulate this comes from the grandmaster of Kanban himself, [David J. Andersson](https://www.djaa.com/);
 
 > With WIP limit you control how much pain you want to inflict on the organization
@@ -138,7 +129,4 @@ Another way to formulate this comes from the grandmaster of Kanban himself, [Dav
 As a thought experiment - imagine a factory that worked on building one single car. A lot of people idle, a lot of focus on that one car and every, single, tiny problem in the process would stop the flow of value completely.
 
 On one hand that would be very good for finding problems, eliminating waste and improving flow. But on the other hand - that would be very very costly to have that many people waiting.
-
-
-
 Massimiliano - awesome question! Thanks. I hope that I now could make our reasoning a bit clearer and show you that limit WIP is a tool to improve flow. Use the tool - don't let the tool use you.

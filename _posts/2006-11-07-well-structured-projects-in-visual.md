@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Well structured projects in Visual Studio 2005
-date: '2006-11-07T07:31:00.000+01:00'
+date: 2006-11-07T07:31:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Visual Studio
-modified_time: '2010-12-14T16:19:05.667+01:00'
+modified_time: 2010-12-14T16:19:05.667+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5231053951955942248
 blogger_orig_url: http://www.marcusoft.net/2006/11/well-structured-projects-in-visual.html
 ---
@@ -50,11 +50,8 @@ introducing some solution folders i've got an ordered view of my
 projects, in the calling order of the architecture (see top picture to
 the right) And nothing has changed in the naming of my folder.
 
-</div>
 
 
-
-<div>
 
 The solution folder structure is saved completly within the solution
 file (.sln) and don't reflect the file system.
@@ -63,11 +60,8 @@ A solution folder is created by right-clicking anywhere on the
 solutionfile and then choosing Add-\>New solution folder. The projects
 are added by simply dragging them to the folder.
 
-</div>
 
 
-
-<div>
 
 A final note - if a folder is added within a project the folder name
 will be a part of the namespace of the items in the folder. This can of

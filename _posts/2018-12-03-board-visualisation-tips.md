@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Board visualisation tips"
-author: "Marcus Hammarberg"
+title: Board visualisation tips
+author: Marcus Hammarberg
 date: 2018-12-03 21:09:17
 tags:
 

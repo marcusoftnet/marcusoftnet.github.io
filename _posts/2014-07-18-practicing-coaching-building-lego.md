@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Coaching exercise - building Lego
-date: '2014-07-18T17:16:00.003+02:00'
+date: 2014-07-18T17:16:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
 
   - Agile
-modified_time: '2014-07-19T14:26:51.129+02:00'
+modified_time: 2014-07-19T14:26:51.129+02:00
 thumbnail: http://4.bp.blogspot.com/-HpPbiNXxq_o/U8k2jRE46fI/AAAAAAAAFBo/jneZ9bCoIV8/s72-c/2014-06-23+09.43.19.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9115606127894985354
 blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-lego.html
@@ -16,9 +16,6 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
-
-
-
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 |       <a href="http://ecx.images-amazon.com/images/I/91Pv76bx9FL._SL1500_.jpg"
@@ -44,9 +41,6 @@ coaching-Marcus talking.
 I think this is a really good exercise and in this short post I'll show
 you a couple things that I noticed and that was very eye-opening for
 me.
-
-
-
 ### How to run this ... exercise
 
 <div>
@@ -59,9 +53,6 @@ named my son "the kid".
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -75,9 +66,6 @@ kid have. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -142,9 +130,6 @@ my head as we went along. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -181,13 +166,7 @@ I of course have to show the finished product.
 <div>
 
 <div class="separator" style="clear: both; text-align: center;">
-
-
-
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -197,9 +176,6 @@ src="http://3.bp.blogspot.com/-xAzsPH8QD40/U8k2TGkGokI/AAAAAAAAFBg/FLiipCg-_GQ/s
 data-border="0" width="320" height="192" /></a>
 
 </div>
-
-
-
 </div>
 
 </div>

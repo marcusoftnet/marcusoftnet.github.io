@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Private source control repository with integration in Visual Studio for free
-date: '2009-10-26T10:36:00.001+01:00'
+date: 2009-10-26T10:36:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.180+01:00'
+modified_time: 2010-12-14T16:22:38.180+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-261372006467802949
 blogger_orig_url: http://www.marcusoft.net/2009/10/private-source-control-repository-with.html
 ---

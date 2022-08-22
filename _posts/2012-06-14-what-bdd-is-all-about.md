@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What BDD is all about
-date: '2012-06-14T08:49:00.001+02:00'
+date: 2012-06-14T08:49:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,7 +9,7 @@ tags:
   - Agile
 
   - TDD
-modified_time: '2012-06-14T08:49:18.169+02:00'
+modified_time: 2012-06-14T08:49:18.169+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9079199862341884847
 blogger_orig_url: http://www.marcusoft.net/2012/06/what-bdd-is-all-about.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "S, M, L estimate should not start with a date span"
-author: "Marcus Hammarberg"
+title: S, M, L estimate should not start with a date span
+author: Marcus Hammarberg
 date: 2016-03-01
 tags:
 

@@ -2,7 +2,7 @@
 layout: post
 title: Impact Mapping - now helping Indonesian
 Hospitals
-date: '2014-02-27T08:39:00.002+01:00'
+date: 2014-02-27T08:39:00.002+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming
@@ -11,7 +11,7 @@ tags:
 mapping
   - Salvation Army
   - Indonesia
-modified_time: '2014-06-02T10:56:52.538+02:00'
+modified_time: 2014-06-02T10:56:52.538+02:00
 thumbnail: http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310460295412389370
 blogger_orig_url: http://www.marcusoft.net/2014/02/HospitalImpactMap.html ---
@@ -46,9 +46,6 @@ In this post I'll describe how we used three (Root cause analysis,
 Impact mapping and Limit WIP) of the tools that I've picked up during
 the latest years to help a struggling hospital director to get a solid
 understanding and a plan for how to proceed.
-
-
-
 ### Introduction
 
 <div>
@@ -62,9 +59,6 @@ least. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -77,9 +71,6 @@ to do everything at one.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -120,9 +111,6 @@ have led me to see how problems are related to each other. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -138,9 +126,6 @@ look at..."
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -152,9 +137,6 @@ on that soon. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -175,9 +157,6 @@ src="http://1.bp.blogspot.com/-rvwlnIhSzJw/Uw7DL4b5GdI/AAAAAAAACA4/pnmNnfuJaEc/s
 data-border="0" width="400" height="300" /></a>
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: justify;">
 
 <span style="text-align: left;">I think it took about 1 hour and I did
@@ -196,9 +175,6 @@ in turn was reinforcing our problem ("BOR is too low"). 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -217,11 +193,8 @@ style="margin-left: 1em; margin-right: 1em; text-align: center;"><img
 src="http://2.bp.blogspot.com/-eJW32S7XUfY/Uw7DT0z959I/AAAAAAAACBA/Zieyr-uwFCU/s1600/2014-02-13+10.37.17.jpg"
 data-border="0" width="320" height="240" /></a>
 
-</div>
 
 
-
-<div>
 
 I was a bit disappointed at first, since I was hoping that we would find
 a single real issue that we all came to realize: This, that's what we
@@ -244,9 +217,6 @@ Without any further ado we headed right into the next section:
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -274,9 +244,6 @@ better. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -296,9 +263,6 @@ That example resonated with them and we got to work again. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -315,9 +279,6 @@ reaffirmation of the knowledge. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -338,9 +299,6 @@ src="http://1.bp.blogspot.com/-NipbQbAEkD8/Uw7jEZQTfDI/AAAAAAAACBQ/SQ_cnzd7bBo/s
 data-border="0" width="400" height="300" /></a>
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -351,9 +309,6 @@ src="http://3.bp.blogspot.com/-01Dtpy3dMS8/Uw7jNCUrLvI/AAAAAAAACBY/gnBqnOuGoKo/s
 data-border="0" width="150" height="200" /></a>
 
 </div>
-
-
-
 </div>
 
 <div>
@@ -370,9 +325,6 @@ I create maps like these. These are my general tips:
 -   When you document it. Use something simple, like a phone (these
     photos is taken with my iPhone 5) and take both overview and
     detailed pictures. 
-
-
-
 -   Although there's awesome tools out there (looking at you
     <a href="http://www.mindmup.com/" target="_blank">MindMup</a>)
     there's really nothing beating standing together in front of a
@@ -381,9 +333,6 @@ I create maps like these. These are my general tips:
 -   That said: do consider moving to a tool after the initial workshop.
     As documentation for example. Search, navigation and a lot of other
     features is very helpful to find stuff in your model.
-
-
-
 ### Limit Work In Progress
 
 </div>
@@ -398,9 +347,6 @@ showed. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -418,9 +364,6 @@ to-the-point and gets the message across. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -435,9 +378,6 @@ voted they were asking me for more dots... :P 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -458,9 +398,6 @@ problem and a lot of small activities. That felt really good. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -475,9 +412,6 @@ simpler to create a plan. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

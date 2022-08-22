@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Writing a Selenium test using .NET core and Visual Studio Code"
-author: "Marcus Hammarberg"
+title: Writing a Selenium test using .NET core and Visual Studio Code
+author: Marcus Hammarberg
 date: 2021-10-07 21:27:54
 tags:
  - .NET

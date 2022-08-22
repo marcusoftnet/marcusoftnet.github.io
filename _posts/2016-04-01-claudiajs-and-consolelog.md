@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ClaudiaJs and console.log"
-author: "Marcus Hammarberg"
+title: ClaudiaJs and console.log
+author: Marcus Hammarberg
 date: 2016-04-01 20:10:37
 tags:
  - Tools

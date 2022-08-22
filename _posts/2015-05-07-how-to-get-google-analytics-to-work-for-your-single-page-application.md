@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to get Google Analytics to work for your Single Page Application"
-author: "Marcus Hammarberg"
+title: How to get Google Analytics to work for your Single Page Application
+author: Marcus Hammarberg
 date: 2015-05-07 10:24:43
 tags:
  - Tools

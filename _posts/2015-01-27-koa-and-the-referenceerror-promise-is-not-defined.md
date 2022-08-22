@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Koa and the 'ReferenceError: Promise is not defined.'"
-author: "Marcus Hammarberg"
+title: Koa and the 'ReferenceError: Promise is not defined.'
+author: Marcus Hammarberg
 date: 2015-01-27 19:52:38
 tags:
  - Koa

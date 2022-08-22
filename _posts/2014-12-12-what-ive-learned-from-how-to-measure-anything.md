@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What I've learned from 'How to measure anything'"
-author: "Marcus Hammarberg"
+title: What I've learned from 'How to measure anything'
+author: Marcus Hammarberg
 date: 2014-12-13
 tags:
 - Agile

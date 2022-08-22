@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Elixir to run on my OsX (init terminating in do_boot)"
-author: "Marcus Hammarberg"
+title: Getting Elixir to run on my OsX (init terminating in do_boot)
+author: Marcus Hammarberg
 date: 2015-06-29 08:59:55
 tags:
  - Tools

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 12
-date: '2009-02-23T09:34:00.001+01:00'
+date: 2009-02-23T09:34:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - ASP.NET MVC - Sprint Planner Helper
-modified_time: '2009-02-23T09:34:41.346+01:00'
+modified_time: 2009-02-23T09:34:41.346+01:00
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SaJfoHGR2YI/AAAAAAAAACg/5JmVOrq7qbc/s72-c/product_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5709480760236693340
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-12.html

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Frequent releases and no urge to finish"
-author: "Marcus Hammarberg"
+title: Frequent releases and no urge to finish
+author: Marcus Hammarberg
 date: 2016-04-08 07:07:25
 tags:
 

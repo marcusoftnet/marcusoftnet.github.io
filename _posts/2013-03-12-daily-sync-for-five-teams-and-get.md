@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Daily Sync for five teams - and get something out of it
-date: '2013-03-12T09:00:00.000+01:00'
+date: 2013-03-12T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
 
   - Agile
-modified_time: '2013-03-12T09:00:05.592+01:00'
+modified_time: 2013-03-12T09:00:05.592+01:00
 thumbnail: http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s72-c/Screen+Shot+2013-03-11+at+15.46.00+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2889868856905036157
 blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
@@ -47,11 +47,8 @@ before, where everybody met every morning. The feeling of us knowing
 exactly what was going on in every part of the system was very clear and
 present. But did we really know everything?
 
-</div>
 
 
-
-<div>
 
 Often you create a board or some place to gather information from all
 teams. I personally think that it's a very good thing to visualize your
@@ -69,11 +66,8 @@ the right level of details but that's also reflected on each team board,
 which in turn means that you need to have each work item represented
 twice. And keep them synchronized.
 
-</div>
 
 
-
-<div>
 
 You then have the meeting itself; **who** should come? **What** should
 you talk about? Are you reporting (receiving) or are you deciding
@@ -88,11 +82,8 @@ things that involve everybody in the meeting. Or at least things that
 are interesting too them. We need to look out for not having all teams
 restating what they just had said in their standup.
 
-</div>
 
 
-
-<div>
 
 Speaking of that - **when** should the meeting be? It can be before or
 after the daily standups in the teams, both options viable but giving us
@@ -114,22 +105,16 @@ such a meeting. The information about the team status is out there, in
 each team, on their boards and the walls surrounding them. If not -
 that's something we need and want to know that it's missing.
 
-</div>
 
 
-
-<div>
 
 But there's an underlying thing here as well. When the group was one big
 group we were used to hear the status of the entire group every
 morning - now you need to go get it from the teams. It won't be fed to
 you but you'll get it if you're interested.
 
-</div>
 
 
-
-<div>
 
 We wanted the Daily Sync to have a purpose and be a meeting that is used
 for something rather than just restating the information that already
@@ -146,9 +131,6 @@ between the teams. And that only.
 This is our Daily Sync board as it looks today:
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -157,13 +139,8 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s400/Screen+Shot+2013-03-11+at+15.46.00+.png"
 data-border="0" width="400" height="276" /></a>
 
-</div>
 
 
-
-
-
-<div>
 
 For us focusing the Daily Sync means that we focus on three things every
 morning:
@@ -235,11 +212,8 @@ Who attends the meeting:
 This is how we got the Daily Sync meetings to work for us; they are
 short (usually under 10 minutes) and meaningful for everyone attending.
 
-</div>
 
 
-
-<div>
 
 Oh yeah, almost forgot; they are most certainly not like this tomorrow.
 They are not perfect and we change the content and form of them. Often.

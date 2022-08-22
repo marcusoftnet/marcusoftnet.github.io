@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The emperor is naked–don’t ask me to estimate!
-date: '2010-11-12T12:18:00.001+01:00'
+date: 2010-11-12T12:18:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Agile
-modified_time: '2010-11-12T16:12:30.686+01:00'
+modified_time: 2010-11-12T16:12:30.686+01:00
 thumbnail: http://1.bp.blogspot.com/\_TI0jeIedRFk/TN0gsoa8xpI/AAAAAAAAAps/ftKzqoISnCA/s72-c/estimated+time+left.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6514925003307124771
 blogger_orig_url: http://www.marcusoft.net/2010/11/emperor-is-naked-planning-in-advance-is.html
@@ -85,9 +85,6 @@ src="http://1.bp.blogspot.com/_TI0jeIedRFk/TN0gsoa8xpI/AAAAAAAAAps/ftKzqoISnCA/s
 data-border="0" width="400" height="268" /></a>
 
 </div>
-
-
-
 ### Analysis
 
 From this we can see that:

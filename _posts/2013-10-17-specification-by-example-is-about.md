@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Communication and rotting specifications '
-date: '2013-10-17T13:23:00.002+02:00'
+title: Communication and rotting specifications '
+date: 2013-10-17T13:23:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
   - Life of a consultant
   - Specification by example
   - Agile
-modified_time: '2013-10-17T13:25:02.272+02:00'
+modified_time: 2013-10-17T13:25:02.272+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4899659258879319994
 blogger_orig_url: http://www.marcusoft.net/2013/10/specification-by-example-is-about.html
 ---
@@ -100,9 +100,6 @@ years and they had about 400 scenarios. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -141,9 +138,6 @@ system (writes code in other words). 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -157,9 +151,6 @@ and during the implementation of each new feature. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -171,9 +162,6 @@ maintainability as a top priority when writing your automation code. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -211,9 +199,6 @@ specifications. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -279,9 +264,6 @@ that? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

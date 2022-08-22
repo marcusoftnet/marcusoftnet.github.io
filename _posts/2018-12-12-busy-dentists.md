@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A story about dentists... busy dentists"
-author: "Marcus Hammarberg"
+title: A story about dentists... busy dentists
+author: Marcus Hammarberg
 date: 2018-12-12 12:09:17
 tags:
 

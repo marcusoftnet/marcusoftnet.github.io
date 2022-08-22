@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jidoka - an old Toyota practice makes an guest appearance"
-author: "Marcus Hammarberg"
+title: Jidoka - an old Toyota practice makes an guest appearance
+author: Marcus Hammarberg
 date: 2016-06-04 20:59:58
 tags:
 

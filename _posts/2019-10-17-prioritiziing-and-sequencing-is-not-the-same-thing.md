@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Prioritizing and sequencing are not the same things"
-author: "Marcus Hammarberg"
+title: Prioritizing and sequencing are not the same things
+author: Marcus Hammarberg
 date: 2019-10-17 15:00:42
 tags:
 
@@ -43,21 +43,12 @@ Prioritization, for me, is mostly about deciding what we should say No to. What 
 *and hence prioritization means:*
 
 >the action or process of deciding the relative importance or urgency of a thing or thing
-
-
-
 Prioritization has to do with the relative value, for some value of the things we are doing.
-
-
-
 Sequencing, on the other hand, has to do with which order of things. This order might be, for example, the order that we will DO things in - aka planning. It might have to do with the **value** of the things we are doing. But, not seldom, we might decide to do things in a very different order than that what is most valuable; there might be dependencies to others, missing resources and even political reasons to do things in another order.
 
 **Narrator**; *Marcus was not far off:*
 
 > arrange in a particular order.
-
-
-
 I've found great value in keeping these two topics separate when we discuss priority and sequencing. By doing this we both get simple questions to discuss for both aspects, but also a more honest discussion about not doing the most valuable thing first.
 
 I presume that most of you knew this already, but it made a huge difference at one of my clients and I'm thinking that I will get back here again myself.

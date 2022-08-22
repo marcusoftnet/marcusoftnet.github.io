@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "It's just context -  a story about my ignorance"
-author: "Marcus Hammarberg"
+title: It's just context -  a story about my ignorance
+author: Marcus Hammarberg
 date: 2015-06-11 08:36:37
 tags:
  - Leadership

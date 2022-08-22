@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Home again
-date: '2009-04-29T10:45:00.001+02:00'
+date: 2009-04-29T10:45:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2009-04-29T10:45:03.956+02:00'
+modified_time: 2009-04-29T10:45:03.956+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8870568026577945878
 blogger_orig_url: http://www.marcusoft.net/2009/04/home-again.html ---
 

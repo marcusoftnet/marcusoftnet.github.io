@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Real answere - Type '\[typename\]' is not CLS-compliant, interface, tests and dependency injection
-date: '2008-03-06T07:31:00.004+01:00'
+date: 2008-03-06T07:31:00.004+01:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
-modified_time: '2010-12-14T16:20:33.349+01:00'
+modified_time: 2010-12-14T16:20:33.349+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8327565985541635680
 blogger_orig_url: http://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Some common Kanban questions–my suggestions
-date: '2012-01-23T08:00:00.000+01:00'
+date: 2012-01-23T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Kanban
   - Agile
-modified_time: '2012-01-23T08:00:09.381+01:00'
+modified_time: 2012-01-23T08:00:09.381+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5823647146010711072
 blogger_orig_url: http://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html ---
 
@@ -34,9 +34,6 @@ surrounded myself with.
 
 So important to note is that Kanban as methodology doesn’t answer any of
 these questions. It’s up to you.
-
-
-
 ### How do you highlight new activities on the board?
 
 Anna also said; we don’t want them to get mixed up with the ones we

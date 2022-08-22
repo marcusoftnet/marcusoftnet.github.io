@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Scary stuff \#1 - taken down'
-date: '2007-04-18T13:17:00.000+02:00'
+title: Scary stuff \#1 - taken down'
+date: 2007-04-18T13:17:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
 
   - Agile
-modified_time: '2007-05-16T08:49:26.678+02:00'
+modified_time: 2007-05-16T08:49:26.678+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3463258483021073024
 blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-1-taken-down.html
 ---

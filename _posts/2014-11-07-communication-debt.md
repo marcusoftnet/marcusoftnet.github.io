@@ -2,21 +2,22 @@
 layout: post
 title: Communication debts and Brazilian office
 mornings
-date: '2014-11-07T09:19:00.004+01:00'
+date: 2014-11-07T09:19:00.004+01:00
 author: Marcus Hammarberg
 tags:
-  - Tools
-  - ife of a consultant
 
-  - KanbanBoards
-  - Agile - Salvation
-Army
-  - Indonesia
-modified_time: '2014-11-07T09:19:34.844+01:00'
+- Tools
+- Life of a consultant
+- KanbanBoards
+- Agile
+- Salvation Army
+- Indonesia
+modified_time: 2014-11-07T09:19:34.844+01:00'
 thumbnail:
-http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg
+<http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg>
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1668465135217375764
-blogger_orig_url: http://www.marcusoft.net/2014/11/communication-debt.html ---
+blogger_orig_url: <http://www.marcusoft.net/2014/11/communication-debt.html>
+---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
@@ -35,9 +36,6 @@ target="_blank">Technical Debt</a> to a director of a hospital. That
 didn't really work - my mistake. However the Technical Debt metaphor is
 in turn based on something that most grown-up people understands:
 financial debt.
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -58,10 +56,6 @@ down-payments the more the debt increase, due to the interest rate it
 incurs.
 
 I removed the $-sign and wrote "Communication" in it's place.
-
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -89,21 +83,18 @@ making sure that we're talking about the same thing.
 
 Communication debt start ticking the second we part. You meet someone
 else and get new information. I start to think for myself. I talk to my
-group, you talk to yours. Things happen. We form our separate opinion. 
+group, you talk to yours. Things happen. We form our separate opinion.
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 Now imagine that this went on for 1 day, 10 days, 1 month, 6 months...
 and that's when we end up in strange situations and "she doesn't want to
-talk with me" or "I simply don't understand them". 
+talk with me" or "I simply don't understand them".
 
 </div>
 
@@ -114,14 +105,14 @@ talk with me" or "I simply don't understand them". 
 We can do something about this. And it's simple too. We <a
 href="http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html"
 target="_blank">control the dial</a> to this problem; namely - we decide
-how often we meet. 
+how often we meet.
 
 </div>
 
 <div>
 
 If we meet only once a year - communication debt has built up over this
-time. 
+time.
 
 </div>
 
@@ -134,7 +125,7 @@ debt
 
 <div>
 
-Meet every week - almost no communication debt. 
+Meet every week - almost no communication debt.
 
 </div>
 
@@ -144,7 +135,7 @@ Meet every week - almost no communication debt. 
 
 One of my good friends worked for 6 months in Brazil. I asked him how
 that was and the first thing he said was: they never start to work in
-the mornings. 
+the mornings.
 
 </div>
 
@@ -164,9 +155,6 @@ walking around greeting each other.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

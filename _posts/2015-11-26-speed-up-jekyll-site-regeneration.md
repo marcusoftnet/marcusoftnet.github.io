@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Speed up Jekyll site regeneration"
-author: "Marcus Hammarberg"
+title: Speed up Jekyll site regeneration
+author: Marcus Hammarberg
 date: 2015-11-26 09:51:58
 tags:
  - Tools

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The things I (we) worry about in vain"
-author: "Marcus Hammarberg"
+title: The things I (we) worry about in vain
+author: Marcus Hammarberg
 date: 2019-01-20 16:34:46
 tags:
 
@@ -41,9 +41,6 @@ I [was on TV the other Sunday](https://www.svtplay.se/video/20772688/gudstjanst/
 It was recorded in November and broadcasted in January. Plenty of time to worry about how that badly sounded. Now skip forward to 17:25 to hear this bad note. I'm ready.
 
 Did you hear it? No me neither. They showed another angle and that made the error go to the background and most people cannot hear it.
-
-
-
 I was worrying for a thing that actually didn't happen. I was spending a lot of energy on this actually, making excuses left and right. But it was not a problem when we got there.
 
 This resembles many things that we worry about in projects I've been part of. We might even protect ourselves for it, or in some cases build things around that fact. Something that hasn't happened yet.

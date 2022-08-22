@@ -1,20 +1,17 @@
 ---
 layout: post
-title: 'Top 5 Agile change tips \#5 - Used visualized
+title: Top 5 Agile change tips \#5 - Used visualized
 data to improve'
-date: '2012-10-12T09:00:00.000+02:00'
+date: 2012-10-12T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-10-12T09:00:15.115+02:00'
+modified_time: 2012-10-12T09:00:15.115+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9131819284420519285
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop55.html
 ---
-
-
-
 <div class="p1">
 
 This is the last post on my top 5 ways of making sure that your agile
@@ -32,9 +29,6 @@ change initiative succeeds. Here's the list - in order of importance:
     target="_blank">Use visualised data to improve (this post)</a>
 
 </div>
-
-
-
 ### \#5 Use visualized data to improve
 
 <div>
@@ -48,9 +42,6 @@ on. Things like that. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -65,9 +56,6 @@ those changes actually made an improvement or not. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -97,9 +85,6 @@ this area.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -113,9 +98,6 @@ week. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -127,9 +109,6 @@ else instead. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -145,9 +124,6 @@ well. I promise. 
 ### Summary
 
 <div>
-
-
-
 <div class="p1">
 
 This was the last post in my series of top 5 things to think about to
@@ -166,11 +142,8 @@ succeed with agile transformation projects.
 5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve (this post)</a>
 
-</div>
 
 
-
-<div>
 
 And before somebody thinks it; yes - with these in place the change will
 go a lot smoother and easier. Without them you'll end up convincing
@@ -181,9 +154,6 @@ way of working. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -195,9 +165,6 @@ the key to the rest.    
 </div>
 
 <div>
-
-
-
 </div>
 
 

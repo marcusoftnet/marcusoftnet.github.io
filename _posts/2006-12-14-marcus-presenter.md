@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Marcus - the presenter
-date: '2006-12-14T14:08:00.000+01:00'
+date: 2006-12-14T14:08:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - BrassBand
-modified_time: '2006-12-14T14:20:04.683+01:00'
+modified_time: 2006-12-14T14:20:04.683+01:00
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYFNdkM4oAI/AAAAAAAAAA8/fo-h2uj0a7c/s72-c/150.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3075638830183813627
 blogger_orig_url: http://www.marcusoft.net/2006/12/marcus-presenter.html

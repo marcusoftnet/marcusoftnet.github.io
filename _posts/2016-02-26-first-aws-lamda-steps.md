@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "First AWS Lambda steps - using ClaudiaJs"
-author: "Marcus Hammarberg"
+title: First AWS Lambda steps - using ClaudiaJs
+author: Marcus Hammarberg
 date: 2016-02-29 12:52:28
 tags:
  - Tools

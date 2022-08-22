@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing BDD features in our project (using TFS)
-date: '2010-12-21T20:17:00.005+01:00'
+date: 2010-12-21T20:17:00.005+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -11,7 +11,7 @@ tags:
   - TFS
   - Agile
   - SpecFlow
-modified_time: '2011-01-13T21:18:53.615+01:00'
+modified_time: 2011-01-13T21:18:53.615+01:00
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TRH-yMkOTrI/AAAAAAAAAqs/T9aoPLDlot0/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6919193304724604886
 blogger_orig_url: http://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html
@@ -131,9 +131,6 @@ src="http://1.bp.blogspot.com/_TI0jeIedRFk/TRH_cbh-9NI/AAAAAAAAAqw/3SjZhSN62Do/s
 data-border="0" width="320" height="156" /></a>
 
 </div>
-
-
-
 (Short side note – I actually was on to that track in an
 <a href="http://www.marcusoft.net/2010/08/story-on.html"
 target="_blank">earlier post</a> also, which I hope lessen the stupidity

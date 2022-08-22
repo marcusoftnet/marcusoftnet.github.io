@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Refactoring a Koa app (part III) - async tests"
-author: "Marcus Hammarberg"
+title: Refactoring a Koa app (part III) - async tests
+author: Marcus Hammarberg
 date: 2018-06-05 21:07:13
 tags:
  - Javascript

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Review of A seat at the table"
-author: "Marcus Hammarberg"
+title: Review of A seat at the table
+author: Marcus Hammarberg
 date: 2017-12-30 11:34:40
 tags:
 

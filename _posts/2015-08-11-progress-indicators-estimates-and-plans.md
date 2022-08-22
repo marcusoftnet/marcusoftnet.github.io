@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Progress indicators, estimates and plans"
-author: "Marcus Hammarberg"
+title: Progress indicators, estimates and plans
+author: Marcus Hammarberg
 date: 2015-08-11 11:16:37
 tags:
 

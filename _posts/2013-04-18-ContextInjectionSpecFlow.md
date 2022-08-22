@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Context injection of driver object in SpecFlow
-date: '2013-04-18T08:00:00.000+02:00'
+date: 2013-04-18T08:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -10,7 +10,7 @@ tags:
   - Specification by example
   - C#
   - SpecFlow
-modified_time: '2013-04-18T08:00:02.781+02:00'
+modified_time: 2013-04-18T08:00:02.781+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865
 blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html ---
 
@@ -39,10 +39,6 @@ The [Context injection
 feature](https://github.com/techtalk/SpecFlow/wiki/Context-Injection)
 (as it's called in SpecFlow) is one of those "just works"-feature and
 you don't have to think to much about how. Here's a simple example:
-
-
-
-
 <div>
 
 The context injection feature simply creates the Driver object for us,
@@ -92,12 +88,6 @@ To use it you could write a
 [BeforeScenario](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html)-hook
 (there's also BeforeFeature and BeforeTestRun at your disposal) and
 configure the container. Like this:
-
-</div>
-
-
-
-<div>
 
 
 

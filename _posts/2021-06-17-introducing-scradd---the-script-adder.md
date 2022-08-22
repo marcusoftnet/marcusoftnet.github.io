@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Introducing ScrAdd - the script adder"
-author: "Marcus Hammarberg"
+title: Introducing ScrAdd - the script adder
+author: Marcus Hammarberg
 date: 2021-06-17 14:34:47
 tags:
  - JavaScript
@@ -23,7 +23,7 @@ npx scradd . test "mocha . -R dot -w"
 npm i -D mocha
 ```
 
-I don't expect this tool to be widely used and spread but I was pretty fun to write it - the testing was particularly tricky to get working. 
+I don't expect this tool to be widely used and spread but I was pretty fun to write it - the testing was particularly tricky to get working.
 
 Get the [code](https://github.com/marcusoftnet/scradd) or download the tool using `npx scradd`
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Priority 0 - we meet again"
-author: "Marcus Hammarberg"
+title: Priority 0 - we meet again
+author: Marcus Hammarberg
 date: 2018-04-10 13:34:57
 tags:
 
@@ -23,9 +23,6 @@ The team I'm working with right now have a long (50+) backlog of items that are 
 But this morning when I got into the team room I saw my old friend again. On top of the board, I saw her grinning friend: *Priority 0*.
 
 It was added for all the great reasons; it was something that we wanted to do, and needed to do before the other things - in fact it would be hurtful to start with #1 before #0, "I just added it there since it would be so much work to move the other things down" etc. etc. In short - it was the highest priority. I have no objections to any this (ah, well a few - but that's not what the blog post is about)
-
-
-
 What struck me was the **lost teaching/learning opportunity**. Because if we have a new highest priority it should be in position 1. That's what priority 1 means - so important that we are working on this. First.
 
 Logically follows that the other things that were prioritized are now not priority 1 - because there's a new priority 1. Hence all other tickets should be moved down.

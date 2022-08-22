@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Keeping copies of charts from Google Sheets updated automatically"
-author: "Marcus Hammarberg"
+title: Keeping copies of charts from Google Sheets updated automatically
+author: Marcus Hammarberg
 date: 2018-06-19 10:06:29
 tags:
  - Tools

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Flow manager - is that me?"
-author: "Marcus Hammarberg"
+title: Flow manager - is that me?
+author: Marcus Hammarberg
 date: 2016-04-18
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lead like you lead volunteers"
-author: "Marcus Hammarberg"
+title: Lead like you lead volunteers
+author: Marcus Hammarberg
 date: 2016-08-30 20:15:40
 tags:
 

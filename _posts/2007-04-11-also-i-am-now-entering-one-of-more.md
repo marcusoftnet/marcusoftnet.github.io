@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hectict times
-date: '2007-04-11T08:38:00.000+02:00'
+date: 2007-04-11T08:38:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -9,7 +9,7 @@ tags:
    - Scrum
 
   - Agile
-modified_time: '2007-05-16T08:49:26.679+02:00'
+modified_time: 2007-05-16T08:49:26.679+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3957256200867345660
 blogger_orig_url: http://www.marcusoft.net/2007/04/also-i-am-now-entering-one-of-more.html
 ---

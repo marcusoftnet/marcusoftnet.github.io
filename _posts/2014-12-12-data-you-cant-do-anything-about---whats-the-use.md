@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Data you can't do anything about - what's the use?"
-author: "Marcus Hammarberg"
+title: Data you can't do anything about - what's the use?
+author: Marcus Hammarberg
 date: 2014-12-12 11:43:55
 tags:
 - Agile

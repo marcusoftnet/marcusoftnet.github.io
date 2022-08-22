@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Flow or value - what is it, Marcus?!"
-author: "Marcus Hammarberg"
+title: Flow or value - what is it, Marcus?!
+author: Marcus Hammarberg
 date: 2016-04-29 12:00:00
 tags:
  - Lean

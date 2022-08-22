@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Low WIP, hairdressers and Lean operation
+title: Low WIP, hairdressers and Lean operation
 strategy '
-date: '2013-05-29T15:38:00.003+02:00'
+date: 2013-05-29T15:38:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Kanban
   - Agile
-modified_time: '2013-05-29T15:38:40.861+02:00'
+modified_time: 2013-05-29T15:38:40.861+02:00
 thumbnail: http://3.bp.blogspot.com/-\_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s72-c/Screen+Shot+2013-05-29+at+10.13.46+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5197645370134929012
 blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html
@@ -97,9 +97,6 @@ But this gives us a great framework to discuss our topic at hand. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -112,9 +109,6 @@ resource efficiency perspective. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -140,9 +134,6 @@ they would have time ready since they're just waiting around. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <table class="tr-caption-container" data-cellpadding="0"
@@ -179,9 +170,6 @@ shy away from. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -194,9 +182,6 @@ put everything down and run for it. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -211,9 +196,6 @@ quite alright. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -225,9 +207,6 @@ if you can help move work forward. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <table class="tr-caption-container" data-cellpadding="0"
@@ -265,9 +244,6 @@ book an appointment later. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

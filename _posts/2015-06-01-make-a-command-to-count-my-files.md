@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Make a command to count my files"
-author: "Marcus Hammarberg"
+title: Make a command to count my files
+author: Marcus Hammarberg
 date: 2015-06-01 09:11:03
 tags:
  - Tools

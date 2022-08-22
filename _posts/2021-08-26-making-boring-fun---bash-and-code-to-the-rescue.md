@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Making boring fun - bash and Node to the rescue"
-author: "Marcus Hammarberg"
+title: Making boring fun - bash and Node to the rescue
+author: Marcus Hammarberg
 date: 2021-08-26 19:54:53
 tags:
  - JavaScript
@@ -56,9 +56,6 @@ Bom - easy! Eeeh or not. Again we `find` all files `-f` with the name `-name` "p
 Finally, I send the output to a file, rather than barfing it out in the console (`> ~/temp/allLicenses.txt`)
 
 Putting all of that together in a single [script looks like this](https://gist.github.com/marcusoftnet/39c0e9a3076765fd0da4b572f91e7e75)
-
-
-
 Ok - we now have a lot of lines like this:
 
 ```text
@@ -66,9 +63,6 @@ Ok - we now have a lot of lines like this:
 .//jsfs-lab-reactTictactoe/node_modules/pako/package.json:  "license": "(MIT AND Zlib)",
 .//jsfs-lab-reactTictactoe/node_modules/postcss-attribute-case-insensitive/package.json:  "license": "MIT",
 ```
-
-
-
 Like a lot. ≈33000. That is fun and all but even Google Sheet couldn't swallow all of that. Let's crunch it with code!
 
 ## Counting with Node

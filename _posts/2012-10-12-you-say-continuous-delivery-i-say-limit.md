@@ -1,13 +1,13 @@
 ---
 layout: post
 title: You say 'continuous delivery', I say 'limit WIP'
-date: '2012-10-12T09:57:00.000+02:00'
+date: 2012-10-12T09:57:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Kanban
   - Agile
-modified_time: '2012-10-12T12:25:44.623+02:00'
+modified_time: 2012-10-12T12:25:44.623+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6086100727965739079
 blogger_orig_url: http://www.marcusoft.net/2012/10/you-say-continuous-delivery-i-say-limit.html
 ---
@@ -22,9 +22,6 @@ production environment.
 This can seem like a very daunting task to take on but if you think
 about it, it only has to do with us taking on to much work in process.
 In this blog post I'll elaborate on some thoughts around that.
-
-
-
 ### Continuous delivery is not hard at all
 
 This little conversation took place the other day when I explained
@@ -102,9 +99,6 @@ do and get started with. What's the difference then? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -117,9 +111,6 @@ flow of work in your workflow is to limit work in process. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -140,9 +131,6 @@ more. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -188,9 +176,6 @@ The choice is yours. It starts the first day of your system. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

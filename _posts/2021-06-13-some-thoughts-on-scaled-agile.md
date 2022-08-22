@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some thoughts on scaled agile"
-author: "Marcus Hammarberg"
+title: Some thoughts on scaled agile
+author: Marcus Hammarberg
 date: 2021-06-13 10:05:01
 tags:
 
@@ -29,9 +29,6 @@ However, there are things to read that I think will trigger your imagination and
 * There also the famous [Spotify model](https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf) that was the way they solved in 2012-2014, which is a good read
 
 But ultimately it will be up to your own needs and your context - because whatever you choose to do will need to change. You will do something that works now but will have to change.
-
-
-
 Here wanted to take a pause and quote two very different people. The first quote is from the CEO of Volkswagen, Martin Winterkorn I think:
 
 > There's no economy of scale. We are now 10 times the people than before - Do we make 10 times the amount of cars? No.
@@ -55,9 +52,6 @@ Let's say that instead of scaling the work method descale the work. Split up our
 Compare the power a single developer team using mob programming, DevOps techniques, and cloud computing has now - compared to just 6-7 years ago when developers were working 1 by one and we ran our infrastructure on site.
 
 My experience is that many (scaling) agile initiatives start in "getting more out of developers" which is a misconception. It's not about making the individual works work faster - it's about creating value faster. The most productive day a developing team can have is when they deleted code and the system became better. That is called refactoring and is a key trait of a great agile team. It's not "creating more features" and most definitely great if you're measuring the number of lines of code produced.
-
-
-
 So where does this leave my reasoning? Well, I think it's much better to ["uncover better ways of developing software by doing it and helping others to do it"](http://agilemanifesto.org/). I rather put a lot of emphasis on ensuring that everyone knows what/where better is and then give the individual teams the room to find a good way towards that better future.
 
 The dirty secret is that I don't know HOW that will look. Nor do you. And that is great because that means that anything is a good suggestion that we can evaluate, iterate and improve until we find what works for us. Now. Here. With the people in this group. Working on the current problem.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How trust, kanban and a little structure changed a life today"
-author: "Marcus Hammarberg"
+title: How trust, kanban and a little structure changed a life today
+author: Marcus Hammarberg
 date: 2015-10-07 08:47:57
 tags:
 

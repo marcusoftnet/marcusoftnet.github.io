@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Edit web.config in nice GUI
-date: '2007-01-11T07:41:00.000+01:00'
+date: 2007-01-11T07:41:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-modified_time: '2007-01-11T07:55:43.985+01:00'
+modified_time: 2007-01-11T07:55:43.985+01:00
 thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RaXeIy_TdNI/AAAAAAAAAEU/\_Paci\_-xwRQ/s72-c/iis60configsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6228418697016228830
 blogger_orig_url: http://www.marcusoft.net/2007/01/new-iis-dialogbox.html

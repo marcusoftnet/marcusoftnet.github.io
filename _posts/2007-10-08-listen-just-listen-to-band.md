@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Listen, just listen to the band
-date: '2007-10-08T12:50:00.000+02:00'
+date: 2007-10-08T12:50:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: '2007-10-08T12:53:24.344+02:00'
+modified_time: 2007-10-08T12:53:24.344+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4829204535328279220
 blogger_orig_url: http://www.marcusoft.net/2007/10/listen-just-listen-to-band.html ---
 Every Monday morning i usually listens

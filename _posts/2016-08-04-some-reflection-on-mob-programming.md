@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some reflections after seeing mob programming in action"
-author: "Marcus Hammarberg"
+title: Some reflections after seeing mob programming in action
+author: Marcus Hammarberg
 date: 2016-08-04
 tags:
 

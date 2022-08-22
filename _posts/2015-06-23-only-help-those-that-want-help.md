@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Only help those that want help"
-author: "Marcus Hammarberg"
+title: Only help those that want help
+author: Marcus Hammarberg
 date: 2015-06-23 15:20:47
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Trying out test commit or revert"
-author: "Marcus Hammarberg"
+title: Trying out test commit or revert
+author: Marcus Hammarberg
 date: 2019-01-11 14:32:45
 tags:
  - Javascript
@@ -207,9 +207,6 @@ module.exports.single = (n) => {
   return n.toString()
 }
 ```
-
-
-
 **Feeling before tcr-command**: Careful optimistic but still held my breath during the run.
 
 **Result**: Passed and commit.
@@ -789,6 +786,3 @@ In the end, the revert and deletion of my code felt like a relief almost and sin
 All in all, I ended up with better code written in smaller chunks. That made me feel pretty good.
 
 Hope you found this interesting to follow along in. My [code is here](https://github.com/marcusoftnet/fizzbuzz-tcr)
-
-
-

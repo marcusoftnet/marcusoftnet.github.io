@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Barrier troops"
-author: "Marcus Hammarberg"
+title: Barrier troops
+author: Marcus Hammarberg
 date: 2015-11-27 13:08:27
 tags:
 

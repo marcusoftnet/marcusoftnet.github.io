@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Import Outlook contacts to Mac Address Book – for free
-date: '2009-10-02T22:02:00.001+02:00'
+date: 2009-10-02T22:02:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.185+01:00'
+modified_time: 2010-12-14T16:22:38.185+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6860689483999708427
 blogger_orig_url: http://www.marcusoft.net/2009/10/import-outlook-contacts-to-mac-address.html
 ---

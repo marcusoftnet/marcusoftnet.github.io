@@ -1,12 +1,12 @@
 ---
 layout: post
 title: MVP is not another word for iterations - it's for learning
-date: '2013-05-13T11:04:00.000+02:00'
+date: 2013-05-13T11:04:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Agile
-modified_time: '2013-05-13T15:34:26.443+02:00'
+modified_time: 2013-05-13T15:34:26.443+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-405187406250963476
 blogger_orig_url: http://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-iterations.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Design our work"
-author: "Marcus Hammarberg"
+title: Design our work
+author: Marcus Hammarberg
 date: 2016-11-18 12:20:52
 tags:
 

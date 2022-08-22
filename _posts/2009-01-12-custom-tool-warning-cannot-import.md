@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Custom tool warning: cannot import
+title: Custom tool warning: cannot import
 wsdl:portType'
-date: '2009-01-12T15:10:00.001+01:00'
+date: 2009-01-12T15:10:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - WCF
-modified_time: '2009-01-12T15:11:43.467+01:00'
+modified_time: 2009-01-12T15:11:43.467+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1861622144976994737
 blogger_orig_url: http://www.marcusoft.net/2009/01/custom-tool-warning-cannot-import.html
 ---

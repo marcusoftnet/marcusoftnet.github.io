@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some thoughts after Lean Kanban North America 2016"
-author: "Marcus Hammarberg"
+title: Some thoughts after Lean Kanban North America 2016
+author: Marcus Hammarberg
 date: 2016-05-19 12:59:58
 tags:
 

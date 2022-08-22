@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Requiring the os - runtime-js"
-author: "Marcus Hammarberg"
+title: Requiring the os - runtime-js
+author: Marcus Hammarberg
 date: 2015-09-20 16:31:47
 tags:
  - Javascript

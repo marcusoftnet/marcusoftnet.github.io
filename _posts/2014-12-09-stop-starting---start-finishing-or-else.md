@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Stop starting - start finishing, or else..."
-author: "Marcus Hammarberg"
+title: Stop starting - start finishing, or else...
+author: Marcus Hammarberg
 date: 2014-12-09 08:08:39
 tags:
 - Agile

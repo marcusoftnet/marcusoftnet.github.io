@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "All the great teams"
-author: "Marcus Hammarberg"
+title: All the great teams
+author: Marcus Hammarberg
 date: 2015-02-10 07:07:37
 tags:
 

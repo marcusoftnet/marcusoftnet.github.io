@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Compress a string with zip
-date: '2008-12-15T15:52:00.002+01:00'
+date: 2008-12-15T15:52:00.002+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - C#
-modified_time: '2009-01-12T07:57:42.696+01:00'
+modified_time: 2009-01-12T07:57:42.696+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8330905761469245113
 blogger_orig_url: http://www.marcusoft.net/2008/12/compress-string-with-zip.html ---
 

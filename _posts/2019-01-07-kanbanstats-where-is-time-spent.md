@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KanbanStats IV: Where is time spent?"
-author: "Marcus Hammarberg"
+title: KanbanStats IV: Where is time spent?
+author: Marcus Hammarberg
 date: 2019-01-07 15:04:13
 tags:
 
@@ -111,9 +111,6 @@ I will show you what I did for weeks, but it's quite similar for months.
       2. Double click the little handle in the bottom corner
       3. Google sheets will auto-fill the formulas for all the rows of unique weeks
       4. This is when the `$` for locking certain references comes handy as Google sheets otherwise will increment row references...
-
-
-
 Ok - that data looks fiiine! But let's show it as well.
 
 For the months I created a simpler chart; a stacked column chart for `K1:M7` (columns Unique month, Average In Backlog and Average On Board). A nifty little setting was where you can set a label, per column, for the total. The result looks like this:

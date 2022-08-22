@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some thoughts after running the marshmallow challenge with kids"
-author: "Marcus Hammarberg"
+title: Some thoughts after running the marshmallow challenge with kids
+author: Marcus Hammarberg
 date: 2017-01-20 11:00:00
 tags:
 

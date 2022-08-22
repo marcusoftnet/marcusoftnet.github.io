@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanbanboards III–putting on the web
-date: '2011-01-23T22:26:00.001+01:00'
+date: 2011-01-23T22:26:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,7 +9,7 @@ tags:
    - ASP.NET MVC
   - KanbanBoards
   - SpecFlow
-modified_time: '2011-01-25T11:28:24.156+01:00'
+modified_time: 2011-01-25T11:28:24.156+01:00
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TTyc-nZa-iI/AAAAAAAAAvo/ye0t1HcwTiE/s72-c/updated-scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9181359261521028249
 blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html ---
@@ -44,9 +44,6 @@ target="_blank">SpecFlow Assist</a> (table helpers) that is really
 great. So I value his opinions a lot. He gave me 4 points to think about
 and I thought I comment them here as I learned a lot from them and think
 maybe you will to:
-
-
-
 1.  <a
     href="https://github.com/marcusoftnet/KanbanBoards/pull/1#commitcomment-244865"
     target="_blank">Line up your SpecFlow tables correctly</a>. This is

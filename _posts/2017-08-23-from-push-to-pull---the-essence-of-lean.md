@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "From push to pull - the essence of kanban"
-author: "Marcus Hammarberg"
+title: From push to pull - the essence of kanban
+author: Marcus Hammarberg
 date: 2017-08-23 10:47:16
 tags:
  - Lean

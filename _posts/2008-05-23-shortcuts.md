@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Shortcuts
-date: '2008-05-23T11:17:00.004+02:00'
+date: 2008-05-23T11:17:00.004+02:00
 author: Marcus Hammarberg
 tags:
-modified_time: '2010-12-14T16:20:33.277+01:00'
+modified_time: 2010-12-14T16:20:33.277+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8412792532818677787
 blogger_orig_url: http://www.marcusoft.net/2008/05/shortcuts.html ---
 Anyone

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Screencast: Installing Koa Js - a tutorial
+title: Screencast: Installing Koa Js - a tutorial
 through failures'
-date: '2014-05-23T05:27:00.001+02:00'
+date: 2014-05-23T05:27:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Node - Javascript
   - Tools - Koa
-modified_time: '2014-05-23T05:28:03.212+02:00'
+modified_time: 2014-05-23T05:28:03.212+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7043762977408748266
 blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-getting-started-with-koa-js.html
 ---

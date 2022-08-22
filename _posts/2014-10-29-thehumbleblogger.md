@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The humble blogger approach - some practical tips
-date: '2014-10-29T03:11:00.000+01:00'
+date: 2014-10-29T03:11:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Tools
   - Life of a consultant
-modified_time: '2014-10-29T03:13:48.716+01:00'
+modified_time: 2014-10-29T03:13:48.716+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6245020261328365002
 blogger_orig_url: http://www.marcusoft.net/2014/10/thehumbleblogger.html
 ---

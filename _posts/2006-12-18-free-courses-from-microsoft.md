@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Free courses from Microsoft
-date: '2006-12-18T07:44:00.001+01:00'
+date: 2006-12-18T07:44:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
-modified_time: '2008-03-14T07:35:07.235+01:00'
+modified_time: 2008-03-14T07:35:07.235+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6620844867408290558
 blogger_orig_url: http://www.marcusoft.net/2006/12/free-courses-from-microsoft.html ---
 This is not to often but these courses are in fact totally free of

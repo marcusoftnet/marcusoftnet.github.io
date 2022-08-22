@@ -1,11 +1,11 @@
 ---
 layout: post
 title: ASP.NET MVC – Running transformation error solved
-date: '2009-03-07T22:54:00.001+01:00'
+date: 2009-03-07T22:54:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - ASP.NET MVC
-modified_time: '2009-03-07T22:54:52.078+01:00'
+modified_time: 2009-03-07T22:54:52.078+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2485191868582755158
 blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-running-transformation-error_07.html
 ---

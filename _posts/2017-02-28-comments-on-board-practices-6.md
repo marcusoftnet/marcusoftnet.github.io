@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Comments on common board practices - Focus on the work - not the workers"
-author: "Marcus Hammarberg"
+title: Comments on common board practices - Focus on the work - not the workers
+author: Marcus Hammarberg
 date: 2017-02-28 15:13:13
 tags:
 

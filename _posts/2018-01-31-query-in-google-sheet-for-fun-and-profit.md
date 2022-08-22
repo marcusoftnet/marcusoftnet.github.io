@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Summarizing and filtering data with QUERY and a Google Sheet drop-down"
-author: "Marcus Hammarberg"
+title: Summarizing and filtering data with QUERY and a Google Sheet drop-down
+author: Marcus Hammarberg
 date: 2018-01-31 13:11:41
 tags:
  - Tools

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: TDD and Scaffolding
-date: '2011-01-21T15:04:00.001+01:00'
+date: 2011-01-21T15:04:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET -
 ASP.NET MVC
   - TDD
-modified_time: '2011-01-21T15:04:00.334+01:00'
+modified_time: 2011-01-21T15:04:00.334+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5436875631721491002
 blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html ---
 
@@ -37,9 +37,6 @@ href="http://www.google.se/search?sourceid=chrome&amp;ie=UTF-8&amp;q=tdd+scaffol
 target="_blank">I couldn’t find to much about it</a> I though I jot down
 some thoughts on the subject. I think that it’s something that will be
 used more and more in the Microsoft sphere.
-
-
-
 ### Definition
 
 On <a href="http://en.wikipedia.org/wiki/Scaffolding"

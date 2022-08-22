@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Delayed responses with AWS Lambda and Claudia (Pingu part II)"
-author: "Marcus Hammarberg"
+title: Delayed responses with AWS Lambda and Claudia (Pingu part II)
+author: Marcus Hammarberg
 date: 2016-08-04
 tags:
  - Javascript

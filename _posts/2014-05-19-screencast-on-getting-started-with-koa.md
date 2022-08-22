@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Screencast on Getting started with Koa Js
-date: '2014-05-19T06:42:00.001+02:00'
+date: 2014-05-19T06:42:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Javascript
   - Tools - Koa
   - Life of a consultant
-modified_time: '2014-05-19T10:44:20.456+02:00'
+modified_time: 2014-05-19T10:44:20.456+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2777218186814061355
 blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-on-getting-started-with-koa.html
 ---
@@ -37,9 +37,6 @@ content:
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -64,8 +61,4 @@ that I picked up;
 -   Make sure the resolution is good enough to read code. This works in
     full screen but I'm not sure about the smaller screens...
 -   Turn updates off... 
-
-
-
-
 </div>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'It''s just an experiment - experiments in
+title: It''s just an experiment - experiments in
 practice '
-date: '2014-10-31T09:10:00.001+01:00'
+date: 2014-10-31T09:10:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools - Lean
@@ -11,7 +11,7 @@ tags:
   - Kanban
 
   - Agile- Salvation Army
-modified_time: '2014-11-02T01:58:53.276+01:00'
+modified_time: 2014-11-02T01:58:53.276+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2929863065570671239
 blogger_orig_url: http://www.marcusoft.net/2014/10/experiments-in-practice.html ---
 

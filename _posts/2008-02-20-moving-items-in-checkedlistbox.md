@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Moving items in a CheckedListBox
-date: '2008-02-20T15:37:00.013+01:00'
+date: 2008-02-20T15:37:00.013+01:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: '2010-12-14T16:19:05.491+01:00'
+modified_time: 2010-12-14T16:19:05.491+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5888117216102285736
 blogger_orig_url: http://www.marcusoft.net/2008/02/moving-items-in-checkedlistbox.html ---
 This is a very common requirement in applications and one that i always
@@ -56,9 +56,6 @@ parameter to indicate if the item is to be moved up or down.
     chklstStycken.SelectedIndex = newIndex
     chklstStycken.EndUpdate()
     end sub
-
-
-
 
 Yeah - i've ripped the solution from
 <http://www.msnewsgroups.net/group/microsoft.public.dotnet.languages.csharp/topic21474.aspx>,

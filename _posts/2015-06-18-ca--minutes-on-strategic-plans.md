@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ca 15 minutes on strategic plans"
-author: "Marcus Hammarberg"
+title: ca 15 minutes on strategic plans
+author: Marcus Hammarberg
 date: 2015-06-18 11:12:16
 tags:
 

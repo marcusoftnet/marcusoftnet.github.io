@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Making dynamic chart in Excel"
-author: "Marcus Hammarberg"
+title: Making dynamic chart in Excel
+author: Marcus Hammarberg
 date: 2015-10-30 13:30:32
 tags:
  - Tools

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "When we used user story mapping to plan our move"
-author: "Marcus Hammarberg"
+title: When we used user story mapping to plan our move
+author: Marcus Hammarberg
 date: 2017-10-20 11:06:09
 tags:
  - Lean
@@ -31,9 +31,6 @@ Here's how our user story map looked, there's a bigger version for your [downloa
 ![Our user story map](/img/IMG_3330_small.jpg)
 
 On the top of our board we listed rooms and then below we started to list all the things that should go into each room. The many boxes of toys should go into the boys rooms, where should the beds be, the closest into room a, this chest of drawers into our bedroom etc.
-
-
-
 Although this gave us an overview and visibility this still didn't really help us to plan the move. I was also a bit worried that we would forget to plan where stuff should go with so many moving parts (i.e. boxes) in action.
 
 I started to think about the real gain of the user story mapping - the planning phase. Because once you have listed out all your details, according to the image above, you can now make a horizontal cut for what goes into what release. There's a trick thought and we will soon come back to that.
@@ -65,9 +62,6 @@ And like that we fleshed out the details for the incremental versions of the ful
 ![User story mapping in action - family moving style](/img/IMG_3326.jpg)
 
 You can see these incremental "release" of our move, through the different color dividers we made on the board. Everything above the green divider in a column is needed for that version of the completed move, for that room.
-
-
-
 Remember the gotcha/catch I told you about when we talked about user story mapping for system developement. Well, this is it. The details have to be in incremental better versions of the full story. A good way is to ask `What is the smallest thing that could possible work`.
 
 For example:
@@ -85,9 +79,6 @@ I actually found user story mapping really useful and it helped us to think in i
 It also revealed a nice trick for me, by naming the releases we forced ourselves to think about the incremental versions of the finished room. It was easy to understand what needed to go into a room if you only going to stay there one night. From there it was equally easy to add next increment of the finished room until we got the whole thing completed.
 
 We even found out somethings that we had in some rooms that we didn't need to "live there a full year". These things we threw out. Or packed away, if it was memorabilia.
-
-
-
 When we do user stories maps for software applications I found that naming the releases will help us too. "Only text, to one person only, version"-release of a email client is easy to envision and understand. Now we can easily find the first increments of each step/feature and skip all but the necessary.
 
 Hope you found this story from my personal life interesting.

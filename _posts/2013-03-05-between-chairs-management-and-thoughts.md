@@ -1,15 +1,15 @@
 ---
 layout: post
-title: '"Between the chairs" some thoughts on backlogs
+title: "Between the chairs" some thoughts on backlogs
 and things outside them'
-date: '2013-03-05T15:07:00.001+01:00'
+date: 2013-03-05T15:07:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
 
   - Agile
-modified_time: '2013-03-05T15:09:37.252+01:00'
+modified_time: 2013-03-05T15:09:37.252+01:00
 thumbnail: http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4864005741396452887
 blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html
@@ -32,9 +32,6 @@ This post shows our findings and I'll try to unfold my thinking on why I
 thought that the problem is overstated as well.
 Since we're now brushing on business critical strategies I need to keep
 this post fairly general, I'll try my best to make it understandable.
-
-
-
 ### The problem
 
 <div>
@@ -47,9 +44,6 @@ Search, User management and Product. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -65,9 +59,6 @@ lot of time. We have to investigate to know more. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -82,9 +73,6 @@ to slow down. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -118,9 +106,6 @@ square that anyone can post new topics in. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +201,6 @@ conscious decision. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -231,9 +213,6 @@ as fast as possible. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -259,9 +238,6 @@ fact that these things keep popping up. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

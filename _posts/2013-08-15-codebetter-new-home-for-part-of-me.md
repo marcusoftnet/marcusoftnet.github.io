@@ -1,12 +1,12 @@
 ---
 layout: post
 title: CodeBetter - a new home for part of me
-date: '2013-08-15T15:49:00.004+02:00'
+date: 2013-08-15T15:49:00.004+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2013-08-15T15:54:22.794+02:00'
+modified_time: 2013-08-15T15:54:22.794+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2149031434733384001
 blogger_orig_url: http://www.marcusoft.net/2013/08/codebetter-new-home-for-part-of-me.html
 ---
@@ -60,9 +60,6 @@ convinced that it has to do with my "presence" on the net. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -122,9 +119,6 @@ writing. 
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -153,9 +147,6 @@ well worth the money!
 </div>
 
 <div>
-
-
-
 </div>
 
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Solving the underpants gnomes pitfall"
-author: "Marcus Hammarberg"
+title: Solving the underpants gnomes pitfall
+author: Marcus Hammarberg
 date: 2016-05-20 12:59:58
 tags:
 

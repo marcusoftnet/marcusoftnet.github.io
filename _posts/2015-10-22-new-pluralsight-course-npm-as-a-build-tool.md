@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "New PluralSight course: npm as a build tool"
-author: "Marcus Hammarberg"
+title: New PluralSight course: npm as a build tool
+author: Marcus Hammarberg
 date: 2015-10-22 10:26:49
 tags:
  - Node

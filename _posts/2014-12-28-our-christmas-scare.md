@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our Christmas Scare"
-author: "Marcus Hammarberg"
+title: Our Christmas Scare
+author: Marcus Hammarberg
 date: 2014-12-28 10:11:38
 tags:
  - Marcus private

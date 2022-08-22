@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Stuff I said coaching"
-author: "Marcus Hammarberg"
+title: Stuff I said coaching
+author: Marcus Hammarberg
 date: 2015-05-03 15:35:18
 tags:
 

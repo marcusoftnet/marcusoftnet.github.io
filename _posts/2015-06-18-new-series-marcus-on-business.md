@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "New series: Marcus on mission, vision and strategy... and doing it"
-author: "Marcus Hammarberg"
+title: New series: Marcus on mission, vision and strategy... and doing it
+author: Marcus Hammarberg
 date: 2015-06-18 09:06:52
 tags:
 

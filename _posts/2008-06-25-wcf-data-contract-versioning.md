@@ -1,12 +1,12 @@
 ---
 layout: post
 title: WCF Data Contract Versioning
-date: '2008-06-25T08:13:00.007+02:00'
+date: 2008-06-25T08:13:00.007+02:00
 author: Marcus Hammarberg
 tags:
   - .NET -
 WCF
-modified_time: '2009-01-12T07:57:27.980+01:00'
+modified_time: 2009-01-12T07:57:27.980+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5473159836345930651
 blogger_orig_url: http://www.marcusoft.net/2008/06/wcf-data-contract-versioning.html ---
 I've been checking out a very interesting subject for my current

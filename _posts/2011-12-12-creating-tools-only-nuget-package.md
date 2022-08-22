@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Creating a tools only NuGet package
-date: '2011-12-11T21:30:00.001+01:00'
+date: 2011-12-11T21:30:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - SpecFlow
-modified_time: '2011-12-11T21:51:57.425+01:00'
+modified_time: 2011-12-11T21:51:57.425+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8208460981540200585
 blogger_orig_url: http://www.marcusoft.net/2011/12/creating-tools-only-nuget-package.html
 ---
@@ -35,9 +35,6 @@ I learned a great deal about PowerShell and NuGet when I put that NuGet
 package together and since it was quite some time since I blogged I
 thought I’ll write down my experiences. This post is a about the NuGet
 package.
-
-
-
 The goal of my package is to NOT add any references to any projects. I
 just want it to drop some assemblies as tools and then use the
 <a href="http://technet.microsoft.com/en-us/library/dd819454.aspx"
@@ -135,14 +132,8 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
 ```
 
 </div>
-
-
-
 Most of the elements speaks clearly for themselves (I’ve shorten the
 content of some for readability):
-
-
-
 -   At line 5 you can see how you can send in a version number to the
     NuGet Pack command (see below)
 -   Line 15-18 specifies the files I want to include and where I want
@@ -152,23 +143,11 @@ content of some for readability):
     copy some files.
 -   Note also that I’m including a powershell file called init.ps1 – see
     below about that file. 
-
-
-
 #### Init.ps1
-
-
-
 This is a PowerShell file that runs (if included) when a NuGet package
 installs. It’s perfect for doing installation stuff. Here is how the
 file look like for me:
-
-
-
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; background-color: #f4f4f4; border-left-style: none; padding-left: 0px; width: 100%; padding-right: 0px; font-family: 'Courier New', courier, monospace; direction: ltr; border-top-style: none; color: black; border-right-style: none; font-size: 8pt; overflow: visible; padding-top: 0px">
 
@@ -212,9 +191,6 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
 
 </div>
 
-
-
-
 -   On line 1 we have some parameters that NuGet are sending to us. It’s
     basically some paths to different folder that might be interesting
     to us
@@ -224,35 +200,17 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
     that joins paths to import it from the right folder
 -   The rest is just me writing out some interesting information (?) to
     inform the user how to use the command
-
-
-
 These simple lines will “install” the commandlet into the Package Manger
 console and it can now be used. With full intellisense for all
 parameters of the command. Nice!
-
-
-
 #### NuGet.Exe and the Pack command
-
-
-
 NuGet also have a command with which you can
 <a href="http://docs.nuget.org/docs/reference/command-line-reference"
 target="_blank">do a lot of stuff</a> but here I was interested in the
 the Pack command. It turns a .nuspec or a Visual Studio project file
 into a .nupkg file that then can be deployed separately.
-
-
-
 Here is my command that operate on the .nuspec file I described above:
-
-
-
 <div id="codeSnippetWrapper">
-
-
-
 <div id="codeSnippet"
 style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-height: 12pt; background-color: #f4f4f4; border-left-style: none; padding-left: 0px; width: 100%; padding-right: 0px; font-family: 'Courier New', courier, monospace; direction: ltr; border-top-style: none; color: black; border-right-style: none; font-size: 8pt; overflow: visible; padding-top: 0px">
 
@@ -263,65 +221,35 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
 </div>
 
 </div>
-
-
-
 Nothing strange here,  I simply point to the .nuspec-file and pass a
 parameter as version. This allows me to use this command (.cmd-file)
 from a DOS-prompt to create new packages by simply setting the version
 number of the package.
-
-
-
 So for version 0.3 I got a file called “Pickles.0.3.nupkg”.
-
-
-
 #### Trying out your package locally
-
-
-
 A really nice feature of NuGet is that you can very easily set up a
 local NuGet repository. I’ve <a
 href="http://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html"
 target="_blank">blogged about that before</a> and it’s done is just a
 few minutes.
-
-
-
 So to try my package out I simply copied it into my local repository
 (just a folder on my computer) and then went “Install-Package Pickles”
 in the Package Manager Console in Visual Studio. I even got intellisense
 for the package name.
-
-
-
 #### Conclusion and lessons learned
-
-
-
 I had some strange problems with the references to dependencies for my
 package for a while. But when I cleaned my files up in order to write a
 <a href="http://stackoverflow.com" target="_blank">StackOverflow</a>
 question about it… the problems went away. Typical! I must have messed
 up.
-
-
-
 But I learned one very important thing when trying your packages out;
 Increment the version number for each new version! Or start a new
 project to import your package into. I suspect that the clean up didn’t
 always work as expected.
-
-
-
 All in all this is a very nice way to deploy a tool I think. It have
 taken me quite some time to put together but 70% of that have been me
 going back and forth trying to figure out why it didn’t work. Most
 likely that had to do with me using the same version number all the
 time.
-
-
-
 The Pickles NuGet packages will be available from NuGet.org soon. Very
 soon.

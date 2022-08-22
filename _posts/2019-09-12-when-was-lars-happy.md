@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "When was Lars happy?"
-author: "Marcus Hammarberg"
+title: When was Lars happy?
+author: Marcus Hammarberg
 date: 2019-09-10 08:45:17
 tags:
 

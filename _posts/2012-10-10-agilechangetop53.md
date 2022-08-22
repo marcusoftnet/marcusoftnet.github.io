@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Top 5 Agile change tips \#3 - Let them change
+title: Top 5 Agile change tips \#3 - Let them change
 how they work'
-date: '2012-10-10T09:00:00.000+02:00'
+date: 2012-10-10T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-10-10T09:00:02.243+02:00'
+modified_time: 2012-10-10T09:00:02.243+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3292166009938146484
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop53.html
 ---
@@ -31,9 +31,6 @@ This is the list - in order of importance:
 5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
 
-
-
-
 ### \#3 Let them change how they work
 
 <div>
@@ -47,9 +44,6 @@ team**. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -62,9 +56,6 @@ support them. But do not tell them a better way. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -142,9 +133,6 @@ transformation projects:
 </div>
 
 <div>
-
-
-
 </div>
 
 

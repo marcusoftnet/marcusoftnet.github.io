@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What can you do for us then?"
-author: "Marcus Hammarberg"
+title: What can you do for us then?
+author: Marcus Hammarberg
 date: 2015-09-01 10:25:20
 tags:
 

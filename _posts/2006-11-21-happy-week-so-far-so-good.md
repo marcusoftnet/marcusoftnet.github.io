@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Happy week - so far so good
-date: '2006-11-21T07:38:00.000+01:00'
+date: 2006-11-21T07:38:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2006-11-21T13:06:08.203+01:00'
+modified_time: 2006-11-21T13:06:08.203+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7400246725902630226
 blogger_orig_url: http://www.marcusoft.net/2006/11/happy-week-so-far-so-good.html ---
 [<img
@@ -22,9 +22,6 @@ to be working... One day with no anger and everything is dandy. Did take
 to much effort either.
 
 </div>
-
-
-
 I even managed to handle some bumps in the road yesterday, with some
 laughter and dancing (?!?!) instead of digging graves. There might be
 something here.
@@ -32,12 +29,6 @@ something here.
 <div>
 
 
-
-</div>
-
-
-
-<div>
 
 If this continue i will have to extend the period - let me get back to
 you on that.

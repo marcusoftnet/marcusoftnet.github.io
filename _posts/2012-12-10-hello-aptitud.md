@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Hello Aptitud!
-date: '2012-12-10T09:00:00.000+01:00'
+date: 2012-12-10T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2012-12-10T09:45:29.478+01:00'
+modified_time: 2012-12-10T09:45:29.478+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4381363136158323509
 blogger_orig_url: http://www.marcusoft.net/2012/12/hello-aptitud.html
 ---
@@ -72,9 +72,6 @@ These were just two simple examples where the key values have guided
 Aptitud towards simple, more people friendly solutions.
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -86,9 +83,6 @@ given the freedom to do so. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -100,21 +94,12 @@ us</a> and we'll tell you more. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 To all (all 9 of you that is...) my Aptidudes out there; Let's go! Let's
 be great!
-
-</div>
-
-
-
-<div>
 
 
 

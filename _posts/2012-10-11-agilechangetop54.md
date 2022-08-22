@@ -1,20 +1,17 @@
 ---
 layout: post
-title: 'Top 5 Agile change tips \#4 - Support the
+title: Top 5 Agile change tips \#4 - Support the
 initiative'
-date: '2012-10-11T09:00:00.000+02:00'
+date: 2012-10-11T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2012-10-11T09:00:16.968+02:00'
+modified_time: 2012-10-11T09:00:16.968+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3150258399185542597
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop54.html
 ---
-
-
-
 <div class="p1">
 
 This is the second post on my top 5 ways of making sure that your agile
@@ -25,9 +22,6 @@ with. Over and over. And learned a lot from.
 </div>
 
 <div class="p2">
-
-
-
 </div>
 
 <div class="p1">
@@ -46,9 +40,6 @@ This is the list - in order of importance:
     target="_blank">Support the initiative</a> (this post)
 5.  <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
-
-
-
 ### \#4 Support the initiative
 
 <div>
@@ -59,9 +50,6 @@ handled correctly. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -76,9 +64,6 @@ working. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -92,9 +77,6 @@ organically from the bottom up. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -123,9 +105,6 @@ doing, right? 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -151,9 +130,6 @@ It doesn't add up. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -186,9 +162,6 @@ succeed with agile transformation projects  
 </div>
 
 <div>
-
-
-
 1.  <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
     target="_blank">Get a great "Or else"-reason for doing this change</a>
 2.  <a href="http://www.marcusoft.net/2012/10/agilechangetop52.html"

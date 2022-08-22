@@ -2,13 +2,13 @@
 layout: post
 title: Specification by example with SpecLog–some
 initial thoughts
-date: '2011-02-21T20:55:00.001+01:00'
+date: 2011-02-21T20:55:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
   - Agile
-modified_time: '2011-03-07T13:35:53.078+01:00'
+modified_time: 2011-03-07T13:35:53.078+01:00
 thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TWLDTkH_uhI/AAAAAAAAA5s/4g7epwLPr5U/s72-c/%5Bspecws1%5B2%5D_thumb%5B3%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1461423135737723573
 blogger_orig_url: http://www.marcusoft.net/2011/02/specification-by-example-with.html ---
@@ -42,9 +42,6 @@ specification by example process – the tool is called
 <a href="http://www.techtalk.at/" target="_blank">TechTalk</a> (as
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> is). It
 looks promising – very promising indeed.
-
-
-
 ### Reflection
 
 Please allow me to elaborate on something that I have been thinking on

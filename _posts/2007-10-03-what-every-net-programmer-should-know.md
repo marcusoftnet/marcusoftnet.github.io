@@ -1,12 +1,12 @@
 ---
 layout: post
 title: What every .NET-programmer should know
-date: '2007-10-03T13:05:00.000+02:00'
+date: 2007-10-03T13:05:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-modified_time: '2007-10-03T13:11:30.077+02:00'
+modified_time: 2007-10-03T13:11:30.077+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1836927873359984596
 blogger_orig_url: http://www.marcusoft.net/2007/10/what-every-net-programmer-should-know.html
 ---

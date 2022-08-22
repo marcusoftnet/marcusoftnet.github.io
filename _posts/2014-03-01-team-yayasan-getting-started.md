@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Team Yayasan - getting started
-date: '2014-03-01T07:56:00.003+01:00'
+date: 2014-03-01T07:56:00.003+01:00
 author: Marcus Hammarberg
 tags:
   - Team
@@ -9,7 +9,7 @@ Yayasan - Lean
   - Kanban
   - Agile
   - Indonesia
-modified_time: '2014-03-17T02:37:31.541+01:00'
+modified_time: 2014-03-17T02:37:31.541+01:00
 thumbnail: http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1338677593036398302
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-getting-started.html ---
@@ -38,9 +38,6 @@ us.
 I will blog about our experiences and tribulations here to remember it
 all. This is the first post, and it's a bit long, but I need to set a
 proper context. I'll keep it shorter later.
-
-
-
 ### Background
 
 <div>
@@ -52,9 +49,6 @@ supposed to do. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -91,9 +85,6 @@ Yayasan. Amazing as she is that was not sufficient. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -106,9 +97,6 @@ speed. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -122,9 +110,6 @@ target="_blank">"The executive director" of Yayasan.</a> 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -172,9 +157,6 @@ deal. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -187,9 +169,6 @@ other. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -203,9 +182,6 @@ current version. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +192,6 @@ hospital and clinic. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -372,9 +345,6 @@ suggested two changes that we're trying for next week:
 This is the final board after the first week:
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -397,9 +367,6 @@ see where they can take us. Letting them lead - not me. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

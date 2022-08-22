@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'For the Indonesian War Cry: On Motivation'
-date: '2014-03-18T08:18:00.002+01:00'
+title: For the Indonesian War Cry: On Motivation'
+date: 2014-03-18T08:18:00.002+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
   - Indonesia
-modified_time: '2014-03-18T08:18:10.051+01:00'
+modified_time: 2014-03-18T08:18:10.051+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4311236184618518878
 blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html
 ---

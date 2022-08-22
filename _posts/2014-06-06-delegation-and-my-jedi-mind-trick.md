@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Delegation and my jedi mind trick
-date: '2014-06-06T06:15:00.001+02:00'
+date: 2014-06-06T06:15:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Agile
-modified_time: '2014-06-06T06:15:36.646+02:00'
+modified_time: 2014-06-06T06:15:36.646+02:00
 thumbnail: http://lh3.ggpht.com/-aomQ9ZtCY_g/U5FAXcNkP2I/AAAAAAAAEAc/ftGtlyIU0Ik/s72-c/cringe_thumb.gif?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3857759954962312283
 blogger_orig_url: http://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-trick.html
@@ -29,9 +29,6 @@ Yes, that. Give someone a responsibility and then step away. Today I got
 the opportunity to talk with a manager that have a tendency to
 micromanage a lot and we came up with conversation template that I think
 was worthy remembering.
-
-
-
 I told her that she needed to delegate an area of responsibility to a
 manager of one of her departments. And I introduced her to the
 definition above. Because she’s really involved in almost everything

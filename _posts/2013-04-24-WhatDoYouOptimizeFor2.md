@@ -2,12 +2,12 @@
 layout: post
 title: Are you coding for change or stability - the
 followup post
-date: '2013-04-24T09:00:00.000+02:00'
+date: 2013-04-24T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - .NET - Lean
   - Agile
-modified_time: '2013-04-24T09:00:09.964+02:00'
+modified_time: 2013-04-24T09:00:09.964+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7663992142364497452
 blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html ---
 
@@ -24,9 +24,6 @@ questions was posed. These of course got me thinking even more and I
 realized that I needed to follow up on the post. So here it is: some
 thoughts (and some answers) to questions and arguments I've had during
 the last week.
-
-
-
 ### Mindset vs practice
 
 <div>
@@ -39,9 +36,6 @@ that this is the last time we ever touch or see it?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -55,9 +49,6 @@ out there and learn from that. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -69,9 +60,6 @@ that she can make the change easier. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -87,9 +75,6 @@ coding? The testing? The documentation?
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -115,9 +100,6 @@ couple of weeks. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -130,9 +112,6 @@ in Swedish).  
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -144,9 +123,6 @@ the player etc. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -159,9 +135,6 @@ took us about a day or two.  
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -207,9 +180,6 @@ flexible design maybe had been. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -229,9 +199,6 @@ data-border="0" width="400" height="166" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -249,9 +216,6 @@ complexity does seldom get used. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -263,9 +227,6 @@ simple rather than flexible code. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -280,9 +241,6 @@ uniform way.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -296,9 +254,6 @@ absurdum of course).
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -332,9 +287,6 @@ of work not done--is essential."
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -346,11 +298,8 @@ on .NET) and
 write super small services in a few, easy to read and understand lines
 like these:
 
-</div>
 
 
-
-<div>
 
 This little service get all the users with a given name and returns it
 to the caller in the format requests (look into [Nancy content

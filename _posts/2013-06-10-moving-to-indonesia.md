@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Moving to Indonesia
-date: '2013-06-10T09:00:00.000+02:00'
+date: 2013-06-10T09:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private - Lean
   - Salvation Army
   - Indonesia
-modified_time: '2013-06-10T15:25:53.605+02:00'
+modified_time: 2013-06-10T15:25:53.605+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1012190930985440668
 blogger_orig_url: http://www.marcusoft.net/2013/06/moving-to-indonesia.html ---
 
@@ -35,9 +35,6 @@ has come to fulfill that dream - and I get to be part of it! 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -70,9 +67,6 @@ maybe I can be involved in helping some of them. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -106,9 +100,6 @@ for Hospital Foundation". It's a project for three years. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -134,9 +125,6 @@ when we have settled in there. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -147,9 +135,6 @@ where we'll work. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -178,9 +163,6 @@ I have great friends and a fantastic family around me. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -203,9 +185,6 @@ faith and trust that this will come out ok on all parts. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -271,9 +250,6 @@ account too and marcushammarberg at Skype. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

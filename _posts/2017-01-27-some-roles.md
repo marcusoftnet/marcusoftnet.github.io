@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some roles I take on - and what they are"
-author: "Marcus Hammarberg"
+title: Some roles I take on - and what they are
+author: Marcus Hammarberg
 date: 2017-01-27 20:10:00
 tags:
 

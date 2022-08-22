@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Demo done - SCRUM rocks!
-date: '2007-05-25T08:08:00.000+02:00'
+date: 2007-05-25T08:08:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
    - Scrum
 
   - Agile
-modified_time: '2007-05-25T08:12:42.764+02:00'
+modified_time: 2007-05-25T08:12:42.764+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6521077029563469445
 blogger_orig_url: http://www.marcusoft.net/2007/05/demo-done-scrum-rocks.html
 ---

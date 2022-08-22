@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some kanban questions from a keen learner, and my answers"
-author: "Marcus Hammarberg"
+title: Some kanban questions from a keen learner, and my answers
+author: Marcus Hammarberg
 date: 2015-12-07 11:05:30
 tags:
 

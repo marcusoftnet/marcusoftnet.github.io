@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Deploying. NET 6 WebAPI using ARM Template"
-author: "Marcus Hammarberg"
+title: Deploying. NET 6 WebAPI using ARM Template
+author: Marcus Hammarberg
 date: 2022-08-19 09:26:51
 tags:
  - .NET

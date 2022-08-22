@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Integrate JIRA search results in Google Sheets for fun and profit"
-author: "Marcus Hammarberg"
+title: Integrate JIRA search results in Google Sheets for fun and profit
+author: Marcus Hammarberg
 date: 2018-06-21 13:55:11
 tags:
  - Tools

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: On lead time and important projects
-date: '2014-01-27T05:41:00.000+01:00'
+date: 2014-01-27T05:41:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Lean
   - Agile
   - Indonesia
-modified_time: '2014-01-28T05:43:08.449+01:00'
+modified_time: 2014-01-28T05:43:08.449+01:00
 thumbnail: http://2.bp.blogspot.com/-InN1Jg0ngAM/UuXiUF0543I/AAAAAAAAB4g/\_wCZLQ4V6lI/s72-c/doing-the-most-good-for-web.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6329581777686380371
 blogger_orig_url: http://www.marcusoft.net/2014/01/on-lead-time-important-projects-and.html
@@ -50,15 +50,9 @@ long lead times. In another industry and another world. I have two
 examples from my current situation in very different scales, both when
 it comes to people. They are both concrete and you can probably make
 your analogy over to your context and situation quite easy.
-
-
-
 ### The projects
 
 ###
-
-
-
 -   <span style="font-size: small; font-weight: normal;">The first
     project is about clearing out the final details on how two
     organizations should be separated from each other. There's a lot of
@@ -162,13 +156,7 @@ to. 
 how does project like these look then?
 
 </div>
-
-
-
 <div style="text-align: left;">
-
-
-
 </div>
 
 How we work
@@ -204,9 +192,6 @@ effect on the lead time to complete the work. Try this very simple
 exercise, if you dare, on a whiteboard next to you:
 
 </div>
-
-
-
 -   <span style="font-size: small;"><span
     style="font-weight: normal;">Draw a line across the entire board.
     For extra measures mark it with dates (or weeks even)
@@ -235,18 +220,12 @@ data-border="0" width="640" height="148" /></a>
 
 
 </div>
-
-
-
 <div style="text-align: left;">
 
 <span style="font-size: small;"><span style="font-weight: normal;">Now,
 for the fun part. 
 
 </div>
-
-
-
 -   <span style="font-size: small; font-weight: normal;">Measure the
     length of the line as it's in "Working" area. It doesn't have to be
     exact but enough to prove a point
@@ -256,9 +235,6 @@ for the fun part. 
 -   <span style="font-size: small; font-weight: normal;">You'll end up
     with something like this (I've even added a little waiting time in
     the beginning, I'll get back to that later in the post):
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -332,9 +308,6 @@ target="_blank">"Sit together - work together"</a>.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -406,9 +379,6 @@ important either. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -428,9 +398,6 @@ busy. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -551,9 +518,6 @@ most important thing we can do right now. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -576,9 +540,6 @@ together it might be worth waiting awhile first. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -590,9 +551,6 @@ least as far as we can given the constraints we're given. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

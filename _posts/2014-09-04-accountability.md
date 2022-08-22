@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accountability, authority, trust, and all those things
-date: '2014-09-04T10:22:00.002+02:00'
+date: 2014-09-04T10:22:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
@@ -9,7 +9,7 @@ tags:
   - Kanban
   - Agile
   - Salvation Army
-modified_time: '2014-09-04T10:22:38.712+02:00'
+modified_time: 2014-09-04T10:22:38.712+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1565427642585029622
 blogger_orig_url: http://www.marcusoft.net/2014/09/accountability.html
 ---

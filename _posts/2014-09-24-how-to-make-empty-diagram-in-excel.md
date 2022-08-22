@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make a empty diagram in Excel
-date: '2014-09-24T14:18:00.002+02:00'
+date: 2014-09-24T14:18:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-09-25T03:33:48.926+02:00'
+modified_time: 2014-09-25T03:33:48.926+02:00
 thumbnail: http://2.bp.blogspot.com/-kixtMADNPsg/VCJKEqjpWxI/AAAAAAAAHig/De1YqMiIcYc/s72-c/board.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2332663668202321971
 blogger_orig_url: http://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-excel.html
@@ -104,9 +104,6 @@ data-border="0" width="400" height="182" /></a>
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -187,9 +184,6 @@ data-border="0" width="640" height="392" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +210,6 @@ job!)
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Luck has nothing to do with it
-date: '2014-08-22T06:38:00.002+02:00'
+date: 2014-08-22T06:38:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Agile
-modified_time: '2014-08-22T06:38:46.973+02:00'
+modified_time: 2014-08-22T06:38:46.973+02:00
 thumbnail: http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s72-c/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1103084673136152864
 blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html ---
@@ -24,9 +24,6 @@ good news; because that means that we can control it, do something about
 it.
 
 I'll share a few stories and then some thoughts in this post.
-
-
-
 ### Example 1 - Clarinet players
 
 
@@ -102,9 +99,6 @@ had to wait a few weeks more. They were really unlucky.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -169,9 +163,6 @@ the IT ran stable and nice. 
 What happened at those deployment periods, do you think?  
 
 </div>
-
-
-
 -   Before them everyone was trying to get all the things they needed
     ready. Corners was cut
 -   During the deployment about 300 systems was deployed and changed at
@@ -204,9 +195,6 @@ data-border="0" width="400" height="168" /></a>
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -218,9 +206,6 @@ we just plan a little bit more ... next time will be without errors.
 </div>
 
 <div style="text-align: left;">
-
-
-
 </div>
 
 <div style="text-align: left;">
@@ -242,9 +227,6 @@ way, some of them goes against our expectation. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -273,9 +255,6 @@ topic of unexpected events</a> that I recommend.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -289,9 +268,6 @@ policies and ways of working. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -304,9 +280,6 @@ Procedure", roll out new training programs. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -320,9 +293,6 @@ Ever faster). The smaller changes you do the faster you can do them. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -335,9 +305,6 @@ today... 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

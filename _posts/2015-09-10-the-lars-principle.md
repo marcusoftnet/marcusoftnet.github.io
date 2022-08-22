@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Lars-principle"
-author: "Marcus Hammarberg"
+title: The Lars-principle
+author: Marcus Hammarberg
 date: 2015-09-10 09:53:04
 tags:
 

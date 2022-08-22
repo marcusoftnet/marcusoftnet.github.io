@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Move files at regular intervals on OSX
-date: '2013-08-19T15:05:00.002+02:00'
+date: 2013-08-19T15:05:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2013-08-19T15:05:55.135+02:00'
+modified_time: 2013-08-19T15:05:55.135+02:00
 thumbnail: http://1.bp.blogspot.com/-BxLlj7TR9Vg/UhISm_Lq0JI/AAAAAAAABmY/TNAiogmrJo8/s72-c/Screen+Shot+2013-08-19+at+14.41.50+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7696849555794418675
 blogger_orig_url: http://www.marcusoft.net/2013/08/move-files-at-regular-intervals-on-osx.html
@@ -26,9 +26,6 @@ I sync photos to DropBox and it fills up after awhile. And yes - I
 understand that this problem will come back for SkyDrive.
 
 Ok - here we go:
-
-
-
 ### Automating moving files 
 
 <table class="tr-caption-container" data-cellpadding="0"
@@ -63,15 +60,9 @@ open the Automator application. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -95,9 +86,6 @@ the area to the right. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -111,9 +99,6 @@ opportunities for the selection. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -140,9 +125,6 @@ items. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -163,9 +145,6 @@ src="http://4.bp.blogspot.com/-C59ead7LJrg/UhIUivOlvZI/AAAAAAAABmk/8ZDF8z8qxG4/s
 data-border="0" width="320" height="184" /></a>
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: left;">
 
 Save the application with a suitable name: MovePhotos.application for
@@ -187,9 +166,6 @@ terminal but hey - this is the graphical guide). 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

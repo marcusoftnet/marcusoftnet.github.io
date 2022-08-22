@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Cucumber / SpecFlow pro tip: push HOW down'
-date: '2013-04-17T08:00:00.000+02:00'
+title: Cucumber / SpecFlow pro tip: push HOW down'
+date: 2013-04-17T08:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Nancy - BDD - Test - Specification by example
   - Agile
   - SpecFlow
-modified_time: '2013-04-17T08:00:09.379+02:00'
+modified_time: 2013-04-17T08:00:09.379+02:00
 thumbnail: http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s72-c/pushing+how+down.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8179040185480084998
 blogger_orig_url: http://www.marcusoft.net/2013/04/PushTheHowDown.html
@@ -66,9 +66,6 @@ should be operated rather it's behavior. So you end up with scenarios
 like this:
 
 When all you really wanted to say was:
-
-
-
 <div>
 
 The first version has some merits:
@@ -160,9 +157,6 @@ risk that it rots, as all code does.
 
 Here's an example method from my DSL at the talk I gave at the CukeUp
 conference:
-
-
-
 Now wait a minute... I still don't see the HOW?! At least not if we're
 supposed to interact with a web page. Where is it?
 
@@ -181,9 +175,6 @@ Driver, that contains the Page Objects you might need. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -197,9 +188,6 @@ maintainable solution, in my opinion. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +204,6 @@ from the system. Of course drivers doesn't have to be run against web
 pages only. Here's another driver that interacts with the
 [Nancy](http://www.nancyfx.org/) [testing
 browser](http://www.marcusoft.net/2013/01/NancyTesting1.html):
-
-
-
 ### Conclusion and "was that really necessary?"
 
 Yes, there's a layered architecture right there. Here's how it looks in
@@ -233,9 +218,6 @@ src="http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s
 data-border="0" width="400" height="325" /></a>
 
 </div>
-
-
-
 1.  Gherkin - the business readable scenario with focus on behavior. No
     HOW in here.
 2.  Step definitions - simple, easy-to-understand realizations of the
@@ -263,9 +245,6 @@ excellent opportunity to catch bugs and inconsistencies early.
 I find this structure very helpful and I hope you do too.
 
 </div>
-
-
-
 </div>
 
 </div>

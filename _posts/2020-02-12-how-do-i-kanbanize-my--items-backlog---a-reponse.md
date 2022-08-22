@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How do I kanbanize my 300 items backlog - a response"
-author: "Marcus Hammarberg"
+title: How do I kanbanize my 300 items backlog - a response
+author: Marcus Hammarberg
 date: 2020-02-12 21:09:02
 tags:
 
@@ -70,9 +70,6 @@ The solution was very simple;
 
 * we created one lane - for work
 * work was defined as complete features. Instead of "FrontEnd List Account" and "BackEnd List Account" we called it "List account"
-
-
-
 I think we too early go to HOW and break things up in tasks that are needed to create the completed feature. Or break it up by functionality; back-end, database, UX, front-end or what have you.
 
 It's not done until all parts are done. To complete the work we all need to help each other.
@@ -86,9 +83,6 @@ In the words of Woody Zuill
 > \- Woody zuill
 
 Or in my words [When was Lars happy?](http://www.marcusoft.net/2019/09/when-was-lars-happy.html)
-
-
-
 Shorter; I always found it more benefically to group work by features, as viewed of the people that will use the feature.
 
 Grouping it by feature has the added benefit of our work being more likely to put in front of an user eariler. This means faster feedback and hence also more learning.
@@ -104,9 +98,6 @@ We can now take three different approaches:
 > Well... apparently these 300+ user stories are supposed to be done. So in that case we just pick any old one and start and once it's done the next one. Until we are done or we are out of time. We have in essence a waterfall project dressed up as agile.
 >
 > Let's all go home. They will screw us over anyway. Life is futile in general. Goodbye.
-
-
-
 I've been in more projects like these than I care to remember. You can notice if you're in one, by listening for a secret phrase:
 
 > Well... the order doesn't really matter. **Nothing is done until everything is done**
@@ -154,17 +145,11 @@ You'd be surprised how fast you will get to know if you got that wrong:
 >  WHAT?! Registrations per day to go UP?! Are you crazy? We wanted it to go down for ... {rant continues and you get to know a lot about the intelligence of you and your entire family, as percieved by your coworkers}
 
 To which you respond with zen-like silence, nod, takes notes and say thank you. You just got to know what the real business value was.
-
-
-
 If you got it right you probably will not hear a thing. Which is good since it means that you got it right. You might also get the highest praise:
 
 > Yes, of course that is what we want. What did you think?!
 
 Which again means that you got it right.
-
-
-
 Now start deliver some stories, start tracking your progress against the business value and always make a number of presenting that before you present flow metrics, in your recurring demos (you do do demos, right?).
 
 Let the discussions about business metric guide you for what to take next from the backlog, by keeping an eye on the deadline too so that we don't miss it.
@@ -200,9 +185,6 @@ I hear you, young padawan. Let's build our board - here's a few things I want yo
 * Finally put a WIP limit on the number of things that you are doing at the same time. There are some different ways to do that but my favourites are:
   * Never code alone - ensure that at least 2 people are always working on the tickets. This gets even more powerful now, if you don't have separate tasks but actually completed features
   * One less than us - have the work in process limit less than the number of people in the team, which will create an enabling constraint to force us to collaborate
-
-
-
 Now - once this is done start to generate some data for your work. This will be used to make predictions on and forecasts. This is easily done by simply noting "start" and "end"-dates for the work items. You can write it on the card if you want.
 
 For extra points also add a "Added to Next 10 column"-date. Armed with these simple data points you can actually get quite a lot of data and prognosis out. For free.

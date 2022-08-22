@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Teamplain rocks
-date: '2007-10-16T10:13:00.000+02:00'
+date: 2007-10-16T10:13:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - TFS
-modified_time: '2007-10-18T08:08:16.882+02:00'
+modified_time: 2007-10-18T08:08:16.882+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5630707529371928573
 blogger_orig_url: http://www.marcusoft.net/2007/10/teamplain-rocks.html
 ---

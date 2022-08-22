@@ -1,10 +1,11 @@
 ---
 layout: post
-title: I'm telling you for the last time - Marcus style
-date: '2013-11-20T15:00:00.000+01:00'
+title: I am telling you for the last time - Marcus style
+date: 2013-11-20T15:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
-  - BDD - Lean
+  - BDD
+  - Lean
   - Life of a consultant
   - Specification by example
   - Kanban
@@ -12,9 +13,10 @@ tags:
   - Agile
   - C#
   - SpecFlow
-modified_time: '2013-12-10T15:10:52.306+01:00'
+modified_time: 2013-12-10T15:10:52.306+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8456584150489726017
-blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html ---
+blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html
+---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
@@ -29,41 +31,34 @@ consultant contracts with my customers, but I don't have anything else
 to do... so I thought I'll make something up. Two things popped into my
 head:
 
--   last year when I did some [free presentations during a
+- last year when I did some [free presentations during a
     period](http://www.marcusoft.net/2012/12/have-presentations-will-travel.html)
-    between employments 
--   and the fact that I don't want to come back in 3 years and just
+    between employments
+- and the fact that I don't want to come back in 3 years and just
     continue with the same material
 
 |                                                                                                                        |
 |:----------------------------------------------------------------------------------------------------------------------:|
 |                                                           <a
-  href="http://ia.media-imdb.com/images/M/MV5BNDM4OTY0NTAyMF5BMl5BanBnXkFtZTcwNTcxMDQyMQ@@._V1_SY317_CR1,0,214,317_.jpg"
+  href="<http://ia.media-imdb.com/images/M/MV5BNDM4OTY0NTAyMF5BMl5BanBnXkFtZTcwNTcxMDQyMQ>@@._V1_SY317_CR1,0,214,317_.jpg"
                                                    data-imageanchor="1"
                    style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
-  src="http://ia.media-imdb.com/images/M/MV5BNDM4OTY0NTAyMF5BMl5BanBnXkFtZTcwNTcxMDQyMQ@@._V1_SY317_CR1,0,214,317_.jpg"
+  src="<http://ia.media-imdb.com/images/M/MV5BNDM4OTY0NTAyMF5BMl5BanBnXkFtZTcwNTcxMDQyMQ>@@._V1_SY317_CR1,0,214,317_.jpg"
                                      data-border="0" width="135" height="200" /></a>                                     |
 |                                   From [IMDB](http://www.imdb.com/title/tt0500140/)                                    |
 
 <div>
-
-
-
-
 People who read this blog knows that [I love
 constraints](http://www.marcusoft.net/2013/01/on-constraints.html), and
 people that know me knows that I'm a Seinfeld buff. He imposed a
 constraint on himself after 10-15 years in the business. He retired all
 of his jokes and went on a tour called ["I'm telling you for the last
 time"](http://www.imdb.com/title/tt0500140/). After that he started over
-with a blank sheet and never told those jokes again. 
+with a blank sheet and never told those jokes again.
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -76,23 +71,17 @@ new ways. I promise!
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 You can join me for one or more of the presentations 25 - 29 november
 2013. And as apposed from Seinfeld it's free. We'll also record it and
-you can catch it later. I will update the post with links later. 
+you can catch it later. I will update the post with links later.
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -103,34 +92,27 @@ have a company like [Aptitud](http://www.aptitud.se/) to back you up.
 The first time I posed the suggestion of doing something like this, us
 giving these presentations for free for example; their immediate
 reaction was just "YES! Awesome! Go for it!" Karma - that's what we run
-Aptitud on. 
+Aptitud on.
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 The idea is that we run a one hour lecture during lunch, just like the
 ordinary [Aptitud lunches](http://aptitud.eventbrite.com/). It's doesn't
-cost you anything (as always) but you might pick some stuff up. 
+cost you anything (as always) but you might pick some stuff up.
 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
 
 Here is the program for the week in question.
-
 
 </div>
 
@@ -296,9 +278,6 @@ stories - good and bad.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -312,7 +291,7 @@ to bring. Anders has promised to add canned laughter if any of the
 presentations draw zero people in the audience. So I hope for that
 too... :)
 
-This is the last time you'll hear these presentation from me. 
+This is the last time you'll hear these presentation from me.
 
 </div>
 

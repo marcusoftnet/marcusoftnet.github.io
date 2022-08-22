@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A post on the post on queue length"
-author: "Marcus Hammarberg"
+title: A post on the post on queue length
+author: Marcus Hammarberg
 date: 2017-12-12 11:06:32
 tags:
  - Lean

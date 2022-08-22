@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why the retrospective prime directive is paramount"
-author: "Marcus Hammarberg"
+title: Why the retrospective prime directive is paramount
+author: Marcus Hammarberg
 date: 2019-11-21 08:27:22
 tags:
 
@@ -23,15 +23,9 @@ Let me explain what I mean.
 The retrospective prime directive is originally written by Norm Kerth in Project Retrospectives: A Handbook for Team Review, all the way back in 2001. The same year as the [Agile Manifesto](http://agilemanifesto.org/) itself was written
 
 > Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
-
-
-
 This mirrors the lean mindset
 
 > Blame the system - never the people
-
-
-
 This is the stage that the Retrospective Prime Directive is setting for us.
 
 ## Marcus problem
@@ -49,9 +43,6 @@ Why care about this at all then? If it just makes me make feel awkward and uneas
 Well - if we are not in agreement with the scope of the retrospective as defined by the prime directive - then we are not solving systemic problems. We're just blaming people and ... I dunno ... rectify them.
 
 You go ahead and hold that meeting if you want. But 1) I don't know how to facilitate that meeting and 2) don't' want to be part of it.
-
-
-
 What do I mean; solving a systemic problem? Let me tell you a story. My friend Jonas was a plant manager for Scania. I went there many years ago for a study tour.
 
 Half a year before we came there they had a big incident in the plant. A worker put down his drill (with cord) on a nearby cupboard. There are strict rules about not doing that. There are well-defined places, indicated by dotted lines, where to hang all tools. But he did this anyway.

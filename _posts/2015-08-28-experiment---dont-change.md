@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Experiment - don't change"
-author: "Marcus Hammarberg"
+title: Experiment - don't change
+author: Marcus Hammarberg
 date: 2015-08-28 10:19:30
 tags:
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Great project started
-date: '2008-03-09T19:00:00.005+01:00'
+date: 2008-03-09T19:00:00.005+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private - SOA
   - Life of a consultant
-modified_time: '2008-03-10T11:19:48.760+01:00'
+modified_time: 2008-03-10T11:19:48.760+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2069792188809784994
 blogger_orig_url: http://www.marcusoft.net/2008/03/focus-or-not.html ---
 OK - this last two weeks has been intense. I've started a new project at

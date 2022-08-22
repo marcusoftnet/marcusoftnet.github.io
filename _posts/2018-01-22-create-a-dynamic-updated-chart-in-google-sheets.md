@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Create a dynamically updated chart in Google Sheets"
-author: "Marcus Hammarberg"
+title: Create a dynamically updated chart in Google Sheets
+author: Marcus Hammarberg
 date: 2018-01-22 13:47:04
 tags:
  - Tools

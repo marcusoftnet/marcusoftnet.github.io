@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "50 quick ideas to improve your tests - a review"
-author: "Marcus Hammarberg"
+title: 50 quick ideas to improve your tests - a review
+author: Marcus Hammarberg
 date: 2015-05-28 21:02:04
 tags:
 

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BDD on .NET Framework and where I learned about it
-date: '2011-07-09T21:02:00.002+02:00'
+date: 2011-07-09T21:02:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - Agile
-modified_time: '2011-09-14T09:31:18.229+02:00'
+modified_time: 2011-09-14T09:31:18.229+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7319819737087236385
 blogger_orig_url: http://www.marcusoft.net/2011/07/bdd-on-net-framework-and-where-i-learnt.html
 ---

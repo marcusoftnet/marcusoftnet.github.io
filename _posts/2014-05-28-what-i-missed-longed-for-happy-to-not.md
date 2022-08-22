@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I missed, longed for, happy to not have from fasting from social media
-date: '2014-05-28T06:00:00.003+02:00'
+date: 2014-05-28T06:00:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 
   - Indonesia
-modified_time: '2014-05-29T14:35:40.891+02:00'
+modified_time: 2014-05-29T14:35:40.891+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5858312803103136395
 blogger_orig_url: http://www.marcusoft.net/2014/05/what-i-missed-longed-for-happy-to-not.html
 ---
@@ -57,11 +57,8 @@ like
 does <a href="http://scriptcs.net/" target="_blank">ScriptCS</a>
 supports dynamic yet?"
 
-</div>
 
 
-
-<div>
 
 I missed the overview and flow of information that gives me a kind of
 news digest on what's happening. Like what are people talking about
@@ -69,11 +66,8 @@ around agile? Have
 <a href="http://www.koajs.com/" target="_blank">Koa</a> picked up yet in
 the main stream community?
 
-</div>
 
 
-
-<div>
 
 Mostly I've missed talking to people. How is Hugo doing? Did Emma
 succeed with her plans? Have Tobbe delivered that speech he was working
@@ -91,20 +85,14 @@ office, after lunch and when I get home. I will not install any apps to
 check social media for me, but will have to go through the "hassle" of
 opening a browser.
 
-</div>
 
 
-
-<div>
 
 I don't miss the stress of tweeting. "oh, this would make a great
 tweet". I will not tweet that anymore. My day to day life simple is not
 that interesting. I think.
 
 </div>
-
-
-
 |                                                                                              |
 |:--------------------------------------------------------------------------------------------:|
 |                                              <a
@@ -134,30 +122,21 @@ I will go back using social media (twitter foremost, facebook sparsely).
 Mostly because that's a good way to keep in touch with friends and
 family on the other side of the globe.
 
-</div>
 
 
-
-<div>
 
 But I will try to change my usage a bit. In the end I was mostly talking
 TO people and not WITH people. It not really the same thing. I miss
 talking with people.
 
-</div>
 
 
-
-<div>
 
 Oh, let's not be a total hypocrite, I miss to be able to draw some more
 traffic to my blog as well :). Yes, I'm vain in that way. No apologies
 
-</div>
 
 
-
-<div>
 
 See you other there. Now more carefully.
 

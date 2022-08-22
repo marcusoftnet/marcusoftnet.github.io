@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Short and sweet introduction to Dependency Injection
-date: '2009-10-09T12:56:00.001+02:00'
+date: 2009-10-09T12:56:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - .NET
-modified_time: '2009-10-09T12:56:35.667+02:00'
+modified_time: 2009-10-09T12:56:35.667+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5532432382492939392
 blogger_orig_url: http://www.marcusoft.net/2009/10/short-and-sweet-introduction-to.html
 ---

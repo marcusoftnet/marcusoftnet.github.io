@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'For the Indonesian War Cry: Achieve more by
+title: For the Indonesian War Cry: Achieve more by
 doing less'
-date: '2014-03-18T08:42:00.003+01:00'
+date: 2014-03-18T08:42:00.003+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
 
   - Salvation Army
   - Indonesia
-modified_time: '2014-03-18T08:42:36.437+01:00'
+modified_time: 2014-03-18T08:42:36.437+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5247113248900127168
 blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-achieve-more-by.html
 ---
@@ -42,9 +42,6 @@ Indonesian War Cry. <a
 href="http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html"
 target="_blank">You can read the first here.</a> This article is about
 Achieving more by doing less. I hope you like it.
-
-
-
 ### Achieving more by doing less
 
 In my <a href="http://achieve/" target="_blank">last article</a> I
@@ -97,9 +94,6 @@ style="white-space: pre;"> 10
 
 As a special treat to you people reading this online I include this as
 simulated exercise here:
-
-
-
 <div style="margin-bottom: 5px;">
 
 **<a

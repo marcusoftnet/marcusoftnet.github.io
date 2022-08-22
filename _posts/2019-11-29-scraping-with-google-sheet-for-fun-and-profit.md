@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Scraping with Google Sheets for fun and profit"
-author: "Marcus Hammarberg"
+title: Scraping with Google Sheets for fun and profit
+author: Marcus Hammarberg
 date: 2019-11-29 10:33:34
 tags:
  - Tools

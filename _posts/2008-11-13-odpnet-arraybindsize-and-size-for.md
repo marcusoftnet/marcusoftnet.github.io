@@ -1,12 +1,12 @@
 ---
 layout: post
 title: ODP.NET - ArrayBindSize and Size for PLSQLAssociativeArrays
-date: '2008-11-13T10:58:00.003+01:00'
+date: 2008-11-13T10:58:00.003+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: '2010-12-14T16:23:30.903+01:00'
+modified_time: 2010-12-14T16:23:30.903+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5487802933639404013
 blogger_orig_url: http://www.marcusoft.net/2008/11/odpnet-arraybindsize-and-size-for.html
 ---

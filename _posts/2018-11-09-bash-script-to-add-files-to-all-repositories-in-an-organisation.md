@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bash script to add file(s) to all repositories in an organisation"
-author: "Marcus Hammarberg"
+title: Bash script to add file(s) to all repositories in an organisation
+author: Marcus Hammarberg
 date: 2018-11-09 14:10:45
 tags:
  - Programming

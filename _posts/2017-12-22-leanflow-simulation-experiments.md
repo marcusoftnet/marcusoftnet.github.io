@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lean/flow simulation experiments"
-author: "Marcus Hammarberg"
+title: Lean/flow simulation experiments
+author: Marcus Hammarberg
 date: 2017-12-22 11:09:11
 tags:
 

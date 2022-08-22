@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Saying thank you for agile manifesto"
-author: "Marcus Hammarberg"
+title: Saying thank you for agile manifesto
+author: Marcus Hammarberg
 date: 2015-03-30 14:00:49
 tags:
 

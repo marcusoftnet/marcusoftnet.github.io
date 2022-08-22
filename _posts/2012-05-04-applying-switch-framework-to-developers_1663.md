@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Applying the Switch framework to developers don’t want to write tests–part III
-date: '2012-05-04T12:00:00.000+02:00'
+date: 2012-05-04T12:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
@@ -10,7 +10,7 @@ tags:
   - Agile
 
   - TDD
-modified_time: '2012-05-04T12:00:05.962+02:00'
+modified_time: 2012-05-04T12:00:05.962+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8461407434616449279
 blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_1663.html
 ---

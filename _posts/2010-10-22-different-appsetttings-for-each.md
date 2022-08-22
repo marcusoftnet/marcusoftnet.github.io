@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Different appSetttings for each developer in the team - part II
-date: '2010-10-22T10:23:00.002+02:00'
+date: 2010-10-22T10:23:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
 
   - Visual Studio
-modified_time: '2010-12-14T16:17:50.660+01:00'
+modified_time: 2010-12-14T16:17:50.660+01:00
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
 blogger_orig_url: http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
@@ -49,9 +49,6 @@ we want to override. Please note that this only contains . No -nodes in
 here. Here is what it looks like:
 
 </div>
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -60,11 +57,8 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s320/localsettings.JPG"
 data-border="0" width="320" height="50" /></a>
 
-</div>
 
 
-
-<div>
 
 We then changed the app.config to contain our standard configuration and
 to point to the localAppSettings.config. Please note that the path is
@@ -88,11 +82,8 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TMFGSxbnL1I/AAAAAAAAAo0/jof6Ic7_xOA/s320/app+config.JPG"
 data-border="0" width="320" height="118" /></a>
 
-</div>
 
 
-
-<div>
 
 Finally we set the localAppSettings.config to be excluded from source
 control as I explained [in the last
@@ -108,11 +99,8 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGSL1yu3I/AAAAAAAAAow/TVmTgoHVyns/s1600/solution.JPG"
 data-border="0" /></a>
 
-</div>
 
 
-
-<div>
 
 This solution is much nicer with a lower impact for everyone...
 including the build server.

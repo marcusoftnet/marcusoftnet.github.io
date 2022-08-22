@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Albert preparing for the summer
-date: '2009-06-04T16:58:00.001+02:00'
+date: 2009-06-04T16:58:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2009-06-04T16:58:31.493+02:00'
+modified_time: 2009-06-04T16:58:31.493+02:00
 thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/SifgmtdviRI/AAAAAAAAAF0/vn-PrNvgszw/s72-c/DSC_0948_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2014217854424829974
 blogger_orig_url: http://www.marcusoft.net/2009/06/albert-preparing-for-summer.html ---

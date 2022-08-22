@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parental leave reading
-date: '2009-07-22T20:02:00.001+02:00'
+date: 2009-07-22T20:02:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - DDD
@@ -10,7 +10,7 @@ tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2009-07-22T20:03:25.891+02:00'
+modified_time: 2009-07-22T20:03:25.891+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4098259383771149911
 blogger_orig_url: http://www.marcusoft.net/2009/07/parental-leave-reading.html ---
 

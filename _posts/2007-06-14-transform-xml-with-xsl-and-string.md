@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Transform XML with XSL, and string
-date: '2007-06-14T08:55:00.000+02:00'
+date: 2007-06-14T08:55:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
-modified_time: '2007-06-14T13:43:29.854+02:00'
+modified_time: 2007-06-14T13:43:29.854+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5447969887586774494
 blogger_orig_url: http://www.marcusoft.net/2007/06/transform-xml-with-xsl-and-string.html
 ---

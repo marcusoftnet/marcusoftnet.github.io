@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Enterprise Library, OracleTypes and their mapping
-date: '2008-08-27T08:46:00.003+02:00'
+date: 2008-08-27T08:46:00.003+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Life of a consultant
-modified_time: '2010-12-14T16:23:30.932+01:00'
+modified_time: 2010-12-14T16:23:30.932+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9201356354710801780
 blogger_orig_url: http://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html
 ---

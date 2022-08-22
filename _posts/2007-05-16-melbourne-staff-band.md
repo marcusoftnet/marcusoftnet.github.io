@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Melbourne Staff Band
-date: '2007-05-16T07:36:00.000+02:00'
+date: 2007-05-16T07:36:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - BrassBand
   - Salvation Army
-modified_time: '2007-05-16T07:42:44.022+02:00'
+modified_time: 2007-05-16T07:42:44.022+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5063438253513106643
 blogger_orig_url: http://www.marcusoft.net/2007/05/melbourne-staff-band.html
 ---
@@ -18,19 +18,5 @@ than just a concert outfit... Just think what could be done surrounding
 a story or a sketch. I'll have to do something about that i think...
 
 Well here you go in the right order:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

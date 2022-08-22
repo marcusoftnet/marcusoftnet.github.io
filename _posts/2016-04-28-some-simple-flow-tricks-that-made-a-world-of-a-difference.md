@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some simple changes for flow that made a world of a difference"
-author: "Marcus Hammarberg"
+title: Some simple changes for flow that made a world of a difference
+author: Marcus Hammarberg
 date: 2016-04-28 11:42:02
 tags:
  - Lean

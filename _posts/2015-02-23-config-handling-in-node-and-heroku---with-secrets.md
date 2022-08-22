@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Config handling in Node and Heroku - with secrets"
-author: "Marcus Hammarberg"
+title: Config handling in Node and Heroku - with secrets
+author: Marcus Hammarberg
 date: 2015-02-23 07:54:45
 tags:
  - Javascript

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Brickell Key Award - I am nominated!"
-author: "Marcus Hammarberg"
+title: The Brickell Key Award - I am nominated!
+author: Marcus Hammarberg
 date: 2016-04-05 19:32:44
 tags:
 

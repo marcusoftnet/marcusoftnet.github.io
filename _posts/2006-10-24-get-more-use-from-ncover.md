@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Get more use from NCover
-date: '2006-10-24T13:16:00.000+02:00'
+date: 2006-10-24T13:16:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: '2010-12-14T16:22:38.412+01:00'
+modified_time: 2010-12-14T16:22:38.412+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116168904231987814
 blogger_orig_url: <http://www.marcusoft.net/2006/10/get-more-use-from-ncover.html>l>
 ---
@@ -24,7 +24,7 @@ is not very easily understood, don't give you any overviews and is not
 easy to trace back to the code.
 
 So, with this background my eyes was running with tears when i found
-NCoverExplorer. A truly great and useful utility. And goodlooking to
+NCoverExplorer. A truly great and useful utility. And good-looking to
 :-)
 
 Be sure to get hold of the tool today:

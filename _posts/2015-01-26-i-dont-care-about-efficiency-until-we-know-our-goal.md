@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Things I say often: I don't care about efficiency"
-author: "Marcus Hammarberg"
+title: Things I say often: I don't care about efficiency
+author: Marcus Hammarberg
 date: 2015-01-26 11:00:49
 tags:
 

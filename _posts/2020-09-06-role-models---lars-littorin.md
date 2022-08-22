@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Role Models - Lars Littorin - the senior consultant"
-author: "Marcus Hammarberg"
+title: Role Models - Lars Littorin - the senior consultant
+author: Marcus Hammarberg
 date: 2020-09-06 16:41:26
 tags:
   - Life of a consultant

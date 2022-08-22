@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What is important, really?"
-author: "Marcus Hammarberg"
+title: What is important, really?
+author: Marcus Hammarberg
 date: 2016-02-21 15:33:38
 tags:
 

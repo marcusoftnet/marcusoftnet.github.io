@@ -1,12 +1,12 @@
 ---
 layout: post
 title: WebCasts on all things agile
-date: '2009-10-12T14:25:00.001+02:00'
+date: 2009-10-12T14:25:00.001+02:00
 author: Marcus Hammarberg
 tags:
 
   - Agile
-modified_time: '2009-10-12T15:05:41.345+02:00'
+modified_time: 2009-10-12T15:05:41.345+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4485896415444043703
 blogger_orig_url: http://www.marcusoft.net/2009/10/webcasts-on-all-things-agile.html ---
 

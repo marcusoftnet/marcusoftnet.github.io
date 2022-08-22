@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Electronic process management tools - proceed with care"
-author: "Marcus Hammarberg"
+title: Electronic process management tools - proceed with care
+author: Marcus Hammarberg
 date: 2016-03-04
 tags:
 

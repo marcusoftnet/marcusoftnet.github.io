@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The data source '' only supports a single view named 'DefaultView'
-date: '2008-01-04T10:16:00.000+01:00'
+date: 2008-01-04T10:16:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - LINQ
-modified_time: '2008-01-04T10:21:34.024+01:00'
+modified_time: 2008-01-04T10:21:34.024+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2553240381198016864
 blogger_orig_url: http://www.marcusoft.net/2008/01/data-source-only-supports-single-view.html
 ---

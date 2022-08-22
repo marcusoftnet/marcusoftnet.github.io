@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Pastie – your online clipboard
-date: '2009-09-08T15:46:00.001+02:00'
+date: 2009-09-08T15:46:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2010-12-14T16:22:38.190+01:00'
+modified_time: 2010-12-14T16:22:38.190+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4848642135039676921
 blogger_orig_url: http://www.marcusoft.net/2009/09/pastie-your-online-clipboard.html ---
 

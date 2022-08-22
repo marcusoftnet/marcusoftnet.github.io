@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Testing with Claudia"
-author: "Marcus Hammarberg"
+title: Testing with Claudia
+author: Marcus Hammarberg
 date: 2016-04-03 21:00:57
 tags:
  - Tools

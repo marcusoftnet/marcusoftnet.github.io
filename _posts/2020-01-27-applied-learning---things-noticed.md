@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Applied learning - things noticed"
-author: "Marcus Hammarberg"
+title: Applied learning - things noticed
+author: Marcus Hammarberg
 date: 2020-01-27 09:18:28
 tags:
  - Programming
@@ -57,17 +57,11 @@ This is not an error by or bug in the educational system. It's entirely by desig
 The first day at my first job we were checking in code into a source repository using [Visual SourceSafe](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe) (look it up, kids - it's a world of ~~hurt~~ fun), and then built a binary package that went to an integration build pipeline for later deployment onto an Acceptance Test environment. I didn't do any of that in university.
 
 University studies are theoretical and meant to prepare you for a continued academic career. I didn't follow that path and ended up having to make the jump between theory and practice by myself while working. The knowledge was there but the application of it had never (or rarely) been done.
-
-
-
 In our accelerated career program, we train developers the opposite way. We introduce a concept, just too little of it. No, I'm not kidding - it's quite painful to do. REST API - 25-minute lecture. Functional programming - 20 minutes. Test-driven development - 10 minutes. All these topics took me years, some we spent entire semesters going through in university.
 
 But here's the kick; right after you get the 25 minutes introduction to REST you are then thrown into an exercise where you get to apply the knowledge, in a professional team setting within a team that you will need to cooperate with. Not seldom the things you build on Tuesday are built on top of the things you did on Monday - so learning is mandatory.
 
 The learning is fast, and often quite frustrating. Much like many of the best days I had had (looking back) at work. I can't count the number of times I've gone home from a task frustrated just to find a (better) solution the day after. Or looking back at gigs with many days like that as `the best I ever had`.
-
-
-
 We are training in an antifragile way; we are putting heavy stressors onto the individuals and teams, support them to overcome them. At the end of the career program, they have not only a lot of applied knowledge but also, more important, great skills in learning.
 
 ## Narrower and deeper over wider and shallower
@@ -118,9 +112,6 @@ and then:
 > Dev: I'm supporting the app. It's me this other guy
 
 That is amazing but also a testament to what they have learned. They came out ready to start to work in a team. No to little onboarding needed. But more importantly; they know how to learn and apply their knowledge fast.
-
-
-
 We are training the developers to be antifragile - to be ready and prepared for being confused, making errors and picking up new things every day. And sharing, explaining and deepening their knowledge together with others. Because that's how our days at the school are designed. Also, funnily enough, that's how software development most days has felt for me.
 
 ## But how? Immersive
@@ -142,9 +133,6 @@ Interesting (and a little bit scary - let me get back to this) enough every pers
 > My girlfriend woke up by me screaming CALLBACKS out loud.
 
 They become like first time parents - they can only talk about that one thing. It's fascinating to see and really annoying to talk to. I mean, I'm geeky and all but could we please talk about something else than [ternary if statements](https://appliedtechnology.github.io/protips/ternary-operator) and [asynchronous code](https://appliedtechnology.github.io/protips/asyncOptions)... just for a while.
-
-
-
 Full disclosure - I feel a bit bad about pushing people to this point. I would never dream of doing this too people, and often tell the developers that I would never make it through this program. So why do we do this to them?
 
 Because this is a once in a lifetime thing. They have come here to re-boot their careers and in some cases live. You can immerse yourself like this, willingly, once in your life. The price is big - a new career in a field you want to pursue.

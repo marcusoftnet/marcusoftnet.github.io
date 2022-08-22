@@ -2,12 +2,12 @@
 layout: post
 title: Export all images from a Word (.doc) document
 ... and rename them
-date: '2013-07-29T10:50:00.001+02:00'
+date: 2013-07-29T10:50:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2013-07-29T10:50:31.650+02:00'
+modified_time: 2013-07-29T10:50:31.650+02:00
 thumbnail: http://1.bp.blogspot.com/-B2MKCS6z8U8/UfYsaPJa9_I/AAAAAAAABjs/0WLSFog_0ig/s72-c/Screen+Shot+2013-07-29+at+10.48.11+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7497639516539350498
 blogger_orig_url: http://www.marcusoft.net/2013/07/export-all-images-from-word-doc.html
@@ -23,9 +23,6 @@ very much. Oh yeah, if you could name them CH01_01.png, CH01_02.png etc
 it would be great."
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -41,9 +38,6 @@ Yes I felt a bit like:
 <div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -65,9 +59,6 @@ This post describes how I did. It took me about 2 hours all together.
 </div>
 
 <div>
-
-
-
 ### Export all files in a Word document
 
 </div>
@@ -111,9 +102,6 @@ Action</a> is graphic-heavy!
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

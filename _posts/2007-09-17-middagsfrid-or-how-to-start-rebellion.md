@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Middagsfrid - or how to start a rebellion among your parents
-date: '2007-09-17T08:29:00.000+02:00'
+date: 2007-09-17T08:29:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2007-09-18T08:07:45.257+02:00'
+modified_time: 2007-09-18T08:07:45.257+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-436677869737422669
 blogger_orig_url: http://www.marcusoft.net/2007/09/middagsfrid-or-how-to-start-rebellion.html
 ---

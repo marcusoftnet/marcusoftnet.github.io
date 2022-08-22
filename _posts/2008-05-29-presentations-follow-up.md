@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Presentations follow up
-date: '2008-05-29T07:30:00.001+02:00'
+date: 2008-05-29T07:30:00.001+02:00
 author: Marcus Hammarberg tags:
-modified_time: '2008-05-29T07:30:13.864+02:00'
+modified_time: 2008-05-29T07:30:13.864+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5439936308992650437
 blogger_orig_url: http://www.marcusoft.net/2008/05/presentations-follow-up.html ---
 

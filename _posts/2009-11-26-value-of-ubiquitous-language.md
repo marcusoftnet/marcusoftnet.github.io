@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The value of an ubiquitous language
-date: '2009-11-26T09:22:00.001+01:00'
+date: 2009-11-26T09:22:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - DDD -
@@ -9,7 +9,7 @@ SOA
   - Life of a consultant
 
   - Agile
-modified_time: '2009-11-26T09:24:18.509+01:00'
+modified_time: 2009-11-26T09:24:18.509+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-611891532521926659
 blogger_orig_url: http://www.marcusoft.net/2009/11/value-of-ubiquitous-language.html ---
 

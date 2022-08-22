@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Principles and practices, guilds and cross-functional teams"
-author: "Marcus Hammarberg"
+title: Principles and practices, guilds and cross-functional teams
+author: Marcus Hammarberg
 date: 2019-02-18 18:28:48
 tags:
 
@@ -47,17 +47,11 @@ The good news of that approach is that each silo can ensure their values being a
 The bad part with this approach is that it [doesn't work](http://www.marcusoft.net/2017/11/no-waterfall-is-not-sometimes-correct-it-is-always-wrong.html), creates sub-optimal, is very slow and cannot handle change well. Also, it creates many hand-overs and culture of someone ordering something and others (downstream) fulfilling that order.
 
 Just about all the things that we want out of a process for *developing* something. Fast feedback and the possibility to change frequently and fast.
-
-
-
 Therefore many companies nowadays create *cross* functional teams, with responsibilities for the effect of the outcome of their work. Often they are responsible for a business capability such as order fulfilment or search or something similar. Work then can be completed within the bounds of one such team. If not we change the work to fit that structure, by breaking it down.
 
 <img style="width:100%" src="/img/CrossFunctionalTeam.png">
 
 The good news with this is that we now have everyone we need within the same unit, it's fast to make a decision and complete work. But foremost we can change how we work within this team in order to accommodate our situation and style.
-
-
-
 The bad news is ... the purpose of this blog post. Because how do we now ensure that, for example, our architecture is followed, that everyone understands the security situation or that we all are keeping up to date with regulatory demands?
 
 ### Principles and practices
@@ -73,9 +67,6 @@ A [guild in the olden days](https://en.wikipedia.org/wiki/Guild) was an
 The guild hence was a place to learn new things, get together and decide on common ways. However, when the blacksmith, carpenter or mason got back home to their shop - the actual implementation of those ideas was up to them.
 
 Without knowing too much I can envision the masons getting together and deciding on a   good way to build an archway to make it strong and solid. But how that was put together, the kind of bricks, the kind of mortar or the order in which the bricks were laid - was something that each mason decided on the job.
-
-
-
 The **guild** is therefor a good analogy for what we want to accomplish in these cross-team groups; they are perfectly equipped for **making decisions on a principal level**. They have representation from all teams (in most cases) and gather around the special interest.
 
 <img style="width:100%" src="/img/GuildsPrinciples.png">
@@ -95,9 +86,6 @@ Marcus: So, did you get started converting your internal HTTP calls to Rabbit MQ
 Anna: Oh, no. That will probably have to wait a while for us. We have many things up in the air right now. In a month or so. You guys, what did you do?
 
 Marcus: Ah, we might not do that at all for some of our services. The Rabbit MQ support for VB6 is not that great, hehe. It's better to maintain it and then switch over as we take those old services down.
-
-
-
 Did you notice how the guild decided a principle but the teams took responsibility for how and when that would be built? Just as it was intended. The teams know their particular situation and context best. Guided by the support and principles from the guild they could then make informed decisions on how to turn those principles into practices.
 
 ## Summary

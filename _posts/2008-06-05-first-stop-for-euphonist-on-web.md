@@ -1,11 +1,11 @@
 ---
 layout: post
 title: First stop for euphonist on the web
-date: '2008-06-05T14:32:00.005+02:00'
+date: 2008-06-05T14:32:00.005+02:00
 author: Marcus Hammarberg
 tags:
   - Euphonium
-modified_time: '2008-06-05T14:59:05.787+02:00'
+modified_time: 2008-06-05T14:59:05.787+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2005722504554064702
 blogger_orig_url: http://www.marcusoft.net/2008/06/first-stop-for-euphonist-on-web.html
 ---

@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Alone in the office
-date: '2006-11-03T13:21:00.000+01:00'
+date: 2006-11-03T13:21:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
-modified_time: '2006-11-03T13:26:54.339+01:00'
+modified_time: 2006-11-03T13:26:54.339+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-558442394067670738
 blogger_orig_url: http://www.marcusoft.net/2006/11/alone-in-office.html
 ---
@@ -23,12 +22,6 @@ people either don't work at all or that they work half the day.
 
 </div>
 
-
-
-
-
-
-
 <div>
 
 But .... you've guessed it. As a consultant those rules don't apply. We
@@ -38,14 +31,6 @@ struggling to keep the tempo up.
 
 </div>
 
-
-
-
-
-
-
 <div>
 
-Above you find a picture of my empty office.
-
-</div>
+Above

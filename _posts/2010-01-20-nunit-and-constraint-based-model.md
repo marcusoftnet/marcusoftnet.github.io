@@ -1,13 +1,13 @@
 ---
 layout: post
 title: NUnit and the constraint based model
-date: '2010-01-20T11:01:00.001+01:00'
+date: 2010-01-20T11:01:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - TDD
-modified_time: '2010-12-14T16:22:38.169+01:00'
+modified_time: 2010-12-14T16:22:38.169+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7963168812570339592
 blogger_orig_url: http://www.marcusoft.net/2010/01/nunit-and-constraint-based-model.html
 ---

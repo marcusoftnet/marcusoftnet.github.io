@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The “talk about later”-list
-date: '2014-06-03T06:59:00.001+02:00'
+date: 2014-06-03T06:59:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
@@ -9,7 +9,7 @@ tags:
   - Kanban
   - Agile
   - Salvation Army
-modified_time: '2014-06-03T06:59:30.112+02:00'
+modified_time: 2014-06-03T06:59:30.112+02:00
 thumbnail: http://lh4.ggpht.com/-q-cGsE2G1kc/U41RJdC9isI/AAAAAAAAD7M/QuCxsovKKTY/s72-c/Aesop_pushkin01_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4443794205082562848
 blogger_orig_url: http://www.marcusoft.net/2014/06/the-talk-about-later-list.html ---
@@ -49,9 +49,6 @@ career. Most recently yesterday.
 
 In this post I wanted to show you how I handle this in a more structured
 way.
-
-
-
 Right now I’m involved in handling an emergency situation. It’s
 literarily closing the business at stake here.  We have put an emergency
 team into place and we have the full attention from the company

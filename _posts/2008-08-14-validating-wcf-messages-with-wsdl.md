@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Validating WCF-messages with WSDL
-date: '2008-08-14T07:59:00.005+02:00'
+date: 2008-08-14T07:59:00.005+02:00
 author: Marcus Hammarberg
 tags:
   - SOA
   - WCF
-modified_time: '2008-08-14T08:33:51.879+02:00'
+modified_time: 2008-08-14T08:33:51.879+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6621610237746349724
 blogger_orig_url: http://www.marcusoft.net/2008/08/validating-wcf-messages-with-wsdl.html
 ---

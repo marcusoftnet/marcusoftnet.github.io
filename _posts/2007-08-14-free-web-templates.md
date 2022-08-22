@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Free web templates
-date: '2007-08-14T12:14:00.000+02:00'
+date: 2007-08-14T12:14:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Web Design
   - Life of a consultant
-modified_time: '2007-08-14T12:16:44.873+02:00'
+modified_time: 2007-08-14T12:16:44.873+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8280056095395249751
 blogger_orig_url: http://www.marcusoft.net/2007/08/free-web-templates.html
 ---

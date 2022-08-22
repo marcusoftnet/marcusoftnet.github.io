@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KanbanStats: Simplify process stats - get started"
-author: "Marcus Hammarberg"
+title: KanbanStats: Simplify process stats - get started
+author: Marcus Hammarberg
 date: 2019-01-04 11:40:19
 tags:
 

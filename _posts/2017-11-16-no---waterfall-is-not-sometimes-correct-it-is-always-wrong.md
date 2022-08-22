@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "No - waterfall is not sometimes correct. It is always wrong"
-author: "Marcus Hammarberg"
+title: No - waterfall is not sometimes correct. It is always wrong
+author: Marcus Hammarberg
 date: 2017-11-16 10:41:45
 tags:
 

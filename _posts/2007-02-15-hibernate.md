@@ -1,11 +1,11 @@
 ---
 layout: post
 title: NHibernate
-date: '2007-02-15T14:23:00.001+01:00'
+date: 2007-02-15T14:23:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET - NHibernate
-modified_time: '2010-01-29T13:51:21.367+01:00'
+modified_time: 2010-01-29T13:51:21.367+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8056115601936291389
 blogger_orig_url: http://www.marcusoft.net/2007/02/hibernate.html ---
 OK - it is now official. I am in love!

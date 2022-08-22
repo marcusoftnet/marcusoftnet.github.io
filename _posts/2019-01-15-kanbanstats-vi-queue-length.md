@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "KanbanStats VI: Queue length"
-author: "Marcus Hammarberg"
+title: KanbanStats VI: Queue length
+author: Marcus Hammarberg
 date: 2019-01-15 08:16:49
 tags:
 
@@ -95,9 +95,6 @@ First - to get the name of the column per status.
 * The last parameter (`FALSE`) indicates if the values are sorted or not. Not in our case.
 
 So basically we are looking up the column name for each status with a count.
-
-
-
 Ok - so now we know what column-name each column, with a count, has... now we can easily aggregate the total number of items in each _column_ .
 
 First I get the `UNIQUE`-column names and put them into column `G` (`=SORT(UNIQUE(F2:F))`). Notice how I easily can sort it too, as I gave it a number as well as a name.
@@ -113,9 +110,6 @@ The total number of items per can now be calculated by summarizing all with a ce
 * And then summarize the values in the `E`-column
 
 Easy peasy.
-
-
-
 And we can now very easily make a chart that is a bit underwhelming:
 
 ![Queue length per column on the board](/img/queueLengthPerColumn.png)
@@ -157,13 +151,7 @@ In this post, we measured the length of each queue or column on the board. After
 ### Thoughts on what we achieved and going forward
 
 There's still other data and dimensions that I haven't got to yet (like lead time for blocked items etc.) but I feel the need for historical data to do that and even with Queue length it's feeling underwhelming without plotting the changes over time. Just getting to know that the "Backlog" contains 80 items right now is not that interesting if I have nothing to compare it to. What was it before? How has it developed over time? Is 80 good or bad? It's awesome if it was 800 a month ago, but crap if 80 is the highest point we've seen the last six months... It's the answer to the famous "It depends...".
-
-
-
 And that brings us to the next natural development of this sheet. My goal was to extract a lot of different views from a simple export of the items of an electronic system like TFS or JIRA and that we have achieved.
-
-
-
 But ... it's just a point in history. We could do much more if we, for example, counted the number of items in each column on the board each day. With that data, we can create a very powerful visualization called a cumulative flow diagram; where we can see both the lead time, work in process but also how a lower work in process leads to faster flow etc.
 
 But, as said, we can't get there without count the items on the board every day. What I've shown you in this blog series has been the data you can extract from just a single export of data.

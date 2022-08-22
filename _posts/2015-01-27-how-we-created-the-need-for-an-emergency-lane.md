@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How we created the need for an emergency lane"
-author: "Marcus Hammarberg"
+title: How we created the need for an emergency lane
+author: Marcus Hammarberg
 date: 2015-01-27 08:49:14
 tags:
 

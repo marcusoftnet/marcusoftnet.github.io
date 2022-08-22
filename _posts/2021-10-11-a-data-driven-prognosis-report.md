@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A data-driven prognosis report"
-author: "Marcus Hammarberg"
+title: A data-driven prognosis report
+author: Marcus Hammarberg
 date: 2021-10-11 15:04:16
 tags:
 
@@ -141,9 +141,6 @@ That means that the second rows formula looks like this:
 Take the value from the G2-cell and add it to the value of the row above: `15% + 0.54% = 15.54%`. For the probable and best scenarios, I did the same thing but using those percentiles.
 
 The final column is the actual value, where I used my original data, which I based the prognosis on. It shows what *actually* happened and makes a nice little addition to the prognosis to see where we are today.
-
-
-
 But I don't have all the dates in that list so I will use the latest value I have until a new is discovered:
 
 ```text

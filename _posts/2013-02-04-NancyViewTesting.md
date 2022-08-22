@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Nancy.Testing - testing (razor) views
-date: '2013-02-04T08:48:00.000+01:00'
+date: 2013-02-04T08:48:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
   - .NET
   - C#
-modified_time: '2014-06-21T02:09:55.449+02:00'
+modified_time: 2014-06-21T02:09:55.449+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1820569848746353017
 blogger_orig_url: http://www.marcusoft.net/2013/02/NancyViewTesting.html
 ---
@@ -25,10 +25,6 @@ it "just worked". And it does but... well read on. It's really simple.
 
 
 Keeping the story short - let's cut to the code:
-
-
-
-
 There's some really important settings to make here. If you don't you'll
 end up with an (as always in Nancy btw) excellent error message,
 something like this:

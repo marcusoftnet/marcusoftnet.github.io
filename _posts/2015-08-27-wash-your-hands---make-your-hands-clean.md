@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Wash your hands - make your hands clean"
-author: "Marcus Hammarberg"
+title: Wash your hands - make your hands clean
+author: Marcus Hammarberg
 date: 2015-08-27 08:04:21
 tags:
 

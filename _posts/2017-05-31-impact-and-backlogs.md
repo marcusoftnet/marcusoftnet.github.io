@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Impacts or backlogs"
-author: "Marcus Hammarberg"
+title: Impacts or backlogs
+author: Marcus Hammarberg
 date: 2017-05-31 13:12:24
 tags:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Backlog and features"
-author: "Marcus Hammarberg"
+title: Backlog and features
+author: Marcus Hammarberg
 date: 2016-06-13 12:59:58
 tags:
 

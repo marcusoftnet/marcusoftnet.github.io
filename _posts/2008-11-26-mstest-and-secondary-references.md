@@ -1,11 +1,11 @@
 ---
 layout: post
 title: MSTest and secondary references
-date: '2008-11-26T16:05:00.001+01:00'
+date: 2008-11-26T16:05:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - MSBuild
-modified_time: '2010-12-14T16:20:33.231+01:00'
+modified_time: 2010-12-14T16:20:33.231+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7988372363087173666
 blogger_orig_url: http://www.marcusoft.net/2008/11/mstest-and-secondary-references.html
 ---

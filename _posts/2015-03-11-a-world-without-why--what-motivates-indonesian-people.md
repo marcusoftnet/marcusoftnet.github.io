@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A world without WHY"
-author: "Marcus Hammarberg"
+title: A world without WHY
+author: Marcus Hammarberg
 date: 2015-03-11 11:30:48
 tags:
  - Leadership

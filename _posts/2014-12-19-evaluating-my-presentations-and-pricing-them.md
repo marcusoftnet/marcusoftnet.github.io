@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Evaluating my presentations... and pricing them?"
-author: "Marcus Hammarberg"
+title: Evaluating my presentations... and pricing them?
+author: Marcus Hammarberg
 date: 2014-12-19 18:04:46
 tags:
 - Agile

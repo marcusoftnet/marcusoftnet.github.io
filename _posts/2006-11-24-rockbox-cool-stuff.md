@@ -1,11 +1,11 @@
 ---
 layout: post
 title: RockBox - cool stuff
-date: '2006-11-24T08:35:00.000+01:00'
+date: 2006-11-24T08:35:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2006-11-24T08:45:31.830+01:00'
+modified_time: 2006-11-24T08:45:31.830+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8235260567718952117
 blogger_orig_url: http://www.marcusoft.net/2006/11/rockbox-cool-stuff.html
 ---

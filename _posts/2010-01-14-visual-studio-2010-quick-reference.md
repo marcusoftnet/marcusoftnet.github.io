@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Visual Studio 2010 Quick Reference
-date: '2010-01-14T08:57:00.001+01:00'
+date: 2010-01-14T08:57:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
-modified_time: '2010-12-14T16:18:09.701+01:00'
+modified_time: 2010-12-14T16:18:09.701+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-844459153530787225
 blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-quick-reference.html
 ---

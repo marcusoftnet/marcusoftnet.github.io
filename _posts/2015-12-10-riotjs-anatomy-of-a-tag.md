@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Riot.js: anatomy of a tag"
-author: "Marcus Hammarberg"
+title: Riot.js: anatomy of a tag
+author: Marcus Hammarberg
 date: 2015-12-10 14:22:34
 tags:
  - Javascript

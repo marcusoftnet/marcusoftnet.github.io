@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "McDonalds - a tool to explain flow"
-author: "Marcus Hammarberg"
+title: McDonalds - a tool to explain flow
+author: Marcus Hammarberg
 date: 2015-06-16 06:57:25
 tags:
  - Lean

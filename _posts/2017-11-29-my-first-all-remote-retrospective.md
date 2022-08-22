@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My first all-remote retrospective"
-author: "Marcus Hammarberg"
+title: My first all-remote retrospective
+author: Marcus Hammarberg
 date: 2017-11-29 00:36:39
 tags:
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Directions
-date: '2007-04-12T07:35:00.000+02:00'
+date: 2007-04-12T07:35:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: '2007-04-12T07:39:55.562+02:00'
+modified_time: 2007-04-12T07:39:55.562+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7690297960903219028
 blogger_orig_url: http://www.marcusoft.net/2007/04/directions.html ---
 Got a [this

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What are you optimized for then?"
-author: "Marcus Hammarberg"
+title: What are you optimized for then?
+author: Marcus Hammarberg
 date: 2016-04-06 11:07:25
 tags:
 

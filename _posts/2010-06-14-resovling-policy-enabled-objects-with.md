@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Resovling policy enabled objects with Unity 2.0
-date: '2010-06-14T10:26:00.001+02:00'
+date: 2010-06-14T10:26:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: '2010-12-14T16:22:38.156+01:00'
+modified_time: 2010-12-14T16:22:38.156+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6094690562014768810
 blogger_orig_url: http://www.marcusoft.net/2010/06/resovling-policy-enabled-objects-with.html
 ---

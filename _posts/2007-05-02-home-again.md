@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Home again - now with pictures
-date: '2007-05-02T07:51:00.000+02:00'
+date: 2007-05-02T07:51:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2007-05-03T07:37:13.064+02:00'
+modified_time: 2007-05-03T07:37:13.064+02:00
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rjl08YeKfqI/AAAAAAAAAI0/XreWgtMyEK0/s72-c/PICT1512.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4279257510615337179
 blogger_orig_url: http://www.marcusoft.net/2007/05/home-again.html ---
@@ -32,9 +32,6 @@ src="http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjlz9IeKfoI/AAAAAAAAAIk/2hFMvOjWonY/s
 id="BLOGGER_PHOTO_ID_5060203150410677890"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" width="228" height="204" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjlz9IeKfoI/AAAAAAAAAIk/2hFMvOjWonY/s1600-h/PICT1484.JPG)
-
-
-
 <div>
 
 Just started the first day after a trip to Sardine (?) in Italy, with

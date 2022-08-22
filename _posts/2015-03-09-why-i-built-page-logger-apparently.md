@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why I built page-logger... and how it made me money"
-author: "Marcus Hammarberg"
+title: Why I built page-logger... and how it made me money
+author: Marcus Hammarberg
 date: 2015-03-09 15:49:29
 tags:
  - Javascript

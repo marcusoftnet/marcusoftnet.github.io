@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Virtual PC performance tip: Multi-core support'
-date: '2010-09-06T11:17:00.001+02:00'
+title: Virtual PC performance tip: Multi-core support'
+date: 2010-09-06T11:17:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: '2013-10-08T09:19:43.239+02:00'
+modified_time: 2013-10-08T09:19:43.239+02:00
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TISxkg8QexI/AAAAAAAAAlw/f0yoCKtF7YY/s72-c/taskmanagerwith2cores_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8875288799659277872
 blogger_orig_url: http://www.marcusoft.net/2010/09/virtual-pc-performance-tip-multi-core.html

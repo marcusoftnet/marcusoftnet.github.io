@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Visual Studio 2008 videos II
-date: '2007-10-30T12:50:00.000+01:00'
+date: 2007-10-30T12:50:00.000+01:00
 author: Marcus Hammarberg tags:
-modified_time: '2010-12-14T16:20:33.395+01:00'
+modified_time: 2010-12-14T16:20:33.395+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8279432722258789434
 blogger_orig_url: http://www.marcusoft.net/2007/10/visual-studio-2008-videos-ii.html ---
 Here are some videos on Visual Studio 2008 that shows off some of the

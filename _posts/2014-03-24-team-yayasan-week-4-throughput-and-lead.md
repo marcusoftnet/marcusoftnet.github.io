@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Team Yayasan week 4: Throughput and lead times'
-date: '2014-03-24T06:44:00.000+01:00'
+title: Team Yayasan week 4: Throughput and lead times'
+date: 2014-03-24T06:44:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Team Yayasan - Lean
   - Kanban
   - Agile
   - Salvation Army
-modified_time: '2014-03-24T06:44:15.030+01:00'
+modified_time: 2014-03-24T06:44:15.030+01:00
 thumbnail: http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2414901018966712482
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html

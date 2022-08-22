@@ -2,12 +2,12 @@
 layout: post
 title: Error “The provider did not return a
 ProviderManifestToken string” with SQL Compact Edition
-date: '2011-02-16T13:51:00.001+01:00'
+date: 2011-02-16T13:51:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - .NET
   - SpecFlow
-modified_time: '2011-02-16T14:34:46.482+01:00'
+modified_time: 2011-02-16T14:34:46.482+01:00
 thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVvIRpWMf2I/AAAAAAAAA5U/Qa9CiARpmHw/s72-c/wlEmoticon-confusedsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6161852859030600182
 blogger_orig_url: http://www.marcusoft.net/2011/02/error-provider-did-not-return.html ---
@@ -41,13 +41,7 @@ was totally a slip from me. So I simply added this:
   providerName="System.Data.SqlServerCe.4.0"/>
 </connectionStrings>
 ```
-
-
-
 A few words here:
-
-
-
 -   When adding this connection string the database got created. You
     might have to regenerate it (simply update your model to do), I’m
     not sure about that
@@ -60,7 +54,4 @@ A few words here:
     class="wlEmoticon wlEmoticon-confusedsmile"
     style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none"
     alt="Confused smile" />
-
-
-
 My demo-site is saved. My demos for SpecFlow run. I am happy!

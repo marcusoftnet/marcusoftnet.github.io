@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Two stories I often tell on WIP as a process improvement tool"
-author: "Marcus Hammarberg"
+title: Two stories I often tell on WIP as a process improvement tool
+author: Marcus Hammarberg
 date: 2017-10-20 11:05:40
 tags:
  - Lean
@@ -83,9 +83,6 @@ At one point (s)he exclaimed and pointed to an empty machine:
 > More work in process is needed here!
 
 That made everyone in the company burst out laughing. Obviously a joke, right? No - it was not. More WIP was needed. The process could not sustain such a low level of work in process.
-
-
-
 ### Comments on More WIP please
 
 Most likely, I was not there, the station in question was starved for new work. This happens on a visualized board when one or more columns in a row have no stickies in them. Meaning that if the downstream processes need more work they have no more (prioritized) work to pull.

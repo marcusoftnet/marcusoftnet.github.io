@@ -1,12 +1,12 @@
 ---
 layout: post
 title: New shiny Avega-website
-date: '2007-10-02T08:00:00.000+02:00'
+date: 2007-10-02T08:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
 
-modified_time: '2007-10-02T08:12:07.826+02:00'
+modified_time: 2007-10-02T08:12:07.826+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5817791196590246380
 blogger_orig_url: http://www.marcusoft.net/2007/10/new-shiny-avega-website.html ---
 Yesterday [Avega](http://www.avega.se/), my company, released it's new,

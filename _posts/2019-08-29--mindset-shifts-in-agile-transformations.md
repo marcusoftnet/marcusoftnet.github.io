@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "3 mindset shifts for agile transformations"
-author: "Marcus Hammarberg"
+title: 3 mindset shifts for agile transformations
+author: Marcus Hammarberg
 date: 2019-08-29 21:21:59
 tags:
 
@@ -93,9 +93,6 @@ We need to build that exact thing again.  How long would that take, you?
 
 Most people guess half the time. Why? Because we will not make all of those time-consuming mistakes. Why? Because now we've learned about them.
 The bottleneck is learning.
-
-
-
 Ok, so what is the problem with not realizing that software development is development and not manufacturing, then?
 
 Well, we should manage these two activities totally different, the goals of them are different, processes are different.

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Make it smaller - some practical experiences"
-author: "Marcus Hammarberg"
+title: Make it smaller - some practical experiences
+author: Marcus Hammarberg
 date: 2015-01-21 11:26:54
 tags:
  - Lean

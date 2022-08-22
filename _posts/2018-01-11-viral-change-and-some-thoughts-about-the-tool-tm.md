@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Viral Change and some thoughts about tools"
-author: "Marcus Hammarberg"
+title: Viral Change and some thoughts about tools
+author: Marcus Hammarberg
 date: 2018-01-11 11:47:47
 tags:
 
@@ -28,9 +28,6 @@ Viral Change is a change management methodology and way of viewing change manage
 No! Exactly. Us talking, presenting, showing nice graphs and "re-emphasizing the message many times" (all of these are things that I have done and suggested many, many times) doesn't mean that things have change. The only real measurement of change is the change in the behaviour of the people we want to change.
 
 This is by the way, very close to the [agile manifesto](http://agilemanifesto.org/) way of putting things ("Working software is the primary measure of progress" for example.
-
-
-
 Viral Change then goes on and say that the best way to influence people is through the power of the network and peer-to-peer influence. In other words: hearing stories about how the changed behavior is better for us helped us, gave us increased X - from our peers is much more powerful than to get a new way of working handed down to us.
 
 Again the agile manifesto is brushing on this ("The most efficient and effective method of conveying information to and within a development team is a face-to-face conversation." And "Individuals and interactions over processes and tools")
@@ -38,9 +35,6 @@ Again the agile manifesto is brushing on this ("The most efficient and effective
 This way of looking at effective change is plugged very much into my favorite [Change Management Book - Switch](http://heathbrothers.com/books/switch/). The authors talk a lot about telling the story and following the bright spots as effective ways of ensuring that change takes place.
 
 Viral Change happens when you let a small group of people, with the "right" behaviors, telling/spreading these behaviors in the network. The word Viral is not by accident of course since this reminiscence the way viral diseases (or [cat pictures](https://www.buzzfeed.com/expresident/best-cat-pictures)) happens.
-
-
-
 The final part, that I want to talk about here, is how this approach (trusting the network, letting peers) changes leadership. Because you need to move towards what Viral Change calls "Backstage leadership". Now you are not sending **HOW** to do things, but rather create an environment where Viral Change (networking, peer-to-peer influence, storytelling) can happen and be effective.
 
 Hmmm… this *also* resonates with me and my experiences from agile and lean. Because if you want autonomous, responsible and accountable teams in your organization you, as a leader, need to ensure that an environment where such teams thrive exists.
@@ -80,9 +74,6 @@ It looks to me that Viral Change (being a newbie to the area) happens when you l
 Instead of valuing great plans and deadline compliance we start to value delivering business values. Instead of forcing people to say no to lists of features we start to value people coming up with other ways than suggested to reach a goal. I recently asked a client:
 
 > If a team didn't deliver a thing on the backlog but reached the change in the target values (increase number of users, or what have you) - would that be acceptable throughout the organization?
-
-
-
 Well, Viral Change has an interesting take on that too.  This quote about, for example, made me think about agile (replace Viral Change TM below with "agile" for example and see for yourselves) and how I often introduce it to teams and organizations:
 
 > There are no big declarations of ‘a new programme’ or anything that looks/may look like ’another corporate initiative’6. **The more visible and more formal Viral Change TM becomes, the less likely its success**.

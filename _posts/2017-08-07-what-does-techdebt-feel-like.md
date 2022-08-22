@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What does technical debt feel like?"
-author: "Marcus Hammarberg"
+title: What does technical debt feel like?
+author: Marcus Hammarberg
 date: 2017-08-07 09:15:24
 tags:
 
@@ -29,9 +29,6 @@ For example, you have most likely said or heard the following:
 > Whoa! That page got A LOT more traffic than we estimated. We need to optimize those database calls. Now!
 
 All of those "What?", "Oh?" or "Whoaaaa!" are indicators that you will soon get an opportunity to learn and clean up your code base. Technical debt has been discovered. There will be great rejoicing and celebration when we have made it better.
-
-
-
 But my experience is something different. By far the most common creation of technical debt (in my experience) is choices we make or are made to make.
 
 In these case you will hear dialog like this:
@@ -64,9 +61,6 @@ The only times I have not experienced those events are in companies driven by de
 > Everything is done but the code is only covered to 30% with unit tests
 >
 > Ok - tell me when that is up to at least 80% so that we can deploy.
-
-
-
 Now most people making the decision to not address technical debt are of course not stupid or un-teachable. It's just that the pressure from other sources (dead lines, contracts, and promises to higher authorities in the organization) is higher.
 
 Related is probably the fact that we are in the **soft**ware business. You would never create hardware that has technical debt.
@@ -84,13 +78,7 @@ With software, we can defer some very important decisions to later. I'm not sure
 The best time to handle technical debt is … now. When you write the code. It will never be a better time at least. It might be another time, but never a better time.
 
 I have never experienced a situation where technical debt (that we know of) is easier to fix a few weeks (months, years) down the line.
-
-
-
 Here's my response to the [original tweet](https://twitter.com/cyetain/status/893803861189767172) for reference:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Like being ripped off; problems from shortcuts we were asked to take, promised to get time to fix later and getting blamed for when it fails <a href="https://t.co/SQV9xgi2TO">https://t.co/SQV9xgi2TO</a>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-

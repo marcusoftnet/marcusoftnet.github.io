@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Should is a nice way to do
+title: Marcus Node Bits: Should is a nice way to do
 asserts'
-date: '2014-02-07T08:00:00.000+01:00'
+date: 2014-02-07T08:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript - BDD
   - Tools
   - TDD
-modified_time: '2014-06-02T10:56:52.516+02:00'
+modified_time: 2014-06-02T10:56:52.516+02:00
 thumbnail: http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s72-c/Screen+Shot+2014-02-01+at+20.05.01+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5065072872368802136
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-should.html ---
@@ -211,7 +211,4 @@ src="http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s
 data-border="0" /></a>
 
 </div>
-
-
-
 </div>

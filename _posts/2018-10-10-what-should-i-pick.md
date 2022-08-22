@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What should I pick?"
-author: "Marcus Hammarberg"
+title: What should I pick?
+author: Marcus Hammarberg
 date: 2018-10-10 17:45:07
 tags:
 
@@ -45,17 +45,11 @@ Well not really any rules - but there are a few simple heuristics that you can u
 First of all - Stop starting! Start finishing. Meaning; first, see if there is any work on the board that you can help to finish. Yes - even the work that you are not in charge of ("I cannot test that - I am not a tester", is a common excuse for example). Our customers don´t really care who does what as long as the value is created.
 
 A simple way to get this principle implemented is to start from the right of the board and walking to the left. Point to each sticky (kanban) and ask "Can I help finish this one?". If you find anything you can help finish - do that by all means. It's a great way of making sure your work flows fast and smooth and that the work in process limit (WIP) not is increased.
-
-
-
 If you reach the end, see if the WIP limits allow you to pull more work. If so, I would pull the smallest tickets first. Because that would be finished fast and we would learn faster.
 
 Or the most valuable one first. But, how do you know the value? If you don't know the value - how can you know if it is a good ticket to pull?
 
 Check out the prioritization algorithm known as [WSJF (weighted shorted job first)](http://blackswanfarming.com/wsjf-weighted-shortest-job-first/) for more information about this thinking.
-
-
-
 If the WIP limits don't allow you to pull new work; do whatever you find useful to help us move faster in the future. Only; make sure it's something that you can drop should we need you to finish more work later.
 
 I hope that made sense - its the simple rules I use. It's summed up with the simple mantra

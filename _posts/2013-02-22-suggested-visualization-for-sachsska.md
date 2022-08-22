@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Suggested visualization for the SÖS Children Emergency
-date: '2013-02-22T09:00:00.000+01:00'
+date: 2013-02-22T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -9,7 +9,7 @@ tags:
   - Lean
   - Life of a consultant
   - Agile
-modified_time: '2013-02-24T17:51:12.070+01:00'
+modified_time: 2013-02-24T17:51:12.070+01:00
 thumbnail: http://2.bp.blogspot.com/-DPEZjG4KFGE/USpE9u7iwwI/AAAAAAAABa4/MPhZDYVZA_U/s72-c/Screen+Shot+2013-02-24+at+17.50.30+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8029179407855875544
 blogger_orig_url: http://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html

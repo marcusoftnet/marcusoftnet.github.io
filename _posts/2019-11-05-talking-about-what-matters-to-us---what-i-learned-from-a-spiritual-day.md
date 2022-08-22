@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Talking about what really matters to us - what I learned from a spiritual day"
-author: "Marcus Hammarberg"
+title: Talking about what really matters to us - what I learned from a spiritual day
+author: Marcus Hammarberg
 date: 2019-11-05 11:08:03
 tags:
 
@@ -28,13 +28,7 @@ On my way home I was thinking:
 > I've never done anything like that. What would this be for a "normal" company?
 
 Because I've done spiritual days like that before, but never with a working group.
-
-
-
 What did we do? We stopped before the topics that are core to the purpose of our whole existence. The Salvation Army is a church and hence God and Christianity are at the core of everything we do. May it be finance-discussions or our social work or the service we give/hold - they are all driven by a love of God and hope that more people will find his greatness.
-
-
-
 But in a ... a software company, or a bank, or a food retailer. What is driving us? Why are we here? How often do you gather in a "spiritual" day to go deep on those topics? To reflect and meditate (yes I mean it) over how the purpose of the company will / can be better realized through me. You. Us.
 
 What I found particularly fascinating was that we were all equals when pondering these big questions. No CFO or HR manager. Just how I reflected on the values in my own life. And by sharing this I got to know my fellow board members better and much deeper than before. That bound us closer together.
@@ -42,9 +36,6 @@ What I found particularly fascinating was that we were all equals when pondering
 I have seldom taken part in activities like that but I found great value in starting to think about it. Even putting a topic for such a day was a good exercise for me.
 
 Right now I'm working at a "school", a boot camp for programmers. What would be the topic for a day before our purpose? Quality? Around the students? Knowing deeper how education works? I will most certainly recommend that we hold one of these days soon and will report back.
-
-
-
 What would you want to stop and meditate on in your company? With your department? With your team?
 
 Do you? What did you learn?

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Autonomous does not mean isolated"
-author: "Marcus Hammarberg"
+title: Autonomous does not mean isolated
+author: Marcus Hammarberg
 date: 2019-06-19 11:26:32
 tags:
  - Lean

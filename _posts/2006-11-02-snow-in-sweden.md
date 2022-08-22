@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Snow? In Sweden?
-date: '2006-11-02T07:41:00.000+01:00'
+date: 2006-11-02T07:41:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: '2006-11-02T07:48:47.890+01:00'
+modified_time: 2006-11-02T07:48:47.890+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5644087848201059915
 blogger_orig_url: http://www.marcusoft.net/2006/11/snow-in-sweden.html
 ---
@@ -17,16 +17,10 @@ data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/thorildsp
 
 <div>
 
-Today, and most of all yestday was the first snowstorm of the winter in
+Today, and most of all yesterday was the first snowstorm of the winter in
 the Stockholm-area.
 
 </div>
-
-
-
-
-
-
 
 <div>
 
@@ -36,25 +30,13 @@ can it happen?
 
 </div>
 
-
-
-
-
-
-
 <div>
 
-That never fails. Yesterday was worse than ever (litterally thousands of
+That never fails. Yesterday was worse than ever (literally thousands of
 people not being able to get home, **all** busses in the Stockholm area
 stopped etc) but then again we knew about this storm for about 2 weeks.
 
 </div>
-
-
-
-
-
-
 
 <div>
 
@@ -63,12 +45,6 @@ that matter (people have left their cars in the middle of the road
 tonight).
 
 </div>
-
-
-
-
-
-
 
 <div>
 

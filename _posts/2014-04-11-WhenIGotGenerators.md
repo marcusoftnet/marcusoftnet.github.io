@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'KoaJs and the "SyntaxError: Unexpected
+title: KoaJs and the "SyntaxError: Unexpected
 identifier" error - or "that time when I understood generators"'
-date: '2014-04-11T16:43:00.001+02:00'
+date: 2014-04-11T16:43:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Javascript - Koa
-modified_time: '2014-04-11T17:19:56.787+02:00'
+modified_time: 2014-04-11T17:19:56.787+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4774542661205622224
 blogger_orig_url: http://www.marcusoft.net/2014/04/WhenIGotGenerators.html ---
 
@@ -21,9 +21,6 @@ happens.
 Here's an example on how to make this error occur, from the co-monk
 library <a href="https://github.com/visionmedia/co-monk/pull/4"
 target="_blank">README (not anymore maybe</a>):
-
-
-
 <div>
 
 Running that code (either with "<span
@@ -126,9 +123,6 @@ hat is tipped towards you. Loudly (?) 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

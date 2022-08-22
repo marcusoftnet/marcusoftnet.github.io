@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Creating a 'Movie credits' animation in Keynote"
-author: "Marcus Hammarberg"
+title: Creating a 'Movie credits' animation in Keynote
+author: Marcus Hammarberg
 date: 2015-08-06 13:19:55
 tags:
  - Tools

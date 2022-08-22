@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I’m writing a book on Kanban!
-date: '2012-04-05T08:00:00.000+02:00'
+date: 2012-04-05T08:00:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2012-04-05T08:12:42.634+02:00'
+modified_time: 2012-04-05T08:12:42.634+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5666632138891207928
 blogger_orig_url: http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html ---
 
@@ -71,9 +71,6 @@ twins were tearing down the door and entering the room, i might add):
 > that book for Manning?
 >
 > </div>
-
-
-
 <div class="p2">
 
 I was totally taken by surprise! After the mail and some of the content

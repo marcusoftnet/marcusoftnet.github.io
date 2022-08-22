@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Good bye Avega!
-date: '2012-12-07T09:00:00.000+01:00'
+date: 2012-12-07T09:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: '2012-12-07T09:00:15.142+01:00'
+modified_time: 2012-12-07T09:00:15.142+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5057147655975788856
 blogger_orig_url: http://www.marcusoft.net/2012/12/good-bye-avega.html
 ---

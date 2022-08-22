@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Way out book on Ruby
-date: '2008-05-08T14:28:00.002+02:00'
+date: 2008-05-08T14:28:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Fun
   - Agile
-modified_time: '2008-05-08T14:30:13.840+02:00'
+modified_time: 2008-05-08T14:30:13.840+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-573917268034207125
 blogger_orig_url: http://www.marcusoft.net/2008/05/way-out-book-on-ruby.html
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Team Yayasan week 3: Understanding the problem
+title: Team Yayasan week 3: Understanding the problem
 and sloppy limits'
-date: '2014-03-17T05:18:00.000+01:00'
+date: 2014-03-17T05:18:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Team Yayasan - Lean
   - Kanban
-modified_time: '2014-03-17T05:18:29.327+01:00'
+modified_time: 2014-03-17T05:18:29.327+01:00
 thumbnail: http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7834322553779832021
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-3-understanding.html
@@ -39,9 +39,6 @@ One of those were very successful and one was not...
 </div>
 
 <div>
-
-
-
 ### Sloppy board management
 
 </div>
@@ -103,9 +100,6 @@ have set up. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -131,9 +125,6 @@ for the current finance reporting. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -146,9 +137,6 @@ problem and then come up with actions to try to allivate the problem. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -163,9 +151,6 @@ talked about (click for larger):
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -199,9 +184,6 @@ of not fixing this problem is the thing that sticks. 
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -221,9 +203,6 @@ make a great workshop and now I got the time to try it. 
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -291,9 +270,6 @@ framework we have a much higher chance to make change happen. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -314,9 +290,6 @@ lot to take in. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -362,9 +335,6 @@ difference already. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -391,9 +361,6 @@ data-border="0" width="240" height="320" /></a>
 And here's how a reminder email can look like, following that advice:
 
 </div>
-
-
-
 > Our goal for the Kantor Yayasan is: "to help the hospitals and clinics
 > to improve". That's why we keep pushing us and keep nagging about
 > reports being late. Like this. I am NOT angry with any single one of
@@ -443,9 +410,6 @@ how many days behind (76) we are compared to the goal (1). 
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: left;">

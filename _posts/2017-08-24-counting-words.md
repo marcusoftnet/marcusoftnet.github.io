@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Counting words"
-author: "Marcus Hammarberg"
+title: Counting words
+author: Marcus Hammarberg
 date: 2017-08-24 19:00:21
 tags:
  - Programming

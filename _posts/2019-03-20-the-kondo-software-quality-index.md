@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Kondo software quality index"
-author: "Marcus Hammarberg"
+title: The Kondo software quality index
+author: Marcus Hammarberg
 date: 2019-03-20 18:16:46
 tags:
 
@@ -85,9 +85,6 @@ We are trying a few different ways to do this:
 
 * Ask the team to vote (1-5) if _it sparks joy_ on a regular basis and create a compound index using the median value, or a graph showing all votes
 * Ask the team to vote (1-5) if the different parts of the system and maybe create a compound index over all the systems
-
-
-
 Two things on tracking this index, from my [Pirate Code post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)
 
 First, is this a quality metric? No - but it is an indicator of quality. If quality is amazing, you will see people talk about their stuff, with other teams, among each other - and they would look proud and happy. If quality is bad … you would not see that happening. People would not talk about the system, at least not in good terms.

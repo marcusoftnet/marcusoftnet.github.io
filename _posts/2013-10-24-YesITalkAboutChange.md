@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'What I''m talking about: Yes - I''m talking
+title: What I''m talking about: Yes - I''m talking
 about changing'
-date: '2013-10-24T13:44:00.001+02:00'
+date: 2013-10-24T13:44:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
 
   - Agile
-modified_time: '2013-11-12T21:04:53.237+01:00'
+modified_time: 2013-11-12T21:04:53.237+01:00
 thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052
 blogger_orig_url: http://www.marcusoft.net/2013/10/YesITalkAboutChange.html ---
@@ -32,9 +32,6 @@ answers:
 > target="_blank">No - I'm not talking about working faster </a>
 
 This post is about changing.
-
-
-
 <div style="text-align: left;">
 
 When I introduce people to Lean I often play a little game with
@@ -46,9 +43,6 @@ target="_blank">The Dot Game</a> are my two current favorites. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -83,9 +77,6 @@ timings. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -168,9 +159,6 @@ current work item into the different stages of their workflow. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -190,9 +178,6 @@ data-border="0" width="400" height="135" /></a>
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -251,9 +236,6 @@ their process. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -266,9 +248,6 @@ themselves to innovate and evolve their process in small increments. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -284,9 +263,6 @@ target="_blank">Toyota Kata</a>. 
 </div>
 
 <div>
-
-
-
 </div>
 
 |                                                                                                              |
@@ -312,9 +288,6 @@ movement</a>.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -327,9 +300,6 @@ hypothesis - that's a good thing. We learned and can improve from that. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -343,9 +313,6 @@ easier and safer to experiment. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -366,9 +333,6 @@ organization finds important) we will improve. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

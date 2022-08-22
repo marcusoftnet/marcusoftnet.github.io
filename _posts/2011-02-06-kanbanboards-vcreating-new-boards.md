@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kanbanboards V–creating new boards
-date: '2011-02-05T21:08:00.001+01:00'
+date: 2011-02-05T21:08:00.001+01:00
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,7 +9,7 @@ tags:
    - ASP.NET MVC
   - KanbanBoards
   - SpecFlow
-modified_time: '2011-02-05T21:11:06.427+01:00'
+modified_time: 2011-02-05T21:11:06.427+01:00
 thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TU2t4aBY_vI/AAAAAAAAA0k/pNIsi5pGUQs/s72-c/create%20specification%20with%20first%20scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8417148080028689205
 blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html
@@ -36,9 +36,6 @@ with the following:
 > The creation of this site is documented as my learning process.
 
 On with the show!
-
-
-
 ### New functionality – new scenario
 
 As I always I start off with a new specification and the following

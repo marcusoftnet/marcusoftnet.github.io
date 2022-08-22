@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What I learned when installing 33 developer computers in 5 hours"
-author: "Marcus Hammarberg"
+title: What I learned when installing 33 developer computers in 5 hours
+author: Marcus Hammarberg
 date: 2018-08-23 10:12:38
 tags:
  - Lean
@@ -185,9 +185,6 @@ Here's a few improvements that came to me as I worked:
   * When I flipped to box over (to photo the serial number) I needed to take the plastic out, but not the lid off - since that could send the computer flipping out on the table. Not that it happened ... well only once and not that hard
 * In the beginning I spent a lot of frustrating minutes trying to put the empty box back and out of the lid. I then realised that I only needed to match the computer to it's corresponding bottom part (where the serial number is written). I could use any old lid.
   * You can see the lids in a pile in the workflow picture above
-
-
-
 Another thing I learned from was when I got a call half-way through and they said that one person had declined their position. Of course it was one of the computers I've completed. So I had to learn how to [reinstall a MacBook Pro from scratch](https://support.apple.com/en-us/HT204904)
 
 ## Summary

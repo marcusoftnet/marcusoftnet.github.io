@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A scary thought experiment"
-author: "Marcus Hammarberg"
+title: A scary thought experiment
+author: Marcus Hammarberg
 date: 2016-05-27 12:59:58
 tags:
 
@@ -31,9 +31,6 @@ I am right now in a big company trying to apply agile and lean practices for sof
 I started to ask a question to people I discussed this with:
 
 > Imagine if the company, instead of creating a project in the organisation, would have create a new company to solve this problem. First and only employee the current project manager. One goal build the best product you can! Here's your budget for a year.
-
-
-
 >
 > Would she had created the organisation we now are in?
 

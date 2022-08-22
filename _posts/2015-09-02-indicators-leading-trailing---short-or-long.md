@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Indicators; leading, trailing - short or long"
-author: "Marcus Hammarberg"
+title: Indicators; leading, trailing - short or long
+author: Marcus Hammarberg
 date: 2015-09-02 15:31:46
 tags:
 

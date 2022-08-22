@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'A good person and a bad system - my take '
-date: '2014-11-20T09:07:00.000+01:00'
+title: A good person and a bad system - my take '
+date: 2014-11-20T09:07:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - Tools - Lean
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-11-20T09:10:26.530+01:00'
+modified_time: 2014-11-20T09:10:26.530+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8186934658685696095
 blogger_orig_url: http://www.marcusoft.net/2014/11/goodpeople.html ---
 
@@ -29,9 +29,6 @@ practice. But i have also seen the opposite. Like this:
 > Hammarberg
 
 Let me try to clarify what I mean and what I've seen to support it.
-
-
-
 ### Story 1
 
 <div>
@@ -45,9 +42,6 @@ consisted of 4 people that supported ca 40 applications. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -83,9 +77,6 @@ company. And they were swamped with work. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -98,9 +89,6 @@ after - nothing.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -141,9 +129,6 @@ wait."
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -156,9 +141,6 @@ record. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -216,9 +198,6 @@ Me: "Eeeeeh? Good for them. "
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -240,9 +219,6 @@ entire job like "Working around the system". 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -255,9 +231,6 @@ They are stuck between a rock and a hard place. Putting it mildly. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -268,9 +241,6 @@ least. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -284,9 +254,6 @@ working (see Story 1 above for one example). 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

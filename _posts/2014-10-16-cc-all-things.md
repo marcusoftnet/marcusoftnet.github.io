@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cc all the things
-date: '2014-10-16T11:02:00.001+02:00'
+date: 2014-10-16T11:02:00.001+02:00
 author: Marcus Hammarberg
 tags:
   - Tools - Lean
@@ -9,7 +9,7 @@ tags:
 
   - Kanban
   - Agile
-modified_time: '2014-10-16T11:02:16.304+02:00'
+modified_time: 2014-10-16T11:02:16.304+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5469088052128164126
 blogger_orig_url: http://www.marcusoft.net/2014/10/cc-all-things.html
 ---
@@ -71,7 +71,4 @@ CC all the things!
 
 You already have that information.
 We share everything
-
-
-
 </div>

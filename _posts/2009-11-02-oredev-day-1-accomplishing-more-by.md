@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'ÖreDev Day \#1 - Accomplishing more by doing
+title: ÖreDev Day \#1 - Accomplishing more by doing
 less'
-date: '2009-11-02T16:58:00.004+01:00'
+date: 2009-11-02T16:58:00.004+01:00
 author: Marcus Hammarberg
 tags:
   - ÖreDev
   - Life of a consultant
 
   - Agile
-modified_time: '2011-11-09T21:49:22.569+01:00'
+modified_time: 2011-11-09T21:49:22.569+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2142245261599319871
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-more-by.html
 ---
@@ -25,9 +25,6 @@ are - 2009 and [ÖreDev](http://www.oredev.org/).
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -42,9 +39,6 @@ can miss out on such a offering.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -87,9 +81,6 @@ the session. Starting with 30 minutes meditation will maybe do that.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -102,9 +93,6 @@ to be more present and be generous with my attention.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Indonesia, Agile, Kanban, Lean - its a new book"
-author: "Marcus Hammarberg"
+title: Indonesia, Agile, Kanban, Lean - its a new book
+author: Marcus Hammarberg
 date: 2016-02-10 08:21:46
 tags:
 

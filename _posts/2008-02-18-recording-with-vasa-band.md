@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Recording with the Vasa Band
-date: '2008-02-17T21:35:00.005+01:00'
+date: 2008-02-17T21:35:00.005+01:00
 author: Marcus Hammarberg
 tags:
   - BrassBand
   - Salvation Army
-modified_time: '2008-02-19T14:07:15.332+01:00'
+modified_time: 2008-02-19T14:07:15.332+01:00
 thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R7ias5J-hlI/AAAAAAAAAQk/5l9NMgpXTh4/s72-c/PICT2579.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-342955153423395129
 blogger_orig_url: http://www.marcusoft.net/2008/02/recording-with-vasa-band.html

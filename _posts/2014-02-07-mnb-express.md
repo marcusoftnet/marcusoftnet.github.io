@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Marcus Node Bits: Express is best without
+title: Marcus Node Bits: Express is best without
 generators'
-date: '2014-02-07T14:00:00.000+01:00'
+date: 2014-02-07T14:00:00.000+01:00
 author: Marcus Hammarberg
 tags:
   - MobProgramming - Javascript
   - Tools
-modified_time: '2014-06-02T10:56:52.524+02:00'
+modified_time: 2014-06-02T10:56:52.524+02:00
 thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html ---
@@ -87,9 +87,6 @@ a public folder but that's easy enough to fix.
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -107,9 +104,6 @@ Nancy is cooler. 
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -120,11 +114,8 @@ target="_blank">guide-page</a>,
 you the minimal version first. And we can write the ubiquitous
 fit-in-a-tweet-web application:
 
-</div>
 
 
-
-<div>
 
 <div style="text-align: left;">
 
@@ -163,11 +154,8 @@ In the little tweet example above you saw the app.get() function in
 action. The really good news is that all the HTTP verbs act in the same
 manner. They take an URL path and a callback function. 
 
-</div>
 
 
-
-<div>
 
 You can understand it as: "when somebody *Posts* to '/orders/', execute
 this function that I'm writing here".
@@ -175,9 +163,6 @@ this function that I'm writing here".
 </div>
 
 <div>
-
-
-
 </div>
 
 <div>
@@ -189,11 +174,8 @@ target="_blank">req.params</a> <span
 style="font-family: inherit;">property. Here's an example of a
 get to an URL with a parameter, called id
 
-</div>
 
 
-
-<div>
 
 Often your clients will be sending data in the body of the HTTP request.
 Express provides an easy way to extract those by using the middleware
@@ -217,9 +199,6 @@ src="http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s
 data-border="0" width="640" height="328" /></a>
 
 </div>
-
-
-
 </div>
 
 <div>
@@ -229,11 +208,8 @@ bit messy. You can then write the handling code in a separate module and
 include that. Express, default, puts these in a folder called "routes",
 but we can do as we want.
 
-</div>
 
 
-
-<div>
 
 Note that I'm using the <span
 style="font-family: Courier New, Courier, monospace;">exports-keyword
@@ -266,9 +242,6 @@ content-type will automatically be set to "application/json" for you
 when using this method as a nice little service to you. 
 
 </div>
-
-
-
 ### Middleware
 
 <div>
@@ -294,9 +267,6 @@ your site. As always, basic is sending the username and password in
 clear text, so beware.
 
 </div>
-
-
-
 #### directory and static
 
 <span
@@ -308,9 +278,6 @@ can help you to serve up static files; like your client side JavaScript
 application for example
 
 </div>
-
-
-
 #### app.param() - an example of middleware, that is really powerful
 
 <div>
@@ -324,20 +291,14 @@ href="http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-wit
 target="_blank">lean on an example from this site</a> and walk your
 through it:
 
-</div>
 
 
-
-<div>
 
 You could also do hard coded paths, of course (like /users) and create a
 little snippet that loads users by id. This is shown to great effect in
 the documentation for <a href="http://expressjs.com/api.html#app.param"
 style="font-family: &#39;Courier New&#39;, Courier, monospace;"
 target="_blank">app.param()</a> and I've adapted it here:
-
-
-
 ### Conclusion
 
 Yeah, as you can see express is not that hard and that the same time

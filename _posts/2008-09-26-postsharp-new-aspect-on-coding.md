@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostSharp - a new aspect on coding
-date: '2008-09-26T16:29:00.002+02:00'
+date: 2008-09-26T16:29:00.002+02:00
 author: Marcus Hammarberg
 tags:
   - VB.NET
@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 
   - Agile
-modified_time: '2010-12-14T16:23:11.119+01:00'
+modified_time: 2010-12-14T16:23:11.119+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6832974975942400336
 blogger_orig_url: http://www.marcusoft.net/2008/09/postsharp-new-aspect-on-coding.html ---
 

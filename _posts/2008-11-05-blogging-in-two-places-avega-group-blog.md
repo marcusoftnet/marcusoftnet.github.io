@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Blogging in two places - Avega Group Blog
-date: '2008-11-05T08:39:00.001+01:00'
+date: 2008-11-05T08:39:00.001+01:00
 author: Marcus Hammarberg
 tags:
-modified_time: '2008-11-05T22:48:02.048+01:00'
+modified_time: 2008-11-05T22:48:02.048+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3049897076598246711
 blogger_orig_url: http://www.marcusoft.net/2008/11/blogging-in-two-places-avega-group-blog.html
 ---

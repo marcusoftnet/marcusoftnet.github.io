@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Respecting slack time"
-author: "Marcus Hammarberg"
+title: Respecting slack time
+author: Marcus Hammarberg
 date: 2018-01-25 13:32:09
 tags:
  - Lean
@@ -58,9 +58,6 @@ Two comments on what I just wrote:
 Software **development** is innovation. I'm convinced of that. Software manufacturing would be CTRL-C+CTRL-V. Bam! Manufactured. But development is not like that. The thinking, problem-solving part is the hard part. Writing the code is "just" translating that thinking into a programming language.
 
 Also, did you noticed what I snuck in the previous section? "If **you only allow yourself** to do …" Yes. It's a choice. That you get to make. You can decide to take time to reflect.
-
-
-
 In order to explain that last part, you first need to meet Hasse - the Salvation Army officer (pastor) that married me and Elin. At the time Hasse was the leader of the Salvation Army in Sweden and naturally very busy. However, he agreed to marry us, which we greatly appreciated since we know him well.
 
 Naturally, we had a hard time find a time to prepare with him and went back and forth with many date suggestions. I remember that I suggested: "How about Thursday afternoon, around 16?". The answer will stay with me forever:
