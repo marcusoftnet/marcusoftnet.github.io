@@ -4,11 +4,9 @@ title: A story about dentists... busy dentists
 author: Marcus Hammarberg
 date: 2018-12-12 12:09:17
 tags:
-
   - Agile
- - Lean
- - Scrum
-
+  - Lean
+  - Scrum
   - Kanban
 ---
 

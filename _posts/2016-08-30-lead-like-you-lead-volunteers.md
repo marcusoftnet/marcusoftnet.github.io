@@ -4,11 +4,10 @@ title: Lead like you lead volunteers
 author: Marcus Hammarberg
 date: 2016-08-30 20:15:40
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Leadership
+  - Leadership
 ---
 
 Have you ever said something profound and deep?

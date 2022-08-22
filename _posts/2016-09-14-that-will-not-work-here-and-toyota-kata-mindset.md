@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Toyota Kata and the 'We can't do that here'-fallacy
+title: Toyota Kata and the We cannot do that here-fallacy
 author: Marcus Hammarberg
 date: 2016-09-14 10:51:52
 tags:
-
   - Agile
- - Lean
- - Tools
+  - Lean
+  - Tools
 ---
 
 I'm re-reading the [Toyota Kata book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238) right now I had forgotten how much it influenced my thinking. If you haven't read it - go and do that now. Don't read this post - read the book. I won't mind.

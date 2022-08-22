@@ -4,10 +4,8 @@ title: Values and living them
 author: Marcus Hammarberg
 date: 2018-02-14 11:35:40
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---
@@ -74,7 +72,7 @@ Yes! That is what we want to see. It works. Let's [see it fail too](http://www.s
 
 Well… that's not innovative. And it shows clearly.
 
-#### We're collaborative!
+#### We're collaborative
 
 One of the things that stand out on day one when you get to the Spotify organization is how much they are helping each other. I've [blogged about that before](http://www.marcusoft.net/2017/01/kindness.html) without revealing the company name (psst - all Spotify for the good stuff).
 
@@ -92,7 +90,7 @@ And what about the opposite - would we spot it.
 
 No no no… that is not right. Good. It fails as expected.
 
-#### We're sincere!
+#### We're sincere
 
 Since the collaboration is tight and frequent we need a very clear communication. There cannot be politics, hidden agendas or "being nice and not telling" since that would muddle our interactions.
 
@@ -110,7 +108,7 @@ or
 
 Oh my God - what's his problem?! Opposite of what we wanted. Let's leave this and move on.
 
-#### We're passionate!
+#### We're passionate
 
 Here Spotify talks about their passion is the thing that drives them, the makes them bold and wanting to take big bets.
 

@@ -4,9 +4,8 @@ title: The Kondo software quality index
 author: Marcus Hammarberg
 date: 2019-03-20 18:16:46
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 
@@ -46,7 +45,9 @@ And it was at this point that Yngve, with his dry wit, stepped in and just said:
 > You mean: "Does it spark joy?"
 
 Yes, that is exactly what I mean. Hence the Kondo-index was born.
+
 ## Marie Kondo primer
+
 If you now think:
 
 > Who, on earth, is the Kondo-person he is referring to all the time?
@@ -83,7 +84,7 @@ As a quality metric, it hit a nerve directly. It's the perfect question to ask.
 
 We are trying a few different ways to do this:
 
-* Ask the team to vote (1-5) if _it sparks joy_ on a regular basis and create a compound index using the median value, or a graph showing all votes
+* Ask the team to vote (1-5) if *it sparks joy* on a regular basis and create a compound index using the median value, or a graph showing all votes
 * Ask the team to vote (1-5) if the different parts of the system and maybe create a compound index over all the systems
 Two things on tracking this index, from my [Pirate Code post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)
 

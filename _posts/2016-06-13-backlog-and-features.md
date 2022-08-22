@@ -4,11 +4,9 @@ title: Backlog and features
 author: Marcus Hammarberg
 date: 2016-06-13 12:59:58
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 
@@ -32,6 +30,7 @@ is one thing I've heard my team member say. And
 is a question that ends up being very hard to answer.
 
 # What to do instead, mr Wiseguy?
+
 The solution is very simple - draw your [backlog as a mind map](http://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html#backlog-as-a-mindmap) instead of keeping a list of features. Preferably as an [impact map](https://www.impactmapping.org/).
 
 Starting from *WHY* we are doing things and then linking the things we are doing with that *WHY*-statement is really powerful in itself.
@@ -43,16 +42,17 @@ Secondly - a picture says more than a thousand words and is so much nicer to *ta
 Let's pick this backlog on some information:
 
 * The goal is in the middle of this mind map. 300 stores to some (scratched out) date. Ok that's what they are trying to achieve, their *WHY*. Nice and measurable. Need more details on how to measure of course but good enough to talk about:
-    - The next layer of circles are the **actors** in the impact mapping model. *WHO* (or what in this case) do we need to change. There's few areas that the team considers "things that helps/risks us from reaching that goal"
-    - The final levels is the *HOW* and *WHAT* we need to change these actors, or components in this case. We see examples like `Bypass XXX`, `Cluster` and `Error handling` that the team thinks are good ideas as to *HOW* to improve the area `Store O` (yes - had to blank some part out. It's a sub-system of our solution)
+  * The next layer of circles are the **actors** in the impact mapping model. *WHO* (or what in this case) do we need to change. There's few areas that the team considers "things that helps/risks us from reaching that goal"
+  * The final levels is the *HOW* and *WHAT* we need to change these actors, or components in this case. We see examples like `Bypass XXX`, `Cluster` and `Error handling` that the team thinks are good ideas as to *HOW* to improve the area `Store O` (yes - had to blank some part out. It's a sub-system of our solution)
 * See the small numbers on yellow stickies? That's the priority. Ok - now we see that Lost cart is number one. Wonder what that is - let's ask the team for details.
-    * There's three guys (scratched out avatars) - working on it at least. That's ensuring
+  * There's three guys (scratched out avatars) - working on it at least. That's ensuring
 * Second priority is ... `Report Concurrency` - that's sound like a cool feature. It's linked to `Back Office Order` handling which is one area that needs to be addressed to handle 300 stores. Reasonable - back office need to be in shape of course.
 * There's a priority 3 and 4 also.
 
 Not reflected on this map is "What next" - but that could easily be achieved using a different color of numbers for example
 
 # What has this helped you with?
+
 Well, first of all communication. It's SO much easier to talk about this map and the ordering here than a list of features. Also the connection to the *WHY* in the middle is very good to discuss if that's the correct why and also for the things that the team does - if that is the correct thing to do *now* to support the *WHY*.
 
 It basically answers the `Why are you doing this now?` question by merely being there.
@@ -62,6 +62,7 @@ Secondly this impact map have saved us time and effort already. See the big empt
 The team decided to try a couple of approaches to solve that problem. It turned out that one of those (the erased part) was quick to implement *and* solved the problem. So well in fact that they could now switch priorities and have a new #1 priority.
 
 # What's the problem here again?
+
 What I've seen is that many organizations locks down to a list of feature way too early. In some cases there's 2 or 3 levels before it even reaches the product owner where specific features are discussed.
 
 (Yes, yes... that's not really a product owner I know - but that's the reality for many product owners in big organizations)
@@ -85,5 +86,5 @@ The work in the team is **super boring.** You are only using a fraction of their
 >I'm used to people coming to me with problems - not solutions
 
 # Summary
-Quite simple: wait with putting features in the backlog as long as possible. Features (or the **WHAT** part of an impact map) are just means to reach a goal - not the goal.
 
+Quite simple: wait with putting features in the backlog as long as possible. Features (or the **WHAT** part of an impact map) are just means to reach a goal - not the goal.

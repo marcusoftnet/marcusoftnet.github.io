@@ -4,12 +4,10 @@ title: Principles over (best) practices
 author: Marcus Hammarberg
 date: 2016-09-28 09:00:00
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
- - Tools
+  - Tools
 ---
 
 This is another post in the impromptu series "Marcus explains his tweets in more detail".

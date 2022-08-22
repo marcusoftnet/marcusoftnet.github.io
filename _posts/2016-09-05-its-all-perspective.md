@@ -1,12 +1,11 @@
 ---
 layout: post
-title: It's all perspective - why haven't I seen that before?
+title: It is all perspective - why havent I seen that before?
 author: Marcus Hammarberg
 date: 2016-09-05 12:00:00
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 
