@@ -147,7 +147,7 @@ to us.
 
 In order to get stuff done fast I think we should strive to do fewer
 things. At first this sounds quite strange, but it's a
-<a href="http://en.wikipedia.org/wiki/Little&#39;s_law"
+<a href="http://en.wikipedia.org/wiki/Little's_law"
 target="_blank">mathematical fact</a> that the fewer things you do at
 the same time the faster it goes. You can see this in action in a
 simulation I did a couple of months ago:

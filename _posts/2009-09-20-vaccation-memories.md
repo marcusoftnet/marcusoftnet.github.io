@@ -50,7 +50,7 @@ Ireland sea.
 src="http://lh6.ggpht.com/_TI0jeIedRFk/SrY_j9x0iyI/AAAAAAAAAIc/kj61gOo2tHQ/DSC_1072_thumb%5B1%5D.jpg?imgmax=800"
 style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px"
 data-border="0" width="192" height="280"
-alt="Albert in Västra bodarna where his cousin Hilda is living. She wasn&#39;t born yet, but is now." />](http://lh4.ggpht.com/_TI0jeIedRFk/SrY_jQMoa1I/AAAAAAAAAIY/6Ypv5b7S_ko/s1600-h/DSC_1072%5B3%5D.jpg)
+alt="Albert in Västra bodarna where his cousin Hilda is living. She wasn't born yet, but is now." />](http://lh4.ggpht.com/_TI0jeIedRFk/SrY_jQMoa1I/AAAAAAAAAIY/6Ypv5b7S_ko/s1600-h/DSC_1072%5B3%5D.jpg)
 
 Albert in Västra bodarna where his cousin Hilda is living. She wasn't
 born yet, but is now.  

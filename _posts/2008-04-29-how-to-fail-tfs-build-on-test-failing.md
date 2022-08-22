@@ -17,7 +17,7 @@ fail in my build script the build script happily ran along after that!?
 Isn't one of the ideas with <a
 href="http://www.martinfowler.com/articles/continuousIntegration.html"
 class="l"
-onmousedown="return clk(this.href,&#39;&#39;,&#39;&#39;,&#39;res&#39;,&#39;1&#39;,&#39;&#39;)">Continuous
+onmousedown="return clk(this.href,'','','res','1','')">Continuous
 Integration</a> that the build script only will emit working versions?
 
 Well in [this article Aaron Hallberg](http://blogs.msdn.com/aaronhallberg/archive/2007/11/05/how-to-fail-a-build-when-tests-fail.aspx)

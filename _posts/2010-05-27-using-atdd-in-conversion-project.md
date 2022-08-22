@@ -34,7 +34,7 @@ when you’re done”.
 
 And also as most VB6 applications still living today are old application
 the violation of the
-<a href="http://en.wikipedia.org/wiki/Don&#39;t_repeat_yourself"
+<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself"
 target="_blank">DRY principle</a> in code and documentation has been
 painfully clear. What I mean by that is that the documentation (if
 present at all) very seldom reflect the actual behavior of the

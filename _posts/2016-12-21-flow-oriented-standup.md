@@ -84,7 +84,7 @@ Especially that last one is troublesome I think. Many projects run into the gree
 
 Therefore I tweeted this the other day:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t ask &quot;how much is done&quot;. <br>Ask &quot;what can I use in production now?&quot; <a href="https://twitter.com/hashtag/workingSoftware?src=hash">#workingSoftware</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/809726873467027456">December 16, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don't ask &quot;how much is done&quot;. <br>Ask &quot;what can I use in production now?&quot; <a href="https://twitter.com/hashtag/workingSoftware?src=hash">#workingSoftware</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/809726873467027456">December 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I don't care how many things are going on, or how many percent done we are. What is used in production and what is not - that's the only real progress measure. See the [7th principle of the Agile Manifesto](http://agilemanifesto.org/principles.html)

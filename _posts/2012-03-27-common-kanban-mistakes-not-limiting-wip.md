@@ -50,7 +50,7 @@ at the same time?
 Well – you can say a lot about this but a very basic thing is that with
 less stuff going on at the same time each item will take shorter time to
 complete, according to a mathematical law called
-<a href="http://en.wikipedia.org/wiki/Little&#39;s_law"
+<a href="http://en.wikipedia.org/wiki/Little's_law"
 target="_blank">Little's Law</a>.
 So less stuff going on at the same time will improve our lead time or
 time through the whole process. (In fact it may just improve our cycle

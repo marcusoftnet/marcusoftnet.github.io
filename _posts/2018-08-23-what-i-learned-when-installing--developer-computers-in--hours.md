@@ -127,7 +127,7 @@ Turns out - git is installed as part of the installation of [HomeBrew](https://b
 
 To put it differently: I needed to install Homebrew, to install git that I need to do the installation. This my friends is called [Yak Shaving](https://whatis.techtarget.com/definition/yak-shaving)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A fully shaved Yak. <br>.<br>.<br>.<br>I won&#39;t say how long it took. <a href="https://t.co/sSWC1Pk7wH">pic.twitter.com/sSWC1Pk7wH</a></p>&mdash; mike rizzi (@rizzi) <a href="https://twitter.com/rizzi/status/1030752083975327746?ref_src=twsrc%5Etfw">August 18, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A fully shaved Yak. <br>.<br>.<br>.<br>I won't say how long it took. <a href="https://t.co/sSWC1Pk7wH">pic.twitter.com/sSWC1Pk7wH</a></p>&mdash; mike rizzi (@rizzi) <a href="https://twitter.com/rizzi/status/1030752083975327746?ref_src=twsrc%5Etfw">August 18, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I ended up with a single script that I could trigger with one command to do the full installation. Here's the script

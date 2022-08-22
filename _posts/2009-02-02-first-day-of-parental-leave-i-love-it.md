@@ -23,7 +23,7 @@ to see how he is developed. Here is one from a few days back.
 src="http://lh3.ggpht.com/_kkDJOSPNTLs/SYcCcEgPtFI/AAAAAAAAAhE/Z4YNR7d5its/DSC_0242_thumb%5B1%5D.jpg?imgmax=800"
 style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px"
 data-border="0" width="322" height="225"
-alt="Albert - he knows that he can&#39;t go there..." />](http://lh5.ggpht.com/_kkDJOSPNTLs/SYcCbmvfeaI/AAAAAAAAAhA/Vs0ND16MLI4/s1600-h/DSC_0242%5B3%5D.jpg)
+alt="Albert - he knows that he can't go there..." />](http://lh5.ggpht.com/_kkDJOSPNTLs/SYcCbmvfeaI/AAAAAAAAAhA/Vs0ND16MLI4/s1600-h/DSC_0242%5B3%5D.jpg)
 
 Right now he'll walk if I hold his hands, and he talks a lot with two
 words: Pappa and Albert.

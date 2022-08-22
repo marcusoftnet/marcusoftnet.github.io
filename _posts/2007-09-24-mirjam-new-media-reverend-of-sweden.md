@@ -25,7 +25,7 @@ Well - if you missed it, it's about ten minutes of sharp-edge thinking.
 And you can [see it again
 here](http://www.svt.se/svt/jsp/Crosslink.jsp?d=69758) (Click on
 "<a href="javascript:SgOpenArgs(" target="_top"
-data-d="52840&amp;lid=puff_836905&amp;lpos=lasMer&#39;,&#39;largevideoplayer&#39;,790,600,&#39;scrolling=no,resizable=no,status=yes&#39;)&quot;">Se
+data-d="52840&amp;lid=puff_836905&amp;lpos=lasMer','largevideoplayer',790,600,'scrolling=no,resizable=no,status=yes')&quot;">Se
 programmen i SVT Play</a>"
 and choose the 15 sept show).
 

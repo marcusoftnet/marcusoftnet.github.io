@@ -28,7 +28,7 @@ of summer-feeling...
 src="http://lh5.ggpht.com/_TI0jeIedRFk/SawamSqLuWI/AAAAAAAAADQ/473WJ40o8rE/DSC_0302_thumb%5B3%5D.jpg?imgmax=800"
 style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px"
 data-border="0" width="500" height="338"
-alt="Mmmm - soon it&#39;s time for the famous fika" />](http://lh6.ggpht.com/_TI0jeIedRFk/SawalVpEO7I/AAAAAAAAADM/orwa_aW3vl4/s1600-h/DSC_0302%5B5%5D.jpg)
+alt="Mmmm - soon it's time for the famous fika" />](http://lh6.ggpht.com/_TI0jeIedRFk/SawalVpEO7I/AAAAAAAAADM/orwa_aW3vl4/s1600-h/DSC_0302%5B5%5D.jpg)
 
 [<img
 src="http://lh5.ggpht.com/_TI0jeIedRFk/SawaqL5AlZI/AAAAAAAAADY/UwzXoJdfZt4/DSC_0326_thumb%5B1%5D.jpg?imgmax=800"

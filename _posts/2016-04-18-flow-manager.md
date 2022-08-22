@@ -22,7 +22,7 @@ I'm not a *agile coach* since that's a term that I barely myself understand what
 
 So I tweeted:
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">On Monday I&#39;m requesting a new name for my role: Flow Manager - measured on lead time. <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/Kanban?src=hash">#Kanban</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/718781268113170432">April 9, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">On Monday I'm requesting a new name for my role: Flow Manager - measured on lead time. <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/Kanban?src=hash">#Kanban</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/718781268113170432">April 9, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Let me describe what I mean.

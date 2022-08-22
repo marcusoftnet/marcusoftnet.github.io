@@ -102,7 +102,7 @@ code</a>. It makes me think about what is needed and how I am going to
 use it – before I write the production code. It helps me to flesh out
 dependencies and structure even before the code is produced. And I don’t
 write stuff I don’t need –
-<a href="http://en.wikipedia.org/wiki/You_ain&#39;t_gonna_need_it"
+<a href="http://en.wikipedia.org/wiki/You_ain't_gonna_need_it"
 target="_blank">YAGNI</a>.
 
 Oh yeah – as a funny side effect I get a test that will tell me if any

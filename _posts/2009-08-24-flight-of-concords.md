@@ -27,7 +27,7 @@ style="margin: 0px; padding: 0px; display: inline;">
 <a href="http://www.youtube.com/watch?v=mlYkIJVguCU" target="_new"><img
 src="http://lh4.ggpht.com/_TI0jeIedRFk/SpI4UCCp6VI/AAAAAAAAAGs/g1K7TQZv4SA/video634d9e170b03%5B3%5D.jpg?imgmax=800"
 style="border-style: none" data-galleryimg="no"
-onload="var downlevelDiv = document.getElementById(&#39;74fee766-78e8-4155-b9a8-fdaf3e15239b&#39;); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/mlYkIJVguCU&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/mlYkIJVguCU&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" /></a>
+onload="var downlevelDiv = document.getElementById('74fee766-78e8-4155-b9a8-fdaf3e15239b'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/mlYkIJVguCU&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/mlYkIJVguCU&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" /></a>
 
 </div>
 
@@ -50,7 +50,7 @@ style="margin: 0px; padding: 0px; display: inline;">
 <a href="http://www.youtube.com/watch?v=X-jVAHAuiS4" target="_new"><img
 src="http://lh3.ggpht.com/_TI0jeIedRFk/SpI4UlOqB5I/AAAAAAAAAGw/2UqCo9tg-qQ/videoe0cf7593dae7%5B3%5D.jpg?imgmax=800"
 style="border-style: none" data-galleryimg="no"
-onload="var downlevelDiv = document.getElementById(&#39;e65b45f0-43e7-46a4-9f11-181b80fbc849&#39;); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/X-jVAHAuiS4&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/X-jVAHAuiS4&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" /></a>
+onload="var downlevelDiv = document.getElementById('e65b45f0-43e7-46a4-9f11-181b80fbc849'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/X-jVAHAuiS4&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/X-jVAHAuiS4&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" /></a>
 
 </div>
 

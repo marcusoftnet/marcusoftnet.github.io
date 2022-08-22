@@ -129,6 +129,6 @@ etc.
 
 I'm a firm believer that small things is better than big things. And I
 know that many organizations today is not organized to handle that, as
-stated in <a href="http://en.wikipedia.org/wiki/Conway&#39;s_law"
+stated in <a href="http://en.wikipedia.org/wiki/Conway's_law"
 target="_blank">Conways Law in 1968</a>, but the to start striving for
 smaller and smaller things is always worth the journey.

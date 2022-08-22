@@ -78,7 +78,7 @@ Mindlessly go for what I started with "ALL WASTE MUST DIE" will not lead us to a
 
 I'll let Paul Klipp finish:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/tastapod">@tastapod</a> I said they&#39;re waste, not that they&#39;re bad. <a href="https://twitter.com/marcusoftnet">@marcusoftnet</a> <a href="https://twitter.com/DReinertsen">@dreinertsen</a> <a href="https://twitter.com/duarte_vasco">@duarte_vasco</a></p>&mdash; Paul Klipp (@paulklipp) <a href="https://twitter.com/paulklipp/status/597045004465483776">May 9, 2015</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/tastapod">@tastapod</a> I said they're waste, not that they're bad. <a href="https://twitter.com/marcusoftnet">@marcusoftnet</a> <a href="https://twitter.com/DReinertsen">@dreinertsen</a> <a href="https://twitter.com/duarte_vasco">@duarte_vasco</a></p>&mdash; Paul Klipp (@paulklipp) <a href="https://twitter.com/paulklipp/status/597045004465483776">May 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Maybe a little waste can be present and we can still be great. Or not? Real life is more complicated than to divide the world in good and bad.

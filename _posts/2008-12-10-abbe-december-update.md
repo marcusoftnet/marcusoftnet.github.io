@@ -23,7 +23,7 @@ Almost forgot - he said a very loud and clear "PAPPA" last week!
 src="http://lh3.ggpht.com/_kkDJOSPNTLs/ST7prZlXVrI/AAAAAAAAAY4/0WxmA2SHBjU/DSC_0040_thumb%5B3%5D.jpg?imgmax=800"
 style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px"
 data-border="0" width="360" height="247"
-alt="This was the last time Elins cellphone worked ;) It&#39;s true!" />](http://lh5.ggpht.com/_kkDJOSPNTLs/ST7pqvAoSBI/AAAAAAAAAY0/cmdwYs7cT10/s1600-h/DSC_0040%5B5%5D.jpg)
+alt="This was the last time Elins cellphone worked ;) It's true!" />](http://lh5.ggpht.com/_kkDJOSPNTLs/ST7pqvAoSBI/AAAAAAAAAY0/cmdwYs7cT10/s1600-h/DSC_0040%5B5%5D.jpg)
 
 [<img
 src="http://lh6.ggpht.com/_kkDJOSPNTLs/ST7pwYiyiLI/AAAAAAAAAZA/cjglPnoGSUU/DSC_0045_thumb%5B1%5D.jpg?imgmax=800"

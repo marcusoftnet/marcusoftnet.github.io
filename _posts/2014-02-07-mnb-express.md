@@ -241,7 +241,7 @@ of functions, but it's really how Express is stitched together.
 
 We have already seen
 the <a href="http://expressjs.com/api.html#req.body"
-style="font-family: &#39;Courier New&#39;, Courier, monospace;"
+style="font-family: 'Courier New', Courier, monospace;"
 target="_blank">bodyParser()</a> in action and here are few others that
 I found useful:
 
@@ -283,7 +283,7 @@ through it:
 You could also do hard coded paths, of course (like /users) and create a
 little snippet that loads users by id. This is shown to great effect in
 the documentation for <a href="http://expressjs.com/api.html#app.param"
-style="font-family: &#39;Courier New&#39;, Courier, monospace;"
+style="font-family: 'Courier New', Courier, monospace;"
 target="_blank">app.param()</a> and I've adapted it here:
 
 ### Conclusion

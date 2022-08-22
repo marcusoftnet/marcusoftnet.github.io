@@ -177,7 +177,7 @@ team knows their capabilities at any given time better than someone
 outside the team.
 
 This is based on the thinking behind
-<a href="http://en.wikipedia.org/wiki/Little&#39;s_law"
+<a href="http://en.wikipedia.org/wiki/Little's_law"
 target="_blank">Littles Law</a>, which put simply says that the more
 items you are doing at the same time the longer each items will take. So
 for example:

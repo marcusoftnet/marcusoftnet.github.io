@@ -112,7 +112,7 @@ with all the specifications (use cases in this case) and then told me:
 
 The really scary part about that is that it was actually the best I ever
 seen. Most documentation and specifications are a violation to the
-<a href="http://en.wikipedia.org/wiki/Don&#39;t_repeat_yourself"
+<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself"
 target="_blank">DRY principle</a>. But with executable specifications
 you’re as close as it gets.
 

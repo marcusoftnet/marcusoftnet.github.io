@@ -18,7 +18,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-
 
 I have now coded away for a while and it’s time to reflect a refactor a
 bit. I don’t like code lying around that I might not need.
-<a href="http://en.wikipedia.org/wiki/You_ain&#39;t_gonna_need_it"
+<a href="http://en.wikipedia.org/wiki/You_ain't_gonna_need_it"
 target="_blank">YAGNI</a> you know...
 
 So I thought I’d give it an hour to clean stuff up. And maybe put some
@@ -108,7 +108,7 @@ know much about.
 
 But first – I’m looping over two collections of KanbanBoards, creating
 the same HTML. That doesn’t feel
-<a href="http://en.wikipedia.org/wiki/Don&#39;t_repeat_yourself"
+<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself"
 target="_blank">DRY</a> at all. So I used the Html.RenderPartial() –
 method like this:
 

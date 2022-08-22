@@ -40,7 +40,7 @@ to remember. Even if you wrote all of it yourself. You soon start to
 want some kind of documentation for the supported regular expressions of
 your steps. But you don’t want to write that documentation. It’s a
 violation to the
-<a href="http://en.wikipedia.org/wiki/Don&#39;t_repeat_yourself"
+<a href="http://en.wikipedia.org/wiki/Don't_repeat_yourself"
 target="_blank">DRY-principle</a> in my opinion.
 
 The coolest thing would be if SpecFlow could give you some kind of
