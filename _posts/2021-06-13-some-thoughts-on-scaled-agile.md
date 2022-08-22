@@ -2,9 +2,8 @@
 layout: post
 title: Some thoughts on scaled agile
 author: Marcus Hammarberg
-date: 2021-06-13 10:05:01
+date: 2021-06-13T10:05:01.000Z
 tags:
-
   - Agile
 ---
 

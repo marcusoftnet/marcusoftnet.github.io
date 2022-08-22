@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Supported Step Exporter – watch your language
-date: 2010-10-08T16:27:00.001+02:00
+date: 2010-10-08T14:27:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-
   - C#
   - SpecFlow
-modified_time: 2010-12-14T16:22:38.153+01:00
+modified_time: 2010-12-14T15:22:38.153Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8540178614606428776
 blogger_orig_url: http://www.marcusoft.net/2010/10/supported-step-exporter-watch-your.html
 ---

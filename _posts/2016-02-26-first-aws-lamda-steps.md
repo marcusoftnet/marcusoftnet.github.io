@@ -2,11 +2,11 @@
 layout: post
 title: First AWS Lambda steps - using ClaudiaJs
 author: Marcus Hammarberg
-date: 2016-02-29 12:52:28
+date: 2016-02-29T12:52:28.000Z
 tags:
- - Tools
- - Node
- - Claudia
+  - Tools
+  - Node
+  - Claudia
 ---
 
 First time I heard about [AWS Lambda](https://aws.amazon.com/lambda/) my mind was blown to pieces. Quite simply AWS Lambda gives you the opportunity to run a piece of code without concerning yourself about the infrastructure - AWS will handle deployment, configuration, scaling and all of that stuff. You just push your code.

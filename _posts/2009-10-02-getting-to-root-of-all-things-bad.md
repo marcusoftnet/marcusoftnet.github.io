@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Getting to the root of all things bad
-date: 2009-10-01T21:13:00.001+02:00
+date: 2009-10-01T19:13:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-
   - Agile
-modified_time: 2010-12-14T16:22:38.186+01:00
+modified_time: 2010-12-14T15:22:38.186Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4716867737996249294
 blogger_orig_url: http://www.marcusoft.net/2009/10/getting-to-root-of-all-things-bad.html
 ---

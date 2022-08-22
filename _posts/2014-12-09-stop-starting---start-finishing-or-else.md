@@ -2,11 +2,11 @@
 layout: post
 title: Stop starting - start finishing, or else...
 author: Marcus Hammarberg
-date: 2014-12-09 08:08:39
+date: 2014-12-09T08:08:39.000Z
 tags:
-- Agile
-- Lean
-- Kanban
+  - Agile
+  - Lean
+  - Kanban
 ---
 
 <img src="/img/stopStarting.jpg" style="float:right" width="50%">The "Stop starting - start finishing"-slogan has been the call to action for kanban practitioners for a long time. In Stockholm there's even a conference each year named just that.

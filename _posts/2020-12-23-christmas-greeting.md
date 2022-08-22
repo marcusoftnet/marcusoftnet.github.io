@@ -2,9 +2,9 @@
 layout: post
 title: Christmas greeting
 author: Marcus Hammarberg
-date: 2020-12-23 10:17:33
+date: 2020-12-23T10:17:33.000Z
 tags:
- - Marcus private
+  - Marcus private
 ---
 
 This year has been a very strange one, for most of us. I thought I'd share a little Christmas Greeting.

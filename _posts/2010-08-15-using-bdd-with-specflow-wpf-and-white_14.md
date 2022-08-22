@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Using BDD with SpecFlow, WPF and White
-date: 2010-08-14T21:06:00.001+02:00
+date: 2010-08-14T19:06:00.001Z
 author: Marcus Hammarberg
 tags:
   - VB.NET - BDD
   - Tools
   - .NET
   - Agile
-modified_time: 2010-12-14T16:22:38.155+01:00
-thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb%5B6%5D.jpg?imgmax=800
+modified_time: 2010-12-14T15:22:38.155Z
+thumbnail: >-
+  http://lh3.ggpht.com/\_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb%5B6%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4211414648845018243
 blogger_orig_url: http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html
 ---

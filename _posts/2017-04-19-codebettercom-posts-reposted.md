@@ -2,7 +2,7 @@
 layout: post
 title: CodeBetter.com posts reposted
 author: Marcus Hammarberg
-date: 2017-04-19 15:30:39
+date: 2017-04-19T15:30:39.000Z
 tags:
   - Life of a consultant
   - CodeBetter

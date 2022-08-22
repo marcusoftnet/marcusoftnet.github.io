@@ -2,11 +2,11 @@
 layout: post
 title: Me and my kidneys
 author: Marcus Hammarberg
-date: 2015-11-07 12:46:41
+date: 2015-11-07T12:46:41.000Z
 tags:
- - Marcus private
-
-  - Indonesia
+  - |-
+    Marcus private
+    - Indonesia
 ---
 
 Instead of posting this longish description in the social medias I thought I'd write it up here. That way it's easier to refer people here instead.

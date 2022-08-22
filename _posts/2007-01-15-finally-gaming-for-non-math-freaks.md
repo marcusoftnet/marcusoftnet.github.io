@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Finally - Gaming for non-math-freaks!
-date: 2007-01-15T08:21:00.000+01:00
+date: 2007-01-15T07:21:00.000Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: 2010-12-14T16:22:38.389+01:00
+modified_time: 2010-12-14T15:22:38.389Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3453668134450807618
 blogger_orig_url: http://www.marcusoft.net/2007/01/finally-gaming-for-non-math-freaks.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpecFlow.Assist.Dynamic–maxing out with Simple.Data
-date: 2011-11-02T08:00:00.000+01:00
+date: 2011-11-02T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -10,7 +10,7 @@ tags:
   - Specification by example
   - C#
   - SpecFlow
-modified_time: 2011-11-03T16:34:05.677+01:00
+modified_time: 2011-11-03T15:34:05.677Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-508246732156716014
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
 ---

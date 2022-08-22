@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Configure WCF in IIS for anonymous access
-date: 2010-05-06T09:15:00.001+02:00
+date: 2010-05-06T07:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - MSBuild - WCF
-modified_time: 2010-05-06T09:16:04.780+02:00
+modified_time: 2010-05-06T07:16:04.780Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1742965287199499064
 blogger_orig_url: http://www.marcusoft.net/2010/05/configure-wcf-in-iis-for-anonymous.html
 ---

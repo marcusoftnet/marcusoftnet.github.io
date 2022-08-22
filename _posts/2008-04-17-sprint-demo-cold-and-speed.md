@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sprint demo, cold and speed
-date: 2008-04-17T08:18:00.007+02:00
+date: 2008-04-17T06:18:00.007Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-modified_time: 2008-05-16T08:13:47.615+02:00
+modified_time: 2008-05-16T06:13:47.615Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7921648991803962963
 blogger_orig_url: http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html
 ---

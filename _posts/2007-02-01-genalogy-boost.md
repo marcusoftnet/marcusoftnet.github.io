@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Genalogy boost
-date: 2007-02-01T11:52:00.000+01:00
+date: 2007-02-01T10:52:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2007-02-01T11:54:30.133+01:00
+modified_time: 2007-02-01T10:54:30.133Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4329965198424814043
 blogger_orig_url: http://www.marcusoft.net/2007/02/genalogy-boost.html
 ---

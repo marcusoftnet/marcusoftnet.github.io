@@ -2,11 +2,11 @@
 layout: post
 title: Scraping functionally - to save my inheritance
 author: Marcus Hammarberg
-date: 2019-08-24 12:33:13
+date: 2019-08-24T12:33:13.000Z
 tags:
- - Programming
- - Javascript
- - Node
+  - Programming
+  - Javascript
+  - Node
 ---
 
 Many years ago I wrote a little site to keep track of fun things that my (then only one) son Albert said. I called it [Abbe Says](http://abbesays.apphb.com/Quotes/) and it has been granting us and our friends great joy.

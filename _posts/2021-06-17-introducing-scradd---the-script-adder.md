@@ -2,10 +2,10 @@
 layout: post
 title: Introducing ScrAdd - the script adder
 author: Marcus Hammarberg
-date: 2021-06-17 14:34:47
+date: 2021-06-17T14:34:47.000Z
 tags:
- - JavaScript
- - Tools
+  - JavaScript
+  - Tools
 ---
 
 I’ve been increasingly annoyed with the fact there’s no easy way to add scripts to a `package.json` file programmatically. It always messes up my lovely scripts for tutorial setups and other use cases. Very frustrating.

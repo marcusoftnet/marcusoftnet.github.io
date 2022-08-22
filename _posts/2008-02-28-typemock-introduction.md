@@ -1,12 +1,12 @@
 ---
 layout: post
 title: TypeMock - an introduction
-date: 2008-02-28T09:58:00.004+01:00
+date: 2008-02-28T08:58:00.004Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - TDD
-modified_time: 2008-03-14T07:34:11.477+01:00
+modified_time: 2008-03-14T06:34:11.477Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8848933600414376144
 blogger_orig_url: http://www.marcusoft.net/2008/02/typemock-introduction.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Wedding-times
-date: 2007-05-28T07:38:00.000+02:00
+date: 2007-05-28T05:38:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2007-05-28T08:01:12.526+02:00
+modified_time: 2007-05-28T06:01:12.526Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4113049112209668925
 blogger_orig_url: http://www.marcusoft.net/2007/05/wedding-times.html
 ---

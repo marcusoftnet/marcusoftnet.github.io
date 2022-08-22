@@ -2,11 +2,11 @@
 layout: post
 title: What I've learned from 'How to measure anything'
 author: Marcus Hammarberg
-date: 2014-12-13
+date: 2014-12-13T00:00:00.000Z
 tags:
-- Agile
-- Lean
-- Life of a consultant
+  - Agile
+  - Lean
+  - Life of a consultant
 ---
 
 When <a href="http://joakimsunden.com">Joakim</a> and I wrote the book we had a chapter on measurement in it, chapter 11 - "Using metrics to guide improvements". It was intended to show a few ways that metrics can be used in a flow-based process that uses kanban for improvements.

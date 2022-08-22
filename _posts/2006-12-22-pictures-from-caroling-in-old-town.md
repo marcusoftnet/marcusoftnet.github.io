@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Pictures from caroling in Old Town
-date: 2006-12-22T07:42:00.000+01:00
+date: 2006-12-22T06:42:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
-modified_time: 2006-12-22T07:47:11.394+01:00
-thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYt-3N7AojI/AAAAAAAAADQ/JV8yRg-gkEA/s72-c/Tessin061219+027.jpg
+modified_time: 2006-12-22T06:47:11.394Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYt-3N7AojI/AAAAAAAAADQ/JV8yRg-gkEA/s72-c/Tessin061219+027.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-25664959498094613
 blogger_orig_url: http://www.marcusoft.net/2006/12/pictures-from-caroling-in-old-town.html
 ---

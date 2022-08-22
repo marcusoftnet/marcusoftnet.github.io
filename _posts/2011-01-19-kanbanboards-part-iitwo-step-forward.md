@@ -1,15 +1,16 @@
 ---
 layout: post
 title: KanbanBoards part II–two step forward and one back
-date: 2011-01-19T00:05:00.001+01:00
+date: 2011-01-18T23:05:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - ASP.NET MVC
   - KanbanBoards
-modified_time: 2011-01-19T00:12:04.743+01:00
-thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TTYchqvu2RI/AAAAAAAAAsE/S1AUq5UoCq0/s72-c/intial%20steps_thumb%5B2%5D.jpg?imgmax=800
+modified_time: 2011-01-18T23:12:04.743Z
+thumbnail: >-
+  http://lh3.ggpht.com/\_TI0jeIedRFk/TTYchqvu2RI/AAAAAAAAAsE/S1AUq5UoCq0/s72-c/intial%20steps_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1192963568942273739
 blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
 ---

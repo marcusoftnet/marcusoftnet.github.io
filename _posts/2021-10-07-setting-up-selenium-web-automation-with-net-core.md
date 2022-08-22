@@ -2,11 +2,10 @@
 layout: post
 title: Writing a Selenium test using .NET core and Visual Studio Code
 author: Marcus Hammarberg
-date: 2021-10-07 21:27:54
+date: 2021-10-07T21:27:54.000Z
 tags:
- - .NET
-  - Life of a consultant
- - Programming
+  - .NET - Life of a consultant
+  - Programming
 ---
 
 I'm rediscovering my first programming love; .NET. I'm having a blast and .NET core keeps giving.

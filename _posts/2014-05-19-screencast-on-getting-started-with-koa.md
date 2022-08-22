@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Screencast on Getting started with Koa Js
-date: 2014-05-19T06:42:00.001+02:00
+date: 2014-05-19T04:42:00.001Z
 author: Marcus Hammarberg
 tags:
   - Javascript
   - Tools - Koa
   - Life of a consultant
-modified_time: 2014-05-19T10:44:20.456+02:00
+modified_time: 2014-05-19T08:44:20.456Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2777218186814061355
 blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-on-getting-started-with-koa.html
 ---

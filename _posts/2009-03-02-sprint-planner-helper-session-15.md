@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 15
-date: 2009-03-01T22:13:00.001+01:00
+date: 2009-03-01T21:13:00.001Z
 author: Marcus Hammarberg
 tags:
   - ASP.NET MVC - Sprint Planner Helper
   - TDD
-modified_time: 2009-05-05T11:25:13.029+02:00
+modified_time: 2009-05-05T09:25:13.029Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3480546717605318518
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-15.html
 ---

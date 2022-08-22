@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Bad Request/Underlying connection was closed problem solved
-date: 2007-05-31T15:05:00.000+02:00
+date: 2007-05-31T13:05:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2011-10-03T12:30:40.580+02:00
+modified_time: 2011-10-03T10:30:40.580Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4851332309945351177
 blogger_orig_url: http://www.marcusoft.net/2007/05/bad-requestunderlying-connection-was.html
 ---

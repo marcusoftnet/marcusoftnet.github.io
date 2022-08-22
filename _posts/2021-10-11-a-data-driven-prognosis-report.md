@@ -2,9 +2,8 @@
 layout: post
 title: A data-driven prognosis report
 author: Marcus Hammarberg
-date: 2021-10-11 15:04:16
+date: 2021-10-11T15:04:16.000Z
 tags:
-
   - Agile
   - Life of a consultant
 ---

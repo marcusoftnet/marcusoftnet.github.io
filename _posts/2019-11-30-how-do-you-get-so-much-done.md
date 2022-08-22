@@ -2,7 +2,7 @@
 layout: post
 title: How do you get so much done?
 author: Marcus Hammarberg
-date: 2019-11-30 16:46:29
+date: 2019-11-30T16:46:29.000Z
 tags:
   - Agile
   - Lean

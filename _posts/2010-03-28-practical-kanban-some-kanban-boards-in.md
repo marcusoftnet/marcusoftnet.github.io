@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Practical Kanban – some Kanban boards in practices
-date: 2010-03-28T12:07:00.001+02:00
+date: 2010-03-28T10:07:00.001Z
 author: Marcus Hammarberg
 tags:
   - Kanban
   - Agile
-modified_time: 2010-03-28T12:22:41.725+02:00
+modified_time: 2010-03-28T10:22:41.725Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4252109985727479839
 blogger_orig_url: http://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html
 ---

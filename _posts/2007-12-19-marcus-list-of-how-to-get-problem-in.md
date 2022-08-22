@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Marcus list of how to get problem in a system developement project
-date: 2007-12-19T13:47:00.000+01:00
+date: 2007-12-19T12:47:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-modified_time: 2007-12-19T14:26:36.977+01:00
+modified_time: 2007-12-19T13:26:36.977Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8688277135535059373
 blogger_orig_url: http://www.marcusoft.net/2007/12/marcus-list-of-how-to-get-problem-in.html
 ---

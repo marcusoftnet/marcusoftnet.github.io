@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Convert C# to VB.NET and back again
-date: 2008-01-09T10:11:00.000+01:00
+date: 2008-01-09T09:11:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - C#
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.496+01:00
+modified_time: 2010-12-14T15:19:05.496Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7418565028219310670
 blogger_orig_url: http://www.marcusoft.net/2008/01/convert-c-to-vbnet-and-back-again.html
 ---

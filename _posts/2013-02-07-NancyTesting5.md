@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nancy.Testing - executable specifications through the full stack, in memory
-date: 2013-02-07T14:55:00.003+01:00
+date: 2013-02-07T13:55:00.003Z
 author: Marcus Hammarberg
 tags:
   - Nancy
@@ -10,8 +10,9 @@ tags:
   - Specification by example
   - C#
   - SpecFlow
-modified_time: 2014-06-21T02:09:55.466+02:00
-thumbnail: http://4.bp.blogspot.com/-4ITuI6HkUQ0/UROeBmSi6nI/AAAAAAAABaY/TDU-LChRDVU/s72-c/Screen+Shot+2013-02-07+at+13.24.53+.png
+modified_time: 2014-06-21T00:09:55.466Z
+thumbnail: >-
+  http://4.bp.blogspot.com/-4ITuI6HkUQ0/UROeBmSi6nI/AAAAAAAABaY/TDU-LChRDVU/s72-c/Screen+Shot+2013-02-07+at+13.24.53+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3220746848691426022
 blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting5.html
 ---

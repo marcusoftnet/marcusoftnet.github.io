@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Specification by example – the missing link?
-date: 2010-04-22T20:01:00.001+02:00
+date: 2010-04-22T18:01:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD - DDD
   - Life of a consultant
-
   - Kanban
   - crum
-
   - Agile
-modified_time: 2010-04-22T20:01:43.927+02:00
+modified_time: 2010-04-22T18:01:43.927Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7935641062205744091
 blogger_orig_url: http://www.marcusoft.net/2010/04/specification-by-example-missing-link.html
 ---

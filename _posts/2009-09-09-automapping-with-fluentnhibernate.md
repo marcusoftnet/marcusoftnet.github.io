@@ -1,13 +1,12 @@
 ---
 layout: post
 title: AutoMapping with FluentNHibernate
-date: 2009-09-09T09:25:00.001+02:00
+date: 2009-09-09T07:25:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
-  - .NET
-   - NHibernate
-modified_time: 2010-12-14T16:19:35.817+01:00
+  - .NET - NHibernate
+modified_time: 2010-12-14T15:19:35.817Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5160606586149394728
 blogger_orig_url: http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html
 ---

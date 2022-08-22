@@ -1,13 +1,13 @@
 ---
 layout: post
 title: TFS Build watcher - finally
-date: 2007-09-19T10:33:00.000+02:00
+date: 2007-09-19T08:33:00.000Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
   - TFS
-modified_time: 2010-12-14T16:22:38.318+01:00
+modified_time: 2010-12-14T15:22:38.318Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3393779877548953569
 blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-build-watcher-finally.html
 ---

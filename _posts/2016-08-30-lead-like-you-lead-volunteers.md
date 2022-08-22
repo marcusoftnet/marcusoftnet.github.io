@@ -2,7 +2,7 @@
 layout: post
 title: Lead like you lead volunteers
 author: Marcus Hammarberg
-date: 2016-08-30 20:15:40
+date: 2016-08-30T20:15:40.000Z
 tags:
   - Agile
   - Lean

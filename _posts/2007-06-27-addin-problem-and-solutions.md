@@ -1,12 +1,12 @@
 ---
 layout: post
 title: AddIn - problem and solutions
-date: 2007-06-27T08:00:00.001+02:00
+date: 2007-06-27T06:00:00.001Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.559+01:00
+modified_time: 2010-12-14T15:19:05.559Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6945667093817128955
 blogger_orig_url: http://www.marcusoft.net/2007/06/addin-problem-and-solutions.html
 ---

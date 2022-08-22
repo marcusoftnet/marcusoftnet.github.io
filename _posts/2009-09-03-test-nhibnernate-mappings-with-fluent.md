@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Test NHibnernate mappings with Fluent NHibnernate
-date: 2009-09-03T15:21:00.001+02:00
+date: 2009-09-03T13:21:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - NHibernate
   - Agile
-modified_time: 2010-12-14T16:22:38.192+01:00
+modified_time: 2010-12-14T15:22:38.192Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3155308461422640762
 blogger_orig_url: http://www.marcusoft.net/2009/09/test-nhibnernate-mappings-with-fluent.html
 ---

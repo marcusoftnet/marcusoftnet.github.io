@@ -2,9 +2,9 @@
 layout: post
 title: Marcus and the wall
 author: Marcus Hammarberg
-date: 2020-10-07 15:32:28
+date: 2020-10-07T15:32:28.000Z
 tags:
- - Marcus Private
+  - Marcus Private
 ---
 
 The thing that I’ve feared but never thought would happen has come to me to.

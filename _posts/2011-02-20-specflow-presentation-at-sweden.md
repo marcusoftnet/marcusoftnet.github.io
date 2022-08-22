@@ -1,15 +1,14 @@
 ---
 layout: post
 title: SpecFlow presentation at Sweden Progressive .NET
-date: 2011-02-20T12:33:00.001+01:00
+date: 2011-02-20T11:33:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-
   - Agile
   - SpecFlow
-modified_time: 2013-08-22T11:59:06.452+02:00
+modified_time: 2013-08-22T09:59:06.452Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6620558657478065759
 blogger_orig_url: http://www.marcusoft.net/2011/02/specflow-presentation-at-sweden.html
 ---

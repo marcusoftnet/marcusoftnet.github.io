@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Sending parameters to msbuild in TFS
-date: 2008-04-10T08:28:00.009+02:00
+date: 2008-04-10T06:28:00.009Z
 author: Marcus Hammarberg
 tags:
-
   - TFS
   - MSBuild
-modified_time: 2008-04-10T12:36:33.778+02:00
+modified_time: 2008-04-10T10:36:33.778Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5196648005050045479
 blogger_orig_url: http://www.marcusoft.net/2008/04/sending-parameters-to-msbuild-in-tfs.html
 ---

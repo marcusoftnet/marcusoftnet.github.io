@@ -2,10 +2,9 @@
 layout: post
 title: Summarizing and filtering data with QUERY and a Google Sheet drop-down
 author: Marcus Hammarberg
-date: 2018-01-31 13:11:41
+date: 2018-01-31T13:11:41.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 I had another opportunity to learn a thing or two about Google Sheets and it's internal functions. Again. [On a similar topic as last time](http://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html).

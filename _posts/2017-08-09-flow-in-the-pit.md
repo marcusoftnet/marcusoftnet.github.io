@@ -2,13 +2,12 @@
 layout: post
 title: Flow in the F1-pit - thoughts on an inspiring video
 author: Marcus Hammarberg
-date: 2017-08-09 11:26:20
+date: 2017-08-09T11:26:20.000Z
 tags:
- - Lean
-
-  - Kanban
-
-  - Agile
+  - |-
+    Lean
+    - Kanban
+    - Agile
 ---
 
 This little clip pops up from time to time in my [twitter feed](http://twitter.com/marcusoftnet)

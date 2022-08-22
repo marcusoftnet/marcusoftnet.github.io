@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Not trying on my own
-date: 2006-12-04T07:38:00.000+01:00
+date: 2006-12-04T06:38:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-12-04T07:54:48.576+01:00
+modified_time: 2006-12-04T06:54:48.576Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-760387192628422802
 blogger_orig_url: http://www.marcusoft.net/2006/12/not-trying-on-my-own.html
 ---

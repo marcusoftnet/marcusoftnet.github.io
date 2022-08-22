@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Log4Net, RollingFile named by Date and the staticLogFileName setting
-date: 2011-12-13T13:29:00.001+01:00
+date: 2011-12-13T12:29:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Life of a consultant
-modified_time: 2011-12-13T13:29:42.279+01:00
+modified_time: 2011-12-13T12:29:42.279Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3333381899174569140
 blogger_orig_url: http://www.marcusoft.net/2011/12/log4net-and-staticlogfilename-element.html
 ---

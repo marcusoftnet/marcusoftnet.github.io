@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Create textfile on the fly in build scripts
-date: 2009-01-30T07:49:00.001+01:00
+date: 2009-01-30T06:49:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant - MSBuild
-modified_time: 2009-01-30T07:49:02.532+01:00
+modified_time: 2009-01-30T06:49:02.532Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5722330427089634050
 blogger_orig_url: http://www.marcusoft.net/2009/01/create-textfile-on-fly-in-build-scripts.html
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: EADDRINUSE when watching tests with mocha and supertest
 author: Marcus Hammarberg
-date: 2015-10-01 07:01:16
+date: 2015-10-01T07:01:16.000Z
 tags:
- - Javascript
- - Node
- - Tools
- - Koa
+  - Javascript
+  - Node
+  - Tools
+  - Koa
 ---
 You are happy to meet me among the living. The error I'm describing nearly killed me with frustration, and if that didn't happen I was about to help it by finish myself off.
 

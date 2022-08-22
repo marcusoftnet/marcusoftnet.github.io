@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Marcus on the net
-date: 2006-10-24T13:01:00.000+02:00
+date: 2006-10-24T11:01:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-10-26T07:54:47.178+02:00
+modified_time: 2006-10-26T05:54:47.178Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116168806472327241
 blogger_orig_url: http://www.marcusoft.net/2006/10/marcus-on-net.html
 ---

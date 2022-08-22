@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A night at the shelter
-date: 2008-04-15T21:36:00.005+02:00
+date: 2008-04-15T19:36:00.005Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
-modified_time: 2008-04-15T21:53:12.811+02:00
+modified_time: 2008-04-15T19:53:12.811Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-343545671301042006
 blogger_orig_url: http://www.marcusoft.net/2008/04/night-at-shelter.html
 ---

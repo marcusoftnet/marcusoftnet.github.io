@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Slow and fast
-date: 2007-10-16T07:45:00.000+02:00
+date: 2007-10-16T05:45:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
   - Scrum
-modified_time: 2014-10-28T07:25:49.243+01:00
+modified_time: 2014-10-28T06:25:49.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2396561934348658248'
 blogger_orig_url: http://www.marcusoft.net/2007/10/slow-and-fast.html
 ---

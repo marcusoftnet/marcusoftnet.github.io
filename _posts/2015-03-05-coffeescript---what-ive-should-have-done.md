@@ -2,11 +2,11 @@
 layout: post
 title: CoffeeScript - what I've should have done
 author: Marcus Hammarberg
-date: 2015-03-05 09:57:09
+date: 2015-03-05T09:57:09.000Z
 tags:
- - Javascript
- - Tools
- - Node
+  - Javascript
+  - Tools
+  - Node
 ---
 
 The blog post I [wrote yesterday](http://www.marcusoft.net/2015/03/node-with-coffeescript---not-a-piece-of-cake.html) was from my experience at the time. I even ended the post with a call out for better ways.

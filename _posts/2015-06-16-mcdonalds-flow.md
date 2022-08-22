@@ -2,12 +2,11 @@
 layout: post
 title: McDonalds - a tool to explain flow
 author: Marcus Hammarberg
-date: 2015-06-16 06:57:25
+date: 2015-06-16T06:57:25.000Z
 tags:
- - Lean
-
-  - Agile
-  - Life of a consultant
+  - |-
+    Lean
+    - Agile - Life of a consultant
 ---
 
 This post brought to you in cooperation with ... no. Just kidding.

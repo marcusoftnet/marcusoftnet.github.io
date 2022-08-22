@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Brass band European Championships 2007
-date: 2007-05-04T10:20:00.000+02:00
+date: 2007-05-04T08:20:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2007-05-04T10:28:55.105+02:00
+modified_time: 2007-05-04T08:28:55.105Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2439048477123094484
 blogger_orig_url: http://www.marcusoft.net/2007/05/brass-band-european-championships-2007.html
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: Koa Js and the power of mounting
 author: Marcus Hammarberg
-date: 2015-04-02 08:41:15
+date: 2015-04-02T08:41:15.000Z
 tags:
- - Javascript
- - Koa
- - Node
- - Tools
+  - Javascript
+  - Koa
+  - Node
+  - Tools
 ---
 
 I've been writing quite a lot of [Koa](http://koajs.com) applications, but most of them have been small. Now I'm doing a little bit bigger website. It consists of three parts:

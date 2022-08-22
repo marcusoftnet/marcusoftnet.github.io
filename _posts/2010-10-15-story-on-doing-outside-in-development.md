@@ -1,14 +1,15 @@
 ---
 layout: post
 title: A story on doing outside-in development with SpecFlow
-date: 2010-10-15T18:23:00.013+02:00
+date: 2010-10-15T16:23:00.013Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - SpecFlow
-modified_time: 2010-10-15T19:11:09.821+02:00
-thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s72-c/Screen+shot+2010-10-15+at+12.34.49.png
+modified_time: 2010-10-15T17:11:09.821Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s72-c/Screen+shot+2010-10-15+at+12.34.49.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2428948475329972132
 blogger_orig_url: http://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html
 ---

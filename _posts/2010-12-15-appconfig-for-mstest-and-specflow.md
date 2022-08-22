@@ -1,12 +1,12 @@
 ---
 layout: post
 title: App.config for SpecFlow using MsTest
-date: 2010-12-15T09:33:00.001+01:00
+date: 2010-12-15T08:33:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - SpecFlow
-modified_time: 2010-12-15T12:51:20.454+01:00
+modified_time: 2010-12-15T11:51:20.454Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5961012444005971982
 blogger_orig_url: http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html
 ---

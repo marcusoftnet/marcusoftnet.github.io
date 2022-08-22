@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Required file 'alink.dll with IAlink3' could not be found - and the solution to it
-date: 2008-04-09T08:03:00.001+02:00
+title: >-
+  Required file 'alink.dll with IAlink3' could not be found - and the solution
+  to it
+date: 2008-04-09T06:03:00.001Z
 author: Marcus Hammarberg
-tags:
-modified_time: 2008-04-09T08:03:57.771+02:00
+tags: null
+modified_time: 2008-04-09T06:03:57.771Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6751370494112070271
 blogger_orig_url: http://www.marcusoft.net/2008/04/required-file-with-ialink3-could-not-be.html
 ---

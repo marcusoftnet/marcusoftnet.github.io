@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Visual Studio 2012 Test Explorer to work with NUnit,xUnit and SpecFlow
-date: 2012-09-04T09:00:00.000+02:00
+date: 2012-09-04T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -9,8 +9,9 @@ tags:
   - Visual Studio
   - SpecFlow
   - TDD
-modified_time: 2012-09-04T09:00:07.749+02:00
-thumbnail: http://3.bp.blogspot.com/-FX9dvj7RrdI/UEOyDE4vZxI/AAAAAAAABTM/lXpDG8swOPk/s72-c/Screen+Shot+2012-09-02+at+21.18.46.png
+modified_time: 2012-09-04T07:00:07.749Z
+thumbnail: >-
+  http://3.bp.blogspot.com/-FX9dvj7RrdI/UEOyDE4vZxI/AAAAAAAABTM/lXpDG8swOPk/s72-c/Screen+Shot+2012-09-02+at+21.18.46.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5998573811657878660
 blogger_orig_url: http://www.marcusoft.net/2012/09/getting-visual-studio-2012-test.html
 ---

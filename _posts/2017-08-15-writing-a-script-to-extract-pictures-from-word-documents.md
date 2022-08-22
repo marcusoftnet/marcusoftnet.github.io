@@ -2,7 +2,7 @@
 layout: post
 title: Writing a script to extract pictures from Word documents
 author: Marcus Hammarberg
-date: 2017-08-15 15:33:04
+date: 2017-08-15T15:33:04.000Z
 tags:
   - Life of a consultant
   - Tools

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Great introductions to Linq-To-SQL
-date: 2008-01-04T11:02:00.000+01:00
+date: 2008-01-04T10:02:00.000Z
 author: Marcus Hammarberg
 tags:
   - LINQ
-modified_time: 2008-01-04T13:41:22.909+01:00
+modified_time: 2008-01-04T12:41:22.909Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1059120946361989042
 blogger_orig_url: http://www.marcusoft.net/2008/01/great-introduction-to-linq-to-sql.html
 ---

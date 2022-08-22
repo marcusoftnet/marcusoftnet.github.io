@@ -1,11 +1,11 @@
 ---
 layout: post
 title: TFS Best practices
-date: 2007-09-25T08:07:00.001+02:00
+date: 2007-09-25T06:07:00.001Z
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: 2007-09-25T08:09:36.658+02:00
+modified_time: 2007-09-25T06:09:36.658Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2632326281389822086
 blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-best-practices.html
 ---

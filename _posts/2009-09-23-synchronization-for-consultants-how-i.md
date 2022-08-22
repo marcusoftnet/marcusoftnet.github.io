@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Synchronization for consultants – how I got it to work
-date: 2009-09-22T21:19:00.002+02:00
+date: 2009-09-22T19:19:00.002Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.188+01:00
+modified_time: 2010-12-14T15:22:38.188Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5160297474166719392
 blogger_orig_url: http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html
 ---

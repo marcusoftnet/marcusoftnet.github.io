@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Nice, easy and working description on how to compact a Virtual PC Image
-date: 2010-03-08T15:19:00.000+01:00
+date: 2010-03-08T14:19:00.000Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.159+01:00
+modified_time: 2010-12-14T15:22:38.159Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8330981049797861552
 blogger_orig_url: http://www.marcusoft.net/2010/03/nice-easy-and-working-description-on.html
 ---

@@ -2,10 +2,9 @@
 layout: post
 title: Creating a 'Movie credits' animation in Keynote
 author: Marcus Hammarberg
-date: 2015-08-06 13:19:55
+date: 2015-08-06T13:19:55.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 I'm a big fan of [Keynote](https://www.apple.com/mac/keynote/) and use that to create all of my presentations. Although I try to keep the number of animations down to a minimum, since I think they take a lot of focus from the content, I find that a few, well placed, animations can be very effective.

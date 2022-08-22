@@ -2,7 +2,7 @@
 layout: post
 title: Big room planning - a workaround that can be useful
 author: Marcus Hammarberg
-date: 2016-10-03 20:19:48
+date: 2016-10-03T20:19:48.000Z
 tags:
   - Agile
   - Lean

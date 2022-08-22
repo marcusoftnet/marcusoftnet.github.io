@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Eikanger concert on radio
-date: 2007-02-05T07:44:00.000+01:00
+date: 2007-02-05T06:44:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2007-02-05T07:49:33.737+01:00
+modified_time: 2007-02-05T06:49:33.737Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8616226778455634059
 blogger_orig_url: http://www.marcusoft.net/2007/02/eikanger-concert-on-radio.html
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The only easy day was yesterday - this is a message of hope
-date: 2014-10-14T08:42:00.001+02:00
+date: 2014-10-14T06:42:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
@@ -10,8 +10,9 @@ tags:
   - Kanban
   - Agile
   - Salvation Army
-modified_time: 2014-10-14T08:42:15.875+02:00
-thumbnail: http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
+modified_time: 2014-10-14T06:42:15.875Z
+thumbnail: >-
+  http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4622216197719868034
 blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
 ---

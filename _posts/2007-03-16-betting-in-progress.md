@@ -1,13 +1,14 @@
 ---
 layout: post
 title: USB-mice eating - maybe
-date: 2007-03-16T10:15:00.000+01:00
+date: 2007-03-16T09:15:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2007-03-16T12:05:31.034+01:00
-thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rfphri9JkFI/AAAAAAAAAGg/HIWm-UU0Rpw/s72-c/IMAGE_002.jpg
+modified_time: 2007-03-16T11:05:31.034Z
+thumbnail: >-
+  http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rfphri9JkFI/AAAAAAAAAGg/HIWm-UU0Rpw/s72-c/IMAGE_002.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1216848543724769926
 blogger_orig_url: http://www.marcusoft.net/2007/03/betting-in-progress.html
 ---

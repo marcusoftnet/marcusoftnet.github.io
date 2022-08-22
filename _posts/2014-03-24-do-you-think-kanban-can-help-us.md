@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Do you think Kanban can help us?
-date: 2014-03-24T08:00:00.000+01:00
+date: 2014-03-24T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Kanban
   - Agile
-modified_time: 2014-03-24T08:00:13.700+01:00
+modified_time: 2014-03-24T07:00:13.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1552795069584789818
 blogger_orig_url: http://www.marcusoft.net/2014/03/do-you-think-kanban-can-help-us.html
 ---

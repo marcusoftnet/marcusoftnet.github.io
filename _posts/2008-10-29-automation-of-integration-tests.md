@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Automation of integration tests
-date: 2008-10-28T21:03:00.001+01:00
+date: 2008-10-28T20:03:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-
   - TDD
-modified_time: 2010-12-14T16:22:38.225+01:00
+modified_time: 2010-12-14T15:22:38.225Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5393877567027229759
 blogger_orig_url: http://www.marcusoft.net/2008/10/automation-of-integration-tests.html
 ---

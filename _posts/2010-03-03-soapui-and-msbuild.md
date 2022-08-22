@@ -1,13 +1,13 @@
 ---
 layout: post
 title: SOAPUi and MSBuild
-date: 2010-03-03T13:24:00.002+01:00
+date: 2010-03-03T12:24:00.002Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - MSBuild
   - WCF
-modified_time: 2010-03-30T21:45:57.670+02:00
+modified_time: 2010-03-30T19:45:57.670Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-486361330278550150
 blogger_orig_url: http://www.marcusoft.net/2010/03/soapui-and-msbuild.html
 ---

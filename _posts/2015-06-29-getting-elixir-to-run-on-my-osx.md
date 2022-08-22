@@ -2,10 +2,9 @@
 layout: post
 title: Getting Elixir to run on my OsX (init terminating in do_boot)
 author: Marcus Hammarberg
-date: 2015-06-29 08:59:55
+date: 2015-06-29T08:59:55.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 I hear more and more about [Elixir](http://elixir-lang.org) from [some](https://twitter.com/DevLCSC) [people](https://twitter.com/jlind) that I really trust and respect. That means checking-out-new-technology-time for Marcus.

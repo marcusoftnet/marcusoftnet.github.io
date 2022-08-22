@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Know where you step–generate a step definition report with SpecFlow
-date: 2010-12-16T22:12:00.002+01:00
+date: 2010-12-16T21:12:00.002Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
   - .NET
   - SpecFlow
-modified_time: 2010-12-16T22:14:19.582+01:00
-thumbnail: http://3.bp.blogspot.com/\_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s72-c/step+definition+example+report.png
+modified_time: 2010-12-16T21:14:19.582Z
+thumbnail: >-
+  http://3.bp.blogspot.com/\_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s72-c/step+definition+example+report.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3594256389110553732
 blogger_orig_url: http://www.marcusoft.net/2010/12/know-where-you-stepgenerate-step.html
 ---

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: VSTS bug... or is it?
-date: 2007-05-10T07:41:00.000+02:00
+date: 2007-05-10T05:41:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - TFS
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.616+01:00
+modified_time: 2010-12-14T15:19:05.616Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5387902116615166560
 blogger_orig_url: http://www.marcusoft.net/2007/05/vsts-bug-or-is-it.html
 ---

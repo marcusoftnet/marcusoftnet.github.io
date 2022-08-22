@@ -2,9 +2,8 @@
 layout: post
 title: Talking about what really matters to us - what I learned from a spiritual day
 author: Marcus Hammarberg
-date: 2019-11-05 11:08:03
+date: 2019-11-05T11:08:03.000Z
 tags:
-
   - Agile
   - Life of a consultant
 ---

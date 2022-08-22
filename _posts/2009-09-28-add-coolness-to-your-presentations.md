@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Add coolness to your presentations
-date: 2009-09-28T13:57:00.001+02:00
+date: 2009-09-28T11:57:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
-modified_time: 2010-12-14T16:22:38.187+01:00
+modified_time: 2010-12-14T15:22:38.187Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5517277713528233333
 blogger_orig_url: http://www.marcusoft.net/2009/09/add-coolness-to-your-presentations.html
 ---

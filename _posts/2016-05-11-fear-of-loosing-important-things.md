@@ -2,14 +2,12 @@
 layout: post
 title: Our fear of forgetting important things
 author: Marcus Hammarberg
-date: 2016-04-29 12:00:00
+date: 2016-04-29T12:00:00.000Z
 tags:
- - Lean
-
-  - Kanban
-
-  - Agile
-  - Life of a consultant
+  - |-
+    Lean
+    - Kanban
+    - Agile - Life of a consultant
 ---
 
 The last couple of weeks an old "friend" has made it's appearance; *fear*. This time it is a special kind of fear that I've seen many times in organisations that started their agile journey: the *fear of forgetting important things*.

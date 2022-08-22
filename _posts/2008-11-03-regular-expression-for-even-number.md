@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Regular Expression for even number
-date: 2008-11-03T08:42:00.001+01:00
+date: 2008-11-03T07:42:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
-modified_time: 2008-11-03T08:42:14.820+01:00
+modified_time: 2008-11-03T07:42:14.820Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3719669431473149548
 blogger_orig_url: http://www.marcusoft.net/2008/11/regular-expression-for-even-number.html
 ---

@@ -2,12 +2,10 @@
 layout: post
 title: Saying thank you for agile manifesto
 author: Marcus Hammarberg
-date: 2015-03-30 14:00:49
+date: 2015-03-30T14:00:49.000Z
 tags:
-
   - Agile
   - Life of a consultant
-
   - Indonesia
 ---
 

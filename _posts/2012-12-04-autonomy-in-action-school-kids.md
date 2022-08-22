@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Autonomy in action - school kids
-date: 2012-12-04T09:00:00.000+01:00
+date: 2012-12-04T08:00:00.000Z
 author: Marcus Hammarberg
 tags:
-- Lean
-- Life of a consultant
-- Agile
-modified_time: 2012-12-04T09:00:11.824+01:00
+  - Lean
+  - Life of a consultant
+  - Agile
+modified_time: 2012-12-04T08:00:11.824Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5696287241357235073
 blogger_orig_url: <http://www.marcusoft.net/2012/12/autonomy-in-action-school-kids.html>
 ---

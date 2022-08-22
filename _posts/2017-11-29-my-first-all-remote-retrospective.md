@@ -2,9 +2,8 @@
 layout: post
 title: My first all-remote retrospective
 author: Marcus Hammarberg
-date: 2017-11-29 00:36:39
+date: 2017-11-29T00:36:39.000Z
 tags:
-
   - Agile
   - Life of a consultant
 ---

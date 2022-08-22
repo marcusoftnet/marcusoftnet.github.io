@@ -2,11 +2,9 @@
 layout: post
 title: Some questions about estimation and plannning
 author: Marcus Hammarberg
-date: 2021-05-22 10:36:18
+date: 2021-05-22T10:36:18.000Z
 tags:
-
   - Agile
-
   - Kanban
   - Life of a consultant
 ---

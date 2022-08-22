@@ -2,11 +2,11 @@
 layout: post
 title: Delayed responses with AWS Lambda and Claudia (Pingu part II)
 author: Marcus Hammarberg
-date: 2016-08-04
+date: 2016-08-04T00:00:00.000Z
 tags:
- - Javascript
- - Node
- - Claudia
+  - Javascript
+  - Node
+  - Claudia
 ---
 
 Before the summer I showed you how to build a [Slack bot using Claudia](http://www.marcusoft.net/2016/06/claudia-bot-builder.html) - it's a very simple ping command that you could run from a Slack-client. However that implementation had a flaw; if the command takes more than 3 seconds to complete it fails.

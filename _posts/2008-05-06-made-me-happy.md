@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Made me smile
-date: 2008-05-06T07:58:00.002+02:00
+date: 2008-05-06T05:58:00.002Z
 author: Marcus Hammarberg
-tags:
-modified_time: 2008-05-06T08:45:08.976+02:00
+tags: null
+modified_time: 2008-05-06T06:45:08.976Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7543601996402260284
 blogger_orig_url: http://www.marcusoft.net/2008/05/made-me-happy.html
 ---

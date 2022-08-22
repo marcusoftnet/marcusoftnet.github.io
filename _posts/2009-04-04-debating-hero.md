@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Debating a hero
-date: 2009-04-03T19:26:00.002+02:00
+date: 2009-04-03T17:26:00.002Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-
   - Agile
-modified_time: 2009-04-09T16:35:15.973+02:00
+modified_time: 2009-04-09T14:35:15.973Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2359394735398966764
 blogger_orig_url: http://www.marcusoft.net/2009/04/debating-hero.html
 ---

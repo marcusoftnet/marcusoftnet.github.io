@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Move the authority to the information, and not the other way around
-date: 2014-06-05T06:39:00.001+02:00
+date: 2014-06-05T04:39:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -9,8 +9,9 @@ tags:
   - Life of a consultant
   - Agile- Salvation Army
   - Indonesia
-modified_time: 2014-06-06T05:03:32.339+02:00
-thumbnail: http://lh6.ggpht.com/-Pz1nhsV2bfE/U4_ytTWN3_I/AAAAAAAAD_U/7_S7oTlyuJU/s72-c/David-Marquet_thumb%25255B26%25255D.jpg?imgmax=800
+modified_time: 2014-06-06T03:03:32.339Z
+thumbnail: >-
+  http://lh6.ggpht.com/-Pz1nhsV2bfE/U4_ytTWN3_I/AAAAAAAAD_U/7_S7oTlyuJU/s72-c/David-Marquet_thumb%25255B26%25255D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7435568262273030003
 blogger_orig_url: http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html
 ---

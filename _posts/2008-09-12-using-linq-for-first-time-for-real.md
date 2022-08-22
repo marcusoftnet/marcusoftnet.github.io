@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Using LINQ for the first time, for real
-date: 2008-09-12T08:01:00.001+02:00
+date: 2008-09-12T06:01:00.001Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Tools - LINQ
-modified_time: 2010-12-14T16:23:30.912+01:00
+modified_time: 2010-12-14T15:23:30.912Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2792568268333072682
 blogger_orig_url: http://www.marcusoft.net/2008/09/using-linq-for-first-time-for-real.html
 ---

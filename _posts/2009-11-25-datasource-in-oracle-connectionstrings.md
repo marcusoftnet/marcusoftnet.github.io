@@ -1,12 +1,12 @@
 ---
 layout: post
 title: DataSource in Oracle Connectionstrings
-date: 2009-11-24T19:35:00.001+01:00
+date: 2009-11-24T18:35:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:23:30.890+01:00
+modified_time: 2010-12-14T15:23:30.890Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4137345923394061671
 blogger_orig_url: http://www.marcusoft.net/2009/11/datasource-in-oracle-connectionstrings.html
 ---

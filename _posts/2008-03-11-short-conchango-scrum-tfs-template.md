@@ -1,11 +1,11 @@
 ---
 layout: post
 title: A Conchango Scrum TFS Template introduction
-date: 2008-03-11T15:48:00.007+01:00
+date: 2008-03-11T14:48:00.007Z
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: 2010-12-14T16:22:51.429+01:00
+modified_time: 2010-12-14T15:22:51.429Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-309585422301317756
 blogger_orig_url: http://www.marcusoft.net/2008/03/short-conchango-scrum-tfs-template.html
 ---

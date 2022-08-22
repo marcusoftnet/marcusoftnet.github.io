@@ -2,12 +2,12 @@
 layout: post
 title: Building a Slack command with Claudia bot builder
 author: Marcus Hammarberg
-date: 2016-06-04 20:59:58
+date: 2016-06-04T20:59:58.000Z
 tags:
- - Javascript
- - Tools
- - Node
- - Claudia
+  - Javascript
+  - Tools
+  - Node
+  - Claudia
 ---
 
 I've written [a few](http://www.marcusoft.net/2016/04/claudia-some-updates-that-made-me-want-to-write-a-post.html) [posts](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia](http://claudiajs.com/) now and as often I jumped almost too early on the boat - it turns out that there's significant improvements to both Claudia herself and the entire ecosystem around the main tool.

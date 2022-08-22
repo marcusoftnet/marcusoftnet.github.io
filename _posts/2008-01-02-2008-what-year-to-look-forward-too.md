@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 2008 - what a year to look forward to!
-date: 2008-01-02T10:03:00.000+01:00
+date: 2008-01-02T09:03:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2008-01-03T12:22:56.563+01:00
+modified_time: 2008-01-03T11:22:56.563Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1990770724840060092
 blogger_orig_url: http://www.marcusoft.net/2008/01/2008-what-year-to-look-forward-too.html
 ---

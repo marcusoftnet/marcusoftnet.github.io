@@ -2,12 +2,12 @@
 layout: post
 title: Testing with Claudia
 author: Marcus Hammarberg
-date: 2016-04-03 21:00:57
+date: 2016-04-03T21:00:57.000Z
 tags:
- - Tools
- - Javascript
- - Node
- - Claudia
+  - Tools
+  - Javascript
+  - Node
+  - Claudia
 ---
 
 In writing the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) I stumbled into a little nugget of gold that I never tried before `claudia test-lambda`.

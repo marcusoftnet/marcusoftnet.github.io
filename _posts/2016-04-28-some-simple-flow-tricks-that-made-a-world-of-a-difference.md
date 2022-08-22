@@ -2,13 +2,12 @@
 layout: post
 title: Some simple changes for flow that made a world of a difference
 author: Marcus Hammarberg
-date: 2016-04-28 11:42:02
+date: 2016-04-28T11:42:02.000Z
 tags:
- - Lean
-
-  - Kanban
-
-  - Agile
+  - |-
+    Lean
+    - Kanban
+    - Agile
 ---
 
 When I started my current gig about 3 months ago the tension around releasing was tremendously high. Also we had failed the last couple of releases resulting in even worse relationships with our customer and messy rollback handling and procedures.

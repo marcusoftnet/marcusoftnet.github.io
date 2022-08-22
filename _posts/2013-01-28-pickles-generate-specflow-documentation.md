@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Pickles - generate SpecFlow documentation from MsBuild and PowerShell
-date: 2013-01-28T13:54:00.000+01:00
+date: 2013-01-28T12:54:00.000Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
   - Specification by example
-
   - SpecFlow
-modified_time: 2013-07-30T20:15:45.084+02:00
+modified_time: 2013-07-30T18:15:45.084Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5238097084946695251
 blogger_orig_url: http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html
 ---

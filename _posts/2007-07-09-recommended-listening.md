@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Recommended listening
-date: 2007-07-09T07:34:00.000+02:00
+date: 2007-07-09T05:34:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand - Euphonium
-modified_time: 2010-12-14T16:19:57.883+01:00
+modified_time: 2010-12-14T15:19:57.883Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4902635814290732314
 blogger_orig_url: http://www.marcusoft.net/2007/07/recommended-listening.html
 ---

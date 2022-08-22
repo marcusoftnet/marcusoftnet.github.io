@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Unearned trust
-date: 2012-11-20T13:58:00.001+01:00
+date: 2012-11-20T12:58:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2012-11-20T13:58:11.469+01:00
+modified_time: 2012-11-20T12:58:11.469Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3449916534710255811
 blogger_orig_url: http://www.marcusoft.net/2012/11/unearned-trust.html
 ---

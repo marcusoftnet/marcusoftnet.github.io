@@ -2,7 +2,7 @@
 layout: post
 title: Principles over (best) practices
 author: Marcus Hammarberg
-date: 2016-09-28 09:00:00
+date: 2016-09-28T09:00:00.000Z
 tags:
   - Agile
   - Lean

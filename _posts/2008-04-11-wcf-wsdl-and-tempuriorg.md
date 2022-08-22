@@ -1,12 +1,12 @@
 ---
 layout: post
 title: WCF, WSDL and tempuri.org
-date: 2008-04-11T08:18:00.003+02:00
+date: 2008-04-11T06:18:00.003Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - WCF
-modified_time: 2008-04-11T08:45:18.425+02:00
+modified_time: 2008-04-11T06:45:18.425Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4421399573659073116
 blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-and-tempuriorg.html
 ---

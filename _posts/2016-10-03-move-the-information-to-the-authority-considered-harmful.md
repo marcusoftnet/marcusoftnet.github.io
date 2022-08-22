@@ -2,7 +2,7 @@
 layout: post
 title: Move the information to the authority considered harmful
 author: Marcus Hammarberg
-date: 2016-10-03 20:18:21
+date: 2016-10-03T20:18:21.000Z
 tags:
   - Lean
   - Agile

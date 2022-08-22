@@ -2,12 +2,12 @@
 layout: post
 title: AWS Lambda/Claudia part II - Storing stuff
 author: Marcus Hammarberg
-date: 2016-03-03 21:04:51
+date: 2016-03-03T21:04:51.000Z
 tags:
- - Tools
- - Javascript
- - Node
- - Claudia
+  - Tools
+  - Javascript
+  - Node
+  - Claudia
 ---
 
 In [my last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia JS](https://github.com/claudiajs/claudia) we only created a very simple function that echoed some data back to us. Still amazingly cool since that echoing scales to whatever load we will put on it, but a bit meek maybe.

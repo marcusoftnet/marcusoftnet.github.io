@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Chose your battles
-date: 2007-04-26T07:18:00.000+02:00
+date: 2007-04-26T05:18:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.619+01:00
+modified_time: 2010-12-14T15:19:05.619Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4999671088852773853
 blogger_orig_url: http://www.marcusoft.net/2007/04/chose-your-battles.html
 ---

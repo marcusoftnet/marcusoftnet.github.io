@@ -1,14 +1,13 @@
 ---
 layout: post
 title: SOAPUi and others – regression testing services
-date: 2010-02-17T14:40:00.002+01:00
+date: 2010-02-17T13:40:00.002Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-
   - Agile
-modified_time: 2010-12-14T16:22:38.162+01:00
+modified_time: 2010-12-14T15:22:38.162Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-559290756056572436
 blogger_orig_url: http://www.marcusoft.net/2010/02/soapui-and-other-regression-testing.html
 ---

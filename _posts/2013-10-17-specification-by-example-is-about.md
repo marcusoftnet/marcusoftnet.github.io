@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Communication and rotting specifications '
-date: 2013-10-17T13:23:00.002+02:00
+date: 2013-10-17T11:23:00.002Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - Life of a consultant
   - Specification by example
   - Agile
-modified_time: 2013-10-17T13:25:02.272+02:00
+modified_time: 2013-10-17T11:25:02.272Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4899659258879319994
 blogger_orig_url: http://www.marcusoft.net/2013/10/specification-by-example-is-about.html
 ---

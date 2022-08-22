@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Sprint Planner Helper - Vaccation halt
-date: 2009-04-11T20:55:00.001+02:00
+date: 2009-04-11T18:55:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private - Sprint Planner Helper
-modified_time: 2009-04-11T20:56:27.323+02:00
+modified_time: 2009-04-11T18:56:27.323Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9050739981040749710
 blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-vaccation-halt.html
 ---

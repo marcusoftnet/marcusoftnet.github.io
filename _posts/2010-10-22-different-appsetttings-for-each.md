@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Different appSetttings for each developer in the team - part II
-date: 2010-10-22T10:23:00.002+02:00
+date: 2010-10-22T08:23:00.002Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-
   - Visual Studio
-modified_time: 2010-12-14T16:17:50.660+01:00
-thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG
+modified_time: 2010-12-14T15:17:50.660Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
 blogger_orig_url: http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
 ---

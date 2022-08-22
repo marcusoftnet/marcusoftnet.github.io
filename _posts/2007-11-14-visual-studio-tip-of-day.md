@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Visual Studio Tip of the Day
-date: 2007-11-14T08:03:00.000+01:00
+date: 2007-11-14T07:03:00.000Z
 author: Marcus Hammarberg
-tags:
-modified_time: 2010-12-14T16:20:33.386+01:00
+tags: null
+modified_time: 2010-12-14T15:20:33.386Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6943062304900435420
 blogger_orig_url: http://www.marcusoft.net/2007/11/visual-studio-tip-of-day.html
 ---

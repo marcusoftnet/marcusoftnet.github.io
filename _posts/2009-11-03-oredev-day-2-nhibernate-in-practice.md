@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ÖreDev day 2 – NHibernate in practice'
-date: 2009-11-03T17:00:00.001+01:00
+date: 2009-11-03T16:00:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - ÖreDev
   - NHibernate
-modified_time: 2011-11-09T21:49:22.595+01:00
+modified_time: 2011-11-09T20:49:22.595Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6149552882586383561
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-nhibernate-in-practice.html
 ---

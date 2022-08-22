@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Norwegian Championships – the aftermath
-date: 2009-02-09T14:02:00.001+01:00
+date: 2009-02-09T13:02:00.001Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2009-02-09T14:02:04.051+01:00
+modified_time: 2009-02-09T13:02:04.051Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5233057223510160554
 blogger_orig_url: http://www.marcusoft.net/2009/02/norwegian-championships-aftermath.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Tenor horn - Owen Farr
-date: 2007-08-15T07:40:00.000+02:00
+date: 2007-08-15T05:40:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2007-08-15T07:50:14.724+02:00
+modified_time: 2007-08-15T05:50:14.724Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7045473909901277221
 blogger_orig_url: http://www.marcusoft.net/2007/08/tenor-horn-owen-farr.html
 ---

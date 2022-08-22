@@ -2,10 +2,9 @@
 layout: post
 title: Keeping copies of charts from Google Sheets updated automatically
 author: Marcus Hammarberg
-date: 2018-06-19 10:06:29
+date: 2018-06-19T10:06:29.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 At my current gig, we are using [Google Apps](https://docs.google.com/) (Docs, Slides, Sheets etc) a lot. I'm getting quite fond of it.

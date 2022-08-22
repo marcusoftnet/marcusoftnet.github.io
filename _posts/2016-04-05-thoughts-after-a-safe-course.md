@@ -2,14 +2,13 @@
 layout: post
 title: Thoughts after a SAFe course
 author: Marcus Hammarberg
-date: 2016-04-05 20:16:34
+date: 2016-04-05T20:16:34.000Z
 tags:
- - Lean
-
-  - Kanban
-
-  - Agile
- - Tools
+  - |-
+    Lean
+    - Kanban
+    - Agile
+  - Tools
 ---
 
 I've been on a [SAFe](http://www.scaledagileframework.com/) course. I was very interested, because like many people I've heard much about this, had opinions on it but haven't experienced it first hand.

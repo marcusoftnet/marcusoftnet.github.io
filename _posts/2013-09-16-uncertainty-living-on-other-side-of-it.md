@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Some experience with uncertainty
-date: 2013-09-16T15:09:00.001+02:00
+date: 2013-09-16T13:09:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Agile
   - Indonesia
-modified_time: 2013-09-16T15:10:53.153+02:00
+modified_time: 2013-09-16T13:10:53.153Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-314128669280077609
 blogger_orig_url: http://www.marcusoft.net/2013/09/uncertainty-living-on-other-side-of-it.html
 ---

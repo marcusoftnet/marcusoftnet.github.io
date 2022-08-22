@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Refactoring a Koa app - or how I learned a lot about modern JavaScript while refactoring an old app
+title: >-
+  Refactoring a Koa app - or how I learned a lot about modern JavaScript while
+  refactoring an old app
 author: Marcus Hammarberg
-date: 2018-06-05 21:07:13
+date: 2018-06-05T21:07:13.000Z
 tags:
- - Javascript
- - Koa
- - Programming
+  - Javascript
+  - Koa
+  - Programming
 ---
 
 I have learned so much by following the [Koa Js community](https://koajs.com/) and framework over the years. My [first post on the topic](http://www.marcusoft.net/2014/03/koaintro.html) was written in March 2014, when Koa was just a little tiny bird trying out its wings (look up that reference…).

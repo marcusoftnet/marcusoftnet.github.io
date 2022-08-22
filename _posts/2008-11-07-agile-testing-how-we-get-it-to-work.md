@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Agile testing - how we get it to work
-date: 2008-11-06T22:06:00.001+01:00
+date: 2008-11-06T21:06:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-
   - Agile
   - TDD
-modified_time: 2008-11-06T22:06:01.170+01:00
+modified_time: 2008-11-06T21:06:01.170Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3797196069848262973
 blogger_orig_url: http://www.marcusoft.net/2008/11/agile-testing-how-we-get-it-to-work.html
 ---

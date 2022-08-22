@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Experience report from rolling out agile in a big (120+ ppl) organization
-date: 2012-06-22T21:43:00.002+02:00
+date: 2012-06-22T19:43:00.002Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Agile
-modified_time: 2012-06-22T21:51:07.380+02:00
+modified_time: 2012-06-22T19:51:07.380Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-13261481129450050
 blogger_orig_url: http://www.marcusoft.net/2012/06/experience-report-from-rolling-out.html
 ---

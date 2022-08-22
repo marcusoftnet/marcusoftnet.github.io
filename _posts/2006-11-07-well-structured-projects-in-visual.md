@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Well structured projects in Visual Studio 2005
-date: 2006-11-07T07:31:00.000+01:00
+date: 2006-11-07T06:31:00.000Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.667+01:00
+modified_time: 2010-12-14T15:19:05.667Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5231053951955942248
 blogger_orig_url: http://www.marcusoft.net/2006/11/well-structured-projects-in-visual.html
 ---

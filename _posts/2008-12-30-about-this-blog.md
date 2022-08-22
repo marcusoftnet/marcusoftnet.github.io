@@ -1,12 +1,12 @@
 ---
 layout: post
 title: About this blog
-date: 2008-12-30T17:15:00.001+01:00
+date: 2008-12-30T16:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2008-12-30T17:15:39.077+01:00
+modified_time: 2008-12-30T16:15:39.077Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2642592786103386391
 blogger_orig_url: http://www.marcusoft.net/2008/12/about-this-blog.html
 ---

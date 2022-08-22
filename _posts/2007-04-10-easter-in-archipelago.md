@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Easter in the archipelago
-date: 2007-04-10T07:57:00.000+02:00
+date: 2007-04-10T05:57:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2007-04-10T08:08:45.460+02:00
-thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RhspOlggv3I/AAAAAAAAAHc/ufyf_Oxijyg/s72-c/IMG_7468.jpg
+modified_time: 2007-04-10T06:08:45.460Z
+thumbnail: >-
+  http://4.bp.blogspot.com/\_kkDJOSPNTLs/RhspOlggv3I/AAAAAAAAAHc/ufyf_Oxijyg/s72-c/IMG_7468.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8274191909935963836
 blogger_orig_url: http://www.marcusoft.net/2007/04/easter-in-archipelago.html
 ---

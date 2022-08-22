@@ -1,10 +1,10 @@
 ---
 layout: post
 title: RockBox and upgrading my IRiver
-date: 2008-10-01T12:26:00.001+02:00
+date: 2008-10-01T10:26:00.001Z
 author: Marcus Hammarberg
-tags:
-modified_time: 2008-10-01T12:28:28.964+02:00
+tags: null
+modified_time: 2008-10-01T10:28:28.964Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5877411300635892001
 blogger_orig_url: http://www.marcusoft.net/2008/10/rockbox-and-upgrading-my-iriver.html
 ---

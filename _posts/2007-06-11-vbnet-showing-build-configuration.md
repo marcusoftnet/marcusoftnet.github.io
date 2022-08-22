@@ -1,13 +1,14 @@
 ---
 layout: post
 title: VB.NET showing build configuration
-date: 2007-06-11T10:54:00.000+02:00
+date: 2007-06-11T08:54:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.578+01:00
-thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s72-c/solutionprops2.JPG
+modified_time: 2010-12-14T15:19:05.578Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s72-c/solutionprops2.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1604975735963282913
 blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-showing-build-configuration.html
 ---

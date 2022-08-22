@@ -1,15 +1,13 @@
 ---
 layout: post
 title: What I missed, longed for, happy to not have from fasting from social media
-date: 2014-05-28T06:00:00.003+02:00
+date: 2014-05-28T04:00:00.003Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-
   - Salvation Army
-
   - Indonesia
-modified_time: 2014-05-29T14:35:40.891+02:00
+modified_time: 2014-05-29T12:35:40.891Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5858312803103136395
 blogger_orig_url: http://www.marcusoft.net/2014/05/what-i-missed-longed-for-happy-to-not.html
 ---

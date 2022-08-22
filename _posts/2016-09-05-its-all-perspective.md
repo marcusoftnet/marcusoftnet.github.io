@@ -2,7 +2,7 @@
 layout: post
 title: It is all perspective - why havent I seen that before?
 author: Marcus Hammarberg
-date: 2016-09-05 12:00:00
+date: 2016-09-05T12:00:00.000Z
 tags:
   - Agile
   - Lean

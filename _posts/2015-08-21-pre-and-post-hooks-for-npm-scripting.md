@@ -2,11 +2,11 @@
 layout: post
 title: Pre and Post hooks for npm scripting
 author: Marcus Hammarberg
-date: 2015-08-21 07:03:49
+date: 2015-08-21T07:03:49.000Z
 tags:
- - Javascript
- - Node
- - Tools
+  - Javascript
+  - Node
+  - Tools
 ---
 
 [npm](http://www.marcusoft.net/2014/02/mnb-npm.html) is at the core of developing in [Node](http://www.nodejs.org). Most of us use it to get packages, set up the [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) etc.

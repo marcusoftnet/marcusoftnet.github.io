@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Miriam - new media reverend of Sweden?
-date: 2007-09-24T08:04:00.000+02:00
+date: 2007-09-24T06:04:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
-modified_time: 2007-09-24T08:22:44.280+02:00
+modified_time: 2007-09-24T06:22:44.280Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-183175191725952958
 blogger_orig_url: http://www.marcusoft.net/2007/09/mirjam-new-media-reverend-of-sweden.html
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: Formulation - the crucial (often missed) step of BDD
 author: Marcus Hammarberg
-date: 2021-04-26 20:25:02
+date: 2021-04-26T20:25:02.000Z
 tags:
- - BDD
- - Specification by example
- - Books
+  - BDD
+  - Specification by example
+  - Books
 ---
 
 Very early in my agile journey, I stumbled over [Behaviour Driven Development](https://dannorth.net/introducing-bdd/) (in that exact blog post, in fact - Thanks Dan). And like many, I first thought of it as a more user-friendly way of writing tests.

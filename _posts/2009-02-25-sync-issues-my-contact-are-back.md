@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sync Issues – my contact are back
-date: 2009-02-24T21:29:00.001+01:00
+date: 2009-02-24T20:29:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2009-02-25T02:53:30.131+01:00
+modified_time: 2009-02-25T01:53:30.131Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4796152958013813373
 blogger_orig_url: http://www.marcusoft.net/2009/02/sync-issues-my-contact-are-back.html
 ---

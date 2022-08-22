@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Behind the scenes on Microsoft
-date: 2008-03-14T07:31:00.003+01:00
+date: 2008-03-14T06:31:00.003Z
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: 2008-03-14T07:37:01.670+01:00
+modified_time: 2008-03-14T06:37:01.670Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8652257912350570669
 blogger_orig_url: http://www.marcusoft.net/2008/03/behind-scenes-on-microsoft.html
 ---

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Nancy.Testing - configure her boot...strapper
-date: 2013-01-27T09:00:00.000+01:00
+date: 2013-01-27T08:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
   - .NET
   - C#
-modified_time: 2014-06-21T02:09:55.455+02:00
+modified_time: 2014-06-21T00:09:55.455Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2035700742916788295
 blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting2.html
 ---

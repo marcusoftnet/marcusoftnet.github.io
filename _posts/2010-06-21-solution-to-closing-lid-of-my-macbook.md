@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Solution to closing the lid of my MacBook cause it to get VERY hot
-date: 2010-06-21T16:51:00.001+02:00
+date: 2010-06-21T14:51:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2010-06-21T16:51:34.943+02:00
+modified_time: 2010-06-21T14:51:34.943Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4895996666339004651
 blogger_orig_url: http://www.marcusoft.net/2010/06/solution-to-closing-lid-of-my-macbook.html
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Pomodoro – being agile and focused on the individual level
-date: 2009-08-14T15:39:00.001+02:00
+date: 2009-08-14T13:39:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.194+01:00
+modified_time: 2010-12-14T15:22:38.194Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7103386656828308648
 blogger_orig_url: http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html
 ---

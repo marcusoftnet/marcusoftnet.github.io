@@ -2,10 +2,10 @@
 layout: post
 title: Fun with scripting - running a test suite against 30 different solutions
 author: Marcus Hammarberg
-date: 2019-10-08 17:34:43
+date: 2019-10-08T17:34:43.000Z
 tags:
- - Programming
- - Tools
+  - Programming
+  - Tools
 ---
 
 In my current job ([School of Applied Technology](https://salt.dev)) we give out weekend tests each weekend of the 10 first week of each course. With 30 developers in each class, it means that on Monday after each weekend we have a lot of work to do to correct the developer's tests.

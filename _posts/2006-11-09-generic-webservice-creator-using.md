@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Generic webservice creator using generics and delegates
-date: 2006-11-09T15:19:00.000+01:00
+date: 2006-11-09T14:19:00.000Z
 author: Marcus Hammarberg
 tags:
   - .NET
-
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.663+01:00
+modified_time: 2010-12-14T15:19:05.663Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7122064333594698841
 blogger_orig_url: http://www.marcusoft.net/2006/11/generic-webservice-creator-using.html
 ---

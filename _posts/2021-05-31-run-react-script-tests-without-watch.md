@@ -2,10 +2,10 @@
 layout: post
 title: Run react-script tests without watch
 author: Marcus Hammarberg
-date: 2021-05-31 20:23:28
+date: 2021-05-31T20:23:28.000Z
 tags:
- - JavaScript
- - React
+  - JavaScript
+  - React
 ---
 
 Oh, man! I'm so happy that I'm still sane. This error was about to drive me crazy.

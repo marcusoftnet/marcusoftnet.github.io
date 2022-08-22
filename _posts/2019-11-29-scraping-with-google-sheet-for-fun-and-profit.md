@@ -2,10 +2,9 @@
 layout: post
 title: Scraping with Google Sheets for fun and profit
 author: Marcus Hammarberg
-date: 2019-11-29 10:33:34
+date: 2019-11-29T10:33:34.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 Yes, yes ... I know. I do way too much Google Sheets for my good. But that tool is SO amazing. It's becoming my first go-to-tool when it comes to small simple tasks at the office. And it allows us to be more data-driven and visual.

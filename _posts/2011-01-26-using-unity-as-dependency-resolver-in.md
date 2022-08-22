@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Using Unity as dependency resolver in ASP.NET MVC 3
-date: 2011-01-25T20:37:00.001+01:00
+date: 2011-01-25T19:37:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - ASP.NET MVC
-modified_time: 2011-01-25T20:44:16.939+01:00
-thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TT8mpyamHvI/AAAAAAAAAx8/WJhDqtxDLXg/s72-c/ninject%20dependcy%20resolving%20in%20asp.net%20mvc_thumb%5B1%5D.jpg?imgmax=800
+modified_time: 2011-01-25T19:44:16.939Z
+thumbnail: >-
+  http://lh5.ggpht.com/\_TI0jeIedRFk/TT8mpyamHvI/AAAAAAAAAx8/WJhDqtxDLXg/s72-c/ninject%20dependcy%20resolving%20in%20asp.net%20mvc_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-178841900667357474
 blogger_orig_url: http://www.marcusoft.net/2011/01/using-unity-as-dependency-resolver-in.html
 ---

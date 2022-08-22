@@ -2,11 +2,9 @@
 layout: post
 title: How do I kanbanize my 300 items backlog - a response
 author: Marcus Hammarberg
-date: 2020-02-12 21:09:02
+date: 2020-02-12T21:09:02.000Z
 tags:
-
   - Kanban
-
   - Agile
   - Life of a consultant
 ---

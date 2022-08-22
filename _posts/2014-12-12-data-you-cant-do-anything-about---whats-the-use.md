@@ -2,11 +2,11 @@
 layout: post
 title: Data you can't do anything about - what's the use?
 author: Marcus Hammarberg
-date: 2014-12-12 11:43:55
+date: 2014-12-12T11:43:55.000Z
 tags:
-- Agile
-- Lean
-- Life of a consultant
+  - Agile
+  - Lean
+  - Life of a consultant
 ---
 
 Just a short post about data and a common objection.

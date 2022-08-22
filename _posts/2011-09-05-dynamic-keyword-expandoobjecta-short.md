@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The dynamic keyword, ExpandoObject–a short intro for me
-date: 2011-09-05T15:08:00.001+02:00
+date: 2011-09-05T13:08:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: 2011-09-05T15:52:44.514+02:00
+modified_time: 2011-09-05T13:52:44.514Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8903492296720178197
 blogger_orig_url: http://www.marcusoft.net/2011/09/dynamic-keyword-expandoobjecta-short.html
 ---

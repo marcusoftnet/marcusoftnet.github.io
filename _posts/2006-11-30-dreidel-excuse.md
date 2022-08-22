@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Dreidel-excuse
-date: 2006-11-30T13:29:00.000+01:00
+date: 2006-11-30T12:29:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-11-30T13:32:32.922+01:00
+modified_time: 2006-11-30T12:32:32.922Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5448318958904725108
 blogger_orig_url: http://www.marcusoft.net/2006/11/dreidel-excuse.html
 ---

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: WhiteStepHelper – a small step toward smaller steps
-date: 2010-09-17T19:00:00.001+02:00
+date: 2010-09-17T17:00:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
   - SpecFlow
-modified_time: 2010-09-28T09:28:49.844+02:00
+modified_time: 2010-09-28T07:28:49.844Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5718687913603168178
 blogger_orig_url: http://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Bicycle comeback
-date: 2006-10-24T22:10:00.000+02:00
+date: 2006-10-24T20:10:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-10-26T07:53:23.766+02:00
+modified_time: 2006-10-26T05:53:23.766Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116172125231863820
 blogger_orig_url: http://www.marcusoft.net/2006/10/bicycle-comeback.html
 ---

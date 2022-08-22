@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Creating link to TFS Reports in build script
-date: 2008-08-07T14:12:00.004+02:00
+date: 2008-08-07T12:12:00.004Z
 author: Marcus Hammarberg
 tags:
   - Tools - TFS - MSBuild
-modified_time: 2010-12-14T16:22:38.258+01:00
+modified_time: 2010-12-14T15:22:38.258Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8109744470981793374
 blogger_orig_url: http://www.marcusoft.net/2008/08/creating-link-to-tfs-reports-in-build.html
 ---

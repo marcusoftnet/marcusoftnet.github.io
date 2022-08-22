@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Respecting your vacation - how I ended up with 0 emails in my inbox after 4 weeks vacation
+title: >-
+  Respecting your vacation - how I ended up with 0 emails in my inbox after 4
+  weeks vacation
 author: Marcus Hammarberg
-date: "2017-07-31 11:56:08"
+date: '2017-07-31 11:56:08'
 tags:
   - Life of a consultant
-
   - Agile
   - Lean
 ---

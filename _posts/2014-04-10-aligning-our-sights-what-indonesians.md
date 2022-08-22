@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aligning our sights - what Indonesians taught me, part I
-date: 2014-04-10T10:49:00.001+02:00
+date: 2014-04-10T08:49:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
@@ -11,7 +11,7 @@ tags:
   - Agile
   - Salvation Army
   - Indonesia
-modified_time: 2014-04-10T10:49:59.113+02:00
+modified_time: 2014-04-10T08:49:59.113Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6227174669280927575
 blogger_orig_url: http://www.marcusoft.net/2014/04/aligning-our-sights-what-indonesians.html
 ---

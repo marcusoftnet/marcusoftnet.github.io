@@ -2,12 +2,12 @@
 layout: post
 title: Testing WebAPI with AspNetCore.Mvc.Testing and xUnit Collections
 author: Marcus Hammarberg
-date: 2021-11-16 10:33:20
+date: 2021-11-16T10:33:20.000Z
 tags:
- - .NET
-
-  - C#
- - Testing
+  - |-
+    .NET
+    - C#
+  - Testing
 ---
 
 I'm writing a boot camp for .NET core and have started to learn a lot of things that have changed since I last coded C#. One of them was shown to me by my good friend [John Magnusson](https://twitter.com/tenfortyeight). (I'm downplaying his knowledge and skills a lot here since I was close to tears and he sent me a link that saved by bacon, but hey - I'm telling the story :))

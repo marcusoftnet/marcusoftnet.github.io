@@ -1,12 +1,12 @@
 ---
 layout: post
 title: VasaBand - full speed ahead
-date: 2008-09-23T07:41:00.003+02:00
+date: 2008-09-23T05:41:00.003Z
 author: Marcus Hammarberg
 tags:
   - Marcus private - BrassBand
   - Salvation Army
-modified_time: 2008-09-23T08:37:36.634+02:00
+modified_time: 2008-09-23T06:37:36.634Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7932047045806437130
 blogger_orig_url: http://www.marcusoft.net/2008/09/vasaband-full-speed-ahead.html
 ---

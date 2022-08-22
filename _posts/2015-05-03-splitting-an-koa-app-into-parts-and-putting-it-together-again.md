@@ -2,11 +2,11 @@
 layout: post
 title: Splitting a Koa app into parts and putting it together again
 author: Marcus Hammarberg
-date: 2015-05-03 15:09:00
+date: 2015-05-03T15:09:00.000Z
 tags:
- - Javascript
- - Koa
- - Node
+  - Javascript
+  - Koa
+  - Node
 ---
 
 The little series I've written on [supertest](https://github.com/visionmedia/supertest) and other [Koa](http://koajs.com/) friends is moving very slowly ahead. Lots of new findings is making for a lot of innovation that I need to find out and try out.

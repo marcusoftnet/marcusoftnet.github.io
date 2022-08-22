@@ -2,11 +2,11 @@
 layout: post
 title: Deploying. NET 6 WebAPI using ARM Template
 author: Marcus Hammarberg
-date: 2022-08-19 09:26:51
+date: 2022-08-19T09:26:51.000Z
 tags:
- - .NET
- - Programming
- - DevOps
+  - .NET
+  - Programming
+  - DevOps
 ---
 
 I'm putting together a course where I want students to easily deploy their code. Since the course is on .NET 6 WebAPIs (and Entity Framework (core)) I thought that Azure would make a great choice to deploy to.

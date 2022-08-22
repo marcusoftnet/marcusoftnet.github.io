@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sprint 1 - demo-time!
-date: 2008-03-19T08:01:00.003+01:00
+date: 2008-03-19T07:01:00.003Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-modified_time: 2008-03-19T08:19:19.947+01:00
+modified_time: 2008-03-19T07:19:19.947Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2873417466962501171
 blogger_orig_url: http://www.marcusoft.net/2008/03/sprint-1-demo-time.html
 ---

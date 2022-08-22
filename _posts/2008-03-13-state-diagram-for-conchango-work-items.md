@@ -1,12 +1,13 @@
 ---
 layout: post
 title: State diagram for Conchango work items
-date: 2008-03-13T08:57:00.004+01:00
+date: 2008-03-13T07:57:00.004Z
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: 2010-12-14T16:22:51.425+01:00
-thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9ktYrtDxcI/AAAAAAAAASU/GFZ-Pox2QKM/s72-c/conchango.JPG
+modified_time: 2010-12-14T15:22:51.425Z
+thumbnail: >-
+  http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9ktYrtDxcI/AAAAAAAAASU/GFZ-Pox2QKM/s72-c/conchango.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3002085824029122061
 blogger_orig_url: http://www.marcusoft.net/2008/03/state-diagram-for-conchango-work-items.html
 ---

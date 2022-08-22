@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Battle of the TFS build script
-date: 2007-05-31T08:59:00.000+02:00
+date: 2007-05-31T06:59:00.000Z
 author: Marcus Hammarberg
 tags:
-
   - TFS
   - MSBuild
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.589+01:00
+modified_time: 2010-12-14T15:19:05.589Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-900809608655174297
 blogger_orig_url: http://www.marcusoft.net/2007/05/battle-of-tfs-build-script.html
 ---

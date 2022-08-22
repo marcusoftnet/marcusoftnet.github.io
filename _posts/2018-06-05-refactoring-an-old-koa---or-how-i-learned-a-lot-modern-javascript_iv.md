@@ -2,11 +2,11 @@
 layout: post
 title: Refactoring a Koa app (part IV) - update the production code
 author: Marcus Hammarberg
-date: 2018-06-05 21:07:13
+date: 2018-06-05T21:07:13.000Z
 tags:
- - Javascript
- - Koa
- - Programming
+  - Javascript
+  - Koa
+  - Programming
 ---
 
 This is the fourth post in a series where I refactor an old (4 years) code base (an API written in [Koa](http://koajs.com)) to modern Javascript and tools.

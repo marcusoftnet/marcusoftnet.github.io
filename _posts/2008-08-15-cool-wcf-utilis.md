@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Cool WCF-utils
-date: 2008-08-15T13:00:00.002+02:00
+date: 2008-08-15T11:00:00.002Z
 author: Marcus Hammarberg
 tags:
   - Tools - WCF
-modified_time: 2010-12-14T16:22:38.246+01:00
+modified_time: 2010-12-14T15:22:38.246Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3449654218927447341
 blogger_orig_url: http://www.marcusoft.net/2008/08/cool-wcf-utilis.html
 ---

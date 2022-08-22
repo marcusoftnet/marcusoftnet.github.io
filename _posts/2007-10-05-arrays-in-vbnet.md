@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Declaring arrays in VB.NET
-date: 2007-10-05T10:15:00.001+02:00
+date: 2007-10-05T08:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Life of a consultant
-modified_time: 2008-04-09T10:37:06.367+02:00
+modified_time: 2008-04-09T08:37:06.367Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6662162005482306882
 blogger_orig_url: http://www.marcusoft.net/2007/10/arrays-in-vbnet.html
 ---

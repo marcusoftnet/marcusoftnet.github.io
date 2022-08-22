@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I am telling you for the last time - Marcus style
-date: 2013-11-20T15:00:00.000+01:00
+date: 2013-11-20T14:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -13,7 +13,7 @@ tags:
   - Agile
   - C#
   - SpecFlow
-modified_time: 2013-12-10T15:10:52.306+01:00
+modified_time: 2013-12-10T14:10:52.306Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8456584150489726017
 blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html
 ---

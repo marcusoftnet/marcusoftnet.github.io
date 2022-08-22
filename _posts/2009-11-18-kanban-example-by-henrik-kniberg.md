@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Kanban example by Henrik Kniberg
-date: 2009-11-17T21:32:00.002+01:00
+date: 2009-11-17T20:32:00.002Z
 author: Marcus Hammarberg
 tags:
-
-  - Kanban
-   - Scrum
-
+  - Kanban - Scrum
   - Agile
-modified_time: 2009-11-26T13:30:42.360+01:00
+modified_time: 2009-11-26T12:30:42.360Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7371763485207165967
 blogger_orig_url: http://www.marcusoft.net/2009/11/kanban-example-by-henrik-kniberg.html
 ---

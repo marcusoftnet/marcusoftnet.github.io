@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Sharp Architecture presentations
-date: 2009-10-19T17:42:00.001+02:00
+date: 2009-10-19T15:42:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - NHibernate - ASP.NET MVC
-modified_time: 2010-12-14T16:19:35.816+01:00
+modified_time: 2010-12-14T15:19:35.816Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4140511384266112060
 blogger_orig_url: http://www.marcusoft.net/2009/10/sharp-architecture-presentations.html
 ---

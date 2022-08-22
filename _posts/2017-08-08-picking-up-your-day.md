@@ -2,9 +2,8 @@
 layout: post
 title: Get a good start - start your days mid-day
 author: Marcus Hammarberg
-date: 2017-08-08 10:20:46
+date: 2017-08-08T10:20:46.000Z
 tags:
-
   - Agile
   - Life of a consultant
 ---

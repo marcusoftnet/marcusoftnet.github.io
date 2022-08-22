@@ -1,13 +1,13 @@
 ---
 layout: post
 title: ASP.NET MVC - start
-date: 2008-01-14T14:57:00.001+01:00
+date: 2008-01-14T13:57:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - ASP.NET MVC
-modified_time: 2010-12-14T16:20:33.365+01:00
+modified_time: 2010-12-14T15:20:33.365Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1223226366906556291
 blogger_orig_url: http://www.marcusoft.net/2008/01/aspnet-mvc-start.html
 ---

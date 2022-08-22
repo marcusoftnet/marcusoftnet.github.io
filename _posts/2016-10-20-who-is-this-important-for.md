@@ -2,7 +2,7 @@
 layout: post
 title: Who is this important for?
 author: Marcus Hammarberg
-date: 2016-10-20 20:57:44
+date: 2016-10-20T20:57:44.000Z
 tags:
   - Agile
   - Lean

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Excel - my favorite code generator
-date: 2006-11-01T08:39:00.000+01:00
+date: 2006-11-01T07:39:00.000Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.398+01:00
+modified_time: 2010-12-14T15:22:38.398Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3263601739160012005
 blogger_orig_url: http://www.marcusoft.net/2006/11/excel-my-favorite-code-generator.html
 ---

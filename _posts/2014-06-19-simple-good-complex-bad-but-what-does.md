@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Simple = Good. Complex = Bad. But what does it mean?
-date: 2014-06-19T09:40:00.001+02:00
+date: 2014-06-19T07:40:00.001Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Agile
   - Salvation Army
-modified_time: 2014-06-19T09:42:17.939+02:00
-thumbnail: http://lh3.ggpht.com/-ZEP86dSBYcs/U6KT2VJntNI/AAAAAAAAEa0/yKk2l_sgQNo/s72-c/Slide3_thumb%25255B1%25255D.png?imgmax=800
+modified_time: 2014-06-19T07:42:17.939Z
+thumbnail: >-
+  http://lh3.ggpht.com/-ZEP86dSBYcs/U6KT2VJntNI/AAAAAAAAEa0/yKk2l_sgQNo/s72-c/Slide3_thumb%25255B1%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1426830830628928525
 blogger_orig_url: http://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html
 ---

@@ -2,12 +2,11 @@
 layout: post
 title: What I learned when installing 33 developer computers in 5 hours
 author: Marcus Hammarberg
-date: 2018-08-23 10:12:38
+date: 2018-08-23T10:12:38.000Z
 tags:
- - Lean
- - Javascript
- - Node
-  - Life of a consultant
+  - Lean
+  - Javascript
+  - Node - Life of a consultant
 ---
 
 Yesterday I had a very interesting task for a client. I work as (brace yourselves for a cool title) "Head of curriculum" for [School of Applied Technology](https://www.study-at-salt.com/). They create and run bootcamps and the first one we are running is "Fullstack JavaScript developer with React and Express". That title means that I've been creating the content of the course together with the person (Jakob) teaching it.

@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Using ATDD in conversion project
-date: 2010-05-26T23:42:00.001+02:00
+date: 2010-05-26T21:42:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
-
   - Life of a consultant
-
   - Agile
-modified_time: 2010-05-27T11:06:52.879+02:00
+modified_time: 2010-05-27T09:06:52.879Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6727733881573572513
 blogger_orig_url: http://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html
 ---

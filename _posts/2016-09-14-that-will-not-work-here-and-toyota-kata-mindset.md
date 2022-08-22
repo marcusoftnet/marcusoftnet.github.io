@@ -2,7 +2,7 @@
 layout: post
 title: Toyota Kata and the We cannot do that here-fallacy
 author: Marcus Hammarberg
-date: 2016-09-14 10:51:52
+date: 2016-09-14T10:51:52.000Z
 tags:
   - Agile
   - Lean

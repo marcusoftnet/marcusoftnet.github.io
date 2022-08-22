@@ -3,10 +3,10 @@ layout: post
 title: Inspections welcome
 author: Marcus Hammarberg
 tags:
-- Lean
-- Life of a consultant
-- Kanban
-- Agile
+  - Lean
+  - Life of a consultant
+  - Kanban
+  - Agile
 ---
 I've just come back from a vaccation in Bali. Due to some fortunate overbookings we ended up in a villa that a oasis of tranquility and luxury. By far the nicest place I've ever seen, including the room I stayed in for [Agile Singapore](http://2014.agilesingapore.org/). The 3 day stay flew by but was a blessing for my soul.
 <img src="/img/balivilla.jpg" alt="Our villa" width="100%"/>

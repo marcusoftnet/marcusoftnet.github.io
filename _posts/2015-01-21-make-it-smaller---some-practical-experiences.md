@@ -2,16 +2,13 @@
 layout: post
 title: Make it smaller - some practical experiences
 author: Marcus Hammarberg
-date: 2015-01-21 11:26:54
+date: 2015-01-21T11:26:54.000Z
 tags:
- - Lean
-
-  - Agile
-
-  - Salvation Army
-  - Life of a consultant
-
-  - Indonesia
+  - |-
+    Lean
+    - Agile
+    - Salvation Army - Life of a consultant
+    - Indonesia
 ---
 
 One of the "clients" I work with right now is a hospital. We have tried to turn their performance around and they are improving immensely. In fact - I think they will be just fine. I did *not* think that just 4 months ago.

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Web Service Factory
-date: 2008-06-05T12:46:00.007+02:00
+date: 2008-06-05T10:46:00.007Z
 author: Marcus Hammarberg
 tags:
   - SOA
   - WCF
-modified_time: 2010-12-14T16:20:33.261+01:00
+modified_time: 2010-12-14T15:20:33.261Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4168893012877547844
 blogger_orig_url: http://www.marcusoft.net/2008/06/web-service-factory.html
 ---

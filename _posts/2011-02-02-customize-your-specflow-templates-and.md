@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Customize your SpecFlow templates and more
-date: 2011-02-01T21:48:00.001+01:00
+date: 2011-02-01T20:48:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
   - .NET
-
   - SpecFlow
-modified_time: 2011-02-01T21:48:59.755+01:00
-thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/TUhxpwIsRBI/AAAAAAAAAzw/W00MMhuyCiI/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
+modified_time: 2011-02-01T20:48:59.755Z
+thumbnail: >-
+  http://lh4.ggpht.com/\_TI0jeIedRFk/TUhxpwIsRBI/AAAAAAAAAzw/W00MMhuyCiI/s72-c/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5960457740940799277
 blogger_orig_url: http://www.marcusoft.net/2011/02/customize-your-specflow-templates-and.html
 ---

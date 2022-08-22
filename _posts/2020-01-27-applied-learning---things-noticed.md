@@ -2,12 +2,12 @@
 layout: post
 title: Applied learning - things noticed
 author: Marcus Hammarberg
-date: 2020-01-27 09:18:28
+date: 2020-01-27T09:18:28.000Z
 tags:
- - Programming
-
-  - Agile
- - Management
+  - |-
+    Programming
+    - Agile
+  - Management
 ---
 
 I work for a developer accelerated career program. I have (together with [Jakob Leczinsky](https://twitter.com/jaklec?lang=en)) created a training material that takes people with no professional development experience into professional developers in 3 months. We have now run 4 courses and found jobs for about 100 people. All of them have got rave reviews from our clients, top-line software companies in Stockholm.

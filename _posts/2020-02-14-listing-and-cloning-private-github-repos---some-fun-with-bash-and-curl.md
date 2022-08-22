@@ -2,9 +2,9 @@
 layout: post
 title: Listing and cloning private GitHub repos - some fun with bash and curl
 author: Marcus Hammarberg
-date: 2020-02-14 12:00:53
+date: 2020-02-14T12:00:53.000Z
 tags:
- - Programming
+  - Programming
 ---
 
 My current role is awesome - I get do do some agile coaching, quite a lot of teaching, reading up on new tech and from time to time some programming.

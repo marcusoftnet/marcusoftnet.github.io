@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 17
-date: 2009-03-05T18:15:00.001+01:00
+date: 2009-03-05T17:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
   - Sprint Planner Helper
-
-modified_time: 2009-03-05T18:15:12.104+01:00
+modified_time: 2009-03-05T17:15:12.104Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8357992069340235584
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-17.html
 ---

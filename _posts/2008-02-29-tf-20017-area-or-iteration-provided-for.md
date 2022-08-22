@@ -1,13 +1,14 @@
 ---
 layout: post
-title: TF 20017 - The area or iteration provided for field 'IterationPath' could not be found
-date: 2008-02-29T15:52:00.005+01:00
+title: >-
+  TF 20017 - The area or iteration provided for field 'IterationPath' could not
+  be found
+date: 2008-02-29T14:52:00.005Z
 author: Marcus Hammarberg
 tags:
-
   - TFS
   - Scrum
-modified_time: 2010-12-14T16:22:51.440+01:00
+modified_time: 2010-12-14T15:22:51.440Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6994981790785680649
 blogger_orig_url: http://www.marcusoft.net/2008/02/tf-20017-area-or-iteration-provided-for.html
 ---

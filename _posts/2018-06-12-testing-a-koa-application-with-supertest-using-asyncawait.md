@@ -2,11 +2,11 @@
 layout: post
 title: Testing a Koa application with supertest using async/await
 author: Marcus Hammarberg
-date: 2018-06-12 20:43:07
+date: 2018-06-12T20:43:07.000Z
 tags:
- - Koa
- - Javascript
- - Programming
+  - Koa
+  - Javascript
+  - Programming
 ---
 
 I've been playing around with refactoring a [Koa](http://koajs.com/) application to use modern JavaScript constructs like `async`, `await` `=>` and do away with generators etc.

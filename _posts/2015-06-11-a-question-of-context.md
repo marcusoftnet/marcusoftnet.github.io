@@ -2,14 +2,12 @@
 layout: post
 title: It's just context -  a story about my ignorance
 author: Marcus Hammarberg
-date: 2015-06-11 08:36:37
+date: 2015-06-11T08:36:37.000Z
 tags:
- - Leadership
-  - Life of a consultant
-
-  - Salvation Army
-
-  - Indonesia
+  - |-
+    Leadership - Life of a consultant
+    - Salvation Army
+    - Indonesia
 ---
 
 I have a story to tell you. It's mostly about me and my ignorance, I'm sad to say.

@@ -2,11 +2,11 @@
 layout: post
 title: Claudia 1.2 - some updates that made me want to write a post
 author: Marcus Hammarberg
-date: 2016-04-23 11:42:02
+date: 2016-04-23T11:42:02.000Z
 tags:
- - Javascript
- - Claudia
- - Tools
+  - Javascript
+  - Claudia
+  - Tools
 ---
 
 I downloaded a new markdown editor called [Typora](https://www.typora.io/) that looks amazing. Now I just wanted to try it out, and needed something to write about.

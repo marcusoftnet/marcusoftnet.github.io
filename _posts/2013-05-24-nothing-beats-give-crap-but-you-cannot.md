@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What if ... mob programming?
-date: 2013-05-24T15:20:00.000+02:00
+date: 2013-05-24T13:20:00.000Z
 author: Marcus Hammarberg
 tags:
   - Lean
@@ -9,8 +9,9 @@ tags:
   - Kanban
   - Agile
   - ContinuousDelivery
-modified_time: 2013-05-24T15:24:02.770+02:00
-thumbnail: http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg
+modified_time: 2013-05-24T13:24:02.770Z
+thumbnail: >-
+  http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
 blogger_orig_url: http://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html
 ---

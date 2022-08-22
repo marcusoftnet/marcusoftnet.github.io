@@ -1,12 +1,12 @@
 ---
 layout: post
 title: VB.NET - warnings for XML documentation, denied
-date: 2007-06-13T07:47:00.000+02:00
+date: 2007-06-13T05:47:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.575+01:00
+modified_time: 2010-12-14T15:19:05.575Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8743873172538316941
 blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-warnings-for-xml-documentation.html
 ---

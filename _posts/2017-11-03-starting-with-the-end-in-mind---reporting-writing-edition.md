@@ -2,12 +2,11 @@
 layout: post
 title: Report writing - using impact maps, Stephen Covey and increments
 author: Marcus Hammarberg
-date: 2017-11-03 08:40:52
+date: 2017-11-03T08:40:52.000Z
 tags:
- - Lean
-  - Life of a consultant
-
-  - Agile
+  - |-
+    Lean - Life of a consultant
+    - Agile
 ---
 
 I had one of the more intense writing sessions in my life the other day - getting about 17 pages and 6000 words out in 2,5 hours. But that's not as important, although fun, compared to the quality and how we did it.

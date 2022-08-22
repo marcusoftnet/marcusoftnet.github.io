@@ -2,11 +2,10 @@
 layout: post
 title: How to get Google Analytics to work for your Single Page Application
 author: Marcus Hammarberg
-date: 2015-05-07 10:24:43
+date: 2015-05-07T10:24:43.000Z
 tags:
- - Tools
-  - Life of a consultant
- - Javascript
+  - Tools - Life of a consultant
+  - Javascript
 ---
 
 One of the things that gets increasingly fascinating the older I get is the new stuff you pick up as you "do things for real". Right now we have been building a site for my [current organisation](http://ypkbksite.herokuapp.com).

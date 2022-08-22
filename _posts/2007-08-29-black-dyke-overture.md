@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Black Dyke overture
-date: 2007-08-29T17:41:00.001+02:00
+date: 2007-08-29T15:41:00.001Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2007-08-29T22:16:34.297+02:00
+modified_time: 2007-08-29T20:16:34.297Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4514966816691630430
 blogger_orig_url: http://www.marcusoft.net/2007/08/black-dyke-overture.html
 ---

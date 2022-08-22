@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Scrum - my first encounter
-date: 2007-01-03T16:19:00.000+01:00
+date: 2007-01-03T15:19:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-
   - Agile
-modified_time: 2007-05-16T08:29:53.469+02:00
+modified_time: 2007-05-16T06:29:53.469Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8121637810301291815
 blogger_orig_url: http://www.marcusoft.net/2007/01/scrum-my-first-encounter.html
 ---

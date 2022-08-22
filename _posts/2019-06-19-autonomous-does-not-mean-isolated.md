@@ -2,13 +2,12 @@
 layout: post
 title: Autonomous does not mean isolated
 author: Marcus Hammarberg
-date: 2019-06-19 11:26:32
+date: 2019-06-19T11:26:32.000Z
 tags:
- - Lean
- - Leadership
-
-  - Agile
-  - Life of a consultant
+  - Lean
+  - |-
+    Leadership
+    - Agile - Life of a consultant
 ---
 
 I wanted to write a short little post on a misunderstanding and confusion that pops up once you start to create cross-functional teams;

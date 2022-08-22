@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The blog in stereo
-date: 2008-11-25T19:20:00.001+01:00
+date: 2008-11-25T18:20:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2008-11-25T19:20:33.675+01:00
+modified_time: 2008-11-25T18:20:33.675Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3908941120985289189
 blogger_orig_url: http://www.marcusoft.net/2008/11/blog-in-stereo.html
 ---

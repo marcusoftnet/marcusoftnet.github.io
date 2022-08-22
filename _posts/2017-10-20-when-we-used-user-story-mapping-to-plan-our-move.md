@@ -2,12 +2,12 @@
 layout: post
 title: When we used user story mapping to plan our move
 author: Marcus Hammarberg
-date: 2017-10-20 11:06:09
+date: 2017-10-20T11:06:09.000Z
 tags:
- - Lean
-
-  - Agile
- - Marcus private
+  - |-
+    Lean
+    - Agile
+  - Marcus private
 ---
 
 [User story mapping](http://jpattonassociates.com/user-story-mapping/) is a very powerful tool by [Jeff Patton](http://jpattonassociates.com) and I have used it many times in IT context. With a user story map you list the steps of a user journey in your system on top and then list out the details of each of these steps below (see the picture below because this explaination doesn't really give the tool justice).

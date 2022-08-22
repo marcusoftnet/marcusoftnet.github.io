@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Summarizing data over several Google Sheets - an exercise in stats and formulas
+title: >-
+  Summarizing data over several Google Sheets - an exercise in stats and
+  formulas
 author: Marcus Hammarberg
-date: 2019-11-28 10:20:43
+date: 2019-11-28T10:20:43.000Z
 tags:
   - Life of a consultant
   - Tools

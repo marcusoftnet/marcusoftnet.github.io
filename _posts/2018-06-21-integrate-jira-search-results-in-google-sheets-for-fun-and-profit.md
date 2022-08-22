@@ -2,16 +2,15 @@
 layout: post
 title: Integrate JIRA search results in Google Sheets for fun and profit
 author: Marcus Hammarberg
-date: 2018-06-21 13:55:11
+date: 2018-06-21T13:55:11.000Z
 tags:
- - Tools
-
-  - Agile
- - Lean
- - Scrum
-
-  - Kanban
-  - Life of a consultant
+  - |-
+    Tools
+    - Agile
+  - Lean
+  - |-
+    Scrum
+    - Kanban - Life of a consultant
 ---
 
 As an agile coach working in bigger companies you are sound exposed to [JIRA](https://www.atlassian.com/software/jira). JIRA - a tool that started out as a good idea and then grew into … a not as good idea.

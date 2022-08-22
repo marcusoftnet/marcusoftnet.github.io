@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Object-oriented database – worth a try
-date: 2009-08-27T10:35:00.001+02:00
+date: 2009-08-27T08:35:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: 2010-12-14T16:22:38.193+01:00
+modified_time: 2010-12-14T15:22:38.193Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1124798564099723385
 blogger_orig_url: http://www.marcusoft.net/2009/08/object-oriented-database-worth-try.html
 ---

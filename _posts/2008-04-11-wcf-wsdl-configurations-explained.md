@@ -1,12 +1,12 @@
 ---
 layout: post
 title: WCF - wsdl configurations explained
-date: 2008-04-11T10:01:00.006+02:00
+date: 2008-04-11T08:01:00.006Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - WCF
-modified_time: 2008-04-11T19:24:24.634+02:00
+modified_time: 2008-04-11T17:24:24.634Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8821292909315687787
 blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-configurations-explained.html
 ---

@@ -2,9 +2,9 @@
 layout: post
 title: My post scaffolder for Jekyll
 author: Marcus Hammarberg
-date: 2014-12-09 08:09:13
+date: 2014-12-09T08:09:13.000Z
 tags:
-- Tools
+  - Tools
 ---
 
 I've just started to use <a href="http://jekyllrb.com">Jekyll</a> as my blogging engine. It's mostly nice but I'm getting used to a new tool. And maybe actually the lack of tools since it's just markdown and git.

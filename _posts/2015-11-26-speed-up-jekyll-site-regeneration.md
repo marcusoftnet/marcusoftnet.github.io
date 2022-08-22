@@ -2,10 +2,9 @@
 layout: post
 title: Speed up Jekyll site regeneration
 author: Marcus Hammarberg
-date: 2015-11-26 09:51:58
+date: 2015-11-26T09:51:58.000Z
 tags:
- - Tools
-  - Life of a consultant
+  - Tools - Life of a consultant
 ---
 
 I'm a happy [Jekyll](http://jekyllrb.org) user since about 1 year ago. Really nice experience so far and the auto-hosting on [GitHub](http://github.com) is just an added bonus that lifts the joy a little more.

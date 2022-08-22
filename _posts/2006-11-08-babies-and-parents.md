@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Babies and their parents
-date: 2006-11-08T07:33:00.000+01:00
+date: 2006-11-08T06:33:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-11-17T08:06:13.466+01:00
+modified_time: 2006-11-17T07:06:13.466Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-440534495947871164
 blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-parents.html
 ---

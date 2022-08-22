@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 10
-date: 2009-02-16T22:38:00.001+01:00
+date: 2009-02-16T21:38:00.001Z
 author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
-modified_time: 2009-02-16T22:38:46.665+01:00
-thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/SZnc5EtJJUI/AAAAAAAAAhk/0-y3-n75kzI/s72-c/sprintplannerinitmodel_thumb%5B4%5D.jpg?imgmax=800
+modified_time: 2009-02-16T21:38:46.665Z
+thumbnail: >-
+  http://lh3.ggpht.com/\_kkDJOSPNTLs/SZnc5EtJJUI/AAAAAAAAAhk/0-y3-n75kzI/s72-c/sprintplannerinitmodel_thumb%5B4%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5583006853510556248
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-10.html
 ---

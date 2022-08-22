@@ -1,12 +1,12 @@
 ---
 layout: post
 title: TFS Build targets and properties - the official list
-date: 2008-11-11T10:41:00.001+01:00
+date: 2008-11-11T09:41:00.001Z
 author: Marcus Hammarberg
 tags:
   - TFS
   - MSBuild
-modified_time: 2008-11-11T10:41:42.055+01:00
+modified_time: 2008-11-11T09:41:42.055Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6662911047123782891
 blogger_orig_url: http://www.marcusoft.net/2008/11/tfs-build-targets-and-properties.html
 ---

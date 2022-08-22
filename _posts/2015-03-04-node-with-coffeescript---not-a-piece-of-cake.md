@@ -2,11 +2,11 @@
 layout: post
 title: Get started writing NodeJs with CoffeeScript - not a piece of cake
 author: Marcus Hammarberg
-date: 2015-03-04 09:23:07
+date: 2015-03-04T09:23:07.000Z
 tags:
- - Javascript
- - Node
- - Tools
+  - Javascript
+  - Node
+  - Tools
 ---
 
 For some reason I'm from time to time drawn to different languages that compiles to JavaScript. And then I'm drawn away again. Especially nowadays with [ES6 coming up](https://robots.thoughtbot.com/replace-coffeescript-with-es6) many ideas and needs for [CoffeeScript](http://www.coffeeScript.org) or [TypeScript](http://www.typescriptlang.org/) goes away.

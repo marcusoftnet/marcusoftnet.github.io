@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Naming service reference to get namespace-like behavior
-date: 2008-04-08T08:54:00.002+02:00
+date: 2008-04-08T06:54:00.002Z
 author: Marcus Hammarberg
 tags:
   - SOA
   - WCF
-modified_time: 2010-12-14T16:20:33.300+01:00
+modified_time: 2010-12-14T15:20:33.300Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-932102224134427259
 blogger_orig_url: http://www.marcusoft.net/2008/04/naming-service-reference-to-get.html
 ---

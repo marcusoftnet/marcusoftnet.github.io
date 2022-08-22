@@ -2,7 +2,7 @@
 layout: post
 title: Backlog and features
 author: Marcus Hammarberg
-date: 2016-06-13 12:59:58
+date: 2016-06-13T12:59:58.000Z
 tags:
   - Agile
   - Lean

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Integrationtests for ASP.NET MVC applications
-date: 2009-11-17T21:29:00.001+01:00
+date: 2009-11-17T20:29:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET - ASP.NET MVC
   - Agile
-modified_time: 2010-12-14T16:22:38.175+01:00
+modified_time: 2010-12-14T15:22:38.175Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6915727805215632792
 blogger_orig_url: http://www.marcusoft.net/2009/11/integrationtests-for-aspnet-mvc.html
 ---

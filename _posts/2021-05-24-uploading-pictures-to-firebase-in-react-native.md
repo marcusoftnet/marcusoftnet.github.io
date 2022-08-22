@@ -2,11 +2,11 @@
 layout: post
 title: Uploading pictures to Firebase in React Native
 author: Marcus Hammarberg
-date: 2021-05-24 21:38:21
+date: 2021-05-24T21:38:21.000Z
 tags:
- - JavaScript
- - React
- - Programming
+  - JavaScript
+  - React
+  - Programming
 ---
 
 It was quite some times since I wrote a programming related blog post - but now the time has come (and my programming output is poured at the [Salt protips blog nowadays](https://appliedtechnology.github.io/protips/))

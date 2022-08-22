@@ -2,7 +2,7 @@
 layout: post
 title: Plans are theoretical
 author: Marcus Hammarberg
-date: 2021-12-09 11:44:17
+date: 2021-12-09T11:44:17.000Z
 tags:
   - Agile
   - Management

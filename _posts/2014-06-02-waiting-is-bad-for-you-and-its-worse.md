@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Waiting is bad for you… and it’s worse than you think
-date: 2014-06-02T08:44:00.001+02:00
+date: 2014-06-02T06:44:00.001Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
-
   - Kanban
   - Agile
   - Salvation Army
-modified_time: 2014-06-02T08:44:48.859+02:00
-thumbnail: http://lh5.ggpht.com/-4mPrq0Ry0-Q/U4wdULJUn0I/AAAAAAAAD4Y/XfToL65pCN4/s72-c/2014-06-02%25252013.16.14_thumb%25255B8%25255D.jpg?imgmax=800
+modified_time: 2014-06-02T06:44:48.859Z
+thumbnail: >-
+  http://lh5.ggpht.com/-4mPrq0Ry0-Q/U4wdULJUn0I/AAAAAAAAD4Y/XfToL65pCN4/s72-c/2014-06-02%25252013.16.14_thumb%25255B8%25255D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6144254050967463845
 blogger_orig_url: http://www.marcusoft.net/2014/06/waiting-is-bad-for-you-and-its-worse.html
 ---

@@ -1,19 +1,17 @@
 ---
 layout: post
 title: What to do now - Sprint Planner Helper Initialization
-date: 2009-01-31T12:50:00.001+01:00
+date: 2009-01-31T11:50:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - .NET
   - ASP.NET MVC
   - Scrum
-
   - Agile
   - Sprint Planner Helper
-
   - TDD
-modified_time: 2009-01-31T12:50:41.134+01:00
+modified_time: 2009-01-31T11:50:41.134Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1759927773062858386
 blogger_orig_url: http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html
 ---

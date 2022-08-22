@@ -2,13 +2,12 @@
 layout: post
 title: How we agile - principle-led & context-dependent
 author: Marcus Hammarberg
-date: 2019-08-15 11:26:32
+date: 2019-08-15T11:26:32.000Z
 tags:
- - Lean
- - Leadership
-
-  - Agile
-  - Life of a consultant
+  - Lean
+  - |-
+    Leadership
+    - Agile - Life of a consultant
 ---
 
 Agile is soon (?) to be forgotten and ditched like yesterdays clothes if you ask some agilistas that I follow. I think the reason is that we have watered down the meaning of the concept by applying the name to more and more un-agile things. Soon we will be able to become agile without letting its ideas and principles changing a thing about what we do or how we act.

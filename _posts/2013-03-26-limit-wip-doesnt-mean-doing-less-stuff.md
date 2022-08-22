@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Limit WIP doesn't mean doing less
-date: 2013-03-26T15:18:00.001+01:00
+date: 2013-03-26T14:18:00.001Z
 author: Marcus Hammarberg
 tags:
   - Lean
   - Life of a consultant
   - Kanban
   - Agile
-modified_time: 2013-03-26T15:19:06.460+01:00
+modified_time: 2013-03-26T14:19:06.460Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2693832132518295773
 blogger_orig_url: http://www.marcusoft.net/2013/03/limit-wip-doesnt-mean-doing-less-stuff.html
 ---

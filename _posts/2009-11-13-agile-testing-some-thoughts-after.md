@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Agile testing – some thoughts after an excellent Elevate-evening
-date: 2009-11-13T11:57:00.001+01:00
+date: 2009-11-13T10:57:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2009-11-13T11:57:28.121+01:00
+modified_time: 2009-11-13T10:57:28.121Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5694135538797434709
 blogger_orig_url: http://www.marcusoft.net/2009/11/agile-testing-some-thoughts-after.html
 ---

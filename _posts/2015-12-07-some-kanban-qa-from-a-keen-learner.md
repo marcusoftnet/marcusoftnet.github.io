@@ -2,11 +2,9 @@
 layout: post
 title: Some kanban questions from a keen learner, and my answers
 author: Marcus Hammarberg
-date: 2015-12-07 11:05:30
+date: 2015-12-07T11:05:30.000Z
 tags:
-
   - Kanban
-
   - Agile
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Nancy.Testing - test-dialogues with Requests and Response
-date: 2013-01-31T11:43:00.000+01:00
+date: 2013-01-31T10:43:00.000Z
 author: Marcus Hammarberg
 tags:
   - Nancy
   - Tools
   - .NET
   - C#
-modified_time: 2014-06-21T02:09:55.472+02:00
+modified_time: 2014-06-21T00:09:55.472Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3281707504116832093
 blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting3.html
 ---

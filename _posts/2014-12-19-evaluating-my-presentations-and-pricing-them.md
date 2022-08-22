@@ -2,12 +2,12 @@
 layout: post
 title: Evaluating my presentations... and pricing them?
 author: Marcus Hammarberg
-date: 2014-12-19 18:04:46
+date: 2014-12-19T18:04:46.000Z
 tags:
-- Agile
-- Life of a consultant
-- Tools
-- Indonesia
+  - Agile
+  - Life of a consultant
+  - Tools
+  - Indonesia
 ---
 
 I'm waiting at a train station to go back after doing 2 presentations on kanban. It's super hot, I'm tired and it's 2 hours to wait before my train, *with* AC, comes. Perfect time to write a blog post in other words.

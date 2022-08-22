@@ -2,9 +2,9 @@
 layout: post
 title: Counting words
 author: Marcus Hammarberg
-date: 2017-08-24 19:00:21
+date: 2017-08-24T19:00:21.000Z
 tags:
- - Programming
+  - Programming
 ---
 
 I got the bash-programming bug. Lately I've been almost making up excuses to dive into another script. For example; the [book I'm writing now](http://oikosofy.com/bungsu-story-book/) is closing into an end. So I thought to myself; wonder how many words there are in there.

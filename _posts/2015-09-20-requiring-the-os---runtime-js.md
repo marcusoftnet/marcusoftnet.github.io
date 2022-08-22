@@ -2,11 +2,11 @@
 layout: post
 title: Requiring the os - runtime-js
 author: Marcus Hammarberg
-date: 2015-09-20 16:31:47
+date: 2015-09-20T16:31:47.000Z
 tags:
- - Javascript
- - Koa
- - Tools
+  - Javascript
+  - Koa
+  - Tools
 ---
 
 This is my second attempt to write this post. It's not that the post itself is hard to write but the concept makes my head ... go ouchie. That tend to happen to my head when I see potential quantum leaps.

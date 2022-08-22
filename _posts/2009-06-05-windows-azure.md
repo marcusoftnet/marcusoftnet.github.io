@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Windows Azure
-date: 2009-06-05T16:11:00.001+02:00
+date: 2009-06-05T14:11:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.196+01:00
+modified_time: 2010-12-14T15:22:38.196Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3702324459945722813
 blogger_orig_url: http://www.marcusoft.net/2009/06/windows-azure.html
 ---

@@ -2,10 +2,10 @@
 layout: post
 title: Showing part of Excel trend line in other diagram
 author: Marcus Hammarberg
-date: 2014-12-04 14:21:41
+date: 2014-12-04T14:21:41.000Z
 tags:
-- Tools
-- Life of a consultant
+  - Tools
+  - Life of a consultant
 ---
 I don't consider myself a Excel expert user but recently I've started to use it more and more and both come to like it and start doing some pretty advanced stuff with it. As always this kind of knowledge cannot be had in faked, training environment - for me it has to be something real to stick.
 

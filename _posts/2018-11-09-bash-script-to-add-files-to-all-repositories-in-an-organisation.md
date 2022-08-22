@@ -2,10 +2,9 @@
 layout: post
 title: Bash script to add file(s) to all repositories in an organisation
 author: Marcus Hammarberg
-date: 2018-11-09 14:10:45
+date: 2018-11-09T14:10:45.000Z
 tags:
- - Programming
-  - Life of a consultant
+  - Programming - Life of a consultant
 ---
 
 > Hey Marcus, can you just add a License file to each of our repositories?

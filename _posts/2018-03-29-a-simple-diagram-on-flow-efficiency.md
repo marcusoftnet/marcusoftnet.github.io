@@ -2,14 +2,12 @@
 layout: post
 title: A simple diagram and some conversations on flow efficiency
 author: Marcus Hammarberg
-date: 2018-03-29 09:21:39
+date: 2018-03-29T09:21:39.000Z
 tags:
- - Lean
-
-  - Kanban
-
-  - Agile
-  - Life of a consultant
+  - |-
+    Lean
+    - Kanban
+    - Agile - Life of a consultant
 ---
 
 The last couple of weeks I have been re-discovering an old diagram (eerm … sketch really). You can find it scribbled on close to every whiteboard in our office now. Because it opened a lot of interesting discussions on flow, flow efficiency and optimizations for value delivery.
