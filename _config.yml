@@ -3,7 +3,7 @@ title: marcusoft.net - sharing is learning
 short_title: marcusoft.net
 author_name: Marcus Hammarberg
 email: marcusoftnet@gmail.com
-description: "Marcus Hammarberg - my thoughts on lean, agile, kanban, nodejs, nancyfx, koa and other things makes me learn faster"
+description: My thoughts on things I find interesting.
 baseurl: ""
 url: https://www.marcusoft.net
 enforce_ssl: https://www.marcusoft.net
@@ -18,20 +18,13 @@ avatar: /img/avatar.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: marcusoft.net@gmail.com
-  facebook:
-  flickr:
   github: marcusoftnet
-  instagram:
   linkedin: marcusoftnet
-  pinterest:
   rss: rss
   twitter: marcusoftnet
   stackoverflow: 314670/marcus-hammarberg
   youtube: channel/UC3uq62oWJPm1agrW5Xxp_sA # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -40,12 +33,6 @@ disqus: marcusoftnet
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-873081-1
-
-# For newer "GA4" analytics, use the following instead of the "UA" entry above
-#google_analytics_ga4: G-GABC1DEFG
-
-# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
-# Used for Sitemap.xml and your RSS feed
 
 
 # If you're hosting your site at a Project repository on GitHub pages
