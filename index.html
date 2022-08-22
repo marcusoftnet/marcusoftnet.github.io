@@ -29,7 +29,7 @@ layout: default
       <span>&laquo; Prev</span>
     {% endif %}
 
-    {% for page in (1..paginator.total_pages) %}
+    {% for page in (1..3) %}
       {% if page == paginator.page %}
         <span class="webjeda">{{ page }}</span>
       {% elsif page == 1 %}
