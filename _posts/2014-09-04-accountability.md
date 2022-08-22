@@ -30,7 +30,6 @@ Here's video with his latests message:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 I like this message for a number of reasons, but the part that stands
 out for me is "We know we are not perfect. We **want** to become better.
 We start Now!" I like that kind of transparency and humbleness.
@@ -104,27 +103,14 @@ Oh by the wa, Transparency also gives
 - more involvement
 - better loyalty
 
-
-
 if you're into those kind of things.
-
 
 ### Summary
 
-
-
 I don't have a problem with Accountability, but I much rather start with
 Trust and Transparency. Then Accountability comes automatically.  
-
-
-
-
-
-
 
 I've written before about <a
 href="http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html"
 target="_blank">Commitment</a> and I think those ideas brush on this
 topic.
-
-

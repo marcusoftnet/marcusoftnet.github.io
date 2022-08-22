@@ -32,6 +32,6 @@ that test the very best of bands.
 Really looking forward to hearing this piece and see who will take the
 honors from the weekend. Here are my votes:
 
-1.  Black Dyke Band
-2.  Grimethorpe
-3.  Desford
+1. Black Dyke Band
+2. Grimethorpe
+3. Desford

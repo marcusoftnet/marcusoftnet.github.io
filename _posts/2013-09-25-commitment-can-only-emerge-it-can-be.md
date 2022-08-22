@@ -56,8 +56,6 @@ misused, there's nothing wrong with the term itself. But you cannot:
 - Have them say aloud that they commit to a scope (yes, I've heard
     about things like that).
 
-
-
 |                                                                                                   |
 |:-------------------------------------------------------------------------------------------------:|
 |                                                 <a
@@ -85,17 +83,8 @@ understand WHY you
 really want</a> this thing you want them to build. And answer any
 question they might need you for around the WHAT.
 
-
-
-
-
-
-
 And if you do, you might, just might see commitment emerge. Commitment
 that could manifest itself in:
-
-
-
 
 - Delivering a better product, than even you expected
 - Building it faster, than you hoped
@@ -103,27 +92,10 @@ that could manifest itself in:
 - Being proud over what they/you have made. So proud that they
     continue to care about "our product"
 
-
-
 In short; you might find a team that stand behind the product.
-
-
-
-
-
-
 
 So in short: Don't demand commitment. You can demand stuff but it's not
 commitment. You can support a team to feel empowered, proud and
 involved. And if you're lucky... you might see commitment emerge.  
 
-
-
-
-
-
-
-
 Thanks Andy for pointing that out to me. Love talking to you!
-
-

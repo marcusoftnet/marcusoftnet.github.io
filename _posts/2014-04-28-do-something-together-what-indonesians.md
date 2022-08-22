@@ -121,4 +121,3 @@ especially physical things, bonds people. We, you and I, have planted
 that tree. We have cleaned this together. I think it's a great way to
 know the person behind the keys of all those emails, or that code or
 what have you.
-

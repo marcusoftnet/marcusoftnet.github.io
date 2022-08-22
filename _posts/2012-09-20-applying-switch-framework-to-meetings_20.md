@@ -35,18 +35,11 @@ go the other way if it wants to.
 
 ### Find the feeling
 
-
-
 The first thing we need to do is get the Elephant to feel for the cause.
 A <a
 href="http://www.businessinsider.com/where-is-your-sense-of-urgency-take-6-steps-to-get-your-company-moving-2010-10?op=1"
 target="_blank">sense of urgency</a> as it's often called in the
 Lean literature.
-
-
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -57,51 +50,27 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s320/Screen+Shot+2012-09-18+at+20.15.11.png"
 data-border="0" width="320" height="89" /></a>
 
-
 In the Switch book there's a wonderful story about this. A company had a
 lot of different factories. They bought a lot of different clothing and
 equipment from different vendors. This costed a lot since every factory
 bought their own stuff. No big purchase discounts could be had.
 
-
-
-
 A project was created ... but no one care. Their elephants was not
 involved.
-
-
-
 
 So the project manager sent out an intern to collect on glove of each
 type that the company had in any factory. It was about 250 different
 types. He poured these on top of a table and brought the managers into
 the room one by one:
 
-
-
-
 "You know what this is?"
 
-
-
-
 "No... A truckload of gloves?"
-
-
-
 
 "Yes - this is all the different types of gloves we're using in the
 company"
 
-
-
-
 "WHAT?! We need to fix this. NOW!"
-
-
-
-
-
 
 So this was very clever. He did a visual representation of how much
 items there really was. Something that was really hard to grasp in
@@ -109,17 +78,11 @@ figures. He then chocked them a bit. This created a sense of urgency.
 Note the "WE need to fix this NOW". They felt that this needed to be
 address. But they all saw it as their problem. WE - not YOU.
 
-
-
-
-
-
 To motivate us to do better meetings we need to show how much time is
 lost in bad meetings. One way could be to have a
 <a href="http://www.firstbigstep.net/uploads/MeetingCalc.html"
 target="_blank">Meeting Hourly Rate Calculator</a> running in the
 background.
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -130,16 +93,8 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://4.bp.blogspot.com/-2U92S-zrtpI/UFg0nD1s-VI/AAAAAAAABYU/Qe1StsGZBl4/s320/Screen+Shot+2012-09-18+at+10.44.45.png"
 data-border="0" width="320" height="87" /></a>
 
-
-
-
 With this clock ticking away we will not drag out discussions longer
 than needed. But this could also create stress so use it with care.
-
-
-
-
-
 
 Another thing we could try is to list all the meetings we're having and
 rate them on how well time spent every meeting really is. It can be done
@@ -147,13 +102,7 @@ as a simple 15 minute exercise. (Thanks
 <a href="http://www.crisp.se/konsulter/henrik-kniberg"
 target="_blank">Henrik Kniberg</a> for this tip)
 
-
-
-
-
-
 Draw a table like this:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -163,39 +112,19 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-j1cUrl117OY/UFg19BEfONI/AAAAAAAABYc/MOY79paxn0w/s320/Screen+Shot+2012-09-18+at+10.50.48.png"
 data-border="0" width="320" height="116" /></a>
 
-
-
-
-
-
 And write all the recurring meetings your having in the first column.
 Then have everybody rate the value of the meeting on a scale from 1-5
 (for example). Then list the length of the meeting. For good measures
 you could track if people feel that the meetings are mandatory.
-
-
-
-
-
 
 With this data we can see which meeting that are the most valuable. And
 also which ones that take up a lot of our time. Finally - just think if
 people are attending meetings just because they think they have to, when
 they in reality don't? That would be waste indeed.
 
-
-
-
-
-
 This little exercise triggers a lot of interesting discussions, I think.
 You want everybody to feel; WE need to fix this NOW. And we can. Yes we
 can :).
-
-
-
-
-
 
 A final thing I've tried is to calculate how much time the meeting is
 taking relative the sprint, iteration or week. For example; we're doing
@@ -203,12 +132,8 @@ a sprint planning (1 day) for an 3 week sprint. That is; we preparing
 the work for the next 3 weeks and taking 8 h / 120 h = 7% of our time
 for this.
 
-
-
-
 Does that feel good? How about 4 hours instead? A little lesser
 planning, but just 4 % of our allocated time.
-
 
 ### Shrink the change
 
@@ -277,13 +202,9 @@ have to take responsibility for what you do with your time.
 
 ### Conclusion
 
-
-
 We have not tried to reason with the Elephant, trying to talk with the
 lazy subconscious of the people we're trying to change. That just leaves
 the last part - shaping the path on which the Rider and the Elephant are
 walking down. That's the subject of the <a
 href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html"
 target="_blank">next post</a>. See you there.
-
-

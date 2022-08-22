@@ -31,28 +31,28 @@ that session.
 
 #### Good ideas
 
--   Switch the keyboard often. I.e. one developer writes the test and
+- Switch the keyboard often. I.e. one developer writes the test and
     one the implementation or use some kind of a <a
     href="http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html"
     target="_blank">pomodoro</a> clock for ten mintues.
--   Switch partners often – once a day for example
+- Switch partners often – once a day for example
 
 #### Argument for the benefits of Pair Programming
 
--   It’s fun! No more agrument should really be needed than this. You
+- It’s fun! No more agrument should really be needed than this. You
     need fun at work or else you should work somewhere else.
--   This is a
+- This is a
     <a href="http://en.wikipedia.org/wiki/Pair_programming#Benefits"
     target="_blank">list of benefits here</a> and then some studies that
     shows an <a
     href="http://en.wikipedia.org/wiki/Pair_programming#Scientific_studies"
     target="_blank">increase in quality etc.</a>
--   It may be slower to the first checking but faster to production
--   A higher quality to immediate quality checking by the partner
--   More people is familiar around the code-base
--   Higher degree of concentration and fewer interruptions, both
+- It may be slower to the first checking but faster to production
+- A higher quality to immediate quality checking by the partner
+- More people is familiar around the code-base
+- Higher degree of concentration and fewer interruptions, both
     internal and external.
--   <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF"
+- <a href="http://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF"
     target="_blank">Here is a paper</a> that states that you do loose
     tempo (15 % in their studies) but you gain in quality
 

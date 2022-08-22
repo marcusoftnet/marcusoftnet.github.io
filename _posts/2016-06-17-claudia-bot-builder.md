@@ -55,12 +55,12 @@ module.exports = botBuilder(request => {
 
     return co(function*() {
         var start = new Date();
-	    var result = yield coreq(url);
-    	var end = new Date() - start;
+     var result = yield coreq(url);
+     var end = new Date() - start;
 
         return `Pinged ${url} successfully - took ${end} ms`;
     }).catch(function(err) {
-		return `Could not ping ${url} (${err.message})`;
+  return `Could not ping ${url} (${err.message})`;
     });
 });
 ```
@@ -133,10 +133,10 @@ Create a `testdata/basictest.json` file containing the following:
 
 ```json
 {
-	"context" : {
-		"path" : "/",
-		"method" : "GET"
-	}
+ "context" : {
+  "path" : "/",
+  "method" : "GET"
+ }
 }
 ```
 
@@ -184,7 +184,7 @@ Better yet... use [Claudia Bot Builder](https://www.npmjs.com/package/claudia-bo
 
 `claudia update --configure-slack-slash-command` for slash-commands for only your team (that's what this article is about.). And use `claudia update --configure-slack-slash-app` for Slack applications.
 
-## Test!
+## Test
 
 Once all of that is done you can now go to the Slack group for which you installed the command and run your beauty.
 

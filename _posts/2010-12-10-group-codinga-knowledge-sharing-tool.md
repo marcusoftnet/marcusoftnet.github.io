@@ -44,7 +44,7 @@ been in a this kind of session without learning a lots.
 So I will sure take time to do this. We’re aiming on two hours each week
 in my current team.
 
--   Code your way through a user story or a test, or a walking skeleton.
--   Do it together to get shared understanding and spread the principles
+- Code your way through a user story or a test, or a walking skeleton.
+- Do it together to get shared understanding and spread the principles
     and ways of your team.
--   Do it often to keep your standards up to date
+- Do it often to keep your standards up to date

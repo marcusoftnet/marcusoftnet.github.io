@@ -20,11 +20,6 @@ I am at my first conference since 2000. My good times flies, then it was
 since I was stuck in a never ending VB6 Com+ assignment. Well, here we
 are - 2009 and [ÖreDev](http://www.oredev.org/).
 
-
-
-
-
-
 The first day for me was spent with a single session that took the whole
 day. I didn't know to much about it and simple went to it since the
 title was so alluring - [Accomplishing more by doing
@@ -32,17 +27,9 @@ less](http://accomplishingmorebydoingless.com/), with [Marc
 Lesser](http://www.youtube.com/watch?v=aUqL2p94XMc) (taken name?). Who
 can miss out on such a offering.
 
-
-
-
-
-
 Well, as expected I guess, the content wasn't so much on thing to do,
 that would only have added to the burden of things to do. But rather it
 was about doing less of some thing, namely:
-
-
-
 
 - **Fear** - here we talked a lot about why we fear stuff like time,
     not being seen etc. Also the antidote is to be generous which I
@@ -64,26 +51,12 @@ was about doing less of some thing, namely:
     are busy we think that we get the most out of it… But we would be
     wrong - we don't have time to see that life is passing…
 
-
-
-
 The lecture was Marc Lesser and he brought a real calmness and ease to
 the session. Starting with 30 minutes meditation will maybe do that.
-
-
-
-
-
 
 Although I, as a Christian, don't agree on everything surrounding the
 spiritual part of Zen - I still got a lot out of the session. I of
 course cannot describe all of it here - but I will take with me to start
 to be more present and be generous with my attention.
 
-
-
-
-
-
 Thank you Marc, for a great day.
-

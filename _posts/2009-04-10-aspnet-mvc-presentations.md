@@ -13,10 +13,10 @@ blogger_orig_url: http://www.marcusoft.net/2009/04/aspnet-mvc-presentations.html
 
 Found these two great presentations surronding ASP.NET MVC.
 
--   <a href="http://videos.visitmix.com/MIX09/T49F" target="_blank">File|New
+- <a href="http://videos.visitmix.com/MIX09/T49F" target="_blank">File|New
     -&gt; Company: Creating NerdDinner.com with Microsoft ASP.NET Model View
     Controller (MVC)</a> - really funny too...
--   <a href="http://videos.visitmix.com/MIX09/T44F"
+- <a href="http://videos.visitmix.com/MIX09/T44F"
     target="_blank">Microsoft ASP.NET Model View Controller (MVC): Ninja on
     Fire Black Belt Tips</a> - a bit slow presentation but some real
     nuggest are to be found

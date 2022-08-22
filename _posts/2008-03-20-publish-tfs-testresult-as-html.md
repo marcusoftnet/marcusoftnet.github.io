@@ -27,16 +27,16 @@ And here are, based on [this
 article](http://blogs.msdn.com/buckh/archive/2007/05/30/viewing-test-results-in-a-web-browser.aspx),
 some steps on how to include the functionality in your build script:
 
-1.  Download [the
+1. Download [the
     tool](http://www.codeplex.com/trx2html/Release/ProjectReleases.aspx?ReleaseId=10672)
-2.  Include the RidoTask.dll in your solution or reachable on the server
+2. Include the RidoTask.dll in your solution or reachable on the server
     where the tests are run. I've included the dll in a solution folder
     in my solution, called SolutionItems\Tools
-3.  Reference the msbuild task in your build file (.proj)
+3. Reference the msbuild task in your build file (.proj)
     \<usingtask
     assemblyfile="$(SolutionRoot)\SolutionItems\Tools\RidoTasks.dll"
     taskname="RidoTasks.trx2html"\>
-4.  Convert the trx into html after TFS has dropped the results
+4. Convert the trx into html after TFS has dropped the results
     \<target name="AfterDropBuild"\>
     \<calltarget targets="CreateTRXReports"\>
     \</target\>

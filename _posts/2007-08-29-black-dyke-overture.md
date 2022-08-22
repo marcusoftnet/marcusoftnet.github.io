@@ -23,4 +23,3 @@ afterwards - that could make you go on i presume.
 
 Also observe that the euphoniums turn pages after about 40 seconds - its
 that many notes! Cool!
-

@@ -22,7 +22,7 @@ services differs from the one generated with ASMX web services.
 The main difference is that the WSDL is generated with some kind of
 virtual links. That is; parts of the WSDL-file is retrieved using a
 different URL. For example:
-schemaLocation="http://localhost:3236/Bokforing.svc?xsd=xsd0
+schemaLocation="<http://localhost:3236/Bokforing.svc?xsd=xsd0>
 
 This seems to be working fine in Visual Studio 2008 (and hopefully in
 2005 also), since they are capable of navigating such references. But
@@ -45,11 +45,11 @@ every developer in the team needs to worry about it...
 
 Two gotchas appeared for me;
 
-1.  The @ServiceHost Factory is a bit strange since is doesn't show up
+1. The @ServiceHost Factory is a bit strange since is doesn't show up
     in intellisense. It works quite fine though. Read more about it
     [here](http://hyperthink.net/blog/the-servicehost-directive/), and
     [here](http://msdn.microsoft.com/en-us/library/aa967286.aspx).
-2.  The loop found in the private method
+2. The loop found in the private method
     RemoveXsdImports was quite tricky to translate into VB.NET since its
     using a kind of looping that not is supported by VB.NET. Also the
     [Developer

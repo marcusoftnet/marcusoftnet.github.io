@@ -35,7 +35,7 @@ Indeed simple cannot answer that for you unless you make the searches and compar
 
 I headed out to the Indeed website and searched for React and Node jobs in Stockholm. And unsurprisingly a list of ads was displayed. Many jobs. Like 170+. I got a paginated result back with 5+ more pages. But on top was the information I was looking for:
 
->  Sida 1 av 183 resultat
+> Sida 1 av 183 resultat
 
 A bit strange formatted but it says: `page 1 of 183 results`. Ok - there are 183 ads for with React as a keyword.
 
@@ -93,7 +93,7 @@ Back to my Google Scraping automation sheet I created a new column, D and enter 
 =IMPORTXML(C2, "//*[@id='searchCountPages']")
 ```
 
-* C2 - holds the URL for my search of, for example, angular and node ([https://se.indeed.com/jobb?q=angular%20node&l=stockholm](https://se.indeed.com/jobb?q=angular node&l=stockholm))
+* C2 - holds the URL for my search of, for example, angular and node ([https://se.indeed.com/jobb?q=angular%20node&l=stockholm](<https://se.indeed.com/jobb?q=angular> node&l=stockholm))
 * The second parameter is the XPath expression we let Google Chrome generate for us
 
 There's a little bit of string parsing to be done, to get the number from the string `Sida 1 av 357 resultat`
@@ -106,9 +106,9 @@ Here's the entire table
 
 | Key words  | City      | URL                                                 | Result                 | Hits |
 | ---------- | --------- | --------------------------------------------------- | ---------------------- | ---- |
-| angular    | stockholm | https://se.indeed.com/jobb?q=angular&l=stockholm    | Sida 1 av 357 resultat | 357  |
-| vue        | stockholm | https://se.indeed.com/jobb?q=vue&l=stockholm        | Sida 1 av 123 resultat | 123  |
-| serverless | stockholm | https://se.indeed.com/jobb?q=serverless&l=stockholm | Sida 1 av 66 resultat  | 66   |
+| angular    | stockholm | <https://se.indeed.com/jobb?q=angular&l=stockholm>    | Sida 1 av 357 resultat | 357  |
+| vue        | stockholm | <https://se.indeed.com/jobb?q=vue&l=stockholm>        | Sida 1 av 123 resultat | 123  |
+| serverless | stockholm | <https://se.indeed.com/jobb?q=serverless&l=stockholm> | Sida 1 av 66 resultat  | 66   |
 
 ## Amazing things happen
 

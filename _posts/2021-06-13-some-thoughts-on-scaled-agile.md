@@ -22,6 +22,7 @@ Hi [Emer](https://www.linkedin.com/in/ACoAAAPoJzoBoQ8bWJ4Pcc-36f-5pfjZjdBv_JU) -
 The trick with scaling is that there are no recipes that will work everywhere, just as with agile itself. This is also why some of us are ticked off with the packing of exactly that, like the one above. It's a very unagile way to introduce agile
 
 However, there are things to read that I think will trigger your imagination and inspiration:
+
 * [Practices_for_Scaling_Lean_and_Agile](https://www.craiglarman.com/wiki/index.php?title=Book) is a good starting point
 * There are ideas about scaling in [The Blue Kanban book](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402) that holds up very well.
 * I also like the idea of [Klaus Leopold about flight levels](https://2020.leanability.com/en/blog/2017/04/flight-levels-the-organizational-improvement-levels/) , and his [book](https://www.leanability.com/en/books/) is brilliant

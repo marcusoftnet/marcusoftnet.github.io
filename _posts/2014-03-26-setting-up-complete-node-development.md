@@ -19,7 +19,6 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/setting-up-complete-node-deve
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 I got yet another computer. To work on. But there will be slow days on
 airports and hotels with this baby to... So I decided to try something
 new; I decided to go
@@ -54,29 +53,20 @@ Here we go.
 
 ### Downloading downloading downloading
 
-
-
 This section will contain a lot of waiting. I've put in some information
 for you to read in the meanwhile. Here it is in short form;
-
-
-
 
 - <a href="https://www.virtualbox.org/wiki/Downloads"
     target="_blank">Download VirtualBox</a>
 - <a href="http://www.ubuntu.com/download/desktop"
     target="_blank">Download Ubuntu installation media</a>
 
-
 #### VirtualBox
-
-
 
 First we need to get VirtualBox itself. Download the correct version for
 your host operating system
 <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank">from
 here</a>.
-
 
 |                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------:|
@@ -90,23 +80,15 @@ here</a>.
               href="http://www.forevergeek.com/2010/09/finally_an_affordable_inception_top/"
                                      target="_blank">ForeverGeek</a>                                      |
 
-
-
 If you're new to this VirtualBox is free a virtualization software, from
 <a href="http://www.oracle.com/" target="_blank">Oracle</a> of all
 places. Meaning that we can create a single file (aka an image) that
 represents an entire computer. With this you can run another computer in
 your computer. It's a bit Inception-like but useful.
 
-
-
-
 Your physical computer, aka the host environment, is where you will run
 VirtualBox. So you need to download the correct version for your host.
 Windows, Mac what have you.
-
-
-
 
 Also way down at end of the downloads page there's a <a
 href="http://www.oracle.com/technetwork/community/developer-vm/index.html"
@@ -114,10 +96,7 @@ target="_blank">link to a set of prebuilt images</a>. Virtual computers
 that you can download. I had some problems to get that to work. And
 downloading them on my **slow** network took forever.  
 
-
 #### Ubuntu install media
-
-
 
 <a
 href="http://4.bp.blogspot.com/-DaHQeu_DBqA/Uy_V7J-e11I/AAAAAAAACHA/weW7PJZw494/s1600/download+ubuntu.jpg"
@@ -131,38 +110,17 @@ desktop version (although the server version would probably do just fine
 too). There's some helpful advice on the Ubuntu download page too, as
 seen on the right.
 
-
-
-
-
-
-
 WATCHOUT! The version of VirtualBox that I have downloaded (just a few
 weeks ago) only supported 32 bit Ubuntu. I got that in other words. Get
 the one that is suitable for you.  
-
-
-
-
-
-
 
 Once you click the Download button you will be taken to a "pay what it's
 worth page". I strongly recommend that you pay a couple of bucks. An
 operating system. For $10. Check the latests quotation for a Windows 8.1
 license. You getting something very similar.
 
-
-
-
 But it's up to you. If you don't want to pay there's a "Not now. Take me
 to the download"-link.
-
-
-
-
-
-
 
 Ubuntu is a free "distribution" of Linux. For us non-Linux people this
 means that a company has taken the Linux core source code (it's open
@@ -175,40 +133,24 @@ target="_blank">Swahili</a>, btw, and
 [means...](http://askubuntu.com/questions/424/what-does-ubuntu-mean) Nice,
 huh?
 
-
-
-
-
-
-
 Ok, that has not finished downloading yet. But will pretend it has.
-
 
 ### Create your virtual computer
 
-
-
 This is simple... if you know how.
-
-
-
 
 1. Install VirtualBox ("Next, Next, Next, Wait, Finish")
 2. Create a new virtual machine and attach the Ubuntu installation
     media
 3. Boot up and complete the Ubuntu installation
 
-
 #### Install VirtualBox on your host
-
-
 
 Now that you have everything downloaded, first install VirtualBox on
 your host system. This is your typical "Next, Next, Next, Wait,
 Finish"-installation and I will not say much about that. Just
 doubleclick the "VirtualBox-yada-yada-yada-Win.exe" file you downloaded
 and you should be fine.
-
 
 #### Create your virtual machine
 
@@ -221,23 +163,11 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-QTOh92pfG00/Uy_dTa43_tI/AAAAAAAACHk/shGI9OrLqpY/s1600/createvirtual+machine.jpg"
 data-border="0" width="176" height="200" /></a>
 
-
-
-
 Now, again if you're new to this it will be a bit strange. We will now
 create a virtual computer machine. Or virtual machine for short and if
 you under 85 years old, and stopped use that phrase.
 
-
-
-
-
-
-
 Luckily this is a breeze in VirtualBox.
-
-
-
 
 1. Start VirtualBox
 2. Click New
@@ -254,9 +184,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-5ecD9T8yTCw/Uy_dTds57MI/AAAAAAAACHo/73x1IDOP_pg/s1600/allocate+memory.jpg"
 data-border="0" width="175" height="200" /></a>
 
-
-
-
 That was pretty easy. Now we will allocate memory. Here you will have to
 think about that your host operating system needs some memory to work
 properly. VirtualBox has indicated what they think is max memory to
@@ -264,25 +191,12 @@ allocate to the virtual computer. I usually go below that just to make
 sure. Here I have allocated 1664 out of my 4096 Mb to the virtual image.
 Works fine for the things I will be doing.
 
-
-
-
-
-
-
-
-
-
-
 Now we will create the virtual hard drive. This was the thing that
 confused me the most when I first started to use virtual machine, quite
 a few years back. But when you think about it, its's natural; your
 virtual machine needs a hard drive. It's a file stored on your host
 system. We are now going to create it. I will not show every screen
 here, most of them are super easy to grasp;
-
-
-
 
 - Select "Create new hard drive" and click Create
 - For your Virtual drive type select Virtual Disk Image (VDI) if you
@@ -300,22 +214,13 @@ here, most of them are super easy to grasp;
 - Click Create.
 - And when you have done that your computer is done...
 
-
-
 This is where I got confused, but the virtual machine you have now is
 actually completed. You can compare this with buying a blank,
 uninstalled computer from a store. Nothing is installed on it right now.
 
-
-
-
-
 Let's fix that.
 
-
 ### Installing Ubuntu on your virtual machine
-
-
 
 1. Attach the .ISO with Ubuntu
 2. Start the Virtual Machine and follow the installation instruction to
@@ -323,19 +228,11 @@ Let's fix that.
 3. Done - Ubuntu is installed
 4. Oh yeah, install the VirtualBox Guest Additions as well.
 
-
-
-
 If you got home with an empty computer, what would you do? Install an
 OS. From a DVD probably. Let's do that, but from the .iso-file we
 downloaded from Ubuntu.
 
-
-
-
-
 <div class="separator" style="clear: both; text-align: center;">
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -346,27 +243,17 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-Yq2Cx33pDCM/Uy_wTyVOsgI/AAAAAAAACIA/76WBmzIW_5E/s1600/virtual+machine+settings.jpg"
 data-border="0" width="160" height="200" /></a>
 
-
-
-
 The first thing you would do is to insert the DVD with the OS in the DVD
 slot of your new physical computer. Well you don't have neither a DVD
 nor a DVD player. We'll have to figure something else out. Select your
 virtual machine in the VirtualBox (quite ugly, old school GUI) and
 select Settings.
 
-
-
-
 This will open a scary dialog box where you can tweak all sorts of
 settings for your virtual machine. Don't! If you're not absolutely sure
 that ~~that's what that blogpost, on performance you read, said what you
 should do~~ you know what your are doing. Things can stop working from
 here.
-
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -377,45 +264,21 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-fp9ou6UDGAY/Uy_wUPv0hRI/AAAAAAAACII/AVXInw365jQ/s1600/attach+iso+file.jpg"
 data-border="0" width="200" height="127" /></a>
 
-
-
-
 Instead head over to the Storage-section and click that strange
 little +-sign. This let's you choose a "disk". Choose the .ISO-file you
 downloaded from Ubuntu and click ok.
 
-
-
-
 This is called mounting a ISO, and is the equivalent of putting a
 physical DVD in the DVD drive of the computer.
-
-
-
-
-
-
-
-
-
-
-
-
 
 You are now ready to fire your computer up for the first time. This is
 done by selecting your virtual machine and clicking Start (big green
 arrow).
 
-
-
-
 When you do that it will install Ubuntu from the ISO-file. There's not
 much use for me to repeat that process. It's smooth and requires you to
 follow the on-screen instructions. Takes about 15 mins to install. Here
 are the comments and caveats that got me wondering.  
-
-
-
 
 - The first thing that happened was that I got a big red screen saying
     "Uninitialized yada yada yada... upgrade BIOS yada yada yada...".
@@ -443,12 +306,6 @@ in again. In all honesty VirtualBox crashed on me here... Twice... I
 reinstalled but the same thing happened. But unmounting and starting the
 virtual machine worked just fine... Strange and a bit uneasy feeling.  
 
-
-
-
-
-
-
 You can now "unmount" the .ISO file if you like, you don't need it
 anymore. When the virtual machine is not running go to
 
@@ -461,25 +318,17 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-t2J3QEgM9X4/UzDY7vY0v9I/AAAAAAAACIo/SqzmQGVEzpw/s1600/unmount.jpg"
 data-border="0" width="320" height="60" /></a>
 
-
 settings/storage like before, but remove the ISO file this time.
-
-
-
 
 You can also click the little disc at the bottom of the screen when you
 virtual machine is running and chose "Remove disk from virtual drive".
 
-
 #### VirtualBox guest additions
-
-
 
 Oh, one last thing. We should install the VirtualBox guest additions.
 What's that you ask (and me too from time to time)?
 <a href="https://www.virtualbox.org/manual/ch04.html"
 target="_blank">Well:</a>
-
 
 > They consist of device drivers and system applications that optimize
 > the guest operating system for better performance and usability
@@ -500,17 +349,11 @@ You install them by:
 
 ### Setting up VirtualBox
 
-
-
 There's a few settings that I find useful and always to in VirtualBox.
 First I make sure that I know which the Host-key is. This key is used to
 invoke commands from your host environment. For example making the
 virtual machine window fullscreen (Host+F). And now that it's fullscreen
 go back again (Host+F again).
-
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -521,14 +364,8 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-qC2CcjGQTQA/UzD0lN0pd0I/AAAAAAAACI0/leuk_W_4nEI/s1600/hostkey.jpg"
 data-border="0" width="200" height="139" /></a>
 
-
-
-
 So... which is my host key then? That's actually pretty hard to find
 out:
-
-
-
 
 1. Open VirtualBox
 2. Got to File - Properties
@@ -537,9 +374,6 @@ out:
 5. In the top you'll find the Host Key Combination... For me it's the
     right CTRL-button. I seldom use that button for other things.
 6. Easy huh? NOT!
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -550,7 +384,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://4.bp.blogspot.com/-p-bSCG5FUhQ/UzI_9I2qLbI/AAAAAAAACJ4/a7SrY8XrejQ/s1600/hostkey+easy.jpg"
 data-border="0" /></a>
 
-
 Luckily I found a much easier place to see the host key. The currently
 selected host key is displayed in the lower right corner of the virtual
 machine window. Here's that part of my screen that shows the "Right
@@ -560,7 +393,6 @@ I also make sure the that the clipboard is "bi-directional". That means
 that I can copy something in the virtual machine and then paste it in a
 program on my host. Or vice versa. Very handy.
 
-
 <div class="separator" style="clear: both; text-align: center;">
 
 <a
@@ -569,23 +401,13 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-KUKpl6c_eHc/UzD1WNngkpI/AAAAAAAACI8/Bg0I5qq4EjA/s1600/copy+and+past+settings.jpg"
 data-border="0" width="320" height="168" /></a>
 
-
 ### Get to know Linux / Ubuntu
-
-
 
 Skip this if you're not afraid of new OS's. If you are. Don't be that.
 Read this instead.
 
-
-
-
-
-
-
 If you've used Windows XP/7 or 8 or OS X during the 2000-ies you will be
 able to figure all of this out yourself. Here's my homescreen:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -594,12 +416,6 @@ href="http://3.bp.blogspot.com/-vQhUUFMjvMc/Uy_0V4X2ViI/AAAAAAAACIU/1SRbtDnn6Xs/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-vQhUUFMjvMc/Uy_0V4X2ViI/AAAAAAAACIU/1SRbtDnn6Xs/s1600/ubuntu+homescreen.jpg"
 data-border="0" width="640" height="305" /></a>
-
-
-
-
-
-
 
 - To the right is my Start-menu docked. You can see all my programs
     there. When you start a new program it will show there. You can then
@@ -618,22 +434,13 @@ data-border="0" width="640" height="305" /></a>
 - In the upper right corner there's a little cog-symbol. Click that to
     find Shut down... That took me QUITE sometime to find.
 
-
-
 There's loads of other things but all in all it was very easy to
 understand and get started. I like it!
 
-
-
 ### Installing Node stuff
-
-
 
 We are now ready to start installing the things we need to develop Node
 applications. Here is the list of things that I use frequently.
-
-
-
 
 - <a href="https://www.google.com/intl/en/chrome/browser/"
     target="_blank">Chrome for Linux</a>
@@ -647,19 +454,11 @@ applications. Here is the list of things that I use frequently.
 
 #### Chrome for Linux
 
-
-
 Chrome is simplest to install from the
 <a href="https://www.google.com/intl/en/chrome/browser/"
 target="_blank">normal download site</a>. I always use Chrome on all my
 computers and this is no exception. I always log in to Chrome as well
 since it syncs my bookmarks, apps and history.
-
-
-
-
-
-
 
 Installing this way is very much like doing it on Windows or Mac.
 Except... the file that you download is not an .exe of course. It's a
@@ -667,20 +466,11 @@ Except... the file that you download is not an .exe of course. It's a
 installation. This will open the "Ubuntu software center" and from there
 you can click Install.
 
-
-
-
-
-
-
 Go ahead and install your favorite browser now. If it's not
 <a href="http://www.mozilla.org/firefox/" target="_blank">Firefox</a>
 because that's included...
 
-
 #### Node
-
-
 
 Now, using that browser, let's install [Node](http://nodejs.org/). Head
 over to the [Node](http://nodejs.org/)-site and click Install. This will
@@ -689,19 +479,10 @@ completed open the file and ... or we can do this the Linux way and
 install it via apt-get. The way ~~God~~ Linus intended it. Either way
 you'll be using the terminal a lot, might as well get to know it.
 
-
-
-
-
-
-
 Apt-get is a package manager that is used by Linux to install things on
 your computer. Very handy and have been cloned in both Mac
 (<a href="http://brew.sh/" target="_blank">Homebrew</a>) and Windows
 (<a href="https://chocolatey.org/" target="_blank">Chocolatey</a>)
-
-
-
 
 1. Open the terminal by clicking the Ubuntu logo and search for
     Terminal
@@ -723,9 +504,6 @@ Sadly... that didn't bring down Nodes own package
 manager, <a href="https://www.npmjs.org/" target="_blank">npm</a>. We
 need that. Very soon. Let's do it again:
 
-
-
-
 1. Open terminal
 2. "<span style="font-family: Courier New, Courier, monospace;">sudo
     apt-get install npm"
@@ -735,17 +513,8 @@ need that. Very soon. Let's do it again:
     --version"
 5. Done
 
-
-
-
 And now npm is installed too. That's good we will be using it right
 away.
-
-
-
-
-
-
 
 Because the version of Node was way to low (in my case...0.6.12?!). But
 you can use npm to upgrade it. There's a very nifty little tool called
@@ -754,9 +523,6 @@ I'm not kidding. It's called
 <a href="https://github.com/visionmedia/n" target="_blank">n</a>. Only.
 Install it with npm and then you can update your version of node pretty
 easy.
-
-
-
 
 1. Open the terminal
 2. First we need to clear out the cache of npm; "<span
@@ -780,10 +546,7 @@ easy.
     <a href="https://github.com/visionmedia/n" target="_blank">more on their
     site </a>
 
-
 #### Errors errors errors
-
-
 
 When I ran the "<span
 style="font-family: Courier New, Courier, monospace;">npm
@@ -795,16 +558,12 @@ target="_blank">have had this problem too.</a> The solution was to set
 the registry to use for npm, i.e. where it should look for packages.
 Here's the command
 
-
 > <span style="font-family: Courier New, Courier, monospace;">npm config
 > set registry <http://registry.npmjs.org/>
-
-
 
 But it didn't stop there. When I ran "sudo n stable" it came back by
 saying "/usr/local/bin/n: line 216: curl: command not found". Command
 not found?! I typed "curl" at the prompt and here is what it said:
-
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">marcus@marcusJsVm2:\~$
@@ -813,43 +572,23 @@ not found?! I typed "curl" at the prompt and here is what it said:
 > typing:
 > sudo apt-get install curl
 
-
-
 What a lovely error message! So I did that... "<span
 style="font-family: Courier New, Courier, monospace;">sudo apt-get
 install curl"... and now finally it worked!
 
-
-
-
-
-
-
 With that in place I could install n. And when that was done Node was
 installed. Let's press on!
 
-
 #### Mongo Db
-
-
 
 That apt-get thing was fun. Let's do it again, to install Mongo Db, the
 database of choice for most Node-developers.
-
-
-
-
-
-
 
 This is a little bit tricker since we need to add a keyserver to ensure
 the validity of the packages. But nothing we cannot handled. It's
 describe in <a
 href="http://docs.mongodb.org/manual/tutorial/install-mongodb-on-ubuntu/"
 target="_blank">greater detail here</a>, on the manufacturers page.
-
-
-
 
 1. Open the terminal
 2. Add the MongoDb public key to apt-get's trusted servers; "<span
@@ -875,18 +614,9 @@ Phew! That  was tricky. But as I said; the terminal is the Linux way.
 Might as well get used to it. Note that you could do all of this from
 the NodeJs site as well. But you wouldn't learn as much.
 
-
-
-
-
-
-
 Ok, Mongo is installed. On to the next.
 
-
 #### Robomongo
-
-
 
 As much as I'm getting used to using the terminal for almost everything
 it's some tasks where I like a GUI. Like browsing through and checking a
@@ -894,18 +624,9 @@ database for collections and content for example.
 <a href="http://robomongo.org/" target="_blank">Robomongo</a> is a
 graphical UI on MongoDb that I've come to love.
 
-
-
-
-
-
-
 Let's install it, but not via the terminal this time. <a
 href="https://github.com/binarybirchtree/install-robomongo/blob/master/install-robomongo.sh"
 target="_blank">That looked messy indeed.</a>
-
-
-
 
 1. Go to <a href="http://robomongo.org/" target="_blank">Robomongo </a>
 2. Click Download for Linux and pick the correct version 32/64 bit
@@ -914,10 +635,7 @@ target="_blank">That looked messy indeed.</a>
 5. Click Install
 6. Done
 
-
 #### Git
-
-
 
 <a href="http://git-scm.com/" target="_blank">Git</a> is the de facto
 standard for version control these days.
@@ -926,25 +644,16 @@ target="_blank">You must know it</a>. You must have it. As before trying
 to run git from the terminal without it being installed gives you a
 lovely error message;
 
-
-
-
 > <span style="font-family: Courier New, Courier, monospace;">The
 > program 'git' is currently not installed.  You can install it by
 > typing:
 > sudo apt-get install git
 
-
-
-
 And then you just follow the instructions and a "<span
 style="font-family: 'Courier New', Courier, monospace;">sudo apt-get
 install git" later you are done. Git is installed.  
 
-
 #### Global Node packages; Nodemon & Mocha
-
-
 
 Finally I usually install two packages gobally.
 <a href="https://www.npmjs.org/package/nodemon"
@@ -953,13 +662,7 @@ target="_blank">Nodemon</a> helps me monitor Node process so that I
 And <a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
 target="_blank">Mocha</a> is my choice of testing.
 
-
-
-
 Let's install both of them using npm;
-
-
-
 
 1. In the terminal
 2. "<span style="font-family: Courier New, Courier, monospace;">sudo
@@ -969,52 +672,22 @@ Let's install both of them using npm;
 4. See you already fluent in this.
 5. Done.
 
-
-
-
-
 ### Get an editor
-
-
-
 
 The only thing that is missing now is some way to write code. I use
 Sublime. I'm paying for it. You should too. One license goes for all
 platforms. It's well worth it!
 
-
-
-
-
-
-
 Install Sublime here.
 
-
-
-
-
-
-
 Other options is Brackets and Atom (if you can get an invite in time).
-
-
-
-
-
-
 
 I will not write much about this since it's very much up to everyone's
 taste (and the post is crazy long already). Depending on what you have
 installed you will probably need to install some add-ins as well.
 
-
 ### Summary
-
-
 
 If you stayed with me for this long, I'm very grateful and hope that you
 got value from this. I know that I was surprised how easy this
 environment was to work with. I hope you will like it too.
-
-

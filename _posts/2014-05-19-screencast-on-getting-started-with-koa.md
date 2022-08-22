@@ -34,7 +34,6 @@ content:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -42,18 +41,16 @@ content:
 As always I learned a lot in the process, here's a few of the things
 that I picked up;
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
-
--   Rehearse it! Did the complete app 4 times before recording. And
+- Rehearse it! Did the complete app 4 times before recording. And
     restarted the recording 2 times
--   Write down key sentences. In this screencast I found myself looking
-    for words (non-blocking was one of them) a couple of times. 
--   Don't use too many files and flip back and forth too much. Not too
+- Write down key sentences. In this screencast I found myself looking
+    for words (non-blocking was one of them) a couple of times.
+- Don't use too many files and flip back and forth too much. Not too
     happy about that in this case, but I also wanted to show the
     structure I have been using
--   Publish the code
--   Make sure the resolution is good enough to read code. This works in
+- Publish the code
+- Make sure the resolution is good enough to read code. This works in
     full screen but I'm not sure about the smaller screens...
--   Turn updates off... 
+- Turn updates off...

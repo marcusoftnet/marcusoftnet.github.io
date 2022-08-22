@@ -19,7 +19,6 @@ id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:b292fb92-a175-4d2e-9656-f99f72ca91
 class="wlWriterSmartContent"
 style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">
 
-
 The second one is a ... well prank, maybe. Some people has put up some
 signs in a Arabic town which says things like "Stop here if you rather
 have been in bed" or "Turn around twice in the roundabout if your are
@@ -30,7 +29,6 @@ watch.
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:e5bb93d2-ab33-4580-92a0-5ecf566d9a82"
 class="wlWriterSmartContent"
 style="PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px">
-
 
 And no-one is getting hurt, no misfortune is happing to anyone. And
 still it's funny. Just think...

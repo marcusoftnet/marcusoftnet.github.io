@@ -26,11 +26,9 @@ I have a favorite Swedish Christmas song that talks about this hope that we will
 
 That's where I am now. Life is on pause for while. But I'll be back and share it with you all.
 
-
 Here it is, with me playing together with my good friend Jon-Anders Martinhussen - Koppången by PerErik Moreus with a lovely lyric by Py Bäckman (translation below)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AHBQUagxKhQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 > There is stillness and silence, as the ground is coloured white.
 >
@@ -62,4 +60,3 @@ Here it is, with me playing together with my good friend Jon-Anders Martinhussen
 > It is Christmas and there is a child in me that wants to think that it happened,
 >
 > And that lights a candle every Advent Sunday
-

@@ -26,9 +26,6 @@ id="BLOGGER_PHOTO_ID_5069487936020139458"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
 
-
-
-
 I have thrown together a small application for generating index cards
 from a Excel-based backlog list. This is very handy when you do sprint
 planning meetings. A printed index card is easier to move around on a
@@ -39,4 +36,3 @@ one or more to print. Its not very fancy but it still get the work done.
 To the right you'll find some screenshots of it.
 
 Anyone interested in it can contact me marcus,hammarberg(a)avega,se
-

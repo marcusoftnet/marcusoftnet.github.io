@@ -26,6 +26,5 @@ And now for something completely different. The best trombone player
 Björkman. Here is a clip of him doing a cadenza of the Leopold Mozart's
 Alto-trombone concerto. Very different - but still amazing.
 
-
 Yeah - this is also something that shouldn't be possible to accomplish.
 I have heared it live at the Stockholm Opera once.

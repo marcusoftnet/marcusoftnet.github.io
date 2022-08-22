@@ -38,25 +38,25 @@ filled with tears.
 Here is my configuration:
 
 > \<!-- Caching policy for IDaVardeForrad REQUIRED! --\>
->       \<add name="CachingPolicy"\>
->         \<matchingRules\>
->           \<add
+> \<add name="CachingPolicy"\>
+> \<matchingRules\>
+> \<add
 > type="Microsoft.Practices.EnterpriseLibrary.PolicyInjection.MatchingRules.TypeMatchingRule,
 > Microsoft.Practices.EnterpriseLibrary.PolicyInjection,
 > Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
 >
 > name="Type Matching Rule"\>
->             \<matches\>
->               \<add match="IdaVardeForrad" ignoreCase="false" /\>
->             \</matches\>
->           \</add\>
->         \</matchingRules\>
->         \<handlers\>
->           \<add expirationTime="00:01:00" order="0"
+> \<matches\>
+> \<add match="IdaVardeForrad" ignoreCase="false" /\>
+> \</matches\>
+> \</add\>
+> \</matchingRules\>
+> \<handlers\>
+> \<add expirationTime="00:01:00" order="0"
 > type="Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers.CachingCallHandler,
 > Microsoft.Practices.EnterpriseLibrary.PolicyInjection.CallHandlers,
 > Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"
 >
 > name="Caching Handler" /\>
->         \</handlers\>
->       \</add\>
+> \</handlers\>
+> \</add\>

@@ -104,4 +104,3 @@ concept, and used it in a lot of different situations. I hope you found
 this introduction useful and that you will start use it to.
 
 Good luck - happy coffee-ing.
-

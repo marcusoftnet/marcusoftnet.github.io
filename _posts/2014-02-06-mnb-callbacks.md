@@ -86,4 +86,3 @@ write proper, well-formatted Javascript, when I actually don't :)
 There's an excellent plugin to Sublime.
 <a href="https://github.com/fbzhong/sublime-jslint" target="_blank">Get
 it now</a>.
-

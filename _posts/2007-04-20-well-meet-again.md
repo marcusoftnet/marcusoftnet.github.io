@@ -19,16 +19,16 @@ it.
 
 Here is a small list of people I've met so far:
 
--   First day - met a friend that i knew from my first IT-job, at <span
+- First day - met a friend that i knew from my first IT-job, at <span
     id="SPELLING_ERROR_1" class="blsp-spelling-error">Skandia.
     Henrik something. I haven't seen him since i stopped work there in
     1999
--   Second day - learned and met the chief business architect for my
+- Second day - learned and met the chief business architect for my
     project... He is my <span id="SPELLING_ERROR_2"
     class="blsp-spelling-corrected">neighbour from a year back.
     He met me the first time when i locked myself out and tried to pry
     the door open. He helped...
--   Third day - met a friend from university that i hung with for the
+- Third day - met a friend from university that i hung with for the
     major part of the time there. We haven't seen each other since maybe
     2000 or so.
 

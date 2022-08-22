@@ -24,6 +24,7 @@ target="_blank">other introductions</a>, like this by <a
 href="http://www.hanselman.com/blog/HowToTwitterFirstStepsAndATwitterGlossary.aspx"
 target="_blank">Scott Hanselmann</a>, of course – but since they asked I
 might as well put it up here.
+
 #### What is it?
 
 From <a href="http://en.wikipedia.org/wiki/Twitter"
@@ -133,10 +134,10 @@ sharing avalanche that cannot be stopped.
 Smiles and other abbreviations are plentiful. I would stick to a few
 since not many are well known. Here are a few that I use:
 
--   :) – I’m happy, that was fun
--   :( – I’m sad, sadly etc
--   ;) – pun intended, irony
--   FTW – for the win and exclamation of triumph (#specflow \#ftw)
+- :) – I’m happy, that was fun
+- :( – I’m sad, sadly etc
+- ;) – pun intended, irony
+- FTW – for the win and exclamation of triumph (#specflow \#ftw)
 
 ##### Replies
 
@@ -190,21 +191,21 @@ well.
 
 Finally my own opinions on how to use Twitter.
 
--   First and foremost – let it wash over you. Don’t try to read every
+- First and foremost – let it wash over you. Don’t try to read every
     single tweet. Twitter has been called “The River of Crap” :). So if
     you don’t read for a day or two – no sweat. Pick up where you are
     now.
--   Follow people that YOU think are interesting. You are putting your
+- Follow people that YOU think are interesting. You are putting your
     information feed together for you. Most twitter users don’t get
     upset if you don’t follow them back – as has been know to happen on
     Facebook.
--   Get started by checking out some interesting tag and start to add
+- Get started by checking out some interesting tag and start to add
     your opinion on them. Soon you’ll be hooked too.
--   I have few hashtags and saved searches that I use to keep myself
+- I have few hashtags and saved searches that I use to keep myself
     informed on certain areas. Great for keeping up to date – you can’t
     get information faster.
--   TURN IT OFF – when doing work that requires your concentration.
--   Be polite – remember that most of the things you write are
+- TURN IT OFF – when doing work that requires your concentration.
+- Be polite – remember that most of the things you write are
     publically accessible. I don’t tweet stuff that I cannot say to
     someone’s face or in public.
 

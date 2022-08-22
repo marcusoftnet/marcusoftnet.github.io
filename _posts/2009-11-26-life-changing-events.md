@@ -35,7 +35,6 @@ told Elin; that just now, that was a life changing event.
 
 So we’re going to have TWINS! In April!
 
-
 <a
 href="http://1.bp.blogspot.com/_TI0jeIedRFk/Sw4nZppeWdI/AAAAAAAAAKY/9Qn1DMFJMWY/s1600/IMG_0054.JPG"
 onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img

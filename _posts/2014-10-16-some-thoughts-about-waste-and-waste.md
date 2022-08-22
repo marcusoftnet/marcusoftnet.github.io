@@ -46,7 +46,6 @@ is waste and not, by
 > — Jon Terry (@leankitjon) [October 14,
 > 2014](https://twitter.com/leankitjon/status/521858229954174976)
 
-
 I shared what I learned from <a
 href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0CCIQFjAA&amp;url=http%3A%2F%2Fwww.djaa.com%2F&amp;ei=_34_VOybOKanmAWv1IBI&amp;usg=AFQjCNGb425WH5zpVzFdP_JnggihXCQVOg&amp;sig2=r4m5fztOX3EWhmk8u5bp3A"
 target="_blank">David J Andersson</a> as a good way to identify what is
@@ -57,47 +56,31 @@ target="_blank">standup-meetings</a> was waste, in the true Lean-sense.
 The agileist in me rebuked of course and then David said:
 
 > Well... if it's not wasteful it's adding value. So why don't you do
-> more of it? Let's do it all day long? 
+> more of it? Let's do it all day long?
 
 And I forcefully answered: "Oh yeah?! But a......aeeee..... yeah, you
 are correct. Sir."
 
 ### What's a little waste really?
 
-
-
-Because it's true. Standup is not directly adding value. 
-
-
-
+Because it's true. Standup is not directly adding value.
 
 Just as raising the hammer to hit the nail is not driving the nail into
 the board. It's just preparing to do that. But maybe, just maybe,
 there's a better, more effective way to drive nails into the board. Like
 a nail gun. Or do we need nails altogether? The value comes from the
 finished product, not the individual nailed boards. Maybe we should glue
-them together? 
-
-
-
-
-
+them together?
 
 Let's bring it back to standup. Most people I've met find these short
 meetings valuable. But they are, in the true lean-sense, waste. How can
-this be? 
-
-
-
-
-
+this be?
 
 I learned <a href="http://www.agiledesign.co.uk/tag/lean-thinking"
 target="_blank">a little phrase</a> (also from David J Andersson, if I'm
 not mistaken) that helped me to get this clear:
 
-
-> Value trumps flow, flow trumps waste elimination 
+> Value trumps flow, flow trumps waste elimination
 
 What this means is that we're first of all focusing on getting value -
 being effective, reaching our goal. After that to have a good flow in
@@ -111,24 +94,15 @@ better flow to get value.
 
 ### What is waste elimination good for then?
 
-
-
-
 I think it's important to understand that waste elimination is just a
 tool to make our process more efficient. But it's not a goal in itself
 to eliminate waste. The goal is to increase the value that the system is
-producing. 
-
-
-
-
-
+producing.
 
 Meaning that the hunt for waste should be treated as you smell the
 diapers of a baby (to borrow from
 <a href="https://twitter.com/KentBeck" target="_blank">Kent Beck</a> and
 his code smells analogy):
-
 
 > If smell something bad you should at least investigate. It doesn't
 > have to mean problems, but it's worth a quick check just to make
@@ -137,22 +111,19 @@ his code smells analogy):
 Or closer to the topic at hand:
 
 > Waste in the system should at least be investigated. Maybe there's
-> problems that are hindering us, maybe not. Better check it out. 
+> problems that are hindering us, maybe not. Better check it out.
 
 So the next time someone says; "I heard that Marcus said that
 estimating/standup meetings/\[your favorite long held practice here\]"
 you can reason with that stubborn consultant.
 
-
--   Yes, but we get better flow from this (as the case of standup, due
+- Yes, but we get better flow from this (as the case of standup, due
     to information sharing)
--   Yes, but our system is producing value faster (as might be the case
+- Yes, but our system is producing value faster (as might be the case
     of estimates... who knows)
--   Ok, let's see if there's another way to write our code with less
+- Ok, let's see if there's another way to write our code with less
     errors faster than to do TDD. I'm open to find out, if you can show
-    me the increase in flow or value. 
-
+    me the increase in flow or value.
 
 Waste reduction is about becoming more efficient.... but that's not as
 important as becoming more effective.
-

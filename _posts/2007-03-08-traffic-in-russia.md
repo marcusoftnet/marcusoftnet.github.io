@@ -18,4 +18,3 @@ bus. This is one of the crossings in the town.
 No lights. No stop-signs. No speed limit. Looks pretty
 dangerous. Or like Borat says: to drive like that
 ".. is like giving gun to monkey. Very Dangerous! "
-

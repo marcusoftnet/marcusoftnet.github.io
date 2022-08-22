@@ -22,4 +22,3 @@ there. Start
 [here](http://www.youtube.com/results?search_query=whose+line&search_type=).
 
 Here is one of them that made me laugh out loud.
-

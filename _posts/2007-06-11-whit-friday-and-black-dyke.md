@@ -21,4 +21,3 @@ the most famous to the ...eh.. not so famous.
 Here is a short clip of Black Dyke doing a march in Delph. Take special
 notice of the tuba players in the front. I could carry one of those
 tubas for a minute, not to mention how it would be to play it...
-

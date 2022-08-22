@@ -46,4 +46,3 @@ period now with very much on the agenda. Here's a short list:
 - New projects, more presentations etc. at work.
 
 Well - that should keep me busy during the autumn.
-

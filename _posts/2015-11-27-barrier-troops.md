@@ -26,6 +26,7 @@ To be able to scale this to many people it's vital that everyone follows the pro
 At first this can seem puzzling and, trust me, very frustrating. But once you start to think about where this kind of organization stems from and where they have their strength it becomes more understandable. Although I still think the whole scheme is wrong and degrading to humans.
 
 # Mental pictures and some violent history
+
 Mr Laloux attach a metaphor or mental picture to each stage of evolution for the different organizations, to easier remember them by. The picture for Amber-Organizations is an Army. In my mind I'm seeing a Roman army facing another in war. Those kinds of armies.
 
 Let's see if we can understand the behavior like "Please don't question the process", "Don't think we've done that for you" etc in this setting.
@@ -41,6 +42,7 @@ The idea is brutally simple; right after the front rows (that likely panic and t
 Either way - you're screwed.
 
 # Modern barrier troops
+
 Ok, that was indeed nasty and horrible. Let's leave that era. Surely something like that is ancient history and not around today.
 
 Well, true... but in the Amber-Conformist type of organizations I've been working in the concept is still there. There's rewards or punishment for example. I've [blogged about a situation](/2015/06/a-question-of-context.html) where nurses knew that they were going to get deducted pay if they didn't follow procedure. So they didn't wash their hands. Because that wasn't in the procedure. Quite natural and understandable. And stupid.
@@ -50,6 +52,7 @@ Amber-Conformists answer to this is of course that the procedures is not suffici
 You can surely come up with other examples in your own context; being held responsible for estimates you've made, given deadlines that you didn't set, yearly bonuses, etc. etc.
 
 # Fear
+
 What's the connection between this kind of behavior and the barrier troops? Or put differently, and a bit sad; why (or rather where) does this work?
 
 Because it does. Many Amber-Conformist have reached surprisingly good effectiveness and size. Take you old school bank or any kind of global company up to 1950. They run like this.
@@ -61,6 +64,7 @@ In Asia I've seen entire cultures driven by Fear: "I cannot speak up to this old
 Let me give you two examples from modern age. One if funny and one is scary. I'll take the scary first and end on a high note, ok?
 
 ## Singapore
+
 Singapore is an awesome country in many regards. The development done there is truly amazing from the 1950-ies up to now. Coming from Indonesia to Singapore (3 times) is unbelievable. Just 2 hours from Indonesia you have a place where **everything** works as intended. Indonesia is often the opposite, sadly.
 
 <img src="/img/rioting.jpg" style="float:left" width="40%" alt="Rioting gets you nothing but caning and imprisonment">
@@ -75,6 +79,7 @@ But all those probations and "do not"'s what are they communicating. Through wha
 I don't like it. But yet there's many aspects of Singapore that I do like.
 
 ## Korean airlines
+
 I heard a funny story, that turned out to be true about Korean Airlines. For a period in time (don't know when... 70--80-ies?) they had a really bad reputation. They topped the list of recorded incidents for any airline around the world.
 
 They decided to do something about it and started to analyze every incident to find common problems. You know what they came up with? Culture. Respect for senior / higher ranking people in the organizations.
@@ -94,6 +99,7 @@ A very near accident is avoided only by the pilot doing a strong evasive maneuve
 Fear of speaking up is holding quality back. In this case the quality is "don't crash the plan into the nice scenic mountain coming up".
 
 # Summary
+
 There's many displays of fear, even in modern organizations today. I think it's not only holding the organizations back, keeping unused potential literally locked in by fear. But also, many people in those organizations are living unfulfilled lives.
 
 Even though it can be hard to see sometimes but we need to scratch the surface and challenge the reason for this fear to be around. It's not needed.

@@ -16,12 +16,12 @@ with that all the problems that agile methods claims to solve they
 always state in the outset of the description of the method. For
 example:
 
--   Does the requirements often change in your project?
--   Would you like a system that improved in quality over time?
--   Is your system hard to test?
--   Is it hard to predict how long time or how big a change in your
+- Does the requirements often change in your project?
+- Would you like a system that improved in quality over time?
+- Is your system hard to test?
+- Is it hard to predict how long time or how big a change in your
     system is?
--   ... and more of the same kind...
+- ... and more of the same kind...
 
 It's all very "selly" and provocative but i have actually ran into most
 of these points in projects, recent and distant.

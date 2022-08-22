@@ -33,7 +33,6 @@ I hope you enjoy it.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 There are also some tips that have helped me in there. If you prefer
 reading about how to install this it's basically the same content as
 <a href="http://www.marcusoft.net/2014/03/koaintro.html"
@@ -43,4 +42,3 @@ I used my iPhone mic this time and that took some of the clickety-click
 sounds away, even if it also made my voice a bit murky (if possible).
 Still no solution to improve the resolution. I have to look into that
 some more.
-

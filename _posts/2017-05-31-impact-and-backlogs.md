@@ -83,10 +83,10 @@ If you focus on the impact you want to make you naturally make sure that everyon
 
 As we need to know about goal of an impact (or feature) it naturally lends itself to experimenting;
 
-* Maybe there are different ways to reach that goal?
-* What is the smallest possible thing we can do to see if we are moving in the right direction?
-  * Btw - what should we measure to see if we're moving in the right direction?
-* What if we try this totally different thing?
+- Maybe there are different ways to reach that goal?
+- What is the smallest possible thing we can do to see if we are moving in the right direction?
+  - Btw - what should we measure to see if we're moving in the right direction?
+- What if we try this totally different thing?
 
 Questions like these are not appreciated with a backlog. Don't think about that now - just do the tasks. They are on the backlog so you are already behind.
 

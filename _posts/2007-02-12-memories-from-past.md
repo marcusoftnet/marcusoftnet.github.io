@@ -19,18 +19,12 @@ Got to listen in to a band that i loved as a teenager yesterday.
 [Poison](http://www.poisonweb.com/thepoisonwebhtml/poison_web_all.html),
 which believe it or not was a hard rock band in the 80's
 
-
-
-
 Here we have it all; long poodle hair, harmonically singing (several
 parts), the obligatorily guitar solo in each song and some really cheesy
 lyrics.
-
-
-
 
 Listen to them and let it take you back. Way back.
 
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s320/poison.jpg"
 id="BLOGGER_PHOTO_ID_5030534360488120354" style="CURSOR: hand"
-data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s1600-h/poison.jpg)
+data-border="0" />](<http://2.bp.blogspot.com/_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s1600-h/poison.jpg>)

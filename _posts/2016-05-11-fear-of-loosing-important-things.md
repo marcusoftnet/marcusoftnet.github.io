@@ -79,7 +79,7 @@ It's basically a very simple mind map showing **Why** we are doing something - w
 
 There's an [awesome book and site](https://www.impactmapping.org) and I urge you to check this out. It's a great tool for any product owner.
 
-###  Story mapping
+### Story mapping
 
 Right now I'm reading a book on [Story mapping](http://jpattonassociates.com/user-story-mapping/), a book and tool by Jeff Patton, that I'm somewhat familiar with. This tool is great because it tells the high level story of what a system is trying to accomplish but also drills down into the details for each story.
 

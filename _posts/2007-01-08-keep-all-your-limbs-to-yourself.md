@@ -16,4 +16,3 @@ what i can understand the dog thinks it's being attacked... by it's own
 leg.
 
 Hilarious - just think how many times this have happened.
-

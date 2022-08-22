@@ -64,13 +64,8 @@ the patients so that they know where they are in the process.
 
 ### The current process
 
-
-
 This is my description of what happens to me as a patient from when I
 enter the ER to I leave it:
-
-
-
 
 1. I walk through the front doors and take a queuing ticket to the
     registration booth
@@ -99,19 +94,13 @@ enter the ER to I leave it:
     have more check-ups in the morning.
 13. We leave the ER
 
-
-
 Again: there are truly amazing people working there! I make no claim to
 know any better on how to do this. The process I described is just what
 usually happens, based on my experience with 10-18 visits during the
 last years. This is how I perceive what's going on, from the perspective
 of the customer (or patient if you want). It might be wrong.
 
-
-
 ### Visualization of the process
-
-
 
 This is a first step. My goal here is to change nothing - but simply
 visualize what's going on, to get more transparency for the patient.
@@ -120,19 +109,12 @@ I thought about this for a while and a real simple thing would be that
 each patient just as now pull a number as you enter the door. The system
 for that is already in place so there's no real change for patients.
 
-
-
-
-
-
-
 When you are called to the registration booth the nurse do the same
 thing as before (registration, simple examination and check-up) but also
 create a post-it with the number on my ticket. This ticket is then
 posted on a simple board that looks like the following:
 
 <div class="separator" style="clear: both; text-align: center;">
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -141,10 +123,6 @@ href="http://2.bp.blogspot.com/-DPEZjG4KFGE/USpE9u7iwwI/AAAAAAAABa4/MPhZDYVZA_U/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-DPEZjG4KFGE/USpE9u7iwwI/AAAAAAAABa4/MPhZDYVZA_U/s640/Screen+Shot+2013-02-24+at+17.50.30+.png"
 data-border="0" width="640" height="212" /></a>
-
-
-
-
 
 Some comments on the board:
 
@@ -171,10 +149,7 @@ Some comments on the board:
     on the board. There's nothing revealed about the condition or who he
     or she is.  
 
-
 ### Conclusion and ideas
-
-
 
 For me as a patient (or parent to one of your patients) this would add
 massives amount of value: I would see what's happening and that
@@ -183,18 +158,9 @@ being side-stepped for another, more urgent case. As long as you show
 it. Right now that's just more waiting and I knew nothing about what
 happend.
 
-
-
-
-
-
-
 Here are some extension and augmentations that you could do, still
 without changing anything about how you work, the order in which you do
 stuff etc. :
-
-
-
 
 Make the board fun. Have someone do drawings instead of the boring names
 I came up with  for example. Have the kids pick out an animal that you
@@ -216,23 +182,12 @@ Add an emergency lane on top of the board. This is things that is
 prioritized above everything else and shows that other patients will
 have to wait for now.
 
-
-
 I would love to help you set this up and get it going. You have been so
 great to me and my kids in time of need, so I'm more than willing to put
 in a day or two to help you. Please, please contact me on marcusoftnet
 at gmail or on twitter <a href="http://twitter.com/marcusoftnet"
 target="_blank">@marcusoftnet</a>.
 
-
-
-
-
-
-
-
 We're not changing anything - we're just showing what's going on. I'll
 write you another blog post that show how this can be the foundation for
 improvements and make you even greater!
-
-

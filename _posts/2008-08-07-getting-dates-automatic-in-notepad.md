@@ -20,19 +20,16 @@ You'd think that everything that there is in notepad was known...
 This is cool and could also be handy for creating a manual notebook or
 diary .
 
-
-1.  Open a blank Notepad file
-2.  Write .LOG (in uppercase) in the first line of the file, followed by
+1. Open a blank Notepad file
+2. Write .LOG (in uppercase) in the first line of the file, followed by
     Enter. Save the file and close it.
-3.  Double-click the file to open it and notice that Notepad appends the
+3. Double-click the file to open it and notice that Notepad appends the
     current date and time to the end of the file and places the cursor
     on the line after.
-4.  Type your notes and then save and close the file.
-5.  Each time you open the file, Notepad repeats the process, appending
+4. Type your notes and then save and close the file.
+5. Each time you open the file, Notepad repeats the process, appending
     the time and date to the end of the file and placing the cursor
     below it.
 
-
 [Check it
 out](http://blogs.msdn.com/ddysart/archive/2006/07/06/658295.aspx)
-

@@ -24,13 +24,11 @@ laugh.
 I'll try to catch it on picture the next time and upload it here. You'll
 have to do with this picture in the mean time.
 
-
 <img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/SFD_bXm08NI/AAAAAAAAAUg/oBUqvgR-7Fo/s400/1.jpg"
 id="BLOGGER_PHOTO_ID_5210945614526083282"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />
-
 
 <img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/SFD_q1-u6tI/AAAAAAAAAUo/W8Vsno2Nbmo/s400/DSC_1333.jpg"

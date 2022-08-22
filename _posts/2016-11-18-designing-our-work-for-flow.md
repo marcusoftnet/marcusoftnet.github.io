@@ -20,6 +20,7 @@ In this post I wanted to explain why this can sometimes be a good idea and hopef
 But first some examples;
 
 ## Move fast - break nothing
+
 The title of this section is [a great talk by Zach Holman](https://zachholman.com/talk/move-fast-break-nothing/) that I recommend you to watch.
 
 The thing that we were discussing, in the intro of this post, was that we had to postpone a release of a report. This had to do with the fact that we don't handle versions of the report but was changing the one report.
@@ -42,6 +43,7 @@ What if we didn't change the report at all but rather just created a new version
 Yes, there was many questions. But our ability to move smoother, freely and ultimately faster would be greatly improved by this. We think at this point at least.
 
 ## Changes on the parts suggested from the factory floor
+
 I once visited a truck factory and in particular a plant that was creating rear axis for the trucks. Someone asked how often the design of the parts changed and we surprised to hear that it was quite often.
 
 But even more surprising was that most changes was suggested by the people in the plant. It was things like:
@@ -53,6 +55,7 @@ But even more surprising was that most changes was suggested by the people in th
 Big and small. But they were designing their product to suit their work. Designing work.
 
 ## Designing work
+
 There's a quote by Donald Reinertsen that I've used often here on the blog:
 
 >Value trumps flow. Flow trumps waste elimination

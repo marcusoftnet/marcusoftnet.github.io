@@ -52,7 +52,7 @@ Both of these problems are easily fixed though:
 2. The second point above is often one of two problems:
    1. The thing cannot be easily broken down into concrete tasks; "Investigate performance issues", for example.
       This is Good News (TM) because that is easy to break down. Sounds counter-intuitive but try to time box the problem. Like this for example; "2 days worthy of investigating performance issue". After that, we will at least know much more about the problem and can probably define a few more concrete work items.
-   2.  We have just not thought about the **outcome** of our work, just the activities or the output. "Improve process x" is a good example. Why? How much? How can an improvement be seen? What is it now? What is reasonable to achieve, within how long time box?
+   2. We have just not thought about the **outcome** of our work, just the activities or the output. "Improve process x" is a good example. Why? How much? How can an improvement be seen? What is it now? What is reasonable to achieve, within how long time box?
    3. As you saw from the last question these two approaches of making this type of work more concrete and actionable. And hence easier to prioritize.
 
 ### Conclusion

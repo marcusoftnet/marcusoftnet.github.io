@@ -19,12 +19,6 @@ id="BLOGGER_PHOTO_ID_5009753791705162274"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://4.bp.blogspot.com/_kkDJOSPNTLs/RYY4h97AoiI/AAAAAAAAAC8/H_wEKrKPytc/s1600-h/IMAGE_111.jpg)
 
-
-
-
-
-
-
 Yesterday did my first Santa-performance!
 
 Since it was on party for Elins workplace and didn't know anyone I was a
@@ -33,11 +27,5 @@ nervous to read the rhymes on their present. :) And I was right - some
 of the rhymes had to do with the parts of the body that they work with.
 Nothing to bad though...
 
-
-
-
 To the right is not a mugshot of someone robbing a bank, but rather me
 in the Santa outfit.
-
-
-

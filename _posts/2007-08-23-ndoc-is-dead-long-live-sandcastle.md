@@ -22,13 +22,12 @@ death of NDoc".
 
 I've tried Sandcastle today and i am not impressed:
 
-
--   The product is still in CTP (Community Technology
+- The product is still in CTP (Community Technology
     Preview) - and it shows. It is not done yet!
--   No good support exists (out-of-the-box) for <span
+- No good support exists (out-of-the-box) for <span
     id="SPELLING_ERROR_4" class="blsp-spelling-error">MSBuild
     integration. There are some third-party product
--   It is sloo-ow. At least twice the time
+- It is sloo-ow. At least twice the time
     compared to NDoc.
 
 I can only hope that these things will get better as the final release

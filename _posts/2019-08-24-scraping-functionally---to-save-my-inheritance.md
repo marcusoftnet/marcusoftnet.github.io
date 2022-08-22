@@ -99,14 +99,14 @@ Thanks to the awesomeness of Axios this is just. a few lines, but let's stop at 
 * I kept the `require` inside the function, mainly for porta and movability in my code.
 * I included error handling here since I expect this particular function to fail.
 
-Let's write an example or test that use this. Let's get all the quotes for Albert by hitting the  http://abbesays.apphb.com/Quotes/Kid/Albert URL and then print the result in the console.
+Let's write an example or test that use this. Let's get all the quotes for Albert by hitting the  <http://abbesays.apphb.com/Quotes/Kid/Albert> URL and then print the result in the console.
 
 ```javascript
 getData('http://abbesays.apphb.com/Quotes/Kid/Albert')
   .then(console.log)
 ```
 
-Perfect - it prints a big long HTML page to the console. If you try a broken URL (http://abbesays.apphb.com/Quotes/Kid/Donald for example) you can see our lovely error handling working too.
+Perfect - it prints a big long HTML page to the console. If you try a broken URL (<http://abbesays.apphb.com/Quotes/Kid/Donald> for example) you can see our lovely error handling working too.
 
 Let's refactor a bit. First, we pull out the base URL out to a constant.
 
@@ -334,7 +334,7 @@ That works, and it's blazingly fast too! Async is my lightsaber!
 
 Also, I'm kind of starting to love `Promise.all`. This way I can map over asynchronous functions and await all of them before I proceed to my next `.then()`.
 
-The only problem here is that this array is messed up. If we change the last log statement to `  .then(quotes => console.log(quotes.length))` we realize that we get an array with arrays of quotes for each kid. Like this:
+The only problem here is that this array is messed up. If we change the last log statement to `.then(quotes => console.log(quotes.length))` we realize that we get an array with arrays of quotes for each kid. Like this:
 
 ```javascript
 [[ArvidQuotes], [GustavQuotes], [AlbertQuotes]]

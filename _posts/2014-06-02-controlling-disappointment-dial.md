@@ -74,7 +74,7 @@ I think he got that. It looked like it anyway. I guarantee that he is
 smarter than me, but I still have the upper hand, intellectually. I’m
 not sure this particular lesson will stick though.
 
-### Nice story – what does this have to do with us? 
+### Nice story – what does this have to do with us?
 
 Ok, ok… fair question.
 The <a
@@ -112,4 +112,3 @@ see what that “cost” you. If we ran with less planning, less estimating
 and less things set before we start, we will also be less likely to be
 disappointed. We might even end up in place that is better than what we
 could think of before we started.
-

@@ -37,7 +37,6 @@ a blog posts on how I made
 target="_blank">SpecFlow.Assist.Dynamic</a> – not the official
 documentation.
 
-
 ### The problem
 
 It’s not a very big problem I’ve solved – but I grew tired of writing
@@ -179,9 +178,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   23: }
 ```
 
-
-
-
 So the actual step definition is pretty concise and slick. And actually
 the only thing that bothers me is that class User. It’s only needed by
 the step definition and it’s only purpose is to transport some data.
@@ -259,9 +255,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   15: }
 ```
 
-
-
-
 Just the code we need. No extra data carriers. Of course you’ll
 sacrifice intellisense, which is a big hurdle for a lot of us. But I got
 used to it – so can you.
@@ -300,7 +293,6 @@ target="_blank">extension methods</a> on the
 <a href="http://www.blogger.com/www.specflow.org"
 target="_blank">SpecFlow</a> Table object:
 
-
 <div id="codeSnippetWrapper">
 
 <div id="codeSnippet"
@@ -310,12 +302,9 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    1: public static IEnumerable<dynamic> CreateDynamicSet(this Table table)
 ```
 
-
-
-
 One for each of the new features I wanted to support, four in all:
 
--   **CreateDynamicInstance** – creates an instance from a table. This
+- **CreateDynamicInstance** – creates an instance from a table. This
     can be done either for tables with one row or with two column
     tables.
     In the case of one row tables the header values are used as property
@@ -324,13 +313,13 @@ One for each of the new features I wanted to support, four in all:
     contain the property values and the second the values for those
     properties (<a
     href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/blob/master/Specs/DynamicInstancesFromTable.feature"
-    target="_blank">for examples see this</a>) 
--   **CreateDynamicSet** – creates a IEnumerable\<dynamic\> for a
+    target="_blank">for examples see this</a>)
+- **CreateDynamicSet** – creates a IEnumerable\<dynamic\> for a
     several rows. The headers are the property names as before.
--   **CompareDynamicInstance** (to table) – this compares a instance of
+- **CompareDynamicInstance** (to table) – this compares a instance of
     a object you send to the method to a table. The table is parsed
     using the CreateDynamicInstance–method as above.
--   **CompareDynamicSet** – and finally you can compare a set of object
+- **CompareDynamicSet** – and finally you can compare a set of object
     to a table. The table is parsed using the CreateDynamicSet method as
     above.
 
@@ -338,9 +327,9 @@ So, I have tried to use the same conventions as the one used in the
 <a href="http://www.blogger.com/www.specflow.org"
 target="_blank">SpecFlow</a>.Assist helpers;
 
--   Spaces can be used in table headers but are removed in property
+- Spaces can be used in table headers but are removed in property
     values (“Birth Date” becomes “BirthDate” for example)
--   I uppercase every new word even though it’s not like that in the
+- I uppercase every new word even though it’s not like that in the
     table. So “Birth date” in the table header becomes “BirthDate” on
     the dynamic object
 
@@ -348,10 +337,10 @@ I also added a convention of my own that has to do with types on the
 dynamic object. I try to parse types from the values in the table in
 this order:
 
--   First try to parse it as a DateTime
--   Then as a Integer
--   Then as a Double
--   And as a fall back I use a string
+- First try to parse it as a DateTime
+- Then as a Integer
+- Then as a Double
+- And as a fall back I use a string
 
 I wanted to do this to be able to do some more safe comparisons etc.
 <span class="Apple-style-span"
@@ -374,7 +363,6 @@ target="_blank">DynamicObject</a> – is simply a wrapper that gives you
 the possibility to trap exceptions for when you are accessing members
 not present on the current object. So if I have written:
 
-
 <div id="codeSnippetWrapper">
 
 <div id="codeSnippet"
@@ -388,16 +376,12 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    2: a.Name = "Marcus";
 ```
 
-
-
-
 I’m simply telling the compiler to let me write anything on the “a”
 object reference. So it swallows the ‘a.Name = “Marcus”’ statement
 without complaining.
 
 In order to handle that I can write this simple class, inheriting from
 DynamicObject:
-
 
 <div id="codeSnippetWrapper">
 
@@ -432,9 +416,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    7: }
 ```
 
-
-
-
 In the TryGetMember override I can handle access to any member and do
 something more useful than to crash with a “Member not defined”.
 
@@ -446,7 +427,6 @@ members that way.
 
 And that’s how I insert new dynamic properties and their values from
 each table row. Like this:
-
 
 <div id="codeSnippetWrapper">
 
@@ -508,8 +488,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
   14: }
 ```
-
-
 
 <span class="Apple-style-span" style="font-weight: bold;">Comparing
 dynamic objects

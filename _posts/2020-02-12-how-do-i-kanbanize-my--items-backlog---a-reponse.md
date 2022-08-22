@@ -140,7 +140,7 @@ Yes, I agree with the Agile Ninja and suggest that we take smaller list of stori
 
 You'd be surprised how fast you will get to know if you got that wrong:
 
->  WHAT?! Registrations per day to go UP?! Are you crazy? We wanted it to go down for ... {rant continues and you get to know a lot about the intelligence of you and your entire family, as percieved by your coworkers}
+> WHAT?! Registrations per day to go UP?! Are you crazy? We wanted it to go down for ... {rant continues and you get to know a lot about the intelligence of you and your entire family, as percieved by your coworkers}
 
 To which you respond with zen-like silence, nod, takes notes and say thank you. You just got to know what the real business value was.
 If you got it right you probably will not hear a thing. Which is good since it means that you got it right. You might also get the highest praise:

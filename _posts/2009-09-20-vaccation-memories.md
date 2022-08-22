@@ -17,8 +17,6 @@ Although there is a some time since the vaccation I realized that I
 haven't posted photos from it. Here are a short summary of what we did
 and went during those lovely summer months. Not too far away...
 
- 
-
  [<img
 src="http://lh4.ggpht.com/_TI0jeIedRFk/SrYSpfDgENI/AAAAAAAAAH0/GJZ-ZBr8lgo/DSC_1012_thumb.jpg?imgmax=800"
 style="border-right-width: 0px; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px"
@@ -26,7 +24,6 @@ data-border="0" width="260" height="179"
 alt="Albert enjoying himself on the seashore - he stayed here for most of the days..." />](http://lh6.ggpht.com/_TI0jeIedRFk/SrYSo6mwntI/AAAAAAAAAHw/jbJ03gkS5og/s1600-h/DSC_1012%5B2%5D.jpg)
 
 Albert enjoying himself on the seashore - he stayed here most days...
-
 
  [<img
 src="http://lh5.ggpht.com/_TI0jeIedRFk/SrYStdh91GI/AAAAAAAAAH8/Q2adAJQCW78/DSC_1023_thumb%5B1%5D.jpg?imgmax=800"

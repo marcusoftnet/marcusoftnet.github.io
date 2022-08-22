@@ -69,32 +69,32 @@ So finally I added this routing-table entry, first of the entries:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->             <span style="color: green">//
-> http://localhost/ProductBacklogItem/PrioUp/productId/productBacklogItemID
+> <span style="color: green">//
+> <http://localhost/ProductBacklogItem/PrioUp/productId/productBacklogItemID>
 >
->             <span style="color: green">//
-> http://localhost/ProductBacklogItem/PrioUp/1001/2
+> <span style="color: green">//
+> <http://localhost/ProductBacklogItem/PrioUp/1001/2>
 >
->             routes.MapRoute(
+> routes.MapRoute(
 >
->                 <span
-> style="color: #a31515">"ProductBacklogPrio",                                      
+> <span
+> style="color: #a31515">"ProductBacklogPrio",
 > <span style="color: green">// Name
 >
->                 <span
+> <span
 > style="color: #a31515">"{controller}/{action}/{productId}/{productBacklogItemID}",
 > <span style="color: green">// Url with parameters
 >
->                 <span style="color: blue">new {controller =
+> <span style="color: blue">new {controller =
 > <span
-> style="color: #a31515">"ProductBacklogItem"},                   
+> style="color: #a31515">"ProductBacklogItem"},
 > <span style="color: green">// Parameter defaults
 >
->                 <span style="color: blue">new { productId =
+> <span style="color: blue">new { productId =
 > <span style="color: #a31515">@"\d+", productBacklogItemID =
 > <span style="color: #a31515">@"\d+" }
 >
->             );
+> );
 >
 > </div>
 
@@ -103,14 +103,14 @@ that I tried it… but naming issues and not concentrating well enough.
 
 A few things to note:
 
--   It has been very helpful to specify an example on how I wanted the
+- It has been very helpful to specify an example on how I wanted the
     URL to look.
--   I had to specify the full URL
+- I had to specify the full URL
     ({controller}/{action}/{productId}/{productBacklogItemID} to get it
     to work
--   I skipped default values for productID and productBacklogItemID
+- I skipped default values for productID and productBacklogItemID
     since that make no sense
--   The final row is a constaint that states that productID and
+- The final row is a constaint that states that productID and
     productBacklogItemID should be numeric
 
 These problems and a tip from Christer made me decide to pause this

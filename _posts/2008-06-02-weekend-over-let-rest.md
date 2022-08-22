@@ -17,22 +17,22 @@ in retrospective also one of the most exciting and rewarding.
 
 Going backwards;
 
--   Yesterday night we played a musical service at the <a
+- Yesterday night we played a musical service at the <a
     href="http://www.hitta.se/ViewDetailsPlace.aspx?vad=&amp;var=%f6stermalmsgatan+69&amp;StreetNumberId=100385670"
     target="_blank">Temple</a> in Stockholm. Quite a good turnout with
     people - and many of the performances were the best during the
     complete rehearsal period.
--   Before that - photo session with the Vasa Band for our CD -
+- Before that - photo session with the Vasa Band for our CD -
     Priority. That was very fun and I hope and think that the pictures
     will be nice
--   During the afternoon we went to <a
+- During the afternoon we went to <a
     href="http://4.bp.blogspot.com/_kkDJOSPNTLs/R9QuOrtDxaI/AAAAAAAAASI/meySp48QUxs/s1600-h/PICT2590.JPG"
     target="_blank">Abbes</a> first children birthday party. Viola
     turned 1 year!
--   The Sunday started with our prayer group being in charge of the
+- The Sunday started with our prayer group being in charge of the
     Sunday morning meeting. Abbes has got a small cold so I wasn't
     present for the whole meeting but it felt alright until I left.
--   The Saturday was entirely devoted for the Stockholm Marathon. As <a
+- The Saturday was entirely devoted for the Stockholm Marathon. As <a
     href="http://www.marcusoft.net/2008/05/commenting-stockholm-marathon.html"
     target="_blank">I wrote earlier</a> the Salvation Army of Sweden was
     human-sponsor for this event and did a collection for water tanks in

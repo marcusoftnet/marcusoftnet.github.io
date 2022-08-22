@@ -67,7 +67,7 @@ Ok - the key word here is *strategy*. A strategy is not a given. Something we *k
 
 What Håkan meant with his comment was simply; starting by focusing on getting small things to flow faster has proven an easier way to come closer to nirvana. At least over trying to produce bigger, full featured things firstly and then get that process to go faster and faster.
 
-To put it in a very concrete setting; it's easier to start to get small "non-value" ([Although… ](#incremental-development)) things flow first, then finding a way to fill them with more and more value - over doing big "value" filled things and just trying to get them to flow faster.
+To put it in a very concrete setting; it's easier to start to get small "non-value" ([Although…](#incremental-development)) things flow first, then finding a way to fill them with more and more value - over doing big "value" filled things and just trying to get them to flow faster.
 
 Saying to a team to try to work faster doing big things is a very tall order indeed, and has in my experience often led to bad quality and short cuts. Instead starting by slicing things up and accepting that some of the things have little or non value.
 
@@ -94,4 +94,3 @@ This awesome picture by Henrik Kniberg tells the story greatly I think. Notice t
 <img src="http://blog.crisp.se/wp-content/uploads/2014/10/Screen-Shot-2014-10-07-at-08.20.00.png" width="100%" alt="http://blog.crisp.se/author/henrikkniberg" />
 
 [Henrik Kniberg](https://twitter.com/henrikkniberg) - a master teacher at work.
-

@@ -69,7 +69,7 @@ A WIP limit is only best so far. We are always looking for better ways. By conti
 
 That's the topic of the next story.
 
-## More WIP here, please!
+## More WIP here, please
 
 This story I do know the origin from. It's from the awesome [Toyota Kata book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238) by Mike Rother. Story is maybe exaggerating it a bit… it's just a sentence.
 
@@ -80,6 +80,7 @@ At one point (s)he exclaimed and pointed to an empty machine:
 > More work in process is needed here!
 
 That made everyone in the company burst out laughing. Obviously a joke, right? No - it was not. More WIP was needed. The process could not sustain such a low level of work in process.
+
 ### Comments on More WIP please
 
 Most likely, I was not there, the station in question was starved for new work. This happens on a visualized board when one or more columns in a row have no stickies in them. Meaning that if the downstream processes need more work they have no more (prioritized) work to pull.

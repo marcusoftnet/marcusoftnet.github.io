@@ -17,12 +17,12 @@ Found
 yesterday](http://crazybob.org/2007/06/introduction-to-guice-video-redux.html)
 and i liked it from two reasons:
 
-1.  Firstly it seems like a very nice framework. Simple, light(!)weight
+1. Firstly it seems like a very nice framework. Simple, light(!)weight
     and easily understandable framework for handling [dependency
     injection](http://en.wikipedia.org/wiki/Dependency_injection). I
     can't wait until this will become available for .NET... please say
     that it will do. Please
-2.  I have a nice feeling from Google stuff - and now they are entering
+2. I have a nice feeling from Google stuff - and now they are entering
     the <span id="SPELLING_ERROR_0"
     class="blsp-spelling-corrected">development community....
     Could be good, could be good...

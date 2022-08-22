@@ -53,13 +53,13 @@ There are a few moving parts here.
 
 Fine - now we have the unique values listed in Column A of the [Summary-sheet](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit#gid=1544983361). Now it's easy to set up a drop-down list. Let's do that again:
 
-- Click the cell where the drop-down box should be displayed. I have it in `C2`
+* Click the cell where the drop-down box should be displayed. I have it in `C2`
 
-- Go Data => Data validation … to open the dialog box to create the data validation
+* Go Data => Data validation … to open the dialog box to create the data validation
 
-- Select the range (`A2:A`) where the data for the drop-down box is located and enter it in Criteria
+* Select the range (`A2:A`) where the data for the drop-down box is located and enter it in Criteria
 
-- Click Save
+* Click Save
 
 We now have a drop-down list with the unique categories, based on the data the users entered. Next!
 
@@ -72,7 +72,7 @@ The moving parts of `QUERY` are pretty simple, it just needs two things:
 * A range, where the raw data is located. This is all the data in all sheets for us
 * A query to structure, filter and order the data. This is much like SQL if you ever used this. There's a [great description of the query language here.](https://developers.google.com/chart/interactive/docs/querylanguage)
 
-### Make one big range!
+### Make one big range
 
 The first part needs a trick, that we already used. We will concatenate all the data using the array concatenation syntax we used before `{Range1;Range2}`. Here's the query that I have:
 
@@ -132,7 +132,7 @@ SELECT Col4, Col2,Col1,Col3 WHERE Col2='"&C2&"'
 
 We basically just create a string with the value in `C2` the `&`-sign
 
-### Put it in your pipe and smoke it!
+### Put it in your pipe and smoke it
 
 Finally - put it all together in one big `QUERY`- formula. You can do it! Like this:
 

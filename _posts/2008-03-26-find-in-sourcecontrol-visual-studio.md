@@ -19,14 +19,8 @@ id="BLOGGER_PHOTO_ID_5181975477244998610"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R-oTPcP5M9I/AAAAAAAAASk/dDIeMqXWn3c/s1600-h/tfs.JPG)
 
-
-
 I have found it! In the first versions of Visual Studio Team Explorer
 you couldn't search for checked out files, wild cards or labels.
 
-
-
-
 But now - from Visual Studio 2008 it is back. You can reach it from
 within the Source Control with a simple right click as shown above.
-

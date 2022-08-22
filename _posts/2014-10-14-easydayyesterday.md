@@ -72,8 +72,6 @@ Under one condition...
   href="http://upload.wikimedia.org/wikipedia/commons/2/28/US_Navy_030415-N-3953L-039_During_a_Hell_Week_surf_drill_evolution,_a_Navy_SEAL_instructor_assists_students_from_Basic_Underwater_Demolition-SEAL_(BUD-S)_class_245_with_learning_the_importance_of_listening.jpg"
                                                                                                                         target="_blank">Wikipedia</a>                                                                                                                         |
 
-
-
 First of all the
 <a href="http://en.wikipedia.org/wiki/United_States_Navy_SEALs"
 target="_blank">Navy Seals</a> is an elite military unit in the US Navy.
@@ -81,32 +79,14 @@ They are famous for one of the hardest and toughest training programs in
 the world. Part of it is referred to as "Hell week", and that goes on
 for 10 days...
 
-
-
-
-
-
-
 "The only easy day was yesterday" simply means; "things will just get
 harder from now on". Never has this been more true since you at any time
 during the 8+24-week training period will be expelled if you fail a
 test.
 
-
-
-
-
-
-
 WHY?! Why do they do this? Why so hard? <a
 href="http://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-improvements.html"
 target="_blank">Why so focused on the problems?</a>
-
-
-
-
-
-
 
 It's simple; they want only the best. Best in this case means the people
 that can endure this training, the physical constraints and the mental
@@ -114,63 +94,33 @@ pressure. (Just as a side note I have a bit of a problem with them
 training killers basically since that's really what they excel in but
 let's put that aside for now).
 
-
-
-
 The trainers want people to fail because they only need the few that can
 take this.
 <a href="http://www.military.com/Content/MoreContent1?file=AS_specops"
 target="_blank">90% drop out rate is not uncommon.</a> And that's a good
 thing.  
 
-
 ### What does it mean to us?
-
-
 
 Let's leave the military elite and bring this back to us again. Or my
 client from above as an example. What does "The only easy day was
 yesterday" mean to us? That's not very hopeful at all... Will things
 always get worse, harder, tougher? Can I please change company?
 
-
-
-
-
-
-
 Let me first say that my economical skills are limited. This might brush
 on finance ideas such as if we always need to do better and better and
 maybe there are other theories about this. I don't know. Please
 enlighten me.
-
-
-
-
-
-
 
 But for this particular client we have had a trend of running the
 company at about 40-50% of the levels we needed to even cover our costs.
 For several years. External input of funds and simply not paying all our
 debts has been the solution for quite some time.
 
-
-
-
-
-
-
 Now that we are pushing more customers to the company there will, for
 the foreseeable future, be more and more to do. Before 80 customers per
 day was "a lot"... yesterday we had 145 and I would think that the new
 "normal" will be around 130-180 maybe.
-
-
-
-
-
-
 
 The thing is; we put things in motion now that we cannot reverse.
 Customers will come to us weather we want or not. I believe this is a
@@ -179,7 +129,6 @@ big break. All of a sudden things are moving faster and faster.
 To paraphrase what my friend
 <a href="http://twitter.com/anderslowenborg" target="_blank">Anders
 Löwenborg</a> said to me describing working for a startup;
-
 
 > It was like riding kayak in a white water river. All I could do was
 > trying to paddle along and steer... there was no use trying to turn
@@ -201,19 +150,13 @@ things.
 
 #### Improve mean change
 
-
-
 I tweeted something the other day that I is very important to
 understand, I think:
-
-
-
 
 > You cannot say; I want to improve but I don’t want to change. It’s a
 > contradiction in terms
 > — Marcus Hammarberg (@marcusoftnet) [October 6,
 > 2014](https://twitter.com/marcusoftnet/status/519030269626429440)
-
 
 I have met so many people that want to improve - but they will not
 change. That's a false statement. Improve means change. Not changing
@@ -250,10 +193,7 @@ target="_blank">Creative Commons</a></td>
 </tbody>
 </table>
 
-
-
 Now you say;
-
 
 > Aaaaah ... if we're going to change continuously ... how do we know
 > that it's improvements? Or just change?
@@ -278,65 +218,31 @@ It was a tiny change - if it proves to be wrong we just go back.
 
 ### Necessity: the mother of innovation
 
-
-
 One final comment. Why do we want to have more and more to do? Or move
 faster and faster?
-
-
-
-
-
-
 
 Because that's where innovation happens. Why? Because with small load,
 less things to do we don't need to be effective, we don't need to think
 about quality etc. Under small load we can manage anyway.
 
-
-
-
-
-
-
 So quality is bad. Who cares? I have so little to do that I have time to
 fix my bad quality too.
-
-
-
 
 This process is very ineffective. So what? We have nothing better to
 do - we can take our time filling these forms out, or do this things
 twice etc.
 
-
-
-
-
-
-
 When we increased the number of customers in our current client we saw
 all kinds of spontaneous improvements spring into action. Just because
 we had to.
 
-
 ### Summary
-
-
 
 "The only easy day was yesterday" - from now of we need to improve. This
 is a message of hope since this will make us better and better to handle
 this load.
 
-
-
-
-
-
-
 And you know what; pretty soon we will find that we can handle the
 higher load without being stressed out, without feeling rushed. Because
 we have improved our environment, our processes and services into
 something better. Something better than we even knew was possible.
-
-

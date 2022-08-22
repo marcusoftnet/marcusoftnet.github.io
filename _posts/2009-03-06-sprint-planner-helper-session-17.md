@@ -86,30 +86,30 @@ rewrote the add method into this:
 > <span style="color: blue">public <span
 > style="color: blue">void Add(T entity)
 >
->         {
+> {
 >
->             <span style="color: blue">if (entity.ID == <span
+> <span style="color: blue">if (entity.ID == <span
 > style="color: #2b91af">BaseEntity.NEWID)
 >
->             {
+> {
 >
->                 <span style="color: green">// get the new highest
+> <span style="color: green">// get the new highest
 > id
 >
->                 entity.ID = FindAll().Max(x =\> x.ID) + 1;
+> entity.ID = FindAll().Max(x =\> x.ID) + 1;
 >
->             }
+> }
 >
 >  
 >
->             dictionary.Add(entity.ID, entity);
+> dictionary.Add(entity.ID, entity);
 >
->         }
+> }
 >
 > </div>
 
 But I still have the Update-functionality for my Product aggregate to
-figure out. More simple tests, please. 
+figure out. More simple tests, please.
 
 \[Again some typing, head scratching and thinking takes place…\]
 
@@ -123,11 +123,11 @@ So the very simple Update-method:
 > <span style="color: blue">public <span
 > style="color: blue">void Update(T entity)
 >
->         {
+> {
 >
->             dictionary\[entity.ID\] = entity;
+> dictionary\[entity.ID\] = entity;
 >
->         }
+> }
 >
 > </div>
 

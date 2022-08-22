@@ -23,7 +23,6 @@ going on.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 **Y**o,
 **I**
 **E**xpect
@@ -31,4 +30,3 @@ going on.
 **D**elay
 is my new way of explaining what happens when you say **yield** in your
 code. I hope you enjoy this.
-

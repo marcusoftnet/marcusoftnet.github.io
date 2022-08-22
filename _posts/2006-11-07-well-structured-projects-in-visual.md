@@ -17,22 +17,14 @@ src="http://photos1.blogger.com/blogger2/4958/4459/200/project%202.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%202.0.jpg)
 
-
-
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/200/project%201.jpg"
 style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.0.jpg)
 
-
-
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%202.jpg)
 
-
-
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.jpg)
-
-
 
 This might be an obvious thing for some but i have missed its full
 potential for a while. And thank You Stefan for pointing it out to me.
@@ -51,9 +43,6 @@ introducing some solution folders i've got an ordered view of my
 projects, in the calling order of the architecture (see top picture to
 the right) And nothing has changed in the naming of my folder.
 
-
-
-
 The solution folder structure is saved completly within the solution
 file (.sln) and don't reflect the file system.
 
@@ -61,13 +50,6 @@ A solution folder is created by right-clicking anywhere on the
 solutionfile and then choosing Add-\>New solution folder. The projects
 are added by simply dragging them to the folder.
 
-
-
-
 A final note - if a folder is added within a project the folder name
 will be a part of the namespace of the items in the folder. This can of
 course also be handy - but the difference needs to be understood.
-
-
-
-

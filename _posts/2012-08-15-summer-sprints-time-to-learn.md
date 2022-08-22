@@ -27,13 +27,11 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s320/IMG_2063.jpg"
 data-border="0" width="320" height="239" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 <div class="separator" style="clear: both; text-align: left;">
 
 That's all good but what happens at the offices do you think?
-
 
 <div class="separator" style="clear: both; text-align: left;">
 
@@ -45,7 +43,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcS6s4Sn49hRJp8R7pyetMou320CjSO-k92HPYvyqk8fOvJzzdQQfA"
 data-border="0" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -55,7 +52,6 @@ everyone have vacation at the exact same time (normally) this can go on
 for about 2 months or more. This of course poses a problem for teams
 that want to work close together.
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -64,7 +60,6 @@ Even if you don't have 7 weeks vacation in your country you may find the
 reasoning in this post interesting. I learned a lot when I thought about
 this (and from <a href="http://torbjorn-gyllebring.blogspot.se/"
 target="_blank">brilliant people</a> I talked to).
-
 
 At the last
 <a href="http://sumpanleancoffee.wordpress.com/" target="_blank">Lean
@@ -119,8 +114,6 @@ subject to problems due to people being absent.
 
 ### Responsibilities
 
-
-
 Yes, as you can see, a lot of the problem has to do
 with responsibilities. First and most apparent the responsibility of
 requirements and acceptance of work items. This is commonly done by one
@@ -128,15 +121,9 @@ person. In fact, even the agile method Scrum advocate a single Product
 Owner.
 So if she is not present ... we have a problem to solve.
 
-
-
-
-
-
 But there's other responsibilities as well - we still have specialists
 that cannot easily do other work. Designers, database experts or
 programmers are examples of that.
-
 
 > "I don't know much about that part of the system. It's Anders field.
 > I've never touched it. We cannot take that story on."
@@ -149,31 +136,18 @@ something about it.
 
 ### Learning
 
-
-
 So more than anything I think the focus of the summer sprints should be
 on learning. When did we run into problems? Is there areas that just one
 of us knows about? Can we share the acceptance responsibility? Can it be
 delegated?
 
-
-
-
-
-
 We're talking a lot about cross functional team that share
 responsibilities but in reality ... this have a way of beloning to
 someone. This is a great opportunity to find those out.
 
-
-
-
-
-
 The CIO of the Swedish lorry maker
 <a href="http://www.scania.com/" target="_blank">Scania</a>, Leif
 Östling has a saying that have spread through out the organisation:
-
 
 > Love your deviations!
 
@@ -183,20 +157,12 @@ our attention there.
 
 ### Summary
 
-
-
 I would recommend to do a summer sprint retrospective when the whole
 team is gathered again to note these problems down and start to make
 plans for how to manage the next vacation time better. In Sweden that
 would be during the Christmas holidays when we all goes to another 2
 weeks of free time.  :)
 
-
-
-
-
-
 Maybe this "problem" could be that start of your team starting to really
 collaborate. If nothing else so just to be able to handle the next
 vacation period.
-

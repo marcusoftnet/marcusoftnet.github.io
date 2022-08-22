@@ -33,8 +33,8 @@ the answerer or not even know much about the theories behind this big
 subject - but this works fine for us. And the solution have two
 trademarks that I like:
 
--   it simple ([KISS](http://en.wikipedia.org/wiki/KISS_principle))
--   I haven't invented anything (don't think - steal)
+- it simple ([KISS](http://en.wikipedia.org/wiki/KISS_principle))
+- I haven't invented anything (don't think - steal)
 
 OK - finally. Here is how we make testing in our Scrum project work:
 
@@ -45,11 +45,11 @@ we have a [definition of
 done](http://www.scrumalliance.org/articles/37-are-we-there-yet) that
 includes:
 
--   unit tests to cover all code
--   tested according to the "How to test" in a separate test
+- unit tests to cover all code
+- tested according to the "How to test" in a separate test
     environment. These tests are made by a tester in order to challenge
     the functionality as well as how it's working.
--   integrationtest created/updated to test the sprint backlog item.
+- integrationtest created/updated to test the sprint backlog item.
     These test are not written by the same developer that wrote the code
 
 There are some other things in our definition of done also (maybe

@@ -25,6 +25,7 @@ This puzzled me for awhile but then I realized that it was a worry about a reaso
 Now, not that I think that the folks in my team would ever reason like that but let's see what kind of mechanisms that kanban has to offer to handle this, using a few simple principles and practices that I've often used.
 
 # Stop starting - start finishing
+
 The first thing you can agree on in your team is that we prefer to finish things over starting new things. You can use the catchy slogan:
 
 <blockquote>Stop starting - start finishing!</blockquote>
@@ -34,6 +35,7 @@ This sounds trivial and obvious but it turns out to be something that you need t
 But that's is for one thing. Not the hundred things that we promised to do to the 6.1 release. And it's much nicer. Don't miss that opportunity.
 
 # Walk the board - right to left
+
 A very simple practice that I've seen work really well is in your morning meetings enumerate the work on the board, rather than to get a status report per individual.
 
 Start on the item furtherest down the process, closest to being Done. In most cases, in the western world, a board visualization enumerate work states from the left to the right. Done is to the far right. Start there, closest to Done, and walk backwards. This is an "old" lean principle to gain flow: start at the customer and work your way backwards.
@@ -51,6 +53,7 @@ One powerful question you can ask in the stand-up, to focus your attention is:
 You might end up spending less time on the items early in the process (to the left) on your board. But that's ok, right? Because that's the things that you invested little time in so far. And they are not close to being complete.
 
 # WIP limits
+
 A final practice that puts focus on finishing things is our old friend work-in-process-limits. In fact this is one of the most basic features you'll need to have in place, in order to even be able to call it a kanban system.
 
 With a WIP limit in one column your system will back up and be filled with items waiting to progress if there's a blockage downstream. For example; if there's 2 items being tested and the WIP limit is 2, we will not add more things into test until those 2 are tested.
@@ -68,6 +71,7 @@ Once that bottleneck is resolved (the environment is working again) stuff can st
 We get that gentle urge to finish things.
 
 # Summary
+
 Decoupling the releases from the delivery is an great way to get calmness in your process. Stuff gets done when it gets done and we release it when it is up to the right quality. Should we miss a release, there's no biggy - another release is soon coming.
 
 However - this is not a reason not to have a focus on finishing things. Adopt the principle of Stop starting - start finishing. Walk the board from the right to the left to focus on the things that are most close to being Done. Use WIP limit to keep your focus to flow your items through your process

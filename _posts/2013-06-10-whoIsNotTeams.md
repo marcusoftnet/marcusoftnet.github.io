@@ -62,7 +62,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://impactmapping.org/site/map.png" data-border="0" width="320"
 height="216" /></a>
 
-
 In order to know that we're doing the right thing we also needs a solid
 understanding **who** we are doing it for. These are **actors** that we
 talk about on the WHO-level.

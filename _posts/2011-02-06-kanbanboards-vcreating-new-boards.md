@@ -36,6 +36,7 @@ with the following:
 > The creation of this site is documented as my learning process.
 
 On with the show!
+
 ### New functionality – new scenario
 
 As I always I start off with a new specification and the following
@@ -59,15 +60,15 @@ alt="Smile" />) I press on. One step definition at the time.
 Without knowing if it’s right – here is usually how I work my way
 through a scenario like this:
 
--   I usually generate all the step definitions with the Pending state.
+- I usually generate all the step definitions with the Pending state.
     In this “phase” I checking how the language feels and if I can reuse
     and steps. So I might update the written specification to get it to
     work.  Also I have to do other minor tweaks to other specs to get
     more re-usability
--   I then run the scenario to check that my steps and step definitions
+- I then run the scenario to check that my steps and step definitions
     are aligned, i.e. I don’t get any Inconclusive (“No matching step
     definition found for the step”)
--   I then focus on one step at the time working outside in and getting
+- I then focus on one step at the time working outside in and getting
     each step to pass before I move on to the next. That focus my
     efforts and also gives a sense of success or forward motion.
 
@@ -94,14 +95,14 @@ Also thinking of what “Given I am logged into the site” means I had to
 stop for a while...This is my reasoning (done in my head, for those who
 wondering about my mental health):
 
--   So I want to be logged in in order to ...
--   Be able to be sure to pass any requirements of being authenticated
+- So I want to be logged in in order to ...
+- Be able to be sure to pass any requirements of being authenticated
     later.
--   And what is the simplest possible solution to that right now
--   To create a simple interface for authentication checks. I can fill
+- And what is the simplest possible solution to that right now
+- To create a simple interface for authentication checks. I can fill
     it with a implementation that checks against Open ID later.
--   So what are you waiting for?
--   You to stop asking stupid questions!
+- So what are you waiting for?
+- You to stop asking stupid questions!
 
 Sorry – got carried away there. But really I just need an interface that
 my authentication mechanism can implement later. So I think I’ll create
@@ -294,15 +295,15 @@ my spec now has just the last step failing.
 So for the last step (“Then I should see KanbanBoard 1 among my boards”)
 a couple of things need to happen.
 
--   First we need to take into account that there is a redirection going
+- First we need to take into account that there is a redirection going
     on.
--   Then we must handle the call to the Read-service (which needs to be
+- Then we must handle the call to the Read-service (which needs to be
     <a href="http://en.wikipedia.org/wiki/Test-driven_development"
     target="_blank">TDD</a>’d out) to get “MyBoards” – which in turn
     call the Repository's GetAll()-methods
--   Also the Add-method of the repository is called – so we probably
+- Also the Add-method of the repository is called – so we probably
     should find a good place to set up the expectations for that
--   Finally the whole thing should be put together.
+- Finally the whole thing should be put together.
 
 Hmmm – this feels a bit to hard. I have probably missed something in the
 process, but right now I cannot see what.
@@ -340,12 +341,12 @@ alt="scenario for navigating my boards" />](http://lh4.ggpht.com/_TI0jeIedRFk/TU
 
 Which in turn helped a lot of other things:
 
--   I updated the Logged-in step to require a name and created an
+- I updated the Logged-in step to require a name and created an
     AutenticationServiceSteps class
--   I realized that I don’t need to store things that are stateless in
+- I realized that I don’t need to store things that are stateless in
     the ScenarioContext.Current, for example the KanbanBoardController.
     It can be created when needed
--   I could actually put the services I need in the
+- I could actually put the services I need in the
     ScenarioContext.Current when needed (or lazy loading if you like).
     That shapes up the code a lot, look at the new
     CreateController-method:

@@ -28,7 +28,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-n_MmG2QyzYU/VBJZ9d12qWI/AAAAAAAAG8I/X8Gfvpy9AYw/s1600/david%2Bandersson.jpg"
 data-border="0" width="133" height="200" /></a>
 
-
 <a href="https://twitter.com/agilemanager" target="_blank">David J
 Andersson</a> (the father of kanban in the software community) has
 taught me a lot, and that's probably an understatement too. Because I've
@@ -75,7 +74,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-7pgc7NhkA3I/VBEFeEgN1_I/AAAAAAAAG30/B8I3KAA-bnk/s1600/new%2Badventures%2Bof%2Bold%2Bchristine.jpg"
 data-border="0" width="135" height="200" /></a>
 
-
 <span id="goog_746609428"><span id="goog_746609429">This
 reminds me of a small scene from the
 "<a href="http://www.imdb.com/title/tt0462128/" target="_blank">The new
@@ -120,12 +118,10 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://4.bp.blogspot.com/-OrEIq7oK90U/VBJXVq5wTII/AAAAAAAAG70/vVqgokqdZmA/s1600/board.png"
 data-border="0" width="173" height="200" /></a>
 
-
 <div style="text-align: left;">
 
 We visualised this in a BIG diagram that we update every morning in
 front of all the staff.
-
 
 The diagram have two horizontal lines; the target we're aiming for and
 the break-even point.
@@ -145,7 +141,6 @@ href="http://4.bp.blogspot.com/-7fvEw76vfiY/VBJYMl8fIqI/AAAAAAAAG78/tHAoXax31HM/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-7fvEw76vfiY/VBJYMl8fIqI/AAAAAAAAG78/tHAoXax31HM/s1600/board%2Bwith%2Bactions.png"
 data-border="0" width="320" height="150" /></a>
-
 
 Next to that big diagram we have a list of the 3 (no more than 3,
 remember <a href="http://en.wikipedia.org/wiki/Work_in_process"
@@ -188,47 +183,26 @@ We post excel printout showing the last month and the yearly trend (not
 yet, but they are being created). These printouts is helpful when people
 start to question the data (GREAT!) and for reference.  
 
-
-
 We have made some big simplifications here, for example:
-
 
 - Only showing total and not the distribution of different kinds of
     customers
 - Boiling down all our finances to a single target; number of patients
     per day
 
-
-
 This is quite intentionally since we just want to make a quick awareness
 for everyone. The details can be shown on request.
 
-
-
-
 ### Initial reflections
-
-
-
 
 Even though it took about a week worth of discussions and preparations
 to get this in front of everyone I could almost *hear* the lightbulbs
 turn on as it was presented to the staff. Already after the first time
 we had some new ideas.
 
-
-
-
-
-
 These speaks to facts very loudly to me:
-
-
-
 
 - Make things visual and be transparent with the real data to get
     peoples attention
 - Ask simpler questions to make everyone understand. The details can
     be explained later.
-
-

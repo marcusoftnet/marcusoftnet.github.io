@@ -22,6 +22,7 @@ of the KPI’s that I hear is being used.
 
 Let’s read up on them first and then I’ll talk about the one I suggested
 and why.
+
 ### What is a KPI anyway?
 
 From the <a href="http://en.wikipedia.org/wiki/Performance_indicator"
@@ -143,10 +144,10 @@ week. Here are few questions that we have been using at my team at
 <a href="https://twitter.com/#!/anderslowenborg" target="_blank">Anders
 Löwenborg</a>):
 
--   On a scale between 1 and 6 how happy are you with Avega Group today?
--   What could we do to improve that number?
--   What is best right now?
--   What is worst right now?
+- On a scale between 1 and 6 how happy are you with Avega Group today?
+- What could we do to improve that number?
+- What is best right now?
+- What is worst right now?
 
 Only the first one is “required” to answer. It has never taken me more
 than 3 minutes to answer.

@@ -37,6 +37,7 @@ It's a great format and works nicely for this book too. What I particularly like
 Also the entire books easy-going and before long it's over.
 
 ## More?
+
 The only flip-side of a story driven approach is that you can't squeeze everything into the one story. For example this is about a really big, new project. I would have love to have read some "brown-field" approaches or "introduce it gently" stories too.
 
 But HA!, says Duarte Vasco. He's thought about that. Because there's a complete package of more material to read, interviews to watch with some really amazing stories (and some pretty bland from yours truly...).
@@ -44,6 +45,7 @@ But HA!, says Duarte Vasco. He's thought about that. Because there's a complete 
 This is a perfect "Continue here" package that I cannot commend Duarte enough of.
 
 # Summary
+
 This books is great I think. I gives a hands-on, story-driven, easy-going overview of the priniciples and examples of the practices for #NoEstimates.
 
 If you ever found yourself in a situation where estimates and their inevitable conversion to plans and Gantt charts is just too much for you; there's another way. It's brilliantly presented here!
@@ -53,6 +55,7 @@ If you, like me, at first sight thinks: "No Estimates? But how can the ever work
 [Get it now!](http://noestimatesbook.com/)
 
 ## Read more
+
 If you want to read more about the back-story, how did we get here etc. These are few of the good articles I've read on the topic:
 
 * [We don't need no stinking estimates](https://medium.com/backchannel/estimates-we-don-t-need-no-stinking-estimates-dcbddccbd3d4)

@@ -34,7 +34,8 @@ My goal as a change agent is something completely different. I don't need (nor w
 
 I didn't say that it was easier, but it's at least less confrontational and invites more innovations from the people around me. I take that any day of the week.
 
-# If he is right...
+# If he is right
+
 Last year I happen to stumble on an amazing documentary series about anger. It's beautiful and well worth watching the entire series.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6TrKkkVEhs?list=PLJA_jUddXvY62dhVThbeegLPpvQlR4CjF" frameborder="0" allowfullscreen></iframe>
@@ -61,7 +62,8 @@ Quite simple: taking in that something new, that might question the reason of wh
 
 How can I approach the change so that fear like that goes away?
 
-# What needs to be true...
+# What needs to be true
+
 The last thought comes from sensei [Dan North](http://dannorth.net/) and is related to the above:
 
 <blockquote>What needs to be true, for that to make sense?</blockquote>
@@ -77,17 +79,19 @@ I've now been doing the first so long that found myself thinking: I don't know w
 I could use some humbleness in how I approach this change.
 
 ## No really, what is true in their world?
+
 I can't leave you hanging without going through my reasoning that I used to understand the "other" view. I have no idea if this is their actual reasoning but it at least gave me a way to explain it for me.
 
 I think that by focus on quality and moving small things fast from idea to production, the costs of doing so will justify the outcome we will see.
 
-"Sure - [mob programming ](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)is not efficient but the effectiveness is awesome; it's worth it."
+"Sure - [mob programming](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)is not efficient but the effectiveness is awesome; it's worth it."
 
 The opposite would be to start in costs; by making each individual function as cost efficient as possible the quality and speed can probably be enough to keep us competitive.
 
 "Sure - having our testers in India and Ukraine is not optimal for cooperation but the cost is so low that it will have to do. It's worth it."
 
 # Summary
+
 My best change management tip is to put yourself on the other side for awhile. These three statements helps me to remember that on a daily basis:
 
 <blockquote>People doesn't oppose change. People opposed being changed</blockquote>

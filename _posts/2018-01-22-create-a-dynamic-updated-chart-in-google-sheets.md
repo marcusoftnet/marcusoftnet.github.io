@@ -173,9 +173,9 @@ Let's, **finally**, use all of this for something useful. Let's create a graph s
 * The rest is the same as before:
   * Click the button for Insert Chart (or in the menu Insert => Chart)
   * Do some formatting of the labels, legend etc.
-    - I removed the Horizontal axis title
-    - Put the Legend on the bottom
-    - And updated the Title of the Chart to `Spread of values - selected team`
+    * I removed the Horizontal axis title
+    * Put the Legend on the bottom
+    * And updated the Title of the Chart to `Spread of values - selected team`
 
 Now the user can change team in the `J18`-dropdown box and see the graph update itself. Like a nice little reporting tool. Here's how the graph looks for me:
 

@@ -47,7 +47,7 @@ articles by <a
 href="http://msdn.microsoft.com/en-us/magazine/ee532098.aspx?sdmr=DavidLaribee&amp;sdmi=authors"
 target="_blank">David Laribee</a>. Here you go, thank you Calle:
 
--   <a href="http://msdn.microsoft.com/sv-se/magazine/ee335722(en-us).aspx"
+- <a href="http://msdn.microsoft.com/sv-se/magazine/ee335722(en-us).aspx"
     target="_blank">9 Useful Tactics for Paying Back Technical Debt</a>
--   <a href="http://msdn.microsoft.com/en-us/magazine/ee819135.aspx"
+- <a href="http://msdn.microsoft.com/en-us/magazine/ee819135.aspx"
     target="_blank">Using Agile Techniques to Pay Back Technical Debt</a>

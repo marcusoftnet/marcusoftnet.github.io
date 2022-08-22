@@ -24,6 +24,7 @@ Shortly a big room planning could be described as an event where all the people 
 Or at least I want to describe it like that because then my points below falls out very natural.
 
 # All the brilliant people in the room
+
 The first, ah well all of these factors, is pretty obvious but here goes:
 
 >Keep people in the same room
@@ -41,6 +42,7 @@ Inevitable one of your teams will ask you if they could work in another room, or
 No. They cannot. Because that defies the purpose of getting everyone into the same room at the same time.
 
 ## Marcus comment
+
 Here we can see the reason I think this is [actually a work-around](http://www.marcusoft.net/2016/10/big-room-planning-a-failure-testatment-i-like.html) in a very blunt fashion. Because we have designed a practice that is extremely tiring, noisy and that most people gets worn out by (luckily it's ran seldom...).
 
 Just because we could not have this communication going continuously. Surely this is just "best so far"? Surely we are looking for better ways, where information like this is well-known among all. All the time.
@@ -48,6 +50,7 @@ Just because we could not have this communication going continuously. Surely thi
 It resembles the strive for "one piece continuous flow" that Toyota has been seeking for half a century and more; every practice they are doing now is just "best so far". They are always striving for better. Why shouldn't we?
 
 # Well established backlog or at least goals - demand
+
 The best meeting we had was preceded by 2 or 3 meetings where we groomed and adjusted the backlog. I say "2 or 3" because in the first of those meeting we couldn't agree on what the goal for the business (the upcoming period) actually was.
 
 Imagine if we would have gone into the meeting with that kind of mess around what the goal was, or what activities and features we were going to do to reach the goal that was suitable to do now.
@@ -55,6 +58,7 @@ Imagine if we would have gone into the meeting with that kind of mess around wha
 It would not have been pretty. I know, because other planning sessions we actually did very little grooming and the result was that most teams just continued to do what they were doing. It was hard to question if that was the right thing to do, since the goals for the period was not well known.
 
 ## Marcus comment
+
 This advice ties back to the basics of knowing the demand of your system. Imagine if we were spending our precious time and effort on "not the most important thing". That would be very stupid and feel wasteful. But often I feel that we don't even know how we would know what the most important thing is.
 
 But at least we are continuing to work. That is strange I think. Unless we are working to discover what we really should do.
@@ -64,6 +68,7 @@ The work that happens under this heading is a real benefit of doing these planni
 But... surely not the end state? I hope that we would want a place where this is known all the time. In the mean-time this workaround is good for us.
 
 # Well known capacity and scope
+
 Before going into the planning session we should have a good understanding of:
 
 * which teams there are
@@ -78,9 +83,11 @@ I've been part of meetings where we, as an introduction, revealed which people a
 Goes without saying that it was not time well spent in the meeting where we were supposed to understand, break down and ultimately solve business problems to reach a goal.
 
 ## Marcus comment
+
 In a more flow-oriented approach problems like these would resolve themselves smoother and continuously. Some people needs to move into another team; sure - go ahead, then plan. Now we stand a risk of making these changes big-bang at the planning meeting.
 
 # Summary
+
 These are my top 3 factors for a better big room planning:
 
 * Make sure that you know what the goal is and, for extra points, have a good idea about the features and activities that would take us closer to that goal (**the demand***)

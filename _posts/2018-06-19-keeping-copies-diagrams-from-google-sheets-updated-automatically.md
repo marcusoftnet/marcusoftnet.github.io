@@ -80,7 +80,7 @@ Click on the link to create a new row, which will change the UI into the followi
 
 Here's what this configuration tells us:
 
->  Run the function `refreshCharts` every hour
+> Run the function `refreshCharts` every hour
 
 Pretty cool. The UI is quite limited now (for example there are only time-driven events), but this works for us right now. Depending on how often your data is updated you could run it weekly or daily, or by the minute, instead.
 

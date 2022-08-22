@@ -28,7 +28,6 @@ Let's go back a bit in my thoughts and see if I can clarify why.
 In reality this post is just a couple of examples of self-imposed
 constraints and what good they can have.
 
-
 ### Toyota and TPS
 
 First let's stop, again, at Toyota. Why did they invent
@@ -63,8 +62,6 @@ to accomodate for that little fact..."
 I dread the "rollout" in the heading above and also the effect it will
 have on any agilistas out there. But I have been involved in quite a few
 "rollouts" in my career. That it's: implement agile in an organisation.
- 
-
 
 <div style="text-align: left;">
 
@@ -75,7 +72,6 @@ organisation to move. I wrote about this before and called the
 <a href="http://www.marcusoft.net/2012/10/agilechangetop51.html"
 target="_blank">constraint a "or else"-reason.</a>
 
-
 <div style="text-align: left;">
 
 <div style="text-align: left;">
@@ -84,11 +80,10 @@ But often efforts like this fail, simply because it doesn't really
 matter. If the project fails or goes way over budget, someone get's
 yelled at or maybe (very seldom at least in Sweden) gets fired. That
 means that trying new ways of working is just syntactical differences on
-the same thing. 
-
+the same thing.
 
 > "Yeah, yeah... user story or use case - we know the drill. Let's do as
-> we always do, people. No hurry". 
+> we always do, people. No hurry".
 
 > "I know we should deliver incrementally but we really need to know
 > everything before moving on. The process is that way, see?"
@@ -98,15 +93,13 @@ the same thing. 
 Now imagine a scenario where it was out of business if we didn't deliver
 faster. Or if the constraint was in time; "the stuff that's ready for
 this date gets shipped. No exceptions!" Now we have a real reason to do
-something fundamentally different from what we usually do. 
-
+something fundamentally different from what we usually do.
 
 <div style="text-align: left;">
 
 In order to overcome the constraint (that might be real or made up mind
 you) we **have** to do something differently. We **have to change** the
-way we work or do things. 
-
+way we work or do things.
 
 <div style="text-align: left;">
 
@@ -115,12 +108,9 @@ way we work or do things. 
 In most organizations where I've seen transitions to agile fail it has
 always to do with to much resources. Success or failure is not a big
 thing. It will continue anyway. Sure we celebrate success but we
-wouldn't change fundamentally how we work to get it. 
-
+wouldn't change fundamentally how we work to get it.
 
 ### Immutability
-
-
 
 <a href="http://en.wikipedia.org/wiki/Immutable_object"
 target="_blank">Immutability</a> is a programming term meaning roughly:
@@ -129,11 +119,6 @@ often found with the
 <a href="http://en.wikipedia.org/wiki/Functional_programming"
 target="_blank">functional programming</a> paradigm but can be used
 elsewhere.
-
-
-
-
-
 
 I know! First time I thought: "well, that was handy. Why create it in
 the first place, then? Data change right?"
@@ -153,10 +138,7 @@ It all started with the, self-imposed, constraint of immutability. In
 order to cope with it - we had to change the way we work. Out of that
 came great stuff.
 
-
 ### "I'll change that in a week"
-
-
 
 When I went to university we had a course in object oriented
 programming. It was basically a 4 week hand-in programming task: we were
@@ -169,12 +151,9 @@ So we now had a **constraint:** we knew that something was about to
 change, but now what. We had to handle that constraint in someway. Every
 line of code we wrote was scrutinized and challenged for replaceability
 (which is the <a href="http://video.javazone.no/talk/49367318"
-target="_blank">trademark of good agile architectures</a> by the way). 
-
+target="_blank">trademark of good agile architectures</a> by the way).
 
 ### Time boxes and WIP limits
-
-
 
 Finally (I'm probably boring you to death by now) why on earth do we do
 sprints or time boxes in agile methods? Why so short as 2 weeks? 1
@@ -194,34 +173,18 @@ our workflow.
 
 ### Conclusion
 
-
-
-
 With no constraints you have no incitament to improve. Constraints
 forces us outside our comfort zone and pushes us to improve in order to
 handle with the constraint. The constraints might not exists naturally -
 but you should put one in place any way. It's the little nagging thing
 that helps us remember that we should improve.
 
-
-
-
-
-
 This blog post is probably old new for a lot of you, but I found myself
 coming back to constraints again and again. It's the foundation for
-improvements. 
-
-
-
-
-
+improvements.
 
 Now the only question remains: what should we improve towards? What is
-our goal? 
-
-
-
+our goal?
 
 But that's another blog post. For now I leave you with: It depends ...
 

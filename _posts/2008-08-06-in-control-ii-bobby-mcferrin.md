@@ -18,4 +18,3 @@ This guy has control, and loads of it. When I heard this clip yesterday
 I found myself with my mouth open through out the whole thing.
 And then I checked this out where he improvises over a Air by Bach. My
 good! He is the king!
-

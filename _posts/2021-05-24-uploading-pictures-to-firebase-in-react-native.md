@@ -151,7 +151,7 @@ Let's put that state into use and show the image:
 
  BAH! This is too easy.
 
-##Upload part I - getting the binary
+## Upload part I - getting the binary
 
 Let's do something a bit more advanced and create a button to upload the picture.
 
@@ -280,7 +280,7 @@ Here I could have kept the state in the `App.js`-file instead, but for clarity, 
 * I'm using `storage.ref().listAll()` to get a list of references
 * I can then `.map` over them and get the URL for each `.getDownloadURL()`
 * This URL can then be fed into the component that shows each image
-  * I created a [separate component for the image,](https://github.com/marcusoftnet/PhotoUploaderFirebase/blob/main/components/ListImageItem.js) just so that I could style it if I wanted, but it's just a `<Image /> ` tag.
+  * I created a [separate component for the image,](https://github.com/marcusoftnet/PhotoUploaderFirebase/blob/main/components/ListImageItem.js) just so that I could style it if I wanted, but it's just a `<Image />` tag.
 
 ## Conclusion
 

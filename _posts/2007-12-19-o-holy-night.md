@@ -18,4 +18,3 @@ Extra kudos to the very good gospel choir in the background. They really
 look like they are enjoying themselves.
 
 Here you go, O holy night, with Maria Carey.
-

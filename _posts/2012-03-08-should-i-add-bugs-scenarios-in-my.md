@@ -40,7 +40,6 @@ long list of every change ever made to the specification. Every bug
 we’ve fixed and it’s always up-to-date and automatically verified
 against the system. Nice…. but are there some drawbacks?
 
-
 ### Bug scenarios – yes please
 
 Firstly let’s agree on that creating
@@ -67,12 +66,10 @@ again and again to the concept of key examples. And that a specification
 (as thought of in Specification by example) in essence is made up with a
 user story and key examples that helps us understand the story.
 
-
 <div align="left">
 
 It’s not every possible way that the user story can be played out… It’s
 key examples to help us collaboratively understand the story better.
-
 
 <div align="left">
 
@@ -80,7 +77,6 @@ So back to Hugos questions; should I add scenarios for bugs under the
 specification? No probably not – is my answer. The specification will,
 over time, be cluttered with a lot of scenarios and the nice idea of a
 user story with examples that gives clarifying examples is lost.
-
 
 ### So no bug scenarios then?
 
@@ -91,7 +87,6 @@ great idea, but it can be done in different .feature files. Then they
 might cut the system in a different way as well to better suit the
 description of the bug.
 
-
 <div align="left">
 
 They can be tucked away in a different folder and <a
@@ -99,36 +94,38 @@ href="http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
 target="_blank">tagged with some tags</a> (@bugfix or @regressionTest)
 that you only run on daily builds, keeping your continuous build quick.
 
-
 <div align="left">
 
 Maybe a folder structure for you feature-file could look something like
 this:
 
-
 <div align="left">
 
 Specification (a separate Visual studio project probably)
 
+- <div align="left">
 
--   <div align="left">
    Specifications
    </div>
 
--   <div align="left">
+- <div align="left">
+
    Fixes
    </div>
 
--   <div align="left">
+- <div align="left">
+
    <a href="http://gojko.net/2007/09/25/effective-user-interface-testing/"
 
     </div>
 
--   <div align="left">
+- <div align="left">
+
    …
    </div>
 
--   <div align="left">
+- <div align="left">
+
    …
    </div>
 
@@ -136,7 +133,6 @@ Specification (a separate Visual studio project probably)
 
 I’m sure your creativity is better than mine when it comes to making up
 different groups of features.
-
 
 ### How many key examples should a feature have then?
 
@@ -146,7 +142,6 @@ So one could wonder; how many scenarios / key examples is correct for a
 specification then? Well … being a consultant you know I have to say; It
 depends.
 
-
 <div align="left">
 
 But I’m sure that 1 is to few and 10 is to many. Even 8 is stretching it
@@ -155,10 +150,8 @@ should at least show one successful and one failure example of using the
 story (logging in successfully and logging in with failures for
 example).
 
-
 <div align="left">
 
 Enough for everybody in the team to be sure that we all mean the same
 thing and agree on how it should work. It really comes down to what you
 are specifying and the complexity of the business logic.
-

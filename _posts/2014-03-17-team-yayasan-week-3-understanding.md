@@ -33,16 +33,9 @@ Going into this week we decided two things to improve:
 - Deep dive into why we don't get reports in time
 - Lower our work in process limit from 14 to 12.
 
-
-
 One of those were very successful and one was not...
 
-
-
 ### Sloppy board management
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -52,7 +45,6 @@ data-imageanchor="1"
 style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s1600/2014-03-17+07.16.49.jpg"
 data-border="0" width="240" height="320" /></a>
-
 
 I have coached more than 40 different agile teams using board, like ours
 (btw here's the state on this morning). Many of them has not used a
@@ -67,7 +59,6 @@ I think this is why a team coach can be handy. I think. Someone that
 stands a bit on the side and take a little different perspective.
 
 It's now confession time;
-
 
 > I have only been team member of 2-3, maybe 4 agile teams!
 
@@ -86,17 +77,10 @@ In our team this sloppyness has manifested itself in these things:
 - Not estimating tasks to Small, Medium and Large
 - Not talking about a Definition of Done.
 
-
-
 So we have now (on this short retrospective we had this morning) decided
 to try to be better. I will try to be a bit more active in my coaching
 around the board and we all will try to follow the few rules that we
 have set up.
-
-
-
-
-
 
 It's very important to remember that these rules were created by us, for
 us. No one has told us to set these up. If we break them... we're
@@ -104,10 +88,7 @@ letting ourselves down. This is one of the things I very often have to
 repeat to teams starting with
 <a href="http://bit.ly/theKanbanBook" target="_blank">Kanban</a>.
 
-
 ### We don't get our reports in time
-
-
 
 Now to something very much more interesting and fun. And rewarding too.
 We had a problem that we had to nag and remind our hospitals to get
@@ -115,20 +96,10 @@ their reports to us in. This week we completed the finance reporting for
 last year. And right now we are 76 days (yeah, nothing for this year)
 for the current finance reporting.
 
-
-
-
-
-
 We decided to invest a couple (2 x 2) hours to try to understand more
 about this. I wanted to try something that I haven't run before too, so
 we created two workshops with different purposes: first understand the
 problem and then come up with actions to try to allivate the problem.
-
-
-
-
-
 
 In the first session we ran a root cause analysis, much like the one we
 had with
@@ -136,9 +107,6 @@ had with
 target="_blank">one of the hospitals a few weeks back. </a> You can read
 more about the format in that post, but here are a few of the things we
 talked about (click for larger):
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -158,7 +126,6 @@ style="margin-left: 1em; margin-right: 1em; text-align: right;"><img
 src="http://3.bp.blogspot.com/-UhbFWunkLWA/UyZvVcNScII/AAAAAAAACE4/ltUceMn3dZw/s1600/2014-03-10+14.21.39.jpg"
 data-border="0" width="150" height="200" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 Again I was impressed with how this exercise helps you do understand the
@@ -166,7 +133,6 @@ consequences of not fixing the problem. The Why-questions was also
 important and good things came out of that, but to really see the
 long-reaching (failing to reach vision/mission for example) consequences
 of not fixing this problem is the thing that sticks.
-
 
 <div class="separator" style="clear: both; text-align: left;">
 
@@ -184,7 +150,6 @@ href="http://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html"
 target="_blank">times</a> about it. I've always thought that it would
 make a great workshop and now I got the time to try it.
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 <div class="separator" style="clear: both; text-align: left;">
@@ -195,9 +160,7 @@ target="_blank">excellent one page summary</a> of the book. It's free
 and requires a login to access and that you have read the book to
 understand. Here's my presentation:
 
-
 <div class="separator" style="clear: both; text-align: left;">
-
 
 <div style="margin-bottom: 5px;">
 
@@ -209,7 +172,6 @@ the Switch framework in Action</a>** from
 **<a href="http://www.slideshare.net/marcusoftnet" target="_blank">Marcus
 Hammarberg</a>**
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 My idea was to go through all of the aspects of change Switch is
@@ -217,10 +179,7 @@ mentioning and try to come up with ideas around each one of them. And
 that was what we did. But first, a short intro to the ideas in Switch,
 or the rest of this blog post will be silly.
 
-
 ### What is Switch?
-
-
 
 The authors talk about the human psyche being like a rider and an
 elephant going down a jungle path.
@@ -235,8 +194,6 @@ elephant going down a jungle path.
     happen. Is it full of distractions? Is it easy to follow? Is there a
     path or do they have to make one?
 
-
-
 To maximize the possibility of change to happen you have to address the
 rider and the elephant and help to form the path. To me the ideas in
 Switch is a thinking framework. Different aspects that you can think
@@ -244,30 +201,16 @@ about how to tackle change. We can come up with only one idea and that
 might work. But if we make sure to address all the parts of the Switch
 framework we have a much higher chance to make change happen.
 
-
-
-
-
-
 The book is awesome and full of inspirational stories about how people
 have directed the rider, motivated the elephant and shaped the path.
 
-
 ### Back to the workshop
-
-
 
 I used that in my workshop by telling one of these stories before we
 dived in. It worked... not flawlessly but it worked. It's of course a
 lot to take in.
 
-
-
-
-
-
 We created a one page whiteboard picture to gather our thoughts:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -277,14 +220,10 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-X_c5tEyQ704/UyZ0nguwvmI/AAAAAAAACFo/YERjuwDisXo/s1600/2014-03-11+15.38.42.jpg"
 data-border="0" width="400" height="300" /></a>
 
-
-
-
 And then we <a href="http://martinfowler.com/bliki/DotVoting.html"
 target="_blank">dot voted</a> to get a list of the thing we would make
 the biggest difference. Here is our list, with two of the items being
 crossed over already;
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -294,22 +233,13 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-hn6e2czaSic/UyZ0vNusrkI/AAAAAAAACFw/J0-aqvQhu-w/s1600/2014-03-14+09.53.03.jpg"
 data-border="0" width="320" height="240" /></a>
 
-
-
-
 Two of the things that we have start doing have actually made a
 difference already.
-
-
-
-
-
 
 The first thing is that we're talking about "WE" and never "THEM", "YOU"
 or "US" in our reminder communication. I'm really proud of the team to
 come up with this. Here's our summary, that we've posted above the
 board:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -318,9 +248,6 @@ href="http://1.bp.blogspot.com/-pImUB2XAOEI/UyZ1RKo6w8I/AAAAAAAACF4/wjufF9DfVUU/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-pImUB2XAOEI/UyZ1RKo6w8I/AAAAAAAACF4/wjufF9DfVUU/s1600/2014-03-14+09.52.55.jpg"
 data-border="0" width="240" height="320" /></a>
-
-
-
 
 And here's how a reminder email can look like, following that advice:
 
@@ -363,12 +290,10 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-m2QXZ9fcWO8/UyZ3TUr2A2I/AAAAAAAACGE/wmI2cMn1Qps/s1600/2014-03-17+11.13.45.jpg"
 data-border="0" width="240" height="320" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 That is showing the number of calls we do each day as well as showing
 how many days behind (76) we are compared to the goal (1).
-
 
 <div class="separator" style="clear: both; text-align: left;">
 
@@ -377,13 +302,7 @@ how many days behind (76) we are compared to the goal (1).
 We will be continuing working with the other things we came up with as
 well.
 
-
 ### Summary
-
-
-
 
 Oh, man! This was a long post. I hope I didn't bore you totally with
 that. We learn. We improve. That's the summary of all of this.
-
-

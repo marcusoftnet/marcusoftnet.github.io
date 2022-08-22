@@ -102,7 +102,6 @@ simulation - less is more!</a>** from
 **<a href="http://www.slideshare.net/marcusoftnet" target="_blank">Marcus
 Hammarberg</a>**
 
-
 When you ready, start the timer and go as fast as you can. Remember to
 time it takes to finish each column as well as the time it takes to
 finish all three. Go!
@@ -203,4 +202,3 @@ to the next?
 
 God bless you in your strives to become more and more effective in doing
 the MOST good.<span class="Apple-tab-span" style="white-space: pre;">
-

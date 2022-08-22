@@ -19,6 +19,7 @@ What I write about below only requires jQuery, and that's mostly for convience.
 As with most things I learn it's based on others knowledge that I just tweak and in this case I found a [GREAT article](https://mjau-mjau.com/blog/ajax-universal-analytics/) that contained much of the information I need, but didn't take me all the way. Go ahead and read it now!
 
 # Infrastructure
+
 The first thing we did, based on the article above, was to create a custom javascript function for Google Analytics tracking. Here is where we ended up:
 
 ```javascript
@@ -40,6 +41,7 @@ $.getScript('//www.google-analytics.com/analytics.js'); // jQuery shortcut
 * This is set and passed to the <code>ga</code> function which tracks it, asynchronously, to [Google Analytics](http://google.com/analytics)
 
 # Updated version
+
 After some great comments by [Jim Geurts](https://twitter.com/jgeurts?lang=en) I understand that our solution went against the recommendations from the Google Analytics team. Our code is, and I quote Jim;
 
 <blockquote>creates a new tracker every time you track a pageview.</blockquote>
@@ -75,14 +77,17 @@ The rest of the article works as described below, and was to my joy not needed t
 Thanks Jim.
 
 # Using it
+
 Now, this is where that article leaves us. And at least I felt a little bit abandoned at this point. Because now we need to use it... on A LOT of place. And I didn't really felt like writing a <code>onClick="ga()"</code> on every thing click-able in our page.
 
 ## The easy use
+
 The first place we should use this function is on the main page of the application, in my case <code>index.html</code>. This is the tracking of your grandfathers, tracking the loading a new page.
 
 Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
+
 ```html
-	<script>
+ <script>
       gaTrack("/", "Beranda");
     </script>
 </body>
@@ -93,9 +98,11 @@ Here's my code for that, placed just above the <code>&t;/body&gt;</code>-tag:
 Well, that was easy.
 
 ## Catch'em all
+
 However, the problem is that once the page is downloaded there is no reload of the <code>index.html</code>. That's the whole idea of a SPA, right? How to track all the client-side navigation then?
 
 First problem to solve is to catch all the things that's clicked on our page. Here jQuery comes to our help. For us, all things click-able are <code>a</code>-tags so we could write the following function:
+
 ```javascript
 $("a").click(function(evt) {
   // tracking code here
@@ -103,13 +110,17 @@ $("a").click(function(evt) {
 ```
 
 However, there are other ways to track this, should you have other tags that recieve clicks. For example you could catch all clicks in the main div, or even body tag, if you give it an id or a class. Let's say that your main div is defined like this <code><div id="main"></code>, then you can write the following function to "catch" all clicks:
+
 ```javascript
 $("#main").click(function(evt) {
   // tracking code here
 });
 ```
+
 ## Now let's track'em
+
 To track it we can simply use the <code>gaTrack(path, title)</code> we created before:
+
 ```javascript
 $("a").click(function(evt) {
   var path = evt.currentTarget.pathname + evt.currentTarget.hash;
@@ -121,6 +132,7 @@ $("a").click(function(evt) {
 On line 2 we simply pull the <code>pathname</code> and the <code>hash</code> from the <code>currentTarget</code> which is the item clicked. This will be the <code>page</code> that we send to Google Analytics.
 
 Line 3 requires a little more explanation. Should the <code>a</code>-tag contain text we use that from the <code>.text</code> property. Here's an example of such a link:
+
 ```html
 <a class="page-scroll" href="#articles">Artikel</a>
 ```
@@ -128,6 +140,7 @@ Line 3 requires a little more explanation. Should the <code>a</code>-tag contain
 However, sometimes the <code>a</code>-tag wraps a lot of other things, divs and images etc. and in that case we will get that html-code in the <code>.text</code>-property.
 
 Here's such an example:
+
 ```html
 <a href="#article-{{ article.slug }}" class="modal-link" data-toggle="modal">
     <div class="list-item-hover">
@@ -142,6 +155,7 @@ Here's such an example:
 The simple solution for us was just to add a <code>title</code>-attribute on the <code>a</code>-tag. This is a good practice anyway since that will displayed when the user hovers over an image for example.
 
 Here's an example on how that can look:
+
 ```html
 <a href="#article-{{ article.slug }}" title="{{ article.title }}" class="modal-link" data-toggle="modal">
 ```
@@ -153,4 +167,5 @@ var title = evt.currentTarget.title || evt.currentTarget.text;
 ```
 
 # Summary
+
 With these simple functions we got very simple, client-side Google Analytics tracking on a granularity level of our choice.

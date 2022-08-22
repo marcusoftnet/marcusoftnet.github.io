@@ -117,7 +117,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s320/Screen+shot+2010-10-15+at+12.34.49.png"
 data-border="0" width="320" height="75" /></a>
 
-
 Yeah! That looked good. “Let’s run that and see where it leads us” – he
 said to himself and ran the tests.
 It failed! Or actually it was inconclusive. Which was no big surprise to
@@ -161,7 +160,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD53iDwcI/AAAAAAAAAnU/JCPsRuGJukU/s320/Screen+shot+2010-10-15+at+12.53.51.png"
 data-border="0" width="320" height="257" /></a>
 
-
 “Great” – Marcus thought to himself “ with this in place I can change
 the app.config file to point to the root of my application.” He added an
 app.config that contained some settings and a RootUrl-key.
@@ -174,7 +172,6 @@ href="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD6C3iJmI/AAAAAAAAAnY/DDtH95aFEmE/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD6C3iJmI/AAAAAAAAAnY/DDtH95aFEmE/s1600/Screen+shot+2010-10-15+at+13.00.44.png"
 data-border="0" /></a>
-
 
 And with that in place Marcus ran the tests again. A browser flashed
 before his eyes… It was an Internet Explorer but he couldn’t see the
@@ -189,7 +186,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD6bgPauI/AAAAAAAAAnc/DDDi8m2riAo/s320/Screen+shot+2010-10-15+at+13.04.53.png"
 data-border="0" width="320" height="98" /></a>
 
-
 <div
 id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:2068d381-1444-4f17-94ae-db08182ef93a"
 class="wlWriterEditableSmartContent"
@@ -197,7 +193,6 @@ style="display: inline; float: none; margin: 0px; padding-bottom: 0px; padding-l
 
 Technorati Tags:
 <a href="http://technorati.com/tags/BDD" rel="tag">BDD</a>,<a href="http://technorati.com/tags/SpecFlow" rel="tag">SpecFlow</a>,<a href="http://technorati.com/tags/.NET" rel="tag">.NET</a>
-
 
 But the step passed but didn’t do the right thing. There is no website
 there. Hmmm – I’ll better add the website and see that it still works.
@@ -219,7 +214,6 @@ href="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD7DWTzlI/AAAAAAAAAnk/LNuKYhfhSdA/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD7DWTzlI/AAAAAAAAAnk/LNuKYhfhSdA/s320/Screen+shot+2010-10-15+at+13.17.59.png"
 data-border="0" width="320" height="200" /></a>
-
 
 He stored that setting in the project, by setting the Specific Port
 radio button on the Web-properties for the ASP.NET MVC project. He then
@@ -245,7 +239,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD66jXiMI/AAAAAAAAAng/zBMAIuh7I9M/s320/Screen+shot+2010-10-15+at+13.09.56.png"
 data-border="0" width="320" height="42" /></a>
 
-
 Again Marcus needed to add the automation that would actually do the
 things that the step said: check that no listed feature has status Done.
 The simplest solution to that for now is to search for the phrase
@@ -263,7 +256,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/_TI0jeIedRFk/TLiD-6S4M4I/AAAAAAAAAoI/224-sllKgRs/s320/Screen+shot+2010-10-15+at+15.23.20.png"
 data-border="0" width="320" height="85" /></a>
 
-
 When the test were ran this time they fail. Yes failure is our friend –
 no we can write some production code:
 
@@ -274,7 +266,6 @@ href="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD8loF5iI/AAAAAAAAAnw/PbQkNyDwGog/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TLiD8loF5iI/AAAAAAAAAnw/PbQkNyDwGog/s320/Screen+shot+2010-10-15+at+13.36.59.png"
 data-border="0" width="320" height="49" /></a>
-
 
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Let’s write an
@@ -298,7 +289,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD86DxKzI/AAAAAAAAAn0/hhuei5o5HAM/s320/Screen+shot+2010-10-15+at+13.53.09.png"
 data-border="0" width="320" height="85" /></a>
 
-
 With <a href="http://en.wikipedia.org/wiki/Test-driven_development"
 target="_blank">TDD</a> Marcus started fleshed out the structure of the
 HomeController and it’s index-method. Still amazed on how well this
@@ -320,7 +310,6 @@ href="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD9_SP0sI/AAAAAAAAAoA/9Rw-3eIvp-Y/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD9_SP0sI/AAAAAAAAAoA/9Rw-3eIvp-Y/s400/Screen+shot+2010-10-15+at+14.28.12.png"
 data-border="0" width="400" height="186" /></a>
-
 
 ### Better check with the specifications
 
@@ -344,9 +333,7 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD9vr-FyI/AAAAAAAAAn8/COSRBVFFdiM/s320/Screen+shot+2010-10-15+at+14.23.07.png"
 data-border="0" width="320" height="60" /></a>
 
-
 <div class="separator" style="clear: both; text-align: center;">
-
 
 And now it fails as it should. Marcus went on  to add that title to the
 View. “I’ll hardcoded into the view. It will never change” – he laughed
@@ -363,7 +350,6 @@ href="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD-b6W9WI/AAAAAAAAAoE/h0lfMu8tBTc/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD-b6W9WI/AAAAAAAAAoE/h0lfMu8tBTc/s320/Screen+shot+2010-10-15+at+15.08.03.png"
 data-border="0" width="320" height="234" /></a>
-
 
 “Back to the specs” – Marcus said out loud. He ran them and they failed
 but this time as he expected. On Assertion when not finding the
@@ -383,7 +369,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/_TI0jeIedRFk/TLiD_LWLtWI/AAAAAAAAAoM/fWNvBOh5CdI/s320/Screen+shot+2010-10-15+at+15.24.56.png"
 data-border="0" width="320" height="97" /></a>
 
-
 that looked like this when rendered in the browser:
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -393,7 +378,6 @@ href="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD_VEZT7I/AAAAAAAAAoQ/qqg5cL8LSQ0/
 data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/_TI0jeIedRFk/TLiD_VEZT7I/AAAAAAAAAoQ/qqg5cL8LSQ0/s320/Screen+shot+2010-10-15+at+15.26.09.png"
 data-border="0" width="320" height="162" /></a>
-
 
 Marcus looked at his watch. Not even lunch yet… “Maybe I’ll start
 writing the second scenario now. It will probably be faster” – he dived

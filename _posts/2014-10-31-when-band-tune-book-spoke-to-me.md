@@ -35,7 +35,6 @@ most cases.
 What happened this time was Gods way of saying: I got you, man. Keep
 going. I've got you.
 
-
 I brought forth the trusty old Salvation Army Band Tune Book, where the
 music to all the songs the Salvation Army use can be found. I flipped
 through some pages and ended up on song number 544. There's 3-5 songs
@@ -45,7 +44,7 @@ created all things.
 
 > Then sings my soul, my saviour God to thee
 
-> How great Thou art. 
+> How great Thou art.
 
 The next song is an old english song called: I know a fount. Here's the
 frist verse:
@@ -53,7 +52,7 @@ frist verse:
 > Say, are you weary? Are you heavy laden?
 > Burdened with sorrow, weighted down with care?
 > Are you in bondage? Do you want deliverance?
-> Come, then, with me, there is refuge from despair. 
+> Come, then, with me, there is refuge from despair.
 
 And the chorus talks about burden being lifted by the grace and mercy of
 Jesus scarifice for me. That I didn't deserved:
@@ -61,7 +60,7 @@ Jesus scarifice for me. That I didn't deserved:
 > I know a fount where sins are washed away,
 > I know a place where night is turned to day;
 > Burdens are lifted, blind eyes made to see;
-> There's a wonder-working power in the blood of Calvary. 
+> There's a wonder-working power in the blood of Calvary.
 
 At this point I was filled with God presence. I felt so warm, cared for
 and lifted in my spirit. The next song: "Just where He needs me":
@@ -77,5 +76,4 @@ message is; I know God knows. He showed his care for me. I know he's
 raising me up to serve Him joyfully. I know that he needs me where I
 am.
 
-The blog will now go back to normal type of posts. 
-
+The blog will now go back to normal type of posts.

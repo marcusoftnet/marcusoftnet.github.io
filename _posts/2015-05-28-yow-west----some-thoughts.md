@@ -36,6 +36,7 @@ And there was other things from the past that is making a come back;
 * I saw a really cool specification technique using [state diagrams](http://en.wikipedia.org/wiki/State_diagram#Harel_statechart). From the 1980-ies.
 
 # My talks
+
 I did two talks at the conferences and you can find them here:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ixGqdV7wyY2tQm" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/kanban-in-action-yow-west-2015" title="Kanban in Action - YOW West 2015" target="_blank">Kanban in Action - YOW West 2015</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
@@ -43,6 +44,7 @@ I did two talks at the conferences and you can find them here:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/EtEkIhg8ITjOEY" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/impact-mapping-yow-west-2015" title="Impact mapping @ YOW West 2015" target="_blank">Impact mapping @ YOW West 2015</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 
 # Overall impression
+
 People. The people that I met, talked and interacted to what was made the conference great. As always.
 
 But that would not have happened without great organization and facilitation.

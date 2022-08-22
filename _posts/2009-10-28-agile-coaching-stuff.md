@@ -17,12 +17,12 @@ I stumbled over a great resource for agile coaches,
 first page put you off – there some really great and fun stuff inside.
 For example:
 
--   <a
+- <a
     href="http://www.agilecoach.net/coach-log/starting-out-with-a-new-team/"
     target="_blank">Starting with a new Team</a>
--   <a href="http://www.agilecoach.net/coach-tools/" target="_blank">Coach
+- <a href="http://www.agilecoach.net/coach-tools/" target="_blank">Coach
     tools</a>
--   <a href="http://www.agilecoach.net/coach-log/" target="_blank">The Coach
+- <a href="http://www.agilecoach.net/coach-log/" target="_blank">The Coach
     log</a> – how to do agile coaching
 
 I know I will be spending a lot of time here.

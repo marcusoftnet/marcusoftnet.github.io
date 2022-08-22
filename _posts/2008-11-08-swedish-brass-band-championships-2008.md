@@ -32,6 +32,6 @@ one. They meet every week and rehears very serious. They could do it.
 
 So here is the probable order:
 
-1.  First: [Windcorp Brass band](http://www.windcorpbrassband.se/)
-2.  Second: [Stockholm Brass Band](http://www.stockholmbrass.se/)
-3.  Third: [Solna Brass](http://www.solnabrass.com/)
+1. First: [Windcorp Brass band](http://www.windcorpbrassband.se/)
+2. Second: [Stockholm Brass Band](http://www.stockholmbrass.se/)
+3. Third: [Solna Brass](http://www.solnabrass.com/)

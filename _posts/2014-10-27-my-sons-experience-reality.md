@@ -19,14 +19,13 @@ The one talk that made the most impact of me have to be "Embrace
 Uncertainty" by Dan North. If you haven't seen it... ~~You're dead to
 me~~ Please view it now!
 
-
 [Dan North - Embracing Uncertainty](http://vimeo.com/43603453) from [NDC
 Conferences](http://vimeo.com/ndcoslo) on [Vimeo](https://vimeo.com/).
 
 The thing that stuck the most for me in there was the short, and
 depressing, sentence:
 
-> We are rather wrong than uncertain. 
+> We are rather wrong than uncertain.
 
 Meaning simply that we would rather run with something that we know for
 a fact to be wrong than to live with uncertainty. We are very
@@ -94,4 +93,3 @@ would have given them other kinds of control.
 Could I?
 If I cannot have the certainty you are looking for, am I willing to
 accept other kinds?
-

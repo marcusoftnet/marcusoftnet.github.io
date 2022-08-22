@@ -19,31 +19,22 @@ id="BLOGGER_PHOTO_ID_5177219148710921666"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/R9ktYrtDxcI/AAAAAAAAASU/GFZ-Pox2QKM/s1600-h/conchango.JPG)
 
-
-
 When we started to use the Conchango template for Team Foundation Server
 i immediately got a few questions about how the states flow for the
 different work items.
-
-
-
 
 So - i know that you can get a kind of State diagram for work items but
 don't know where to get it. Apparently it's possible to see with the
 project template editor but i didn't have that.
 
-
-
-
 A short post in the Scrum for Team System forum later i got to know the
 ans were. It's possible to see via Team System Web Access. Here is how
 you do it:
 
-
--   Open Team System Web Access
--   Open a work item of the type you're interested in (a sprint backlog
+- Open Team System Web Access
+- Open a work item of the type you're interested in (a sprint backlog
     item for example)
--   In the tools-menu of the work item choose State Diagram (see
+- In the tools-menu of the work item choose State Diagram (see
     picture)
 
 Beware, though - those diagrams are not that easy to read / understand.

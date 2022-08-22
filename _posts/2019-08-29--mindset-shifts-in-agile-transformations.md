@@ -18,6 +18,7 @@ Important - as these shifts in thinking will or will not, hold your agile effort
 * Start asking some tough questions and hence rapidly increase learning.
 
 These topics are:
+
 * Shift focus from activities and utilization to value and flow
 * Realize that software development is not manufacturing and start managing in a suitable way
 * Monitor success for products or value streams rather than project or functional silos
@@ -68,6 +69,7 @@ That "small" fact has almost completely stopped two agile transformations I've b
 Shifting focus from activities to value is a fundamental change. Making it means improving the chance of success for agile teams and also means that we are focusing on the things that are valuable to our customer, employees, and stakeholders - the value we create. The outcome, not the output.
 
 ## From manufacturing to developing
+
 I once was invited to a lunch with two senior consultants at a big consulting company within the fields of energy, industry, infrastructure and information technology in Sweden. This was many years back and they wanted to know more about this weird thing called agile.
 
 I explained to the best of my ability and about 30 minutes into lunch (we ate too) one of them interrupted me and said:
@@ -115,8 +117,10 @@ That is great (or - [check out the origins or Taylor and Gannts ideas](https://b
 Allowing the team to discover and learn as fast as possible. Support them to be autonomous and free to do this discovery better.
 
 ## From functions to value streams
+
 The last shift in mindset is one of organizational paradigm
-  - Agile will promote a shift towards a product mindset. Much of the agile literature and thinking is geared towards product thinking.
+
+* Agile will promote a shift towards a product mindset. Much of the agile literature and thinking is geared towards product thinking.
 
 In my experience, this is particularly challenging to grasp and understand, in organizations that have been project-driven on top of a functionally structured organization. One where you will find a "business", an IT department and a separate operations department. Or even a development and testing department.
 
@@ -133,6 +137,7 @@ This will, of course, challenge the current structures quite a lot and might lea
 But that change is just the start because if we organize around the value stream or product, we very soon will see the need to track value, cost and other key metrics - for that value stream (or product). Typically we have, up to now, not tracked metrics like that. Departments (like IT or sales for example) often have their metrics, that cuts across all products that we sell.
 
 ## Conclusion
+
 The purpose of agile transformations is a transformation, a change of the current ways - to better support the flow of value.
 
 The goal is not agile - the goal is to improve.

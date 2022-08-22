@@ -43,7 +43,6 @@ Now to the Warren-Buffet-question: what about Item B (and all other non-prioriti
 
 ## In the real world
 
-
 Following along in the (rock-solid) reasoning of this blog post you might now think for yourself: Yes, of course. That is very clear.
 But sadly, what I've experienced and seen in my explorations of the real world is something very different:
 
@@ -53,7 +52,6 @@ But sadly, what I've experienced and seen in my explorations of the real world i
 * Item B guy (often) gets grumpy and annoyed over that "Item B never gets done - I've been waiting forever"
 
 Seriously - I see this all over. And for many years now.
-
 
 ## What would be cool to see instead
 
@@ -65,7 +63,6 @@ We could also argue that both of them are equally important, that we cannot make
 Or, which is my favourite, when we really don't know the size - then let's set a timebox; Here's 1 week worth of focused Item A work. Let's talk after that and see if we understand more about the value of it.
 
 We could, in a similar fashion, argue that Item A is WAAAAY bigger than Item B. Just look at it. It's several months worth of work. But that is no reason to yell at the team for following the priority and not doing Item B. But I would strongly recommend slicing any items that we want to spend the precious capacity of the team on, into smaller pieces than that. How about we set a rule that nothing bigger than 2 weeks can be started by the week?
-
 
 ## Summary
 

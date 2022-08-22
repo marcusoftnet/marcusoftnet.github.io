@@ -22,9 +22,11 @@ There's high and low stuff here. Some of it might not be suitable for the kind o
 <!-- excerpt-end -->
 
 # Thoughts
+
 First some thoughts and general ideas that I've found invaluable when doing exercises like this. In no particular order - i find them all equally invaluable...
 
 ## Who's here?
+
 Much of the work that needs to be done around prioritization is actually sharing understanding and learning. This one good example of the [deliberate discovery](http://dannorth.net/2010/08/30/introducing-deliberate-discovery/) that Dan North talks about.
 
 Therefor, to maximize learning and understanding, it's important to have the relevant people in the room. It means that we will not only have to have Product Owner, Business Analysts (or end users if you can get hold of them) and sponsors, but also the people that will build, test, deploy and maintain this.
@@ -36,6 +38,7 @@ A solid representation of the different perspectives on what it's going to take 
 <blockquote>Get everyone on the same bus</blockquote>
 
 ## Where to?
+
 Speaking on good start; one of the basic premises that needs to be well established in order to not loose track is where we are going. The Goal, if you want.
 
 What I've found very useful here is to steer away, as long as possible, from the technology and instead focus on the business value. Not "Improve usability in registration" or "Implement first version of feature X", although both of them are worthy goals, but rather "Improve conversation rate in the registration flow".
@@ -47,6 +50,7 @@ Even better is to already at this point give some numbers "Improve conversion ra
 <blockquote>Start with the end in mind</blockquote>
 
 ## Smaller goes first
+
 A good idea is to premier smaller things over bigger. There's many benefits from this:
 
 * Smaller things is generally faster to implement, giving us more opportunities to change our mind
@@ -67,6 +71,7 @@ Many are the times where I've got a big requirement, broken it down and then end
 <blockquote>Smaller is better - it's my biggest realization</blockquote>
 
 ## Is this scary?
+
 The same reasoning goes to how well we know this area. If we're building brand new stuff it requires a different approach and consumes more time than if it's the area of the system that we're just built. And yet another approach when this area of the code was built by someone else years ago and don't have any tests in it.
 
 This doesn't necessary mean that we don't do the lesser understood areas, only that we might need to look into it some more before we feed into our development process.
@@ -80,9 +85,11 @@ Note that I wrote *might be a waste of time* above. Maybe it's the best thing th
 <blockquote>Use the resources wisely - they are limited</blockquote>
 
 # Tools
+
 Let's become a little more concrete. Here's some tools that I've found useful in doing prioritization workshops.
 
 ## The not list
+
 A really powerful technique that helps to bring the our minds in the same zone is a not-list. Check it out as part of the [agile inception deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/), by Jonathon Rasmussen. Just a simple list of the things that we're not going to do. Now, at least.
 
 If nothing else it spurs a discussion about where the priority for the next period of time should be. You will notice that when you say:
@@ -96,6 +103,7 @@ Asking some pretty though questions is generally much nicer than being caught wi
 <blockquote>Bad news early is better than bad news later</blockquote>
 
 ## Weighted index / decision matrix
+
 Another technique that I've found very useful from time to time is what I call [weighted index](http://codebetter.com/marcushammarberg/2013/09/30/weighted-index), other refers to it a *decision matrix*. It's especially useful to evaluate many alternatives.
 
 Follow [this link for a longer blog post](http://codebetter.com/marcushammarberg/2013/09/30/weighted-index) on the topic, and a old war story.
@@ -148,6 +156,7 @@ using 2 to double the values in the first column.
 You can make this as advanced as you need, my tip is to not over-think it.
 
 ## Simple graphs
+
 Another tool that have proven useful is to let the Product Owner describe the impact that she thinks will be achieved using one of four graphs. Here's a little start cheat sheet that I've used at a big Swedish insurance company with success:
 
 ![4 simple graphs, drawn by a powerful tool called my left hand](/img/4simpleGraphs.jpg)
@@ -179,6 +188,7 @@ Of course, you could allow for empty diagrams too. But I've found that it often 
 <blockquote>Simpler is better - it's not that complicated</blockquote>
 
 ## Hypothesis driven development
+
 Somewhat related to the approach above is what Mike Burrows calls [hypothesis drive whatever](http://blog.agendashift.com/2015/12/10/hypothesis-driven-change/) ... ah prioritization in our case.
 
 Quite simply; express the feature as an experiment to validate a hypothesis. I've [blogged about how we did this in the hospital I worked with in Indonesia](/2015/11/using-the-scientific-method-on-our-board.html). In that instance we saw a much deeper understanding and thanks to that easier to prioritize between our initiatives, when we started to view what we did as experiments.
@@ -188,6 +198,7 @@ This can be used in conjunction with the [diagrams I mentioned above](#simple-gr
 A hypothesis is a "falsifiable statement", if I remember correctly, which means the statement can be proven true or false. Measured if you will. It also means that our initiatives now needs to be expressed as such. "If we remove the CAPTCHA from registration we think that we will see more users register". Such a statement is crystal clear, easy to measure and even lends itself to A/B testing to evaluate which effort is better.
 
 # Summary
+
 For me prioritization has to lot to do with understanding and learning. First of all the goals we are trying to achieve needs to be understood and then a shared understanding needs to be found on the feature level.
 
 In fact, it's a very valuable side effect of doing the prioritization; shared understanding. Or was it the other way around...?

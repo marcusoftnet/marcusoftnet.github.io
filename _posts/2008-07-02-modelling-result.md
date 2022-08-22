@@ -30,4 +30,3 @@ data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/SGs8PwZYmRI/AAAAAAAAAV
 I am really pleased with the result. It almost looks like it was drawn
 or something. Really cool colors. It is a great photographer. The model
 leaves more to wish for but you'll have to work with what you've got...
-

@@ -29,7 +29,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://www.rankopedia.com/CandidatePix/31646.gif" data-border="0"
 width="200" height="200" /></a>
 
-
 This year I've only caught a few of them, and the one I'll tell you
 about now I only heard 5 minutes of. The program was hosted by the
 former manager and coach of the Swedish National team in soccer -
@@ -94,15 +93,10 @@ of a discussion with the players, maybe even as suggestions from them.
 
 ### Software development
 
-
-
 I've never in my life written this much, or even thought this much,
 about soccer before. Let's get back to software development. What are
 the rules in our business? How can we apply this thinking in the
 software development process?
-
-
-
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
@@ -112,8 +106,6 @@ software development process?
             src="http://nrglogicblog.com/wp-content/uploads/accountable.jpg"
                     data-border="0" width="200" height="116" /></a>                     |
 |                             From http://nrglogicblog.com                              |
-
-
 
 The first thing I came to think about is estimates and predictions and
 how we hold people accountable for these.
@@ -126,14 +118,8 @@ now and the 3 hours we put in estimating this, we think it'll take us
 company wide plan and even changed on a slide that they were
 presenting!
 
-
-
-
-
-
 <a href="https://vimeo.com/43603453" target="_blank">Dan North says it
 best</a>:
-
 
 > "We would rather be wrong than uncertain"
 
@@ -198,14 +184,12 @@ There are people working with organizing the people that are doing the
 estimation in some cases. We then require one part of the organization
 to COMMIT to the estimates ... or else!
 
-
 <div style="text-align: left;">
 
 <div style="text-align: left;">
 
 These are rules that we impose on each other. With rules comes
 consequences. With consequences comes suffering.
-
 
 <div style="text-align: left;">
 
@@ -214,11 +198,9 @@ consequences. With consequences comes suffering.
 Since we are imposing the rules we can also stop using them and start
 relying on each other and work from goals and guiding stars instead.
 
-
 Finally; have any customer ever phoned you up and thanked you for those
 detailed plans? No, because they don't care about plans. They care about
 features in your software, or great service, or fast handling of their
 case or ... Never plans and estimates.
 
 Thank you Andreas for you input on this article.
-

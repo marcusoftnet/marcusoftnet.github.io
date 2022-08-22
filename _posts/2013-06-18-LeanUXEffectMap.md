@@ -51,8 +51,6 @@ be designed and styled.
 
 ### One (of many) problems with traditional user-centric work
 
-
-
 If you have come a bit further you might work user-centric in a
 traditional way (like waterfall or agile - but only in the development
 phase) and thinks that they have solved this problem. Instead of
@@ -62,12 +60,6 @@ observations and data analysis. When this is done we create design
 specifications that is tested out on the target audience and then is
 handed over to the developer that implements it.
 
-
-
-
-
-
-
 The target audience needs are mapped out. That's great. But does that
 mean that we *know* that this product, that will set us back 10 millions
 will be useful and create an impact? Hardly. The methods we UX designers
@@ -76,10 +68,7 @@ question: *How should this product be designed to be as good \[useful\]
 as possible?* but they have a hard time answering the question *Will
 people pay for or use this product?*
 
-
 ### Lean UX
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -90,7 +79,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://1.bp.blogspot.com/-8_0fODNcsQE/Ub9oQmn3VrI/AAAAAAAABhw/44Lsv73oLBQ/s320/Screen+Shot+2013-06-17+at+21.48.26+.png"
 data-border="0" width="320" height="200" /></a>
 
-
 <a href="http://www.amazon.com/gp/product/0307887898/"
 target="_blank">The Lean Startup</a> is a product development approach
 created by Eric Ries, built around the idea that instead of spend the 10
@@ -100,26 +88,16 @@ instead spend a smaller sum to build a minimal version of the product
 gain insights about the target audience, insights that you then use to
 improve and build the next version.
 
-
-
-
-
-
-
 The benefits of this approach (compared to the traditional user-centric
 approach) is that you continuously will deliver business impact and that
 you gain insights from the target audience that deep interviews have a
 hard time to get at:
-
-
-
 
 - Will the target audience use / pay for the product?
 - How will the users adjust their lives after the product, when they
     have used it for several months?
 - How will the usage of the product change over time?
 - Will the users learn how the product works?
-
 
 Since "building" might mean implementing as well as building a clickable
 prototype, UX designers and developers needs to work in parallell to be
@@ -156,12 +134,9 @@ the effect map comes in.
 
 ## Defining a MVP with an effect map
 
-
-
 Since I recently started to define a MVP with the help of my old
 favorite modell the effect map I thought I would share how I did that
 via an example.
-
 
 #### The idea - The handyman service
 
@@ -171,7 +146,6 @@ An IT-effort starts, as I said, with an idea, good or bad, about how you
 can earn or save money. Let's imagine that I'm an entrepreneur and that
 this is my idea:
 
-
 > People refurbish their houses and apartments like there's no tomorrow.
 > But there's no real good services for instructions on how to install a
 > washing machine or how to install parquet floor. I want to create a
@@ -179,8 +153,6 @@ this is my idea:
 > instructions.
 
 ### 1 -  Build an initial effect map - a hypothesis for the entire effort
-
-
 
 Ideas and visions are great, they are often interesting but not seldom
 thought all the way through. I almost every time (regardless of working
@@ -191,18 +163,9 @@ business impact (or the effect goal), our target audiences that we think
 help us reach the business impact, their needs or incentive and how we
 can support those needs.
 
-
-
-
-
-
-
 There's several benefits that can be reaped by building an effectmap
 together with the stakeholders instead of directly talk about the
 functionality of the system:
-
-
-
 
 - You reason, in a structured fashion, from business goals and target
     audiences (user centric) instead of having people sitting around and
@@ -215,18 +178,12 @@ functionality of the system:
 - It's soon clear how well you know your audience and areas where you
     need to get more information.
 
-
-
 The effect map that we create is initially built around *guesses* about
 who our target audiences are, their  needs and what we need to do to
 support them. It will make up a kind of base-hypothesis for the entire
 project.
 
-
-
 #### Effect goal - what do we want to achieve
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -237,21 +194,14 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-rSq-mf4UbJc/Ub9oQdAa9tI/AAAAAAAABhs/0T2PCSWUKpQ/s320/Screen+Shot+2013-06-17+at+21.48.20+.png"
 data-border="0" width="320" height="111" /></a>
 
-
 The first step when building an effect map is to formulate an effect
 goal. What do we want to achieve or how will we make/save money with
 this idea?
 
-
-
-
 In our example we want people to pay for a service with instructions
 for DIY'ers.
 
-
 #### Target audiences - WHO will contribute to the effect goal?
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -262,23 +212,13 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://3.bp.blogspot.com/-rBfOltwshP8/Ub9oQBVgxCI/AAAAAAAABho/3vVzOHV-dXQ/s200/Screen+Shot+2013-06-17+at+21.48.16+.png"
 data-border="0" width="200" height="149" /></a>
 
-
 Who will help us sell DIY'ers instructions? Well, firstly we have the
 people that will pay for the instructions. We think that both DIY'ers
 and professionals would pay for this, and we also think that these two
 groups is quite different from each other. There's also editors, someone
 have to write the instructions, right?
 
-
-
-
-
-
-
-
 #### Driving forces - what does the target audience want or need?
-
-
 
 What does the target audience need and want - which are the driving
 forces that will make them want to  contribute to the effect goal? We
@@ -286,18 +226,11 @@ think that, for example, the DIY'ers want help where ever they are, even
 when they are standing bent over a washing machine with the screw driver
 in one hand.
 
-
 #### Measures - what can we do to support those needs?
-
-
 
 This is the first time we talk about functionality, information and
 other things that will make our target audiences happy and successful.
 My entire example map looks like this:
-
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -307,16 +240,9 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-QKz38hzrKfE/Ub9oO7NaD0I/AAAAAAAABhY/tH6OfAROszE/s640/Screen+Shot+2013-06-17+at+21.48.08+.png"
 data-border="0" width="640" height="432" /></a>
 
-
 <div class="separator" style="clear: both; text-align: center;">
 
-
-
-
 ### 2 - Encircle prioritized target audiences, driving forces and measures - what is most important?
-
-
-
 
 In the next step the goal is to use this effect map hypothesis to
 prioritize. Which target audience, which driving forces and what
@@ -325,12 +251,6 @@ break off a **one** small aspect of our service that we think will be
 the key to make or save money - and that will be tested with our MVP.
 But it's not that seldom that more than one aspect that cooperate to
 make a service  or product sellable.
-
-
-
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -341,37 +261,23 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://1.bp.blogspot.com/-gA9y2lPf_cg/Ub9oPDggbhI/AAAAAAAABhg/MsVuRD2pIkI/s320/Screen+Shot+2013-06-17+at+21.47.58+.png"
 data-border="0" width="320" height="216" /></a>
 
-
 In our example we think that the **DIY:er** is the absolutely most
 important target audience. My idea was a service that turns
 towards amateurs, the DIY:ers are abundant out there and they are the
 ones that will pay for the service.
-
-
-
-
-
-
 
 We think that the most important driving force in the example is **Needs
 help fixing at home** and the most important measure is that there are
 great **graphical instructions** on how to go about to fix something in
 your house.
 
-
-
-
-
 ### 3 - Formulate a hypothesis - what is our prioritized goal?
-
-
 
 To get the correct focus when we're building our MVP (an experiment that
 validates the hypothesis) we need to formulate what should be tested
 (what is prioritized) in the form of a hypothesis. When we do that it
 will also be clear that the effect map is just built around nothing than
 a bunch of **assumptions** that need to be validated. Our hypothesis:
-
 
 > We think that DIY:ers needs help with fixing their homes and will pay
 > for instructions on how to do home refurbishing, if they get graphical
@@ -389,8 +295,6 @@ and the feature*.
 
 ### 4 - Define a MVP - what is the smallest possible thing we can build to validate the hypothesis?
 
-
-
 In the last step we define the MVP (or the experiment) itself, in order
 to start building. This can be done in different ways and in levels. The
 questions is *what is the smallest thing we can build to validate the
@@ -402,12 +306,6 @@ really would be enough to validate the hypothesis? Let's instead go for
 implementing a first version of the service that let's amateurs pay for
 graphical descriptions for home fixing.  
 
-
-
-
-
-
-
 How to the define the MVP is contextual. I like to start off from a
 number of scenarios that the service will support (step-by-step: how
 would the DIY:er get to the instruction?), draw wire frames on how the
@@ -416,7 +314,6 @@ href="http://www.agileproductdesign.com/presentations/user_story_mapping/index.h
 target="_blank">Jeff Pattons story maps</a> is an excellent way to
 interconnect the user scenarios with User stories and prioritize among
 those. Here are some example scenarios:
-
 
 - The DIY:er downloads and pays for the DIY:er application
 - The next the the DIY:er is about to install is newly bought washing
@@ -430,8 +327,6 @@ those. Here are some example scenarios:
 - Open the app again to double check which pipe-parts that is needed
 - Goes back home again and installs the machine
 
-
-
 When we have the scenarios and the user stories in place the team can
 start to take a look on how to implement them, and with a little
 developer magic we'll soon have a working DIY:er application. This
@@ -439,9 +334,6 @@ application is **not** complete, as noted before, but there for us to
 validate the hypothesis and start delivering some business value.
 
 ## Next step - measure, learn and improve
-
-
-
 
 When the first MVP is built we can start to measure the usage of it, but
 also combine that with traditional methods as deep interviews and
@@ -451,21 +343,12 @@ if we should end up with no users, well then we could get back to the
 effect map and change the base hypothesis or just abort the project all
 together.
 
-
-
-
 Every new thing we learn about the target audience is added to the
 effect map. When the next build-iteration is planned we can go back to
 the map and extract a new hypothesis. Next step maybe is to find out if
 we can make the service attractive to professionals, or we stay on our
 prioritized target audience. It all comes down to what we see give us
 the most business value, at the specific time.
-
-
-
-
-
-
 
 The new hypothesis is used to improve our product, so that the product
 in the next iteration becomes an experiment that is used to validate
@@ -481,11 +364,7 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-Y3Q5s_M79k8/Ub9oO3EmJTI/AAAAAAAABhQ/3sR52OYVvyU/s640/Screen+Shot+2013-06-17+at+21.47.48+.png"
 data-border="0" width="640" height="318" /></a>
 
-
-
 ## The best of two worlds
-
-
 
 There's a lot of gain from instead of starting with traditional methods
 instead deliver business value early, improve continuous and cooperate
@@ -494,38 +373,20 @@ of working not can be combined with traditional UX-methods and models
 like interviews, observations, user surveys and building prototypes
 etc.
 
-
-
-
-
-
-
 When we have a hypothesis and before we start building the first slice
 of the product, for example, we could run a quick user survey to do a
 first check-up if the target audience and the driving force aligns with
 what we think.
 
-
-
-
-
-
-
 You're allowed to cherry-pick from the both worlds and adjust to the
 current situation. I do that.
-
 
 ##
 
 ## Read more
 
-
-
 There's so much to write about this way of working. Luckily there's more
 than I that have done that:
-
-
-
 
 - [The UX of MVP:s](http://www.andersramsay.com/the-ux-of-mvps/) av
     Anders Ramsay
@@ -546,5 +407,3 @@ than I that have done that:
 - [Lean UX: Getting out of the deliverables
     business](http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/) av
     Jeff Gothelf
-
-

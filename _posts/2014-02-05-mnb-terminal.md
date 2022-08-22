@@ -92,4 +92,3 @@ remember that Marcus!).
 Oh yeah, I'm running the terminal in a window that covers the screen
 from top to bottom and about half the window in size. And I'm using the
 slick Pro-profile that gives it a nice transparent look.
-

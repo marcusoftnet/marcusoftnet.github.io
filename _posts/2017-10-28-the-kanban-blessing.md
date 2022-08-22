@@ -37,4 +37,3 @@ I even took the time to make a nice picture for you should you want to refer to 
 <img src="/img/thekanbanblessing.png" width="100%" alt="The kanban blessing - CC3.0 Marcus Hammarberg" />
 
 Ok - time to go home. See you again China. Thanks for everything. It was a pure joy.
-

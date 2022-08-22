@@ -38,11 +38,13 @@ About a week and a half later I bumped into Lars again and asked him how the new
 > I don't know. I'll get it next week.
 
 ## The question
+
 That is the story. Now for the question:
 
 > When was Lars happy?
 
 ## The lesson
+
 Lars was (became) happy when he could drive the car. The fact that it took two (or three) days to build was interesting but of no real value to Lars, until he could drive it.
 
 Imagine getting a car without wheels delivered to your house. Same feeling. Thanks - that was a nice car. When can I use it?
@@ -103,4 +105,3 @@ That is also why we are constantly looking to improve and find a faster flow so 
 I think it is a useful starting point for any discussion about improving the flow of value in any process. Measuring our the time our work takes (flow time) is great but the perspective of need met could be lost. That time is from "Could you please" until "Thank you very much" (Lead time).
 
 We should at least consider that perspective too. Maybe our biggest bottleneck is not building Lars's car 30 seconds faster.
-

@@ -18,10 +18,10 @@ mean the same is said for Christmas ... wonder why.
 
 Anyhow - these times are always hectic and this year is no exception;
 
--   40 years jubilee for the Vasa Corps
--   Concert with brass band
--   A lot of different meetings and committees
--   etc
+- 40 years jubilee for the Vasa Corps
+- Concert with brass band
+- A lot of different meetings and committees
+- etc
 
 But - as always - most of these are fun things to do so i am not that
 worried. Besides - spring is in the air. There is something about the

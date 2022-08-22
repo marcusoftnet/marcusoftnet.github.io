@@ -41,13 +41,8 @@ product owner to feel more "in the room":
 
 ### See and read stuff on the board
 
-
-
 This was the first thing we started with and I think most team does. Let
 me give you some helpful tips or rather things that we've tried already:
-
-
-
 
 - Web cameras doesn't work for this. The resolution is just to bad.
 - Mobile phones of later branding (my Iphone 4gs for example) has good
@@ -58,19 +53,10 @@ me give you some helpful tips or rather things that we've tried already:
 - Normal cameras also work of course - but then again you have the
     management of the photos once they are taken.
 
-
-
 The main trick is the resolution of the photo. You want something good
 enough to take one (1) picture of the board and then zoom in to read the
 details. I think about 6-8 megapixels does it. But it also has to do
 with the optics of the camera.
-
-
-
-
-
-
-
 
 We ended up buying a cheap (SEK 795, $125) digital camera (an
 <a href="http://www.imaging-resource.com/PRODS/VH210/VH210A.HTM"
@@ -79,20 +65,11 @@ target="_blank">Olympus VH-210</a>) and equipping it with an
 just blew my mind when I first heard about it: a SD-card with WiFi
 inside it! Apparently they've been around quite some time but still.
 
-
-
-
-
-
-
 You pop the Eye-Fi into you computer and then you'll go
 <a href="http://support.eye.fi/cards/start/setup-eye-fi-card/"
 target="_blank">through a wizard</a> that helps you set up the card to
 upload photos and movies to a service of your choice. Two things to note
 here:
-
-
-
 
 - You need some kind of WiFi-access for the card. This one bit us
     since the only thing we got access to was a Internet-only WiFi. No
@@ -103,38 +80,20 @@ here:
     that there's no progress indicators while using the card. So you
     don't know if you're waiting for it to upload or if it's done.
 
-
-
 The supported services (via Internet) are plentiful; Flickr, Twitter,
 Facebook, Ftp-sites (accessible from Internet, mind you) and finally the
 one we picked
 <a href="https://picasaweb.google.com/" target="_blank">Picasaweb</a>.
 When photoing a board you probably don't want to share it to everyone.
 
-
-
-
-
-
-
-
 We created a Google account for these upload and hooked him (her?) up
 to <a href="https://picasaweb.google.com/" target="_blank">Picasaweb</a>.
 We then created an album in there and had it shared with everyone in the
 group.
 
-
-
-
-
-
-
 Pretty simple and works just fine.
 
-
 #### Problems
-
-
 
 - The Olympus VH-210 needed to be REALLY close to the WiFi-router to
     work. About 1,5 meters in fact. Got **excellent** support from the
@@ -143,10 +102,7 @@ Pretty simple and works just fine.
     just leave the camera there for 10 minutes and then check picasa for
     new files.
 
-
 ### Great standups
-
-
 
 When we tried a web camera out for watching the board (don't work -
 don't try it) we ended up with a spare web camera. I bought a pretty
@@ -154,37 +110,16 @@ descent one that wasn't too pricy (699 SEK, $110) called <a
 href="http://www.webhallen.com/se-sv/hardvara/127224-creative_webcam_live_cam_socialize_hd_1080/"
 target="_blank">Creative Live Cam Social 1080</a>.
 
-
-
-
-
-
-
 We then simply hook that up to any old computer for the standup and have
 our product owner call in via Skype.
 
-
-
-
-
-
-
 It work pretty good actually.
-
-
-
-
-
-
 
 We got an extension cord for USB to be able to move the camera around to
 improve the experience. The camera has pretty descent mic actually so it
 picks up people talking in normal voice all over our team room.
 
-
 #### Problems
-
-
 
 - Someone needs to bring a computer to every standup and hook up a
     call with our PO
@@ -197,15 +132,9 @@ picks up people talking in normal voice all over our team room.
 
 ### Great presence
 
-
-
-
 Our room has a TV mounted on the wall. That gave us an idea to set up a
 kiosk where you can call into the team room. We also had a lot of the
 components to get this to work already in place. This was what we did:
-
-
-
 
 - got a computer that we installed Skype on
 - hooked the computer up to the TV and the Web Cam (with USB extension
@@ -215,27 +144,18 @@ components to get this to work already in place. This was what we did:
 - finally we set the Skype account to answer automatically (standard
     configuration in Skype) to all incoming calls from it's contacts.
 
-
-
 This means that our product owner can hook up a call directly into the
 team room at any time. We can then skid down to the screen and have a
 chat or a cup of coffee with him. Or he can just be there and hang with
 us like any other (although with a much bigger head) person.
 
-
-
 #### Problem
-
-
 
 Yet to be found - this is just beginning. I presume that
 his presence will be much more obvious and apparent than others. Will
 that be a "problem"? Maybe.
 
-
 ### Summary
-
-
 
 These we a couple of cheap investments to get the presence of an remote
 worker to be a little better. It's not optimal. Sitting together is
@@ -245,14 +165,4 @@ possible you'll have to do what you can. This was what we did.
 This would not have been possible without great help and service mindset
 from the IT-department of my client. Thanks!
 
-
-
-
-
-
-
 Love to hear your  comments for improvements or other ideas
-
-
-
-

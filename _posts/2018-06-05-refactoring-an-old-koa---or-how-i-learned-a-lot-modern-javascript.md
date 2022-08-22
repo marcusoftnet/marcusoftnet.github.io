@@ -71,16 +71,16 @@ Since then it's been included out of the box and this flag is not needed. Time t
 
 ```javascript
 "scripts": {
-	"test": "mocha -u bdd -R spec"
+ "test": "mocha -u bdd -R spec"
 }
 ```
 
 Sidenote; the strange `./node_modules/mocha/bin/mocha` reference that I have in there is not needed. `npm` can use tools in the local `node_modules`-folder without that prefix. I didn't know this at the time. Already an improvement.
 Let's run it again; `npm t` and … yes. New errors this time. Progress.
 
-This time we get an error saying something like `var skinClassName = 'Skin' + NativeClass.name; ... Cannot read property 'name' of undefined `. This has to do with a framework that I'm using to access MongoDb called [Monk](https://github.com/Automattic/monk). The [error is well-known](https://github.com/sahat/tvshow-tracker/issues/9) and has been fixed, in later versions of the framework.
+This time we get an error saying something like `var skinClassName = 'Skin' + NativeClass.name; ... Cannot read property 'name' of undefined`. This has to do with a framework that I'm using to access MongoDb called [Monk](https://github.com/Automattic/monk). The [error is well-known](https://github.com/sahat/tvshow-tracker/issues/9) and has been fixed, in later versions of the framework.
 
-Let's remove the monk-stuff and reinstall it `npm uninstall monk co-monk -S ` and then `npm install monk co-monk -S `.
+Let's remove the monk-stuff and reinstall it `npm uninstall monk co-monk -S` and then `npm install monk co-monk -S`.
 
 Then rerun the tests `npm t`. This will produce a slow-running test suite, all tests failing, because you havent started (or installed?) Mongod. Open a new terminal window or tab, and start MongoDb with `mongod`.
 
@@ -137,4 +137,3 @@ Here are all the posts in the series
 * [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
 * [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
 * [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
-

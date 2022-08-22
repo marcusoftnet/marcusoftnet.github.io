@@ -71,6 +71,7 @@ Here's some example data for you if you want to build it yourself:
 Also, imagine that this now contains the data for the last 2 years and you'll see the use of this entire exercise better.
 
 # Define the "window"
+
 To make this really dynamic let's be fancy from the outset and define the number of days our window should be in another cell, in cell ```F2``` for example:
 
 |---------------------|
@@ -82,6 +83,7 @@ To make this really dynamic let's be fancy from the outset and define the number
 This will be cool to play with in a little while, I promise.
 
 # Defining ranges
+
 In order to get this working will not use the data above directly but rather create a [named range](https://support.office.com/en-us/article/Define-and-use-names-in-formulas-4d0f13ac-53b7-422e-afd2-abd7ff379c64) that will off set the data for us.
 
 A Name, or Named range is just a variable referring to a cell or a formula that calculates a value. It's global for the entire *workbook*, which will become important later.
@@ -98,6 +100,7 @@ Defining a named range is *pretty* easy, depending on your version of Excel:
 * Click Add and OK to close the Name-dialog box. We don't have to go back there.
 
 ## Explaining the formulas
+
 The main function we're using in the formula is the ```OFFSET``` function. [Quite simply the function](:
 
 <blockquote>returns range of cells that is a specified number of rows and columns from an initial specified range. The user can specify the size of the returned cell range.</blockquote>
@@ -105,7 +108,7 @@ The main function we're using in the formula is the ```OFFSET``` function. [Quit
 The ```OFFSET``` function takes up to 5 parameters:
 
 1. The **initial cell** to start the offset from. The start point, if you like. In our case this is ```'NoPatients'!$A$1```, the first cell in that sheet.
-2.  The number of **rows** from the start (upper left) of the supplied reference (i.e. the first parameter, to the the start of the returned range. In our case this is: ```COUNTA('NoPatients'!$A:$A)-$F$2```.
+2. The number of **rows** from the start (upper left) of the supplied reference (i.e. the first parameter, to the the start of the returned range. In our case this is: ```COUNTA('NoPatients'!$A:$A)-$F$2```.
 The ```COUNTA``` counts the number of values, so this will return the number of rows down from the top our *window* should start. Using the value currently in ```$F$2``` this returns 17 for our data. Start 17 rows down, quite simply
 3. The third parameter indicates which column in the range to get the data from. This is ```0``` in our case since we're using the first (and only) column
 4. The fourth parameter is the **height** of the selection. The number of rows to select quite simple. In our example this is the value in ```$F$2```.
@@ -139,6 +142,7 @@ Right click the diagram and select "Select Data...". We're now going to add the 
 When you refer to the named range we defined before you have to use the workbook (file) name. I presume this is because the *name* that we define is global. This also means that should you have many worksheets where you want to do this kind of dynamic diagram you need to choose the names of the named range careful. For example you might have a ```NoPatients_RecentDates``` and ```CustomerSatisfaction_RecentDates``` which we do.
 
 # Playing around
+
 This is looks ok, right? Let's play around with it and make sure that it works too:
 
 * First change the ```F2``` cell to 2. See how the diagram is updated
@@ -148,6 +152,7 @@ This is looks ok, right? Let's play around with it and make sure that it works t
 * Add a trend line (right click the line and then "Add trendline"), notice how that trend is affected by the data that is shown, as you change the ```F2``` value or add / remove data. Pretty sweet.
 
 # Summary
+
 Using this technique can be very hand for a long list of data. Imagine that we track the number of patients for 18 months. We can still show a rolling window of the last 30 days. Or simply change the value and get an overview.
 
 I know that I will come back to this post many times. I hope you found it useful too.

@@ -65,19 +65,16 @@ If new work should appear that would make us break our WIP-limit we need
 to have a discussion. This is really what a WIP-limit is; a trigger for
 a discussion.
 
-
 law](<http://en.wikipedia.org/wiki/Little>'s_law) tells us that the more
 work we do, the slower each work item will take. Bringing on new work
 will in other words slow down the progress on all work a little bit. Are
 we willing to pay that "toll"? Is the "toll" so small that we feel that
 we can make this decision on our own?
 
-
 <div style="text-align: left;">
 
 we're doing. To quote [David J.
 Andersson](http://www.agilemanagement.net/) (as I remember it)
-
 
 > "Kanban allows you to become a Yes-man. You can always say 'Yes'.
 > 'Yes - we'll take this on - what should we stop doing?"
@@ -102,15 +99,10 @@ with work.
 
 ### Limit WIP doesn't mean less work done
 
-
-
 After that first point (yes, there's "First" waaay up there...) let's
 turn our attention to limiting WIP. Limiting WIP means that we decide a
 limit of the number of items that we work on **at the same time.** It's
 a team thing and doesn't say; we will do fewer items in total.
-
-
-
 
 Again - we use the tool limiting WIP to help the work that we're
 actually are working on to flow faster, and to manage more items in
@@ -118,15 +110,10 @@ as I mentioned above. It shows, very clearly, that with less work in
 process (at the same time) you not only finish each item faster but also
 the total time for all the work you do is lower.
 
-
-
-
 Finally - this is a team internal practice. It's the way that the
 factory that we're constituting is operating. We pick a limited number
 of items and try to complete them before starting anything new. That's
 our aim. We don't always succeed on sticking to it, but we try, since we
-
-
 
 When we feel the need of breaking the limit we have a discussion on why
 and the benefits versus the cost of taking on more work. All we really
@@ -134,13 +121,10 @@ want is to make informed decisions. We can decide to slow the system
 down for a while, in favor of expediting another critical item, for
 example.
 
-
-
 In that regard the stakeholder outside the team is probably not
 interested in WIP limits. Just like I don't care how the internals of a
 computer works. As long as it works and does it's job I really do not
 want to know about the inner workings.
-
 
 ### Conclusion
 
@@ -148,15 +132,8 @@ This was a really long way of saying; WIP limits are not fast rules,
 they are triggers for discussions. We use them to improve the flow
 through the system.
 
-
-
-
 Limiting WIP does NOT mean that your doing less work in total. Just that
 you're doing less work at the same time.
 
-
-
 (outside the team) doesn't even care. They want features, as fast as
 possible with great quality.  
-
-

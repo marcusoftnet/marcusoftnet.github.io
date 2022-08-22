@@ -27,16 +27,16 @@ me. Just add a reference to a WCF-service and check your client
 So what to do - well I'm sorry but you'll need to know quite a bit of
 information, here are some resources that I have found useful:
 
--   The book <a href="http://oreilly.com/catalog/9780596526993/"
+- The book <a href="http://oreilly.com/catalog/9780596526993/"
     target="_blank">Programming WCF Service</a> (Chapter 1 and 10 on
     these subjects. Buy it - you'll need it!
--   <a href="http://www.devx.com/codemag/Article/33342"
+- <a href="http://www.devx.com/codemag/Article/33342"
     target="_blank">Fundamentals of WCF Security</a>
--   The excellent tool for WCF-configuration in Visual Studio...
+- The excellent tool for WCF-configuration in Visual Studio...
     (Christer Cederborg tipped me on this one, thanks). Go to
     Tools-\>WCF Service Configuration Editor and you'll get a lot of
     help when you configure your service and clients...
--   Here is <a
+- Here is <a
     href="http://www.winterdom.com/weblog/2007/02/12/WCFConfigurationComplexity.aspx"
     target="_blank">another great introductionary article</a> to the
     subject

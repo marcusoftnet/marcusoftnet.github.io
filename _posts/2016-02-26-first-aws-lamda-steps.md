@@ -18,6 +18,7 @@ In this post I wanted to describe how I got started with Claudia and Lambdas. It
 <!-- excerpt-end -->
 
 # Getting off the ground with Claudia Js
+
 <blockquote>Claudia helps you deploy Node.js micro services to Amazon Web Services easily. It automates and simplifies deployment workflows and error prone tasks, so you can focus on important problems and not have to worry about AWS service quirks.</blockquote>
 
 I have to say, after just a day or two of working with Claudia, that it's a smooth ride. Many of the [things that it helps me](https://github.com/claudiajs/claudia/blob/master/README.md) with are things that I didn't know was a problem in the first place.
@@ -27,9 +28,10 @@ The command line interface is intuitive and the documentation is easy to follow.
 Also, luckily for us it's just a <code>npm</code> package that we can install, but don't do that just yet...
 
 ## Setting up your environment
+
 AWS Lambda, for some reason, runs on an ancient version of Node. 0.10.36, released in January 2015.
 
-Ok, that's a small thing to fix by using the [nvm tool](https://www.npmjs.com/package/nvm). Install this tool (<code>curl http://nvm-latest.herokuapp.com | bash</code>, for example) and then run the following command
+Ok, that's a small thing to fix by using the [nvm tool](https://www.npmjs.com/package/nvm). Install this tool (<code>curl <http://nvm-latest.herokuapp.com> | bash</code>, for example) and then run the following command
 
 ```bash
 nvm install v0.10.36
@@ -38,6 +40,7 @@ nvm install v0.10.36
 Great - now you can easily switch (<code>nvm use v0.10.36</code>) to this version of Node when you want to do Lambda development.
 
 ## Setting up AWS
+
 You need an account for AWS of course. It's free to get started, just head over to [https://aws.amazon.com/](https://aws.amazon.com/) and create one now. I'll wait right here. It's a funky telephone-based authentication in the end that you'll find pretty cool.
 
 Ok, great! Now set up a file with your [AWS credentials](https://console.aws.amazon.com/iam/home#security_credential) so that you don't have to write them over and over when you deploy your functions.
@@ -58,11 +61,13 @@ aws_secret_access_key = <AS IF I'D TELL YOU ABOUT THESE>
 ```
 
 ## Install Claudia
+
 Now we can install Claudia with the familiar command <code>npm install claudia -g</code>.
 
 We are ready to code!
 
 # Our first API
+
 Let's get something up there!
 
 Although you can run most any Node code in Lambda (i think ... that will be another post)  we are going to use another little Claudia helper - [claudia-api-builder](https://www.npmjs.com/package/claudia-api-builder).
@@ -70,6 +75,7 @@ Although you can run most any Node code in Lambda (i think ... that will be anot
 This is NOT required to use Claudia, the Lambda deployment tool, but is very handy to quickly get an easy web API in place.
 
 ## Initialization
+
 Create a new directory and do some init stuff:
 
 ```bash
@@ -113,6 +119,7 @@ Quite simply this creates little api for us that will respond to GET request to 
 At the end we simply return a string with the greeting. Simple stuff and a lot like [KoaJs](http://app.pluralsight.com/courses/javascript-koa-introduction), saved the cool generator stuff.
 
 ## Create it in the cloud
+
 It's now time to use Claudia for to do some boring setup stuff for us. You can read about the <code>claudia</code> command by <code>claudia --help</code>.
 
 We are now going to use <code>claudia create</code>, which will create a new lambda function for us, as well as creating an API in the ApiGateway.
@@ -158,21 +165,23 @@ If everything went well, you'll see some nice output from <code>claudia</code> t
 This is the content of the <code>claudia.json</code> that <code>claudia</code> created, which means that your service is created and waiting for you to access it.
 
 ## Running the lambda
+
 Now that we are going to run this function in the cloud we will also start to realize how much work <code>claudia</code> made for us behind the scenes.
 
 First open up the [AWS Console](https://console.aws.amazon.com/) (yes that screen is scary. Look away!) and go to the [API Gateway](https://console.aws.amazon.com/apigateway/home). Here's you'll find the first thing <code>claudia</code> did: created a API endpoint for us.
 
 Click the "aLittleGreeter" link of your API and browse around a bit if you want. Or just click the <code>Resources</code> menu and select <code>Stages</code>. This is the next thing <code>claudia</code> did: created a stage called <code>latests</code> which is the endpoint where the latest version of your function will be.
 
-Click the "latests" link and you'll can see a URL to your function: <code>https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest</code> for example.
+Click the "latests" link and you'll can see a URL to your function: <code><https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest></code> for example.
 
 By accessing this URL we can call our function. Remember that our API responds to HTTP GET (<code>api.get</code>) and that we expect the URL to end in <code>"/hello/{name}"</code>.
 
-Copy the URL and paste it in a browser (which issues GETs) and append <code>/hello/Marcus</code> (or your name if you want). The full URL for me is: <code>https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest/hello/Marcus</code>.
+Copy the URL and paste it in a browser (which issues GETs) and append <code>/hello/Marcus</code> (or your name if you want). The full URL for me is: <code><https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest/hello/Marcus></code>.
 
 If everything worked as planned you should see an epic message on the screen. You now have a little lambda in the cloud. Scaling to whatever traffic you send to it!
 
 ## Find your way
+
 If you never used AWS before I can be quite overwhelming, so I thought I'll give you some nice pointers that can be useful. I know that it can be overwhelming since I was overwhelmed about 2 days ago... fresh learnings ahead!
 
 * The API is managed at [https://console.aws.amazon.com/apigateway](https://console.aws.amazon.com/apigateway) and offers a lot of useful settings and tools, including a little testing feature where you can configure test request for your API.
@@ -181,10 +190,12 @@ If you never used AWS before I can be quite overwhelming, so I thought I'll give
 
 I suggest that you browse around those areas a bit since it's both pretty cool stuff and also useful to know what can be done.
 
-## Gotchas!
+## Gotchas
+
 Here's a few things that confused me when I got this simple example up and running.
 
 ### Create and update
+
 If you are anything like me; you probably messed up somewhere in there. This means that you want to deploy again and hence run <code>npm run claudia:deploy</code> again.
 
 [Wah-wah-wah](http://www.sadtrombone.com/?autoplay=true).
@@ -215,6 +226,7 @@ I created a <code>package.json</code> script for it too:
 Now when you change your code you can simply push the new version with <code>npm run claudia:deploy</code>
 
 ### "Missing authentication token"
+
 Another error that I spent some time trying to understand was this:
 
 ```json
@@ -228,6 +240,7 @@ This happens if you use a faulty URL, for example forget to add the <code>/hello
 What AWS is trying to say is that there is no endpoint at the URL. It just does it badly.
 
 # For now
+
 This post grew much longer than I first anticipated. I'll write another with something way cooler - us saving data in the AWS datastore - [DynamoDb](https://console.aws.amazon.com/dynamodb).
 
 I hope you found this useful so far - see you in the next post.

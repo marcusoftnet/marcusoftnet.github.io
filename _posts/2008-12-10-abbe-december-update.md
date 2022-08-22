@@ -35,7 +35,7 @@ alt="He is not great but taking lessons as you can see" />](http://lh6.ggpht.com
 src="http://lh3.ggpht.com/_kkDJOSPNTLs/ST7p0oXWTbI/AAAAAAAAAZI/EMjKy0VMz2w/DSC_0058_thumb%5B1%5D.jpg?imgmax=800"
 style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px"
 data-border="0" width="226" height="331"
-alt="Apples are his favorite fruit" />](http://lh3.ggpht.com/_kkDJOSPNTLs/ST7pzuh6tVI/AAAAAAAAAZE/JuSWW0Hxgvg/s1600-h/DSC_0058%5B3%5D.jpg) 
+alt="Apples are his favorite fruit" />](http://lh3.ggpht.com/_kkDJOSPNTLs/ST7pzuh6tVI/AAAAAAAAAZE/JuSWW0Hxgvg/s1600-h/DSC_0058%5B3%5D.jpg)
 
 [<img
 src="http://lh6.ggpht.com/_kkDJOSPNTLs/ST7p6TtK5mI/AAAAAAAAAZU/_TVhsuqmXcw/DSC_0062_thumb%5B1%5D.jpg?imgmax=800"

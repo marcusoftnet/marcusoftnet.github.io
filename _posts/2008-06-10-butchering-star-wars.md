@@ -23,4 +23,3 @@ Said and done - this clip is now a legendary clip on YouTube with about
 <div align="left">
 
 I don't even put it in the music-category as you might understand...
-

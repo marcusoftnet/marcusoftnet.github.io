@@ -83,7 +83,7 @@ Here are the commands I ran to get started:
 
 7. By running `npm t` i linted and ran the first test
 
-8. I created a `.gitignore` from the excellent https://www.gitignore.io/
+8. I created a `.gitignore` from the excellent <https://www.gitignore.io/>
 
 9. Finally, I initialized git and made a first commit `git init` initial commit
 
@@ -182,9 +182,9 @@ module.exports.single = (number) => {
 
 * Ah well...
 
-- No production code changed... Hence I returned a constant of `1`.
-  - And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
-- Lost documentation (i.e. this blog post) too. This was the point where I decided to move the documentation from ReadMe.md in the repository to a separate blog post.
+* No production code changed... Hence I returned a constant of `1`.
+  * And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
+* Lost documentation (i.e. this blog post) too. This was the point where I decided to move the documentation from ReadMe.md in the repository to a separate blog post.
 
 ### Second test run - second try
 
@@ -205,6 +205,7 @@ module.exports.single = (n) => {
   return n.toString()
 }
 ```
+
 **Feeling before tcr-command**: Careful optimistic but still held my breath during the run.
 
 **Result**: Passed and commit.
@@ -235,7 +236,7 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- Passed and commit.
+* Passed and commit.
 
 ### Third test run
 
@@ -260,8 +261,8 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- FAILED! I asserted for '3' in the test and not 'Fizz'...
-- Rewrote and works
+* FAILED! I asserted for '3' in the test and not 'Fizz'...
+* Rewrote and works
 
 ### Fourth test run
 
@@ -288,7 +289,7 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- Passed and commit
+* Passed and commit
 
 ### Fifth test run
 
@@ -315,7 +316,7 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- Passed and commit
+* Passed and commit
 
 ### Sixth test run
 
@@ -342,8 +343,8 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- AND BLEUAH - it failed... because I checked for exactly 3, 5 and 3 and 5... I didn't check for things _divisible_ with 3 or 5
-- IDIOT - I needed more cases for Fizz and Buzz
+* AND BLEUAH - it failed... because I checked for exactly 3, 5 and 3 and 5... I didn't check for things *divisible* with 3 or 5
+* IDIOT - I needed more cases for Fizz and Buzz
 
 ### Seventh test run
 
@@ -368,12 +369,12 @@ module.exports.single = (n) => {
 
 **Feeling before tcr-command**:
 
-- Pretty nice to start over actually
-- A bit nervous
+* Pretty nice to start over actually
+* A bit nervous
 
 **Result**:
 
-- Passed
+* Passed
 
 ### Eight test run
 
@@ -397,11 +398,11 @@ module.exports.single = (n) => {
 
 **Feeling before tcr-command**:
 
-- Confident
+* Confident
 
 **Result**:
 
-- Passed
+* Passed
 
 ### Ninth test run
 
@@ -422,11 +423,11 @@ const isFizz = (n) => n % 3 === 0
 
 **Feeling before tcr-command**:
 
-- Pretty nervous actually. 2 rows changed in one go. What if this goes wrong?!!!
+* Pretty nervous actually. 2 rows changed in one go. What if this goes wrong?!!!
 
 **Result**:
 
-- PHEW! Still works!
+* PHEW! Still works!
 
 ### Tenth test run
 
@@ -447,11 +448,11 @@ const isFizz = (n) => n % 3 === 0
 
 **Feeling before tcr-command**:
 
-- Pretty nervous actually. 2 rows changed in one go. What if this goes wrong?!!!
+* Pretty nervous actually. 2 rows changed in one go. What if this goes wrong?!!!
 
 **Result**:
 
-- PHEW! Still works!
+* PHEW! Still works!
 
 ### Eleventh test run
 
@@ -479,12 +480,12 @@ const isBuzz = (n) => n % 5 === 0
 
 **Feeling before tcr-command**:
 
-- Pretty nervous
+* Pretty nervous
 
 **Result**:
 
-- Passed.
-- I'm done with this feature and can squash my commits into a pushable commit. I didn't not but pressed on.
+* Passed.
+* I'm done with this feature and can squash my commits into a pushable commit. I didn't not but pressed on.
 
 ### Twelvth test run
 
@@ -496,11 +497,11 @@ describe('FizzBuzz string', () => { })
 
 **Feeling before tcr-command**:
 
-- I just created a describe block and ran that. To commit it. That now became my mode of thinking: I need to test this so that it commits
+* I just created a describe block and ran that. To commit it. That now became my mode of thinking: I need to test this so that it commits
 
 **Result**:
 
-- Passed.
+* Passed.
 
 ### Thirteenth test run
 
@@ -532,11 +533,11 @@ module.exports.string = (numbers) => {
 }
 ```
 
-- **Feeling before tcr-command**: Yes. Got the nervous feeling again. There are some lines of infrastructure in there...
+* **Feeling before tcr-command**: Yes. Got the nervous feeling again. There are some lines of infrastructure in there...
 
 **Result**:
 
-- Passed.
+* Passed.
 
 ### Fourteenth test run
 
@@ -572,13 +573,13 @@ module.exports.string = (numbers) => {
 
 **Feeling before tcr-command**:
 
-- Proud of the functional style I ended up with
-- Cheated (?) by testing some parts out in the REPL
-- VERY NERVOUS about losing these beautiful lines
+* Proud of the functional style I ended up with
+* Cheated (?) by testing some parts out in the REPL
+* VERY NERVOUS about losing these beautiful lines
 
 **Result**:
 
-- FAAAILLED. NOOOO. I took too big steps
+* FAAAILLED. NOOOO. I took too big steps
 
 ### Fifteenth test run
 
@@ -620,11 +621,11 @@ module.exports.string = (numbers) => {
 
 **Feeling before tcr-command**:
 
-- Very confident now that this should work
+* Very confident now that this should work
 
 **Result**:
 
-- And it worked
+* And it worked
 
 ### Sixteenth (or so) test run - refactoring
 
@@ -660,12 +661,12 @@ module.exports = {
 
 **Feeling before tcr-command**:
 
-- Felt nice to do the fast and frequent commits
+* Felt nice to do the fast and frequent commits
 
 **Result**:
 
-- Passed
-- AND commit. I like this more and more.
+* Passed
+* AND commit. I like this more and more.
 
 ### Seventh test run
 
@@ -690,12 +691,12 @@ const string = (numbers) => {
 
 **Feeling before tcr-command**:
 
-- Confident and pretty sure this is the final implementation
+* Confident and pretty sure this is the final implementation
 
 **Result**:
 
-- Failed!? `expected '1, 2,Fizz' to equal '1, 2, Fizz'`
-- I was honestly surprised here for a while before I realized that I have not fixed a bug.
+* Failed!? `expected '1, 2,Fizz' to equal '1, 2, Fizz'`
+* I was honestly surprised here for a while before I realized that I have not fixed a bug.
 
 ### Eighteenth test run
 
@@ -717,11 +718,11 @@ const string = (numbers) => {
 
 **Feeling before tcr-command**:
 
-- This looks promising. It will work
+* This looks promising. It will work
 
 **Result**:
 
-- Worked!
+* Worked!
 
 ### Nineteenth test run
 
@@ -747,11 +748,11 @@ const string = (numbers) => {
 
 **Feeling before tcr-command**:
 
-- Confident and, again, pretty sure this is the final implementation
+* Confident and, again, pretty sure this is the final implementation
 
 **Result**:
 
-- IT WORKED and this should be it.
+* IT WORKED and this should be it.
 
 ### Twenthiet test run
 
@@ -765,11 +766,11 @@ it('the complete kata', () => {
 
 **Feeling before tcr-command**:
 
-- VERY NERVOUS - because that took some time to write.
+* VERY NERVOUS - because that took some time to write.
 
 **Result**:
 
-- IT WORKED and this is now done
+* IT WORKED and this is now done
 
 ## Summary
 

@@ -116,11 +116,11 @@ which mean VB.NET.
 
 First I downloaded everything I needed:
 
--   <a href="http://www.specflow.org/downloads/installer.aspx"
-    target="_blank">SpecFlow 1.3.4</a> 
--   <a href="http://compositewpf.codeplex.com/releases/view/46046"
+- <a href="http://www.specflow.org/downloads/installer.aspx"
+    target="_blank">SpecFlow 1.3.4</a>
+- <a href="http://compositewpf.codeplex.com/releases/view/46046"
     target="_blank">Prism 2.2</a>
--   <a href="http://white.codeplex.com/releases/view/29694"
+- <a href="http://white.codeplex.com/releases/view/29694"
     target="_blank">White 0.20</a>
 
 I then compiled Prism according to the ReadMe.txt and the “Desktop
@@ -230,7 +230,7 @@ form, you’re ready to continue on.
 The first thing I started out with was my background:
 
 > Background:
->     Given that the application is started
+> Given that the application is started
 
 To achieve this I had to find a way to start the application via White.
 

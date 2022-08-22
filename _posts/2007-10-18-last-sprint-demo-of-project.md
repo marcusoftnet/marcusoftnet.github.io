@@ -15,11 +15,11 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/last-sprint-demo-of-project.h
 Tomorrow we have the last demo of the project. It feels great when you
 think of what we have accomplished in this short while:
 
--   4-5 persons
--   6 months (including the famous Swedish <span id="SPELLING_ERROR_0"
+- 4-5 persons
+- 6 months (including the famous Swedish <span id="SPELLING_ERROR_0"
     class="blsp-spelling-corrected">vacation month of 6 weeks)
--   100 000 lines of code
--   Implementing and <span id="SPELLING_ERROR_1"
+- 100 000 lines of code
+- Implementing and <span id="SPELLING_ERROR_1"
     class="blsp-spelling-corrected">learning new architecture and
     Scrum
 

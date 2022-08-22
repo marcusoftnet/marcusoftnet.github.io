@@ -248,4 +248,3 @@ And now my answer:
 > id="goog_699323534">](https://www.blogger.com/), of course.  
 
 > Happy kanban-ing!
-

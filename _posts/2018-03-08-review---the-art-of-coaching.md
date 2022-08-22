@@ -35,4 +35,3 @@ And that might be the thing that was not spot on for me; this book is mostly abo
 If you are doing any kind of coaching or improvement work this books should give you a lot of visualizations, tools, and thoughts that will prove useful for you.
 
 Thank you!
-

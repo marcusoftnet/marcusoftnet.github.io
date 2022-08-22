@@ -45,11 +45,11 @@ she controlled all the information to. That made her feel safe. Now I
 asked her to move the <a
 href="http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html"
 target="_blank">authority to the information</a>, leaving decision power
-to someone else. That made her feel uncertain. 
+to someone else. That made her feel uncertain.
 
 > Side note here; I do this. Often. Especially with my kids. I am *not*
 > better than anyone else on this, but this little revaluation came to
-> me and I think it will help me. 
+> me and I think it will help me.
 
 [<img
 src="http://lh4.ggpht.com/-F2Xs9e6ttwA/U5FAZrusbvI/AAAAAAAAEAs/wDae8SeLwhA/jedimindtrick_thumb%25255B15%25255D.jpg?imgmax=800"
@@ -86,7 +86,7 @@ say it out loud.
 
 > No Marcus – you *trust* them. Don’t go there. They are awesome.
 
-This helps me. I hope you find it useful too. 
+This helps me. I hope you find it useful too.
 
 Oh, get the <a href="http://www.management30.com/workouts/"
 target="_blank">Management 3.0 Workout book</a>. It’s awesome and free.

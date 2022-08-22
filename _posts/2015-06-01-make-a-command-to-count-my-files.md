@@ -47,6 +47,7 @@ alias count='ls -1 | wc -l'
 Now you can close the Terminal, reboot your computer or what ever you fancy and the <code>count</code> command will still be present.
 
 # Parameterize it
+
 Now I realized that I actually have to <code>cd</code> into the directory I wanted to check. And [apparently](http://superuser.com/questions/289117/creating-an-alias-or-function-need-to-be-able-to-pass-in-a-parameter) alias doesn't support parameters to be passed.
 
 But that's easy to fix... Convert it to a function like this:
@@ -83,4 +84,5 @@ marcus$ count Projects/blog/marcusoftnet.github.io/_posts/
 Lovely!
 
 # Summarize it
+
 I love diving into stuff that I know little about. I will not make commands like this everyday but you never know when I (or you ^^) will look here again.

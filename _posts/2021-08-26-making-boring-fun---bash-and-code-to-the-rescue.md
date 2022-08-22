@@ -63,6 +63,7 @@ Ok - we now have a lot of lines like this:
 .//jsfs-lab-reactTictactoe/node_modules/pako/package.json:  "license": "(MIT AND Zlib)",
 .//jsfs-lab-reactTictactoe/node_modules/postcss-attribute-case-insensitive/package.json:  "license": "MIT",
 ```
+
 Like a lot. ≈33000. That is fun and all but even Google Sheet couldn't swallow all of that. Let's crunch it with code!
 
 ## Counting with Node
@@ -73,7 +74,7 @@ Sound functional and math-y to me...
 
 I decided to ditch bash now, and used JavaScript and Node instead, since I know it better and can make some more advanced things with it.
 
-I created a `licenseCounter.mjs` file and went to work. `.mjs` means that I'm not using CommonJs and can use stuff like `import` and`  async/await` in my code. I like that.
+I created a `licenseCounter.mjs` file and went to work. `.mjs` means that I'm not using CommonJs and can use stuff like `import` and`async/await` in my code. I like that.
 
 The initial version is pretty boring and just reads all of those lines into a constant
 
@@ -174,7 +175,7 @@ dependencyLicenses.reduce((res, value) => {
   * `res` is the result variable, and is also initialized as the second parameter to `.reduce` to an empty object `{}`
   * `value` is the current value that we are looping through. One value out of the `dependencyLicenses` array, in other words
 * After making a `key` I check if this key exists before.
-  * If not I initialize a new object with the `license` name and a `quantity set to `0`
+  * If not I initialize a new object with the `license` name and a `quantity set to`0`
   * I also add it to a `licenseCounts` array so that I can loop over all counts later.
 * Once I know that the `res[key]` is properly initialized I can safely increment the `quantity` with 1 for each value
 * Finally, and the part that I always forget, I return the `res` object so that it can be accumulated to the loop.

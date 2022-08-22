@@ -64,9 +64,9 @@ target="_blank">now where have I heard about this before</a>…).
 In these discussions quite often we slip and start to talk about things
 that is not helping us in the moment. For example:
 
--   We haven’t got this document, because X had not finish it on time?
--   That happened because then Y worked here and he…
--   I didn’t know about that?! How can I be expected to….
+- We haven’t got this document, because X had not finish it on time?
+- That happened because then Y worked here and he…
+- I didn’t know about that?! How can I be expected to….
 
 My short (and rude answer) to all of these are:
 
@@ -144,19 +144,19 @@ later.
 As most of you probably have guess this form have a couple of effects
 and noteworthy properties:
 
--   Quite often the person doesn’t want to have their item posted. Hence
+- Quite often the person doesn’t want to have their item posted. Hence
     she didn’t think it was important enough to talk about later.
--   The things posted on the list almost always talk about the past
--   The things posted on the list often talk about “others” and seldom
+- The things posted on the list almost always talk about the past
+- The things posted on the list often talk about “others” and seldom
     about “us”
--   After having the paper of “Later’s” being carried around and shown
+- After having the paper of “Later’s” being carried around and shown
     at every meeting it’s not uncommon that people ask me to take their
     item down.
--   Once we get around to booking the meeting (I have never actually
+- Once we get around to booking the meeting (I have never actually
     held one) all of the things on the list are “not interesting”
     anymore. Since we’ve now handled the emergency and can work as
     normal again. They are at least not interesting enough that you want
-    to take time out of the normal schedule to hold this meeting. 
+    to take time out of the normal schedule to hold this meeting.
 
 ### Conclusion
 

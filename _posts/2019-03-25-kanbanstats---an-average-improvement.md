@@ -77,6 +77,7 @@ The month closed is calculated by just appending the parts of the date together.
 ```
 =IF(C2<>"", YEAR(C2) & "-" & IF(MONTH(C2)<10,"0"&MONTH(C2),MONTH(C2)), "")
 ```
+
 Now for the new learning. Rather than using averages and the standard deviations, Mr Vacanti suggests using percentiles. At the 50%-percentile we know that 50% of the data is below this point and 50% above it. At the 85%-percentile we rather know that 85% of the data is below that point in data.
 
 This is very useful information for someone that wants to make a forecast because now we can say something like this:
@@ -187,4 +188,3 @@ I [hope this sheet](https://docs.google.com/spreadsheets/d/1lmlelcMdvo1SvQ0JZXra
 Stop using averages. Use percentiles instead.
 
 Stop estimating. Forecast based on data instead. Update the forecasts as you get more data.
-

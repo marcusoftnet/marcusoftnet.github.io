@@ -19,7 +19,6 @@ I hope you find it useful.
 
 ## The question
 
-
 Hi Marcus! Øyvind here from the summer 2020 class. I was hoping you could answer some questions I had about Agile!
 
 I have the pain and pleasure of being both the full-stack developer and "Product Owner" (I guess, at least I am charged with "estimating" and "writing the specifications") of a greenfield project. I thought "I have no idea how this works" and went to read your blog, which led me to [#NoEstimates and the book by Vasco Duarte.](http://noestimatesbook.com/about-the-book/)
@@ -33,13 +32,13 @@ Would be tremendously grateful for any advice with this :slightly_smiling_face:
 
 ## The response
 
-
 Hi Øyvind!
 
 This is a big question and we might need to have a face2face chat over this.
 
 But “shortly”
-  - Agile techniques has sometimes been misinterpreted as “don’t plan at all”, which I think is a misconception. For me it’s all about making adjustments so that we can iterate and learn faster and faster. This gives us more flexibility - i.e. we become agile.
+
+- Agile techniques has sometimes been misinterpreted as “don’t plan at all”, which I think is a misconception. For me it’s all about making adjustments so that we can iterate and learn faster and faster. This gives us more flexibility - i.e. we become agile.
 I would take [Dan Norths](https://dannorth.net/) advice going into a project like this and [optimize for discovery]( https://dannorth.net/2010/08/30/introducing-deliberate-discovery/).
 
 Hence - I would spend some time in planning the architecture and make some high-level plans for how the thing is going to be built. But remember; you don’t know yet, since you most certainly will discover things along the way. Hence - just plan for what you know/need now and be ready to change. In other words - every document you write, decision you make - make it easy to change. [Read this](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)  that was one of my aha-experiences.
@@ -52,7 +51,6 @@ Instead take [my advice here](https://www.marcusoft.net/2019/03/kanbanstats-an-a
 For the political part I often use this reasoning:
 
 > We don’t know how long this is going to take, but if we can get one month to get started we can give you a much better idea
-
 
 If you’re using my sheet above you can then say:
 

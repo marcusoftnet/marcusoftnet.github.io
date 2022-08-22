@@ -71,12 +71,11 @@ A couple of days later I checked in with the team again and asked them:
 > has been super simple since we could just follow the "spec" in the
 > photo.
 
-
 They simply didn't *need* the automation part for their work. And since
 it probably shouldn't last for that long in production the
 specifications was short lived.
 
-### The whole shabang, and a bunch of rotten specs 
+### The whole shabang, and a bunch of rotten specs
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
@@ -95,15 +94,13 @@ business language, automated them against their system, ran them often
 and also generated a nice documentation using
 <a href="https://github.com/picklesdoc/pickles"
 target="_blank">Pickles</a>. This had been going on for a couple of
-years and they had about 400 scenarios. 
-
+years and they had about 400 scenarios.
 
 <div style="text-align: left;">
 
 <div style="text-align: left;">
 
 One day a tester came over to me and said:
-
 
 > I love the pickles-site, it's so easy to read and search. But when I
 > browsed through it I saw some cases that was missing and an error. Can
@@ -125,77 +122,46 @@ continuously.
 
 ### Findings and conclusions
 
-
-
 No to the real reason of this blog post; No - you don't **have** to do
 the automation part. But if you don't you will end up with
 specifications that will be out of date the second someone changes the
-system (writes code in other words). 
-
-
-
-
-
+system (writes code in other words).
 
 And yes - writing the automation part is hard, hard work. So what do we
 do when something is hard and complicated? We break it down into the
 smallest possible piece. Writing the automation of a scenario is not
 that hard (and will teach you a lot about your code) if you do it before
-and during the implementation of each new feature. 
-
-
-
-
-
+and during the implementation of each new feature.
 
 Keeping the other specifications (regressions) up to date could be hard
 work if the tests are brittle, for example hits the UI. Always keep
-maintainability as a top priority when writing your automation code. 
-
-
-
-
-
+maintainability as a top priority when writing your automation code.
 
 Finally slow running tests are a regression problem that should be
 address in the same manner as you do a bug that is introduced when
 developing a new feature. That's not me saying that. It's
 <a href="https://twitter.com/@Holman" target="_blank">@Holman</a> in
 this
-<a href="https://vimeo.com/43676958" target="_blank">awesome talk</a>. 
-
+<a href="https://vimeo.com/43676958" target="_blank">awesome talk</a>.
 
 ### Tips
-
-
 
 So that was a bunch of bad news and more work for us to do... What can
 we do about it? Here's my short list of things that could help the
 situation.
 
-
 #### Specifications are not tests
-
-
 
 In
 <a href="http://manning.com/adzic/" target="_blank">his book</a> <a href="http://gojko.net/" target="_blank">Gojko Adzic</a> talks
 very little about testing and quite a lot about specifications. Yet a
 lot of us (yes, me too... probably in this post even) often confuses the
 two. I think that's because we use a testing framework to implement the
-specifications. 
-
-
-
-
-
+specifications.
 
 Let's take an example business rule: "if you buy three book, or more,
 shipping is free". If you had your tester hat on which cases (for the
-number of books) would you try? 
-
-
-
+number of books) would you try?
 
 |                 |                       |
 |-----------------|-----------------------|
@@ -213,14 +179,9 @@ number of books) would you try? 
 | 10000000        | Eeeeh?                |
 | 1e+10           | is that even correct? |
 
-
-
-
-
 But if this is what Gojko calls a "key example" then I can think of just
 a few examples. Key examples are examples that makes sure that we
 understand the business rule in the same manner. Here are my examples:
-
 
 |                 |                |
 |-----------------|----------------|
@@ -228,39 +189,25 @@ understand the business rule in the same manner. Here are my examples:
 | 2               | No             |
 | 3               | Yes            |
 
-
-
 There's a difference in focus here. And by all means we might have to do
 all the other tests as well but they doesn't teach us more about the
-business rule in play. 
-
+business rule in play.
 
 #### Write once, run never
-
-
 
 That heading is a bit misleading but I've heard about teams that for new
 features write the scenarios and automate them, but when the feature is
 implemented they throw the scenario away. Mind blown! Why would they do
-that? 
-
-
-
-
-
+that?
 
 They need the scenario(s) during the time they develop and test the
 feature but afterwards it isn't of that great use to them. Instead they
 keep a much smaller suite of features that shows the main flows in the
 applications and the most important (or complicated) business rules.
-Maybe always keep that specification suite to 50 features, for example. 
-
-
-
+Maybe always keep that specification suite to 50 features, for example.
 
 If a new feature updates any of the main flows they, of course, go
-through the trouble of updating that suite of specifications. 
-
+through the trouble of updating that suite of specifications.
 
 #### Don't automate against the UI if you don't have too
 
@@ -288,12 +235,8 @@ Keep maintainability your first priority when automating.
 
 ### Summary
 
-
-
 The greatest gain of specification by example is the improved
 communication. But the output of that communication rots pretty fast. If
 you want to keep your specifications relevant you need to automate them.
 If you automate your specifications you need to have them run fast, and
-be resilient to change in your application. 
-
-
+be resilient to change in your application.

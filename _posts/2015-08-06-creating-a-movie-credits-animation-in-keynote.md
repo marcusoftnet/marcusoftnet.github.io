@@ -16,9 +16,11 @@ A search on the [intertubes](https://www.google.co.id/search?q=keynote+movie+cre
 <!-- excerpt-end -->
 
 # TL;DR
+
 Basically we will just use the "Move" Action for our block of text, move it over the entire screen, slow it down until it's readable.
 
 # Step-by-step
+
 Paste the text you want into a block of text and increase the font to something readable (> 32 points). Now place the text block in the lower end of the screen. Like this:
 
 <img src="/img/keynotecredits1.png" style="align:center" width="70%">
@@ -50,4 +52,5 @@ Or in my case, I just wanted a comical (?) effect, which is the reason I choose 
 You might not like the "ease in/out" features that I have turned on so adjust as needed.
 
 # Summary
+
 Pretty easy to get a "Movie Credits"-animation into place by (ab)using the "Move" action beyond the screen, don't you think?

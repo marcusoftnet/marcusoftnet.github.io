@@ -23,15 +23,13 @@ best I've ever worked with. We're converting a big VB6 application to
 VB.NET and WPF. And due to different reasons we decided to do this in
 two phases:
 
-1.  First migrate everything with a tool and then get it to work again.
+1. First migrate everything with a tool and then get it to work again.
     And write a [integration test that assures that the function works
     as
     expected](http://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html)
-2.  Rewrite the underlying architecture bit by bit. Since we have
+2. Rewrite the underlying architecture bit by bit. Since we have
     integration tests in place we are shield from introducing any big
     bugs.
-
-
 
 OK, the first phase mean that we worked our way through the old code,
 form by form. It was 265 of them and we created a simple tracking tool
@@ -40,23 +38,12 @@ KB). As we progressed we tracked the time we put in on all the things we
 did. Finally we could estimate how long time it would take us, and how
 much of that, that was left.
 
-
-
-
- 
-
-
-
-
 Of course the usual stuff happened. Two day into phase 1 my project
 leader (who also is a great guy, that really have adopted agile
 thinking, but I think he forgot himself :)) asked me "When are you
 done?". I hate to being forced to answer that question without any data
 so I actually put it off for two weeks. But then the question came
 again... "Now you must know... When are you done?".
-
-
-
 
 ### Data gathering
 
@@ -66,11 +53,7 @@ Here is our last month day by day - how much time is left to do. (And do
 remember that this is a great team, that update this calculation several
 times every day):
 
-
 <div class="separator" style="text-align: center; clear: both">
-
-
-
 
 <div class="separator" style="text-align: center; clear: both">
 
@@ -84,32 +67,23 @@ data-border="0" width="400" height="268" /></a>
 
 From this we can see that:
 
-
-
-
--   when we first started to track time left (that took a few days) we
-    guess that we had about 670 hours left. 
--   just a few days later we started to discover how hard this was...
-    and our estimate boomed to 2108 hours left. 
--   then it rolled along for a few weeks. We didn't add that much but no
+- when we first started to track time left (that took a few days) we
+    guess that we had about 670 hours left.
+- just a few days later we started to discover how hard this was...
+    and our estimate boomed to 2108 hours left.
+- then it rolled along for a few weeks. We didn't add that much but no
     time was reduced also. Everybody we're here. No people sick. It just
     stayed up in the 2100-range with a peak of 2268 at 2010-10-25.
--   Then all of a sudden it started to fall. Why? Well we started to
+- Then all of a sudden it started to fall. Why? Well we started to
     remove things that we didn't had to do (not used anymore), we could
-    reuse code we already written, we got better on doing this etc. 
--   And now (2010-11-12) we're at 602 hours left.
-
-
+    reuse code we already written, we got better on doing this etc.
+- And now (2010-11-12) we're at 602 hours left.
 
 I wouldn't be to surprised if the hours will rise some and fall some
 during the days left. I am quite sure that it wont be a steady line down
 to zero from today.
 
-
-
 ### Conclusion
-
-
 
 When I was asked "When are you done?" I would have answered "In 670
 hours" if I've used the data we had at hand. This was wrong.
@@ -133,4 +107,3 @@ the most important functionality, in the best quality we can manage in
 that timespan.
 I'm sorry. The emperor is naked - you cannot estimate a software project
 with any certainty.
-

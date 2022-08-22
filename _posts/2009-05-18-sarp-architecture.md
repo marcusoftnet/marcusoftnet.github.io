@@ -24,7 +24,7 @@ practices and useable functionality when doing
 <a href="http://en.wikipedia.org/wiki/Domain-driven_design"
 target="_blank">DDD</a>,
 <a href="http://en.wikipedia.org/wiki/Test-driven_development"
-target="_blank">TDD</a>, 
+target="_blank">TDD</a>,
 <a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> and
 <a href="https://www.hibernate.org/343.html"
 target="_blank">NHibernate</a>.
@@ -37,11 +37,11 @@ It’s not done and still have a bit to go before but I really like it.
 
 Check it out. Here are some introduction videos:
 
--   <a href="http://dimecasts.net/Casts/CastDetails/75"
+- <a href="http://dimecasts.net/Casts/CastDetails/75"
     target="_blank">Introduction to S#arp Architecture</a>
--   <a href="http://dimecasts.net/Casts/CastDetails/97"
+- <a href="http://dimecasts.net/Casts/CastDetails/97"
     target="_blank">Validation, Design Decisions and Automapping</a>
--   <a href="http://dimecasts.net/Casts/CastDetails/102"
+- <a href="http://dimecasts.net/Casts/CastDetails/102"
     target="_blank">Modify the T4 templates used by Sharp Architecture</a>
--   <a href="http://dimecasts.net/Casts/CastDetails/107"
+- <a href="http://dimecasts.net/Casts/CastDetails/107"
     target="_blank">Testing MVC Routes</a>

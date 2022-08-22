@@ -42,7 +42,6 @@ feature](https://github.com/techtalk/SpecFlow/wiki/Context-Injection)
 (as it's called in SpecFlow) is one of those "just works"-feature and
 you don't have to think to much about how. Here's a simple example:
 
-
 The context injection feature simply creates the Driver object for us,
 as long as it has a parameterless constructor... or can figure out how
 to create the rest of the objects for us.
@@ -70,10 +69,7 @@ You could of course resolve other stuff with this approach as well;
 reference data, test data class etc. but I think it really shines when
 it comes to stich your testing infrastructure together.
 
-### Going advanced 
-
-
-
+### Going advanced
 
 I told you above about the default,
 resolve-parameter-less-constructor-objects features of the context
@@ -90,11 +86,6 @@ To use it you could write a
 (there's also BeforeFeature and BeforeTestRun at your disposal) and
 configure the container. Like this:
 
-
-
-
-
-
 (Note the \[Binding\]-attribute on the class of hooks, I forget that one
 every time...)
 
@@ -102,19 +93,11 @@ This is great if you need to resolve objects that don't have
 parameterless constructors and you can also utilize this approach if you
 have objects that you just want one of. One example that springs to mind
 is a WebDriver object. This is often expensive and resource intensive to
-create and you often just need one active per scenario. 
-
-
-
+create and you often just need one active per scenario.
 
 ### Wrap up
-
-
-
 
 The Context Injection feature of SpecFlow is not very well known and
 using it is rare in the implementations I've seen. That's a pity since
 it can clean up your testing infrastructure quite a bit. And you should.
-Testing code is also code - it deserves your love too. 
-
-
+Testing code is also code - it deserves your love too.

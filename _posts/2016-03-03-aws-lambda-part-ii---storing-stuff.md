@@ -18,11 +18,13 @@ In this post I wanted to up the ante a little bit and store some data, more spec
 You might want to read up on the basics (creating accounts, what is Claudia etc) in my earlier post. I'll write every step down here but I will not explain it as thorough as last post.
 
 # Dynamo Db?
+
 <blockquote>Amazon DynamoDB is a fully managed non-relational database service that provides fast and predictable performance with seamless scalability.</blockquote>
 
 Ok - it's a document store just like many others, the only difference is that it's in AWS which means that it plays nicely with other AWS features, like the Lambda functions we're about to write.
 
 ## Create table
+
 Although this is a document store the things that we are storing the documents in are called <code>tables</code>.
 
 Head on to the [DynamoDb Console](https://console.aws.amazon.com/dynamodb/home) and let's create a new table for the simple user data we are about to store.
@@ -34,9 +36,10 @@ Head on to the [DynamoDb Console](https://console.aws.amazon.com/dynamodb/home) 
 I recommend that you click around in the UI to get to know the tool a bit. Add some data (under Item) for example, or check out the Metrics or Alarms etc. Pretty cool stuff in there. And pretty nice looking too.
 
 ## With the AWS client tools
+
 We can create the table in other ways too. Let me show you just one - the [Amazon Command Line interface](https://aws.amazon.com/cli/). With this tool we can automate and manipulate many of the AWS features you might be using, right from your command line.
 
-The CLI can be installed (Oh my Lord - another package manager? <code>pip</code> needs to be installed first) [from that site ](https://aws.amazon.com/cli/) and once that is done you might want to check out the [configuration of the tool as well](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration).
+The CLI can be installed (Oh my Lord - another package manager? <code>pip</code> needs to be installed first) [from that site](https://aws.amazon.com/cli/) and once that is done you might want to check out the [configuration of the tool as well](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration).
 
 If you followed along in the [last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) we created a configuration file by hand. The <code>aws</code> tool can do that for us, but now that it's in place it will be used.
 
@@ -55,9 +58,11 @@ Running it shows that it works. You'll have to remove the table you already crea
 Nice! Two ways of creating DynamoDb tables. Let's move on.
 
 # Our code
+
 Now to write the code. We will be using two packages from Google themselves called [dynamodb-doc](https://www.npmjs.com/package/dynamodb-doc), and also [aws-sdk](https://www.npmjs.com/package/aws-sdk) but with a twist...
 
 ## Getting started
+
 Getting started is simple... Here's the commands I ran:
 
     mkdir lambdaDynamoDbDemo
@@ -72,6 +77,7 @@ This creates a new directory for our app, sets up git and npm, installs the pack
 You also need to make sure to include the `index.js` file in the `files` section of `package.json`: `"files": ["*.js"]`.
 
 ## First deploy
+
 I've grown accustomed to deploy a very simple first version of the application, just to the get infrastructure up and running.
 
 Write a minimal `claudia-api-builder` application like this:
@@ -108,6 +114,7 @@ That works with the exciting message:
 Let's access DynamoDb now. Or well.. a little error first.
 
 ### The [TypeError: Object #<Object> has no method 'apiConfig'] error
+
 It turned out to be a good idea to deploy something simple first since I got an error. I hope you didn't but here's the error message of mine:
 
     [TypeError: Object #<Object> has no method 'apiConfig']
@@ -117,6 +124,7 @@ This was because I had forgot the `module.exports = api` line above. Adding it a
 The Claudia-guys has promised me to update the error message. You can thank me later...
 
 ## The app
+
 Our application is a simple little API that will work like this:
 
 * POST to `/users` - will store a new user object (userId, name and age for now)
@@ -125,6 +133,7 @@ Our application is a simple little API that will work like this:
 * DELETE to `/users/{id}` - will simply return the user
 
 ## Promises, promises, promises
+
 One more thing... The Google packages doesn't support promises and the `claudia-api-builder` doesn't exposes a `reponse` object in the callbacks. This is a problem.
 
 At least until you realize that `claudia` do allow you to return a promise and that you can `promisify` all of the API from `dynamodb-doc` using `bluebird`.
@@ -155,11 +164,13 @@ Or you can `promisify` an entire package, which adds new `async` versions of the
 Ok, let's see how we can use this in our code, that uses `claudia-api-builder`, since it allows us to return the promise itself. It's pretty slick actually.
 
 ## The code
+
 Finally. Time to code. Let me introduce a few things first and then I'll list the entire thing afterwards.
 
 You can find the code in [my repo for this blog post](https://github.com/marcusoftnet/lambdaDynamoDbDemo), should you want to clone it.
 
 ### DynamoDb functions
+
 All DynamoDb functions have roughly the same signature `docClient.putItem(params, callback)`. For us, using a promisified version it will look something like `return docClient.putItemAsync(params);`
 
 That `params` also looks very similar.
@@ -188,11 +199,13 @@ You could also just overwrite the whole item with a new item, like we do in the 
 (If you wonder about `#name` it's because `name` is a [reserved word in DynamoDb](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/ExpressionPlaceholders.html#ExpressionAttributeNames))
 
 ### Returning promises
+
 With `claudia-api-builder` we can return promises straight off and hence the final row in our methods can be `return docClient.putItemAsync(params);` which returns the promise to be fulfilled. Claudia-api-builder will wait until the promise returns or fail and then return.
 
 Or put differently, claudia-api-builder will wait until the callback returns and then return from the api.
 
 ### The getTableName-function
+
 There's a little function called `getTableName` that might leave you wondering.Why not just hard code the table name? Well, [Gojko](http://gojko.net) pointed me to this nifty little trick to make our code more general.
 
 In the function we are using `request.env.tableName` which picks the table name of the `env` variable, if set (otherwise I just set a default).
@@ -208,6 +221,7 @@ These *stage variables* can be set on the API using the [API Gateway console](ht
 This is pretty cool. This variable will stay with the *latests* stage and you can set other values for other stages.
 
 ### The entire code
+
 You can find the code in [my repo for this blog post](https://github.com/marcusoftnet/lambdaDynamoDbDemo), but for completeness I list the code here:
 
     /*global require, module*/
@@ -304,6 +318,7 @@ Phew! That was longer than I thought... but many of the DynamoDb functions are v
 Again: you can get hold of the [code here](https://github.com/marcusoftnet/lambdaDynamoDbDemo).
 
 ## The security stuff
+
 Everything you do in AWS is governed by security access policies, roles etc. And praise be [the Architect](https://www.wikiwand.com/en/Architect_(The_Matrix)) for that, because cloud computing is nothing if not the security is in place.
 
 In our case we need to give the Lambda function access rights to the table we created. This is done by setting up a policy configuration for that allows our Lambda function access to the table we just created.
@@ -346,6 +361,7 @@ Phew! That fills me both with joy (of all the stuff that Claudia helps us with) 
 Now we can recreate our lambda function (and all of the rest) with the policy we just defined: `npm run create`
 
 ## Testing
+
 Everything is in place - let's test it. I use `curl` to test my stuff with these scripts. Here's what I want to do:
 
 2. Create a new user
@@ -377,5 +393,5 @@ Replace [API-ID] and [REGION] with your stuff that you can see in the `claudia.j
 It works! Running the commands separately, or the `testrun.sh` script access our function, stores, updates, reads and delete our user.
 
 # Summary
-This post was pretty long but it's also a lot of ground covered. I hope you found it helpful as I learned A LOT writing and coding this.
 
+This post was pretty long but it's also a lot of ground covered. I hope you found it helpful as I learned A LOT writing and coding this.

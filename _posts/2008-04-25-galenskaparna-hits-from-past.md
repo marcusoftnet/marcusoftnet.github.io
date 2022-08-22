@@ -13,4 +13,3 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/galenskaparna-hits-from-past.
 This is a great song from a great old show - Macken.
 
 I just love his way of taking out the worst in life.
-

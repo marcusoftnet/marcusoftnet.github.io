@@ -120,8 +120,6 @@ The task does the following:
 - push to heroku
 - launches the site in my browser for verification
 
-
-
 (This could be preceded by a build task if you're minimising,
 transforming your code from CoffeeScript or TypeScript, or doing some
 other mangling of the code.)
@@ -133,7 +131,6 @@ expected, the test failed for example.
 
 The task code? Well it's almost just reading the list above out loud.
 
-
 > <span
 > style="font-family: Courier New, Courier, monospace;">deployProd: test
 > createMinorRelease pushGithub pushHeroku launch
@@ -143,4 +140,3 @@ Here's the entire makefile.
 There! I'm not lying to Woody anymore. Feels great. For more than just
 that reason. Because now I truly have 1 single command to deploy my
 application properly.
-

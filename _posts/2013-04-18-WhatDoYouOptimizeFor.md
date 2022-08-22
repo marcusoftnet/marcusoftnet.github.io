@@ -39,39 +39,23 @@ I've told this story a number of times to system
 development teams (and some product owners) and the reactions are almost
 the same every time:
 
-
--   There's laughter all around the room. Or giggling at least. Quite
-    often some "Pfffft" can be heard 
--   "Oh man - that's one tall order!"
--   "What a hard professor - that's almost an impossible task"
-
-
+- There's laughter all around the room. Or giggling at least. Quite
+    often some "Pfffft" can be heard
+- "Oh man - that's one tall order!"
+- "What a hard professor - that's almost an impossible task"
 
 The thing is: he didn't tell us what he was going to change. Just that
-*something* was going to change. In two weeks. 
+*something* was going to change. In two weeks.
 
+How do you think we approached that taks?
 
+We coded very defensively.
 
-
-
-
-How do you think we approached that taks? 
-
-
-
-
-We coded very defensively. 
-
-
-
-
--   "Oh my - what if he decides to change this?" 
--   "This probably needs to be an interface, if we are asked to
+- "Oh my - what if he decides to change this?"
+- "This probably needs to be an interface, if we are asked to
     implement it differently"
--   "No - that needs to be extracted since we then can change that part
+- "No - that needs to be extracted since we then can change that part
     without touching part X"
-
-
 
 Things like that. All in all it was an excellent assignment that thought
 me a lot about programming OOP and Small Talk. Thank you professor
@@ -116,9 +100,6 @@ specification in the hands of the programmer (that by the way calls
 themselves **constructors** since that's all they really do, translate
 pseudo-code in Swedish to COBOL).
 
-
-
-
 Everything around the setup for this system was to handle risk and
 changes by aiming for stability. Because we thought that change were
 going to be a exception. Sadly that's the only thing that the business
@@ -135,25 +116,18 @@ that was optimized for stability. That's very risky.
 
 These two stories got me thinking.
 
--   What am I optimizing for when I write my code today?
--   Change will always come. I know that from the outset. "I will change
+- What am I optimizing for when I write my code today?
+- Change will always come. I know that from the outset. "I will change
     something in that spec during the 25 years the system will live".
     How do I try to handle that?
--   Do I precieve change as a risk or an enabler? Being able to change
+- Do I precieve change as a risk or an enabler? Being able to change
     fast is a business advantage and a way to manage risk. How do I make
     my code being easy to change?
--   What kind of documentation do I need in a system that I'm going to
+- What kind of documentation do I need in a system that I'm going to
     change a lot?
-
-
 
 What do you optimize for?
 
 I wrote a follow-up
 [post](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html) on
 this topic if you want to read more.
-
-
-
-
-

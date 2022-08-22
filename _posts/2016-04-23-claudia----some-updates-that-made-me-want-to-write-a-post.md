@@ -45,7 +45,6 @@ This is simple:
 * Create our code file `touch index.js`
 * No need to tell Claudia which `"files"` to deploy, as you had to do before, but it could be a good idea to exclude the `claudia.json` in your `.gitignore` and `.npmignore`
 
-
 Open the `index.js` file and write the following simple code:
 
 ```javascript

@@ -18,12 +18,12 @@ much!
 
 But fun stuff too:
 
--   We did two concerts with my Salvation Army Corps and they were both
+- We did two concerts with my Salvation Army Corps and they were both
     great. The [Vasa Band](http://www.vasaband.se/) and [Vasa
     Gospel](http://www.vasagospel.com/) holds these concerts each year.
     This year at our newly renovated corps. I was in the planning group
     as well as doing the presentations during the concert. Very fun!
--   This weekend was another highlight since I ([once
+- This weekend was another highlight since I ([once
     again](http://www.marcusoft.net/2006/12/marcus-presenter.html)) was
     presenter for the Lucia-concerts of the [Windcorp Brass
     Band](http://www.windcorpbrassband.se/). This year I even got the

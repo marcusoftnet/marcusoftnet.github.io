@@ -33,7 +33,7 @@ $(PublishWebSitePath) in the example below:
 
 > \<RemoveDir Condition="Exists('$(PublishWebSitePath)')"
 > Directories="$(PublishWebSitePath)" /\>
->     \<MakeDir Directories="$(PublishWebSitePath)" /\>
+> \<MakeDir Directories="$(PublishWebSitePath)" /\>
 
 We can now call the targets of the DeployScript.proj-file from another
 file, with parameters, in the following manner:

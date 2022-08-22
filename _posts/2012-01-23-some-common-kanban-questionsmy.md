@@ -36,6 +36,7 @@ surrounded myself with.
 
 So important to note is that Kanban as methodology doesn’t answer any of
 these questions. It’s up to you.
+
 ### How do you highlight new activities on the board?
 
 Anna also said; we don’t want them to get mixed up with the ones we
@@ -147,11 +148,11 @@ You give it a number (5 – Allow for credit card payment).
 
 You then add tasks for that item;
 
--   5.1. Update database,
--   5.2 Create GUI
--   5.3 Create business layer,
--   5.4 Integration with PayPal.
--   etc.
+- 5.1. Update database,
+- 5.2 Create GUI
+- 5.3 Create business layer,
+- 5.4 Integration with PayPal.
+- etc.
 
 As the team start work on the sub items they move them over to
 Development done.
@@ -176,7 +177,7 @@ customer invoices) that needed to be done by certain dates in the month.
 So they created stickies that they reused for those activities and kept
 them in a corner of the board. With the next due date written above
 them. When that date approached we simply move the item to the top of
-the Inbox. 
+the Inbox.
 
 ### We have several stakeholders that supply us with work – how do you make them prioritize among themselves?
 

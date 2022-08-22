@@ -51,15 +51,15 @@ change. I like it!
 I also learned some other stuff that I will need to incorporate into my
 design:
 
--   Aggregate – use aggregate to logically divide and group your model.
+- Aggregate – use aggregate to logically divide and group your model.
     An aggregate root is the only way into the other objects in the
     aggregate. They cannot be accessed from the outside.
--   Start modeling with what you know – I have started out with the
+- Start modeling with what you know – I have started out with the
     first user story and find out what I can about the model in that
     story, preparing for changing it down the road.
--   Behaviors – I have not put the behaviors on my entities yet. Need to
+- Behaviors – I have not put the behaviors on my entities yet. Need to
     do that.
--   TDD is the way to go – with DDD and TDD together you get to “feel”
+- TDD is the way to go – with DDD and TDD together you get to “feel”
     the model in a more direct way than to write about it.
 
 So that was quite a lot of information to me and to the [Sprint Planner

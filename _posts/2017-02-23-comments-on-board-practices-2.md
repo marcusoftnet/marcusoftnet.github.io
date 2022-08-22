@@ -71,7 +71,7 @@ Interesting enough those big things might never be "Done" as in 100% moved into 
 
 All in all, it doesn't matter too much, but to make things clear make sure that we distinguish between different things on the board. Maybe have different sizes of cards for epics/features and stories/tasks.
 
-## However...
+## However
 
 I've actually seen teams that end up in "Todo"-"Doing"-"Done" after starting in a more elaborate process. Or even simpler; ["Prio 3" - "Prio 2" and "Prio 1"](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/) (so important that we are working on it) for example
 

@@ -31,19 +31,19 @@ implementation can use it as a key:
 
 > namespace Marcusoft.SprintPlannerHelper.Repositories
 > {
->     /// \<summary\>
->     /// A generic repository interface that dictates all the methods
+> /// \<summary\>
+> /// A generic repository interface that dictates all the methods
 > that a repository should map to
->     /// \</summary\>
->     /// \<typeparam name="T"\>the type of the
+> /// \</summary\>
+> /// \<typeparam name="T"\>the type of the
 > interface\</typeparam\>
->     public interface IRepository\<T\>  where T :IBaseEntity
->     {
->         T GetById(Guid id);
->         IList\<T\> FindAll();
->         void Add(T entity);
->         void Remove(T entity);
->     }
+> public interface IRepository\<T\>  where T :IBaseEntity
+> {
+> T GetById(Guid id);
+> IList\<T\> FindAll();
+> void Add(T entity);
+> void Remove(T entity);
+> }
 > }
 >
 >  
@@ -51,32 +51,32 @@ implementation can use it as a key:
 > public abstract class Repository\<T\> : IRepository\<T\> where T :
 > IBaseEntity
 > {
->     protected readonly Dictionary\<Guid, T\> dictionary = new
+> protected readonly Dictionary\<Guid, T\> dictionary = new
 > Dictionary\<Guid, T\>();
 >
->     \#region IRepository\<T\> Members 
->   
->     public T GetById(Guid id)
->     {
->         return dictionary\[id\];
->     }
+> \#region IRepository\<T\> Members
 >
->     public IList\<T\> FindAll()
->     {
->         return new List\<T\>(dictionary.Values);
->     }
+> public T GetById(Guid id)
+> {
+> return dictionary\[id\];
+> }
 >
->     public void Add(T entity)
->     {
->         dictionary.Add(entity.ID, entity);
->     }
+> public IList\<T\> FindAll()
+> {
+> return new List\<T\>(dictionary.Values);
+> }
 >
->     public void Remove(T entity)
->     {
->         dictionary.Remove(entity.ID);
->     }
+> public void Add(T entity)
+> {
+> dictionary.Add(entity.ID, entity);
+> }
 >
->     \#endregion
+> public void Remove(T entity)
+> {
+> dictionary.Remove(entity.ID);
+> }
+>
+> \#endregion
 > }
 >
 >  
@@ -84,18 +84,18 @@ implementation can use it as a key:
 > public class ProductRepositoryFake: Repository\<Product\>,
 > IProductRepository
 > {
->     /// \<summary\>
->     /// Default constructor that fills the repository with some
+> /// \<summary\>
+> /// Default constructor that fills the repository with some
 > testdata
->     /// \</summary\>
->     public ProductRepositoryFake()
->     {
->         // Add the products from the testdata-class
->         foreach (var p in TestData.GetTestProductList())
->         {
->             dictionary.Add(p.ID, p);
->         }
->     }
+> /// \</summary\>
+> public ProductRepositoryFake()
+> {
+> // Add the products from the testdata-class
+> foreach (var p in TestData.GetTestProductList())
+> {
+> dictionary.Add(p.ID, p);
+> }
+> }
 > }
 
 I implemented it and wrote this with Albert sleeping on my chest. Just

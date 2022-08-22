@@ -25,10 +25,10 @@ DDD](http://msdn.microsoft.com/en-us/magazine/dd419654.aspx) and it
 explained some things for me. Here is how I understand the two
 fore-mentioned concepts:
 
--   A **Repository** are classes and methods that is used to load stuff
+- A **Repository** are classes and methods that is used to load stuff
     from a data store. They are often written in a way that is easily
     mocked or replaced during testing.
--   A **Service** is used to hold a process or a flow through a business
+- A **Service** is used to hold a process or a flow through a business
     logic that does not fit well on a class in the domain model. They
     are stateless and take the entity that they operate on as parameter
     or loads the entities into memory via a repository.

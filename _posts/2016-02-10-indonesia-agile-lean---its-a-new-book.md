@@ -32,6 +32,7 @@ I have a few ideas, writing a book would be the most obvious, but there are more
 To be frank I cried when I wrote it. And to be even more frank I don't want to get 1000's of people to cry, but I was intrigued by his proposal. We threw some ideas back and forth and pretty soon I realized that there's a story to tell here.
 
 # The concept
+
 This will be a very different book, compared to [Kanban In Action](http://bit.ly/theKanbanBook). It purely story driven and I try to write the entire book in present-tense. One of the first sentences is:
 
 <blockquote>As I walk into the Rumah Sakit Bungsu lobby this morning two things strikes me as unusual; first a foul stench of mold and moist, and secondly at least 4 buckets to collect the water dripping down from roof, from the second floor, is placed throughout the lobby.</blockquote>
@@ -43,11 +44,13 @@ In the book I will explain these topics as they happen in the story, but not div
 Naturally there will be quite a lot on culture - a topic that I think is very real and important for anyone doing change, in any organization.
 
 ## The Inception Deck
+
 I created an [Inception Deck](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/) for this book project as I think it's a great way of sharing intent and get everyone to have a little better shared understanding.
 
 Here are some highlights from that inception deck that give you a better understanding of what it is I'm trying to do;
 
 ### Why are we here?
+
 Why am I writing this in the first place?
 
 * This is a great and emotional story about struggling and conquering against all odds.
@@ -56,6 +59,7 @@ Why am I writing this in the first place?
 * It summaries my work here in a nice way
 
 ### Elevator pitch
+
 Writing an elevator pitch for the product is a great way to frame it. It's a bit different for a book of course, but still.
 
 <blockquote>
@@ -88,6 +92,7 @@ Writing an elevator pitch for the product is a great way to frame it. It's a bit
 </blockquote>
 
 ### Design a product box - reviews from the future
+
 Here I thought instead that I should write some fake reviews, as I would want people to react after reading the book.
 
 <blockquote><p>The book overflows with great examples on how the lean principles can be applied in practices. This will help you to gain a deeper understanding of their meaning</p>
@@ -106,6 +111,7 @@ Here I thought instead that I should write some fake reviews, as I would want pe
 </blockquote>
 
 ### The NOT list
+
 What is this book not:
 
 * This is not a text book on agile and lean practices. You should not read this to learn lean
@@ -114,6 +120,7 @@ What is this book not:
 * A Christian book. I will, inevitable, talked about belief and God but that's just for framing and context.
 
 # The status
+
 Me and Vasco are keeping the status of the book in a Google doc and you can see the status here:
 
 <iframe width="589" height="364" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1-WLjqavJzEBWTK5KcGcYVKWoeYcTOgvBHAKcsXWwHOQ/pubchart?oid=1369661743&amp;format=interactive"></iframe>
@@ -125,6 +132,7 @@ Here's some stats of the size of each part in the story:
 Once the site for the book is up there will be free previews and a mailing list where you read the book as we finish chapter by chapter.
 
 # The title... help me
+
 The title so far have not been set. I'm not particularly worried about that but if you have any ideas that we used you have a guaranteed place in the "Thank you"-section. And a free copy of the book of course.
 
 The subtitle of the book is set:
@@ -134,6 +142,7 @@ The subtitle of the book is set:
 I just need something short and sweet on top of that: "Jungle Lean", "Agile at the equator" or something like that.
 
 # The talks
+
 I'm very honored and happy to have been invited to speak at [LKNA 2016](http://lkna16.leankanban.com/). And I'm bursting with pride that they wanted to hear this story!
 
 Here's a [link to the abstract of that presentation](http://sched.co/5tFw) that will happen May 17. See you there!

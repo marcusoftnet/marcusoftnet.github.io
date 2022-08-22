@@ -45,14 +45,14 @@ what I did before was a good way to work?
 OK – I a still a newbie to the concepts but I think that the benefits
 from the CQRS principles are plain and clear.
 
--   Why should we have one and the same model to do all aspects of our
+- Why should we have one and the same model to do all aspects of our
     application? We have to make trade-offs and compromises. Simply by
     splitting up the read model from the write model we get a much
     simpler management of that
--   Why are we often missing verbs in our domain models? The application
+- Why are we often missing verbs in our domain models? The application
     workflow are more often than not in client or rather in the head of
     the user.
--   Why are we storing state that we don’t know how it came to be? For
+- Why are we storing state that we don’t know how it came to be? For
     example; if somebody Create a shopping cart, Add 3 items, Remove 1
     item and Checkout we only store a shopping cart with 2 items. The
     fat that one item was removed in the process is discarded. That
@@ -70,10 +70,10 @@ I will sure hang out there a lot. Thanks for some truly great content.
 I now have another thing that I’m ga-ga over. And they all play nicely
 together;
 
--   Kanban to get control over my work and process
--   BDD to get the collaboration with stakeholders, behavior
+- Kanban to get control over my work and process
+- BDD to get the collaboration with stakeholders, behavior
     specifications and testing  and outside-in development in place in a
     nice way.
--   And CQRS to create the application in a well designed manner
+- And CQRS to create the application in a well designed manner
 
 One of these days I need to write something on how I use them together.

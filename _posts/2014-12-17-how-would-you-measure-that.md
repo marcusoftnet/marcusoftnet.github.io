@@ -22,7 +22,6 @@ What I've found immensely useful here is to write down some really simple exampl
 | 3  | Yes
 | 4  | Eeeeh? Yes... or?
 
-
 See... that was not really covered by the business rule. It could be considered obvious that it was *3 or more* items in order. But by writing down a few simple examples we made the *common understanding* better.
 
 By the way - what about 6 items? Or 9? Will that give us a discount of the overall price? Or is it just 3 and above is free and that's it?
@@ -32,11 +31,12 @@ All of these questions arise from the simple fact that we made something more co
 So the goal is common understanding. Earlier.
 
 ## Vision statements
+
 Now, that "make concrete earlier"-trick can be used in many other places and situations too. I've found it very useful to be a little more sure that we understand something in the same way. Let me give you an example where I've found it useful.
 
 Right now I'm working with mission and vision statements for the Salvation Army Hospitals in Indonesia. As for most vision statements I've seen or heard, they are often quite hard to grasp. And a bit fluffy. <a href="http://www.marcusoft.net/2014/10/vision-statements.html">Why not say what you really mean?</a>, me thinks.
 
-But then I realized that it may be a hard to do that. Because we don't want to lock it down, or * gasp * we might not know ourselves what it really means until we have worked with it for awhile.
+But then I realized that it may be a hard to do that. Because we don't want to lock it down, or *gasp* we might not know ourselves what it really means until we have worked with it for awhile.
 
 That sounds a bit like the main problem in most software development to me: nobody really knows what it's supposed to be until it's done. So maybe the specification by examples ideas about making things more concrete earlier could be applied here. Let's try.
 

@@ -41,8 +41,6 @@ In this post I'm going to take a look at timeboxing and why that
 actually not only is the best out of three bad choice but also can give
 you an advantage.
 
-
-
 ### Time boxing
 
 Time boxing is a fundamental thing to many agile methods but foremost
@@ -57,14 +55,11 @@ about Time, Cost and Features.
 Time boxing propose that we fix the time and resources and let the
 feature that we cope with vary. But let's take a look at our options;
 
-
 ### Options - Time, Costs and Features
 
 Let's fix **Features** and **Time** and letting **Cost** vary. This
 means that you get everything on your list, at an exact time but we
 cannot say what the cost will be. Two fundamental problems here;
-
-
 
 - Most (business) people don't like to have cost be an undecided
     factor (I say – neither do I). It might become very expensive.
@@ -78,13 +73,7 @@ fixed cost but we cannot say when (**Time**). This is not acceptable for
 most business either, but it's at least accomplishable in a pure
 technical way.
 
-
-
-
 <span style="text-align: left">
-
-
-
 
 <span style="text-align: left">So that leave us with the final option;
 Fix **Time** and **Cost** and let **Features** vary. This means that we
@@ -93,14 +82,11 @@ we cannot say what will be delivered. This is, sadly, not very nice
 either... at least in this pure form (but there is help - see below).
 But it's the best (least bad) out of these options for most people.
 
-
 <div style="text-align: left">
-
 
 <div style="text-align: left">
 
 What to do?
-
 
 ### Fix them all
 
@@ -116,13 +102,11 @@ all new recipes, please. And you need to be done at 19:03 tomorrow. And
 you need to tell me on beforehand what it cost. To the dollar. And I'll
 fine you if you're late.
 
-
 <div style="text-align: left">
 
 If you ran a catering business - how would you tackle this? Yeah - you
 would say a sum that is higher than you think, to cover up for the risk
 you're taking.
-
 
 > Short side-story; I was in a project that ran way under budget and we
 > held a retrospective to find out why. So the business people said; how

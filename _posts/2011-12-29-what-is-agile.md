@@ -69,16 +69,16 @@ and sweet:
 
 Here’s a quick intro to the three levels:
 
--   On the **Shu** level you learn fundamentals and techniques. My mind
-    often wander to Karate Kid and the famous wax-on, wax-off scene, 
+- On the **Shu** level you learn fundamentals and techniques. My mind
+    often wander to Karate Kid and the famous wax-on, wax-off scene,
     when I think of this level.
--   On the **Ha** level you have reached a level of understanding of the
+- On the **Ha** level you have reached a level of understanding of the
     fundamentals that you can start to challenge the rules a bit. “What
     if I turn my hand like this?”, “Yes, but in this situation I might
     try to go this way instead”
     The thing here is that you are using your knowledge you picked up on
     the Shu level and break the rules based upon that knowledge.
--   **Ri** level means that you are leaving the rules, improvising and
+- **Ri** level means that you are leaving the rules, improvising and
     creating new ones as needed. But coming from, or being in the
     culture of the rules that you learned and challenged on the first
     two levels.
@@ -152,11 +152,11 @@ href="http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html"
 target="_blank">never seen a Scrum implementation</a> as it was meant to
 be; it’s always some part missing;
 
--   Yeah, we do Scrum, but we don’t do standups/have a board/sit
+- Yeah, we do Scrum, but we don’t do standups/have a board/sit
     together
--   It was too hard to find a good Scrum-master so we have our own
+- It was too hard to find a good Scrum-master so we have our own
     *applied* version of it.
--   It’s Scrum-ish; we don’t meat our customer that often, and we have
+- It’s Scrum-ish; we don’t meat our customer that often, and we have
     skipped iterations.
 
 This have to do with not embracing the fundamentals that agile is based
@@ -176,10 +176,10 @@ that hard:
 
 And the agile manifesto talks about, as you already know:
 
--   Individuals and interactions over processes and tools
--   Working software over comprehensive documentation
--   Customer collaboration over contract negotiation
--   Responding to change over following a plan
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
 ### But what do they mean in the Agile manifesto then?
 
@@ -191,12 +191,12 @@ have… Maybe we’ll learn something:
 
 What’s the thought behind this statement?
 
--   Firstly “uncovering” means that they (and we) are still learning.
+- Firstly “uncovering” means that they (and we) are still learning.
     This is not the truth once and for all.
--   Secondly “developing software by doing it” – all the signees of the
+- Secondly “developing software by doing it” – all the signees of the
     agile manifesto were developers, to my knowledge (!). They still had
     their hands in the dough. If that’s good or bad is another question…
--   Thirdly – “helping others” – they haven’t been sitting alone and
+- Thirdly – “helping others” – they haven’t been sitting alone and
     dreamt this up. It’s based on experiences from a lot of projects
     where they together have been involved in.
 
@@ -217,9 +217,9 @@ What do you do when a project is in danger of being late? You put all
 the smart people you need to create the product in one room. Leave them
 alone and let them work. There you have it; Scrum in a nutshell.
 
--   What would change if you could talk to your end-customer/stakeholder
+- What would change if you could talk to your end-customer/stakeholder
     each day?
--   What is the number one thing hindering you from doing so? How can
+- What is the number one thing hindering you from doing so? How can
     you change that?
 
 #### Working software over comprehensive documentation
@@ -266,8 +266,8 @@ That’s why even well working units at Lean plants will continue to put
 more pressure on themselves (decreasing WIP-limits for example) when
 they already work well. To further improve.
 
--   How can you measure how efficient you are creating working software?
--   What is the need of documentation from a end-customer perspective?
+- How can you measure how efficient you are creating working software?
+- What is the need of documentation from a end-customer perspective?
 
 #### Customer collaboration over contract negotiation
 
@@ -310,8 +310,8 @@ Really this whole business of having a IT-department that the business
 side “buys” services from is wasteful in itself. It doesn’t promote a
 collaborative culture. It’s writing contract instead of collaborating.
 
--   What could you stop doing if you sat next to your customers?
--   What would you change to improve collaboration among different
+- What could you stop doing if you sat next to your customers?
+- What would you change to improve collaboration among different
     departments in your project?
 
 #### Responding to change over following a plan
@@ -345,7 +345,7 @@ And this also comes back to feedback, which I think sums up agile in a
 word. To align your process in such a way that you get feedback and
 change your behavior to adapt to the new situation.
 
--   If you knew that everything you have decided upon so far could
+- If you knew that everything you have decided upon so far could
     change – how would you set up your project differently?
 
 ### So – really what is agile?

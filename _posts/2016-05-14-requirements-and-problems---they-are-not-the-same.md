@@ -75,4 +75,3 @@ User stories are not small requirements. They completely change the relation bet
 With Requirements a product owner expresses How the system should be built. The team then writes that in code.
 
 With User stories a product owner express a need or a problem that the team can help him to solve. The How is up to the team. The Why (and definition of what success would look like) is up to the product owner.
-

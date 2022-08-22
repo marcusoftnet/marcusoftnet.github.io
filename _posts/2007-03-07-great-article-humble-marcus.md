@@ -15,14 +15,14 @@ Found this article on [Agile Software
 Development](http://www.martinfowler.com/articles/newMethodology.html)
 and it made me realize two thing that humbled me:
 
--   I haven't done to much of Agile development. And reading this
+- I haven't done to much of Agile development. And reading this
     article makes me sad... This thoughts that agile development base
     the whole development process on is solution to many of the problems
     that i have encountered in different projects.
    I have even said and been the guys that mr Folwer talks about as
     "the old, bureaucratic engineering" developers. Brrr - sends shivers
     down my spine when i think about it :)
--   The .NET community is a bit behind... or in any case can only
+- The .NET community is a bit behind... or in any case can only
     harvest the good ideas invented by the Java-community. This article
     is written 2000! And! in it he talks about these methodologies as
     they have been around for some year.

@@ -22,8 +22,7 @@ rhymes).
 
 What you need to do is two things:
 
-
-1.  First configure the tests to run. This is easily done by adhering to
+1. First configure the tests to run. This is easily done by adhering to
     good naming standards (all test assemblies ending with tests.dll).
     Then you can add create an item group called TestContainer, like
     below. This will run through all your tests.
@@ -32,7 +31,7 @@ What you need to do is two things:
            <TestContainer Include="$(OutDir)\%2aTests.dll" />
         </ItemGroup>
 
-2.  Secondly (and here is the secret) you need to specify that the tests
+2. Secondly (and here is the secret) you need to specify that the tests
     are to be run under code coverage.
    The easiest way to do this is to setup a .testrunconfig-file with
     Visual Studio. Such a file is always created for you

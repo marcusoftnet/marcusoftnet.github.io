@@ -25,7 +25,7 @@ use the same board?”
 Well of course there is not a yes or no answer to that but here is my
 take on it:
 
-#### Low tech rules!
+#### Low tech rules
 
 First I think that no electronic system will ever beat the flexibility,
 simplicity and agileness of a board. <a
@@ -76,16 +76,16 @@ target="_blank">Waste – in Lean terms</a>.
 If I ever got the chance to decide on stuff like this (Hey, I sometimes
 do!) I would do it like this:
 
--   Keep your work items and their status on the physical board
--   Let the physical board be the master of status for the work items
--   Use the electronic system to keep reference data that doesn’t need
+- Keep your work items and their status on the physical board
+- Let the physical board be the master of status for the work items
+- Use the electronic system to keep reference data that doesn’t need
     to be on the physical board.
--   Do not keep status of the work item in the electronic system, or
+- Do not keep status of the work item in the electronic system, or
     rather not all of them. You could keep a simplified status chain
     (Not started/Started/Done for example)
--   Put a reference on the work item on the board to the ID inside the
+- Put a reference on the work item on the board to the ID inside the
     electronic system
--   “Stamp” work items with the dates they enter a new stage of your
+- “Stamp” work items with the dates they enter a new stage of your
     workflow. You can then use these data to <a
     href="http://www.agilemanagement.net/index.php/blog/Detecting_Bottlenecks_in_a_Kanban_System/"
     target="_blank">find bottlenecks</a> in your workflow, <a
@@ -94,10 +94,10 @@ do!) I would do it like this:
     some really nice <a
     href="http://www.targetprocess.com/blog/2010/02/cumulative-flow-chart-in-kanban-real-usage-example.html"
     target="_blank">follow-up-data</a>
--   Keep in synch within distributed teams by using any means possible;
+- Keep in synch within distributed teams by using any means possible;
     web cams, digital photos, telephone, IPhone video calls, travel; are
     some of the ways I have tried to solve this.
--   Use the board to get your work to flow smoother – don’t add more
+- Use the board to get your work to flow smoother – don’t add more
     work to keep the board and any system up-to-date.
 
 That’s a few thoughts on the subject.

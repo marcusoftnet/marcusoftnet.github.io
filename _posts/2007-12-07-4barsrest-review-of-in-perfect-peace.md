@@ -20,28 +20,16 @@ id="BLOGGER_PHOTO_ID_5141197799731456898"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/R1k0KN0Da4I/AAAAAAAAAOQ/ukacCkuBxtk/s1600-h/cd.jpg)
 
-
-
 4BarsRest
 has just reviewed the last CD from Gothenburg Brass Band - In Perfect
 Peace. You can read it here:
 <http://www.4barsrest.com/reviews/cds/cd344.asp>
 
-
-
-
 It's a more warm and appreciating tone and language
 the suites the spirit of the band and Bengt.
-
-
-
 
 And my notes goes unmentioned which i only can takes as it was not too
 bad. Phew!
 
-
-
-
 On the more serious side - this is a very good recording from a very
 good band. Go get it! Now!
-

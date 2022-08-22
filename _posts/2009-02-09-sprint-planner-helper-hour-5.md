@@ -22,30 +22,30 @@ some stuff. So in order to get hold of the actual model in a view you
 now (ASP.NET MVC RC 1) need to go:
 
 > \[TestMethod\]
->         public void
+> public void
 > indexViewModelIsAProductListWithOneElementsForTheTestUser()
->         {
->             var c = new ProductOwnerController();
->             var view = c.Index() as ViewResult;
->             var model = (List\<Product\>) **view.ViewData.Model**;
+> {
+> var c = new ProductOwnerController();
+> var view = c.Index() as ViewResult;
+> var model = (List\<Product\>) **view.ViewData.Model**;
 >
->             Assert.AreEqual(1, model.Count);
->         }
+> Assert.AreEqual(1, model.Count);
+> }
 
 Small stuff – but quite tricky to find…
 
 To summarize the first week I must say I am quite happy.
 
--   I am getting a hang of TDD. The test-first principle has learned me
+- I am getting a hang of TDD. The test-first principle has learned me
     a lot about the model and it keeps me from doing to much.
--   <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"
+- <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"
     target="_blank">Extreme OOP</a> is harder than I thought. Much
     harder! I decided to keep that to the refactor stage of TDD
     (Red-\>Green-\>Refactor).
--   DDD – I am not sure I am doing it right yet. Next week will contain
+- DDD – I am not sure I am doing it right yet. Next week will contain
     the Repository pattern – and I’ll need to understand that.
--   ASP.NET MVC – haven’t touched much yet. I am in modeling phase.
--   I have been able to keep my max 1 hour / day quite good. That means
+- ASP.NET MVC – haven’t touched much yet. I am in modeling phase.
+- I have been able to keep my max 1 hour / day quite good. That means
     some days it has been zero but that was my plan. I am free!!!
 
 I’ll get back to you.

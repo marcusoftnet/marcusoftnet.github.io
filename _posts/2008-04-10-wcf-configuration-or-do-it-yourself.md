@@ -31,12 +31,11 @@ templates showed me.
 
 So this is what you really need to configure on your service:
 
-
--   Name - the name of the service
--   Endpoint
-    -   Address - where to reach your service
-    -   Binding - how to reach your service (protocol)
-    -   Contract - the contract definition of the service
+- Name - the name of the service
+- Endpoint
+  - Address - where to reach your service
+  - Binding - how to reach your service (protocol)
+  - Contract - the contract definition of the service
 
 Here is an example:
 <span style="font-family: courier new">\<system.serviceModel\>
@@ -45,8 +44,8 @@ Here is an example:
 name="Tjanster.ListDataTjanst"\>
    \<endpoint
       address=""
-      binding="wsHttpBinding"            
-      contract="Tjanster.Contracts.IListData" 
+      binding="wsHttpBinding"
+      contract="Tjanster.Contracts.IListData"
    <span style="font-family: courier new">/\>
   \</service\>
 \</services\><span style="font-family: courier new">

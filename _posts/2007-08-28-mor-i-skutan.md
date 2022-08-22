@@ -15,5 +15,3 @@ some trouble at work because of this.
 
 But here you are - Galenskaparna - Mor i Skutan. (Will
 not work well in translation)
-
-

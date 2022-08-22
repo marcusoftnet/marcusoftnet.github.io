@@ -28,23 +28,23 @@ target="_blank">WriteLinesToFile</a> and wrote the following target that
 creates a bat-file as above.
 
 > \<ItemGroup\>
->       \<CmdLine Include = "@ECHO OFF"/\>
->       \<CmdLine Include = "ECHO About to install version
+> \<CmdLine Include = "@ECHO OFF"/\>
+> \<CmdLine Include = "ECHO About to install version
 > $(BuildVersion) on environment $(DeployEnv)"/\>
->       \<CmdLine Include = "SET /p passw=Enter DB password for
+> \<CmdLine Include = "SET /p passw=Enter DB password for
 > $(DeployEnv): " /\>
->       \<CmdLine Include = "CALL main.bat $(DeployEnv) .
+> \<CmdLine Include = "CALL main.bat $(DeployEnv) .
 > $(BuildVersion) %passw%"/\>
->       \<CmdLine Include = "PAUSE"/\>
->     \</ItemGroup\>
->     \<WriteLinesToFile
+> \<CmdLine Include = "PAUSE"/\>
+> \</ItemGroup\>
+> \<WriteLinesToFile
 > File="$(PublishWebSitePath)\Database\Installera\_$(DeployEnv)\_version\_$(BuildVersion).bat"
 > Lines="@(CmdLine)"
 > Overwrite="true"/\>
 >
 >  
 
-This version will wait for a password from the user so that the 
+This version will wait for a password from the user so that the
 password didn't need to be hard coded into the script.
 
 Nice Christer - Nice!

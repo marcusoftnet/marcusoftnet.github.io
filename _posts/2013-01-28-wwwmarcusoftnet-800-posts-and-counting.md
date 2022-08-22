@@ -35,5 +35,4 @@ out there but it means a lot to me.
 
 Thank you for reading my blog. Even though I started to write it for
 myself - comments and reactions is  what kept me going on for 6 years! I
-cannot promise 6 more but right now I'm on a roll. 
-
+cannot promise 6 more but right now I'm on a roll.

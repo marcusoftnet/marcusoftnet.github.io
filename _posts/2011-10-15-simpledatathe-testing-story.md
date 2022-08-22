@@ -35,7 +35,6 @@ database on the lowest level, but still go through Simple.Data.
 In this blog post I want to show you a couple of ways to write
 unit-tests that doesn’t hit the database, but still use Simple.Data.
 
-
 ### Using the XmlMockAdapter
 
 When you install Simple.Data via
@@ -49,12 +48,12 @@ according to the description; XML-based mocking for the Simple.Data data
 access library.
 I create a Class Library and NuGet’ed the following packages:
 
--   Install-Package
+- Install-Package
     <a href="http://www.nunit.org/" target="_blank">NUnit</a>
--   Install-Package ShouldFluent (<a
+- Install-Package ShouldFluent (<a
     href="http://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html"
     target="_blank">excellent assertion library</a>)
--   Install-Package Simple.Data.Mocking
+- Install-Package Simple.Data.Mocking
 
 I can now write some tests. Lets try to simply call a mocked database,
 in a known state and return some rows for us:
@@ -204,24 +203,16 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   35: }
 ```
 
-
-
-
-
-
 So here (and yes, I’ve stolen the sample from the Simple.Data
 repository’s test project) we create a XmlMockAdapter in the Setup. On
 row 9 through 16 we load it up with some XML data. This can of course be
 read from a file if you want to, but then your pushing the envelope on
 what a **unit**-test is, in my opinion.
 
-
-
 Line 18 is important – that tells Simple.Data to use our \_mockAdapter.
 So that the next time we open a database the Xml mock adapter will be
 used. In a later version of the code, I’ve peeked, you can write
 something like this:
-
 
 <div id="codeSnippetWrapper">
 <div id="codeSnippet"
@@ -230,9 +221,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
    1: Database.UseMockAdapter(_mockAdapter);
 ```
-
-
-
 
 which in my opinion is much clearer. However it works in the same way.
 
@@ -244,7 +232,6 @@ Xml-element Users as our table name.
 
 Here are some other tests using the same setup method above, and
 performing insert, updates and deletes:
-
 
 <div id="codeSnippetWrapper">
 <div id="codeSnippet"
@@ -414,11 +401,9 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   41: }
 ```
 
-
 I used the Database.Default property which simply gives us the default
 database in the .config, or in our case just the database with the
 mock-adapter. It’s just a shorthand for:
-
 
 <div id="codeSnippetWrapper">
 
@@ -433,8 +418,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    2: db.Users.WhatEver;
 ```
 
-
-
 <span class="Apple-style-span"
 style="font-size: 19px; font-weight: bold;">Using a repository
 In start of this post I said that the Simple.Data helps to write less
@@ -446,7 +429,6 @@ Simple.Data actually helps us to test the repository as well, using the
 XmlMockAdapter. Here is a short example.
 
 First my, very simple, repository:
-
 
 <div id="codeSnippetWrapper">
 <div id="codeSnippet"
@@ -528,9 +510,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   19: }
 ```
 
-
-
-
 Worth noting here might be that I am not sending anything in to this
 repository as a dependency, typically you don’t do that to a repository.
 I am simply using the Database.Open()-method to create a private field,
@@ -539,7 +518,6 @@ which I’m then using in my methods.
 In my test code I will then use the MockHelper.UseMockAdapter to ensure
 that the mock adapter will be used when I call the Database-object. Here
 is my test code:
-
 
 <div id="codeSnippetWrapper">
 <div id="codeSnippet"
@@ -681,7 +659,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   34: }
 ```
 
-
 As you can see this gives me the ability to test out the code in the
 repository.
 <span class="Apple-style-span"
@@ -699,7 +676,6 @@ adapter you can simply insert the data you need using the standard
 Insert-methods of Simple.Data.
 
 A test would then look something like this (peeking the source again):
-
 
 <div id="codeSnippetWrapper">
 <div id="codeSnippet"
@@ -792,9 +768,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
   22: }
 ```
-
-
-
 
 From the name of the branch (dict-query) you can deduce how that’s
 implemented. It’s a Dictionary holding the tables and it’s rows. I

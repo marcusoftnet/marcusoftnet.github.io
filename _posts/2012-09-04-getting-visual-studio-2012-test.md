@@ -60,23 +60,16 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-FX9dvj7RrdI/UEOyDE4vZxI/AAAAAAAABTM/lXpDG8swOPk/s320/Screen+Shot+2012-09-02+at+21.18.46.png"
 data-border="0" width="320" height="176" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
 
 When that is installed I was again happy to see that Visual Studio picks
 up my SpecFlow specifications and I can run them from the test
 explorer.
 
-
 ### But wait, there is more
-
-
 
 When I started to use the Test Explorer I found a couple of nuggets in
 there too, for us SpecFlow-users:
-
-
-
 
 - Double clicking a test takes you too... The specification and not
     the generated test. Thank you very much mr Hidden pragma (#line
@@ -102,18 +95,8 @@ there too, for us SpecFlow-users:
     src="http://3.bp.blogspot.com/-NdHpP_DIWSE/UET7XEpd_mI/AAAAAAAABTo/oqEboEjNNKE/s320/Screen+Shot+2012-09-03+at+20.47.40.png"
     data-border="0" width="320" height="104" /></a>
 
-
-
 These small things made me happy and my productivity boost a bit again.
 Once I knew who to get it to run with the testframeworks I normally
 use.
 
-
-
-
-
-
-
-
 I like it!
-

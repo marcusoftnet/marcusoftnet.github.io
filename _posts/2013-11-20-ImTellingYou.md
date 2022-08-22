@@ -47,7 +47,6 @@ head:
                                      data-border="0" width="135" height="200" /></a>                                     |
 |                                   From [IMDB](http://www.imdb.com/title/tt0500140/)                                    |
 
-
 People who read this blog knows that [I love
 constraints](http://www.marcusoft.net/2013/01/on-constraints.html), and
 people that know me knows that I'm a Seinfeld buff. He imposed a
@@ -56,29 +55,14 @@ of his jokes and went on a tour called ["I'm telling you for the last
 time"](http://www.imdb.com/title/tt0500140/). After that he started over
 with a blank sheet and never told those jokes again.
 
-
-
-
-
-
 No comparison between mr Seinfeld and me but I he inspired me to try the
 same. So I'm giving the presentations one last time and then retire them
 forever. I will never reuse the slides, I will present the materials in
 new ways. I promise!
 
-
-
-
-
-
 You can join me for one or more of the presentations 25 - 29 november
 2013. And as apposed from Seinfeld it's free. We'll also record it and
 you can catch it later. I will update the post with links later.
-
-
-
-
-
 
 <a href="http://www.blogger.com/blogger.g?blogID=36533086"
 id="more"></a>When you try to do something like this it's awesome to
@@ -88,24 +72,11 @@ giving these presentations for free for example; their immediate
 reaction was just "YES! Awesome! Go for it!" Karma - that's what we run
 Aptitud on.
 
-
-
-
-
-
 The idea is that we run a one hour lecture during lunch, just like the
 ordinary [Aptitud lunches](http://aptitud.eventbrite.com/). It's doesn't
 cost you anything (as always) but you might pick some stuff up.
 
-
-
-
-
-
 Here is the program for the week in question.
-
-
-
 
 <table class="t1" data-border="1" data-cellpadding="0"
 data-cellspacing="0">
@@ -252,11 +223,6 @@ stories - good and bad.
 </tbody>
 </table>
 
-
-
-
-
-
 I've shortened some of the presentations up quite a bit (from 3-4 hours
 to 1 hour in some cases) so be prepared for speed...
 
@@ -267,5 +233,3 @@ presentations draw zero people in the audience. So I hope for that
 too... :)
 
 This is the last time you'll hear these presentation from me.
-
-

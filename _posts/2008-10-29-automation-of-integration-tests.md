@@ -24,9 +24,9 @@ expected.
 Said and done - I implemented a few test that did that. Soon though some
 questions and problems arose;
 
--   Integration test assumes that something is released and the that
+- Integration test assumes that something is released and the that
     tests are executed against that release
--   You don't want the integration test to be executed when a developer
+- You don't want the integration test to be executed when a developer
     is running the unit test on his development machine inside Visual
     Studio.
 

@@ -27,8 +27,8 @@ this will make you focus on the right stuff, such as business logic.
 I am still a rookie (just playing around with it for a short while yet)
 but this will be my melody from now. Here is some code lines that
 convinced me:
-`  // Open a new session to retrieve the just saved user  session = factory.OpenSession();  User joeUser = (session.Load(typeof(User), "[id]") as User);`
-`   // Update a property  joeUser.LastLogon = DateTime.Now; `
-`   // Flush the changes back  session.Flush(); `
+`// Open a new session to retrieve the just saved user  session = factory.OpenSession();  User joeUser = (session.Load(typeof(User), "[id]") as User);`
+`// Update a property  joeUser.LastLogon = DateTime.Now;`
+`// Flush the changes back  session.Flush();`
 
-`   // The database is now updated!!!`
+`// The database is now updated!!!`

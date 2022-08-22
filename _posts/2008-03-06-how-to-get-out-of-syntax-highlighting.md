@@ -19,28 +19,19 @@ id="BLOGGER_PHOTO_ID_5174526782576256242"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/R8-csWQz5PI/AAAAAAAAARM/ja8UA5zTBM4/s1600-h/syntaxhighlightvb.net.jpb.JPG)
 
-
-
 One of the most annoying thing with VB.NET is when it tries to help you
 with syntax highlighting, when using snippets.
-
-
-
-
 
 You know; you type "property" hit TAB and then the property is created
 for you. The things that you needs to "fill out" is highlighted with
 some scary green color (see picture above).
 
-
-
-
-
 In Vis
--   After the snippet is filled out position the cursor after end
+
+- After the snippet is filled out position the cursor after end
     property
--   Hit ENTER
--   The green coloring is gone
+- Hit ENTER
+- The green coloring is gone
 If anyone know how to do this in Visual Studio 2005 i would love to
 know. I'll buy you a cup of coffee at Lansforsakringar, level 4. I
 promise

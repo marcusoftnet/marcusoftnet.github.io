@@ -44,8 +44,6 @@ remember:
 
 ### Communicating with examples
 
-
-
 We started this part by doing a simulation (a Black Jack game) in which
 we tried out what happens when we try to do "traditional" testing on a
 short development cycle. And our group went into all the traps that I've
@@ -55,17 +53,11 @@ implementation rather than on business value. We even got the acceptance
 test case but returned them as we thought it was a mistake. No group
 asked the customer (Gojko) what he was expecting.
 
-
-
-
 From that we started to look on how hard it is to understand each other
 and how the telephone game plays out in a software process. For even
 such simple stuff as to [how many points a simple symbol
 has](http://gojko.net/2008/08/29/how-many-points-are-there-in-a-five-point-star/) there
 were a lot of disagreements.
-
-
-
 
 We saw how using concrete examples could clarify that a great deal. And
 when we went back to our simulation and applied examples to the
@@ -73,13 +65,7 @@ requirements we've got we actually could find a whole lot
 of inconsistencies in them. Here is was really powerful to find business
 concepts by using examples such as BlackJack and Busted for example.
 
-
-
-
 Two kind of exercises for creating examples as a group stood out to me:
-
-
-
 
 - Diverge and merge - where you intentionally let several groups work
     on the same example for a while and then merge the groups to compare
@@ -89,24 +75,15 @@ Two kind of exercises for creating examples as a group stood out to me:
     down a case and then each write the expected outcome. Compare and
     learn.
 
-
-
 The main thing you want here is probably not the examples but rather to
 learn and get a shared understanding of the problem at hand. The
 examples is a great way to reach there and also to document them in.
 
-
-
 ### Key process patterns of successful teams
-
-
 
 This part I knew the most about during the course, since I've read the
 book and done presentation on these patterns. I still learned stuff of
 course:
-
-
-
 
 - All the teams that was successful in implementing Specification by
     example specified collaborative and did that using examples
@@ -114,14 +91,8 @@ course:
 - Put up a couple of examples and try to break them (drill a hole in
     them) to see if all relevant key examples has been found
 
-
-
 We then talked about some common collaboration patterns and when they
 might be applicable:
-
-
-
-
 
 - All-team workshops - when stakeholders are available, you need loads
     of knowledge transfer (you don't know much about the domain) or you
@@ -138,23 +109,14 @@ might be applicable:
     else review it. Good if your are distributed and have a hard time to
     get hold of people needed to answer questions.
 
-
 ### What makes a good specification
-
-
 
 I loved this part and learned loads from this. The main part of this was
 us dissecting and discussing a big load of examples (great idea -
 examples to understand how to write examples). Together we came up with
 a big list of stuff that was good or bad with them.
 
-
-
-
 Here are the good part, as we finally summarized them:
-
-
-
 
 - A descriptive title (what you would Google for to find this
     document)
@@ -180,13 +142,7 @@ Here are the good part, as we finally summarized them:
 - No new concepts introduced simply due to the fact that we're going
     to test this with a tool
 
-
-
 Other stuff that came up from Gojkos presentation was:
-
-
-
-
 
 - Don't write workflow scripts - write WHAT should be tested not HOW
     it should be tested. 90% of the team failing with BDD does this.
@@ -200,23 +156,14 @@ Other stuff that came up from Gojkos presentation was:
 - Write the description of the test to be a description on how to read
     the examples.
 
-
 ### Fitting into a development process
-
-
 
 This was basically a number of case studies that showed how different
 teams had fitted the ideas of Specification by example into their
 process. It was quite interesting as it ranged from fully fledged agile
 teams to very rigid waterfall-type of processes.
 
-
-
-
 A few tips I picked up:
-
-
-
 
 - Set aside time before the planning (be it sprint planning or
     whatever) to prepare some key examples. That will make the actually
@@ -233,10 +180,7 @@ A few tips I picked up:
 - Make sure that you get a mindset of collective ownership for the
     specification
 
-
 ### Adoption strategies and patterns
-
-
 
 This was something that our group came back to. How do you introduce
 these concepts? How do you sell it to the team or the stakeholders.
@@ -263,24 +207,14 @@ Gojko had three points:
     source of information (send links to them to answer questions),
     document business process (do not "write tests")  
 
-
-
-
 This section also contained a lot of other stuff but it was discussed
 and is hard to write down here.
 
-
 ### Conclusion
-
-
 
 This post was my brain dump. I don't expect anyone to get it if you
 wasn't there. If you still did I'm very happy. If you didn't get it -
 please ask a question below and I'll answer to the best of my knowledge.
 
-
-
-
 Again - thank you Gojko for a great course. I learned loads from you.
 Again.
-

@@ -71,25 +71,15 @@ ways:
 - that site defaults to server-side generation, when I want to serve a
     static JavaScript client
 
-
-
 Nowadays I tend to default to a simple backend API (see, I din't even
 write REST API just to avoid religious battles. Smooth operator :)),
 that just serve JSON and then a Javascript client that calls into that
 API, using <a href="http://angularjs.org/" target="_blank">AngularJS</a>
 for example.
 
-
-
-
 I don't need Jade, Sessions and folders for controllers etc. My whole
 API will be 1-5 files depending on how modular I'm feeling. I might need
 a public folder but that's easy enough to fix.
-
-
-
-
-
 
 So my suggestion is that you ditch the
 <a href="http://expressjs.com/guide.html#executable"
@@ -100,11 +90,6 @@ find a very powerful and terse framework that resembles
 well it resembles
 <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a> too, but
 Nancy is cooler.
-
-
-
-
-
 
 In fact, on their <a href="http://expressjs.com/guide.html#executable"
 target="_blank">guide-page</a>,
@@ -117,10 +102,7 @@ fit-in-a-tweet-web application:
 This little application just responds with "Hello World" when you access
 it on [http://localhost:3000](http://localhost:3000/)
 
-
 ### Understanding Express
-
-
 
 The API for Express is very easy and in fact there just a couple of
 basic things that you need to know in order to start coding up an API.
@@ -134,9 +116,6 @@ documentation</a>, it's great. And the
 <a href="http://expressjs.com/guide.html" target="_blank">starting
 guide</a> is also nice.
 
-
-
-
 First and formost you should create an Express application. This is
 super simple since that's what the <span
 style="font-family: Courier New, Courier, monospace;">express()
@@ -148,11 +127,6 @@ manner. They take an URL path and a callback function.
 
 You can understand it as: "when somebody *Posts* to '/orders/', execute
 this function that I'm writing here".
-
-
-
-
-
 
 As I said the path parameter can contain parameters that we easily get
 hold of via the <span
@@ -168,7 +142,6 @@ style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.
 target="_blank">bodyParser()</a> (see below). Which gives us this
 easy way to access the body data
 
-
 To this you can post a HTTP form like this (using the awesome
 <a href="http://www.getpostman.com/" target="_blank">Postman extension
 for Chrome</a>):
@@ -182,8 +155,6 @@ src="http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s
 data-border="0" width="640" height="328" /></a>
 
 </div>
-
-
 
 Sometimes, or rather after awhile, writing the functions inline gets a
 bit messy. You can then write the handling code in a separate module and
@@ -201,25 +172,17 @@ a nod to a way we created frameworks in the 90-ies. Everything that we
 really didn't know what to name was "handler". It should maybe have been
 "controller" in this case...
 
-
-
-
 You return data via the response-object that is passed to the callback
 function for your route, often called <span
 style="font-family: Courier New, Courier, monospace;">res but you
 can of course name it what ever you want. The simplest is just to do
 send as we seen a lot of examples of already.
 
-
-
-
 When you send JSON back there's a special method for that. The
 content-type will automatically be set to "application/json" for you
 when using this method as a nice little service to you.
 
 ### Middleware
-
-
 
 At the heart of Express is the Connect middleware. For the most part you
 don't need to care about Connect since it's nicely exposed as a couple
@@ -253,8 +216,6 @@ application for example
 
 #### app.param() - an example of middleware, that is really powerful
 
-
-
 The one middleware that impressed me the most, so far, is <span
 style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#app.param"
 target="_blank">app.param()</a>. This can help you do some really
@@ -275,5 +236,3 @@ target="_blank">app.param()</a> and I've adapted it here:
 Yeah, as you can see express is not that hard and that the same time
 powerful. Just like we like it. I think you get the know the framework
 much better without the generators. Go old school and type it yourself!
-
-

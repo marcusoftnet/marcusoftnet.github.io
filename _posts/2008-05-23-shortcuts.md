@@ -66,5 +66,5 @@ id="SPELLING_ERROR_53" class="blsp-spelling-error">mine:
 **\[UPDATED\]**
 That short-cut site contained some other really useful stuff also:
 
--   <http://www.dev102.com/2008/05/09/6-useful-visual-studio-tweaks-you-need-to-know/>
--   <http://www.dev102.com/2008/04/17/10-visual-studio-shortcuts-you-must-know/>
+- <http://www.dev102.com/2008/05/09/6-useful-visual-studio-tweaks-you-need-to-know/>
+- <http://www.dev102.com/2008/04/17/10-visual-studio-shortcuts-you-must-know/>

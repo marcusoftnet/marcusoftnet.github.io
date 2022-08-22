@@ -29,7 +29,7 @@ When I mock this method:
 >             End Class
 
 <span style="color: #666666;">by using the following code to do the
-mock 
+mock
 
 >     Expect.Once.On(m_mockadFacadeObject).Method("CreateSomeThing")
 

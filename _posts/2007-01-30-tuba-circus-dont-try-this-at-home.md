@@ -21,4 +21,3 @@ For all non-brass players - this is more or
 less impossible stuff. Imagine a footballer doing a tripple-salkov and kicking a basketball
 into the top corner of a goal from 200 meters - and you are close in how
 hard this is.
-

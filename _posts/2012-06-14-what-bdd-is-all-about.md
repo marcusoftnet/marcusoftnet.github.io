@@ -78,7 +78,6 @@ That gives you both a clear specification, a test of the functionality
 and a definition of done for development. You only have to fulfill the
 scenario - code to that works. That is enough. For now.
 
-
 <div class="p2">
 
 The test ability can also be used to catch regression problems and make
@@ -99,7 +98,6 @@ documentation;
 And it was great. I'd say that 97% of it was right. Problem was that I
 didn't knew which 3% that was wrong... So it was not much use to me.
 
-
 <div class="p2">
 
 To sum up - yes that article is a describes a way to do BDD - but thats
@@ -113,4 +111,3 @@ class="s2">http://dannorth.net/whats-in-a-story/](http://dannorth.net/whats-in-a
 
 Thanks for giving me the opportunity to write this. I had to think hard,
 as I knew that bright guys like you are going to read this. "
-

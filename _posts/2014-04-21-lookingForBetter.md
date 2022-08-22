@@ -89,8 +89,6 @@ better they improved it some more. If not they tried something else.
 
 ### Lean and agile
 
-
-
 Why did Toyota come up with
 <a href="http://en.wikipedia.org/wiki/Toyota_Production_System"
 target="_blank">Toyota Production System</a> (roughly what we westerners
@@ -98,42 +96,26 @@ calls lean)? Because they were smarter? Because they had someone there
 to point the way? Because they had a tradition of improvements etc (oh,
 well maybe that in fact...).
 
-
-
-
-
-
 I think, and I have not seen any evidence for this being true I confess,
 that it had to do with the whole country being in ruins after the second
 world war. They had nothing! No factories left. No raw material. Few
 people. But they still decided that they could build cars for customers
 that wanted them.
 
-
-
-
 In order to do so with their
 <a href="http://www.marcusoft.net/2013/01/on-constraints.html"
 target="_blank">current constraints</a> they needed to focus on flowing
 value through the system fast.
-
 
 > “All we are doing is looking at the time line, from the moment the
 > customer gives us an order to the point when we collect the cash. And
 > we are reducing the time line by reducing the non-value adding
 > wastes.” - Taiichi Ohno
 
-
-
 Focusing on reducing the time from order to car on your driveway. I see
 customer focus. They could have focused on their internal process,
 optimizing efficiency. But that was not their main goal, luckily. It was
 the effectiveness of the system.
-
-
-
-
-
 
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
@@ -154,16 +136,10 @@ their experience (and mine, but they didn't invite me to the meeting...
 I had a really strict spam-filter back then... yeah, that was probably
 it).
 
-
-
-
 They <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">changed how they did work</a>... in order to deliver
 value to the customer, faster, and with better quality.
 Customer-focused.
-
-
-
 
 You know what I think (or actually know, since I  seen and experienced
 it); A LOT of people said that it was stupid. That it would  never work.
@@ -192,13 +168,8 @@ else:
 
 ### More examples?
 
-
-
 I could go on and on. (Please continue to pay tribute to the unsung
 heros pioneering respectively field...)
-
-
-
 
 <a href="http://mobprogramming.org/" target="_blank">Mob
 programming!</a>
@@ -223,30 +194,16 @@ work into production to validate your ideas!</a>
 <a href="http://koajs.com/" target="_blank">Removing callbacks in
 Node! </a>
 
-
-
-
-
-
 Yeah, I'm a simple man. It's a lot about software development in there.
 That's where I get most of my experience. But you can probably come up
 with a lot of examples in your domain, from your experience.
-
-
-
-
-
 
 For each of the thing, in the list above, or what you come up with; I
 promise you that it either came into being or caught on, because it
 delivered value to a customer more effectively than the thing we did
 before.  
 
-
-
 ### Do you dare not investigate?
-
-
 
 I have been very surprised about the reactions for some of the topics
 that I follow these days; namely
@@ -266,7 +223,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://i.imgur.com/Og6PtyZ.jpg" data-border="0" width="200"
 height="192" /></a>
 
-
 Especially true is this around the \#NoEstimate topic. It seems to be
 super-touchy for some people. "NO! We have to estimates! You cannot go
 around telling/yelling to people that they should not doing that. It's
@@ -283,9 +239,6 @@ No - we (or they depending on which side of the fence you're on) want
 value. Output. We don't care much about the inside of the machine. Do
 whatever you need to do to continue to produce awesome, thank you.
 
-
-
-
 Come closer to the screen. I let you in on a secret. It will blow the
 lid of all your current knowledge and completely turn your world up side
 down. Closer... There. Are you ready?
@@ -293,7 +246,6 @@ down. Closer... There. Are you ready?
 <span style="font-size: x-small;">You know what... Agile is not the
 answer. Lean is not the answer. No Estimates is not the answer. We will
 find new ways. We will improve. Like in Jurassic park:
-
 
 > <a href="http://www.goodreads.com/quotes/532440-life-will-find-a-way"
 > target="_blank">Life will find a way</a> - Michael Crichton
@@ -338,19 +290,9 @@ very simple but will take you far:
 5. Start from 2 again. Repeat and reach wider and wider. Start asking
     questions on "Why we are here?"
 
-
-
 This is a little exercise that I have going in my head. Yes, I have read
 Switch many times. Five now, I think. It helps me sort out my thoughts
 about change and getting others onboard.
 
-
-
-
-
-
 I hope you found this post interesting. I learned a lot by trying to
 write it down.
-
-
-

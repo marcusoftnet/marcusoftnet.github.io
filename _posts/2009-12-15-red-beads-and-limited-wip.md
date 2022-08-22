@@ -38,4 +38,4 @@ system will beat a good person every time”</a>
 If you haven’t seen it before there is an <a
 href="http://skillsmatter.com/podcast/agile-scrum/demings-red-bead-experiment"
 target="_blank">excellent recording</a> with Benjamin Mitchell and David
-Joyce. 
+Joyce.

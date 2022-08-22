@@ -90,7 +90,7 @@ As the team finish a feature they get capacity for another one (they do right no
 
 However it might be that calling that meeting is cumbersome and needs to be planned in advance. That's what the dotted line is for. Here's how it works:
 
-*  The team pull items from the top
+* The team pull items from the top
 * Once the third item is pulled into "Doing"-column a need to refill the "Up next" column occurs
 * We move the 3 remaining items up to the top of "Up Next". They are now top of backlog
 * We call a "big room meeting" for the next 3 items to be put at the end of the column

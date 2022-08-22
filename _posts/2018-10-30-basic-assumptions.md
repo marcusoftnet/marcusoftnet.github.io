@@ -24,7 +24,7 @@ Let me describe a little bit more what I mean.
 
 This is probably (who knows - my brain ... I don't always trust it myself) a riff of the [Retrospective Prime Directive](http://retrospectivewiki.org/index.php?title=The_Prime_Directive):
 
->  Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
+> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.
 >>Norm Kerth, Project Retrospectives: A Handbook for Team Review
 
 Yes, I know that there are evil people, but admit it: it is so much easier to discuss, whatever problem we are facing if we disregard that for a while.
@@ -59,13 +59,14 @@ Let's try it, by going via negativa on that statement:
 
 Yes - the via negativa test works. That would be bad for the survival of the company, at least in the long run.
 
-So we can confirm this then: there's **always** more to do than we have the capacity to do. Great! That means that we need to be very careful in using this scarce capacity to do the _right_ thing. Because doing the wrong thing means that we now spent some of the capacity, that we have too little of, to do the _wrong_ thing. Brrr - that is the definition of waste.
+So we can confirm this then: there's **always** more to do than we have the capacity to do. Great! That means that we need to be very careful in using this scarce capacity to do the *right* thing. Because doing the wrong thing means that we now spent some of the capacity, that we have too little of, to do the *wrong* thing. Brrr - that is the definition of waste.
 
 Let's make sure that whatever we prioritize so high that we are actually spending scarce and limited capacity on is the well worth it.
 
 That just leaves one question; how do we know that?
 
 ## We don't know what will work best
+
 Well... that is a bit sad really. Because my last assumption tells us that we cannot know what works best. The only way to uncover this knowledge is to try it for real.
 
 Luckily it doesn't have to be a complete thing. In fact, it's better for us to do as small as possible. Just enough to know if what we thought was true turned out to be true.

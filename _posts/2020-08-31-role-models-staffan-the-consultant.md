@@ -31,7 +31,7 @@ In my book IT people was not the hippest bunch. But Staffan... he was super cool
 
 Now, that was not what caught my attention and liking. No - Staffan caught me with his first statement:
 
->  Hi I'm Staffan. My job is to make your job easier and more enjoyable.
+> Hi I'm Staffan. My job is to make your job easier and more enjoyable.
 
 BOM - summarizing [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) in a sentence.
 
@@ -41,6 +41,6 @@ Finally, he was fun and easy-going combined with hard work and quality-focused w
 
 The way we conducted meetings also stuck: the joking attitude and easy going style during the meetings, without loosing focus and structure throughout the agenda. One fun thing that Staffan did was that he cried out in horror if only two people (out of the 25 in our team) were discussing something by themsleves during the meeting:
 
->  AAAAaaah - too expensive. Please take it off-line
+> AAAAaaah - too expensive. Please take it off-line
 To me, stuff like that wrapped up into "how an IT-consultant behaves". I went on to be an IT consultant myself for about 20 years and counting (although I'm on a break now). And I have, since then, tried to bring some aspect of that into every gig.
 Staffan - thank you! Those 6 months were hugely impactful on me. We have not met after that and I hope that you continue to inspire others as you did me.

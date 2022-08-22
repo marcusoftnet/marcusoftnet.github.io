@@ -34,9 +34,11 @@ The task-board simply lists 3 (not more at the time) tasks and our current effor
 It was a start and it served us well. For awhile. But then ...
 
 # Discovery through evolution
+
 Since we always have some diagrams on the board, we sometimes saw a disconnect between what we did and what we measured. For example, we track the number of patients served per day, but we working on improving the paint in our ER. How are they related? How can we know if fixing the paint in the ER is really good for us? What do we want to achieve with fixing the paint in ER? Is that contributing to the over all goal of the hospital? What is that now again?
 
 ## Definition of Done
+
 At this point we stared to add some more columns to our board. The first one we added was Definition of Done. A well-known concept for those that study the noble art of [Scrum](https://www.scrumalliance.org/community/articles/2008/september/what-is-definition-of-done-(dod)).
 
 Quite simply as we put a new item on the board we ask:
@@ -46,6 +48,7 @@ Quite simply as we put a new item on the board we ask:
 I've found that asking this question early raises a lot of really good questions and considerations early. We want that.
 
 ## Experiment driven
+
 But then we started to do things that we didn't really know what the Definition of Done was for. For example; we want to increase the number of patients that we serve each day. To what? Well, more... When is that done? Eeehh... soon... ish...
 What is Done really for this? Done? We never wanna be Done. More is better. Less is worse.
 
@@ -58,6 +61,7 @@ At this point I happened to mention experiments and we tried something out. We c
 * And an empty column for things like PIC or deadlines as we see fit.
 
 # Hypothesis and experiments
+
 For the hypothesis column we made a "rule"[^1]:
 
 >The things that we do, should be measured somehow, so that we can know if we're reaching our goal or not.
@@ -76,6 +80,7 @@ Sometimes we track more than one thing. The examples above both have bearing on 
 The top left is the number of patients, below that is the number of new patients per day. The last one shows the number of operations per day.
 
 ## What's important to track really?
+
 A very interesting, and much too big for this post really, discussion emerged out of us changing our ways into this approach: What are we measuring here?
 
 I'm will write this up in a longer post. Promise. But shortly like this:
@@ -100,6 +105,7 @@ Some interesting questions arises:
 Ok - let's not dwell longer here. Moving on the the experiment column.
 
 # Experiments
+
 With the hypothesis in place our experiments (tasks in the Experiment column) now is easier to talk about. Basically we just ask:
 
 <blockquote>What should we try next to improve the metric of this hypothesis? </blockquote>
@@ -120,6 +126,7 @@ One thing that we continuously find good about this is to check back in with the
 * Is there other, more impact-full experiments we could try.
 
 # Yesterday
+
 This is mostly a report about where we are today. It's not complete. Maybe never will be.
 
 Instead of writing a conclusion I'll tell you what happened yesterday. Because yesterday my client "got it".
@@ -138,6 +145,7 @@ I just stood in the background. Smiling!
 Experiment-driven management in action.
 
 # Summary
+
 I got some great feedback from my good friend [Håkan Forss](http://hakanforss.wordpress.com), about the length and chatty-ness of the post. Any feedback from him is worth listening too. But I also wanted to write the story... So I'd thought I summaries the post here.
 
 Actually I did that already, for the hospital. That's why I wrote the post, to be able to summaries the ideas behind the how our board is working. To the left you can see the cheat-sheet that we have posted right on our board to remember how it works:

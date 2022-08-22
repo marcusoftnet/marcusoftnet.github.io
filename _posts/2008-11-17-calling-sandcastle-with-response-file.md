@@ -57,31 +57,31 @@ file:
 
 > \<PropertyGroup\>
 > \<!-- Sandcastle parameters --\>
->       \<SandCastleExePath\>C:\Program Files\EWSoftware\Sandcastle Help
+> \<SandCastleExePath\>C:\Program Files\EWSoftware\Sandcastle Help
 > File Builder\SandcastleBuilderConsole.exe\</SandCastleExePath\>
->        
+>
 > \<SandCastleOuputLocation\>$(DropLocation)\SystemDokumentation\Tjanster\</SandCastleOuputLocation\>
->        
+>
 > \<SandCastleWorkingDir\>$(CurrentSolutionRoot)\SandCastleWorkingDir\</SandCastleWorkingDir\>
->         \<SandCastleResponseFile\>$(CurrentSolutionRoot)\Solution
+> \<SandCastleResponseFile\>$(CurrentSolutionRoot)\Solution
 > Items\Documentation\SystemName.SandCastleSettings.txt\</SandCastleResponseFile\>
 > \</PropertyGroup\>
 >
 > \<Target Name="GenerateDocumentation" Condition="'$(Documentation)' ==
 > 'true'"\>
->     \<!-- Clean directories --\>
->     \<RemoveDir Directories="$(SandCastleOuputLocation)" /\>
->     \<MakeDir Directories="$(SandCastleOuputLocation)" /\>
->     \<RemoveDir Directories="$(SandCastleWorkingDir)" /\>
->     \<MakeDir Directories="$(SandCastleWorkingDir)" /\>
->     \<!-- Create the documentation with call to Sandcastle with the
+> \<!-- Clean directories --\>
+> \<RemoveDir Directories="$(SandCastleOuputLocation)" /\>
+> \<MakeDir Directories="$(SandCastleOuputLocation)" /\>
+> \<RemoveDir Directories="$(SandCastleWorkingDir)" /\>
+> \<MakeDir Directories="$(SandCastleWorkingDir)" /\>
+> \<!-- Create the documentation with call to Sandcastle with the
 > parameters of the response-file --\>
->     \<Exec WorkingDirectory="$(OutDir)"
+> \<Exec WorkingDirectory="$(OutDir)"
 > Command="&quot;$(SandCastleExePath)&quot;
 > @&quot;$(SandCastleResponseFile)&quot;
 > -workingpath=&quot;$(SandCastleWorkingDir)&quot;
 > -outputPath=&quot;$(SandCastleOuputLocation)&quot;" /\>
->     \<!-- Clean working directory --\>
->     \<RemoveDir Directories="$(SandCastleWorkingDir)" /\>
+> \<!-- Clean working directory --\>
+> \<RemoveDir Directories="$(SandCastleWorkingDir)" /\>
 > \</Target\>
 > <span style="color: #333333; font-size: x-small;">

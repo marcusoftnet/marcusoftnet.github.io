@@ -48,7 +48,6 @@ You know what? It never gets fixed. And then the problem happens. Blame is dishe
 
 All with the best intentions. From both sides.
 
-
 The original question was - how does technical debt **feel?**
 
 For me, that feels like we have been tricked or ripped off. And it has happened many times so we feel even more stupid for walking into the same "trap" again and again.

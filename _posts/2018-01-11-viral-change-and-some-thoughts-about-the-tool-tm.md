@@ -76,7 +76,6 @@ Well, Viral Change has an interesting take on that too.  This quote about, for e
 
 > There are no big declarations of ‘a new programme’ or anything that looks/may look like ’another corporate initiative’6. **The more visible and more formal Viral Change TM becomes, the less likely its success**.
 
-
 and this
 
 > In fact, the greatest risk to Viral Change TM is the almost **inevitable tendency to formalize** it more than needed; something that sometimes occurs spontaneously in the management ranks due to our learned way of doing things.

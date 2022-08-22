@@ -25,5 +25,4 @@ certification. Great to be on a course and it will also be great to have
 that certificate in the CV. Below is a picture of the place where the
 course takes place... Nice huh.
 
-
 <img src="http://www.wtc.se/img/030213.gif" data-borde="0" />

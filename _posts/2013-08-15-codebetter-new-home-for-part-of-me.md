@@ -32,58 +32,41 @@ and failures on the net. Most of the things that I have learned during
 the last years as also come from me interacting with different awesome
 thinkers - not seldom ONLY online (twitter and through the blog).
 
-
 A few things that stand out for me are:
 
--   Got offered to write
+- Got offered to write
     <a href="http://bit.ly/theKanbanBook" target="_blank">Kanban in
     Action</a> (with <a href="http://twitter.com/joakimsunden"
     target="_blank">@joakimsunden</a>)
--   Got a couple of truly amazing gigs - way over my head. And pulled
+- Got a couple of truly amazing gigs - way over my head. And pulled
     them off in some cases
--   Have spoken at conferences
+- Have spoken at conferences
     (<a href="http://oredev.org/2013" target="_blank">ÖreDev</a> and
     <a href="http://www.jfokus.se/" target="_blank">JFokus</a> for
     example) and at numerous
--   Spoke at <a
+- Spoke at <a
     href="http://skillsmatter.com/podcast/agile-testing/cuke-envy-a-dot-net-programmers-attempt-to-catch-up"
-    target="_blank">Skillsmatter CukeUp</a> 
--   Offered to blog at [CodeBetter.com](http://codebetter.com/) - next
+    target="_blank">Skillsmatter CukeUp</a>
+- Offered to blog at [CodeBetter.com](http://codebetter.com/) - next
     to some of the heroes I've been learning from
-
-
 
 In some of the cases above I'm still convinced that they've got the
 wrong person (but I wont tell them). In all of the cases above I'm
-convinced that it has to do with my "presence" on the net. 
-
-
-
-
-
+convinced that it has to do with my "presence" on the net.
 
 I'm very humbled from all of this and looking back I truly cannot
-comprehend how lucky I've been. 
-
+comprehend how lucky I've been.
 
 ### CodeBetter
 
-
-
 If you look carefully on the list above you see CodeBetter in the list.
 Right out of the blue I got contacted with the following question:
-
-
-
 
 > [@Codebetter](https://twitter.com/Codebetter)
 > [@marcusoftnet](https://twitter.com/marcusoftnet) Would you like to
 > blog on <http://t.co/beXoswqEXt>?
 > — Brendan Tompkins (@btompkins) [August 1,
 > 2013](https://twitter.com/btompkins/statuses/362963570784354304)
-
-
-
 
 This was followed up with a <a
 href="http://codebetter.com/brendantompkins/2013/08/02/welcome-marcus-hammarberg/"
@@ -109,8 +92,7 @@ for a big newspaper and write some posts there.
 I started this blog when I had lost my notepad three times in a month. I
 wrote for me. Stuff that I interested me. That evolved but I always
 wrote about stuff that engaged me. I think that makes for better
-writing. 
-
+writing.
 
 <div style="text-align: left;">
 
@@ -119,12 +101,7 @@ writing. 
 If I would give anyone advice it would be just that: share the stuff
 that engages you. You'll be amazed what will follow from that. Sharing
 truly is knowledge since you'll learn more as you share - ask any
-teacher.    
-
-
-
-
-
+teacher.
 
 More advices from some very
 <a href="http://www.hanselman.com/" target="_blank">prominent</a>
@@ -134,7 +111,3 @@ featured in the awesome
 Involved</a> production of
 <a href="http://tekpub.com/" target="_blank">TekPub</a>. Watch it - it's
 well worth the money!
-
-
-
-

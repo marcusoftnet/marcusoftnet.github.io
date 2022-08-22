@@ -84,11 +84,7 @@ Make it work for you not against you. You never heard a carpenter say:
 > for me, but since they told me to use it, I probably better... Would
 > sure love something heavier though. To do the job right, I mean"
 
-
-
 This is not news. It's common sense. Use it. Start where you are and
 make the board reflect your process. Improve from where you are now -
 not where literature on Scrum, XP or any other process tells you that
 you *should* be.
-
-

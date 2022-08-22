@@ -21,11 +21,8 @@ this is probably no news to people reading
 [4BarsRest](http://www.4barsrest.com/), but one of the most successful
 bands in later years (ever?) is being dis-assembled as we speak (?).
 
-
-
 Since Sunday all of the key players and the conductor has left the band
 in a single file:
-
 
 - [David King](http://www.4barsrest.com/news/detail.asp?id=4638) -
     conductor and primus motor for the band since 13 years

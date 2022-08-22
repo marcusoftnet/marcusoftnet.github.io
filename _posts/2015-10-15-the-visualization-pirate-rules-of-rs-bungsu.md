@@ -21,6 +21,7 @@ In this post I wanted to share our current set of "rules". Hopefully this will b
 <!-- excerpt-end -->
 
 # These are more like guidelines
+
 The Pirates of the Caribbean is a really great movie, I think. The other installments not so much, but the first (Curse of the Black Pearl) rocks.
 
 There's an very funny and recurring quote about The Pirate Code. Different people comes back to the importance of following The Pirate Code. But they seem to be very flexible in interpretation. The pirate [Captain Barbossa](http://www.imdb.com/title/tt0325980/quotes?item=qt0416601) explains it like this:
@@ -42,6 +43,7 @@ These rules are meant to bootstrap us to succeed. Or "Fall into the pit of succe
 Let me make a few short comments about them here.
 
 # Visible for all
+
 First and foremost we strive to make the metrics *transparent*. As in "show them to all the staff every morning". This is a **big** thing in Indonesia, I can tell you. Quite the opposite from most management recommendation and trends. But it works for us.
 
 <img src="/img/board150324.jpg" style="padding:15px" width="100%">
@@ -52,11 +54,13 @@ We put only one metric per diagram in (so far), to hinder cluttering
 Our goal is that you should be able to tell me what the data explains from the back of the room. You do not have to be able to read every detail, but stuff like; are we above or below target, what is the overall trend etc. If not - the visualization is to small.
 
 ## Optional: physical
+
 By the way, if it's going to be **big** we've found that it's better to make it physical. There's also something with the tangible nature of a diagram on a white-board that makes it more *real* than an Excel diagram on a projected screen.
 
 For example; we update the diagrams, by hand, every morning. For good days, there's cheers and rejoicing. For bad days... a more solemn, reflective mood :)
 
 # Understandable by all
+
 Showing the data is not enough, the data has to be simple enough that everyone understands it. Showing data that people can't make sense of is pretty useless.
 
 For example in our hospital we have shown how the hospital is doing financially. This is abstract and pretty uninteresting information for most staff, actually. We also noticed this since at one point in time the hospital was *really* struggling and still no one reacted. There were yawns, looking at the phones etc. when the *catastrophic* data was revealed.
@@ -83,6 +87,7 @@ BOM! I've never seen a more collective jaw-drop in my life. Everyone got that.
 Therefore we from then strive to make the visualizations of our metric in a way that is easy to understand for everyone. Our target is that everyone in the hospital should be able to tell us what the data is about and how we are doing.
 
 # Focus on learning and trends
+
 All our metrics are to learn about how we, as a hospital, are doing. We are not interested in performance indicators for individuals.
 
 This also means that individual numbers are not that interesting for us, we focus merely on the trends. For example; if our goal is to try to increase number of patient served per day, we will just take a step back, squint our eyes and see if the trends is pointing upwards or not. If we can't see that we call it "flat" and need to continue to work towards the target.
@@ -94,6 +99,7 @@ An easy way to do that is to take away the outliers. In the diagram below there'
 Oooor... this might be a ripe opportunity for improvement. If we could become "that hospital that has excellent care on Sundays"... but now we're leaving visualization country and entering management / marketing territory. I'll leave that up to them.
 
 # Has a least one target
+
 We've found it very important to have **target**, a goal for our data. Without it the data doesn't make much sense to the people we are describing it to;
 
 <blockquote>Oh! Number of Operations per day was 6 yesterday, average seems like 4 and trend is pointing up. Is that good?</blockquote>
@@ -103,6 +109,7 @@ Well it's really good numbers if the goal was 5. But it sucks if the goal is 25.
 By visualizing a target (often just a simple line) on the board it's much easier to understand and make decisions based on the information.
 
 # Changes often
+
 I've [blogged about this one already](http://www.marcusoft.net/2015/09/indicators-leading-trailing---short-or-long.html) so I'll leave this short. We prefer data that is "too simple" but moves often rather than "very accurate" and updates seldom.
 
 Here's a few examples to clarify what I mean:
@@ -116,6 +123,7 @@ Note that this goes for our visualized metrics. We still compare and follow up s
 The reason we strive for quick moving metrics, even though they might be simplified, is that it makes the data interesting and relevant. If the data moves once per month people loose interest.
 
 # Summary
+
 Using these "rules" we have found that the visualized metrics we are using becomes much more relevant, useful and interesting to everyone that we show it too.
 
 Underlying which metrics we choose lies a strive to only do things that will make an impact on the things that we are tracking. That's another blog post, but basically we ask (thank you [Dr Hubbard](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html)):

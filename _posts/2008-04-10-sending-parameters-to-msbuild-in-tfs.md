@@ -51,7 +51,6 @@ value:$(Marcus)" /\>
 Name="CreateDocumentationWhichTakesALongTime"
 Condition="$(Marcus)=='12'"\>
 
-
 **<span style="font-size:130%;">Parameters to TFS Builds**
 But how do you get parameters send to the build script that is run
 inside TFS?

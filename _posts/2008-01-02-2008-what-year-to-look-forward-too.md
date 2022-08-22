@@ -17,16 +17,16 @@ month or so to get use to it.
 
 Here are a of the things i look forward to in 2008:
 
--   Of course - becoming a father. No - nothing yet. But soon!
--   Recording a CD with my band, the Vasa Band. The band has been
+- Of course - becoming a father. No - nothing yet. But soon!
+- Recording a CD with my band, the Vasa Band. The band has been
     working so hard for a long time now. It will be great to record it
     for real.
     Also i will be playing a solo on the CD which is a first for me. I
     will be playing my favorite solo in the Salvation Army literature
     "Journey into peace" by William Himes. That will also be great
--   Becoming a Sergent Major at the Vasa Corps. For the first time i
+- Becoming a Sergent Major at the Vasa Corps. For the first time i
     really feel that a role suites me.
--   Rebuilding the Vasa Corps - from 28/12 2007 it's in progress. We are
+- Rebuilding the Vasa Corps - from 28/12 2007 it's in progress. We are
     now rebuilding the corps. YEEES - it took about five years to come
     to a decision. Packing are in progress
 

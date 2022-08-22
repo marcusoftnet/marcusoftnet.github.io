@@ -24,12 +24,12 @@ about. But that tool doesn't show the any code coverage result.
 
 Here I must add that I know these two things:
 
--   firstly the main part of the code coverage data is only interesting
+- firstly the main part of the code coverage data is only interesting
     to the developers and might not benefit from being shown to
     others.
     But I just want to show that 97% of our code is covered by out unit
     test. Calms the project management...
--   secondly - it might be a simple thing to tweak the internal XML
+- secondly - it might be a simple thing to tweak the internal XML
     Transformation of the [trx2html](http://www.codeplex.com/trx2html)-tool.
     But it doesn't feel good to have tweaked third party code in a
     professional environment.
@@ -45,15 +45,15 @@ Now I just needed to create a link to the report and put it in the
 drop-folder for our build so that all persons interested could see the
 latest results. Here is what I did - not pretty, but it works;
 
--   I browsed to the report and dragged the link (the little icon in the
+- I browsed to the report and dragged the link (the little icon in the
     url-field) to my desktop
--   I opened that "Internet shortcut" in Notepad and copied the <span
+- I opened that "Internet shortcut" in Notepad and copied the <span
     id="SPELLING_ERROR_7" class="blsp-spelling-error">entier
     content
--   Then I added a txt-file to my solution and
+- Then I added a txt-file to my solution and
     pasted the content of the Internet shortcut into that file.
     For some reason you can't add a Internet shortcut to the solution.
--   Then I created a MSBuild target that copies the
+- Then I created a MSBuild target that copies the
     file to the drop location and change its file-extension to .<span
     id="SPELLING_ERROR_10" class="blsp-spelling-error">url.
     Here is my target:
@@ -69,7 +69,8 @@ latest results. Here is what I did - not pretty, but it works;
         &lt;Message Text="Create link to build report" />
        &lt;Copy SourceFiles="$(SolutionRoot)\Solution Items\Tools\BuildReportLink.txt" DestinationFiles="\\$(DropServerName)\Drops\$(AppName)\TestResults\BuildReportLink.url" />
       &lt;/Target>
--   Finally I made my build script call that target
+
+- Finally I made my build script call that target
 
 As I said - maybe not a very pretty solution but it sure came through
 for us and helped us report code coverage data in a nice way.

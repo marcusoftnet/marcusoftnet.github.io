@@ -18,16 +18,15 @@ consultant. Up to now - and now I am really looking forward to it.
 
 Here are some starters that I've found useful as introductions:
 
-
--   [Learn Oracle and .NET in 2
+- [Learn Oracle and .NET in 2
     days](http://download.oracle.com/docs/cd/B25329_01/doc/appdev.102/b25312.pdf) -
     from Oracle
--   [Oracle .NET developer
+- [Oracle .NET developer
     center](http://www.oracle.com/technology/tech/dotnet/index.html)
--   [Oracle
+- [Oracle
     introduction](http://www.oracle.com/technology/obe/net11gobe/building.net/vs_otn2.htm)
     to building .NET applications with ODT
--   [Oracle Developer Tools for Visual
+- [Oracle Developer Tools for Visual
     Studio](http://www.oracle.com/technology/tech/dotnet/tools/index.html)
     (with some nice links)
 

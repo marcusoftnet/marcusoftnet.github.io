@@ -47,15 +47,10 @@ style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; 
 <div id="dfe2d96f-343f-43d3-8c4b-6e5874e1c328"
 style="margin: 0px; padding: 0px; display: inline;">
 
-
-
 <a href="http://www.youtube.com/watch?v=0w5UoBxGodk" target="_new"><img
 src="http://lh4.ggpht.com/_TI0jeIedRFk/So6DK6bWL8I/AAAAAAAAAGo/58R4zADdNVM/videoc98d5eb167f7%5B2%5D.jpg?imgmax=800"
 style="border-style: none" data-galleryimg="no"
 onload="var downlevelDiv = document.getElementById('dfe2d96f-343f-43d3-8c4b-6e5874e1c328'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/0w5UoBxGodk&amp;hl=en\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/0w5UoBxGodk&amp;hl=en\&quot; type=\&quot;application/x-shockwave-flash\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" /></a>
-
-
-
 
 <a
 href="http://blog.staffannoteberg.com/2009/01/10/pomodoro-technique-oredev-2008-video/"

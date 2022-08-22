@@ -23,6 +23,7 @@ production environment.
 This can seem like a very daunting task to take on but if you think
 about it, it only has to do with us taking on to much work in process.
 In this blog post I'll elaborate on some thoughts around that.
+
 ### Continuous delivery is not hard at all
 
 This little conversation took place the other day when I explained
@@ -68,7 +69,7 @@ continuous delivery is hard stuff!
 
 > Hey - wait a minute... Didn't you just write that ...
 > Yes, I did. But stay with me for a while and something interesting
-> might fall out. 
+> might fall out.
 
 In a system that has been around for a while we have a big code base, a
 lot of dependencies to other systems, runs on several servers, no
@@ -91,83 +92,49 @@ closer to it.
 
 ### What is the difference then?
 
-
-
 In one end continuous delivery is hard and seemingly impossible to get
 started with. On the other side of things continuous delivery is easy to
-do and get started with. What's the difference then? 
-
-
-
-
-
+do and get started with. What's the difference then?
 
 WIP. <a href="http://en.wikipedia.org/wiki/Work_in_process"
 target="_blank">Work in process</a>. Doing a lot of stuff at the same
 time. This is a key concept in lean and well known way of increasing the
-flow of work in your workflow is to limit work in process. 
-
-
-
-
-
+flow of work in your workflow is to limit work in process.
 
 Anders, that does release after the first week, he has a WIP-load of 1
 weeks coding worth. The company that releases every 4 month has
-increased that to 4 months of changes that need to be tested, 
-dependencies that needs to be tracked etc. 
-
-
-
+increased that to 4 months of changes that need to be tested,
+dependencies that needs to be tracked etc.
 
 If you release on day 1 the WIP is tiny. And thereby easy to handle. To
 release every commit/change to the system is lowering the WIP even
-more. 
-
-
-
-
-
+more.
 
 A couple of things to note here:
 
-
-
-
--   You chose! There's nothing technical that forces us to do releases
+- You chose! There's nothing technical that forces us to do releases
     more seldom. You can change that policy. Or even better set it at
     the outset of you project. <a
     href="http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html"
     target="_blank">Still we chose not to</a>
--   If you release at day one you have a super low WIP, as noted. Here's
+- If you release at day one you have a super low WIP, as noted. Here's
     some good news; if you then do a release on day 2 that WIP is still
     just 1 day. It never increases. You can keep it low.
--   There's a lot (!) of other good things that come
+- There's a lot (!) of other good things that come
     from preferring small stuff often rather big ones seldom; business
     agility, less risk, higher trust with stakeholders, higher
     motivation etc. Seeking a lower WIP can only do you good.
     Customers want stuff in production - not a lot of stuff almost in
-    production. 
+    production.
 
 ### Summary and what I didn't talked about
-
-
-
 
 In this post I just contrasted two ways of looking a deployment to see
 that it's really just a choice we make. The choice of doing a lot of
 changes, dependencies, environment tweaks, coding and testing at the
-same time - or not. 
+same time - or not.
 
-
-
-
-The choice is yours. It starts the first day of your system. 
-
-
-
-
-
+The choice is yours. It starts the first day of your system.
 
 Continuous delivery is much more than this of course. I haven't talked
 anything about HOW to get this to work. There's <a
@@ -176,4 +143,3 @@ target="_blank">great resources</a> on
 <a href="http://continuous-delivery.thoughtworks.com/"
 target="_blank">this</a> that does it
 <a href="http://t.co/GP2GZjOM" target="_blank">much better</a> than me.
-

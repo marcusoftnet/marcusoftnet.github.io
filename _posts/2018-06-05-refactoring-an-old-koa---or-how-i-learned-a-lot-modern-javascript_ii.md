@@ -95,9 +95,9 @@ Yes yes - I have a helper class. Hate away. But maybe we can get rid of it once 
 
 First we clean it up, like with the others.
 
-* We'll move the exports to a "interface"-definition at the end
-* Replace `var` with `const` whereever we can
-* Rename `test_user` to what StandardJs tell us `testUser`
+- We'll move the exports to a "interface"-definition at the end
+- Replace `var` with `const` whereever we can
+- Rename `test_user` to what StandardJs tell us `testUser`
 
 That makes the code look like this:
 

@@ -23,12 +23,12 @@ I switched syntax in about a day and feel quite at home with it now. A
 few things that is a bit strange for the kind of language that VB.NET is
 (i.e. helpful and forgiving):
 
--   The refactor menu from Visual Studio 2005 is gone! Why is that? It
+- The refactor menu from Visual Studio 2005 is gone! Why is that? It
     so good... Well found a [freeware
     download](http://www.devexpress.com/Products/NET/IDETools/VBRefactor/)
     which i am using now. The GUI of that download is really cool, maybe
     a bit irritating after a while, even.
--   Namespaces are a bit troublesome. If you create a folder in your
+- Namespaces are a bit troublesome. If you create a folder in your
     project and then add a class into it, the class still get the
     project default namespace. I've been doing some googeling about it
     but cannot find a solution to it...

@@ -50,8 +50,6 @@ This post is about a testing framework for HTTP:
 <a href="https://github.com/visionmedia/supertest"
 target="_blank">supertest</a>.
 
-
-
 Really, I shouldn't need to write anything more after stating the name
 of the module. That's SUPER testing people. That's all we really
 need...
@@ -106,7 +104,6 @@ understanding of it.
 
 Now let's do a post as well and see how to send data to the server:
 
-
 Here you can see me use the URL instead of the app-object. I (think that
 I) then have to make sure that the application is up and running so it's
 a bit more complex with more moving parts.
@@ -120,4 +117,3 @@ those - "it just works"-frameworks which is awesome. In doubt checkout
 the documentation for <a href="https://github.com/visionmedia/supertest"
 target="_blank">supertest</a> and <a href="https://github.com/visionmedia/superagent"
 target="_blank">super-agent</a>.
-

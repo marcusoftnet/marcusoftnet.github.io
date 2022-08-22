@@ -19,6 +19,7 @@ I cannot help but wonder:
 <!-- excerpt-end -->
 
 # Glimpses
+
 <img src="/img/perspective.jpg" width="100%" alt="from https://pixabay.com/en/road-distance-landscape-horizon-348544/">
 
 Before I reveal my thoughts here - let me give a few glimpses (recent and old) that made me think about this;
@@ -31,6 +32,7 @@ Before I reveal my thoughts here - let me give a few glimpses (recent and old) t
 * 11 September 2001 - I was in a very strained meeting with a client. Once we got out we found the rest of the company glued to TV-screens. Apparently there was an airplane that crashed into World Trade Center. I remember seeing the second plane crash live.
 
 # What if? What would then be important? What is really important?
+
 Here's a little thought-experiment that you can amuse (eeeh... not really but challenge maybe) your brain with the next time you're in a though, horrible or hard meeting;
 
 Take the most horrible person in the room and imagine how you would look at her if you learned that her mother just died. Or that manager cracking his whip (figuratively speaking... I hope) at you - what if you learned that his wife just left him. Or if someone just brought news about that silent girl in the finance department - she just got diagnosed with cancer.
@@ -52,6 +54,7 @@ What would not be important?
 That, right there. The strange feeling I get when I think about things like that; it's called empathy. And I think we see to little of it in our workplace.
 
 # Summary
+
 <blockquote>WHAT? The things we work with is not important? Loosing millions of dollars is not important, is that what you are saying? </blockquote>
 
 <blockquote>And why on earth should I think all those horrible thoughts? You want me to get depressed?</blockquote>

@@ -38,17 +38,17 @@ some funky words and coolness from the presenter…
 And here is another bunch of stuff that has helped me in my
 explorations:
 
--   <a href="http://css-tricks.com/video-screencasts/35-intro-to-jquery-2/"
+- <a href="http://css-tricks.com/video-screencasts/35-intro-to-jquery-2/"
     target="_blank">The second part of the screencast above</a>
--   <a href="http://docs.jquery.com/" target="_blank">JQuery’s own
+- <a href="http://docs.jquery.com/" target="_blank">JQuery’s own
     documentation</a>
--   And
+- And
     <a href="http://docs.jquery.com/Tutorials" target="_blank">JQuery’s
     tutorials</a>
--   <a
+- <a
     href="http://visitmix.com/Opinions/What-ASPNET-Developers-Should-Know-About-jQuery"
     target="_blank">What ASP.NET developers should know about JQuery</a>
--   And since I’m using ASP.NET MVC – here is how to make use of the <a
+- And since I’m using ASP.NET MVC – here is how to make use of the <a
     href="http://haacked.com/archive/2009/04/14/using-jquery-grid-with-asp.net-mvc.aspx"
     target="_blank">JQuery Grid in ASP.NET MVC</a>
 

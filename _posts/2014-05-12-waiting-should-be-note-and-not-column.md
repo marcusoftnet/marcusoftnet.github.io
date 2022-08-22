@@ -98,13 +98,13 @@ data-border="0" width="244" height="148" alt="2014-05-12 11.45.04" />](http://lh
 This means that the original work item card is intact with all it’s
 attributes to describe it:
 
--   the description is beneath the waiting note and I can have a look at
+- the description is beneath the waiting note and I can have a look at
     it if I need to remember what it was about
--   my avatar is still on there so I know who will check in on the
+- my avatar is still on there so I know who will check in on the
     progress of this matter
--   the work item is still in the same column so we know how far it has
+- the work item is still in the same column so we know how far it has
     progressed
--   we have created a little dot for each day we have been waiting for
+- we have created a little dot for each day we have been waiting for
     Daphne. Maybe we have a policy not to wait more than 5 days before
     trying something else. Or, we can use this number as material for an
     improvement discussion with a third part, or another department:
@@ -140,7 +140,7 @@ target="_blank">calling back</a> taking place. That is, you start
 something that takes time and as the third party performing the work to
 call you back when they are done. In the mean time your application are
 freed up to do something else, like answering the next request for
-example. 
+example.
 
 When the other party has finished processing his thing (saving something
 to a database for example), he’ll ping you back with an status about the

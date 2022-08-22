@@ -16,11 +16,11 @@ name.
 
 For non-techie people - here is the explanations behind the name:
 
--   My name is Marcus - **marcus**oft.net
--   I am a software developer (and mayby a soft dude too, i hope) -
+- My name is Marcus - **marcus**oft.net
+- I am a software developer (and mayby a soft dude too, i hope) -
     marcu**soft**.net
--   I program in .NET - marcusoft**.net**
--   <http://www.marcusoft.net/> is quite like another computer related
+- I program in .NET - marcusoft**.net**
+- <http://www.marcusoft.net/> is quite like another computer related
     company, Microsoft
 
 So here you are - hopefully the site will be something more than the

@@ -16,9 +16,11 @@ I feel the need. The need for more speed.
 <!-- excerpt-end -->
 
 # TL;DR
+
 Use the <code>--limit_posts</code> switch to your <code>jekyll serve</code> command to significantly speed up re-generation and hence feedback.
 
 # Longer version
+
 I've written before [my post scaffolder](/2014/12/my-post-scaffolder-for-jeyll) which is a handy little script to get started. The other script I have made is a very simple script for starting my site locally. Here it is:
 
 ```bash
@@ -68,4 +70,3 @@ A much more workable solution. Fast feedback is key for a good writing flow. Not
 **NOTE** The obvious drawback is that only the last 1 posts is generated. Are you editing all post you need to regenerate the whole thing.
 
 I'm now looking into adding some kind of auto-refresh of the browser too. Post that later.
-

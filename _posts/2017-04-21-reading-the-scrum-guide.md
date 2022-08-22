@@ -12,7 +12,7 @@ tags:
 
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) was my first love in agile. I still remember the revolution and excitement I felt after the Scrum Master course and when I and my colleague Öystein started our first Scrum team. It was **awesome**!
 
-Later I moved on to more [flow based approaches](http://bit.ly/theKanbanBook) when I ended up in environments where Scrum was not a great fit with it	s iterations and locked down scope.
+Later I moved on to more [flow based approaches](http://bit.ly/theKanbanBook) when I ended up in environments where Scrum was not a great fit with it s iterations and locked down scope.
 
 Scrum and I was far away from a time. There are no hard feelings but we just don't hang around much anymore.
 
@@ -56,7 +56,7 @@ Here's the thing I found noteworthy in the guide - most of them are straight quo
 
 > The Daily Scrum is a 15-minute time-boxed event for the Development Team
 
-> [http://bit.ly/2orJfOt ](https://t.co/ED6xQ5bSHt) Nothing about the informing the PO or other external stakeholders at the Daily Scrum
+> [http://bit.ly/2orJfOt](https://t.co/ED6xQ5bSHt) Nothing about the informing the PO or other external stakeholders at the Daily Scrum
 
 > During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint.
 

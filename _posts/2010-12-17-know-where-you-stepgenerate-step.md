@@ -55,7 +55,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s320/step+definition+example+report.png"
 data-border="0" width="320" height="203" /></a>
 
-
 The report could be very useful I think especially if you have a large
 project with loads of steps.
 

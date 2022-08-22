@@ -15,7 +15,7 @@ My
 God - they are producing at an unprecedented speed right now.
 Here are another concert, with some truly great music:
 
--   <http://video-2.leedsmet.ac.uk/View.aspx?ID=1170>
--   <http://video-2.leedsmet.ac.uk/View.aspx?ID=1171> (The <span
+- <http://video-2.leedsmet.ac.uk/View.aspx?ID=1170>
+- <http://video-2.leedsmet.ac.uk/View.aspx?ID=1171> (The <span
     id="SPELLING_ERROR_1" class="blsp-spelling-error">Engima
     Variations!!!)

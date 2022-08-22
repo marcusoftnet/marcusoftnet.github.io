@@ -53,7 +53,7 @@ do
 done
 ```
 
-Save that in a file called `sh verifyAllRepos.sh ` and then run with `sh verifyAllRepos.sh ` and you'd get a very unsurprising listing of those directories... Not too exciting, but a good start.
+Save that in a file called `sh verifyAllRepos.sh` and then run with `sh verifyAllRepos.sh` and you'd get a very unsurprising listing of those directories... Not too exciting, but a good start.
 
 Not to make this blog post too long I have excluded the part where I `git clone` all repositories I'm interested in. Not to brag but it's using the GitHub API and filters ... bah, I'm gonna brag. Here's the curl command:
 
@@ -78,7 +78,7 @@ We can [use the `test` command to check if a file is NOT present](https://linuxi
 ```bash
 # as above
 for dir in "${dirs[@]}"
- 	echo "$dir"
+  echo "$dir"
 
   SCRIPT=$dir/saltVerify.sh
   if ! test -f "$SCRIPT" ; then
@@ -127,7 +127,7 @@ But that's for later, now we just want to run the script and get the exit code a
 Here's those lines, inside the for-loop, after the check that the script exists:
 
 ```bash
-	SCRIPT_OUTPUT=$(sh $SCRIPT)
+ SCRIPT_OUTPUT=$(sh $SCRIPT)
   SCRIPT_EXITCODE=$?
   if [[ $SCRIPT_OUTPUT == 1 ]]; then
     echo "  Verification FAILED"
@@ -181,7 +181,6 @@ Ok - the content of the script will be different per repository, that was the wh
 
 * Run linting scripts and make sure that it's the expected number of linting errors
 
-  [^expected linting errors?]: Since most repositories are half-baked there will be many cases where linting errors might be ok. In the best of worlds, we would, of course, want to ensure that it's the **right** linting errors too, but for now, we'll just count'em
 
 * Run the tests and make sure the right number of tests fails, as it should be once the repository is returned.
 
@@ -228,8 +227,8 @@ exit 0
 
 First (and last) we make a little trick to change directory into the directory of the script.
 
-- Getting the directory of the script can be accomplished with `cd "$( dirname "${BASH_SOURCE[0]}" )"`, which was a nifty little trick I [found here](https://unix.stackexchange.com/a/273380/163783)
-- Going back to where we just were (last directory that is) is a built-in, but lesser-known command: `cd -`. Here I'm sending the output of the command to `/dev/null` to [supress the irritating output of the current directory](https://superuser.com/a/593697/128561).
+* Getting the directory of the script can be accomplished with `cd "$( dirname "${BASH_SOURCE[0]}" )"`, which was a nifty little trick I [found here](https://unix.stackexchange.com/a/273380/163783)
+* Going back to where we just were (last directory that is) is a built-in, but lesser-known command: `cd -`. Here I'm sending the output of the command to `/dev/null` to [supress the irritating output of the current directory](https://superuser.com/a/593697/128561).
 
 A nice little side effect of using this technique is that we can run the script in the directory without any problems. Yay! Win!
 

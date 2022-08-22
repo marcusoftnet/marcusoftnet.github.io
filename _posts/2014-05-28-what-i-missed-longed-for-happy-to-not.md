@@ -47,16 +47,11 @@ the reasons for me taking it up again...
 
 ### Missed
 
-
-
 I missed the quick check ins or possibilities to ask people questions,
 like
 "Hey <a href="http://twitter.com/gblock" target="_blank">@gblock</a>,
 does <a href="http://scriptcs.net/" target="_blank">ScriptCS</a>
 supports dynamic yet?"
-
-
-
 
 I missed the overview and flow of information that gives me a kind of
 news digest on what's happening. Like what are people talking about
@@ -64,26 +59,17 @@ around agile? Have
 <a href="http://www.koajs.com/" target="_blank">Koa</a> picked up yet in
 the main stream community?
 
-
-
-
 Mostly I've missed talking to people. How is Hugo doing? Did Emma
 succeed with her plans? Have Tobbe delivered that speech he was working
 with? Things like that. I missed talking with people.
 
-
 ### Not missed
-
-
 
 I don't miss the stress about checking my twitter stream. I have now
 decided to do that 3 times a day. 20 minutes max when i get into the
 office, after lunch and when I get home. I will not install any apps to
 check social media for me, but will have to go through the "hassle" of
 opening a browser.
-
-
-
 
 I don't miss the stress of tweeting. "oh, this would make a great
 tweet". I will not tweet that anymore. My day to day life simple is not
@@ -100,39 +86,23 @@ that interesting. I think.
 |                From <a href="http://knowyourmeme.com/memes/haters-gonna-hate"
                                target="_blank">Know You Meme</a>                               |
 
-
-
 I don't  miss the anxiety of publishing things. "Dare I publish this?",
 "Wonder what X would answer to this tweet". Those thoughts still make me
 sweat actually. I will not think about that. Any hard comments will go
 unregarded from now.
 Haters gonna hate.
 
-
 ### Go back
-
-
 
 I will go back using social media (twitter foremost, facebook sparsely).
 Mostly because that's a good way to keep in touch with friends and
 family on the other side of the globe.
 
-
-
-
 But I will try to change my usage a bit. In the end I was mostly talking
 TO people and not WITH people. It not really the same thing. I miss
 talking with people.
 
-
-
-
 Oh, let's not be a total hypocrite, I miss to be able to draw some more
 traffic to my blog as well :). Yes, I'm vain in that way. No apologies
 
-
-
-
 See you other there. Now more carefully.
-
-

@@ -59,9 +59,9 @@ I once had a huge (40+ people) team that was using a single kanban board. Each m
 
 * I started in the right-most column, starting from the right, [see above](http://www.marcusoft.net/2016/12/flow-oriented-standup.html#lets-walk-the-board-from-the-right)
 * I pointed to each sticky on the board and simply asked: <code>Any problems hindering our work from flowing with this?</code>
-    * If there was nothing to be said I went on to the next
-    * If there was problem I just asked: <code>Who do you need help to resolve that problem?</code>
-        * A few people was called out and I asked them to get together after the meeting
+  * If there was nothing to be said I went on to the next
+  * If there was problem I just asked: <code>Who do you need help to resolve that problem?</code>
+    * A few people was called out and I asked them to get together after the meeting
 
 The focus should be put into **resolving** problems with our flow of work - not with things is actually working as expected. <code>I working with this and it will probably take a day more since there's a lot of mapping code to be written</code> is not as important as something that is hindering the flow of the work.
 

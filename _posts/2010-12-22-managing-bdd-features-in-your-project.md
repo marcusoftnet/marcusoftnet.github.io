@@ -33,32 +33,31 @@ searching high and low on the net for best practices on how to managing
 your features through the course of a project.
 I didn't find much due a couple of reason:
 
--   the Ruby/ cucumber inheritance of .net tools such as SpecFlow is
+- the Ruby/ cucumber inheritance of .net tools such as SpecFlow is
     great - you can learn a lot(!!) from that community. But there is
     not much written on BDD project management in .net. Also the whole
     Ruby environment is very different than the typical .net setup. This
     allows for other kind of solutions.
--   I was asking the wrong question. My initial thoughts were centered
+- I was asking the wrong question. My initial thoughts were centered
     on how to get the business side responsible for the features and the
     writing of them. Wrong! More on that below.
--   there might not yet be a best practice surrounding this for .net
+- there might not yet be a best practice surrounding this for .net
     projects using TFS. We're still catching up with the BDD community
     in general.
 
 So on to my suggestions. How do I Manage BDD features in my project
 (using Team Foundation Server (TFS)).
 
-
 ### Managing
 
-What it the deal with this? As I introduce the concept of 
+What it the deal with this? As I introduce the concept of
 <a href="http://specificationbyexample.com/"
 target="_blank">Specification by example</a> to business people they
 always ask me about these things:
 
--   “How do we link this to our current project templates”
--   “What about traceability in our electronic tracking system”
--   “I want to follow the whole chain from vision to maintenance and bug
+- “How do we link this to our current project templates”
+- “What about traceability in our electronic tracking system”
+- “I want to follow the whole chain from vision to maintenance and bug
     reporting in TFS. How can your BDD-features hook into that?”
 
 I personally might not put so much emphasizes on this but it might be
@@ -69,8 +68,8 @@ a while. I don’t think it’s impossible to achieve but I think it might
 not be the tracking system that is the master of the feature-data. More
 on that below.
 
-
 ### <a href="http://en.wikipedia.org/wiki/Behavior_Driven_Development"
+
 target="_blank">BDD</a> or Specification by example
 
 A phrase I’ve heard a lot when reading about specification by example is
@@ -92,7 +91,6 @@ That’s the thing!
 There are tools that help you to drive that process and run your
 scenarios but that’s not nearly as important as the fact that you meet
 and write the scenarios down, together.
-
 
 ### Features
 
@@ -142,7 +140,7 @@ alt="Winking smile" />).
 In the picture above we see that the roles needed to grasp the story
 meet, bringing all the documentation of the work they have done up to
 now and record their common understanding of the problem in a feature
-with scenarios. They write the feature together. 
+with scenarios. They write the feature together.
 In the <a
 href="http://groups.google.com/group/behaviordrivendevelopment/msg/e8b983ae5b433b99"
 target="_blank">answer to my question on the BDD list</a> another view
@@ -166,7 +164,6 @@ example).
 The feature is then checked in with the source code as it can be
 executed to produce a map between our common understanding of the
 requirements and how well the system fulfills them.
- 
 
 ### Associate with work item in TFS
 
@@ -174,7 +171,7 @@ Now we can see how to associate the feature we write together with a
 work item in TFS. The link between the two can be achieved two-way like
 this:
 
--   in the .feature file you can <a
+- in the .feature file you can <a
     href="http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
     target="_blank">tag</a> the feature or scenario with the work item
     id, @TFS_432453 for example. That can be used to search for the item
@@ -182,7 +179,7 @@ this:
     <a
     href="http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
     target="_blank">see this post</a>).
--   you can also use a comment with a link to the work item on the TFS
+- you can also use a comment with a link to the work item on the TFS
     Server. For example this link
     (<http://tfs:8080/tfs/WorkItemTracking/Workitem.aspx?artifactMoniker=68717>)
     will take me to the WI 68717 on the TFS web site.
@@ -205,11 +202,11 @@ said about this (see <http://www.cuke4ninja.com/> for some good advices
 and directions) but all the roles need to have their say and input in
 how to formulate the scenarios. So that:
 
-1.  Requirements get all the important business rules and effects into
+1. Requirements get all the important business rules and effects into
     the story
-2.  Developers might think of edge cases and some special cases
-3.  Testers get the coverage and spread of test data that is needed
-4.  Maintenance get their say on how the function behaves etc.
+2. Developers might think of edge cases and some special cases
+3. Testers get the coverage and spread of test data that is needed
+4. Maintenance get their say on how the function behaves etc.
 
 Get one person to write down the story in a .feature-file, do the check
 in and associate the .feature with the required work items.

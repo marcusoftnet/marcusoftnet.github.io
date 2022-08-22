@@ -47,6 +47,7 @@ Interesting enough, as a parenthesis - I don't mention this in the presentation,
 More traditional organizations, follow the same reasoning but on the strategic plan level. Meaning that the Mission and Vision are decided and considered very
 
 # The presentations
+
 The presentation is recorded here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dc0zvNymNcM" frameborder="0" allowfullscreen></iframe>
 

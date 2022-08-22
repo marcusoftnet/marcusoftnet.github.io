@@ -17,7 +17,7 @@ a concert it seems to be.
 
 Here are the links to them:
 
--   [First half](http://video-2.leedsmet.ac.uk/view.aspx?ID=1165)
--   [Second half](http://video-2.leedsmet.ac.uk/View.aspx?ID=1169)
+- [First half](http://video-2.leedsmet.ac.uk/view.aspx?ID=1165)
+- [Second half](http://video-2.leedsmet.ac.uk/View.aspx?ID=1169)
 
 Enjoy - i know i will!

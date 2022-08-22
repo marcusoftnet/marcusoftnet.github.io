@@ -19,11 +19,11 @@ projects like this (idea stolen from
 <a href="http://www.asp.net/learn/mvc-videos/#MVCStorefrontStarterKit"
 target="_blank">ASP.NET MVC Storefront</a>):
 
--   Marcusoft.SprintPlannerHelper.Models - my domain model
--   Marcusoft.SprintPlannerHelper.Service - any services need for the
+- Marcusoft.SprintPlannerHelper.Models - my domain model
+- Marcusoft.SprintPlannerHelper.Service - any services need for the
     model, such as database access and so on.
--   Marcusoft.SprintPlannerHelper.Web - the ASP.NET MVC Web Application.
--   Marcusoft.SprintPlannerHelper.Test - the unit test of the
+- Marcusoft.SprintPlannerHelper.Web - the ASP.NET MVC Web Application.
+- Marcusoft.SprintPlannerHelper.Test - the unit test of the
     application.
 
 Then I removed all the Class1.cs from all the projects that default them

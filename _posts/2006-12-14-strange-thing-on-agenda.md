@@ -16,16 +16,16 @@ I am
 from today starting a period with some really weird stuff on my
 schedule:
 
--   Today i will be a Santa at Elins work. I have never done the
+- Today i will be a Santa at Elins work. I have never done the
     Santa-stuff before, will have to choose a voice later today
--   Tomorrow i will give a presentation on SOA (Service Oriented
+- Tomorrow i will give a presentation on SOA (Service Oriented
     Architecture). This is scary since so many people have things to say
     about it. I have prepared and hope that it will work out alright.
--   Saturday - playing with the Salvation Army. Typical Christmas stuff
+- Saturday - playing with the Salvation Army. Typical Christmas stuff
     for me and a lot of people in the world.
--   On Sunday there is a gig with the Vasa Band in some church. It will
+- On Sunday there is a gig with the Vasa Band in some church. It will
     be fun
--   And then to top things of with - on Tuesday the 19th the Vasa Band
+- And then to top things of with - on Tuesday the 19th the Vasa Band
     will be "door" number 19 in the "advent"-calender in the Old Town in
     Stockholm
 

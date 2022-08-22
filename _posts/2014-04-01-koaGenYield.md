@@ -190,26 +190,16 @@ it out on the console
 The x-response-time middleware does the same thing, but saves the result
 into the header of the response.
 
-
-
 If you want to you could read the middleware code like this: "Get the
 start time. Do whatever else you need to do. When that is done subtract
 the current time from the start and save the result in the header". In a
 easy to read, sequential fashion. No callbacks and long indention
 chains.
 
-
-
-
-
-
 I like that. A lot. It's simple, short and easy to read and understand.
 All the hard stuff about generators... Well we don't have to think so
 much about that. Yield means: "do everything else you need to do at this
 point".
-
-
-
 
 Here's another example where we store the data from a post into a
 Mongo-database using
@@ -218,7 +208,6 @@ target="_blank">Monk</a> via the coroutine library
 <a href="https://www.npmjs.org/package/co-monk"
 target="_blank">Co-Monk</a> (which is the simplest way to access MongoDb
 with generators right now):
-
 
 Again, using curl (why not?) we can now add a couple of users with the
 following commands:
@@ -264,8 +253,6 @@ Line 43 fires the whole thing up.
 
 ### Conclusion
 
-
-
 Around this point when I'm using Koa I always thing to myself... So
 what's the deal with generators, what did that really give me? Its
 actually pretty easy to forget and to me that is a good thing. Because I
@@ -273,15 +260,7 @@ just write the code like I would "normally" without callbacks. Feels
 much more natural to me. And when I'm doing IO or Networking I remember
 to yield to let Koa do other things.
 
-
-
-
-
-
 I have had GREAT use of a couple of articles to explain this to me.
-
-
-
 
 - <a href="http://tobyho.com/2013/06/16/what-are-generators/"
     target="_blank">What Is This Thing Called Generators?</a> is
@@ -295,7 +274,6 @@ I have had GREAT use of a couple of articles to explain this to me.
     left me wanting more.
 - <a href="http://www.koajs.com/" target="_blank">KoaJs</a> own site
     has a couple of good examples
-
 
 I want to thank all those resources and humbly point to them for more,
 better and in-depth information. This is just my understanding, written
@@ -314,4 +292,3 @@ when they are published:
 - Let's talk about yield and generators, shall we? (this post)
 - <a href="http://www.marcusoft.net/2014/04/koaExamples.html"
     target="_blank">Marcus Node Bits: Let's flex Koa Js, shall we?</a>
-

@@ -32,19 +32,11 @@ This is the list - in order of importance:
 
 ### 2 - Sit together
 
-
-
 Now that I've got your attention from the last scary post... We turn to
 a much much simpler thing. But it's still super-important, entering
 number 2 on my top 5 change tricks.
 
-
-
-
-
-
 Are you ready? Pens out? Here we go:
-
 
 > Sit together!
 
@@ -88,8 +80,6 @@ other.
 
 ### Summary
 
-
-
 This was the second post in my series of top 5 things to think about to
 succeed with agile transformation projects
 
@@ -103,4 +93,3 @@ succeed with agile transformation projects
     target="_blank">Support the initiative</a>
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
-

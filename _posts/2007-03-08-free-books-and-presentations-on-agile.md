@@ -21,11 +21,11 @@ looks very promising.
 
 Here are my shortlist so far:
 
--   Book on [Domain Driven
+- Book on [Domain Driven
     Design](http://www.infoq.com/minibooks/domain-driven-design-quickly)
--   [Great OOP
+- [Great OOP
     presentation](http://www.infoq.com/presentations/principles-agile-oo-design)
--   [Visual Studio tips and
+- [Visual Studio tips and
     tricks](http://www.infoq.com/minibooks/vsnettt)
 
 This will be often visited by me in the future. I promise...

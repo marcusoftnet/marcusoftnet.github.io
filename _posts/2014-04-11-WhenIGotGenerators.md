@@ -24,7 +24,6 @@ Here's an example on how to make this error occur, from the co-monk
 library <a href="https://github.com/visionmedia/co-monk/pull/4"
 target="_blank">README (not anymore maybe</a>):
 
-
 Running that code (either with "<span
 style="font-family: Courier New, Courier, monospace;">node --harmony
 koaErrorFail.js" or test it with "<span
@@ -108,9 +107,6 @@ style="font-family: inherit;">ine 20.
 
 ### Summary and hat tipping
 
-
-
-
 I would not have grasped this
 <a href="http://zef.me/6096/callback-free-harmonious-node-js"
 target="_blank">without this awesome article</a> by
@@ -120,15 +116,7 @@ he write that article but he also helped me when I
 target="_blank">reached out to him on Twitter</a>. Thank you mr Zef, my
 hat is tipped towards you. Loudly (?)
 
-
-
-
-
-
 Summing up the problem would be something like this:
-
-
-
 
 - The "<span
     style="font-family: Courier New, Courier, monospace;">Unexpected
@@ -152,11 +140,6 @@ Summing up the problem would be something like this:
     style="font-family: Courier New, Courier, monospace;">co(function
     *(){// code})();"
 
-
-
 I can now find eternal peace. I will probably never be able to explain
 this again, but then I can come back to this post and "the time I
 understood generators".
-
-
-

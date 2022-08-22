@@ -84,4 +84,4 @@ reflect on me is worth thinking about; what can i do to get a better
 answer.
 
 > If you get a bad answer - you probably have asked a too hard question.
-> Try a simpler one 
+> Try a simpler one

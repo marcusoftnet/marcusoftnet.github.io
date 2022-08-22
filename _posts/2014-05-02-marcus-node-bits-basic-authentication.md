@@ -251,4 +251,3 @@ wanted. Hmmm… there might be something in there…
 <a href="http://theleanstartup.com/" target="_blank">You learn stuff by
 pushing it out into production and starting to use it for real</a>. I
 should write about that. Nah! It will never catch on.
-

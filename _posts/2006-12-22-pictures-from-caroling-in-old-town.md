@@ -20,11 +20,8 @@ id="BLOGGER_PHOTO_ID_5011238497474880050"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RYt-3N7AojI/AAAAAAAAADQ/JV8yRg-gkEA/s1600-h/Tessin061219+027.jpg)
 
-
-
 Here are a picture from the caroling in the Old Town of Stockholm, which
 i've mentioned. It was quite dark but that how it is in Sweden these
 days, and yes - we don't have any snow. To much work with the shovel so
 we just removed it once for all :) We're all "dreaming of a green
 Christmas, just like the ones from 2006"
-

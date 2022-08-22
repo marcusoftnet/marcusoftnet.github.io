@@ -22,7 +22,9 @@ Let me try to explain.
 <!-- excerpt-end -->
 
 ## On the sub
+
 When David Marquet was the captain on USS Santa Fee (a submarine, read the book it's awesome) one of the things that he saw as a limiting factor was that there was a lot of complaints about what others should have done:
+
 * we are waiting for delivery of X
 * X is not done yet - not much we can do really
 * This is out of our hands, loading crew should do that. They really should get going too - now we are all late.
@@ -38,6 +40,7 @@ It also happened to rhyme and stuck immediately. And the difference in taking re
 He left and started to fix the problem by reaching out to the torpedo-delivery team and offer his teams help.
 
 ## In the office
+
 There are many voices in the agile community now being raised to do away with the notion of "Projects". As in a software development effort that we start at some point in time and then end - handing over whatever we produced to a governing organisation.
 
 * At my current client, we are bouncing ideas about not having "Developing" and "Maintenance" as two separate roles. All we do would be "Developing". Or "Maintenance". Or work plain and simple.
@@ -55,6 +58,7 @@ In all honesty, one of the values is spelling out the need for Customer collabor
 Ok ... I've calmed down now. Rant is over. Let's be a bit more solution focus.
 
 ## What if we had "No they on Santa Fe" in our office
+
 As you noticed above I can sometimes get worked up over these terms and even more how they are hindering us from progressing to a better future.
 
 Let's play a game! It's called "You cannot use the term _____" and see what happens. I have nothing particular against these words (ah ... well ....) but just for fun and profit; what would happen.
@@ -87,8 +91,8 @@ I tested this with my client and they jumped on it right away. I suggested that 
 
 > 1: Ok, the development project is soon done, so the system will soon go into ... _Improvement_
 >
-> 2: *Improvement*?! What did you do in the project then?
+> 2: _Improvement_?! What did you do in the project then?
 
-> Item 36, that is an ... *improvement*-task. Hey?! What are these other tasks? Are we not all doing improvements all along?
+> Item 36, that is an ... _improvement_-task. Hey?! What are these other tasks? Are we not all doing improvements all along?
 
-> Well, soon our budget for ... *improvement* is just about over. I guess that we should stop improving then?
+> Well, soon our budget for ... _improvement_ is just about over. I guess that we should stop improving then?

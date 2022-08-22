@@ -36,12 +36,10 @@ and import it as a resource in your project. You could also hold it as a
 string variable but that is not as nice.
 
 The following method does the transformation for you:
-`''' `
-
+`'''`
 
 ''' Transforms the XML-string with the sent-in XSL-string
 '''
-
 
 ''' the xml to transform
 ''' the xsl to use for the transformation
@@ -114,7 +112,6 @@ End Try
 Return <span id="SPELLING_ERROR_43"
 class="blsp-spelling-error">memStream
 End Function
-
 
 The final part is almost trivial:
 `WebBrowser1.DocumentStream = TransformXML(m_message, My.Resources.IEXMLDefaultStyle)`

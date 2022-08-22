@@ -177,4 +177,3 @@ below, but I'll mention them here too:
     mocha -g). Not everyone wants that. Build servers for
     example... So I've updated it to a better version that uses the
     mocha I have in my project local node_modules folder
-

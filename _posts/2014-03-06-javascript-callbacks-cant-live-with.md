@@ -115,7 +115,6 @@ Instead it looks something like this:
 > style="font-family: 'Courier New', Courier, monospace;">getPostById(id,
 > callback);
 
-
 <div style="text-align: left;">
 
 With this implementation:
@@ -124,7 +123,6 @@ This is basically just pushing the problem upwards, if you like. You're
 caller will also supply a callback and you call that. It's nice and
 clean, and also allows for Node to continue to operate in a non-blocking
 way.
-
 
 <div style="text-align: left;">
 
@@ -146,7 +144,6 @@ now I understand. It will wait there until all the callbacks has
 completed. From the
 <a href="http://visionmedia.github.io/mocha/" target="_blank">Mocha
 documentation</a>:
-
 
 > By adding a callback (usually named done) to it() Mocha will know that
 > it should wait for completion.
@@ -176,14 +173,9 @@ and everything, but there must be a easier way. Now doesn't it?
 
 ### How to promise instead
 
-
-
 Promises! The mirage in the callback-desert. The wonderful sunrise that
 brings tears in the eyes of every Javascript developers. The thing that
 I don't use and haven't understood yet. Not completely at least.
-
-
-
 
 But I can show you this from the
 <a href="https://github.com/kriskowal/q" target="_blank">promise library
@@ -193,5 +185,3 @@ I cannot, sadly, explain what's going on there fully. But I can see that
 it's better, easier and clearer.
 That's enough for me to want to dive in and try to learn it. Promise
 (pun intended) to get back to you on that.
-
-

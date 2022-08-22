@@ -34,16 +34,12 @@ my colleagues at Avega.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 <div style="text-align: center;">
 
-
 <span style="text-align: left;">Avega - I love you!
-
 
 I've had the time of my life - I hope you have too!
 
 The world is not so big - we'll probably run into each other out there.
 A lot I hope!
 Bye for now.
-

@@ -26,9 +26,9 @@ I think first that the whole idea of DDD can be divided into two aspects
 (actually <a href="http://blog.avegagroup.se/JoakimSunden/default.aspx"
 target="_blank">Jocke</a> pointed me in this way but i like it):
 
--   first code - a bunch of design patterns that help you produce great
+- first code - a bunch of design patterns that help you produce great
     object-oriented, testable software
--   then the implications on the way you can do software projects.
+- then the implications on the way you can do software projects.
 
 For the code part there is not much to add, or rather not much that
 could fit here. But what I mean is that to do DDD is “simply” to apply

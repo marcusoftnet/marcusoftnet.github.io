@@ -38,8 +38,6 @@ our work.
 
 ### Retrospectives
 
-
-
 Today I told the team that the little sessions where we stop and think
 how we can improve are called retrospective. They all went: OK, who
 cares? which was exactly what I suspected and wanted. The name and
@@ -48,21 +46,12 @@ format really doesn't matter. That you do
 target="_blank">stop up and reflect on how you can improve regularly
 does matter!</a>
 
-
-
-
-
-
-
 The retrospective today, 2 days delayed due to Hindu public holiday and
 not all people being office, was particular interesting. We rather have
 everyone there than do it on a certain date. But we hold a improvement
 meeting every week.
 
-
 ### The Todo-stage
-
-
 
 This weekend we had a meeting we all the leaders of our customers, the
 directors of the hospitals. From that meeting came a flood of small
@@ -70,19 +59,12 @@ tasks that we needed to address; write PMs, check on status for
 projects, help people start using tools etc. etc. So we saw a need to do
 something about our board structure.
 
-
-
-
-
-
-
 Right now we only had three columns: Todo, Doing and Done. Particulary
 the Todo-column bother us, since it contained a lot of stuff on very
 different time scale. Something was a 2 months project that we need to
 do before 2015. Another thing was to send a couple of emails to check
 the status of a project somewhere. After some discussion we decided to
 do something that looked like this:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -92,17 +74,13 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/-dEEnoC3BID0/UzvIZq2RxHI/AAAAAAAACKM/jjzx2WLSfUw/s1600/2014-04-02+08.31.29.jpg"
 data-border="0" width="400" height="300" /></a>
 
-
 <div class="separator" style="clear: both; text-align: left;">
-
 
 <div class="separator" style="clear: both; text-align: left;">
 
 Here's what we decided to do:
 
-
 <div class="separator" style="clear: both; text-align: left;">
-
 
 - We kept the Doing and Done columns (although I showed you what we
     did with the Done-column later)
@@ -125,12 +103,9 @@ Here's what we decided to do:
     These can big project or small tasks. There's no order, just a
     couple rows of text. No cards even.
 
-
-
 We then created three piles of cards and moved everything on the board
 to the correct pile. This is what it looked like, at one stage, during
 our little exercise:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -140,17 +115,10 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-JwetSJnesxc/UzvJP6CbunI/AAAAAAAACKo/62Tns5UFG1Q/s1600/2014-04-02+08.45.53.jpg"
 data-border="0" width="400" height="300" /></a>
 
-
-
-
-
-
-
 Elin took the responsibility to put all of this back on the board,
 producing "much nicer signs over each column" too. My writing was not
 satisfactory I'm willing to agree on. Here's how the reorganised board
 looked like:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -160,10 +128,7 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-VdMKSjl4dPQ/UzvJXVD0QDI/AAAAAAAACK4/ioddK6s324I/s1600/2014-04-02+09.09.00.jpg"
 data-border="0" width="300" height="400" /></a>
 
-
 ### The move from Idea to Next, and from Next to Todo
-
-
 
 One could wonder how we decide on what to move into the "Next
 month"-column from the "Ideas"-list. Or from the "Next month"-column to
@@ -173,13 +138,7 @@ combining ideas from
 <a href="http://www.aptitud.se/" target="_blank">Aptitud</a> (my Swedish
 employer).
 
-
-
-
 Here's what we decided to do, if you're out of work:
-
-
-
 
 See if there's anything that you can help to finish in Doing. If so - do
 it!
@@ -201,23 +160,16 @@ should involve a couple of more people in the decision.
 Still out of work? Do something that's fun and that you think will help
 us
 
-
-
 I love that "I intend to" - part ripped from David Marquet's excellent
 book <a
 href="http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404"
 target="_blank">Turn the ship around</a> and could probably write a
 couple of post on that alone. But i will not.
 
-
-
-
-
 The part on involving more people in your decision the bigger it gets is
 something we have used at Aptitud. Works great there! Buying a new
 computer - ask a colleague and describe your reasons to her. Hiring a
 new colleague, involve a few more people in the decision.
-
 
 ### The Done-column
 
@@ -230,33 +182,19 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-CPgoVcRDU9Y/UzvM4MFYnyI/AAAAAAAACLA/tGIv9dGCgdU/s1600/Screen+Shot+2014-04-02+at+15.38.57+.png"
 data-border="0" width="200" height="96" /></a>
 
-
-
-
 The "Done"/"Selesai" column is now reduced to reporting only and has
 been move off the board (aka the cupboard) altogether. We created a very
 simple reporting sheet where we just note down the size of each item as
 well as the start and stop date. This will make it simple to produce our
 diagrams as shown last week.
 
-
-
-
-
-
-
 Since we have a limited amount of cards we moved them back to the
 starting point pretty fast anyway so there was no real use of having a
 column of "done" stuff.
 
-
 ### Conclusion
-
-
 
 All in all this was a very refreshing exercise. As I said in the
 beginning the important thing is that we always are **trying to
 improve**, experimenting with different things. This week it was like
 this.
-
-

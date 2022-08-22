@@ -26,6 +26,7 @@ That would be so cool. Let me show to get that to work for a Koa application
 <!-- excerpt-end -->
 
 # Create the application
+
 I've created a very basic, but not trivial Koa application (using ```npm init```) and then this single file:
 
 ```javascript
@@ -43,6 +44,7 @@ console.log("The app is now listening - try it on http://localhost:9000");
 It's just a little Hello world app, since that's where we all need to start, right?
 
 # Depend on a OS
+
 Let's me introduce you to an operating system that I almost guarantee you have not heard about: [runtimejs](https://www.npmjs.com/package/runtimejs). It's a [language-specific unikernel operating system](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e).
 
 Basically that it's tiny and dedicated to run just a certain type of application. In our case Node-applications. Let's run our application on that, shall we?
@@ -62,6 +64,7 @@ We just said that the app now depends on the ```runtimejs``` operating system. B
 But we're going to fix all of that now.
 
 # Run from an image
+
 To get this too work we need two development-time tools. Let's install them and I'll see if I can explain what it does:
 
     npm install runtimeify runtime-tools --save-dev
@@ -84,6 +87,7 @@ To start an image in QEMU using the ```runtime-tools``` we should have another s
 Quite simple: just the ```runtime-qemu``` and then the name of the file we created with the ```image:create``` script. ```runtime-qemu``` is the name of the executable for ```runtime-tools```, a bit unfortunate naming there. You can check it with ```ls node_modules/.bin``` should you forget it.
 
 ## Install QEMU
+
 This of course require us to have QEMU installed. Easiest is to do that with Homebrew
 
     brew install qemu
@@ -93,6 +97,7 @@ Use ```sudo apt-get install qemu``` if you are on Linux. Or [download an executa
 This part is, of course, only required if you don't have QEMU installed already.
 
 ## Run it
+
 Now, we create a command to launch our application in a image.
 
     "start" : "npm run image:create && npm run image:start"
@@ -114,6 +119,7 @@ Fingers crossed.
 Ah well... actually - I've done that before. I know it fails. For some reason Koa needs [bluebird]() to run on the ```runtimejs``` operating system. Don't really know why. Install it with ```npm install bluebird --save``` for better WOW-factor in the demo.
 
 # Try it
+
 And now... ```npm start```.
 
 It should start up after a little while (5 min for my Indonesian connection... 10 secs for you guys) the ```runtimejs``` OS is downloaded and the application is started. In a separate OS. On a separate image.
@@ -128,6 +134,7 @@ Now, check your windows. If you look carefully you should see a QEMU emulator ru
 Finally - shut the application down with ```CTRL-C``` as normal. Notice that QEMU is shutting down too.
 
 # Summary
+
 Ok - at this point I was gasping for air. It's so cool. Without leaving the current environment, NodeJs, I can bundle my application up with the dependency it has on a operating system. A small, unikernel operating system. A language specific, library, require-able operating system.
 
 This image can now be pushed to a cloud host. You have already tried the runtime locally. It's the same as production runtime... because it's actually the same image, same disk running in the production environment.
@@ -137,12 +144,14 @@ It's also a tiny operating system, with only the services you need included.
 Me thinks... they are onto something here. I think we will see much more of stuff like this in the future.
 
 ## A couple of things
+
 - Right now you can only use port 9000. Because that is the default port that QEMU uses
 - I have not investigate where I can push this. But that should be any host for that allow me to run qemu, or that can host those images directly
 - I wanted to read a file from the file system to impress you all ... but that threw an error ```fs.readFileSync is not a function``` Seems like it's not supported yet in ```runtimejs```.
 - My code can be [found here](https://github.com/marcusoftnet/helloRuntimeJs)
 
 ## Read more
+
 This [article was great from the creator of runtime-js](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 
 More about runtimejs itself is [found on their site](runtimejs.org). As they say all of this is very early stages of development and much of it can change but still...

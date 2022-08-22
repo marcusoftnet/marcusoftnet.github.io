@@ -202,7 +202,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TQjJ4c73ElI/AAAAAAAAAqM/pIZm5ZEHHEU/s320/configuring+external+tools.png"
 data-border="0" width="320" height="311" /></a>
 
-
 The arguments to the external command are:
 
 - $(ProjectDir)$(ProjectFileName)
@@ -218,4 +217,3 @@ and reports for me.
 You can
 <a href="https://github.com/marcusoftnet/Demo-Reporting-with-MsTest"
 target="_blank">download my code here</a>
-

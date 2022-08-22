@@ -26,8 +26,6 @@ Seinfeld.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
-
 I almost always have those kinds of revolutions after coaching gigs.
 Sometimes during the gig which is helpful because I then can change into
 something better. Sadly sometimes after the gig which just frustrates me
@@ -44,7 +42,6 @@ Below when I write "I" we actually were a complete team. If I got these
 aha-moments earlier I could have helped us all to act differently and
 hence get a better output. But I didn't. It came now. No shadow should
 fall on my co-workers. If shadows are to fall :)
-
 
 ### What I did
 
@@ -119,7 +116,7 @@ Ok, here's what we should have done:
 
 Have the CEO of the department do a presentation with one slide
 explaining the WHY. "We want to be able to move faster, to better
-support the faster chaining demands on us", for example 
+support the faster chaining demands on us", for example
 
 Then say this: "Last year we released 4 times. The coming year we will
 release 6 times; 3 in the spring and 3 in the autumn. Here are the
@@ -131,12 +128,12 @@ teams to make sure what fits"
 
 Create an change office staffed with people authorised to change the
 current processes. Suggested staffing; one agile coach, one
-IT/deployment/production person, one business person, one from IT. 
+IT/deployment/production person, one business person, one from IT.
 
--   Seat this office in a well-known location and invite everyone that
-    run into problems with the current process to come there. 
--   Get a commitment from the change project management to be able to do
-    changes within 1 week. 
+- Seat this office in a well-known location and invite everyone that
+    run into problems with the current process to come there.
+- Get a commitment from the change project management to be able to do
+    changes within 1 week.
 
 Run agile coffee every morning where everyone is invited
 
@@ -162,28 +159,27 @@ was not taken into consideration.
 
 ### What I learned
 
--   Say no. If you don't think it will work say so. If you get thrown
+- Say no. If you don't think it will work say so. If you get thrown
     out it will hurt but you will not leave the project feeling
     disappointed that you achieved "nothing".
--   Agile (or lean for that matter) is not an IT thing, its a change in
+- Agile (or lean for that matter) is not an IT thing, its a change in
     how you do business at the company. Make sure that everyone
     understands the difference or you will have much frustration and
     failure
--   You are here to **change** the process, not to "fit agile into the
+- You are here to **change** the process, not to "fit agile into the
     current process".
     <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
-    target="_blank">I written about this here.</a> 
--   Make sure that everyone understands that you still will have anger
+    target="_blank">I written about this here.</a>
+- Make sure that everyone understands that you still will have anger
     and frustration, but hopefully leading to something better. Define
     that better so that you can point towards this.
--   Create a function that can take care of questions. Sending
+- Create a function that can take care of questions. Sending
     information is **not** enough. Create a safe haven for asking
-    questions. 
+    questions.
 
 My good friend Håkan Forss have done a similar assignment (bigger scale)
 like I did, but in a *completely* different way. His way is much closer
 to what I wanted to do. <a
 href="http://www.slideshare.net/erikschon/the-mental-leaps-at-ericsson-3g"
 target="_blank">You can see his presentation here</a>. I think it's an
-awesome read. 
-
+awesome read.

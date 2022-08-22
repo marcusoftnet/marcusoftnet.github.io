@@ -27,6 +27,7 @@ Mind you I've only read 1/3 of the book... this might be answered later and then
 <!-- excerpt-end -->
 
 # Change the world - to one without the problem
+
 The first thing that stands out is; when they face a problem, thats hindering them to become what they want, they solve it. Even if it means going against conventional wisdom or "the way we used to do things".
 
 For example;
@@ -76,6 +77,7 @@ Son (after thinking for 10 seconds): "Just one question more: Why don't you want
 ZING! Exactly. If you don't want me to ask Why, what's your reason for that? How am I supposed to learn?
 
 # Small teams - with trust and authority
+
 All of the organizations that is described in the book, as "reinvented organizations" is built around small teams. 10-25 people. Because it scales so well, he said to stop further discussions around scaling.
 
 Not only that; all the "teal organizations" (as Frederic Laloux calls them) have pushed much, if not all, authority to those teams. Salaries, hiring / firing, "management", HR, strategic planning, etc. etc. is managed within the team.
@@ -101,6 +103,7 @@ And me adding:
 <blockquote>And current control can be replaced by transparency</blockquote>
 
 # Leader/coaches over managers
+
 The organizations mentioned have very few managers. They have a [lot of leaders though](http://www.marcusoft.net/2015/01/leadership---not-management.html)... and the make leaders within their own ranks. A trademark of a healthy organization if you ask me.
 
 One common trait for all the organizations is the people "higher up" in the hierarchy have *no authority* over the people "lower down". The CEO is only advisory. And great care has been taken to make sure that it stays like that, even in the teams.
@@ -112,6 +115,7 @@ Hierarchy have a tendency to "creep in" to our organizations should we not be ca
 One of these, that also seems, common is that the HQ is very small and they shy away from stabs functions, tries to find other ways. One organization of 7000 nurses have only 30 people in the HQ (all without authority over the team). For the 40000 people strong organization doing power plants all over the world, the stab is only ca 100 people.
 
 # Value driven - the goals will follow
+
 All of the organizations described in driven by values ("We are these kind of people", "We want to see employees live fulfilled lives") and leaves the goal ("In the next quarter we are going to ...", "Our sales target for 2015 are", "In the employee survey we will score ...") out for grabs.
 
 There's merely a WHY stated and the WHO, WHAT and HOW are left to the teams to figure out and solve. In their way. Another way to put this is that they teams are *trusted* to come up with the WHO, WHAT and HOW
@@ -120,6 +124,7 @@ There's merely a WHY stated and the WHO, WHAT and HOW are left to the teams to f
 [David L Marqueet again](https://youtu.be/OqmdLcyES_Q?t=7m48s)
 
 # Summary
+
 To me the most important thing here is that these organizations have started with values and then relentlessly changed how the work in order to better live up to those values.
 
 They are never done. They have no goal for their efforts. They don't know how the future will look. They have no long-term plans for how to reach this.

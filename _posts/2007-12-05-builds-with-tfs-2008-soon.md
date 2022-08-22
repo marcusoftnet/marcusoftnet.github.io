@@ -16,6 +16,5 @@ is a nice video of all the goodness that are coming our way in Team
 Foundation Server 2008:
 <http://msdn2.microsoft.com/en-us/teamsystem/bb964499.aspx>
 
-
 Oooh -
 soon we will be there... I long for it... I want it... my precious

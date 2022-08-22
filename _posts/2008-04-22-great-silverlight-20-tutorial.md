@@ -27,7 +27,7 @@ convinced otherwise).
 Luckily there is help on the
 way.
 
--   You could either stick with simple HTML and use [ASP.NET <span
+- You could either stick with simple HTML and use [ASP.NET <span
     id="SPELLING_ERROR_6"
     class="blsp-spelling-error">MVC](http://weblogs.asp.net/scottgu/archive/2007/10/14/asp-net-mvc-framework.aspx)
     which removes all the crazy event-handling from the ASP.NET <span
@@ -41,7 +41,7 @@ way.
     person most <span id="SPELLING_ERROR_10"
     class="blsp-spelling-corrected">appropriate for the job - in
     my case anyway.
--   Another way is to design the application as an [<span
+- Another way is to design the application as an [<span
     id="SPELLING_ERROR_11"
     class="blsp-spelling-error">Sliverlight
     application](http://weblogs.asp.net/scottgu/archive/2008/02/22/first-look-at-silverlight-2.aspx).

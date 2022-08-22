@@ -31,10 +31,10 @@ it.</a> Go on. Do it now.
 
 Ok – from all this I learned some very useful lessons;
 
--   the most important was to use a separate ViewModel. That is – create
+- the most important was to use a separate ViewModel. That is – create
     classes that are streamlined to fit the view that the controller is
     exposing.
--   you can do some pretty funky stuff with the naming conventions in
+- you can do some pretty funky stuff with the naming conventions in
     the view. For example: if you do this in the view:
     Html.TextBox("Product.Name", Model.Product.Name) will
     and then call UpdateModel(), the Product-property will get new-ed
@@ -74,7 +74,7 @@ can stop you in your tracks.
 
 DDD on the other hand is a bunch of design patterns and a mindset – that
 can take considerable time to master but is often quite easy to get up
-and running with. 
+and running with.
 
 I’ll try to get back to the DDD-part of this in next session. I had to
 leave to test that doesn’t work so I’ll have to fix that first. but

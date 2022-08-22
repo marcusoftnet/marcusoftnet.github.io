@@ -36,6 +36,7 @@ directions.
 OK – what was my learning goals and where have they taken me?
 
 #### <a href="http://en.wikipedia.org/wiki/Domain-driven_design"
+
 target="_blank">DDD</a>
 
 The main purpose was to look into Domain Driven Design. I feel that I
@@ -49,6 +50,7 @@ implications on your project.
 target="_blank">Here is my post on DDD</a>
 
 #### <a href="http://en.wikipedia.org/wiki/Test-driven_development"
+
 target="_blank">TDD</a>
 
 When I started the Sprint Planner Helper project I liked test. Now they
@@ -83,6 +85,7 @@ href="http://www.google.com/search?hl=en&amp;q=nerd+dinner+mvc&amp;meta="
 target="_blank">this search</a>. Before the actual book it self!!!
 
 #### <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"
+
 target="_blank">Extreme OOP</a>
 
 Eeeh – you can’t win them all, now can you? Actually this was the one
@@ -104,12 +107,12 @@ Some other reasons for me to stop is that I have found some great
 resources that is much more ambitious than my feeble tries. Here are a
 short list of them. Be sure to check them out, I know I will:
 
--   [Sharp-architecture](http://code.google.com/p/sharp-architecture/) –
+- [Sharp-architecture](http://code.google.com/p/sharp-architecture/) –
     an base architecture that let’s you build web applications with
     ASP.NET MVC and NHibernate. Here is an
     <a href="http://dimecasts.net/Casts/CastDetails/75"
     target="_blank">introduction video</a>.
--   <a href="http://www.codeplex.com/MVCContrib" target="_blank">ASP.NET MVC
+- <a href="http://www.codeplex.com/MVCContrib" target="_blank">ASP.NET MVC
     Contrib</a> – this is a project on CodePlex that collects “nice to
     have” features for ASP.NET MVC, such as <a
     href="http://mvccontrib.codeplex.com/Wiki/View.aspx?title=Grid&amp;referringTitle=Home"
@@ -120,7 +123,7 @@ short list of them. Be sure to check them out, I know I will:
     target="_blank">routing engines</a> and <a
     href="http://mvccontrib.codeplex.com/Wiki/View.aspx?title=Brail&amp;referringTitle=Home"
     target="_blank">view engines</a> etc.
--   [InfoQs book on Domain Driven
+- [InfoQs book on Domain Driven
     Design](http://www.infoq.com/presentations/model-to-work-evans)
 
 So I hope that anyone who has read this has enjoyed it for as long as it

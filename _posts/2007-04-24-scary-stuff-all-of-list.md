@@ -43,13 +43,13 @@ nice memories from Bengt.
 
 So three big "thank you"-s are in order:
 
--   Bengt - thank you for your energy, inspiration and good mood. I now
+- Bengt - thank you for your energy, inspiration and good mood. I now
     understand that it was all by love. I am so proud to have called you
     my friend. Thank you for everything Bengt.
--   Kerstin - thank you for trusting in me and for your confidence that
+- Kerstin - thank you for trusting in me and for your confidence that
     i would pull it off. You made me strong and I hope that I could help
     you and your family in some way. Thank you
--   GBB -
+- GBB -
     thanks for letting me into the band again and again. I feel like one
     of you and my thumbs are already white for you doing well at the
     <span id="SPELLING_ERROR_4"

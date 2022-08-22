@@ -23,9 +23,11 @@ Also this is my experience - your mileage may vary.
 <!-- excerpt-end -->
 
 # Glimpses of misuse
+
 As I have done for a few posts; let me give a few glimpses of situations when I felt that JIRA (in this case, could be any electronic tool like that) has actually not only slowed us down but been harmful.[^1]
 
 ## Epic, label - who cares?
+
 I was sitting with an architect in our team. Let's call him Oscar. We were adding a story for some tasks that needed to be done around Database work.
 
 On our board there were other times that had a nice little label that said "Performance" or "Backend". Oscar wanted to tag this story in the same way.
@@ -35,6 +37,7 @@ So we added a label and it didn't show up. It turned out that "Performance" and 
 "Database work" is not an epic, of course. But we did it anyway. We only wanted some tagging to show up on the kanban board where we displayed items. This was the simplest way to get it done.
 
 ## States and process
+
 In JIRA there's two levels of states. There's one that is configured in the underlying work-flow and one that is set on each board where the items are displayed.
 
 In our installation the work-flow states are "Todo" (displayed in Dark blue), "In progress" (Yellow) and "Done" (Green). So far so good. You can also create board that have more detailed states, which makes sense. Here's our, current, board:
@@ -50,6 +53,7 @@ Now there's also another nice screen showing the releases and the state of the i
 I don't have the sufficient permissions (yes, big corp) to change the work-flow and the board itself is too detailed. I now need to create a report that filters and finds... basically work around the system to be able to state the obvious; the is summarized states of our work for the upcoming release.
 
 ## Let's import all of the backlog - it's good to have it in there
+
 The product owners in our team have a great long backlog; about 530 items all in all. It took me quite some time to realize why, but it's because most of those items are just user request that been uttered (some are 6 years old) in meetings. It's politically important to keep them on the backlog.
 
 In JIRA (and other tools) there's a nice import function which allows you to import many items at once. Guess what the product owners wanted to do...
@@ -63,6 +67,7 @@ The reason they wanted to import although the support was worse for their work w
 <blockquote>It's there!</blockquote>
 
 ## Change
+
 I've fiddled around a lot with the states in our project in JIRA lately. We're just getting started so it was bound to happen.
 
 When I did I trashed 4 or 5 boards that other teams had created. Because I move items, changed names of states etc.
@@ -76,11 +81,13 @@ The problem with this is: the whole *purpose* of kanban (and most other agile me
 If changing the board, late in the process (after using for a long period), causes disrupts or leading us to jump through hoops to get by... Well that's no tool I'd like to use. That's doesn't happen with my post-its.
 
 # My two biggies
+
 Quick out of complaints/rant mode. I don't like it there. And still think that JIRA and others are amazing pieces of software.
 
 Let me just break my two biggest issues with electronic tools down and give some constructive recommendations.
 
 ## A tool is just a tool
+
 For ever tool you ever use you have to ask yourself:
 
 <blockquote>How does this support me better than my current ways?</blockquote>
@@ -96,6 +103,7 @@ In all honesty there's *of course* limits like that with physical boards as well
 But the limits of a physical board don't limit me as often as the limits of an electronic tool.
 
 ## Master data problem
+
 The one problem that you need to look out for and that still bites me every time is the problem of master data; where's the true state of an item? In JIRA or on the physical board.
 
 Most developers and testers I've met prefer physical boards over electronic versions. And most scrum masters, project managers, product owner etc I've met is the other way around. My experience.
@@ -105,6 +113,7 @@ But *every single one* of them dislikes reporting states in two systems. It's me
 There are of course times when an electronic board have benefits over a physical, like remote work. But it's not a given - [read my report from a team with a remote worker that opted for a physical board anyway](http://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html)
 
 # Trade offs
+
 Here's a few things that I've used that is the best trade-offs so far:
 
 * Decide on one master. Preferably a physical board
@@ -114,11 +123,11 @@ Here's a few things that I've used that is the best trade-offs so far:
 * Put as little as possible into the electronic tool. Just enough to support your reporting needs. No need to put smaller sub-tasks, defects during development etc.
 
 ## Dream tool
+
 Thinking about it I would probably create an electronic tool that is just a big white-board that you can draw what-ever you want on (like columns, lines etc).
 
 On this you can create cards that you can move around anywhere you want. Further you can upload any kind of images that you can resize to fit on top, like avatars and other markers. On each item you can attach documents and some conversation / discussions.
 
 There could be an area on the board where you pull items that are completed. Lead time is counted from the time you put it on the board until you pull the item down to that area.
-
 
  [^1]: Funny story - I actually considered naming this post "JIRA considered harmul", but then I would have a really hard time not ranting. And I DO NOT want to do that.

@@ -94,8 +94,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    6:         | The Good book | God et. al        | 1          |
 ```
 
-
-
 I can write the following short statements with
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
 target="_blank">SpecFlow.Assist.Dynamic</a>:
@@ -193,8 +191,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
   22: }
 ```
 
-
-
 There’s a lot to be said about the data access code, for example you
 probably are using an ORM of sorts and hopefully you can send dynamic
 objects to it. I’ll show other ways to do that later.
@@ -254,8 +250,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
    5: }
 ```
 
-
-
 Pretty slick, huh? This is how it works:
 
 - <a href="http://www.blogger.com/www.specflow.org"
@@ -303,8 +297,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
    5: </specFlow>
 ```
-
-
 
 This make sure that the step arguments are picked up from the dll.
 <span class="Apple-style-span"
@@ -363,8 +355,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
   10:         | The Goal      | Eliah Goldratt    | 123345678   |
 ```
-
-
 
 I can now write the following steps:
 
@@ -480,8 +470,6 @@ style="background-color: #f4f4f4; border-bottom-style: none; border-left-style: 
 ```
   27: }
 ```
-
-
 
 Don’t worry about the Given and When-steps, it’s just fake. I have save
 the original list into a private variable called \_books and then simply

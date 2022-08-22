@@ -36,11 +36,11 @@ don't have to write it.
 I would stretch it so far as to say that you have to like it and then
 use it of totally get rid of it. Here's your choices
 
--   Put some namespace in the Default Namespace-textbox of the project.
+- Put some namespace in the Default Namespace-textbox of the project.
     When you create new classes don't add any namespace (or only the
     subnamespace for this special class). This is good since you don't
     have to write so much
--   Blank the Default Namespace-box and write the complete namespace at
+- Blank the Default Namespace-box and write the complete namespace at
     the top of every class you create. This is the route our project has
     taken. It's a bit more writing but give you all the control. Also
     it's probably the non-vb-way i presume but don't care.

@@ -34,5 +34,4 @@ arrays we need. Here is my code:
 
     end sub
 
-
 My first LINQ. Me so proud! ;)

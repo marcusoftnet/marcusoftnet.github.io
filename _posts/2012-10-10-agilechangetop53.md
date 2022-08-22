@@ -30,32 +30,19 @@ This is the list - in order of importance:
 
 ### 3 - Let them change how they work
 
-
-
 You need to open up and let go off the wheel. An agile transformation
 is, if anything, a culture shift. Towards autonomy and from top level
 steering. This should go into the agile transformation too. In effect
 this mean, in the words of all agile coaches, to **take it to the
 team**.
 
-
-
-
-
-
 The guys that are going to live in this environment - they are the ones
 best equipped to know what to do about it. Hey - they are there right
 now. They probably even knows what doesn't work too. Trust them -
 support them. But do not tell them a better way.
 
-
-
-
-
-
 This goes even when they ask for it, I would say. I have been asked to
 give teams tools so many times.
-
 
 > Just tell us what to do
 
@@ -105,8 +92,6 @@ much. As long as we're improving.
 
 ### Summary
 
-
-
 This was the third post of my top 5 list to succeed with agile
 transformation projects:
 
@@ -120,6 +105,3 @@ transformation projects:
     target="_blank">Support the initiative</a>
 5. <a href="http://www.marcusoft.net/2012/10/agilechangetop55.html"
     target="_blank">Use visualised data to improve</a>
-
-
-

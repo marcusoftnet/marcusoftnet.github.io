@@ -83,7 +83,7 @@ this:
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">app.use(staticCache(\_\_dirname +
-> '/public/img'), { maxAge: 30 * 24 * 60 * 60 });\]
+> '/public/img'), { maxAge: 30 *24* 60 * 60 });\]
 
 12:28:35 - "Ok, that looked simple let's try this out"
 12:28:40 - \[typed
@@ -165,4 +165,3 @@ I wrote a <a
 href="http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html"
 target="_blank">follow up to this post</a> showing how I made this even
 simpler with a single command in a Makefile.
-

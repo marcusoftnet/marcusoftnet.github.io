@@ -133,16 +133,19 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
 
 Most of the elements speaks clearly for themselves (I’ve shorten the
 content of some for readability):
--   At line 5 you can see how you can send in a version number to the
+
+- At line 5 you can see how you can send in a version number to the
     NuGet Pack command (see below)
--   Line 15-18 specifies the files I want to include and where I want
+- Line 15-18 specifies the files I want to include and where I want
     them to appear in the deployed package
--   Noteworthy is that I don’t specify any dependencies here. I don’t
+- Noteworthy is that I don’t specify any dependencies here. I don’t
     want to add any references to the target project. I simply want to
     copy some files.
--   Note also that I’m including a powershell file called init.ps1 – see
-    below about that file. 
+- Note also that I’m including a powershell file called init.ps1 – see
+    below about that file.
+
 #### Init.ps1
+
 This is a PowerShell file that runs (if included) when a NuGet package
 installs. It’s perfect for doing installation stuff. Here is how the
 file look like for me:
@@ -186,21 +189,21 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    9: Write-Host "#############################"
 ```
 
-
-
--   On line 1 we have some parameters that NuGet are sending to us. It’s
+- On line 1 we have some parameters that NuGet are sending to us. It’s
     basically some paths to different folder that might be interesting
     to us
--   On line 3 is the important stuff; here I do the Import-Module of the
+- On line 3 is the important stuff; here I do the Import-Module of the
     PowerShell commandlet I’ve written.
     In order to get it to work I have to use another PowerShell command
     that joins paths to import it from the right folder
--   The rest is just me writing out some interesting information (?) to
+- The rest is just me writing out some interesting information (?) to
     inform the user how to use the command
 These simple lines will “install” the commandlet into the Package Manger
 console and it can now be used. With full intellisense for all
 parameters of the command. Nice!
+
 #### NuGet.Exe and the Pack command
+
 NuGet also have a command with which you can
 <a href="http://docs.nuget.org/docs/reference/command-line-reference"
 target="_blank">do a lot of stuff</a> but here I was interested in the
@@ -215,13 +218,14 @@ style="border-bottom-style: none; text-align: left; padding-bottom: 0px; line-he
    1: nuget pack Pickles.nuspec -Version %1
 ```
 
-
 Nothing strange here,  I simply point to the .nuspec-file and pass a
 parameter as version. This allows me to use this command (.cmd-file)
 from a DOS-prompt to create new packages by simply setting the version
 number of the package.
 So for version 0.3 I got a file called “Pickles.0.3.nupkg”.
+
 #### Trying out your package locally
+
 A really nice feature of NuGet is that you can very easily set up a
 local NuGet repository. I’ve <a
 href="http://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html"
@@ -231,7 +235,9 @@ So to try my package out I simply copied it into my local repository
 (just a folder on my computer) and then went “Install-Package Pickles”
 in the Package Manager Console in Visual Studio. I even got intellisense
 for the package name.
+
 #### Conclusion and lessons learned
+
 I had some strange problems with the references to dependencies for my
 package for a while. But when I cleaned my files up in order to write a
 <a href="http://stackoverflow.com" target="_blank">StackOverflow</a>

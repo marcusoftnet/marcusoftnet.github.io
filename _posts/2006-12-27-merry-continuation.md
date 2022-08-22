@@ -21,4 +21,3 @@ Here is a nice little game for the season: <http://www.linerider.com/>
 
 And here are some people with to much free time on their hands. But try
 the game first so You know what kind of effort has been done.
-

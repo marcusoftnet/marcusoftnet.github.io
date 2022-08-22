@@ -52,26 +52,16 @@ understanding and a plan for how to proceed.
 
 ### Introduction
 
-
-
 The hospital director is a very young (28?) woman doctor who was
 promoted because "we had no one else". She has no management training
 and was given a hospital that is in terrible condition, with a lack of
 motivation among the staff, and a bleak economical future to say the
 least.
 
-
-
-
-
-
 Not a very envious situation, but she has will power and really wants to
 do something about this. I thought I'd try to help her get an action
 plan in order, since like for many of us in this situation, she wanted
 to do everything at one.
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -82,9 +72,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s1600/victory.gif"
 data-border="0" width="165" height="200" /></a>
 
-
-
-
 This is not a blog post that will end with "... and now they are the
 richest hospital in Indonesia and the doctor has gone on to win the
 Noble prize in management". There will be no victory dance.
@@ -94,10 +81,7 @@ Yet.
 I just wanted to show how we applied the ideas with these tools in a
 very different domain from what it was first intended too.
 
-
 ### Root cause analysis
-
-
 
 So, where do we start? At first I thougth that was a really hard
 question to answer. There were so many problems. But then I came to
@@ -105,11 +89,6 @@ think about
 <a href="http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000"
 target="_blank">Root Cause Analysis</a> and how that from time to time
 have led me to see how problems are related to each other.
-
-
-
-
-
 
 One of the things that they (the hospital management group) often came
 back to was that the BOR (Bed occupancy rate, number of patients in the
@@ -119,25 +98,14 @@ problems I suggested that we start with that. They were so bogged down
 so they didn't mind: "Yeah, that's one of the things that we need to
 look at..."
 
-
-
-
-
-
 As the exercise unfolded I came to realize that Root Cause Analysis not
 is a problem *solving* tool - it's a problem *understanding* tool. More
 on that soon.
-
-
-
-
-
 
 I simply took a sticky and wrote "BOR is too low" on it and stuck right
 in the middle of the board. And then we started upwards: "So what? Who
 cares if our BOR is too low?". That got them going, I tell you. Before
 long they had produced this:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -153,22 +121,13 @@ data-border="0" width="400" height="300" /></a>
 only help them to stay on track in their discussions, trying to remember
 to address all the branches we created.
 
-
-
-
 We took a step back and looked at the tree we created and realized that
 we now had a much better understanding on why we need to solve this
 problem. It touched on some really basic and very important issues that
 in turn was reinforcing our problem ("BOR is too low").
 
-
-
-
-
-
 We then worked our way downward asking WHY-questions, as usual. Soon
 this picture had emerged:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -186,28 +145,17 @@ But we didn't. Instead it was a solid understanding of the problem
 domain, the reason for that problem to occur and the consequences of
 having the problem around.
 
-
 ### Impact mapping
-
-
 
 I suggested a break, but that's not how Indonesians do it. They just
 keep working. I have to try to help them with that.
 Without any further ado we headed right into the next section:
 <a href="http://impactmapping.org/" target="_blank">Impact mapping</a>.
 
-
-
-
-
-
 My thinking here was that given our, now improved, understanding of the
 problem we could start to formulate a plan for how to turn it around. So
 we created a sticky called "*Increase BOR with 6 ppl / day*". I
 challenged that.
-
-
-
 
 When I came to Indonesia I reread
 <a href="http://www.heathbrothers.com/switch/"
@@ -220,26 +168,13 @@ May 30th, 0900, we will have increased BOR with 6 ppl / day*". They then
 change that into the real number (like 24 patients a day) which is even
 better.
 
-
-
-
-
-
 With that sticky on the board I started to ask them *who*they thought
 could help us reach this goal. This confused them, so I took the cover
 of the Impact Mapping book as an example and talked about the racing
 team and who could help them to win the F1-cup (I'm no F1-guy, but maybe
 I should start following that...).
 
-
-
-
 That example resonated with them and we got to work again.
-
-
-
-
-
 
 I pretty much followed the same way I usually go about
 <a href="http://impactmapping.org/drawing.php" target="_blank">creating
@@ -250,16 +185,8 @@ requires some discipline and a facilitator might be needed to not dive
 to deep and go for the *What's* to early. This meeting was just another
 reaffirmation of the knowledge.
 
-
-
-
-
-
 It took quite some time but soon we had a impact map that looked like
 this:
-
-
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -279,8 +206,6 @@ src="http://3.bp.blogspot.com/-01Dtpy3dMS8/Uw7jNCUrLvI/AAAAAAAACBY/gnBqnOuGoKo/s
 data-border="0" width="150" height="200" /></a>
 
 </div>
-
-
 
 Yeah, it was a bit messy. And I've had this experience quite often when
 I create maps like these. These are my general tips:
@@ -304,18 +229,10 @@ I create maps like these. These are my general tips:
 
 ### Limit Work In Progress
 
-
-
-
 And with that we headed right into selecting a couple of actions. The
 young doctor was super happy. She would try all of them (35+) and start
 them tomorrow. The Lean-guy inside me cringed. Violently. I think it
 showed.
-
-
-
-
-
 
 I had to do yet another exercise with them, a simulation to teach them a
 little bit about why you shouldn't do too many things at once. We ran
@@ -327,11 +244,6 @@ target="_blank">free sample chapter from an excellent book</a>). I like
 this exercise since you can run it with a single person and it's very
 to-the-point and gets the message across.
 
-
-
-
-
-
 The doctor picked it up fully. After that we did
 a <a href="http://martinfowler.com/bliki/DotVoting.html"
 target="_blank">Dot vote</a> session to get the top 3 items to start
@@ -339,27 +251,14 @@ investigating. We wanted "bang for the buck" - biggest impact with least
 effort. They got that too. But still, as we went around the board and
 voted they were asking me for more dots... :P
 
-
-
-
-
-
 Here we could of course have gone much more advanced and tried numbers
 and weights, but this was good enough for now.
 
-
 ### Summary
-
-
 
 This is as far as I know. The doctor was very happy since she now got a
 structured problem and an action plan, instead of an unstructured
 problem and a lot of small activities. That felt really good.
-
-
-
-
-
 
 I understood a great deal about what these tools are useful for. It's
 maybe not the "get me a list of things to do" or "show me the root cause
@@ -368,13 +267,6 @@ overview. In a visual and direct manner. It problem and strategy
 understanding that is the key point, I think. From that it's much
 simpler to create a plan.
 
-
-
-
-
-
 The tools I've picked up under many years in the IT sector worked just
 fine here. Perfect in matter of fact. Maybe our problems isn't that
 special after all.
-
-

@@ -41,18 +41,10 @@ The other posts in the series can be found here:
 5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
-
-
 Let's dive right in a say hello to Simple.Data, if you haven't met him
 already.
 
-
-
-
 ### Simple.Data
-
-
-
 
 [Simple.Data](http://simple.data/) is a micro-orm. Or as [Mark
 Rendle](http://blog.markrendle.net/) says: It's an ORM without any
@@ -60,8 +52,6 @@ Objects, there's no Mapping going on and it works against non-Relational
 databases as well.
 Simple.Data relies, just as Nancy, a lot on dynamics and allow you to
 write data access as simple as:
-
-
 
 As expected this code opens a connection to the database (as configured
 in your .config-file, but you could supply a connection string if you
@@ -72,16 +62,12 @@ WHERE-part that search for Users with the given Email. Like this:
 
 Simple right? Oh yeah - it's all in the name.  
 
-
 ### Simple.Data.Testing
 
 Another likeness with Nancy is that Simple.Data have testing as a first
 class citizen. There's some truly great test-support that you can [read
 more about in the excellent docs](http://simplefx.org/simpledata/docs/).
 Here's how some test-code that shows what I mean.
-
-
-
 
 The important part here lies in the test code:
 
@@ -100,34 +86,19 @@ The important part here lies in the test code:
     InMemoryAdapter back, since we set it in our testcode.
 - The rest of the test method does our asserts.
 
-
-
 With these testing capabilities you have the possibllity to test the
 data access code. You can setup mock data per test method and doesn't
 have to create a big testdatabase. This means that we can test the
 entire stack downwards, to just before we do the jump over the network
 (maybe) into the database.
 
-
-
-
 All the way down... or just all the stuff that we have written.
-
-
-
-
-
-
 
 For those wondering, yes - you can setup [joins, auto incrementing
 key](http://simplefx.org/simpledata/docs/pages/Test/Configuration.htm)s
 etc for your InMemoryAdapter.
 
-
-
 ### Hat and shoeless
-
-
 
 As I just said we can now test the stack all the way down to the bottom
 of our application architecture. And in the rest of the [blog posts of
@@ -154,10 +125,7 @@ Shoeless - we Simple.Data testing we can test ALL our code, all the way
 to and including the actual data access code. Just removing the final,
 bottom layer (the actual call to the database) is removed.
 
-
 ### Examples
-
-
 
 Yeah, I know, I know. Too much talk - too little code. I'll show you 2
 examples on how this could work.
@@ -169,8 +137,6 @@ a string.
 
 Let's crank up reality a bit. Let's do a module that uses a Repository
 and returns a rendered Razor view.
-
-
 
 There's nothing new in here, really. But let's go through it real
 fast:
@@ -194,11 +160,7 @@ fast:
     Nancy.Testing to be able to render it under test. Read more on this
     here.
 
-
 ### Summary
-
-
-
 
 This is so cool! Testing the entire stack - in memory. Superfast, but
 accessing all the (important) parts. I have to brace myself. But it's
@@ -207,5 +169,3 @@ first.
 
 As always my code can [be found
 here.](https://github.com/marcusoftnet/DiscoveringNancyThroughTests)
-
-

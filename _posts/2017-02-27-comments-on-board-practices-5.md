@@ -143,9 +143,9 @@ I like this approach because it shows clearly about the real use of the WIP limi
 
 Kanban is about three simple principles at its core:
 
-- Visualize - aka have a board with your work visualized
-- Limit work in process - make some kind of work in process limit
-- Help work to flow - manage, prioritise and make other decisions to help work to flow over the board (through the process) faster and smoother
+* Visualize - aka have a board with your work visualized
+* Limit work in process - make some kind of work in process limit
+* Help work to flow - manage, prioritise and make other decisions to help work to flow over the board (through the process) faster and smoother
 
 Without a WIP limit on the board there's nothing constraining us from taking on new work, nothing asking questions about priority and nothing pushing us from finishing the things we are doing.
 

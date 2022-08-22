@@ -42,8 +42,6 @@ here (beware it's long!):
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
-
 The <a href="https://github.com/marcusoftnet/TDDForKids.git"
 target="_blank">code can be found here</a>.
 
@@ -55,7 +53,7 @@ prefer to code on?
 Me: Mac.
 They: YAAAAAH!
 Me: ???
-**Takeaway: **Ehhh - well Apple market is strong with these ones...
+**Takeaway:**Ehhh - well Apple market is strong with these ones...
 
 After the first two test a guy called out that the code was duplicated
 and demanded we did something about that. Impressive indeed. I
@@ -79,7 +77,7 @@ When I turned the table and asked them what THEY thought should happen
 for zero (for example) they first got a bit confused but I think they
 understood that no-one knows everything from the outset. We need to
 collaborate to understand that.
-**Takeaway: **We cannot write complete specification before we start -
+**Takeaway:**We cannot write complete specification before we start -
 adjust and adapt. And
 write <a href="http://specificationbyexample.com/key_ideas.html"
 target="_blank">executable specifications</a> that breaks when the
@@ -92,20 +90,20 @@ about performance and writing performant code. They were very impressed
 with the computer being able to do up to 10000 very fast but equally sad
 that it didn't do 1000000 for them in a jiffy. "Come on - this is a
 COMPUTER. It should be fast".
-**Takeaway: **Even with fast computers you need to think about the
+**Takeaway:**Even with fast computers you need to think about the
 algorithm, given a big enough sample it will matter
 
 For several changes they was convinced that the tests helped us from
 catching regressions. So the code we wrote together actually helped them
 write better code and not have their customers report bugs for them.
 They got that through and through!
-**Takeaway: **With a good test suite you easier catch regression bugs.
+**Takeaway:**With a good test suite you easier catch regression bugs.
 
 They were really great with coming up new tests. This partly had to do
 with us doing the Fizz Buzz kata on the board. So it was visual for them
 all the time up on the board. That helped a lot during problem
 solving.
-**Takeaway: **Visualisation is a great help for problem solving.
+**Takeaway:**Visualisation is a great help for problem solving.
 
 I got into problem doing some string concatenation during the end of the
 exercise. I then leaned on the tests and the Expected/Actual output and
@@ -135,5 +133,4 @@ They got that! And surpassed me quickly in challenging our code, asking
 more trickier questions and taking me on a explaining-journey
 that taught me a lot.
 
-Thanks guys - that was one great afternoon. 
-
+Thanks guys - that was one great afternoon.

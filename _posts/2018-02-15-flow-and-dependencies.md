@@ -99,7 +99,6 @@ I need to renew my passport and started to check how to go about doing that. It 
 * When it was my turn the whole process took about 4 minutes to complete
 * I will get notified when my passport was printed
 
-
 I was out of before I knew what happened.
 
 Notice how all the steps in the process above was there to ensure smooth flow;

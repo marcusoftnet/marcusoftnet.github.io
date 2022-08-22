@@ -68,7 +68,7 @@ But but but ... what if that takes "forever" to complete? Well, let's not allow 
 
 That would take away much of that worry for me.
 
-##Summary
+## Summary
 
 I worry too much. Maybe I can't help it, but if I have to worry I don't want to worry in vain.
 

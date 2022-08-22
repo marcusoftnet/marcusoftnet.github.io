@@ -28,18 +28,19 @@ With this post I wanted to do some reflections on how the introduction
 of Kanban took hold for the teams and also what Morgan and me learned in
 the process. We are used to do this for IT-projects and teams working
 with system development or maintenance.
+
 #### Reflection on the result for the teams
 
 ##### First week
 
 The immediate and positive responses from the group was reactions like:
 
--   “This is very clear and shows us what we are doing”
--   “I can see dependencies between our tasks. And on the ones where we
+- “This is very clear and shows us what we are doing”
+- “I can see dependencies between our tasks. And on the ones where we
     wait for others”
--   “We have greater understanding for what we do. And other can see
+- “We have greater understanding for what we do. And other can see
     that (what we do) also”
--   “I think our effectiveness went up 25 %”
+- “I think our effectiveness went up 25 %”
 
 This is all related to visualization and the simple act of putting stuff
 on the wall (or the board) if you ask me. It’s also very common for
@@ -53,17 +54,17 @@ revelation for the teams.
 One of the more interesting signs of that was that they spontaneously
 started to evolve the board:
 
--   Both teams used different colored stickies to further communicate
+- Both teams used different colored stickies to further communicate
     information.
-    -   One team used a color for each big project they were in. The
+  - One team used a color for each big project they were in. The
         question was what that helped them with. It was easy to see if
         one project was taking over the board but did it help them to
         prioritize? Not so much probably
-    -   The other team used a more common <a
+  - The other team used a more common <a
         href="http://leanandkanban.wordpress.com/2009/06/10/classes-of-service-and-policies/"
         target="_blank">Classes of Service</a> concept grouping their
         tasks in Urgent, Normal and Low priorities
--   One team considered adding a new "To Do”-column for stuff that goes
+- One team considered adding a new "To Do”-column for stuff that goes
     on during the year. So they could prioritize the week from that
     backlog.
 

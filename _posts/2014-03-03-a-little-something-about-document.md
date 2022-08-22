@@ -66,17 +66,9 @@ interactions with the database.
 
 And then callbacks on top of that... It got hairy I'm telling you.
 
-
-
 About this place I started to get second thoughts. Nothing had been this
 hard with Mongo before. And this is a really simple data model. It
 shouldn't be this hard.
-
-
-
-
-
-
 
 Often when I get that feeling I try to take a break. For about 24 h. And
 then approach the model again, as for the first time. I did that this
@@ -84,18 +76,9 @@ time and when I got back the answer was bright and clear for me: "we
 don't need a Hashtag-collection. It's just what an old relation-dude
 like I wanted to keep the 'tables' in order".
 
-
-
-
-
-
-
 Instead this is just a function/index on the Post. Loop through the
 hashtags of all the posts. This can easily be accomplished with Mongoose
 like this:
-
-
-
 
 The "trick" can be found on line 7 (<span
 style="font-family: Courier New, Courier, monospace;">.find({hashtags :
@@ -107,9 +90,6 @@ style="font-family: 'Courier New', Courier, monospace;">hashtags array.".
 
 ### Summary
 
-
-
-
 I'm still learning document databases and have not yet harness the full
 power of them. I have a little feel that document database is to
 relational databases what
@@ -117,5 +97,3 @@ relational databases what
 programming</a> is to object orientation. That is could can write the
 code in the same way as you did, but then you're missing out on the
 whole idea.
-
-

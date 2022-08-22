@@ -23,6 +23,6 @@ Here is the overview link:
 Below it you'll find several different areas of interest.
 Here are my highlights:
 
--   [Asp.NET with AJAX](http://www.asp.net/learn/ajax-videos/)
--   [Windows Forms](http://go.microsoft.com/?linkid=7198818)
--   [Windows Presentation Foundation (WPF)](http://go.microsoft.com/?linkid=7198817)
+- [Asp.NET with AJAX](http://www.asp.net/learn/ajax-videos/)
+- [Windows Forms](http://go.microsoft.com/?linkid=7198818)
+- [Windows Presentation Foundation (WPF)](http://go.microsoft.com/?linkid=7198817)

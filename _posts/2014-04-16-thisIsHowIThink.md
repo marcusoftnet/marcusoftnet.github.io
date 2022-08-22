@@ -45,15 +45,12 @@ good in here is probably from them. Thank you.\]
 
 ### Why are we here?
 
-
-
 To me this question forms the basis for everything we do. There might be
 many reasons for me to be in a workplace but there's only one main
 reason that form the basis of our goals. I borrow a quote from the
 Salvation Army founder, William Booth,
 <a href="http://www.others.no/others-" target="_blank">as a call-to-arms
 for the early Salvation Army soliders</a>:
-
 
 > Others!
 
@@ -103,16 +100,11 @@ working here together? Can you formulate that in an F1-question.
 
 ### Small and fast
 
-
-
 Furthermore I believe that we should delivering things as fast as
 possible. And in small batches. Both these things has to do with
 learning stuff; for everything we complete we will learn something. The
 more we learn the better we will become in producing better, more,
 faster to our customers.
-
-
-
 
 Also, delivering small things often rather than big things seldom tends
 to be favorable by most customers I've met. You build trust with your
@@ -121,10 +113,7 @@ them. Finally, not to be underestimated in a world a lot of big
 projects, delivering *something* means that you are moving. Compare that
 to a big project where you hear nothing for several months.
 
-
 ### Getting done. Fast
-
-
 
 I'm ~~obsessed~~ really into with completing stuff. Keeping the lead
 time (from customer orders until it's completed) as short as possible.
@@ -136,10 +125,7 @@ target="_blank">just going faster is not going to help much</a>, since
 that means that the quality goes down. Bad quality work will come back
 to us.
 
-
 ### Doing less stuff
-
-
 
 In order to get stuff done fast I think we should strive to do fewer
 things. At first this sounds quite strange, but it's a
@@ -147,9 +133,6 @@ things. At first this sounds quite strange, but it's a
 target="_blank">mathematical fact</a> that the fewer things you do at
 the same time the faster it goes. You can see this in action in a
 simulation I did a couple of months ago:
-
-
-
 
 <div style="margin-bottom: 5px;">
 
@@ -160,12 +143,9 @@ pennies  - Lean game simulation</a>** from
 **<a href="http://www.slideshare.net/marcusoftnet" target="_blank">Marcus
 Hammarberg</a>**
 
-
-
 <div style="text-align: left;">
 
 **UPDATE:**
-
 
 <div style="text-align: left;">
 
@@ -180,15 +160,11 @@ often found a lot of eyes open, and AHA! experiences had.  And if you
 can see the principle manifested in your, much more complex context,
 then it can teach us something.
 
-
 <div style="text-align: left;">
 
 Thank you Daniel.
 
-
 ### How we do it, is just best so far
-
-
 
 Taking this reasoning further means that the way we work, the HOW, is
 just best so far. I'm willing to challenge everything we do and the
@@ -249,7 +225,6 @@ from going faster.
     can we find another way to make our decision less scary, smaller
     maybe, so that we don't need to think about it as long, or as hard.
 
-
 By now, many of you have face palmed yourself a couple of times and
 probably called me names too. But this is just showing my reasoning
 (although I've had all of the above mentioned discussions at least
@@ -271,22 +246,14 @@ produce wonderful things to their customers...  Is that bad or good?
 
 ### Two favorites
 
-
-
 What can one do then? That's where the fun begins - you can do whatever
 you see fit to change your system to produce better values for your
 customer faster. With a guiding star you can always evaluate your
 actions towards that goal. Did we get closer or further away?
 
-
-
-
 Here's two things that occupies my thinking a lot right now.
 
-
 #### Small frequent changes over radical big changes
-
-
 
 I think that we should change often but small. So small that we easily
 can go back if it didn't work out. For fun let's call those changes
@@ -300,7 +267,6 @@ target="_blank">the Scientific method</a> and is the way all science has
 been discovered since about 4th century BCE through Aristotle, so its
 well established. Tried and tested.
 
-
 <div style="text-align: left;">
 
 <div class="separator" style="clear: both; text-align: center;">
@@ -312,7 +278,6 @@ style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
 src="http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s1600/2014-04-16+09.00.34.jpg"
 data-border="0" width="200" height="120" /></a>
 
-
 Also, all changes will take effort from your normal work, creating a dip
 in productivity. Do you want that dip to be long and deep or short and
 shallow? That's something that you can choose. I like the latter. The
@@ -322,10 +287,7 @@ changes.
 Yes, I drew that curve myself. I used the awesome tools whiteboard and
 pen. Has yet to fail me :)
 
-
 #### Move authority to the information
-
-
 
 Who knows best what and where to make the small changes I just talked
 about? The direction level of the company or each person close to the
@@ -347,13 +309,8 @@ That leaves us with a choice;
     using a transparent culture where all information is known to
     everyone.
 
-
-
 I'm all for the second approach, since it's much faster and produced
 more value faster for our customer (see the top of this article).
-
-
-
 
 If you want to read more about this, get
 <a href="http://davidmarquet.com/books/turn-the-ship-around/overview/"
@@ -361,9 +318,7 @@ target="_blank">Turn the Ship Around</a> by
 <a href="http://www.twitter.com/ldavidmarquet" target="_blank">David L
 Marquet</a>. Or spend 10 minutes watching this inspirational video;
 
-
 <div class="separator" style="clear: both; text-align: center;">
-
 
 ### Ehhh... there's people in there you know?
 
@@ -376,9 +331,7 @@ Thank
 you <a href="http://twitter.com/drunkcod" target="_blank">Tobbe </a>and <a href="http://twitter.com/emilcardell" target="_blank">Emil </a>for
 this input and pointing out the holes in my reasoning.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -389,9 +342,7 @@ target="_blank">the Toyota production system</a> (where I get a lot of
 inspiration); Respect  for people. The other one being continuous
 improvements.  
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -403,9 +354,7 @@ help them develop their mastery and ultimately show them that they are
 important, they have a purpose reaching a continuously improving process
 / organization will be very hard. If not impossible. I think.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -414,9 +363,7 @@ the way, about other approaches to try to continuously evolve the
 organizations. I heard and seen those fail. But I have not seen all the
 approaches in the world...
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -429,9 +376,7 @@ target="_blank">autonomy to the individual teams and employees to change
 their environment and processes</a> to more effectively reach that goal
 is much more ... effective. I've seen that succeed. A number of times.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -439,19 +384,14 @@ And I've seen it fail too. Because it's hard, since it means letting go
 of power and (perceived) control, something that most people are more
 reluctant to let go than money, in my experience.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
 Again - thanks Emil and Tobbe for making me think harder and add this
 section. I feel you made this post more complete.
 
-
 ### Summary
-
-
 
 We are here to bring value to some customer. Us just working without
 producing value for someone is truly useless. Hence I think we should
@@ -459,19 +399,7 @@ change the way we work to become better and better in producing value
 for our customer faster, with better quality and more frequently. Our
 processes, organization, rules etc. just just "best so far".
 
-
-
-
-
-
-
 I'm not saying that I'm right and you are wrong. I'm just saying that
 this is the way that I reason, so that you can understand me if we end
 up in a discussion. I want us to change to improve. I think improving is
 improvements for our customer.
-
-
-
-
-
-

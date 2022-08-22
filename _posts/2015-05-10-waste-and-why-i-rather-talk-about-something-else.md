@@ -30,6 +30,7 @@ And the answer is "Yes, of course". Just as [stand up meetings](http://www.marcu
 Is that bad? Well wait a second and you'll see. Is it interesting to talk about? I'll end with that (scroll down to "Wake me up here").
 
 # What is waste?
+
 For a carpenter nailing two boards together the following is waste:
 
 * Pick up hammer
@@ -57,6 +58,7 @@ Awesome! Let's try it out (and the next bullets are oozing irony):
 Actually the last one is correct.
 
 # May I interest you in stopping at the reality station?
+
 Defining waste like this is a bit too narrow and simplistic for my taste. I get a little bit nervous when I see on the [Lean Wiki Page](http://en.wikipedia.org/wiki/Lean_manufacturing) that the goal of Lean is to:
 
 <blockquote>Lean manufacturing or lean production, often simply "lean", is a systematic method for the elimination of waste ("Muda") within a manufacturing process.</blockquote>
@@ -72,6 +74,7 @@ Much clearer expressed by Donald Reintersen himself, as response to my clumsy tw
 <blockquote>$100 of waste reduction, is worth more than $10 of flow improvement, or $1 of value improvement. IMO Trumping is dangerous nonquantitative way to conceptualize problem. It's question of tradeoffs</blockquote>
 
 # Wake me up here
+
 I find waste not that interesting to talk about. On it's own the tool is too blunt and makes us focus on just eliminate waste and not look into [other factors that might affect our process](https://t.co/ccreKvBLsj).
 
 Mindlessly go for what I started with "ALL WASTE MUST DIE" will not lead us to a good place. I think.

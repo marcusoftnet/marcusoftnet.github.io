@@ -16,7 +16,7 @@ I
 ran into some problems when creating my addin. Here are the solution to
 them:
 
-1.  When i used the OutputTaskItemString the items was shown in the
+1. When i used the OutputTaskItemString the items was shown in the
     Error list, but when i double clicked on them nothing happened. I
     also noticed that only the first error was shown in the
     Output-window, where all the errors was supposed to be shown.
@@ -24,7 +24,7 @@ them:
     the output window (and to the task) needs to end with a newline.
     Quite obvious when you know it. When i changed that everything
     worked out just dandy
-2.  Deploying my add-in was (and maybe still is) a pain. Mostly this
+2. Deploying my add-in was (and maybe still is) a pain. Mostly this
     probably has to do with that my current customer has the My
     Documents-folder on a network share, but i am not sure.
    I found two good articles surrounding this:

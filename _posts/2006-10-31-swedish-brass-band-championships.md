@@ -44,6 +44,7 @@ piece is a classical test piece - the judges have already heard
 that...
 
 So the end result will be:
+
 1. Gothenburg (with two points margin at least)
 2. Windcorp
 3. Stockholm brass band

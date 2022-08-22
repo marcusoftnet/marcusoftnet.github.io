@@ -137,9 +137,5 @@ stories - good and bad. </td>
 </tbody>
 </table>
 
-
-
 I would love to come and talk to you on these subjects. Make it a
 happening over lunch or an afternoon of learning.  
-
-

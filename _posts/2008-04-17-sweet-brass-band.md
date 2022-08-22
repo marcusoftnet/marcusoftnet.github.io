@@ -19,11 +19,8 @@ id="BLOGGER_PHOTO_ID_5190124580488466434"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://1.bp.blogspot.com/_kkDJOSPNTLs/SAcGzrgJ0AI/AAAAAAAAATQ/LDW4SNw5vnQ/s1600-h/Wire-Youth.jpg)
 
-
-
 I can't withhold this sweet picture. It is from the Youth Brass Band
 Championships in Great Britain held last weekend. Note
 that she's not even holding a normal cornet, it is smaller than a
 regular cornet. But she is still playing a singing E. What a
 concentrated face!
-

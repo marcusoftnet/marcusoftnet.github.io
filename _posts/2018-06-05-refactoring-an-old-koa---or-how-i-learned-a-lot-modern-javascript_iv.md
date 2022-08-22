@@ -24,7 +24,7 @@ In the last post we made significant progress and now have some very modern and 
 
 Keep the test running by doing `npm t` . I notice that sometimes when we rename files or move them mocha can crach so keep your eye out for that and restart the tests if that happens.
 
-### Async / await for our code!
+### Async / await for our code
 
 Let's do the same trick as we did for our tests and move from generators and `yield` to `async` and `await`. They are supposed to accomplish the same thing; help us to write asynchronous in a synchronous flow.
 
@@ -86,7 +86,7 @@ it('deletes an existing user', async () => {
 })
 ```
 
-But when I did the log statement became `/undefined` in the console. Hmmm… what's up. Further more, why didn't the test fail when navigating to `/undefined ` ?
+But when I did the log statement became `/undefined` in the console. Hmmm… what's up. Further more, why didn't the test fail when navigating to `/undefined` ?
 
 The first question is answered with this awesome [StackOverflow response](https://stackoverflow.com/questions/39224320/nodejs-koajs-async-await-not-getting-value-from-db-collection-find). It's a long story but my favorite way to access [Mongo is via Monk](http://www.marcusoft.net/2014/02/mnb-monk.html). But [Monk](https://github.com/Automattic/monk), out of the box, doesn't support generators and `yield`, so I had to wrap it with [co-monk](https://www.npmjs.com/package/co-monk).
 
@@ -127,7 +127,7 @@ it('deletes an existing user', async () => {
 
 And sure enough. That console.log statement was fired and then it crashed with a Internal server error… I was bewilder and stumped...
 
-### Update packages! Dear Lord. Do it now!
+### Update packages! Dear Lord. Do it now
 
 Then I just checked the `package.json` out of a coincident. The packages in there has pretty low number. I ran a command called `npm outdated` and sure enough. A lot could have happened on the way.
 
@@ -161,7 +161,7 @@ Finally I updated the development dependencies too, saving them with the `-D` fl
 npm uninstall should supertest -S && npm install should supertest -D
  ```
 
-I restarted the tests and ran it. Now I got this error: `TypeError: Class constructor Application cannot be invoked without 'new' `
+I restarted the tests and ran it. Now I got this error: `TypeError: Class constructor Application cannot be invoked without 'new'`
 
 Ok - Koa now uses a class instead of a ordinary function. So we need to new it up. The first two lines in `app.js` became:
 
@@ -204,11 +204,11 @@ But there's still a problem here; the tests pass regardless of how I change my c
 
 I actually changed up quite a lot of how the supertest request is created:
 
-* In `before`, that is run before any testm, I create the server (`app.listen(8888)`)
-* and close it in `after` (with `server.close()`)
-* Then `beforeEach` test we create a new supertest `request` object with `request = supertest(server) `
-* Finally I created an error checker that is called in the `.end()` call, that simply throws an error if one was found.
-  * That simply looks like this, when used: `.end(throwIfError)`
+- In `before`, that is run before any testm, I create the server (`app.listen(8888)`)
+- and close it in `after` (with `server.close()`)
+- Then `beforeEach` test we create a new supertest `request` object with `request = supertest(server)`
+- Finally I created an error checker that is called in the `.end()` call, that simply throws an error if one was found.
+  - That simply looks like this, when used: `.end(throwIfError)`
 
 This is of course impossible to understand from these bullet. Here is the setup and first test, for context:
 
@@ -253,7 +253,7 @@ When `.end()` is back in there the tests starts to fail again. I will not lie - 
 
 1) the `await users.remove({})` I had in the `afterEach` hook for mocha was not good. Since this was in an async handler `afterEach(async () => {` , as all the test were they started to wipe the collection clean uncontrollable, or at least unpredictable. So I removed that hook althogether.
 
-2) I had a few slip-ups where I forgot to change from using `this` to using the context object `ctx`. Noteably in the `add` function in `userRoutes.js` where it for the longest time still was. `  const postedUser = await parse(this)`. This is now fixed.
+2) I had a few slip-ups where I forgot to change from using `this` to using the context object `ctx`. Noteably in the `add` function in `userRoutes.js` where it for the longest time still was. `const postedUser = await parse(this)`. This is now fixed.
 
 And now the test fails when I change the code! Yes!
 (and passes when it's suppose to pass)
@@ -272,16 +272,16 @@ const exists = (value) => (value !== undefined) && (value !== null)
 
 All in all there were many moving parts here, so let's summarize what we did to get this to work:
 
-* We updated all our frameworks to the latest version (Koa, koa-route and co-body) but also the development tools (supertest and should)
-* We realized that co-monk is using thunks and that cannot be used with async / await. So we simply removed co-monk altogether from the equation.
-* We then turn all the functions in `userRoutes.js` from the generator functions they were into async functions
-  * And then turned them into using `=>` notation.
-* That made me nervous about using this and we started to used the passed in Koa context object instead
-  * I forgot that in places and messed up additionally that took me about 4 hours to find
-* For the test, using supertest, I [wrote a separate post on this](http://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html), but:
-  * I create the server before all tests and close it after all tests
-  * before each test I create the request object for the request under test
-  * Finally I've put the `.end()`-function call
+- We updated all our frameworks to the latest version (Koa, koa-route and co-body) but also the development tools (supertest and should)
+- We realized that co-monk is using thunks and that cannot be used with async / await. So we simply removed co-monk altogether from the equation.
+- We then turn all the functions in `userRoutes.js` from the generator functions they were into async functions
+  - And then turned them into using `=>` notation.
+- That made me nervous about using this and we started to used the passed in Koa context object instead
+  - I forgot that in places and messed up additionally that took me about 4 hours to find
+- For the test, using supertest, I [wrote a separate post on this](http://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html), but:
+  - I create the server before all tests and close it after all tests
+  - before each test I create the request object for the request under test
+  - Finally I've put the `.end()`-function call
 
 I learned a lot in writing this post. I realize that it became a bit messy for you, but I hope you could follow along to.
 
@@ -289,7 +289,7 @@ The code is checked in under `UserApi refactoring done`
 
 The good news, is that I now will do the same thing for the other apis (in folders address and order) without writing a post.
 
-* First checking is found under `Refactored OrderAPI`
-* Second check in is found under `Refactored Address API`
+- First checking is found under `Refactored OrderAPI`
+- Second check in is found under `Refactored Address API`
 
 Then, in the final post, we will tackle the top-level api that puts all of this together. Might be long or short. See [you there](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)!

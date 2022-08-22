@@ -37,12 +37,7 @@ things about that:
 2. If the file is present the settings in it will override any
     attributes that are specified in both places
 
-
-
 Here is what we did:
-
-
-
 
 We created a localAppSettings.config that contains the AppSettings that
 we want to override. Please note that this only contains . No -nodes in
@@ -56,20 +51,13 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s320/localsettings.JPG"
 data-border="0" width="320" height="50" /></a>
 
-
-
-
 We then changed the app.config to contain our standard configuration and
 to point to the localAppSettings.config. Please note that the path is
 relative TO THE PLACE WHERE THE TEST ARE RUN. In my case that was in
 *C:/Dev/Puls/Dev/PulsNet/GUI/PulsGui/LF.LIV.PEAAT/TestResults/localadmin_LF-E7A7A8B75E99%202010-10-22%2009_17_31/Out/*
 so the relative path is ... strange.
 
-
-
-
 Here is how our app.config appsettings look like:
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -79,13 +67,9 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://3.bp.blogspot.com/_TI0jeIedRFk/TMFGSxbnL1I/AAAAAAAAAo0/jof6Ic7_xOA/s320/app+config.JPG"
 data-border="0" width="320" height="118" /></a>
 
-
-
-
 Finally we set the localAppSettings.config to be excluded from source
 control as I explained [in the last
 post.](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
-
 
 <div class="separator" style="clear: both; text-align: center;">
 
@@ -95,14 +79,7 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGSL1yu3I/AAAAAAAAAow/TVmTgoHVyns/s1600/solution.JPG"
 data-border="0" /></a>
 
-
-
-
 This solution is much nicer with a lower impact for everyone...
 including the build server.
 
-
-
-
 Thanks Anders!
-

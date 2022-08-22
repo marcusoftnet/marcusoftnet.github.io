@@ -10,7 +10,7 @@ tags:
   - Things I say often
 ---
 
-This [thing I say often](http://www.marcusoft.net/tags/#Things I say often) "thing" is quite new and a bit personal. It's very important for me personally and I hope that you like it.
+This [thing I say often](<http://www.marcusoft.net/tags/#Things> I say often) "thing" is quite new and a bit personal. It's very important for me personally and I hope that you like it.
 
 I've had the great, but scary, opportunity to play a couple of times under the late James Watson. For any non-brass-players he's one of the truly great trumpet players of the world, brought up as a wonder boy in the brass band movement. Later in his career he returned and made the world famous [Black Dyke Band](http://blackdykeband.co.uk) into a new being - possibly changing what people thought a brass band could be for ever.
 
@@ -41,4 +41,4 @@ I wont lie; I prefer positive feedback. Because it makes me feel good and I want
 
 Probably that's one of the reasons I [tweet](http://twitter.com/marcusoftnet), keep most of my [code open](http://github.com/marcusofnet) and [blog](/). It's a great way to get fast feedback.
 
-My way out of the depression and downward spiral was to seek other ways and situations where I get feedback; volunteering to do courses, taking speakers gig, [this series](http://www.marcusoft.net/tags/#Things I say often) of blog posts etc.
+My way out of the depression and downward spiral was to seek other ways and situations where I get feedback; volunteering to do courses, taking speakers gig, [this series](<http://www.marcusoft.net/tags/#Things> I say often) of blog posts etc.

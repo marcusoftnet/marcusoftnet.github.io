@@ -34,18 +34,10 @@ data-border="0" /></a>
 <span class="Apple-style-span" style="color:#551A8B;"><span
 class="Apple-style-span" style="text-decoration: underline;">
 
-
-
-
-
-
-
 The pictures from [last week's photo
 session](http://marcushammarberg.blogspot.com/2007/08/marcus-model.html)
 for Avega has arrived. I'll try make them smaller in a while - these are
 very big. Sorry.
-
-
 
 I am quite happy with the outcome - just think what some editing in
 PhotoShop can accomplish ;)

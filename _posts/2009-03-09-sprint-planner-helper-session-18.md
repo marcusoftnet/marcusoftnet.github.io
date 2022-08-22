@@ -50,11 +50,11 @@ simple LINQ-statment:
 
 > public List\<ProductBacklogItem\> ProductBacklogItems
 >
->         {
+> {
 >
 > get
 >
->             {
+> {
 >
 > var listToReturn = from item in productBacklogItems
 >
@@ -64,9 +64,9 @@ simple LINQ-statment:
 >
 > return listToReturn.ToList();
 >
->             }
+> }
 >
->         }
+> }
 
 After adding an AddProductBacklogItem-method I was back on track with
 all green lights…

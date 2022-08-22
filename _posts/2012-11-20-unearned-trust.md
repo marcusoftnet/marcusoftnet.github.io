@@ -41,7 +41,6 @@ often.
 It got me thinking. That's something we would need more of in the
 software business as well. How would that look?
 
-
 |                                                                                       |
 |:-------------------------------------------------------------------------------------:|
 |                                           <a
@@ -51,7 +50,6 @@ software business as well. How would that look?
       src="http://www.leanblog.org/wp-content/uploads/2010/06/toyota-house-LEI.png"
                     data-border="0" width="320" height="240" /></a>                     |
 |                             From http://www.leanblog.org                              |
-
 
 We often talk about trust in agile contexts and it is important. It's
 even one of the pillars of the Toyota Production System - Respect for
@@ -101,11 +99,8 @@ on being great - and he was.
 
 ### Pay it forward
 
-
-
 What would happen to you if someone showed you trust, that you haven't
 earned:
-
 
 > "Welcome onboard, John. We would like you to deploy to production
 > today"
@@ -137,8 +132,6 @@ No trust! Not even earned trust. Just distrust and control mechanisms.
 
 ### Summary
 
-
-
 These where just some thoughts that popped up in my head as I was met
 with **unearned trust**. There are
 <a href="http://en.wikipedia.org/wiki/Divine_grace"
@@ -146,27 +139,10 @@ target="_blank">religions built around this concept</a> - then it's
 called grace. And grace can never be earned. It's given for free and
 unearned.
 
-
-
-
-
-
-You cannot do anything to deserve to be met with trust. It's a gift. 
-
-
-
-
-
+You cannot do anything to deserve to be met with trust. It's a gift.
 
 You can, however, pass it on. Trust others that you have no reason to
 trust. Maybe, just maybe they will grow from that, do better work and
-start trusting others in turn. 
+start trusting others in turn.
 
-
-
-
-
-
-I trust you to do that. 
-
-
+I trust you to do that.

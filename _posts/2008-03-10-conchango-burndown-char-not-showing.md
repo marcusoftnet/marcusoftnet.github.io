@@ -20,11 +20,11 @@ get back to it.
 
 Let me get a couple of thing right first:
 
--   I don't think this is a good way of doing
+- I don't think this is a good way of doing
     [SCRUM](http://scrumforteamsystem.com/processguidance/v2/Scrum/Scrum.aspx).
     You miss a lot of the great interaction within the team when you
     need to do this kind of reporting.
--   I think that the Conchango template is as good as
+- I think that the Conchango template is as good as
     it probably will get when you are forced to use tools like this. I
     do hope that it might even get [slightly
     better](http://www.codeplex.com/scrumdashboard)...
@@ -54,8 +54,8 @@ Well - if i ever understand that i'll post the solution here.
 
 However two things i have noticed about the sprint work item is these:
 
--   You'll need to set Start and Stop Date for the sprint
--   You'll need to set the state of the sprint to In progress
+- You'll need to set Start and Stop Date for the sprint
+- You'll need to set the state of the sprint to In progress
 
 Failing to do these things will cause the burn down and other reports to
 fail.

@@ -19,5 +19,3 @@ than just a concert outfit... Just think what could be done surrounding
 a story or a sketch. I'll have to do something about that i think...
 
 Well here you go in the right order:
-
-

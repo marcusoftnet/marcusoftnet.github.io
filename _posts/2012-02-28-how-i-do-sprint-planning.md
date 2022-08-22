@@ -33,6 +33,7 @@ everybody that I’ve learned from, especially
 <a href="http://se.linkedin.com/in/stave" target="_blank">Öystein
 Stave</a> who helped me find my lost excel-sheet that we created
 together a long time ago.
+
 ### Time boxing and the three constraints
 
 As everything in Scrum I plan sprints as a time box. That is I let the
@@ -53,9 +54,9 @@ Ok – nothing new there. As probably in the rest of the post as well… : )
 
 For me sprint planning falls into two discrete parts:
 
--   The product owner explains the items he has as highest priority in
+- The product owner explains the items he has as highest priority in
     product backlog so that the team knows WHAT it is
--   The team picks and plans HOW to accomplish that during the next
+- The team picks and plans HOW to accomplish that during the next
     sprint.
 
 When possible I try to have these two events on different days; for
@@ -164,13 +165,13 @@ done. What does DONE mean for this team (in this sprint even). I usually
 write this down on the whiteboard or draw peoples attention to a
 flipchart paper that hangs from the Scrum board. Here’s one example:
 
--   The demo will be in the test environment
--   The code will be coded and reviewed
--   The code coverage for unit test will be greater than 80%
--   The documentation will be updated
--   Testing has been done to a level that we *could* *potentially* ship
+- The demo will be in the test environment
+- The code will be coded and reviewed
+- The code coverage for unit test will be greater than 80%
+- The documentation will be updated
+- Testing has been done to a level that we *could* *potentially* ship
     to production
--   Automated acceptance tests has been written and implemented
+- Automated acceptance tests has been written and implemented
 
 Yeah you get we’re I’m going… You decide what is a level you can live
 with this iteration.

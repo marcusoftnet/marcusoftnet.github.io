@@ -32,18 +32,18 @@ changed it into this (significant code in **bold**).
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
 > \[<span style="color: #2b91af">AcceptVerbs(<span
-> style="color: #2b91af">HttpVerbs.Post)\]       
+> style="color: #2b91af">HttpVerbs.Post)\]
 >
->         <span style="color: blue">public <span
+> <span style="color: blue">public <span
 > style="color: #2b91af">ActionResult Create(<span
-> style="color: #2b91af">FormCollection form)       
+> style="color: #2b91af">FormCollection form)
 >
->         {           
+> {
 >
->             <span style="color: green">// Create ViewData           
+> <span style="color: green">// Create ViewData
 >
 >
->             <span style="color: #2b91af">ProductForm viewData =
+> <span style="color: #2b91af">ProductForm viewData =
 > <span style="color: blue">new <span
 > style="color: #2b91af">ProductForm(<span
 > style="color: blue">new <span
@@ -52,55 +52,55 @@ changed it into this (significant code in **bold**).
 >
 >  
 >
->             <span style="color: blue">try           
+> <span style="color: blue">try
 >
->             {               
+> {
 >
->                 **UpdateModel(viewData,
-> form.ToValueProvider());**               
+> **UpdateModel(viewData,
+> form.ToValueProvider());**
 >
 >  
 >
->                 <span style="color: green">// Get the productowner for
+> <span style="color: green">// Get the productowner for
 > the selected product-owner id
 >
->                 viewData.Product.Owner =
-> productOwnerRepository.GetById(viewData.SelectedOwnerID);               
+> viewData.Product.Owner =
+> productOwnerRepository.GetById(viewData.SelectedOwnerID);
 >
 >  
 >
->                 <span style="color: green">// add new product to the
-> repository               
+> <span style="color: green">// add new product to the
+> repository
 >
->                
-> productRepository.Add(viewData.Product);               
 >
->                 productRepository.Save();               
+> productRepository.Add(viewData.Product);
+>
+> productRepository.Save();
 >
 >  
 >
->                 <span style="color: green">// Go back to the
-> list               
+> <span style="color: green">// Go back to the
+> list
 >
->                 <span style="color: blue">return
+> <span style="color: blue">return
 > RedirectToAction(<span
-> style="color: #a31515">"Index");           
+> style="color: #a31515">"Index");
 >
->             }           
+> }
 >
->             <span style="color: blue">catch
+> <span style="color: blue">catch
 >
->             {
+> {
 >
->                
+>
 > ModelState.AddRuleViolations(viewData.Product.GetRuleViolations());
 >
->                 <span style="color: blue">return
+> <span style="color: blue">return
 > View(viewData);
 >
->             }       
+> }
 >
->         }
+> }
 >
 > </div>
 
@@ -128,81 +128,81 @@ Here is a short sample that test the action method above.
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->         \[<span style="color: #2b91af">TestMethod\]
+> \[<span style="color: #2b91af">TestMethod\]
 >
->         <span style="color: blue">public <span
+> <span style="color: blue">public <span
 > style="color: blue">void
 > createControllerActionCanTakeAFormCollectionWithProductDataAndAddItToTheRepository()
 >
->         {
+> {
 >
->             <span style="color: blue">var
+> <span style="color: blue">var
 > numberOfProductsBefore = productRepository.Find().Count();
 >
->             <span style="color: blue">var form =
+> <span style="color: blue">var form =
 > CreateProductTestFormCollection();
 >
 >  
 >
->             
 >
->             <span style="color: blue">var result =
+>
+> <span style="color: blue">var result =
 > productController.Create(form);
 >
 >  
 >
->             <span
+> <span
 > style="color: #2b91af">Assert.IsNotNull(result);
 >
->             <span
+> <span
 > style="color: #2b91af">Assert.IsInstanceOfType(result, <span
 > style="color: blue">typeof(<span
 > style="color: #2b91af">RedirectToRouteResult));
 >
->             <span style="color: blue">var redirectResult =
+> <span style="color: blue">var redirectResult =
 > (<span style="color: #2b91af">RedirectToRouteResult)result;
 >
->             <span style="color: #2b91af">Assert.AreEqual(<span
+> <span style="color: #2b91af">Assert.AreEqual(<span
 > style="color: #a31515">"Index",
 > redirectResult.RouteValues\[<span
 > style="color: #a31515">"action"\]);
 >
 >  
 >
->             <span
+> <span
 > style="color: #2b91af">Assert.AreEqual(numberOfProductsBefore +
 > 1, productRepository.Find().Count());
 >
->         }
+> }
 >
 >  
 >
->         <span style="color: blue">private <span
+> <span style="color: blue">private <span
 > style="color: blue">static <span
 > style="color: #2b91af">FormCollection
 > CreateProductTestFormCollection()
 >
->         {
+> {
 >
->             <span style="color: #2b91af">FormCollection form =
+> <span style="color: #2b91af">FormCollection form =
 > <span style="color: blue">new <span
 > style="color: #2b91af">FormCollection();
 >
->             form.Add(<span
+> form.Add(<span
 > style="color: #a31515">"Product.Name", TESTFORM_NAME);
 >
->             form.Add(<span
+> form.Add(<span
 > style="color: #a31515">"Product.Description",
 > TESTFORM_DESCRIPTION);
 >
->             form.Add(<span
+> form.Add(<span
 > style="color: #a31515">"SelectedOwnerID", <span
 > style="color: #2b91af">TestData.TEST_PRODUCTOWNER_ID2.ToString());
 >
 >  
 >
->             <span style="color: blue">return form;
+> <span style="color: blue">return form;
 >
->         }
+> }
 >
 > </div>

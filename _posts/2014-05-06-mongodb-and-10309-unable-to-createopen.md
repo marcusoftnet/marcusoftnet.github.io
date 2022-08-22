@@ -51,8 +51,6 @@ target="_blank">This tip</a> worked for me:
     $USER /data/db"
 4. Run "mongod" to start Mongo and verify that it works
 
-
-
 Aaaand after that... It still didn't work. I had to reinstall the whole
 thing. <a
 href="http://askubuntu.com/questions/147135/how-can-i-uninstall-mongodb-and-reinstall-the-latest-version"
@@ -61,9 +59,4 @@ Mongo. And here's a description <a
 href="http://askubuntu.com/questions/197564/how-do-i-add-a-line-to-my-etc-apt-sources-list"
 target="_blank">on how to edit /etc/apt/sources.list</a>
 
-
-
-
-
 I'm sure this will help me again when I need it!
-

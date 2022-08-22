@@ -30,8 +30,8 @@ myself begging.
 I realized two things: it's hard living with uncertainty and the
 smallest status (however uncertain) is better than no certainty at
 all.
-### No status = all statuses
 
+### No status = all statuses
 
 As you might or might not known I'm in the process of
 <a href="http://www.marcusoft.net/2013/06/moving-to-indonesia.html"
@@ -54,91 +54,61 @@ grew impatient and worried.
 Since we didn't had **any** status all options were open. That is, it
 was equally likely that we got a letter the next day stating:
 
-
--   All clear - please start moving
--   "We haven't even started to work with your matter, because you
-    filled the forms out with a black pen instead of a blue." 
--   "Mr Who? We haven't even heard of you?" \[papers gone in other
+- All clear - please start moving
+- "We haven't even started to work with your matter, because you
+    filled the forms out with a black pen instead of a blue."
+- "Mr Who? We haven't even heard of you?" \[papers gone in other
     words\]
-
-
 
 We were in a Schrödinger cat situation where both these (and every other
 possibility) was equally likely. This drove people around us (and us)
 mad. The most common reaction was actually that people couldn't take it
 in at all. When I explained the situation, as above, a common question
-back was: "Ok, but **when** are you leaving?" 
-
-
-
-
-
+back was: "Ok, but **when** are you leaving?"
 
 It's very demanding living in such a state and it tired our family and
 the people around us. We could make no plans. We could commit to
 nothing. Everything was up for grabs.
 
-
 ### Very slight status and what followed
-
-
 
 Yesterday (Sunday 15 September) we got an email from our workplace (the
 Salvation Army HQ) in Indonesia. It was short and didn't state that much
 but the difference for us was profound:
 
-
 > We still have no status for when this is complete, but you can count
-> on not leaving before middle of October. 
+> on not leaving before middle of October.
 
 Notice that theres' still no status, we still don't know when we're
 going to leave. But (and it's a big butt... did that come out right :))
 there's still facts in there that we can start to use. We're
 **not** leaving in September. That means that:
 
-
--   we can start commit to work and other engagements throughout
-    September and the beginning of October. 
--   we can relax on making plans for how to pack down our stuff in the
-    next week. 
--   we can plan for things within this timeframe
-
-
+- we can start commit to work and other engagements throughout
+    September and the beginning of October.
+- we can relax on making plans for how to pack down our stuff in the
+    next week.
+- we can plan for things within this timeframe
 
 And finally: our pulse and shoulders went down a bit, just from the fact
 that they have started to look into our matter. They have our paper and
 have started to process them. No risk of them not even having our
-papers. 
-
-
-
-
-
+papers.
 
 Add to this that we now have a channel from which we can get more
-frequent status reports. 
-
+frequent status reports.
 
 ### Conclusion
-
-
 
 This little story taught me a great deal about uncertainty, from both
 sides of the coin. Living in uncertainty is hard. A small status can
 make a big difference in how stressful the uncertainty is experience.
-You probably don't know how much for your stakeholders. 
-
-
-
-
-
+You probably don't know how much for your stakeholders.
 
 The best you can do is to keep a tight feedback loop and be honest with
 what you know now. It's probably more than you understand. It's very
 seldom that we know absolutely nothing about the situation. The small
 status you can give might be comforting for your stakeholder, especially
-if you report your progress often and transparently. 
-
-
+if you report your progress often and transparently.
 
 </div>

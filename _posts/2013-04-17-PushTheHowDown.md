@@ -70,7 +70,6 @@ like this:
 
 When all you really wanted to say was:
 
-
 The first version has some merits:
 
 - it's pretty easy to automate with a few generic [step
@@ -79,24 +78,14 @@ The first version has some merits:
     implemented is shining through ... but that's not really the intent
     now is it.
 
-
-
 The first version sucks because:
-
-
-
 
 - it's almost impossible to see the "tree for the forest". What is
     this scenario describing?
 - It's boring for any non-technical person to read
 - It was meant to clarify but it just added confusion
 
-
-
 The second version is better because:
-
-
-
 
 - it clearly shows the (in this case very simple) behavior.
 - It's understandable by everyone, even non-techies, even techies.
@@ -162,8 +151,6 @@ supposed to interact with a web page. Where is it?
 
 ### HOW in page objects
 
-
-
 No - that's right. The DSL above is an example of using the [driver
 pattern](http://c2.com/cgi/wiki?BridgePattern). Most often we hear about
 this in the form of the [Page Object
@@ -172,25 +159,13 @@ that I've blogged about before. While this is a great idea I think that
 the DSL/Driver constructed above is better. It becomes a higher level
 Driver, that contains the Page Objects you might need.
 
-
-
-
-
-
 If you don't have a higher level Driver you'll need to orchestrate how
 you call between the different pages right in the step definitions,
 making them more complicated and harder to maintain. A DSL/Driver object
 that in turns calls into the Page Object is a much better, and more
 maintainable solution, in my opinion.
 
-
-
-
-
-
 And finally, here is the HOW:
-
-
 
 Here we interact with the system to enter stuff and assert the output
 from the system. Of course drivers doesn't have to be run against web
@@ -211,18 +186,18 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s400/pushing+how+down.png"
 data-border="0" width="400" height="325" /></a>
 
-1.  Gherkin - the business readable scenario with focus on behavior. No
+1. Gherkin - the business readable scenario with focus on behavior. No
     HOW in here.
-2.  Step definitions - simple, easy-to-understand realizations of the
+2. Step definitions - simple, easy-to-understand realizations of the
     scenario steps. Propagate into a DSL/Driver object that interacts
     with the system under test
-3.  DSL/Driver - the object that you write that interact with the system
+3. DSL/Driver - the object that you write that interact with the system
     under test. Sets up data, interacts with the system and asserts the
     outcomes. Might interact with Page objects/drivers in turn.  
-4.  Automation code - driver objects that performs the HOW (finally) in
+4. Automation code - driver objects that performs the HOW (finally) in
     the interaction with the system. Enters input, reads and asserts
     values back from the system. Web page automation is found here.
-5.  System under test - the system that you are testing. The production
+5. System under test - the system that you are testing. The production
     code
 
 It's not suitable for a single feature that you might throw away at the
@@ -237,4 +212,3 @@ excellent opportunity to catch bugs and inconsistencies early.
 I find this structure very helpful and I hope you do too.
 
 </div>
-

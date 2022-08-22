@@ -42,4 +42,4 @@ In this manner you will have “everything” you need in for the
 application to work in the application .config. Not spread out in
 different folder such as c:\app\client_1\network\admin or whatever.
 
-I like! 
+I like!

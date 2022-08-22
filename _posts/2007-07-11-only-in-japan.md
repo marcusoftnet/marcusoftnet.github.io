@@ -17,5 +17,3 @@ with the idea for it. I wanna try it out
 id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:e619e056-7fe8-41f5-8c1d-0344f6a5e911"
 class="wlWriterSmartContent"
 style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">
-
-

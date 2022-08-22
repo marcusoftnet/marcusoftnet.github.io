@@ -22,7 +22,7 @@ In <a href="http://www.infoq.com/minibooks/domain-driven-design-quickly"
 target="_blank">this great document</a> is a example and some very good
 explanations on what the difference between an Entity (has an ID), Value
 object (doesn’t have an ID in the model) and Aggregates (things that
-consists of other things) are. 
+consists of other things) are.
 
 So today I’ll back up and create a repository that can retrieve the
 products for a product owner – the IProductRepository. I test drive it

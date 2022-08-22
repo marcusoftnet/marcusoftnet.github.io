@@ -13,4 +13,3 @@ blogger_orig_url: http://www.marcusoft.net/2006/12/youtube-greetings.html
 
 Someone has
 a little bit to much time on their hands...
-

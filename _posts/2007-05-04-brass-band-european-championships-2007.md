@@ -23,9 +23,9 @@ insanely good bands competing this year.
 Here is my very "from-the-hip" prediction of how the Europeans will
 end:
 
-1.  Cory
-2.  Stavanger
-3.  Gothenburg
+1. Cory
+2. Stavanger
+3. Gothenburg
 
 It of course will have to do with how and what the judes think about the
 different styles of playing.

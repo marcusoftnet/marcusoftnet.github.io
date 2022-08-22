@@ -35,6 +35,7 @@ The two last parts I found extremely interesting and packed with battled-harden 
 And that's typically how you get the experiences from experts served. Somethings you have experienced yourself and other things is things that helps your knowledge to take a jump ahead.
 
 # What I did wrong
+
 The only real complaint you could have on this book is around the format. Yes I know. That's what I said that I loved. I'm an enigma, what can I say?
 
 Everything that I didn't know about before left me feeling that I wanted some pages more on the topic. Or examples on how to implement this, although every Idea has a "How to make it work"-section that gives you a starter.

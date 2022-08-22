@@ -50,6 +50,6 @@ everything falls into place they can do themselves very proud.
 
 So this is how it will end up:
 
--   Windcorp - by maybe three points
--   Solna Brass
--   BK
+- Windcorp - by maybe three points
+- Solna Brass
+- BK

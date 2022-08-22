@@ -93,7 +93,7 @@ These are just my own thoughts on how cross team questions can be handled in a c
 
 It's turned out to be a simple way to explain the idea and I hope that you might find it useful too:
 
-- Horizontal groups are responsible for principles
-- Vertical groups are responsible for practices
+* Horizontal groups are responsible for principles
+* Vertical groups are responsible for practices
 
 <img style="width:100%" src="/img/PrinciplesPracticesOverview.png">

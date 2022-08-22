@@ -21,15 +21,15 @@ a month just streaming video.
 
 Just take a look at the categories:
 
--   <a href="http://skillsmatter.com/go/agile-testing" target="_blank">Agile
+- <a href="http://skillsmatter.com/go/agile-testing" target="_blank">Agile
     testing &amp; BDD</a>
--   <a href="http://skillsmatter.com/go/design-architecture"
+- <a href="http://skillsmatter.com/go/design-architecture"
     target="_blank">Architecture &amp; DDD</a>
--   <a href="http://skillsmatter.com/go/open-source-dot-net"
+- <a href="http://skillsmatter.com/go/open-source-dot-net"
     target="_blank">Open source .NET</a>
--   <a href="http://skillsmatter.com/go/agile-scrum" target="_blank">Agile
+- <a href="http://skillsmatter.com/go/agile-scrum" target="_blank">Agile
     PM &amp; Scrum</a>
--   <a href="http://skillsmatter.com/go/cloud-grid" target="_blank">Cloud
+- <a href="http://skillsmatter.com/go/cloud-grid" target="_blank">Cloud
     &amp; RIA</a>
 
 OK – the minute I have a few weeks to spare… yeah right!

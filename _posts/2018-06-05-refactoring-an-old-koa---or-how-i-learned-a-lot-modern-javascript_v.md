@@ -24,9 +24,9 @@ The last post ended with us finishing refactoring the individual part applicatio
 
 We'll tackle this in the same manner:
 
-* First get the tests to run
-* Then refactor the system under test, now protected by our test suite
-* Then refactor the test themselves
+- First get the tests to run
+- Then refactor the system under test, now protected by our test suite
+- Then refactor the test themselves
 
 At least that is the plan. I will only highlight any differences or now problems I ran into as I don't want to repeat what I've already written in the previous blog posts in the series. Hope that is ok with you.
 
@@ -38,9 +38,9 @@ The first test run (`npm t` ) of course fail in the same manner as before, regar
 
 #### Fixing local dependencies
 
-But then the interesting stuff started. Because this application uses local reference in the `package.json` file like this: `    "AddressAPI": "file:./apis/address"`
+But then the interesting stuff started. Because this application uses local reference in the `package.json` file like this: `"AddressAPI": "file:./apis/address"`
 
-That's all and well, but I learned now, those names ` AddressAPI` are apparently case-sensetive. And my casing was all over the place. And I know why.
+That's all and well, but I learned now, those names `AddressAPI` are apparently case-sensetive. And my casing was all over the place. And I know why.
 
 I got a linting error in the `package.json` file about using upper-case letters. I fixed that in some places and … not in others.
 
@@ -48,10 +48,10 @@ I got a linting error in the `package.json` file about using upper-case letters.
 
 Luckily this is not hard, although boring to fix:
 
-* Go into each of the `package.json` in the `apis`-folder and lower case the `name` property
-* Open `package.json` in the root application
-* Update it to use the same casing, all lowercase
-* Reinstall the `node_modules` using brute force `rm -rf node_modules && npm i `
+- Go into each of the `package.json` in the `apis`-folder and lower case the `name` property
+- Open `package.json` in the root application
+- Update it to use the same casing, all lowercase
+- Reinstall the `node_modules` using brute force `rm -rf node_modules && npm i`
 
 Rerun the tests and we can build our app. Great!
 
@@ -79,7 +79,7 @@ The tests are still passing and I'm a bit nervous.
 
 ### Listening when spoken too
 
-But now we got another problem that I happen to recognize from before `Uncaught Error: listen EADDRINUSE :::3000 `. I actually wrote a [pretty long post](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) on this problem, that now served me well in fixing this…
+But now we got another problem that I happen to recognize from before `Uncaught Error: listen EADDRINUSE :::3000`. I actually wrote a [pretty long post](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) on this problem, that now served me well in fixing this…
 
 ```javascript
 if (!module.parent) {
@@ -165,11 +165,11 @@ I will just disable this feature. It's a naive implementation to start with and 
 
 Basically this means:
 
-* remove the package `koa-basic-auth` - `npm uninstall koa-basic-auth -S`
-* remove the code that uses `koi-basic-auth` :
-  * remove the `authentication.js` file - `rm authentication.js`
-  * in `index.js` there's a few places that a simple `node index.js` will reveal for you
-* Clean up the mounting, that now is done without the authentication code.
+- remove the package `koa-basic-auth` - `npm uninstall koa-basic-auth -S`
+- remove the code that uses `koi-basic-auth` :
+  - remove the `authentication.js` file - `rm authentication.js`
+  - in `index.js` there's a few places that a simple `node index.js` will reveal for you
+- Clean up the mounting, that now is done without the authentication code.
 
 From this:
 
@@ -197,7 +197,7 @@ app.use(mount('/', rootApp))
 
 Finally
 
-* we take out 2 tests (`'and an order api, but that requires login'` and `exactly - the order API require login. Not logging in will give you access'`)
+- we take out 2 tests (`'and an order api, but that requires login'` and `exactly - the order API require login. Not logging in will give you access'`)
 
 With that the whole test suite should be passing again. And `npm t` reveals that it does.
 

@@ -24,13 +24,13 @@ solve them.
 At the lower part of the page you’ll find many other pod and webcasts.
 For example:
 
--   <a href="http://skillsmatter.com/podcast/agile-scrum/agile-design"
+- <a href="http://skillsmatter.com/podcast/agile-scrum/agile-design"
     target="_blank">Agile Design with Alan Shalloway</a>
--   <a
+- <a
     href="http://skillsmatter.com/podcast/agile-scrum/fast-track-test-driven-development-testify-your-project"
     target="_blank">Fast Track Test-Driven Development: Testify your project
     with David Evans</a>
--   <a
+- <a
     href="http://skillsmatter.com/podcast/agile-scrum/the-future-of-software-intensive-product-development"
     target="_blank">Is Lean the inevitable future for software-intensive
     product development?</a> with Flow Chain Sensei (say that three

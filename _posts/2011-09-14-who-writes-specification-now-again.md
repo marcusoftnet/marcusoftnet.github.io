@@ -38,6 +38,7 @@ I’ll give my view on this – based on experience from a project last
 winter and from
 <a href="http://manning.com/adzic/" target="_blank">the book</a> by
 <a href="http://gojko.net" target="_blank">Gojko Adzic</a>.
+
 #### Touches 4 of 7 key process patterns
 
 In the Specification by example book Gojko Adzic lists seven “key
@@ -48,28 +49,28 @@ use to day), but rather refers to these 7 key process patterns.
 
 The patterns are, very briefly (BUY THE BOOK):
 
-1.  **Deriving scope from goals** – where the scope for a feature or
+1. **Deriving scope from goals** – where the scope for a feature or
     iteration is derived from the business goals
-2.  **Specifying collaboratively** – the specification and details
+2. **Specifying collaboratively** – the specification and details
     surrounding a feature is discussed and talked about in a
     collaborative forum
-3.  **Illustrating using examples** – a practice where you clarifies
+3. **Illustrating using examples** – a practice where you clarifies
     your intent using concrete examples instead of natural language.
-4.  **Refining the specification** – this steps ensures that the
+4. **Refining the specification** – this steps ensures that the
     specification is concise, conforms to the language in other
     specifications and adhere to best practices that the teams has
     agreed upon
-5.  **Automating validation without changing specifications** – with
+5. **Automating validation without changing specifications** – with
     this practice teams uses tools (such as
     <a href="www.specflow.org" target="_blank">SpecFlow</a>,
     <a href="http://fitnesse.org/" target="_blank">FitNesse</a> or
     <a href="http://concordion.org/" target="_blank">Concordion</a>)
     that can run the examples as executable tests against the system in
     question and validate that the system fulfills the specification
-6.  **Validating frequently** – the executable specifications are run
+6. **Validating frequently** – the executable specifications are run
     often – such as part of a daily build – to shorten the feedback loop
     and get quick feedback on the current status of the system.
-7.  **Evolving a documentation system** – where the executable
+7. **Evolving a documentation system** – where the executable
     specifications are organized, easy to find and concise so that they
     can use it when taking the product forward, change features and
     maintaining the product
@@ -77,10 +78,10 @@ The patterns are, very briefly (BUY THE BOOK):
 I think that the question above (Who writes the spec) touches on 4 of
 the patterns – at least – namely:
 
--   Specifying collaborative
--   Illustrate using examples
--   Refine the specification
--   Automate without changing the specification
+- Specifying collaborative
+- Illustrate using examples
+- Refine the specification
+- Automate without changing the specification
 
 Let’s look closer to what the question on who should write the
 specification means for these different process patterns.

@@ -223,4 +223,3 @@ style="border-bottom-style: none; border-left-style: none; border-right-style: n
 alt="Winking smile" />.
 <a href="https://github.com/marcusoftnet/ProgressiveNetDemos/"
 target="_blank">The code is here.</a>
-

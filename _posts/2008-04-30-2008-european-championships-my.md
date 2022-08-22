@@ -38,11 +38,11 @@ pyrotechnics will be promoted and hence the original brass band sound
 
 So all in all its about balancing the two styles. So here is my guess:
 
-1.  [Grimethorpe](http://www.grimethorpeband.com/)
-2.  [Willebroek](http://www.brassbandwillebroek.be/)
-3.  [Stavanger](http://www.stavanger-brassband.no/english/index.htm)
-4.  [Cory](http://www.buyasyouviewcoryband.co.uk/)
-5.  [Stockholm](http://www.stockholmbrass.se/)
+1. [Grimethorpe](http://www.grimethorpeband.com/)
+2. [Willebroek](http://www.brassbandwillebroek.be/)
+3. [Stavanger](http://www.stavanger-brassband.no/english/index.htm)
+4. [Cory](http://www.buyasyouviewcoryband.co.uk/)
+5. [Stockholm](http://www.stockholmbrass.se/)
 
 Being a bit patriotic for the last thing i still think it is a
 possibility. I wish all the bands good luck (as if the all read this :))

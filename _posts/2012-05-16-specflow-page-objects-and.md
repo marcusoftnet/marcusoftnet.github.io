@@ -345,4 +345,3 @@ post but rather explored / driven the need for new methods on the page
 wrappers as the features dictated.
 I hope that you have got something out of this and that you can start
 use SpecFlow with FluentAutomation from this.
-

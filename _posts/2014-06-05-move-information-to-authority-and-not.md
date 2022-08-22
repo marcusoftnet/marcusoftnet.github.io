@@ -230,4 +230,3 @@ customers that doesn’t have to pay for our overhead to move information
 to the authority. We have *moved the authority to the information
 instead of the opposite*.
 Works for us. How will you make it work for you?
-

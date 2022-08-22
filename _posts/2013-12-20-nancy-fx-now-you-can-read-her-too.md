@@ -55,5 +55,3 @@ and the recipes.
 
 Get your book
 here [bit.ly/IHouZT](http://www.packtpub.com/nancy-web-development/book)
-
-

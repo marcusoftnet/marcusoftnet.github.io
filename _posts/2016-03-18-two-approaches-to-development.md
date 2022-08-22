@@ -42,6 +42,7 @@ My point, as you'll see below, is that you simply don't know what is the best th
 **[END UPDATED]**
 
 # What can we learn?
+
 We don't know what will work. Not until we have tested. You can have great ideas and plans - but that's just ideas and plans until you have validated them.
 
 In order to get to know fast we need to do small, frequent experiment often and change our approach, ideas and thinking based on the result of the experiment.
@@ -49,6 +50,7 @@ In order to get to know fast we need to do small, frequent experiment often and 
 You could call it the "humble approach" if you like. Or "experiment driven development".
 
 ## One more thing - this is not an IT-thing
+
 Btw - these ideas goes for business and what will work there. We don't know. I promise. And I've [written about it before](http://codebetter.com/marcushammarberg/2014/01/27/do-we-dare-to-be-data-driven/).
 
 We do not know what will work the best until we have put it in front of users and see if the way they used the system will make us come closer to our goals.

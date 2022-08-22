@@ -118,8 +118,8 @@ And here is how to call it:
 
 I should point out two things;
 
--   For short strings the compressed string might actually be longer
+- For short strings the compressed string might actually be longer
     than the original.
--   It's not very good to store the result of the compression as a
+- It's not very good to store the result of the compression as a
     string (as done by System.Convert.ToBase64String), but it's quite
     nice to have for serialization.

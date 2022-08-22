@@ -16,8 +16,6 @@ src="http://photos1.blogger.com/x/blogger2/4958/4459/200/293302/smiley.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/x/blogger2/4958/4459/1600/61471/smiley.jpg)
 
-
-
 Well, well, well - this [happy week
 stuff](http://marcushammarberg.blogspot.com/2006/11/be-good.html) seems
 to be working... One day with no anger and everything is dandy. Did take
@@ -27,10 +25,5 @@ I even managed to handle some bumps in the road yesterday, with some
 laughter and dancing (?!?!) instead of digging graves. There might be
 something here.
 
-
-
-
-
 If this continue i will have to extend the period - let me get back to
 you on that.
-

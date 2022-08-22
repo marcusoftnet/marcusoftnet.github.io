@@ -28,6 +28,7 @@ entity.
 
 This blog post is probably just scratching the surface of book length
 material. Bare with me – I need to get this out now.
+
 ### US Marines
 
 A few weeks a ago I read <a
@@ -109,11 +110,11 @@ No – you have to live by them. You need great examples. And you need to
 be constantly reminded of the culture and what is means to be part of
 it!
 
-### W.W.J.D.
+### W.W.J.D
 
 I’m a Christian. Just writing that out probably scared away a few of
 you, right? But bare with me, this is just another example – you don’t
-have to think like me. 
+have to think like me.
 
 In the 1990 a trend arose in Christianity. Or actually a practice to
 wear small bracelets of fabric saying
@@ -124,7 +125,7 @@ and ask ourselves what He would do in a situation that you were in right
 now.
 
 I’m telling you that if every Christian had lived by that simple rule a
-lot of nasty things done in Christianity's name would never had happen. 
+lot of nasty things done in Christianity's name would never had happen.
 
 Jesus is the ultimate example for a Christian. If I does what he would
 have done I would be a great bearer of Christian culture – or plainer a

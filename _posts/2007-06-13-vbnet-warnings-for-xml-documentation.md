@@ -32,16 +32,16 @@ OF the "help".
 
 So for VB.NET the only warnings you can get are:
 
--   Implicit Conversion - 41999, 42016
--   Late binding call could fail at run time -
+- Implicit Conversion - 41999, 42016
+- Late binding call could fail at run time -
     42017,42018,42019,42032,42036
--   Implicit type; call could fail at run time - 42020,42021,42022
--   Use of variable prior to assignment - 42030,42104,42108,42109
--   Function/Operator without return value - 42105,42106,42107
--   Unused local variable - 42024
--   Instance variable accesses shared member - 42025
--   Recursive operator or property access - 41998,42004,42026
--   Duplicate or overlapping catch blocks - 42029,42031
+- Implicit type; call could fail at run time - 42020,42021,42022
+- Use of variable prior to assignment - 42030,42104,42108,42109
+- Function/Operator without return value - 42105,42106,42107
+- Unused local variable - 42024
+- Instance variable accesses shared member - 42025
+- Recursive operator or property access - 41998,42004,42026
+- Duplicate or overlapping catch blocks - 42029,42031
 
 None of these talk about missing/faulty documentation. It doesn't
 help to generate XML documentation and treat all

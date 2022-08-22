@@ -16,4 +16,3 @@ if this show came back on TV i would stay in the sofa the rest of my
 life....
 
 Great music and very cheesy plot... and the actors has not progressed?
-

@@ -32,6 +32,7 @@ Let me tell you something: no-one needs to become agile - that is not the goal. 
 Finally I’ve seen a couple of occasions where the ones requesting / demanding the change don’t want to tell the reasons for change. This is not only mean, but also doomed to fail. But, sadly, I've seen times where the person taking the initiative doesn't want the people involved to know.
 
 # Solution
+
 As for a “solution” to this I think that for starters we can do the opposite of what I described above; overemphasize the WHY and leave the HOW more open. It’s much better and easier to have practical problems about HOW we should do something than to have many people doing what they think is right without really knowing WHY they are doing something.
 
 For the people that came up with WHY it often seem obvious. So much in fact that I’ve seen many endeavours fail just because we *thought* that everyone knew WHY we where doing something.

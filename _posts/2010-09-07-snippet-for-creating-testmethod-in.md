@@ -18,7 +18,7 @@ but as I from time to time need it in VB.NET I'll post that too. Here
 you go:
 
 \<?xml version="1.0" encoding="utf-8" ?\>
-\<CodeSnippets 
+\<CodeSnippets
 xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet"\>
     \<CodeSnippet Format="1.0.0"\>
         \<Header\>
@@ -39,18 +39,18 @@ testmethod\</Description\>
                     \<ToolTip\>The name of the test\</ToolTip\>
                     \<Default\>methodName\</Default\>
                 \</Literal\>
-            \</Declarations\>          
+            \</Declarations\>
             \<Code Language="VB"\>
               \<!\[CDATA\[\<TestMethod()\> \_
               Public Sub should\_$methodName$()
         ' Arrange
-       
+
         ' Act
 
         ' Assert
         Assert.Fail("Implement test!")
     End Sub\]\]\>
-            \</Code\> 
+            \</Code\>
         \</Snippet\>
     \</CodeSnippet\>
 \</CodeSnippets\>

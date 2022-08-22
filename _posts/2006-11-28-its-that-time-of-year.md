@@ -18,7 +18,6 @@ and forth on the Internet.
 Here are a classic from christmas passed with some favorite mountain
 kids.
 
-
 Just think... in a few years this will be a real classics that we will
 be telling small children about. And have a hard time explaining how the
 life was before Internet, why you had to wait for pages to "load" and

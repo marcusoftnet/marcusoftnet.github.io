@@ -29,12 +29,11 @@ stupidity).
 
 The post the pointed me to clarified a lot of stuff for me;
 
-
--   the data showing in reports and burn downs is not online. It comes
+- the data showing in reports and burn downs is not online. It comes
     from a data warehouse that is updated hourly. This explain why my
     updates didn't take...
     There are also reports that need an overnight to update.
--   It seems to be better to use the web-client (Team Plain) since it
+- It seems to be better to use the web-client (Team Plain) since it
     supports the command Add related item that automatically relates a
     Sprint backlog item with a product backlog igem. You can do it via
     the Links-tab in Team Explorer - but it feels a bit cumbersome...
@@ -43,25 +42,26 @@ OK - so how do you get started then. This is by the way ripped from the
 [excellent
 post](http://scrumforteamsystem.com/cs/forums/1646/ShowPost.aspx)
 (apapap... members only) by Crispin Parker
-1.  **Set up your sprint**.
+
+1. **Set up your sprint**.
     Sprints need to have a start and end date before they can be
     reported on.
     *\[Marcus comment\]
     Here you'll need to ponder how to use areas and iterations, since
     sprints are completly based on them*
-2.  **Create your Environments and Teams.**
+2. **Create your Environments and Teams.**
     You can do this from the project portal (right click on the project
     name in Team Explorer) and it only needs to be done once per
     project.
-3.  **Create your user stories.**
+3. **Create your user stories.**
     Define a list of product backlog items (PBI). Don't forget to assign
     the iteration path, this links PBIs to sprints.
-4.  **Create your sprint backlog tasks**
+4. **Create your sprint backlog tasks**
     Using the "Add related item" menu option from the PBI context menu
     sets up the links automatically. Otherwise you can set PBI -\> <span
     id="SPELLING_ERROR_0" class="blsp-spelling-error">SBI
     relations in the links tab.
-5.  **Burndown your backlog.**
+5. **Burndown your backlog.**
     As work is completed and progress is made, mark the changes on the
     SBIs.
     Reducing the work remaining figures as needed.

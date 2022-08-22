@@ -51,6 +51,3 @@ style="padding-bottom: 12px; padding-left: 0px; padding-right: 0px; padding-top:
 
 View more [documents](http://www.slideshare.net/) from [Marcus
 Hammarberg](http://www.slideshare.net/marcusoftnet).
-
-
-

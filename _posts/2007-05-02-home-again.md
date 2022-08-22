@@ -19,23 +19,17 @@ id="BLOGGER_PHOTO_ID_5060204237037403810"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/Rjl08YeKfqI/AAAAAAAAAI0/XreWgtMyEK0/s1600-h/PICT1512.JPG)
 
-
-
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjl0LIeKfpI/AAAAAAAAAIs/GNrCoVIf800/s320/PICT1503.JPG"
 id="BLOGGER_PHOTO_ID_5060203390928846482"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" width="244" height="187" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjl0LIeKfpI/AAAAAAAAAIs/GNrCoVIf800/s1600-h/PICT1503.JPG)
 
-
-
-
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjlz9IeKfoI/AAAAAAAAAIk/2hFMvOjWonY/s320/PICT1484.JPG"
 id="BLOGGER_PHOTO_ID_5060203150410677890"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" width="228" height="204" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rjlz9IeKfoI/AAAAAAAAAIk/2hFMvOjWonY/s1600-h/PICT1484.JPG)
-
 
 Just started the first day after a trip to Sardine (?) in Italy, with
 Avega.
@@ -52,6 +46,3 @@ great feeling of "we can do anything".
 
 I'll upload some pictures to this post - some that not is to ...
 exposing
-
-
-

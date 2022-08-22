@@ -90,8 +90,6 @@ change our thinking for the next thing we throw out there?
 
 ### User stories, MMFs, Themes and Epics
 
-
-
 Things that often get's intermingled with MVPs are user stories, epics
 and other things. They are not the same things and I even think that
 they cut across another axis altogether. There's a great post by
@@ -132,7 +130,6 @@ the same axis.
 That's how I have understood the terms and how I have used them during
 the years I've been talking about user stories.
 
-
 ### Eeeh - why did you write this?
 
 <div style="text-align: left;">
@@ -141,12 +138,6 @@ The use of MVP is a mindset thing. MVP puts focus on learning and we
 embark on a discovery journey. I really like this idea and I think it's
 a powerful way to approach what you as a team do and plan for. Some
 examples:
-
-
-
-
-
-
 
 Instead of asking "When will this feature be done" you can ask "What do
 we want to learn? What is the smallest thing we can do to learn that?"
@@ -158,36 +149,20 @@ live" or "we need to build the complete function". No you don't. You can
 fake it. You just need to build enough to learn from it in order to take
 a more well-informed second step.
 
-
-
-
-
-
-
 When stuff is in production it's not done. It' just the next phase of
 learning. Following the build-measure-learn loop above we've just built
 it. Now let's measure and see what we will learn that will affect how we
 do the next lap around the loop.
-
-
-
-
-
-
 
 In one team we threw around the idea of having a
 loop-shaped-kanban-board. That felt a bit cumbersome to handle on the
 board but the idea was really nice. We decided to put a stronger
 emphasis on learning when doing planning and follow-up instead
 
-
-
-
 "How far have we come/What's left?" are replaced with "What are we
 learning now/What's next?" The difference here is again in inclusion
 and invitation  where the second type of questions are more inviting,
 focusing on WE and OURS rather than YOU and YOURS.
-
 
 I think this shift in perspective is very interesting and could prove
 rewarding as it put the whole team into the same mindset.
@@ -202,12 +177,8 @@ focus on learning. An MVP can consist of an user story, a bunch of them
 task). That's not important. What are we trying to learn from this. That
 is important. And a useful question to ask too.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
 My two cents.
-
-

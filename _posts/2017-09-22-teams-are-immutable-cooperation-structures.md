@@ -64,7 +64,7 @@ But it's an immutable structure.
 
 **This is a good thing** - there's power in immutable data structures, as we now know that we get something new as we change them. We can, as I wrote above, use this to shake things up if a team needs to - or to refrain to do so as teams need time to come together.
 
-## Examples! Now!
+## Examples! Now
 
 As team starts to work together it's very easy for leadership to generalize and think that other teams works in the same way. But they do not. Because they are immutable - so one team is not the same as the other team. Even if you seed the new team with team members from the orginal team, or if you train them similary etc.
 

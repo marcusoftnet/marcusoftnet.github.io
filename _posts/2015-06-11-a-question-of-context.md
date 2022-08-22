@@ -16,6 +16,7 @@ This is NOT a post about THEM and (or versus) ME. It's a post about me, and my r
 <!-- excerpt-end -->
 
 # The story
+
 When we first got to work with the hospitals here in Indonesia we found something that made us very surprised and scared. At one of our hospitals the nurses was not washing their hands between patients visits. This is a practice that's know to save lives in health care since [1820-ies](https://explorable.com/semmelweis-germ-theory). Even I knew that washing your hands is a good practice in health care.
 
 So we asked the nurses and sure enough: "Yes, we know. We really should do that. We start now."
@@ -39,7 +40,7 @@ When you see this heading, in the post, stop for a second or two and reflect abo
 I tell you what I thought. I'm ashamed to do so but I'll do it anyway:
 
 <blockquote>
-	They are stupid! Or at least do not care one bit about their work. Lazy. And that's being nice.
+ They are stupid! Or at least do not care one bit about their work. Lazy. And that's being nice.
 </blockquote>
 
 But I was wrong. Let's continue our story
@@ -94,6 +95,7 @@ I tell you what ... this is getting old.
 This has to do with context again, of course. Culture even is a better word for it. Let me tell you two stories more:
 
 ### Indonesia
+
 My co-worker Anton, here in Indonesia, is 2 years older than me. 45 in other words. He told me that when he was a child it was common practice that children that asked "Why?" got smacked. By parents, teachers and others.
 
 What kind of people does that create? Asking WHY is not only not appreciated - it's punished.
@@ -103,7 +105,8 @@ If no one is looking for better, challenging the status quo - how will improveme
 The culture is (were?) holding the improvements back.
 
 ### Sweden
-I gave a presentation about lean and more specifically about [limiting work in process ](https://www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation) to a group of middle level managers in a big insurance company in Sweden.
+
+I gave a presentation about lean and more specifically about [limiting work in process](https://www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation) to a group of middle level managers in a big insurance company in Sweden.
 
 We played the game (see link above) and discussed the implications. All of a sudden the penny dropped for one of the managers:
 
@@ -114,6 +117,7 @@ Why did he say that? Because his salary was calculate on how many hours his empl
 The organizational system were (is?) holding improvements back.
 
 # Summary
+
 And the solution to all of this is .... Eh... don't know yet.
 
 But I do know that people in general is not stupid. I very often miss or am ignorant about the context and culture in which they operate, though. There's most often a reason for people to behave, or not behave in a certain way.

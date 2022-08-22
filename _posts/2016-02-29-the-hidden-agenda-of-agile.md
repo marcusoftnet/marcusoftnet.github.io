@@ -18,9 +18,11 @@ I think I speak too little about this, or at least I feel the need to be much mo
 <!-- excerpt-end -->
 
 # Background
+
 I will give you some flashbacks first and then try to tie them together.
 
 ## In the beginning there was Scrum
+
 I remember when I took the [Scrum Master](https://www.scrum.org) certification way back in 2004. I was fortunate enough to have [Ken Schwaber](https://en.wikipedia.org/wiki/Ken_Schwaber) himself as my teacher. Many of the things he said has stayed with me for a long time.
 
 Regarding this post, this was a quote that I've used many times since then:
@@ -30,6 +32,7 @@ Regarding this post, this was a quote that I've used many times since then:
 That is of course scary when you read it... depending of what your goal with "agile" is. Finding problems?! Why on earth would you want to do that?
 
 ## "Go over there and make them agile, will ya?"
+
 I have, more time than I care to think about, been sent to teams or department to "help them to become agile". Often these poor people don't understand why they need that, when the problem is somewhere else.
 
 My favorite story about this was when i worked with the mainframe developers of a big Swedish company. They are slow - everyone knows that, right? As it turned out even small requirements took about 9-10 months to complete. Average development time for these was 3-5 days.
@@ -39,6 +42,7 @@ But still I was there to help the developers to become more efficient. And there
 But they really should use agile, that will make *them* faster.
 
 ## "Oh, so that's almost like a UAT tester then?"
+
 Many places I've consulted at tries to fit agile into the current ways. It's almost always bad advice. The most common way this manifests itself is something like this. When introducing Scrum, for example:
 
 <blockquote>Oh, that's almost how we did development around here for about 10 years ago</blockquote>
@@ -46,6 +50,7 @@ Many places I've consulted at tries to fit agile into the current ways. It's alm
 No it's not. Most likely not. And by trying to shoe-horn it into your current ways you're hurting both your current ways. AND limiting the benefits of using agile.
 
 # Why do we do agile in the first place?
+
 Sadly most companies I've been helping to "do agile" has absolutely no ideas as to why. At least not around benefits nor consequence it's meant to bring. Sometimes it's called "improve IT efficiency" or "shorten the period from requirement to finished product" - but seldom the real benefit of agile is talked about.
 
 What did Mr Schwaber mean when he mentioned that Scrum will find your problems? Why is it stupid to send someone to fix the "developers" in this organization?
@@ -66,6 +71,7 @@ Well, that kind of mindset will not mix nicely with agile. Because, make no mist
 By the way... so is lean.
 
 ## Start where you are
+
 I am ready fond of the [kanban](http://bit.ly/theKanbanBook) battle cry:
 
 <blockquote>Start where you are</blockquote>
@@ -89,6 +95,7 @@ Toyota went:
 Change is built in how they do business. Reaching the goal is more important than the current ways and processes.
 
 # Summary
+
 For many of us this might sound like obvious things, but I have met many big organizations where even thinking that you would change the process, the roles or working outside your normal roles is frowned upon.
 
 I think I don't tell people enough about that. Because changing the organization and process to support a faster flow is what agile is all about.

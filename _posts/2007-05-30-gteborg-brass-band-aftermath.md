@@ -31,9 +31,9 @@ I will therefore right now make a prediction for the result of the
 Swedish Championsships this autumn. As always, remember where you read
 it first:
 
-1.  Windcorp - by far!
-2.  Stockholm Brass Band
-3.  Solna
+1. Windcorp - by far!
+2. Stockholm Brass Band
+3. Solna
 
 This order of course has to do with who will take part of the
 competition or not but this will most certainly be the order.

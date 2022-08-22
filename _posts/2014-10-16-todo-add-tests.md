@@ -44,18 +44,9 @@ It just struck me:
     paying off an overdue bill. "Yes, I should have done this before.
     Now it's done".
 
-
-
 I'm not saying that You have to write your tests first. I'm just saying
 that to me it's: easier, safer, less boring, gives me better discipline
 and more rewarding. You do as you want.
 
-
-
-
-
-
 I will never write "TODO: Add tests..." again without remember these
 feelings.
-
-

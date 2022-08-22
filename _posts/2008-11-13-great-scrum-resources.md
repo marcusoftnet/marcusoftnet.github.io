@@ -15,7 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/great-scrum-resources.html
 The Swedish guru of Scrum Henrik Kniberg, has produced some great
 stuff... yet again. Here you are:
 
--   <a
+- <a
     href="http://blog.crisp.se/henrikkniberg/2008/08/23/1219509120000.html"
     target="_blank">Video</a> and <a
     href="http://www.crisp.se/henrik.kniberg/presentations/agile2008/10-ways-to-screw-up-with-scrum-and-xp.pdf"
@@ -23,12 +23,12 @@ stuff... yet again. Here you are:
     XP". Got the merge-slide thrown in my face of a co-worker since I
     have great reluctantancy against branches... But I sure want to be
     able to manage them in a nice way - haven't seen one yet though...
--   <a
+- <a
     href="http://www.crisp.se/henrik.kniberg/scrum/checklist/Scrum-checklist-prio1.pdf"
     target="_blank">Scrum checklist</a> - here is a truly great one page
     document to get all your stuff in the right shape before starting
     doing Scrum.
--   And of course
+- And of course
     <a href="http://www.infoq.com/minibooks/scrum-xp-from-the-trenches"
     target="_blank">Scrum from the trenches</a>. Everybody must read
     this! Even, or maybe especially, if you hate Scrum.

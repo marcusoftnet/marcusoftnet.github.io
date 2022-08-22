@@ -21,9 +21,9 @@ If you want to see some similar stuff try the
 following categories (some are quite strong, you have been warned, but
 most are fun or just good):
 
--   <http://www.woostercollective.com/activism/>
--   <http://www.woostercollective.com/chalk/>
--   <http://www.woostercollective.com/fun/>
--   <http://www.woostercollective.com/3d/>
+- <http://www.woostercollective.com/activism/>
+- <http://www.woostercollective.com/chalk/>
+- <http://www.woostercollective.com/fun/>
+- <http://www.woostercollective.com/3d/>
 
 Also be warned - it is almost impossible to stop browsing the site...

@@ -16,14 +16,17 @@ In this post I'll show you what I did so that you can increase the reach of your
 <!-- excerpt-end -->
 
 # The creation
+
 The first section is just about how I created the video that I uploaded to YouTube. You can skip it if you just want to <a href="#subtitles">learn about the subtitles</a>.
 
 ## Creating the presentation
+
 I have written before how [I go about creating my presentations](http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html). This process really helped me a lot in preparing and recording AND translating this process.
 
 Basically i write down "a" way I would give this presentation and use that as my presenter notes. That means that everything I might say will be in my presenter notes. I then use this text to drive our my slides... read the linked blog post.
 
 ## Recording the presentation
+
 When I **record** the presentations I try to keep close to the presenter notes. I might go off on a tangent sometimes when I give "live" presentations but now I only do this for recordings so I keep it a bit more strict.
 
 Should it be too strict or short, I update the presenter notes. A good way to find out when to do that is when you rehearse the recording. I do that one or two times before recording.
@@ -35,6 +38,7 @@ Also, as you might see in the recorded videos, when recording like this I can lo
 This is because I use the web cam of my computer to record myself giving the presentation. This works nicely since I don't move around to much in these videos. Also the recording of me is just a thumbnail-sized video in the corner. The main content is on the bigger slide.
 
 ## Producing the presentation
+
 I used [Camtasia](https://www.techsmith.com/camtasia.html) to record myself and edit the video. I recorded the slide presentation separately.
 
 <img src="/img/youtubeUpload.png" style="float:right" width="50%">
@@ -43,6 +47,7 @@ With Camtasia it's easy to upload to [YouTube](http://www.youtube.com) directly 
 To upload the file click the, for some reason hard-to-find "Upload"-button, up in the right corner.
 
 # <a name='subtitles'>Subtitles</a>
+
 The instruction below might look very long and detailed but I promise you, already for the second video I did (when I didn't learn this), it took me about 10 minutes. Including 5 minutes waiting for YouTube.
 
 # Add subtitles
@@ -59,10 +64,10 @@ Now you can click to "Add new subtitles or CC":
 1. First select the language that the subtitles will be in. In my case English.
 1. For "Select Method" there's a number of options, which of I found the "Transcribe and set timings" the easiest by far. Click it.
 1. This opens a wizard, that truly deserve the name. It's meant to be used so that you type while the video plays. But that's very hard to do, there's an easier way:
-	1. In the Video transcript we paste all the presenter notes. [Here's a great little trick](https://apple.stackexchange.com/questions/136118/how-to-print-full-presenter-notes-without-slides-in-keynote/142533#142533?newreg=ffd688b861374b5cbd4b75a490bdb30f) for how to get hold of them as text, when using Keynote
-	1. Click Save or wait for it to be auto-saved
-	1. Now click "Set timings". This will try to match up what's said in the video with the transcript text. AMAZING! And it's pretty good what I've seen, so far
-	1. At this point you'll have to wait a couple of minutes before YouTube is done. Well worth it comparing to write all that by hand.
+ 1. In the Video transcript we paste all the presenter notes. [Here's a great little trick](https://apple.stackexchange.com/questions/136118/how-to-print-full-presenter-notes-without-slides-in-keynote/142533#142533?newreg=ffd688b861374b5cbd4b75a490bdb30f) for how to get hold of them as text, when using Keynote
+ 1. Click Save or wait for it to be auto-saved
+ 1. Now click "Set timings". This will try to match up what's said in the video with the transcript text. AMAZING! And it's pretty good what I've seen, so far
+ 1. At this point you'll have to wait a couple of minutes before YouTube is done. Well worth it comparing to write all that by hand.
 
 Soon you will have very good subtitles for you video. The quality of the subtitles will of course depend on how close you follow the transcript when you are recording / presenting.
 
@@ -73,6 +78,7 @@ Check it out by going to the video and click the CC-button on the video player. 
 There's two things that you need to look out for: automatic subtitles and publication.
 
 ### Automatic subtitles
+
 YouTube tries to create (and PUBLISHS) an automatic voice recognition subtitle track. This is, unless you're speaking perfect English I presume. You have to unpublish this version.
 
 1. Click to the "Subtitles and CC" menu option in the [Creator Studio](https://www.youtube.com/dashboard?o=U)
@@ -96,6 +102,7 @@ The subtitles you created <a href="#subtitles">above</a> needs to be published t
 Now your English subtitles are published. Remember that the user has to click the CC-button to see subtitles. That' Let's translate it.
 
 # Translate the subtitles - the user way
+
 <img src="/img/youtubeTranslateCaptions.png" style="float:right" width="50%">
 The easiest way... for you... is to do nothing. Because there's another option in the CC-menu on the video player, where the user can translate the text into a language of their choice. Just-in-time and automatic.
 
@@ -108,6 +115,7 @@ However, most people (like me), don't know about that button. We can do better.
 We can add more than one subtitle track and that's what we're going to do now. But first let's translate the current track.
 
 ## Download current track
+
 The first thing we need to do is to get hold of the current subtitle track, the one in English, in a format that is suitable for both translating and easy handling from YouTube.
 
 1. Click to the "Subtitles and CC" menu option in the [Creator Studio](https://www.youtube.com/dashboard?o=U)
@@ -132,6 +140,7 @@ From 0:00:03:800 to (represented by the comma) 0:00:11.710 display the text belo
 The .sbv you downloaded goes on and on like that. Perfect for translation. Let's do it
 
 ## Translate track
+
 The by far best way to translate this file is of course to have someone that speaks the language just make a copy of the file and translate away.
 
 But I did not so I used [Google Translate](https://translate.google.com/#en/id/) to translate from English to Indonesian. Not perfect... or sometimes bad... but better than nothing.
@@ -144,14 +153,15 @@ But I did not so I used [Google Translate](https://translate.google.com/#en/id/)
 Google Translate messed up the .sbv format for me, so there's two things we need to do.
 
 * For some reason Google Translate inserted a space after each ":".
-	* In your text editor search for <code>": "</code> and replace it with <code>":"</code>
+  * In your text editor search for <code>": "</code> and replace it with <code>":"</code>
 * Google Translate also replaced the dot (as in "11.710") before the milliseconds with a comma ",". This will mess up the format too. It's a little bit tricker to fix, but this worked for me:
-	* Search for <code>","</code> and replace with <code>"."</code>
-	* Now search for <code>".0:"</code> (as in 0:00:02.850**.0:**00:08.090) and replace it with <code>",0:"</code>
+  * Search for <code>","</code> and replace with <code>"."</code>
+  * Now search for <code>".0:"</code> (as in 0:00:02.850**.0:**00:08.090) and replace it with <code>",0:"</code>
 
 I suspect that Google Translate does this "fixes" depending on the language. You might have other problems you will have to fix. You will get errors in the next step if the format is not correct.
 
 ## Upload new track
+
 Finally just upload the new track.
 
 1. Click to the "Subtitles and CC" menu option in the [Creator Studio](https://www.youtube.com/dashboard?o=U)
@@ -163,11 +173,13 @@ Finally just upload the new track.
 1. Don't forget to scroll all the way down on the page and click "Publish" or the new track will not show
 
 ## Marvel at you bi-lingual skills and video
+
 <img src="/img/youtubeTwoSubtitleTracks.png" style="float:left" width="50%">
 
 Once all of that is done you video now have two subtitles to choose from. You could, of course, unpublish the English track if you wanted, but I've noticed that many people that doesn't speak English very good can still understand it better if they have a subtitle track.
 
 # Summary
+
 As I said, this was a bit long, but in reality just took me ca 10 minutes to do for the second and third video.
 
 I hope you found this useful. I know that I will go back here a number of times for myself.

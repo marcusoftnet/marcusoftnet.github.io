@@ -44,7 +44,6 @@ you want this:
 > value="mongodb://localhost/DotVoter"/\> <span
 > style="font-family: 'Courier New', Courier, monospace; font-size: x-small;">
 
-
 That MONGOHQ_URL is a special name that the MongoDB add-on looks for at
 deploy time. It's replaced with your configuration variable (see
 AppHarbor-\>\[Your application\]-\>Configuration Variables) that is

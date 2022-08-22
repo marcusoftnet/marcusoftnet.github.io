@@ -63,7 +63,6 @@ wants a problem solved. All the things we are doing to solve the problem
 for the customer is just "best so far" and we should change it as soon
 as we are creative enough to look outside our current understanding.
 
-
 <div style="text-align: left;">
 
 For some, I'm included, looking beyond our current ways and practices is
@@ -71,7 +70,6 @@ very hard to do. That's one of the reasons I always react with doubt and
 question introduced to new concepts. I'm a programmer so this list is a
 bit skewed, but this is my exact words or thoughts when I heard about
 some concepts that I now have come to appreciate:
-
 
 - WHAT?! Two people at one keyboard. That's just stupid! (Pair
     programming)
@@ -304,4 +302,3 @@ experience agile fellow like Woody Zuill might trigger in you.
 Thanks a lot for the inspiration Woody - looking forward to the next
 time.
 DS
-

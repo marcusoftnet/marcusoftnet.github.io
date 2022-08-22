@@ -18,5 +18,3 @@ on strike. This in turn leads to a lot more people in the subway and
 commuter trains.
 
 But we are still not even near an ordinary day in the Tokyo metro...
-
-

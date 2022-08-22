@@ -20,12 +20,12 @@ topic. Who among us would want to answer the question
 
 OK – in my preparations I found some great resources.
 
--   My new house-god
+- My new house-god
     <a href="http://dannorth.net/" target="_blank">Dan North</a> has
     made
     <a href="http://dannorth.net/classic-soa" target="_blank">this fun and
     easy to follow introduction.</a>
--   A lot of different stuff on
+- A lot of different stuff on
     <a href="http://www.wikipedia.org/" target="_blank">Wikipedia</a> is
     a good starter. Here are some articles on
     <a href="http://en.wikipedia.org/wiki/Service-oriented_architecture"
@@ -35,6 +35,6 @@ OK – in my preparations I found some great resources.
     <a href="http://en.wikipedia.org/wiki/SOA_Governance"
     target="_blank">SOA Governance</a> that I found useful as
     introduction.
--   Here is a really good discussion on why a <a
+- Here is a really good discussion on why a <a
     href="http://devlicio.us/blogs/casey/archive/2009/05/14/commercial-suicide-integration-at-the-database-level.aspx"
     target="_blank">common domain model is no good idea</a>.

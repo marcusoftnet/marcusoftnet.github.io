@@ -24,7 +24,6 @@ style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
 src="http://nancyfx.org/images/logo.png" data-border="0" width="178"
 height="200" /></a>
 
-
 For quite some time I've been a fan and proponent of a .net web
 framework called
 <a href="http://www.nancyfx.org/" target="_blank">Nancy</a>. She
@@ -59,20 +58,12 @@ here's what I have planned:
 5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
-
-
 The underlying idea here is to get to know Nancy better, through tests.
 Join me if you want. The speed of the blog posts will be much dependent
 on how the book writing goes (Kanban In Action...). At the time of
 writing I have the first two posts prepared, and the rest in my head.
 
-
-
-
 ### Why is Nancy easy.. to test
-
-
-
 
 Nancy is a web framework built from the ground up. Which means that it
 has no dependencies to System.Web or any of the web-stuff in .NET
@@ -80,12 +71,6 @@ framework. Those parts have been notoriously hard to test
 (<a href="http://en.wikipedia.org/wiki/Mock_object"
 target="_blank">mocking</a> the complete Request-object is a nightmare
 that still haunts many of us).
-
-
-
-
-
-
 
 Not only that - the creators of Nancy have themselves worked with
 testing as a main feature of the framework, probably even test-first.
@@ -96,17 +81,8 @@ target="_blank">post on constraints</a>: they constrained themselves to
 test everything, which made them create a very testable framework. Thank
 you constraint!
 
-
-
-
-
-
-
 There are two levels where this testability thoughts shine through to
 great effect;
-
-
-
 
 - Everything can be replaced! Nancy is built to replace every part of
     her - even core properties such as the NancyEngine itself (you can
@@ -116,27 +92,16 @@ great effect;
     test the complete stack of an Nancy-application, without touching
     slow and expensive resources such as the network.
 
-
-
 That last part requires an explaination I think. When you create a
 Nancy.Testing.Browser you need to pass in a
 Nancy.Bootstrapper.INancyBootstrapper. That might be seen as cumbersome
 but it gives you some great advantages and is not really hard as this
 example will show you:
 
-
-
-
-
-
-
-
 Moreover - this will actually test **everything**, the complete
 Nancy-stack. Without hitting the network. Yes - I know. I didn't get
 that first either. But let's look what possibilities that gives us first
 and I'll try to explain it better afterwards:
-
-
 
 As you can see from that example we can supply a fully populated
 Request-object, with all the context we need for our Request (headers,
@@ -155,14 +120,8 @@ target="_blank">headless browser.</a>
 
 #### Contrasting with ASP.NET MVC options
 
-
-
-
 If you were to test the same thing with an ASP.NET MVC application you
 are faced with two options:
-
-
-
 
 - test the controller directly. This is nice since the controller is
     just a class. You can supply dependencies and control the way it's
@@ -182,28 +141,16 @@ are faced with two options:
 
 ### Summing up Nancy testability
 
-
-
-
 [Nancy.Testing](http://nancy.testing/) gives you a great way to test
 your complete stack, with full control of it's execution. This in turn
 gives you the opportunity to write small specific test, without a lot of
 setup to get to the right page on the site etc, and a really fast
 feedback-loop.
 
-
-
-
 ### The basic setup
-
-
-
 
 Here follows the steps I went through to get started testing a new
 application.
-
-
-
 
 1. Created a new Solution,
     <a href="https://github.com/marcusoftnet/DiscoveringNancyThroughTests"
@@ -222,7 +169,6 @@ application.
 
 5. Wrote my first test
 
-
    </div>
 
 6. That failed of course since the application and route doesn't
@@ -233,7 +179,6 @@ application.
 
 7. So, the route was not found. I need to create the NancyModule that
     holds it. That's the famous Fit-In-A-Tweet-Module:
-
 
    </div>
 
@@ -281,6 +226,3 @@ and we briefly looked into the moving parts of Nancy testing.
 In subsequent post we will dive deeper into these concepts and see how
 we can bend them to our will, creating a excellent testing environment
 for our applications.
-
-
-

@@ -71,17 +71,17 @@ href="http://blog.jonasbandi.net/2010/05/atdd-for-rewriting-legacy-application.h
 target="_blank">similar question here</a>.  I think that it can be most
 useful. Using this approach you will get:
 
--   a shared understanding of the task at hand in the team (developers
+- a shared understanding of the task at hand in the team (developers
     and tester)
--   an executable specification for the developers to code against. That
+- an executable specification for the developers to code against. That
     gives them the possibility to work
     <a href="http://en.wikipedia.org/wiki/Outside-in_software_development"
     target="_blank">outside in</a>
--   the tester get a skeleton for a suite of automated regression tests
--   the test can live during the sprint – that is developers and testers
+- the tester get a skeleton for a suite of automated regression tests
+- the test can live during the sprint – that is developers and testers
     can introduce new specifications to verify behaviors as they are
     found.
--   and finally; given that your using a tool with a readable language
+- and finally; given that your using a tool with a readable language
     (<a href="http://wiki.github.com/aslakhellesoy/cucumber/gherkin"
     target="_blank">Gherkin</a> in
     <a href="http://www.specflow.org" target="_blank">SpecFlow</a> for
@@ -125,7 +125,7 @@ scary</a>.
 
 My specifications would then look something like this
 
-> `     `
+> ``
 >
 > Given I’ve entered customer number 12345567
 > When I choose Open Customer
@@ -134,7 +134,7 @@ My specifications would then look something like this
 > \| 12345567 \| Marcus Hammarberg \| My street \| … \| … \|
 
 I would have the test run against the “real system” with a real database
-and all the real dependencies (no mocking). 
+and all the real dependencies (no mocking).
 
 I get back to you when this is tried out, and I have ran into all the
 problems I didn’t foresee.

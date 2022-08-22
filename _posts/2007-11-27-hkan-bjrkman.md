@@ -20,4 +20,3 @@ played Celebration - notorious hard on the lip...
 <div align="left">
 
 Thank you Håkan - i am still amazed
-

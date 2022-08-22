@@ -16,4 +16,3 @@ painting elephant.
 
 It's truly amazing to see an animal have such good feeling and
 self-knowledge. I am humbled before it.
-

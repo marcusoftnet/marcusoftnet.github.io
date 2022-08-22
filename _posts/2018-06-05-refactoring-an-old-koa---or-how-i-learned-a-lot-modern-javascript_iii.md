@@ -34,7 +34,7 @@ See the function called `removeAll`? It removes all users from the Mongo collect
 
 This command (`yield users.remove({})`) will executed, asynchronously and once it's completed we will either get an error (and in this case fail the test) or come back to this line. The keyword to get this to work is `yield`.
 
-But there's so much fluffy stuff around this method. See that `  co(function * () {` for example? I you remove this then JavaScript all of a sudden doesn't know what `yield` means. See this [blog post for more information](http://www.marcusoft.net/2014/04/WhenIGotGenerators.html). In short: `co` is the thing that helps us to get `yield` to work as an asynchronous processor for us.
+But there's so much fluffy stuff around this method. See that `co(function * () {` for example? I you remove this then JavaScript all of a sudden doesn't know what `yield` means. See this [blog post for more information](http://www.marcusoft.net/2014/04/WhenIGotGenerators.html). In short: `co` is the thing that helps us to get `yield` to work as an asynchronous processor for us.
 
 But that is what we have async and await for. Let's rewrite it. As simple as possible first.
 
@@ -80,7 +80,7 @@ const removeAll = async (done) => {
 
 That still passes but now the `done`-flag is troubling me. Because I remember that done is really [mochas way of allowing us to test asynchronous code](https://mochajs.org/#asynchronous-code). But in theory that should not be needed, now that we are using async and await. That handles the synchronisation for us.
 
-### Functional like it's 1958!
+### Functional like it's 1958
 
 (There's a very geek reference to [LISP](https://en.wikipedia.org/wiki/Lisp_(programming_language)) in the title and this section)
 
@@ -94,14 +94,14 @@ Oh praise be to [McCarthys name](https://en.wikipedia.org/wiki/John_McCarthy_(co
 
 Let me first unpack that beautiful one-liner above:
 
-* By removing the `done`  call the parameter is not needed, of course. So we remove it.
-* Then there's only one line in the method. In JavaScript (ES6) if there's only has one line in the method you can remove the curly braces and bring it up on one line
-* Since there's only one statement in the function now, without curly braces, JavaScript assumes that this a return. And `await` is consider redudant for return values. I presume (but do not know) it's because we will wait implicilty until the method can return or fail. No other way out.
-* This is great, but wait there's more: we can also remove the `const co = require('co')` at the top of the file, since it's not used in this code.
+- By removing the `done`  call the parameter is not needed, of course. So we remove it.
+- Then there's only one line in the method. In JavaScript (ES6) if there's only has one line in the method you can remove the curly braces and bring it up on one line
+- Since there's only one statement in the function now, without curly braces, JavaScript assumes that this a return. And `await` is consider redudant for return values. I presume (but do not know) it's because we will wait implicilty until the method can return or fail. No other way out.
+- This is great, but wait there's more: we can also remove the `const co = require('co')` at the top of the file, since it's not used in this code.
 
 And the tests are still passing!
 
-###Fixing the tests for functional code
+### Fixing the tests for functional code
 
 Ok - but the tests are failing. Let's fix them. We get a lot of time outs now stating:
 
@@ -181,11 +181,11 @@ describe('GET user /:id ', function () {
 
 A few comments:
 
-* In order to get rid of some linting warnings the first comment line is need so that we allow the mocha global objects.
-* I can use string interpolation for the ``/${user._id}` to make it more readable.
-* I can remove `co` from the code as all my tests are now using async and await.
-* And I have the lovely, tight functional code for the `beforeEach, afterEach` functions.
-* And remove the comments.
+- In order to get rid of some linting warnings the first comment line is need so that we allow the mocha global objects.
+- I can use string interpolation for the ``/${user._id}` to make it more readable.
+- I can remove `co` from the code as all my tests are now using async and await.
+- And I have the lovely, tight functional code for the `beforeEach, afterEach` functions.
+- And remove the comments.
 
 I'll fix the other test-files and then make a check-in for you (`All tests functional and nice`)
 
@@ -257,5 +257,4 @@ Tests are passing - remove the entire `test`-directory and the only file (`testH
 
 ### Summary
 
-Time to end this post here. We have cleaned up the test considerably and learned a great deal about asynchronous code in ES6 using async and await. In [the next post](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) we will do the same to the system under test; `userRoutes.js ` and `app.js` and see where it takes us.
-
+Time to end this post here. We have cleaned up the test considerably and learned a great deal about asynchronous code in ES6 using async and await. In [the next post](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) we will do the same to the system under test; `userRoutes.js` and `app.js` and see where it takes us.

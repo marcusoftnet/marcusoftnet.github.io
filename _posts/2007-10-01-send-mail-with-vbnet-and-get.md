@@ -46,11 +46,8 @@ user that sent the email. Simple, yet brilliant.
 Here are some example code that shows you how it works. Of course in my
 favorite language VB.NET:
 
-
-
 `' Create the messageDim message As New MailMessage`
 `' This is adress that will get notifiedmessage.From = New MailAddress("me@home.com")message.To.Add("to@away.com")message.Subject = "Subject"message.Body = "The complete body of the mail"' Set DeliveryNotificationOptions.OnFailure to state that the From-adress' should be notified if the recipient couldn't be reachedmessage.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure' Create smtp-serviceDim smtpService As New Net.Mail.SmtpClient("mysmtp.server.com")'Send the messagesmtpService.Send(message)`
-
 
 As i've told my project for some days now this problem is probably the
 one I've put in most effort on, in all my project, in total... and here

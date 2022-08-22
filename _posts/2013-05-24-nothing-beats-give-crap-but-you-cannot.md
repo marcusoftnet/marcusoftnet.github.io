@@ -148,9 +148,7 @@ Some roles we commonly use is there to "bridge the communication gap"
 between other parties. Business Analysts often describes themselves in
 this way (they OF COURSE do a lot of other useful things too).
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -158,22 +156,18 @@ If everyone needed to move the work forward is in the same room... that
 need to take information back and forth between people pretty much goes
 away.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
 "But developers and customers cannot understand each other!!! They speak
 differently."
 
-
 <div style="text-align: left;">
 
 So, they would have to do something about that then, right? Otherwise
 they will build crappy stuff. In a product that they care about. I think
 they'll manage. I trust in the mob and people in it. It's great people!
-
 
 ### What is the name of the process we're running?
 
@@ -192,9 +186,7 @@ they'll manage. I trust in the mob and people in it. It's great people!
 Is the mob doing Scrum? Or XP? Which milestone are they passning right
 now?
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -202,9 +194,7 @@ You know what - that's not important? For the mob nor should it be for
 you. The mob is making work come out the door in the best and fastest
 way they can come up with. For this work.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -212,44 +202,35 @@ They might even *gasp* change the way they work during a workday. Yes,
 you read that correctly. Mid-iteration. Hey, come to think about it.
 Iteration or not - that's not important
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
 "But they're doing retrospectives and standups right?"
-
 
 <div style="text-align: left;">
 
 They might. If it's useful. A retrospective is a great way to step aside
 and talk about the way you work with a little distance.
 
-
 <div style="text-align: left;">
 
 Standups... I really don't know. They are working one thing. There's
 really not much to talk about.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
 They could have a board to visualize what's going on. For stuff coming
 up next for example. Or things that is completed.
 
-
 <div style="text-align: left;">
 
 This can be away for the mob to report outwards to other parties what's
 going on and what the next things coming up are.  
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -262,9 +243,7 @@ a great product. And a product owner that gave them permission and
 support to do what they (the team) thought was best to make things
 happen.
 
-
 <div style="text-align: left;">
-
 
 <div style="text-align: left;">
 
@@ -273,35 +252,17 @@ manner. "Let's do it like they did." But that doesn't work now does it.
 It's not HOW you run it - it's WHY you run it that makes a difference.
 Thanks Anders for the story and that last point.
 
-
 ### Who is the hero in a mob?
-
-
 
 A team succeeds and fails as a team. No single person has made this
 happen but the parts has worked together to a better whole, greater than
 the parts.
 
-
-
-
 The team is the heros or everyone in the team is the hero if you want.
-
-
-
-
-
-
 
 This doesn't mean that we cannot allow greatness within the team. We
 need great people, the better we are the better we can help each other
 to reach our common goal.
-
-
-
-
-
-
 
 Never has this been better put than after a great evening for Swedish
 football. Sweden played England. Won 4 - 2. Zlatan Ibrahimovic scored
@@ -310,43 +271,22 @@ seen on a Swedish arena in ages. Maybe forever.
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
-
-
-
 Right after the game a TV-reporter rushed to the Swedish coached and
 asked: "How about that Zlatan?" The coach grew angry on the reporter:
-
 
 > It's a team out there. You think he could win against England by
 > himself? I'm proud over the team.
 
 ### Conclusion
 
-
-
 I'm still struggling seeing a team ONLY doing mob programming. And this
 was not a blog post that was propagating for mob programming. I merely
 saw mob programming as an extreme form of team-work and that started to
 get me thinking about the implications of that.
-
-
-
-
-
-
 
 Thanks to bunch of people that I have discussed this with during the
 week (Calle, Anders, Andy etc) and big thanks to Ville and Tobbe that
 got me thinking about this with their interesting presentation at Agila
 Sverige.
 
-
-
-
-
-
-
 I hope this got you thinking too. Love to hear your thoughts below.
-
-

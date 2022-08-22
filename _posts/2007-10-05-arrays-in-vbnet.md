@@ -18,13 +18,13 @@ id="SPELLING_ERROR_0"
 class="blsp-spelling-corrected">annoys me. Here is a short
 list on how to work with arrays, in my example an array of strings.
 
-1.  Declaring an new empty array:
+1. Declaring an new empty array:
     `Dim arr() as String = {}`
     or (this is where the pain begins...why is there a choice?)
     `Dim arr as String() = {}`
-2.  Declaring an array with three elements:
+2. Declaring an array with three elements:
     `Dim arr(2) as String`
-3.  Declaring an array with two elements and initializing the values
+3. Declaring an array with two elements and initializing the values
     `Dim arr as String() = {"Element 1", "Element 2"}`
 So - again the pain of VB.NET comes from the urge to want to help us all
 the time. Why, oh why, are there several ways of doing one thing?

@@ -27,15 +27,15 @@ authorization in code.
 
 Here is what I had to do to get it to work on Windows 2003 R2:
 
-1.  Create a account on the server
-2.  Put that account into the IIS_WPG group
-3.  Create a virtual directory for my WCF service
-4.  Create an application in that virtual directory
-5.  Set the account as Identity on the application pool that the virtual
+1. Create a account on the server
+2. Put that account into the IIS_WPG group
+3. Create a virtual directory for my WCF service
+4. Create an application in that virtual directory
+5. Set the account as Identity on the application pool that the virtual
     directory is using (DefaultAppPool for example)
-6.  Set the account as the anonymous account the virtual directory is
+6. Set the account as the anonymous account the virtual directory is
     running under (Directory Security)
-7.  IISReset to get the settings to take
+7. IISReset to get the settings to take
 
 The last step is a bit interesting… In this time and age you could think
 that a simple recycling of the application pool would be enough but …

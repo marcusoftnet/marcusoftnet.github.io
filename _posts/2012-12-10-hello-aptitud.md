@@ -36,7 +36,6 @@ people) consultancy firm called
 people whereof many I know since before. Having met the crew a couple of
 time I can safely say that this will be something extra!
 
-
 But the real cool part is to be part of building something new, a new
 style or culture (link) based on values that I myself have been
 preaching to other organizations.
@@ -55,47 +54,29 @@ I will of course come back to this a lot of time but let me give you two
 examples where we have been challenged or made to think again, already.
 I'll also tell you how that's improved our work situation already.:
 
--   **transparency**, you say? So what is a transparent salary spec?
+- **transparency**, you say? So what is a transparent salary spec?
     Well it's available to everyone of course. Nothing strange there. We
     post ours in Dropbox.
     BOM! With that simple measure you got rid of all questions, thoughts
     and jealousy about what other people earn and why. Check that dude's
     salary slip and talk it out, if you still think it's strange that
     Jane earns more than you
--   **trust** - we trust that you know others that might be a right fit
+- **trust** - we trust that you know others that might be a right fit
     for Aptitud (that has the right Aptitude, if you want :)). So if you
     do - check with any of your co-workers. If you both thinks this is
     good - let's hire her. If you still not sure, well involve one more
-    then. 
+    then.
 
 These were just two simple examples where the key values have guided
 Aptitud towards simple, more people friendly solutions.
 
-
-
-
-
 We have already heard from many that we are naïve and that this won't
 scale. We don't think so. We think great people accomplish great stuff -
-given the freedom to do so. 
-
-
-
-
-
+given the freedom to do so.
 
 Oh yeah - if you think this sounds interesting.
 <a href="https://twitter.com/Aptitud_Sthlm" target="_blank">Contact
-us</a> and we'll tell you more. 
-
-
-
-
-
+us</a> and we'll tell you more.
 
 To all (all 9 of you that is...) my Aptidudes out there; Let's go! Let's
 be great!
-
-
-
-

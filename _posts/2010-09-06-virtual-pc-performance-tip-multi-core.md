@@ -122,4 +122,3 @@ Phew – that was a lot of stuff to do, that I mostly didn’t know much
 about… But my virtual system is now flying! And I also got a lot better
 screen resolution. Full screen, baby!
 Thank you Thomas.
-

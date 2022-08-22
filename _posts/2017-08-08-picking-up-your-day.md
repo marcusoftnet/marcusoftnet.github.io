@@ -41,4 +41,3 @@ For the last week I tried a very simple little trick that seems to help; I creat
 Instead of doing 8-16 days (in my planning), I now do 13-12 days. As I come into the office I have a few things to pick up, or continue will.
 
 I've found that this helps me to get into the day and my work in a better way. I hope that you find it useful to.
-

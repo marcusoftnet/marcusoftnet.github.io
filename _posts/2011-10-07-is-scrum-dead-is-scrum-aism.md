@@ -35,7 +35,6 @@ The rest of this blog post are inspired by Morgan and written by me. Any
 strange stuff and faults are just my own and any great stuff is probably
 Morgan.
 
-
 ### It’s Scrum ™ or it’s not
 
 The conclusion section of the Scrum Guide 2011 states (my
@@ -69,9 +68,9 @@ and I would be happy to be corrected on this.
 
 This is our short list:
 
--   The product owner is an unicorn
--   Deliver business value each iteration is hard
--   Not doing retros and not following up on actions
+- The product owner is an unicorn
+- Deliver business value each iteration is hard
+- Not doing retros and not following up on actions
 
 #### “The product owner is an unicorn”
 
@@ -88,13 +87,13 @@ committee” that in order to succeed “… the entire organization must
 respect his or her decisions”. Among the product owner responsibilities
 are:
 
--   Clearly expressing Product Backlog items;
--   Ordering the items in the Product Backlog to best achieve goals and
+- Clearly expressing Product Backlog items;
+- Ordering the items in the Product Backlog to best achieve goals and
     missions;
--   Ensuring the value of the work the Development Team performs;
--   Ensuring that the Product Backlog is visible, transparent, and clear
+- Ensuring the value of the work the Development Team performs;
+- Ensuring that the Product Backlog is visible, transparent, and clear
     to all, and shows what the Scrum Team will work on next;
--   Ensuring the Development Team understands items in the Product
+- Ensuring the Development Team understands items in the Product
     Backlog to the level needed
 
 Man – that’s one steep order indeed. So she is to understand the
@@ -149,10 +148,10 @@ help on how to be better in doing this either.
 Another thing that is very common is that the deliverables is not of
 business value each sprint.
 
--   You have to do upgrade a database
--   a new version of the ORM-mapper has been released and need to be
+- You have to do upgrade a database
+- a new version of the ORM-mapper has been released and need to be
     integrated in our code base
--   in order to squeeze the user story into a single sprint we mock out
+- in order to squeeze the user story into a single sprint we mock out
     the external dependencies (and do it “for real” in the next sprint)
 
 These are all example of things that is not of business value but still
@@ -194,9 +193,9 @@ And does that matter?
 Scrum-but is a term that is used to describe Scrum implementation that
 does some of Scrum BUT not all.
 
--   “Yes, we do Scrum … but we don’t have PO”
--   “Yes, we do Scrum … but we don’t do retrospectives”
--   “Yes, we do Scrum … but we don’t deliver business value each sprint”
+- “Yes, we do Scrum … but we don’t have PO”
+- “Yes, we do Scrum … but we don’t do retrospectives”
+- “Yes, we do Scrum … but we don’t deliver business value each sprint”
 
 The term is, of course, frowned upon by the Scrum community. But is it
 really bad?

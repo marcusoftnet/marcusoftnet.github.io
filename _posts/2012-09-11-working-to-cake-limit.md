@@ -56,7 +56,6 @@ data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
 src="http://2.bp.blogspot.com/-w_qio6tjuX0/UE5QG51lh6I/AAAAAAAABT8/8rmkm_bNWcw/s320/Screen+Shot+2012-09-10+at+22.39.42.png"
 data-border="0" width="320" height="230" /></a>
 
-
 When I first saw this I thought it was a prank of some sort so I asked
 the team. But "No", the explained, "when we've reached 40 items in the
 Done column work start to back up. And the only way to resolve that
@@ -91,19 +90,12 @@ the lead time for that work item and can start tracking trends per work
 group. Pretty soon you can start making predictions for how long
 different kind of work will take:
 
-
--   A small takes between 3-4 days.
--   A medium have during the last 3 months taken around 5.7 days, with 2
-    ones off by mostly 10 days. 
-
-
+- A small takes between 3-4 days.
+- A medium have during the last 3 months taken around 5.7 days, with 2
+    ones off by mostly 10 days.
 
 Things like that. Pretty cool, huh? Stakeholders often values
 predictability over speed in my experience.
-
-
-
-
 
 **Number of items done / week** - with this simple metric we see our
 throughput. Are stuff coming out in the other end? Do we get anything
@@ -116,5 +108,3 @@ Remember - the metrics are there for you to learn from. It's not an
 evaluation of you and your qualities, but rather the qualities of the
 current process. But without metrics you have no easy way of telling if
 you're improving or not.
-
-

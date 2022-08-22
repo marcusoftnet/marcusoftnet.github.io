@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 ---
 
-I've already [written about this before](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), but Hey - this was a [series](http://www.marcusoft.net/tags/#Things I say often) about things I said often.
+I've already [written about this before](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), but Hey - this was a [series](<http://www.marcusoft.net/tags/#Things> I say often) about things I said often.
 
 Basically, but please read the other post instead, many times I've been at companies that want to improve but don't want to change. This is impossible. Improving means changing. Changing doesn't necessary means improving though.
 

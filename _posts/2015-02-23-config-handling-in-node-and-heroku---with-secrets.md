@@ -23,33 +23,33 @@ I don't know really where I picked this construct up, the first time, but I'm et
 var mongoProdUri = process.env.MONGOLAB_URI || 'localhost:27017/myApp_Prod';
 
 var adminUser = {
-	name : process.env.BASIC_USER || 'marcus',
-	pass : process.env.BASIC_PASS || 'koavote'
+ name : process.env.BASIC_USER || 'marcus',
+ pass : process.env.BASIC_PASS || 'koavote'
 };
 
 var config = {
-	local: {
-		mode: 'local',
-		port: 3000,
-		mongoUrl: 'localhost:27017/myApp_Dev',
-		user : adminUser
-	},
-	staging: {
-		mode: 'staging',
-		port: 4000,
-		mongoUrl: 'localhost:27017/myApp_Test',
-		user : adminUser
-	},
-	prod: {
-		mode: 'prod',
-		port: process.env.PORT || 5000,
-		mongoUrl: mongoProdUri,
-		user : adminUser
-	}
+ local: {
+  mode: 'local',
+  port: 3000,
+  mongoUrl: 'localhost:27017/myApp_Dev',
+  user : adminUser
+ },
+ staging: {
+  mode: 'staging',
+  port: 4000,
+  mongoUrl: 'localhost:27017/myApp_Test',
+  user : adminUser
+ },
+ prod: {
+  mode: 'prod',
+  port: process.env.PORT || 5000,
+  mongoUrl: mongoProdUri,
+  user : adminUser
+ }
 };
 
 module.exports = function (mode) {
-	return config[mode || process.argv[2] || 'local'] || config.local;
+ return config[mode || process.argv[2] || 'local'] || config.local;
 };
 ```
 
@@ -92,6 +92,7 @@ var config = require("./config")(); // Will create a Prod-mode configuration obj
 ```
 
 # Testing my configuration
+
 This of course allows for nice testability of my configuration. Like this for example:
 
 ```javascript
@@ -150,6 +151,7 @@ describe("Configuration", function() {
 There's not much to be said about the testing code, other than test the presence of the values and not the actual values since that means that you will have duplications of the configuration. And maybe secrets leaking out into your code... Speaking of secrets.
 
 # Secrets, Heroku and process.env
+
 The process.env is a powerful feature of Node which let's you store configuration values (and other things) outside your code and retrieve them in code. You've seen example of this in the configuration object already:
 
 ```javascript
@@ -166,7 +168,7 @@ node -e 'process.env.MONGOLAB_URI = "my local connectionstring"'
 
 This is a good way to set environment variables that you don't want in your code (or in source control). If the command grows long you can store it in package.json .... no wait a second... you can create a command file that you share among the team, for example.
 
-In production, if you are using Heroku and other platform as a service services you can configure these parameters. In Heroku it's called Config variables and can be found under Settings, https://dashboard.heroku.com/apps/_your appname here_/settings.
+In production, if you are using Heroku and other platform as a service services you can configure these parameters. In Heroku it's called Config variables and can be found under Settings, <https://dashboard.heroku.com/apps/>_your appname here_/settings.
 
 <img src="/img/heroku_config_vars.jpg" style="float:right" width="70%" />
 The picture to the right guide you and that also shows you that I don't should reveal the variables and their values to anyone.
@@ -174,6 +176,7 @@ The picture to the right guide you and that also shows you that I don't should r
 These values can now be picked up from code using the process.env.MONGOLAB_URI for example. When you run it local you can instead pass some sensible default in the config object or as a process.env parameter when you start up your application.
 
 # Summary
+
 This simple little object and accompanying knowledge about how process.env and Heroku works have helped me a lot. As I said I'm using it on almost all my applications. I think I first picked it up from my bro [Hugo](http://www.hugohaggmark.com).
 
 The [code can be found here](https://github.com/marcusoftnet/Config), as a little package that you can use including tests. But please do something better than this - and please tell me. And first of all: don't store secrets in your code!

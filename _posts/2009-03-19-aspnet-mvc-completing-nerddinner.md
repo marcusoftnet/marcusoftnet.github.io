@@ -24,10 +24,10 @@ looking forward to the complete book.
 Secondly I’ve picked up some really useful and interesting techniques
 surrounding ASP.NET MVC:
 
--   The UpdateModel-method, or rather not using it. You can specify an
+- The UpdateModel-method, or rather not using it. You can specify an
     inparameter to an ActionMethod (of the same type as in the View) and
     the framework will fill it out with data from the form.
--   There are some really useful attributes in the framework, such as
+- There are some really useful attributes in the framework, such as
     Authorize.
 
 I also learned some lessons surrounding my repositories that I’ll need

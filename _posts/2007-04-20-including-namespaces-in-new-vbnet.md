@@ -41,17 +41,17 @@ found out about the [Export
 Template-functionallity](http://msdn.microsoft.com/msdnmag/issues/06/01/CodeTemplates/default.aspx).
 Find my short version below
 
-1.  Remove the Root Namespace from all your project. Now and forever!
-2.  Create a new shiny class in your project
-3.  Include the right namespace declarations and other things that you
+1. Remove the Root Namespace from all your project. Now and forever!
+2. Create a new shiny class in your project
+3. Include the right namespace declarations and other things that you
     want in all your, for example comments, regions etc.
-4.  Save the file
-5.  Choose File-\>Export Template
-6.  Go Item template and go through the rest of the wizard
-7.  Distribute the created zip-file in your project. Your project
+4. Save the file
+5. Choose File-\>Export Template
+6. Go Item template and go through the rest of the wizard
+7. Distribute the created zip-file in your project. Your project
     members need to put it in their Document and Settings\Visual Studio
     2005\My Exported Templates-folder and restart the studio
-8.  Viola!
+8. Viola!
 
 This solves some of the namespace problem but the
 folder-problem (i.e. if you create a folder in your project and put the

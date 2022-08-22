@@ -17,35 +17,19 @@ src="http://photos1.blogger.com/x/blogger2/4958/4459/320/921092/julkonsert%2006.
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/x/blogger2/4958/4459/1600/118140/julkonsert%2006.jpg)
 
-
-
 My band, the Vasa band of the Salvation Army, is really taking off right
 now.
-
-
-
 
 We have had a year when we have lost a lot of bandsmen so right now
 we're only about 17 in the band. However the feeling and fellowship in
 the band has always been great. And during the last few months we are
 also starting to play better and better.
 
-
-
-
 To the spring we are reinforced with some more cornets - so (you know i
 like to look into the future) i predict that the spring will be great.
-
-
-
 
 I just love to play in the band! It's so fun and we have a great time -
 thank you guys!
 
-
-
-
-
 If you are in the Stockholm, you're more than welcome to our Christmas
 concert, 6 dec, 1900.
-

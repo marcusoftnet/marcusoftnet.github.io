@@ -66,10 +66,10 @@ But let's try to minimise WIP and see how it turns out. Here's my result with WI
 
 Ooooh - shiny! That's much better, unsurprisingly.
 
-- All projects now takes 27 seconds to complete (compared to 1 minute 32 seconds before)
-- First project completed after 8 seconds (1 minute 28 seconds before)
-- Second took 11 seconds to do, with a total lead time of 18 seconds (1 minute 30 seconds)
-- The third project took 9 seconds with a total lead time of 27 seconds (1.32 before)
+* All projects now takes 27 seconds to complete (compared to 1 minute 32 seconds before)
+* First project completed after 8 seconds (1 minute 28 seconds before)
+* Second took 11 seconds to do, with a total lead time of 18 seconds (1 minute 30 seconds)
+* The third project took 9 seconds with a total lead time of 27 seconds (1.32 before)
 
 Well, that was not too strange, since I had to get the Blue pen only once, compared to 10 times before. But there are a few interesting points of reflection here:
 

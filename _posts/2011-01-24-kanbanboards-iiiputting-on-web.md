@@ -46,14 +46,15 @@ target="_blank">SpecFlow Assist</a> (table helpers) that is really
 great. So I value his opinions a lot. He gave me 4 points to think about
 and I thought I comment them here as I learned a lot from them and think
 maybe you will to:
-1.  <a
+
+1. <a
     href="https://github.com/marcusoftnet/KanbanBoards/pull/1#commitcomment-244865"
     target="_blank">Line up your SpecFlow tables correctly</a>. This is
     a great point that will make the feature-files be readable outside
     Visual Studio. I think that the readability is a key feature of
     <a href="http://en.wikipedia.org/wiki/Behavior_Driven_Development"
     target="_blank">BDD</a> so totally agree there. Committed!
-2.  <a
+2. <a
     href="https://github.com/marcusoftnet/KanbanBoards/pull/1#commitcomment-244868"
     target="_blank">Don’t use asserts in the When-step</a>. Totally
     agree on this! The Given/When/Then mantra is from the outset a
@@ -62,14 +63,14 @@ maybe you will to:
     <a href="http://en.wikipedia.org/wiki/Separation_of_concerns"
     target="_blank">separation of concerns</a> in your step definitions.
     Committed!
-3.  <a
+3. <a
     href="https://github.com/marcusoftnet/KanbanBoards/pull/1#commitcomment-244869"
     target="_blank">Split you step definition files into files per thing or
     concept.</a> Great tip! Didn’t think at all of that – but it makes a
     lot of sense and also pushes me to think about keep the steps clean
     from state and other smells, so they easily can be stitched together
     in other scenarios. Committed!
-4.  <a
+4. <a
     href="https://github.com/marcusoftnet/KanbanBoards/pull/1#commitcomment-244871"
     target="_blank">Use SpecFlow 1.5</a>. I actually thought of this the
     moment I realized that NuGet didn’t give me the latest version of
@@ -81,7 +82,7 @@ maybe you will to:
     Committed!
 
 OK – with the aid of GitHub and not to mention Darren the project is now
-in great shape. 
+in great shape.
 
 But really - it’s just to [hard to grasp git
 sometimes](http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html).
@@ -277,7 +278,7 @@ is empty which has to do with the database not being present and hooked
 up. From <a
 href="http://weblogs.asp.net/scottgu/archive/2011/01/11/vs-2010-sp1-and-sql-ce.aspx"
 target="_blank">this blog post</a> I can see that I’m just a simple
-NuGet addition away from solving that. 
+NuGet addition away from solving that.
 
 He he... no, actually the MvcScaffolding install from NuGet did that for
 me... I just found out.

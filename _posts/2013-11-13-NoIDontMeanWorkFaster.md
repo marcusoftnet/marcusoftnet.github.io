@@ -48,8 +48,6 @@ moving faster:
 - faster feedback loops
 - etc.
 
-
-
 |                                                                                      |
 |:------------------------------------------------------------------------------------:|
 |                                          <a
@@ -66,34 +64,18 @@ presentations sometimes; is this really correct? Should I come out like
 the guy talking about faster, faster, faster? Isn't this exactly what
 the Ford-dudes talked about in the early years of this century?
 
-
-
-
-
-
 All of this is summed up with an excellent question, from my colleague
 and friend [@anderslowenborg](https://twitter.com/anderslowenborg);
 
-
 ### Why does it have to go so fast all the time?
-
-
 
 After really thinking long and hard about this I have come to realised
 that it really *should* flow faster, as fast as possible in fact. But
 not faster... let's come back to that last part and instead try to
 answer the question in the heading of this section.
 
-
-
-
-
-
 There's many reasons to strive to a faster flow, faster process but here
 are a few that I come back to:
-
-
-
 
 - with a shorter feedback loop **we will learn about our product
     faster.** This is the foundational thinking behind [continuous
@@ -123,34 +105,18 @@ are a few that I come back to:
 
 ### As fast as possible - but not faster
 
-
-
-
 Ok - so we want to move fast. Yes... but not too fast. One way to go
 faster is to be sloppy and skip stuff that takes time, testing for
 example. But that's not what I'm talking about.
-
-
-
-
-
 
 First - we want to keep a sustainable pace, a tempo that you can keep
 week in and week out. This is not a sprint (how's that for a bad name of
 an iteration, Scrum...) it's a marathon.
 
-
-
-
-
-
 Secondly - we want to keep a tempo that doesn't hurts our quality. What
 happens when code quality goes down? It takes more time to code new
 features, because you have to work around a lot of stuff, jump through
 hoops etc.
-
-
-
 
 Keeping a tempo in which we take the code quality into consideration,
 keeping <a
@@ -158,11 +124,7 @@ href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/013235
 target="_blank">the code clean</a> and doing refactorings as we see
 needed, will ensure that we can keep the tempo up.
 
-
-
-
 Yes, it's a self-enforcing loop.
-
 
 ### Do we have to work faster?
 
@@ -173,24 +135,23 @@ short, beat the galley drum faster. But I do mean flow the work faster
 through your process. This can be achieved in a number of things, most
 feel quite contra-effective at first.
 
-
 <div style="text-align: left;">
 
 Here are few things that I often come back to:  
 
--   Do **fewer things at the same time**, a.k.a. Limit Work in Process.
+- Do **fewer things at the same time**, a.k.a. Limit Work in Process.
     By doing less things at the same time you make sure that each item
     is flowing faster through your process. [Books has been written
     about this](http://bit.ly/theKanbanBook) and I won't dwell on this
     here. Besides of moving your work quicker through your process will
     show you what's hindering the work to flow, clear up that and your
     work will flow even faster...
--   Engage **more people in the work you're doing**. Besides of you
+- Engage **more people in the work you're doing**. Besides of you
     doing less work at the same time your team can do less stuff at the
     same time, minimizing the WIP for your team. Check out <a
     href="http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/"
     target="_blank">mob programming</a> for example.
--   **Do less** of the tedious and repetitive **stuff** you often end up
+- **Do less** of the tedious and repetitive **stuff** you often end up
     doing. Take time to automate tasks that is bothering you or take
     time from your ordinary work. Build scripts is a great basic
     example. Or
@@ -201,12 +162,8 @@ Here are few things that I often come back to:  
 
 ### Conclusion
 
-
-
 No, I don't mean you should move faster or increase your tempo. But I do
 mean that you should strive to let your work flow faster through your
 process. And faster still. Through this you will learn a lot about your
 work and get small pieces completed to your customer, where they can get
 value from it.
-
-

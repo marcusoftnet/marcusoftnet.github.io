@@ -40,6 +40,7 @@ other for quite some time now.
 So this is, like many post on this blog, a learning experience for me
 and I’m sharing it with you. Please supply any feedback to me. I would
 love to hear your thoughts on the matter.
+
 ### The Problem – Broken build indifference
 
 To have <a href="http://en.wikipedia.org/wiki/Continuous_integration"
@@ -113,7 +114,7 @@ and the elephant part of people. The rider need clear instructions while
 the elephant need motivation and some reasons for why this should be
 done. Finally you need to shape the path on which they are going to be
 traveling. The Switch framework gives you some guidelines on how to
-accomplish that. 
+accomplish that.
 
 And there… I have now summed up about 4 pages in the book. Read the rest
 to get the full picture.
@@ -144,7 +145,7 @@ helped us find stuff that would have ended up being a problem later on.
 **Script the critical moves**
 
 This is putting emphasis on concrete measures that one can take to make
-it crystal clear and easy to follow. 
+it crystal clear and easy to follow.
 
 In our case that might be a technical solution; for example some tools
 don’t accept commits or check-ins when the build fails. In Team

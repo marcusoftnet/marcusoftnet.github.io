@@ -84,7 +84,7 @@ That's what my [original blog post](http://codebetter.com/marcushammarberg/2013/
 
 The second problem Åsa told me about was when someone in the team doesn't follow the *rules*. What if I go home and just hack together something that I think is better? How should the mob handle that? We did decided that all code is to be written in the mob, no didn't we?
 
-It's interesting to hear about how the mobs are tackling questions like this. This of course comes down to personality and trust. Do I consider the code that I write better than the code in the mob? Or can I accept that the mob will write something different that I would write? Even accept that it's better? Or * *gasp* * worse even and still be ok with it since it's now known and understood by more people.
+It's interesting to hear about how the mobs are tackling questions like this. This of course comes down to personality and trust. Do I consider the code that I write better than the code in the mob? Or can I accept that the mob will write something different that I would write? Even accept that it's better? Or **gasp** worse even and still be ok with it since it's now known and understood by more people.
 
 Just like with many practices there's of course people that will not like this way of working. I wouldn't recommend forcing anything on anyone. Mob programming included.
 
@@ -98,6 +98,6 @@ I ask every person that I've met that's been in a mob full time for more than a 
 
 Until now I've never heard anyone answer Yes to that. More commonly the answer is something like:
 
-> Going back?! No - then I'll rather quit the company. 
+> Going back?! No - then I'll rather quit the company.
 
 I've never heard that about new ways of working before.

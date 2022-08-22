@@ -15,7 +15,6 @@ The last thing the Gothenburg Brass band did before the
 stopped playing was go on a tour in England. On the tour the found time
 to record a CD and take part in the European Championships.
 
-
 I got the great privilege to write the inlet of
 the CD, which is called In Perfect Peace after one of the pieces on the
 CD. That particular piece is written by Kenneth Downie and was

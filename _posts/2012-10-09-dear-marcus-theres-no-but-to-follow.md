@@ -45,69 +45,41 @@ too. There's been a number of nights when you have taken care of them
 all of yourself. Sure you loose your temper from time to time as all
 parents probably do. The kids are wonderful:
 
--   Albert is four years old and really nice to be around. He talks a
+- Albert is four years old and really nice to be around. He talks a
     lot and is really smart which ends up in creating all sorts of fun
     situations and quotes. Alberts is doing great at dagis and makes
     friends whereever he goes
--   Gustav is one of the twins. He's just starting to speak properly and
+- Gustav is one of the twins. He's just starting to speak properly and
     new words pop up everyday. He's a little engener and builds a lot of
     stuff or take other stuff apart to know how they work. Gustav loves
     his brothers a lot and take care of them
--   Arvid is the other twin. He's a bit slower to speak but is improving
+- Arvid is the other twin. He's a bit slower to speak but is improving
     for each day. He's doing great at dagis and learning new stuff each
     day. Arvid just invented a little sign-language for himself (signs
-    for eating, car and crackers are in there). 
+    for eating, car and crackers are in there).
 
-
-
-And there's no "but" to follow. 
-
-
-
-
-
+And there's no "but" to follow.
 
 Everyone else in your family are near and dear to you. No one is sick.
-You have contact with all of them and there's no conflicts. 
-
-
-
+You have contact with all of them and there's no conflicts.
 
 And there's no but to follow.
 
-
-
-
-
-
 At work you are doing alright. Excellent in fact. You still don't get
 that fully yourself but people are actually interested in what you have
-to say and what you think. 
-
-
-
+to say and what you think.
 
 You are working for Avega Group the best employeer you've had and you
 have a great role, Avega Coach, that means that you spend part of you're
 time doing presale, presentations and coaching of other consultants at
 Avega. You have been elected Employee of the Year two times by your
-peers. 
-
-
-
-
-
+peers.
 
 Right now you're very much into Kanban and Lean and this year you are
 writing a book (Yes I know!!! It's sick!) called Kanban in Action. It's
-hard work and rolls along nicely. 
+hard work and rolls along nicely.
 
-
-
-
-And there's no "but" to follow. 
-
-
+And there's no "but" to follow.
 
 You and your family are members at the Vasa Corps of the Salvation Army.
 It's the best church you ever attended. Everyone is keen on making it
@@ -137,4 +109,3 @@ Don't introduce any "but" in your life!
 I'm proud of you!
 
 And there's no "but" to follow.
-

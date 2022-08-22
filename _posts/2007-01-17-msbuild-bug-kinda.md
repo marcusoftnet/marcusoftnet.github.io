@@ -38,39 +38,34 @@ date. And since dates are converted like so:
 
 "2007-01-01" -\> "070101" -\> 70101
 
-
 <div align="left">
-
 
 <div align="left">
 
 we can clearly see that 70101 is a bigger number than 65000.
 
-
 <div align="left">
-
 
 <div align="left">
 
 So here you have it - the MSBuild-version of the
 Y2k-problem but rather Y2007-problem to be exact.
 
-
 <div align="left">
-
 
 <div align="left">
 
 The solutions are plentiful and very innovative, for example:
 
+- <div align="left">
 
--   <div align="left">
    [http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1066500&<span
     id="SPELLING_ERROR_2" class="blsp-spelling-error"
     onclick="BLOG_clickHandler(this)">SiteID=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1066500&SiteID=1)
    </div>
 
--   <div align="left">
+- <div align="left">
+
    [http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=940650&<span
     id="SPELLING_ERROR_3" class="blsp-spelling-error"
     onclick="BLOG_clickHandler(this)">SiteID=1](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=940650&SiteID=1)

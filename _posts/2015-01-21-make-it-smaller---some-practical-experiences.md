@@ -16,6 +16,7 @@ How does that look? What have we done? Most of the work we have done has not dir
 <!-- excerpt-end -->
 
 # The parking lot
+
 The first focus area is to redo the parking lot outside the hospital. This quite a big area (80 x 15 m), sloping and with very bad condition of the paving stones on the ground. Big holes, broken paving stones and just plain ugly.
 
 ## First things first
@@ -29,6 +30,7 @@ The first thing we always do is to define the focus area:
 Now we begin to talk on how to reach that goal. I allow no improvements to be worked on without answering Why and Definition of Done. As it turns out sometimes the Why is not what you'd think. And other times people have widely different Definitions of Done.
 
 ## Make it smaller
+
 This time we realized that we needed help from a outside contractor. So the first order of business was to ask a couple for quotes. They come back with something that was a lot more than we expected. It was 100 money for the entire parking lot.
 
 So we tried to do something smaller. Instead of doing the entire parking lot in one go we suggested to approach the work in 4 smaller phases. We simply divided the parking lot up in 4 sections naming them Phase 1 - 4.
@@ -36,6 +38,7 @@ So we tried to do something smaller. Instead of doing the entire parking lot in 
 Now we asked again for a quote for the first phase.
 
 ## Advantages
+
 This gave us a number of advantages:
 
 We have better control of the **progress** of the project. Once the first phase (which might be just a couple of days) is done, we can decide to do Phase 4. Phase 4 is a very important section of the parking lot since it's outside the emergency entrance. We now have to opportunity to do that phase when it suits us (during a weekend) instead of being in the hands of the contractors schedule.
@@ -93,6 +96,7 @@ Now we can start to act to make this go faster, to change the process, to do thi
 How can we test that? Hint: what is the smallest thing we can do to verify this approach? Can we do only part (one goal for example) of one target?
 
 ## The faster work is the work you don't do
+
 Often when I reason like this people get very disappointed.
 
 <blockquote>4900 days?! We will never be done... There's no use.</blockquote>

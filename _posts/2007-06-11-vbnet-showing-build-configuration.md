@@ -20,23 +20,14 @@ id="BLOGGER_PHOTO_ID_5074728883230756674"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s1600-h/solutionprops2.JPG)
 
-
-
 Just found a solution to something that have confused and annoyed for a
 while.
-
-
-
 
 In VB.NET the current configuration (Debug/Release) is not shown. This
 is quite confusing if you are setting properties on a project, for
 instance. Which configuration are you setting the property for?
 
-
-
-
 Here is the solution; it turns out that VB.NET is hiding the
 configuration for you by default. So to show them again go:
 Tools-\>Options-\>Projects and Solutions-\>Show advanced build
 configurations
-

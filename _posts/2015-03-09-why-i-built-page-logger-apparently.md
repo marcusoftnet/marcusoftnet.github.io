@@ -47,42 +47,42 @@ var wrap = require("co-monk");
 var pageViews wrap(db.get("page_views"));
 
 module.exports.storePageView = function *(){
-	var postedPageview = yield parse(this);
+ var postedPageview = yield parse(this);
 
-	// Validating parameters needed (url and title)
-	var toStore = {
-		appname : applicationName,
-		url : postedPageview.url,
-		title : postedPageview.title,
-		viewedAt : new Date,
-		hits : 1
-	};
+ // Validating parameters needed (url and title)
+ var toStore = {
+  appname : applicationName,
+  url : postedPageview.url,
+  title : postedPageview.title,
+  viewedAt : new Date,
+  hits : 1
+ };
 
-	// Store in Mongo
-	// Aggregating pageviews per day
-	var existingPost = yield pageViews.findOne(
-		{ $and: [
-			{ url : toStore.url},
-			{ viewedAt : {
-				$gt : helpers.startOfDay(toStore.viewedAt),
-				$lt : helpers.endOfDay(toStore.viewedAt)
-			}}
-		]}
-	);
+ // Store in Mongo
+ // Aggregating pageviews per day
+ var existingPost = yield pageViews.findOne(
+  { $and: [
+   { url : toStore.url},
+   { viewedAt : {
+    $gt : helpers.startOfDay(toStore.viewedAt),
+    $lt : helpers.endOfDay(toStore.viewedAt)
+   }}
+  ]}
+ );
 
-	// insert or update in database
-	if(helpers.exists(existingPost)){
-		yield pageViews.update(
-			{ _id : existingPost._id},
-			{ $inc: { hits : 1}},
-    		{ upsert : true, safe : false}
-    	);
-	}
-	else {
-		yield pageViews.insert(toStore);
-	}
+ // insert or update in database
+ if(helpers.exists(existingPost)){
+  yield pageViews.update(
+   { _id : existingPost._id},
+   { $inc: { hits : 1}},
+      { upsert : true, safe : false}
+     );
+ }
+ else {
+  yield pageViews.insert(toStore);
+ }
 
-	this.status = 201; //Created - we don't supply a way to get the resource back out
+ this.status = 201; //Created - we don't supply a way to get the resource back out
 };
 ```
 
@@ -120,6 +120,7 @@ As you can see, on line 7, in it's simplest form CORS is just one line, telling 
 It simply checking the presence of a header called "Origin" that reflects all where the HTTP-request came from, and setting a "Access-Control-Allow-Origin" CORS header that is returned to the client. This is like the handshake of CORS.
 
 ## The client
+
 Now, in my client, I had to set the Origin-header... I thought. But it turns out that header is set automatically by modern browsers as you do Cross-domain requests.
 
 This means that the client really can be just this simple [JQuery](http://jquery.com/):
@@ -133,11 +134,11 @@ function logPageView() {
     };
 
     $.post(
-    	"https://page-logger.herokuapp.com/api/pageview",
-    	pageViewData,
-    	function() {
-        	console.log(pageViewData.title + " logged - no errors");
-    	}
+     "https://page-logger.herokuapp.com/api/pageview",
+     pageViewData,
+     function() {
+         console.log(pageViewData.title + " logged - no errors");
+     }
     );
 };
 ```
@@ -145,6 +146,7 @@ function logPageView() {
 Here I'm constructing all my required parameters from a the current document meaning that this function is easy to kick-off at the end of the page, once it's loaded. I could even put it into a .js-file that on the page-logger-site and just reference that from my blog. If I wanted to.
 
 ## Access limitations
+
 I needed one more part to limit the access to my application and that was to only allow the applications / sites that I had given access. I did this as simple as possible by just storing the name of the sites I allow as [configuration parameters](http://www.marcusoft.net/2015/02/config-handling-in-node-and-heroku---with-secrets.html).
 
 When a page-view is process I make a very simple validation against the sites I've listed in my configuration object (<code>config.clients</code>), that is just an array of parsed configuration string.
@@ -152,44 +154,45 @@ When a page-view is process I make a very simple validation against the sites I'
 ```javascript
 module.exports.storePageView = function *(){
 
-	// other code shown before
+ // other code shown before
 
-	if(!exists(this.get("origin"))){
-		return setError(this, "Application needs to be supplied in the Origin-header");
-	}
-	var applicationName = getAppName(this.get("origin"));
+ if(!exists(this.get("origin"))){
+  return setError(this, "Application needs to be supplied in the Origin-header");
+ }
+ var applicationName = getAppName(this.get("origin"));
 
-	if(!arrayElementExists(config.clients, applicationName)){
-		console.log('Denied: ' + applicationName);
-		return setError(this, "Application not approved");
-	}
+ if(!arrayElementExists(config.clients, applicationName)){
+  console.log('Denied: ' + applicationName);
+  return setError(this, "Application not approved");
+ }
 
-	// other code shown before
+ // other code shown before
 };
 
 function exists (value) {
-	if(value === undefined)
-		return false;
-	if(value === null)
-		return false;
-	return true;
+ if(value === undefined)
+  return false;
+ if(value === null)
+  return false;
+ return true;
 };
 
 function getAppName (originHeader){
-	var origin = originHeader || "";
-	var protocolDelimiter = "://";
-	var index = origin.indexOf("://");
-	return index > -1 ? origin.slice(index + protocolDelimiter.length) : origin;
+ var origin = originHeader || "";
+ var protocolDelimiter = "://";
+ var index = origin.indexOf("://");
+ return index > -1 ? origin.slice(index + protocolDelimiter.length) : origin;
 }
 
 function arrayElementExists (arr, element) {
-	return arr.indexOf(element)>-1;
+ return arr.indexOf(element)>-1;
 }
 ```
 
 And that takes care of this, in a very simple, straight-forward way. It most certainly can be more secure, but it works for me.
 
 # What I gained by building page-logger
+
 Ok, so I built a simple tool, that already exists, coding something that could be more secure, spending time creating it... I heard you all in one voice:
 
 <blockquote>WHY?! Dear Lord. Why?</blockquote>
@@ -215,6 +218,7 @@ Yeah, it's ridiculously little money, but the improvement keeps climbing. But se
 I found that fascinating.
 
 # Summary
+
 All in all this was a fun little side project that thought me a lot. Just like I like them. I hope you found this useful and can build something better with the things you learned here.
 
 Please tell me if you do.

@@ -30,7 +30,6 @@ beautiful and complicated words. So Eliza sings the following song:
 
 <div class="separator" style="clear: both; text-align: center;">
 
-
 The lyrics is brutal and to the point:
 
 > Words! Words! Words! I’m so sick of words!
@@ -45,11 +44,8 @@ The lyrics is brutal and to the point:
 
 ### Don't you usually write about IT?
 
-
-
 Well let's get this back on track... What does this have to do with us?
 What did this song tell me?
-
 
 That often reporting and reports isn't enough. Even diagrams might fall
 short. If "we're on fire" about something that we have done - then show
@@ -71,4 +67,3 @@ If you want to build trust with others around you - then show them your
 progress (good and bad) in a way that they understand.
 
 If you're on fire - show me!
-

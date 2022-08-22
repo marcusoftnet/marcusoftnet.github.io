@@ -23,14 +23,14 @@ MSI-files](http://www.marcusoft.net/2008/08/run-as-for-msi-files.html)).
 But for some reason the Explorer.exe cannot be started this way. This is
 how to make it work:
 
--   Create a .bat-file on your desktop (or where you want it)
+- Create a .bat-file on your desktop (or where you want it)
 
--   Enter the following line into it:
+- Enter the following line into it:
        runas /user:[your domain]\[your account] "C:\Program Files\Internet Explorer\iexplore.exe"
 
--   Save the bat-file
+- Save the bat-file
 
--   Double-click the bat-file and provide the password for your account
+- Double-click the bat-file and provide the password for your account
     when asked
 
--   This will start Internet Explorer. Enter C:\\ as the URL
+- This will start Internet Explorer. Enter C:\\ as the URL
