@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Things I say often: I run on feedback
+title: Things I say often I run on feedback
 author: Marcus Hammarberg
-date: 2015-01-22 12:30:01
+date: 2015-01-22T12:30:01.000Z
 tags:
-
   - Agile
- - Lean
- - Marcus private
- - Things I say often
+  - Lean
+  - Marcus private
+  - Things I say often
 ---
 
 This [thing I say often](http://www.marcusoft.net/tags/#Things I say often) "thing" is quite new and a bit personal. It's very important for me personally and I hope that you like it.

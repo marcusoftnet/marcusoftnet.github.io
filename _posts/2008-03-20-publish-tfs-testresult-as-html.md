@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Publish TFS testresult as HTML
-date: 2008-03-20T13:33:00.005+01:00
+date: 2008-03-20T12:33:00.005Z
 author: Marcus Hammarberg
 tags:
   - Tools - TFS - MSBuild
-modified_time: 2010-12-14T16:22:38.281+01:00
+modified_time: 2010-12-14T15:22:38.281Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3773215006802964327
-blogger_orig_url: http://www.marcusoft.net/2008/03/publish-tfs-testresult-as-html.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/03/publish-tfs-testresult-as-html.html
+---
+
 OK - this is one of thoose "now where has that file moved"-posting.
 
 When you run tests in a TFS build with MSTest a .trx-file is created.

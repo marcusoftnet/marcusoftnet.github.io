@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2313698324357646882
 blogger_orig_url: http://www.marcusoft.net/2008/08/run-explorer-as-another-account.html
 ---
 
+
 Here is a thing that is really annoying, and the solution.
 
 When you're not allowed administrative rights on your computer with your

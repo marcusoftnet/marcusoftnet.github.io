@@ -2,13 +2,11 @@
 layout: post
 title: Comments on common board practices - Todo/Doing/Done is not your process
 author: Marcus Hammarberg
-date: 2017-02-23 08:48:13
+date: 2017-02-23T08:48:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my orignal blog-idea to write things down to clear it up for me and not forget about it.

@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Show current file in solution
-date: 2008-03-05T12:52:00.005+01:00
+date: 2008-03-05T11:52:00.005Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
-modified_time: 2010-12-14T16:20:33.358+01:00
-thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/R86MK2Qz5OI/AAAAAAAAARE/fVwd4StsW_U/s72-c/trackitem.JPG
+modified_time: 2010-12-14T15:20:33.358Z
+thumbnail: >-
+  http://3.bp.blogspot.com/\_kkDJOSPNTLs/R86MK2Qz5OI/AAAAAAAAARE/fVwd4StsW_U/s72-c/trackitem.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3325496387399004688
-blogger_orig_url: http://www.marcusoft.net/2008/03/show-current-file-in-solution.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/03/show-current-file-in-solution.html
+---
+
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/R86MK2Qz5OI/AAAAAAAAARE/fVwd4StsW_U/s400/trackitem.JPG"
 id="BLOGGER_PHOTO_ID_5174227139887883490"

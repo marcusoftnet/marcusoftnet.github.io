@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/12/about-this-blog.html
 ---
 
 
+
 Lately I have been asked the question why I have this blog, several
 times actually. I honestly thought that I wrote that in [the first
 posting I did](http://www.marcusoft.net/2006/10/marcus-on-net.html), but

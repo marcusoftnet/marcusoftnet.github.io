@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/accountability.html
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 How's that for a little topic to clear out in a blog post? I promise

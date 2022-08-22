@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1976618779600468673
 blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet.html
 ---
 
+
 Oh my
 god - the worlds most well known and loved refactoring
 tool [Resharper](http://www.jetbrains.com/resharper/),

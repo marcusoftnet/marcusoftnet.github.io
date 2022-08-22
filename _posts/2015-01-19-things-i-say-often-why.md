@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Things I say often: Why?
+title: Things I say often Why?
 author: Marcus Hammarberg
-date: 2015-01-19 11:08:19
+date: 2015-01-19T11:08:19.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Things I say often
+  - Things I say often
 ---
 
 Really ... this is probably the word I use most often. And I'm proud of it!

@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-
 ---
 
 
+
 ### Disclaimers and introduction
 
 I am now the
@@ -54,8 +55,8 @@ Given the following Kanban boards
 
 ---
 
-table step argument ---
-yada yada yada...
+table step argument
+---yada yada yada...
  No matching step definition found for the step. Use the following code to create one:
     [Binding]
 public class StepDefinitions

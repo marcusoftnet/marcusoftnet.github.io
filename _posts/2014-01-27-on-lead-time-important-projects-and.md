@@ -4,7 +4,7 @@ title: On lead time and important projects
 date: 2014-01-27T04:41:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming - Lean
+  - MobProgramming  - Lean
   - Agile
   - Indonesia
 modified_time: 2014-01-28T04:43:08.449Z
@@ -13,6 +13,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6329581777686380371
 blogger_orig_url: http://www.marcusoft.net/2014/01/on-lead-time-important-projects-and.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

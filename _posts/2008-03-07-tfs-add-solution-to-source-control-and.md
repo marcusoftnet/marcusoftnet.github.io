@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7752698837169987400
 blogger_orig_url: http://www.marcusoft.net/2008/03/tfs-add-solution-to-source-control-and.html
 ---
 
+
 OK - this is a question that keeps coming back to me. Again and
 again.
 

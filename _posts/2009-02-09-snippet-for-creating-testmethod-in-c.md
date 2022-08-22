@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/snippet-for-creating-testmeth
 ---
 
 
+
 Here is a short snippet that saves me a lot of time. It simply creates a
 test method with the correct attributes and stuff. Simply but useful –
 and now you don’t have to write it.

@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/12/applying-switch-framework-to-
 ---
 
 
+
 I’m rereading a great book –
 <a href="http://www.heathbrothers.com/switch/" target="_blank">Switch by
 the Heath Brothers</a> and it inspires me. The last time I read this

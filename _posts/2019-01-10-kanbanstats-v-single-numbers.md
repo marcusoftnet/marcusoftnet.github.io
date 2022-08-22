@@ -1,15 +1,13 @@
 ---
 layout: post
-title: KanbanStats V: Single numbers
+title: KanbanStats V Single numbers
 author: Marcus Hammarberg
-date: 2019-01-10 07:48:33
+date: 2019-01-10T07:48:33.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 **UPDATE**
@@ -95,7 +93,7 @@ Repeat for M and L and we are done.
 
 The type of work is very much the same:
 
-*  Get the types of work with `=UNIQUE($B$2:$B)`
+* Get the types of work with `=UNIQUE($B$2:$B)`
 * Calculate the average for each type with `=AverageIf($B$2:B, I9, $E$2:$E)` where `I9` contains a type of work
 
 ### Visualize it with gauges
@@ -178,7 +176,7 @@ Hmmm... why is that? Can it teach us something? Maybe? Or maybe not...
 
 I'm leaning to not because this is just a single value and is very hard to put in relation to other data points. Just you wait...
 
-## Per week!
+## Per week
 
 Much more interesting, in my opinion, is to see how this value develops and change over time.
 
@@ -200,7 +198,6 @@ Ha! That's better:
 ## Summary
 
 Aggregation to a single number is pretty interesting (`HA! We closed 248 issues the last 6 months!`), but I hope that I convinced you that having historical data and see how the trends for each line is developing makes it even more interesting.
-
 
 ### The links
 

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1223226366906556291
 blogger_orig_url: http://www.marcusoft.net/2008/01/aspnet-mvc-start.html
 ---
 
+
 I am really hooked on a new thing from Microsoft called ASP.NET
 MVC - which could be understood as "a project template for ASP.NET to
 easily build applications with the ModelViewControl (MVC)-pattern"

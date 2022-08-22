@@ -4,8 +4,7 @@ title: Who is this important for?
 author: Marcus Hammarberg
 date: 2016-10-20T20:57:44.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
 ---
 

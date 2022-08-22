@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6971485611318880487
 blogger_orig_url: http://www.marcusoft.net/2008/05/managing-dynamic-controls-in-aspnet.html
 ---
 
+
 The last couple of days (well actually for my parts it's more like
 months or years) we have been discussion the management of dynamic
 controls in ASP.NET pages. In my experience this is a very common

@@ -2,12 +2,10 @@
 layout: post
 title: What are you optimized for then?
 author: Marcus Hammarberg
-date: 2016-04-06 11:07:25
+date: 2016-04-06T11:07:25.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---
@@ -96,7 +94,7 @@ If you're strategy is resource efficiency, don't try to squeeze in agile or lean
 
 And don't hire me - I would be miserable.
 
-Although, if you are in that place and want to go towards flow efficiency - lean and agile are GREAT tools to help you find where you should start your improvement work. Lean and agile are problem homing missiles.
+Although, if you are in that place and want to go towards flow efficiency  - Lean and agile are GREAT tools to help you find where you should start your improvement work. Lean and agile are problem homing missiles.
 
 Please consider hiring me - I could help you on that journey. But only if you want to do the journey and change what we are doing today. Otherwise you have failed already.
 

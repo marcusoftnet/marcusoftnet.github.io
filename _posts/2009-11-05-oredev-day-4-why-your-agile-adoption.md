@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-why-your-agile-a
 ---
 
 
+
 This became so much and was so good that I publish it as a separate
 post.
 

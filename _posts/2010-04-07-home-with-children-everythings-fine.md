@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/04/home-with-children-everything
 ---
 
 
+
 We have now been home for a while and things are settling down over
 here. Actually it’s working pretty good so far.
 

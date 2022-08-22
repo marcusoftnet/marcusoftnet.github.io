@@ -2,11 +2,10 @@
 layout: post
 title: Indicators; leading, trailing - short or long
 author: Marcus Hammarberg
-date: 2015-09-02 15:31:46
+date: 2015-09-02T15:31:46.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

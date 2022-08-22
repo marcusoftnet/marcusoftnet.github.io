@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5573551079010100753
 blogger_orig_url: http://www.marcusoft.net/2012/03/should-i-add-bugs-scenarios-in-my.html
 ---
 
+
 Right now I’m very impressed with the way that two my colleagues
 (<a href="http://www.hugohaggmark.com/" target="_blank">Hugo Häggmark</a>
 and <a href="http://www.tobias-karlsson.se/" target="_blank">Tobias

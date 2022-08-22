@@ -4,9 +4,7 @@ title: Waste and why I rather talk about something else
 author: Marcus Hammarberg
 date: 2015-05-10T14:33:45.000Z
 tags:
-  - |-
-    Lean
-    - Agile - Life of a consultant
+  - LeanLean - Agile - Life of a consultant
 ---
 
 The other day I commented on a tweet from [Paul Klipp](http://paulklipp.com/). A man I highly respect around all things Lean and Agile. Here's the tweet and my response:

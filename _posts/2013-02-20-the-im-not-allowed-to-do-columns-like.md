@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/02/the-im-not-allowed-to-do-colu
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 Today I talked with someone that was about to create her first ever

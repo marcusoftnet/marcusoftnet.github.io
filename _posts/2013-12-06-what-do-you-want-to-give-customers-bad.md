@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/12/what-do-you-want-to-give-cust
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 We've just got our visas for entering Indonesia! Lovely!

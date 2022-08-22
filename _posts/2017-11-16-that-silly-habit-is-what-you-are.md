@@ -2,11 +2,10 @@
 layout: post
 title: Don't skip hack days - that silly habit is what you are
 author: Marcus Hammarberg
-date: 2017-11-16 15:47:27
+date: 2017-11-16T15:47:27.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

@@ -2,12 +2,10 @@
 layout: post
 title: Futurespective - put the past in front of you
 author: Marcus Hammarberg
-date: 2018-03-09 15:09:16
+date: 2018-03-09T15:09:16.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

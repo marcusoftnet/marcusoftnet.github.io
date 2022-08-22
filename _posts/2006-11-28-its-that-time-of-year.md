@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-764653589294120333
 blogger_orig_url: http://www.marcusoft.net/2006/11/its-that-time-of-year.html
 ---
 
+
 Well
 Christmas is closing in and then all sorts of greetings are sent back
 and forth on the Internet.

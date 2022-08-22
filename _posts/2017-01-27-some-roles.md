@@ -2,11 +2,10 @@
 layout: post
 title: Some roles I take on - and what they are
 author: Marcus Hammarberg
-date: 2017-01-27 20:10:00
+date: 2017-01-27T20:10:00.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

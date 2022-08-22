@@ -2,15 +2,13 @@
 layout: post
 title: Electronic process management tools - proceed with care
 author: Marcus Hammarberg
-date: 2016-03-04
+date: 2016-03-04T00:00:00.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Tools
- - Scrum
-
+  - Tools
+  - Scrum
   - Kanban
 ---
 

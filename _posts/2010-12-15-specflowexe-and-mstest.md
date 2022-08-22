@@ -12,7 +12,9 @@ Tools
 modified_time: 2012-10-21T20:59:17.033+02:00
 thumbnail: http://4.bp.blogspot.com/\_TI0jeIedRFk/TQjJvwiN9SI/AAAAAAAAAqI/jLAWtMkRrW0/s72-c/examplereport.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-94606423148695401
-blogger_orig_url: http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html ---
+blogger_orig_url: http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

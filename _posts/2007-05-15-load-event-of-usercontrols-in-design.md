@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3713039309925097026
 blogger_orig_url: http://www.marcusoft.net/2007/05/load-event-of-usercontrols-in-design.html
 ---
 
+
 Ran into another problem just now...
 
 If you have code in the Load-event of a Windows <span

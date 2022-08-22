@@ -2,11 +2,10 @@
 layout: post
 title: Reflections after Agile Greece
 author: Marcus Hammarberg
-date: 2018-09-22 14:01:20
+date: 2018-09-22T14:01:20.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

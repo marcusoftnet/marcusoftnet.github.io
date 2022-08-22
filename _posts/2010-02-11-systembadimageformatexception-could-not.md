@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/systembadimageformatexception
 ---
 
 
+
 I ran into this problem when I tried to re-open a <a
 href="http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html"
 target="_blank">solution I did a while back</a> when labbing with Fluent

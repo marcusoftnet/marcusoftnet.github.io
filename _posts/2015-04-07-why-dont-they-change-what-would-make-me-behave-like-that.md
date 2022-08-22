@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Why don't they change: What would make me behave like that?
+title: Why don't they change What would make me behave like that?
 author: Marcus Hammarberg
-date: 2015-04-07 09:24:21
+date: 2015-04-07T09:24:21.000Z
 tags:
-
   - Agile
- - Lean
- - Leadership
+  - Lean
+  - Leadership
   - Life of a consultant
-
   - Indonesia
 ---
 

@@ -4,8 +4,7 @@ title: It is all perspective - why havent I seen that before?
 author: Marcus Hammarberg
 date: 2016-09-05T12:00:00.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
 ---
 

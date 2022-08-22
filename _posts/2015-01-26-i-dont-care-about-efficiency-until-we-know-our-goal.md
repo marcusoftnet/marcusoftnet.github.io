@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Things I say often: I don't care about efficiency
+title: Things I say often I dont care about efficiency
 author: Marcus Hammarberg
-date: 2015-01-26 11:00:49
+date: 2015-01-26T11:00:49.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Things I say often
+  - Things I say often
 ---
 
 I've talked more about [effectiveness vs efficiency](http://www.marcusoft.net/2014/10/effective-revisted.html) than you all care about. The reason for this fascination might be that the word is mixed up in Swedish I guess; there's only one word for these both concepts. Boooh... Swedish.

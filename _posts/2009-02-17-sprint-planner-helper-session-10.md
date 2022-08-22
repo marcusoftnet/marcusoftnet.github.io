@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
+
 You could call the last session my first “sprint demo”. What happened
 was that I for the first time could see where this was going. And I (as
 Product Owner) was not happy… I couldn’t even yell at the team (also me)

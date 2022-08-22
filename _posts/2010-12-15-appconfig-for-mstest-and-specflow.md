@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-spec
 ---
 
 
+
 Every time I need to configure MsTest to work with
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> I forget
 the syntax of it... Especially the first part...

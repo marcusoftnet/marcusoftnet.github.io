@@ -2,13 +2,11 @@
 layout: post
 title: Comments on common board practices - blocked should not be a column
 author: Marcus Hammarberg
-date: 2017-02-22 08:48:13
+date: 2017-02-22T08:48:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 It's very interesting to see how a practice goes from a nice idea to best practice and over to tradition. In my community, the software industry, things move very fast so I've seen many examples of this; simple things like formatting of code, background colors of editor all the way to architectural patterns - all of these become default usages and tradition, and sometime "the way it's done". Sometimes people calls it [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) which refers to that I often do things without really reflecting over why.

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/powercommands-for-visual-stud
 ---
 
 
+
 I’m back with Visual Studio 2008 after a few months only doing Visual
 Studio 2010 stuff. And… you miss some stuff. Things get old so fast.
 Sad.

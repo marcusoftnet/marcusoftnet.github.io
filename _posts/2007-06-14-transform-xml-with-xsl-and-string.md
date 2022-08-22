@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5447969887586774494
 blogger_orig_url: http://www.marcusoft.net/2007/06/transform-xml-with-xsl-and-string.html
 ---
 
+
 This took us a while to find and put together. I don't want to have
 to go through it again.
 

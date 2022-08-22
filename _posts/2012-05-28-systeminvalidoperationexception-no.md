@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/05/systeminvalidoperationexcepti
 ---
 
 
+
 We’ve run into a little issue with
 <a href="http://fluent.stirno.com/blog/"
 target="_blank">FluentAutomation</a> and using MsTest at my current

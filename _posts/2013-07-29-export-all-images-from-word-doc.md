@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/07/export-all-images-from-word-d
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 During the summer I was handed a delicate task for

@@ -2,13 +2,12 @@
 layout: post
 title: Reflections on TankWars or when 2 minutes was slow
 author: Marcus Hammarberg
-date: 2016-11-03 21:44:16
+date: 2016-11-03T21:44:16.000Z
 tags:
-
   - Agile
- - Lean
- - Javascript
- - Tools
+  - Lean
+  - Javascript
+  - Tools
 ---
 
 My current team have a practice to do something "learning, inspiring and future-leaning" on every other Friday. We called it LAME (Learning Afternoon Mob Experience) since we started to run it on Friday afternoons first, but have recently changed into running it for a full day every other week.

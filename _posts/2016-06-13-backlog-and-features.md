@@ -4,8 +4,7 @@ title: Backlog and features
 author: Marcus Hammarberg
 date: 2016-06-13T12:59:58.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
   - Kanban
 ---

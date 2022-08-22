@@ -2,12 +2,10 @@
 layout: post
 title: Progress indicators, estimates and plans
 author: Marcus Hammarberg
-date: 2015-08-11 11:16:37
+date: 2015-08-11T11:16:37.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

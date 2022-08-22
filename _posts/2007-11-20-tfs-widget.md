@@ -1,15 +1,16 @@
 ---
 layout: post
 title: TFS Widget
-date: 2007-11-20T08:39:00.000+01:00
+date: 2007-11-20T07:39:00.000Z
 author: Marcus Hammarberg
 tags:
-
   - TFS
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.504+01:00
+modified_time: 2010-12-14T15:19:05.504Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6309539789624696264
-blogger_orig_url: http://www.marcusoft.net/2007/11/tfs-widget.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/11/tfs-widget.html
+---
+
 Found this great resource today -
 [www.teamsystemwidgets.com](http://www.teamsystemwidgets.com/). It's a
 site with a lot of great stuff that can be used to improve TFS

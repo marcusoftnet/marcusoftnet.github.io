@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-485016979108118326
 blogger_orig_url: http://www.marcusoft.net/2007/03/weekend-to-end.html
 ---
 
+
 After a really busy weekend i have just started a
 "get-back-into-shape-week"... That happens quite a lot to me - the
 weekends are more hectic than the weeks. So you need to shape up in the

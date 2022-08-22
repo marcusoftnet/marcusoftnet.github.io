@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2956868458258965011
 blogger_orig_url: http://www.marcusoft.net/2007/08/candy-exposure.html
 ---
 
+
 I found a, what i thought was, hilarious sign in one of the
 major stores in Stockholm.
 

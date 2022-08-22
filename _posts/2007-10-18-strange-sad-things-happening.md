@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Strange, sad things happening
-date: 2007-10-18T08:43:00.000+02:00
+date: 2007-10-18T06:43:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2007-10-18T08:49:44.187+02:00
+modified_time: 2007-10-18T06:49:44.187Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-155205495115965200
-blogger_orig_url: http://www.marcusoft.net/2007/10/strange-sad-things-happening.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/10/strange-sad-things-happening.html
+---
+
 The last few weeks there have been a lot of really strange and sad
 things happening in my network of friends and relatives. There have been
 deaths, suicidals, people nearly dying,

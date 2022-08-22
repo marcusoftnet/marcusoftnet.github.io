@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7043658924771417199
 blogger_orig_url: http://www.marcusoft.net/2007/03/small-big-town.html
 ---
 
+
 [<img
 src="http://1.bp.blogspot.com/_kkDJOSPNTLs/Rf40YXWbeSI/AAAAAAAAAGo/RuFPUoDLpec/s320/PICT1400.JPG"
 id="BLOGGER_PHOTO_ID_5043526225891129634"

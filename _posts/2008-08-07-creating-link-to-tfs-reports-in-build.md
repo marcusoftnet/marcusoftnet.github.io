@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8109744470981793374
 blogger_orig_url: http://www.marcusoft.net/2008/08/creating-link-to-tfs-reports-in-build.html
 ---
 
+
 For a few days (on and off, not continously) I've been searching the
 net for some way to present code coverage data in a nice way. That is -
 when our build script is running tests under code coverage we don't

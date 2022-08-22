@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Visit of Ivar Jacobson
-date: 2009-09-21T14:47:00.001+02:00
+date: 2009-09-21T12:47:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2009-09-21T14:47:46.591+02:00
+modified_time: 2009-09-21T12:47:46.591Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5248636408514101470
-blogger_orig_url: http://www.marcusoft.net/2009/09/visit-of-ivar-jacobson.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/09/visit-of-ivar-jacobson.html
+---
+
 
 Last Thursday the day had finally arrived. From a not very well planned
 <a href="http://www.marcusoft.net/2009/04/debating-hero.html"

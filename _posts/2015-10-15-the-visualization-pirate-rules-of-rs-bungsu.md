@@ -2,13 +2,11 @@
 layout: post
 title: The metric / visualization pirate 'rules'
 author: Marcus Hammarberg
-date: 2015-10-15 08:19:07
+date: 2015-10-15T08:19:07.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

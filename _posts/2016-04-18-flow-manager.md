@@ -2,12 +2,10 @@
 layout: post
 title: Flow manager - is that me?
 author: Marcus Hammarberg
-date: 2016-04-18
+date: 2016-04-18T00:00:00.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

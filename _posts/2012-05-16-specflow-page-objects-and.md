@@ -1,18 +1,20 @@
 ---
 layout: post
 title: SpecFlow, page objects and FluentAutomation
-date: 2012-05-16T14:44:00.001+02:00
+date: 2012-05-16T12:44:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-
   - Agile
   - SpecFlow
-modified_time: 2013-01-30T15:40:57.546+01:00
-thumbnail: http://lh6.ggpht.com/-pWpMISDNgTI/T7OhNxh3t9I/AAAAAAAABPg/9HvHRV6w8IM/s72-c/wlEmoticon-confusedsmile%25255B2%25255D.png?imgmax=800
+modified_time: 2013-01-30T14:40:57.546Z
+thumbnail: >-
+  http://lh6.ggpht.com/-pWpMISDNgTI/T7OhNxh3t9I/AAAAAAAABPg/9HvHRV6w8IM/s72-c/wlEmoticon-confusedsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1609908988336242581
-blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

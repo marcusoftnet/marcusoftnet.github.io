@@ -2,11 +2,10 @@
 layout: post
 title: Best advice for me this year
 author: Marcus Hammarberg
-date: 2015-01-12 19:14:16
+date: 2015-01-12T19:14:16.000Z
 tags:
-
   - Agile
- - Marcus private
+  - Marcus private
   - Life of a consultant
 ---
 

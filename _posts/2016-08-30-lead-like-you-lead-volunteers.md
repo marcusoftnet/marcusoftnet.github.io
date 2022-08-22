@@ -4,8 +4,7 @@ title: Lead like you lead volunteers
 author: Marcus Hammarberg
 date: 2016-08-30T20:15:40.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
   - Leadership
 ---

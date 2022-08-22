@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Aspects - I love it!
-date: 2008-11-19T11:23:00.001+01:00
+date: 2008-11-19T10:23:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
-modified_time: 2010-12-14T16:23:11.103+01:00
+modified_time: 2010-12-14T15:23:11.103Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3644009418423301654
-blogger_orig_url: http://www.marcusoft.net/2008/11/aspects-i-love-it.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/11/aspects-i-love-it.html
+---
+
 
 Today I really harvested the full effect of our inclusion of
 <a href="http://en.wikipedia.org/wiki/Aspect-oriented_programming"

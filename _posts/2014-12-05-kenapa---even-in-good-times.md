@@ -5,8 +5,7 @@ author: Marcus Hammarberg
 date: 2014-12-05T07:10:51.000Z
 tags:
   - Life of a consultant
-  - Agile
-  - Lean
+  - Agile - Lean
   - Indonesia
 ---
 At my current client we are gathering the most important data (number of customers) for the company well-being and showing it to all the staff, every morning. This is great and have proven very useful to get the attention and interest for everyone.

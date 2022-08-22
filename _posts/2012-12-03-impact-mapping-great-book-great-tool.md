@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/impact-mapping-great-book-gre
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 <div class="separator" style="clear: both; text-align: center;">

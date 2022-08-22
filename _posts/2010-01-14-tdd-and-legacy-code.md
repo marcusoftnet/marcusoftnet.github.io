@@ -1,16 +1,18 @@
 ---
 layout: post
 title: TDD and legacy code
-date: 2010-01-14T08:53:00.001+01:00
+date: 2010-01-14T07:53:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - Agile
   - TDD
-modified_time: 2010-01-14T08:53:17.653+01:00
+modified_time: 2010-01-14T07:53:17.653Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-372874052836303505
-blogger_orig_url: http://www.marcusoft.net/2010/01/tdd-and-legacy-code.html ---
+blogger_orig_url: http://www.marcusoft.net/2010/01/tdd-and-legacy-code.html
+---
+
 
 I have been doing some presentations on
 <a href="http://en.wikipedia.org/wiki/Test-driven_development"

@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
+
 This hour almost entirely was reading. I didn’t not feel comfortable yet
 with terms Repository and Service, or how they relate to each other.
 

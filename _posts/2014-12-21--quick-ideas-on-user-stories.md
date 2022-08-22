@@ -2,11 +2,10 @@
 layout: post
 title: 50 Quick Ideas on User stories
 author: Marcus Hammarberg
-date: 2014-12-21 22:55:32
+date: 2014-12-21T22:55:32.000Z
 tags:
-
   - Agile
- - Tools
+  - Tools
 ---
 
 <img src="http://www.50quickideas.com/img/us/title.png" style="float:right" width="50%">

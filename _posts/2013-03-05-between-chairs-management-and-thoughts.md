@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 At my current client we have split our teams into five smaller (8

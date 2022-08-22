@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4851332309945351177
 blogger_orig_url: http://www.marcusoft.net/2007/05/bad-requestunderlying-connection-was.html
 ---
 
+
 In our project we have had great problems when debugging web
 services in Visual Studio. For about half of the the request on of two
 exceptions has been thrown:

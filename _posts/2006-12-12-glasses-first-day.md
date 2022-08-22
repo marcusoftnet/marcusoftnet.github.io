@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6387211266893005091
 blogger_orig_url: http://www.marcusoft.net/2006/12/glasses-first-day.html
 ---
 
+
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RX5Pu-X20jI/AAAAAAAAAAk/rbL9yl62GjE/s320/PICT1247.JPG"
 id="BLOGGER_PHOTO_ID_5007527504118207026"

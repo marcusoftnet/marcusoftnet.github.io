@@ -14,6 +14,7 @@ blogger_orig_url: >-
 ---
 
 
+
 This is the second part (<a
 href="http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
 target="_blank">read the first part</a>) of my trying to get inspiration

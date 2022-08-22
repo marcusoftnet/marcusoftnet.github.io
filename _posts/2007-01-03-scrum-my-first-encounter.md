@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8121637810301291815
 blogger_orig_url: http://www.marcusoft.net/2007/01/scrum-my-first-encounter.html
 ---
 
+
 I am
 just reading a [great
 article](http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf)

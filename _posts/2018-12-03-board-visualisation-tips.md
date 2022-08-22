@@ -2,13 +2,11 @@
 layout: post
 title: Board visualisation tips
 author: Marcus Hammarberg
-date: 2018-12-03 21:09:17
+date: 2018-12-03T21:09:17.000Z
 tags:
-
   - Agile
- - Lean
- - Scrum
-
+  - Lean
+  - Scrum
   - Kanban
 ---
 

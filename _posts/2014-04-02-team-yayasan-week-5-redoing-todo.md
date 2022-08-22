@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/team-yayasan-week-5-redoing-t
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 This week started a bit late due to a public holiday, the Hindu new

@@ -9,7 +9,9 @@ NHibernate
   - Agile
 modified_time: 2009-08-31T14:56:38.686+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-49902724261637921
-blogger_orig_url: http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html
+---
+
 
 The more I work with it the more stupid I feel around what I have been
 doing before; why have I written so much SQL? It feel just …

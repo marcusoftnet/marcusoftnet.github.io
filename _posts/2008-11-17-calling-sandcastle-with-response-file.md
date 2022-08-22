@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3106344506540062585
 blogger_orig_url: http://www.marcusoft.net/2008/11/calling-sandcastle-with-response-file.html
 ---
 
+
 I've been generating documentation from our XML-comments with
 <a href="http://www.codeplex.com/Sandcastle"
 target="_blank">Sandcastle</a> for quite some time now. It has worked

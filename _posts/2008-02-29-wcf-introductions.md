@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6393534253230416362
 blogger_orig_url: http://www.marcusoft.net/2008/02/wcf-introductions.html
 ---
 
+
 We're
 planning on using WCF for the next project and i have been scavenging
 the Internet for good introductions to WCF and to message based calls.

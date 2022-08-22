@@ -17,6 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/waiting-is-bad-for-you-and-it
 ---
 
 
+
 I recently ran into a concrete example on waiting that showed me, again,
 why it’s bad. And how easy the alternative is.
 

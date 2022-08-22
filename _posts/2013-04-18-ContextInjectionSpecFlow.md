@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Context injection of driver object in SpecFlow
-date: 2013-04-18T08:00:00.000+02:00
+date: 2013-04-18T06:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - BDD
@@ -10,9 +10,11 @@ tags:
   - Specification by example
   - C#
   - SpecFlow
-modified_time: 2013-04-18T08:00:02.781+02:00
+modified_time: 2013-04-18T06:00:02.781Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865
-blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html ---
+blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

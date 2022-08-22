@@ -4,8 +4,7 @@ title: Kanban - cementing the flow?
 author: Marcus Hammarberg
 date: 2018-11-08T09:41:36.000Z
 tags:
-  - Kanban
-  - Lean
+  - Kanban - Lean
   - Agile
 ---
 

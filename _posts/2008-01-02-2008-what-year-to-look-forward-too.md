@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1990770724840060092
 blogger_orig_url: http://www.marcusoft.net/2008/01/2008-what-year-to-look-forward-too.html
 ---
 
+
 So - here we are at the beginning of a new year. Prepare your
 fingers of writing 08, 2008 and so on, i know that it will take me a
 month or so to get use to it.

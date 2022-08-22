@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-651375687003503
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamichow-to-use-it.html
 ---
 
+
 This is the second post about
 <a href="http://www.blogger.com/www.specflow.org"
 target="_blank">SpecFlow</a>.Assist.Dynamic – a little tool I wrote to

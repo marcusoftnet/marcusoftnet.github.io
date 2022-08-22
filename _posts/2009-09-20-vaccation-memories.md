@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Vaccation memories
-date: 2009-09-20T13:17:00.000+02:00
+date: 2009-09-20T11:17:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2009-09-21T14:37:06.877+02:00
-thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SrYSpfDgENI/AAAAAAAAAH0/GJZ-ZBr8lgo/s72-c/DSC_1012_thumb.jpg?imgmax=800
+modified_time: 2009-09-21T12:37:06.877Z
+thumbnail: >-
+  http://lh4.ggpht.com/\_TI0jeIedRFk/SrYSpfDgENI/AAAAAAAAAH0/GJZ-ZBr8lgo/s72-c/DSC_1012_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1171352571349259359
-blogger_orig_url: http://www.marcusoft.net/2009/09/vaccation-memories.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/09/vaccation-memories.html
+---
+
 
 Although there is a some time since the vaccation I realized that I
 haven't posted photos from it. Here are a short summary of what we did

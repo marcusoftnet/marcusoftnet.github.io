@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/12/working-directory-for-build-a
 ---
 
 
+
 We have been chasing a strange problem for a few days now. The scenario
 is as follows;
 

@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Is Scrum a –ism that doesn’t work for real?
-date: 2011-10-07T10:42:00.001+02:00
+date: 2011-10-07T08:42:00.001Z
 author: Marcus Hammarberg
 tags:
-
-  - Kanban
-   - Scrum
-
+  - Kanban - Scrum
   - Agile
-modified_time: 2011-11-03T19:48:44.402+01:00
+modified_time: 2011-11-03T18:48:44.402Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4605714862823598113
-blogger_orig_url: http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html
+---
+
 The other day I got my hands on the
 <a href="http://www.scrum.org/scrumguides" target="_blank">Scrum Guide
 2011</a>. It’s a updated version of how Ken Schwaber and Jeff Sutherland

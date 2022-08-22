@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2632326281389822086
 blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-best-practices.html
 ---
 
+
 Found this
 today
 <http://www.codeplex.com/TFSGuide/Release/ProjectReleases.aspx?ReleaseId=6280>

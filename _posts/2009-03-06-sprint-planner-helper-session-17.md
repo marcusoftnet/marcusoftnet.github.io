@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
+
 When you learning something new you’ll expect some progress and the
 occasional setback. If you are on your own, as I am in this project,
 that is even more likely to be the other way around.

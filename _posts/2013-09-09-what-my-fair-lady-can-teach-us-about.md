@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/what-my-fair-lady-can-teach-u
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I have a confession to make: I'm a sucker for musicals. Especially those

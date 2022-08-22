@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Marcus trying JQuery
-date: 2009-11-12T14:54:00.001+01:00
+date: 2009-11-12T13:54:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET - Web Design
   - Life of a consultant
   - ASP.NET MVC
-modified_time: 2010-12-14T16:22:38.178+01:00
+modified_time: 2010-12-14T15:22:38.178Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8035475995311768141
-blogger_orig_url: http://www.marcusoft.net/2009/11/marcus-trying-jquery.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/11/marcus-trying-jquery.html
+---
+
 
 I still cannot believe that JavaScript has become so big… This is a
 language that many of us laughed at just a couple years back – but now

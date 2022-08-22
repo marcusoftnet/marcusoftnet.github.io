@@ -2,12 +2,11 @@
 layout: post
 title: A walking retrospective that only turns up the good
 author: Marcus Hammarberg
-date: 2017-04-27 16:31:35
+date: 2017-04-27T16:31:35.000Z
 tags:
-
   - Agile
- - Lean
- - Tools
+  - Lean
+  - Tools
 ---
 
 Today with my team I tried something new for our retrospective. There were a few reasons for me trying something new.

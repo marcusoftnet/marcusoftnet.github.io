@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7243669668355727942
 blogger_orig_url: http://www.marcusoft.net/2010/03/changing-endpoint-from-command-line.html
 ---
 
+
 I have been singing <a
 href="http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
 target="_blank">SOAPUi’s praises</a> <a href="http://www.marcusoft.net/2010/03/soapui-and-msbuild.html"

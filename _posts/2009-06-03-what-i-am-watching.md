@@ -1,13 +1,15 @@
 ---
 layout: post
 title: What I am watching
-date: 2009-06-02T23:10:00.001+02:00
+date: 2009-06-02T21:10:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private - BrassBand - Fun
-modified_time: 2009-06-02T23:46:34.494+02:00
+modified_time: 2009-06-02T21:46:34.494Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2395401910198297949
-blogger_orig_url: http://www.marcusoft.net/2009/06/what-i-am-watching.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/06/what-i-am-watching.html
+---
+
 
 Ok – the updates on this blog has been way under par for a while. That’s
 because I am not working right now.

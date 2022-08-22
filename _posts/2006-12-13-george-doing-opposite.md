@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9033823247428985208
 blogger_orig_url: http://www.marcusoft.net/2006/12/george-doing-opposite.html
 ---
 
+
 I got
 the Seinfeld-box from my sister in (a late) birthday present. There are
 some great moments in there; this is when George starts doing the

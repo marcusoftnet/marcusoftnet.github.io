@@ -2,15 +2,13 @@
 layout: post
 title: Stuff I said coaching
 author: Marcus Hammarberg
-date: 2015-05-03 15:35:18
+date: 2015-05-03T15:35:18.000Z
 tags:
-
   - Agile
   - Life of a consultant
- - Lean
-
+  - Lean
   - Kanban
- - Things I say often
+  - Things I say often
 ---
 
 I had the great joy and exciting opportunity to do a agile coach gig the other week. In Kuala Lumpur for [Nintex](http://www.nintex.com/).
@@ -24,6 +22,7 @@ In this post I wanted to summarize some of the things that I said during the 3 d
 <!-- excerpt-end -->
 
 # Only teaching is not enough
+
 First of all I learned something new about the whole setup. I have done a lot of presentations on [kanban](http://www.marcusoft.net/tags/#Kanban) and quite often I get the feedback that the examples was not concrete enough, or "didn't fit our situation".
 
 This time I had a great opportunity to improve on that; the person that brought me to Nintex ([Christian Hope](https://twitter.com/frglps)) had the great idea to do 3 days. That gave me one day to do the normal introduction question and then some 1 on 1 time with each team. It proved to be a great recipe for success.
@@ -33,6 +32,7 @@ We also added a finally retrospective and gathering session where we could share
 I will most definitely run other coaching gigs in the same manner for better effect.
 
 # Have a goal for each session
+
 I was very bold before I got started with this session and asked my idol when it comes to many things - coaching is one of them, [Dan North](http://www.dannorth.net) for some tip. He was his usual nice self and wrote me an excellent [blog post](http://dannorth.net/2015/04/24/two-hours-per-team/) that you'll find very interesting to read.
 
 I took away many things but the really big one that made a change for me was to set up a goal with each session with the team. Sounds really natural right, but I didn't really have the clear before I started.
@@ -42,6 +42,7 @@ Me and Christian took some time to go over each team and he gave me some backgro
 Thanks a bunch for that help and blog post Dan!
 
 # Stop changing - start experimenting
+
 One of the things that I kept repeating during the days was to use the word "experiment" rather than "change".
 
 This is a really good general change management tip, by the way. This is how I feel around the difference in the words:
@@ -65,6 +66,7 @@ Someone tweeted one of the ways I tried to sum this up:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Measure trends not numbers
+
 I kept coming back to rather stop focusing on numbers and start focusing on trends instead. This goes together with the previous paragraph.
 
 For example, if we are focusing (or: experimenting) on trying to bring our [lead time](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html) down, we should look at the overall trend and not mind individual spikes or lows that much. Things have a natural variation and we should be aware of those.
@@ -89,6 +91,7 @@ Also this have sprung discussions and understanding on that the smaller the item
 We have a section diving deeper on this topic in [Kanban In Action](http://bit.ly/theKanbanBook). If you want to learn how to create a ["Statistical process control chart" look here](https://hakanforss.wordpress.com/2011/06/23/control-chart-how-to-create-one-in-excel-2010/).
 
 # How do we know that we’re making an impact
+
 After that it's good to revisit another theme that kept coming up during my days at [Nintex](http://www.nintex.com/).
 
 Because measuring lead- and cycle-time for our process, [number of bugs fixed](http://gojko.net/2011/05/17/bug-statistics-are-a-waste-of-time/) or even process improvements per month are great, but is it really interesting.
@@ -106,6 +109,7 @@ The least amount of things we could measure is to see if anyone are using the fe
 Yes, it might require some extra logging or tracking to be written, but without that kind of data how we know where we are going? That might render us very [efficient without being at all effective](http://www.marcusoft.net/2014/10/effective-revisted.html). I know of no sadder waste than that; people doing good work without knowing the goal.
 
 # Summary
+
 Sometimes it's not until you have to explain yourself, when the "heat is on" that you find what you been thinking about. That happened to me when I was at Nintex, Kuala Lumpur.
 
 Thank you guys! You brought out the best of me.

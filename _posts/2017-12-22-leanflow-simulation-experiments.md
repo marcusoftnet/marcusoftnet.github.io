@@ -2,12 +2,10 @@
 layout: post
 title: Lean/flow simulation experiments
 author: Marcus Hammarberg
-date: 2017-12-22 11:09:11
+date: 2017-12-22T11:09:11.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1975302922210298912
 blogger_orig_url: http://www.marcusoft.net/2007/08/morning-devotional-by-friend-of-mine.html
 ---
 
+
 This week a friend of mine, Miriam Kjellgren, is featured on a radio
 show in Sweden. She is responsible for the morning devotionals in P1.
 

@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Full speed and free
-date: 2008-09-26T16:20:00.001+02:00
+date: 2008-09-26T14:20:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private
-   - Scrum
-
+  - Marcus private - Scrum
   - Agile - WCF
-modified_time: 2008-09-26T16:20:38.700+02:00
+modified_time: 2008-09-26T14:20:38.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6079851253242287882
-blogger_orig_url: http://www.marcusoft.net/2008/09/full-speed-and-free.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/09/full-speed-and-free.html
+---
+
 
 My situation right now is quite strange for me. The project I am
 involved in at work is really running full speed ahead - with my largest

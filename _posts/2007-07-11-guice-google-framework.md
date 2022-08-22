@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7333737680150081575
 blogger_orig_url: http://www.marcusoft.net/2007/07/guice-google-framework.html
 ---
 
+
 Found
 [this
 yesterday](http://crazybob.org/2007/06/introduction-to-guice-video-redux.html)

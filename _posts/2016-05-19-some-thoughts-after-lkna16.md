@@ -2,13 +2,11 @@
 layout: post
 title: Some thoughts after Lean Kanban North America 2016
 author: Marcus Hammarberg
-date: 2016-05-19 12:59:58
+date: 2016-05-19T12:59:58.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

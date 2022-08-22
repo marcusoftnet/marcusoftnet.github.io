@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/05/using-atdd-in-conversion-proj
 ---
 
 
+
 I have been involved in a lot of conversion project. More specific it
 has been converting legacy VB6 applications to .NET applications. I’m
 not sure why or how but I have found myself in many project like this.

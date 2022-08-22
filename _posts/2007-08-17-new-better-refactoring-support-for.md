@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3147894758690155120
 blogger_orig_url: http://www.marcusoft.net/2007/08/new-better-refactoring-support-for.html
 ---
 
+
 As I've [written
 before](http://marcushammarberg.blogspot.com/2007/06/refactoring-support-for-vb.html)
 the <span

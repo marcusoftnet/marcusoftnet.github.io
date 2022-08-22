@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/some-boards-in-my-current-pro
 ---
 
 
+
 I’ve been involved and coached a project with several teams during the
 last year. The project aims to convert a big (and important) core
 business system from VB6 to the .NET platform.

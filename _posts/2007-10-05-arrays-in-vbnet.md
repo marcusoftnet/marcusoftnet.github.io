@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6662162005482306882
 blogger_orig_url: http://www.marcusoft.net/2007/10/arrays-in-vbnet.html
 ---
 
+
 OK - this is driving me mad. Arrays in VB.NET really, really <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
 id="SPELLING_ERROR_0"

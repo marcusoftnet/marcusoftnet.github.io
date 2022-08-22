@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Some common Kanban questions–my suggestions
-date: 2012-01-23T08:00:00.000+01:00
+date: 2012-01-23T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Kanban
   - Agile
-modified_time: 2012-01-23T08:00:09.381+01:00
+modified_time: 2012-01-23T07:00:09.381Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5823647146010711072
-blogger_orig_url: http://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html
+---
+
 
 I have been talking about
 <a href="http://www.kanban101.com" target="_blank">Kanban</a> a lot the

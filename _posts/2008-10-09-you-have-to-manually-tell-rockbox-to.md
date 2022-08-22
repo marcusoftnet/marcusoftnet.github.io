@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/you-have-to-manually-tell-roc
 ---
 
 
+
 I have just updated the operating system for my IRiver to the latest
 (3.0) version of
 <a href="http://www.rockbox.org/" target="_blank">RockBox</a>.

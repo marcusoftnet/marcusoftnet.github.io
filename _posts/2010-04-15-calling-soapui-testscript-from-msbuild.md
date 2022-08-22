@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/04/calling-soapui-testscript-fro
 ---
 
 
+
 Yes, I know that I have
 <a href="http://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
 target="_blank">written about this before</a>, with several updates. But

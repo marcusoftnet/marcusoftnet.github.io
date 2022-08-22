@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Pictures from Ethopia
-date: 2009-05-04T11:20:00.001+02:00
+date: 2009-05-04T09:20:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2009-05-04T11:21:10.473+02:00
-thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/Sf6hivv0UcI/AAAAAAAAAEw/ShS6Hsvm9QA/s72-c/DSC_0536_thumb%5B1%5D.jpg?imgmax=800
+modified_time: 2009-05-04T09:21:10.473Z
+thumbnail: >-
+  http://lh5.ggpht.com/\_TI0jeIedRFk/Sf6hivv0UcI/AAAAAAAAAEw/ShS6Hsvm9QA/s72-c/DSC_0536_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7597305624497546469
-blogger_orig_url: http://www.marcusoft.net/2009/05/pictures-from-ethopia.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/05/pictures-from-ethopia.html
+---
+
 
 The last week has been really strange and "busy" since we are still
 recovering from some illness from Africa. Mostly Elin but it has taken

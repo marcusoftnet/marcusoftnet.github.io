@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Next.JS Error: No router instance found
+title: Next.JS Error No router instance found
 author: Marcus Hammarberg
-date: 2021-05-29 22:43:03
+date: 2021-05-29T22:43:03.000Z
 tags:
- - JavaScript
- - Programming
+  - JavaScript
+  - Programming
 ---
 
 I ran into a stupid problem I created for myself. And then I solved and that made me realize a thing about [Next.JS](https://nextjs.org/) and the server side rendering features of this framework.

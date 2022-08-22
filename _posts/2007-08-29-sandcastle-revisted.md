@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2439247928364528321
 blogger_orig_url: http://www.marcusoft.net/2007/08/sandcastle-revisted.html
 ---
 
+
 As i
 [wrote
 earlier](http://marcushammarberg.blogspot.com/2007/08/ndoc-is-dead-long-live-sandcastle.html)

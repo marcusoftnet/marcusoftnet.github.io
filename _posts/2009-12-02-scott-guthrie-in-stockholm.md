@@ -8,7 +8,9 @@ tags:
 ASP.NET MVC
 modified_time: 2010-12-14T16:18:09.703+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6428713655390600790
-blogger_orig_url: http://www.marcusoft.net/2009/12/scott-guthrie-in-stockholm.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/12/scott-guthrie-in-stockholm.html
+---
+
 
 I’ve been attending a full day of presentations by
 <a href="http://weblogs.asp.net/scottgu/" target="_blank">Scott

@@ -4,10 +4,7 @@ title: A simple diagram and some conversations on flow efficiency
 author: Marcus Hammarberg
 date: 2018-03-29T09:21:39.000Z
 tags:
-  - |-
-    Lean
-    - Kanban
-    - Agile - Life of a consultant
+  - LeanLean - Kanban - Agile - Life of a consultant
 ---
 
 The last couple of weeks I have been re-discovering an old diagram (eerm … sketch really). You can find it scribbled on close to every whiteboard in our office now. Because it opened a lot of interesting discussions on flow, flow efficiency and optimizations for value delivery.
@@ -107,7 +104,7 @@ This diagram is not showing buysiness - it's showing flow of value. In fact, thr
 
 There are nice simulations to show this problem in action, if you want to click through it:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hfpgABlZ6t59qu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation" title="Pass the pennies - Lean game simulation" target="_blank">Pass the pennies - Lean game simulation</a> </strong> from <strong><a href="https://www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hfpgABlZ6t59qu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation" title="Pass the pennies  - Lean game simulation" target="_blank">Pass the pennies  - Lean game simulation</a> </strong> from <strong><a href="https://www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 You could also show this problem in the diagram by running your finger across the line. As you reach end a working stage just say `Now this work has to wait because Dep 2 are busy doing other things right now`.
 
 Then maybe add `Imagine if they would have time to pick this up now? Then we wouldn't need to wait all this time`, as you slowly run your finger across the waiting line.

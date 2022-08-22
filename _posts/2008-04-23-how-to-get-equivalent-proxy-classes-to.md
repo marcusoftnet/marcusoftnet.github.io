@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4450307372019789671
 blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-get-equivalent-proxy-classes-to.html
 ---
 
+
 After reading the great patterns book [i was talking about
 earlier](http://marcushammarberg.blogspot.com/2008/04/great-book-head-first-design-patterns.html)
 i soon ran into a problem that at first seemed pattern-like but was not

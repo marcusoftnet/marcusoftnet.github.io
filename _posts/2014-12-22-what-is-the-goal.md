@@ -2,11 +2,10 @@
 layout: post
 title: What is The Goal?
 author: Marcus Hammarberg
-date: 2014-12-22 10:10:37
+date: 2014-12-22T10:10:37.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

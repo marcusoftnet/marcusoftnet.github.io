@@ -2,13 +2,11 @@
 layout: post
 title: Some useful practices for flow oriented standup meetings
 author: Marcus Hammarberg
-date: 2016-12-21
+date: 2016-12-21T00:00:00.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
 ---
 
 A [daily stand-up](http://www.martinfowler.com/articles/itsNotJustStandingUp.html) is a really common and very good practice among many agile teams.

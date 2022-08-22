@@ -8,7 +8,9 @@ tags:
 Agile
 modified_time: 2009-08-14T16:12:34.862+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7609413503800772907
-blogger_orig_url: http://www.marcusoft.net/2009/08/more-great-stuff-on-bdd.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/08/more-great-stuff-on-bdd.html
+---
+
 
 I have been doing some more reading on
 <a href="http://dannorth.net/introducing-bdd" target="_blank">BDD</a>,

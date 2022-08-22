@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4902635814290732314
 blogger_orig_url: http://www.marcusoft.net/2007/07/recommended-listening.html
 ---
 
+
 Just
 wanted to drop a few CD recommendations for the summer. I don't
 (actually) buy that many brass band Cd's which make me be the more

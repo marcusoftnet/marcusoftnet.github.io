@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6501219215488877752
 blogger_orig_url: http://www.marcusoft.net/2008/05/punk-beeing-nice.html
 ---
 
+
 Yesterday I followed a few links from the ["Go around twice if you
 are happy"](http://www.marcusoft.net/2008/05/made-me-happy.html)-video
 and as it turns out there are a whole community doing these kind of

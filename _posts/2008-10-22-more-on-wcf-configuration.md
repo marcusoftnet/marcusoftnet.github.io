@@ -1,11 +1,14 @@
 ---
 layout: post
 title: More on WCF configuration
-date: 2008-10-22T13:26:00.001+02:00
-author: Marcus Hammarberg tags:
-modified_time: 2008-10-22T13:26:35.756+02:00
+date: 2008-10-22T11:26:00.001Z
+author: Marcus Hammarberg
+tags: null
+modified_time: 2008-10-22T11:26:35.756Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3177796519915879546
-blogger_orig_url: http://www.marcusoft.net/2008/10/more-on-wcf-configuration.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/10/more-on-wcf-configuration.html
+---
+
 
 In my [last
 post](http://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html)

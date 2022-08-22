@@ -2,13 +2,11 @@
 layout: post
 title: How far have we come?
 author: Marcus Hammarberg
-date: 2015-01-30 13:15:02
+date: 2015-01-30T13:15:02.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Indonesia
 ---
 

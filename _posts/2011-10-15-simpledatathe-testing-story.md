@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2699078655489363036
 blogger_orig_url: http://www.marcusoft.net/2011/10/simpledatathe-testing-story.html
 ---
 
+
 I
 have fallen for <a href="https://github.com/markrendle/Simple.Data"
 target="_blank">Simple.Data</a>. Big time. It’s so terse and concise

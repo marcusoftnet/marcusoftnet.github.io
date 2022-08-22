@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7921648991803962963
 blogger_orig_url: http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html
 ---
 
+
 I'm
 back - yesterday was a day with speed since we had to prepare the Scrum
 demo we're going to hold today. And as frosting on the cake i caught a

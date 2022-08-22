@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9147693364987604261
 blogger_orig_url: http://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html
 ---
 
+
 This post need to start with an disclaimer;
 
 > I write this since I have run into several people to which these

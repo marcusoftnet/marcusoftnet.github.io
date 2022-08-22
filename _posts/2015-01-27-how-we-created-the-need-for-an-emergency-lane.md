@@ -2,15 +2,12 @@
 layout: post
 title: How we created the need for an emergency lane
 author: Marcus Hammarberg
-date: 2015-01-27 08:49:14
+date: 2015-01-27T08:49:14.000Z
 tags:
-
   - Agile
-
   - Kanban
-
   - Indonesia
- - Scrum
+  - Scrum
 ---
 
 In my [last post](http://www.marcusoft.net/2015/01/emergency-lanes---some-tips.html) I told you about some practices and policies around emergency lanes. Today, when I visited my client I realized that we, ourselves, had created the need for them. That's great news because that means that we can also take that need away.

@@ -4,10 +4,7 @@ title: What are you going do when it's really important, then?
 author: Marcus Hammarberg
 date: 2018-06-03T20:52:22.000Z
 tags:
-  - |-
-    Lean
-    - Kanban
-    - Agile
+  - LeanLean - Kanban - Agile
 ---
 
 I have a very particular set of memories from my childhood, that revolves around me falling, hitting or otherwise hurting myself. If it was just a bruise my father often said to me:

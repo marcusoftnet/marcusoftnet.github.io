@@ -2,11 +2,10 @@
 layout: post
 title: What can you do for us then?
 author: Marcus Hammarberg
-date: 2015-09-01 10:25:20
+date: 2015-09-01T10:25:20.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

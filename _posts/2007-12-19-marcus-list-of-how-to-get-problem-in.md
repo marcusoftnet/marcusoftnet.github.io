@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8688277135535059373
 blogger_orig_url: http://www.marcusoft.net/2007/12/marcus-list-of-how-to-get-problem-in.html
 ---
 
+
 From time to time i hear myself saying; "That's a good way to get
 problems in the project/in the application/in the maintenance
 phase".

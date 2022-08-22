@@ -1,15 +1,17 @@
 ---
 layout: post
 title: AddressFilter mismatch at the EndpointDispatcher
-date: 2008-12-01T23:33:00.002+01:00
+date: 2008-12-01T22:33:00.002Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
   - WCF
-modified_time: 2009-01-12T07:58:37.499+01:00
+modified_time: 2009-01-12T06:58:37.499Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6824020646545763659
-blogger_orig_url: http://www.marcusoft.net/2008/12/addressfilter-mismatch-at.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/12/addressfilter-mismatch-at.html
+---
+
 
 The complete error message was: "The message with To '\[my service
 address\]' cannot be processed at the receiver, due to an AddressFilter

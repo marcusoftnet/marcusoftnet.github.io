@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2002463673518279606
 blogger_orig_url: http://www.marcusoft.net/2007/07/sandcastle-or-marcus-betting-on-wrong.html
 ---
 
+
 I read today about Sandcastle which is Microsofts new documentation utility
 for .NET Framework 2.0
 (<http://msdn2.microsoft.com/en-us/vstudio/bb608422.aspx>)

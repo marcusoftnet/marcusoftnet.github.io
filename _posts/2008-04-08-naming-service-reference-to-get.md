@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-932102224134427259
 blogger_orig_url: http://www.marcusoft.net/2008/04/naming-service-reference-to-get.html
 ---
 
+
 In my current project we are accessing a legacy system using
 [Microsoft Transaction
 Integrator](http://msdn2.microsoft.com/en-us/library/ms945276.aspx).

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-559290756056572436
 blogger_orig_url: http://www.marcusoft.net/2010/02/soapui-and-other-regression-testing.html
 ---
 
+
 I been looking around for some way of (regression)testing the WCF
 service we will build in my current project. I will not write another
 client and be forced to maintain it during the project. This took loads

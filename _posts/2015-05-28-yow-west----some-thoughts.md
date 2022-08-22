@@ -2,11 +2,10 @@
 layout: post
 title: YOW West 2015 - some thoughts
 author: Marcus Hammarberg
-date: 2015-05-28 06:05:18
+date: 2015-05-28T06:05:18.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

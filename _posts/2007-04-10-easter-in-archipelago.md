@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8274191909935963836
 blogger_orig_url: http://www.marcusoft.net/2007/04/easter-in-archipelago.html
 ---
 
+
 <img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/RhspOlggv3I/AAAAAAAAAHc/ufyf_Oxijyg/s320/IMG_7468.jpg"
 id="BLOGGER_PHOTO_ID_5051676737589526386"

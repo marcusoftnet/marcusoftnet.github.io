@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8509197799275590746
 blogger_orig_url: http://www.marcusoft.net/2007/11/vasaband-my-band.html
 ---
 
+
 I've just returned from a tour with my Salvation Army Band - the
 Vasa
 Band. What a great group of people.

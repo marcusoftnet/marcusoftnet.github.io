@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/testing-aspnet-mvc-applicatio
 ---
 
 
+
 I ran into trouble when I tried to use Session-state in an
 <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a>
 application.

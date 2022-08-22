@@ -2,12 +2,10 @@
 layout: post
 title: The kanban blessing
 author: Marcus Hammarberg
-date: 2017-10-28 11:44:48
+date: 2017-10-28T11:44:48.000Z
 tags:
-
   - Kanban
- - Lean
-
+  - Lean
   - Agile
   - Life of a consultant
 ---

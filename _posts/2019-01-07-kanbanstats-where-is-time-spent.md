@@ -1,14 +1,12 @@
 ---
 layout: post
-title: KanbanStats IV: Where is time spent?
+title: KanbanStats IV Where is time spent?
 author: Marcus Hammarberg
-date: 2019-01-07 15:04:13
+date: 2019-01-07T15:04:13.000Z
 tags:
-
   - Agile
- - Scrum
- - Lean
-
+  - Scrum
+  - Lean
   - Kanban
 ---
 
@@ -145,7 +143,6 @@ In this post we charted out where the time for this data was spent; in the backl
 In the next post, I will try to make a few static numbers that people often ask about and that we, relatively easily can pull from the data.
 
 Here's a final link to the [Google Sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) I'm working in. Feel free to copy it if you find this useful.
-
 
 ### The links
 

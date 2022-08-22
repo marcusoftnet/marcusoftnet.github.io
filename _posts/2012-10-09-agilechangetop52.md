@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7185681103015336810
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop52.html
 ---
 
+
 This is the second post on my top 5 ways of making sure that your
 agile change initiative succeeds. But this is not ideas made up in my
 head (MY GOD - the horrors...) but things that I've tried and failed

@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5448318958904725108
 blogger_orig_url: http://www.marcusoft.net/2006/11/dreidel-excuse.html
 ---
 
+
 Just noticed that after the Dreidel-song there were some people
 exposing themselves before the camera on the top list.
 

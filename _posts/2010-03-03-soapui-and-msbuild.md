@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-486361330278550150
 blogger_orig_url: http://www.marcusoft.net/2010/03/soapui-and-msbuild.html
 ---
 
+
 After my <a
 href="http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
 target="_blank">last post</a> I cannot withhold you from this nugget.

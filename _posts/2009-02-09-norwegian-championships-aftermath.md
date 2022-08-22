@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/norwegian-championships-after
 ---
 
 
+
 OK – <a
 href="http://www.marcusoft.net/2009/02/norwegian-brass-band-championships-live.html"
 target="_blank">my guess</a> wasn’t completely off (got the first right,

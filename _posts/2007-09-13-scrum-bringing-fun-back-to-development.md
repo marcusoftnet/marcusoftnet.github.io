@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Scrum - bringing fun back to development
-date: 2007-09-13T07:57:00.000+02:00
+date: 2007-09-13T05:57:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
- - Scrum
-modified_time: 2007-09-13T08:04:57.989+02:00
+  - Scrum
+modified_time: 2007-09-13T06:04:57.989Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5818644234273162870
 blogger_orig_url: http://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-development.html
 ---
+
 
 OK - I'll make no fuzz about it. I am really excited about Scrum and
 what it can do. But now after two complete days with <span

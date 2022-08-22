@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-session
 ---
 
 
+
 Today I will continue working on the model, surrounding Sprints, and of
 course drive it forward with tests.
 

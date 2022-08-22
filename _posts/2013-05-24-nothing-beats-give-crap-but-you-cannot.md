@@ -17,6 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-y
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I'm back from [AgileSverige](http://www.agilasverige.se/) - the premier

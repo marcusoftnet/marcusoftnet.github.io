@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2786272295120950128
 blogger_orig_url: http://www.marcusoft.net/2006/10/nunit-testing-asynchronous-events.html
 ---
 
+
 In my current project we are using a some asynchronous webservice method calls. The
 actual call are in turn encapsulated in a layer that is used by the GUI,
 the "ClientCommand"-layer.

@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/save-some-space-limit-number-
 ---
 
 
+
 Found an option that really saves some space for TDD:ers in Visual
 Studio. The test results folder can be limited to a certain number of
 test runs. That would really have helped me at my latest project where

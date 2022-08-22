@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/some-thoughts-about-waste-and
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 Every Lean practitioner goes through a phase of "waste elimination

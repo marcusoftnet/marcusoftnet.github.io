@@ -2,13 +2,12 @@
 layout: post
 title: How we start with trust and vulnerable in our developer training
 author: Marcus Hammarberg
-date: 2020-02-03 10:17:37
+date: 2020-02-03T10:17:37.000Z
 tags:
-
   - Agile
- - Lean
- - Programming
- - Management
+  - Lean
+  - Programming
+  - Management
 ---
 
 In the [</salt>](https://salt.study/) accelerated learning program we emphasizes learning in groups throughout the entire boot camp. We do this through the use of [mob programming](https://en.wikipedia.org/wiki/Mob_programming) that is not only a [great way to solve problems together](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/) but also puts learning front and center. I've yet to sit down with any mob and not learn a new thing (I've tried 40+ so far.)

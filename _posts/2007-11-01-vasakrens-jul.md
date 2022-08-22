@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1270932617481449258
 blogger_orig_url: http://www.marcusoft.net/2007/11/vasakrens-jul.html
 ---
 
+
 My corps, the Vasa corps of the Salvation Army, is
 gifted with many very good musical talents. For example
 Vasa

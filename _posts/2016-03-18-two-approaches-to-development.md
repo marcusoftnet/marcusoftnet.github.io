@@ -2,11 +2,10 @@
 layout: post
 title: We don't know what will work - a story from last week
 author: Marcus Hammarberg
-date: 2016-03-16
+date: 2016-03-16T00:00:00.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

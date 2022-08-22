@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8330981049797861552
 blogger_orig_url: http://www.marcusoft.net/2010/03/nice-easy-and-working-description-on.html
 ---
 
+
 I have looked so long for this; a short and sweet description on how
 to compact Virtual PC images. Here it
 is: <http://kurtsh.spaces.live.com/blog/cns!DA410C7F7E038D!1902.entry>

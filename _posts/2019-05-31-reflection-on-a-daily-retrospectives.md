@@ -2,13 +2,11 @@
 layout: post
 title: Reflection on a daily retrospectives
 author: Marcus Hammarberg
-date: 2019-05-31 10:23:00
+date: 2019-05-31T10:23:00.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

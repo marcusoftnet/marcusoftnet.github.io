@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3635859586967541408
 blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html
 ---
 
+
 OK,
 the weekend is over (yes, prolonged i know) and my [list of scary
 stuff](http://marcushammarberg.blogspot.com/2007/04/also-i-am-now-entering-one-of-more.html)

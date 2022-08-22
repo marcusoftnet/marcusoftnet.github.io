@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-472327445991958099
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html
 ---
 
+
 Now we're getting into the "real stuff" or rather IT-related stuff.
 
 <div>

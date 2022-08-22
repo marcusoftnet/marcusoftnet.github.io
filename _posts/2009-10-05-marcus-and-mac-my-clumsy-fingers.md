@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/marcus-and-mac-my-clumsy-fing
 ---
 
 
+
 As readers of this blog might have noticed I have not only switched to
 Mac (Book Pro) but also have done so after a long while on the PC-side
 of things.

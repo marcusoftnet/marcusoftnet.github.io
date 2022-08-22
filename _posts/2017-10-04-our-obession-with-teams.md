@@ -2,13 +2,11 @@
 layout: post
 title: My obsession with teams
 author: Marcus Hammarberg
-date: 2017-10-04 10:16:28
+date: 2017-10-04T10:16:28.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

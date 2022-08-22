@@ -2,12 +2,11 @@
 layout: post
 title: No heroics and awesome people
 author: Marcus Hammarberg
-date: 2016-09-27 22:51:52
+date: 2016-09-27T22:51:52.000Z
 tags:
-
   - Agile
- - Lean
- - Leadership
+  - Lean
+  - Leadership
 ---
 
 I've from time to time said things like:

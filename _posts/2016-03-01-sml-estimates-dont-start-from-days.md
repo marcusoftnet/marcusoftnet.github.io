@@ -2,11 +2,10 @@
 layout: post
 title: S, M, L estimate should not start with a date span
 author: Marcus Hammarberg
-date: 2016-03-01
+date: 2016-03-01T00:00:00.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

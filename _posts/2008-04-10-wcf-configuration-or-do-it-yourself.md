@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-548239126291337484
 blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-configuration-or-do-it-yourself.html
 ---
 
+
 Configuration of WCF-services is a vast area... anyone who looked
 into the subject are sure to agree on that. The whole idea with
 WCF-services is that you can via configuration tweak the behavior and

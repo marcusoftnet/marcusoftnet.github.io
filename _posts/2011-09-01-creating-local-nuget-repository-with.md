@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/09/creating-local-nuget-reposito
 ---
 
 
+
 I’m loving <a href="http://www.nuget.org" target="_blank">NuGet</a> and
 it’s totally changed the way I look on brining in external dependencies
 to my projects. <a

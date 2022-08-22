@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8327565985541635680
 blogger_orig_url: http://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html
 ---
 
+
 The [previous
 post](http://marcushammarberg.blogspot.com/2008/03/type-typename-is-not-cls-compliant.html)
 about CLS-compliant classes is right in a

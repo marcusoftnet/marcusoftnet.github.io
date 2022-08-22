@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4827349559608187146
 blogger_orig_url: http://www.marcusoft.net/2007/09/british-open-brass-band-championships.html
 ---
 
+
 This weekend is the first and maybe the greatest competition in the
 brass band year. It's the prestigious British Open.
 

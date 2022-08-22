@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6086100727965739079
 blogger_orig_url: http://www.marcusoft.net/2012/10/you-say-continuous-delivery-i-say-limit.html
 ---
 
+
 <a href="http://continuous-delivery.thoughtworks.com/"
 target="_blank">Continuous delivery</a> is something that everyone seems
 to be talking about these days. And it's very cool.

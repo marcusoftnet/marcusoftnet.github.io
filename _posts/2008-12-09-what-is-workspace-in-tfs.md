@@ -1,13 +1,15 @@
 ---
 layout: post
 title: What is a workspace in TFS?
-date: 2008-12-09T09:31:00.001+01:00
+date: 2008-12-09T08:31:00.001Z
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: 2008-12-09T09:31:25.606+01:00
+modified_time: 2008-12-09T08:31:25.606Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7661852693287242881
-blogger_orig_url: http://www.marcusoft.net/2008/12/what-is-workspace-in-tfs.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/12/what-is-workspace-in-tfs.html
+---
+
 
 This question has puzzled me for quite some time. It's so vague and
 fluffy in the edges. However here is a

@@ -2,14 +2,12 @@
 layout: post
 title: What if money was not an issue?
 author: Marcus Hammarberg
-date: 2015-02-27 08:16:15
+date: 2015-02-27T08:16:15.000Z
 tags:
-
   - Agile
- - Lean
- - Leadership
+  - Lean
+  - Leadership
   - Life of a consultant
-
   - Indonesia
 ---
 

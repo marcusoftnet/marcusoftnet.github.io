@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8743873172538316941
 blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-warnings-for-xml-documentation.html
 ---
 
+
 When you generate system documentation from the XML comments in your
 code you want a way to be sure that the quality of the comments are as
 good as they can be, and in the earliest stage possible.

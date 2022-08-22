@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-
 ---
 
 
+
 This is the final post in my series on the problem that a lot of people
 sees meetings as not being real work. I think this has to do with the
 meetings being bad and badly conducted. So we need to improve on the

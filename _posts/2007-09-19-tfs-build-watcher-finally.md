@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3393779877548953569
 blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-build-watcher-finally.html
 ---
 
+
 I've
 been looking for a long time for a tool that watches the builds of TFS
 for me, something that CruiseControl.NET does in a nice way.

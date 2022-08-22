@@ -5,7 +5,7 @@ louder'
 date: 2014-09-12T04:22:00.002+02:00
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
+  - Tools  - Lean
   - ife of a consultant
 
   - Kanban
@@ -15,6 +15,7 @@ thumbnail: http://3.bp.blogspot.com/-n_MmG2QyzYU/VBJZ9d12qWI/AAAAAAAAG8I/X8Gfvpy
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8054044261438433216
 blogger_orig_url: http://www.marcusoft.net/2014/09/simplerQuestion.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

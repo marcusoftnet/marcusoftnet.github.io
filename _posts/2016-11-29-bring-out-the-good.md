@@ -2,13 +2,11 @@
 layout: post
 title: Bring out the good
 author: Marcus Hammarberg
-date: 2016-11-28 12:20:52
+date: 2016-11-28T12:20:52.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
 ---
 
 The other week I saw the most amazing transformation of a person I've seen in a few years. [The number one spot is taken by Ibu Elsye](http://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html).

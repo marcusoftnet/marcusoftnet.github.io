@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-desi
 ---
 
 
+
 Up to now most of my assignments has not been client-related. Often the
 project description and main focus is on the layers beneath the GUI. But
 lately I have seen a shift in the industry and more so in my own

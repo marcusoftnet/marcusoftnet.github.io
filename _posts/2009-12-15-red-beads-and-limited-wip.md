@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Red Beads and Limited WIP Society
-date: 2009-12-14T22:49:00.001+01:00
+date: 2009-12-14T21:49:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Kanban
   - Agile
-modified_time: 2009-12-14T22:50:06.402+01:00
+modified_time: 2009-12-14T21:50:06.402Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6609386171530853308
-blogger_orig_url: http://www.marcusoft.net/2009/12/red-beads-and-limited-wip.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/12/red-beads-and-limited-wip.html
+---
+
 
 I attended the second
 <a href="http://www.limitedwipsociety.org/" target="_blank">Limited WIP

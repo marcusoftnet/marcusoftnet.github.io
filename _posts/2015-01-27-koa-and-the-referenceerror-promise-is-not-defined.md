@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Koa and the 'ReferenceError: Promise is not defined.'
+title: Koa and the ReferenceError Promise is not defined.
 author: Marcus Hammarberg
-date: 2015-01-27 19:52:38
+date: 2015-01-27T19:52:38.000Z
 tags:
- - Koa
- - Javascript
- - Tools
+  - Koa
+  - Javascript
+  - Tools
 ---
 
 M: "... hahaha, exactly. And speaking of RT*M, you know what I did yesterday?"
@@ -52,7 +52,7 @@ M: "And then! I fired it up as normal: node --harmony app.js. You know what happ
 
 H: "If you say 'It worked, because Koa is awesome' I'm leaving."
 
-M: "Eeeh, well it worked. Until I hit the route, http://localhost:3000/. Then it spit out an error like this:"
+M: "Eeeh, well it worked. Until I hit the route, <http://localhost:3000/>. Then it spit out an error like this:"
 
 ```bash
 /Volumes/Storage/Users/marcus/Projects/Koa/booooring.com/node_modules/koa/node_modules/co/index.js:47

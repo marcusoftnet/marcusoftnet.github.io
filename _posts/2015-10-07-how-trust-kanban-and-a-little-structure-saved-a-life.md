@@ -2,14 +2,11 @@
 layout: post
 title: How trust, kanban and a little structure changed a life today
 author: Marcus Hammarberg
-date: 2015-10-07 08:47:57
+date: 2015-10-07T08:47:57.000Z
 tags:
-
   - Kanban
-
   - Agile
- - Leadership
-
+  - Leadership
   - Indonesia
   - Life of a consultant
 ---

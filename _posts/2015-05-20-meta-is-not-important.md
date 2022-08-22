@@ -5,9 +5,7 @@ author: Marcus Hammarberg
 date: 2015-05-20T11:52:02.000Z
 tags:
   - Lean
-  - |-
-    Leadership - Life of a consultant
-    - Agile
+  - LeanLeadership - Life of a consultant - Agile
 ---
 
 I had a couple of great conversations yesterday that gave me a small epiphany. Here's the small thing that I came up with:

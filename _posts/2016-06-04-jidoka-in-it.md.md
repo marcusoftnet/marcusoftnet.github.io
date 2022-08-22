@@ -2,13 +2,11 @@
 layout: post
 title: Jidoka - an old Toyota practice makes an guest appearance
 author: Marcus Hammarberg
-date: 2016-06-04 20:59:58
+date: 2016-06-04T20:59:58.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

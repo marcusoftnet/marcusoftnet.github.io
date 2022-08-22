@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/06/solution-to-closing-lid-of-my
 ---
 
 
+
 OK – this might not be one of my ordinary subjects but this was soooo
 annoying. Sometimes when I closed the lid of my MacBook Pro there were
 something still running. This caused the battery to drain in about 20

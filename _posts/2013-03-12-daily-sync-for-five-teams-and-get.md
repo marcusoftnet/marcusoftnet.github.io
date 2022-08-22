@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I'm working for [Tradera](http://www.tradera.com/) right now and as I've

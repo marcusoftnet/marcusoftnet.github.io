@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/05/hard-to-get-started-salvation
 ---
 
 
+
 I have some real trouble get going with my normal flow after
 <a href="http://www.marcusoft.net/2009/05/pictures-from-ethopia.html"
 target="_blank">Ethiopia</a>.

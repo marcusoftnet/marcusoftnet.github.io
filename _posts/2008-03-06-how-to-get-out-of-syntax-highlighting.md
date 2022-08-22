@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1392169269904390839
 blogger_orig_url: http://www.marcusoft.net/2008/03/how-to-get-out-of-syntax-highlighting.html
 ---
 
+
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/R8-csWQz5PI/AAAAAAAAARM/ja8UA5zTBM4/s400/syntaxhighlightvb.net.jpb.JPG"
 id="BLOGGER_PHOTO_ID_5174526782576256242"

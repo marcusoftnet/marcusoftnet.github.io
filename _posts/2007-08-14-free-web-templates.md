@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8280056095395249751
 blogger_orig_url: http://www.marcusoft.net/2007/08/free-web-templates.html
 ---
 
+
 From one of
 the Visual Studio videos I got this tip:
 <http://www.opensourcetemplates.org/>

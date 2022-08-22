@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1842414620581890623
 blogger_orig_url: http://www.marcusoft.net/2007/10/friends-in-need.html
 ---
 
+
 There's been a lot of blogging about computer stuff for a while -
 that time in the project i suspect... Well - this one is not.
 

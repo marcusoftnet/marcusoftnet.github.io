@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7932047045806437130
 blogger_orig_url: http://www.marcusoft.net/2008/09/vasaband-full-speed-ahead.html
 ---
 
+
 The
 band I am playing in - the [Vasa
 band](http://www.vasaband.com/) - is right now in a great form, great

@@ -2,13 +2,11 @@
 layout: post
 title: Design our work
 author: Marcus Hammarberg
-date: 2016-11-18 12:20:52
+date: 2016-11-18T12:20:52.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
 ---
 
 We had a process improvement discussion the other day in one team I'm working with now and we realized that we were actually would slow down our process a bit now, but in the long run gain flow.

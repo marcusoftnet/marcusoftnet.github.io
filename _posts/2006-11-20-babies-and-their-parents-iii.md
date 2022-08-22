@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Babies and their parents III
-date: 2006-11-20T08:02:00.000+01:00
+date: 2006-11-20T07:02:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-11-20T08:06:00.333+01:00
+modified_time: 2006-11-20T07:06:00.333Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8955672982792045388
-blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-iii.html ---
+blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-iii.html
+---
+
 OK - i was wrong, a bit at least.
 
 Met my friends and their new daugther last Friday -and it's a completely

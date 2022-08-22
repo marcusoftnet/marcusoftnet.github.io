@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/when-band-tune-book-spoke-to-
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 We break for something different. This is not my normal IT/agile/lean

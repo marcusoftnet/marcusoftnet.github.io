@@ -2,11 +2,10 @@
 layout: post
 title: ... what does that say about me
 author: Marcus Hammarberg
-date: 2016-02-14 19:21:09
+date: 2016-02-14T19:21:09.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

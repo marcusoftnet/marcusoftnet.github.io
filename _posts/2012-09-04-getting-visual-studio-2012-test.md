@@ -16,6 +16,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5998573811657878660
 blogger_orig_url: http://www.marcusoft.net/2012/09/getting-visual-studio-2012-test.html
 ---
 
+
 Yes, it's this is another "hey this is a cool feature of Visual
 Studio 2012" post. If you know all about the new Test Explorer and how
 to get NUnit, xUnit and by

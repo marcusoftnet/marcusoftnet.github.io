@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3920776313334347485
 blogger_orig_url: http://www.marcusoft.net/2008/05/visual-studio-2008-intellisense-not.html
 ---
 
+
 [<img
 src="http://1.bp.blogspot.com/_kkDJOSPNTLs/SDqTsnzy3pI/AAAAAAAAAUA/Xvj_tfVKZOM/s320/vs2008intellisense.JPG"
 id="BLOGGER_PHOTO_ID_5204634714189782674"

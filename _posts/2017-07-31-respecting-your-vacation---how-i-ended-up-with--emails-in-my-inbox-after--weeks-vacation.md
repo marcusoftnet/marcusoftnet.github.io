@@ -7,8 +7,7 @@ author: Marcus Hammarberg
 date: '2017-07-31 11:56:08'
 tags:
   - Life of a consultant
-  - Agile
-  - Lean
+  - Agile - Lean
 ---
 
 Sweden is an amazing country in many regards. One of the best is the by law required 5 weeks vacation per year. I know because I just came back from four of them.

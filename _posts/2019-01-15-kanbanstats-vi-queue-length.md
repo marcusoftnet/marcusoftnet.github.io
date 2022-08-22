@@ -1,15 +1,13 @@
 ---
 layout: post
-title: KanbanStats VI: Queue length
+title: KanbanStats VI Queue length
 author: Marcus Hammarberg
-date: 2019-01-15 08:16:49
+date: 2019-01-15T08:16:49.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 **UPDATE**
@@ -114,7 +112,7 @@ And we can now very easily make a chart that is a bit underwhelming:
 
 ![Queue length per column on the board](/img/queueLengthPerColumn.png)
 
- ## But what does that mean then?
+## But what does that mean then?
 
 The reason the chart is very underwhelming is that right now, we only get the number of items. It is not particularly helpful, but we can do better.
 
@@ -178,4 +176,3 @@ All the posts in the series are found through these links:
 4. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
 5. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
 6. [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
-

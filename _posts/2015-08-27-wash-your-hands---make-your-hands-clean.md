@@ -2,13 +2,11 @@
 layout: post
 title: Wash your hands - make your hands clean
 author: Marcus Hammarberg
-date: 2015-08-27 08:04:21
+date: 2015-08-27T08:04:21.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Indonesia
 ---
 

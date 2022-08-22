@@ -9,7 +9,9 @@ tags:
   - Tools - Koa
 modified_time: 2014-04-06T14:41:45.558+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4757293937630995296
-blogger_orig_url: http://www.marcusoft.net/2014/04/koaGenYield.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/04/koaGenYield.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

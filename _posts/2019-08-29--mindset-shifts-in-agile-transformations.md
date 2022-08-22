@@ -2,11 +2,10 @@
 layout: post
 title: 3 mindset shifts for agile transformations
 author: Marcus Hammarberg
-date: 2019-08-29 21:21:59
+date: 2019-08-29T21:21:59.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 I have been involved in many agile so-called transformations over my, let's face it, long career. And the more I get to do that the less I care about the word agile. Because agile is "just" a way to behave - it's not an outcome. The outcomes are what we are after, the effects, the values. I've found it much more fruitful to discuss what those values are and means, than to argue whether Scrum holds up for scaling or not.

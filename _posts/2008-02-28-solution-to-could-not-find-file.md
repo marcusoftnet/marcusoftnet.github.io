@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1635528158320792969
 blogger_orig_url: http://www.marcusoft.net/2008/02/solution-to-could-not-find-file.html
 ---
 
+
 Here is the solution to my previous posting [Could not find file
 'Microsoft.Windows.CommonLanguageRuntime error for
 testprojects](http://marcushammarberg.blogspot.com/2008/02/could-not-find-file-microsoftwindowscom.html).

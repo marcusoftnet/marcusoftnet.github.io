@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/automapper-get-rid-of-your-te
 ---
 
 
+
 One thing that I really love being on a contract is that you’re almost
 immediately is forced to find solutions, whereas on a leisure project
 you rather do something else…

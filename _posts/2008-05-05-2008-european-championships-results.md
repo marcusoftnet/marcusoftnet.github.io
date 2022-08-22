@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-884317536801515701
 blogger_orig_url: http://www.marcusoft.net/2008/05/2008-european-championships-results.html
 ---
 
+
 The European is now to an end and some shocking results was
 delivered.... Here is the [complete
 results](http://www.4barsrest.com/news/detail.asp?id=7753), where you

@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/03/limit-wip-doesnt-mean-doing-l
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I'm having the opportunity to coach in an organization that isn't used

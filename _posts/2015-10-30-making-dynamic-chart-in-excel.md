@@ -4,9 +4,7 @@ title: Making dynamic chart in Excel
 author: Marcus Hammarberg
 date: 2015-10-30T13:30:32.000Z
 tags:
-  - |-
-    Tools - Life of a consultant
-    - Indonesia
+  - LeanTools - Life of a consultant - Indonesia
 ---
 
 It was quite some time since I wrote a How-to-post. Here's an Excel-thing that I managed to solve today that's been bothering me for a long time.

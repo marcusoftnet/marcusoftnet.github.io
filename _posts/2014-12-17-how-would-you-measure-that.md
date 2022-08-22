@@ -4,8 +4,7 @@ title: How would you measure that?
 author: Marcus Hammarberg
 date: 2014-12-17T12:49:02.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
   - Kanban
   - Specification by example

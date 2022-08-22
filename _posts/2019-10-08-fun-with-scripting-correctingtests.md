@@ -79,7 +79,7 @@ fi
 
 The `if` vs `fi` block has me in stitches every time. It looks weird.
 
-But basically `$# -eq 0 ` check if the number of arguments is 0. I've not looked into it deeply but I presume that `-z "$1" ` checks if the `$1` is set. The parameters to the scripts get numbered automatically by the order you pass to it `$2` is the second parameter to the script for example.
+But basically `$# -eq 0` check if the number of arguments is 0. I've not looked into it deeply but I presume that `-z "$1"` checks if the `$1` is set. The parameters to the scripts get numbered automatically by the order you pass to it `$2` is the second parameter to the script for example.
 
 There are probably good ways of giving them names and flags but this works for us. For it to be clearer I have instructed in each case that will tell the user what is missing.
 
@@ -189,7 +189,7 @@ npm t -- $currentDeveloperFolder
 
 `npm t` is short for `npm test` (which is short for `npm run test`) and then we are using a feature that lets you pass on additional parameters to a script; `--`.
 
-This means that the full command would be something like: `npm t -- oneFolderPerDev/marcus.hammarberg `
+This means that the full command would be something like: `npm t -- oneFolderPerDev/marcus.hammarberg`
 
 What is cool about that is that in our test code we can pick up that parameter:
 

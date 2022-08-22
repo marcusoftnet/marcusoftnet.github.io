@@ -9,6 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4488488677051332532
 blogger_orig_url: http://www.marcusoft.net/2010/06/in-my-current-project-we-have-had.html
 ---
 
+
 In my current project we have had a problem. The project is a
 “rewrite” project that shall “convert” a VB6 application into a VB.NET
 version of it. I put those words in quotes for a reason; here-in lies

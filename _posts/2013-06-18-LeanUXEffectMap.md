@@ -4,8 +4,7 @@ title: Lean UX with effect map - from HeltSonika
 date: 2013-06-17T19:51:00.004Z
 author: Marcus Hammarberg
 tags:
-  - Tools
-  - Lean
+  - Tools - Lean
   - Agile
 modified_time: 2013-06-18T19:18:25.753Z
 thumbnail: >-
@@ -13,6 +12,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-798473969077811208
 blogger_orig_url: http://www.marcusoft.net/2013/06/LeanUXEffectMap.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

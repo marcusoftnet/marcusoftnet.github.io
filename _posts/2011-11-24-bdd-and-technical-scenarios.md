@@ -8,7 +8,9 @@ tags:
 Agile
 modified_time: 2011-11-23T22:34:10.980+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102
-blogger_orig_url: http://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html
+---
+
 
 I got a question from Sham (Shamresh Khan) that I thought was
 interesting and also common. So I thought I post my answer here in the

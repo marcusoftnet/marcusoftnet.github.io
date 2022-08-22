@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7973153048578917460
 blogger_orig_url: http://www.marcusoft.net/2011/11/what-i-learned-from-from-user-stories.html
 ---
 
+
 I've just returned back home from a course. It's the first course
 I've attended in over a year and I'm always amazed how much you can
 learn in a short time; if the course and teacher is good and if you

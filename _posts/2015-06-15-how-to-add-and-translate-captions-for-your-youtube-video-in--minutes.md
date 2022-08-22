@@ -4,10 +4,7 @@ title: How to add and translate subtitles for your YouTube video in 10 minutes
 author: Marcus Hammarberg
 date: 2015-06-15T08:32:12.000Z
 tags:
-  - |-
-    Tools - Life of a consultant
-    - Salvation Army
-    - Indonesia
+  - LeanTools - Life of a consultant - Salvation Army - Indonesia
 ---
 
 I work for the Salvation Army in Indonesia right now with 6 hospitals spread throughout this vast country. Due to an extremely tight budget for travelling in our office I have tried to leave some kind of teaching behind. For that reason I have created a little series of presentations on important topics. The first three are about [mission](https://www.youtube.com/watch?v=MkLhlJyfpsw), [vision](https://www.youtube.com/watch?v=dc0zvNymNcM) and [strategic plans](https://www.youtube.com/watch?v=5Ibno8_CN9U) and are about 10-15 minutes each.

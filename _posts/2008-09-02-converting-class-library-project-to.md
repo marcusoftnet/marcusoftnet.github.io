@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6665008742715776220
 blogger_orig_url: http://www.marcusoft.net/2008/09/converting-class-library-project-to.html
 ---
 
+
 We have encountered a problem when renaming and restructuring Visual
 Studio projects. (There are numerous problems with that but here is one
 that really cause us to ponder for a while.) We create a standard Class

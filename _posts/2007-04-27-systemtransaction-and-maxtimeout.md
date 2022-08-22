@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3176416818371085872
 blogger_orig_url: http://www.marcusoft.net/2007/04/systemtransaction-and-maxtimeout.html
 ---
 
+
 I love the new System.Transaction found in .NET 2.0. I have been and
 will continue to use it in my applications.
 

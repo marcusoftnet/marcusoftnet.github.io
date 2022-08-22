@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/09/virtual-pc-performance-tip-mu
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I often get to work with brilliant people. That’s one the real benefits

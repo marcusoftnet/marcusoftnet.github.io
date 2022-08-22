@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7097480928420453058
 blogger_orig_url: http://www.marcusoft.net/2007/04/vbnet-not-that-bad.html
 ---
 
+
 Just for
 the record i also need to add a small notice as an answer to [my
 battering of

@@ -1,13 +1,15 @@
 ---
 layout: post
 title: My light and song
-date: 2009-03-09T19:17:00.001+01:00
+date: 2009-03-09T18:17:00.001Z
 author: Marcus Hammarberg
 tags:
   - BrassBand - Euphonium
-modified_time: 2009-03-09T21:55:36.836+01:00
+modified_time: 2009-03-09T20:55:36.836Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7210931014186323918
-blogger_orig_url: http://www.marcusoft.net/2009/03/my-light-and-song.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/03/my-light-and-song.html
+---
+
 
 In a few weeks the
 <a href="http://www.vasaband.se" target="_blank">Vasa Band</a> will do a

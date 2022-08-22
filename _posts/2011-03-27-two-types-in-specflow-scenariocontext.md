@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/03/two-types-in-specflow-scenari
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 The other day I got the opportunity to try to figure out some

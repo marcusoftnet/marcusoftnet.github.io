@@ -1,13 +1,15 @@
 ---
 layout: post
 title: De Blob – get a joy-kick!
-date: 2009-03-21T21:04:00.001+01:00
+date: 2009-03-21T20:04:00.001Z
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: 2009-05-05T11:31:06.975+02:00
+modified_time: 2009-05-05T09:31:06.975Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2156207795703249657
-blogger_orig_url: http://www.marcusoft.net/2009/03/de-blob-get-joy-kick.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/03/de-blob-get-joy-kick.html
+---
+
 
 I bought a new WII game yesterday –
 <a href="http://www.deblob.com/" target="_blank">De Blob</a>. It is a

@@ -4,7 +4,7 @@ title: “Waiting” should be a note and not a column
 date: 2014-05-12T06:46:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools - Team Yayasan - Lean
+  - Tools - Team Yayasan  - Lean
   - Life of a consultant
   - Kanban
   - Agile
@@ -14,6 +14,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3379764614197030165
 blogger_orig_url: http://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html
 ---
+
 
 
 Quite often when you create a visualized version of your workflow you

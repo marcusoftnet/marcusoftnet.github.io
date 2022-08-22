@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
 ---
 
+
 Who's up for a meeting?
 Whoopie - another meeting!
 

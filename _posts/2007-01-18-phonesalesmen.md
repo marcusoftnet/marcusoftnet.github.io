@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1683503506067199455
 blogger_orig_url: http://www.marcusoft.net/2007/01/phonesalesmen.html
 ---
 
+
 Yesterday i got phoned by a salesman (woman actually, Madeleine or
 something). This happened although i am connected with the
 [NIX-register](http://www.nix.nu/) (this register hold numbers that

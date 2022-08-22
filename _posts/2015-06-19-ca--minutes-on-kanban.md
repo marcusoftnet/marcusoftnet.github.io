@@ -2,17 +2,13 @@
 layout: post
 title: ca 15 minutes on Kanban
 author: Marcus Hammarberg
-date: 2015-06-19 14:30:08
+date: 2015-06-19T14:30:08.000Z
 tags:
-
   - Kanban
- - Lean
-
+  - Lean
   - Agile
- - Leadership
-
+  - Leadership
   - Indonesia
-
   - Salvation Army
   - Life of a consultant
 ---

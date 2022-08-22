@@ -4,9 +4,7 @@ title: When we used user story mapping to plan our move
 author: Marcus Hammarberg
 date: 2017-10-20T11:06:09.000Z
 tags:
-  - |-
-    Lean
-    - Agile
+  - LeanLean - Agile
   - Marcus private
 ---
 

@@ -2,12 +2,11 @@
 layout: post
 title: Some thoughts after running the marshmallow challenge with kids
 author: Marcus Hammarberg
-date: 2017-01-20 11:00:00
+date: 2017-01-20T11:00:00.000Z
 tags:
-
   - Agile
- - Lean
- - Marcus private
+  - Lean
+  - Marcus private
 ---
 
 Sometimes I get the opportunity to try things that I never done before, or didn't think that I would dare. Do those things if you get the chance. Always do them! I never regretted taking one of those opportunities, after they are over.

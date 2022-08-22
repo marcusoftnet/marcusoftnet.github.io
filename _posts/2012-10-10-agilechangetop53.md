@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop53.html
 ---
 
 
+
 This is the third post on my top 5 ways of making sure that your agile
 change initiative succeeds.
 

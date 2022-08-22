@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6621610237746349724
 blogger_orig_url: http://www.marcusoft.net/2008/08/validating-wcf-messages-with-wsdl.html
 ---
 
+
 When you first think about it, it's quite strange that no
 validation, takes place out-of-the-box ,against the <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">WSDL that

@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Things I say often: This is your board - change it
+title: Things I say often This is your board - change it
 author: Marcus Hammarberg
-date: 2015-01-16 13:42:03
+date: 2015-01-16T13:42:03.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
- - Scrum
- - Things I say often
+  - Lean
+  - Scrum
+  - Things I say often
 ---
 
 I have probably introduce around 80-100 teams to the use of some sort of board to visualize their work. One of the things that I often ... ah, always say and also have to repeat is this:

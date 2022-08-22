@@ -4,9 +4,7 @@ title: Developer failure
 author: Marcus Hammarberg
 date: 2016-05-11T12:00:00.000Z
 tags:
-  - |-
-    Lean
-    - Kanban - Life of a consultant
+  - LeanLean - Kanban - Life of a consultant
 ---
 
 I got a request by a nice man call Brandon Garlock to share some failure of mine. My contribution will be part of a:

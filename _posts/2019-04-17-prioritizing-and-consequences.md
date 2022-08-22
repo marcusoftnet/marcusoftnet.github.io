@@ -2,13 +2,11 @@
 layout: post
 title: The consequences of prioritizing
 author: Marcus Hammarberg
-date: 2019-04-17 11:56:05
+date: 2019-04-17T11:56:05.000Z
 tags:
-
   - Agile
- - Scrum
- - Lean
-
+  - Scrum
+  - Lean
   - Kanban
 ---
 
@@ -44,6 +42,8 @@ Now to the Warren-Buffet-question: what about Item B (and all other non-prioriti
 > They are now on our Avoid-At-All-Cost list. No matter what, these things get no attention from you until you’ve succeeded with your top 5
 
 ## In the real world
+
+
 Following along in the (rock-solid) reasoning of this blog post you might now think for yourself: Yes, of course. That is very clear.
 But sadly, what I've experienced and seen in my explorations of the real world is something very different:
 
@@ -54,7 +54,9 @@ But sadly, what I've experienced and seen in my explorations of the real world i
 
 Seriously - I see this all over. And for many years now.
 
+
 ## What would be cool to see instead
+
 That team should get rewarded for not doing Item B. We should applaud them and thank them. Item A got proper focus now. Thank you, team.
 
 We could very well have argued that picking Item A over B was the wrong decision, but that is a very different question than to blame the team for not doing B too when we prioritized A. The system and grounds of priority doesn't seem clear to everyone. Let's work on that.
@@ -64,7 +66,9 @@ Or, which is my favourite, when we really don't know the size - then let's set a
 
 We could, in a similar fashion, argue that Item A is WAAAAY bigger than Item B. Just look at it. It's several months worth of work. But that is no reason to yell at the team for following the priority and not doing Item B. But I would strongly recommend slicing any items that we want to spend the precious capacity of the team on, into smaller pieces than that. How about we set a rule that nothing bigger than 2 weeks can be started by the week?
 
+
 ## Summary
+
 Prioritizing Item A over Item B means that Item B is, rightly, on our `avoid at all cost`-list. We should promote and congratulate teams for doing that. This will not only give Item A the attention our prioritizing was meant to give it, but also give the team a focused work situation.
 
 Did you see that I didn't write `forever` and `always` in my bits of advice? I'm not smart enough for those kinds of advice. Thinking is still required.

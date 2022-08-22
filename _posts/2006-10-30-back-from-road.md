@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6082049307851792675
 blogger_orig_url: http://www.marcusoft.net/2006/10/back-from-road.html
 ---
 
+
 Returned to Stockholm from a small tour... exhausted of course.
 
 Funny how playing and spending so much time together bonds you and makes

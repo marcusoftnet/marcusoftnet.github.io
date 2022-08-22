@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-559311242726549207
 blogger_orig_url: http://www.marcusoft.net/2007/05/european-in-retrospect.html
 ---
 
+
 So my
 tip failed miserably but i was tipping with
 my heart. From [this

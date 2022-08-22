@@ -4,12 +4,13 @@ title: Impact mapping - you are not WHO
 date: 2013-06-10T13:23:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
+  - Tools  - Lean
   - Agile
 modified_time: 2013-06-10T13:25:16.325Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5361804377589118445
 blogger_orig_url: http://www.marcusoft.net/2013/06/whoIsNotTeams.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

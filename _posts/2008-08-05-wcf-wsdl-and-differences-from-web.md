@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8135171371212210138
 blogger_orig_url: http://www.marcusoft.net/2008/08/wcf-wsdl-and-differences-from-web.html
 ---
 
+
 I'm back after a four week vacation (oh yeah - us Swedes really has
 things going for us). More about the vacation later.
 First thing to learn this "season" is that the

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/12/great-tool-for-creating-snipp
 ---
 
 
+
 I love the <a href="http://en.wikipedia.org/wiki/Snippet_(programming)"
 target="_blank">snippet</a> support in Visual Studio. It’s so much a
 part of what we do that we don’t even think about it anymore. Just like

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: package.json: engines & engineStrict - and how to use them
+title: package.json engines & engineStrict - and how to use them
 author: Marcus Hammarberg
-date: 2015-03-24 11:14:54
+date: 2015-03-24T11:14:54.000Z
 tags:
- - Javascript
- - Tools
+  - Javascript
+  - Tools
 ---
 
 I'm poking around quite a lot with <a href="https://iojs.org">io.js</a> recently for reasons that soon will be revealed. When doing so I used my favorite Node version manager - <a href="https://github.com/creationix/nvm">Node Version Manager</a> to manage different versions of <a href="http://nodejs.org">Node</a> and io.js.
@@ -19,6 +19,7 @@ In this post I'll show you how to use the <a href="http://www.marcusoft.net/2014
 <!-- excerpt-end -->
 
 # engines
+
 In the package.json there's an optional node that you can set called ```engines```. From the <a href="https://docs.npmjs.com/files/package.json">documentation</a> we can read about what this is for:
 
 <blockquote>You can specify the version of node that your stuff works on</blockquote>
@@ -47,6 +48,7 @@ But you could also state that your "stuff" runs on several version of Node. In t
 Koa supports both node and io.js at the respectively stated versions.
 
 # engineStrict
+
 There's another optional configuration setting in the package.json file called ```engineStrict```. Again from the documentation we read
 
 <blockquote>If you are sure that your module will definitely not run properly on versions of Node/npm other than those specified in the engines object, then you can set "engineStrict": true in your package.json file.</blockquote>
@@ -69,6 +71,7 @@ Basically it means that we can be more restrictive about what our code need to r
 This will ensure that only io.js at version 1.6.1 is used when running my module. But how is that ensured?
 
 # Using the engines configurations
+
 Well this is cool but what does that mean? I'm state the engine my things requires but how can I use it?
 
 Let's take an example and test it out. Let's say that I have a package.json with the following configuration for engines:
@@ -115,6 +118,7 @@ npm WARN engine demoapp@1.0.0: wanted: {"node":"0.12.0"} (current: {"node":"0.11
 And finally, if we change the ```engines``` to match our running version (0.11.14) it works without errors.
 
 # Summary
+
 I think that with the advent of io.js we all have to be more watchful of which engines we are using for our code. Especially when we are deploying to services like <a href="http://www.heroku.com">Heroku</a> etc.
 
 Knowing how, and why, the ```engines``` and ```engineStrict``` behaves as it does will be very valuable for me. And hopefully for you too.

@@ -1,15 +1,17 @@
 ---
 layout: post
 title: DDD and Naked Objects
-date: 2009-10-20T13:48:00.001+02:00
+date: 2009-10-20T11:48:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools - DDD
   - .NET
   - Agile
-modified_time: 2010-12-14T16:22:38.182+01:00
+modified_time: 2010-12-14T15:22:38.182Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357154258673076643
-blogger_orig_url: http://www.marcusoft.net/2009/10/ddd-and-naked-objects.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/10/ddd-and-naked-objects.html
+---
+
 
 I’ve just learned about this and don’t want to loose the thought and
 links surrounding it.

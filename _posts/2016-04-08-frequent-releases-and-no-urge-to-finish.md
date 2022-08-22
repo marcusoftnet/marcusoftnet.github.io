@@ -2,12 +2,10 @@
 layout: post
 title: Frequent releases and no urge to finish
 author: Marcus Hammarberg
-date: 2016-04-08 07:07:25
+date: 2016-04-08T07:07:25.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

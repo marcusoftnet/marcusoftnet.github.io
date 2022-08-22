@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/msbuild-refactor-and-targets-
 ---
 
 
+
 I found a very niffty little feature of MSBuild, that is really helpful
 when it comes to structuring your build file.
 

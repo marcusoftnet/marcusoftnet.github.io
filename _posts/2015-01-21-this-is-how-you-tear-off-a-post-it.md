@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Things I say often: NO! This is how you tear off a post-it
+title: Things I say often NO! This is how you tear off a post-it
 author: Marcus Hammarberg
-date: 2015-01-21 07:01:10
+date: 2015-01-21T07:01:10.000Z
 tags:
-
   - Agile
- - Scrum
-
+  - Scrum
   - Kanban
- - Things I say often
+  - Things I say often
 ---
 
 I've said this so often that we even wrote about it in the [Kanban In Action](http://bit.ly/theKanbanBook). It's not a book about tearing off post-it's but it's the printed kanban literature most geeky sidebar.

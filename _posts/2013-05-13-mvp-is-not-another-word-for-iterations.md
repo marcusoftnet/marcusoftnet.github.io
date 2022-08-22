@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-i
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 In recent years the [Lean Startup

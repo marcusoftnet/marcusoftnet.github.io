@@ -4,8 +4,7 @@ title: Plans are theoretical
 author: Marcus Hammarberg
 date: 2021-12-09T11:44:17.000Z
 tags:
-  - Agile
-  - Management
+  - Agile - Management
 ---
 
 I just had an aha-experience that shook me; first I found it interesting, and then I was ashamed that I haven't realized this before.

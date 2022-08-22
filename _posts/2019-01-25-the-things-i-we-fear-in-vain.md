@@ -2,11 +2,10 @@
 layout: post
 title: The things I (we) worry about in vain
 author: Marcus Hammarberg
-date: 2019-01-20 16:34:46
+date: 2019-01-20T16:34:46.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

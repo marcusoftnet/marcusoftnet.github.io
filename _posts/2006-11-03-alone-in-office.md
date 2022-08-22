@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-558442394067670738
 blogger_orig_url: http://www.marcusoft.net/2006/11/alone-in-office.html
 ---
 
+
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/320/IMAGE_094.jpg"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"

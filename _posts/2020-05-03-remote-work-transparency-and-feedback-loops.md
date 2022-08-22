@@ -2,11 +2,9 @@
 layout: post
 title: Remote work, transparency, and feedback
 author: Marcus Hammarberg
-date: 2020-05-03 17:26:02
+date: 2020-05-03T17:26:02.000Z
 tags:
-
-  - Agile
- - Lean
+  - Agile - Lean
 ---
 
 In these very strange times, we see a lot of change; some are really sad, devastating, and depressing. While others are encouraging and celebrate humankind's will and capacity to survive and overcome.
@@ -51,3 +49,4 @@ Yeah, as I feared. I didn't get far with these thoughts. I couldn't bear myself 
 I've noticed that with a slower feedback loop in our communication, the lacking transparency (if present) will be apparent. I fill the missing information out with my guesses, based on the context I have. This leads to even more misconceptions and my current context is updated with these bad assumptions and starts a downward spiral of misconceptions.
 
 The obvious solution is to not make assumptions and instead search for me real information. I know this but fail in doing this. So often.
+

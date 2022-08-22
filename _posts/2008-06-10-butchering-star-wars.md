@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5110854271985701620
 blogger_orig_url: http://www.marcusoft.net/2008/06/butchering-star-wars.html
 ---
 
+
 Normally
 I don't like to laugh at misfortune but this is just to much. From what
 I understand this is from a beauty pageant in USA. You know, one part of

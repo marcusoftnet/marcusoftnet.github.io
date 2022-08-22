@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5387902116615166560
 blogger_orig_url: http://www.marcusoft.net/2007/05/vsts-bug-or-is-it.html
 ---
 
+
 In my
 current project we are using Visual Studio Team System (VSTS) which i
 mostly like. But there have been some confusion and frustration

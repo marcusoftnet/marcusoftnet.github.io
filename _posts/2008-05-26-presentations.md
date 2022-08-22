@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/05/presentations.html
 ---
 
 
+
 Today is kind of a special day at work. After the normal work day we
 have invited my customer to
 <a href="http://www.avega.se/" target="_blank">Avega</a> for an evening

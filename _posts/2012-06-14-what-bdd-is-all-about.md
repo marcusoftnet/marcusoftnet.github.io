@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9079199862341884847
 blogger_orig_url: http://www.marcusoft.net/2012/06/what-bdd-is-all-about.html
 ---
 
+
 I got an
 email from a colleague a couple of weeks back. We were members of the
 same team for awhile this last autumn. He (and the rest of the team) are

@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3449654218927447341
 blogger_orig_url: http://www.marcusoft.net/2008/08/cool-wcf-utilis.html
 ---
 
+
 From the [last
 post](http://www.marcusoft.net/2008/08/i-like-powercommands-for-visual-studio.html)
 I found a new URL for [code stuff from MSDN](http://code.msdn.microsoft.com/)

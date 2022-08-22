@@ -2,13 +2,11 @@
 layout: post
 title: Teams are immutable structures
 author: Marcus Hammarberg
-date: 2017-09-22 14:27:56
+date: 2017-09-22T14:27:56.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

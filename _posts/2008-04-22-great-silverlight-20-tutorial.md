@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Great Silverlight 2.0 Tutorial
-date: 2008-04-22T07:40:00.005+02:00
+date: 2008-04-22T05:40:00.005Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - ASP.NET MVC
-modified_time: 2008-11-11T15:29:36.806+01:00
+modified_time: 2008-11-11T14:29:36.806Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5211319906040566630
-blogger_orig_url: http://www.marcusoft.net/2008/04/great-silverlight-20-tutorial.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/04/great-silverlight-20-tutorial.html
+---
+
 Everybody who knows me knows my
 feelings on doing complex WebGUI. In short i think it is
 stupid - and also i have never met a developer yet who can show me a

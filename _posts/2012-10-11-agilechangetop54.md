@@ -12,6 +12,8 @@ modified_time: 2012-10-11T09:00:16.968+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3150258399185542597
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop54.html
 ---
+
+
 <div class="p1">
 
 This is the second post on my top 5 ways of making sure that your agile

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/dos-script-to-delete-all-visu
 ---
 
 
+
 I have a USB-stick which acts as my backup. As I program a lot
 compilation and unit testing produces a lot of trash (.pdb, Test
 Results, obj-files etc). I don’t want or need a backup of those.

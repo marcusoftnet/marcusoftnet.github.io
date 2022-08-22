@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Dignity - gone!
-date: 2007-07-03T07:28:00.000+02:00
+date: 2007-07-03T05:28:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
-modified_time: 2007-07-03T07:54:32.869+02:00
+modified_time: 2007-07-03T05:54:32.869Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5179432351637438825
-blogger_orig_url: http://www.marcusoft.net/2007/07/dignity-gone.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/07/dignity-gone.html
+---
+
 Here is a story about when my dignity was shredded. True i am afraid.
 
 This weekend the Salvation Army Congress was held here in Sweden. We

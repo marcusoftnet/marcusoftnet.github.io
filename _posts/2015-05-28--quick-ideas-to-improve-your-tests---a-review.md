@@ -2,12 +2,11 @@
 layout: post
 title: 50 quick ideas to improve your tests - a review
 author: Marcus Hammarberg
-date: 2015-05-28 21:02:04
+date: 2015-05-28T21:02:04.000Z
 tags:
-
   - Agile
- - Lean
- - Tools
+  - Lean
+  - Tools
 ---
 
 They've done [it again](/2014/12/-quick-ideas-on-user-stories.html). [Gojko Adzic](http://gojko.net), [David Evans](https://twitter.com/davidevans66) and, in this book, [Tom Roden](https://twitter.com/TommRoden) has written another 50 quick ideas book. And this one is equally good as the previous book on user stories. If not even better.

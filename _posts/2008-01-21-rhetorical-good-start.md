@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2454732724246582743
 blogger_orig_url: http://www.marcusoft.net/2008/01/rhetorical-good-start.html
 ---
 
+
 I've
 always been fascinating on how to do a good presentation or how to
 persuade an audience. My usual way to do this is to study the subject

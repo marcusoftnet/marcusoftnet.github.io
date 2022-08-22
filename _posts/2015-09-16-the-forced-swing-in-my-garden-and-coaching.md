@@ -2,11 +2,10 @@
 layout: post
 title: The forced swing in my garden... and coaching
 author: Marcus Hammarberg
-date: 2015-09-16 08:36:16
+date: 2015-09-16T08:36:16.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

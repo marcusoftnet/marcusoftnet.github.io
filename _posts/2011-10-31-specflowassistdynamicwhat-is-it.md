@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4240793233483386742
 blogger_orig_url: http://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html
 ---
 
+
 <a href="http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic"
 target="_blank">NuGet package</a>! I am so proud. Actually it’s just a
 small extension to <a href="http://www.blogger.com/www.specflow.org"

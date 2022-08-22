@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/pair-programming-benefits-and
 ---
 
 
+
 As I
 <a href="http://www.marcusoft.net/2009/09/marcus-doing-new-stuff.html"
 target="_blank">wrote earlier</a> I attended my first ever

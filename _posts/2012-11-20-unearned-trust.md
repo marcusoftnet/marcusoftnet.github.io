@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/11/unearned-trust.html
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 Today I've experience a rare thing. I went into a restaurant in

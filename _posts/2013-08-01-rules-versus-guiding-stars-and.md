@@ -5,11 +5,12 @@ soccer
 date: 2013-08-01T15:20:00.002+02:00
 author: Marcus Hammarberg
 tags:
-
   - Agile
 modified_time: 2013-08-01T16:00:43.953+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7711855420494540411
-blogger_orig_url: http://www.marcusoft.net/2013/08/rules-versus-guiding-stars-and.html ---
+blogger_orig_url: http://www.marcusoft.net/2013/08/rules-versus-guiding-stars-and.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

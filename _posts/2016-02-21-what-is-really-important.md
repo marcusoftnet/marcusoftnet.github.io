@@ -2,13 +2,12 @@
 layout: post
 title: What is important, really?
 author: Marcus Hammarberg
-date: 2016-02-21 15:33:38
+date: 2016-02-21T15:33:38.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Marcus private
+  - Marcus private
 ---
 
 The team I'm in right now is under a lot of pressure and stress. And have been for some time before I joined it. I've been in meetings where no-one of the five people in the room could sit down, due to stress. Two weeks after I started I had to comfort a crying colleague after the "customer" yelled at her, despite her best efforts. Me, myself, I'm nervous to report any news (good or bad) to the customers, since they seem to be angry all the time. Things like that.

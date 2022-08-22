@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7674306098552155455
 blogger_orig_url: http://www.marcusoft.net/2007/04/well-meet-again.html
 ---
 
+
 At my new customer (a big insurance company in Sweden) i have met so
 many friends and people i know from the past, that i am just amazed over
 how small Sweden is. Or IT in Sweden are a more correct way of putting

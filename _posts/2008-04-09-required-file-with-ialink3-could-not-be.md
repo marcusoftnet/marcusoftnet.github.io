@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/required-file-with-ialink3-co
 ---
 
 
+
 OK - a bit irritating but the first time I tried to compile ... well
 anything (a console-application in this case) on my newly installed
 Visual Studio 2008 on Vista - I got this error:

@@ -2,12 +2,10 @@
 layout: post
 title: What should I pick?
 author: Marcus Hammarberg
-date: 2018-10-10 17:45:07
+date: 2018-10-10T17:45:07.000Z
 tags:
-
   - Kanban
- - Lean
-
+  - Lean
   - Agile
 ---
 

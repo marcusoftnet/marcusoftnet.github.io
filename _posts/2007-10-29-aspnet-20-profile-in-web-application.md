@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5749312230854668126
 blogger_orig_url: http://www.marcusoft.net/2007/10/aspnet-20-profile-in-web-application.html
 ---
 
+
 It has been a while since i coded web (not longing to much, i can
 say) and during this time a lot of development has happened of course.
 One of the great new features in ASP.NET 2.0 is the membership and

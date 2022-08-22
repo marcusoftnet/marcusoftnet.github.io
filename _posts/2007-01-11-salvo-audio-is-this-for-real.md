@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Salvo Audio - is this for real?
-date: 2007-01-11T08:37:00.000+01:00
+date: 2007-01-11T07:37:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Salvation Army
-modified_time: 2007-01-11T08:39:41.764+01:00
+modified_time: 2007-01-11T07:39:41.764Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4335749887782496659
-blogger_orig_url: http://www.marcusoft.net/2007/01/salvo-audio-is-this-for-real.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/01/salvo-audio-is-this-for-real.html
+---
+
 Got a great tip yesterday about [Salvo
 Audio](http://www.salvoaudio.com/) yesterday.
 

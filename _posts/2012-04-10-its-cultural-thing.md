@@ -1,16 +1,17 @@
 ---
 layout: post
 title: It’s a cultural thing
-date: 2012-04-09T22:07:00.001+02:00
+date: 2012-04-09T20:07:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-
   - Salvation Army
-modified_time: 2012-04-09T22:07:20.569+02:00
+modified_time: 2012-04-09T20:07:20.569Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6354054253980436752
-blogger_orig_url: http://www.marcusoft.net/2012/04/its-cultural-thing.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/04/its-cultural-thing.html
+---
+
 
 Lately I’ve been coming back again and again the importance of culture
 in an organization, group or company. It’s the thing that binds you

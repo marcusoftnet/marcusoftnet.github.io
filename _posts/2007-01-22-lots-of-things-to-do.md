@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1200052981307398407
 blogger_orig_url: http://www.marcusoft.net/2007/01/lots-of-things-to-do.html
 ---
 
+
 So, why
 do i always think that "it will be lesser to do this semester" - when i
 know...

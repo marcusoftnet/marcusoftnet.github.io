@@ -94,7 +94,7 @@ All of this put together gave me a workflow like that looked like this:
 2. Start computer
    1. Make initial configuration (language, location, wifi access, keyboard)
    2. Make user config (username and password, by pass Siri, Touch ID etc that I couldn't do on the user behalf)
-   3. Get the command to do bootstrapping (see below) from https://github.com/saltsthlm/jsfullstackdev-dotfiles
+   3. Get the command to do bootstrapping (see below) from <https://github.com/saltsthlm/jsfullstackdev-dotfiles>
 3. Run that command in the terminal, which required some password typing
    1. Enter git name and user when requested
    2. Wait for bootstrap to start
@@ -108,8 +108,8 @@ All of this put together gave me a workflow like that looked like this:
 
 ### Statistics
 
-- Each computer took about 35 minutes from the time I picked it from the pile until I put it back into it's box
-- I started 1000, took 1 hour lunch and finished 1600 on the minute. So 5 hours for 33 computers = 6,6 per hour
+* Each computer took about 35 minutes from the time I picked it from the pile until I put it back into it's box
+* I started 1000, took 1 hour lunch and finished 1600 on the minute. So 5 hours for 33 computers = 6,6 per hour
 
 ## What I learned
 
@@ -175,7 +175,7 @@ As always, when I started to see many improvement opportunities as I started to 
 Here's a few improvements that came to me as I worked:
 
 * By having the same password for all computers I only needed to remember the password and didn't need to care about which user I used. With a simple instruction I can ask the students to change it afterwards
-* Once the computer booted for the first time I needed to type the CURL-command above. It was took forever to get right so I wrote it in the ReadMe.md in our repository. Just typing the URL of the repository was hard so I created a http://bit.ly link that was shorter and easier to remember
+* Once the computer booted for the first time I needed to type the CURL-command above. It was took forever to get right so I wrote it in the ReadMe.md in our repository. Just typing the URL of the repository was hard so I created a <http://bit.ly> link that was shorter and easier to remember
 * As part of the installation I needed to write the full name and email of each user. That was horrible hard to get right so I wrote the email of all students in the ReadMe.md
   * I then just copied the email and used that when created the full name (by removing the @-part)
   * I made sure to remove the emails from the file and the commit history once I was done

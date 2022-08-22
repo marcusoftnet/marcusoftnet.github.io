@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5196648005050045479
 blogger_orig_url: http://www.marcusoft.net/2008/04/sending-parameters-to-msbuild-in-tfs.html
 ---
 
+
 The build process in Team Foundation Server is the one part where
 you still miss some stuff. Although it is much better in TFS 2008 than
 in TFS 2005 it is still quite cumbersome to handle.

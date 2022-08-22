@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1388415888810018347
 blogger_orig_url: http://www.marcusoft.net/2006/12/credential-passing-in-soa-solutions-for.html
 ---
 
+
 So finally i got the opportunity to write some about a finding that
 has solved a major problem at my customer. A big thank you to Fredrik A
 and Micke for the help on this solution.

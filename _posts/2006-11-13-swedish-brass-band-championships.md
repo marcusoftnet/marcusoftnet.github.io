@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-419045354838279576
 blogger_orig_url: http://www.marcusoft.net/2006/11/swedish-brass-band-championships.html
 ---
 
+
 [<img
 src="http://www.goteborgbrassband.org.se/images/GBB_SM_2006_BAND.jpg"
 style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 320px; CURSOR: hand; TEXT-ALIGN: center"

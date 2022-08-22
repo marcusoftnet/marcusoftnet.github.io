@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5926341384849228586
 blogger_orig_url: http://www.marcusoft.net/2007/10/hands-standing-up.html
 ---
 
+
 Here is a
 video with the Cory Band and a singing group. Really nice and made the
 hairs of my arm stand on end.

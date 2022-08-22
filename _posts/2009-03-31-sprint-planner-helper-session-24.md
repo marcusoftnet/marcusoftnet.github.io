@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
+
 My detour for learning
 <a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> is
 coming to an end. I cannot say that I fully know the framework but I

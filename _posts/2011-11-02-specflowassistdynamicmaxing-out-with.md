@@ -15,6 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-508246732156716014
 blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
 ---
 
+
 <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic"
 target="_blank">SpecFlow.Assist.Dynamic</a> came about from my own need
 when I wrote something that used

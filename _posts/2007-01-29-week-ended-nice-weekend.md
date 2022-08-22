@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-917660750540573695
 blogger_orig_url: http://www.marcusoft.net/2007/01/week-ended-nice-weekend.html
 ---
 
+
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/Rb2X63eQJpI/AAAAAAAAAEw/UmBOLRCpza4/s400/PICT0384.JPG"
 id="BLOGGER_PHOTO_ID_5025339796794386066"

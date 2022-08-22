@@ -2,11 +2,10 @@
 layout: post
 title: The hidden agenda of agile....
 author: Marcus Hammarberg
-date: 2016-02-29 15:33:38
+date: 2016-02-29T15:33:38.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

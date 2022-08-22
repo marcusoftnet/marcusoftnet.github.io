@@ -5,7 +5,7 @@ visualisations to knowledge
 date: 2014-09-16T04:34:00.000+02:00
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
+  - Tools  - Lean
   - Life of a consultant
    -
 Kanban
@@ -14,7 +14,9 @@ Kanban
 modified_time: 2014-11-04T03:49:01.421+01:00
 thumbnail: http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916
-blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

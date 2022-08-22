@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7349605965807386338
 blogger_orig_url: http://www.marcusoft.net/2007/09/lot-of-team-system.html
 ---
 
+
 This entire week
 has been concerned with Team Foundation Server (<span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">TFS) and

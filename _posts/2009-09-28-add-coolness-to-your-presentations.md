@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/add-coolness-to-your-presenta
 ---
 
 
+
 Yeah – I know that I already has written about an <a
 href="http://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html"
 target="_blank">online PowerPoint</a>, but this tool actually replaces

@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Dependency Injection - explained
-date: 2007-03-30T09:11:00.000+02:00
+date: 2007-03-30T07:11:00.000Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
-modified_time: 2007-03-30T09:51:48.406+02:00
+modified_time: 2007-03-30T07:51:48.406Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-340487749415014671
-blogger_orig_url: http://www.marcusoft.net/2007/03/dependency-injection-explained.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/03/dependency-injection-explained.html
+---
+
 When I first read about Dependency Injection, i of course read the
 [famous article](http://www.martinfowler.com/articles/injection.html) by
 Martin Fowler... and to you i can say that i didn't get it. At all.

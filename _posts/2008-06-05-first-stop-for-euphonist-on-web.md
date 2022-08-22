@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2005722504554064702
 blogger_orig_url: http://www.marcusoft.net/2008/06/first-stop-for-euphonist-on-web.html
 ---
 
+
 This guy, [David Werden](http://www.dwerden.com/), has been around
 on the net for quite a while. But now he has expanded his site with a
 [blog](http://www.dwerden.com/blog3/) and some other [great

@@ -5,8 +5,7 @@ author: Marcus Hammarberg
 date: 2017-08-15T15:33:04.000Z
 tags:
   - Life of a consultant
-  - Tools
-  - Programming
+  - Tools - Programming
 ---
 
 I had a problem and I noticed that I've, in the last couple of years, started to think differently about how to solve problems like these. I thought I share the solution to my problem here but also a little bit about the reasoning behind my problem solving.

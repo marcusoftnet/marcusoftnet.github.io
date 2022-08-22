@@ -1,14 +1,17 @@
 ---
 layout: post
 title: A son is born!
-date: 2008-01-29T12:06:00.001+01:00
+date: 2008-01-29T11:06:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2008-01-29T12:21:30.821+01:00
-thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
+modified_time: 2008-01-29T11:21:30.821Z
+thumbnail: >-
+  http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-644964024397565861
-blogger_orig_url: http://www.marcusoft.net/2008/01/son-is-born.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/01/son-is-born.html
+---
+
 [<img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s320/PICT2446.JPG"
 id="BLOGGER_PHOTO_ID_5160856808168754914"

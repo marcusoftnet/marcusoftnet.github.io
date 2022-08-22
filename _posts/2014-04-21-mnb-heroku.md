@@ -6,12 +6,14 @@ date: 2014-04-21T16:02:00.000+02:00
 author: Marcus Hammarberg
 tags:
   - Node - Javascript
-  - Tools - Koa - Lean
+  - Tools - Koa  - Lean
   - Agile -
 ContinuousDelivery
 modified_time: 2014-05-29T14:22:24.020+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6218298441525731501
-blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

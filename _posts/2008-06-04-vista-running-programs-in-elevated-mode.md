@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/06/vista-running-programs-in-ele
 ---
 
 
+
 I just ran into an problem with installing a program on my Vista
 machine. That particular program needed to be installed from "an
 elevated command prompt". That is; a command prompt running as

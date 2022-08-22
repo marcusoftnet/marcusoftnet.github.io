@@ -2,14 +2,12 @@
 layout: post
 title: The best product owner I ever met
 author: Marcus Hammarberg
-date: 2016-10-26 11:20:52
+date: 2016-10-26T11:20:52.000Z
 tags:
-
   - Agile
- - Scrum
-
+  - Scrum
   - Kanban
- - Lean
+  - Lean
 ---
 
 One of the things that many agile approaches, that I've been involved in or nearby, get stuck on is the role of the Product Owner. The role simply doesn't sit right in bigger organisations. I think there are many reasons for that and I will share a few in this post.

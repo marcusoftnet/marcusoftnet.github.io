@@ -2,11 +2,10 @@
 layout: post
 title: No - waterfall is not sometimes correct. It is always wrong
 author: Marcus Hammarberg
-date: 2017-11-16 10:41:45
+date: 2017-11-16T10:41:45.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

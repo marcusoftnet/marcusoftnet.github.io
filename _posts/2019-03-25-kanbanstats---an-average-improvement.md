@@ -2,13 +2,11 @@
 layout: post
 title: KanbanStats - an average improvement
 author: Marcus Hammarberg
-date: 2019-03-25 12:41:24
+date: 2019-03-25T12:41:24.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
 ---
 
 Reading books is awesome - because it changes how you see and think about the world. I'm an avid reader and a non-recovering learn-o-holic.

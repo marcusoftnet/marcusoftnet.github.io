@@ -2,13 +2,11 @@
 layout: post
 title: Priority 0 - we meet again
 author: Marcus Hammarberg
-date: 2018-04-10 13:34:57
+date: 2018-04-10T13:34:57.000Z
 tags:
-
   - Agile
   - Life of a consultant
- - Lean
-
+  - Lean
   - Kanban
 ---
 

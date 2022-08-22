@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-725532187139496796
 blogger_orig_url: http://www.marcusoft.net/2007/03/easter-coming-up.html
 ---
 
+
 On my way to work today i noticed that the Easter was initiated in
 the windows of the shops i passed. This is a discussion you don't hear
 so often; the shops starting Easter earlier and earlier each year. I

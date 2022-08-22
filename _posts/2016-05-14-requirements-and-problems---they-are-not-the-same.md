@@ -2,13 +2,11 @@
 layout: post
 title: Requirements are not problem/opportunity descriptions
 author: Marcus Hammarberg
-date: 2016-05-14 12:59:58
+date: 2016-05-14T12:59:58.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Resharper! For VB.NET? - Revisited
-date: 2007-10-29T12:23:00.000+01:00
+date: 2007-10-29T11:23:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - Visual Studio
-modified_time: 2010-12-14T16:21:04.001+01:00
+modified_time: 2010-12-14T15:21:04.001Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6776151297451892784
-blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet-revisited.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/10/resharper-for-vbnet-revisited.html
+---
+
 Ok -
 i'll give
 Resharper

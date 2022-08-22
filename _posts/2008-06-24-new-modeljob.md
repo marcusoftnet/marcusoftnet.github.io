@@ -1,14 +1,16 @@
 ---
 layout: post
 title: New model job
-date: 2008-06-24T08:23:00.004+02:00
+date: 2008-06-24T06:23:00.004Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2008-06-25T07:38:32.532+02:00
+modified_time: 2008-06-25T05:38:32.532Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9169450819170999636
-blogger_orig_url: http://www.marcusoft.net/2008/06/new-modeljob.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/06/new-modeljob.html
+---
+
 Yesterday was the second job of my "modelling career". You remember [the
 first](http://www.marcusoft.net/2007/08/marcus-model_27.html) don't
 you?

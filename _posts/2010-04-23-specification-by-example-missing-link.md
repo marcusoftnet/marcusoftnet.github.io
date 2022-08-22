@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/04/specification-by-example-miss
 ---
 
 
+
 I’ve been thinking. That statement alone will be sure to put fear in the
 heart of a lot of you… But if you have continued on this far, here we
 go.

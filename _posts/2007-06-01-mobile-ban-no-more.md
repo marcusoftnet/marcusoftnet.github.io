@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1997366213874500502
 blogger_orig_url: http://www.marcusoft.net/2007/06/mobile-ban-no-more.html
 ---
 
+
 Oh - how i
 love to be right...
 

@@ -2,18 +2,15 @@
 layout: post
 title: ca 15 minutes on Impact mapping
 author: Marcus Hammarberg
-date: 2015-06-18 11:26:05
+date: 2015-06-18T11:26:05.000Z
 tags:
-
   - Indonesia
- - Lean
- - Leadership
-
+  - Lean
+  - Leadership
   - Agile
   - Life of a consultant
-
   - Salvation Army
- - Impact mapping
+  - Impact mapping
 ---
 
 Having your mission, vision and strategy in place are essential but result in nothing, if you can't make sure that you execute them. Can't make sure that you take steps in your strategic plan to get closer to the vision.

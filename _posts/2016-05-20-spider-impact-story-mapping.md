@@ -2,13 +2,11 @@
 layout: post
 title: Solving the underpants gnomes pitfall
 author: Marcus Hammarberg
-date: 2016-05-20 12:59:58
+date: 2016-05-20T12:59:58.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
-
   - Kanban
 ---
 

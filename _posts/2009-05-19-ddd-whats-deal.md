@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/05/ddd-whats-deal.html
 ---
 
 
+
 After doing <a href="http://en.wikipedia.org/wiki/Domain-driven_design"
 target="_blank">DDD</a> (on a very basic level) for sometime now, I now
 realize that I could benefit with some sort of sum up. Often when I

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7517380477412776424
 blogger_orig_url: http://www.marcusoft.net/2007/04/including-namespaces-in-new-vbnet.html
 ---
 
+
 (UPDATE 2007-04-26 after reading this see
 <http://marcushammarberg.blogspot.com/2007/04/chose-your-battles.html>)
 

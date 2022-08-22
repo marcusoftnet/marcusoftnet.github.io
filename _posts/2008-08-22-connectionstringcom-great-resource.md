@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3503178580830493314
 blogger_orig_url: http://www.marcusoft.net/2008/08/connectionstringcom-great-resource.html
 ---
 
+
 I just found this great site
 [http://www.connectionstrings.com](http://www.connectionstrings.com/).
 Here you'll find the answer to the age-old questions

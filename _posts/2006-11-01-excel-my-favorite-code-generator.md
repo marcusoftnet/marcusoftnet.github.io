@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3263601739160012005
 blogger_orig_url: http://www.marcusoft.net/2006/11/excel-my-favorite-code-generator.html
 ---
 
+
 I have spent the main part of the last two days compiling
 SQL-statements with Excel, and it's actually quite good at it.
 

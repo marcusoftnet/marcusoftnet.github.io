@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/synchronization-for-consultan
 ---
 
 
+
 I am so proud. My <a
 href="http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html"
 target="_blank">evil scheme to keep my calendar(s)</a> in sync got

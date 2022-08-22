@@ -4,8 +4,7 @@ title: Bash scripting to check the status of 100 repositories
 author: Marcus Hammarberg
 date: 2020-08-10T15:38:56.000Z
 tags:
-  - Javascript
-  - Programming - Life of a consultant
+  - Javascript - Programming - Life of a consultant
 ---
 
 At [</salt>](https://salt.study) we have a lot of labs and tests. Last time I counted we just passed 100 repositories. And it's dawned on me that all of those need some love and attention from time to time. Stuff moves pretty fast in the JavaScript world and dependencies might start to act up etc.

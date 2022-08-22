@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/oracle-odpnet-refcursors-ente
 ---
 
 
+
 We have been chasing a nasty bug for a few days now. It actually has to
 do with all the technologies above.
 

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2610418444745090626
 blogger_orig_url: http://www.marcusoft.net/2008/06/oracle-and-net-start-here.html
 ---
 
+
 I've
 actually managed to avoid using Oracle through my now 10 years as a
 consultant. Up to now - and now I am really looking forward to it.

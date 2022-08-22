@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3472298805023428131
 blogger_orig_url: http://www.marcusoft.net/2009/08/im-back-working-kinda.html
 ---
 
+
 Sooo -
 the parental leave is now over. I have spent six months "not-working"
 and together with my son, Albert. It has been great but when looking

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/short-and-sweet-introduction-
 ---
 
 
+
 I have heard a lot about
 <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer"
 target="_blank">REST</a> and RESTful services but never have had the

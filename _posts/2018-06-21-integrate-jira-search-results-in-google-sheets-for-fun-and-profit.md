@@ -4,13 +4,12 @@ title: Integrate JIRA search results in Google Sheets for fun and profit
 author: Marcus Hammarberg
 date: 2018-06-21T13:55:11.000Z
 tags:
-  - |-
-    Tools
-    - Agile
+  - Tools
+  - Agile
   - Lean
-  - |-
-    Scrum
-    - Kanban - Life of a consultant
+  - Scrum
+  - Kanban
+  - Life of a consultant
 ---
 
 As an agile coach working in bigger companies you are sound exposed to [JIRA](https://www.atlassian.com/software/jira). JIRA - a tool that started out as a good idea and then grew into … a not as good idea.
@@ -133,7 +132,7 @@ Because now we can just create a nice little link in [Google Sheets](http://shee
 
 Let's create a new sheet ([you can copy mine](https://docs.google.com/spreadsheets/d/138TWhYwnrK47OKUIrE-q7eknLYoDBZyhVieFFCWYSfA/edit?usp=sharing)) and test it out. We're going to make a chart showing the lead time for each issue.
 
-###Documentation driven development
+### Documentation driven development
 
 On the first sheet let's write the instructions.
 
@@ -177,22 +176,22 @@ Cooler again - but still no cigar. Let's make a [few visualizations of it too](h
 
 #### Throughput per month
 
-- Select the column N-P, all rows.
-- Go Insert -> Chart (or use the button for Chart)
-  - The data range should be `N1:N1000,O1:P1000`
-- Move the Months an X-axis series
-  - Remove it from the Y-axis series
-  - Add it (click the grid-icon) as an X-axis series
-- Select the diagram type to be Smooth line chart
-- I made some additional formatting in my diagram
-  - Adding data labels to see the value better
-  - Added more help gridlines for X and Y axis
-  - Made the target dashed
-  - Gave it a title
-  - etc
-- Finally I copied the diagram over to the Diagram sheet.
-  - Make sure to use the Copy function on the diagram when doing this.
-  - And to remove the diagram from the JIRA Raw data sheet, so it doesn't clutter it
+* Select the column N-P, all rows.
+* Go Insert -> Chart (or use the button for Chart)
+  * The data range should be `N1:N1000,O1:P1000`
+* Move the Months an X-axis series
+  * Remove it from the Y-axis series
+  * Add it (click the grid-icon) as an X-axis series
+* Select the diagram type to be Smooth line chart
+* I made some additional formatting in my diagram
+  * Adding data labels to see the value better
+  * Added more help gridlines for X and Y axis
+  * Made the target dashed
+  * Gave it a title
+  * etc
+* Finally I copied the diagram over to the Diagram sheet.
+  * Make sure to use the Copy function on the diagram when doing this.
+  * And to remove the diagram from the JIRA Raw data sheet, so it doesn't clutter it
 
 #### Througput per week
 
@@ -204,7 +203,7 @@ Ok as the final diagram let's plot the leadtime, how long each item takes to com
 
 * Select Column D (Resolved) and F (Leadtime in days)
 * Go Insert -> Chart (or use the button for Chart)
-  - The data range should be `D1:D1000,F1:F1000`
+  * The data range should be `D1:D1000,F1:F1000`
 * Select a Scatter chart (it's way down in the list of diagrams)
 * Make sure you add a Polynominal trend line for the Leadtime in days series.
 * I did a few other adjustments too that you can [see in the sheet](https://docs.google.com/spreadsheets/d/138TWhYwnrK47OKUIrE-q7eknLYoDBZyhVieFFCWYSfA/edit#gid=1369250284)

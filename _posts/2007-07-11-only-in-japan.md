@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4794972931905255185
 blogger_orig_url: http://www.marcusoft.net/2007/07/only-in-japan.html
 ---
 
+
 This is from some suspect japanees game-show... Really impressed
 with the idea for it. I wanna try it out
 <div

@@ -4,9 +4,9 @@ title: Report writing - using impact maps, Stephen Covey and increments
 author: Marcus Hammarberg
 date: 2017-11-03T08:40:52.000Z
 tags:
-  - |-
-    Lean - Life of a consultant
-    - Agile
+  - Lean
+  - Life of a consultant
+  - Agile
 ---
 
 I had one of the more intense writing sessions in my life the other day - getting about 17 pages and 6000 words out in 2,5 hours. But that's not as important, although fun, compared to the quality and how we did it.
@@ -51,7 +51,6 @@ We started to write headings with the different audiences and their individual n
 - Middle-level leaders - I now see problems differently and have a few tips on how to improve further
 - Team lead - I got a better understanding of the principles of kanban and also have a few things that we can start doing tomorrow. Also, higher levels above me are aware of the challenges
 
-
 And some more groups. As we wrote these headings/actors down we started to switch out the generic names to some concrete personal names that we had met during the week.
 
 Instead of team lead, we wrote "Ricky in the awesome team X", for example. Ricky was a guy that looked really pumped and it was easy to see him taking this further.
@@ -74,7 +73,7 @@ Here we listed things like:
 
 I was a bit worried going into this part but actually, think about the different actors and what we talked about when I met them made this very easy and it all fell out in about 10 minutes.
 
-## What are we going to write - deliverables!
+## What are we going to write - deliverables
 
 That brought us to the last part of the impact map structure: deliverables. In this case, we did actually post anything on the board, but rather just started a document.
 
@@ -105,4 +104,3 @@ It was very helpful to think about the different audiences in form of individual
 Once those impacts were written it was a joy almost, to get down to business and just write the entire document. I can honestly say that this was one of my best writing sessions to date.
 
 I hope you too, found some use in reading how we structured this session.
-

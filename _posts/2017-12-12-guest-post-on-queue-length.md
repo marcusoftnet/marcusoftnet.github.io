@@ -4,10 +4,7 @@ title: A post on the post on queue length
 author: Marcus Hammarberg
 date: 2017-12-12T11:06:32.000Z
 tags:
-  - |-
-    Lean
-    - Agile
-    - Kanban
+  - LeanLean - Agile - Kanban
 ---
 
 The good people at [Kanbanize](https://kanbanize.com/) invited me to write a guest post on [their blog](https://kanbanize.com/blog/). I accepted and wrote a [post on tracking and learning from Queue Length](https://kanbanize.com/blog/tracking-queue-length/), a topic I picked up from Donald Reinertsen excellent book [Principles of Product Development Flow](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009).

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4324360961164731150
 blogger_orig_url: http://www.marcusoft.net/2007/11/creating-dynamical-autocomplete-textbox.html
 ---
 
+
 In my recent project we have had to implement a own textbox to be
 able to set a few properties that force the user to follow certain
 formats etc. A few days ago i saw this as an oppurtunity to do something

@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Count your lines! Count them one by one
-date: 2007-06-18T12:11:00.000+02:00
+date: 2007-06-18T10:11:00.000Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Visual Studio
-modified_time: 2010-12-14T16:22:38.373+01:00
+modified_time: 2010-12-14T15:22:38.373Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-874742231379780996
-blogger_orig_url: http://www.marcusoft.net/2007/06/line-counter.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/06/line-counter.html
+---
+
 Here is something that always is a point of discussion in software
 development projects; "How many lines of code is this, anyway?"
 

@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Memories from the past
-date: 2007-02-12T07:33:00.000+01:00
+date: 2007-02-12T06:33:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2010-12-14T16:19:57.891+01:00
-thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s72-c/poison.jpg
+modified_time: 2010-12-14T15:19:57.891Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RdAMWRNKkCI/AAAAAAAAAFI/fMTodQlknD8/s72-c/poison.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7137468709465281912
-blogger_orig_url: http://www.marcusoft.net/2007/02/memories-from-past.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/02/memories-from-past.html
+---
+
 
 <div>
 

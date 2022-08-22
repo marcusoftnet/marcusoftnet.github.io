@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3548146079645682687
 blogger_orig_url: http://www.marcusoft.net/2007/04/tdd-how-is-it-done.html
 ---
 
+
 The next
 project will be done with Test Driven Development - i am really looking
 forward to this!

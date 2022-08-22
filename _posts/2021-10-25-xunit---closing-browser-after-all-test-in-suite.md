@@ -4,9 +4,7 @@ title: xUnit - closing Selenium driver after ALL test in suite
 author: Marcus Hammarberg
 date: 2021-10-25T13:42:39.000Z
 tags:
-  - |-
-    Programming
-    - C#
+  - LeanProgramming - C#
 ---
 
 I'm enjoying myself at work right now, writing a course in C# and for the .NET core platform. Man - this was some time ago.

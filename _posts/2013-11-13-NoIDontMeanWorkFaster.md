@@ -11,7 +11,9 @@ tags:
   - Agile
 modified_time: 2013-11-12T21:04:32.841+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-328419199866986129
-blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html ---
+blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

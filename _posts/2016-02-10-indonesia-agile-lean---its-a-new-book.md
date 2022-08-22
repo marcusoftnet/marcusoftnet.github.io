@@ -2,12 +2,10 @@
 layout: post
 title: Indonesia, Agile, Kanban, Lean - its a new book
 author: Marcus Hammarberg
-date: 2016-02-10 08:21:46
+date: 2016-02-10T08:21:46.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Indonesia
   - Life of a consultant
 ---

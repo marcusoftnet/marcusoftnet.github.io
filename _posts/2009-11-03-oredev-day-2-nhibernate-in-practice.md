@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-nhibernate-in-pr
 ---
 
 
+
 Now it’s <a href="https://www.hibernate.org/343.html"
 target="_blank">NHibernate</a> with
 <a href="http://unhandled-exceptions.com/blog/index.php/about/"

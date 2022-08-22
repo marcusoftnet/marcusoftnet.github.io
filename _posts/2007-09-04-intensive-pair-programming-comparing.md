@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7104120732779677777
 blogger_orig_url: http://www.marcusoft.net/2007/09/intensive-pair-programming-comparing.html
 ---
 
+
 For about four days straight now we have been battling a
 classical, but hard programming problem; given two entity objects return
 a list of all the differences between the objects data. We solved the

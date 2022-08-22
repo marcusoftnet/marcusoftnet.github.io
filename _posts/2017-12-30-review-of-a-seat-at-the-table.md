@@ -2,12 +2,10 @@
 layout: post
 title: Review of A seat at the table
 author: Marcus Hammarberg
-date: 2017-12-30 11:34:40
+date: 2017-12-30T11:34:40.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
 ---
 

@@ -2,11 +2,10 @@
 layout: post
 title: Scaling agile - up or out
 author: Marcus Hammarberg
-date: 2019-02-26 16:34:46
+date: 2019-02-26T16:34:46.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

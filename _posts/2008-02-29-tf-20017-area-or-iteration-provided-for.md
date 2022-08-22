@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6994981790785680649
 blogger_orig_url: http://www.marcusoft.net/2008/02/tf-20017-area-or-iteration-provided-for.html
 ---
 
+
 OK - the first problem i ran into when using the Conchango template
 was the first thing i ever did in the project - create a sprint "work
 item". This type of WorkItem represents a sprint and hold all the sprint

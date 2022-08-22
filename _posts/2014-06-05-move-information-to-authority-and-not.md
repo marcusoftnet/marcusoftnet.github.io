@@ -4,8 +4,7 @@ title: Move the authority to the information, and not the other way around
 date: 2014-06-05T04:39:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private
-  - Lean
+  - Marcus private - Lean
   - Life of a consultant
   - Agile- Salvation Army
   - Indonesia
@@ -15,6 +14,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7435568262273030003
 blogger_orig_url: http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1059120946361989042
 blogger_orig_url: http://www.marcusoft.net/2008/01/great-introduction-to-linq-to-sql.html
 ---
 
+
 Found this which looks very nice:
 <http://weblogs.asp.net/scottgu/archive/2007/05/19/using-linq-to-sql-part-1.aspx>
 

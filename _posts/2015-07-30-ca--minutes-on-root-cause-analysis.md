@@ -2,16 +2,14 @@
 layout: post
 title: ca 10 minutes on Root Cause Analysis
 author: Marcus Hammarberg
-date: 2015-07-30 15:42:34
+date: 2015-07-30T15:42:34.000Z
 tags:
-
   - Indonesia
- - Lean
- - Leadership
+  - Lean
+  - Leadership
   - Life of a consultant
-
   - Salvation Army
- - Tools
+  - Tools
 ---
 
 Throughout all the things I've talked about in this series; mission, vision, strategic plans and kanban there's a underlying concept. We want to improve. We want to be better in achieving our vision.

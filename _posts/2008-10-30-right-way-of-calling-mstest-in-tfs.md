@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4478037245458920181
 blogger_orig_url: http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html
 ---
 
+
 OK - sometimes it just to confess - I took a chance, or didn't know
 what I was doing - call it what you want.
 

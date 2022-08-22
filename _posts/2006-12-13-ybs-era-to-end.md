@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6887639483124177391
 blogger_orig_url: http://www.marcusoft.net/2006/12/ybs-era-to-end.html
 ---
 
+
 [<img
 src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RYAPD0M4n_I/AAAAAAAAAAw/8Rjh9FJaZ78/s200/band_logo_ybs.jpg"
 id="BLOGGER_PHOTO_ID_5008019343862702066"

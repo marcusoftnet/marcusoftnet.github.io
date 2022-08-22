@@ -6,10 +6,7 @@ date: 2015-03-09T15:49:29.000Z
 tags:
   - Javascript
   - Node
-  - |-
-    Koa
-    - Agile
-  - Lean
+  - LeanKoa - Agile - Lean
 ---
 
 I wrote a little application called [page-logger](https://page-logger.herokuapp.com/) for purely selfish and lazy reasons. It was fast, quite fun, I learned a lot and apparently I could make MONEY by using it. Which I didn't thought of when I wrote it.

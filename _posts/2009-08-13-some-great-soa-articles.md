@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Some great SOA – articles
-date: 2009-08-13T14:20:00.001+02:00
+date: 2009-08-13T12:20:00.001Z
 author: Marcus Hammarberg
 tags:
   - SOA
   - Life of a consultant
-modified_time: 2009-08-13T14:20:11.318+02:00
+modified_time: 2009-08-13T12:20:11.318Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3078518711410422523
-blogger_orig_url: http://www.marcusoft.net/2009/08/some-great-soa-articles.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/08/some-great-soa-articles.html
+---
+
 
 I am preparing a talk on
 <a href="http://en.wikipedia.org/wiki/Service-oriented_architecture"

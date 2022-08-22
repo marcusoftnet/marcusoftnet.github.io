@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1993322310507066871
 blogger_orig_url: http://www.marcusoft.net/2008/04/great-book-head-first-design-patterns.html
 ---
 
+
 During the last three weeks or so I've been reading a great book,
 [Head First Design
 Patterns](http://www.oreilly.com/catalog/hfdesignpat/). Now i have

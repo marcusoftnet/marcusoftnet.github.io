@@ -5,9 +5,7 @@ author: Marcus Hammarberg
 date: 2019-01-11T14:32:45.000Z
 tags:
   - Javascript
-  - |-
-    Programming
-    - TDD
+  - LeanProgramming - TDD
 ---
 
 I stumbled over a new concept the other day. As it was conceived by Kent Beck, that inspired and thought me a lot in the past, I got interesting.

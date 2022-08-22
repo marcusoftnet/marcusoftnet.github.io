@@ -4,9 +4,9 @@ title: New series: 'Things I say often'
 author: Marcus Hammarberg
 date: 2015-01-16 13:11:58
 tags:
- - Lean
+  - Lean
   - Life of a consultant
- - Things I say often
+  - Things I say often
 ---
 
 New year - new blog series. I was thinking about writing down some of the things that I find myself repeating often.

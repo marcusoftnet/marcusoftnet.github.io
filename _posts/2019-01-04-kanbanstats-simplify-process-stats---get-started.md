@@ -1,14 +1,12 @@
 ---
 layout: post
-title: KanbanStats: Simplify process stats - get started
+title: KanbanStats Simplify process stats - get started
 author: Marcus Hammarberg
-date: 2019-01-04 11:40:19
+date: 2019-01-04T11:40:19.000Z
 tags:
-
   - Agile
- - Scrum
- - Lean
-
+  - Scrum
+  - Lean
   - Kanban
 ---
 
@@ -111,7 +109,7 @@ To make a running chart we will need a few calculations made. Take a peek at the
    I’ve made sure this value never goes below 0 as that makes for a very strange chart.
 - **Upper control limit** – the average + one standard deviation gives an upper control limit. Meaning that ≈70% of the data points will be below this value.
 
-## A chart! For the love of God – make a chart already!
+## A chart! For the love of God – make a chart already
 
 In coming blog posts, I will not go through all the information as closely as this, I think. But I thought it would be a good idea for this starter post.
 
@@ -151,7 +149,6 @@ I think that is enough for now. We have got started. The next blog posts will be
 I wanted to create a powerful but simple tool, where the user can simply paste some data into one place and then the dashboard does the calculations needed to make better sense of the raw process data.
 
 In this first post, we got started by creating a process running chart for lead time based on some of the raw data.
-
 
 ### The links
 

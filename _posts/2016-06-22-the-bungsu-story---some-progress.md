@@ -2,14 +2,11 @@
 layout: post
 title: The Bungsu Story - some progress
 author: Marcus Hammarberg
-date: 2016-06-22 19:35:55
+date: 2016-06-22T19:35:55.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
-
+  - Lean
   - Indonesia
 ---
 

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7595199482729270968
 blogger_orig_url: http://www.marcusoft.net/2006/12/busy-times-our-choice.html
 ---
 
+
 It's a
 very busy time right now. The band is in the midst of our long list of
 December engagements. So fun and good it has been so far! Last night we

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Experience report: first week of 2 x 5 mobs going remote
+title: Experience report first week of 2 x 5 mobs going remote
 author: Marcus Hammarberg
-date: 2020-03-21 12:11:23
+date: 2020-03-21T12:11:23.000Z
 tags:
-
   - Agile
- - Programming
+  - Programming
 ---
 
 I've just experienced something fantastic and a real testament to what amazing people can do when given the room to be amazing (and have an apparent and real reason to do so)

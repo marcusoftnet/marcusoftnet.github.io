@@ -4,9 +4,7 @@ title: Testing WebAPI with AspNetCore.Mvc.Testing and xUnit Collections
 author: Marcus Hammarberg
 date: 2021-11-16T10:33:20.000Z
 tags:
-  - |-
-    .NET
-    - C#
+  - Lean.NET - C#
   - Testing
 ---
 

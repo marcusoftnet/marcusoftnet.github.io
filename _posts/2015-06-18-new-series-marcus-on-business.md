@@ -1,19 +1,16 @@
 ---
 layout: post
-title: New series: Marcus on mission, vision and strategy... and doing it
+title: New series Marcus on mission, vision and strategy... and doing it
 author: Marcus Hammarberg
-date: 2015-06-18 09:06:52
+date: 2015-06-18T09:06:52.000Z
 tags:
-
   - Indonesia
- - Lean
- - Leadership
-
+  - Lean
+  - Leadership
   - Agile
   - Life of a consultant
-
   - Salvation Army
- - Impact mapping
+  - Impact mapping
 ---
 
 Where I currently work there's been a problem with budgets for traveling. And another with authority. Which basically mean that the people that I'm here to try to help will not get my help; there's no money to travel there and I have no authority, which is basically a deal-breaker in Indonesia.
@@ -51,4 +48,3 @@ The idea is that this series of presentations should make sense going through fr
 1. I hate meetings. Because most of them are bad. But they are inevitable in most companies. In the final installation of this series I give some suggestions on how to run [effective meetings](/2015/08/ca-minutes-on-effective-meetings.html).
 
 I hope you find them interesting and entertaining. That was my goal anyway.
-

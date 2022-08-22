@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1070240297241995034
 blogger_orig_url: http://www.marcusoft.net/2007/07/wedding-times.html
 ---
 
+
 Again - the Swedish summer proved to be a very good choice for
 marriage. A week and a year after Elin and I got married, Elins younger
 sister did the same. Her husband (now-a-days ;)) is a very nice guy and

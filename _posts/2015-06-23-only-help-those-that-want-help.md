@@ -2,11 +2,10 @@
 layout: post
 title: Only help those that want help
 author: Marcus Hammarberg
-date: 2015-06-23 15:20:47
+date: 2015-06-23T15:20:47.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

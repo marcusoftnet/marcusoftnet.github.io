@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/09/snippet-for-creating-testmeth
 ---
 
 
+
 I've already posted this [snippet in
 C#](http://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html),
 but as I from time to time need it in VB.NET I'll post that too. Here

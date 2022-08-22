@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-842899556383643024
 blogger_orig_url: http://www.marcusoft.net/2007/04/new-assignment.html
 ---
 
+
 Yesterday i started a new assignment. Still the insurance business
 but a very different company. This is so big in comparison. The
 IT-department has 150 employed developers to be compared with the three

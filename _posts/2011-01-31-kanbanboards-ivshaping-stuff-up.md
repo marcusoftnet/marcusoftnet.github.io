@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-
 ---
 
 
+
 I have now coded away for a while and it’s time to reflect a refactor a
 bit. I don’t like code lying around that I might not need.
 <a href="http://en.wikipedia.org/wiki/You_ain&#39;t_gonna_need_it"

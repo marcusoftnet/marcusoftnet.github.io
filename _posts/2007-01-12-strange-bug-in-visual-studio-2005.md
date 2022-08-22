@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1255301533495986662
 blogger_orig_url: http://www.marcusoft.net/2007/01/strange-bug-in-visual-studio-2005.html
 ---
 
+
 Just started to do some serious development with Windows Forms in
 Visual Studio 2005. A bug showed it's ugly face. Here is how it goes:
 

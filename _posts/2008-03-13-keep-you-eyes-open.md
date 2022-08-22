@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7074384526043138424
 blogger_orig_url: http://www.marcusoft.net/2008/03/keep-you-eyes-open.html
 ---
 
+
 Here is
 short test that at least i failed. Three times.
 

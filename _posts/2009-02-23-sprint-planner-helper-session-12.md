@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session
 ---
 
 
+
 Today I started off with some refactoring of the things I did yesterday.
 It was some pretty ugly code in the aspx-page which now is improved with
 some properties in the domain model.

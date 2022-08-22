@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2160098077060148442
 blogger_orig_url: http://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
 ---
 
+
 I've finally got around to work a bit more with our buildscript,
 which we are running on top of Team System. I've once coded a build
 script based on other products (CruiseControl.net, NUnit etc.) so i

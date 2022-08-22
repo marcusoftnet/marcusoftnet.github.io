@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/10/thehumbleblogger.html
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I hate fights.

@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Get Vista to go faster
-date: 2009-02-20T11:24:00.001+01:00
+date: 2009-02-20T10:24:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
-modified_time: 2009-02-20T11:24:58.211+01:00
+modified_time: 2009-02-20T10:24:58.211Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5142732006214855558
-blogger_orig_url: http://www.marcusoft.net/2009/02/get-vista-to-go-faster.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/02/get-vista-to-go-faster.html
+---
+
 
 I know that some people will mock this and say “Uninstall it!” but I am
 pretty much stuck with my computer ([Dell Precision M

@@ -1,16 +1,17 @@
 ---
 layout: post
 title: ÖreDev day \#4 – morning'
-date: 2009-11-05T12:45:00.001+01:00
+date: 2009-11-05T11:45:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
-  - .NET
-   - ÖreDev
+  - .NET - ÖreDev
   - Agile
-modified_time: 2011-11-09T21:49:22.586+01:00
+modified_time: 2011-11-09T20:49:22.586Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4549561414632747159
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-morning.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-morning.html
+---
+
 
 We’re of to a brand new day. Feel well rested although last night was
 quite late…

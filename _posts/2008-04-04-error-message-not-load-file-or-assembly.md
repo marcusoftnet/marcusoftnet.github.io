@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/error-message-not-load-file-o
 ---
 
 
+
 When we deployed our latest WCF-service we ran into this error message:
 Could not load file or assembly
 'Microsoft.VisualStudio.Enterprise.ASPNetHelper'.

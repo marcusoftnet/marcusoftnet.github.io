@@ -2,11 +2,10 @@
 layout: post
 title: Barrier troops
 author: Marcus Hammarberg
-date: 2015-11-27 13:08:27
+date: 2015-11-27T13:08:27.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

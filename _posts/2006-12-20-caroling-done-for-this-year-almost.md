@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8930295975205115173
 blogger_orig_url: http://www.marcusoft.net/2006/12/caroling-done-for-this-year-almost.html
 ---
 
+
 Yesterday we did the last Caroling-gig (you know; the Salvation Army
 playing with a pot for coin collection, as seen in many films) for this
 year with the Vasa Band. And that was something special i can tell

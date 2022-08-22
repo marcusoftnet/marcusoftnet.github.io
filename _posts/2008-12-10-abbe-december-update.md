@@ -1,14 +1,17 @@
 ---
 layout: post
 title: Abbe - a December update
-date: 2008-12-09T22:58:00.001+01:00
+date: 2008-12-09T21:58:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2008-12-09T22:58:02.153+01:00
-thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/ST7prZlXVrI/AAAAAAAAAY4/0WxmA2SHBjU/s72-c/DSC_0040_thumb%5B3%5D.jpg?imgmax=800
+modified_time: 2008-12-09T21:58:02.153Z
+thumbnail: >-
+  http://lh3.ggpht.com/\_kkDJOSPNTLs/ST7prZlXVrI/AAAAAAAAAY4/0WxmA2SHBjU/s72-c/DSC_0040_thumb%5B3%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5626962755515202451
-blogger_orig_url: http://www.marcusoft.net/2008/12/abbe-december-update.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/12/abbe-december-update.html
+---
+
 
 I know that a lot of people has been wondering why no new pictures of
 Abbe has been on display here for a while. Well - a too busy autumn may

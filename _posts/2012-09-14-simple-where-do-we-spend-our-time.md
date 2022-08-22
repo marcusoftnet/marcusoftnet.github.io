@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
 
+
 I have a confession to make; i think i'm turning into a data-guy.
 No, not a computer-guy - I've been that a long time. Rather it's that
 boring dude that keep asking for numbers, measurements and saying "yes,

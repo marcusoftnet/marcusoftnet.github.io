@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/02/in-specflowa-test-runner-is-j
 ---
 
 
+
 I answered a question on Twitter today from a guy who had problems
 running <a href="http://www.specflow.org" target="_blank">SpecFlow</a>
 scenarios with MSTest. That shouldn’t be I thought to myself – in

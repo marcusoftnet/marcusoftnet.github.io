@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/practical-kanban-some-kanban-
 ---
 
 
+
 Together with
 <a href="http://www.joakimsunden.com/" target="_blank">Joakim Sundén</a>
 and

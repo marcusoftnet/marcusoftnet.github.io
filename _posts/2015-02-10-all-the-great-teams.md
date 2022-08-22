@@ -2,14 +2,12 @@
 layout: post
 title: All the great teams
 author: Marcus Hammarberg
-date: 2015-02-10 07:07:37
+date: 2015-02-10T07:07:37.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Scrum
-
+  - Scrum
   - Kanban
 ---
 

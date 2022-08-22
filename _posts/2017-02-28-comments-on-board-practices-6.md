@@ -2,13 +2,11 @@
 layout: post
 title: Comments on common board practices - Focus on the work - not the workers
 author: Marcus Hammarberg
-date: 2017-02-28 15:13:13
+date: 2017-02-28T15:13:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 Many daily stand up meetings follow the patterns originally from Scrum - that is we ask each individual what they did yesterday, what they are going to do today and if anything is blocking them.

@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
 blogger_orig_url: http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
 ---
 
+
 In my [last
 post](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
 I asked for comments, and it didn't take Anders (Granåker) very long

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/09/using-linq-for-first-time-for
 ---
 
 
+
 The <a href="http://msdn.microsoft.com/en-us/netframework/aa904594.aspx"
 target="_blank">LINQ project</a> is one of those techniques that first
 makes you cheer, then think about how you'll ever will use it in real

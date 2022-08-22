@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-900809608655174297
 blogger_orig_url: http://www.marcusoft.net/2007/05/battle-of-tfs-build-script.html
 ---
 
+
 I
 have under the last days trying to get our build script to work....
 

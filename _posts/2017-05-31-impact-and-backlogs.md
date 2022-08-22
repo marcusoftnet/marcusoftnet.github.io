@@ -2,11 +2,10 @@
 layout: post
 title: Impacts or backlogs
 author: Marcus Hammarberg
-date: 2017-05-31 13:12:24
+date: 2017-05-31T13:12:24.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

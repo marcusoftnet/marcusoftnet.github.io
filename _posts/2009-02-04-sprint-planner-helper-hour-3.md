@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 3
-date: 2009-02-03T22:25:00.001+01:00
+date: 2009-02-03T21:25:00.001Z
 author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
-
   - C#
   - TDD
-modified_time: 2009-02-11T22:22:20.485+01:00
+modified_time: 2009-02-11T21:22:20.485Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4401996462216297568
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-3.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-3.html
+---
+
 
 As I reviewed my work from yesterday I quickly realized that I bit off
 much to much. I only need to implement the model for the first product

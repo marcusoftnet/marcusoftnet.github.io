@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Review: #NoEstimates - the book
+title: Review
 author: Marcus Hammarberg
-date: 2015-10-15 15:14:26
+date: 2015-10-15T15:14:26.000Z
 tags:
-
   - Agile
- - Lean
- - Tools
+  - Lean
+  - Tools
 ---
 
 The [#NoEstimates](https://twitter.com/hashtag/NoEstimates?src=hash) movement have lived a turbulent life on twitter. I guess that happens when you present ideas that challenges how we, as a collective, view the world today.

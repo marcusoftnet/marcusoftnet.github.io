@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/javascript-callbacks-cant-liv
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 This is a confession post. Yes,

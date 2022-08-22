@@ -4,12 +4,8 @@ title: Motivating in a world without WHY
 author: Marcus Hammarberg
 date: 2015-03-25T10:39:55.000Z
 tags:
-  - |-
-    Leadership
-    - Indonesia
-  - |-
-    Lean
-    - Agile
+  - LeanLeadership
+  - Lean|- Lean - Agile
 ---
 
 I wrote a post about Indonesian <a href="http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">culture</a>. In it I wrote about my experiences in Indonesia and how I've interpreted what I've experienced as many people here lives in a world without WHY. Read more in that <a href="http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">post</a>.

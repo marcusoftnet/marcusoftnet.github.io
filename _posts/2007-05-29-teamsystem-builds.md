@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1383699674345464248
 blogger_orig_url: http://www.marcusoft.net/2007/05/teamsystem-builds.html
 ---
 
+
 I have dived
 into Team System and more specific the build process. It's quite hard to
 take in, i think, especially since the documentation is quite ...

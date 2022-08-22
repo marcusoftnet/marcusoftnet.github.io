@@ -5,9 +5,7 @@ author: Marcus Hammarberg
 date: 2015-06-01T09:11:03.000Z
 tags:
   - Tools
-  - |-
-    Marcus private
-    - Agile
+  - LeanMarcus private - Agile
 ---
 
 This is a very hands-on post, since I thought the last couple of ones (including the one I just threw away) was a bit high flying.

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2176198937841522577
 blogger_orig_url: http://www.marcusoft.net/2006/12/happy-new-year.html
 ---
 
+
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/RZTarN7AonI/AAAAAAAAAEA/bnSsroIRvOk/s320/DSC_1606.JPG"
 id="BLOGGER_PHOTO_ID_5013872721176601202" style="CURSOR: hand"

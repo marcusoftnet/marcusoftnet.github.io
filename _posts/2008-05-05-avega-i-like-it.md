@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3885291506851472241
 blogger_orig_url: http://www.marcusoft.net/2008/05/avega-i-like-it.html
 ---
 
+
 My company, [Avega](http://www.avega.se/), is back from a conference
 on
 [Iceland](http://images.google.com/images?q=iceland&rls=com.microsoft:sv&ie=UTF-8&oe=UTF-8&startIndex=&startPage=1&um=1&sa=N&tab=wi).

@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/11/agile-testing-how-we-get-it-t
 ---
 
 
+
 This week I have made two discoveries that really has made me happy.
 They are not news by any means but I has been like they have clicked
 into place in my brain.

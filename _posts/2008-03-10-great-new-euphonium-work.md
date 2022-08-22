@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Great new euphonium work
-date: 2008-03-09T19:08:00.003+01:00
+date: 2008-03-09T18:08:00.003Z
 author: Marcus Hammarberg
 tags:
   - Euphonium
-modified_time: 2008-03-09T19:12:43.897+01:00
+modified_time: 2008-03-09T18:12:43.897Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8384129523787421166
-blogger_orig_url: http://www.marcusoft.net/2008/03/great-new-euphonium-work.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/03/great-new-euphonium-work.html
+---
+
 [Steven Mead](http://www.euphonium.net/) has premiered a new work for
 euphonium and symphony orchestra that seems to become a classic.
 

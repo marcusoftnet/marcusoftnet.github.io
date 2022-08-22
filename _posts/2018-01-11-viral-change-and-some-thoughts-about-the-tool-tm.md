@@ -2,12 +2,10 @@
 layout: post
 title: Viral Change and some thoughts about tools
 author: Marcus Hammarberg
-date: 2018-01-11 11:47:47
+date: 2018-01-11T11:47:47.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
 ---
 

@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-mo
 ---
 
 
+
 <div>
 
 I am at my first conference since 2000. My good times flies, then it was

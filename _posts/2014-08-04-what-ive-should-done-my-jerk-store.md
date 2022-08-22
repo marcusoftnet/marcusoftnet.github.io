@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 Have you ever had a conversation and then a couple of hours later you

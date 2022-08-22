@@ -1,14 +1,16 @@
 ---
 layout: post
 title: When is good – decide already!
-date: 2009-11-13T09:37:00.001+01:00
+date: 2009-11-13T08:37:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.177+01:00
+modified_time: 2010-12-14T15:22:38.177Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6573264846475102998
-blogger_orig_url: http://www.marcusoft.net/2009/11/when-is-good-decide-already.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/11/when-is-good-decide-already.html
+---
+
 
 I been involved in many meeting booking activities during the last
 month. And it’s always the same – you send dates back and forth and

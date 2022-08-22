@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Powerpoint online – 280 slides
-date: 2009-09-21T14:36:00.001+02:00
+date: 2009-09-21T12:36:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.189+01:00
+modified_time: 2010-12-14T15:22:38.189Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4218879227902128537
-blogger_orig_url: http://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html
+---
+
 
 I found a cool tool that allows you to create, edit and show slide show
 presentations online. The tool is called

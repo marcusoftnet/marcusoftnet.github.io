@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2127731443858866833
 blogger_orig_url: http://www.marcusoft.net/2006/10/swedish-brass-band-championships.html
 ---
 
+
 While I am on the subject i might as well reveal how the Swedish
 Brass Band Championships will go down.
 

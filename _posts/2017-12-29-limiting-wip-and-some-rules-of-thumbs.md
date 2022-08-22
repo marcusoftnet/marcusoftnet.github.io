@@ -2,13 +2,11 @@
 layout: post
 title: Limiting WIP and some rules of thumb
 author: Marcus Hammarberg
-date: 2017-12-29 20:58:40
+date: 2017-12-29T20:58:40.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
+  - Lean
 ---
 
 Writing a book ([psst - there's another one on its way](https://t.co/rO179xXeHS)) has changed many things for me and opens so many doors in my career. But my favorite thing is when I get to talk to people that have read my book, learned something and is applying kanban in their everyday life. Sometimes I get some really insightful and interesting questions.

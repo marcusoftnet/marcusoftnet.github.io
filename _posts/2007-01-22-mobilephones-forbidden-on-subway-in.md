@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1226455410688214850
 blogger_orig_url: http://www.marcusoft.net/2007/01/mobilephones-forbidden-on-subway-in.html
 ---
 
+
 Just so that you know where you read it first...
 
 Since the start of the year the company running the subway and buses in

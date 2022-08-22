@@ -2,11 +2,10 @@
 layout: post
 title: Why the retrospective prime directive is paramount
 author: Marcus Hammarberg
-date: 2019-11-21 08:27:22
+date: 2019-11-21T08:27:22.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

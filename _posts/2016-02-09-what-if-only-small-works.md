@@ -2,11 +2,10 @@
 layout: post
 title: What if only small works?
 author: Marcus Hammarberg
-date: 2016-02-09 20:00:12
+date: 2016-02-09T20:00:12.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

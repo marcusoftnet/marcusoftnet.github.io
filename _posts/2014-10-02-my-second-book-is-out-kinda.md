@@ -4,7 +4,7 @@ title: My second book is out ... kinda
 date: 2014-10-02T02:22:00.002+02:00
 author: Marcus Hammarberg
 tags:
-  - Tools - Test - Lean
+  - Tools - Test  - Lean
   - Life of a consultant
 
   - Specification by example -
@@ -12,7 +12,9 @@ Agile
 modified_time: 2014-10-02T02:22:50.594+02:00
 thumbnail: http://3.bp.blogspot.com/-43lZKd\_\_bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s72-c/ikon_photo_book_150px.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8141264207080780779
-blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

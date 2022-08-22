@@ -2,13 +2,12 @@
 layout: post
 title: My top 10 books
 author: Marcus Hammarberg
-date: 2018-03-14 15:04:34
+date: 2018-03-14T15:04:34.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
- - Tools
+  - Tools
 ---
 
 I often give out a lot of books tips in lectures and workshops, so instead of me typing and find links everywhere, I thought I'd put together a list of them here.
@@ -51,6 +50,7 @@ Track start and stop date per item, calculate 50 and the 85 percentiles, create 
 [Turn the ship around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is the amazing and lovely story about how Captain David L. Marquet completely turned the way a nuclear submarine worked upside down. From giving orders to giving intent and in doing so creating new leaders rather than mindless executors.
 
 The book is packed with nuggets (nudges?) of management gold like "[Move the authority to where the information is](http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html)", for example. I keep coming back to this inspiring story over and over again. Sadly I lost my copy, but it lives in my mind forever. This
+
 ### Moved out
 
 In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books.

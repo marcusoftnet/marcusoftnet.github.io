@@ -14,7 +14,9 @@ Lean
   - TDD
 modified_time: 2012-12-13T21:14:29.174+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-820434950966250266
-blogger_orig_url: http://www.marcusoft.net/2012/12/have-presentations-will-travel.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/12/have-presentations-will-travel.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

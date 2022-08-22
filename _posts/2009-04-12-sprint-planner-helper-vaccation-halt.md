@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-vaccati
 ---
 
 
+
 I am going to Ethiopia for two weeks and the project comes to a natural
 (and needed) halt during that period.
 

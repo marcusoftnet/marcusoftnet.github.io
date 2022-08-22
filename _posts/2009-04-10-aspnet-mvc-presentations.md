@@ -1,13 +1,15 @@
 ---
 layout: post
 title: ASP.NET MVC presentations
-date: 2009-04-10T09:24:00.001+02:00
+date: 2009-04-10T07:24:00.001Z
 author: Marcus Hammarberg
 tags:
   - ASP.NET MVC
-modified_time: 2009-04-10T09:24:07.879+02:00
+modified_time: 2009-04-10T07:24:07.879Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2218956877799670681
-blogger_orig_url: http://www.marcusoft.net/2009/04/aspnet-mvc-presentations.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/04/aspnet-mvc-presentations.html
+---
+
 
 Found these two great presentations surronding ASP.NET MVC.
 

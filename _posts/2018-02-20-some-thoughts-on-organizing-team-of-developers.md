@@ -2,14 +2,12 @@
 layout: post
 title: Some thoughts on organizing a team of developers
 author: Marcus Hammarberg
-date: 2018-02-20 08:34:00
+date: 2018-02-20T08:34:00.000Z
 tags:
-
   - Agile
- - Scrum
-
+  - Scrum
   - Kanban
- - Lean
+  - Lean
 ---
 
 Got a question in an email the other day, asking some advice. Nowadays when that happens I ask permission to publish the answer here to not [waste keystrokes into the email-bin](http://keysleft.com/).

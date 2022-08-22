@@ -5,10 +5,7 @@ author: Marcus Hammarberg
 date: 2015-03-11T11:30:48.000Z
 tags:
   - Leadership
-  - |-
-    Lean
-    - Agile - Life of a consultant
-    - Indonesia
+  - LeanLean - Agile - Life of a consultant - Indonesia
 ---
 
 When I first arrived in Indonesia I didn't think nor knew much about the difference in our cultures. This quite understandable, although in hindsight I should have read up on it a little bit more. Now, as I know more and more, I also get more and more interested and confused about some very basic things in the society.

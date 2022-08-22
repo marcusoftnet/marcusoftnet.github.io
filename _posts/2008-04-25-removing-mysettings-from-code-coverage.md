@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7137896854594876672
 blogger_orig_url: http://www.marcusoft.net/2008/04/removing-mysettings-from-code-coverage.html
 ---
 
+
 One thing that have irritated me with the code coverage tool in
 Visual Studio 2005-8 is that you can't exclude things from the code
 coverage result.

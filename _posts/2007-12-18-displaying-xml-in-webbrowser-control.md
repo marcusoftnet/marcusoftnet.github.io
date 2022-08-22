@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2986599029917462335
 blogger_orig_url: http://www.marcusoft.net/2007/12/displaying-xml-in-webbrowser-control.html
 ---
 
+
 This is one of those "how can this be hard stuff", and after
 checking the Net i couldn't find anything much about how to do it.
 

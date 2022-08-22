@@ -2,11 +2,10 @@
 layout: post
 title: Changes - reasons or the opposite
 author: Marcus Hammarberg
-date: 2015-10-02 10:34:28
+date: 2015-10-02T10:34:28.000Z
 tags:
-
   - Agile
- - Leadership
+  - Leadership
   - Life of a consultant
 ---
 

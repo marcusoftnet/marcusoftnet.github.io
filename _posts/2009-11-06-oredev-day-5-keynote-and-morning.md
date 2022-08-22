@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morn
 ---
 
 
+
 ##### Information overload and managing flow
 
 The last day kicks off with a keynote given by

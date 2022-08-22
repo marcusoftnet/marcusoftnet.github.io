@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Mnozil Brass
-date: 2006-11-13T10:20:00.000+01:00
+date: 2006-11-13T09:20:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2006-11-13T10:23:03.927+01:00
+modified_time: 2006-11-13T09:23:03.927Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3839934507427583306
-blogger_orig_url: http://www.marcusoft.net/2006/11/mnozil-brass.html ---
+blogger_orig_url: http://www.marcusoft.net/2006/11/mnozil-brass.html
+---
+
 [<img src="http://www.mnozilbrass.at/fileadmin/site_tpl/img/band.jpg"
 style="DISPLAY: block; MARGIN: 0px auto 10px; WIDTH: 320px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://www.mnozilbrass.at/fileadmin/site_tpl/img/band.jpg)

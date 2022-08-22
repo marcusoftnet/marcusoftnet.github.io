@@ -2,12 +2,10 @@
 layout: post
 title: Some kanban Q & A Feb 2017
 author: Marcus Hammarberg
-date: 2017-03-03 09:04:44
+date: 2017-03-03T09:04:44.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
 ---
 

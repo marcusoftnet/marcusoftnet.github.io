@@ -9,7 +9,9 @@ consultant
   - Agile
 modified_time: 2011-11-09T21:49:22.565+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1975912782514838831
-blogger_orig_url: http://www.marcusoft.net/2010/01/inbox-zero.html ---
+blogger_orig_url: http://www.marcusoft.net/2010/01/inbox-zero.html
+---
+
 
 First, admit that the title alone is very tempting… You want it, you
 need it… but how to get it?

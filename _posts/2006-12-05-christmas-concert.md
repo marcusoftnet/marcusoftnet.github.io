@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6301195801056833480
 blogger_orig_url: http://www.marcusoft.net/2006/12/christmas-concert.html
 ---
 
+
 I will be
 presenter at a concert in Gothenburg this weekend. It's the [Gothenburg
 BrassBand](http://www.goteborgbrassband.org.se/) Lucia-concert that is

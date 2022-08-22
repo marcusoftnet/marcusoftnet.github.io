@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3463258483021073024
 blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-1-taken-down.html
 ---
 
+
 The
 presentation yesterday went well. Just thought I'll drop that in here
 since i have being bringing it up again and again.

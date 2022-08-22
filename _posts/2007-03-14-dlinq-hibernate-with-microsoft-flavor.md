@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8118350437797908369
 blogger_orig_url: http://www.marcusoft.net/2007/03/dlinq-hibernate-with-microsoft-flavor.html
 ---
 
+
 I have read somethings about the
 [LINQ-project](http://msdn2.microsoft.com/en-us/netframework/aa904594.aspx)
 at Microsoft. I haven't fully understood it yet but from [this

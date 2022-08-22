@@ -4,8 +4,7 @@ title: Data you can't do anything about - what's the use?
 author: Marcus Hammarberg
 date: 2014-12-12T11:43:55.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Life of a consultant
 ---
 

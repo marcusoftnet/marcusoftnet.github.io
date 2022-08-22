@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Unable to emit assembly: Referenced assembly
-does not have a strong name'
-date: 2007-09-18T12:46:00.001+02:00
+title: Unable to emit assembly Referenced assembly does not have a strong name
+date: 2007-09-18T10:46:00.001Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
   - .NET
   - Visual Studio
-modified_time: 2010-12-14T16:19:05.536+01:00
+modified_time: 2010-12-14T15:19:05.536Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5310005411164515714
 blogger_orig_url: http://www.marcusoft.net/2007/09/unable-to-emit-assembly-referenced.html
 ---
+
 
 
 <div align="left">
@@ -27,7 +27,6 @@ give you the following error from the compiler:
 </div>
 
 <div align="left">
-
 
 `Unable to emit assembly: Referenced assembly [...] does not have a strong name`
 

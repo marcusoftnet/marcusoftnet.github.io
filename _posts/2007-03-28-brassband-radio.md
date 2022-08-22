@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7886946944114935508
 blogger_orig_url: http://www.marcusoft.net/2007/03/brassband-radio.html
 ---
 
+
 Every monday morning i start the day by listen in to [Listen to the
 band](http://www.bbc.co.uk/radio/aod/networks/radio2/aod.shtml?radio2/listenband)
 which is a long running radioshow in UK, playing brass band music. It is

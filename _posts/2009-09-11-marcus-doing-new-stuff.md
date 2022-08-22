@@ -1,15 +1,18 @@
 ---
 layout: post
 title: Marcus doing new stuff
-date: 2009-09-11T08:33:00.001+02:00
+date: 2009-09-11T06:33:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2009-09-11T08:33:32.830+02:00
-thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/SqnvO_Qm_JI/AAAAAAAAAG4/i2yTq7cZ-F0/s72-c/overview-gallery4-20090608%5B1%5D_thumb%5B3%5D.png?imgmax=800
+modified_time: 2009-09-11T06:33:32.830Z
+thumbnail: >-
+  http://lh3.ggpht.com/\_TI0jeIedRFk/SqnvO_Qm_JI/AAAAAAAAAG4/i2yTq7cZ-F0/s72-c/overview-gallery4-20090608%5B1%5D_thumb%5B3%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1181196312132381796
-blogger_orig_url: http://www.marcusoft.net/2009/09/marcus-doing-new-stuff.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/09/marcus-doing-new-stuff.html
+---
+
 
 Two big things will (or are in the progress of) happen this weekend.
 

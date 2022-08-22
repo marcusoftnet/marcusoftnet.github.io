@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Booting from a VHD in Windows 7
-date: 2009-08-12T10:35:00.002+02:00
+date: 2009-08-12T08:35:00.002Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.195+01:00
+modified_time: 2010-12-14T15:22:38.195Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7385064068883905711
-blogger_orig_url: http://www.marcusoft.net/2009/08/booting-from-vhd-in-windows-7.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/08/booting-from-vhd-in-windows-7.html
+---
+
 
 OK – I have been playing around for a while with my
 <a href="http://www.microsoft.com/windows/windows-7/"

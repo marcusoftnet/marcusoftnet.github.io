@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/12/good-bye-avega.html
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

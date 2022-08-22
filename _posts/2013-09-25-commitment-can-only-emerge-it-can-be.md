@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 One of the things that I really love with my job is that you meet a lot

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5118053612590653411
 blogger_orig_url: http://www.marcusoft.net/2009/01/nmock2-remotingexception-byref-value.html
 ---
 
+
 OK this might be the most misleading error message I've seen. I
 cannot decide on how to describe it... What this means... or what this
 try to ...

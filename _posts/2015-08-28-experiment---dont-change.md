@@ -2,11 +2,10 @@
 layout: post
 title: Experiment - don't change
 author: Marcus Hammarberg
-date: 2015-08-28 10:19:30
+date: 2015-08-28T10:19:30.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

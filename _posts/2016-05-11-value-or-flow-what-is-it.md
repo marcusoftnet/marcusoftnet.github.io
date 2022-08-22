@@ -4,10 +4,7 @@ title: Flow or value - what is it, Marcus?!
 author: Marcus Hammarberg
 date: 2016-04-29T12:00:00.000Z
 tags:
-  - |-
-    Lean
-    - Kanban
-    - Agile
+  - LeanLean - Kanban - Agile
 ---
 
 This post could be summaried as you summaries an argument among kids; and then he said, so I replied, and then she went, and I'm like SAY WAAAHHAT?! but also hmmmmm… and then I went back home and asked a few friends and then I went Aaaaaah!

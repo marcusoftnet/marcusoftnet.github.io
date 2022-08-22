@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Send mail with VB.NET - and get notification if
-recipient couldn't be reached
-date: 2007-10-01T12:50:00.000+02:00
+title: Send mail with VB.NET - and get notification if recipient couldn't be reached
+date: 2007-10-01T10:50:00.000Z
 author: Marcus Hammarberg
 tags:
   - VB.NET
-modified_time: 2007-10-02T09:40:30.677+02:00
+modified_time: 2007-10-02T07:40:30.677Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8792127585828094825
-blogger_orig_url: http://www.marcusoft.net/2007/10/send-mail-with-vbnet-and-get.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/10/send-mail-with-vbnet-and-get.html
+---
+
 This has been a hard case to crack for quite sometime now... And it's
 really annoying since at first the task seems so simple. Bare with me
 for a short history:
@@ -45,14 +46,12 @@ user that sent the email. Simple, yet brilliant.
 Here are some example code that shows you how it works. Of course in my
 favorite language VB.NET:
 
-
 <div>
 
-`' Create the messageDim message As New MailMessage `
+`' Create the messageDim message As New MailMessage`
 `' This is adress that will get notifiedmessage.From = New MailAddress("me@home.com")message.To.Add("to@away.com")message.Subject = "Subject"message.Body = "The complete body of the mail"' Set DeliveryNotificationOptions.OnFailure to state that the From-adress' should be notified if the recipient couldn't be reachedmessage.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure' Create smtp-serviceDim smtpService As New Net.Mail.SmtpClient("mysmtp.server.com")'Send the messagesmtpService.Send(message)`
 
 </div>
-
 
 As i've told my project for some days now this problem is probably the
 one I've put in most effort on, in all my project, in total... and here

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
+
 I haven’t done to much on the Sprint Planner Helper project during this
 week. A lot of Salvation Army activities has taken up my time.
 

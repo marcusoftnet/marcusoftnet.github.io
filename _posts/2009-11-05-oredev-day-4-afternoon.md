@@ -8,7 +8,9 @@ tags:
 ÖreDev - ASP.NET MVC
 modified_time: 2011-11-09T21:49:22.578+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3775314391784966064
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-afternoon.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-afternoon.html
+---
+
 
 I’m still feeling a bit exhausted from the last Dan North talk. Now we
 will have some more down-to-earth code stuff.

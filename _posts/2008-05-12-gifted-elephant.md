@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8981565521097139129
 blogger_orig_url: http://www.marcusoft.net/2008/05/gifted-elephant.html
 ---
 
+
 This is a video that made me happy today... The, now world famous,
 painting elephant.
 

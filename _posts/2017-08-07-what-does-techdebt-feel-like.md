@@ -2,12 +2,11 @@
 layout: post
 title: What does technical debt feel like?
 author: Marcus Hammarberg
-date: 2017-08-07 09:15:24
+date: 2017-08-07T09:15:24.000Z
 tags:
-
   - Agile
- - Lean
- - Programming
+  - Lean
+  - Programming
 ---
 
 The other day a man that I respect very high, [Jabe Bloom](https://twitter.com/cyetain), tweeted a question:

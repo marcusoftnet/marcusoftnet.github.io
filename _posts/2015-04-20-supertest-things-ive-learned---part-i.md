@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Supertest: Things I've learned - part I
+title: Supertest Things I have learned - part I
 author: Marcus Hammarberg
-date: 2015-04-20 09:20:08
+date: 2015-04-20T09:20:08.000Z
 tags:
- - Javascript
- - Tools
- - Koa
- - Node
+  - Javascript
+  - Tools
+  - Koa
+  - Node
 ---
 
 My favorite thing with blogging is the feedback I get. In fact; that's the reason I blog. There. I've said it. I love to see many read my stuff and get back to me with questions and suggestion. I'm not even ashamed to say so.
@@ -37,6 +37,7 @@ If you haven't seen the screen cast where we build out the first version it's he
 <iframe width="420" height="315" src="https://www.youtube.com/embed/aTTjednotGQ" frameborder="0" allowfullscreen></iframe>
 
 # Splitting the test
+
 In my [original example](https://www.youtube.com/embed/aTTjednotGQ) I kept things super simple and had the tests in one file. Let's split it out, but still keep it simple; one test per file, simulating that we test completely separate parts of a bigger API.
 
 Oh, yeah; I'm using [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) here. Read that post on mocha, should you need a refresher.
@@ -52,79 +53,80 @@ var request = require('supertest').agent(app.listen());
 
 describe('Simple User Api:', function(){
 
-	var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
+ var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
 
-	it('creates a new user', function(done){
-		// Post
-		request
-			.post('/user')
-			.send(test_user)
-			.expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
-			.expect(200, done);
-	});
+ it('creates a new user', function(done){
+  // Post
+  request
+   .post('/user')
+   .send(test_user)
+   .expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
+   .expect(200, done);
+ });
 
 
-	var removeAll = function(done){
-		co(function *(){
-			yield users.remove({});
-		})(done);
-	};
+ var removeAll = function(done){
+  co(function *(){
+   yield users.remove({});
+  })(done);
+ };
 
-	beforeEach(function (done) {
-		removeAll(done);
-	});
+ beforeEach(function (done) {
+  removeAll(done);
+ });
 
-	afterEach(function (done) {
-		removeAll(done);
-	});
+ afterEach(function (done) {
+  removeAll(done);
+ });
 
-	it('get existing user', function (done) {
-		co(function *() {
-			// Insert test user in database
-			var user = yield users.insert(test_user);
-			var userUrl = '/user/' + user._id;
+ it('get existing user', function (done) {
+  co(function *() {
+   // Insert test user in database
+   var user = yield users.insert(test_user);
+   var userUrl = '/user/' + user._id;
 
-			// Get
-			request
-				.get(userUrl)
-	      		.set('Accept', 'application/json')
-	      		.expect('Content-Type', /json/)
-	      		.expect(/Marcus/)
-	      		.expect(/Bandung, Indonesia/)
-	      		.expect(200, done);
-	    })();
-	});
+   // Get
+   request
+    .get(userUrl)
+         .set('Accept', 'application/json')
+         .expect('Content-Type', /json/)
+         .expect(/Marcus/)
+         .expect(/Bandung, Indonesia/)
+         .expect(200, done);
+     })();
+ });
 
-	it('updates an existing user', function(done){
-		co(function *() {
-			// Insert test user in database
-			var user = yield users.insert(test_user);
-			var userUrl = '/user/' + user._id;
+ it('updates an existing user', function(done){
+  co(function *() {
+   // Insert test user in database
+   var user = yield users.insert(test_user);
+   var userUrl = '/user/' + user._id;
 
-			request
-				.put(userUrl)
-				.send({name: 'Marcus v2', City: 'Bandung Updated'})
-				.expect('location', userUrl)
-				.expect(204, done);
-		})();
-	});
+   request
+    .put(userUrl)
+    .send({name: 'Marcus v2', City: 'Bandung Updated'})
+    .expect('location', userUrl)
+    .expect(204, done);
+  })();
+ });
 
-	it('deletes an existing user', function(done){
-		co(function *() {
-			// Insert test user in database
-			var user = yield users.insert(test_user);
-			var userUrl = '/user/' + user._id;
+ it('deletes an existing user', function(done){
+  co(function *() {
+   // Insert test user in database
+   var user = yield users.insert(test_user);
+   var userUrl = '/user/' + user._id;
 
-			// Delete the user
-			request
-				.del(userUrl)
-				.expect(200, done);
-		})();
-	});
+   // Delete the user
+   request
+    .del(userUrl)
+    .expect(200, done);
+  })();
+ });
 });
 ```
 
 ## New direction
+
 The first thing that is a good practice is to keep your tests in a separate directory. Create one with <code>mkdir test</code>. Yes, call it "test", that helps mocha. And then move the <code>test.js</code> file in there <code>mv test.js test</code>.
 
 Finally, we need to update the <code>npm test</code> command, since we specified the <code>test.js</code> in it explicitly before. Here is how it looked:
@@ -160,7 +162,8 @@ Rerunning the tests (<code>npm test</code>, or <code>npm tst</code> or <code>npm
 
 Phew! Refactoring without tests are scary. This is much better.
 
-## Break it up, you guys!
+## Break it up, you guys
+
 Let's break the tests up a bit. Our goal is to test one route per file; all POST to /user tests in one file, all GETs /user in another etc. Imagine a bigger real life and you can think about maybe all /user-stuff in one file and all /order-test in another etc.
 
 Later I'll show you how to get really fancy with this using [mount](http://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html), but for now let's keep it like this and just split up the test, the orignal request was about that.
@@ -168,10 +171,10 @@ Later I'll show you how to get really fancy with this using [mount](http://www.m
 First let's just create 3 more copies of the file and then rename the orignal. Like this:
 
 ```bash
-$ cp test/test.js test/user.post.js
-$ cp test/test.js test/user.get.js
-$ cp test/test.js test/user.update.js
-$ mv test/test.js test/user.del.js
+cp test/test.js test/user.post.js
+cp test/test.js test/user.get.js
+cp test/test.js test/user.update.js
+mv test/test.js test/user.del.js
 ```
 
 Running the tests now makes us ... happy ... because now we have 16 passning tests, instead of for. But... they are all duplicated. And badly named. Let's fix that. Go into each file and remove the stuff that is not related to the verb in the file name. For example, clean up <code>user.post.js</code> to look like this:
@@ -185,30 +188,30 @@ var request = require('supertest').agent(app.listen());
 
 describe('User API posting: ', function(){
 
-	var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
+ var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
 
-	it('creates a new user', function(done){
-		// Post
-		request
-			.post('/user')
-			.send(test_user)
-			.expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
-			.expect(200, done);
-	});
+ it('creates a new user', function(done){
+  // Post
+  request
+   .post('/user')
+   .send(test_user)
+   .expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
+   .expect(200, done);
+ });
 
-	var removeAll = function(done){
-		co(function *(){
-			yield users.remove({});
-		})(done);
-	};
+ var removeAll = function(done){
+  co(function *(){
+   yield users.remove({});
+  })(done);
+ };
 
-	beforeEach(function (done) {
-		removeAll(done);
-	});
+ beforeEach(function (done) {
+  removeAll(done);
+ });
 
-	afterEach(function (done) {
-		removeAll(done);
-	});
+ afterEach(function (done) {
+  removeAll(done);
+ });
 });
 ```
 
@@ -220,29 +223,30 @@ As you probably can notice from my name we might have more test for validation a
 
 ```javascript
 it('returns validation error if name is not present', function(done){
-	var u = { city : "A city without a user name"};
+ var u = { city : "A city without a user name"};
 
-	request
-		.post('/user')
-		.send(u)
-		.expect('ValidationError', "Name is required")
-		.expect(200, done);
+ request
+  .post('/user')
+  .send(u)
+  .expect('ValidationError', "Name is required")
+  .expect(200, done);
 });
 
 it('returns validation error if city is not present', function(done){
-	var u = { name : "A name without a city"};
+ var u = { name : "A name without a city"};
 
-	request
-		.post('/user')
-		.send(u)
-		.expect('ValidationError', "City is required")
-		.expect(200, done);
+ request
+  .post('/user')
+  .send(u)
+  .expect('ValidationError', "City is required")
+  .expect(200, done);
 });
 ```
 
 I leave the implementation for the user to work out... and update [the repo](https://github.com/marcusoftnet/UserApiWithTest) with the solution.
 
 ## It's getting DRY in here
+
 Me. Today. To newbie programmer:
 
 <blockquote>If you want to be an excellent programmer you have to use your head. But there's one rule where that is optional: [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)</blockquote>
@@ -276,10 +280,10 @@ var users = require('../userRoutes.js').users;
 module.exports.users = users;
 
 module.exports.removeAll = function(done){
-	co(function *(){
-		yield users.remove({});
-		// and other things we need to clean up
-	})(done);
+ co(function *(){
+  yield users.remove({});
+  // and other things we need to clean up
+ })(done);
 };
 ```
 
@@ -293,28 +297,28 @@ var request = helpers.request;
 
 describe('DEL to /user/:id', function(){
 
-	var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
+ var test_user  = { name: 'Marcus', City : 'Bandung, Indonesia'};
 
-	beforeEach(function (done) {
-		helpers.removeAll(done);
-	});
+ beforeEach(function (done) {
+  helpers.removeAll(done);
+ });
 
-	afterEach(function (done) {
-		helpers.removeAll(done);
-	});
+ afterEach(function (done) {
+  helpers.removeAll(done);
+ });
 
-	it('deletes an existing user', function(done){
-		co(function *() {
-			// Insert test user in database
-			var user = yield users.insert(test_user);
-			var userUrl = '/user/' + user._id;
+ it('deletes an existing user', function(done){
+  co(function *() {
+   // Insert test user in database
+   var user = yield users.insert(test_user);
+   var userUrl = '/user/' + user._id;
 
-			// Delete the user
-			request
-				.del(userUrl)
-				.expect(200, done);
-		})();
-	});
+   // Delete the user
+   request
+    .del(userUrl)
+    .expect(200, done);
+  })();
+ });
 });
 ```
 
@@ -332,14 +336,15 @@ Now we can use it, in the proper place, recreating the data before each test in 
 var test_user = {};
 
 beforeEach(function (done) {
-	test_user = helpers.test_user;
-	helpers.removeAll(done);
+ test_user = helpers.test_user;
+ helpers.removeAll(done);
 });
 ```
 
 Notice that in this very simple case I'm just returning the object as it is. For more advanced cases check out the [test data builder](http://www.natpryce.com/articles/000714.html) pattern.
 
-# Until next time...
+# Until next time
+
 And round this point I realize that this post is way to long already. I'll move the rest to another post. The rest means - splitting the entire API into several modules, using mount and other goodness.
 
 I've tagged the code in GitHub for this post and you [can find it here](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1).

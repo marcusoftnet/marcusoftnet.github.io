@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 5
-date: 2009-02-08T22:28:00.001+01:00
+date: 2009-02-08T21:28:00.001Z
 author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
-modified_time: 2009-05-05T11:15:29.920+02:00
+modified_time: 2009-05-05T09:15:29.920Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1830400696204581960
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-5.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-5.html
+---
+
 
 OK – this was a really short session and it also mark the end of the
 first week of the project. Five hours a week – I’d love to work with

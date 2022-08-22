@@ -1,14 +1,16 @@
 ---
 layout: post
 title: ReSharper crashes
-date: 2008-10-23T11:07:00.001+02:00
+date: 2008-10-23T09:07:00.001Z
 author: Marcus Hammarberg
 tags:
-  - TFS -
-MSBuild
-modified_time: 2010-12-14T16:21:03.989+01:00
+  - TFS
+  - MSBuild
+modified_time: 2010-12-14T15:21:03.989Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1497074953926190551
-blogger_orig_url: http://www.marcusoft.net/2008/10/resharper-crashes.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/10/resharper-crashes.html
+---
+
 
 First and foremost- I love
 <a href="http://www.jetbrains.com/resharper/" target="_blank">Resharper
@@ -19,9 +21,9 @@ Two things are at the top of my list (in all honesty I must admit that I
 can't be 100% sure that ReSharper has to do with this but both of them
 has occurred after I've installed ReSharper):
 
--   ASPX-pages are very, very slow to load in design-mode. It can take
+- ASPX-pages are very, very slow to load in design-mode. It can take
     about a minute to switch from the html-code to the design-view
--   The Build supervisor (you know, the view where you stare at the
+- The Build supervisor (you know, the view where you stare at the
     progress of the build, keep your fingers crossed and hopes for only
     green dots...) crashes very frequently.
 

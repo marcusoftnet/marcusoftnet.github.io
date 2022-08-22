@@ -2,11 +2,10 @@
 layout: post
 title: The Lars-principle
 author: Marcus Hammarberg
-date: 2015-09-10 09:53:04
+date: 2015-09-10T09:53:04.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

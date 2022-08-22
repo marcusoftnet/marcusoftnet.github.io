@@ -10,6 +10,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/09/more-on-enterprise-library-en
 ---
 
 
+
 The [last
 time](http://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
 I wrote about this I was a bit too fast to get all the intricate details

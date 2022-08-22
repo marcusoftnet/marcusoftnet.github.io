@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-t
 ---
 
 
+
 A couple of days ago I learned about the 7 Levels of Delegation in the
 <a href="http://www.management30.com/" target="_blank">Management 3.0
 book</a> by <a

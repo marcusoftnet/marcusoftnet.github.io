@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7327845883896598568
 blogger_orig_url: http://www.marcusoft.net/2007/08/salvation-army-banding-in-stockholm.html
 ---
 
+
 As many might know there are not many bands in the Salvation Army
 left. In the Stockholm area we have four that is functioning every
 week.

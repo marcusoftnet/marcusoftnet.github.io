@@ -2,11 +2,10 @@
 layout: post
 title: An exercise from 5 dysfunctions of a team
 author: Marcus Hammarberg
-date: 2016-02-21 15:33:38
+date: 2016-02-21T15:33:38.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

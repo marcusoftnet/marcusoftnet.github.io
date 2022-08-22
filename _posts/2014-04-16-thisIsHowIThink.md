@@ -4,8 +4,7 @@ title: No... this is how I think '
 date: 2014-04-16T02:13:00.003Z
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan
-  - Lean
+  - Team Yayasan - Lean
   - Life of a consultant
   - Agile
   - Salvation Army
@@ -16,6 +15,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3756488527386682835
 blogger_orig_url: http://www.marcusoft.net/2014/04/thisIsHowIThink.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
@@ -161,8 +161,8 @@ simulation I did a couple of months ago:
 
 **<a
 href="https://www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation"
-target="_blank" title="Pass the pennies - Lean game simulation">Pass the
-pennies - Lean game simulation</a>** from
+target="_blank" title="Pass the pennies  - Lean game simulation">Pass the
+pennies  - Lean game simulation</a>** from
 **<a href="http://www.slideshare.net/marcusoftnet" target="_blank">Marcus
 Hammarberg</a>**
 

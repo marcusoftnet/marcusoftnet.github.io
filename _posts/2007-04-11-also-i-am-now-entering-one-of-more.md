@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3957256200867345660
 blogger_orig_url: http://www.marcusoft.net/2007/04/also-i-am-now-entering-one-of-more.html
 ---
 
+
 Also - i am now entering one of the more hectic periods of my life
 (with two free days for the next four weeks, if i remember correctly) so
 the blogging will probably stand back for a while. But I'll keep you all

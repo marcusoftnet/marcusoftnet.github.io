@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/10/oracle-odpnet-tfs-build-and-r
 ---
 
 
+
 We have for several days now been chasing a bug for a couple of days
 now. Very, very annoying...
 

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2690269119710637624
 blogger_orig_url: http://www.marcusoft.net/2008/04/debugging-wcf-service-service-attribute.html
 ---
 
+
 We've got the "the Service attribute value in the <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">ServiceHost
 directive could not be found" error message when we renamed (and moved)

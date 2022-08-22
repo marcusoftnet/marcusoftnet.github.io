@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/12/skillmatter-so-much-to-watch-
 ---
 
 
+
 On the
 <a href="http://skillsmatter.com" target="_blank">SkillsMatter</a>-site
 there are so many good thing to read and see that I would have to spend

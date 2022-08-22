@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Happy week - so far so good
-date: 2006-11-21T07:38:00.000+01:00
+date: 2006-11-21T06:38:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
-modified_time: 2006-11-21T13:06:08.203+01:00
+modified_time: 2006-11-21T12:06:08.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7400246725902630226
-blogger_orig_url: http://www.marcusoft.net/2006/11/happy-week-so-far-so-good.html ---
+blogger_orig_url: http://www.marcusoft.net/2006/11/happy-week-so-far-so-good.html
+---
+
 [<img
 src="http://photos1.blogger.com/x/blogger2/4958/4459/200/293302/smiley.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"

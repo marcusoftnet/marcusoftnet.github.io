@@ -2,14 +2,12 @@
 layout: post
 title: Reading the Scrum Guide
 author: Marcus Hammarberg
-date: 2017-04-21 10:16:18
+date: 2017-04-21T10:16:18.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
- - Lean
+  - Scrum
+  - Lean
 ---
 
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) was my first love in agile. I still remember the revolution and excitement I felt after the Scrum Master course and when I and my colleague Öystein started our first Scrum team. It was **awesome**!

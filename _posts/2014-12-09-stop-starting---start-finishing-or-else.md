@@ -4,8 +4,7 @@ title: Stop starting - start finishing, or else...
 author: Marcus Hammarberg
 date: 2014-12-09T08:08:39.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Kanban
 ---
 

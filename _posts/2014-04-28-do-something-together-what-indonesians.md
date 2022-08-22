@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/04/do-something-together-what-in
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 One of the things that really surprised me and my wife when we were

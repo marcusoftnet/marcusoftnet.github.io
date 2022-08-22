@@ -2,11 +2,10 @@
 layout: post
 title: Metrics on 'well-defined' projects - and what I learned about uncertainty
 author: Marcus Hammarberg
-date: 2019-11-22 08:43:43
+date: 2019-11-22T08:43:43.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

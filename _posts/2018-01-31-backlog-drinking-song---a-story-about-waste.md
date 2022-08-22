@@ -2,14 +2,12 @@
 layout: post
 title: Some thoughts on backlogs
 author: Marcus Hammarberg
-date: 2018-01-31 09:56:52
+date: 2018-01-31T09:56:52.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 I was asked to join a team for a backlog grooming session. We went into the room and opened the backlog in JIRA. It was exactly 99 items long. Not too shabby, but still... 99!? Ninety-nine items of work we hadn't done. Yet.

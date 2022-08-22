@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/fluent-nhibnerate-checkrefere
 ---
 
 
+
 I have been playing around quite a lot with
 <a href="http://fluentnhibernate.org/" target="_blank">Fluent
 NHibernate</a> lately and ran into this problem a couple of times.

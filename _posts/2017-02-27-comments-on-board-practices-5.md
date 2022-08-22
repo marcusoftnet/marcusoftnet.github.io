@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Comments on common board practices - It’s not a kanban board if you don’t have a WIP limit
+title: >-
+  Comments on common board practices - It’s not a kanban board if you don’t have
+  a WIP limit
 author: Marcus Hammarberg
-date: 2017-02-27 15:13:13
+date: 2017-02-27T15:13:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 When kanban first came into common use and practice it was often posed as an alternative to Scrum. Well, as [Torbjörn Gyllebring](https://twitter.com/drunkcod?lang=en) told us many years ago, [kanban is not your process](http://www.slideshare.net/LESSConf/kanban-is-not-your-process). Kanban is a process improvement tool and works on whatever process you apply it to. It's one of the powers of the tool and the reason I like kanban so much.

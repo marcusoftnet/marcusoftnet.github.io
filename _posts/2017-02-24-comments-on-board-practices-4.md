@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Comments on common board practices - Colours speaks volumes. Use colours wisely
+title: >-
+  Comments on common board practices - Colours speaks volumes. Use colours
+  wisely
 author: Marcus Hammarberg
-date: 2017-02-24 15:13:13
+date: 2017-02-24T15:13:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 One of the things that always catches my attention when I walk past a board is the colours of the stickies. Why? Because colours requests our attention and *can* help us in understanding more about a thing. Red is naturally a warning (in western culture at least), green feels ok, etc.

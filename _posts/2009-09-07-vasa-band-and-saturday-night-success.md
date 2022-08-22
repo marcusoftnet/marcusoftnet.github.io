@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-
 ---
 
 
+
 This weekend the band I play in, the
 <a href="http://www.vasaband.se" target="_blank">Vasa Band</a>, had an
 opportunity to play at the Salvation Army regional congress in Örebro.

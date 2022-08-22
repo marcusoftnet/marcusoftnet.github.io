@@ -10,7 +10,9 @@ consultant
   - Agile
 modified_time: 2014-06-02T10:56:52.504+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2426962620931304334
-blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-terminal.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-terminal.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

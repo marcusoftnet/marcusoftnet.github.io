@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1473840149963234003
 blogger_orig_url: http://www.marcusoft.net/2007/08/ndoc-is-dead-long-live-sandcastle.html
 ---
 
+
 As i [written
 before](http://marcushammarberg.blogspot.com/2007/07/sandcastle-or-marcus-betting-on-wrong.html)
 Microsoft is plugging a documentation product called Sandcastle as a

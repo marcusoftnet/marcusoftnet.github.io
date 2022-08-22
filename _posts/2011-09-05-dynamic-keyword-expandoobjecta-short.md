@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/09/dynamic-keyword-expandoobject
 ---
 
 
+
 Right away – this blog post is mostly for me. I have not been dabbling
 enough with the “dynamic” keyword to say that I know it. This is what
 and how I understand it now.

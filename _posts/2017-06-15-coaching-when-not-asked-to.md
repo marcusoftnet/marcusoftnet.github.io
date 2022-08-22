@@ -2,11 +2,10 @@
 layout: post
 title: Coaching when help is not wanted or important
 author: Marcus Hammarberg
-date: 2017-06-15 10:01:44
+date: 2017-06-15T10:01:44.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

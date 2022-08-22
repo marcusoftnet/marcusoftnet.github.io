@@ -2,11 +2,10 @@
 layout: post
 title: Prioritization - some thoughts and tools
 author: Marcus Hammarberg
-date: 2016-01-14 15:45:12
+date: 2016-01-14T15:45:12.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

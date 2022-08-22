@@ -4,8 +4,7 @@ title: Deploying. NET 6 WebAPI using ARM Template
 author: Marcus Hammarberg
 date: 2022-08-19T09:26:51.000Z
 tags:
-  - .NET
-  - Programming
+  - .NET - Programming
   - DevOps
 ---
 

@@ -8,7 +8,9 @@ tags:
   - Javascript - Koa
 modified_time: 2014-04-11T17:19:56.787+02:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4774542661205622224
-blogger_orig_url: http://www.marcusoft.net/2014/04/WhenIGotGenerators.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/04/WhenIGotGenerators.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

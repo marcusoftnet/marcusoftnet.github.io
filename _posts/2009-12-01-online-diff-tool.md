@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/12/online-diff-tool.html
 ---
 
 
+
 Found
 <a href="http://www.quickdiff.com/" target="_blank">this nugget</a>
 today when comparing numerous of very long SQL-strings. Yeah, yeah – I

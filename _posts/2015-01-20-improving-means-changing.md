@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Things I say often: Improving means changing
+title: Things I say often Improving means changing
 author: Marcus Hammarberg
-date: 2015-01-20 11:28:03
+date: 2015-01-20T11:28:03.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

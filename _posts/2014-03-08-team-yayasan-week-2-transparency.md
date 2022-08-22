@@ -16,6 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-2-transpare
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 This week was really, really interesting. The things that happened on

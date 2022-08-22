@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-972709860705143012
 blogger_orig_url: http://www.marcusoft.net/2006/12/strange-thing-on-agenda.html
 ---
 
+
 I am
 from today starting a period with some really weird stuff on my
 schedule:

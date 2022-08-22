@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2006/11/generic-webservice-creator-us
 ---
 
 
+
 This now contains an update
 <http://marcushammarberg.blogspot.com/2006/11/more-about-generic-webservces.html>.
 Be sure to look it up for a more elegant solution.

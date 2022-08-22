@@ -10,6 +10,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/a-little-something-about-docu
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 This is just a short thing that I experienced when doing the data layer

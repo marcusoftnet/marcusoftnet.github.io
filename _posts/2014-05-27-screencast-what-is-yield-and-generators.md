@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/05/screencast-what-is-yield-and-
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I made another little screencast about

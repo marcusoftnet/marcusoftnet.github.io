@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9081143277930480770
 blogger_orig_url: http://www.marcusoft.net/2008/03/type-typename-is-not-cls-compliant.html
 ---
 
+
 OK - here is a strange one...
 \[UPDATE ON THIS POST - SEE
 <http://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html>\]

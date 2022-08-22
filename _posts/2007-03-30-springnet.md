@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4435543381378976702
 blogger_orig_url: http://www.marcusoft.net/2007/03/springnet.html
 ---
 
+
 I
 realize, when skimming through my posts on the blog, that this happens
 from time to time ... but i have learned some great programming skills

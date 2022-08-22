@@ -2,12 +2,11 @@
 layout: post
 title: 3 success factors for a big room planning
 author: Marcus Hammarberg
-date: 2017-01-16 13:10:00
+date: 2017-01-16T13:10:00.000Z
 tags:
-
   - Agile
- - Lean
- - Marcus private
+  - Lean
+  - Marcus private
 ---
 
 A few months back I blogged about the practice of [big room planning](http://www.marcusoft.net/2016/10/big-room-planning-a-failure-testatment-i-like.html) made famous by [SAFe (&#8482;)](http://www.scaledagileframework.com/) through their [Product Increment planning session](http://www.scaledagileframework.com/pi-planning/).

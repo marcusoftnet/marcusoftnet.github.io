@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-440534495947871164
 blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-parents.html
 ---
 
+
 Yesterday
 we had a coffee with two of our best friends that are becoming parents
 in a few days...

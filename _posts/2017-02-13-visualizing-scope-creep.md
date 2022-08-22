@@ -2,11 +2,10 @@
 layout: post
 title: An idea for visualising scope creep
 author: Marcus Hammarberg
-date: 2017-02-13 20:10:00
+date: 2017-02-13T20:10:00.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

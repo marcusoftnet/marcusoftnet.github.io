@@ -1,13 +1,12 @@
 ---
 layout: post
-title: No #No - more #Less
+title: 'No'
 author: Marcus Hammarberg
-date: 2015-05-25 16:36:41
+date: 2015-05-25T16:36:41.000Z
 tags:
-
   - Agile
   - Life of a consultant
- - Leadership
+  - Leadership
 ---
 
 [Twitter](http://twitter.com/) is a wonderful forum and [I](http://twitter.com/marcusoftnet) owe much of my knowledge and progress from sparks found in tweets and from following interesting people and threads. But according Spiderman wisdom it, like all thing powerful;

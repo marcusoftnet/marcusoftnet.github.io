@@ -4,7 +4,7 @@ title: You control the disappointment dial - use it!
 date: 2014-06-02T08:21:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Lean
+  - Marcus private  - Lean
   - Life of a consultant
   - Agile
   - Indonesia
@@ -14,6 +14,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1975251623952516075
 blogger_orig_url: http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

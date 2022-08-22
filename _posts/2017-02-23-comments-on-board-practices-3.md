@@ -2,13 +2,11 @@
 layout: post
 title: Comments on common board practices - Done? There is no Done
 author: Marcus Hammarberg
-date: 2017-02-23 12:48:13
+date: 2017-02-23T12:48:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 This comment is closely related to the [comment about columns](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html). In this post I'm more specifically want to talk about the "Done"-column. The last column on most boards. I'm on a crusade to rename Done all over the world.

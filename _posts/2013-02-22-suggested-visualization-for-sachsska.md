@@ -5,8 +5,7 @@ date: 2013-02-22T08:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - Tools
-  - Lean
+  - Tools - Lean
   - Life of a consultant
   - Agile
 modified_time: 2013-02-24T16:51:12.070Z
@@ -15,6 +14,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8029179407855875544
 blogger_orig_url: http://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

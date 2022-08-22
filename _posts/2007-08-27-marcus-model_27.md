@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4456630280434339226
 blogger_orig_url: http://www.marcusoft.net/2007/08/marcus-model_27.html
 ---
 
+
 <a
 href="http://2.bp.blogspot.com/_TI0jeIedRFk/StxqJ4zEA0I/AAAAAAAAAJ4/X9W2MP7AcV0/s1600-h/eufon_b_N6361.jpg"
 onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"><img

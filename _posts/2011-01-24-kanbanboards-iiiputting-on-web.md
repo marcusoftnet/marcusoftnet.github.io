@@ -1,18 +1,20 @@
 ---
 layout: post
 title: Kanbanboards III–putting on the web
-date: 2011-01-23T22:26:00.001+01:00
+date: 2011-01-23T21:26:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET
-   - ASP.NET MVC
+  - .NET - ASP.NET MVC
   - KanbanBoards
   - SpecFlow
-modified_time: 2011-01-25T11:28:24.156+01:00
-thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TTyc-nZa-iI/AAAAAAAAAvo/ye0t1HcwTiE/s72-c/updated-scenario_thumb.jpg?imgmax=800
+modified_time: 2011-01-25T10:28:24.156Z
+thumbnail: >-
+  http://lh5.ggpht.com/\_TI0jeIedRFk/TTyc-nZa-iI/AAAAAAAAAvo/ye0t1HcwTiE/s72-c/updated-scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9181359261521028249
-blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html
+---
+
 
 After my latest <a
 href="http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html"

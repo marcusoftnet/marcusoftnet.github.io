@@ -1,16 +1,18 @@
 ---
 layout: post
 title: CQRS–another love story
-date: 2011-01-27T09:27:00.001+01:00
+date: 2011-01-27T08:27:00.001Z
 author: Marcus Hammarberg
 tags:
   - MobProgramming - BDD
   - .NET - ÖreDev
   - Kanban
   - Agile - CQRS
-modified_time: 2014-06-02T10:56:52.530+02:00
+modified_time: 2014-06-02T08:56:52.530Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7262514878258726848
-blogger_orig_url: http://www.marcusoft.net/2011/01/cqrsanother-love-story.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/01/cqrsanother-love-story.html
+---
+
 
 People who know me also know that I easily get all ga-ga, fall in love
 in or simply get very excited over thing that I like. Actually the other

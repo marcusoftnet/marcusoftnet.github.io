@@ -1,13 +1,15 @@
 ---
 layout: post
 title: In Control II - Bobby McFerrin
-date: 2008-08-06T07:45:00.003+02:00
+date: 2008-08-06T05:45:00.003Z
 author: Marcus Hammarberg
 tags:
   - Fun
-modified_time: 2010-12-14T16:19:57.874+01:00
+modified_time: 2010-12-14T15:19:57.874Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8208673182992391595
-blogger_orig_url: http://www.marcusoft.net/2008/08/in-control-ii-bobby-mcferrin.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/08/in-control-ii-bobby-mcferrin.html
+---
+
 Bobby McFerrin is known to a broader
 audience for the summer-hit "Don't worry, be happy". But that is such a
 little part of his work. And his real genius lies in his voice.

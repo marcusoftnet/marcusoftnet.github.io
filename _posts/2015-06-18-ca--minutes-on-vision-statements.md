@@ -2,16 +2,13 @@
 layout: post
 title: ca 10 minutes on Vision statements
 author: Marcus Hammarberg
-date: 2015-06-18 10:47:47
+date: 2015-06-18T10:47:47.000Z
 tags:
-
   - Indonesia
- - Lean
- - Leadership
-
+  - Lean
+  - Leadership
   - Agile
   - Life of a consultant
-
   - Salvation Army
 ---
 

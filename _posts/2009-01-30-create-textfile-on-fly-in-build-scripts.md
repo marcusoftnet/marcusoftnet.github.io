@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/01/create-textfile-on-fly-in-bui
 ---
 
 
+
 Yesterday we did a final touch to our build script (by we I mean "I
 talked about it for five minutes, Christer did it").
 

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-209759608610930719
 blogger_orig_url: http://www.marcusoft.net/2008/03/webcam-server.html
 ---
 
+
 We are planning to setup a web camera to view the Scrum Board. This
 has to do with the team being highly distributed (200 km
 apart) and us still wanting to maintain some sort of contact.

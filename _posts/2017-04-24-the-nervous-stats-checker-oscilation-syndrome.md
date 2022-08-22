@@ -2,12 +2,11 @@
 layout: post
 title: The nervous stats checker oscillating syndrome
 author: Marcus Hammarberg
-date: 2017-04-24 10:48:51
+date: 2017-04-24T10:48:51.000Z
 tags:
-
   - Agile
- - Lean
- - Tools
+  - Lean
+  - Tools
   - Life of a consultant
 ---
 

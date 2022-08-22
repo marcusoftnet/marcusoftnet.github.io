@@ -12,7 +12,9 @@ tags:
 modified_time: 2011-09-16T09:00:11.577+02:00
 thumbnail: http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2993379680989849936
-blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html
+---
+
 
 I have recently returned from parental leave and got to experience
 office tempo first-hand. Was not prepared for that, but it also had me

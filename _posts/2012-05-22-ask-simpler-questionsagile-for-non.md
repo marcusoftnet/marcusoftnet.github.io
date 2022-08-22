@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8353209360813982392
 blogger_orig_url: http://www.marcusoft.net/2012/05/ask-simpler-questionsagile-for-non.html
 ---
 
+
 A couple of years ago I attended a course with
 <a href="http://www.agilemanagement.net/" target="_blank">David J
 Andersson</a>, father of

@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/07/modelling-result.html
 ---
 
 
+
 <div>
 
 As [I wrote earlier](http://www.marcusoft.net/2008/06/new-modeljob.html)

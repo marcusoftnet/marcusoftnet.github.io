@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5105649867606006552
 blogger_orig_url: http://www.marcusoft.net/2007/04/tdd-how-is-it-done-vol-2.html
 ---
 
+
 When
 digging around for TDD stuff i have started [a small
 series](http://marcushammarberg.blogspot.com/2007/04/tdd-how-is-it-done.html)

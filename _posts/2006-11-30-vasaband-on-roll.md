@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6659423292729480900
 blogger_orig_url: http://www.marcusoft.net/2006/11/vasaband-on-roll.html
 ---
 
+
 [<img
 src="http://photos1.blogger.com/x/blogger2/4958/4459/320/921092/julkonsert%2006.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"

@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3921821758280341733
 blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop51.html
 ---
 
+
 This is a topic I ~~rant~~ talk about quite a lot nowadays it seems.
 I feel like a old LP with a scratch (just that analogy probably date me
 pretty good I guess). But I do it because I see it missing from a lot of

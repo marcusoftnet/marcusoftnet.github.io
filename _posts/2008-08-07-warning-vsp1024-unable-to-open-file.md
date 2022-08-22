@@ -1,15 +1,15 @@
 ---
 layout: post
-title: TESTTOOLSTASK : warning VSP1024: Unable to open
-file ''file'' for writing.'
-date: 2008-08-07T07:32:00.004+02:00
+title: TESTTOOLSTASK warning VSP1024 Unable to open file file for writing.
+date: 2008-08-07T05:32:00.004Z
 author: Marcus Hammarberg
 tags:
   - TFS
-modified_time: 2010-12-14T16:20:33.256+01:00
+modified_time: 2010-12-14T15:20:33.256Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6393301215503286885
 blogger_orig_url: http://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-open-file.html
 ---
+
 
 This warning occurs when doing testing with <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">MSTest and
@@ -26,7 +26,7 @@ No fear; the solution is quite simple (thanks to [this excellent forum
 post](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2149662&SiteID=1));
 here is what you need to do:
 
--   Find the test configuration file <span id="SPELLING_ERROR_3"
+- Find the test configuration file <span id="SPELLING_ERROR_3"
     class="blsp-spelling-corrected">you're using for the test run
     under code coverage. It is <span id="SPELLING_ERROR_4"
     class="blsp-spelling-corrected">usually called <span
@@ -34,14 +34,14 @@ here is what you need to do:
     id="SPELLING_ERROR_6"
     class="blsp-spelling-error">testrunconfig and resides
     in the solution root.
--   Open the file in a XML-editor
--   Find all the <span
+- Open the file in a XML-editor
+- Find all the <span
     id="SPELLING_ERROR_7"
     class="blsp-spelling-error">CodeCoverageItem-elements
     change (or add) the attribute
     instrumentInPlace from
     "**true**" to "**false**"
--   Save and rerun - works like a charm
+- Save and rerun - works like a charm
 
 But hey, I can hear some people say, what is that instrumentInPlace-attribute?
 Well that's the hmrpf... mmm ... eeeh - I don't know, to be honest.

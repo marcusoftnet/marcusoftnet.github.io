@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4168893012877547844
 blogger_orig_url: http://www.marcusoft.net/2008/06/web-service-factory.html
 ---
 
+
 Following
 a tip from Robban I've been checking out the [Web Service
 Factory](http://www.codeplex.com/servicefactory) tool from [Microsofts

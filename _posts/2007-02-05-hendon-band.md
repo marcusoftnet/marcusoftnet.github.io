@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Hendon band
-date: 2007-02-05T07:36:00.000+01:00
+date: 2007-02-05T06:36:00.000Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
   - Salvation Army
-modified_time: 2007-02-05T07:49:56.164+01:00
+modified_time: 2007-02-05T06:49:56.164Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-262928376502019380
-blogger_orig_url: http://www.marcusoft.net/2007/02/hendon-band.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/02/hendon-band.html
+---
+
 I went to a short concert last afternoon with the Hendon band. This is one of the
 biggest bands in the Salvation and maybe elsewhere. So i had prepared
 for a real "earcleaner" but to my big surprise

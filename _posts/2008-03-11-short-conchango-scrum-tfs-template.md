@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-309585422301317756
 blogger_orig_url: http://www.marcusoft.net/2008/03/short-conchango-scrum-tfs-template.html
 ---
 
+
 I have been quite
 [frustrated](http://marcushammarberg.blogspot.com/2008/03/conchango-burndown-char-not-showing.html)
 with the [Conchango Scrum TFS Template](http://scrumforteamsystem.com/).

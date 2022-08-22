@@ -2,12 +2,10 @@
 layout: post
 title: Thinking in flow - some recent thoughts
 author: Marcus Hammarberg
-date: 2018-05-28 20:47:34
+date: 2018-05-28T20:47:34.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
 ---
 

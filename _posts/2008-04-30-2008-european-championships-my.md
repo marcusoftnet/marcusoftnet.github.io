@@ -1,13 +1,15 @@
 ---
 layout: post
 title: 2008 European Championships - my predictions
-date: 2008-04-30T14:22:00.006+02:00
+date: 2008-04-30T12:22:00.006Z
 author: Marcus Hammarberg
 tags:
   - BrassBand
-modified_time: 2008-04-30T15:07:36.038+02:00
+modified_time: 2008-04-30T13:07:36.038Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6282714289186759306
-blogger_orig_url: http://www.marcusoft.net/2008/04/2008-european-championships-my.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/04/2008-european-championships-my.html
+---
+
 It's that great time of the year when the best brass band competition in
 world takes place - the European Brass Band Championships. Historically
 this is where the best bands plays at the very highest level. This year

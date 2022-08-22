@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6923083728218346314
 blogger_orig_url: http://www.marcusoft.net/2007/06/paris-in-pictures.html
 ---
 
+
 [<img
 src="http://1.bp.blogspot.com/_kkDJOSPNTLs/Rm4wBkBiT3I/AAAAAAAAAKs/PJ-_djvxwlo/s320/PICT1706.JPG"
 id="BLOGGER_PHOTO_ID_5075046633501249394"

@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Multi-gifted - Glyn Williams
-date: 2008-07-04T09:01:00.001+02:00
+date: 2008-07-04T07:01:00.001Z
 author: Marcus Hammarberg
 tags:
   - BrassBand - Fun - Euphonium
-modified_time: 2008-07-04T09:01:01.322+02:00
+modified_time: 2008-07-04T07:01:01.322Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-396031901073453443
-blogger_orig_url: http://www.marcusoft.net/2008/07/multi-gifted-glyn-williams.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/07/multi-gifted-glyn-williams.html
+---
+
 
 I can't keep this clip from you - it's golden. The clip shows one of my
 favorite band,

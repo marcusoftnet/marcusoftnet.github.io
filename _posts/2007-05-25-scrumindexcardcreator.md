@@ -1,15 +1,18 @@
 ---
 layout: post
 title: ScrumIndexCardCreator
-date: 2007-05-25T08:15:00.000+02:00
+date: 2007-05-25T06:15:00.000Z
 author: Marcus Hammarberg
 tags:
   - Scrum
   - Agile
-modified_time: 2007-05-28T08:02:53.899+02:00
-thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlpwXyObzbI/AAAAAAAAAKE/xErxoVOhuUg/s72-c/scrumindexcardcreator1.JPG
+modified_time: 2007-05-28T06:02:53.899Z
+thumbnail: >-
+  http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlpwXyObzbI/AAAAAAAAAKE/xErxoVOhuUg/s72-c/scrumindexcardcreator1.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4966481514230234420
-blogger_orig_url: http://www.marcusoft.net/2007/05/scrumindexcardcreator.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/05/scrumindexcardcreator.html
+---
+
 
 <div>
 

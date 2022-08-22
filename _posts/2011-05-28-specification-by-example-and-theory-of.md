@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5183569694525573431
 blogger_orig_url: http://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html
 ---
 
+
 Since the first time I heard about
 <a href="http://specificationbyexample.com/"
 target="_blank">Specification by example</a> (or

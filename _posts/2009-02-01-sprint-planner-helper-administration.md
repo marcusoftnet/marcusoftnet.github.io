@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-adminis
 ---
 
 
+
 OK - in order to be able to work with this at all I thought I first
 should do some administrative stuff for the project. So I have setup a
 <a href="http://www.codeplex.com/" target="_blank">CodePlex</a>-project

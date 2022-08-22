@@ -2,14 +2,12 @@
 layout: post
 title: TDD for 9 year olds - an experiment in teaching my sons class
 author: Marcus Hammarberg
-date: 2017-12-18 20:26:19
+date: 2017-12-18T20:26:19.000Z
 tags:
-
   - Agile
-
   - TDD
- - Programming
- - Marcus private
+  - Programming
+  - Marcus private
 ---
 
 I had the opportunity to test my teaching skills to the max, as I got the question if I could come to my son Alberts class, to teach "some programming". I have taught TDD to kids before, [see this long video](https://www.youtube.com/watch?v=Ont8keNr08Y&t=1679s) for the result. But those kids were 3-4 years old.

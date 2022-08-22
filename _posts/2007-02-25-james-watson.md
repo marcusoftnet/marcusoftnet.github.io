@@ -1,15 +1,17 @@
 ---
 layout: post
 title: James Watson
-date: 2007-02-25T12:46:00.000+01:00
+date: 2007-02-25T11:46:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private - BrassBand
 modified_time: 2007-02-26T09:26:17.483+01:00'
-thumbnail:
-http://3.bp.blogspot.com/\_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF8/7xSx_9pz0z4/s72-c/PICT1336.JPG
+thumbnail: >-
+  http://3.bp.blogspot.com/\_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF8/7xSx_9pz0z4/s72-c/PICT1336.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1022268405128742543
-blogger_orig_url: http://www.marcusoft.net/2007/02/james-watson.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/02/james-watson.html
+---
+
 [<img
 src="http://3.bp.blogspot.com/_kkDJOSPNTLs/ReF5HbBOsNI/AAAAAAAAAF8/7xSx_9pz0z4/s320/PICT1336.JPG"
 id="BLOGGER_PHOTO_ID_5035439026795884754"

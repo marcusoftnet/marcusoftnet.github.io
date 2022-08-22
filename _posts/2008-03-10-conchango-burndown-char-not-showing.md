@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7494630480846630128
 blogger_orig_url: http://www.marcusoft.net/2008/03/conchango-burndown-char-not-showing.html
 ---
 
+
 OK - one of the new technologies that we are using in my [really fun
 project](http://marcushammarberg.blogspot.com/2008/03/focus-or-not.html)
 is the [Conchango Scrum template for TFS](http://scrumforteamsystem.com/).

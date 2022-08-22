@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4999671088852773853
 blogger_orig_url: http://www.marcusoft.net/2007/04/chose-your-battles.html
 ---
 
+
 When trying
 to force something to be what you want you have to know when to give up
 and when to keep trying a little while longer... that's my lesson from

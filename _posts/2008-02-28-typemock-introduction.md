@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8848933600414376144
 blogger_orig_url: http://www.marcusoft.net/2008/02/typemock-introduction.html
 ---
 
+
 I my
 next project (which is mega-cool, I'll get back) i will start using TDD
 from the outset, which seems to be the only way to get it to work. To do

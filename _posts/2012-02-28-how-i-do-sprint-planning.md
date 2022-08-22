@@ -1,17 +1,19 @@
 ---
 layout: post
 title: How I do sprint planning
-date: 2012-02-27T22:11:00.001+01:00
+date: 2012-02-27T21:11:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
   - Scrum
-
   - Agile
-modified_time: 2012-02-27T22:11:43.344+01:00
-thumbnail: http://lh6.ggpht.com/--Vi5z0pBcNA/T0vxRTqRkVI/AAAAAAAABFE/3zRVxiuL08Q/s72-c/timeboxing_thumb%25255B1%25255D.png?imgmax=800
+modified_time: 2012-02-27T21:11:43.344Z
+thumbnail: >-
+  http://lh6.ggpht.com/--Vi5z0pBcNA/T0vxRTqRkVI/AAAAAAAABFE/3zRVxiuL08Q/s72-c/timeboxing_thumb%25255B1%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6757288054780575445
-blogger_orig_url: http://www.marcusoft.net/2012/02/how-i-do-sprint-planning.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/02/how-i-do-sprint-planning.html
+---
+
 
 I haven’t done “proper”
 <a href="http://en.wikipedia.org/wiki/Scrum_(development)"

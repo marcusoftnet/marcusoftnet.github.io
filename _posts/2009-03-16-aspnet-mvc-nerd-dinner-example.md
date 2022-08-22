@@ -1,13 +1,15 @@
 ---
 layout: post
 title: ASP.NET MVC – The Nerd Dinner example
-date: 2009-03-15T21:46:00.001+01:00
+date: 2009-03-15T20:46:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools - ASP.NET MVC
-modified_time: 2010-12-14T16:22:38.201+01:00
+modified_time: 2010-12-14T15:22:38.201Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3313785601403983906
-blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html
+---
+
 
 I am going through the <a
 href="http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf"

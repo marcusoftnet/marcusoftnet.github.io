@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Sprint Planner Helper – final
-date: 2009-05-14T10:15:00.001+02:00
+date: 2009-05-14T08:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
   - Sprint Planner Helper
-
   - TDD
-modified_time: 2009-05-18T19:30:40.116+02:00
+modified_time: 2009-05-18T17:30:40.116Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2750598584067777240
-blogger_orig_url: http://www.marcusoft.net/2009/05/sprint-planner-helper-final.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/05/sprint-planner-helper-final.html
+---
+
 
 I have had some real problems to get going with the <a
 href="http://www.marcusoft.net/search/label/Sprint%20Planner%20Helper"

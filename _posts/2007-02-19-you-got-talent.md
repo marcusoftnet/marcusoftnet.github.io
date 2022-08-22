@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6094492102499573400
 blogger_orig_url: http://www.marcusoft.net/2007/02/you-got-talent.html
 ---
 
+
 Lets start this week with something really impressive and yet ...
 sad.
 

@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/norwegian-brass-band-champion
 ---
 
 
+
 Right now you can follow the Norwegian Championships in Brass Band live
 on <a href="http://www.nrk.no" target="_blank">nrk.no</a>. Here is the
 link: <http://www1.nrk.no/nett-tv/distrikt/hordaland/verdi/89482>.

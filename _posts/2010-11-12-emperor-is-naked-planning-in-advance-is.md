@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/11/emperor-is-naked-planning-in-
 ---
 
 
+
 This is a well known truth for all doing agile method.
 
 ### Introduction

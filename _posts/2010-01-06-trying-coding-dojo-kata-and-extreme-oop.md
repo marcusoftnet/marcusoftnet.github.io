@@ -14,6 +14,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/01/trying-coding-dojo-kata-and-e
 ---
 
 
+
 In preparations for a presentation next week (which will go on for two
 days… brrr) I had my sights set on doing something about
 <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"

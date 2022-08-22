@@ -2,13 +2,11 @@
 layout: post
 title: Emergency lanes - some tips
 author: Marcus Hammarberg
-date: 2015-01-26 09:20:05
+date: 2015-01-26T09:20:05.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 One of the things that first made [kanban](http://bit.ly/theKanbanBook) known and loved was the introduction of emergency lanes. Or at least the lack of fixed scope for a sprint where sudden urgent work items was hard to handle in other methods.

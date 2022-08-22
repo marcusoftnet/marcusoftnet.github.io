@@ -17,6 +17,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6919193304724604886
 blogger_orig_url: http://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html
 ---
 
+
 From time to time I find myself in the position where I ask “stupid”
 questions. I’ve found that it’s often the case that the question is not
 that “stupid” after all and if it is you get to learn a lot in the

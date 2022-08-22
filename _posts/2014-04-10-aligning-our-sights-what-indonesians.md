@@ -5,8 +5,7 @@ date: 2014-04-10T08:49:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - BrassBand
-  - Lean
+  - BrassBand - Lean
   - Life of a consultant
   - Agile
   - Salvation Army
@@ -15,6 +14,7 @@ modified_time: 2014-04-10T08:49:59.113Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6227174669280927575
 blogger_orig_url: http://www.marcusoft.net/2014/04/aligning-our-sights-what-indonesians.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

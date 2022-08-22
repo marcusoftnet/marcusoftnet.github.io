@@ -2,12 +2,11 @@
 layout: post
 title: What the traffic in Jakarta taught me about slack
 author: Marcus Hammarberg
-date: 2015-03-18 10:57:09
+date: 2015-03-18T10:57:09.000Z
 tags:
-
   - Agile
- - Lean
- - Marcus private
+  - Lean
+  - Marcus private
 ---
 
 <img src="/img/trafficJakarta1.jpg" style="float:right" width="60%">

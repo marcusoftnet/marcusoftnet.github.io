@@ -15,6 +15,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/06/theory-of-constraints-and-spe
 ---
 
 
+
 A lot of people read and appreciated <a
 href="http://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html"
 target="_blank">the last post</a> on

@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5419241435390255067
 blogger_orig_url: http://www.marcusoft.net/2008/04/sweet-brass-band.html
 ---
 
+
 [<img
 src="http://1.bp.blogspot.com/_kkDJOSPNTLs/SAcGzrgJ0AI/AAAAAAAAATQ/LDW4SNw5vnQ/s320/Wire-Youth.jpg"
 id="BLOGGER_PHOTO_ID_5190124580488466434"

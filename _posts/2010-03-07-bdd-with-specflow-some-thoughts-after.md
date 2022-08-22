@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/03/bdd-with-specflow-some-though
 ---
 
 
+
 Last Thursday I facilitated a
 <a href="http://blog.avegagroup.se/elevate/" target="_blank">Elevate</a>-workshop,
 <a href="http://www.avegagroup.se" target="_blank">Avega</a> on

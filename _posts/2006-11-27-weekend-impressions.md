@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3461087732195603473
 blogger_orig_url: http://www.marcusoft.net/2006/11/weekend-impressions.html
 ---
 
+
 The [silly
 season](http://marcushammarberg.blogspot.com/2006/11/christmas-season.html)
 i wrote about is taking off! This weekend we had two very contrasting

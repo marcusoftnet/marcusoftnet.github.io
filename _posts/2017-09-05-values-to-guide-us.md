@@ -2,11 +2,10 @@
 layout: post
 title: Values to guide us
 author: Marcus Hammarberg
-date: 2017-09-05 15:37:37
+date: 2017-09-05T15:37:37.000Z
 tags:
-
   - Agile
- - Lean
+  - Lean
   - Life of a consultant
 ---
 

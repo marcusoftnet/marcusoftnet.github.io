@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Sprint Planner Helper – Session 7
-date: 2009-02-11T22:15:00.001+01:00
+date: 2009-02-11T21:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
-modified_time: 2009-05-05T11:16:17.420+02:00
+modified_time: 2009-05-05T09:16:17.420Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5605745566373223322
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-part-8.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-part-8.html
+---
+
 
 I’ve been doing some major reworking of the repository that I am using,
 from being a product repository to being a ProductOwnerRepository and a

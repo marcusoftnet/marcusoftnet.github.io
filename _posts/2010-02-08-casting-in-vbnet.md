@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/casting-in-vbnet.html
 ---
 
 
+
 OK – VB.NET is on the subject again. As I remember there was two things
 that led to big arguments and confusions: Casting and arrays.
 

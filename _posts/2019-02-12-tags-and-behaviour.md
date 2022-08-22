@@ -2,12 +2,11 @@
 layout: post
 title: Tags, markers and behaviour it drives on the board
 author: Marcus Hammarberg
-date: 2019-01-20 16:34:46
+date: 2019-01-20T16:34:46.000Z
 tags:
-
   - Agile
- - Scrum
- - Lean
+  - Scrum
+  - Lean
   - Life of a consultant
 ---
 

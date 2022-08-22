@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2013/08/codebetter-new-home-for-part-
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I started this blog about 8 years ago. It now contains 830-ish posts

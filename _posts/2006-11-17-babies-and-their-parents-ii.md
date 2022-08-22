@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Babies and their parents II
-date: 2006-11-17T08:00:00.000+01:00
+date: 2006-11-17T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2006-11-17T08:06:46.289+01:00
+modified_time: 2006-11-17T07:06:46.289Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1788629061096680760
-blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-ii.html ---
+blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-ii.html
+---
+
 When i wrote about [babies and their
 parents](http://marcushammarberg.blogspot.com/2006/11/babies-and-parents.html)
 it caused a small stir here at the office, of course from the parents

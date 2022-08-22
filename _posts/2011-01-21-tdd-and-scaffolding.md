@@ -9,7 +9,9 @@ ASP.NET MVC
   - TDD
 modified_time: 2011-01-21T15:04:00.334+01:00
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5436875631721491002
-blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html ---
+blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html
+---
+
 
 During my ventures in to new Microsoft land I’ve stumbled on the concept
 of scaffolding (in the form of the excellent <a

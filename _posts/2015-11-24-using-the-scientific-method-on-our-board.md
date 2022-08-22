@@ -2,14 +2,11 @@
 layout: post
 title: Using the scientific method on our board
 author: Marcus Hammarberg
-date: 2015-11-24 15:10:47
+date: 2015-11-24T15:10:47.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Lean
-
+  - Lean
   - Indonesia
   - Life of a consultant
 ---

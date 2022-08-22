@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/08/scrumindexcardcreator-my-firs
 ---
 
 
+
 After reading about some great stuff that other people has published I
 decided to take the leap and publish my first project. The one I decided
 on was a small utility that I have had great use

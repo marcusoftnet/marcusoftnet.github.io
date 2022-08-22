@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/10/slow-and-fast.html
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 We are closing in on the end of the project (the development phase) and

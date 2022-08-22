@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/01/branching-guide-for-team-foun
 ---
 
 
+
 <a href="http://tfsbranchingguideiii.codeplex.com/" target="_blank">Here
 is a great resource</a> on how to handle branching in Team Foundation
 Server 2010.

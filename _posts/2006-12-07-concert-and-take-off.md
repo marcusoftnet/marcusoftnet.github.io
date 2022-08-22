@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5507157676047744234
 blogger_orig_url: http://www.marcusoft.net/2006/12/concert-and-take-off.html
 ---
 
+
 We had
 the Vasa Christmas Concert last night. It was a great night with full
 hall (200 persons) and band, gospel choir and soloist in great form. All

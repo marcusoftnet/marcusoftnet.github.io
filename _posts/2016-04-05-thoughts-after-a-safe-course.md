@@ -4,10 +4,7 @@ title: Thoughts after a SAFe course
 author: Marcus Hammarberg
 date: 2016-04-05T20:16:34.000Z
 tags:
-  - |-
-    Lean
-    - Kanban
-    - Agile
+  - LeanLean - Kanban - Agile
   - Tools
 ---
 

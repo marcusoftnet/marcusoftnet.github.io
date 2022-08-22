@@ -15,6 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3594256389110553732
 blogger_orig_url: http://www.marcusoft.net/2010/12/know-where-you-stepgenerate-step.html
 ---
 
+
 In my
 <a href="http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html"
 target="_blank">recent ventures</a> into DOS-country and the

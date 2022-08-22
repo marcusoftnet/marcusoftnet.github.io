@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6552408940114082155
 blogger_orig_url: http://www.marcusoft.net/2008/03/recording-session-ii.html
 ---
 
+
 Yesterday
 evening was the last rehearsal before the second and last recording
 session with my band, the Vasa Band.

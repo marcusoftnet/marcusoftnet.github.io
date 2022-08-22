@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/10/private-source-control-reposi
 ---
 
 
+
 I have been looking into how to solve a
 <a href="http://en.wikipedia.org/wiki/Revision_control"
 target="_blank">Source Control</a> problem. The problem is that is quite

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2628051183812318304
 blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-fail-tfs-build-on-test-failing.html
 ---
 
+
 One thing that really surprised me was that when tests
 fail in my build script the build script happily ran along after that!?
 Isn't one of the ideas with <a

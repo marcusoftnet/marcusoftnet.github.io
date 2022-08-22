@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session
 ---
 
 
+
 After my <a
 href="http://www.marcusoft.net/2009/03/sprint-planner-helper-session-18.html"
 target="_blank">refactoring yesterday</a> the function that

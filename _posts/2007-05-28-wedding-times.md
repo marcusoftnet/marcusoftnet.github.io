@@ -10,6 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4113049112209668925
 blogger_orig_url: http://www.marcusoft.net/2007/05/wedding-times.html
 ---
 
+
 Went to a wedding for a friend of mine this weekend. The wedding
 itself was very nice with some wonderful music, both the bride and groom
 are great musicians. Andreas had composed the entry march

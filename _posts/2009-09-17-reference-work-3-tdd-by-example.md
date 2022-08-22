@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/09/reference-work-3-tdd-by-examp
 ---
 
 
+
 I have noticed that I’ve been
 <a href="http://www.marcusoft.net/2009/07/parental-leave-reading.html"
 target="_blank">reading some reference</a> literature in the

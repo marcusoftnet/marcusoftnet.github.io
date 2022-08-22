@@ -13,6 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/09/whitestephelper-small-step-to
 ---
 
 
+
 I have been using
 <a href="http://white.codeplex.com" target="_blank">White</a> in our
 project for a couple of days now and it’s looking good I must say. I use

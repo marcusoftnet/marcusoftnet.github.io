@@ -4,8 +4,7 @@ title: Values and living them
 author: Marcus Hammarberg
 date: 2018-02-14T11:35:40.000Z
 tags:
-  - Agile
-  - Lean
+  - Agile - Lean
   - Kanban
   - Life of a consultant
 ---

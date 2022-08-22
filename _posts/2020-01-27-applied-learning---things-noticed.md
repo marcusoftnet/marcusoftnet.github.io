@@ -4,9 +4,8 @@ title: Applied learning - things noticed
 author: Marcus Hammarberg
 date: 2020-01-27T09:18:28.000Z
 tags:
-  - |-
-    Programming
-    - Agile
+  - Programming
+  - Agile
   - Management
 ---
 

@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6945667093817128955
 blogger_orig_url: http://www.marcusoft.net/2007/06/addin-problem-and-solutions.html
 ---
 
+
 I
 ran into some problems when creating my addin. Here are the solution to
 them:

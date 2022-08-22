@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7385785649300591200
 blogger_orig_url: http://www.marcusoft.net/2008/04/new-york-staff-band-and-enfield.html
 ---
 
+
 Wow - here is a whole concert with the two great bands, in top form
 as it sounds. And with the extra treat of hearing Philip Smith playing
 Victorious (is it a bit sloppy for the worlds greatest trumpeter...?).

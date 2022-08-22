@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Learning JQuery with Firebug
-date: 2009-12-04T08:26:00.001+01:00
+date: 2009-12-04T07:26:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - .NET
-modified_time: 2010-12-14T16:22:38.172+01:00
+modified_time: 2010-12-14T15:22:38.172Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4539056337136759587
-blogger_orig_url: http://www.marcusoft.net/2009/12/learning-jquery-with-firebug.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/12/learning-jquery-with-firebug.html
+---
+
 
 Got a tip from
 <a href="http://www.numlock.se" target="_blank">Daniel</a> about this

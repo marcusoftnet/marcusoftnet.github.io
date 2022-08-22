@@ -2,13 +2,11 @@
 layout: post
 title: Comments on common board practices - Walk the board from right to left
 author: Marcus Hammarberg
-date: 2017-03-04 20:13:13
+date: 2017-03-04T20:13:13.000Z
 tags:
-
   - Agile
-
   - Kanban
- - Scrum
+  - Scrum
 ---
 
 When our board is lined up as our process it's quite often an array of columns starting to the left when the idea first comes into mind (or in a backlog column) continuing down our workflow, adding more and more value until it reaches our customers where we can learn from the usage of our new feature.

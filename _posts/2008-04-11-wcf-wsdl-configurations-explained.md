@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8821292909315687787
 blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-configurations-explained.html
 ---
 
+
 OK - after an intensive coding session i can now proudly say that I
 understand 4 attributes of the WCF configurations (of the 1200 + that
 exists ;))

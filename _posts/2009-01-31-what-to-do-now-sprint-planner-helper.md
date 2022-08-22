@@ -17,6 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner
 ---
 
 
+
 I'm free!!! So what do I do now. I have been talking to my colleagues
 that now that don't have to do boring work with them ;) I need another
 project in order to stay in touch with the IT-business.

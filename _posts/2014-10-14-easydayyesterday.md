@@ -4,8 +4,7 @@ title: The only easy day was yesterday - this is a message of hope
 date: 2014-10-14T06:42:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools
-  - Lean
+  - Tools - Lean
   - Life of a consultant
   - Kanban
   - Agile
@@ -16,6 +15,7 @@ thumbnail: >-
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4622216197719868034
 blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
 ---
+
 
 
 <div dir="ltr" style="text-align: left;" trbidi="on">

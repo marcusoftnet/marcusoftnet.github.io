@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2010/02/resolving-with-unity-and-poli
 ---
 
 
+
 I actually thought that this was going to be a small thing. The
 <a href="http://msdn.microsoft.com/en-us/library/dd140117.aspx"
 target="_blank">Unity application block</a> is Microsoft’s

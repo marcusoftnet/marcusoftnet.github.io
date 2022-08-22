@@ -15,6 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4541921553992432260
 blogger_orig_url: http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html
 ---
 
+
 This is the second post talking about how to integrate the use of
 Team Foundation Server (TFS) in a
 <a href="http://specificationbyexample.com/"

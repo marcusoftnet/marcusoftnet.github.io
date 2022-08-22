@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Great article - humble Marcus
-date: 2007-03-07T07:33:00.000+01:00
+date: 2007-03-07T06:33:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
   - Agile
-modified_time: 2007-03-07T07:45:59.382+01:00
+modified_time: 2007-03-07T06:45:59.382Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3586115103892159224
-blogger_orig_url: http://www.marcusoft.net/2007/03/great-article-humble-marcus.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/03/great-article-humble-marcus.html
+---
+
 Found this article on [Agile Software
 Development](http://www.martinfowler.com/articles/newMethodology.html)
 and it made me realize two thing that humbled me:

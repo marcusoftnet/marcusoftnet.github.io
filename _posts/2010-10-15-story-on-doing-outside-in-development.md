@@ -14,6 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2428948475329972132
 blogger_orig_url: http://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html
 ---
 
+
 As part of my preparations for two different presentations on
 <a href="http://www.specflow.org/" target="_blank">SpecFlow</a> and
 <a href="http://en.wikipedia.org/wiki/Behavior_Driven_Development"

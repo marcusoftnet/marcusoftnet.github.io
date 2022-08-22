@@ -2,12 +2,10 @@
 layout: post
 title: Deploy and release
 author: Marcus Hammarberg
-date: 2017-09-20 16:53:42
+date: 2017-09-20T16:53:42.000Z
 tags:
-
   - Agile
- - Lean
-
+  - Lean
   - Kanban
   - Life of a consultant
 ---

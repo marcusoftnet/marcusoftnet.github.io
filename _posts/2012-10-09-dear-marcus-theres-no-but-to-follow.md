@@ -11,6 +11,7 @@ blogger_orig_url: http://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-
 ---
 
 
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
 I'm turning 40 years old today. This is a letter to Marcus 60 years old.

@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/03/updatemodel-formcollection-an
 ---
 
 
+
 I ran into some problems with a Action Controller method that accepted
 an FormCollection. Inside the method I use UpdateModel to get the values
 from the form into the model-class.

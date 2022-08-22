@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-835259150443180617
 blogger_orig_url: http://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html
 ---
 
+
 At my current client I am assigned 3 teams. Two of them have
 everything set up for a great team; they are seated together, they have
 a full time product owner, they have a great spirit and are all around

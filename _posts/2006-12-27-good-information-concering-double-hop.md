@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4488585336515488152
 blogger_orig_url: http://www.marcusoft.net/2006/12/good-information-concering-double-hop.html
 ---
 
+
 I am currently writing another solution to this and will post it
 here in a while but this is a great introduction to one of the more
 trickier IIS concepts i have been forced to handle.

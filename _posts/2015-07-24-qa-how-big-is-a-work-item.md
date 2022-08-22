@@ -1,12 +1,10 @@
 ---
 layout: post
-title: QA: How big is a work item?
+title: QA How big is a work item?
 author: Marcus Hammarberg
-date: 2015-07-24 11:47:02
+date: 2015-07-24T11:47:02.000Z
 tags:
-
   - Agile
-
   - Kanban
   - Life of a consultant
 ---
@@ -22,11 +20,11 @@ I also got permission to publish the whole question and my answer here.
 Here's the question from their email:
 
 <blockquote>
-	We use the Jira platform for managing tickets and are using the in-built kanban board for the same.
-	I would like to know how we can manage Subtasks within Change Requests.
-	Would it be  a good practice to have Change Requests and have subtasks in them? Or should we just have single development tasks?
+ We use the Jira platform for managing tickets and are using the in-built kanban board for the same.
+ I would like to know how we can manage Subtasks within Change Requests.
+ Would it be  a good practice to have Change Requests and have subtasks in them? Or should we just have single development tasks?
 
-	Could you please advise regarding this ?
+ Could you please advise regarding this ?
 </blockquote>
 
 My answer was something like this:

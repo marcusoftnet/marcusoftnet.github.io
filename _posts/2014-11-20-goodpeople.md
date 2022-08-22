@@ -1,17 +1,18 @@
 ---
 layout: post
 title: A good person and a bad system - my take '
-date: 2014-11-20T09:07:00.000+01:00
+date: 2014-11-20T08:07:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
+  - Tools  - Lean
   - Life of a consultant
-
   - Kanban
   - Agile
-modified_time: 2014-11-20T09:10:26.530+01:00
+modified_time: 2014-11-20T08:10:26.530Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8186934658685696095
-blogger_orig_url: http://www.marcusoft.net/2014/11/goodpeople.html ---
+blogger_orig_url: http://www.marcusoft.net/2014/11/goodpeople.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

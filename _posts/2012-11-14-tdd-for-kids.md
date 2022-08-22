@@ -1,16 +1,18 @@
 ---
 layout: post
 title: TDD for kids
-date: 2012-11-14T11:38:00.001+01:00
+date: 2012-11-14T10:38:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant - Specification by example
   - Agile
   - TDD
-modified_time: 2012-11-14T22:49:28.747+01:00
+modified_time: 2012-11-14T21:49:28.747Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7295652061062160894
-blogger_orig_url: http://www.marcusoft.net/2012/11/tdd-for-kids.html ---
+blogger_orig_url: http://www.marcusoft.net/2012/11/tdd-for-kids.html
+---
+
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
 

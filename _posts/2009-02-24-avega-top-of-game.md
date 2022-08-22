@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Avega – top of the game!
-date: 2009-02-24T11:29:00.001+01:00
+date: 2009-02-24T10:29:00.001Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
-
-modified_time: 2009-02-24T16:06:15.989+01:00
+modified_time: 2009-02-24T15:06:15.989Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4225541130999854573
-blogger_orig_url: http://www.marcusoft.net/2009/02/avega-top-of-game.html ---
+blogger_orig_url: http://www.marcusoft.net/2009/02/avega-top-of-game.html
+---
+
 
 <a href="http://www.avegagroup.se" target="_blank">Avega</a> has the
 best consultants in Sweden! We of course knew that already but now its

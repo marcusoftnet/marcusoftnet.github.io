@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Sprint demo
-date: 2007-09-27T22:04:00.001+02:00
+date: 2007-09-27T20:04:00.001Z
 author: Marcus Hammarberg
 tags:
   - Scrum
-modified_time: 2007-09-27T22:07:28.932+02:00
+modified_time: 2007-09-27T20:07:28.932Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9122592536683917838
-blogger_orig_url: http://www.marcusoft.net/2007/09/sprint-demo.html ---
+blogger_orig_url: http://www.marcusoft.net/2007/09/sprint-demo.html
+---
+
 Tomorrow is another sprint demo. I love the fast-forward way of
 incrementing doing improvements that SCRUM offers.
 One of the features i really like is the way that the developers get to

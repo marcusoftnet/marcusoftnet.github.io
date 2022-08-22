@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Visual Studio 2010 web.config transformation
-date: 2010-01-22T14:20:00.001+01:00
+date: 2010-01-22T13:20:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
-modified_time: 2010-12-14T16:18:09.700+01:00
+modified_time: 2010-12-14T15:18:09.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5234814501701697946
-blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-webconfig.html ---
+blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-webconfig.html
+---
+
 
 I happened to run into a feature I didn’t know of… Visual Studio 2010
 (beta still… soon RC) includes a function for managing different

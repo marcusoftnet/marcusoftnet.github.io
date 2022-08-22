@@ -12,6 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2009/02/great-generic-repository-patt
 ---
 
 
+
 I have [pointed
 here](http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/10/08/the-repository-pattern.aspx)
 several times before – but it’s so nice.

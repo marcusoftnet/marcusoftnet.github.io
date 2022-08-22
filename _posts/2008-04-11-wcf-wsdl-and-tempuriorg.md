@@ -11,6 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4421399573659073116
 blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-and-tempuriorg.html
 ---
 
+
 It's
 back! Just when we thought that we've seen the dreadful namespace
 [http://tempuri.org](http://tempuri.org/) is coming back at us with full

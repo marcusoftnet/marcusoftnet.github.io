@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Process Explorer - a good tool
-date: 2008-05-30T09:32:00.001+02:00
+date: 2008-05-30T07:32:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-modified_time: 2010-12-14T16:22:38.278+01:00
+modified_time: 2010-12-14T15:22:38.278Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3551199948800060059
-blogger_orig_url: http://www.marcusoft.net/2008/05/process-explorer-good-tool.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/05/process-explorer-good-tool.html
+---
+
 
 This is probably old news for many of you but today I had great use of
 the

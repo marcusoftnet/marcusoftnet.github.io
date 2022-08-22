@@ -2,13 +2,12 @@
 layout: post
 title: Ferguson never touched the ball
 author: Marcus Hammarberg
-date: 2014-12-23 07:57:20
+date: 2014-12-23T07:57:20.000Z
 tags:
-
   - Agile
- - Leadership
- - Lean
- - Tools
+  - Leadership
+  - Lean
+  - Tools
 ---
 
 I'm a coach for teams and organizations. At many of my clients I don't do anything... Or I'm not typing code maybe is a way of formulating it since I'm very much involved in what goes on (and I also want other companies to hire me).

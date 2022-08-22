@@ -2,13 +2,11 @@
 layout: post
 title: What I've learned from the first 30% of Reinventing Organizations
 author: Marcus Hammarberg
-date: 2015-04-21 16:58:27
+date: 2015-04-21T16:58:27.000Z
 tags:
-
   - Agile
- - Lean
- - Leadership
-
+  - Lean
+  - Leadership
   - Kanban
 ---
 

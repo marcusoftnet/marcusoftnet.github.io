@@ -17,6 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vititeln-har-or-
 ---
 
 
+
 It’s been a while since I did any work on the
 <a href="http://www.marcusoft.net/search/label/KanbanBoards"
 target="_blank">KanbanBoards</a> project, but now I got around to add

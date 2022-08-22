@@ -1,16 +1,16 @@
 ---
 layout: post
 title: More about generic webservces
-date: 2006-11-14T08:09:00.000+01:00
+date: 2006-11-14T07:09:00.000Z
 author: Marcus Hammarberg
 tags:
   - .NET
-
   - Visual Studio
-
-modified_time: 2010-12-14T16:19:05.660+01:00
+modified_time: 2010-12-14T15:19:05.660Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1225927400840922867
-blogger_orig_url: http://www.marcusoft.net/2006/11/more-about-generic-webservces.html ---
+blogger_orig_url: http://www.marcusoft.net/2006/11/more-about-generic-webservces.html
+---
+
 I've looked further down the documentation ([this chapter in
 fact](http://beta.blogger.com/Generic)) and found some more, very
 interesting stuff on generics that make my solution with delegates a bit

@@ -1,14 +1,17 @@
 ---
 layout: post
 title: The vacation - short recap
-date: 2008-08-05T23:15:00.001+02:00
+date: 2008-08-05T21:15:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-modified_time: 2008-08-05T23:15:08.518+02:00
-thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/SJi_hNi3EeI/AAAAAAAAAVo/ffOnYQXqqDk/s72-c/DSC_0040.JPG
+modified_time: 2008-08-05T21:15:08.518Z
+thumbnail: >-
+  http://2.bp.blogspot.com/\_kkDJOSPNTLs/SJi_hNi3EeI/AAAAAAAAAVo/ffOnYQXqqDk/s72-c/DSC_0040.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8557571995910001240
-blogger_orig_url: http://www.marcusoft.net/2008/08/vacation-short-recap.html ---
+blogger_orig_url: http://www.marcusoft.net/2008/08/vacation-short-recap.html
+---
+
 
 As I wrote earlier I've just spent four wonderful weeks on vacation.
 Great times and great feeling to do something completely different for a
