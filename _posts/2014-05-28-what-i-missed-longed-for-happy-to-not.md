@@ -5,6 +5,7 @@ date: '2014-05-28T06:00:00.003+02:00'
 author: Marcus Hammarberg
 tags:
   - Marcus private
+
   - Salvation Army
   - Indonesia
 modified_time: '2014-05-29T14:35:40.891+02:00'

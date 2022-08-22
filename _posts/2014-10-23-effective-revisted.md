@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - Tools - Lean
   - Life of a consultant
-  - Kanban - Agile - Salvation Army -
+  - Kanban - Agile
+  - Salvation Army -
 Indonesia
 modified_time: '2014-10-23T05:44:28.638+02:00'
 thumbnail: http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg

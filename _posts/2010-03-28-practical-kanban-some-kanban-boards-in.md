@@ -5,7 +5,8 @@ practices
 date: '2010-03-28T12:07:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Kanban - Agile
+  - Kanban
+  - Agile
 modified_time: '2010-03-28T12:22:41.725+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4252109985727479839
 blogger_orig_url: http://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html
@@ -29,7 +30,7 @@ part instead. It took the better part of a complete day… But the result
 was alright I think.
 
 Here are the slides with some short comments to illustrate what we talk
-about. 
+about.
 
 <div id="__ss_3576466" style="width: 425px">
 

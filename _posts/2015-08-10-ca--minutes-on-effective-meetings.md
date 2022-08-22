@@ -9,7 +9,8 @@ tags:
  - Leadership
  - Agile
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
 ---
 
 I don't like meetings. Because most meetings I've attended has not been great. And I'm guilty of organizing some of those meetings too.

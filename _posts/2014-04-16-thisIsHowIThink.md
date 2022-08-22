@@ -7,7 +7,8 @@ tags:
   - Team
 Yayasan - Lean
   - Life of a consultant
-  - Agile - Salvation Army -
+  - Agile
+  - Salvation Army -
 Indonesia
 modified_time: '2014-04-25T09:14:43.300+02:00'
 thumbnail: http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg

@@ -4,7 +4,8 @@ title: Christmas times - hectic times
 date: '2008-12-09T22:48:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand - Salvation Army
+  - Marcus private - BrassBand
+  - Salvation Army
 modified_time: '2008-12-09T22:48:15.985+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8659614510357589507
 blogger_orig_url: http://www.marcusoft.net/2008/12/christmas-times-hectic-times.html ---

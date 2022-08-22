@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - .NET
   - Life of a consultant
+
   - Visual Studio
 modified_time: '2010-12-14T16:17:50.660+01:00'
 thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG

@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - VB.NET
   - Life of a consultant
+
   - Visual Studio
 modified_time: '2010-12-14T16:21:04.005+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1976618779600468673

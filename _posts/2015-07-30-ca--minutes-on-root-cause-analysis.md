@@ -8,7 +8,8 @@ tags:
  - Lean
  - Leadership
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
  - Tools
 ---
 

@@ -8,7 +8,8 @@ tags:
  - Leadership
  - Lean
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
 ---
 
 I've just ended one of the hardest but also most rewarding gigs I've been part of. As often I was <a href="/2014/12/alex-ferguson-never-touched-the-ball.html">merely a coach</a>, but this time I marveled at the result. We took a company (hospital) on the verge of dying to being self-sustaining and profitable in 7 months.

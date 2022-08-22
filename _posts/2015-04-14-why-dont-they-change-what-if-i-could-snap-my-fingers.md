@@ -7,7 +7,8 @@ tags:
  - Agile
  - Lean
  - Leadership
- - Salvation Army
+
+  - Salvation Army
 ---
 
 Yes, it's another post on change management. As a consultant ... well that's basically your job. And most of my engagements are of consultancy type. But change management is very trick to do right, frustrating and ... simply wonderfully rewarding if you get it to work.

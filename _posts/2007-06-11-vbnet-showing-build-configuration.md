@@ -4,7 +4,8 @@ title: VB.NET showing build configuration
 date: '2007-06-11T10:54:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - VB.NET - Visual Studio
+  - VB.NET
+  - Visual Studio
 modified_time: '2010-12-14T16:19:05.578+01:00'
 thumbnail:
 http://2.bp.blogspot.com/\_kkDJOSPNTLs/Rm0PCEBiT0I/AAAAAAAAAKU/ujrCro_mLPc/s72-c/solutionprops2.JPG

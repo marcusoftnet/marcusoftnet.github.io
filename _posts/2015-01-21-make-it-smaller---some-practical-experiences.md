@@ -6,7 +6,8 @@ date: 2015-01-21 11:26:54
 tags:
  - Lean
  - Agile
- - Salvation Army
+
+  - Salvation Army
   - Life of a consultant
  - Indonesia
 ---

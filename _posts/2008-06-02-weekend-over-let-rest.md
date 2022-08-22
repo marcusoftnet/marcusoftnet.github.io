@@ -4,7 +4,8 @@ title: Weekend over - let's rest
 date: '2008-06-02T08:05:00.001+02:00'
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand - Salvation Army
+  - Marcus private - BrassBand
+  - Salvation Army
 modified_time: '2008-06-02T08:05:58.612+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3789770467299648594
 blogger_orig_url: http://www.marcusoft.net/2008/06/weekend-over-let-rest.html ---

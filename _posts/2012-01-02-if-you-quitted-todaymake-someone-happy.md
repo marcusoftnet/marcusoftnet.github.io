@@ -5,6 +5,7 @@ date: '2012-01-01T21:54:00.001+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - Salvation Army
 modified_time: '2012-01-09T08:56:41.695+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2071797570192050990

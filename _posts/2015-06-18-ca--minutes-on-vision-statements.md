@@ -9,7 +9,8 @@ tags:
  - Leadership
  - Agile
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
 ---
 
 This is the second post about my presentation series on Mission, Vision and Strategy and some other things.

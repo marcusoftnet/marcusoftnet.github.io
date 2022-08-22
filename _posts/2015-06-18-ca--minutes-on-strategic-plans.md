@@ -9,7 +9,8 @@ tags:
  - Leadership
  - Agile
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
 ---
 
 This is the third presentation I've done on mission, vision and strategic plans (and other stuff too). The time has come to strategic plans.

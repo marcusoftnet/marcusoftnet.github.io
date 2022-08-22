@@ -8,7 +8,8 @@ tags:
  - Lean
  - Kanban
  - Marcus private
- - Salvation Army
+
+  - Salvation Army
  - Indonesia
 ---
 

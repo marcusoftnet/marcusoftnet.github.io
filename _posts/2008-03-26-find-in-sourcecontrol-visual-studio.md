@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Find in SourceControl - Visual studio 2008
+title: Find in SourceControl
+  - Visual Studio 2008
 date: '2008-03-26T10:06:00.003+01:00'
 author: Marcus Hammarberg
 tags:

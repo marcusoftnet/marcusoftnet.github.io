@@ -4,7 +4,8 @@ title: Weekend impressions
 date: '2006-11-27T07:39:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - BrassBand - Salvation Army
+  - BrassBand
+  - Salvation Army
 modified_time: '2006-11-27T07:48:34.430+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3461087732195603473
 blogger_orig_url: http://www.marcusoft.net/2006/11/weekend-impressions.html

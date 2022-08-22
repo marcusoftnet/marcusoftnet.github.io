@@ -4,7 +4,8 @@ title: Sandcastle or Marcus betting on the wrong horse?
 date: '2007-07-04T11:06:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - Visual Studio
+  - .NET
+  - Visual Studio
 modified_time: '2010-12-14T16:19:05.545+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2002463673518279606
 blogger_orig_url: http://www.marcusoft.net/2007/07/sandcastle-or-marcus-betting-on-wrong.html

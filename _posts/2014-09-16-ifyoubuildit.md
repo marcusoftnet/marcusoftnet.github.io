@@ -8,7 +8,8 @@ tags:
   - Tools - Lean
   - Life of a consultant
    -
-Kanban - Agile - Salvation Army
+Kanban - Agile
+  - Salvation Army
 modified_time: '2014-11-04T03:49:01.421+01:00'
 thumbnail: http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916

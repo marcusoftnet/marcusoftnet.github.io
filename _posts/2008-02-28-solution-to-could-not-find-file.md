@@ -5,7 +5,8 @@ title: Solution to the "Could not find file
 date: '2008-02-28T11:13:00.004+01:00'
 author: Marcus Hammarberg
 tags:
-  - VB.NET - Visual Studio
+  - VB.NET
+  - Visual Studio
 modified_time: '2010-12-14T16:19:05.484+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1635528158320792969
 blogger_orig_url: http://www.marcusoft.net/2008/02/solution-to-could-not-find-file.html

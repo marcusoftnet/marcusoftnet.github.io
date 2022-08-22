@@ -4,7 +4,8 @@ title: Including namespaces in new VB.NET classes
 date: '2007-04-20T15:31:00.000+02:00'
 author: Marcus Hammarberg
 tags:
-  - VB.NET - Visual Studio
+  - VB.NET
+  - Visual Studio
 modified_time: '2010-12-14T16:19:05.627+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7517380477412776424
 blogger_orig_url: http://www.marcusoft.net/2007/04/including-namespaces-in-new-vbnet.html

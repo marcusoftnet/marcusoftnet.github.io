@@ -6,7 +6,8 @@ date: 2015-06-11 08:36:37
 tags:
  - Leadership
   - Life of a consultant
- - Salvation Army
+
+  - Salvation Army
  - Indonesia
 ---
 

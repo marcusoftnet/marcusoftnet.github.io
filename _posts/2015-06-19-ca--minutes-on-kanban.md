@@ -9,7 +9,8 @@ tags:
  - Agile
  - Leadership
  - Indonesia
- - Salvation Army
+
+  - Salvation Army
   - Life of a consultant
 ---
 

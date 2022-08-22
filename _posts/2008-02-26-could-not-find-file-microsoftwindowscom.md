@@ -6,6 +6,7 @@ date: '2008-02-26T07:39:00.004+01:00'
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+
   - Visual Studio
 modified_time: '2010-12-14T16:19:05.488+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-336550589709812727

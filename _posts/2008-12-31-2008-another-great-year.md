@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - BrassBand
   - Life of a consultant
+
   - Salvation Army
 modified_time: '2008-12-31T09:44:36.561+01:00'
 thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/SVsw5Mk3hJI/AAAAAAAAAf0/V1v5Cz-oEbI/s72-c/PICT2480_thumb.jpg?imgmax=800

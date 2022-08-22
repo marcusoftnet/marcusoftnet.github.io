@@ -5,7 +5,8 @@ lower WIP'
 date: '2014-03-08T14:10:00.001+01:00'
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan - Lean - Kanban - Salvation Army -
+  - Team Yayasan - Lean - Kanban
+  - Salvation Army -
 Indonesia
 modified_time: '2014-03-17T02:37:31.547+01:00'
 thumbnail: http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg

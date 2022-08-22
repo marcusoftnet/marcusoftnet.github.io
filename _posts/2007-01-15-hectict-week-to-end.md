@@ -6,6 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
   - Life of a consultant
+
   - Salvation Army
 modified_time: '2007-01-15T07:54:09.926+01:00'
 thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s72-c/sture.JPG

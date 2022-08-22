@@ -4,7 +4,8 @@ title: Well structured projects in Visual Studio 2005
 date: '2006-11-07T07:31:00.000+01:00'
 author: Marcus Hammarberg
 tags:
-  - .NET - Visual Studio
+  - .NET
+  - Visual Studio
 modified_time: '2010-12-14T16:19:05.667+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5231053951955942248
 blogger_orig_url: http://www.marcusoft.net/2006/11/well-structured-projects-in-visual.html
@@ -22,19 +23,13 @@ src="http://photos1.blogger.com/blogger2/4958/4459/200/project%201.jpg"
 style="FLOAT: left; MARGIN: 0px 10px 10px 0px; CURSOR: hand"
 data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.0.jpg)
 
-
 <div>
 
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%202.jpg)
 
-
-
 <div>
 
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.jpg)
-
-
-
 
 <div>
 
@@ -71,8 +66,6 @@ solutionfile and then choosing Add-\>New solution folder. The projects
 are added by simply dragging them to the folder.
 
 </div>
-
-
 
 <div>
 
