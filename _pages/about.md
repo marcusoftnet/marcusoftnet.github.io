@@ -67,7 +67,7 @@ Or watch one of the many recorded talks of the story here:
 * [LKNA16: @ Salvation Army Health: How Kanban Helped Save a Hospital in Indonesia](https://www.youtube.com/watch?v=nEKuY9P53Q4)
 * [AgileByExample 2017: Marcus Hammarberg - How Kanban Saved a hospital in Indonesia](https://www.youtube.com/watch?v=s0lP6WCWSUg)
 * [Agile Greece Summit 2018 - How Kanban saved a Salvation Army hospital in Indonesia](https://www.youtube.com/watch?v=8JcZlN2Fjmw)
-* [How lean and kanban saved a hospital in Indonesia. Twice! | Øredev 2016](https://vimeo.com/191275724)
+* [How lean and kanban saved a hospital in Indonesia. Twice! Øredev 2016](https://vimeo.com/191275724)
 
 ### Speaking
 
