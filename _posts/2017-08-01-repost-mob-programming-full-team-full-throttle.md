@@ -12,7 +12,7 @@ tags:
 
 I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I’m preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/), here to my site.
 
-This particular post makes me very proud to repost here, since it’s apparently one of the first posts ever written on mob programming, not by [Woody Zuill](https://twitter.com/WoodyZuill) - the father of the concept.
+This particular post makes me very proud to repost here, since it’s apparently one of the first posts ever written on mob programming, that was not written by [Woody Zuill](https://twitter.com/WoodyZuill) - the father of the concept.
 
 ## Original post
 
