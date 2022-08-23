@@ -10,13 +10,10 @@ tags:
   - Agile
   - ContinuousDelivery
 modified_time: 2013-05-24T13:24:02.770Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg
+thumbnail: http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s72-c/4137841698_44ee6db32c_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
 blogger_orig_url: http://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html
 ---
-
-
 
 
 I'm back from [AgileSverige](http://www.agilasverige.se/) - the premier
@@ -49,16 +46,6 @@ way](http://www.youtube.com/watch?v=4B_UYYPb-Gk), btw). I said: What if
 
 ### How would our work flow?
 
-|                                                                                                                                                                           |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                                     <a
-                             href="http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s1600/4137841698_44ee6db32c_m.jpg"
-                                                                            data-imageanchor="1"
-                                            style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
-                              src="http://2.bp.blogspot.com/-3Z_eC8UTq8g/UZ9oA6umGmI/AAAAAAAABdo/sn9yRr07UG0/s1600/4137841698_44ee6db32c_m.jpg"
-                                                                           data-border="0" /></a>                                                                           |
-| Photo Credit: [paul bica](http://www.flickr.com/photos/99771506@N00/4137841698/) via [Compfight](http://compfight.com/) [cc](http://creativecommons.org/licenses/by/2.0/) |
-
 What would happen with the flow of our work if everyone in the team
 worked together? Firstly, how many items would "be on the board". Yes,
 one single item would be worked on at the same time.
@@ -90,15 +77,6 @@ them being busy when we need them.
 ### What would happen with roles?
 
 |                                                                                                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                                             <a
-                                      href="http://2.bp.blogspot.com/-ZGUge9lcvu8/UZ9ohqBz6tI/AAAAAAAABdw/hC9PJnrJpiw/s1600/5649060810_21c90d0d56_m.jpg"
-                                                                                     data-imageanchor="1"
-                                                    style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
-                                      src="http://2.bp.blogspot.com/-ZGUge9lcvu8/UZ9ohqBz6tI/AAAAAAAABdw/hC9PJnrJpiw/s1600/5649060810_21c90d0d56_m.jpg"
-                                                                                   data-border="0" /></a>                                                                                    |
-| Photo Credit: [Giridhar-Photography](http://www.flickr.com/photos/33710980@N02/5649060810/) via [Compfight](http://compfight.com/) [cc](http://creativecommons.org/licenses/by-nc-nd/2.0/) |
-
 If everyone was working in a mob... there will still be specialists of
 course. I'm the one that's best on doing database-work, i have tested
 stuff like this before, I have coded in Javascript before. Even I'm the
@@ -142,28 +120,16 @@ Bruntesson](http://numlock.se/), said this in an effective way:
 
 #### More on roles
 
-<div style="text-align: left;">
-
 Some roles we commonly use is there to "bridge the communication gap"
 between other parties. Business Analysts often describes themselves in
 this way (they OF COURSE do a lot of other useful things too).
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
 
 If everyone needed to move the work forward is in the same room... that
 need to take information back and forth between people pretty much goes
 away.
 
-<div style="text-align: left;">
-
-<div style="text-align: left;">
-
 "But developers and customers cannot understand each other!!! They speak
 differently."
-
-<div style="text-align: left;">
 
 So, they would have to do something about that then, right? Otherwise
 they will build crappy stuff. In a product that they care about. I think
@@ -171,68 +137,30 @@ they'll manage. I trust in the mob and people in it. It's great people!
 
 ### What is the name of the process we're running?
 
-<div style="text-align: left;">
-
-|                                                                                                                                                                         |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                                    <a
-                              href="http://1.bp.blogspot.com/-YUmnP5MwAbg/UZ9oymgixwI/AAAAAAAABd4/F80TUvg_QxI/s1600/8229790_5a02efba7f_m.jpg"
-                                                                           data-imageanchor="1"
-                                           style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
-                              src="http://1.bp.blogspot.com/-YUmnP5MwAbg/UZ9oymgixwI/AAAAAAAABd4/F80TUvg_QxI/s1600/8229790_5a02efba7f_m.jpg"
-                                                                          data-border="0" /></a>                                                                          |
-| Photo Credit: [Elsie esq.](http://www.flickr.com/photos/61132483@N00/8229790/) via [Compfight](http://compfight.com/) [cc](http://creativecommons.org/licenses/by/2.0/) |
-
 Is the mob doing Scrum? Or XP? Which milestone are they passning right
 now?
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
 
 You know what - that's not important? For the mob nor should it be for
 you. The mob is making work come out the door in the best and fastest
 way they can come up with. For this work.
 
-<div style="text-align: left;">
-
-<div style="text-align: left;">
-
 They might even *gasp* change the way they work during a workday. Yes,
 you read that correctly. Mid-iteration. Hey, come to think about it.
 Iteration or not - that's not important
 
-<div style="text-align: left;">
-
-<div style="text-align: left;">
-
 "But they're doing retrospectives and standups right?"
-
-<div style="text-align: left;">
 
 They might. If it's useful. A retrospective is a great way to step aside
 and talk about the way you work with a little distance.
 
-<div style="text-align: left;">
-
 Standups... I really don't know. They are working one thing. There's
 really not much to talk about.
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
 
 They could have a board to visualize what's going on. For stuff coming
 up next for example. Or things that is completed.
 
-<div style="text-align: left;">
-
 This can be away for the mob to report outwards to other parties what's
 going on and what the next things coming up are.  
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
 
 If you want to see a project where this was done in practice (and you
 speak Swedish) check out [Anders
@@ -242,10 +170,6 @@ That project had no process. Just people that was very engaged in making
 a great product. And a product owner that gave them permission and
 support to do what they (the team) thought was best to make things
 happen.
-
-<div style="text-align: left;">
-
-<div style="text-align: left;">
 
 Interesting enough the same company tried to run another in the same
 manner. "Let's do it like they did." But that doesn't work now does it.
@@ -268,8 +192,6 @@ Never has this been better put than after a great evening for Swedish
 football. Sweden played England. Won 4 - 2. Zlatan Ibrahimovic scored
 all of the goals for Sweden. The last one was the most stunning goal
 seen on a Swedish arena in ages. Maybe forever.
-
-<div class="separator" style="clear: both; text-align: center;">
 
 Right after the game a TV-reporter rushed to the Swedish coached and
 asked: "How about that Zlatan?" The coach grew angry on the reporter:
