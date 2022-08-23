@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Repost: Some tools for improved focus, improve teamwork and faster delivery"
-author: "Marcus Hammarberg"
+title: Repost - Some tools for improved focus, improve teamwork and faster delivery
+author: Marcus Hammarberg
 date: 2013-08-13 15:23:54
 tags:
  - Agile
@@ -14,7 +14,7 @@ tags:
 
 ### REPOST FROM CODEBETTER
 
-I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/), here to my site. 
+I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/), here to my site.
 
 ### Original post
 
@@ -32,7 +32,7 @@ The first thing they did, that I really felt helped them a lot, was to draw thei
 
 - There’s a couple of (very cute, little) dragons over there to the left, did you see them? They indicate stuff that scares us a bit, things that we know little about or things that we know that we will struggle with.
 
-  [![Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done. ](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)
+  [Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)
 
 - Work in progress means that this is the branch of the mind map that we work on. Green circle means that it’s done. And completely Done.
 
@@ -42,7 +42,7 @@ The first thing they did, that I really felt helped them a lot, was to draw thei
 
 Without knowing much about this team, you can enter into this room and get a pretty good overview about their work and the current status. They haven’t completed much, there’s a few dragons to be reasoned with and they are working with right now. Those simple visualization can often be enough to send comforting waves of trust to stakeholders around us.
 
-**The backlog in the form of a mind map with the current status is a great way to communicate our status to others. **
+**The backlog in the form of a mind map with the current status is a great way to communicate our status to others.**
 
 ## Done
 
@@ -64,11 +64,11 @@ Another great thing about making sure that work is completely Done before we sta
 
 ## Priority filter
 
-The next thing we implemented was the actual board that the team uses to visualize the details of what they are working with now. We used [Corey Ladas](http://twitter.com/COREY_LADAS) excellent[ article on Priority filters](http://leansoftwareengineering.com/2008/08/19/priority-filter/) ~~and ripped it right off~~ as an inspiration for this.
+The next thing we implemented was the actual board that the team uses to visualize the details of what they are working with now. We used [Corey Ladas](http://twitter.com/COREY_LADAS) excellent[article on Priority filters](http://leansoftwareengineering.com/2008/08/19/priority-filter/) ~~and ripped it right off~~ as an inspiration for this.
 
 Here is how their board looks right now:
 
-[![This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity. ](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)This team uses a board built around priority filters.
+[This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)This team uses a board built around priority filters.
 Only 3 items are priority 1 and hence given our attention up to our capacity.
 
 - Done – these are things that the team have completed. There’s no more work to be done on these
@@ -99,11 +99,11 @@ That question above helps us to focus on completing work, faster, in some subtle
 
 - we promote team work: “what are hindering *us*“
 - we focus on completing stuff: “to complete this”
-- we prefer smaller items: “today”. Note that we ask ourselves if we can finish this item *today *the first day we’re working on the item too.
+- we prefer smaller items: “today”. Note that we ask ourselves if we can finish this item *today*the first day we’re working on the item too.
 
 The question is also a great conversation starter since we have to talk about what’s left before the work item is complete and how we should tackle that today. What can we split, what can we share, are there things that we can leave for now and other discussions quickly starts around the board. The focus is shifted from the people in the team and what they do and have done, to the work and how to complete it.
 
-There’s no reporting of what *you* did yesterday, what *you’re* going to do today or if there’s any hinderance for *your* goal. *We *are focusing on finishing these three items as fast as possible as a *team. *
+There’s no reporting of what *you* did yesterday, what *you’re* going to do today or if there’s any hinderance for *your* goal. *We*are focusing on finishing these three items as fast as possible as a *team.*
 
 **Each team member is given a lot of freedom, since the question to each and everyone translates to: “Can I help us complete any work today?”. If not – find something else that you’ll think will help us in the future. You have the freedom to make that decision yourself – we trust you to do something useful.  The only constraint is that you cannot start work that you cannot drop, pretty quickly, if we need you to work on our Priority 1 items.
 

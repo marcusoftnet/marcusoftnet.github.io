@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Repost: #Beyond Callbacks or How Koa helps me Code Better"
-author: "Marcus Hammarberg"
+title: Repost - Beyond Callbacks or How Koa helps me Code Better
+author: Marcus Hammarberg
 date: 2014-05-07 15:30:13
 tags:
  - Javascript
@@ -19,7 +19,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript.
 
-Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node ](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications.
+Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications.
 
 That was … …wait (state)
 
@@ -41,7 +41,7 @@ That was … …wait (state)
 
 ​     Out of callback
 
-There – we can continue. *the fact* that you need to use [callbacks ](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html)so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely. But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB ](http://mongodb.github.io/)by name sent to the URL.
+There – we can continue. *the fact* that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html)so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely. But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB](http://mongodb.github.io/)by name sent to the URL.
 
 ``` javascript
 // Dependencies
@@ -86,9 +86,9 @@ I happily confess that I never used [yield in C#](http://msdn.microsoft.com/en-u
 
 ```javascript
 function *theGenerator(){
-	yield "One, for the money";
-	yield "Two, for the show";
-	yield "Three to get ready! Now go, cat, go";
+ yield "One, for the money";
+ yield "Two, for the show";
+ yield "Three to get ready! Now go, cat, go";
 };
 ```
 
@@ -115,7 +115,7 @@ I said above that yield most commonly is used within enumerations of sequences (
 
 You can read more about [generators here](http://www.marcusoft.net/2014/04/koaGenYield.html).
 
-From http://twistedsifter.com/2012/04/50-animated-gifs-for-every-situation-ever/
+From <http://twistedsifter.com/2012/04/50-animated-gifs-for-every-situation-ever/>
 
 This explanation might render you totally unimpressed. And you may ask; “Why is this cool then? This seems just like a very theoretical computer science concept that is squeezed into JavaScript. Why should I care about that? Well, for me the following statement from this great article made all the change;
 
@@ -131,7 +131,7 @@ As mentioned these features are not in JavaScript yet, they are [coming in ES6](
 
 ### Install Node 11.9 or higher
 
-The easiest way I have found to do this is using the [nvm node package](http://npmjs.org/package/nvm). This let’s you install several versions of Node on your machine and easy switch between them. Here’s what you need to do, provided that you have [Node ](http://www.nodejs.org/)installed.
+The easiest way I have found to do this is using the [nvm node package](http://npmjs.org/package/nvm). This let’s you install several versions of Node on your machine and easy switch between them. Here’s what you need to do, provided that you have [Node](http://www.nodejs.org/)installed.
 
 - Install nvm (`npm install nvm –g`)
 - Install a version of node later than 11.9 (`nvm install 0.11.12` for example). That command also switches over to the 0.11.12 version, so that is the version you are using after the installation is complete.
@@ -356,7 +356,7 @@ Ready to roll! You can now run you blog engine, written in less than 85 lines of
 - install the packages in the `package.json` with `npm intall`
 - and then kick the site off with `npm start` that fires up the command I had in `package.json` under scripts->start, if you remember
 
-Now open the blog app on http://localhost:3000. The [Mongo](http://www.mongodb.org/) database (you have Mongo installed right?)  will be created for you and you can use a tool like [RoboMongo](http://robomongo.org/) to peek into it.
+Now open the blog app on <http://localhost:3000>. The [Mongo](http://www.mongodb.org/) database (you have Mongo installed right?)  will be created for you and you can use a tool like [RoboMongo](http://robomongo.org/) to peek into it.
 
 ### Testing
 
@@ -370,34 +370,34 @@ var request = require('supertest').agent(app.listen());
 var posts = require('./blogRoutes.js').posts;
 
 describe('Blog with mongo:', function(){
-	var removeAll = function(done){
-		co(function *(){
-			yield posts.remove({});
-		})(done);
-	};
+ var removeAll = function(done){
+  co(function *(){
+   yield posts.remove({});
+  })(done);
+ };
 
-	beforeEach(function (done) {
-		removeAll(done);
-	});
+ beforeEach(function (done) {
+  removeAll(done);
+ });
 
-	afterEach(function (done) {
-		removeAll(done);
-	});
+ afterEach(function (done) {
+  removeAll(done);
+ });
 
-	var test_post  = { title: 'A nice title', body : 'Short body. Yeah!'};
+ var test_post  = { title: 'A nice title', body : 'Short body. Yeah!'};
 
-	it('updates an existing post', function(done){
-		co(function *(){
-			var post = yield posts.insert(test_post);
+ it('updates an existing post', function(done){
+  co(function *(){
+   var post = yield posts.insert(test_post);
 
-			var postUrl = '/post/' + post._id;
-			request
-				.post(postUrl)
-				.send({title: 'Updated title', body: 'Updated body'})
-				.expect(302)
-				.expect('location', postUrl);
-	    })(done);
-	});
+   var postUrl = '/post/' + post._id;
+   request
+    .post(postUrl)
+    .send({title: 'Updated title', body: 'Updated body'})
+    .expect(302)
+    .expect('location', postUrl);
+     })(done);
+ });
 
 });
 ```

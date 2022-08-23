@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Repost: Mob programming – full team, full throttle"
-author: "Marcus Hammarberg"
+title: Repost - Mob programming – full team, full throttle
+author: Marcus Hammarberg
 date: 2013-08-06 08:32:58
 tags:
  - Agile
@@ -12,9 +12,9 @@ tags:
 
 ### REPOST FROM CODEBETTER
 
-I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/), here to my site. 
+I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/), here to my site.
 
-This particular post makes me very proud to repost here, since it's apparently one of the first posts ever written on mob programming, not by [Woody Zuill](https://twitter.com/WoodyZuill) - the father of the concept. 
+This particular post makes me very proud to repost here, since it's apparently one of the first posts ever written on mob programming, not by [Woody Zuill](https://twitter.com/WoodyZuill) - the father of the concept.
 
 ## Original post
 
@@ -32,7 +32,7 @@ But beware: mob programming is only for those that really want to deliver stuff 
 
 ![Mob Programming](/img/MobProgramming_A_Rich_Tradition.png)
 
-From http://mobprogramming.org/ (c) Andrea Zuill
+From <http://mobprogramming.org/> (c) Andrea Zuill
 
 The basic concept of mob programming is simple: the entire team works as a team together on one task at the time. That is: one team – one (active) keyboard – one screen (projector of course). It’s just like doing full-team pair programming.
 

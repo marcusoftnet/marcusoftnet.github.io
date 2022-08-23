@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The "I'm not allowed to do columns like that"-problem
+title: The I am not allowed to do columns like that-problem
 date: 2013-02-20T08:00:00.000Z
 author: Marcus Hammarberg
 tags:

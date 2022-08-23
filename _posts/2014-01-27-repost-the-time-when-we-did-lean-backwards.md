@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Repost: The time when we did Lean backwards"
-author: "Marcus Hammarberg"
+title: Repost - The time when we did Lean backwards
+author: Marcus Hammarberg
 date: 2017-04-19 15:05:07
 tags:
  - Lean
@@ -74,7 +74,7 @@ As for the checkout-functionality we could have handled that manually. You know,
 
 We would now, from the eyes of the public (and others in the company), have a working cart. Not fully featured and sure not fully implemented, since we still are faking it. But now we could start filling the functionality out with real code. And doing so where the manual management hurted the most first.
 
-[![Software features and how they are used](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)Picture from http://pragprog.com/magazines/2011-02/way-of-the-agile-warrior
+[![Software features and how they are used](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)Picture from <http://pragprog.com/magazines/2011-02/way-of-the-agile-warrior>
 
 Maybe, in doing so, we would discover that not all the things that we thought was important really was. Have you see the stats on how much of the software features we build that is really used?
 
@@ -106,5 +106,4 @@ When you think about it it’s your choice really;
 - setting up your process in a Big Bang fashion bootstrap yourself for a series of bad news, delays, exceeded budgets and a risk that the finished product will disappoint the customer
 - with small frequent, customer-facing, release you have a series of good news until, all of a sudden, you have exactly what your customer needed. And you will learn what from what you have done so far.
 
-(Read about another[ process with these problems here](http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html) )
-
+(Read about another[process with these problems here](http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html) )
