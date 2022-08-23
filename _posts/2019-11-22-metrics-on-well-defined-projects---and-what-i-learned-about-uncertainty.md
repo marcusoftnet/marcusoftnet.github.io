@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metrics on 'well-defined' projects - and what I learned about uncertainty
+title: Metrics on well-defined projects - and what I learned about uncertainty
 author: Marcus Hammarberg
 date: 2019-11-22T08:43:43.000Z
 tags:
