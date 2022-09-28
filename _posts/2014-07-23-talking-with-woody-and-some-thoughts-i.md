@@ -37,31 +37,18 @@ from our conversation.
 
 #### Tell me what you want, what you really really want! I wanna wanna wanna ... an estimate?
 
-Woody is the man behind
-<a href="http://zuill.us/WoodyZuill/category/estimating/"
-target="_blank">#NoEstimates</a> among other things. This has proven a
-**highly** controversial topic and I have from time to time refrained
-from talking about it... out of fear or at least tiredness of being
-bashed about this on Twitter and elsewhere.
+Woody is the man behind <a href="http://zuill.us/WoodyZuill/category/estimating/" target="_blank">#NoEstimates</a> among other things. This has proven a **highly** controversial topic and I have from time to time refrained from talking about it... out of fear or at least tiredness of being bashed about this on Twitter and elsewhere.
 
-A few things to note about \#NoEstimates, only speaking from my own
-experience, that I think sometimes are missed:
+A few things to note about \#NoEstimates, only speaking from my own experience, that I think sometimes are missed:
 
-I never heard about a customer, you know the guy who are paying our
-bills, thanking anyone for the awesome estimate. We (think we) need them
-to do our work, but that also mean that we can change that. Since it's
-nothing that the customer wants we could do less of that and more of the
-things that the customer do wants.
+I never heard about a customer, you know the guy who are paying our bills, thanking anyone for the awesome estimate. We (think we) need them to do our work, but that also mean that we can change that. Since it's nothing that the customer wants we could do less of that and more of the things that the customer do wants.
 
 
 #### Processes are always only "best so far"
 
 <div style="text-align: left;">
 
-Secondly, this goes for *anything* we do. The customer doesn't want
-requirements, plans, standups, tests or even the code. The customer
-wants a problem solved. All the things we are doing to solve the problem
-for the customer is just "best so far" and we should change it as soon
+Secondly, this goes for *anything* we do. The customer doesn't want requirements, plans, standups, tests or even the code. The customer wants a problem solved. All the things we are doing to solve the problem for the customer is just "best so far" and we should change it as soon
 as we are creative enough to look outside our current understanding.
 
 For some, me included, looking beyond our current ways and practices is very hard to do. That's one of the reasons I always react with doubt and question introduced to new concepts. I'm a programmer so this list is a bit skewed, but this is my exact words or thoughts when I heard about some concepts that I now have come to appreciate:
