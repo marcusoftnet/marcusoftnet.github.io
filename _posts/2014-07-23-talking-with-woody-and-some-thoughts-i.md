@@ -14,22 +14,11 @@ blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-t
 ---
 
 
-Yesterday I had the good fortune to have a chat with
-<a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a>
-over Skype. I was a really nice hour that just flew by, where we
-exchanged stories, ideas and had a few laughs.
+Yesterday I had the good fortune to have a chat with <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a> over Skype. I was a really nice hour that just flew by, where we exchanged stories, ideas and had a few laughs.
 
-Let me, as a side note, just say that I love that; just exchanging
-stories with people. I **always** learn new stuff and quite often
-stories from my own experience pop back into my memory.
-This is the best part of conferences - meeting, interacting with others.
-That's what I miss the most, being a little sidestepped here in
-Indonesia. Praise the Lord for Skype and Twitter... ah well for the
-Internet too (although I'm not entirely sure He had any hands-on action
-on either of those inventions).
+Let me, as a side note, just say that I love that; just exchanging stories with people. I **always** learn new stuff and quite often stories from my own experience pop back into my memory. This is the best part of conferences - meeting, interacting with others. That's what I miss the most, being a little sidestepped here in Indonesia. Praise the Lord for Skype and Twitter... ah well for the Internet too (although I'm not entirely sure He had any hands-on action on either of those inventions).
 
-I just thought I summarise some of the things that I took away with me
-from our conversation.
+I just thought I summarize some of the things that I took away with me from our conversation.
 
 
 ### It was never about the estimates, really
@@ -46,10 +35,8 @@ I never heard about a customer, you know the guy who are paying our bills, thank
 
 #### Processes are always only "best so far"
 
-<div style="text-align: left;">
 
-Secondly, this goes for *anything* we do. The customer doesn't want requirements, plans, standups, tests or even the code. The customer wants a problem solved. All the things we are doing to solve the problem for the customer is just "best so far" and we should change it as soon
-as we are creative enough to look outside our current understanding.
+Secondly, this goes for *anything* we do. The customer doesn't want requirements, plans, standups, tests or even the code. The customer wants a problem solved. All the things we are doing to solve the problem for the customer is just "best so far" and we should change it as soon as we are creative enough to look outside our current understanding.
 
 For some, me included, looking beyond our current ways and practices is very hard to do. That's one of the reasons I always react with doubt and question introduced to new concepts. I'm a programmer so this list is a bit skewed, but this is my exact words or thoughts when I heard about some concepts that I now have come to appreciate:
 
