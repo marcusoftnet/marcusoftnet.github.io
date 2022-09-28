@@ -13,6 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
 blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
 ---
 
+
 Yesterday I had the good fortune to have a chat with
 <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a>
 over Skype. I was a really nice hour that just flew by, where we
@@ -65,11 +66,7 @@ as we are creative enough to look outside our current understanding.
 
 <div style="text-align: left;">
 
-For some, I'm included, looking beyond our current ways and practices is
-very hard to do. That's one of the reasons I always react with doubt and
-question introduced to new concepts. I'm a programmer so this list is a
-bit skewed, but this is my exact words or thoughts when I heard about
-some concepts that I now have come to appreciate:
+For some, me included, looking beyond our current ways and practices is very hard to do. That's one of the reasons I always react with doubt and question introduced to new concepts. I'm a programmer so this list is a bit skewed, but this is my exact words or thoughts when I heard about some concepts that I now have come to appreciate:
 
 - WHAT?! Two people at one keyboard. That's just stupid! (Pair programming)
 - Meeting every morning? Shouldn't agile mean less meetings?   (Standups)
