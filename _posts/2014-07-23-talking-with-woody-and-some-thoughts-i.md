@@ -64,8 +64,6 @@ wants a problem solved. All the things we are doing to solve the problem
 for the customer is just "best so far" and we should change it as soon
 as we are creative enough to look outside our current understanding.
 
-<div style="text-align: left;">
-
 For some, me included, looking beyond our current ways and practices is very hard to do. That's one of the reasons I always react with doubt and question introduced to new concepts. I'm a programmer so this list is a bit skewed, but this is my exact words or thoughts when I heard about some concepts that I now have come to appreciate:
 
 
@@ -82,7 +80,7 @@ For some, me included, looking beyond our current ways and practices is very har
 I could go on and on but I've probably bored you already. You probably
 are much better to assimilate new ideas. Two things that I'm proud of
 myself for: I'm faster to go from "WHAT?!" to "ok, this might be
-something" nowadays - and I recognise many of the things that I say
+something" nowadays - and I recognize many of the things that I say
 about new ideas, as things that people say to me when I introduce
 them.
 
