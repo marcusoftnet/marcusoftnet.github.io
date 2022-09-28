@@ -69,14 +69,14 @@ as we are creative enough to look outside our current understanding.
 For some, me included, looking beyond our current ways and practices is very hard to do. That's one of the reasons I always react with doubt and question introduced to new concepts. I'm a programmer so this list is a bit skewed, but this is my exact words or thoughts when I heard about some concepts that I now have come to appreciate:
 
 
-- WHAT?! Two people at one keyboard. That's just stupid! (Pair programming)
-- Meeting every morning? Shouldn't agile mean less meetings?   (Standups)
-- Writing the test **before** the code? That super hard to do, and it will produce a lot of test code that just testing the code (TDD)
-- Dependency Injection is just for computer science researchers. I'm coding here - I don't need that (brrr totally true I'm afraid)
-- Open source?! But we need someone to take responsibility for the maintain of the code we're using
-- Javascript is just for designers. It make things twirl and beep (Ouch, that's also true, I'm afraid)
-- Mob programming?! This is just wrong - all of the team in the same room. With one keyboard!
-- Chaos monkey - why on earth would you write a program that is *causing* problems. We need stable IT here. Who did that? (Netflix dudes, the biggest infrastructure/application on the planet)
+* WHAT?! Two people at one keyboard. That's just stupid! (Pair programming)
+* Meeting every morning? Shouldn't agile mean less meetings?   (Standups)
+* Writing the test **before** the code? That super hard to do, and it will produce a lot of test code that just testing the code (TDD)
+* Dependency Injection is just for computer science researchers. I'm coding here - I don't need that (brrr totally true I'm afraid)
+* Open source?! But we need someone to take responsibility for the maintain of the code we're using
+* Javascript is just for designers. It make things twirl and beep (Ouch, that's also true, I'm afraid)
+* Mob programming?! This is just wrong - all of the team in the same room. With one keyboard!
+* Chaos monkey - why on earth would you write a program that is *causing* problems. We need stable IT here. Who did that? (Netflix dudes, the biggest infrastructure/application on the planet)
 
 
 I could go on and on but I've probably bored you already. You probably
