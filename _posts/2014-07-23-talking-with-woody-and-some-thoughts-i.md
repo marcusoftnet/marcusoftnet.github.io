@@ -13,9 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
 blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
 ---
 
-
-
-
 Yesterday I had the good fortune to have a chat with
 <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a>
 over Skype. I was a really nice hour that just flew by, where we
@@ -33,7 +30,9 @@ on either of those inventions).
 I just thought I summarise some of the things that I took away with me
 from our conversation.
 
+
 ### It was never about the estimates, really
+
 
 #### Tell me what you want, what you really really want! I wanna wanna wanna ... an estimate?
 
@@ -53,6 +52,7 @@ to do our work, but that also mean that we can change that. Since it's
 nothing that the customer wants we could do less of that and more of the
 things that the customer do wants.
 
+
 #### Processes are always only "best so far"
 
 <div style="text-align: left;">
@@ -71,23 +71,14 @@ question introduced to new concepts. I'm a programmer so this list is a
 bit skewed, but this is my exact words or thoughts when I heard about
 some concepts that I now have come to appreciate:
 
-- WHAT?! Two people at one keyboard. That's just stupid! (Pair
-    programming)
-- Meeting every morning? Shouldn't agile mean less meetings?
-    (Standups)
-- Writing the test **before** the code? That super hard to do, and
-    it will produce a lot of test code that just testing the code (TDD)
-- Dependency Injection is just for computer science researchers. I'm
-    coding here - I don't need that (brrr totally true I'm afraid)
-- Open source?! But we need someone to take responsibility for the
-    maintain of the code we're using
-- Javascript is just for designers. It make things twirl and beep
-    (Ouch, that's also true, I'm afraid)
-- Mob programming?! This is just wrong - all of the team in the same
-    room. With one keyboard!
-- Chaos monkey - why on earth would you write a program that is
-    *causing* problems. We need stable IT here. Who did that? (Netflix
-    dudes, the biggest infrastructure/application on the planet)
+- WHAT?! Two people at one keyboard. That's just stupid! (Pair programming)
+- Meeting every morning? Shouldn't agile mean less meetings?   (Standups)
+- Writing the test **before** the code? That super hard to do, and it will produce a lot of test code that just testing the code (TDD)
+- Dependency Injection is just for computer science researchers. I'm coding here - I don't need that (brrr totally true I'm afraid)
+- Open source?! But we need someone to take responsibility for the maintain of the code we're using
+- Javascript is just for designers. It make things twirl and beep (Ouch, that's also true, I'm afraid)
+- Mob programming?! This is just wrong - all of the team in the same room. With one keyboard!
+- Chaos monkey - why on earth would you write a program that is *causing* problems. We need stable IT here. Who did that? (Netflix dudes, the biggest infrastructure/application on the planet)
 
 I could go on and on but I've probably bored you already. You probably
 are much better to assimilate new ideas. Two things that I'm proud of
@@ -102,6 +93,7 @@ fundamental in how we do work that it's a given. It's how it's done -
 how else could we \[fill in your reason here\].
 
 Which brings me to 3
+
 
 #### It was never about the estimates
 
@@ -148,6 +140,7 @@ America. But it only, only works there. Or does it?
 Let's leave the \#noEstimates for now - it's so scary to even talk
 about. I see pitch forks and torches out on the street...
 
+
 ### ((((DO SOMETHING!) SMALL) USEFUL) NOW!)
 
 The above LISP (?) function is defined by
@@ -174,10 +167,12 @@ development since agile came into existence. TDD, Pair programming,
 meetings, source control, micro services, etc. etc. It's "totally
 different way of working" (quote from Marcus Hammarberg, about 5 seconds
 ago).
+
 Maybe we can become better if we try to let that spill over in how we
 test, how we write requirements, how we plan, how we est ... (nearly did
 it again. Walk away Marcus. Don't look them in the eyes and just walk.
 A. way.), even how we do business.
+
 
 ### Go concrete early and adjust
 
@@ -264,6 +259,7 @@ inspiration to become better than even they thought they could be.
 
 And in the process inspired me.
 
+
 ### Constraints are great to produce innovation
 
 Real short on this; I've blogged about
@@ -292,6 +288,7 @@ a better future.
 Maybe even better than you can imagine now.
 Imagine that.
 Imagine wonderful.
+
 
 ### PS
 
