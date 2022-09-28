@@ -1,13 +1,13 @@
 ---
 layout: post
-title: KanbanStats IV Where is time spent?
-author: Marcus Hammarberg
-date: 2019-01-07T15:04:13.000Z
+title: "KanbanStats IV: Where is time spent?"
+author: "Marcus Hammarberg"
+date: 2019-01-07 15:04:13
 tags:
-  - Agile
-  - Scrum
-  - Lean
-  - Kanban
+ - Agile
+ - Scrum
+ - Lean
+ - Kanban
 ---
 
 This is the fourth post in my series on some simple kanban board statistics. We have been talking about:
@@ -22,7 +22,7 @@ In the coming posts I want to expand on this and see if we can make a distinctio
 
 Ok - let's get going. As for all these post I am [in this Google Sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) - make a copy if you want to play along
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ## The dates
 
@@ -109,6 +109,9 @@ I will show you what I did for weeks, but it's quite similar for months.
       2. Double click the little handle in the bottom corner
       3. Google sheets will auto-fill the formulas for all the rows of unique weeks
       4. This is when the `$` for locking certain references comes handy as Google sheets otherwise will increment row references...
+
+
+
 Ok - that data looks fiiine! But let's show it as well.
 
 For the months I created a simpler chart; a stacked column chart for `K1:M7` (columns Unique month, Average In Backlog and Average On Board). A nifty little setting was where you can set a label, per column, for the total. The result looks like this:
@@ -143,6 +146,7 @@ In this post we charted out where the time for this data was spent; in the backl
 In the next post, I will try to make a few static numbers that people often ask about and that we, relatively easily can pull from the data.
 
 Here's a final link to the [Google Sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) I'm working in. Feel free to copy it if you find this useful.
+
 
 ### The links
 

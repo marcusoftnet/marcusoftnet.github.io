@@ -1,17 +1,20 @@
 ---
 layout: post
-title: A simple diagram and some conversations on flow efficiency
-author: Marcus Hammarberg
-date: 2018-03-29T09:21:39.000Z
+title: "A simple diagram and some conversations on flow efficiency"
+author: "Marcus Hammarberg"
+date: 2018-03-29 09:21:39
 tags:
-  - LeanLean - Kanban - Agile - Life of a consultant
+ - Lean
+ - Kanban
+ - Agile
+ - Life of a consultant
 ---
 
 The last couple of weeks I have been re-discovering an old diagram (eerm … sketch really). You can find it scribbled on close to every whiteboard in our office now. Because it opened a lot of interesting discussions on flow, flow efficiency and optimizations for value delivery.
 
 I wanted to share this with you here, in a few iterations and also share some of the discussion that it triggered.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 First of all, this came up as we had a process that was taking a long time. Too long. It involved a few people from different departments that needed to do their work before handing it over to the next department. And then there was a user acceptance testing phase in the end that of course took a long time.
 
@@ -57,7 +60,7 @@ Simply just decorate the diagram with the names of the process-stages (in some c
 
 Now we can easily calculate the flow efficiency (using the numbers in the picture):
 
-```text
+```
 Work Dep 1: 12 h
 Wait: 2 weeks á 40 h = 80 h
 Work Dep 2: 1 day * 8 h = 8 h
@@ -104,7 +107,10 @@ This diagram is not showing buysiness - it's showing flow of value. In fact, thr
 
 There are nice simulations to show this problem in action, if you want to click through it:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hfpgABlZ6t59qu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation" title="Pass the pennies  - Lean game simulation" target="_blank">Pass the pennies  - Lean game simulation</a> </strong> from <strong><a href="https://www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hfpgABlZ6t59qu" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/pass-the-pennies-lean-game-simulation" title="Pass the pennies - Lean game simulation" target="_blank">Pass the pennies - Lean game simulation</a> </strong> from <strong><a href="https://www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
+
+
+
 You could also show this problem in the diagram by running your finger across the line. As you reach end a working stage just say `Now this work has to wait because Dep 2 are busy doing other things right now`.
 
 Then maybe add `Imagine if they would have time to pick this up now? Then we wouldn't need to wait all this time`, as you slowly run your finger across the waiting line.
@@ -140,6 +146,9 @@ That's it, really (objections below).
 Because now you have eliminated all the wait states in one simple go. Should Dep 1-guy need to ask Dep 2-gal something she's not only 2 feet way; she's also always ready to answer. They are namely working together, collaborating, on completing the task.
 
 Did you notice how I didn't hire new people, retrained, re-organized (ah well…) or spent any money accomplishing this change? I just let the people that are needed to complete the work… work together to complete the work.
+
+
+
 In my first description of the process with problems above, I wrote this:
 
 > And then there was a user acceptance testing phase in the end that of course took a long time.
@@ -149,14 +158,20 @@ Why is that always the case? The problem parts of the processes tend to be at th
 How will this change with people in the same room at the same time working on the same thing? They will discover these problems much earlier. As we start to describe what we want to change the people in later stages will think about their parts and can reveal problems directly.
 
 This is formalized in software development in a meeting called the [Three Amigos](https://www.agilealliance.org/glossary/three-amigos); where several different disciplines meet early on to discuss new features and find problems earlier.
+
+
+
 Ensure that this team works together to improve lead time. Follow their progress on finishing items with quality as fast as possible. This is a bigger area and a bit of topic, but balance the metrics of speed and quality so that we don't get sloppy.
 
 Better yet, if you dare, lead like it was 1807 and [give them a mission command](https://en.wikipedia.org/wiki/Mission_command), a value you want to be improved, a WHY and leave the HOW to the group. Ask them; what do you want to measure yourselves on to see improvements.
+
+
+
 Oh, that's right; this will fail. It will without exception fail, **if** you don't have the right people in the room. If the people in the room goes: `I have to check this with Joe`, `this now needs approval from Legal` or `Done! Now we just need to wait for Sally to click Approve` then you have set them up for failure.
 
 For this to succeed you need the people that can complete the work in the room. Alternatively, give the people in the room the authority to complete the work.
 
-### Objection, your honor
+### Objection, your honor!
 
 Yes yes - this is a bit simplified. Or is it? See [Mob programming](https://en.wikipedia.org/wiki/Mob_programming) that does exactly this.
 
@@ -179,6 +194,9 @@ Or just try something for awhile and see if it works. Then tweak it until the fl
 > After each session we evaluate and change our ways of working.
 >
 > We measure ourselves on lead time for each thing we completed, number of completed things per week and quality issues of the work we have completed.
+
+
+
 Another objection is that of course, not everyone can be in the same room at the same time; location, time zones, working from home etc.
 
 Ok ok - if you cannot do physical room then do a virtual room instead. Focus more on the `at the same time working on the same thing` part first. Being in the same physical room is, in my experience better, but do what you can under the constraints you have.

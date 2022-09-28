@@ -3,10 +3,10 @@ layout: post
 title: Inspections welcome
 author: Marcus Hammarberg
 tags:
-  - Lean
-  - Life of a consultant
-  - Kanban
-  - Agile
+- Lean
+- Life of a consultant
+- Kanban
+- Agile
 ---
 I've just come back from a vaccation in Bali. Due to some fortunate overbookings we ended up in a villa that a oasis of tranquility and luxury. By far the nicest place I've ever seen, including the room I stayed in for [Agile Singapore](http://2014.agilesingapore.org/). The 3 day stay flew by but was a blessing for my soul.
 <img src="/img/balivilla.jpg" alt="Our villa" width="100%"/>
@@ -16,7 +16,7 @@ The villa was in an area of other villas in the same class together with some up
 I sat in our car on the way to the beach and we passed one hotel that looked small but very nice indeed. On the wall nothing was said about their services, no stars or anything like that. Just a simple, but [big](http://www.marcusoft.net/2014/09/ifyoubuildit.html), sign that said:
 <blockquote>Inspections welcome!</blockquote>
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 I like this approach very much. It's open and friendly but at the same time states a quality awareness and pride about our work.
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Thoughts after a SAFe course
-author: Marcus Hammarberg
-date: 2016-04-05T20:16:34.000Z
+title: "Thoughts after a SAFe course"
+author: "Marcus Hammarberg"
+date: 2016-04-05 20:16:34
 tags:
-  - LeanLean - Kanban - Agile
-  - Tools
+ - Lean
+ - Kanban
+ - Agile
+ - Tools
 ---
 
 I've been on a [SAFe](http://www.scaledagileframework.com/) course. I was very interested, because like many people I've heard much about this, had opinions on it but haven't experienced it first hand.
@@ -14,10 +16,9 @@ The context of the training was that it was given for my client. Not as "let's g
 
 I wanted to share a few thoughts in this post. If you were looking (or hoping) for a SAFe-bashing by a Kanbanista... Sorry - I'm not that guy. I'm also in way [too good mood](/2016/04/brickell-key-award-i-am-nominated.html) to bash anything right now.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # The course
-
 Your first time learning something has much to do with the teacher. I was in the expert hands of [Carl Vikman](https://twitter.com/cvikman) that both were very knowledgeable, had a pleasant way and most importantly understood the main reason for us being there - gain a common understanding (rather than learning SAFe)
 
 The course is really good. The first part on lean and agile principles is very good in fact. There was a lengthy part on the SAFe principles too that was informative but not as interesting. To me at least.
@@ -31,7 +32,6 @@ The conversations we had in our team was the best I've been involved in at this 
 Many great ideas and clarifications where brought out in the daylight and we have many small initiatives that we think can help us going forward. We are not adopting SAFe - just as intended.
 
 # SAFe... and prescribed processes in general
-
 Because there's of course nothing wrong with SAFe. It's a good packing of many agile practices in a well thought-out form, battle tested and tweaked over several version (we are now on version 4).
 
 But there's an issue here, right in the middle of the whole prescription thing.
@@ -57,7 +57,6 @@ Remember RUP? What was the thing that people hated about RUP? All the documentat
 My guess as to why is that it's easier to have a prescribed model to hold on to and the lure of getting a jump-start in progress is in play: "they told us that if we only did it according to XP it would work".
 
 # Summary
-
 I don't think there will ever be a prescribed process that works for all. XP was not it. Scrum was not it. SAFe is not it.
 
 Start where you are today, make work visible, decide on what the overarching strategy is[^2] and continuously evolve towards that goal. Little by little, in short iterations.

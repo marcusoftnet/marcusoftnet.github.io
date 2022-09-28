@@ -1,13 +1,13 @@
 ---
 layout: post
-title: KanbanStats II filter the process chart
-author: Marcus Hammarberg
-date: 2019-01-04T11:56:05.000Z
+title: "KanbanStats II: filter the process chart "
+author: "Marcus Hammarberg"
+date: 2019-01-04 11:56:05
 tags:
-  - Agile
-  - Scrum
-  - Lean
-  - Kanban
+ - Agile
+ - Scrum
+ - Lean
+ - Kanban
 ---
 
 **UPDATE**
@@ -19,7 +19,7 @@ In the [first post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-proces
 
 Speaking of those principles; in this post, I will violate one of them a bit, by adding a filter capability to the lead time chart, so that we can see just a part of the data.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 The reason I want to do this is that, as it the chart stands now, it’s a bit too noisy and has a lot of outliers, for example.
 
@@ -124,13 +124,13 @@ It's not as smooth as I wanted it to be but it helps us to answer a few question
 
 Ok - less philosofy and more doing.
 
-- On the "Lead time with filter"-tab I've added a new filter row, A:E
-- Each of the columns now holds a `HYPERLINK` to the filter
-  - The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end.
+* On the "Lead time with filter"-tab I've added a new filter row, A:E
+* Each of the columns now holds a `HYPERLINK` to the filter
+  * The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end.
     Select the whole address and use that as the first parameter
-  - The name is just a name for the filter `Only Size S` for example
-  - The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
-- Repeat for all views.
+  * The name is just a name for the filter `Only Size S` for example
+  * The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
+* Repeat for all views.
 
 An user can now click one of those links and get the chart filtered.
 
@@ -140,16 +140,17 @@ An user can now click one of those links and get the chart filtered.
 
 I need to show to export the chart as a picture as well, because that could be handy to know, I would guess.
 
-- Click one of those filters
-- See how the chart updates
-- Click the menu dots of the chart
-- Select Download as picture in a suitable format.
+* Click one of those filters
+* See how the chart updates
+* Click the menu dots of the chart
+* Select Download as picture in a suitable format.
 
 ## Summary
 
 Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
 
 In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter.
+
 
 ### The links
 

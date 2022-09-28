@@ -1,15 +1,15 @@
 ---
 layout: post
-title: ca 10 minutes on Vision statements
-author: Marcus Hammarberg
-date: 2015-06-18T10:47:47.000Z
+title: "ca 10 minutes on Vision statements"
+author: "Marcus Hammarberg"
+date: 2015-06-18 10:47:47
 tags:
-  - Indonesia
-  - Lean
-  - Leadership
-  - Agile
-  - Life of a consultant
-  - Salvation Army
+ - Indonesia
+ - Lean
+ - Leadership
+ - Agile
+ - Life of a consultant
+ - Salvation Army
 ---
 
 This is the second post about my presentation series on Mission, Vision and Strategy and some other things.
@@ -28,7 +28,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Vision statements paint a picture of a future where we are executing the Mission perfectly. This is why it's important to understand and have a great mission statement - that makes creating the vision statement more concrete and a bit easier.
 
@@ -47,7 +47,6 @@ Interesting enough, as a parenthesis - I don't mention this in the presentation,
 More traditional organizations, follow the same reasoning but on the strategic plan level. Meaning that the Mission and Vision are decided and considered very
 
 # The presentations
-
 The presentation is recorded here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dc0zvNymNcM" frameborder="0" allowfullscreen></iframe>
 

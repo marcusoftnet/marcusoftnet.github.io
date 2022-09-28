@@ -1,15 +1,15 @@
 ---
 layout: post
-title: ca 10 minutes on Mission statements
-author: Marcus Hammarberg
-date: 2015-06-18T10:20:52.000Z
+title: "ca 10 minutes on Mission statements"
+author: "Marcus Hammarberg"
+date: 2015-06-18 10:20:52
 tags:
-  - Indonesia
-  - Lean
-  - Leadership
-  - Agile
-  - Life of a consultant
-  - Salvation Army
+ - Indonesia
+ - Lean
+ - Leadership
+ - Agile
+ - Life of a consultant
+ - Salvation Army
 ---
 
 
@@ -29,7 +29,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 In the presentation I go through a couple of examples and take a look at the good and bad parts of them.
 

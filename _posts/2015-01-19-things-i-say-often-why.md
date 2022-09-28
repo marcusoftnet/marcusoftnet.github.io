@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Things I say often Why?
-author: Marcus Hammarberg
-date: 2015-01-19T11:08:19.000Z
+title: "Things I say often: Why?"
+author: "Marcus Hammarberg"
+date: 2015-01-19 11:08:19
 tags:
-  - Agile
-  - Lean
-  - Life of a consultant
-  - Things I say often
+ - Agile
+ - Lean
+ - Life of a consultant
+ - Things I say often
 ---
 
 Really ... this is probably the word I use most often. And I'm proud of it!
@@ -16,7 +16,7 @@ Really ... this is probably the word I use most often. And I'm proud of it!
 
 It's not only because I'm ignorant and forget things a lot, but to me this is where knowledge is started to be created. I'm guessing I could write an entire book on just this single word, so this post will just be a few thoughts of the top of my head.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 All changes starts with questioning the current status, or at least by longing to a better other context ("Why can't we be like XXX?").
 

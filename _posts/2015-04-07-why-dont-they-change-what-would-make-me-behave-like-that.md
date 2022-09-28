@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Why don't they change What would make me behave like that?
-author: Marcus Hammarberg
-date: 2015-04-07T09:24:21.000Z
+title: "Why don't they change: What would make me behave like that?"
+author: "Marcus Hammarberg"
+date: 2015-04-07 09:24:21
 tags:
-  - Agile
-  - Lean
-  - Leadership
-  - Life of a consultant
-  - Indonesia
+ - Agile
+ - Lean
+ - Leadership
+ - Life of a consultant
+ - Indonesia
 ---
 
 I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html), [twice](http://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.
@@ -43,13 +43,11 @@ As I was walking I remembered a great question from [Dan North](http://dannorth.
 Sadly, this time I was stumped. The cultural differences was too big. I couldn't understand what had to be true for them.
 
 # The point
-
 So I tried this instead:
 
 <blockquote>What would they have to say to me that would make me behave like they are now?</blockquote>
 
 Their reactions:
-
 * arms crossed
 * looking grumpy
 * saying Yes - doing No
@@ -67,7 +65,6 @@ Then I ask myself;
 Now, here's where it get interesting. If someone told me that "smoking is better"; what do they have to do for me to "get" that? Is it better? Who would I know / can I tell?
 
 # Conclusion
-
 I've found this reasoning very helpful for me to come up with alternative ways to formulate my goal. Sometimes step away from "my" goal and let them come up with "their" goal instead. Generally I find it very refreshing (read: a little painful) to shift perspective like this.
 
-Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise.
+Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise. 

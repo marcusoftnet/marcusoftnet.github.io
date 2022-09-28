@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Things I say often Improving means changing
-author: Marcus Hammarberg
-date: 2015-01-20T11:28:03.000Z
+title: "Things I say often: Improving means changing"
+author: "Marcus Hammarberg"
+date: 2015-01-20 11:28:03
 tags:
-  - Agile
-  - Lean
-  - Life of a consultant
+ - Agile
+ - Lean
+ - Life of a consultant
 ---
 
-I've already [written about this before](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), but Hey - this was a [series](<http://www.marcusoft.net/tags/#Things> I say often) about things I said often.
+I've already [written about this before](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), but Hey - this was a [series](http://www.marcusoft.net/tags/#Things I say often) about things I said often.
 
 Basically, but please read the other post instead, many times I've been at companies that want to improve but don't want to change. This is impossible. Improving means changing. Changing doesn't necessary means improving though.
 

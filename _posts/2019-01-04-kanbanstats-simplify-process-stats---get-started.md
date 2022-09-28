@@ -1,13 +1,13 @@
 ---
 layout: post
-title: KanbanStats Simplify process stats - get started
-author: Marcus Hammarberg
-date: 2019-01-04T11:40:19.000Z
+title: "KanbanStats: Simplify process stats - get started"
+author: "Marcus Hammarberg"
+date: 2019-01-04 11:40:19
 tags:
-  - Agile
-  - Scrum
-  - Lean
-  - Kanban
+ - Agile
+ - Scrum
+ - Lean
+ - Kanban
 ---
 
 **UPDATE**
@@ -19,7 +19,7 @@ Most of these tools (like JIRA or Team Foundation server) obviously have ways of
 
 I’ve now grown tired of recreating these simple reports for every client and wanted to share my, very simple, stats here. This way I can reuse it for future clients and also maintain it in one place. The goal is simplicity – so I’ve put it on Google Sheets to be shareable. For the integration, between the dashboard and the different source systems, the goal is that you should be able to just paste in some data, in a certain simple format, in one tab (conveniently called “Raw data”) and then the dashboard will do all the other calculations.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 I want to share 4 very simple metrics that are easy to get from a very simple export of all the items, that you are interested in, and then makes some useful and simple visualizations from it. The metrics are:
 
@@ -109,7 +109,7 @@ To make a running chart we will need a few calculations made. Take a peek at the
    I’ve made sure this value never goes below 0 as that makes for a very strange chart.
 - **Upper control limit** – the average + one standard deviation gives an upper control limit. Meaning that ≈70% of the data points will be below this value.
 
-## A chart! For the love of God – make a chart already
+## A chart! For the love of God – make a chart already!
 
 In coming blog posts, I will not go through all the information as closely as this, I think. But I thought it would be a good idea for this starter post.
 
@@ -149,6 +149,7 @@ I think that is enough for now. We have got started. The next blog posts will be
 I wanted to create a powerful but simple tool, where the user can simply paste some data into one place and then the dashboard does the calculations needed to make better sense of the raw process data.
 
 In this first post, we got started by creating a process running chart for lead time based on some of the raw data.
+
 
 ### The links
 

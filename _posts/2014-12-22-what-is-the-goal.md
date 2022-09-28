@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What is The Goal?
-author: Marcus Hammarberg
-date: 2014-12-22T10:10:37.000Z
+title: "What is The Goal?"
+author: "Marcus Hammarberg"
+date: 2014-12-22 10:10:37
 tags:
-  - Agile
-  - Lean
-  - Life of a consultant
+ - Agile
+ - Lean
+ - Life of a consultant
 ---
 
 I've been re-reading  <a href="http://www.amazon.com/The-Goal-Process-Ongoing-Improvement/dp/0884270610">The Goal</a>. For the fourth time. And I still got that buzz from it. It's such a great book - I recommend it to anyone interested in business and becoming more effective.
@@ -18,7 +18,7 @@ The book of course got me thinking waaay to big thoughts for my small head and I
 
 This time however I dared to question the book too. I love it. So much that I think it will take me question it a little bit.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 <img src="/img/theGoal.jpg" style="float:right" width="40%">
 Because there's one thing in the book that I have a little problem with. And I cannot wrap my head around it. It's ... The Goal. In the book our hero, Alex Rogo, comes to the realization that The Goal for his plant and the entire organization is to "Make money".
@@ -30,7 +30,6 @@ Sure enough on the <a href="http://en.wikipedia.org/wiki/Theory_of_constraints">
 There's more just below and we'll get to that, but bear with me for a while.
 
 # On one hand
-
 Now, I feel a bit uneasy with that... in one way and not in another.
 
 Make money.
@@ -48,7 +47,6 @@ So... all of those things are really just things we need to handle... but they a
 I get a little bit of a foul taste in my mouth.
 
 # On the other hand
-
 But... if the company doesn't make money it will eventually die and seize to exists. If we only cared about people we'd not be around to care for our people for very long. Unless some good persons pay us money to keep shoveling money into the organization to run it without making money.
 
 The Wikipedia page talks about this too
@@ -60,13 +58,11 @@ Ok - so it's not the same for them... but for all other companies it's "Make mon
 Well, if the last quote was about *non*-profits that would make the other companies "profit business" then. And if you're in a "profit business" and don't make money... what's the use really?
 
 # Where does this leave us?
-
 Now, who'd want to be in such a company. "Son - you're main objective here is to MAKE MONEY!". That doesn't sound like any of the companies I've worked for (4) and consulted for (20-30 ca) that *all* been in the "profit business" category.
 
 As a westerner I'm inclined to ask "What about me? What about my needs?". And now that I have a little Asian culture in me: "What about us? Who looks after the group, guys? Will you not just take advantage of us and then replace us if we complain?".
 
 # Summary
-
 I cannot get this straight. I'm sure I'm missing something or simply haven't read enough of Mr Goldratts thinking.
 In my mind the Theory Of Constraints thinking, five focusing steps could and SHOULD be applied to pursue any goal. It's really just taking a good look at your system / organization and see what is not contributing to The Goal. I like that. A lot.
 

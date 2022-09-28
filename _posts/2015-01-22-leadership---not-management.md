@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Things I say often I'm into leadership - not management
-author: Marcus Hammarberg
-date: 2015-01-22T09:37:38.000Z
+title: "Things I say often: I'm into leadership - not management"
+author: "Marcus Hammarberg"
+date: 2015-01-22 09:37:38
 tags:
-  - Agile
-  - Leadership
-  - Lean
-  - Life of a consultant
-  - Things I say often
+ - Agile
+ - Leadership
+ - Lean
+ - Life of a consultant
+ - Things I say often
 ---
 
 This is just a short one. I don't know where I picked the thought up, probably from [David Marquet](http://www.davidmarquet.com/) or [Simon Sinek](https://www.startwithwhy.com/).

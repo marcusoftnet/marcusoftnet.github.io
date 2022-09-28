@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The nervous stats checker oscillating syndrome
-author: Marcus Hammarberg
-date: 2017-04-24T10:48:51.000Z
+title: "The nervous stats checker oscillating syndrome"
+author: "Marcus Hammarberg"
+date: 2017-04-24 10:48:51
 tags:
-  - Agile
-  - Lean
-  - Tools
-  - Life of a consultant
+ - Agile
+ - Lean
+ - Tools
+ - Life of a consultant
 ---
 
 I had a colleague on one of my gigs many years ago, let's call him Olle (since that was his name). Olle just got a blood pressure meter for Christmas. He was around 45, at the time, and in reasonably good health, according to himself. But he was one of those guys that "had everything" and someone got him this machine. Mostly for fun.
@@ -20,7 +20,7 @@ He had a doctors appointment later that afternoon to get proper medication.
 
 I think I'm becoming Olle. And it's [JIRAs](https://www.atlassian.com/software/jira) fault. And mine own. Mostly my own.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Just like Olle and his blood pressure meter JIRA can give me any statistics I need, and many of the ones that I don't need, updated in real-time. We could even, and should maybe, display these metrics on big screens next to the team affected by the metric.
 

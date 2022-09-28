@@ -1,15 +1,15 @@
 ---
 layout: post
-title: ca 10 minutes on effective meetings
-author: Marcus Hammarberg
-date: 2015-08-10T11:26:32.000Z
+title: "ca 10 minutes on effective meetings"
+author: "Marcus Hammarberg"
+date: 2015-08-10 11:26:32
 tags:
-  - Indonesia
-  - Lean
-  - Leadership
-  - Agile
-  - Life of a consultant
-  - Salvation Army
+ - Indonesia
+ - Lean
+ - Leadership
+ - Agile
+ - Life of a consultant
+ - Salvation Army
 ---
 
 I don't like meetings. Because most meetings I've attended has not been great. And I'm guilty of organizing some of those meetings too.
@@ -28,7 +28,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 I've built the presentation around the [PDCA-cycle](https://en.wikipedia.org/wiki/PDCA); Plan meetings, Do meetings, Check the outcomes of the meeting and Act to improve the next meeting.
 

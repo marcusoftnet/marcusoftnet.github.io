@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Things I say often This is your board - change it
-author: Marcus Hammarberg
-date: 2015-01-16T13:42:03.000Z
+title: "Things I say often: This is your board - change it"
+author: "Marcus Hammarberg"
+date: 2015-01-16 13:42:03
 tags:
-  - Agile
-  - Kanban
-  - Lean
-  - Scrum
-  - Things I say often
+ - Agile
+ - Kanban
+ - Lean
+ - Scrum
+ - Things I say often
 ---
 
 I have probably introduce around 80-100 teams to the use of some sort of board to visualize their work. One of the things that I often ... ah, always say and also have to repeat is this:
 <blockquote>Nobody has told us to create a board. We do this for us. This is great because that it means that we can change it how WE see fit</blockquote>
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Many teams that I visit are worried about creating a "good" board or even the correct board. Many times the initial feeling is looking for help from a manager on how it should work and look.
 

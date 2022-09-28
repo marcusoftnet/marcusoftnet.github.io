@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Splitting a Koa app into parts and putting it together again
-author: Marcus Hammarberg
-date: 2015-05-03T15:09:00.000Z
+title: "Splitting a Koa app into parts and putting it together again"
+author: "Marcus Hammarberg"
+date: 2015-05-03 15:09:00
 tags:
-  - Javascript
-  - Koa
-  - Node
+ - Javascript
+ - Koa
+ - Node
 ---
 
 The little series I've written on [supertest](https://github.com/visionmedia/supertest) and other [Koa](http://koajs.com/) friends is moving very slowly ahead. Lots of new findings is making for a lot of innovation that I need to find out and try out.
@@ -21,7 +21,7 @@ In this post I will show you a powerful way of using [koa-mount](https://www.npm
 
 As before, if you want to tag along as I build this example out, grab the code from this [tag](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.2), and we'll start at the same place.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # The problem / opportunity
 
@@ -34,45 +34,43 @@ However I think I've pushed the <code>User</code>-parts far enough. It would mak
 Instead let's say that we have Addresses, Orders as a separate API. Our task at hand is to create three small, autonomous API's like the one we have and then gather it under an over-arching _app_ that exposes the API resources.
 
 # Goal structure
-
 Our application right now is all about Users. Let's move that down a level or two and create a structure like this:
 
 * Application responsible for putting together the application
-  * Application code
-  * Application tests
-  * Application configuration
-  * Application etc
-  * API - a folder with the different APIS
-    * User
-      * Code
-      * Dependencies
-      * Tests
-      * etc
-    * Address
-      * same as for User
-    * Orders
-      * same as for User
+	* Application code
+	* Application tests
+	* Application configuration
+	* Application etc
+	* API - a folder with the different APIS
+		* User
+			* Code
+			* Dependencies
+			* Tests
+			* etc
+		* Address
+			* same as for User
+		* Orders
+			* same as for User
 
 This will be a lot of code to write, but you will not see me writing about every single line here. Instead I will focus on the glue-code and you can see the [result here](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.3) once it's done.
 
 # Humble beginnings
-
 First let's create a few folders:
 
 ```bash
-mkdir apis
-mkdir apis/user
-mkdir apis/address
-mkdir apis/order
+$ mkdir apis
+$ mkdir apis/user
+$ mkdir apis/address
+$ mkdir apis/order
 ```
 
 And then we move everything we have right in the root of our application right now in under <code>./apis/user</code>. Leaving the LICENSE and README for convince.
 
 ```bash
-mv *.js ./apis/user/
-mv package.json ./apis/user/
-mv node_modules/ ./apis/user/
-mv test ./apis/user/
+$ mv *.js ./apis/user/
+$ mv package.json ./apis/user/
+$ mv node_modules/ ./apis/user/
+$ mv test ./apis/user/
 ```
 
 In our root folder there's only <code>LICENSE</code> and <code>README</code> and the <code>apis</code>-folder left...
@@ -80,7 +78,6 @@ In our root folder there's only <code>LICENSE</code> and <code>README</code> and
 And all the code we had is in the <code>/apis/user</code> folder. We can check that it still works by going into the directory and run <code>npm test</code>.
 
 # Don't mind the man behind the curtain
-
 In order to make this a little more interesting I will now create two more apis and put in there. But that's very boring to write about since it will be very much alike the things we have.
 
 By the power of time travel you will instead see it completed.
@@ -93,11 +90,9 @@ Ok, each of those small APIs is structured a little bit different, just to prove
 Oh my, that took much longer than I thought. But now we have it ready.
 
 # Putting it together
-
 Now for something more interesting. Because now we have 3 totally separate APIs that cannot be used as an entity. Let's fix that by creating an application on top that exposes the APIs. In the progress we will have to clean somethings up in the separate APIs but I'll come back to that later.
 
 ## No app?
-
 The first thing to realize is that there's no application in the root directory. Let's create one - the responsibility for this application is just to gather the apis together.
 
 I use <code>npm init</code> of course and create a simple application. I created an initial <code>index.js</code>, looking like this:
@@ -139,9 +134,7 @@ Finally I added two new commands to my <code>package.json</code> to start it, bo
     "startLocal": "nodemon --harmony index.js"
 }
 ```
-
 ## Test for our root app
-
 While we're at it, let's write some tests for our "root"-application too. <code>npm install mocha supertest --save-dev</code> and then create a test directory (<code>mkdir test</code>) with a <code>rootApp.spec.js</code> file with the following content:
 
 ```javascript
@@ -170,7 +163,6 @@ And then a test command that looks like this, in the <code>package.json</code>
 Let's run it with <code>npm test</code>. Works!
 
 # Mounting it together
-
 Ok, now we have some APIs and and a root application. Let's put it all together, and that is done with [koa-mount](https://www.npmjs.com/package/koa-mount) as you might expect.
 
 Let's add a little twist, let's mount the <code>/orders</code> with some authentication. I'm using basic-authentication now, but this can be more elaborate if needed.
@@ -191,7 +183,6 @@ app.use(mount('/users', userApi));
 The mounting on line 3 is just as before, but please notice that we are mounting it under <code>/users</code>. This will cause us some pain soon.
 
 ## File dependencies and package.json
-
 But first; what on earth is <code>UserApi</code> in that <code>require</code>-statement and how did I get it there?
 
 As I've written before [package.json & npm are a might tools](http://www.marcusoft.net/2014/02/mnb-packagejson.html) and since 2.0.0 you can set dependencies to local files or directories. The simplest way to do this is just use <code>npm install</code>, as I did for the user api: <code>npm install ./apis/user/ --save</code>.
@@ -207,16 +198,15 @@ And with that I got a new dependency in my <code>package.json</code>:
 ```
 
 ## Test the mounting
-
 Let's add a test to make sure that our mounted API responds at expected. Here's my test for that:
 
 ```javascript
 it('and an user api to which we can post, for example', function (done) {
      request
-  .post('/users')
-  .send({ name: 'Marcus', city : 'Bandung, Indonesia'})
-  .expect('location', /^\/users\/[0-9a-fA-F]{24}$/)
-  .expect(201, done);
+		.post('/users')
+		.send({ name: 'Marcus', city : 'Bandung, Indonesia'})
+		.expect('location', /^\/users\/[0-9a-fA-F]{24}$/)
+		.expect(201, done);
 });
 ```
 
@@ -225,7 +215,6 @@ Yup, the test is simple and not a full test. But we're also just testing simple 
 Running this test is a disappointment though... It fails: <code>expected "location" header field</code> which basically means that we didn't post at all. Or at least not to the right place.
 
 ## Run it to test it
-
 Sometimes I find it easier to run the application when looking for failures.
 
 <strong>Spoiler alert</strong> - I only know what's wrong but I'm letting you feel my pain. Fun, huh?
@@ -233,7 +222,6 @@ Sometimes I find it easier to run the application when looking for failures.
 Starting a local application with <code>npm run startLocal</code> (see earlier script) ... gives us more errors? <code>Error: listen EADDRINUSE</code>
 
 ### Running on same port
-
 This trying to say that there's more than one application listening to the same port. How can that b....aaaaah? Remember the individual api application files? They all have line like this:
 
 ```javascript
@@ -255,22 +243,20 @@ To still be able to run each API separately we can pass a variable as we start i
 
 // In app.js
 if(process.env.standalone){
- app.listen(3000);
+	app.listen(3000);
 }
 ```
 
 I've update the <code>Address</code>-api in this manner. The other apis I just taken the <code>app.listen()</code> out.
 
 ### Running as mounted app
-
 Ok; <code>npm test</code> in the root application gives us ... Still the same failure. The posting of users doesn't work, when the application is mounted.
 
 Opening the <code>/apis/user/app.js</code> it's pretty easy to see why. Remember that we mounted the application using <code>app.use(mount('/users', userApi));</code> meaning that the user API will reside under <code>/users</code>.
 
-But in the user api itself we have routes called POST /user, GET /user/:id etc. Meaning that the full URL will be <http://localhost:3000/users/user> for POST for example. Most likely that is not what we want.
+But in the user api itself we have routes called POST /user, GET /user/:id etc. Meaning that the full URL will be http://localhost:3000/users/user for POST for example. Most likely that is not what we want.
 
 ### Cleaning up Users
-
 Let's go through the users-api and simply remove the notion of <code>/user</code> in it. The app routes will look like this:
 
 ```javascript
@@ -286,8 +272,8 @@ Going into the <code>userRoutes.js</code> we will have to make some trickery. Be
 Basically it's only in two lines where we're creating urls that we need to take this into consideration, where we set the header <code>location</code>. Here's that part of the post-handler:
 
 ```javascript
- this.set("location", this.originalUrl + "/" + insertedUser._id);
- this.status = 201;
+	this.set("location", this.originalUrl + "/" + insertedUser._id);
+	this.status = 201;
 ```
 
 In the POST case we can just use the original URL. In the PUT case we need some more code:
@@ -306,18 +292,18 @@ Finally in the tests make sure that the references to <code>/user</code> is remo
 
 ```javascript
 it('creates a new user for complete posted data', function(done){
- // Post
- request
-  .post('/')
-  .send(test_user)
-  .expect('location', /^\/[0-9a-fA-F]{24}$/)
-  .expect(201)
-  .end(function () {
-   co(function *() {
-    var userFromDb = yield users.findOne({ name : test_user.name });
-    userFromDb.name.should.equal(test_user.name);
-   }).then(done, done);
-  });
+	// Post
+	request
+		.post('/')
+		.send(test_user)
+		.expect('location', /^\/[0-9a-fA-F]{24}$/)
+		.expect(201)
+		.end(function () {
+			co(function *() {
+				var userFromDb = yield users.findOne({ name : test_user.name });
+				userFromDb.name.should.equal(test_user.name);
+			}).then(done, done);
+		});
 });
 ```
 
@@ -326,13 +312,11 @@ See? No mentioning of /user. Rerunning the tests for <code>user</code> and it wo
 I have done similar constructs in the apis for orders and addresses.
 
 ## Referencing files or files
-
 No up and rerun the test for the root application. Fail! WHAT?! Well, now our referencing bites us a bit. When we did <code>npm install ./apis/user/ --save</code> we got a copy of the code in our directory. Just like when we install something from [npmjs](http://www.npmjs.org). To get the changes we have made we need to reinstall from ./apis/user/.
 
 Once that is done... FINALLY the tests are running without failure.
 
 ## Mount the address
-
 Mounting order are similar simple, but let me show you another way to mount applications. You can do a relative path for the require:
 
 ```javascript
@@ -350,27 +334,25 @@ app.use(mount('/address', addressApi));
 ```
 
 And a test for that:
-
 ```javascript
 it('and an address api to which we can post', function (done) {
- var test_address = {
-  userId: 987654321,
-  street : 'Jalan Jawa No 20',
-  city : 'Bandung',
-  country: 'Indonesia'
- };
+	var test_address = {
+		userId: 987654321,
+		street : 'Jalan Jawa No 20',
+		city : 'Bandung',
+		country: 'Indonesia'
+	};
 
- request
-  .post('/address')
-  .send(test_address)
-     .expect(201)
-  .expect('location', /^\/address\/[0-9a-fA-F]{24}$/)
-  .end(done);
- });
+	request
+		.post('/address')
+		.send(test_address)
+	    .expect(201)
+		.expect('location', /^\/address\/[0-9a-fA-F]{24}$/)
+		.end(done);
+	});
 ```
 
 ## Mount the orders and secure them
-
 Ok, to not repeat myself too much, let's as a final mount the order but do that with some authentication turned on.
 
 We need a new package (in the root, since that's where this authentication will take place - the module knows nothing about it...): <code>npm install koa-basic-auth --save</code>.
@@ -387,19 +369,19 @@ But now let's plug in the authentication. Here's a little module I've create tha
 
 ```javascript
 module.exports.reqBasic = function *(next){
- try {
-  yield next;
- }
- catch (err) {
-  if (401 == err.status) {
-   this.status = 401;
-   this.set('WWW-Authenticate', 'Basic');
-   this.body = 'Nope... you need to authenticate first. With a proper user!';
-  }
-  else {
-   throw err;
-  }
- }
+	try {
+		yield next;
+	}
+	catch (err) {
+		if (401 == err.status) {
+			this.status = 401;
+			this.set('WWW-Authenticate', 'Basic');
+			this.body = 'Nope... you need to authenticate first. With a proper user!';
+		}
+		else {
+			throw err;
+		}
+	}
 };
 ```
 
@@ -417,26 +399,26 @@ app.use(mount('/orders', orderApi));
 * First we just require the <code>koa-basic-auth</code> package and the little authentication module we just created
 * On line 4 we tell our application to use our basic authentication application.
 * Line 5 mounts the <code>/orders</code> path under authentication
-  * with the configuration we make sure that we can change user via environment variables. See above about configuration
+	* with the configuration we make sure that we can change user via environment variables. See above about configuration
 * Then, line 6, we mount yet another application on the same url: the order API.
 
 Writing a test for this will be something like this:
 
 ```javascript
 it('and an order api, but that requires login', function (done) {
- var test_order = {
-     orderId: '123456789',
-     ordered : new Date("2015-01-01"),
-     userId : "987654321"
+	var test_order = {
+    	orderId: '123456789',
+    	ordered : new Date("2015-01-01"),
+    	userId : "987654321"
     };
 
     request
-  .post('/orders')
-  .auth(config.adminUser.name, config.adminUser.pass)
-  .send(test_order)
-  .expect('location', /^\/orders\/[0-9]{9}$/)
-  .expect(201)
-  .end(done);
+		.post('/orders')
+		.auth(config.adminUser.name, config.adminUser.pass)
+		.send(test_order)
+		.expect('location', /^\/orders\/[0-9]{9}$/)
+		.expect(201)
+		.end(done);
 });
 ```
 
@@ -445,7 +427,6 @@ I added a test to check that not-logged in gives you a 401. See the code on [Git
 And there you have it!
 
 # Summary
-
 This might be the longest post I've ever written but we also did a lot of things here.
 
 We have:

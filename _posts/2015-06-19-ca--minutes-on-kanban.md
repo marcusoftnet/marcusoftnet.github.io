@@ -1,16 +1,16 @@
 ---
 layout: post
-title: ca 15 minutes on Kanban
-author: Marcus Hammarberg
-date: 2015-06-19T14:30:08.000Z
+title: "ca 15 minutes on Kanban"
+author: "Marcus Hammarberg"
+date: 2015-06-19 14:30:08
 tags:
-  - Kanban
-  - Lean
-  - Agile
-  - Leadership
-  - Indonesia
-  - Salvation Army
-  - Life of a consultant
+ - Kanban
+ - Lean
+ - Agile
+ - Leadership
+ - Indonesia
+ - Salvation Army
+ - Life of a consultant
 ---
 
 In this presentation I break it down to the day-to-day management of a project or team. How can we keep our focus? How can we improve? How do we even know what we are doing right now?
@@ -29,7 +29,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 It was quite a challenge and very interesting to not only boil this topic down to a digestible format (ca 15 minutes), but also steer away from IT-terms and examples, since this presentation is geared towards hospital managers.
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Building a Slack command with Claudia bot builder
-author: Marcus Hammarberg
-date: 2016-06-04T20:59:58.000Z
+title: "Building a Slack command with Claudia bot builder"
+author: "Marcus Hammarberg"
+date: 2016-06-04 20:59:58
 tags:
-  - Javascript
-  - Tools
-  - Node
-  - Claudia
+ - Javascript
+ - Tools
+ - Node
+ - Claudia
 ---
 
 I've written [a few](http://www.marcusoft.net/2016/04/claudia-some-updates-that-made-me-want-to-write-a-post.html) [posts](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia](http://claudiajs.com/) now and as often I jumped almost too early on the boat - it turns out that there's significant improvements to both Claudia herself and the entire ecosystem around the main tool.
@@ -20,7 +20,7 @@ In this post I wanted to check out a new tool around Claudia that helps you to b
 
 AWS Lambda is really cool but it leaves one of those: `Oh wow… now what am I going to use this for?` feeling. It's just code that scale infinity without you having to worry about it. It's a very open playing field.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ## What we're going to build
 
@@ -55,12 +55,12 @@ module.exports = botBuilder(request => {
 
     return co(function*() {
         var start = new Date();
-     var result = yield coreq(url);
-     var end = new Date() - start;
+	    var result = yield coreq(url);
+    	var end = new Date() - start;
 
         return `Pinged ${url} successfully - took ${end} ms`;
     }).catch(function(err) {
-  return `Could not ping ${url} (${err.message})`;
+		return `Could not ping ${url} (${err.message})`;
     });
 });
 ```
@@ -133,10 +133,10 @@ Create a `testdata/basictest.json` file containing the following:
 
 ```json
 {
- "context" : {
-  "path" : "/",
-  "method" : "GET"
- }
+	"context" : {
+		"path" : "/",
+		"method" : "GET"
+	}
 }
 ```
 
@@ -184,7 +184,7 @@ Better yet... use [Claudia Bot Builder](https://www.npmjs.com/package/claudia-bo
 
 `claudia update --configure-slack-slash-command` for slash-commands for only your team (that's what this article is about.). And use `claudia update --configure-slack-slash-app` for Slack applications.
 
-## Test
+## Test!
 
 Once all of that is done you can now go to the Slack group for which you installed the command and run your beauty.
 

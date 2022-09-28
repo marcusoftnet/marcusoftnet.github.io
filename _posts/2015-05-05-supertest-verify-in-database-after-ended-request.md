@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Supertest Verify database after request
-author: Marcus Hammarberg
-date: 2015-05-05T10:07:10.000Z
+title: "Supertest: Verify database after request"
+author: "Marcus Hammarberg"
+date: 2015-05-05 10:07:10
 tags:
-  - Tools
-  - Javascript
-  - Node
-  - Koa
+ - Tools
+ - Javascript
+ - Node
+ - Koa
 ---
 
 One thing that I often find myself want to do is to check the database after I have created a resource. For example:
@@ -20,7 +20,7 @@ I have had *such* a hard time finding a stable way to do this. I know that I hav
 
 But last night, after weeks searching for this, I got it to work. I'm so excited to share this with you.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # Tools
 
@@ -36,33 +36,32 @@ I'm using the following tools:
 If you want to tag along as I build this example out, [grab the code from this tag](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1).
 
 # The start
-
 Here's the test I'm starting from, you'll find it in /test/user.post.js:
 
 ```javascript
 describe('POST to /user', function(){
 
- var test_user = {};
+	var test_user = {};
 
- beforeEach(function (done) {
-  test_user = helpers.test_user;
-  helpers.removeAll(done);
- });
+	beforeEach(function (done) {
+		test_user = helpers.test_user;
+		helpers.removeAll(done);
+	});
 
- afterEach(function (done) {
-  helpers.removeAll(done);
- });
+	afterEach(function (done) {
+		helpers.removeAll(done);
+	});
 
- it('creates a new user for complete posted data', function(done){
-  // Post
-  request
-   .post('/user')
-   .send(test_user)
-   .expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
-   .expect(201, done);
- });
+	it('creates a new user for complete posted data', function(done){
+		// Post
+		request
+			.post('/user')
+			.send(test_user)
+			.expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
+			.expect(201, done);
+	});
 
- // and some other tests
+	// and some other tests
 });
 ```
 
@@ -88,20 +87,19 @@ POST to /user
 Ah well... I changed the status code from 200 to 201 in the example so that needs to be updated in the [userRoute.js](https://github.com/marcusoftnet/UserApiWithTest/blob/v1.1/userRoutes.js)... but then it works.
 
 # The humble start ... by using .end()
-
 What we want is to after the request has finished check the state of the database. And [supertest](https://github.com/visionmedia/supertest) actually exposes a excellent place to do that; [.end()](https://github.com/visionmedia/supertest#endfn).
 
 And that takes a function. Let's by just using the end function. Like this:
 
 ```javascript
 it('creates a new user for complete posted data', function(done){
- // Post
- request
-  .post('/user')
-  .send(test_user)
-  .expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
-  .expect(201)
-  .end(done);
+	// Post
+	request
+		.post('/user')
+		.send(test_user)
+		.expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
+		.expect(201)
+		.end(done);
 });
 ```
 
@@ -110,12 +108,11 @@ This is just making the test a little bit clearer to read. "And then end the req
 Rerunning the test to make sure it works, of course.
 
 # Our own function
-
 But we wanted to *do* something after the request as ended. Luckily we can by adding a function of our own as parameter to the <code>.end()</code>. Here's the trivial example of that:
 
 ```javascript
 .end(function () {
- done();
+	done();
 });
 ```
 
@@ -134,9 +131,9 @@ Ha! Trivial again... I said... Until I remember that yield cannot be called in a
 
 ```javascript
 .end(function (){
- var userFromDb = yield users.findOne({ name: test_user.name});
- userFromDb.name.should.equal(test_user.name);
- done();
+	var userFromDb = yield users.findOne({ name: test_user.name});
+	userFromDb.name.should.equal(test_user.name);
+	done();
 });
 ```
 
@@ -144,7 +141,7 @@ Running the tests again (<code>npm t</code>) and will get this error that I've [
 
 ```bash
 var userFromDb = yield users.findOne({ name: test_user.name});
-                           ^^^^^^^^^^
+				                       ^^^^^^^^^^
 SyntaxError: Unexpected identifier
 ```
 
@@ -159,18 +156,16 @@ This is where [co](https://github.com/tj/co) can help us. co is a little tool th
 Yes, exactly. I don't get that either. Still. But I think I can use it. Because basically it means that you can wrap a generator function with <code>co</code> and then execute the co function as a *normal* function.
 
 This is how it would look, after you have added a <code>var co = require("co");</code> at the top of the file and <code>npm install co --save-dev</code>
-
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name: test_user.name});
-  userFromDb.name.should.equal(test_user.name);
- })(done);
+	co(function *() {
+		var userFromDb = yield users.findOne({ name: test_user.name});
+		userFromDb.name.should.equal(test_user.name);
+	})(done);
 });
 ```
 
 ## Detour - broken example code
-
 You don't have to read this part if you didn't start from my [code](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1). But it will provide you with deeper understanding once you're through it.
 
 At this point my example code breaks ALL over... This has to do with it being based on old versions of the packages I'm using. I went through <code>package.json</code> and set the version to <code>"*"</code>. For example: <code>"co": "*",</code>.
@@ -178,7 +173,6 @@ At this point my example code breaks ALL over... This has to do with it being ba
 That's a bit dangerous but works for now for me.
 
 ### UPDATE: Too stupid
-
 In fact, that is too dangerous. Let's fix it properly instead. Another way is to remove all dependencies from the <code>package.json</code> and then reinstall them from the terminal. Make sure to use <code>--save/--save-dev</code> to store it in <code>package.json</code>.
 
 I've updated my <code>package.json</code> in that manner now. Here's the the two command I ended up running:
@@ -191,16 +185,14 @@ npm install mocha co should supertest --save-dev
 And now my <code>package.json</code> better represent the state I was actually running in at the time. Thank you [Danny](http://stackoverflow.com/users/4804849/danny) for that push to be better!
 
 ## Back to the detour
-
 Once that is done... all tests still fails. This time it has to do with <code>co</code> completely changing it's behavior to return a promise. Luckily all the failures are in the same function: <code>testHelpers.removeAll</code> and can be solved by just moving the call to <code>done</code> inside the function, like this:
-
 ```javascript
 module.exports.removeAll = function(done){
- co(function *(){
-  yield users.remove({});
-  // and other things we need to clean up
-  done();
- });
+	co(function *(){
+		yield users.remove({});
+		// and other things we need to clean up
+		done();
+	});
 };
 ```
 
@@ -208,16 +200,16 @@ And now only 4 test still fail. These are the test using <code>co</code> in the 
 
 ```javascript
 it('deletes an existing user', function(done){
- co(function *() {
-  // Insert test user in database
-  var user = yield users.insert(test_user);
-  var userUrl = '/user/' + user._id;
+	co(function *() {
+		// Insert test user in database
+		var user = yield users.insert(test_user);
+		var userUrl = '/user/' + user._id;
 
-  // Delete the user
-  request
-   .del(userUrl)
-   .expect(200, done);
- }); // this line looked like this before: })();
+		// Delete the user
+		request
+			.del(userUrl)
+			.expect(200, done);
+	}); // this line looked like this before: })();
 });
 ```
 
@@ -225,16 +217,15 @@ And we're back. Test are passing and we are using the latest version of our tool
 Praise God for test when you update your infrastructure. And many other times too.
 
 # Back to the code at hand - let's assert it
-
 Before we run the tests, let's go through the updated <code>.end()</code> function. Here it is again so that you don't have to scroll:
 
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name: test_user.name});
-  userFromDb.name.should.equal(test_user.name);
-  done();
- });
+	co(function *() {
+		var userFromDb = yield users.findOne({ name: test_user.name});
+		userFromDb.name.should.equal(test_user.name);
+		done();
+	});
 });
 ```
 
@@ -264,28 +255,26 @@ But in a test we actually *want* it to execute now. And there's an easy, and sta
 <code>.then()</code> just takes a function that we execute after the Promise has returned. <code>done</code> is a perfect candidate for us.
 
 Here's how it would look:
-
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name: test_user.name});
-  userFromDb.name.should.equal(test_user.name);
- }).then(done);
+	co(function *() {
+		var userFromDb = yield users.findOne({ name: test_user.name});
+		userFromDb.name.should.equal(test_user.name);
+	}).then(done);
 });
 ```
 
 AND. IT. WORKS! Tears of joy are streaming down my face as I realized...
 
 # Or did it... failing for the right reason
-
 Well... for some reason I doubted this from time to time. And I changed the test to this:
 
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name: test_user.name});
-  userFromDb.name.should.equal("This is not the name you are looking for");
- }).then(done);
+	co(function *() {
+		var userFromDb = yield users.findOne({ name: test_user.name});
+		userFromDb.name.should.equal("This is not the name you are looking for");
+	}).then(done);
 });
 ```
 
@@ -303,17 +292,16 @@ That's what the second parameter, also a function, does. Like this for example:
 
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name : test_user.name });
-  userFromDb.name.should.equal("This is not the name you are looking for");
- }).then(done, function (err) {
-  done(err);
- });
+	co(function *() {
+		var userFromDb = yield users.findOne({ name : test_user.name });
+		userFromDb.name.should.equal("This is not the name you are looking for");
+	}).then(done, function (err) {
+		done(err);
+	});
 });
 ```
 
 And now we get the failing test we (read: I) was looking for during all that time:
-
 ```bash
 AssertionError: expected 'Marcus' to be 'This is not the name you are looking for'
 + expected - actual
@@ -329,10 +317,10 @@ On a whim I just took the function out and changed it into this:
 
 ```javascript
 .end(function () {
- co(function *() {
-  var userFromDb = yield users.findOne({ name : test_user.name });
-  userFromDb.name.should.equal("This is not the name you are looking for");
- }).then(done, done);
+	co(function *() {
+		var userFromDb = yield users.findOne({ name : test_user.name });
+		userFromDb.name.should.equal("This is not the name you are looking for");
+	}).then(done, done);
 });
 ```
 
@@ -340,8 +328,7 @@ Basically saying to the second done-parameter; take the <code>err</code> object 
 
 And now it works AND is readable and short.
 
-# TL;DR; - summary
-
+# TL;DR; - summary.
 I wanted to check the state of the database after doing a request. This can be done using the <code>.end()</code> function of [supertest](https://github.com/visionmedia/supertest).
 
 Since I used [co-monk](http://npmjs.org/package/co-monk) I wanted to be able to do that using <code>yield</code> and generators. This means that I need to wrap my generator function with [co](http://npmjs.org/package/co).
@@ -359,31 +346,31 @@ var request = helpers.request;
 
 describe('POST to /user', function(){
 
- var test_user = {};
+	var test_user = {};
 
- beforeEach(function (done) {
-  test_user = helpers.test_user;
-  helpers.removeAll(done);
- });
+	beforeEach(function (done) {
+		test_user = helpers.test_user;
+		helpers.removeAll(done);
+	});
 
- afterEach(function (done) {
-  helpers.removeAll(done);
- });
+	afterEach(function (done) {
+		helpers.removeAll(done);
+	});
 
- it('creates a new user for complete posted data', function(done){
-  // Post
-  request
-   .post('/user')
-   .send(test_user)
-   .expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
-   .expect(201)
-   .end(function () {
-    co(function *() {
-     var userFromDb = yield users.findOne({ name : test_user.name });
-     userFromDb.name.should.equal("This is not the name you are looking for");
-    }).then(done, done);
-   });
- });
+	it('creates a new user for complete posted data', function(done){
+		// Post
+		request
+			.post('/user')
+			.send(test_user)
+			.expect('location', /^\/user\/[0-9a-fA-F]{24}$/) // Mongo Object Id /user/234234523562512512
+			.expect(201)
+			.end(function () {
+				co(function *() {
+					var userFromDb = yield users.findOne({ name : test_user.name });
+					userFromDb.name.should.equal("This is not the name you are looking for");
+				}).then(done, done);
+			});
+	});
 });
 ```
 

@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Board visualisation tips
-author: Marcus Hammarberg
-date: 2018-12-03T21:09:17.000Z
+title: "Board visualisation tips"
+author: "Marcus Hammarberg"
+date: 2018-12-03 21:09:17
 tags:
-  - Agile
-  - Lean
-  - Scrum
-  - Kanban
+ - Agile
+ - Lean
+ - Scrum
+ - Kanban
 ---
 
 Quite often I get to introduce people to using a "work visualization board" (often referred to as a kanban board),  these days. When I do I'm struck with the common misconceptions that follow many tools - especially tools that I have been nudged (or forced) to use..
 
 I wanted to share a few of the things that find myself repeating to new users of kanban boards.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ## A board is just a tool
 

@@ -1,11 +1,12 @@
 ---
 layout: post
-title: What I've learned from 'How to measure anything'
-author: Marcus Hammarberg
-date: 2014-12-13T00:00:00.000Z
+title: "What I've learned from 'How to measure anything'"
+author: "Marcus Hammarberg"
+date: 2014-12-13
 tags:
-  - Agile - Lean
-  - Life of a consultant
+- Agile
+- Lean
+- Life of a consultant
 ---
 
 When <a href="http://joakimsunden.com">Joakim</a> and I wrote the book we had a chapter on measurement in it, chapter 11 - "Using metrics to guide improvements". It was intended to show a few ways that metrics can be used in a flow-based process that uses kanban for improvements.
@@ -19,9 +20,9 @@ But now I have read it and I wanted to share some of the main points that I've p
 <a href="http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/0470539399">How to Measure Anything: Finding the Value of Intangibles in Business</a> is the name and link for the book. It's an awesome read and I recommend anyone to read it.
 
 This is not a review per se but rather three points that I've picked up from the book and that already now have helped me immensely.
-<!-- excerpt-end -->
+<a name='more'></a>
 
-# Everything can be measure or else
+# Everything can be measure or else...
 
 The first thing found profound is that even intangible things can be measure. The whole book starts with that statement in fact:
 <blockquote>Anything can be measured</blockquote>
@@ -38,9 +39,8 @@ Luckily the rest of the book is devoted to helping us finding and understanding 
 To me this has a profound effect on _what_ we are actually measuring, maybe even what we are doing? If we are doing doesn't make any observable difference - is it worth doing? Or can we restate what we are doing?
 
 # Decisions, decisions, decisions
-
 <blockquote>Prior to making a measurement, we need to answer the following:
- - What is the decision this measurement is supposed to support?
+	- What is the decision this measurement is supposed to support?
 </blockquote>
 
 This really the reverse of the paragraph above - what are we going to use this measurement for?
@@ -54,6 +54,7 @@ Let me take two examples that is commonly used in agile teams with visualized fl
 
 * Throughput - how many items gets Done each week. Also trivial to measure: each Friday count the number of items in the Done column. Write it down. Remove the sticky.
 
+
 There! Easy to measure, easy to catch. But useful? Maybe. "What is the decision this measurement is supposed to support?"
 
 Often I have no answer to that? Or at least, often there's other more interesting things to measure. So, our lead time is short - but are we producing quality? Ok - we have a great throughput - but is the work environment healthy, or are our customers using the things we are putting out there with such high speed?
@@ -62,7 +63,6 @@ What, really, is the decisions we want to affect with this data? In the book Mr 
 Talk about waste. That effort could have been used better, I'm sure everyone involved agree on.
 
 # Clone the world
-
 Mr Hubbard proposes a thought experiment to help you find what to measure:
 
 <blockquote>Imagine you are an alien scientist who can clone, not just sheep or even people but entire organizations. [...] What do you imagine you would actually observe-in any way, directly or indirectly - that would change for the first organization?</blockquote>
@@ -75,7 +75,6 @@ For example; an pastor at a workplace - what should define her role? One way to 
 By the way you can ask the same thing for many supporting roles in "normal" workplaces; agile coach, managers, HR department, IT-support to mention a few that I've been involved in.
 
 # Summary
-
 How to measure anything is a great book and I'm happy that I've read it. I was surprised though that the main points that it gave me reached far beyond _just_ measuring things:
 
 * If we are providing a service "which values cannot easily be measured" - maybe we should think again about what we are trying to achieve. Some kind of observable consequence must be present _if they matter at all_? Right?

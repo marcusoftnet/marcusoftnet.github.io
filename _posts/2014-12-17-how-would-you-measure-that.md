@@ -1,26 +1,28 @@
 ---
 layout: post
-title: How would you measure that?
-author: Marcus Hammarberg
-date: 2014-12-17T12:49:02.000Z
+title: "How would you measure that?"
+author: "Marcus Hammarberg"
+date: 2014-12-17 12:49:02
 tags:
-  - Agile - Lean
-  - Life of a consultant
-  - Kanban
-  - Specification by example
-  - Indonesia
+- Agile
+- Lean
+- Life of a consultant
+- Kanban
+- Specification by example
+- Indonesia
 ---
 
 I've been very much into <a href="http://www.specificationbyexample.com">Specification by example</a> in my software development consulting. One of the key learnings for me there is to try to make things concrete earlier. Using specification by example we do this by, for each of the features we're building, sketching down some concrete examples on how that would work.
 
 For example; let's say that we are building a on-line store and the business rule says <code>Shipping is free for order with 3 items</code>. That's pretty easy, right? We all have a good opinion on how that rule should be... but is it the same opinion?
-<!-- excerpt-end -->
+<a name='more'></a>
 What I've found immensely useful here is to write down some really simple examples. Just to make sure that we understand it the same way. For this business our examples might look like this:
 
 | Number of items in order | Shipping free?
 | 2  | No
 | 3  | Yes
 | 4  | Eeeeh? Yes... or?
+
 
 See... that was not really covered by the business rule. It could be considered obvious that it was *3 or more* items in order. But by writing down a few simple examples we made the *common understanding* better.
 
@@ -31,12 +33,11 @@ All of these questions arise from the simple fact that we made something more co
 So the goal is common understanding. Earlier.
 
 ## Vision statements
-
 Now, that "make concrete earlier"-trick can be used in many other places and situations too. I've found it very useful to be a little more sure that we understand something in the same way. Let me give you an example where I've found it useful.
 
 Right now I'm working with mission and vision statements for the Salvation Army Hospitals in Indonesia. As for most vision statements I've seen or heard, they are often quite hard to grasp. And a bit fluffy. <a href="http://www.marcusoft.net/2014/10/vision-statements.html">Why not say what you really mean?</a>, me thinks.
 
-But then I realized that it may be a hard to do that. Because we don't want to lock it down, or *gasp* we might not know ourselves what it really means until we have worked with it for awhile.
+But then I realized that it may be a hard to do that. Because we don't want to lock it down, or * gasp * we might not know ourselves what it really means until we have worked with it for awhile.
 
 That sounds a bit like the main problem in most software development to me: nobody really knows what it's supposed to be until it's done. So maybe the specification by examples ideas about making things more concrete earlier could be applied here. Let's try.
 

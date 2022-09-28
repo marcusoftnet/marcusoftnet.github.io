@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Deploying. NET 6 WebAPI using ARM Template
-author: Marcus Hammarberg
-date: 2022-08-19T09:26:51.000Z
+title: "Deploying. NET 6 WebAPI using ARM Template"
+author: "Marcus Hammarberg"
+date: 2022-08-19 09:26:51
 tags:
-  - .NET - Programming
-  - DevOps
+ - .NET
+ - Programming
+ - DevOps
 ---
 
 I'm putting together a course where I want students to easily deploy their code. Since the course is on .NET 6 WebAPIs (and Entity Framework (core)) I thought that Azure would make a great choice to deploy to.
@@ -14,7 +15,7 @@ And nowadays [ARM templates](https://docs.microsoft.com/en-us/azure/azure-resour
 
 But I ran into problems, and I wanted to share with you those problems and how I overcame it. Just your normal post on this blog in other words.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ## Creating the API
 
@@ -169,7 +170,7 @@ git commit -m "Initial commit"
 
 Then I created a new repo in GitHub and pushed my local repository there:
 
-```bash
+```
 git remote add origin git@github.com:marcusoftnet/WebAPIExercises.git
 git branch -M main
 git push -u origin main

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: ca 15 minutes on strategic plans
-author: Marcus Hammarberg
-date: 2015-06-18T11:12:16.000Z
+title: "ca 15 minutes on strategic plans"
+author: "Marcus Hammarberg"
+date: 2015-06-18 11:12:16
 tags:
-  - Indonesia
-  - Lean
-  - Leadership
-  - Agile
-  - Life of a consultant
-  - Salvation Army
+ - Indonesia
+ - Lean
+ - Leadership
+ - Agile
+ - Life of a consultant
+ - Salvation Army
 ---
 
 This is the third presentation I've done on mission, vision and strategic plans (and other stuff too). The time has come to strategic plans.
@@ -28,7 +28,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 First of all I realized that we often miss the "where we are today" part of doing a strategic plan, so I have a little discussion about that in the presentation.
 

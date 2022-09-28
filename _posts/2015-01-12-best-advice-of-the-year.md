@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Best advice for me this year
-author: Marcus Hammarberg
-date: 2015-01-12T19:14:16.000Z
+title: "Best advice for me this year"
+author: "Marcus Hammarberg"
+date: 2015-01-12 19:14:16
 tags:
-  - Agile
-  - Marcus private
-  - Life of a consultant
+ - Agile
+ - Marcus private
+ - Life of a consultant
 ---
 
 When a year has passed I often try to think back and find the one most important thing I learned. This year that was a bit tricky since I've learned so amazingly much. So good - and some bad.
 
 The single piece of advice I got that stood out was about presenting. And it came from one of my oldest friends, one that I call my brother: [Kalle](http://twitter.com/kalleljungholm).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Kalle is a pretty young guy but he's very thoughtful and ... yes I'll say it: wise.
 

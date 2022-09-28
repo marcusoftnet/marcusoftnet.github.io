@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Plans are theoretical
-author: Marcus Hammarberg
-date: 2021-12-09T11:44:17.000Z
+title: 'Plans are theoretical'
+author: 'Marcus Hammarberg'
+date: 2021-12-09 11:44:17
 tags:
-  - Agile - Management
+  - Agile
+  - Management
 ---
 
 I just had an aha-experience that shook me; first I found it interesting, and then I was ashamed that I haven't realized this before.
@@ -15,7 +16,7 @@ Here it is:
 
 Let me tell you how I realized this and how I think it is important.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 At [</salt>](https://salt.dev) we're planning to run yet another Graduation Day, after 35 new developers has been created. That is amazing in itself to be part of, but not the topic of this post.
 

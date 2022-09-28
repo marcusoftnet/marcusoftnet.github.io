@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Why dont they change what if I could just snap my fingers?
-author: Marcus Hammarberg
-date: 2015-04-14T11:10:55.000Z
+title: "Why don't they change: what if I could just snap my fingers?"
+author: "Marcus Hammarberg"
+date: 2015-04-14 11:10:55
 tags:
-  - Agile
-  - Lean
-  - Leadership
-  - Salvation Army
+ - Agile
+ - Lean
+ - Leadership
+ - Salvation Army
 ---
 
 Yes, it's another post on change management. As a consultant ... well that's basically your job. And most of my engagements are of consultancy type. But change management is very trick to do right, frustrating and ... simply wonderfully rewarding if you get it to work.
@@ -20,7 +20,7 @@ Yes - it will be great fun.  Mmmmmm frustration...
 
 Just kidding but I will try to write this so I can use it as a nice reminder post for when I fall into this reasoning again. Maybe you find it useful too.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Once again I was pondering why "they" just couldn't understand and start to do goal driven plans, a [vision statement](http://www.marcusoft.net/2014/10/vision-statements.html) that actually helped us to know where we were going and things like that.
 
@@ -31,7 +31,6 @@ And I thought to myself:
 It was that last part that got me thinking. "as *I* wanted" - what good is that? Or put differently; am I sure that my current thinking is good for them? There's a lot of preconceptions there.
 
 # Yeah... what if?
-
 But, let's run with that idea for a little while: what if they "just got it" and did what I wanted?
 
 I've actually been there at a client in Sweden. I passed a scrum meeting for a team I've introduced to the process. And I heard this:
@@ -45,7 +44,6 @@ My heart sank. This is called "act without thinking" and is what ends up giving 
 If I got "them" to do exactly what I told them, I would get just that. People doing what I wanted. Not better than me. No new ideas etc.
 
 # There's a better way... "Failing"(tm)
-
 I'm a open fanboy of [David Marquet](http://www.davidmarquet.com/), in the best video I've seen with him speaking [he says this](https://youtu.be/OqmdLcyES_Q?t=7m48s):
 
 <blockquote>... the people are out there making decisions as if the CEO was standing behind them. And if it's not the same decision it's actually **a better decision**. Because they have the information.</blockquote>
@@ -64,7 +62,6 @@ Does that matter?
 No... time will tell. But in my strive to reach a goal I set up, I have probably nudge them a bit in a direction that will help them improve.
 
 # Conclusion
-
 I rather fail to reach "my" goal in change "them", and [move]() them a little bit in the right direction (or even just give "them a new idea") - than to succeed to implement "my" goal... taking "them" to a place where they shouldn't be.
 
 Ha! Easy! <br>

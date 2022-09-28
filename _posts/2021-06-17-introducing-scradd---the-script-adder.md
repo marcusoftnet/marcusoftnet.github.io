@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Introducing ScrAdd - the script adder
-author: Marcus Hammarberg
-date: 2021-06-17T14:34:47.000Z
+title: "Introducing ScrAdd - the script adder"
+author: "Marcus Hammarberg"
+date: 2021-06-17 14:34:47
 tags:
-  - JavaScript
-  - Tools
+ - JavaScript
+ - Tools
 ---
 
 I’ve been increasingly annoyed with the fact there’s no easy way to add scripts to a `package.json` file programmatically. It always messes up my lovely scripts for tutorial setups and other use cases. Very frustrating.
@@ -23,6 +23,7 @@ npx scradd . test "mocha . -R dot -w"
 npm i -D mocha
 ```
 
-I don't expect this tool to be widely used and spread but I was pretty fun to write it - the testing was particularly tricky to get working.
+I don't expect this tool to be widely used and spread but I was pretty fun to write it - the testing was particularly tricky to get working. 
 
 Get the [code](https://github.com/marcusoftnet/scradd) or download the tool using `npx scradd`
+

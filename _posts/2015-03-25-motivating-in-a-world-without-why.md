@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Motivating in a world without WHY
-author: Marcus Hammarberg
-date: 2015-03-25T10:39:55.000Z
+title: "Motivating in a world without WHY"
+author: "Marcus Hammarberg"
+date: 2015-03-25 10:39:55
 tags:
-  - LeanLeadership
-  - Lean|- Lean - Agile
+ - Leadership
+ - Indonesia
+ - Lean
+ - Agile
 ---
 
 I wrote a post about Indonesian <a href="http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">culture</a>. In it I wrote about my experiences in Indonesia and how I've interpreted what I've experienced as many people here lives in a world without WHY. Read more in that <a href="http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">post</a>.
@@ -23,10 +25,9 @@ BUT, one thing that I am quite sure of is that I've learned a lot about my own c
 
 Basically - I've learned a lot. I hope you learn something too
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # An example
-
 I thought that I'll run you through one example (although I have many) and then tell you the parts that made this work. If only we were so smart that we thought about all of this before we created them... We did not. Instead this is how it came to be, trial and error.
 
 At one of our hospital we did this; we had a hard time reaching through to them about focusing on running self-sustaining. In fact, when we first started to talk with them they didn't really know how they were doing in terms of making or loosing money. At least, in regards to the last post, they didn't show much attention to that. It ended up as it ended up.
@@ -59,13 +60,11 @@ Ok - that's amazing to me - and I'm thinking about documenting this better in an
 Well... since it was trial-and-error (I'm proud to say) I can only comment on the things we did. This worked for us - let it inspire you.
 
 # Break it down
-
 The first thing I found very useful when it comes to reach and get the attention of Indonesian people is to break long-term goals down to short-term goals. I'm talking really short term here. Daily goals, like we did above, for example. I've found this very useful, even if you have to make approximations.
 
 "This is what we have to reach each day" - seemed to be much easier to grasp and act on than yearly or even monthly goals.
 
 # Point to the goal
-
 However... with the daily goals it's very easy to loose track about the long-term goal. That's why I tried to sneak in many reminders or questions per day about <a href="http://www.marcusoft.net/2015/01/things-i-say-often-why.html">WHY</a> we did things. Always trying to bring it back to our overarching goals.
 
 A few examples on how we did this:
@@ -77,7 +76,6 @@ A few examples on how we did this:
 All in all we talked a lot about the vision but tracked the daily achievements. It took ca 4-6 months before I heard the first comments from the group (not from me) about if we doing the right things according to the vision.
 
 # Make is simple... no simpler still
-
 We made a lot of simplifications that seemed to catch their attention. First we talked about monthly goal. Then daily but in monetary terms. Then we counted the number of patients served and averaged out the income per patient.
 
 It turns out that to was a little bit too complicated: we could just count the number of patients in the hospital and average out their rate and get very close to the real life outcome per day.
@@ -87,13 +85,11 @@ It's easy to think about 126 patients than about 8.034.034 Rp. per day. It's eas
 Yes - there might have been counting errors. But by following up the "actual" outcome in our books we could verify that it was not drifting too far from reality. It never did.
 
 # Involve at every levels
-
 We showed the data in front of the staff everyday. The real day. Even the bad one. This is NOT the Indonesian way and even the staff was uncomfortable with that.
 
 But as we started improve something cool happened. When the number for yesterday was revealed people started to cheer and applaud for good number and ... well be silent ... for bad. They cared!
 
 # Build team
-
 By doing this transparent together we created a stronger "we"-feeling in the group. One great (although cheesy) suggestion came from the hospital: "Let's do a yell-yell". Here's how it works for us:
 
 Every morning there's a morning prayer. Right after that the director goes through and plot the numbers from yesterday (and the cheering). Then just before we leave, someone is appointed to come forward to lead the yell-yell.
@@ -111,7 +107,6 @@ And everyone answers:
 Told you. A little cheesy. But it means that we end each morning briefing with a laugh and everyone walks to their work in a good mood.
 
 # Trust in the little things ... at first
-
 In the beginning I was more or less telling the director what to say, word by word. I told her to promise things about the salary for the staff. I told her to do the numbers and what to say about them. Etc.
 
 After a while I stepped back and let her run the morning briefing by herself: "You are in charge now". She was very nervous for that in the beginning. I trying to help her improve and after just 1 week she did it without any problems. And came up with improvements and variants.
@@ -123,7 +118,6 @@ I realize that I entrusted very small areas of trust to her (regarding THIS mind
 That worked really well.
 
 # Imagine me
-
 The last thing I want to point out is something for just me. When we implement any change a good way to understand the people you are trying to change is to put yourself in their shoes. Now this is easier said than done since the changed behavior you want might be obvious for you but totally outrageous for them.
 
 For example plotting the "real" number of patients we drew yesterday, good or bad, in front of the entire staff. I think that's a great idea. Indonesian people think ... you should not do that.
@@ -135,5 +129,4 @@ What would be hard for me to change? Use that as your example when you meet conf
 In short - I would resist the change. Imagine me.
 
 # Conclusion
-
 There we go. A few items that we tried to motivate Indonesian people. It worked for us. Your mileage may vary.

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Our Christmas Scare
-author: Marcus Hammarberg
-date: 2014-12-28T10:11:38.000Z
+title: "Our Christmas Scare"
+author: "Marcus Hammarberg"
+date: 2014-12-28 10:11:38
 tags:
-  - LeanMarcus private - Indonesia
+ - Marcus private
+ - Indonesia
 ---
 
 This will not be an ordinary post. Just a write up of something horrible that happened to us during Christmas. It ends well, but was a horrible time in our lives.
@@ -12,10 +13,9 @@ This will not be an ordinary post. Just a write up of something horrible that ha
 During the Christmas our family experienced the worst scare and troubled time yet. In Indonesia but also in our lives. It all looks like it will play out alright but many people have asked me to share the story, so i will do that here.
 If I find the strange I'll write a follow up post with some lean-learnings that this could teach us, but not now.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # The accident
-
 We were going for carolling on the Christmas eve. This is an old tradition from the band I grew up in and something that we have done in my family to. Today it failed: not only was people not at home, but also...
 
 When we got to the Commissioners house, we rang the bell and Albert jumped down one step, ca 15 cm step, to "hid and surprise them as Santa". He slipped in a puddle of mud and fell. He started to scream, but not horrible. We actually thought he was faking it. I played the song and we then tended to him.
@@ -25,7 +25,6 @@ Trying to get him to stand up was just unbearable pain for him. We still thought
 The clock was ca 10 am, Christmas eve.
 
 # The journey to ER
-
 We immediately realized that he had to go to the hospital, thinking his hip was dislocated. I jumped into a car, carrying a *screaming* Albert in my arms. The journey took ca 30 min dues to heavy heavy traffic. Every bump in the road made Albert scream out with pain.
 
 We were shown an entrance to the hospital that was the wrong one. I ended up running through the hospital with Albert in my arm, screaming for help. Him screaming with pain for every step I took.
@@ -40,7 +39,6 @@ More painkillers and I was soon to meet a surgeon. He gave us two options: cast 
 We went for the second options.
 
 # Things going wrong - things going right
-
 This is where the problems started - because there was a 3 days waiting time to get these spikes to our, very good, hospital. 3 days of pain for Albert.
 
 At the same time I called our insurance company and after an initial painstaking slow registration process (burned about 150.000 Rp of my cash card) they have been nothing less than excellent.
@@ -59,7 +57,6 @@ While this was happening it was Christmas Eve night and Albert and I didn't slee
 The hospital tried to relief his pain by putting him in traction to keep the leg still, but with the twitching that made it worse. The pain killers didn't help him.
 
 # Christmas day
-
 In the morning Christmas day the insurance company called me and asked me to go to Jakarta, to get my emergency passports from the embassy. Because the insurance company didn't want Albert to travel to Jakarta in ambulance, which is wise.
 
 Going to Jakarta is a 120 km drive single way... but people in Jakarta goes to Bandung on weekends to get away from the horrible climate. And the traffic in Jakarta is nothing less than ridiculous.
@@ -89,7 +86,6 @@ Another 10 km in ca 40 minutes and we started to make new plans. Maybe I could r
 So we got 40 km more in ca 30-45 minutes which was amazing! Now we could actually make it. Quick call to the insurance company and set the whole thing in motion.
 
 # The lift off
-
 I reached the airport around 16.30, 1,5 h before the time when the airplane should arrive. I ate (and PEEEEEEED since we didn't wanna risk stopping on our way up...) and felt a little bit better.
 
 The reports from Elin were that Albert was still in pain and haven't slept either due to the pain. Also the ward hadn't heard from the doctor and was not ready to release Albert. Very strange since the insurance company had talked to the doctor a number of times...
@@ -117,7 +113,6 @@ Elin went back home to the twins, exhausted after caring for Albert in pain duri
 At ca 20:30 we took off for Singapore, in the smallest plane I ever rode in. It fitted 2 pilots, 1 stretcher with Albert, the doctor and the nurse. And me.
 
 # Singapore
-
 We went through immigrations in Singapore very smoothly, through a backdoor of the air port. From there, directly to the <a href="http://www.kkh.com.sg/Pages/Home.aspx">K.K. Hospital</a>.
 
 In the E.R. there I was for the first time very scared. They acted very calm and professional but they were very troubled about the potential damages to Alberts thigh, muscles and nerves. Emergency surgery was considered a number of times.
@@ -136,7 +131,6 @@ We were both so tired at this stage. The night consisted of 2 min sleep for Albe
 We didn't sleep this night either.
 
 # The operation
-
 The morning and pre-lunch was just an awful long wait to go to the operation and finally get him fixed and most of all; out of the pain. He even said himself that he just wanted to be operated as soon as possible; "I long for the operation, Dad".
 
 Once there everything went very smoothly and quietly. I left him sleeping in very capable hands. On the way back to my room I fell asleep standing up in the elevator.
@@ -149,7 +143,6 @@ Back at the room Albert slept and I got visitors from our friends Bo and Christi
 From this point on I felt that it would be better and better.
 
 # The final parts
-
 Is yet to be written...
 
 Albert and I have spent 2 days after the operation at the great K.K. hospital. The care is great. We are, as you are in hospitals, bored but try to make the most of it.
@@ -161,7 +154,6 @@ The Jeppsson has helped us to handle some practical matters like washing and ada
 It looks like we will go home in a day or two from now. There's some matters to be cleared about how we're actually going to travel etc.
 
 # The thank you's
-
 There might be more to this story - but this is as far as we have come now. Albert is alright - he's out of pain and the leg is fixed.
 
 There's SO many people involved in an operation like this. Planning it in advanced would be a nightmare. There's no way you could pull that off.

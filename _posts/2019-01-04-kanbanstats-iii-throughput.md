@@ -1,13 +1,13 @@
 ---
 layout: post
-title: KanbanStats III throughput
-author: Marcus Hammarberg
-date: 2019-01-04T13:47:16.000Z
+title: "KanbanStats III: throughput"
+author: "Marcus Hammarberg"
+date: 2019-01-04 13:47:16
 tags:
-  - Agile
-  - Scrum
-  - Lean
-  - Kanban
+ - Agile
+ - Scrum
+ - Lean
+ - Kanban
 ---
 
 **UPDATE**
@@ -23,7 +23,7 @@ Let's start to track another metric; throughput or
 
 With the data, we have this is pretty easy to get hold of.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ## Setting up
 
@@ -69,7 +69,7 @@ Take all rows in the C-column, starting on row 2. You can't do that in Excel. I 
 
 Thank you, Google!
 
-## Round'em up
+## Round'em up!
 
 It's now, thanks to the copying of all the rows in columns A:D, pretty easy to count the number of items finished per month: `=COUNTIF(C2:C, F2)`
 
@@ -104,6 +104,7 @@ There! A nice and quick throughput visualization.
 Pretty happy how this turned out, the only thing is that I now realized that I need to update the lead time sheets too so that I only include the completed items. I'll make an update to that post about that.
 
 In the next post, we will do something more advanced and start to measure the queue lengths. It will probably be two posts since we need to update the raw data with items that are not finished.
+
 
 ### The links
 

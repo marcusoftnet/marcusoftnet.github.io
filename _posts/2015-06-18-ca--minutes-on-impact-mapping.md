@@ -1,16 +1,16 @@
 ---
 layout: post
-title: ca 15 minutes on Impact mapping
-author: Marcus Hammarberg
-date: 2015-06-18T11:26:05.000Z
+title: "ca 15 minutes on Impact mapping"
+author: "Marcus Hammarberg"
+date: 2015-06-18 11:26:05
 tags:
-  - Indonesia
-  - Lean
-  - Leadership
-  - Agile
-  - Life of a consultant
-  - Salvation Army
-  - Impact mapping
+ - Indonesia
+ - Lean
+ - Leadership
+ - Agile
+ - Life of a consultant
+ - Salvation Army
+ - Impact mapping
 ---
 
 Having your mission, vision and strategy in place are essential but result in nothing, if you can't make sure that you execute them. Can't make sure that you take steps in your strategic plan to get closer to the vision.
@@ -28,7 +28,7 @@ Here's all the post in the series (the links will work as I post them):
 
 Please read the reason and ideas behind the [entire series in the first post](/2015/06/new-series-marcus-on-business.html).
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 In this presentation I try to be very practical, as opposed on the previous three where I've been more abstract and high flying. Therefor I start of right away with and example where we create a impact map.
 

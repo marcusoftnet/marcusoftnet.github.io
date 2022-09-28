@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Please question the process
-author: Marcus Hammarberg
-date: 2015-04-06T08:51:39.000Z
+title: "Please question the process"
+author: "Marcus Hammarberg"
+date: 2015-04-06 08:51:39
 tags:
-  - Agile
-  - Lean
-  - Leadership
+ - Agile
+ - Lean
+ - Leadership
 ---
 
 One of the things that I've been told that upset me the most during the last couple of years was this sentence:

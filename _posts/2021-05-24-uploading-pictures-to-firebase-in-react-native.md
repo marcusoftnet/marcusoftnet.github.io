@@ -1,30 +1,31 @@
 ---
 layout: post
-title: Uploading pictures to Firebase in React Native
-author: Marcus Hammarberg
-date: 2021-05-24T21:38:21.000Z
+title: "Uploading pictures to Firebase in React Native"
+author: "Marcus Hammarberg"
+date: 2021-05-24 21:38:21
 tags:
-  - JavaScript
-  - React - Programming
+ - JavaScript
+ - React
+ - Programming
 ---
 
 It was quite some times since I wrote a programming related blog post - but now the time has come (and my programming output is poured at the [Salt protips blog nowadays](https://appliedtechnology.github.io/protips/))
 
 I've ventured a bit into [React Native](https://reactnative.dev/) development and found it very enjoyable, especially in combination with [Firebase stuff](https://firebase.google.com/). But I had a really hard time finding a good example of how to upload files from my phone to the Storage services using [Expo](https://expo.io/). I [found this](https://snack.expo.io/@onrun/firebase-upload-image) but I didn't find it easy to follow as all of the code is in one single file.
 
-So I took the original code and refactored it a tiny bit for better readability. My code [is found here](https://github.com/marcusoftnet/PhotoUploaderFirebase) and in the post I'll walk through some of the things that made me look twice.
+So I took the original code and refactored it a tiny bit for better readability. My code [is found here](https://github.com/marcusoftnet/PhotoUploaderFirebase) and in the post I'll walk through some of the things that made me look twice. 
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 ### Setup
 
-The setup was plain and simple by just going:
+The setup was plain and simple by just going: 
 
 ```bash
 expo init FirebaseUploader
 ```
 
-I then created a project in the [Firebase console](https://console.firebase.google.com/) and also created an app (why are those two separate things?!) to get the keys.
+I then created a project in the [Firebase console](https://console.firebase.google.com/) and also created an app (why are those two separate things?!) to get the keys. 
 
 Once that was done I created a `firebase.js` file at the root of my project:
 
@@ -82,7 +83,7 @@ const styles = StyleSheet.create({
 
 ## Permission
 
-The first thing we need to tackle is to get permission to get a hold of some pictures. This can be from the Camera or the Image Library. The code is very similar.
+The first thing we need to tackle is to get permission to get a hold of some pictures. This can be from the Camera or the Image Library. The code is very similar. 
 
 We do this as the component is initialized using the `useEffect` hook of the `App.js` component:
 
@@ -104,7 +105,7 @@ const getPermission = async () => {
 };
 ```
 
-That code is straight out of the documentation, gently refactored for readability, for the [ImagePicker-component](https://docs.expo.io/versions/latest/sdk/imagepicker/) and works a treat. If you wanted to use the Camera instead you would use the [`getCameraPermissionsAsync()`](https://docs.expo.io/versions/latest/sdk/imagepicker/#imagepickergetcamerapermissionsasync) function.
+That code is straight out of the documentation, gently refactored for readability, for the [ImagePicker-component](https://docs.expo.io/versions/latest/sdk/imagepicker/) and works a treat. If you wanted to use the Camera instead you would use the [`getCameraPermissionsAsync()`](https://docs.expo.io/versions/latest/sdk/imagepicker/#imagepickergetcamerapermissionsasync) function. 
 
 ### Selecting an image
 
@@ -116,7 +117,7 @@ import * as ImagePicker from 'expo-image-picker';
 
 export default function App() {
   const [image, setImage] = useState(null);
-
+  
   const pickImage = async () => {
     let result = await ImagePicker.launchImageLibraryAsync({
       mediaTypes: ImagePicker.MediaTypeOptions.All,
@@ -151,11 +152,11 @@ Let's put that state into use and show the image:
 
  BAH! This is too easy.
 
-## Upload part I - getting the binary
+##Upload part I - getting the binary
 
-Let's do something a bit more advanced and create a button to upload the picture.
+Let's do something a bit more advanced and create a button to upload the picture. 
 
-To do this we need to do a little hack first; we need to get hold of the binary for the file since we right now only have the URI. We can't send the URI, the path to our file on disk, to firebase, right? We need to get it into memory.
+To do this we need to do a little hack first; we need to get hold of the binary for the file since we right now only have the URI. We can't send the URI, the path to our file on disk, to firebase, right? We need to get it into memory. 
 
 And this is not something that we get from the ImagePicker, but it's [been requested](https://github.com/expo/expo/issues/2402#issuecomment-443726662) - in the meantime we'll do this:
 
@@ -178,11 +179,11 @@ const getPictureBlob = (uri) => {
 };
 ```
 
-The first time I saw this I mistook it for the upload to Firebase, but no - this is fetching the data from the local disk.
+The first time I saw this I mistook it for the upload to Firebase, but no - this is fetching the data from the local disk. 
 
 ## Upload part 2 - uploading
 
-With the `getPictureBlob`-function in our toolbelt we can now create a function to upload the binary file to Firebase:
+With the `getPictureBlob`-function in our toolbelt we can now create a function to upload the binary file to Firebase: 
 
 ```javascript
 import { storage } from './firebase';
@@ -209,12 +210,12 @@ const uploadImageToBucket = async () => {
 };
 ```
 
-I'm using `async/await` since I like the synchronous flow of the code that gives me. You can use the promise-version if you want, of course.
+I'm using `async/await` since I like the synchronous flow of the code that gives me. You can use the promise-version if you want, of course. 
 
 * I'm using the `blob = await getPictureBlob(imageUri);` to get the blob
 * Storing the blob in the storage is pretty straight forward by just `storage.ref().child(uuid.v4());`
 * The `uuid.v4()` is just a simple way for me to generate an ID for the file.
-* I'm setting a `setUploading` to give myself a little flag that I can use to indicate that work is being done.
+* I'm setting a `setUploading` to give myself a little flag that I can use to indicate that work is being done.  
 
 ### Uploading part 3 - the UI
 
@@ -228,11 +229,11 @@ That leaves the UI for uploading. Let's simply hide/show the button or an activi
  )}
 ```
 
-Easy!
+Easy! 
 
 ## Showing the images
 
-Just uploading images is fun and everything - but if we can't see them I don't know what good it is. Let's create an `<ImageList />` component like this:
+Just uploading images is fun and everything - but if we can't see them I don't know what good it is. Let's create an `<ImageList />` component like this: 
 
 ```javascript
 import React, { useEffect, useState } from 'react';
@@ -275,16 +276,16 @@ const styles = StyleSheet.create({
 });
 ```
 
-Here I could have kept the state in the `App.js`-file instead, but for clarity, I kept the state in the list instead.
+Here I could have kept the state in the `App.js`-file instead, but for clarity, I kept the state in the list instead. 
 
 * I'm using `storage.ref().listAll()` to get a list of references
 * I can then `.map` over them and get the URL for each `.getDownloadURL()`
 * This URL can then be fed into the component that shows each image
-  * I created a [separate component for the image,](https://github.com/marcusoftnet/PhotoUploaderFirebase/blob/main/components/ListImageItem.js) just so that I could style it if I wanted, but it's just a `<Image />` tag.
+  * I created a [separate component for the image,](https://github.com/marcusoftnet/PhotoUploaderFirebase/blob/main/components/ListImageItem.js) just so that I could style it if I wanted, but it's just a `<Image /> ` tag. 
 
 ## Conclusion
 
-That was fun! And I learned a lot, but in all honesty, I just combined what other people have shown me already.
+That was fun! And I learned a lot, but in all honesty, I just combined what other people have shown me already. 
 
 Here are some resources that I found useful:
 

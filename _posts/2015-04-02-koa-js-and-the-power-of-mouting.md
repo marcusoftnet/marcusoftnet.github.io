@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Koa Js and the power of mounting
-author: Marcus Hammarberg
-date: 2015-04-02T08:41:15.000Z
+title: "Koa Js and the power of mounting"
+author: "Marcus Hammarberg"
+date: 2015-04-02 08:41:15
 tags:
-  - Javascript
-  - Koa
-  - Node
-  - Tools
+ - Javascript
+ - Koa
+ - Node
+ - Tools
 ---
 
 I've been writing quite a lot of [Koa](http://koajs.com) applications, but most of them have been small. Now I'm doing a little bit bigger website. It consists of three parts:
@@ -20,7 +20,7 @@ Absolutely nothing humongous but still big enough that you need to think about a
 
 That's when I came to think about [koa-mount](https://github.com/koajs/mount). In this post I wanted to show you what I've learned about this powerful little middeleware, at the heart of Koa thinking.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 The tag-line on the [koa-mount](https://github.com/koajs/mount) page says it all really:
 
@@ -59,7 +59,6 @@ console.log('listening on port 3000');
 ```
 
 This is the example code that koa-mount supplies. Let's walk through it:
-
 1. At line 4-9 we create a small little Hello application that simply
 1.1. wait until all other middleware has answered
 1.1. always return 'Hello' in the body
@@ -77,7 +76,6 @@ Now if you were to go to ```http://localhost:3000``` you'll get a ```Not found``
 Let's improve this a bit.
 
 # Separate files
-
 Let's address the second point above first, because that's trivial. Moving the applications to separate files are very simple. I moved them into a sub directory called ```subapps``` Here's the ```/subapps/hello.js``` application:
 
 ```javascript
@@ -125,7 +123,6 @@ console.log('listening on port 3000');
 Here's we're just stitching together the application, giving each sub application the path under which they operate.
 
 # Sub routing
-
 But that's still "just" middle ware. Let's see what a little more real application would look like.
 
 Here's an application using [koa-route](https://www.npmjs.com/package/koa-route) to create some routing:
@@ -140,11 +137,11 @@ app.use(route.get("/", index));
 app.use(route.get("/user/:name", user));
 
 function *index() {
- this.body = "You are on the index of the sub app";
+	this.body = "You are on the index of the sub app";
 };
 
 function *user(name) {
- this.body = `The name of the user is ${name}`;
+	this.body = `The name of the user is ${name}`;
 };
 ```
 
@@ -189,7 +186,6 @@ console.log('listening on port 3000');
 ```
 
 # Conclusion
-
 [koa-mount](https://github.com/koajs/mount) is perfect to compose bigger applications into smaller parts. Maybe you already have a blog application that you can reuse and just include under the ```/blog``` path. That's one line of code using ```koa-mount```.
 
 Bringing it back to my application that I've described at the top it will have a main application that looks something like this:

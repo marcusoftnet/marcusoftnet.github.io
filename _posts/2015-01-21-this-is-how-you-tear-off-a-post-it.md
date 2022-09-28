@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Things I say often NO! This is how you tear off a post-it
-author: Marcus Hammarberg
-date: 2015-01-21T07:01:10.000Z
+title: "Things I say often: NO! This is how you tear off a post-it"
+author: "Marcus Hammarberg"
+date: 2015-01-21 07:01:10
 tags:
-  - Agile
-  - Scrum
-  - Kanban
-  - Things I say often
+ - Agile
+ - Scrum
+ - Kanban
+ - Things I say often
 ---
 
 I've said this so often that we even wrote about it in the [Kanban In Action](http://bit.ly/theKanbanBook). It's not a book about tearing off post-it's but it's the printed kanban literature most geeky sidebar.
@@ -18,7 +18,7 @@ I know embarrassing amounts of information about post-its; how it, accidentally,
 
 But this simple little trick is something that most people I tell it to have not reflected about.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Here's the sidebar, used by permission of the author...
 
@@ -36,4 +36,4 @@ The trick is to be careful that the sticky part doesn’t curl. Slide your finge
 <blockquote>
 Now you know and can pester all your friends with the proper way to remove a sticky. Not only is this a geeky party trick, but it will also, more seriously, save you problems with work items falling off your board.</blockquote>
 
-Told you... Geeky.
+Told you... Geeky. 

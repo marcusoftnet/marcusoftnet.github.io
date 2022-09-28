@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ferguson never touched the ball
-author: Marcus Hammarberg
-date: 2014-12-23T07:57:20.000Z
+title: "Ferguson never touched the ball"
+author: "Marcus Hammarberg"
+date: 2014-12-23 07:57:20
 tags:
-  - Agile
-  - Leadership
-  - Lean
-  - Tools
+ - Agile
+ - Leadership
+ - Lean
+ - Tools
 ---
 
 I'm a coach for teams and organizations. At many of my clients I don't do anything... Or I'm not typing code maybe is a way of formulating it since I'm very much involved in what goes on (and I also want other companies to hire me).
@@ -18,10 +18,9 @@ But I'm quite often not very busy and when you look back in what is produced it'
 
 So what good am I? What do I do? How could you <a href="http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">measure the effect</a> of having someone like me in the team, at the company?
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # Busyness
-
 Two thoughts goes through my head when I think about this. First a quote by <a href="zuill.us/WoodyZuill/">Woody Zuill</a>
 
 <blockquote>Busyness is not good for business</blockquote>
@@ -46,7 +45,6 @@ Even when we see the effectiveness of things like mob programming (for example, 
 No - I'm not busy at my clients. Busy typing that is. But very few clients I work for sells keystrokes. KPM (key strokes per minute) is not their best effectiveness measurement. Programming is not typing.
 
 # Ferguson
-
 I'm a coach for teams and organizations. The coach term is borrowed from the world of sports. Let's take Alex Ferguson as an example, the wonder-making coach of Manchester United from 1986 to 2013. Under this time Manchester United went from a mediocre team and became one of the best in the world.
 The other day something dawned on me.
 

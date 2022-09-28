@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My post scaffolder for Jekyll
-author: Marcus Hammarberg
-date: 2014-12-09T08:09:13.000Z
+title: "My post scaffolder for Jekyll"
+author: "Marcus Hammarberg"
+date: 2014-12-09 08:09:13
 tags:
-  - Tools
+- Tools
 ---
 
 I've just started to use <a href="http://jekyllrb.com">Jekyll</a> as my blogging engine. It's mostly nice but I'm getting used to a new tool. And maybe actually the lack of tools since it's just markdown and git.
@@ -14,13 +14,11 @@ One of the things that I found early to be a stumbling block was to create a new
 So I looked for a post generator and found <a href="https://gist.github.com/kabrooski/6107707">this gist</a> that is used, at the command line, to scaffold up the structure of a new blog post.
 
 Let me show you how I tweaked it and a problem that I ran into, being a newbie.
-<!-- excerpt-end -->
+<a name='more'></a>
 ## Tweaking the script
-
 I'm very much a newbie in bash script files so bare with me and please enlighten me if this can be better.
 
 First of all I changed the constants at the top to my settings:
-
 * I'm always using Sublime so the editor becomes: <code>editor=sublime</code>
 * My layout, template for the posts, is called post and my director for posts is also standard so I left those.
 * I added a new constant for author <code>author="Marcus Hammarberg"</code>
@@ -38,14 +36,13 @@ Here's the gist (pun intended) of it
 
 * Line 100 to 103 is where the magic happens. This is where we write the tags to the file <code>echo "tags:" >> $filename</code>
 
-  * Line 101 writes the first part, notice how the line *doesn't* end with a quotation. This is how you do newlines in a string on OSX. Very ugly in my mind... Moving on.
+	* Line 101 writes the first part, notice how the line *doesn't* end with a quotation. This is how you do newlines in a string on OSX. Very ugly in my mind... Moving on.
 
-  * Line 102-103 uses the <code>sed</code> command to look through the <code>$tags</code> variable, replacing commas <code>/,</code> with a newline and a dash <code>\-</code>. Again notice the new line trickery.
+	* Line 102-103 uses the <code>sed</code> command to look through the <code>$tags</code> variable, replacing commas <code>/,</code> with a newline and a dash <code>\-</code>. Again notice the new line trickery.
 
-  * The final part of line 103 just writes it out to the $filename
+	* The final part of line 103 just writes it out to the $filename
 
 ## Using the script
-
 When I first used the script I was a bit surprised, because I thought that you just executed the script at the prompt. Apparently you have to send it to the bash command. Like this: <br>
 <code>bash scaffold_post "A post title"</code>
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: What the traffic in Jakarta taught me about slack
-author: Marcus Hammarberg
-date: 2015-03-18T10:57:09.000Z
+title: "What the traffic in Jakarta taught me about slack"
+author: "Marcus Hammarberg"
+date: 2015-03-18 10:57:09
 tags:
-  - Agile
-  - Lean
-  - Marcus private
+ - Agile
+ - Lean
+ - Marcus private
 ---
 
 <img src="/img/trafficJakarta1.jpg" style="float:right" width="60%">
@@ -18,10 +18,9 @@ In this short post I wanted to share those with you and maybe you can also get s
 
 My good friend <a href="http://twitter.com/hakanforss">Håkan Forss</a> wrote an excellent presentation called <a href="http://www.slideshare.net/HkanForss/what-can-traffic-in-stockholm-teach-you-about-queuing-theory">What can traffic in stockholm teach you about queuing theory</a>. That inspired me to write this post, at least a little.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 # They never stop
-
 <img src="/img/trafficJakarta2.jpg" style="float:right" width="60%">
 The first thing that we need to observe is that the motor bikes never stop. This knowledge will save your life. Don't ever expect an Asian motorbike driver to stop. Because they will not. Not even when you are in his way. I know this from experience.
 
@@ -31,14 +30,12 @@ Well... the traffic is so stocked up that every little move forward is a gain. E
 The cars will do the same, but that's limited by their size. With motorbikes there's always small gaps between the cars that can be exploited. I've seen people leaning their bikes and pushing cars forward 2-3 cm to get forward another 2 meters.
 
 # They are small
-
 <img src="/img/bikesAtCrossing.jpg" style="float:left" width="60%">
 Yeah, the motorbikes are small and fit in all kinds of gaps. This has consequences that are interesting. For example, at a traffic light the cars are stuck but the motorbikes can, and will, finds way to get forward.
 
 Not only does this mean that the first 6 meters is a chaos of motorbikes facing all kinds of ways once the green lights is switched on. But this also means that the cars will not move for quite some time when the green light is switched on.
 
-# Flow? Solutions
-
+# Flow? Solutions...
 Ok... all of this is nothing new for most of us. A bit amusing maybe, if we don't have to experience it everyday. But is there something here that we can learn from? Let's think for awhile about the goal of traffic... Ah, well, at least the people in the traffic. They have plenty of time to think so we can spend a few seconds doing that too.
 
 Very few people enjoy the traffic jams, I would presume. They are out in the traffic because they want to get somewhere, preferably fast. The faster the better. So as a collective we want the traffic to flow faster or at least more predicable.
@@ -58,7 +55,6 @@ In fact, to redeem myself from the wrath of the motorbikers of Indonesia, you co
 But someone wise would have to make the math up for that before I fully believe it. For now I stick "no motorbikes allowed", since it also support my next section better.
 
 # Projects and personal life
-
 What are the gaps between the cars for a project? I mean, if the traffic were to represent a project or any kind of list of work items that needs to be done - what would be the gaps in between the vehicles?
 
 Slack. Periods of not producing work that directly contributes towards to the goal.
@@ -80,7 +76,6 @@ Instead going a little bit slower, not filling every second with busyness, and m
 Even worse; when I play with my kids I also try to keep up on my reading list. A list that I've set up for myself. Just to be up to my standard. Instead of enjoying the slack and reflection with my kids.
 
 # Summary
-
 I knew it! This was one of those posts without any big finish and conclusion. But I hope it spurred some thoughts and ideas with you too, as it did with me when I wrote it.
 
 I wrote during slack time at work, by the way.

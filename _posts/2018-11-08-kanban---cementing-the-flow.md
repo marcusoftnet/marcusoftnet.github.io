@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Kanban - cementing the flow?
-author: Marcus Hammarberg
-date: 2018-11-08T09:41:36.000Z
+title: 'Kanban - cementing the flow?'
+author: 'Marcus Hammarberg'
+date: 2018-11-08 09:41:36
 tags:
-  - Kanban - Lean
+  - Kanban
+  - Lean
   - Agile
 ---
 
@@ -26,7 +27,7 @@ Well.. thanks for your questions. My answer is Yes, Yes, Yes and Ok. ... but als
 
 Let me explain.
 
-<!-- excerpt-end -->
+<a name='more'></a>
 
 Before I answer those worries and comments I need to step back and explain a few things in my usage and understanding of kanban. You may not skip this part as the rest of my answer heavily depends on this reasoning.
 
