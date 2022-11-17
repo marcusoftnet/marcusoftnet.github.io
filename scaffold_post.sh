@@ -109,4 +109,4 @@ echo "<!-- excerpt-end -->" >> $filename
 echo >> $filename
 
 # open in chosen editor
-$editor $filename
+code $filename
