@@ -85,4 +85,4 @@ These are the things that I think about when that particular screensaver pops up
 
 Find below the picture I'm using and feel free to use it for your screen saver.
 
-![Kindness is better](img/backgrounds.002.png)
+![Kindness is better](/img/backgrounds.002.png)
