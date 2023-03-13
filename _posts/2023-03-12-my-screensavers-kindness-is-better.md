@@ -2,7 +2,7 @@
 layout: post
 title: "My screensavers: Kindness is better"
 author: "Marcus Hammarberg"
-date: 2023-03-13 08:24:06
+date: 2023-03-12 08:24:06
 tags:
  - Life of a consultant
  - Leadership
