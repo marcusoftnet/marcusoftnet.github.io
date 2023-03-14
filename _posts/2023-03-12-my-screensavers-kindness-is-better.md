@@ -6,6 +6,7 @@ date: 2023-03-12 08:24:06
 tags:
  - Life of a consultant
  - Leadership
+ - Screensavers
 ---
 
 I've been in a slump in my life, which just about knocked me out totally, experiencing a few years with fatigue syndrome and depression. Getting out of that is an ongoing process and I find myself leaning back on old lessons, but trying to make them more real in my life.
@@ -19,8 +20,8 @@ I wanted to share them with you and also what I'm thinking about when seeing the
 Here are the screensavers that I'm flicking through each day.
 
 * Kindness is better - This post
-* What would Jesus do?
 * Complex == Bad. Simple == Good
+* What would Jesus do?
 * (DO(SOMETHING(SMALL(USEFUL(NOW())))))
 
 <!-- excerpt-end -->
