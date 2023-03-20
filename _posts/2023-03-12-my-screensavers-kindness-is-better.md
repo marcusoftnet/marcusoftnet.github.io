@@ -4,25 +4,26 @@ title: "My screensavers: Kindness is better"
 author: "Marcus Hammarberg"
 date: 2023-03-12 08:24:06
 tags:
- - Life of a consultant
- - Leadership
- - Screensavers
+  - Life of a consultant
+  - Leadership
+  - Screensavers
 ---
 
 I've been in a slump in my life, which just about knocked me out totally, experiencing a few years with fatigue syndrome and depression. Getting out of that is an ongoing process and I find myself leaning back on old lessons, but trying to make them more real in my life.
 
 One thing that I did was that I added a few sayings that I've picked up and that builds me up, as screensavers.
 
-Screensavers, kids, was an old thing that we had running on our computers when we didn't work at them. Otherwise, the old monitors would *etch* the text shown into the screen permanently... but they were totally safe sitting in front all day. I'm quite ... BZZZT ... normal.
+Screensavers, kids, was an old thing that we had running on our computers when we didn't work at them. Otherwise, the old monitors would _etch_ the text shown into the screen permanently... but they were totally safe sitting in front all day. I'm quite ... BZZZT ... normal.
 
 I wanted to share them with you and also what I'm thinking about when seeing these sayings or phrases.
 
 Here are the screensavers that I'm flicking through each day.
 
-* Kindness is better - This post
-* Complex == Bad. Simple == Good
-* What would Jesus do?
-* (DO(SOMETHING(SMALL(USEFUL(NOW())))))
+- Kindness is better - This post
+- [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
+- Complex == Bad. Simple == Good
+- What would Jesus do?
+- (DO(SOMETHING(SMALL(USEFUL(NOW())))))
 
 <!-- excerpt-end -->
 
@@ -76,7 +77,7 @@ Being kind doesn't mean that I'm silly. Sometimes kindness means straight feedba
 
 Let's end this with a few things about me personally.
 
-Finally, I try to be kind to myself. This is the hardest thing of all, and what got me and others into problems with fatigue syndrome. Everyone that I met during my rehabilitation from fatigue syndrome where their own worst critics, had unreasonable demands on themselves, and were very *unkind* to themselves. Me included.
+Finally, I try to be kind to myself. This is the hardest thing of all, and what got me and others into problems with fatigue syndrome. Everyone that I met during my rehabilitation from fatigue syndrome where their own worst critics, had unreasonable demands on themselves, and were very _unkind_ to themselves. Me included.
 
 But I first try to be kind to myself, because Kindness is better.
 
