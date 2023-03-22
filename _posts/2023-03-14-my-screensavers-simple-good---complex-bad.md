@@ -17,7 +17,7 @@ Here are the screensavers that I'm flicking through each day.
 - [Kindness is better](http://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
 - Complex == Bad. Simple == Good - This post
 - [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
-- (DO(SOMETHING(SMALL(USEFUL(NOW())))))
+- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
 
 <!-- excerpt-end -->
 
