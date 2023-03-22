@@ -33,7 +33,7 @@ I ran into the phrase that mr Bemer used as his motto by accident and instantly 
 Here it is:
 
 ```text
-(DO(SOMETHING(SMALL(USEFUL(NOW)))))
+(DO(SOMETHING(SMALL(USEFUL(NOW())))))
 ```
 
 Wonderfully geeky and still holds some pretty interesting ideas.
