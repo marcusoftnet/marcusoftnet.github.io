@@ -23,6 +23,7 @@ Here are the screensavers that I'm flicking through each day.
 - [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
 - [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
 - [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
+- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 

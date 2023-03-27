@@ -16,7 +16,7 @@ Here are all the posts in my series:
 - [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
 - [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
 - (DO(SOMETHING(SMALL(USEFUL(NOW()))))) - This post
-- Turn up the good
+- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 
