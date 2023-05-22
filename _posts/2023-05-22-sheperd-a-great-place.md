@@ -14,7 +14,7 @@ I got invited to share a list of my top [five books on leadership and change man
 
 <!-- excerpt-end -->
 
-Because at Sheperd there are A LOT of authors that have done the same thing as I got asked to do: put toghether their best books on topics that they are interested in. And this is very helpful since the world is overflowing with books and finding the good ones are sometimes hard.
+Because at Sheperd there are A LOT of authors that have done the same thing as I got asked to do: put toghether their best books on topics that they are interested in. And this is very helpful since the world is overflowing with books and finding the good ones is ~~sometimes~~ ~~often~~ hard.
 
 I've always trusted other peoples reccomendations for what to read and I know of no better people to recommend books on their topic than people that have researched and written about their topic.
 
