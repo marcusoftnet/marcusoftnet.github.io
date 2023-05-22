@@ -2,7 +2,7 @@
 layout: post
 title: "Sheperd - a great place for great books"
 author: "Marcus Hammarberg"
-date: 2023-05-22 10:00:00
+date: 2023-05-21 10:00:00
 tags:
   - Authoring
   - Books
