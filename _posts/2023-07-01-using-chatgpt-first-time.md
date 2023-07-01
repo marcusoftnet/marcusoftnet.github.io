@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Inf' Finding a bug - how an old guy thinks"
+title: "Using ChatGPT professionally for the first time"
 author: "Marcus Hammarberg"
 date: 2023-07-01 07:00:00
 tags:
