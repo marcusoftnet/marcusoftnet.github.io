@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Google Drive & Slide API as report template"
+title: "Using Google Drive & Slide API as report template engine"
 author: "Marcus Hammarberg"
 date: 2023-07-04 12:00:00
 tags:
@@ -8,9 +8,9 @@ tags:
   - Life of a consultant
 ---
 
-At my current job we are using Google Cloud Platform, which is awesome since it opens up so many services that exists in the Google ecosystem.
+At my current job, we are using Google Cloud Platform, which is awesome since it opens up so many services that exist in the Google ecosystem.
 
-The other week a need arose to create reports based on data, from a template. We were wondering for awhile and then decided that Google Slides could be up for the job. It was. But there were quite a lot of small hoops to jump around in, especially considering that there were so many different version, languages and ways to do things.
+The other week a need arose to create reports based on data, from a template. We were wondering for a while and then decided that Google Slides could be up for the job. It was. But there were quite a lot of small hoops to jump around in, especially considering that there were so many different versions, languages, and ways to do things.
 
 Here's my plan:
 
@@ -20,7 +20,7 @@ Here's my plan:
 1. Replace placeholder tokens with text
 1. Replace placeholder tokens with images. There's a nasty bug here that needs a workaround
 
-My solution also includes [StreamLit](https://streamlit.io/) but I'm going to leave that out of this solution. I will, however, use Python for these examples and include some helpers. I'll write this so that we build a nice little reusable component that you can tweak to your hearts content-
+My solution also includes [StreamLit](https://streamlit.io/) but I'm going to leave that out of this solution. I will, however, use Python for these examples and include some helpers. I'll write this so that we build a nice little reusable component that you can tweak to your heart's content.
 
 Let's do it. It will be fun.
 
@@ -30,7 +30,7 @@ Let's do it. It will be fun.
 
 Anything you do against the Google APIs needs validation of credentials. How you obtain these credentials will be very different depending on where you run the code.
 
-We are using StreamLit (darn it - I said that I was going to leave it out) and are using a service account for our access. There are several reasons for this, but mainly we can use the code in batch and in websites.
+We are using StreamLit (darn it - I said that I was going to leave it out) and are using a service account for our access. There are several reasons for this, but mainly we can use the code in batch and websites.
 
 There are other descriptions on [how to get an access token](https://developers.google.com/workspace/guides/create-credentials) and I'm leaving that part out.
 
@@ -56,13 +56,13 @@ class GoogleDriveService:
 
 We read the authenticated token using our own `GoogleSecret`-class (`self.authenticated_credentials_secret.read()`). This gives us a JSON (i.e. the secret is stored as a Google Secret) that we then pass to the `Credentials.from_authorized_user_info` to get the credentials.
 
-That little `auth_drive` will be reused all over. Just you wait.
+That little `auth_drive` will be reused all over. Just wait.
 
 ## Create a folder for the report
 
 Let's now create a folder for the report. I'm going to first put it in a shared folder called `Generated reports` or something and secondly put the `Generated reports` folder on a shared drive. This allows me to control access to the files and folders easily.
 
-First create a shared drive (if you want to) and then create a `Reports`-folder. And then a `Generated Reports` folder in it. By "create" I mean manually, by going to [Google Drive](http://drive.google.com/) and clicking. Done? Ok - great.
+First, create a shared drive (if you want to) and then create a `Reports`-folder. And then a `Generated Reports` folder in it. By "create" I mean manually, by going to [Google Drive](http://drive.google.com/) and clicking. Done? Ok - great.
 
 You will need to give access to the account(s) that is going to run this to the `Reports`-folder. They will need `Content manager`-role.
 
@@ -96,27 +96,27 @@ def create_folder(self, folder_name: str, parent_folder_id: str) -> GoogleDriveO
     return None
 ```
 
-This is our first time interacting with the Google API (in this blog post) so it's worth taking some time describing how it works. It's very hierarchical and REST-like in it's approach. Even here in the Python code.
+This is our first time interacting with the Google API (in this blog post) so it's worth taking some time to describe how it works. It's very hierarchical and REST-like in its approach. Even here in the Python code.
 
-See how we use `self.auth_drive()` there in the middle? That will give us a client that we can use to interact with folder, permissions and files.
+See how we use `self.auth_drive()` there in the middle? That will give us a client that we can use to interact with folders, permissions, and files.
 
 `self.auth_drive().files()` means that we are going to do things with files. For example `self.auth_drive().files().create()` to create a new file.
 
-That `.create()` will behind the scenes issue a [POST request to the HTTP API](https://developers.google.com/drive/api/reference/rest/v3/files/create). The API is very well documented but typically talks about the HTTP or REST level rather than Python code that is only is reserved for the overview and tutorials.
+That `.create()` will behind the scenes issue a [POST request to the HTTP API](https://developers.google.com/drive/api/reference/rest/v3/files/create). The API is very well documented but typically talks about the HTTP or REST level rather than Python code that is only reserved for the overview and tutorials.
 
-Each request has body, and optionally additional parameters. In our case we create a `folder_metadata`-body that describes that we are going to create a folder (through the mime-type) and then put it in a `parent`-folder.
+Each request has a body and optionally additional parameters. In our case, we create a `folder_metadata`-body that describes that we are going to create a folder (through the mime-type) and then put it in a `parent`-folder.
 
 The `supportsAllDrives` was close to driving me crazy, but is needed FOR EVERY request that is done against a shared folder. That's why I took it as a parameter to the `GoogleDriveService` class.
 
-Finally the `fields` property of the request describes which fields that you want in the response. Why not send all fields, you say? Well - [feast you eyes on this, my friend](https://developers.google.com/drive/api/reference/rest/v3/files#File). It's just a comma-separated list of fields like `id, name, thumbnailLink` for example.
+Finally, the `fields` property of the request describes which fields you want in the response. Why not send all fields, you say? Well - [feast your eyes on this, my friend](https://developers.google.com/drive/api/reference/rest/v3/files#File). It's just a comma-separated list of fields like `id, name, thumbnailLink` for example.
 
 I'll show you soon, what that `GoogleDriveObject` thing is (it's something that I have created.)
 
-One thing that is very important is to execute the request. This is done with `.execute()` and needs to be called, or you have just created a request that is never used. It just sits there. Like a madman.
+One very important thing is to execute the request. This is done with `.execute()` and needs to be called, or you have just created a request that is never used. It just sits there. Like a madman.
 
-My method `create_folder` also adds some logging and error handling, both of which has proven invaluable to make sense of this.
+My method `create_folder` also adds some logging and error handling, both of which have proven invaluable to make sense of this.
 
-### Encapsulate file-responses in a `GoogleDriveObject` class
+### Encapsulate file responses in a `GoogleDriveObject` class
 
 Finally (other sections will NOT be this long, I promise) let's talk about the `GoogleDriveObject`. My class looks like this:
 
@@ -172,7 +172,7 @@ It's just an encapsulation of the response from any `files()` request. This will
 
 ### Let's use the `create_folder` method
 
-These headings will build up a script, that calls out to the methods we have create, little by little.
+These headings will build up a script, that calls out to the methods we have created, little by little.
 
 Using the `create_folder` method will be something like this:
 
@@ -194,7 +194,7 @@ Oh - that became longer than I wanted, but let's press on.
 
 ## Upload images to the report folder
 
-I have the need to include images (of graphs) in the report. These images needs to be accessible over the internet, without credentials in order to be able to use them. That is a hustle and took me hours, if not days, to sort. But first - let's upload these images to the report-folder.
+I then need to include images (of graphs) in the report. These images need to be accessible over the internet, without credentials to be able to use them. That is a hustle and took me hours, if not days, to sort. But first - let's upload these images to the report folder.
 
 Here's another method to upload a file to a folder:
 
@@ -223,7 +223,7 @@ def upload_image_to_folder(self, folder_id: str, file_name: str, file_extension:
   return None
 ```
 
-See here, how the interaction with the service is very similar? `self.auth_drive().files().create()`? Only difference is that we now create a `file_metadata` object that first describes the file and which folder to put it in (`parents`). Secondly, we need to make a `MediaIoBaseUpload` that describes this image. In other words, this method will only upload images (`mimetype` always starts with `image/`).
+See here, how the interaction with the service is very similar? `self.auth_drive().files().create()`? The only difference is that we now create a `file_metadata` object that first describes the file and which folder to put it in (`parents`). Secondly, we need to make a `MediaIoBaseUpload` that describes this image. In other words, this method will only upload images (`mimetype` always starts with `image/`).
 
 Also, I'm passing in the data of the files as `bytes` which easily can be passed to `MediaIoBaseUpload` using `io.BytesIO(data)`.
 
@@ -245,16 +245,15 @@ efficiency_image = drive.upload_image_to_folder(folder_id=report_folder.id, file
   file_extension="png", data=image_bytes)
 ```
 
-Nice, and we got a description for the created file that we are going to use later.
-(I uploaded quite a few of these per report, to be honest. Be sure to hold on to each created file description)
+Nice, and we got a description for the created file that we are going to use later. (I upload quite a few of these per report generation, to be honest. Be sure to hold on to each created file description)
 
 ## Make image accessible without credentials
 
-While were fiddling around with the images, let's set the permission to `anyoneWithTheLink`. This is needed since Google Slides needs to be able to access the files over the internet, without credentials, in order to insert them in the report.
+While we're fiddling around with the images, let's set the permission to `anyoneWithTheLink`. This is needed since Google Slides needs to be able to access the files over the internet, without credentials, to insert them in the report.
 
 Yes - that is surprising. And a bit stupid. And [there's an open issue for Google to fix this](https://issuetracker.google.com/issues/148814758). That's what we have - let's roll with it.
 
-But I really don't like having the access that wide-open, so we are going to create a way for us remove that permission after we have inserted the image in the presentation. Two methods are needed:
+But I don't like having access that wide open, so we are going to create a way for us to remove that permission after we have inserted the image in the presentation. Two methods are needed:
 
 ```python
 def make_public(self, file_id: str) -> PermissionDescription:
@@ -286,7 +285,7 @@ def remove_public_access(self, file_id: str):
   return None
 ```
 
-Here we are interacting with `self.auth_drive().permissions()` but the interaction is very similar as before; to create a new permission for the file, you will need to create body that sets `anyone` to the role `reader`.
+Here we are interacting with `self.auth_drive().permissions()` but the interaction is very similar to before; to create a new permission for the file, you will need to create a body that sets `anyone` to the role `reader`.
 
 I also created a little class to encapsulate the responses for permissions:
 
@@ -354,7 +353,7 @@ Let's switch it up a bit and create a report template. This is a Google Slides f
 
 Create a slide deck now, note the id of the file.
 
-You can use placeholders in what ever format you want, but I went for `{{place_holder_name}}`. For debugging purposes I created on slide with all the placeholder in one place. Like this:
+You can use placeholders in whatever format you want, but I went for `{{place_holder_name}}`. For debugging purposes, I created a slide with all the placeholders in one place. Like this:
 
 ```text
 Customer name: “{{customer_name}}”
@@ -365,11 +364,11 @@ Filter from-date: “{{filter_from_date}}”
 Filter to-date: “{{filter_to_date}}”
 ```
 
-For the images I created a shape that was in the same size as where I want the image to be. Create a shape and write `{{efficiency_graph}}` for example.
+For the images, I created a shape that was the same size as where I wanted the image to be. Create a shape and write `{{efficiency_graph}}` for example.
 
 ## Make a copy of the report template
 
-For each report generation we are going to make a copy of the report template and then make the replacements in the copy. Here's a method to make a copy of a file into another folder:
+For each report generation, we are going to make a copy of the report template and then make the replacements in the copy. Here's a method to make a copy of a file in another folder:
 
 ```python
 def copy_file_to_folder(self, original_file_id: str, folder_id: str, file_name: str) -> GoogleDriveObject:
@@ -399,7 +398,7 @@ There's not much new here, but we are using the `self.auth_drive().files().copy(
 ```python
 drive = GoogleDriveService(reporting_credentials_secret)
 ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
-EFFIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
@@ -420,7 +419,7 @@ drive.remove_public_access(file_id=efficiency_image.id)
 
 Finally - we now have all the moving parts in place:
 
-- we have copy of the report template, where we can make replacements
+- we have a copy of the report template, where we can make replacements
 - we have images that we can access over the internet
 - everything is a folder for the report.
 
@@ -461,13 +460,13 @@ class GoogleSlidesService:
 We recognize much of this, thank God:
 
 - We are creating a class that uses a Google Secret stored JSON token to create credentials.
-- We then call the `self.auth_slides().presentations().batchUpdate()` to make many updates at once. This is much more performant and effective than doing one change at the time.
+- We then call the `self.auth_slides().presentations().batchUpdate()` to make many updates at once. This is much more performant and effective than doing one change at a time.
 
 That leaves one missing piece - what are those: `requests: List[dict]`
 
 ## Creating requests for textual replacements
 
-The replacements is basically us doing a `Search and Replace all` through all slides. But using the Google Slides API. And for images too.
+The replacement is doing a `Search and Replace all` through all slides. But using the Google Slides API. And for images too.
 
 Let's make a method for the textual search-and-replace and put it in the `GoogleSlidesService` class:
 
@@ -483,9 +482,9 @@ def create_text_replace_request(placeholder: str, value: str) -> dict:
   }}
 ```
 
-This describes the search and replace that we want to perform, what to search for and how to search for it.
+This describes the search and replace that we want to perform, what to search for, and how to search for it.
 
-That was easy - let's do one for images too. That is actually easy too.
+That was easy - let's do one for images too. That is easy too.
 
 ## Creating requests for image replacements
 
@@ -512,7 +511,7 @@ We are not quite ready for this, but before I lose everyone, let's show how this
 drive = GoogleDriveService(reporting_credentials_secret)
 slides = GoogleSlidesService(reporting_credentials_secret)
 ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
-EFFIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
@@ -548,17 +547,17 @@ drive.remove_public_access(file_id=efficiency_image.id)
 
 We build up an array of requests here that we then issue against the `report_deck.id` file using `batch_update`.
 
-There's, one piece missing, we need to create a public url for the images that we uploaded.
+There's, one piece missing, we need to create a public URL for the images that we uploaded.
 
-## Create a public url for uploaded images
+## Create a public URL for uploaded images
 
-This section is where I spent most of my time. By far. And it will end with a hack, that actually works. I have not seen any other way that works, but I will share how it was _intended_ to work first.
+This section is where I spent most of my time. By far. And it will end with a hack, that works. I have not seen any other way that works, but I will share how it was _intended_ to work first.
 
-When we uploaded the image for the graph (`efficiency_image = drive.upload_image_to_folder`) I actually prepared to make this work, as it should already. The `GoogleDriveObject` exposes two properties that is meant to be used for this: `web_content_link` and `web_view_link`.
+When we uploaded the image for the graph (`efficiency_image = drive.upload_image_to_folder`) I prepared to make this work, as it should already. The `GoogleDriveObject` exposes two properties that are meant to be used for this: `web_content_link` and `web_view_link`.
 
 However, I've seen many people trying to get that to work, and it doesn't. But a nifty little hack does.
 
-Because `GoogleDriveObject` also exposes a `thumbnail_link`. This link can be modified to have higher-resolution. Here's a very simple implementation:
+Because `GoogleDriveObject` also exposes a `thumbnail_link`. This link can be modified to have higher resolution. Here's a very simple implementation:
 
 ```python
 def thumbnail_link_higher_resolution(self, resolution: str = "1000") -> str:
@@ -569,13 +568,13 @@ This will give you an URL that is firstly public, secondly works to be used in G
 
 ### Let's use `` in our script
 
-And with that it will complete the script... almost.
+And with that, it will complete the script... almost.
 
 ```python
 drive = GoogleDriveService(reporting_credentials_secret)
 slides = GoogleSlidesService(reporting_credentials_secret)
 ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
-EFFIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
@@ -614,12 +613,12 @@ drive.remove_public_access(file_id=efficiency_image.id)
 We are now:
 
 1. Creating a folder for the report
-1. Uploading images to the folder, and make the images publicly available, and getting the url to the thumbnail that actually works
-1. Making a copy of the template report to report folder
-1. Making a lot of request object and then updating them all in one go
-1. Removing the public access to the images.
+1. Uploading images to the folder, and make the images publicly available, and getting the URL to the thumbnail that works
+1. Make a copy of the template report to the report folder
+1. Making a lot of request objects and then updating them all in one go
+1. Removing public access to the images.
 
-What is missing from this picture? Ah, well - the code above does everything in the report folder and hence the user is left a bit underwhelmed since no report is downloaded.
+What is missing from this picture? Ah, well - the code above does everything in the report folder, and hence the user is left a bit underwhelmed since no report is downloaded.
 
 That is easily fixed since we can make a link to the report and let the user download it, in a format of her choice. Put this method on the `` class. I told you it was going to be handy:
 
@@ -636,7 +635,7 @@ Using that method completes our script, for real. Hey - I'm going to use it twic
 drive = GoogleDriveService(reporting_credentials_secret)
 slides = GoogleSlidesService(reporting_credentials_secret)
 ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
-EFFIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
@@ -671,3 +670,5 @@ drive.remove_public_access(file_id=efficiency_image.id)
 print(f"Find the PDF version of the report here : {report_deck.create_export_link("pdf")}")
 print(f"Find a powerpoint version of the report here : {report_deck.create_export_link("pptx")}")
 ```
+
+I hope you found this useful.
