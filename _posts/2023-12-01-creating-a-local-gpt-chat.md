@@ -166,12 +166,6 @@ make ingest $2
 echo "Ingestion done - Starting application"
 make run
 echo "Application running at http://localhost:8001"
-
-echo "To re-ingest documents, stop the web server and then run:
-make wipe
-make ingest $2
-make run
-"
 ```
 
 ## Summary
