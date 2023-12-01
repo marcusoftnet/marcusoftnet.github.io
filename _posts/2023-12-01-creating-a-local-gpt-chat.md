@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a local Chat GPT - using private data"
 author: "Marcus Hammarberg"
-date: 2023-10-30 10:35:09
+date: 2023-12-01 08:00:00
 tags:
   - Life of a consultant
   - AI
@@ -87,21 +87,25 @@ At the end I will put all of these commands in one file, which will look much li
    poetry install --with ui,local
    ```
 
-5. Start the application using:
+5. Here's a step that I don't know so much about and that I also had to battle a bit. PrivateGPT GPU support via a C++ compiler... I don't even want to know. Long-story short, this connection or usage of the GPU is done using using `llama-cpp-python`, which needs to be installed like the following.
 
    ```bash
-   make run
+   CMAKE_ARGS="-DLLAMA_METAL=on" pip install --force-reinstall --no-cache-dir "llama-cpp-python==0.1.59"
    ```
 
-   or
+   However, I had to use an older version, hence the `==0.1.59` at the end. Without that addition the installation failed for me. [Read about this step here](https://docs.privategpt.dev/installation#osx-gpu-support).
+
+6. Start the application using `make run`, **but** make sure that you pick up the `local` settings from the `setting.yaml`-file using :
 
    ```bash
-   poetry run python -m private_gpt
+   PGPT_PROFILES=local make run
    ```
+
+   You can use another profile by setting the `PGPT_PROFILES` variable to another name, if you wanted to
 
    You can now see the application running at [http://localhost:8001](http://localhost:8001). But it's using a mock LLM, so once you verified that it works, shut it down again (CTRL+C) and continue
 
-6. Let's download a LLM and the absolutely easiest way to do that is to use PrivateGPTs recommended settings, through the setup script:
+7. Let's download a LLM and the absolutely easiest way to do that is to use PrivateGPTs recommended settings, through the setup script:
 
    ```bash
    poetry run python scripts/setup
@@ -109,7 +113,7 @@ At the end I will put all of these commands in one file, which will look much li
 
    This command takes considerable time, but it also downloads a 5 GB file to your disk - the LLM
 
-7. You could now have ChatGPT like conversations with PrivateGPT, but let's ingest some private data into it, before we try it out.
+8. You could now have ChatGPT like conversations with PrivateGPT, but let's ingest some private data into it, before we try it out.
 
    Ingestion can be done in the [UI of the PrivateGPT web](http://localhost:8001) but you can also do it from the command line (or write your own code that uses the `/ingest/` - API)
 
@@ -123,13 +127,13 @@ At the end I will put all of these commands in one file, which will look much li
 
    This takes some time, as the ingested content needs to be tokenized in a format that PrivateGPT can understand. It took me about 1 min for 3 mb markdown.
 
-8. **Done** You can now start the application again (`make run`)
+9. **Done** You can now start the application again (`make run`)
 
-9. When playing around with this I found the `wipe` command very useful. All the ingested data ends up in a folder called `local_data`. Simply deleting it works, but causes some weirdness in the UI - PrivateGPT has a command for this, so it's better to use it:
+10. When playing around with this I found the `wipe` command very useful. All the ingested data ends up in a folder called `local_data`. Simply deleting it works, but causes some weirdness in the UI - PrivateGPT has a command for this, so it's better to use it:
 
-   ```bash
-   make wipe
-   ```
+    ```bash
+    make wipe
+    ```
 
 ### Once again, as one long command
 
@@ -140,6 +144,8 @@ If the file was save to `privateGPTSetup.sh` you can call it with:
 ```bash
 sh privateGPTSetup.sh /privateGPT/Installation /docs/to/ingest
 ```
+
+Here's the script:
 
 ```bash
 #!/bin/bash
@@ -156,6 +162,7 @@ pip install --upgrade pip poetry
 
 echo "Installing PrivateGPT as local installation"
 poetry install --with ui,local
+CMAKE_ARGS="-DLLAMA_METAL=on" pip install --force-reinstall --no-cache-dir "llama-cpp-python==0.1.59"
 
 echo "Downloading standard LLM using script/setup"
 poetry run python scripts/setup
@@ -164,7 +171,7 @@ echo "Ingest all files in $2"
 make ingest $2
 
 echo "Ingestion done - Starting application"
-make run
+PGPT_PROFILES=local make run
 echo "Application running at http://localhost:8001"
 ```
 
