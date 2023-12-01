@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Creating a local Chat GPT - using private data"
+title: "The amazing effects of sharing"
 author: "Marcus Hammarberg"
 date: 2023-12-01 08:00:00
 tags:
   - Life of a consultant
+  - Marcus Private
 ---
 
 Yesterday I had a really weird experience and I wanted to share it, not as something reflecting good on me, but a reminder of the value of sharing knowledge and learning from people around you.
