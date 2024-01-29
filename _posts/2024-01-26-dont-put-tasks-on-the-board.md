@@ -2,7 +2,7 @@
 layout: post
 title: "Do not put tasks on the board"
 author: "Marcus Hammarberg"
-date: 2023-12-14 08:00:00
+date: 2024-01-26 16:00:00
 tags:
   - Life of a consultant
   - Kanban
