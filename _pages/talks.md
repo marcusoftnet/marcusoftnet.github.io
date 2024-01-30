@@ -12,8 +12,8 @@ I have done quite a few different talks and workshops during my career and here 
 
 | Title                                                        | Type                                                         | Length    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
-| [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and <br />lean saving a hospital in Indonesia | 1 hour    |
-| [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on <br />how kanban can help you and your team to be even better | 1-2 hours |
+| [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and lean saving a hospital in Indonesia | 1 hour    |
+| [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on how kanban can help you and your team to be even better | 1-2 hours |
 | [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the principles behind agile (and lean) | 1-2 hours |
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
