@@ -2,7 +2,7 @@
 layout: post
 title: "Always assume positive intent - senders too"
 author: "Marcus Hammarberg"
-date: 2024-02-13 12:00:00
+date: 2024-02-13 08:00:00
 tags:
   - Life of a consultant
   - Agile
