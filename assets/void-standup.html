@@ -1,130 +1,147 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Team Void - standup-faciltator generator</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap"
-      rel="stylesheet"
-    />
-    <style>
-      body {
-        font-family: "Indie Flower", cursive;
-        font-size: larger;
-        background-color: #f5f5f5;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
 
-      .container {
-        background-color: #fff;
-        border-radius: 10px;
-        padding: 30px;
-        box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
-        max-width: 80%; /* Adjust this value as needed */
-        text-align: left; /* Align text to the left */
-        margin: auto; /* Center the container horizontally */
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Team Void - standup-faciltator generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: "Indie Flower", cursive;
+      font-size: larger;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 
-      h1 {
-        color: #ff6b6b;
-      }
+    .container {
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 30px;
+      box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+      max-width: 80%;
+      /* Adjust this value as needed */
+      text-align: left;
+      /* Align text to the left */
+      margin: auto;
+      /* Center the container horizontally */
+    }
 
-      p {
-        color: #4a4a4a;
-        line-height: 1.5;
-      }
+    h1 {
+      color: #ff6b6b;
+    }
 
-      ul {
-        text-align: left;
-        margin-top: 20px;
-      }
+    p {
+      color: #4a4a4a;
+      line-height: 1.5;
+    }
 
-      li {
-        margin-bottom: 10px;
-      }
+    ul {
+      text-align: left;
+      margin-top: 20px;
+    }
 
-      .fun-text {
-        font-size: xxx-large;
-        font-style: bold;
-        color: #dd480d;
-      }
-      .logo {
-        display: block;
-        width: 50%;
-        margin: 0 auto 20px; /* Center the logo horizontally and add some space below */
-      }
-    </style>
-  </head>
+    li {
+      margin-bottom: 10px;
+    }
 
-  <body>
-    <div class="container">
-      <img
-        src="https://aaro.com/wp-content/uploads/2023/03/AARO-logotyp-v2.png"
-        alt="AARO"
-        class="logo"
-      />
+    .fun-text {
+      font-size: xxx-large;
+      font-style: bold;
+      color: #dd480d;
+    }
 
-      <h1>Team Void - standup-faciltator generator</h1>
-      <p>
-        Dear <span id="randomName" class="fun-text"></span>, you are running the
-        standup today!
-      </p>
-      <p>You'll be great at this, I can feel it in my bones</p>
-      <p><strong>Do this:</strong></p>
+    .logo {
+      display: block;
+      width: 50%;
+      margin: 0 auto 20px;
+      /* Center the logo horizontally and add some space below */
+    }
+        /* Style for the button */
+    .reload-button {
+      padding: 10px 20px; /* Increase padding for bigger size */
+      font-size: 16px; /* Increase font size */
+      color: #dd480d;
+      background-color:#dd480d; ; /* Green background color */
+      color: white; /* White text color */
+      border: none; /* No border */
+      border-radius: 5px; /* Rounded corners */
+      cursor: pointer; /* Cursor style */
+      transition: background-color 0.3s; /* Smooth transition on hover */
+    }
+
+    /* Hover effect */
+    .reload-button:hover {
+      background-color: #d47a56; /* Darker green on hover */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <img src="https://aaro.com/wp-content/uploads/2023/03/AARO-logotyp-v2.png" alt="AARO" class="logo" />
+
+    <h1>Team Void - standup-faciltator generator</h1>
+    <p>
+      Dear <span id="randomName" class="fun-text"></span>, you are running the
+      standup today!
+    </p>
+    <p>You'll be great at this, I can feel it in my bones</p>
+    <button class="reload-button" onclick="location.reload();">New facilitator</button>
+    <p><strong>Do this:</strong></p>
+    <ul>
+      <li>
+        Use
+        <a href="https://aarosystems.atlassian.net/jira/software/c/projects/AARO/boards/26?issueType=10002%2C10000%2C10001&label=SPEC23003%2CVoid&quickFilter=210&quickFilter=211"
+          target="_blank">this board</a>
+      </li>
+      <ul>
+        <li>Collapse all swimlanes</li>
+      </ul>
+      <li>
+        Open each swimlane (starting from bottom or top, switch every other
+        day)
+      </li>
+      <li>Go through each ticket, from right to left</li>
+      <li>Ask "Is anything hindering this from being completed today?"</li>
       <ul>
         <li>
-          Use
-          <a
-            href="https://aarosystems.atlassian.net/jira/software/c/projects/AARO/boards/26?issueType=10002%2C10000%2C10001&label=SPEC23003%2CVoid&quickFilter=210&quickFilter=211"
-            target="_blank"
-            >this board</a
-          >
+          If there are things blocking, put the people needed in contact with
+          each other
         </li>
-        <ul>
-          <li>Collapse all swimlanes</li>
-        </ul>
-        <li>
-          Open each swimlane (starting from bottom or top, switch every other
-          day)
-        </li>
-        <li>Go through each ticket, from right to left</li>
-        <li>Ask "Is anything hindering this from being completed today?"</li>
-        <ul>
-          <li>
-            If there are things blocking, put the people needed in contact with
-            each other
-          </li>
-          <li>If nothing is blocking them move on to the next</li>
-        </ul>
-        <li>At the end of the standup, ask if there are other questions</li>
+        <li>If nothing is blocking them move on to the next</li>
       </ul>
-      <p>
-        We, still, have many things on the board, so your job is to keep the
-        tempo up. Marcus has failed to keep the standup below 30 minutes even
-        once.
-      </p>
-      <p>Can you do it faster and still keep it useful?</p>
-    </div>
+      <li>At the end of the standup, ask if there are other questions</li>
+    </ul>
+    <p>
+      We, still, have many things on the board, so your job is to keep the
+      tempo up. Marcus has failed to keep the standup below 30 minutes even
+      once.
+    </p>
+    <p>Can you do it faster and still keep it useful?</p>
 
-    <script>
-      function pickRandomName(names) {
-        const randomIndex = Math.floor(Math.random() * names.length);
-        return names[randomIndex];
-      }
+    <button class="reload-button" onclick="location.reload();">New facilitator</button>
+  </div>
 
-      function onPageLoad() {
-        const names = ["Matthias", "Slava", "Maria", "Leo", "Joe", "Rasmus", "Nikolay", "Peter", "Claudio"];
-        const randomName = pickRandomName(names);
-        document.getElementById("randomName").textContent = randomName;
-      }
+  <script>
+    function pickRandomName(names) {
+      const randomIndex = Math.floor(Math.random() * names.length);
+      return names[randomIndex];
+    }
 
-      window.onload = onPageLoad;
-    </script>
-  </body>
+    function onPageLoad() {
+      const names = ["Matthias", "Slava", "Maria", "Leo", "Joe", "Rasmus", "Nikolay", "Peter", "Claudio", "Torbjörn"];
+      const randomName = pickRandomName(names);
+      document.getElementById("randomName").textContent = randomName;
+    }
+
+    window.onload = onPageLoad;
+  </script>
+</body>
+
 </html>
