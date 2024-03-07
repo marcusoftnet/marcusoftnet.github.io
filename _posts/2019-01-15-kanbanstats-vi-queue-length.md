@@ -118,7 +118,8 @@ And we can now very easily make a chart that is a bit underwhelming:
 
 ![Queue length per column on the board](/img/queueLengthPerColumn.png)
 
- ## But what does that mean then?
+
+## But what does that mean then?
 
 The reason the chart is very underwhelming is that right now, we only get the number of items. It is not particularly helpful, but we can do better.
 
