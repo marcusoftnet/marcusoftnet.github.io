@@ -47,8 +47,7 @@ The first few iterations of your code are rarely the version that you end up wit
 
 Also like user stories, we learn by doing the work. The more tests and production code iterations we do the better we understand the problem and can make even better solutions in the end.
 
-The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2`, but it was value for us at the time.
- 
+The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2`, but it was value for us at the time. 
 
 ## Summary
 
