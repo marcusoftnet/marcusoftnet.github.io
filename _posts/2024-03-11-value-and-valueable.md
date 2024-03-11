@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Value vs valueable - an aha-moment"
+title: "Value vs valueable - another aha-moment"
 author: "Marcus Hammarberg"
 date: 2024-03-11 08:00:00
 tags:
