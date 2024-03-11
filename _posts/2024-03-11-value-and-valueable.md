@@ -17,7 +17,7 @@ Last week I had another revelation like that - when I realized the difference be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0HMsh459h5c?si=qUIFejG6e7TONGKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-What David Farley is after is how we tend to make user stories too big since we are confusing value and value. Value to a user doesn't mean value to a user. He then continues to talk about a treasure chest. A chest full of gold coins is certainly valuable, but each coin has value.
+What David Farley is after is how we tend to make user stories too big since we are confusing value and valuable. Value to a user doesn't mean value to a user. He then continues to talk about a treasure chest. A chest full of gold coins is certainly valuable, but each coin has value.
 The reasons we want to make the stories small are plentiful; it's easier to manage, implement, fix, deploy, and test... just about anything we do as a software development team.
 But it's also faster to achieve the true goal, with smaller batches than with big batches, as any lean simulation/game will show you. For example this:
 
@@ -32,7 +32,7 @@ For example;
 * An audit log statement for every action in the system - is too big and will not deliver any value in a long time. But when it does it sure is valuable.
 * An audit log statement for logging into the system - this has value, is small, and holds many of the benefits of using smaller batches.
 
-## Analogy to TDD
+## Analogy with TDD
 
 At this point, I saw an analogy to how test-driven development should be practiced. I love when I see these connections in different areas because it makes it easier to know when I'm on the right path. An approach that has helped me in one area is easy to apply to another when I know the guiding principles.
 When using TDD to write code you follow a few steps to ensure that you are writing something small, useful, and relevant tests.
@@ -47,7 +47,8 @@ The first few iterations of your code are rarely the version that you end up wit
 
 Also like user stories, we learn by doing the work. The more tests and production code iterations we do the better we understand the problem and can make even better solutions in the end.
 
-The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2` but it was value for us at the time.
+The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2`, but it was value for us at the time.
+ 
 
 ## Summary
 
