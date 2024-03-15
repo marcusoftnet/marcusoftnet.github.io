@@ -136,16 +136,6 @@ Time to crack out the code editor! Let's create the function `MonteCarloSimulate
 You can define custom functions in Google Sheets by going to Extensions->App Script and creating a function in the code editor. The code we write here is some variant of JavaScript and I had to write a few helper-functions to perform the Monte Carlo Algorithm, but here is the outline of the code. I'll show the entire code at the end of the post
 
 ```javascript
-/**
- * Simulates end dates to complete the backlog using the Monte Carlo Simulation
- * 
- * @param {range} througputDataRangeName A range of actual things completed per day
- * @param {number} numberOfSimulationRuns The number of runs to do. More is better, but also slower. 1000 is probably good enough.
- * @param {number} backlogSize The size of the backlog, and the number of items, to use in the simulation
- * @param {date} startDate The date to use as the start date for the calculation
- * @return unique dates and times each date occurred in the simulation [date, number of occurrances]
- * @customfunction
- */
 function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate) {
   const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(througputDataRangeName));
 
