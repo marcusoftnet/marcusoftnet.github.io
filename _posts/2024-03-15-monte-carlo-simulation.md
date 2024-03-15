@@ -78,7 +78,7 @@ Now fill all of those columns too, and calculate the percentiles for each row. Y
 
 Select all the columns and create a scatter plot using the Flow time, Median, 80, and 95 percentiles. For the percentiles format the series to have `Point size` set to None and only show a trend line. It should look like this
 
-![Scatterplot with predictions](img/scatter-plot-with-predictions.png)
+![Scatterplot with predictions](/img/scatter-plot-with-predictions.png)
 
 And here we can now see that 50% of all values fall beneath the red, median line, which is at 8 days. And similar for the 80% and 95% line.
 
@@ -233,7 +233,7 @@ That will take some time to run (5 seconds ca for 100000 rows) but then we would
 
 You can now create a simple Column chart for all the values in `G:H` and it would look something like this:
 
-![Historgram for completion days after simulating 100000 runs](img/distribution-of-simulated-completion-dates.png)
+![Historgram for completion days after simulating 100000 runs](/img/distribution-of-simulated-completion-dates.png)
 
 If you update the parameters the simulation will rerun and the graph will be updated. However, during the run, the graph disappears and other values cannot be calculated. 
 
