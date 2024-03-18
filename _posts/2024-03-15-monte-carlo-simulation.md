@@ -104,6 +104,13 @@ Open a new tab and call it ["Throughput"](https://docs.google.com/spreadsheets/d
 
 In the B-column, we can now count the number of times each date occurs in the raw data, using the following formula: `=COUNTIF(RawData!$D$2:$D, A2)` and repeat the formula for each row in the B-column.
 
+UPDATED: If you download some data from JIRA you will get timestamps for your Resolved dates and we really need only the date part. Here's a QUERY that reads the Resolve date (in the `X`-column of the sheet `Jira raw data`) and counts the number of occurances. I.e. the formulas above all at once:
+
+```text
+=QUERY(INDEX(DATEVALUE('Jira raw data'!X:X)),"SELECT Col1,COUNT(Col1) group by Col1 ORDER BY Col1 DESC Label Col1 'Date', COUNT(Col1) 'Throughput'")
+```
+
+
 ### Parallel realities and Monte Carlo Simulations
 
 This outcome, that particular number of items completed for each day, is one way that it played out. But we want to look into the future and thinking that it will play out the same way doesn't make sense. I think about it like this: that it would be the same is just *one* way it can happen - the future holds many potential variants like that.
