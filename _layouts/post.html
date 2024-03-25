@@ -12,7 +12,7 @@ layout: default
     {% endif %}
     <div class="post-tags">
       {% for tag in page.tags %}
-        <a href="{{site.baseurl}}/tag/#{{tag|slugize}}">{{tag}}</a>
+        <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
