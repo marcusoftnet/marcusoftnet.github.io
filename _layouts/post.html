@@ -12,7 +12,7 @@ layout: default
     {% endif %}
     <div class="post-tags">
       {% if post %}
-        {% assign categories = post.categories %}
+        {% assign categories = post.tags %}
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
