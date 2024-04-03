@@ -110,7 +110,6 @@ UPDATED: If you download some data from JIRA you will get timestamps for your Re
 =QUERY(INDEX(DATEVALUE('Jira raw data'!X:X)),"SELECT Col1,COUNT(Col1) group by Col1 ORDER BY Col1 DESC Label Col1 'Date', COUNT(Col1) 'Throughput'")
 ```
 
-
 ### Parallel realities and Monte Carlo Simulations
 
 This outcome, that particular number of items completed for each day, is one way that it played out. But we want to look into the future and thinking that it will play out the same way doesn't make sense. I think about it like this: that it would be the same is just *one* way it can happen - the future holds many potential variants like that.
@@ -140,16 +139,24 @@ Time to crack out the code editor! Let's create the function `MonteCarloSimulate
 - The number of items in the backlog we want to run the simulations on, for example, 100 items
 - The start date to run the simulations from, for example, 2024-03-15.
 
+**UPDATE**
+I've added an additional parameter for `countOnlyWorkdays` which is `true` by default. It will adjust the way we count days, so that we only count working days (not weekends) for a more accurate end-date. I have updated the rest of the blog post with that information. 
+
 You can define custom functions in Google Sheets by going to Extensions->App Script and creating a function in the code editor. The code we write here is some variant of JavaScript and I had to write a few helper-functions to perform the Monte Carlo Algorithm, but here is the outline of the code. I'll show the entire code at the end of the post
 
 ```javascript
-function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate) {
+function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
   const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(througputDataRangeName));
 
   var projectedDates = []
   for(var i=0; i<=numberOfSimulationRuns; i++){
     var days = daysToReachZero(throughputValues, backlogSize);
-    projectedDates.push(addDays(startDate, days))
+    if(countOnlyWorkdays) {
+      projectedDates.push(addWorkdays(startDate, days))
+    }
+    else {
+      projectedDates.push(addDays(startDate, days))
+    }
   }
 
   const uniqueDays = getUniqueDays(projectedDates).sort()
@@ -184,6 +191,9 @@ Some comments on the code:
 - I repeat the simulations `numberOfSimulationRuns` number of times
   - For each simulation, I get the number of days it will take to reach zero (see `daysToReachZero` below)
   - I then add that number of days to the `startDate` to get the projected end date.
+    - I first check if we should count weekends as working days or not `if(countOnlyWorkdays)`
+      - `addWorkdays` is a custom function that skips counting weekends while adding days.
+      - `addDays` simply adds the given number days to the date
   - I store those dates in the `projectedDates`
 - Each simulation run is performed in the `daysToReachZero` function
   - For each iteration I get a new random value from our sample data, using the `randomFromArray` helper function I've written
@@ -224,7 +234,7 @@ I'm going to put the simulation parameters in some cells in the sheet to be able
 
 Now I can use my function, remembering that the output will be as many rows as in E4
 
-I added my function in G2 like this: `=MonteCarloSimulateBacklogCompletion("B2:B", $E$4, $E$2, $E$3)`
+I added my function in G2 like this: `=MonteCarloSimulateBacklogCompletion("B2:B", $E$4, $E$2, $E$3)`. I used the default value for `countOnlyWorkdays`, since it defaults to `true` which is what I wanted.
 
 That will take some time to run (5 seconds ca for 100000 rows) but then we would have two columns with the simulation results.
 
@@ -280,6 +290,25 @@ function randomFromArray(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 } 
 
+function addWorkdays(startDate, numWorkdays) {
+    // Loop through each workday and add to startDate
+    let currentDate = new Date(startDate);
+    let workdaysAdded = 0;
+    while (workdaysAdded < numWorkdays) {
+        currentDate.setDate(currentDate.getDate() + 1);
+
+        // Check if the current day is a weekend (Saturday or Sunday)
+        if (currentDate.getDay() === 0 || currentDate.getDay() === 6) {
+            continue; // Skip weekends
+        }
+
+        // If the current day is neither a weekend nor a holiday, increment the workdaysAdded counter
+        workdaysAdded++;
+    }
+
+    return currentDate;
+}
+
 
 function addDays(date, days) {
   var result = new Date(date);
@@ -314,19 +343,25 @@ function daysToReachZero(values, backlogSize) {
  * Simulates end dates to complete the backlog using the Monte Carlo Simulation
  * 
  * @param {range} througputDataRangeName A range of actual things completed per day
- * @param {number} numberOfSimulationRuns The number of runs to do. More is better, but also slower. 1000 is probably good enough.
+ * @param {number} numberOfSimulationRuns The number of runs to do. More is better, but also slower. 10000 is probably good enough.
  * @param {number} backlogSize The size of the backlog, and number of items, to use in the simulation
  * @param {date} startDate The date to use as the start date for the calculation
+ * @param {boolean} countOnlyWorkdays Indicates if only workdays should be counted, true by default
  * @return unique dates and times each date occurred in the simulation [date, number of occurrances]
  * @customfunction
  */
-function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate) {
+function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
   const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(througputDataRangeName));
 
   var projectedDates = []
   for(var i=0; i<=numberOfSimulationRuns; i++){
     var days = daysToReachZero(throughputValues, backlogSize);
-    projectedDates.push(addDays(startDate, days))
+    if(countOnlyWorkdays) {
+      projectedDates.push(addWorkdays(startDate, days))
+    }
+    else {
+      projectedDates.push(addDays(startDate, days))
+    }
   }
 
   const uniqueDays = getUniqueDays(projectedDates).sort()
