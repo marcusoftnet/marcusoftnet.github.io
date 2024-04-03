@@ -140,7 +140,7 @@ Time to crack out the code editor! Let's create the function `MonteCarloSimulate
 - The start date to run the simulations from, for example, 2024-03-15.
 
 **UPDATE**
-I've added an additional parameter for `countOnlyWorkdays` which is `true` by default. It will adjust the way we count days, so that we only count working days (not weekends) for a more accurate end-date. I have updated the rest of the blog post with that information. 
+I've added an additional parameter for `countOnlyWorkdays` which is `true` by default. It will adjust the way we count days, so that we only count working days (not weekends) for a more accurate end-date. I have updated the rest of the blog post with that information.
 
 You can define custom functions in Google Sheets by going to Extensions->App Script and creating a function in the code editor. The code we write here is some variant of JavaScript and I had to write a few helper-functions to perform the Monte Carlo Algorithm, but here is the outline of the code. I'll show the entire code at the end of the post
 
@@ -242,7 +242,7 @@ You can now create a simple Column chart for all the values in `G:H` and it woul
 
 ![Historgram for completion days after simulating 100000 runs](/img/distribution-of-simulated-completion-dates.png)
 
-If you update the parameters the simulation will rerun and the graph will be updated. However, during the run, the graph disappears and other values cannot be calculated. 
+If you update the parameters the simulation will rerun and the graph will be updated. However, during the run, the graph disappears and other values cannot be calculated.
 
 ### Calculating percentiles
 
@@ -250,7 +250,7 @@ That is cool but the prognosis is a bit hard to see. We wanted to get some certa
 
 For this, we need to calculate the percentiles for this data, which is a little bit tricky. For the 50-percentile we need to find the middle date, for example. We will do that by using [`INDEX` that finds](https://support.google.com/docs/answer/3098242?hl=en) a value from a range based on a row number.  
 
-That makes our job pretty easy - we just count the number of values and multiply it with `0.5` (for 50%, for 80% we use `0.8` etc.). Here are my calculations: 
+That makes our job pretty easy - we just count the number of values and multiply it with `0.5` (for 50%, for 80% we use `0.8` etc.). Here are my calculations:
 
 | Row | D                      | E                          |
 | :-- | :--                    | :--                        |
@@ -259,21 +259,21 @@ That makes our job pretty easy - we just count the number of values and multiply
 | 8   | 80 percentile          | `=INDEX(G:G, $E$6 * 0.8)`  |
 | 9   | 95 percentile          | `=INDEX(G:G, $E$6 * 0.95)` |
 
-Now we can answer the initial question like this: 
+Now we can answer the initial question like this:
 
 ```text
 If we started today, 2024-03-14, we would finish 100 items from the backlog: 
 
-- With 50% certainty 2024-05-16
-- With 80% certainty 2024-06-01
-- With 95% certainty 2024-06-10
+- With 50% certainty 2024-06-10
+- With 80% certainty 2024-07-03
+- With 95% certainty 2024-07-16
 
 We used a Monte Carlo Simulation with 100000 iterations and based it on our throughput for the last 178 days. 
 ```
 
 ## Summary
 
-I'm very proud that I managed to get this together and working so nicely. The value of this is that you with very little input-collection work (you probably already have this available from JIRA) and can easily produce a prognosis for completion to people around you. This report is based on actual data rather than guesses and estimations. 
+I'm very proud that I managed to get this together and working so nicely. The value of this is that you with very little input-collection work (you probably already have this available from JIRA) and can easily produce a prognosis for completion to people around you. This report is based on actual data rather than guesses and estimations.
 
 ### The full code
 
