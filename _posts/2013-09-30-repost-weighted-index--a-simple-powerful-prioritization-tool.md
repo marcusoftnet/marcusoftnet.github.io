@@ -39,19 +39,22 @@ When we got there we met the “american specialist” (let’s call him Steve, 
 
 At this point Steve introduced us to a practice he often used. He simply listed all the items in a long, unordered row and then added three columns to the left of them, forming a little table like this one:
 
-[![Initial table with measures](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.13.57-.png)](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.13.57-.png)
+![Initial table with measures](/img/weighted-index-1.png)
 
-We then discussed our situation and decided that we should evaluate each alternative based on the impact we thought that the suggested measure would have for performance and the time it would take us to implement that. We wrote that above two of the columns and Score above the third.
+We then discussed our situation and decided that we should evaluate each alternative based on the impact we thought that the suggested measure would have for performance and the time it would take us to implement that ("Quick to implement"). We wrote that above two of the columns and Score above the third.
 
-[![Column names for aspects to evaluate](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.14.04-.png)](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.14.04-.png)
+![Column names for aspects to evaluate](/img/weighted-index-2.png)
 
-We then went through all of the measures from top to bottom and ranked them on Performance Impact on a scale 1-5. Steve then covered the “Performance Impact” column and we ranked the alternatives on “Quick to implement”, again using 1-5 as our scale. That produced the following table:
+We then went through all of the measures from top to bottom and ranked them on Performance Impact on a scale 1-5. Steve then covered the “Impact” column and we ranked the alternatives on “Quick to implement”, again using 1-5 as our scale. That produced the following table:
 
-[![Table with ranked aspects](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.14.17-.png)](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.14.17-.png)We then calculated the Score (or weighted index) by multiplying them resulting in the following score.
+![Table with ranked aspects](/img/weighted-index-3.png)
 
-[![Ranked, weighted and the winner announced](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.27.31-.png)](http://codebetter.com/marcushammarberg/files/2013/09/Screen-Shot-2013-09-30-at-09.27.31-.png)
+We then calculated the Score (or weighted index) by multiplying them resulting in the following score.
+
+![Ranked, weighted and the winner announced](/img/weighted-index-4.png)
 
 Yeah; Measure 4 was deemed the winner.
+
 (If I remember correctly that had something to do with splitting larger COM dll-files into smaller ones. The large one was huge in fact, 16 mb, and wasn’t read into memory fast enough when several users were accessing the site.)
 
 We recommended them to implement that measure (only one they had time for). It worked, the [big international consultancy] branch in the country was saved, we were an experience richer and the customer was happy. I remember being carried through the office on the shoulders of … no, wait. That was me dreaming. It all went well and I picked up a practice that I have used on numerous occasions from that moment. Thanks “Steve”.
