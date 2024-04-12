@@ -11,15 +11,8 @@ blogger_orig_url: http://www.marcusoft.net/2008/06/butchering-star-wars.html
 ---
 
 
-Normally
-I don't like to laugh at misfortune but this is just to much. From what
-I understand this is from a beauty pageant in USA. You know, one part of
-the competition is to show off a talent. And this unfortunate girl was
-told (I presume) to play the trumpet and dance.
+Normally I don't like to laugh at misfortune but this is just to much. From what I understand this is from a beauty pageant in USA. You know, one part of the competition is to show off a talent. And this unfortunate girl was told (I presume) to play the trumpet and dance.
 
-Said and done - this clip is now a legendary clip on YouTube with about
-3 million views. Here you go:
-
-<div align="left">
+Said and done - this clip is now a legendary clip on YouTube with about 3 million views. Here you go:
 
 I don't even put it in the music-category as you might understand...
