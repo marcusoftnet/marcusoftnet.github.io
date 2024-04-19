@@ -1,210 +1,75 @@
 ---
 layout: post
-title: Applying Switch framework to  Meetings are not real work - part II
-date: 2012-09-20T07:00:00.000Z
+title: Simple where-do-we-spend-our-time visualisation
+date: 2012-09-14T08:48:00.000Z
 author: Marcus Hammarberg
 tags:
   - Life of a consultant
+  - Kanban
   - Agile
-modified_time: 2013-03-18T08:30:41.757Z
-thumbnail: >-
-  http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s72-c/Screen+Shot+2012-09-18+at+20.15.11.png
-blogger_id: tag:blogger.com,1999:blog-36533086.post-2180919324545037588
-blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html
+modified_time: 2012-10-05T08:31:36.272Z
+thumbnail: http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s72-c/work+item+types.JPG
+blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
+blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
 
+I have a confession to make; i think i'm turning into a data-guy. No, not a computer-guy - I've been that a long time. Rather it's that boring dude that keep asking for numbers, measurements and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recovery from some of the boredom-parts. It's called Simplicity and Visualisation.
 
+To be a little more serious I think that collecting data and then do small experiments based upon them rather than you feelings is the way to make controlled, continuous improvements. This is all very [Toyota Kata](http://www-personal.umich.edu/~mrother/Homepage.html) (or rather [Kanban Kata](http://hakanforss.wordpress.com/2012/07/12/kanban-katas-and-recipes-kanban-leadership-retreat-2012-session-klrat/) or even the [scientific method](http://en.wikipedia.org/wiki/Scientific_method)) like but that's exactly where I'm aiming.
 
+- Establish a target condition or goal
+- Make sure you really know where you stand today. Gather data to be sure
+- Take small experimental steps towards the goal
+- Measure and evaluate against your goal based on the numbers
 
-This is the second post in my series where I try to apply the Switch
-framework to the problem of people thinking that meetings aren't not
-proper work. Read the <a
-href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html"
-target="_blank">first post here</a>.
+In this post I'll show you how we did a small data gathering that didn't feel like data gathering at all.
 
-When we left of we had done some reasoning with the Rider of the
-Elephant to try to appeal to the logical side of things; we tried to
-find people holding great meetings and copy them, make checklists for
-good meetings and best practices that we could follow and even pointed
-to a bright and wonderful future where every meeting was great.
+### Why not feel like data gathering?
 
-This post talks to the Elephant - the subconsious that is run by primal
-forces, it's lazy and rather just do what is fun. We need a totally
-different approach here. Keep in mind the size of the Elephant - it will
-go the other way if it wants to.
+Every time I have introduced the idea of start measuring how we're doing in lead time, throughput or whatever have you - the first reaction is always a shudder. "No!? Why? We don't need to show that. We know how we're doing, right?"
 
-### Find the feeling
+This probably only show what most of us has been subjected to before; measurements to be followed by up others, to compare or even affect our salary.
 
-The first thing we need to do is get the Elephant to feel for the cause.
-A <a
-href="http://www.businessinsider.com/where-is-your-sense-of-urgency-take-6-steps-to-get-your-company-moving-2010-10?op=1"
-target="_blank">sense of urgency</a> as it's often called in the
-Lean literature.
+So, let me just make one thing clear here - that's not what i'm talking about here. I want the TEAM to collect data about the TEAMs performance to let the TEAM improve upon it as they see possible and fit. (Keyword in the pervious sentence was TEAM, if you missed it). It's an internal thing.
 
-<div class="separator" style="clear: both; text-align: center;">
+One easy way to accomplish that, and get many concerns from the team out of the way, is to let the team pick the scale or figures themselves. Like story points for example - it's a relative measurement that cannot be used to compare teams. One team says that a certain task is 8 story points, another calls the same task Large. Or 5 points. Or whatever.
 
-<a
-href="http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s1600/Screen+Shot+2012-09-18+at+20.15.11.png"
-data-imageanchor="1"
-style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img
-src="http://4.bp.blogspot.com/-sXlrAlycBQk/UFi6QVYRh0I/AAAAAAAABYs/jshbRTLsdsc/s320/Screen+Shot+2012-09-18+at+20.15.11.png"
-data-border="0" width="320" height="89" /></a>
+For the case of this blog post, we went even simpler...
 
-In the Switch book there's a wonderful story about this. A company had a
-lot of different factories. They bought a lot of different clothing and
-equipment from different vendors. This costed a lot since every factory
-bought their own stuff. No big purchase discounts could be had.
+### The problem - where do we spend our time
 
-A project was created ... but no one care. Their elephants was not
-involved.
+I'm coaching a team right now (amazing engineers - best I've worked with) that are the firefighters of the company. Anything goes wrong in any backend related stuff - you call them. And they deliver. So you could say that they are paying off technical debt for the company.
 
-So the project manager sent out an intern to collect on glove of each
-type that the company had in any factory. It was about 250 different
-types. He poured these on top of a table and brought the managers into
-the room one by one:
+But they want to move away from firefighting, reactive work and move towards proactive work instead. Who can blame them? So they started to. And they feel like there on the move to doing more Proactive work. Maybe 60% reactive work now.
 
-"You know what this is?"
+See right there? That's what I mean; But who do we KNOW that guys? Let's gather some data.
 
-"No... A truckload of gloves?"
+### The solution - simple and lightweight
 
-"Yes - this is all the different types of gloves we're using in the
-company"
+This team is really working me hard. Every suggestion I come up with is met with healthy amounts of scepsis and their asking me for good motivations all the time. Thanks team.
 
-"WHAT?! We need to fix this. NOW!"
+So we agreed that we wanted something really lightweight but also really enough that it gave us real data to work from. We devised two visualizations that helped us with this:
 
-So this was very clever. He did a visual representation of how much
-items there really was. Something that was really hard to grasp in
-figures. He then chocked them a bit. This created a sense of urgency.
-Note the "WE need to fix this NOW". They felt that this needed to be
-address. But they all saw it as their problem. WE - not YOU.
+Firstly all the stickies on the board are just in 2 colors; Reactive work and other work.
 
-To motivate us to do better meetings we need to show how much time is
-lost in bad meetings. One way could be to have a
-<a href="http://www.firstbigstep.net/uploads/MeetingCalc.html"
-target="_blank">Meeting Hourly Rate Calculator</a> running in the
-background.
+![work item types](http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s320/work+item+types.JPG)
 
-<div class="separator" style="clear: both; text-align: center;">
+This means that you can easily take a glance at our board at anytime and see what's going on that the **current** distribution between reactive and proactive work
 
-<a
-href="http://4.bp.blogspot.com/-2U92S-zrtpI/UFg0nD1s-VI/AAAAAAAABYU/Qe1StsGZBl4/s1600/Screen+Shot+2012-09-18+at+10.44.45.png"
-data-imageanchor="1"
-style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img
-src="http://4.bp.blogspot.com/-2U92S-zrtpI/UFg0nD1s-VI/AAAAAAAABYU/Qe1StsGZBl4/s320/Screen+Shot+2012-09-18+at+10.44.45.png"
-data-border="0" width="320" height="87" /></a>
+![our board](http://4.bp.blogspot.com/-tZcm6EzinkE/UFLik2vIafI/AAAAAAAABXk/clx_3_PRJsc/s320/our+board.jpg)
 
-With this clock ticking away we will not drag out discussions longer
-than needed. But this could also create stress so use it with care.
+To follow up we did a small board on the side (with a HORRIBLE background color, sorry about that) that is updated by each person around the daily standup each morning. It simply shows where you spent your time mostly the day before.
 
-Another thing we could try is to list all the meetings we're having and
-rate them on how well time spent every meeting really is. It can be done
-as a simple 15 minute exercise. (Thanks
-<a href="http://www.crisp.se/konsulter/henrik-kniberg"
-target="_blank">Henrik Kniberg</a> for this tip)
+![time spent tracker](http://4.bp.blogspot.com/-OHqTw7WW9gU/UFLiliDVMmI/AAAAAAAABXs/QSF0_hexvK4/s320/time+spent+tracker.JPG)
 
-Draw a table like this:
+Yes, we're tracking days that was mostly spent in meetings too, on the yellow stickies (some people have a hard time making out the color, hence the Swedish word for yellow, GUL, written on them). Somedays are swallowed up in meetings, which you can see.
 
-<div class="separator" style="clear: both; text-align: center;">
+**UPDATE:** We started to track the trends updating them weekly. Here is how it's spread for the first couple of weeks:
 
-<a
-href="http://2.bp.blogspot.com/-j1cUrl117OY/UFg19BEfONI/AAAAAAAABYc/MOY79paxn0w/s1600/Screen+Shot+2012-09-18+at+10.50.48.png"
-data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
-src="http://2.bp.blogspot.com/-j1cUrl117OY/UFg19BEfONI/AAAAAAAABYc/MOY79paxn0w/s320/Screen+Shot+2012-09-18+at+10.50.48.png"
-data-border="0" width="320" height="116" /></a>
+![bild](http://3.bp.blogspot.com/-F4QVmvVW_sw/UG6a0oehbNI/AAAAAAAABY8/IAsikqTdU1I/s320/bild+(2).JPG)
 
-And write all the recurring meetings your having in the first column.
-Then have everybody rate the value of the meeting on a scale from 1-5
-(for example). Then list the length of the meeting. For good measures
-you could track if people feel that the meetings are mandatory.
-
-With this data we can see which meeting that are the most valuable. And
-also which ones that take up a lot of our time. Finally - just think if
-people are attending meetings just because they think they have to, when
-they in reality don't? That would be waste indeed.
-
-This little exercise triggers a lot of interesting discussions, I think.
-You want everybody to feel; WE need to fix this NOW. And we can. Yes we
-can :).
-
-A final thing I've tried is to calculate how much time the meeting is
-taking relative the sprint, iteration or week. For example; we're doing
-a sprint planning (1 day) for an 3 week sprint. That is; we preparing
-the work for the next 3 weeks and taking 8 h / 120 h = 7% of our time
-for this.
-
-Does that feel good? How about 4 hours instead? A little lesser
-planning, but just 4 % of our allocated time.
-
-### Shrink the change
-
-Even though we know where we're going and what are missing now the
-journey can be daunting. It's simply to far a leap to make, even in our
-minds. So we need to help the lazy Elephant, by showing that the journey
-has already started and we can do simple stuff already today to improve
-right now. It dosen't take much.
-
-For starters; let's write do a simple template that we all use for
-invites;
-
-"Hello,
-I really need your help in this meeting. We're going to talk about X and
-I want you to contribute with ideas and opinions on it.
-
-We're starting at XX:XX and ending at YY:YY. Not a minute later.
-
-When this meeting is over I hope that we have achieved:
-
-- Goal 1
-- Goal 2
-- Goal 3
-
-I hope that you can take time out of your schedule and help us with
-this. "
-
-Yeah - probably needs some working but just stating the subject and goal
-of the meeting, when it starts and ends (!) I think can improve a lot of
-on the motivation for me being in the meeting in the first place. I
-cannot count the number of times I have gone to meetings without even
-knowing what they are about.
-
-Another simple thing to start doing is to agree on a time limit. Start
-using timeboxes for meetings. And adjust the content of the meeting to
-fit the time box.
-The elephant loves to hear stuff like; "We'll make a big improvement
-just by doing timeboxed meetings. That's easy stuff - just set a
-clock".
-
-Try to find simple changes that everyone can do and just do them. If you
-are met with resistance to some suggested changes you can always propose
-it as an experiment. "For the next week - let's do an experiment with
-time boxed meetings. And then evaluate." This is elephant-candy.
-
-### Grow you people
-
-Under this heading we're aiming to create a culture. A force that help
-us uphold the values even when new people are added or when we forget
-ourselves. You want to create a feeling of beloning to something greater
-than yourself.
-
-Start using slogans and sound-bits like "We're great in doing meetings
-here!" or "Every meeting is better than the last one".
-
-Better yet if the term "meeting" is infected with a lof of bad feelings.
-And it probably is. Stop using that word then. Always talk about
-"workshops" or "get togethers" or "check-ins" (for shorter meetings)
-
-What you most definitly want is to stop bad mouthing meeting (or what
-ever you call them). Just don't tolerate the people saying stuff like
-"Meetings are not work", "Why are you punishing us with another meeting"
-or "I just don't like meetings". Ask them what they are doing about it.
-Remind people that a lot of meetings are requests, not mandatory. You
-have to take responsibility for what you do with your time.
+It's a rolling buffer just showing the last week. We take photos of it a little now and then to get an overview. So here you can see that during the last week the distribution was a bit different than before.
 
 ### Conclusion
 
-We have not tried to reason with the Elephant, trying to talk with the
-lazy subconscious of the people we're trying to change. That just leaves
-the last part - shaping the path on which the Rider and the Elephant are
-walking down. That's the subject of the <a
-href="http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html"
-target="_blank">next post</a>. See you there.
+With these two simple visualisations we gathering data on how the distribution really is between the reactive and the proactive work. Note that lack of exact numbers here. It's deliberate. We hope that the pictures still gives us an good enough knowledge about the distribution, and warns us when it goes to far to either way.
