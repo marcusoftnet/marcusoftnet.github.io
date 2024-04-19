@@ -1,11 +1,25 @@
 #!/bin/bash
 
-# Read the markdown content from a file
-input_file="original_post.md"
-content=$(<"$input_file")
+# Check if the input file is provided as an argument
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <path_to_original_post>"
+    exit 1
+fi
+
+# Read the path to the markdown content from the first argument
+input_file="$1"
+
+# Make sure the input file exists
+if [ ! -f "$input_file" ]; then
+    echo "Error: File not found: $input_file"
+    exit 1
+fi
 
 # Make a copy of the original file with the extension .org.md
 cp "$input_file" "${input_file%.md}.org.md"
+
+# Read the markdown content from the input file
+content=$(<"$input_file")
 
 # Replace HTML tags with markdown equivalent
 content=$(sed 's/<\/\?div>//g' <<< "$content")
