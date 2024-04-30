@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I'm Talking About: Yes, I'm Talking About Changing
+title: What I'm Talking About - Yes, I'm Talking About Changing
 date: 2013-10-24T11:44:00.001Z
 author: Marcus Hammarberg
 tags:
