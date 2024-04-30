@@ -10,8 +10,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-06-03T04:59:30.112Z
-thumbnail: >-
-  http://lh4.ggpht.com/-q-cGsE2G1kc/U41RJdC9isI/AAAAAAAAD7M/QuCxsovKKTY/s72-c/Aesop_pushkin01_thumb.jpg?imgmax=800
+thumbnail: http://lh4.ggpht.com/-q-cGsE2G1kc/U41RJdC9isI/AAAAAAAAD7M/QuCxsovKKTY/s72-c/Aesop_pushkin01_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4443794205082562848
 blogger_orig_url: http://www.marcusoft.net/2014/06/the-talk-about-later-list.html
 ---

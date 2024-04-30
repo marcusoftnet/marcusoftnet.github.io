@@ -8,8 +8,7 @@ tags:
   - Life of a consultant
   - Salvation Army
 modified_time: 2008-12-31T08:44:36.561Z
-thumbnail: >-
-  http://lh3.ggpht.com/\_kkDJOSPNTLs/SVsw5Mk3hJI/AAAAAAAAAf0/V1v5Cz-oEbI/s72-c/PICT2480_thumb.jpg?imgmax=800
+thumbnail: http://lh3.ggpht.com/\_kkDJOSPNTLs/SVsw5Mk3hJI/AAAAAAAAAf0/V1v5Cz-oEbI/s72-c/PICT2480_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1203307379232676258
 blogger_orig_url: http://www.marcusoft.net/2008/12/2008-another-great-year.html
 ---

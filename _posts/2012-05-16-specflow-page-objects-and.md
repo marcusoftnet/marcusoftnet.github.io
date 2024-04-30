@@ -9,8 +9,7 @@ tags:
   - Agile
   - SpecFlow
 modified_time: 2013-01-30T14:40:57.546Z
-thumbnail: >-
-  http://lh6.ggpht.com/-pWpMISDNgTI/T7OhNxh3t9I/AAAAAAAABPg/9HvHRV6w8IM/s72-c/wlEmoticon-confusedsmile%25255B2%25255D.png?imgmax=800
+thumbnail: http://lh6.ggpht.com/-pWpMISDNgTI/T7OhNxh3t9I/AAAAAAAABPg/9HvHRV6w8IM/s72-c/wlEmoticon-confusedsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1609908988336242581
 blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.html
 ---

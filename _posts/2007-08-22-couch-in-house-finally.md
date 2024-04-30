@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-08-21T18:20:50.014Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/RssshUnppKI/AAAAAAAAAMc/1OvgHW5I0KQ/s72-c/PICT2140.JPG
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RssshUnppKI/AAAAAAAAAMc/1OvgHW5I0KQ/s72-c/PICT2140.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7525604069077413052
 blogger_orig_url: http://www.marcusoft.net/2007/08/couch-in-house-finally.html
 ---

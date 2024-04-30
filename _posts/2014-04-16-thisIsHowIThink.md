@@ -10,8 +10,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-04-25T07:14:43.300Z
-thumbnail: >-
-  http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg
+thumbnail: http://4.bp.blogspot.com/-m0d9f-NTaLQ/U04OTHVArHI/AAAAAAAACQ4/3iVCLtG8gGg/s72-c/2014-04-16+09.00.34.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3756488527386682835
 blogger_orig_url: http://www.marcusoft.net/2014/04/thisIsHowIThink.html
 ---

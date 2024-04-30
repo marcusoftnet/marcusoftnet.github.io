@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2008-07-02T08:29:31.854Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_kkDJOSPNTLs/SGs8PwZYmRI/AAAAAAAAAVg/uq94Mv2A3Fo/s72-c/MarcusHammarberg.jpg
+thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SGs8PwZYmRI/AAAAAAAAAVg/uq94Mv2A3Fo/s72-c/MarcusHammarberg.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2416803812227480380
 blogger_orig_url: http://www.marcusoft.net/2008/07/modelling-result.html
 ---

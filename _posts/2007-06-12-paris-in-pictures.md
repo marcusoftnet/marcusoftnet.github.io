@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-06-12T05:37:30.267Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rm4wBkBiT3I/AAAAAAAAAKs/PJ-\_djvxwlo/s72-c/PICT1706.JPG
+thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rm4wBkBiT3I/AAAAAAAAAKs/PJ-\_djvxwlo/s72-c/PICT1706.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6923083728218346314
 blogger_orig_url: http://www.marcusoft.net/2007/06/paris-in-pictures.html
 ---

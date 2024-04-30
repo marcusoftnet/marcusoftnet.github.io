@@ -8,8 +8,7 @@ tags:
   - Tools
   - Life of a consultant
 modified_time: 2014-10-05T12:18:39.121Z
-thumbnail: >-
-  http://3.bp.blogspot.com/-8rPX2yoxHtc/Ut4bQmQgvFI/AAAAAAAAB2g/iG-Vu-z5u9s/s72-c/network+configuration+for+wifi+hotspot.png
+thumbnail: http://3.bp.blogspot.com/-8rPX2yoxHtc/Ut4bQmQgvFI/AAAAAAAAB2g/iG-Vu-z5u9s/s72-c/network+configuration+for+wifi+hotspot.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-70385268225734244
 blogger_orig_url: http://www.marcusoft.net/2014/01/share-your-internet-connection-via-wifi.html
 ---

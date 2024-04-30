@@ -8,8 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-03-05T14:09:37.252Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
+thumbnail: http://2.bp.blogspot.com/-5XFiq1Y30pY/UTRzU7S-3UI/AAAAAAAABbM/WoOQJqHoPs0/s72-c/between+the+chairs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4864005741396452887
 blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html
 ---

@@ -11,8 +11,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-11-07T08:19:34.844Z
-thumbnail: >-
-  <http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg>
+thumbnail: <http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg>
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1668465135217375764
 blogger_orig_url: <http://www.marcusoft.net/2014/11/communication-debt.html>
 ---

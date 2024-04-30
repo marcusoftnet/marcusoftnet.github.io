@@ -8,8 +8,7 @@ tags:
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.524Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
+thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html
 ---

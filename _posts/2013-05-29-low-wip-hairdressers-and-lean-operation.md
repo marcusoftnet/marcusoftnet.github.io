@@ -8,8 +8,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2013-05-29T13:38:40.861Z
-thumbnail: >-
-  http://3.bp.blogspot.com/-\_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s72-c/Screen+Shot+2013-05-29+at+10.13.46+.png
+thumbnail: http://3.bp.blogspot.com/-\_yXffLQrjlM/UaW5IvSynhI/AAAAAAAABeU/8p3bR6xyHkI/s72-c/Screen+Shot+2013-05-29+at+10.13.46+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5197645370134929012
 blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html
 ---

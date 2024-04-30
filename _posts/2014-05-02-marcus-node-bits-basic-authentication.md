@@ -8,8 +8,7 @@ tags:
   - Tools
   - Koa
 modified_time: 2014-06-09T02:59:00.503Z
-thumbnail: >-
-  http://lh5.ggpht.com/-fD9vojC0hwk/U2OczEnFGpI/AAAAAAAAC3w/u8pjXbXFELU/s72-c/wlEmoticon-sadsmile2.png?imgmax=800
+thumbnail: http://lh5.ggpht.com/-fD9vojC0hwk/U2OczEnFGpI/AAAAAAAAC3w/u8pjXbXFELU/s72-c/wlEmoticon-sadsmile2.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8966292886396606059
 blogger_orig_url: http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html
 ---

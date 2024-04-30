@@ -8,8 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-11-12T20:04:53.237Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
+thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052
 blogger_orig_url: http://www.marcusoft.net/2013/10/YesITalkAboutChange.html
 ---

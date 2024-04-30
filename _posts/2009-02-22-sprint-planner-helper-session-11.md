@@ -7,8 +7,7 @@ tags:
   - Sprint Planner Helper
   - TDD
 modified_time: 2009-02-21T22:30:40.161Z
-thumbnail: >-
-  http://lh6.ggpht.com/\_kkDJOSPNTLs/SaCAj6mqXeI/AAAAAAAAAhs/q5kHDnspv6E/s72-c/sprintplannerhelpergui1_thumb%5B1%5D.jpg?imgmax=800
+thumbnail: http://lh6.ggpht.com/\_kkDJOSPNTLs/SaCAj6mqXeI/AAAAAAAAAhs/q5kHDnspv6E/s72-c/sprintplannerhelpergui1_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5399120244865118545
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-11.html
 ---

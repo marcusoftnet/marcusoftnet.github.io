@@ -9,8 +9,7 @@ tags:
   - KanbanBoards
   - SpecFlow
 modified_time: 2011-02-05T20:11:06.427Z
-thumbnail: >-
-  http://lh3.ggpht.com/\_TI0jeIedRFk/TU2t4aBY_vI/AAAAAAAAA0k/pNIsi5pGUQs/s72-c/create%20specification%20with%20first%20scenario_thumb.jpg?imgmax=800
+thumbnail: http://lh3.ggpht.com/\_TI0jeIedRFk/TU2t4aBY_vI/AAAAAAAAA0k/pNIsi5pGUQs/s72-c/create%20specification%20with%20first%20scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8417148080028689205
 blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html
 ---

@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2008-11-03T16:37:52.949Z
-thumbnail: >-
-  http://lh6.ggpht.com/\_kkDJOSPNTLs/SQ8ozDXCSLI/AAAAAAAAAYY/KZWQ9FxPyqc/s72-c/DSC_0017_thumb%5B4%5D.jpg?imgmax=800
+thumbnail: http://lh6.ggpht.com/\_kkDJOSPNTLs/SQ8ozDXCSLI/AAAAAAAAAYY/KZWQ9FxPyqc/s72-c/DSC_0017_thumb%5B4%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2891467257393248408
 blogger_orig_url: http://www.marcusoft.net/2008/11/abbe-going-strong.html
 ---

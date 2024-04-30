@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private - BrassBand
 modified_time: 2007-04-02T08:07:08.362+02:00'
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RhCdC4TY4bI/AAAAAAAAAHM/Y0vwXirlIo4/s72-c/vi+tar+emot+appl%C3%A5der.jpg
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RhCdC4TY4bI/AAAAAAAAAHM/Y0vwXirlIo4/s72-c/vi+tar+emot+appl%C3%A5der.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5378186820892078226
 blogger_orig_url: http://www.marcusoft.net/2007/04/bengt-eklund.html
 ---

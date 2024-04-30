@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2008-06-12T10:52:42.871Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/SFD_bXm08NI/AAAAAAAAAUg/oBUqvgR-7Fo/s72-c/1.jpg
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/SFD_bXm08NI/AAAAAAAAAUg/oBUqvgR-7Fo/s72-c/1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3606708872668700283
 blogger_orig_url: http://www.marcusoft.net/2008/06/first-laugh.html
 ---

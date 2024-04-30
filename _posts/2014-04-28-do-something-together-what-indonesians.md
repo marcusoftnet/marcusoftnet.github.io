@@ -9,8 +9,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-04-28T10:10:10.069+02:00'
-thumbnail: >-
-  http://3.bp.blogspot.com/--GQDF-Y30OU/U14KX1zBgeI/AAAAAAAACnc/26LC75vcscs/s72-c/2014-04-25+11.48.29.jpg
+thumbnail: http://3.bp.blogspot.com/--GQDF-Y30OU/U14KX1zBgeI/AAAAAAAACnc/26LC75vcscs/s72-c/2014-04-25+11.48.29.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8864860280376307160
 blogger_orig_url: http://www.marcusoft.net/2014/04/do-something-together-what-indonesians.html
 ---

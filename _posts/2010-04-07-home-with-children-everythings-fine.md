@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2010-04-07T08:58:45.416Z
-thumbnail: >-
-  http://lh5.ggpht.com/\_TI0jeIedRFk/S7xJPa9TRHI/AAAAAAAAAfA/fSeWajJw4IE/s72-c/DSC_2212_thumb%5B1%5D.jpg?imgmax=800
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/S7xJPa9TRHI/AAAAAAAAAfA/fSeWajJw4IE/s72-c/DSC_2212_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1213035755040787898
 blogger_orig_url: http://www.marcusoft.net/2010/04/home-with-children-everythings-fine.html
 ---

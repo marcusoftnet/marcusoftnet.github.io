@@ -7,8 +7,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2012-09-24T09:05:51.476Z
-thumbnail: >-
-  http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
+thumbnail: http://1.bp.blogspot.com/-XgP4dEYyOYA/UDjcVWmpMiI/AAAAAAAABtA/gYt4Ww_ULPc/s72-c/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
 blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
 ---

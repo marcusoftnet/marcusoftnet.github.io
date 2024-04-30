@@ -8,8 +8,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2011-06-01T20:56:45.817Z
-thumbnail: >-
-  http://lh3.ggpht.com/-42_XIS4q5ng/TeanSuKOU9I/AAAAAAAAA_w/kGWbtqTEj24/s72-c/wlEmoticon-winkingsmile%25255B2%25255D.png?imgmax=800
+thumbnail: http://lh3.ggpht.com/-42_XIS4q5ng/TeanSuKOU9I/AAAAAAAAA_w/kGWbtqTEj24/s72-c/wlEmoticon-winkingsmile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2318944997718944184
 blogger_orig_url: http://www.marcusoft.net/2011/06/theory-of-constraints-and-specification.html
 ---

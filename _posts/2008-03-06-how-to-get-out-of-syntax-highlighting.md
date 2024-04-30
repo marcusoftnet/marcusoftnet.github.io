@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - VB.NET
 modified_time: 2010-12-14T15:20:33.326Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/R8-csWQz5PI/AAAAAAAAARM/ja8UA5zTBM4/s72-c/syntaxhighlightvb.net.jpb.JPG
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/R8-csWQz5PI/AAAAAAAAARM/ja8UA5zTBM4/s72-c/syntaxhighlightvb.net.jpb.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1392169269904390839
 blogger_orig_url: http://www.marcusoft.net/2008/03/how-to-get-out-of-syntax-highlighting.html
 ---

@@ -7,8 +7,7 @@ tags:
   - Marcus private
   - Life of a consultant
 modified_time: 2008-09-09T05:50:16.922Z
-thumbnail: >-
-  http://lh3.ggpht.com/eufMarcus/SMWoWGcJ0ZI/AAAAAAAAAWs/DwjsF6248Y8/s72-c/DSC_0002_thumb%5B1%5D.jpg?imgmax=800
+thumbnail: http://lh3.ggpht.com/eufMarcus/SMWoWGcJ0ZI/AAAAAAAAAWs/DwjsF6248Y8/s72-c/DSC_0002_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6289525943214990499
 blogger_orig_url: http://www.marcusoft.net/2008/09/sleepless-in-stockholm.html
 ---

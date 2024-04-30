@@ -8,8 +8,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2011-09-16T07:00:11.577Z
-thumbnail: >-
-  http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
+thumbnail: http://lh4.ggpht.com/-S8rl3FrhKp8/TnI_yGgN4QI/AAAAAAAABDg/uiqiIij9K1k/s72-c/wlEmoticon-smile%25255B2%25255D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2993379680989849936
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html
 ---

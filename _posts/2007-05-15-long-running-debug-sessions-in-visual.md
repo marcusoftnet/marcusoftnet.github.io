@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.612Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rkl1GoeKfrI/AAAAAAAAAI8/2uBiQjIj2nY/s72-c/solutionprops.JPG
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/Rkl1GoeKfrI/AAAAAAAAAI8/2uBiQjIj2nY/s72-c/solutionprops.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-692377622613333906
 blogger_orig_url: http://www.marcusoft.net/2007/05/long-running-debug-sessions-in-visual.html
 ---

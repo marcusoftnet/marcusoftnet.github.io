@@ -10,8 +10,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-03-17T01:37:31.547Z
-thumbnail: >-
-  http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
+thumbnail: http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6567161020781209891
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html
 ---

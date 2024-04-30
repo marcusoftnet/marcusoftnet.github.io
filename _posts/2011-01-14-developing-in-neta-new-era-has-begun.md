@@ -9,8 +9,7 @@ tags:
   - KanbanBoards
   - Agile
 modified_time: 2011-02-05T20:13:11.775Z
-thumbnail: >-
-  http://lh5.ggpht.com/\_TI0jeIedRFk/TS9gf84iOrI/AAAAAAAAArw/fAKXyaQG_TQ/s72-c/wlEmoticon-smile%5B2%5D.png?imgmax=800
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TS9gf84iOrI/AAAAAAAAArw/fAKXyaQG_TQ/s72-c/wlEmoticon-smile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5907964016203666193
 blogger_orig_url: http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html
 ---

@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2008-01-29T11:21:30.821Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R58L7HOODuI/AAAAAAAAAPc/TfyUJmYw9Z8/s72-c/PICT2446.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-644964024397565861
 blogger_orig_url: http://www.marcusoft.net/2008/01/son-is-born.html
 ---

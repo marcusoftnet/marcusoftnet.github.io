@@ -7,8 +7,7 @@ tags:
   - Tools
   - .NET
 modified_time: 2011-09-01T14:03:37.637Z
-thumbnail: >-
-  http://lh5.ggpht.com/-n34J70F2SuA/Tl-Qnb6o0pI/AAAAAAAABBk/iH5qSo5veR4/s72-c/adding%252520new%252520nuget%252520package%252520source_thumb.jpg?imgmax=800
+thumbnail: http://lh5.ggpht.com/-n34J70F2SuA/Tl-Qnb6o0pI/AAAAAAAABBk/iH5qSo5veR4/s72-c/adding%252520new%252520nuget%252520package%252520source_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-640926282847787172
 blogger_orig_url: http://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html
 ---

@@ -5,8 +5,7 @@ date: 2006-12-13T07:11:00.000Z
 author: Marcus Hammarberg
 tags: null
 modified_time: 2006-12-14T06:37:53.785Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYAPD0M4n_I/AAAAAAAAAAw/8Rjh9FJaZ78/s72-c/band_logo_ybs.jpg
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYAPD0M4n_I/AAAAAAAAAAw/8Rjh9FJaZ78/s72-c/band_logo_ybs.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6887639483124177391
 blogger_orig_url: http://www.marcusoft.net/2006/12/ybs-era-to-end.html
 ---

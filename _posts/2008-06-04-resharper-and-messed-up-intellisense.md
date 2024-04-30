@@ -7,8 +7,7 @@ tags:
   - VB.NET
   - Tools
 modified_time: 2010-12-14T15:22:38.275Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_kkDJOSPNTLs/SEZwgxjljgI/AAAAAAAAAUQ/XzCpmdZ2llY/s72-c/resharper.JPG
+thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/SEZwgxjljgI/AAAAAAAAAUQ/XzCpmdZ2llY/s72-c/resharper.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5443905703235417361
 blogger_orig_url: http://www.marcusoft.net/2008/06/resharper-and-messed-up-intellisense.html
 ---

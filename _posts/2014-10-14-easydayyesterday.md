@@ -10,8 +10,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-10-14T06:42:15.875Z
-thumbnail: >-
-  http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
+thumbnail: http://4.bp.blogspot.com/-bjVpLGzNkUk/VDyLDQTj2zI/AAAAAAAAH_Y/1wx-HZ6hWbw/s72-c/250px-US_Navy_SEALs_insignia.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4622216197719868034
 blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
 ---

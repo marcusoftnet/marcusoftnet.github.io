@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-04-11T06:38:38.221Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RhyCR1ggv-I/AAAAAAAAAIU/QOs6AEVk2HU/s72-c/PICT1412.JPG
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RhyCR1ggv-I/AAAAAAAAAIU/QOs6AEVk2HU/s72-c/PICT1412.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-299938643676482953
 blogger_orig_url: http://www.marcusoft.net/2007/04/more-from-weekend.html
 ---

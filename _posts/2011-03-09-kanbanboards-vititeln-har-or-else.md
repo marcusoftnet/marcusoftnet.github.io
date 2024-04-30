@@ -10,8 +10,7 @@ tags:
   - ASP.NET MVC
   - KanbanBoards
 modified_time: 2011-03-08T19:03:13.839Z
-thumbnail: >-
-  http://lh5.ggpht.com/\_TI0jeIedRFk/TWfHO5e-0HI/AAAAAAAAA6I/mmMSFVaF2Y8/s72-c/openid%20message%20handlers_thumb.jpg?imgmax=800
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TWfHO5e-0HI/AAAAAAAAA6I/mmMSFVaF2Y8/s72-c/openid%20message%20handlers_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1325740255107798275
 blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vititeln-har-or-else.html
 ---

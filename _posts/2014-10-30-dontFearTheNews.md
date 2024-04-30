@@ -8,8 +8,7 @@ tags:
   - Marcus private
   - Life of a consultant
 modified_time: 2014-10-30T04:18:33.559Z
-thumbnail: >-
-  http://1.bp.blogspot.com/-NBHYux_gKvg/VFG1Hr22e-I/AAAAAAAAIgk/W8ONkkq1NIA/s72-c/253323619_eb37d646b9_m.jpg
+thumbnail: http://1.bp.blogspot.com/-NBHYux_gKvg/VFG1Hr22e-I/AAAAAAAAIgk/W8ONkkq1NIA/s72-c/253323619_eb37d646b9_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8050334069200900800
 blogger_orig_url: http://www.marcusoft.net/2014/10/dontFearTheNews.html
 ---

@@ -9,8 +9,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2010-12-14T15:18:09.697Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_TI0jeIedRFk/TL6UwdakgVI/AAAAAAAAAos/gccn5IEttRM/s72-c/exclude+from+sourcecontrol.png
+thumbnail: http://1.bp.blogspot.com/\_TI0jeIedRFk/TL6UwdakgVI/AAAAAAAAAos/gccn5IEttRM/s72-c/exclude+from+sourcecontrol.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4159732501731910010
 blogger_orig_url: http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html
 ---

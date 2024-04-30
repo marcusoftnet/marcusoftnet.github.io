@@ -7,8 +7,7 @@ tags:
   - .NET
   - SpecFlow
 modified_time: 2011-02-10T00:34:51.789Z
-thumbnail: >-
-  http://lh6.ggpht.com/\_TI0jeIedRFk/TVMykeuNQqI/AAAAAAAAA4w/41Mn4IdgjXc/s72-c/stupid%20steps%20in%20scenario_thumb.jpg?imgmax=800
+thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVMykeuNQqI/AAAAAAAAA4w/41Mn4IdgjXc/s72-c/stupid%20steps%20in%20scenario_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1569234750775344083
 blogger_orig_url: http://www.marcusoft.net/2011/02/in-specflowa-test-runner-is-just-glue.html
 ---

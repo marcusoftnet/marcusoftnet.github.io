@@ -8,8 +8,7 @@ tags:
   - BrassBand
   - Salvation Army
 modified_time: 2009-05-07T11:33:21.475Z
-thumbnail: >-
-  http://lh4.ggpht.com/\_TI0jeIedRFk/SgLHAOi9PmI/AAAAAAAAAFo/X3z-6UmePec/s72-c/priorityreview_thumb.jpg?imgmax=800
+thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SgLHAOi9PmI/AAAAAAAAAFo/X3z-6UmePec/s72-c/priorityreview_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1566872612520975834
 blogger_orig_url: http://www.marcusoft.net/2009/05/hard-to-get-started-salvation-army-and.html
 ---

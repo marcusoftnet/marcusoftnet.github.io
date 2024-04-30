@@ -7,8 +7,7 @@ tags:
   - .NET
   - Life of a consultant
 modified_time: 2007-01-11T06:55:43.985Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RaXeIy_TdNI/AAAAAAAAAEU/\_Paci\_-xwRQ/s72-c/iis60configsettings.JPG
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RaXeIy_TdNI/AAAAAAAAAEU/\_Paci\_-xwRQ/s72-c/iis60configsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6228418697016228830
 blogger_orig_url: http://www.marcusoft.net/2007/01/new-iis-dialogbox.html
 ---

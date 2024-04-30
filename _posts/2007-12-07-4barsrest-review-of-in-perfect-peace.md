@@ -7,8 +7,7 @@ tags:
   - Marcus private
   - BrassBand
 modified_time: 2007-12-07T11:53:46.922Z
-thumbnail: >-
-  http://3.bp.blogspot.com/\_kkDJOSPNTLs/R1k0KN0Da4I/AAAAAAAAAOQ/ukacCkuBxtk/s72-c/cd.jpg
+thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/R1k0KN0Da4I/AAAAAAAAAOQ/ukacCkuBxtk/s72-c/cd.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2527307076736865641
 blogger_orig_url: http://www.marcusoft.net/2007/12/4barsrest-review-of-in-perfect-peace.html
 ---

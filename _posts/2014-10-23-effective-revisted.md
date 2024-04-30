@@ -12,8 +12,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-10-23T03:44:28.638Z
-thumbnail: >-
-  http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
+thumbnail: http://1.bp.blogspot.com/-qPbrpX2awl4/VEh1C7riW1I/AAAAAAAAIR0/gCdL1ip_PHo/s72-c/9096190838_350590d10d_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8744532193182995906
 blogger_orig_url: http://www.marcusoft.net/2014/10/effective-revisted.html
 ---

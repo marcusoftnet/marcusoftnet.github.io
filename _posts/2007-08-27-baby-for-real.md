@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-08-27T06:22:59.648Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RtJlBEnppMI/AAAAAAAAAMs/zlyHZueXsIs/s72-c/bebis2.JPG
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RtJlBEnppMI/AAAAAAAAAMs/zlyHZueXsIs/s72-c/bebis2.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3148654725197374451
 blogger_orig_url: http://www.marcusoft.net/2007/08/baby-for-real.html
 ---

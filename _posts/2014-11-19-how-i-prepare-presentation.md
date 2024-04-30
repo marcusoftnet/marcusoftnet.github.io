@@ -9,8 +9,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2014-11-20T03:01:43.904Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s72-c/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png
+thumbnail: http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s72-c/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
 blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
 ---

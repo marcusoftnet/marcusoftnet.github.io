@@ -8,8 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2014-06-06T04:15:36.646Z
-thumbnail: >-
-  http://lh3.ggpht.com/-aomQ9ZtCY_g/U5FAXcNkP2I/AAAAAAAAEAc/ftGtlyIU0Ik/s72-c/cringe_thumb.gif?imgmax=800
+thumbnail: http://lh3.ggpht.com/-aomQ9ZtCY_g/U5FAXcNkP2I/AAAAAAAAEAc/ftGtlyIU0Ik/s72-c/cringe_thumb.gif?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3857759954962312283
 blogger_orig_url: http://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-trick.html
 ---

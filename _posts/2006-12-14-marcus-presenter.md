@@ -7,8 +7,7 @@ tags:
   - Marcus private
   - BrassBand
 modified_time: 2006-12-14T13:20:04.683Z
-thumbnail: >-
-  http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYFNdkM4oAI/AAAAAAAAAA8/fo-h2uj0a7c/s72-c/150.jpg
+thumbnail: http://2.bp.blogspot.com/\_kkDJOSPNTLs/RYFNdkM4oAI/AAAAAAAAAA8/fo-h2uj0a7c/s72-c/150.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3075638830183813627
 blogger_orig_url: http://www.marcusoft.net/2006/12/marcus-presenter.html
 ---

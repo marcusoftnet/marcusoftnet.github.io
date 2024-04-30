@@ -10,8 +10,7 @@ tags:
   - Agile
   - Indonesia
 modified_time: 2014-03-17T01:37:31.541Z
-thumbnail: >-
-  http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
+thumbnail: http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1338677593036398302
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-getting-started.html
 ---

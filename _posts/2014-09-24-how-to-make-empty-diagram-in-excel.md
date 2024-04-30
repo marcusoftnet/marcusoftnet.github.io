@@ -9,8 +9,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2014-09-25T01:33:48.926Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-kixtMADNPsg/VCJKEqjpWxI/AAAAAAAAHig/De1YqMiIcYc/s72-c/board.jpg
+thumbnail: http://2.bp.blogspot.com/-kixtMADNPsg/VCJKEqjpWxI/AAAAAAAAHig/De1YqMiIcYc/s72-c/board.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2332663668202321971
 blogger_orig_url: http://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-excel.html
 ---

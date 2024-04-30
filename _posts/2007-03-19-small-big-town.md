@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-03-20T11:48:17.140Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rf40YXWbeSI/AAAAAAAAAGo/RuFPUoDLpec/s72-c/PICT1400.JPG
+thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/Rf40YXWbeSI/AAAAAAAAAGo/RuFPUoDLpec/s72-c/PICT1400.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7043658924771417199
 blogger_orig_url: http://www.marcusoft.net/2007/03/small-big-town.html
 ---

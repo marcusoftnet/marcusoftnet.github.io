@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2006-12-18T06:44:24.007Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/RYY4h97AoiI/AAAAAAAAAC8/H_wEKrKPytc/s72-c/IMAGE_111.jpg
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/RYY4h97AoiI/AAAAAAAAAC8/H_wEKrKPytc/s72-c/IMAGE_111.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5000153235170939039
 blogger_orig_url: http://www.marcusoft.net/2006/12/first-sant-completed.html
 ---

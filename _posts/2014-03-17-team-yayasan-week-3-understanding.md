@@ -8,8 +8,7 @@ tags:
   - Lean
   - Kanban
 modified_time: 2014-03-17T04:18:29.327Z
-thumbnail: >-
-  http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
+thumbnail: http://2.bp.blogspot.com/-ezu5koVfLjc/UyZsVC_0T8I/AAAAAAAACEs/Xs2xk2bJjj4/s72-c/2014-03-17+07.16.49.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7834322553779832021
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-3-understanding.html
 ---

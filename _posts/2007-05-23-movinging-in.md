@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-05-23T14:03:33.724Z
-thumbnail: >-
-  http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s72-c/PICT1580.JPG
+thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s72-c/PICT1580.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4836021775907817470
 blogger_orig_url: http://www.marcusoft.net/2007/05/movinging-in.html
 ---

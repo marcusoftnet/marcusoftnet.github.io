@@ -11,8 +11,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-11-04T02:49:01.421Z
-thumbnail: >-
-  http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
+thumbnail: http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916
 blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html
 ---

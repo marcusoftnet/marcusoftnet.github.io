@@ -11,8 +11,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-10-30T03:29:30.584Z
-thumbnail: >-
-  http://4.bp.blogspot.com/-5tjLJXKatlw/VFGpzCr4vWI/AAAAAAAAIf8/r4z2jsmENaY/s72-c/Screen%2BShot%2B2014-10-30%2Bat%2B10.00.02%2B.png
+thumbnail: http://4.bp.blogspot.com/-5tjLJXKatlw/VFGpzCr4vWI/AAAAAAAAIf8/r4z2jsmENaY/s72-c/Screen%2BShot%2B2014-10-30%2Bat%2B10.00.02%2B.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2472026161708010128
 blogger_orig_url: http://www.marcusoft.net/2014/10/improvmentlane.html
 ---

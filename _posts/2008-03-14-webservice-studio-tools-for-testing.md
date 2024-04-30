@@ -7,8 +7,7 @@ tags:
   - Tools
   - .NET
 modified_time: 2010-12-14T15:22:38.289Z
-thumbnail: >-
-  http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9qMjbtDxdI/AAAAAAAAASc/CjoKf0Uyu1I/s72-c/webservicestudio.JPG
+thumbnail: http://1.bp.blogspot.com/\_kkDJOSPNTLs/R9qMjbtDxdI/AAAAAAAAASc/CjoKf0Uyu1I/s72-c/webservicestudio.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1039618126787174780
 blogger_orig_url: http://www.marcusoft.net/2008/03/webservice-studio-tools-for-testing.html
 ---

@@ -10,8 +10,7 @@ tags:
   - .NET
   - SpecFlow
 modified_time: 2012-08-09T19:19:52.184Z
-thumbnail: >-
-  http://lh3.ggpht.com/-D9-xHMNcQZs/UCQNLj2AYcI/AAAAAAAABRk/fMIrv2IHpLI/s72-c/Screen%252520Shot%2525202012-08-09%252520at%25252021.09.06_thumb.png?imgmax=800
+thumbnail: http://lh3.ggpht.com/-D9-xHMNcQZs/UCQNLj2AYcI/AAAAAAAABRk/fMIrv2IHpLI/s72-c/Screen%252520Shot%2525202012-08-09%252520at%25252021.09.06_thumb.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4917334123497966173
 blogger_orig_url: http://www.marcusoft.net/2012/08/great-visual-studio-integration-another.html
 ---

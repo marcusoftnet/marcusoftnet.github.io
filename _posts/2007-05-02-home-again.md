@@ -7,8 +7,7 @@ tags:
   - Marcus private
   - Life of a consultant
 modified_time: 2007-05-03T05:37:13.064Z
-thumbnail: >-
-  http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rjl08YeKfqI/AAAAAAAAAI0/XreWgtMyEK0/s72-c/PICT1512.JPG
+thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Rjl08YeKfqI/AAAAAAAAAI0/XreWgtMyEK0/s72-c/PICT1512.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4279257510615337179
 blogger_orig_url: http://www.marcusoft.net/2007/05/home-again.html
 ---

@@ -6,8 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
 modified_time: 2009-04-07T20:12:48.614Z
-thumbnail: >-
-  http://lh4.ggpht.com/\_TI0jeIedRFk/SduzvZvPLtI/AAAAAAAAAEI/HNFcB9fkQnU/s72-c/aggregates_thumb%5B1%5D.jpg?imgmax=800
+thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SduzvZvPLtI/AAAAAAAAAEI/HNFcB9fkQnU/s72-c/aggregates_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2791464324153723923
 blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-session-26.html
 ---

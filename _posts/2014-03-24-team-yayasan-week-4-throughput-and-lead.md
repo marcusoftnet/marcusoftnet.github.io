@@ -10,8 +10,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-03-24T05:44:15.030Z
-thumbnail: >-
-  http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
+thumbnail: http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2414901018966712482
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html
 ---

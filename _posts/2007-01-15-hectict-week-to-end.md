@@ -8,8 +8,7 @@ tags:
   - Life of a consultant
   - Salvation Army
 modified_time: 2007-01-15T06:54:09.926Z
-thumbnail: >-
-  http://3.bp.blogspot.com/\_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s72-c/sture.JPG
+thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/Raskdi_TdOI/AAAAAAAAAEk/keahPU7245s/s72-c/sture.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5391255051189945122
 blogger_orig_url: http://www.marcusoft.net/2007/01/hectict-week-to-end.html
 ---

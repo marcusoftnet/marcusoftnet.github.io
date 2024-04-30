@@ -9,8 +9,7 @@ tags:
   - Agile
   - SpecFlow
 modified_time: 2011-01-13T20:18:16.228Z
-thumbnail: >-
-  http://lh5.ggpht.com/\_TI0jeIedRFk/TSeGuHKFJKI/AAAAAAAAArM/XjCCauGjlF0/s72-c/specws_thumb%5B2%5D.jpg?imgmax=800
+thumbnail: http://lh5.ggpht.com/\_TI0jeIedRFk/TSeGuHKFJKI/AAAAAAAAArM/XjCCauGjlF0/s72-c/specws_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4541921553992432260
 blogger_orig_url: http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html
 ---

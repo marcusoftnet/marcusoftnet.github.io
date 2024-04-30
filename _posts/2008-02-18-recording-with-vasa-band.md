@@ -7,8 +7,7 @@ tags:
   - BrassBand
   - Salvation Army
 modified_time: 2008-02-19T13:07:15.332Z
-thumbnail: >-
-  http://4.bp.blogspot.com/\_kkDJOSPNTLs/R7ias5J-hlI/AAAAAAAAAQk/5l9NMgpXTh4/s72-c/PICT2579.JPG
+thumbnail: http://4.bp.blogspot.com/\_kkDJOSPNTLs/R7ias5J-hlI/AAAAAAAAAQk/5l9NMgpXTh4/s72-c/PICT2579.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-342955153423395129
 blogger_orig_url: http://www.marcusoft.net/2008/02/recording-with-vasa-band.html
 ---
