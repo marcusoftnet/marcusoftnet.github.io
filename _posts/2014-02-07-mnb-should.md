@@ -105,9 +105,7 @@ it("should validate presence of email")
 
 But really why put the "should" in there? In the immortal words of Yoda:
 
-[Do or do not
-
-. There is no try!](http://www.youtube.com/watch?v=BQ4yd2W50No)
+[Do or do not. There is no try!](http://www.youtube.com/watch?v=BQ4yd2W50No)
 
 Or in our case:
 
