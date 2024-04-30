@@ -8,230 +8,145 @@ tags:
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.524Z
-thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-\_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
+thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html
 ---
 
+I'm writing down some of the things I've picked up when I started to learn about [Node](http://nodejs.org/), [Express](http://expressjs.com/), and [Mongo](http://www.mongodb.org/). Here are all the posts in the series:
 
-
-
-I'm writing down some of the things I've picked up when I started to
-learn
-about <a href="http://nodejs.org/" target="_blank">Node</a>, <a href="http://expressjs.com/" target="_blank">Express</a> and <a href="http://www.mongodb.org/" target="_blank">Mongo</a>.
-Here are all the post in the series:
-
-- <a href="http://www.marcusoft.net/2014/02/mnb-terminal.html"
-    target="_blank">Doing stuff in the terminal is not scary at all</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
-    target="_blank">npm is not only for getting packages</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html"
-    target="_blank">Package.json is a mighty tool</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-git.html"
-    target="_blank">Git is not that hard, but I need to refresh my
-    knowledge</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-callbacks.html"
-    target="_blank">Callback function is cool stuff, and I even know how to
-    write them</a>
-- <span
-    style="color: #0000ee; text-decoration: underline;"><a href="http://www.marcusoft.net/2014/02/mnb-mocha.html"
-    target="_blank">mocha is cool both as framework and test runner</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-should.html"
-    target="_blank">Should is a nice way to do asserts</a>
-- <a href="http://www.marcusoft.net/2014/02/mnb-monk.html"
-    target="_blank">monk is an easy way to access mongo</a>
+- [Doing stuff in the terminal is not scary at all](http://www.marcusoft.net/2014/02/mnb-terminal.html)
+- [npm is not only for getting packages](http://www.marcusoft.net/2014/02/mnb-npm.html)
+- [Package.json is a mighty tool](http://www.marcusoft.net/2014/02/mnb-packagejson.html)
+- [Git is not that hard, but I need to refresh my knowledge](http://www.marcusoft.net/2014/02/mnb-git.html)
+- [Callback function is cool stuff, and I even know how to write them](http://www.marcusoft.net/2014/02/mnb-callbacks.html)
+- [mocha is cool both as framework and test runner](http://www.marcusoft.net/2014/02/mnb-mocha.html)
+- [Should is a nice way to do asserts](http://www.marcusoft.net/2014/02/mnb-should.html)
+- [monk is an easy way to access mongo](http://www.marcusoft.net/2014/02/mnb-monk.html)
 - Express is best without generators - this post
-- <a href="http://www.marcusoft.net/2014/02/mnb-supertest.html"
-    target="_blank">supertest is a nice way to test an api</a>
+- [supertest is a nice way to test an api](http://www.marcusoft.net/2014/02/mnb-supertest.html)
 
-This post is about the most commonly used web framework in Node:
-<a href="http://expressjs.com/" target="_blank">Express</a>.
-<span
-id="more"><a href="http://nodejs.org/" target="_blank">Node</a>
-in itself is pretty cool and the three-line web server is mind blowing
-at first sight. Pretty soon though you want something that is a bit
-friendlier to code against. Most people seems to go
-with <a href="http://expressjs.com/" target="_blank">Express</a>. From
-their web page we read:
+This post is about the most commonly used web framework in Node: [Express](http://expressjs.com/). Node in itself is pretty cool and the three-line web server is mind-blowing at first sight. Pretty soon though you want something that is a bit friendlier to code against. Most people seem to go with [Express](http://expressjs.com/). From their web page, we read:
 
-> Express is a minimal and flexible node.js web application framework,
-> providing a robust set of features for building single and multi-page,
-> and hybrid web applications.
+> Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 
-Couldn't agree more. The only thing is... most tutorials on Express uses
-the generators. That is the set of tools that comes with Express
-(install with <span
-style="font-family: Courier New, Courier, monospace;">npm install
-express -g) <span style="font-family: inherit;">and you'll have
-the generators all over. This site generator bothers me in two
-ways:
+Couldn't agree more. The only thing is... most tutorials on Express use the generators. That is the set of tools that comes with Express (install with `npm install express -g`) and you'll have the generators all over. This site generator bothers me in two ways:
 
-- it sets up a complete site, when I just want to do an API
-- that site defaults to server-side generation, when I want to serve a
-    static JavaScript client
+- It sets up a complete site when I just want to do an API.
+- That site defaults to server-side generation when I want to serve a static JavaScript client.
 
-Nowadays I tend to default to a simple backend API (see, I din't even
-write REST API just to avoid religious battles. Smooth operator :)),
-that just serve JSON and then a Javascript client that calls into that
-API, using <a href="http://angularjs.org/" target="_blank">AngularJS</a>
-for example.
+Nowadays I tend to default to a simple backend API (see, I didn't even write REST API just to avoid religious battles. Smooth operator :)), that just serves JSON and then a JavaScript client that calls into that API, using [AngularJS](http://angularjs.org/) for example.
 
-I don't need Jade, Sessions and folders for controllers etc. My whole
-API will be 1-5 files depending on how modular I'm feeling. I might need
-a public folder but that's easy enough to fix.
+I don't need Jade, Sessions, and folders for controllers, etc. My whole API will be 1-5 files depending on how modular I'm feeling. I might need a public folder but that's easy enough to fix.
 
-So my suggestion is that you ditch the
-<a href="http://expressjs.com/guide.html#executable"
-target="_blank">generators (powerful as they are)</a> and drop down to
-bare-bones <a href="http://expressjs.com/" target="_blank">Express</a>. You'll
-find a very powerful and terse framework that resembles
-<a href="http://nancyfx.org/" target="_blank">NancyFx</a> a lot. Ah,
-well it resembles
-<a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a> too, but
-Nancy is cooler.
+So my suggestion is that you ditch the [generators (powerful as they are)](http://expressjs.com/guide.html#executable) and drop down to bare-bones [Express](http://expressjs.com/). You'll find a very powerful and terse framework that resembles [NancyFx](http://nancyfx.org/) a lot. Ah, well, it resembles [Sinatra](http://www.sinatrarb.com/) too, but Nancy is cooler.
 
-In fact, on their <a href="http://expressjs.com/guide.html#executable"
-target="_blank">guide-page</a>,
-<a href="http://expressjs.com/" target="_blank">ExpressJs</a> is showing
-you the minimal version first. And we can write the ubiquitous
-fit-in-a-tweet-web application:
+In fact, on their [guide page](http://expressjs.com/guide.html#executable), [ExpressJs](http://expressjs.com/) is showing you the minimal version first. And we can write the ubiquitous fit-in-a-tweet-web application:
 
-<div style="text-align: left;">
+```javascript
+var express = require('express');
+var app = express();
 
-This little application just responds with "Hello World" when you access
-it on [http://localhost:3000](http://localhost:3000/)
+app.get('/', function(req, res) {
+  res.send('Hello World');
+});
+
+app.listen(3000);
+```
+
+This little application just responds with "Hello World" when you access it on [http://localhost:3000](http://localhost:3000/).
 
 ### Understanding Express
 
-The API for Express is very easy and in fact there just a couple of
-basic things that you need to know in order to start coding up an API.
-Things are considerable easier when we're just dishing out JSON rather
-than keeping creating a complete site.
+The API for Express is very easy and in fact, there are just a couple of basic things that you need to know in order to start coding up an API. Things are considerably easier when we're just dishing out JSON rather than creating a complete site.
 
-As always this is just the things that I've used and get to know. You
-should check out the
-<a href="http://expressjs.com/api.html" target="_blank">API
-documentation</a>, it's great. And the
-<a href="http://expressjs.com/guide.html" target="_blank">starting
-guide</a> is also nice.
+As always this is just the things that I've used and got to know. You should check out the [API documentation](http://expressjs.com/api.html), it's great. And the [starting guide](http://expressjs.com/guide.html) is also nice.
 
-First and formost you should create an Express application. This is
-super simple since that's what the <span
-style="font-family: Courier New, Courier, monospace;">express()
-function returns. Like this:
+First and foremost you should create an Express application. This is super simple since that's what the `express()` function returns. Like this:
 
-In the little tweet example above you saw the app.get() function in
-action. The really good news is that all the HTTP verbs act in the same
-manner. They take an URL path and a callback function.
+```javascript
+var express = require('express');
+var app = express();
+```
 
-You can understand it as: "when somebody *Posts* to '/orders/', execute
-this function that I'm writing here".
+In the little tweet example above you saw the `app.get()` function in action. The really good news is that all the HTTP verbs act in the same manner. They take a URL path and a callback function.
 
-As I said the path parameter can contain parameters that we easily get
-hold of via the <span
-style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#req.params"
-target="_blank">req.params</a> <span
-style="font-family: inherit;">property. Here's an example of a
-get to an URL with a parameter, called id
+You can understand it as: "when somebody *Posts* to '/orders/', execute this function that I'm writing here".
 
-Often your clients will be sending data in the body of the HTTP request.
-Express provides an easy way to extract those by using the middleware
-<span
-style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#req.body"
-target="_blank">bodyParser()</a> (see below). Which gives us this
-easy way to access the body data
+As I said the path parameter can contain parameters that we easily get hold of via the `req.params` property. Here's an example of a get to a URL with a parameter, called id:
 
-To this you can post a HTTP form like this (using the awesome
-<a href="http://www.getpostman.com/" target="_blank">Postman extension
-for Chrome</a>):
+```javascript
+app.get('/users/:id', function(req, res) {
+  res.send('user ' + req.params.id);
+});
+```
 
-<div class="separator" style="clear: both; text-align: center;">
+Often your clients will be sending data in the body of the HTTP request. Express provides an easy way to extract those by using the middleware `bodyParser()` (see below). Which gives us this easy way to access the body data:
 
-<a
-href="http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png"
-data-imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img
-src="http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png"
-data-border="0" width="640" height="328" /></a>
+```javascript
+app.post('/users', function(req, res) {
+  var username = req.body.username;
+  res.send('user ' + username + ' created');
+});
+```
 
-</div>
+To this you can post an HTTP form like this (using the awesome [Postman extension for Chrome](http://www.getpostman.com/)):
 
-Sometimes, or rather after awhile, writing the functions inline gets a
-bit messy. You can then write the handling code in a separate module and
-include that. Express, default, puts these in a folder called "routes",
-but we can do as we want.
+![Screen Shot](http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0b
 
-Note that I'm using the <span
-style="font-family: Courier New, Courier, monospace;">exports-keyword
-in the <span
-style="font-family: Courier New, Courier, monospace;">userHandler.js
-file. That let's the function be visible to other modules. I used the
-name <span
-style="font-family: Courier New, Courier, monospace;">handler as
-a nod to a way we created frameworks in the 90-ies. Everything that we
-really didn't know what to name was "handler". It should maybe have been
-"controller" in this case...
+NXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png)
 
-You return data via the response-object that is passed to the callback
-function for your route, often called <span
-style="font-family: Courier New, Courier, monospace;">res but you
-can of course name it what ever you want. The simplest is just to do
-send as we seen a lot of examples of already.
+Sometimes, or rather after a while, writing the functions inline gets a bit messy. You can then write the handling code in a separate module and include that. Express, default, puts these in a folder called "routes", but we can do as we want.
 
-When you send JSON back there's a special method for that. The
-content-type will automatically be set to "application/json" for you
-when using this method as a nice little service to you.
+Note that I'm using the `exports` keyword in the `userHandler.js` file. That lets the function be visible to other modules. I used the name `handler` as a nod to a way we created frameworks in the 90s. Everything that we really didn't know what to name was "handler". It should maybe have been "controller" in this case...
+
+You return data via the response-object that is passed to the callback function for your route, often called `res` but you can of course name it whatever you want. The simplest is just to do `send` as we've seen a lot of examples of already.
+
+When you send JSON back there's a special method for that. The content-type will automatically be set to "application/json" for you when using this method as a nice little service to you.
 
 ### Middleware
 
-At the heart of Express is the Connect middleware. For the most part you
-don't need to care about Connect since it's nicely exposed as a couple
-of functions, but it's really how Express is stitched together.
+At the heart of Express is the Connect middleware. For the most part, you don't need to care about Connect since it's nicely exposed as a couple of functions, but it's really how Express is stitched together.
 
-We have already seen
-the <a href="http://expressjs.com/api.html#req.body"
-style="font-family: 'Courier New', Courier, monospace;"
-target="_blank">bodyParser()</a> in action and here are few others that
-I found useful:
+We have already seen the `bodyParser()` in action and here are a few others that I found useful:
 
 #### basicAuth
 
-<div style="text-align: left;">
-
-<span
-style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#basicAuth"
-target="_blank">basicAuth()</a>- sets up basic authentication for
-your site. As always, basic is sending the username and password in
-clear text, so beware.
+`basicAuth()` - sets up basic authentication for your site. As always, basic is sending the username and password in clear text, so beware.
 
 #### directory and static
 
-<span
-style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#directory"
-target="_blank">directory()</a> - that helps you configure
-directories, together with <span
-style="font-family: Courier New, Courier, monospace;">static() it
-can help you to serve up static files; like your client side JavaScript
-application for example
+`directory()` - that helps you configure directories, together with `static()` it can help you to serve up static files; like your client-side JavaScript application for example.
 
 #### app.param() - an example of middleware, that is really powerful
 
-The one middleware that impressed me the most, so far, is <span
-style="font-family: Courier New, Courier, monospace;"><a href="http://expressjs.com/api.html#app.param"
-target="_blank">app.param()</a>. This can help you do some really
-powerful stuff, in just a few lines of code. To show this I'm going to
-<a
-href="http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/"
-target="_blank">lean on an example from this site</a> and walk your
-through it:
+The one middleware that impressed me the most, so far, is `app.param()`. This can help you do some really powerful stuff, in just a few lines of code. To show this I'm going to [lean on an example from this site](http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/) and walk you through it:
 
-You could also do hard coded paths, of course (like /users) and create a
-little snippet that loads users by id. This is shown to great effect in
-the documentation for <a href="http://expressjs.com/api.html#app.param"
-style="font-family: 'Courier New', Courier, monospace;"
-target="_blank">app.param()</a> and I've adapted it here:
+```javascript
+app.param('id', function(req, res, next, id) {
+  req.id = id;
+  // do something with id
+  next();
+});
+
+app.get('/user/:id', function(req, res) {
+  res.send('user ' + req.id);
+});
+```
+
+You could also do hard-coded paths, of course (like `/users`) and create a little snippet that loads users by id. This is shown to great effect in the documentation for `app.param()` and I've adapted it here:
+
+```javascript
+app.param('userId', function(req, res, next, userId) {
+  // do something with userId
+  next();
+});
+
+app.get('/user/:userId', function(req, res) {
+  res.send('user ' + req.userId);
+});
+```
 
 ### Conclusion
 
-Yeah, as you can see express is not that hard and that the same time
-powerful. Just like we like it. I think you get the know the framework
-much better without the generators. Go old school and type it yourself!
+Yeah, as you can see express is not that hard and at the same time powerful. Just like we like it. I think you get to know the framework much better without the generators. Go old school and type it yourself!
