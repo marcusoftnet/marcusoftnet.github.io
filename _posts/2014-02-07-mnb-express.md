@@ -92,9 +92,7 @@ app.post('/users', function(req, res) {
 
 To this you can post an HTTP form like this (using the awesome [Postman extension for Chrome](http://www.getpostman.com/)):
 
-![Screen Shot](http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0b
-
-NXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png)
+![Screen Shot](http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png)
 
 Sometimes, or rather after a while, writing the functions inline gets a bit messy. You can then write the handling code in a separate module and include that. Express, default, puts these in a folder called "routes", but we can do as we want.
 
