@@ -62,7 +62,4 @@ We have taken a look at some of the examples that Koa provide and learnt about m
 
 [The source code for the examples on GitHub](https://github.com/koajs/examples/) and my [GitHub repository with the files](https://github.com/marcusoftnet/koajsExamples). All examples must be run with the "`node --harmony`" flag, as described earlier.
 
----
-
 **Side note**: I stumbled upon a wonderful video introduction to generator/yield in JavaScript from JSConfUS 2013. You should [check it out](http://www.youtube.com/watch?v=HygYXVzHxos). Or wait... [here it is embedded](http://www.youtube.com/watch?v=HygYXVzHxos&start=634&end=760).
-
