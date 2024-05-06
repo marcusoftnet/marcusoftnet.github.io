@@ -13,11 +13,8 @@ blogger_orig_url: http://www.marcusoft.net/2007/01/tuba-circus-dont-try-this-at-
 
 OK - found this on a site and it just blew my mind!
 
-I've actually heard that piece with
-<a href="http://www.baadsvik.com/" target="_blank">Øystein Baadsvik</a> before but it
-still amazing.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U0qIL2ie-VE?si=xHC9xRcz38RNE305" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For all non-brass players - this is more or
-less impossible stuff. Imagine a footballer doing a tripple-salkov and kicking a basketball
-into the top corner of a goal from 200 meters - and you are close in how
-hard this is.
+I've actually heard that piece with [Øystein Baadsvik](http://www.baadsvik.com/) before but it still amazing.
+
+For all non-brass players - this is more or less impossible stuff. Imagine a footballer doing a tripple-salkov and kicking a basketball into the top corner of a goal from 200 meters - and you are close in how hard this is.
