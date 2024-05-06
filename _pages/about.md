@@ -8,7 +8,7 @@ header-img: img/about-bg.jpg
 
 ## Normal short intro
 
-Agile coach, Christian, .NET/NodeJs Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook)
+Agile coach, Christian, .NET/NodeJs/Scala Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook) and [Salvation: The Bungsu Story](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135). Created a [bootcamp for developers](https://salt.dev/) and now works as a data engineering. 
 
 ## Longer introduction
 
@@ -23,8 +23,8 @@ The underlying theme of it all is [agile](http://www.agilemanifesto.org) lean an
 This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everthing I learned in my head and started to write it down instead.
 
 During the years I learned so much by sharing and soon I picked up the theme for the blog: "sharing is learning". Just the other day I got some evidence that I might be on the right track too:
-<blockquote>We Learn . . .
-10% of what we read, 20% of what we hear, 30% of what we see, 50% of what we see and hear, 70% of what we discuss, 80% of what we experience, 95% of what we teach others</blockquote>
+
+> We Learn . . .10% of what we read, 20% of what we hear, 30% of what we see, 50% of what we see and hear, 70% of what we discuss, 80% of what we experience, 95% of what we teach others
 William Glassner
 
 So ... it might be for my selfish learning purposes I write this. Anyway I'm very happpy to share this with you... to learn more ... to share more ... to learn more ... to
@@ -35,7 +35,7 @@ I have one wife, Elin, and three boys; Albert (born 2008) and Arvid and Gustav (
 
 ### Salvation Army and Indonesia
 
-Yes, I lived in Indonesia for two years (2014-2015) working for the Salvation Army there. Me and Elin are worked with the 6 hospitals (and 17 clinics) that the Salvation Army have, trying to help them to become more effective in their medical and spiritual ministry.
+Yes, I lived in Indonesia for two years (2014-2015) working for the Salvation Army there. Me and Elin are worked with the 6 hospitals (and 17 clinics) that the Salvation Army have, trying to help them to become more effective in their medical and spiritual ministry. I wrote a [book about that experience](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135)
 
 ### Aptitud
 
