@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding My Perspective: A Journey in Thought
+title: Understanding My Perspective A Journey in Thought
 date: 2014-04-16T02:13:00.003Z
 author: Marcus Hammarberg
 tags:
