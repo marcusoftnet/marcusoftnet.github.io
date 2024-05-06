@@ -50,7 +50,7 @@ Let's break shortly from the examples, more are to come, and mention the [API of
 
 First, the request and response is baked into the Context object. This actually works better than you would think. `ctx.header` is just a shortcut to the header of the [Request object](https://github.com/visionmedia/node-methods). And `ctx.status = 200;` is just shorthand for `this.response.status = 200;`.
 
-The same is true for `this` in the middleware functions. They are all bound to a new Context object (that you can augment and return for instance). Hence why you can do `this.response.body = 'Hello';`. 
+The same is true for `this` in the middleware functions. They are all bound to a new Context object (that you can augment and return for instance). Hence why you can do `this.response.body = 'Hello';`.
 
 There you go. Be sure to dive deeper into the [documentation of Koa](https://github.com/koajs/koa/wiki), I'll be waiting here, drinking coffee, when you come back.
 
