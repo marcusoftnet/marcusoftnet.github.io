@@ -68,12 +68,12 @@ First I downloaded everything I needed:
 - [Prism 2.2](http://compositewpf.codeplex.com/releases/view/46046)
 - [White 0.20](http://white.codeplex.com/releases/view/29694)
 
-I then compiled Prism according to the ReadMe.txt and the “Desktop only - Open Composite Application Library.bat”-file, which put the files in \CAL\Desktop\Composite.UnityExtensions\bin\Debug-folder which puzzled me for a while.
+I then compiled Prism according to the ReadMe.txt and the “Desktop only - Open Composite Application Library.bat”-file, which put the files in `\CAL\Desktop\Composite.UnityExtensions\bin\Debug`-folder which puzzled me for a while.
 Could not help myself to smile when 431 tests passed. Gotta love [TDD](http://en.wikipedia.org/wiki/Test-driven_development)!
 
 I now created a empty solution for my application, Marcusoft.BDD.Calculator and in doing so got a root-folder for my application.
 
-In this root project folder I created a lib-folder and copied all the Prism binaries (from CAL\Desktop\Composite.UnityExtensions\bin\Debug)
+In this root project folder I created a lib-folder and copied all the Prism binaries (from `CAL\Desktop\Composite.UnityExtensions\bin\Debug`)
 
 I then moved all the White binaries to the lib-folder as well. My god – it was many – I will not use all of those…
 
@@ -123,8 +123,10 @@ When you have created your module and got it to run and display an empty form, y
 
 The first thing I started out with was my background:
 
-> Background:
-> Given that the application is started
+```gherkin
+Background:
+Given that the application is started
+```
 
 To achieve this I had to find a way to start the application via White.
 
@@ -140,7 +142,9 @@ Now we’re cooking. This actually starts my application and displays the form. 
 
 The first row in my scenario says:
 
-> Given that I write 2 in the textbox Number 1
+```gherkin
+Given that I write 2 in the textbox Number 1
+```
 
 I need some way to get hold of a textbox and write the specified number in it.
 
@@ -174,11 +178,15 @@ Love this!
 
 The final pieces comes together quite easy. I updated the Given-statement that SpecFlow-generated for Calculation Type from this:
 
-> Given("that I choose '+' in the list Type")
+```gherkin
+Given("that I choose '+' in the list Type")
+```
 
 to this:
 
-> Given("that I choose '(.*)' in the list (.*)")
+```gherkin
+Given("that I choose '(.*)' in the list (.*)")
+```
 
 And then implemented a generic method that selects a value from a combo box like follows:
 
