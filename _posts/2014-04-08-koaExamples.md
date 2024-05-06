@@ -17,6 +17,8 @@ The [first](http://www.marcusoft.net/2014/03/koaintro.html) [two](http://www.mar
 
 By using [Koas own examples](https://github.com/koajs/examples/) I will show you how you can use Koa for a lot of common tasks and scenarios. Let's dive right in.
 
+<!-- excerpt-end -->
+
 ### Middleware
 
 The first thing to understand is that Koa is very modular. "Ok, got it", you think. "No", I answer, "**very** modular! The bits are tiny." So a Koa application is to a large extent made up by middleware you include, that is not included per default. The list of [middleware is quite staggering](https://github.com/koajs/koa/wiki) and will quite some time to learn and take in. Luckily you don't have to learn all of them, and they are so tiny that they one-by-one is not a problem.
