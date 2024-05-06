@@ -33,12 +33,42 @@ There's [one package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html
 
 The first example that I recommend that you look at is the /blog example. Head into that directory and fire the site up (with `node --harmony index.js` or better yet `nodemon --harmony index.js`). Most of the action goes on in the single index.js file:
 
+```javascript
+
+/**
+ * Module dependencies.
+ */
+
+var logger = require('koa-logger');
+var route = require('koa-route');
+var koa = require('koa');
+var app = module.exports = koa();
+
+// middleware
+
+app.use(logger());
+
+// route middleware
+var routes = require('./routes.js');
+app.use(route.get('/', routes.list));
+app.use(route.get('/post/new', routes.add));
+app.use(route.get('/post/:id', routes.show));
+app.use(route.post('/post', routes.create));
+app.use(route.post('/post/:id', routes.update));
+app.use(route.get('/post/:id/edit', routes.edit));
+app.use(route.get('/post/:id/delete', routes.remove));
+
+// listen
+app.listen(3000);
+console.log('listening on port 3000');
+```
+
 This site is very basic of course but shows off a number of features (and hence middleware):
 
 - On line 7 we're including [koa-logger](https://www.npmjs.org/package/koa-logger) and make sure to use it on line 20 (`app.use(logger())`). This produce some very handy and nice output in the console. I use it for most of my sites.
 - Routing we've seen before and it's very simple to use, since it reminds a lot of other frameworks like [ExpressJs](http://expressjs.com/). It's of course a package of it's own, [koa-route](https://www.npmjs.org/package/koa-route).
 - With [co-body](https://www.npmjs.org/package/co-body) you can easily parse the content of a posted payload to an object. Note, on line 10 that the variable, from the require-statement is called parse. This is then used on line 62 to parse the request (`var post = yield parse(this);`) The `this` here might confuse you, shouldn't it be request? I have a little section on that below.
-- This site uses a view engine to called [swig](http://paularmstrong.github.io/swig/). To use that a little module has been created (/lib/render.js) that is included on line 6. Using this little render-function we can render templated views as simple as shown on line 35. Notice how we're passing the data, as the second parameter (`{ posts: posts }`). This can then be picked up by the partial view (list.html) and looped over with `{% for post in posts %}` Read more about templates and supported engines on the [co-views npm-page](https://www.npmjs.org/package/co-views).
+- This site uses a view engine to called [swig](http://paularmstrong.github.io/swig/). To use that a little module has been created (/lib/render.js) that is included on line 6. Using this little render-function we can render templated views as simple as shown on line 35. Notice how we're passing the data, as the second parameter. This can then be picked up by the partial view (list.html) and looped over with a for-loop. Read more about templates and supported engines on the [co-views npm-page](https://www.npmjs.org/package/co-views).
 
 All in all this is a very good entry example I think. A nice little exercise could be to replace the in-memory storage with Mongo. Psst... use [co-monk](https://www.npmjs.org/package/co-monk), for that. Let's deep dive into something else. Let's look at error handling. UPDATE: [I couldn't hold it in...](https://github.com/marcusoftnet/koablog-mongo)
 
