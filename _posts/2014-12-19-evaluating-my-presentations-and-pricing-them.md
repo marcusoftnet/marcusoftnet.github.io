@@ -16,8 +16,11 @@ I'm waiting at a train station to go back after doing 2 presentations on kanban.
 One of the things that's always included in my presentation is a slide that asks for feedback. "I love feedback" is my presenter notes and then I ask the people in the room to give me some.
 
 I have experimented with a few ways to get proper and honest feedback and I wanted to share my latests experiment.
+
 <!-- excerpt-end -->
+
 # Doing now
+
 What I've done up to now is to ask for two different metrics.
 
 <img src="/img/rotiDiagram.jpg" style="float:left" width="60%" alt="Throughput visualization">
@@ -27,12 +30,14 @@ I ask the attendees to put a X where they think the value should be.
 The next thing I ask people to do is to write something good, on one sticky, and something that was bad (on another sticky) and post next to the ROTI-diagram on the way out.
 
 # Why it "fails"
+
 I've been using this approach for a couple of years and it gives me feedback. But I'm not really happy with the feedback I get.
 
 * ROTI suffers from wisdom-of-the-crowd-syndrome, in that if the first X is around 5, most everyone is around 5. That's ok, but maybe not true. It's easier to just put it down close to the other ones not to make me too sad.
 * People have a much easier time to write about "What was good" it seems and forces out the "What is bad"-part. Also I'm noticing a lot of copying or at least very equally worded suggestions.
 
 # New approach
+
 The really good approach here would be to ask people on beforehand what they want to get out of the presentation, but I've noticed that many attendees are there to be info-tained not to participate up front. I do that for training and longer workshop since I then can tweak the program a bit.
 
 Today I tried to use other words to get another result. It worked kinda good.
@@ -52,11 +57,12 @@ Also it's nice to don't have Good vs Bad but rather Happy and Better. That feels
 This led a little better spread I think and we saw a brave low point under average. A little bit more sincere.
 
 # Future, ninja-approach
+
 One day, when I'm really brave I will use the ROTI to, a little bit more literal, mean Bread. What if I told the company my going rate per presentation hour? What if that was a bit lower than I usually take for my presentations?
 
 In Sweden I do 2 h presentations for 3 - 7 000 SEK ($375 - $875), depending on the audience and event. That's a bit too low really but let's use that as an example.
 
-Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: <code>$200 * ROTI of 3 = $800</code>, if I'm awesome and everyone thinks the time was well invested <code>$200 * 5.5 ROTI = $1100</code>.
+Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: <code>$200 *ROTI of 3 = $800</code>, if I'm awesome and everyone thinks the time was well invested <code>$200* 5.5 ROTI = $1100</code>.
 
 Or I can take my average score and say: "My average is 4.5 and my average rate is $625. If I get above my average we double the fee, below it's half price".
 
