@@ -16,7 +16,7 @@ I've had the great, but scary, opportunity to play a couple of times under the l
 
 Also - he's know for being very ... direct ... even mean sometimes during rehearsals. But I fondly remember a lot of things from the hours I got to spend under his direction.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 One of the stories he told was about when the [Black Dyke Band](http://blackdykeband.co.uk) did a recording. The recording engineer asked Mr Watson if the intake of air from the musicians could be a little less noisy. His answer was great and totally in character:
 

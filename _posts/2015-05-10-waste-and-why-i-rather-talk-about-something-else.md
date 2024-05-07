@@ -22,7 +22,7 @@ After that I found myself in a discussion on twitter made up of some the names t
 
 I was not. And I think that the original comment by Paul was correct and enlightening. Let me explain my comment
 
-<a name='more'></a>
+<!-- excerpt-end -->
 The easiest way to explain it is to start in the end. Because [Chris Matts](https://twitter.com/PapaChrisMatts) wrote this and it stopped there: 
 
 <blockquote>R u suggestin risk management is waste for everyone other than RM consultant?</blockquote>

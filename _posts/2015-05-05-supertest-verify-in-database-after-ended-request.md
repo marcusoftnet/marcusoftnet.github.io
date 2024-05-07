@@ -20,7 +20,7 @@ I have had *such* a hard time finding a stable way to do this. I know that I hav
 
 But last night, after weeks searching for this, I got it to work. I'm so excited to share this with you.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Tools
 

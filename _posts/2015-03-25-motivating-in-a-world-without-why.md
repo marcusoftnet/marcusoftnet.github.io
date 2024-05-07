@@ -25,7 +25,7 @@ BUT, one thing that I am quite sure of is that I've learned a lot about my own c
 
 Basically - I've learned a lot. I hope you learn something too
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # An example
 I thought that I'll run you through one example (although I have many) and then tell you the parts that made this work. If only we were so smart that we thought about all of this before we created them... We did not. Instead this is how it came to be, trial and error.

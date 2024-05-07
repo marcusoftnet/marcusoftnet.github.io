@@ -20,7 +20,7 @@ As a side, this why I hang out on twitter. There are brilliant people there that
 
 So... what does that mean for my post yesterday... Let's find out:
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 First of all - nothing I wrote will cause you problems but it's a bit cumbersome and maybe not the CoffeeScript-way... I think.
 

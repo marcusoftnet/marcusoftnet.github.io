@@ -18,7 +18,7 @@ I had a couple of great conversations yesterday that gave me a small epiphany. H
 
 Well... it's not much now that I see it. But maybe you'll care to join in my reasoning. Anyway that what's the rest of the post is about. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I am completely absorbed by the [Reinventing Organizations](http://www.reinventingorganizations.com/) book. I've already [written about it](http://www.marcusoft.net/2015/04/what-is-the-problem.html) on this blog and will not dive deeper into the actual book again. 
 

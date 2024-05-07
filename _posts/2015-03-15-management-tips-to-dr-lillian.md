@@ -26,7 +26,7 @@ Dear Dr Lillian,
 
 Now that I leave you I wanted to give you some advice that builds on all the things that we have talked about and that can help you in the future. Don't read this as instructions but rather inspiration:
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Start with why
 Tell your staff and colleagues WHY we are doing something. Make that reason refer back to your vision. Remember what we asked:

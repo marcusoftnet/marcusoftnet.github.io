@@ -17,7 +17,7 @@ My first ever [scrum](http://en.wikipedia.org/wiki/Scrum_%28software_development
 
 Looking back I remember these things that was common about them, in the very particular order that I remember the traits...:
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Sat together
 The great teams I've been part of have all been seated together. I've been part of good teams that have been geographically distributed but the great ones have always been meeting or working in the same room, at the same time.

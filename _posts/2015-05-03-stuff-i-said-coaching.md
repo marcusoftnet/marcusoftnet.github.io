@@ -19,7 +19,7 @@ When you're in front of people... that's where you all of a sudden find yourself
 
 In this post I wanted to summarize some of the things that I said during the 3 days I spent with the teams there. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Only teaching is not enough
 First of all I learned something new about the whole setup. I have done a lot of presentations on [kanban](http://www.marcusoft.net/tags/#Kanban) and quite often I get the feedback that the examples was not concrete enough, or "didn't fit our situation". 

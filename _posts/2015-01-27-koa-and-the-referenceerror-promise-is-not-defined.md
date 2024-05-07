@@ -28,7 +28,7 @@ npm install koa koa-route --save
 touch app.js
 ```
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 H: "Dude, is this a screen cast or are you going to tell me something interesting already?"
 

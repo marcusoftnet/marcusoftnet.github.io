@@ -21,7 +21,7 @@ In this post I will show you a powerful way of using [koa-mount](https://www.npm
 
 As before, if you want to tag along as I build this example out, grab the code from this [tag](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.2), and we'll start at the same place.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The problem / opportunity
 

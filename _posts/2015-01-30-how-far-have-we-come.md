@@ -24,7 +24,7 @@ The work is divided into 4 areas that we've formed teams around. Each of this ar
 So I asked them:
 <blockquote>How far have we come?</blockquote>
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The answer was a typical answer: "Well... we've created these plans, the structure of the teams, and a time schedule."
 

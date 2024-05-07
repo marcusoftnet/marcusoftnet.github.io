@@ -20,7 +20,7 @@ Absolutely nothing humongous but still big enough that you need to think about a
 
 That's when I came to think about [koa-mount](https://github.com/koajs/mount). In this post I wanted to show you what I've learned about this powerful little middeleware, at the heart of Koa thinking.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The tag-line on the [koa-mount](https://github.com/koajs/mount) page says it all really:
 

@@ -18,7 +18,7 @@ I know embarrassing amounts of information about post-its; how it, accidentally,
 
 But this simple little trick is something that most people I tell it to have not reflected about.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here's the sidebar, used by permission of the author...
 

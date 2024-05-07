@@ -15,7 +15,7 @@ As I [wrote about earlier](http://www.marcusoft.net/2015/05/stuff-i-said-coachin
 Once I stood in front of the teams (6 teams, 40 people) and then got a chance to coach them individually I was struck by the trust that Nintex showed me. They really could not check me too close, what I said, how I nudged the teams etc. Me and Christian, their head of engineering, had synced up in emails and other conversations. And we see eye-to-eye on many things... But still. Trust. It's a good train - get on it! 
 
 There was one thing that we talked about in the teams that I didn't really manage to make my reasoning clear about. It's pretty common, powerful and interesting so I thought I'd share this idea with you and try to give an better explanation around what I really meant.
-<a name='more'></a>
+<!-- excerpt-end -->
 # Order point explained
 The concept I talked about was something we in [Kanban In Action](http://bit.ly/theKanbanBook) called "Order point". It's a way to replenish your backlog just-in-time. This can be contrasted with doing it at the start of an iteration or sprint (if you are doing Scrum). 
 
