@@ -56,7 +56,7 @@ White also have some [useful examples](http://white.codeplex.com/wikipage?title=
 
 #### How I did it
 
-##### Let’s, finally, get down to business. I’ll take this step by step but not supply every detail, for the sake of brevity. The complete code sample can be found [here](http://dl.dropbox.com/u/2408484/Marcusoft.BDD.Calculator.zip).
+Let’s, finally, get down to business. I’ll take this step by step but not supply every detail, for the sake of brevity. The complete code sample can be found [here](http://dl.dropbox.com/u/2408484/Marcusoft.BDD.Calculator.zip).
 
 The example is very simple calculator. Yes, I know that the example not is a fully fledge application but it proves my point.
 
@@ -91,13 +91,13 @@ One cool feature with SpecFlow is that you can put some rules for how your featu
 
 So I added an App.config with the following content:
 
-![appconfig](/img/appconfig[8].jpg)
+![appconfig](/img/bdd_appconfig[8].jpg)
 
 I used sv-SE to enable Swedish for my language setting. But I switched to en-US to get English for this post.
 
 Now I created a .feature-file to get my first SpecFlow-feature. The feature is called: SumTwoPositiveInteger and looks like this:
 
-![feature](/img/feature[7].jpg)
+![feature](/img/bdd_feature[7].jpg)
 
 Please not that I pay homage to the SpecFlow-template :)
 
@@ -134,7 +134,7 @@ So first I referenced White.Core.dll and put a reference from Marcusoft.BDD.Calc
 
 I then used the BeforeFeature-attribute of SpecFlow to start the application (or attach me to it) and the AfterFeature to kill it. That made me write this code:
 
-![beforeafterfeature](/img/beforeafterfeature[3].jpg)
+![beforeafterfeature](/img/bdd_beforeafterfeature[3].jpg)
 
 ##### Writing in textboxes
 
@@ -150,7 +150,7 @@ I need some way to get hold of a textbox and write the specified number in it.
 
 First I cleaned up my step to match all those occurrences. Here is the Given-attribute and method declaration for that:
 
-![complete given](/img/complete_given[3].jpg)
+![complete given](/img/bdd_complete_given[3].jpg)
 
 This will send the number after “that i write” as stringUserEntered and the name of the box after “textbox” as wllKnownNameOfTextbox.
 
@@ -162,7 +162,7 @@ In this simplified example I have implemented a [convention (over configuration)
 
 I could now write a method that returns a control, of a given type, based on the well-known name for that control. Here it is:
 
-![getcontrolbyname](/img/getcontrolbyname[3].jpg)
+![getcontrolbyname](/img/bdd_getcontrolbyname[3].jpg)
 
 I ran my tests again to watch them fail since there was no control on the form called “number1”. Great – no I can write production code.
 
@@ -190,7 +190,7 @@ Given("that I choose '(.*)' in the list (.*)")
 
 And then implemented a generic method that selects a value from a combo box like follows:
 
-![selectsvalue](/img/selectsvalue[3].jpg)
+![selectsvalue](/img/bdd_selectsvalue[3].jpg)
 
 That drove me to put the a Combo-box on the view. And got another part of my feature passing.
 
@@ -200,7 +200,7 @@ We’re getting there. One step at the time.
 
 To click a button it’s as simple as:
 
-![clicksbutton](/img/clicksbutton[3].jpg)
+![clicksbutton](/img/bdd_clicksbutton[3].jpg)
 
 And the following method to check the content of a textbox:
 
