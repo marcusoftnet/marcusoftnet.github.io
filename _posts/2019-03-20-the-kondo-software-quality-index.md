@@ -21,7 +21,7 @@ We needed a quick way to measure and track this - such as our non-technical cowo
 
 We came up with the Marie Kondo-index for software quality. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Measuring quality is notoriously tricky ([amazing blog post here by Gojko](https://gojko.net/2012/05/08/redefining-software-quality/)) and getting it in an understandable format, that also can be visualized felt almost impossible to pull off. 
 

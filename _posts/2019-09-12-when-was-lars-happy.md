@@ -19,7 +19,7 @@ Just the other day I walked passed two people and I heard:
 
 This is one story that I've told many times and I wanted to share it here too. It was a powerful lesson on true value, customer focus and lead vs flow time for me. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The story
 

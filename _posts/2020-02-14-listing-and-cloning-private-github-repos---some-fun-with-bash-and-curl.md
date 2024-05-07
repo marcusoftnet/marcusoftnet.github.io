@@ -17,7 +17,7 @@ Just kidding - but when that was said my programmer-self sprung to life and I de
 
 This post describes that script. Oh - I only had 30 minutes spare time to do it in. That was my timebox and I actually managed to pull it off. The finished script is about 5 lines of code... but I'm still proud.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The [GitHub Api](https://api.github.com/) is great and a display in a well designed REST-ful interface. You should check it out. In this post I will use that API... Yes I have heard about `hub` and the new GitHub CLI but now I will use the simple HTTP(s) API interface. 
 

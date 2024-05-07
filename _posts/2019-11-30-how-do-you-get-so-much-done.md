@@ -22,7 +22,7 @@ In this particular case I referred to a blog post I've written and the question 
 
 In this blog post I share a couple of my ... tricks.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## When I decide to do it - I do it
 

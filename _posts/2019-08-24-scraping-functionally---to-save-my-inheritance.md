@@ -17,7 +17,7 @@ Anyhow - I cannot update it for various reasons and I need to move it to a more 
 
 I'm getting ahead of me - first we need to get the data. This post describes how I salvaged the data from the site.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### Task, scope, and approach
 

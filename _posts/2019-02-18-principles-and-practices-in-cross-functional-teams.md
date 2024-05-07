@@ -19,7 +19,7 @@ For example;
 
 I realize that I've done a bad job describing how this is going to work. The other week I found myself describing this with a pretty simple model that I wanted to share.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Disclaimer
 

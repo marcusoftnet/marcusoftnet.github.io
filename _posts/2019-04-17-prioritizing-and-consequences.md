@@ -16,7 +16,7 @@ This [excellent story](https://jamesclear.com/buffett-focus) that Staffan introd
 
 And I came to think about how the consequences of prioritizing one thing over others, often end up becoming blame for the team. When it really should be praise...
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The Story
 

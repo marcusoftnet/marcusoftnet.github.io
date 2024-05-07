@@ -15,7 +15,7 @@ But sometimes, in rare moments of clarity, I have the opportunity to stop and re
 
 Let me share three things in particular, that I have worried about lately. That gave me nothing but more worry.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## HOW problems are solved
 

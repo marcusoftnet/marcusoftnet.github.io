@@ -14,7 +14,7 @@ I just had a conversation with a client that I keep coming back to. It has to do
 
 I needed something to refer back to and I hope that you can get something out of me writing this down. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In this particular case the question was very straight-forward:
 

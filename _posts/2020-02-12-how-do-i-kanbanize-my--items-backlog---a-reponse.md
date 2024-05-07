@@ -25,7 +25,7 @@ And my adequate translation. The tweet by "The Doubter"
 
 I got his permission to repond here on the blog. It's a response and not an (and even less the) answer. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### The disclaimers
 

@@ -14,7 +14,7 @@ That said I am a Christian and proud member of the Salvation Army and I wanted t
 
 I'm not talking about God now - although he's often out of the picture too :)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I have the great honor and joy to be part of the Salvation Army leadership board in Sweden. It's the first time the Salvation Army is trying having a representative for its members (aka Salvation Army solider) on its board. Not in Sweden but worldwide. Quite the honor, for me! 
 

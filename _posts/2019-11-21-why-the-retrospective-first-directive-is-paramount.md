@@ -15,7 +15,7 @@ Before long I stumble onto something that I have had some issues with; the [Retr
 
 Let me explain what I mean. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The retrospective prime directive
 

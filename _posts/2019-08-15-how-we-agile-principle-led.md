@@ -29,7 +29,7 @@ Don't do this! It will **not** work (as) well for you as for us.
 
 Do, however, see beyond our practices and to our principles and see **why** we did what we did. And then try to apply that principle in your world. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here I list a few of the principles that we have used to help us find better practices. For each of these principles, I will list what it's about, what and how we have gone about finding our principles, but more importantly **why** we have done this. 
 

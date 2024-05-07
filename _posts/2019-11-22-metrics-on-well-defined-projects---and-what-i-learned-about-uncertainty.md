@@ -29,7 +29,7 @@ But still, the uncertainty bit me and it was bigger than I (we) thought, took lo
 
 In this post, I wanted to share how I tracked the data and lessons I learned from it.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Lesson 1 - a pie chart is just about never enough
 

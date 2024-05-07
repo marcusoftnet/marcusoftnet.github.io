@@ -22,7 +22,7 @@ But getting there has been quite tricky but oh so rewarding. At the end of this 
 
 Let's go!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Percentiles for one class
 

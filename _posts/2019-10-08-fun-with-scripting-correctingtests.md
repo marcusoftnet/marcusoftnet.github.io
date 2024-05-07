@@ -22,7 +22,7 @@ To speed the tedious part of the work up we have created a script that helps us:
 
 It took some time but now we have a nice script that makes this a one-command exercise. And in the process, we learned a lot. I wanted to share this with you.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Disclaimer
 

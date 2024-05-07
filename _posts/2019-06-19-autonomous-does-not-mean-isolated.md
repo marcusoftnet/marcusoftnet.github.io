@@ -14,7 +14,7 @@ I wanted to write a short little post on a misunderstanding and confusion that p
 
 > Autonomous doesn't mean isolated
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 If you draw pictures like this, from [another post](http://www.marcusoft.net/2019/02/principles-and-practices-in-cross-functional-teams.html), is very easy to see where this confusion stems from
 

@@ -16,7 +16,7 @@ The other day we started a new course here at [</salt>](http://salt.study) And t
 
 had me scratching my head for quite some time. Until I realized that the error message states what was wrong. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The whole thing is quite simple: the team I was helping got this, or similar errors whatever command they tried to run: 
 

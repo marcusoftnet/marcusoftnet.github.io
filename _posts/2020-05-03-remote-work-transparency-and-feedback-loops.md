@@ -14,7 +14,7 @@ Others still, are just interesting to observe and learn from. These last weeks I
 
 This post reflects a few thoughts and ramblings that I've had in my head for some time. I'm not hoping to solve world problems here, but just get some reasoning down.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 As in most companies, School Of Applied Technology has also moved to social distancing and remote work. And as [I have written about](http://www.marcusoft.net/2020/03/experience-report-first-week-of-x-mobs-going-remote.html), it works out pretty well - but I've noticed some issues around transparency and time for feedback. 
 

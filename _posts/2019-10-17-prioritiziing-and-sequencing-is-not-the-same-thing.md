@@ -28,7 +28,7 @@ I think there's a misconception at the core of what prioritizing means (or at le
 
 > Prioritization and sequencing are not the same thing
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I write this on an airplane and cannot check for the true meaning of the words, so this will be from my understanding, but I will double-check after I've published it and see how wrong I was. 
 

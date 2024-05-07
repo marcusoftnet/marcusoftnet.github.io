@@ -22,7 +22,7 @@ My guess is that many times people talking about scaling agile mean scaling **UP
 
 In this post, I wanted to reason a bit about those tradeoffs. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Computers
 The distiction between scaling _up_ and scaling _out_ is something that I first picked up in computer science when it comes to solving performance issues. I'm gonna try to make a description here that requires no previous knowledge of computers. Bare with me - it's just a short analogy

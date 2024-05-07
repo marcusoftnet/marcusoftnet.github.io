@@ -18,7 +18,7 @@ There are a few ingredients to the successes; people being highly motivated (I c
 
 But in this post, I wanted to write about something that I think stood out for me after observing 3 classes in a row now. And it's something that you can do and get a lot out of too.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Memory lane
 

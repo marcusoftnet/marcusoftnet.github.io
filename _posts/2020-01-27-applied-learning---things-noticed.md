@@ -17,7 +17,7 @@ How can this work? Because it quite obviously does. I have 100 devs telling me s
 
 I was pondering this as I picked up the book [Antifragile by Nicholas Nassim Taleb](https://www.goodreads.com/book/show/13530973-antifragile) for a reread. And things clicked. Our method is antifragility applied to training. And we create antifragile developers. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In this post I will speak solely from my own experience and only make assumptions about my career, the author (that's me, folks) started even though he knew that many people share his experiences. 
 

@@ -17,7 +17,7 @@ Not that much when you think about it, but enough for me to want to correct myse
 
 It all has to do with averages...
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## What I got wrong
 

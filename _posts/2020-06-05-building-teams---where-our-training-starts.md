@@ -10,7 +10,7 @@ tags:
 
 At [School of Applied Technology](https://salt.dev/), our accelerated career program is running in small teams, using [Mob Programming](http://www.marcusoft.net/2013/08/repost-mob-programming-full-team-full-throttle.html). We have found that this gives us the most and best learning in a short amount of time. In this setup the tight group that you are in becomes both your best teachers but also, from time to time, you will be the teacher others in the group. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 For these reasons, we are emphasizing and trying to give our mobs a good start to become a team. We start already before we start - on our introduction day (that is the Friday before the course start), by having the newly formed mobs go through a simple exercise based on the brilliant book [Five Dysfunctions of a Team](https://www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756), by Patrick Lencioni. I have written about one [version of this exercise here](http://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html). 
 

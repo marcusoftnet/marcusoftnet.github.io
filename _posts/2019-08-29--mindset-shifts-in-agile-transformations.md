@@ -24,7 +24,7 @@ These topics are:
 
 My feeling is that if we discussed and changed this, half of the agile journey is already done. Also, if you are not ready to change any of these, then any agile transformation will give local improvements, at best. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Clarifications
 

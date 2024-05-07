@@ -22,7 +22,7 @@ In this blog post, I wanted to share our suggested platform setup and some findi
 
 And before I write a word more: this was not my doing. It was the amazing instructor team of Salt (Mies, Zach, Daniel, Levy, and Adam) setting the stage and then the brilliant developers of Salt building their own applied practices on top of that. Yes - just about every mob did it differently and I loved it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Tooling
 

@@ -18,7 +18,7 @@ In the process, I learned about two new friends; [IMPORTXML](https://support.goo
 
 Let me show you what we did.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 [Indeed](http://indeed.com) is a site that aggregates job ads. It's a good starting point for any consultant person that wants to find open positions around the globe.
 

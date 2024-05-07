@@ -19,7 +19,7 @@ But there's a thing that needs to be in place in order for the learning to be al
 
 Let me, very breifly, expand on how we use this in our training.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Trust
 
