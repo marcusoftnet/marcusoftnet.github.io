@@ -15,7 +15,7 @@ Last Tuesday was such a day when Emily reached out via email and asked me three 
 
 I was happy to do that and my "fee" was that I can publish the questions and my answers here on the blog. So you're reading my payment
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### When applying this process how did you educate your customers? 
 

@@ -19,7 +19,7 @@ Still I could not get one thought out of my head. It stuck there a few days back
 
 In this post I want to explain why and also tell you why I still think it was great. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Investments
 

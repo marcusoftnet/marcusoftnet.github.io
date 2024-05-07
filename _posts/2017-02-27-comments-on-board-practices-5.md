@@ -17,7 +17,7 @@ Well - it's not really a kanban board if you don't have a work in process limit.
 
 {% include boardpractice-posts.md %}
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Limitless boards 
 

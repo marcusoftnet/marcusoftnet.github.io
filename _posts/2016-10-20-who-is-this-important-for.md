@@ -17,7 +17,7 @@ In this post I wanted to introduce you to two questions and thoughts that ~~help
 
 > Is this really important? For who?
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Customers
 

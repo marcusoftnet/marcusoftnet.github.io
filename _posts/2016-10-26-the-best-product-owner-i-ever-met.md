@@ -18,7 +18,7 @@ Finally I will share some ideas on how to remedy the problems often found around
 
 But first let's meet a great product owner.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 (When I'm writing product below please substitute service as needed.)
 

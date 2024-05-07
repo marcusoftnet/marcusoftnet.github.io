@@ -14,7 +14,7 @@ Nowadays I often have a really hard time looking back on a day and point to some
 
 Ok ok - this post was about one particular practice, I often used when I coded, that I got reminded of the other day. And that I now tried to get that idea into my ordinary schedule. So far it's been very useful.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I was listening to the (Swedish) [podcast Väg 74](http://www.agical.se/pod/), in particular [the great episode](http://www.agical.se/pod/avsnitt43.mp3) with my friend [Staffan Nöteberg](http://staffannoteberg.com/). Staffan has an aura of calmness, purpose and being thought through. I always learn new things from him. 
 

@@ -23,7 +23,7 @@ Drifting away from my main topic… So now you've experienced scope creep too an
 
 On a more serious note - this post is really about how I've seen scope creep being visualised and managed by a few teams on their board. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 One of my teams started a nice little practice that I've seen a few places: each day they dotted each card in progress on their board with a dot. After a few days it looked like this: 
 

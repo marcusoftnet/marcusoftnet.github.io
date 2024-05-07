@@ -15,7 +15,7 @@ Although it could be tempting to go through the columns from left to right in ou
 
 {% include boardpractice-posts.md %}
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
  If you follow [my other advice](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html) and stop using the three questions and enumerating workers, but rather go through the work on the board each meeting - well, then you could find yourself a bit confused. Where should we start? What order? 
 

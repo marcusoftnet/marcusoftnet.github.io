@@ -15,7 +15,7 @@ This comment is closely related to the [comment about columns](http://www.marcus
 
 Let's do it! Done-column - you're going down!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Done - what is that? 
 

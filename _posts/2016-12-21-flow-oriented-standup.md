@@ -17,7 +17,7 @@ Over the last 4-5 years I've seen how many of the initial practices and recommen
 
 In this post I wanted to share a few of the things I've seen changed and also a reason as to why. There's a sentence in this post that (almost) got me fired ... so this will be valuable for us all, so that we don't end up in that situation again. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I'll headline each topic with a sentence that I've heard teams I'm working with, use the last couple of weeks, in their daily stand-ups. Sentences previously was unheard or didn't make much sense. 
 

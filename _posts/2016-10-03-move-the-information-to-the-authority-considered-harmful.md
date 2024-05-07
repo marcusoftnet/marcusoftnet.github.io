@@ -19,7 +19,7 @@ I like it so much that I've already 2 years ago wrote a [blog post about that id
 
 The other week I realised that there's other, more subtle and viscous wastes in continuing to move the information to the authority (as we do now). In this post I will describe what that is and how to avoid it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've often been working in quite big organisations and something that often happens there is that you need help from higher levels above to solve problems that is hindering our flow. 
 

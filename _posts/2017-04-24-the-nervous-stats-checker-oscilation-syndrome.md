@@ -20,7 +20,7 @@ He had a doctors appointment later that afternoon to get proper medication.
 
 I think I'm becoming Olle. And it's [JIRAs](https://www.atlassian.com/software/jira) fault. And mine own. Mostly my own.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Just like Olle and his blood pressure meter JIRA can give me any statistics I need, and many of the ones that I don't need, updated in real-time. We could even, and should maybe, display these metrics on big screens next to the team affected by the metric.
 

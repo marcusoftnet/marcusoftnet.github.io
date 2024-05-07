@@ -19,7 +19,7 @@ In this post I wanted to talk a little realisation that I've grown into the last
 
 It might sound obvious at first (or not) - but I see many signs of that we, especially in the agile community, do the opposite. Let's see if I can explain my thinking or if I make a fool out of myself - that alone might be worth reading this. Lets go!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Principles over practices
 

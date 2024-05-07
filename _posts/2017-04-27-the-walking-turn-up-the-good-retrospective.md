@@ -21,7 +21,7 @@ These things led me to be a little bit innovative and we ran the retrospective t
 
 The post will be the description of how to run the retrospectives, a few lines of correct attributions and then a few thoughts about why this worked. Because it was really good! Actually.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Recipe - the walking-turn-up-the-good retrospective
 

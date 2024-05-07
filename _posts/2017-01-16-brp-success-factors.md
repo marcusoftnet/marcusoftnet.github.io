@@ -17,7 +17,7 @@ I've been running 3 or 4 big room planning sessions now and I'm starting to see 
 
 In this post I wanted to share the top 3-4 (there might be few slipping in there) things that I've found paramount in order to have a great planning session worth the time and effort. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Shortly a big room planning could be described as an event where all the people needed gets *together in the same room, at the same time* to balance *demand* to *capacity* to achieve a *business goal*. 
 

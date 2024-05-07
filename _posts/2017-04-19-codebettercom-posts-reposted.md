@@ -18,7 +18,7 @@ I'm actually proud of all those posts and wanted to preserve them here on my sit
 
 Here's they are:
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 My first post was on [mob programming](/2013/08/repost-mob-programming-full-team-full-throttle.html) and was the first post on the topic written by someone else than Woody Zuill. It's even mentioned on the [wikipedia page for mob programming](https://en.wikipedia.org/wiki/Mob_programming) and those facts makes me immensely proud
 

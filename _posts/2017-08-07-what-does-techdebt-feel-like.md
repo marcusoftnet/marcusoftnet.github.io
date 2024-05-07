@@ -15,7 +15,7 @@ The other day a man that I respect very high, [Jabe Bloom](https://twitter.com/c
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 I tweeted a response but that question got me thinking. I wanted to expand a little bit further than a tweet and this post is where I did that.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 No-one ever wants to create technical debt. Some of it is created accidentally since we learn new things, requirements and learn about how the feature is performing in the real life. 
 

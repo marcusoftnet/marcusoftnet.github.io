@@ -15,7 +15,7 @@ I asked the team to design their work to help us flow better, but it would of co
 
 In this post I wanted to explain why this can sometimes be a good idea and hopefully give you some ideas as to when this can be a useful option.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 But first some examples;
 

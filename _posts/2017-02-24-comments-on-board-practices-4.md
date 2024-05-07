@@ -17,7 +17,7 @@ That is sad and I share a few thoughts on how to improve on that state of mind -
 
 {% include boardpractice-posts.md %}
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Colours of (not only) the stickies 
 

@@ -15,7 +15,7 @@ It took me quite some time to understand why this was hard, but after a while it
 
 It has to do with purpose and intent. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Help: not needed
 

@@ -15,7 +15,7 @@ This can sometimes be confusing for me, and my clients but makes me also ineffec
 
 In this post I wanted to share a few thoughts on these different roles and hopefully 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Without saying each of the following headings could easily fill books. I'm just jotting down my current understanding of the concepts here, that helps me to clarify it for myself. If you find it useful it would make me very happy. 
 

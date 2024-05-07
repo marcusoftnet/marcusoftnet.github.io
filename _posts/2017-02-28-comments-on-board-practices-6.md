@@ -19,7 +19,7 @@ There's an easy way to change our focus, at least in our morning meetings.
 
 {% include boardpractice-posts.md %}
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Introduction 
 

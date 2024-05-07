@@ -15,7 +15,7 @@ As many of the other times I've seen changes like these I realize that the trans
 
 I'll elaborate on that as soon as I've described the change that I saw.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # At first ...
 

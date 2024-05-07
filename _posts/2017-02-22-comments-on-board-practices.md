@@ -15,7 +15,7 @@ When it comes to my field of practice; lean and agile there's bountyful examples
 
 It will be a little hit-list of my pet issues commonly found on agile/kanban-boards I've seen.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here's the things I want to address, in no particular order:
 

@@ -14,7 +14,7 @@ My current team have a practice to do something "learning, inspiring and future-
 
 The other week we decided to give TankWars a go. It great fun and educational, and I got to observe an interesting phenomena about learning and feedback. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Tank Wars
 

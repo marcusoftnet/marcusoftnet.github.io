@@ -22,7 +22,7 @@ I saw someone tweet something like;
 
 Something like that. I felt that it was about me. So I decided to read the [official Scrum guide](http://www.scrumguides.org/scrum-guide.html) and take some notes. They are summarized in this post.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Structure of this post
 

@@ -17,7 +17,7 @@ Now it's a bit sad that backlog is a central word in agile because I think it mi
 
 In this post, I wanted to explore some thoughts I have had in my head on why we should stop using backlogs and start using impacts. Not only the words but the entire list altogether. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 This post is a lot about feeling so I've used a little different tone in my writing. Imagine me saying this to you and it might make sense. Might...
 

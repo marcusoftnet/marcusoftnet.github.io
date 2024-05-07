@@ -15,7 +15,7 @@ Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/
 
 This time I wanted to talk about the column themselves, or maybe I dare to talk about the process they reflect. Our process for work!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Todo - doing - done is not your process
 

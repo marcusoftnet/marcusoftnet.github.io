@@ -14,7 +14,7 @@ It was very interesting to see the authors utter fascination of the ways of the 
 
 My favourite part was the history of car manufacturing that and how the Toyota Production system grew came out of necessity in a country that, at the time, was way behind and with little resources as well as little buying power. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 There's an awesome little paragraph in the book (page 51-52) showing clearly how Taiichi Ohno (and in turn Toyota) let their strive for a faster flow change things that was considered constants. 
 

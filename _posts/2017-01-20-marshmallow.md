@@ -13,7 +13,7 @@ Sometimes I get the opportunity to try things that I never done before, or didn'
 
 In this case I got the opportunity to talk with a bunch of school kids (14-16 year olds) about Lean, experimenting and how to iterate ever faster by improving your process. It was quite the experience and I wanted to share some highlights of the time I had together with them. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Background
 
