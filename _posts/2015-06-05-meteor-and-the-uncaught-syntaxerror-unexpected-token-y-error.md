@@ -14,7 +14,7 @@ Just a short little post about an error that have caused me problems. Here's the
 
 <code>Uncaught SyntaxError: Unexpected token Y</code>
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # TL;DR - Reload your browser
 This is a Javascript parsing error, when trying to parse a very helpful error message from Meteor. Just reload the page and you'll see the message.

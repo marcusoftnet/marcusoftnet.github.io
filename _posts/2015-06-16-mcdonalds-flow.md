@@ -17,7 +17,7 @@ As I stood in line I noticed a problem. The queue kept of customers kept piling 
 
 In this post I'll try to tell you what I meant. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 One thing that was a little bit strange, in our case, was that there was people at every cash register. They were taking orders like crazy. And getting drinks too. But no one got served. 
 

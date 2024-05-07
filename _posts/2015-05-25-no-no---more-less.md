@@ -17,7 +17,7 @@ I have seen many of my good friends being bashed, or they themselves lashing out
 
 In this post I wanted to examine a Twitter phenomena and see what I can learn about how I communicate. Please join me.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Someone said:
 <blockquote>The best thing with Twitter is that it's only 140 chars. The worst thing with Twitter is that it's only 140 chars.</blockquote>

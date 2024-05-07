@@ -22,7 +22,7 @@ And then give a copy to every important person in your organization.
 
 Thank you for a great read!"
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've been following [Ron Jeffries](https://twitter.com/ronjeffries) (not only on twitter, but that's a good start) for a long time, not only on twitter. The first thing I read from him was actually a take on the [bowling ball kata](http://ronjeffries.com/xprog/articles/miningbowling/). I'm happy I did follow him although it can be quite challenging from time to time. He has a way of putting things that is challenging and sometimes provoking. 
 

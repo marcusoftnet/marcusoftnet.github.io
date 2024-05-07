@@ -14,7 +14,7 @@ In one of my recent presentation I found the "need" to do a movie credits animat
 
 A search on the [intertubes](https://www.google.co.id/search?q=keynote+movie+credits&oq=keynote+movie+credits&aqs=chrome..69i57j69i60j69i59j69i60l2j69i61.4030j0j7&sourceid=chrome&es_sm=119&ie=UTF-8) didn't give me much useful either. But it turned out to be pretty simple to do. In this post I'll show you how
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # TL;DR
 Basically we will just use the "Move" Action for our block of text, move it over the entire screen, slow it down until it's readable.

@@ -22,7 +22,7 @@ The normal thing happened; the progress indicator lied. My kids were angry and I
 
 As I said that I was reminded about many times I've been required to give estimates in other settings. In this post I wanted to examine the similarities I felt was present.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Disclaimer
 Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but as you know I'm wiser than that. This is a comment in the [#LessEstimates discussion](http://www.marcusoft.net/2015/05/no-no---more-less.html). 

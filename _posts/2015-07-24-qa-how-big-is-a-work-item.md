@@ -15,7 +15,7 @@ The other day I got a question that I've heard before in variants. It's also ver
 
 I also got permission to publish the whole question and my answer here. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here's the question from their email: 
 

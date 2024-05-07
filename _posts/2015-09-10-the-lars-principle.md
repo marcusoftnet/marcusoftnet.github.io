@@ -19,7 +19,7 @@ There's much truth in there. I think Lars is a great guy, but I doubt he knew ho
 
 I dedicate this post to Lars, who helped me so much in the early stages of my consultancy. We worked daily and very closely between 2000 and 2005 ca. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Let's dissect the answer a bit: 
 

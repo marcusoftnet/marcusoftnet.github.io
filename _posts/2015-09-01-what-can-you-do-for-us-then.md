@@ -21,7 +21,7 @@ I ended up referring to my past work and try to describe that to the director bu
 
 Yeah, this is one of those "Marcus thinks out loud post" on coaching. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 This conversation happened to overlap with a general trend on twitter of ... "bashing" or dislike with coaches or at least coaching. I see people referring to it as "the dark side" and use a general disapproving attitude towards coaching. 
 

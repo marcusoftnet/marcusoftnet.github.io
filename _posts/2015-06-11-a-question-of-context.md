@@ -16,7 +16,7 @@ But thinking about this have thought me a lot and I hope that you will learn a l
 
 This is NOT a post about THEM and (or versus) ME. It's a post about me, and my reasoning. The story is just context as you soon will realize. Don't worry there's plenty of room for personal reflection throughout the post - should you grow tired of me. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The story
 When we first got to work with the hospitals here in Indonesia we found something that made us very surprised and scared. At one of our hospitals the nurses was not washing their hands between patients visits. This is a practice that's know to save lives in health care since [1820-ies](https://explorable.com/semmelweis-germ-theory). Even I knew that washing your hands is a good practice in health care.  

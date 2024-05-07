@@ -20,7 +20,7 @@ What would the opposite to that be? Help those that doesn’t want help. How stu
 
 I don’t know how much time and effort I’ve spent on the opposite. Trying to convince people that they need to change, when they don’t want too. Or forcing (yes, sorry … they told me to) a new process or methodology on team who were quite content with their ways and procedure. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Why do we do these things? How can anyone be this stupid? In many cases I’ve got my instructions from high ranking managers… are they particular insensitive or have a hard time to understand a situation? 
 

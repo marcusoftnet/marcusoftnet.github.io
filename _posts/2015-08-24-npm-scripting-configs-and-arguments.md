@@ -27,7 +27,7 @@ Also, don't miss the other posts on this blog on npm scripting:
 If you liked this post I know you will love the course! Thank you for reading this
 
 Here we go:
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Chaining tasks... more options
 In the [last post](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) I used <code>&&</code> to call task one after another.

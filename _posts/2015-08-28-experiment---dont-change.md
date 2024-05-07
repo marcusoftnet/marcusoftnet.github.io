@@ -19,7 +19,7 @@ This would probably be my #1 tip for change management; don't do changes - do ex
 
 In this post I thought I'd examine that recommendation in a little more detail.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Well actually my #0 tip is read [Switch - How to make change when change is hard](http://heathbrothers.com/books/switch/), but you knew that one already, right? It's packed with tips and tricks that anyone wanting to understand change should read. At least instead of this post.  
 

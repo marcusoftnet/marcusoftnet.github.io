@@ -21,7 +21,7 @@ Hmmm... need to write some of those ideas down, maybe. Ok - now to the topic of 
 
 In talking about the targets we mentioned [leading and trailing indicators](http://www.investopedia.com/ask/answers/177.asp), the difference between them and I had a little personal revolution about the difference and usefulness of both kinds. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Trailing indicators
 Basically a trailing indicator is data that we get after the fact. For example a financial report for our business, a chronology of events, or a [burn up / burn down chart](https://www.wikiwand.com/en/Burn_down_chart) for an agile team. 

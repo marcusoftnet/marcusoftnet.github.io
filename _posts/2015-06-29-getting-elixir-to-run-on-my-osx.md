@@ -21,7 +21,7 @@ Or is it ...
 
 Not for me as it turns out. I hope you had a better fate. This is my story.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Becasue when that was all done I ran <code>elixir -v</code> to check my version number and got: 
 

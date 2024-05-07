@@ -15,7 +15,7 @@ Here we go - I have grown into a bit of a statistics maniac, especially [when it
 
 I now found myself in a situation where I simply wanted to count the number of files in my <code>posts</code> directory. In the terminal of my Mac.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Count'em
 

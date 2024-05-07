@@ -18,7 +18,7 @@ Here's the [link to the course](http://www.pluralsight.com/courses/running-node-
 
 A very interesting challenge presented itself at the end of the production as well. Tell you soon.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The course is in three parts (and a summary):
 

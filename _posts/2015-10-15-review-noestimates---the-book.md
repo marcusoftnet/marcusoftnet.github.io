@@ -22,7 +22,7 @@ One of those moments I think is when someone decides to write something (substan
 
 The [NoEstimates book](http://noestimatesbook.com/) is just this; a set of tools pointing towards another way of doing software development. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The thing that strikes me throughout reading the book is that it feels so natural, in line with the [agile principles](http://agilemanifesto.org/) and just value-focused that I find myself just nodding along through the story. 
 

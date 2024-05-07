@@ -14,7 +14,7 @@ I thought to myself: "Let's install it and play around. How hard can it be?" Wel
 
 I'm on OS X Yosemite and I had nothing but problems. Yesterday I got it to work. This is my story. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I started out from the [CasperJs](http://casperjs.org) [installation instructions](http://docs.casperjs.org/en/latest/installation.html), but soon ran into problems. Not with Casper but rather with: 
 

@@ -15,7 +15,7 @@ From the [looks of it](http://www.50quickideas.com/) there's a whole concept aro
 
 This is my review after reading the book in the worst possible manner. I'll tell you why. But even doing so I got so much out of this book and my tool belt expanded significantly. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I really like the approach of these short, focus, one-topic books, starting with Gojoks book on [impact mapping](http://www.impactmapping.org). They don't promise to be deep dives and total coverage but rather to give you ideas (well... that's in the title even), be challenged and investigate further. 
 

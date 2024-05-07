@@ -26,7 +26,7 @@ Also, don't miss the other posts on this blog on npm scripting:
 
 If you liked this post I know you will love the course! Thank you for reading this.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I'll keep my [code here](https://github.com/marcusoftnet/preposthooks)
 

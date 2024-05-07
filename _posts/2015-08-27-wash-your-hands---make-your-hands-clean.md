@@ -20,7 +20,7 @@ This is my fault. I was really just focusing on the activity rather than the out
 
 In this post I wanted to examine this thought a little closer. I have no idea where I might end up, but I'll type on for awhile and then structure it into something worth reading... or you'll never read this
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 My favorite verb-form (what kind of sick person have favorites among verb forms...) is Imperative! It's so funny to use for things that you cannot really demand; 
 

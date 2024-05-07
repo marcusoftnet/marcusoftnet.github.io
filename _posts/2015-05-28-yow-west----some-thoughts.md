@@ -15,7 +15,7 @@ I just realize that there's like an "agile culture" that I've now seen all over 
 
 The agile community in Australia is really vibrant and filled with awesome people championing conferences like [YOW](http://yowconference.com.au) and [Agile Australia](http://www.agileaustralia.com.au). Standing a big risk of forgetting someone I had such a great time meeting [Dave Thomas](http://twitter.com/daveathomas), [Craig Smith](http://twitter.com/smithcdau) and [Nigel Dalton](http://twitter.com/nxdnz) that was running the conference in Perth. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 One thing that's always fascinated me with conferences is that during the days themes always seem to emerge. Common things that surfaces in talk after talk. And quite often this is just the main theme of the conference. 
 

@@ -16,7 +16,7 @@ Being in Indonesia I had to translate the entire presentation into Bahasa Indone
 
 In this post I'll show you what I did so that you can increase the reach of your presentations / videos too.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The creation
 The first section is just about how I created the video that I uploaded to YouTube. You can skip it if you just want to <a href="#subtitles">learn about the subtitles</a>. 
