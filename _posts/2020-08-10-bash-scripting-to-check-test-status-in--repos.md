@@ -19,7 +19,7 @@ The only problem is that since we are teaching a lot of different technologies a
 
 This problem pushed me to investigate how we could automate this process with bash scripts. I learned a lot and wanted to share a bit. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The plan
 

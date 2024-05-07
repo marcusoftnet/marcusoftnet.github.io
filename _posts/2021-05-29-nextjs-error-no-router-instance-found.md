@@ -12,7 +12,7 @@ I ran into a stupid problem I created for myself. And then I solved and that mad
 
 I wanted to share my failures and solution to the problems I created here.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I have a page that is server-side rendered, since I'm the `getServerSideProps`. 
 

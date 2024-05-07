@@ -15,7 +15,7 @@ This post is one of those - I can't believe that I couldn't find this post on th
 
 But I wanted to setup [Selnium testing](https://www.selenium.dev/), but only use .NET Core and Visual Studio Code on my Mac. Every example I saw was using older versions of .NET core (I'm writing this on .NET core 5) and/or Visual Studio, which I don't have. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Installations
 

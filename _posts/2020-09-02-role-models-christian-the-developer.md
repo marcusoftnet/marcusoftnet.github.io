@@ -14,7 +14,7 @@ I am, as the saying goes, standing on the shoulders of giants. For what they hav
 
 The first post was about [Staffan](http://www.marcusoft.net/2020/08/role-models-staffan-the-consultant.html) - that showed me servant leadership and what a consultant is. Today it's about [Christian Forsberg](https://www.linkedin.com/in/christianforsberg), a rock 'n roll developer.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I met Christian in 1998 when I started my first consultant/contractor job at one of the biggest consultancy firms in the world; [Cap Gemini](https://www.capgemini.com/). Being a proud Microsoft (this was pre .net, kids) developer I ended up in a Microsoft team. And it didn't take long until I heard about this Christian. 
 

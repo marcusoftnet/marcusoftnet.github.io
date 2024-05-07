@@ -16,7 +16,7 @@ Here it is:
 
 Let me tell you how I realized this and how I think it is important.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 At [</salt>](https://salt.dev) we're planning to run yet another Graduation Day, after 35 new developers has been created. That is amazing in itself to be part of, but not the topic of this post.
 

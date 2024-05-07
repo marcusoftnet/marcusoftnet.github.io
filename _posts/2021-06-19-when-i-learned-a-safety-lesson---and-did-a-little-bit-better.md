@@ -14,7 +14,7 @@ And the other day I did a cardinal sin in scripting. Not only that - I decided t
 
 In this post, I will tell you about how I made my `curl`-script a little better and a lot safer, but using an old way that's been in `curl` for ages.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The background
 

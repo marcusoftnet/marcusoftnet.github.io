@@ -15,7 +15,7 @@ I got a question from [Øyvind Ege](https://www.linkedin.com/in/oyvind-ege/) - a
 
 I hope you find it useful.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The question
 

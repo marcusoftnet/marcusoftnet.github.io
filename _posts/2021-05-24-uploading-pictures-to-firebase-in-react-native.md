@@ -15,7 +15,7 @@ I've ventured a bit into [React Native](https://reactnative.dev/) development an
 
 So I took the original code and refactored it a tiny bit for better readability. My code [is found here](https://github.com/marcusoftnet/PhotoUploaderFirebase) and in the post I'll walk through some of the things that made me look twice. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### Setup
 

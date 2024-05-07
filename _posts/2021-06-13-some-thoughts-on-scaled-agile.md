@@ -15,7 +15,7 @@ Anyhow - Emer asked me:
 
 and I started to write a response but realized that I needed some more space. This blog post is that response. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Hi [Emer](https://www.linkedin.com/in/ACoAAAPoJzoBoQ8bWJ4Pcc-36f-5pfjZjdBv_JU) - I am so happy to hear about your progress and to bounce ideas like this with you.
 

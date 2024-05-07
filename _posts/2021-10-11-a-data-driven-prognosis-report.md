@@ -14,7 +14,7 @@ I wanted to report my progress to them so that they know what's happening and al
 
 In this post, I wanted to share a very simple prognosis tool that I created based on the data that my work create. As always, it's not perfect but it will give an accurate  enough feel for where I am and [when it will be done](https://leanpub.com/whenwillitbedone)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## A few words about the project
 

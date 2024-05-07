@@ -18,7 +18,7 @@ Considering we have 130+ repositories I was what the scientist refer to as a `bo
 
 Let's make it more fun with code.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I'm gonna wield my bash- and Node-swords to solve this sucker. And I was looking to do some functional programming exercises too - let's see if we can squeeze all of that in there. 
 

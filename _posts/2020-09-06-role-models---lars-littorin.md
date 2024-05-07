@@ -11,7 +11,7 @@ I've started a little series of some (by far not all) of the people that have sh
 
 Today the turn has come to a colleague that I had at Cap Gemini - the first senior consultant that I worked with and someone that made a huge impact on me and my ways; Lars Littorin
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 A bit of trivia to start - Lars is probably one of the few people that I'll mention here that have a blog post dedicated to them already; [The Lars Principle](https://www.marcusoft.net/2015/09/the-lars-principle.html). I'll let that great wisdom stand by itself, in that post. Go read it - Lars has great things to say. 
 

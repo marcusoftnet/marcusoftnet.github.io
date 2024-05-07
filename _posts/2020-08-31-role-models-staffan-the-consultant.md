@@ -20,7 +20,7 @@ This made me think about my own early influencers in this industry. And I realiz
 
 So, this is the first post in a series of "thank you"-notes to my early role models. Today it's Staffan Rolfsson - one of the first.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 (Before we start; Swedish is a limited language sometimes, for example we have one word for consultant and contractor. Typically we mean contractor when we say consultant. But I've come to realize that combining the two and be a good advisor, helper and coach is a good thing bring with you in any role. Even when I'm a contractor I try to be a consultant too... St showed me that..)
 

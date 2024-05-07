@@ -18,7 +18,7 @@ But the repositories that have been created with `create-react-app` have caused 
 
 But. Now. I've. Found. A. Solution.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## More problem
 
