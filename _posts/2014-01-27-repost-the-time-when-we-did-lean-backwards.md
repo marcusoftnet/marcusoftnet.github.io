@@ -27,7 +27,7 @@ He was right, but I never thought about it until then. In this post I’ll descr
 Let me just say that the way the team went about their worked, and the feature was a success in production. Very high quality (2 bugs reported if I’m not mistaken) and well received.
 In order to not put any blame on that great team I will talk about “we” in this post. Although I didn’t have much to do with their success.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## How the team did it
 

@@ -18,7 +18,7 @@ But I'm quite often not very busy and when you look back in what is produced it'
 
 So what good am I? What do I do? How could you <a href="http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">measure the effect</a> of having someone like me in the team, at the company?
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Busyness
 Two thoughts goes through my head when I think about this. First a quote by <a href="zuill.us/WoodyZuill/">Woody Zuill</a>

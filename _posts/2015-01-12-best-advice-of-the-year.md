@@ -13,7 +13,7 @@ When a year has passed I often try to think back and find the one most important
 
 The single piece of advice I got that stood out was about presenting. And it came from one of my oldest friends, one that I call my brother: [Kalle](http://twitter.com/kalleljungholm).
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Kalle is a pretty young guy but he's very thoughtful and ... yes I'll say it: wise.
 

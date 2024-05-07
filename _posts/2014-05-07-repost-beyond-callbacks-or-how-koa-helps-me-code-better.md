@@ -23,6 +23,7 @@ Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I
 
 That was … …wait (state)
 
+```text
 ​     …creating request for fact (state)
 
 ​          Wrapping in logger (state)
@@ -40,8 +41,13 @@ That was … …wait (state)
 ​          reformatting response and out of callback
 
 ​     Out of callback
+```
 
-There – we can continue. *the fact* that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html)so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely. But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB](http://mongodb.github.io/)by name sent to the URL.
+<!-- excerpt-end -->
+
+There – we can continue. *the fact* that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely.
+
+But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB](http://mongodb.github.io/)by name sent to the URL.
 
 ``` javascript
 // Dependencies
@@ -73,8 +79,6 @@ function *getUser(userName) {
 Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short –
 
 Koa helps me Code Better! In the rest of this post I’ll introduce you to the concepts of Koa and give you a short overview to how it works.
-
-<a name='more'></a>
 
 ## Generators, asterisk and yield
 

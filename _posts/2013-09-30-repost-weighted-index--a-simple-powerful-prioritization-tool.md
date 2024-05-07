@@ -25,7 +25,7 @@ So… if you know about this practice (that I don’t know the name for, I call 
 
 [UPDATED] In the comments I got notified that this might be a [Decision matrix](http://en.wikipedia.org/wiki/Decision_matrix) or even an simplified version of [Multi-criteria decision analysis (MCDA)](http://en.wikipedia.org/wiki/Multi-criteria_decision_analysis). Thanks [Harry McIntyre](http://codebetter.com/marcushammarberg/2013/09/30/weighted-index/#) for that link.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## My first encounter
 

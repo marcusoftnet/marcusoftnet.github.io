@@ -29,7 +29,7 @@ Since all of  us (and probably you too) hate to type those strange, unreadable l
 
 The only thing was… the result was puzzling. And it started a really interesting process at the client. And the same reasoning has been made by everyone I told this story to after. I wonder: do we really dare to be data-driven or are we’re chickening out when it comes down to it?
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 This experiment was done at one of the big sites in Sweden so there were plenty of traffic. We ran the experiment for a week in order to even out any peaks and valleys in traffic (Sundays is the best day for online-shopping site apparently).
 

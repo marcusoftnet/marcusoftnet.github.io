@@ -9,7 +9,7 @@ tags:
   - .NET
   - Agile
 modified_time: 2010-12-14T15:22:38.155Z
-thumbnail: http://lh3.ggpht.com/_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb%5B6%5D.jpg?imgmax=800
+thumbnail: http://lh3.ggpht.com/_TI0jeIedRFk/TGbv7ceXU5I/AAAAAAAAAjk/0nlXVkH4TW8/s72-c/appconfig_thumb[6].jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4211414648845018243
 blogger_orig_url: http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html
 ---
@@ -91,13 +91,13 @@ One cool feature with SpecFlow is that you can put some rules for how your featu
 
 So I added an App.config with the following content:
 
-![appconfig](http://lh4.ggpht.com/_TI0jeIedRFk/TGbv6yLCSQI/AAAAAAAAAjc/gQU443vRSx0/s1600-h/appconfig%5B8%5D.jpg)
+![appconfig](/img/appconfig[8].jpg)
 
 I used sv-SE to enable Swedish for my language setting. But I switched to en-US to get English for this post.
 
 Now I created a .feature-file to get my first SpecFlow-feature. The feature is called: SumTwoPositiveInteger and looks like this:
 
-![feature](http://lh6.ggpht.com/_TI0jeIedRFk/TGbwXKKD5gI/AAAAAAAAAjo/g-vuLxc7_ns/s1600-h/feature%5B7%5D.jpg)
+![feature](/img/feature[7].jpg)
 
 Please not that I pay homage to the SpecFlow-template :)
 
@@ -134,7 +134,7 @@ So first I referenced White.Core.dll and put a reference from Marcusoft.BDD.Calc
 
 I then used the BeforeFeature-attribute of SpecFlow to start the application (or attach me to it) and the AfterFeature to kill it. That made me write this code:
 
-![beforeafterfeature](http://lh3.ggpht.com/_TI0jeIedRFk/TGbxRHSwv9I/AAAAAAAAAj4/_-qN7lSp3vA/s1600-h/beforeafterfeature%5B3%5D.jpg)
+![beforeafterfeature](/img/beforeafterfeature[3].jpg)
 
 ##### Writing in textboxes
 
@@ -150,7 +150,7 @@ I need some way to get hold of a textbox and write the specified number in it.
 
 First I cleaned up my step to match all those occurrences. Here is the Given-attribute and method declaration for that:
 
-![complete given](http://lh4.ggpht.com/_TI0jeIedRFk/TGbxR31ePyI/AAAAAAAAAkE/2yPg6oXiJ2w/s1600-h/complete%20given%5B3%5D.jpg)
+![complete given](/img/complete_given[3].jpg)
 
 This will send the number after “that i write” as stringUserEntered and the name of the box after “textbox” as wllKnownNameOfTextbox.
 
@@ -162,7 +162,7 @@ In this simplified example I have implemented a [convention (over configuration)
 
 I could now write a method that returns a control, of a given type, based on the well-known name for that control. Here it is:
 
-![getcontrolbyname](http://lh4.ggpht.com/_TI0jeIedRFk/TGbxtkJ3YLI/AAAAAAAAAkQ/uhP7u4WyOFI/s1600-h/getcontrolbyname%5B3%5D.jpg)
+![getcontrolbyname](/img/getcontrolbyname[3].jpg)
 
 I ran my tests again to watch them fail since there was no control on the form called “number1”. Great – no I can write production code.
 
@@ -190,7 +190,7 @@ Given("that I choose '(.*)' in the list (.*)")
 
 And then implemented a generic method that selects a value from a combo box like follows:
 
-![selectsvalue](http://lh4.ggpht.com/_TI0jeIedRFk/TGbxvLn5JYI/AAAAAAAAAkY/vSTVmD8L05w/s1600-h/selectsvalue%5B3%5D.jpg)
+![selectsvalue](/img/selectsvalue[3].jpg)
 
 That drove me to put the a Combo-box on the view. And got another part of my feature passing.
 
@@ -200,11 +200,11 @@ We’re getting there. One step at the time.
 
 To click a button it’s as simple as:
 
-![clicksbutton](http://lh5.ggpht.com/_TI0jeIedRFk/TGbxvoQwIFI/AAAAAAAAAkg/Kg-ey726XDs/s1600-h/clicksbutton%5B3%5D.jpg)
+![clicksbutton](/img/clicksbutton[3].jpg)
 
 And the following method to check the content of a textbox:
 
-![Textboxcontainstext](http://lh3.ggpht.com/_TI0jeIedRFk/TGbxw9GhnNI/AAAAAAAAAko/3CmE_JpGYx0/s1600-h/Textboxcontainstext%5B3%5D.jpg)
+![Textboxcontainstext](/img/Textboxcontainstext[3].jpg)
 
 With these two methods I could bring the whole feature together. And it fails and tells me that 5 is expected but it got an empty string. I can now implement the functionality for the feature.
 

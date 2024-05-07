@@ -15,7 +15,7 @@ At my current client we have a lot of data about the customers (patients at a ho
 <img src="/img/monthlydiagram.jpg" width="70%" style="float:right" />Lately I started to see a trend about how the patients is spread. Here's a typical month. See how the Sundays is really bad (yeah, that's the super low points). But there's another trend here. The weeks keeps falling - I thought at least. The Mondays are always best and the number of served patients gets lower and lower.
 
 What can we learn from that?
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Verification
 

@@ -22,7 +22,7 @@ At one of the teams I’m coaching right now at [Tradera](http://www.tradera.se/
 
 These a just a couple of practices that together has proven useful for us. In this blog post we’ll take a look at each one. Our starting-point was that it’s more important that we complete work than making sure that everyone is busy, that is built from the [core ideas of lean](http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html). Hopefully you can get some ideas and insights from reading about this.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Backlog as a mind map
 

@@ -17,7 +17,7 @@ After the morning meeting with the entire staff (quite literally the Morning Pra
 Lately I've stared those meetings a bit different. Quite simply I just point to the diagram with the data up to yesterday and ask:
 <blockquote>Kenapa?</blockquote>
 The result was a bit surprising and also rewarding
-<a name='more'></a>
+<!-- excerpt-end -->
 Of course (:)) Kenapa means "Why?". Why did that data happen yesterday? Is there something special that happened?
 
 I noticed that the team was starting to _defend_ bad data, by pointing to the better parts instead; "Yeah, Sunday was bad... but look at the Saturday!"
