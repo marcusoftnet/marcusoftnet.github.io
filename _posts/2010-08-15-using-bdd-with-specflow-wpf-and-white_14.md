@@ -204,7 +204,7 @@ To click a button it’s as simple as:
 
 And the following method to check the content of a textbox:
 
-![Textboxcontainstext](/img/Textboxcontainstext[3].jpg)
+![Textboxcontainstext](/img/bdd_Textboxcontainstext[3].jpg)
 
 With these two methods I could bring the whole feature together. And it fails and tells me that 5 is expected but it got an empty string. I can now implement the functionality for the feature.
 
