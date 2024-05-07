@@ -17,7 +17,7 @@ I'm getting increasingly annoyed with that statement. Waterfall (phases with big
 
 Any agile person reading this will not believe it. But believe it. Waterfall is _very much_ alive and being hailed in ~~most~~ many organisations today, in my experience. Especially on the business side of things. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 And please don't believe me about this. Take it from an authority. Let's pick … [Dr. Winston Royce](https://en.wikipedia.org/wiki/Winston_W._Royce). He's a good pick because he is the guy that coined the term _waterfall_ in the first place. In the seminal ["MANAGING THE DEVELOPMENT OF LARGE SOFTWARE SYSTEMS"-paper](http://www.txtscribe.me/athenaeum/waterfall.pdf).
 

@@ -26,7 +26,7 @@ I think we often miss the improvements we made by not looking back and appreciat
 
 I wanted to share just a thought about this that has proven helpful for some of those teams that I had the opportunity to talk to.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Imagine the team in the introduction. In that conversation, you could halt them, where Sarah got depressed, and ask them to think about where they were 4 months ago. Let's see.
 

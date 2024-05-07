@@ -21,7 +21,7 @@ Massimiliano Spolverini, for example, presented me with one of those questions j
 
 Massimiliano kindly let me answer the question on this blog and in this post I wanted to share some of my thinking about this situation. I don't claim to hold a one-and-only-answer but rather wanted to explain and expand a bit further. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Background and up to speed
 

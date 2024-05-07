@@ -14,7 +14,7 @@ I once worked at a large company where they had so many priorities 1 features th
 
 Today I saw this pattern in action again, and a new realization about a missed teaching opportunity washed over me. I wanted to share this with you in this post. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The team I'm working with right now have a long (50+) backlog of items that are due to work on. Their team lead created a nice visualized board with the priorities for the top 15 items. It is great and super clear what they are prioritizing. Priority #1 is to be worked first and if you cannot do that you can pick up #2 and so on.  Priority 15 is not expected to be started any time soon. 
 

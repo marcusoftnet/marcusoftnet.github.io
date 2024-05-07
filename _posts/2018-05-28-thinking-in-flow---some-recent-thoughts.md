@@ -13,7 +13,7 @@ I talk a lot about flow these days and I'm continuously fascinated how many good
 
 In this post, I just wanted to share a few thoughts that have been on my mind lately. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### Flow of what?
 

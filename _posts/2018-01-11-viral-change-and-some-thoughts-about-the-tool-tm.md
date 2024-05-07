@@ -15,7 +15,7 @@ However, [in one of the documents I read](https://viralchange.files.wordpress.co
 
 This post is about that but I have to give a little backstory and my current understanding of Viral Change. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Viral change - my current interpretation
 

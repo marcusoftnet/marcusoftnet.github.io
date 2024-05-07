@@ -18,7 +18,7 @@ I found this very useful to describe some of the unique traits of a team, that i
 
 But first, there's a strange word in there. Two, actually!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Strange words 1 - team
 

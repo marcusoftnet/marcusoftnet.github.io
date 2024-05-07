@@ -14,7 +14,7 @@ This time around I had to summarise the data from 4 different sheets and then le
 
 To do this, I had to look up a lot of things, learn a little bit about the [QUERY-function](https://support.google.com/docs/answer/3093343?hl=en) and then jump through some hoops. I write this down here so that I don't have to learn this again. You can read it if you want to. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've created a [sheet with some example data](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit?usp=sharing), similar but not the same as the data we had. This was also, as [last time](http://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html), a survey about the state of our office that we needed to summarise for a meeting.
 

@@ -18,7 +18,7 @@ An old trick came to mind as I tried to help him with his conundrum:
 
 > There's a difference between **deploy** and **release**
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I had the same problems as my colleague at another client and we solved part of that by just making a clear distinction between deploying and releasing. 
 

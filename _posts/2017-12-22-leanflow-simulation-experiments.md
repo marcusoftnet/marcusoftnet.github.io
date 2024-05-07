@@ -18,7 +18,7 @@ This game very clearly illustrates the benefits of limiting work in process as t
 
 However, every time I've done this exercise I have to resist the urge to throw in a couple of curve balls and changes. I resist it because I think it would be quite hard work and stressful. Now I've tested them on myself and I wanted to share the outcomes with you.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Original game - my score
 

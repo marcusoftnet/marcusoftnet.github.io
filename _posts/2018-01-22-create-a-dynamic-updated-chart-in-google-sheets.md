@@ -14,7 +14,7 @@ This post is one of those posts. I was asked to conduct a survey throughout our 
 
 It all came out pretty nice and allowed people throughout the department to drill down into the data in a quick and simple way.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I will not talk about the form since that was very easy to set up. Only know that [Google Forms](http://forms.google.com/) store its data in [Google Sheets](http://sheets.google.com/). This means that it's pretty simple for us to continue to process the data.
 

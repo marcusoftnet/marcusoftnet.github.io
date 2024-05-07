@@ -13,7 +13,7 @@ I had a problem and I noticed that I've, in the last couple of years, started to
 
 The problem is easy enough to describe: I wanted to extract all the images from 20+ Word documents. I decided to write a script and share it here.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### TL;DR - just the script
 

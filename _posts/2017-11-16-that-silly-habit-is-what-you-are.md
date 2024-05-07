@@ -20,7 +20,7 @@ At every place that has had this kind of opportunities and practices I've also s
 
 That's dangerous. Those silly habits are what is building your culture. Without that (where hack week is just an example) you are not you anymore.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Aptitud
 We have these days in [Aptitud](http://aptitud.se/), the consultancy where I work. We call them Aptituddays and the same things happen every time we have them. People don't have time. 

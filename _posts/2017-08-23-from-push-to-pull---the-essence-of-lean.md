@@ -22,7 +22,7 @@ The other day we tried to do something about this and in doing that we found a k
 
 In this post, I wanted to share what I learned about these principles and ideas. And show what we did. There's nothing earthshattering here. It's just [kanban in action](http://bit.ly/theKanbanBook) and some lean thinking.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Who knows what is important… now?
 

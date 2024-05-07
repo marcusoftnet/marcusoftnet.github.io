@@ -15,7 +15,7 @@ Go over there and read the post - I'm happy how it turned out.
 
 The rest of this post will be very meta… because it will be about how I can write the post on short queue length fast, by having short queue length. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 When I got the request to write the post I accepted and then [Alexander](https://twitter.com/AlexNovkov) kindly wrote back and gave me long (2 months!) time to write the post. It was at this point I decided to do it right away. I, maybe a bit rude, wrote this back: 
 

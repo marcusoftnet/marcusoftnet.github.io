@@ -14,7 +14,7 @@ The last couple of weeks I have been re-discovering an old diagram (eerm … ske
 
 I wanted to share this with you here, in a few iterations and also share some of the discussion that it triggered.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 First of all, this came up as we had a process that was taking a long time. Too long. It involved a few people from different departments that needed to do their work before handing it over to the next department. And then there was a user acceptance testing phase in the end that of course took a long time.
 

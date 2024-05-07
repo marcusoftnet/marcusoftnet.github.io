@@ -12,7 +12,7 @@ Just finished ["The Art of Coaching", by Jenny Bird and Sara Gornall](https://ww
 
 I honestly don't remember putting this book into my basket and was quite surprised when it arrived among some other books in my package. Hence I read the book with very open mind and curiosity. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Confession time: I have no formal training as a coach, and still that is the most common name my roles have. But, as a friend of mine once said when my lack of formal training worried me:
 

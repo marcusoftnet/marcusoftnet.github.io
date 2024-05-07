@@ -14,7 +14,7 @@ My task was to facilitate a retrospective with 5-6 managers across our organizat
 
 I didn't do anything particularly revolutionary, but I was happy with the outcome and the format. You might find this useful too - so I thought I'd share it here.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Background
 

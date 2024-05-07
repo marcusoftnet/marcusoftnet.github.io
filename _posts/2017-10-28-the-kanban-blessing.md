@@ -14,7 +14,7 @@ This week have been a long list of firsts for me, as I have been in China (1st t
 
 I have also signed a lot of books (1st) and I started to come up with some small sentences of wishing good luck and success for the people I signed the book for. Putting them all together they became a nice blessing for people using kanban and lean thinking in their work life. Ah, well others too, of course but they would discover the value of my wishes through some pain.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 A blessing is a wish for success and well-being in the future and my kanban blessing is just that - some hopes that if they were true would place you in a wonderful future of prosperity, calmness and fun. 
 

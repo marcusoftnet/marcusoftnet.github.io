@@ -15,7 +15,7 @@ And the little programmer inside me just shouted out:
 
 In this post I will try to explain how the script that counts all the words in a bunch of word documents. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### The script
 

@@ -14,7 +14,7 @@ As a consultant, you get to see many, different organizations and look deeply in
 
 But I've ~~found~~… who am I kidding … stolen a way that make values more tangible and important in our everyday life. It's a simple trick that you can start using tomorrow. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Regarding these lofty values I mentioned in the intro, you know what I'm talking about, right? The values are words and statements that basically no-one would disagree with:
 

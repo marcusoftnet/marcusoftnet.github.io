@@ -17,7 +17,7 @@ Nowadays, what I'm looking for is the **principle** that led to that practice. A
 
 In this post, I wanted to mention a couple of good examples of when values can move teams, organizations, and complete communities forward to a place that no one would have imagined or reached should we had followed some best practices.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Aptitud
 

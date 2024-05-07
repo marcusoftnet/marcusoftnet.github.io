@@ -24,7 +24,7 @@ And in a follow-up mail:
 
 Well… that was a very thoughtful and great question. Thank you for asking me. I'll try to match the question with an answer at the same level.  
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Just so that it has been said; this will, of course, be a general answer based on my experiences, and without any particular experience from your context. 
 

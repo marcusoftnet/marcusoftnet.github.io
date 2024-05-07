@@ -17,7 +17,7 @@ I realize that I'm turing into an old man... I have, for many years now, being t
 
 At the same time I sometimes forget some of those stories. So I thought I'd better write them down before I lose it altogher.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The door mounting guy
 

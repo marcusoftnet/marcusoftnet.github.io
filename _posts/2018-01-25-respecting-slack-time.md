@@ -15,7 +15,7 @@ I like telling stories, as a mean to teach and explain abstract concepts. Often 
 
 The last couple of days people have been asking me about slack, and I've related a story about the pastor that married me and Elin. He was excellent in manage his own time and respected a good slack! 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Slack, in this context, is the time you get when you actually don't have anything to do right now. While that sounds like an improbability it actually happens to you several times a day;
 

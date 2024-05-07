@@ -19,7 +19,7 @@ But also new problems occur. One of the most common ones is the fact that flow i
 
 In this post, I will offer a few thoughts on how to handle this type of situations. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### You say 'problem' - I say 'unrealized improvement'
 

@@ -18,7 +18,7 @@ And; just writing this post feels like blasphemy after 12+ years of promoting te
 
 Just to be clear - I still think it's awesome, but maybe not always best for the situation at hand. `</storm of angry comments from agile people avoided>`
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Before I write another word: being a team is not a goal in itself. There's many different ways of working together, each useful in their context at a certain time. But I think we often default of using teams as form of cooperation and then end up being disappointed or confused when we are not working as a team. 
 

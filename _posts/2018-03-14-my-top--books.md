@@ -16,7 +16,7 @@ There are only 10, so if one is added another one needs to leave. That said - th
 
 For each, I've given a short little review and comment on why I like the book.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 [Toyota Kata](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238/ref=sr_1_1?s=books&ie=UTF8&qid=1521040881&sr=1-1&keywords=toyota+kata) - this book by Mike Rother is very interesting and useful. It describes how Toyota, inventors of Toyota Production System (that later became Lean) and the Toyota Way *thinks*. Because many organizations have tried to copy Toyota and failed - this book goes beyond the *how* and looks to the thinking, philosophy that makes the continuous improvement work.
 

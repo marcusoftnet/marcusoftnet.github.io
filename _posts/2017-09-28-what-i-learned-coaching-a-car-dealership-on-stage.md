@@ -22,7 +22,7 @@ Agile Islands now asked me if I would be willing to help a company get started w
 
 That sounded super scary and challenging, so I naturally accepted. I learned a lot by doing this and I wanted to share a few things.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### Masterclasses as teaching method
 

@@ -19,7 +19,7 @@ The obvious question on the last day was:
 
 So we did. And I heard that the report was well received (hence I presume the quality was adequate), but in this post, I wanted to talk a little bit how we worked to get this down, and why that helped us (me) to write a better report/message.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Focus on outcomes - not output
 

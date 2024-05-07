@@ -17,7 +17,7 @@ This is awesome but one of the things that I always gets hanged up on when doing
 
 I wanted to share one situaton when we created an user story map for a very non-IT situation and I learned a bit on what incremental means. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Earlier this year my family and I moved to another appartment. As always planning the move is a undertaking of enormous proportions, but I felt that as a agile guy for close to 15 years, I could probably handle it. For some reason user story mapping popped into my head. 
 

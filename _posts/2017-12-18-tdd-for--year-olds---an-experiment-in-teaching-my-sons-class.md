@@ -16,7 +16,7 @@ Adding to the challenge was that this was my own sons class and I felt that I ha
 
 I took on the challenge and it went well, but I thought I'd share some of my preparation and experiences. A few people have asked me privately and I realize that this is a request that many of us in the IT business might get. If you read this you can avoid my problems at least. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've always thought that [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) suits young, experimental mind and their mindset particularly good and decided to have that as my topic for the class. By doing this we could also do a kata and hence have a little game with ourselves and the computer. 
 

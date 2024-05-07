@@ -19,7 +19,7 @@ See?!
 
 Let me tell you what thought about.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 There's a lot of people involved here, at a quick count I see 21 crew members each with highly specialised skills for the job coming up. 
 
