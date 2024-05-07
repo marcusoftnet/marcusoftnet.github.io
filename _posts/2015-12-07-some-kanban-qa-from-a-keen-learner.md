@@ -12,7 +12,7 @@ I sometimes have the good fortune to get questions sent to me via email. Often t
 
 I try to answer those questions when I get the can, especially when I see that the person really wants to learn. A really good example of that came to me the other day, when Jocelyn wrote me. He's about to attend a course on kanban and was required, before the course, to conduct an interview with someone who knew the topic. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Here's Jocelyn's questions and my answers to follow
 

@@ -23,7 +23,7 @@ What if that last part just was a dependency like normal to our application? Lik
 
 That would be so cool. Let me show to get that to work for a Koa application
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Create the application
 I've created a very basic, but not trivial Koa application (using ```npm init```) and then this single file: 

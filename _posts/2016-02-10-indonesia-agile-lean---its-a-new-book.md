@@ -18,7 +18,7 @@ This will be a story about my experiences in the hospital that I helped during m
 
 There will soon be a site for the book and I'll make sure to update this post with the link to that. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The background
 

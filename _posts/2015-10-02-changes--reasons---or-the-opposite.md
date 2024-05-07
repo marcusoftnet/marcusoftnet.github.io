@@ -17,7 +17,7 @@ Or maybe with more details, if you make a change without a compelling reason for
 
 I've mostly been the changer in this, but recently I was the person being changed (the changee?) and I wanted to share my experience and thoughts. So that I, at least, never ever does this again.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 This can be around any change, but for the sake of argument let's say that I send an email to my staff like this: 
 

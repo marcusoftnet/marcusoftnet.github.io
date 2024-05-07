@@ -14,7 +14,7 @@ The only thing is that I have 1017 posts on this blog. When I write the posts, l
 
 I feel the need. The need for more speed. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # TL;DR
 Use the <code>--limit_posts</code> switch to your <code>jekyll serve</code> command to significantly speed up re-generation and hence feedback.

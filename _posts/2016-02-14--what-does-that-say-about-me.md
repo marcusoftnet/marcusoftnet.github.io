@@ -15,7 +15,7 @@ However I have three thoughts that have helped me immensely in how to approach c
 
 In this post I wanted to share these ideas, that are not mine mind you, and maybe you will feel a bit calmer too. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 I've [blogged](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) [many](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html) [times about](http://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html) [Switch](http://heathbrothers.com/books/switch/) which is the best book I've read on the topic. 
 
 # Change! or Change?

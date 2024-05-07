@@ -15,7 +15,7 @@ I think I speak too little about this, or at least I feel the need to be much mo
 
 *NOTE* I know that this will come out like a rant. Sorry. It's not. It's just the state where I've seen it. If anything I think that I have not been candid, clear and transparent in how I communicated.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Background
 I will give you some flashbacks first and then try to tie them together.

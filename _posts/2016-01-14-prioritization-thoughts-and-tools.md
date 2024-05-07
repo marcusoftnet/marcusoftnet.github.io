@@ -19,7 +19,7 @@ Therefor I thought that I could list a couple of thoughts and tools that have he
 
 There's high and low stuff here. Some of it might not be suitable for the kind of prioritization that you're doing. Your mileage may vary. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Thoughts
 First some thoughts and general ideas that I've found invaluable when doing exercises like this. In no particular order - i find them all equally invaluable... 

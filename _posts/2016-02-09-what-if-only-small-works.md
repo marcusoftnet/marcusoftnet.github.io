@@ -21,7 +21,7 @@ My mind was blown away. I learned that the governmental job-finder facility has 
 
 And I did the same erroneous assumption as many of the organizations where agile is started to be used, does. I tried to scale it. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 What I did, which I think that many of you just did too, was to say to Johan: 
 
 <blockquote>That's just amazing! How if we throw in many more people like you? Imagine how many more we can serve</blockquote>

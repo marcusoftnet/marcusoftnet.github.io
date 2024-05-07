@@ -18,7 +18,7 @@ In this post I wanted to share our current set of "rules". Hopefully this will b
 
 "This works for us" (&trade;), "Your millage might vary" (&trade;) and "Please see past the practice and look for principle that you might find useful in your setting" (&trade;). All of those applies to this post.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # These are more like guidelines
 The Pirates of the Caribbean is a really great movie, I think. The other installments not so much, but the first (Curse of the Black Pearl) rocks. 

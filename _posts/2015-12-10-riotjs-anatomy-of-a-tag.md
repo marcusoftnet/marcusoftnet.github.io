@@ -26,7 +26,7 @@ Love it already!
 
 I wanted to share my very early learnings with you. Because [sharing is learning](/)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Disclaimer and pointers
 I'm new and no front-end guy. This is just my way of explaining what I've picked up elsewhere. 

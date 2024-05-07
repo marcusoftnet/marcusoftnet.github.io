@@ -26,7 +26,7 @@ This post describes how to do that.
 **DISCLAIMER**
 I have, for some stupid reason, a Swedish Excel installed. I have [translated the formulas](http://www.piuha.fi/excel-function-name-translation/?page=svenska-english.html) but some other names (like menus etc) might be off. Please bear with me.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 First create a new workbook with a sheet named ```NoPatients``` in it. In my real-life case we have quite a lot of data points, but to keep it simple I narrow it down to two. 
 

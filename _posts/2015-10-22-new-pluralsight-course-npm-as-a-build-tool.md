@@ -20,7 +20,7 @@ As you might know I've written a couple of posts on the topic:
 * [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
 * [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In the course I dive much deeper and the topics discussed are:
 

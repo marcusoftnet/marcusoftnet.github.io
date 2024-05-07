@@ -30,7 +30,7 @@ This is the error, that haunted me into the wee hours of the night, in all it's 
 
 I got that error from [```mocha```](https://github.com/mochajs/mocha/) when watching my tests with the ```--watch``` flag. But only when I ran that watching command as a npm script from ```package.json```. Yeah, it was pretty complex to sort it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # TL;DR - Just tell me how to fix it
 Make sure that your tests doesn't listen "twice", one time in the test (```require("supertest").agent(app.listen());```) and one time in the actual app (```app.listen(3000);```).

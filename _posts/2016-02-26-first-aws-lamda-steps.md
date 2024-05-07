@@ -15,7 +15,7 @@ That "just" in the last sentence proves to be quite a lot of grunt-work, sadly. 
 
 In this post I wanted to describe how I got started with Claudia and Lambdas. It will be loads of fun - let's get on it!
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Getting off the ground with Claudia Js
 <blockquote>Claudia helps you deploy Node.js micro services to Amazon Web Services easily. It automates and simplifies deployment workflows and error prone tasks, so you can focus on important problems and not have to worry about AWS service quirks.</blockquote>

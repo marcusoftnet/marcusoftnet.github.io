@@ -18,7 +18,7 @@ The last couple of months we have been trying a new approach to get better contr
 In this post I wanted to present the way we are working. Right now I might add. Hopefully we do something else in the future. 
 
 Way in the bottom of this post you'll [find an summary](/2015/11/using-the-scientific-method-on-our-board.html#summary) should you find it long to read. 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The main setup for our team is not very special, we have a huge white board, on wheels that we meet in front of every morning. We like visualizations and metrics and half of the board is dedicated to a bunch of different diagrams and progress indicator. You can read about our ["Metrics Pirate Code" in another post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html). 
 

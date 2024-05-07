@@ -15,7 +15,7 @@ I've seen many people change into something better over my years as a consultant
 
 I was a small, small part of that change and I wanted to share the story with you. It's a powerful testament to what capabilities lives in each human being that can be released if given the right circumstance and rooms. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Ibu Elsye
 <img src="/img/ibuElsye.png" style="float:left;padding:15px" width="50%">

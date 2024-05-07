@@ -13,7 +13,7 @@ I have a couple of times been recommended the book [The five dysfunctions of a t
 
 The book is really great and worth reading. In this post I wanted to talk about a very simple exercise that we used in our team the other day. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # "Review"
 First of all; I love the book. It's another of the those text books that is a novel. In this case a very well-written, well-developed story about a new CEO that enters a startup. The company have some really good people in their management team, but their failure to work together as a team hurts the company. 

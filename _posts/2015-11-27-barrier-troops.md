@@ -15,7 +15,7 @@ As I was reading about Amber-Conformist organizations (think strict hierarchical
 
 My point here is that I've also seen residues of this kind of behavior in modern organizations. I think it can be useful to notice it and do something about it before it gets... nasty as we soon will see. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 As can be deduced from it's name "Amber-Conformist"[^1] organizations value compliance and that you are doing as told. The thinking, decision making and authority in these types of organizations are done at the top of the pyramid. As you descend the pyramid less and less authority is given and less decision and thinking is expected. On the lowest level there's only action. 
 

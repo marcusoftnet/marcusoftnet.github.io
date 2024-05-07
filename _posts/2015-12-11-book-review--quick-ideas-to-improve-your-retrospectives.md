@@ -23,7 +23,7 @@ Anyway - those two statements causes a problem for me, as you probably can see. 
 
 On page 2 the authors [Ben Williams](https://twitter.com/13enWilliams) and [Tom Roden](https://twitter.com/TommRoden) had me. I read it in one go.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 This is is the paragraph that got me hooked: 
 
 <blockquote>Unfortunately, many teams repeat the same process over and over so their retrospectives become flat, unrewarding and get discarded because they stop adding value. This can slow down or halt team improvements and de-motivate team members</blockquote>

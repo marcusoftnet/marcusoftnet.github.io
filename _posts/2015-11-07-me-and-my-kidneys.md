@@ -26,7 +26,7 @@ Yes. The only tricky part was the last 24 hours. That sorted. I'm in a good hosp
 
 We will be fine.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Longer description, if you're bored
 

@@ -16,7 +16,7 @@ I cannot help but wonder:
 
 <blockquote>What is important? Really.</blockquote>
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Glimpses
 <img src="/img/perspective.jpg" width="100%" alt="from https://pixabay.com/en/road-distance-landscape-horizon-348544/">
