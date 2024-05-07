@@ -26,7 +26,7 @@ In this post we’ll take a look at [mob programming](http://mobprogramming.org/
 
 But beware: mob programming is only for those that really want to deliver stuff really, really fast. And with the highest quality possible. The rest of us cannot handle it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Mob programming – what is it?
 
