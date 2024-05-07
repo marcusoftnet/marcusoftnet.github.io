@@ -14,7 +14,7 @@ The last couple of weeks an old "friend" has made it's appearance; *fear*. This 
 
 In this post I wanted to ~~rant~~ talk a little bit about that just as a concept and then give a few pointers and indicators on what you can do to get rid of that fear. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## What's with this fear really?
 

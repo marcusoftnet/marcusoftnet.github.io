@@ -20,7 +20,7 @@ but at the same time I think that it's a good thing to:
 
 In this post I wanted to try to sort these two separate statements out and see where the common ground for them are. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## No heroics
 

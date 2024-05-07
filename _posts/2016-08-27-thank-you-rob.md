@@ -12,7 +12,7 @@ I've just downloaded and started to read the [Imposters Handbook.](https://bigma
 
 As I started to read it I heard a familiar voice in my head. Rob Conerys. And I just realised how much I've learned from him. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Dear Rob,
 

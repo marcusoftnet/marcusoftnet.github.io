@@ -16,7 +16,7 @@ I was very honoured to take part in this event - first time for me at Lean Kanba
 
 I wanted to jot down a few thoughts and comments.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Thank you
 

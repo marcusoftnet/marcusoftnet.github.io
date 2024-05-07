@@ -18,7 +18,7 @@ It was in a backlog grooming meeting and we were discussing if the item was read
 
 At the time I just giggled a little about this but it got me thinking and herein lies the heart in how the work with a backlog changes when you start to "do agile" or work in shorter releases. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I'm reading [Jeff Pattons](jpattonassociates.com) awesome book [User Story Mapping](jpattonassociates.com/user-story-mapping/) and it's full of learnings on close to every page. In one episode mr Patton retells the events when he questioned *Why* a certain item needed to be in the requested way, what the real *goal* was. The answer was short and brutal "They are requirements" and a meaning look.
 

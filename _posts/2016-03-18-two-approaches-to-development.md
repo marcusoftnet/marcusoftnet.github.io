@@ -15,7 +15,7 @@ I wanted to share the story since I think it highlights these different mindsets
 
 It's also a great story...
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 We are chasing a performance problem on our site, specifically on one of our more frequently used pages. Needless to say this have had high priority for quite sometime. 
 

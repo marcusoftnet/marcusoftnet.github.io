@@ -19,7 +19,7 @@ The discussion that followed was very fruitful and the people in the room learne
 
 But why does things that *sounds very good*, *is common sense* and that *I buy all of it* - comes out like something totally different and unnatural in many organisations. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Also I've often been so surprised that, sometimes, very senior people ask me for advice in these matters. It's not like I've been given the wisdom of the Gods, or that I'm smarter than the people in the room or virtually every organisation I've been in. 
 

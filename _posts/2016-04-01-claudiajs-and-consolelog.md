@@ -15,7 +15,7 @@ But wait a second: what if I do a `console.log`? Where will that be output? Ther
 
 Spoiler alert: [Claudia](http://www.claudiajs.com) got you covered.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # A simple example
 

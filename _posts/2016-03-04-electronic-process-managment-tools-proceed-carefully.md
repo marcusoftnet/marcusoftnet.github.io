@@ -20,7 +20,7 @@ This post is not about that. This problem is about the general notion of any too
 
 Also this is my experience - your mileage may vary.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Glimpses of misuse
 As I have done for a few posts; let me give a few glimpses of situations when I felt that JIRA (in this case, could be any electronic tool like that) has actually not only slowed us down but been harmful.[^1] 

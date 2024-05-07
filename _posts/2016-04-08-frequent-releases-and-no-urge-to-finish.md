@@ -16,7 +16,7 @@ In this team we have made a lot of changes lately to try to improve our lead tim
 
 But then a question came...
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 <blockquote>There's no urge to finish stuff now. With this frequent releases stuff will never get done</blockquote>
 

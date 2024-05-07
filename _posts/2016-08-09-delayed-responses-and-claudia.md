@@ -17,7 +17,7 @@ Which turned out to be a great thing, since the Claudia team not only created a 
 
 In this post I will re-implement [pingu](https://github.com/marcusoftnet/pingu) using a delayed response as in that tutorial.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Getting started
 

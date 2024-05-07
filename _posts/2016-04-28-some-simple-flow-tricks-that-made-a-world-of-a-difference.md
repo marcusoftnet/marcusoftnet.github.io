@@ -15,7 +15,7 @@ We have now done three very simple changes in our process and technology that ma
 
 In this post I wanted to tell you a little bit around how we did those and the benefits it had for us. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Ditching iterations
 

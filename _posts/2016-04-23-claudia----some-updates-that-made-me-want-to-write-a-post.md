@@ -15,7 +15,7 @@ Also I've noticed that [Claudia](https://github.com/claudiajs/claudia) has come 
 
 This post gave an opportunity to fix both itches above in one go. So this is an updated "Get started with Claudia JS for AWS Lambda"-post.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Setting up AWS Lambda
 

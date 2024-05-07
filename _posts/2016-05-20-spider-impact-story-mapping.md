@@ -35,7 +35,7 @@ It's like
 I don't like it. There's no connection. Or worse we try to make up the vision/goal, the why, from the work that we do. 
 But I have an idea. We are trying it now at my current client. I wanted to share it with you.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I have a few headings that outlines my thought and a suggested process. As always when I read this I need to remind myself that this work is not done in one single meeting or session. Let it grow on you. 
 

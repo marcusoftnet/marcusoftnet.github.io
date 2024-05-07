@@ -19,7 +19,7 @@ Also we discussed that flow is something that we really should strive for, but t
 
 As often, for me at least, it took a few days to think this through. That and some excellent help from some friends and tweeps. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've been proposing, and we have [celebrated great victories](), by doing smaller releases with smaller items. However it causes some trouble and worry in the business side of things; when are these big things getting done? "There's no value in those small things - only when *all* of this big feature is done is there any value." is a phrase I've heard many times already. 
 

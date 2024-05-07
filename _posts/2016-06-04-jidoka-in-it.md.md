@@ -20,7 +20,7 @@ But the other week when one of my team members said:
 
 At that point I saw the time to implement some *jidoka* (as automation is called in Japanese) in our project
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## What is this "jidoka"-thing really? 
 

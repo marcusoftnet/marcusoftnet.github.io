@@ -20,7 +20,7 @@ In this post I suggest that you should:
 
 > Lead like all the people in your team/org/companies are volunteers
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The one time…
 

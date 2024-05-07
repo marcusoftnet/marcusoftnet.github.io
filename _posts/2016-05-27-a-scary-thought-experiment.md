@@ -24,7 +24,7 @@ I am right now in a big company trying to apply agile and lean practices for sof
 
 [I've been through this many times] 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I started to ask a question to people I discussed this with: 
 

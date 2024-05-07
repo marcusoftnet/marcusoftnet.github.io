@@ -20,7 +20,7 @@ You can help my nomination by supporting me in the form on [that page](http://lk
 
 But first - let me tell you a little bit about why you should do that, and what this price even is and some other questions that might go through your mind.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # The award
 

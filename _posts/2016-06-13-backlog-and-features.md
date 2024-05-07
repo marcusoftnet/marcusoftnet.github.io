@@ -17,7 +17,7 @@ A couple of weeks ago I tweeted:
 
 In this post I will explain what I meant. And also give a suggestion on how to do something better. I know it's better - I've tested it many times. Just this last hour to be exact :)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 I've seen problems with backlogs that contains a (long) list of features. It often manifests itself as priorities being changed, team being precieved as non-transparent and sometimes the team feel like they are not included in what is being built.
 

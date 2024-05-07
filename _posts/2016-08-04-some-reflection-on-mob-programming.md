@@ -21,7 +21,7 @@ I've [written before](http://codebetter.com/marcushammarberg/2013/08/06/mob-prog
 
 In this post I wanted to share some things that I've seen. Mind you this is only from the 5-6 mobs that I've been in contact with thoroughly. Other examples and variants are probably found. This is just my observation.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Below when I talk about mobs I talk about the ones I've seen in practise; cross functional teams that turn ideas to working features in production that users are using, responsible throughout the process. I'm sure you could have a Dev-only team that delivers to Test, but I fail to see the purpose since that's basically just speeding up a part of the process. 
 

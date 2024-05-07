@@ -17,7 +17,7 @@ The book is filled with wonderful stories that shows clearly about how the Toyot
 
 In this post I wanted to relate one such story that I meet so often in my daily work and reason a little bit why Toyota (and other lean organisations of course) navigates out of those problems with ease. Whereas I get stuck again and again. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The story
 

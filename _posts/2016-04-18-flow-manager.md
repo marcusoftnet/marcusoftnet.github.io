@@ -27,7 +27,7 @@ So I tweeted:
 
 Let me describe what I mean.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # What is the goal of my work here?
 Being in my role I am often "responsible for the teams" and ensuring a "good progress in their work". Well that in itself is no goal? There's a reason we are here right? 

@@ -19,7 +19,7 @@ That sounds both fun, worthy and useful. And I'm very honored to be part of the 
 
 I asked Brandon if I could share my story on this blog, as that how I mostly write stuff, and he kindly agreed.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 At the time of this story was a young developer creating a support system for a municipal real estate organization. We were very excited to help this particular customer because they had a great need and a very old system they were working in (or against mostly) today. 
 

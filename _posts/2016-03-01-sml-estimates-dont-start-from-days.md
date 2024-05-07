@@ -19,7 +19,7 @@ Here's how this problem will reveal itself. When someone suggests that you'll us
 
 Don't do that - it's the wrong way around. In this post I'll explain why and what is a better, more trustworthy, candid and transparent approach. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 # Why attaching day-span to the estimate is bad
 Well, it's quite obvious isn't it; doing that (S = 1-2 days) is just giving "1-2" days another name. From that follows "resource-days", then Gantt Schemes and the suffering that we all know of. 
