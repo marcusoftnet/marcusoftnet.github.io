@@ -18,7 +18,7 @@ Here's the question (I've edited it a bit):
 Dear Markus, let me get back to you with a question.
 If an agent has to choose between different kanbans (cards) which one to work on, and all the kanbans have the same characteristics (dimensions, etc.) and he can actually decide to work on every one of them, is there any "rule" you might suggest in order to pick a kanban - everything else being equal?
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Kanbans or not kanbans
 

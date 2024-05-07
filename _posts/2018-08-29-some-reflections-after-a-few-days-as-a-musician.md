@@ -15,7 +15,7 @@ It was quite a treat to work in this group and get to play my instrument on a hi
 
 Being part of this group for a few days made me notice a few rituals and practices that I think we can learn from. I wanted to share a few thoughts on them here. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Below I will list a few practices and rituals that we did. First I had an idea of writing something about how to translate this into practices for my "home" industry, IT. But I decided against that. Because I wanted to give you the opportunity to find ways. 
 

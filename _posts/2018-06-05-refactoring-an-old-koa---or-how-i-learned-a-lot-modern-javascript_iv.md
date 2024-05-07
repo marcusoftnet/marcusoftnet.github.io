@@ -19,7 +19,7 @@ Here are all the posts in the series
 - [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) - this post
 - [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 In the last post we made significant progress and now have some very modern and neat looking tests. That run and pass. Time to turn our attention to the system under test and give that an overhaul too. 
 

@@ -22,7 +22,7 @@ Yesterday 33 MacBook Pros came to the Aptitud office and 5 hours later I had ins
 
 In this blog post I wanted to describe how that was accomplished and what I learned in the process. The post will be some lean learnings and some bash scripting and something about dotfiles. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The dotfiles and why I went this route
 

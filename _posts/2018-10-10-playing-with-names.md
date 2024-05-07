@@ -19,7 +19,7 @@ This also ties into a great quote from [David L. Marquet and his excellent Turn 
 
 Let me try to explain.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## On the sub
 When David Marquet was the captain on USS Santa Fee (a submarine, read the book it's awesome) one of the things that he saw as a limiting factor was that there was a lot of complaints about what others should have done:

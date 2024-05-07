@@ -24,7 +24,7 @@ In short:
 
 > Tweaking export of JIRA data for fun and profit
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Creating a filter
 

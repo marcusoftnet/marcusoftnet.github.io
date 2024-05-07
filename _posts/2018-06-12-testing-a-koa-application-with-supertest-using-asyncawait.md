@@ -13,7 +13,7 @@ I've been playing around with refactoring a [Koa](http://koajs.com/) application
 
 In doing so I had an epic battle with [mocha](https://mochajs.org/), [monk](https://github.com/Automattic/monk) and [supertest](https://github.com/visionmedia/supertest) to use async / await etc. I finally found a good structure for this purpose that I wanted to share. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The case
 

@@ -22,7 +22,7 @@ In the coming posts I want to expand on this and see if we can make a distinctio
 
 Ok - let's get going. As for all these post I am [in this Google Sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) - make a copy if you want to play along
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The dates
 

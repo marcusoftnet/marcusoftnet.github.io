@@ -20,7 +20,7 @@ Obviously I spent all that time writing a script to do this. And I wanted to sha
 
 Obviously I learned a lot as well. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Game plan
 

@@ -14,7 +14,7 @@ My favourite part is the sharing between the apps. I create a nice diagram in Go
 
 In this short post, I wanted to walk you through how I've made a very small hack to keep those slides updated automatically. This is really handy if you're doing a dashboard, or presentation that is running in a kiosk of sorts. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ### Copy the chart
 

@@ -18,7 +18,7 @@ This has led me to reflect, formulate and then re-iterate three basic assumption
 
 Let me describe a little bit more what I mean.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Everyone did their best (and continue to do so)
 

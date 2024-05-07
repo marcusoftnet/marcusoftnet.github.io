@@ -18,7 +18,7 @@ I lately was called back to a checkup at the dentist and did some further resear
 
 I wanted to share this story with you, as I think it teaches us a lot about where focus on resource utilization can lead us... everyone working very hard to do the *wrong* thing.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## Part I - the emergency
 

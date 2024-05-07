@@ -17,7 +17,7 @@ From that point I've [written many posts](http://www.marcusoft.net/tags/#Koa), d
 
 So… I thought I'd do it again. This time you can tag along. This post will be long, but hopefully worth it.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The case and introductions
 

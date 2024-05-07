@@ -31,7 +31,7 @@ The idea is pretty simple:
 
 In this blog post, I have documented my complete workflow in getting this up and running and trying it out on a simple kata. The post became pretty long but is hopefully easy to follow.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The kata, the platform and the workflow
 

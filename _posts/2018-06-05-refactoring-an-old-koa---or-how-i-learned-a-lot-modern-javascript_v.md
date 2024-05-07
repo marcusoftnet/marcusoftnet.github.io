@@ -19,7 +19,7 @@ Here are all the posts in the series
 - [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
 - [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html) - this post
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 The last post ended with us finishing refactoring the individual part applications. The time has come to the orchestration app on top. If you remember from the very first post I had done this to show a feature of [Koa](http://koajs.com/) where you can compose Koa applications in a nice way. There's [another blogpost on that.](http://www.marcusoft.net/2015/05/splitting-an-koa-app-into-parts-and-putting-it-together-again.html) 
 

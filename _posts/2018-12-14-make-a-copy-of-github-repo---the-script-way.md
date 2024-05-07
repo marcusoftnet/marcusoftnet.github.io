@@ -13,7 +13,7 @@ At [</salt>](https://www.study-at-salt.com/), a boot camp that I've been part of
 
 Just last week we had the need for a simple way to do a copy of our GitHub repositories. I did some research and found a simple way that I've put together in a script. I wanted to share it here. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## The case
 

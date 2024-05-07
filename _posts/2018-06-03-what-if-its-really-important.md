@@ -23,7 +23,7 @@ That was maybe not pedagogically correct for a child in pain but it at least got
 
 Of course, 7-year old Marcus didn't reflect on his behaviour this deeply. Hey, 44-year old Marcus barely does that. But at some clients, that thought comes back to me from time to time. In the way deadlines are communicated. 
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Have you ever heard something like this, concerting something you are *developing*
 

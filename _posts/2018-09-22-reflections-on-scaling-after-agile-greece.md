@@ -21,7 +21,7 @@ I wanted a few reflections that I got during this conference. It can be summed u
 
 Let me explain how I interpret the messages of the two days.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 ## It's all about people
 

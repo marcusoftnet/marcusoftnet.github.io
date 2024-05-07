@@ -27,7 +27,7 @@ Well.. thanks for your questions. My answer is Yes, Yes, Yes and Ok. ... but als
 
 Let me explain.
 
-<a name='more'></a>
+<!-- excerpt-end -->
 
 Before I answer those worries and comments I need to step back and explain a few things in my usage and understanding of kanban. You may not skip this part as the rest of my answer heavily depends on this reasoning.
 
