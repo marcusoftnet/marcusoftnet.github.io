@@ -54,7 +54,7 @@ Which can be accomplished by a page object that exposes the following property t
 
 ![getting all values from a certain column](http://lh6.ggpht.com/_TI0jeIedRFk/TZ1In3OxEHI/AAAAAAAAA9c/yyJSThVh1m8/getting%20all%20values%20from%20a%20certain%20column_thumb.jpg?imgmax=800)
 
-Or to take another example, setting data in a form (i.e. filling out forms). You can simple exposes properties for each value that you want to fill out from your specification like this (yes I only have setters right now, because my specifications have not have had need for anything else... yet... <img src="http://lh4.ggpht.com/_TI0jeIedRFk/TZ1IoFmOtuI/AAAAAAAAA9g/rKNfFAwh4AQ/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800" class="wlEmoticon wlEmoticon-winkingsmile" alt="Winking smile" />):
+Or to take another example, setting data in a form (i.e. filling out forms). You can simple exposes properties for each value that you want to fill out from your specification like this (yes I only have setters right now, because my specifications have not have had need for anything else... yet... ![Winking smile](http://lh4.ggpht.com/_TI0jeIedRFk/TZ1IoFmOtuI/AAAAAAAAA9g/rKNfFAwh4AQ/wlEmoticon-winkingsmile%5B2%5D.png?imgmax=800)):
 
 ![properties for field on form](http://lh6.ggpht.com/_TI0jeIedRFk/TZ1Ioz-hUrI/AAAAAAAAA9o/dx9SVqiTH3M/properties%20for%20field%20on%20form_thumb.jpg?imgmax=800)
 
@@ -130,6 +130,6 @@ That could become a lot of classes for steps files, but with the latest features
 
 Using the Page Object my test code has cleaned up significantly and I have gained a lot of insight in how to better structure my code. I recommend using it in any project that automate a GUI. It’s not only useful for web pages, of course, but work equally good with desktop applications.
 
-The code for this post is found in [this project](https://github.com/marcusoftnet/HairAndSoleless) which was supposed to be about something completely different <img src="http://lh5.ggpht.com/_TI0jeIedRFk/TZ1IuDU7UiI/AAAAAAAAA-U/DGl1xxbyRkc/wlEmoticon-smile%5B2%5D.png?imgmax=800" class="wlEmoticon wlEmoticon-smile" style="border-bottom-style: none; border-right-style: none; border-top-style: none; border-left-style: none" alt="Smile" />.
+The code for this post is found in [this project](https://github.com/marcusoftnet/HairAndSoleless) which was supposed to be about something completely different ![Smile](http://lh5.ggpht.com/_TI0jeIedRFk/TZ1IuDU7UiI/AAAAAAAAA-U/DGl1xxbyRkc/wlEmoticon-smile%5B2%5D.png?imgmax=800).
 
 Finally, since I just found it, I think that if you had something like the [Mara project](https://github.com/remi/Mara), it would replace about 90 % of my code here. So then I gladly update my code for that.
