@@ -17,13 +17,12 @@ One of the things that's always included in my presentation is a slide that asks
 
 I have experimented with a few ways to get proper and honest feedback and I wanted to share my latests experiment.
 
-<!-- excerpt-end -->
-
 # Doing now
 
 What I've done up to now is to ask for two different metrics.
 
-<img src="/img/rotiDiagram.jpg" style="float:left" width="60%" alt="Throughput visualization">
+![Throughput visualization](/img/rotiDiagram.jpg)
+
 ROTI (which in Indonesian means bread... I'll come back to that). Return On Time Invested. Did the attendees think that they spent their time wisely? I do a scale from 1 to 6 (so that Swedes cannot be in the middle) and define 1 as "Worst time in my life" and 6 as "If could have been in heaven I'd rather go back here and here this presentation again - because life cannot get better than this" to get the spread distributed.
 I ask the attendees to put a X where they think the value should be.
 
@@ -51,8 +50,9 @@ I got more feedback this way. Almost everyone brought me something good and some
 
 Also it's nice to don't have Good vs Bad but rather Happy and Better. That feels nicer to me.
 
-<img src="/img/rotiDiagram.jpg" style="float:right" width="60%" alt="Throughput visualization">For the ROTI I turned their attention towards the company or groups I've visited instead. I might say something like
-<blockquote>We've been 25 people in this room for 1,5 h. That totals to ca 40 man-hours. Do you think those hours was spent wisely here? Did this presentation bring *R*eturn *O*n the *T*ime *I*nvested?</blockquote>
+For the ROTI I turned their attention towards the company or groups I've visited instead. I might say something like
+
+> We've been 25 people in this room for 1,5 h. That totals to ca 40 man-hours. Do you think those hours was spent wisely here? Did this presentation bring *R*eturn *O*n the *T*ime *I*nvested?
 
 This led a little better spread I think and we saw a brave low point under average. A little bit more sincere.
 
@@ -62,7 +62,7 @@ One day, when I'm really brave I will use the ROTI to, a little bit more literal
 
 In Sweden I do 2 h presentations for 3 - 7 000 SEK ($375 - $875), depending on the audience and event. That's a bit too low really but let's use that as an example.
 
-Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: <code>$200 *ROTI of 3 = $800</code>, if I'm awesome and everyone thinks the time was well invested <code>$200* 5.5 ROTI = $1100</code>.
+Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: `$200 * ROTI of 3 = $800`, if I'm awesome and everyone thinks the time was well invested `$200 * 5.5 ROTI = $1100`.
 
 Or I can take my average score and say: "My average is 4.5 and my average rate is $625. If I get above my average we double the fee, below it's half price".
 
