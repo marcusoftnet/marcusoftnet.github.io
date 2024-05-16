@@ -31,7 +31,7 @@ Finally, I want to try to do this in as much functional programming style as pos
 
 There are many other ways of doing this, of course, and you might feel like this: 
 
-<img src='./img/IHaveSeveralQuestions.gif' width="100%" />
+![IHaveSeveralQuestions.gif](/img/IHaveSeveralQuestions.gif)
 
 This is will be a post on scraping a lot of web pages. So obviously you could ask why I didn't just grab the data from whatever data source I had. Well... it was a SQL Server and I don't have an easy way to peek into it. 
 
@@ -139,11 +139,19 @@ The goal now is hence to get an array of links printed to the console. Let's wri
 ```javascript
 const cheerio = require('cheerio')
 
-const parseLinks = async htmlString => {
+const parseLinks = async html
+
+String => {
   try {
     const $ = await cheerio.load(htmlString)
     const links = $('blockquote > a')
-    return links
+
+    const anchors = []
+    links.each((i, link) => {
+      const href = $(link).attr('href')
+      anchors.push(`${SITE}${href}`)
+    })
+    return anchors
   } catch (error) {
     console.log(error)
   }
@@ -319,7 +327,9 @@ We're getting closer.
 
 First, right now we are just getting the 'Albert' quotes, but I have three kids and three categories of quotes. I'm sure Arvid and Gustav would feel left out if we didn't store their quotes. 
 
-Let's make an array of kids and then map over that array to run our whole chain. Something like this: 
+Let's make an array of kids and then map over that array to run our whole chain. Something like this
+
+: 
 
 ```javascript
 const kids = ['Albert', 'Arvid', 'Gustav']

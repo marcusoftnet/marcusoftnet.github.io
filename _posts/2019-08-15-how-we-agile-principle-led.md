@@ -241,7 +241,7 @@ Because there are things like that - and it should be.
 
 If you drew our organizational structure of teams it would look something like this:
 
-<img src="/img/GuildsPrinciples.png" width="100%" alt="Our team org" />
+![Our team org](/img/GuildsPrinciples.png)
 
 A classical matrix organization. But this also how we handle cross-cutting concerns; we form cross-cutting groups where needed.
 
