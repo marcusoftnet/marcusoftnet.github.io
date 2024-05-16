@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What should I pick?"
+title: "Choosing the Right Kanban: A Lean Approach"
 author: "Marcus Hammarberg"
 date: 2018-10-10 17:45:07
 tags:
@@ -9,63 +9,32 @@ tags:
  - Agile
 ---
 
-I got a question the other day from Enea Zuliani and Michele Degrassi. It was particularly heartwarming to read as they just read [Kanban In Action](http://bit.ly/theKanbanBook) and now have started to use. Kanban. In action. 
+Recently, I received an intriguing question from Enea Zuliani and Michele Degrassi, who, after delving into [Kanban In Action](http://bit.ly/theKanbanBook), began utilizing Kanban in their work. They posed a question regarding selecting a kanban (card) to work on when all options possess identical characteristics. With their permission, I'm sharing the question and my response here.
 
-They now had a question and I asked if I could share that question and my answer here on the blog. They kindly obliged. 
+## Deciphering Kanbans
 
-Here's the question (I've edited it a bit):
+Firstly, kudos for embracing the essence of kanban as a visual card system. In the realm of lean workplaces, the term "kanban" embodies the concept of visualizing work. However, in the IT industry, its interpretation varies, often encompassing process improvement methodologies or the visual board itself. Nevertheless, the core principle remains:
 
-Dear Markus, let me get back to you with a question.
-If an agent has to choose between different kanbans (cards) which one to work on, and all the kanbans have the same characteristics (dimensions, etc.) and he can actually decide to work on every one of them, is there any "rule" you might suggest in order to pick a kanban - everything else being equal?
+> The purpose of kanban is to limit the number of kanbans so that each kanban flows fast over the kanban.
 
-<!-- excerpt-end -->
+Thankfully, that wasn't the question at hand.
 
-## Kanbans or not kanbans
+## Crafting a Response
 
-First of all - excellent use of the word kanban (that literally means visual card). This is exactly how lean workplaces are referring and using the term. We have confused it a bit, in the IT-industry, with not only a method to improve processes, sometimes referred to as the process itself but also sometimes the board. 
+In essence, the query revolves around how to determine the next task when faced with multiple equal options. Here's my response, succinctly put:
 
-All of this leads to this, the pretty confusing, but correct sentence can be said to an initiated audience:
+> How does one discern what to tackle next?
 
-> The purpose of kanban is to limit the number of kanbans so that each kanban flows fast over the kanban
+While there are no steadfast rules, several simple heuristics can guide decision-making.
 
-Phew... Luckily that was not the question. 
+![Stop starting - start finishing!](/img/stopStarting.jpg)
 
-## My answer
+Firstly, embrace the mantra: Stop starting - start finishing. Scan the board for tasks nearing completion and contribute, regardless of ownership. Customers prioritize completed work over job titles. A pragmatic approach involves traversing the board from right to left, questioning each task's potential for completion. Engage in tasks that foster smooth workflow and adhere to work in process (WIP) limits.
 
-Here's my answer to the question, in short:
+If capacity allows, opt for smaller tasks for quicker turnaround or prioritize high-value tasks. Understanding value might require employing frameworks like [WSJF (Weighted Shortest Job First)](http://blackswanfarming.com/wsjf-weighted-shortest-job-first/) for informed decision-making.
 
-> How would someone know what to pick next?
+When WIP limits restrict new tasks, invest in activities enhancing future workflow, ensuring flexibility to pivot if needed.
 
-Well not really any rules - but there are a few simple heuristics that you can use.
+In summary, Enea and Michele astutely suggested a simple guideline: read kanbans from right to left, prioritizing tasks nearing completion to swiftly deliver value—a notion harmonious with "start finishing," an ethos I endorse.
 
-<img src="/img/stopStarting.jpg" style="width:100%" alt="Stop starting - start finishing!" />
-
-First of all - Stop starting! Start finishing. Meaning; first, see if there is any work on the board that you can help to finish. Yes - even the work that you are not in charge of ("I cannot test that - I am not a tester", is a common excuse for example). Our customers don´t really care who does what as long as the value is created.
-
-A simple way to get this principle implemented is to start from the right of the board and walking to the left. Point to each sticky (kanban) and ask "Can I help finish this one?". If you find anything you can help finish - do that by all means. It's a great way of making sure your work flows fast and smooth and that the work in process limit (WIP) not is increased. 
-
-
-
-If you reach the end, see if the WIP limits allow you to pull more work. If so, I would pull the smallest tickets first. Because that would be finished fast and we would learn faster. 
-
-Or the most valuable one first. But, how do you know the value? If you don't know the value - how can you know if it is a good ticket to pull? 
-
-Check out the prioritization algorithm known as [WSJF (weighted shorted job first)](http://blackswanfarming.com/wsjf-weighted-shortest-job-first/) for more information about this thinking. 
-
-
-
-If the WIP limits don't allow you to pull new work; do whatever you find useful to help us move faster in the future. Only; make sure it's something that you can drop should we need you to finish more work later.
-
-I hope that made sense - its the simple rules I use. It's summed up with the simple mantra
-
-> Stop starting - start finishing
-
-## Summary
-
-It's not often that people write the summary for me, but before I could publish this, Enea and Michelle responded with this. I'll leave this as a summary:
-
-> Together we came up with a simple rule while implementing a kanban in a team: all things being equal, start reading the kanbans from right to left. This means preferring doing things that are closer to the finish line, in order to deliver value to the client as soon as possible, quite in line with your idea of "start finishing" which I love.
-
-Perfect! They _get_ it!
-
-I hope you too found this useful, dear reader. 
+I trust this perspective resonates with you, dear reader.

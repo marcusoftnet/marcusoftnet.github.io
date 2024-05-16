@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Kondo software quality index"
+title: "The Kondo Software Quality Index"
 author: "Marcus Hammarberg"
 date: 2019-03-20 18:16:46
 tags:
@@ -9,96 +9,50 @@ tags:
  - Life of a consultant
 ---
 
-Before I start I want to give credit where credit is due:
+I'd like to start by acknowledging the remarkable individuals I encounter as a consultant—those brilliant, fun, and experienced professionals who seldom surface online or at conferences. Scott Hanselman aptly dubs them [Dark Matter Developers](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx), and they are the unsung heroes of the industry. This blog post was sparked by one such individual, Yngve, whom I had the pleasure of collaborating with at a client's site.
 
-One of the things that I love most about being a consultant is all the amazing people I get to meet at my different client; brilliant, fun and experienced-oozing people that I don't see or meet online or at conferences. They are out there. [Scott Hanselman](https://www.hanselman.com) calls them [Dark Matter Developers](https://www.hanselman.com/blog/DarkMatterDevelopersTheUnseen99.aspx).
+At this client, where Yngve serves as an infrastructure architect, we faced a common challenge: measuring software quality. The teams felt overwhelmed by the perpetual neglect of technical debt, constantly being pushed to deliver new features without addressing underlying issues. We lacked a concise means of communicating this dilemma to our non-technical colleagues.
 
-This blog is sparked from one of them; Yngve! Thanks! 
+To address this, we devised a simple yet effective metric: the Marie Kondo-index for software quality.
 
-At this client (where Yngve works as an infrastructure architect) we were struggling to measure software quality. The teams felt like they never got the time to take care of technical issues that have been lying around forever, that they were forced to tack on "yet another new feature" and that we had no good way to communicate this. 
+## The Complexity of Measuring Quality
 
-We needed a quick way to measure and track this - such as our non-technical coworkers understood what we meant. 
+Measuring software quality is notoriously complex, as eloquently discussed by Gojko Adzic in his [blog post](https://gojko.net/2012/05/08/redefining-software-quality/). We struggled to distill this multifaceted concept into an accessible and visual format—until the idea of the Kondo-index emerged.
 
-We came up with the Marie Kondo-index for software quality. 
+## The Birth of the Kondo-index
 
-<!-- excerpt-end -->
+Despite the intricacies of quality measurement, developers and team members intuitively knew the state of the systems they worked on. Conversations revealed a shared sentiment regarding the quality of different components—ranging from enthusiastic pride to visible discomfort.
 
-Measuring quality is notoriously tricky ([amazing blog post here by Gojko](https://gojko.net/2012/05/08/redefining-software-quality/)) and getting it in an understandable format, that also can be visualized felt almost impossible to pull off. 
+Drawing inspiration from [How to Measure Anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html), I proposed tracking how proud developers felt about the products they were building. This concept aligns with the XP value of simplicity, emphasizing the creation of work that instills pride and is maintainable over time.
 
-But here's the thing; if you asked anyone in a team they would immediately know the state of the systems:
+It was during this discussion that Yngve humorously interjected:
 
-> System B? Oh, that is crap through and through. 
+> "Does it spark joy?"
 
-> Website X? That's in a pretty good state.
+And thus, the Kondo-index was born.
 
-Developers and people working around a system generally know and they are (mostly) in agreement. You could see and hear it in how they talked about the systems. Face-palming and shivering in the worst cases and spontaneous invitations to my editor to show the cool thing we built. 
+## A Primer on Marie Kondo
 
-They know. And they want to do something about it, but we can't show it. 
+For those unfamiliar with Marie Kondo, she is a Japanese organizational consultant whose methodology has garnered widespread acclaim. Through her books and Netflix series, she advocates for decluttering and organizing one's living space to promote joy and serenity.
 
-So I suggested that we could track, inspired by [How to measure anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html), how *proud the developers felt* over the product they were building. 
+Her guiding question is simple yet profound:
 
-This is also closely related to the [XP value of simplicity](http://www.extremeprogramming.org/values.html), that in the end says:
+> "Does it spark joy?"
 
-> … We will create something we are proud of and maintain it long term for reasonable costs. 
+## Applying the Kondo-index to Software Quality
 
-And it was at this point that Yngve, with his dry wit, stepped in and just said: 
-> You mean: "Does it spark joy?"
+Yngve's quip—“How much joy does it spark?”—resonated deeply as a quality metric. We experimented with several approaches:
 
-Yes, that is exactly what I mean. Hence the Kondo-index was born. 
-## Marie Kondo primer
-If you now think:
+* Regular team voting (1-5) to gauge overall joy sparked by the product, with a median value serving as the index.
+* Voting on specific components of the system to generate a holistic quality assessment.
 
-> Who, on earth, is the Kondo-person he is referring to all the time?
+As with any metric, it's essential to remember two fundamental principles:
 
-then this section is for you. 
+1. The Kondo-index is an indicator of quality, not a definitive measure.
+2. Focus on trends and learning—celebrate improvements and address deteriorations over time.
 
-<img src="/img/mariekondo.jpeg" style="width:50%">
+## In Summary
 
-[Marie Kondo](https://en.wikipedia.org/wiki/Marie_Kondo) is Japanese women that have quickly become an Internet celebrity. She is all about organising your stuff and home and can right now be watched on [Netflix](https://en.wikipedia.org/wiki/Tidying_Up_with_Marie_Kondo)
+Extreme Programming values simplicity and takes pride in our work. By asking the team, "Does it spark joy?" about our code, we can gauge our appreciation for the products we build. Regularly tracking this sentiment provides valuable insights into the progression of code quality.
 
-She oozes joy and inspiration that you cannot defend yourself from. She is in a word: lovely!
-
-This is summed up in her catch-phrase
-> Does it spark joy?
-
-Part of her method to organise your home is about you having fewer things. Hence you want to throw away unnecessary things. One way to find those things is to:
-
-* Put them all (all your clothes for example) in a big pile
-* Pick them up one by and one and think, really think, Does this spark joy?
-  * If yes - keep this gem of clothing and put it back in its box
-  * If no - thank the shirt and put it in a box for donations
-
-That's basically all you need to know about Marie Kondo and her organising method, to understand the rest of this post. 
-
-She is sweet as sugar and you just want to pick her up and have her with you. You didn't need to know that, but it's true. 
-
-## Marie Kondo and software quality indicator
-
-So when Yngve suggested: 
-
-> How much joy does __it__ spark? 
-
-As a quality metric, it hit a nerve directly. It's the perfect question to ask. 
-
-We are trying a few different ways to do this:
-
-* Ask the team to vote (1-5) if _it sparks joy_ on a regular basis and create a compound index using the median value, or a graph showing all votes
-* Ask the team to vote (1-5) if the different parts of the system and maybe create a compound index over all the systems
-
-
-
-Two things on tracking this index, from my [Pirate Code post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)
-
-First, is this a quality metric? No - but it is an indicator of quality. If quality is amazing, you will see people talk about their stuff, with other teams, among each other - and they would look proud and happy. If quality is bad … you would not see that happening. People would not talk about the system, at least not in good terms. 
-
-Second - we measure to learn and hence focus on trends and learning. I don't care too much if the Kondo-index is 3.6 or 2.1. I do care that we do something about the value dropping off over time. And I do want us to recognise and celebrate the value going up. 
-
-## Summary
-
-In Extreme programming, the value of simplicity talks about pride of our work being a key value. We can use our appreciation of the things that we build as an indicator of quality. 
-
-One useful and fun way to do this is to ask the team:
-
-> Does it spark joy?
-
-About the code. Track this on a scale (1-5 for example) and ask this at regular interval to get an indicator about how code quality is progressing. 
+Let's embrace this simple yet powerful metric to foster a culture of pride and excellence in our work.
