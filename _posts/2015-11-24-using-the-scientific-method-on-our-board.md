@@ -76,7 +76,7 @@ In order to track our progress we created two simple charts; one tracking how ma
 
 Sometimes we track more than one thing. The examples above both have bearing on one of our overarching graphs: Number of patients served per day. So in addition to the detailed graph we're also keeping an eye on the over arching graph. Here's how that can look:
 
-<img src="/img/graphsForHypothesis.jpg" width="80%" alt="Our graphs for above mentioned values">
+![Our graphs for above mentioned values](/img/graphsForHypothesis.jpg)
 
 The top left is the number of patients, below that is the number of new patients per day. The last one shows the number of operations per day.
 
@@ -109,7 +109,7 @@ Ok - let's not dwell longer here. Moving on the the experiment column.
 
 With the hypothesis in place our experiments (tasks in the Experiment column) now is easier to talk about. Basically we just ask:
 
-<blockquote>What should we try next to improve the metric of this hypothesis? </blockquote>
+>What should we try next to improve the metric of this hypothesis?
 
 And then we list a few things, one or two and we try them out for a week or so. Setting the time frame of  the experiment is something that is really important but we have not got that into full practice yet.
 
@@ -134,7 +134,7 @@ Instead of writing a conclusion I'll tell you what happened yesterday. Because y
 
 The hospital director went up to the board and took a look at the graph and said:
 
-<img src="/img/graphsForHypothesis.jpg" width="80%" alt="Our graphs for above mentioned values">
+![Our graphs for above mentioned values](/img/graphsForHypothesis.jpg)
 
 "Well, from the last weeks worth of data, we can easily see that our current efforts in trying to increase the number of operations [^3] doesn't pay off".
 
@@ -151,7 +151,8 @@ I got some great feedback from my good friend [Håkan Forss](http://hakanforss.w
 
 Actually I did that already, for the hospital. That's why I wrote the post, to be able to summaries the ideas behind the how our board is working. To the left you can see the cheat-sheet that we have posted right on our board to remember how it works:
 
-<img src="/img/hypothesisDrivenBoard.png" style="float:left;"  width="40%" alt="Cheat sheet for our board">
+![Cheat sheet for our board](/img/hypothesisDrivenBoard.png)
+
 Here's what it means:
 
 **Apa (Indonesian for What)** - our description of what we're trying to do. "Increase the number of patients", for example
@@ -162,10 +163,7 @@ Here's what it means:
 Examples could be "Increase the number of operations per day will increase the total number of patients served" - this means that we will keep track on the total number of patients served as well as the number of operations. They should both go up.
 
 **Experiments** - What is the next little thing we can try to see if we are moving in the right direction? What would good look like on our metrics? How would bad look? How can we make that step smaller? We aim to do 2 week experiments before we evaluate and only do 1 or 2 experiments at the time.
-Example would be "Advertise in other hospitals", "Speak with local clinics" or "Talk with temporary doctors to do their operations here"
 
-<hr>
-
- [^1]: More like a guideline really...
- [^2]: This requires some explanation; we are counting something we call "standard patients" which is just the standard price for one patient in our bed per day. But operations are more expensive. So we count 3 * standard patients per day. Just popping in visiting the doctor is cheaper so we count 1/6 standard patient per day care patient.
- [^3]: That graph had flatten out, to almost a stand-still
+[^1]: More like a guideline really...
+[^2]: This requires some explanation; we are counting something we call "standard patients" which is just the standard price for one patient in our bed per day. But operations are more expensive. So we count 3 * standard patients per day. Just popping in visiting the doctor is cheaper so we count 1/6 standard patient per day care patient.
+[^3]: That graph had flatten out, to almost a stand-still

@@ -9,97 +9,81 @@ tags:
  - Life of a consultant
 ---
 
-I've been rereading the awesome [ReInventing Organizations](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/) by Fredric Laloux. The first chapter in particular is awesome. It's a history the evolution of organizations through history. What I like about it is that it highlights both the strength and weakness of each new stage of organizations. 
+I've been rereading the remarkable [ReInventing Organizations](http://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/) by Fredric Laloux. The first chapter, in particular, is captivating as it delves into the evolutionary history of organizations. It astutely highlights both the strengths and weaknesses of each new organizational stage.
 
-As I was reading about Amber-Conformist organizations (think strict hierarchical, big organizations) I had train of thought that I wanted to share, as I've during the last two years experienced much of those types of organizations myself. 
+While reading about Amber-Conformist organizations (think strict hierarchical, large organizations), I found a train of thought forming, resonating with my experiences over the past two years, where I've encountered many such organizations.
 
-My point here is that I've also seen residues of this kind of behavior in modern organizations. I think it can be useful to notice it and do something about it before it gets... nasty as we soon will see. 
+My point here is that residues of this behavior persist in modern organizations. Recognizing and addressing them proactively is crucial to prevent potential issues, as we'll soon see.
 
-<!-- excerpt-end -->
+As the name suggests, "Amber-Conformist" organizations value compliance and adherence to instructions. Decision-making and authority in these organizations are centralized at the top of the hierarchy. As you move down the hierarchy, less authority, decision-making, and thinking are expected until, at the lowest level, there's only action.
 
-As can be deduced from it's name "Amber-Conformist"[^1] organizations value compliance and that you are doing as told. The thinking, decision making and authority in these types of organizations are done at the top of the pyramid. As you descend the pyramid less and less authority is given and less decision and thinking is expected. On the lowest level there's only action. 
-
-To be able to scale this to many people it's vital that everyone follows the procedure and just do what's expected of them. Indeed, as [I've blogged about before](/2015/04/please-question-the-process.html), I've been scolded many times for not doing that. I have many emails in my inbox telling me to:
+To scale this model to accommodate many individuals, strict adherence to procedures and expectations is vital. As I've [written about previously](/2015/04/please-question-the-process.html), I've often been chastised for deviating from these expectations. My inbox is filled with emails urging me:
 
 <blockquote>Please don't question the process</blockquote>
 
-At first this can seem puzzling and, trust me, very frustrating. But once you start to think about where this kind of organization stems from and where they have their strength it becomes more understandable. Although I still think the whole scheme is wrong and degrading to humans. 
+Initially puzzling and immensely frustrating, this behavior becomes more understandable when we consider the origins and strengths of such organizations. However, I still find the entire scheme dehumanizing and fundamentally flawed.
 
-# Mental pictures and some violent history
-Mr Laloux attach a metaphor or mental picture to each stage of evolution for the different organizations, to easier remember them by. The picture for Amber-Organizations is an Army. In my mind I'm seeing a Roman army facing another in war. Those kinds of armies. 
+# Mental Imagery and Historical Context
 
-Let's see if we can understand the behavior like "Please don't question the process", "Don't think we've done that for you" etc in this setting. 
+Laloux assigns a metaphor or mental image to each stage of organizational evolution, facilitating easier recollection. The image for Amber-Organizations is that of an Army. In my mind's eye, I envision a Roman army on the brink of war.
 
-Imagine the army on the battlefield. The front line consists of foot soldiers, armed with swords and shields. Their job is at a given signal charge the enemy army. That most likely had a similar setup. Probably the front line soldiers would be fighting in a rain of arrows too. The odds of survival for these troops should be very low. In fact, as I understand it, often slaves or prisoners was put in these positions. 
+Let's attempt to comprehend behaviors like "Please don't question the process" or "Don't think; we've done that for you" within this framework.
 
-Now imagine if these troops started to think for themselves. I know what I'd think: "Get me out of here! I'm running the other way!". That would have devastating effects on the effectiveness of the charge of course, breaking the line and opening gaping holes for the enemies. It only works if everyone just follows the procedure and does what they are told. 
+Picture an army on the battlefield, the front line comprised of foot soldiers armed with swords and shields. Their sole directive: charge the enemy upon a given signal. The odds of survival for these troops would be exceedingly low, potentially involving the sacrifice of slaves or prisoners.
 
-I've often thought about how they managed to keep the panic under control in these situations. Why didn't people just run away? Until I heard about [Barrier Troops](https://en.wikipedia.org/wiki/Barrier_troops). This was something that many armies through history used, even up to the Second World War. 
+Now, imagine if these soldiers began to exercise independent thought. The consequences would likely be catastrophic, disrupting the effectiveness of the charge and creating vulnerabilities for the enemy. Success hinges on unwavering adherence to procedure and unquestioning obedience.
 
-The idea is brutally simple; right after the front rows (that likely panic and turn around) we send in some people whose job it is to threaten or kill anyone that turns around. Everyone in the front row knew about these troops, of course. You could either face the very slim odds of surviving up front, or turn around to face certain death from the Barrier Troops. 
+I've often contemplated how commanders managed to maintain control and prevent panic in such situations. How did they prevent soldiers from fleeing? The answer lies in the concept of [Barrier Troops](https://en.wikipedia.org/wiki/Barrier_troops), utilized by armies throughout history, even up to the Second World War.
 
-Either way - you're screwed.
+This concept, though brutal in its simplicity, was remarkably effective. Positioned directly behind the frontline troops—who might be prone to panic and retreat—were units tasked with threatening or killing any soldier attempting to turn back. The mere existence of these troops, known to all frontline soldiers, presented a grim choice: face slim odds of survival upfront or certain death at the hands of Barrier Troops if attempting to retreat.
 
-# Modern barrier troops
-Ok, that was indeed nasty and horrible. Let's leave that era. Surely something like that is ancient history and not around today. 
+In either scenario, doom was inevitable.
 
-Well, true... but in the Amber-Conformist type of organizations I've been working in the concept is still there. There's rewards or punishment for example. I've [blogged about a situation](/2015/06/a-question-of-context.html) where nurses knew that they were going to get deducted pay if they didn't follow procedure. So they didn't wash their hands. Because that wasn't in the procedure. Quite natural and understandable. And stupid. 
+# Modern Manifestations of Barrier Troops
 
-Amber-Conformists answer to this is of course that the procedures is not sufficient and needs to be updated (indeed that was the initial reaction in that case too) I'm thinking that we can never write down everything. Some lay-way and authority needs to be given on the lowest level. 
+Although unsettling and barbaric, the concept of Barrier Troops persists in contemporary Amber-Conformist organizations. Punishments and rewards serve as modern-day equivalents. In a situation I've [previously recounted](/2015/06/a-question-of-context.html), nurses chose to forgo handwashing because it wasn't explicitly outlined in the procedure—a decision motivated by fear of pay deductions.
 
-You can surely come up with other examples in your own context; being held responsible for estimates you've made, given deadlines that you didn't set, yearly bonuses, etc. etc. 
+The typical response from Amber-Conformists is to revise procedures, acknowledging their insufficiency (as was initially suggested in the aforementioned case). However, it's essential to recognize that not everything can be codified. Some degree of autonomy and authority must be delegated to the lowest levels.
 
-# Fear
-What's the connection between this kind of behavior and the barrier troops? Or put differently, and a bit sad; why (or rather where) does this work? 
+In your own context, you'll likely identify similar examples: being held accountable for estimates you didn't set, facing deadlines you didn't establish, or experiencing annual bonuses tied to arbitrary metrics.
 
-Because it does. Many Amber-Conformist have reached surprisingly good effectiveness and size. Take you old school bank or any kind of global company up to 1950. They run like this. 
+# Fear's Role
 
-The common denominator is Fear. Barrier Troops worked great (in the sense that people were charing the other army without questioning) because they were afraid. The bonus / punishment system in place in many organizations to this date is driven by fear. "If I don't do great I'll loose out on the bonus". 
+What connects this behavior to the concept of Barrier Troops? Or, to phrase it differently, why does it work?
 
-In Asia I've seen entire cultures driven by Fear: "I cannot speak up to this older / high ranking / respected person, even though I know that his wrong - how will that look."
+Because it does. Many Amber-Conformist organizations have achieved surprising efficiency and scale. Consider traditional banks or global corporations pre-1950—they thrived under such structures.
 
-Let me give you two examples from modern age. One if funny and one is scary. I'll take the scary first and end on a high note, ok?
+The common thread binding them is fear. Barrier Troops succeeded because of fear; the modern organizational equivalent, rooted in bonus/punishment systems, operates on the same principle. "If I don't excel, I'll miss out on my bonus."
+
+In some Asian cultures, fear pervades every aspect of life. Individuals refrain from challenging older, higher-ranking, or respected figures—even when they're clearly mistaken—out of fear of repercussions.
+
+Let me illustrate with two examples—one sobering, the other amusing.
 
 ## Singapore
-Singapore is an awesome country in many regards. The development done there is truly amazing from the 1950-ies up to now. Coming from Indonesia to Singapore (3 times) is unbelievable. Just 2 hours from Indonesia you have a place where **everything** works as intended. Indonesia is often the opposite, sadly. 
 
-<img src="/img/rioting.jpg" style="float:left" width="40%" alt="Rioting gets you nothing but caning and imprisonment">
-But after I, being a Swede, has been in Singapore for a couple of days something is not right for me. There's so many probations. There's signs and warnings everywhere and they are all "Do Not". No "Do". 
+Singapore stands as a testament to remarkable progress and development. Contrast it with Indonesia, and the difference is striking—just a two-hour flight separates chaos from order. However, after spending some time in Singapore, a disquieting realization emerges: the prevalence of prohibitions and warnings.
 
-Take a look at the sign, on the left, that I photoed during the New Year 2015 Celebration. Singapore also famously have the worlds cleanest streets. Why? Because there's a hefty fine (500 Singapore dollars?) for littering.   
+During New Year's celebrations in 2015, I encountered a sign (see left) cautioning against rioting. Singapore boasts impeccably clean streets—largely due to hefty fines for littering.
 
-Don't get me wrong. Singapore works great. Among the top nations in the world, even. The health care, there is amazing. It's clean and everything works. 
+Singapore's efficiency is undeniable, but its proliferation of prohibitions raises questions. Through what means is order maintained? Fear appears to be the underlying motivator—a sobering realization.
 
-But all those probations and "do not"'s what are they communicating. Through what mean is the goodness and culture kept in place? Fear? Sadly, that's what I read between the lines.  
+## Korean Airlines
 
-I don't like it. But yet there's many aspects of Singapore that I do like. 
+Here's a lighter anecdote, albeit with serious implications. Korean Airlines, notorious for incidents in the 70s and 80s, topped the global incident charts. Their solution? Analyzing every incident, they uncovered a pervasive issue: deference to seniority.
 
-## Korean airlines
-I heard a funny story, that turned out to be true about Korean Airlines. For a period in time (don't know when... 70--80-ies?) they had a really bad reputation. They topped the list of recorded incidents for any airline around the world. 
+Lower-ranking staff hesitated to challenge seniors due to cultural norms. While respect is commendable, its excessive manifestation can be perilous.
 
-They decided to do something about it and started to analyze every incident to find common problems. You know what they came up with? Culture. Respect for senior / higher ranking people in the organizations. 
+One notable incident involved a co-pilot noticing dangerously low altitude but refraining from alerting the captain directly, opting instead for a non-confrontational remark. A near-catastrophe ensued, narrowly averted by the pilot's evasive action.
 
-Lower ranking staff didn't dare to speak up to senior staff, due to the honor culture that govern many Asian nations. It in itself is of course nothing bad, but it's consequences once gone to far... devastating. 
+Fear of speaking up stifles quality. In this case, it nearly resulted in a catastrophic crash.
 
-One famous example shows the co-pilot noticing that the plan is flying to low. He doesn't say anything, because he is not the captain of the plane. Surely the pilot notice this. He's older and wiser. 
+## In Conclusion
 
-After awhile no correction of altitude is made and the co-pilot is starting to get very nervous. There's high mountains all around them. Instead of embarrassing the captain by making clear that he's making mistakes the co-pilot wants to draw the pilots attention to the problem, so that he can solve it himself. 
+Fear permeates many aspects of modern organizations, hindering both their potential and the fulfillment of individuals within them.
 
-The co-pilot solution, recorded on the flight system, is to simply say:
+Scrutinizing and challenging the sources of fear is imperative. It's unnecessary and counterproductive.
 
-<blockquote>I say. What a nice scenery it is around here, don't you think Captain?</blockquote>
-
-A very near accident is avoided only by the pilot doing a strong evasive maneuver. 
-
-Fear of speaking up is holding quality back. In this case the quality is "don't crash the plan into the nice scenic mountain coming up".
-
-# Summary
-There's many displays of fear, even in modern organizations today. I think it's not only holding the organizations back, keeping unused potential literally locked in by fear. But also, many people in those organizations are living unfulfilled lives. 
-
-Even though it can be hard to see sometimes but we need to scratch the surface and challenge the reason for this fear to be around. It's not needed. 
-
-You fight Fear with two things; Love and Trust. It's easy. Let's do it!
+The antidotes to fear? Love and Trust. Simple, yet profound. Let's embrace them!
 
 <hr>
 
-[^1]: The colors is just Mr Laloux way of grading the organizations on the evolution scale, going from Dark Red to Lighter shades of green.  
