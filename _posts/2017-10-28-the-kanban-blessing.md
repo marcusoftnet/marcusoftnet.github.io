@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The kanban blessing"
+title: "Embracing the Kanban Blessing"
 author: "Marcus Hammarberg"
 date: 2017-10-28 11:44:48
 tags:
@@ -10,31 +10,28 @@ tags:
  - Life of a consultant
 ---
 
-This week have been a long list of firsts for me, as I have been in China (1st time) and done a full week of training and coaching at a remote client (1st) and also been away from my family for a pro-longed week (sadly not first but seldom).
+This week has been a series of firsts for me. I visited China for the first time, conducted a full week of training and coaching at a remote client (another first), and endured a prolonged separation from my family (not a first, sadly, but still rare).
 
-I have also signed a lot of books (1st) and I started to come up with some small sentences of wishing good luck and success for the people I signed the book for. Putting them all together they became a nice blessing for people using kanban and lean thinking in their work life. Ah, well others too, of course but they would discover the value of my wishes through some pain.  
+Amidst these experiences, I found myself signing numerous books for the first time. As I penned my name, I began crafting small messages of good luck and success for the recipients. Over time, these messages evolved into a special blessing for individuals utilizing Kanban and Lean principles in their work lives. Well, others too, but they might discover the value of my wishes through some trial and error.
 
 <!-- excerpt-end -->
 
-A blessing is a wish for success and well-being in the future and my kanban blessing is just that - some hopes that if they were true would place you in a wonderful future of prosperity, calmness and fun. 
+A blessing is a wish for success and well-being in the future, and my Kanban blessing embodies just that—a series of hopes that, if realized, would lead you to a future filled with prosperity, serenity, and joy.
 
-Usually blessings are of religious sorts (and you can get one of those from me also, should you want to), but this is just me having a little fun. 
+While blessings typically carry religious connotations (and I'm happy to provide one if you wish), this is simply me having a bit of fun.
 
-Here we go:
+Here's my Kanban blessing:
 
-> May the path before your feet always be well visualized to inform, support and help you to be wise
+> May the path before your feet always be well visualized to inform, support, and guide you wisely.
 >
-> And may the work in your progress be limited to a low number of items
+> May the work in progress be limited to a manageable number of items.
 >
-> May forever your flow be fast as lightning, to help you learn fast and improve
+> May your flow be as swift as lightning, facilitating rapid learning and continuous improvement.
 >
-> In the name of Ohno, Deming and Anderson
->
-> Kanban!
+> In the name of Ohno, Deming, and Anderson—Kanban!
 
-I even took the time to make a nice picture for you should you want to refer to it later.
+I even crafted a visual representation for your reference:
 
-<img src="/img/thekanbanblessing.png" width="100%" alt="The kanban blessing - CC3.0 Marcus Hammarberg" />
+![The Kanban Blessing](/img/thekanbanblessing.png)
 
-Ok - time to go home. See you again China. Thanks for everything. It was a pure joy. 
-
+Now it's time to bid farewell to China. Until we meet again, thank you for everything. It's been a pure joy.
