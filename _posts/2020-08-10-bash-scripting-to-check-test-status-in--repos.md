@@ -43,12 +43,12 @@ Getting the directories into an array turned out to be tricky in itself, but [I 
 ```bash
 #!/bin/sh
 
-# An array with the directories I'm interested in
+## An array with the directories I'm interested in
 dirs=(./*/)
 dirs=("${dirs[@]%/}")
 dirs=("${dirs[@]##*/}")
 
-# Loop over the directories
+## Loop over the directories
 for dir in "${dirs[@]}"
 do
   echo "$dir"
@@ -148,12 +148,12 @@ The entire script looks like this:
 ```bash
 #!/bin/sh
 
-# An array with the directories I'm interested in
+## An array with the directories I'm interested in
 dirs=(./*/)
 dirs=("${dirs[@]%/}")
 dirs=("${dirs[@]##*/}")
 
-# Loop over the directories
+## Loop over the directories
 for dir in "${dirs[@]}"
 do
   echo "$dir"
@@ -194,7 +194,7 @@ Phew - that's quite a tall order... Here's an example, I'll talk through the poi
 ```bash
 #!/bin/sh
 
-# cd to the location of the script
+## cd to the location of the script
 cd "$( dirname "${BASH_SOURCE[0]}" )"
 
 installresult=$(npm i --silent)
@@ -221,7 +221,7 @@ then
   exit 1
 fi
 
-# cd back to where we came from
+## cd back to where we came from
 cd - > /dev/null
 
 echo "Installation, linting and testing verified - OK"

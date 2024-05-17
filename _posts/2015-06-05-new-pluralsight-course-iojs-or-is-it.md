@@ -26,7 +26,7 @@ The course is in three parts (and a summary):
 * Running Node apps on io.js - this is the meat of the course showing some of the small quirks getting started but mostly showing what possibilities that io.js opens up for your Node applications. Especially around [EcmaScript 6](http://www.pluralsight.com/courses/javascript-fundamentals-es6). There's also a section about how make sure that you actually are using the correct version of the framework. I [blogged about that before](www.marcusoft.net/2015/03/packagejson-and-engines-and-enginestrict.html)
 * Deploying to [Heroku](http://www.heroku.com) - in this module I show how to convert an existing application and then what you need to think about to make sure that your configuration is correct. This module serves a little bit as repetition of the second part. 
 
-# The twist
+## The twist
 I was done. All the material was handed into PluralSight and I was just waiting for the launch. And then [this happened](https://medium.com/node-js-javascript/io-js-week-of-may-15th-9ada45bd8a28).
 
 <blockquote>io.js decides to join the Node Foundation.</blockquote>

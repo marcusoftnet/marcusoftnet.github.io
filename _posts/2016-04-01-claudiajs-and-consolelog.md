@@ -17,7 +17,7 @@ Spoiler alert: [Claudia](http://www.claudiajs.com) got you covered.
 
 <!-- excerpt-end -->
 
-# A simple example
+## A simple example
 
 As our example let's use one of the [example projects](https://github.com/claudiajs/example-projects) that Claudia has provided for us to learn from. In fact - let's use the simplest possible: [Hello-World](https://github.com/claudiajs/example-projects/blob/master/hello-world/).
 
@@ -59,7 +59,7 @@ Now we can create the AWS Lambda with `npm run create` and then do subsequent de
 
 Do a `npm run create` now to create your application. 
 
-# Testing it out
+## Testing it out
 Did you see the little `test` script in the `package.json`? That's a really cool way to test run our application. 
 
 Test the application by running `npm t` (a shortcut for `npm test` which is a shortcut for `npm run test`) to test our application. 
@@ -68,7 +68,7 @@ If everything went well this would print out a nice little message about our AWS
 
     {"StatusCode":200,"Payload":"\"hello world\""}
 
-# See the log
+## See the log
 Ok, but what about the log? That was, of course, not printed in our console. That happened on the ... eh.... server? In our server-less architecture? 
 
 Well Claudia has, behind the scenes, done some nice configuration for you so that your log message ends up in something called [CloudWatch](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1).
@@ -79,5 +79,5 @@ In that list you should see a entry for `/aws/lambda/hello-world`. Click it and 
 
 Presto! That's where you log ends up for the $LATEST staging (that Claudia also creates for you per default).
 
-# Summary
+## Summary
 A `console.log` statement in AWS Lambda do not really have a server whose console to log to... But using Claudia for your deployment will automatically hook your log statements into the CloudWatch utility of AWS.

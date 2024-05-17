@@ -46,7 +46,7 @@ I could write comment, praise and thoughts that popped into my head, about almos
 
 Instead I'll wrap this review up with one of those thoughts.
 
-# An example: scaling agile
+## An example: scaling agile
 At the end of the book Mr Jeffries gives some thoughts on scaling agile. He's basic argument is that if we can get a single team to "do agile properly" then scaling might not be needed (for that one product). One team, work in a fluent agile way, would probably be enough.   
 
 I tend to agree with that thought, but in many organizations I've been working in there's a structure in place already, not around product but rather around specialties and ... "how we used to do". 
@@ -75,7 +75,7 @@ Well... if we can get one team to do that then the next team will be **easy**. W
 
 But that is also showing the intent and principle of agile in general and this book specifically; get something simple to work first and then do the next simple thing until all the simple things makes up what you need. Maybe what you needed was not complex after all. 
 
-# Summary
+## Summary
 
 Get this book. 
 Read it.

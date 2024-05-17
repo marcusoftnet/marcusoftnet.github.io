@@ -15,11 +15,11 @@ Many teams I visit nowadays have ditched story points and start to use Small, Me
 
 Don't do that - it's the wrong way around. In this post I'll explain why and what is a better, more trustworthy, candid, and transparent approach.
 
-# Why attaching day-span to the estimate is bad
+## Why attaching day-span to the estimate is bad
 
 Well, it's quite obvious isn't it; doing that (S = 1-2 days) is just giving "1-2" days another name. From that follows "resource-days", then Gantt Schemes and the suffering that we all know of. S, M, L is intended to communicate the uncertainty and that we uncover things as we go, while still giving some kind of size to the items. Funnily enough so ware story points, but it's easier to misuse since they are numbers. S, M, L are in themselves uncertain since we all know that two t-shirts that are S are just roughly the same size. Attaching day-spans to them before you estimate is destroying this.
 
-# What should we do then, Mr Smartypants?
+## What should we do then, Mr Smartypants?
 
 Quite simply: don't estimate the size - base it off data instead. It requires a few very simple steps.
 

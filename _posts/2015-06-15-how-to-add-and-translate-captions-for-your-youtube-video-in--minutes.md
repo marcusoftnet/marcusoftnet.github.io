@@ -16,7 +16,7 @@ As I don't speak Bahasa Indonesia fluently, the primary language here, I initial
 
 In this post, I'll walk you through the steps I took so you can expand the reach of your presentations/videos too.
 
-# The Creation
+## The Creation
 
 The initial section outlines how I created the video for uploading to YouTube. If you're solely interested in [subtitles](#subtitles), feel free to skip ahead.
 
@@ -32,7 +32,7 @@ When recording, I adhere closely to the presenter notes. While I may digress dur
 
 I utilize Camtasia for recording and editing the video. The slide presentation is recorded separately and later combined using Camtasia's editing features.
 
-# [Subtitles](#subtitles)
+## [Subtitles](#subtitles)
 
 While the subtitle instructions may seem detailed, the process becomes remarkably swift with practice. For my second video onward, it typically took around 10 minutes, including a 5-minute wait time on YouTube.
 
@@ -64,6 +64,6 @@ Users can utilize YouTube's built-in translation feature to translate subtitles 
 
 Publishers can manually translate subtitles by uploading a translated subtitle file.
 
-# Summary
+## Summary
 
 Despite the detailed explanation, the entire process typically takes around 10 minutes per video. I trust you'll find this guide useful, as I anticipate referring back to it myself.

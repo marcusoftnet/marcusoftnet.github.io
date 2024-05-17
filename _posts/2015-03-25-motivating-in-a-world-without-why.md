@@ -23,7 +23,7 @@ However, studying Indonesian culture has provided valuable insights into my own 
 
 Let's delve into the strategies that have proven effective in motivating Indonesian individuals.
 
-# An Example: Breaking Down Goals
+## An Example: Breaking Down Goals
 
 I'll illustrate these strategies with an example from our work at a hospital. Initially, we struggled to convey the importance of financial sustainability. Despite our efforts, the staff showed little interest in financial metrics.
 
@@ -31,7 +31,7 @@ To address this, we simplified our approach. Rather than discussing monetary fig
 
 Our breakthrough came when we introduced the concept of a break-even point in patient numbers. Visualizing this on a board, we highlighted the threshold below which the hospital operated at a loss. This simple, concrete representation had a profound impact, sparking a newfound commitment to financial sustainability.
 
-# Strategies for Motivation
+## Strategies for Motivation
 
 ## 1. Break It Down
 

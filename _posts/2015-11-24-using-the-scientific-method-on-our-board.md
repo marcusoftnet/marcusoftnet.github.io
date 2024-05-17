@@ -34,7 +34,7 @@ The task-board simply lists 3 (not more at the time) tasks and our current effor
 
 It was a start and it served us well. For awhile. But then ...
 
-# Discovery through evolution
+## Discovery through evolution
 
 Since we always have some diagrams on the board, we sometimes saw a disconnect between what we did and what we measured. For example, we track the number of patients served per day, but we working on improving the paint in our ER. How are they related? How can we know if fixing the paint in the ER is really good for us? What do we want to achieve with fixing the paint in ER? Is that contributing to the over all goal of the hospital? What is that now again?
 
@@ -61,7 +61,7 @@ At this point I happened to mention experiments and we tried something out. We c
 * Experiment - the tasks are now rephrased as experiments. This has a huge impact in how failure and learning is perceived. Among other things.  
 * And an empty column for things like PIC or deadlines as we see fit.
 
-# Hypothesis and experiments
+## Hypothesis and experiments
 
 For the hypothesis column we made a "rule"[^1]:
 
@@ -105,7 +105,7 @@ Some interesting questions arises:
 
 Ok - let's not dwell longer here. Moving on the the experiment column.
 
-# Experiments
+## Experiments
 
 With the hypothesis in place our experiments (tasks in the Experiment column) now is easier to talk about. Basically we just ask:
 
@@ -126,7 +126,7 @@ One thing that we continuously find good about this is to check back in with the
 * How should a success manifest itself on our graph? A failure?
 * Is there other, more impact-full experiments we could try.
 
-# Yesterday
+## Yesterday
 
 This is mostly a report about where we are today. It's not complete. Maybe never will be.
 
@@ -145,7 +145,7 @@ I just stood in the background. Smiling!
 
 Experiment-driven management in action.
 
-# Summary
+## Summary
 
 I got some great feedback from my good friend [Håkan Forss](http://hakanforss.wordpress.com), about the length and chatty-ness of the post. Any feedback from him is worth listening too. But I also wanted to write the story... So I'd thought I summaries the post here.
 

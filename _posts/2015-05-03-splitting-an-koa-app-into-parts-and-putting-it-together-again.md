@@ -23,7 +23,7 @@ As before, if you want to tag along as I build this example out, grab the code f
 
 <!-- excerpt-end -->
 
-# The problem / opportunity
+## The problem / opportunity
 
 Right now this is a nice little API for users. But what if this starts to grow? If you remember the original post it was answering a question on how to split the _tests_ over several files. But that's only half the story. I want the entire API to be split up in smaller sections.
 
@@ -33,7 +33,7 @@ However I think I've pushed the <code>User</code>-parts far enough. It would mak
 
 Instead let's say that we have Addresses, Orders as a separate API. Our task at hand is to create three small, autonomous API's like the one we have and then gather it under an over-arching _app_ that exposes the API resources.
 
-# Goal structure
+## Goal structure
 Our application right now is all about Users. Let's move that down a level or two and create a structure like this:
 
 * Application responsible for putting together the application
@@ -54,7 +54,7 @@ Our application right now is all about Users. Let's move that down a level or tw
 
 This will be a lot of code to write, but you will not see me writing about every single line here. Instead I will focus on the glue-code and you can see the [result here](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.3) once it's done.
 
-# Humble beginnings
+## Humble beginnings
 First let's create a few folders:
 
 ```bash
@@ -77,7 +77,7 @@ In our root folder there's only <code>LICENSE</code> and <code>README</code> and
 
 And all the code we had is in the <code>/apis/user</code> folder. We can check that it still works by going into the directory and run <code>npm test</code>.
 
-# Don't mind the man behind the curtain
+## Don't mind the man behind the curtain
 In order to make this a little more interesting I will now create two more apis and put in there. But that's very boring to write about since it will be very much alike the things we have.
 
 By the power of time travel you will instead see it completed.
@@ -89,7 +89,7 @@ Ok, each of those small APIs is structured a little bit different, just to prove
 
 Oh my, that took much longer than I thought. But now we have it ready.
 
-# Putting it together
+## Putting it together
 Now for something more interesting. Because now we have 3 totally separate APIs that cannot be used as an entity. Let's fix that by creating an application on top that exposes the APIs. In the progress we will have to clean somethings up in the separate APIs but I'll come back to that later.
 
 ## No app?
@@ -162,7 +162,7 @@ And then a test command that looks like this, in the <code>package.json</code>
 
 Let's run it with <code>npm test</code>. Works!
 
-# Mounting it together
+## Mounting it together
 Ok, now we have some APIs and and a root application. Let's put it all together, and that is done with [koa-mount](https://www.npmjs.com/package/koa-mount) as you might expect.
 
 Let's add a little twist, let's mount the <code>/orders</code> with some authentication. I'm using basic-authentication now, but this can be more elaborate if needed.
@@ -426,7 +426,7 @@ I added a test to check that not-logged in gives you a 401. See the code on [Git
 
 And there you have it!
 
-# Summary
+## Summary
 This might be the longest post I've ever written but we also did a lot of things here.
 
 We have:

@@ -148,7 +148,7 @@ Back at the room Albert slept and I got visitors from our friends Bo and Christi
 
 From this point on I felt that it would be better and better.
 
-# The final parts
+## The final parts
 
 Is yet to be written...
 

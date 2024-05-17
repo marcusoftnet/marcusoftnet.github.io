@@ -19,7 +19,7 @@ In this post I will re-implement [pingu](https://github.com/marcusoftnet/pingu) 
 
 <!-- excerpt-end -->
 
-# Getting started
+## Getting started
 
 The easiest way to get started is to clone my repo and start from the 1.1 tag.
 
@@ -43,7 +43,7 @@ Now, we are ready to install the dependencies: `npm install` and, if you haven't
 
 Oh, you need to configure a Slack command too. [Read this](http://www.marcusoft.net/2016/06/claudia-bot-builder.html#hook-up-a-slack-command) - it's easy.
 
-# Where are we?
+## Where are we?
 
 I've worked a little bit with the code from the blog post so that it's now a command like this: `/pingu [url1, url2]` that accept one or more urls (separated with commas) and returns a nicely formatted (ah, well…) response.
 

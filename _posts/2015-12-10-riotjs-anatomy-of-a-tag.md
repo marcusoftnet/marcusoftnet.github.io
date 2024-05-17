@@ -28,14 +28,14 @@ I wanted to share my very early learnings with you. Because [sharing is learning
 
 <!-- excerpt-end -->
 
-# Disclaimer and pointers
+## Disclaimer and pointers
 I'm new and no front-end guy. This is just my way of explaining what I've picked up elsewhere. 
 
 If you really want to learn this from scratch you should take a look at the [YouTube videos of Andrew Van Slaars](https://www.youtube.com/watch?v=al87U6NgRTc). Great, clear stuff. 
 
 Also the [Guide](http://riotjs.com/guide/) at Riot Js is good. But very dense. I had to read it a couple of times before I got it. I will actually use one of their examples in this post, and try to explain it a bit further. 
 
-# Tags - the building blocks of interface
+## Tags - the building blocks of interface
 In Riot the idea is that we build the interface up out of small components of functionalities. Like a micro-service architecture for the GUI if you want. 
 
 These components are called *tags* in Riot. The tag is a small piece of the UI with all HTML, layout and script functionality grouped together. 
@@ -44,7 +44,7 @@ These components are then used to build up your application. It's a very easy me
 
 In this post I wanted to examine the *tag* itself a bit closer. What does it consists of, how to structure it and some options. If it goes according to plan this might end up becoming a descent introduction too.
 
-# Getting started
+## Getting started
 One of the great things about micro frameworks is that since they are small they also gives you great flexibility as to how to use them. Which is great when you know what you are doing... a bit harder when you're newbie like me. 
 
 The simplest I've come up with is to just create an HTML document like this: 
@@ -79,7 +79,7 @@ As I mentioned there are other ways too; you can for example perform the compila
 
 But is harder to get started like that. I'm running with this now. 
 
-# Our first, pretty sophisticated, tag
+## Our first, pretty sophisticated, tag
 Let's create a `index.html` page with the template above and uncomment lines 9, 12 and 16 which where my example code. 
 
 Now create a directory called `tags` and it it add a file `todo.tag` with the following Hello World content:
@@ -94,7 +94,7 @@ Here we declare the `todo` tag.
 
 Fire up a simple web server, if you're on OsX just go `python -m SimpleHTTPServer` and then point a browser to http://0.0.0.0:8000. Sit back and be amazed. You have created a Riot component. 
 
-# First dissection of the tag
+## First dissection of the tag
 A tag can contain only HTML like this one. Or only Javascript, try just an empty logger for example with 
 
 ```html
@@ -105,7 +105,7 @@ A tag can contain only HTML like this one. Or only Javascript, try just an empty
 
 The HTML, if present, by convention comes first. Let's tweak it a bit before we talk more about the scripting. And styling... 
 
-# Passing data to the tag
+## Passing data to the tag
 It's pretty boring I admit... let's fix that. Let's add some make the title of our todo list dynamic. 
 
 First we change the content of the `h3` into this `{ opts.title }`. Every tag have a couple of options that is passed into it from ... the where the tag is used. Let's try it on our `index.html`.
@@ -114,7 +114,7 @@ Replace the `<todo></todo>` with this `<todo title="Stuff to do"></todo>`. Reloa
 
 The attributes, that you make up btw, on the tag, becomes properties on the `opts` object, like `.title` for example. 
 
-# Another list?! 
+## Another list?! 
 The great thing about components is that once you have defined them you can reuse them over and over. Let's add another todo list on our page. Let's make the `body` look like this:
 
 ```html
@@ -137,7 +137,7 @@ For the second we didn't set a title and of course no title is display either. L
 
 There we go. Now we get one todo list with our custom title and if no title is supplied from the tag we pick up the default from when we mount the tag.
 
-# Our first script
+## Our first script
 Let's add some script to our tag, just to prove a thing. There's a [bunch of events](http://riotjs.com/guide/#mounting) that is fired during mounting on tags. Let's play with one just to get some scripting into our tag. 
 
 Update `todo.tag` to this:
@@ -156,7 +156,7 @@ Update `todo.tag` to this:
 
 This function will fire "right after the tag is mounted on the page". Let's try it by reloading our browser. Yes - we get that logging in the console twice, one per tag on the `index.html`
 
-# Second dissection of the tag
+## Second dissection of the tag
 OK, so now we have both HTML and some JavaScript in the tag. That's how it should be and the order it HTML first and JavaScript second, by convention. 
 
 To see this in action, try removing the `script`-tags. No, for real. Just take'em out. Like this: 
@@ -188,7 +188,7 @@ If we did the pre-processing on the server (remember that we do that in the brow
 
 There's also EcmaScript6 (`es6`), TypeScript (`typescript`) and `None`, which I don't really know what it means.
 
-# Styling
+## Styling
 There's one thing more I wanted to mention here. The component can also have it's own styling, by simply include a style tag. Let's add something that makes the header a bit bigger, just for this component: 
 
 ```html
@@ -203,14 +203,14 @@ You can even decided where you want Riot to inject this by adding a `<style type
 
 Just for demo purposes I've added it at the end of the page.
 
-# Third dissection of the tag
+## Third dissection of the tag
 Tags can have HTML, Javascript and then some additional, tag-specific styling too. It's really a discrete, little, well-packaged component fully capable of handling itself. 
 
 I like it.
 
 This styling can, as far as I've know and tried, appear anywhere on the page.  But most people seems to put it right after the HTML. 
 
-# Some todos
+## Some todos
 Let's make this baby function a little bit more, by looping out some todo items on the page. 
 
 ## Update the index page
@@ -494,7 +494,7 @@ Go ahead and try to build it yourself before you peek. I learned a lot by doing 
 
 Psst, there's another type of loop that allows you to get hold of the item that you're looping over, like this: <code>{ name, i in items }</code>. You can check it out in the [documentation](http://riotjs.com/guide/#loops). 
 
-# Summary
+## Summary
 Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
 
 Custom tags are the building blocks of the UI when using Riot. They can consist of HTML, JavaScript or both in which the markup comes before the script. Optionally you can add styling for the component. 

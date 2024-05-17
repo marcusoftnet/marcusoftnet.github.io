@@ -17,7 +17,7 @@ In this post I wanted to describe how I got started with Claudia and Lambdas. It
 
 <!-- excerpt-end -->
 
-# Getting off the ground with Claudia Js
+## Getting off the ground with Claudia Js
 <blockquote>Claudia helps you deploy Node.js micro services to Amazon Web Services easily. It automates and simplifies deployment workflows and error prone tasks, so you can focus on important problems and not have to worry about AWS service quirks.</blockquote>
 
 I have to say, after just a day or two of working with Claudia, that it's a smooth ride. Many of the [things that it helps me](https://github.com/claudiajs/claudia/blob/master/README.md) with are things that I didn't know was a problem in the first place.
@@ -62,7 +62,7 @@ Now we can install Claudia with the familiar command <code>npm install claudia -
 
 We are ready to code!
 
-# Our first API
+## Our first API
 Let's get something up there!
 
 Although you can run most any Node code in Lambda (i think ... that will be another post)  we are going to use another little Claudia helper - [claudia-api-builder](https://www.npmjs.com/package/claudia-api-builder).
@@ -227,7 +227,7 @@ This happens if you use a faulty URL, for example forget to add the <code>/hello
 
 What AWS is trying to say is that there is no endpoint at the URL. It just does it badly.
 
-# For now
+## For now
 This post grew much longer than I first anticipated. I'll write another with something way cooler - us saving data in the AWS datastore - [DynamoDb](https://console.aws.amazon.com/dynamodb).
 
 I hope you found this useful so far - see you in the next post.

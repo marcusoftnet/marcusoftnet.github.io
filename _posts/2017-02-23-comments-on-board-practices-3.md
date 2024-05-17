@@ -17,7 +17,7 @@ Let's do it! Done-column - you're going down!
 
 <!-- excerpt-end -->
 
-# Done - what is that? 
+## Done - what is that? 
 
 I claim that there is not "Done"-column. This is something that grown on me over the last couple of years and I think under the influence of the idea of rapid learning as the main gain, from [Lean Startup](http://theleanstartup.com/).
 
@@ -53,7 +53,7 @@ Other teams have gone further and called the column "Collect metrics-data" or so
 
 ![Example sticky collecting learning data](/img/stickyCollectingMetrics.jpg) 
 
-# Summary
+## Summary
 
 Try to come up with a better name for the last column in your flow than "Done". More specifically - remember that items in production will teach you a lot about how they behave and work. Don't miss the opportunity to learn from that. 
 

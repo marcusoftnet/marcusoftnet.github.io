@@ -25,7 +25,7 @@ Holy Moly! That's a plenty. I'll keep them all short and update the links to the
 
 Let's start with a simple one - blocked should not be a column. 
 
-# Blocked is not a column
+## Blocked is not a column
 
 Actually I could make this really short by refereing to an [old post I wrote a few years ago](http://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html) but I'll write down a few thoughts here. Maybe I've become wiser. 
 
@@ -67,7 +67,7 @@ It can look something like this:
 
 For extra points we can [track the number of days](http://www.marcusoft.net/2017/02/visualizing-scope-creep.html) we have been waiting for the blockage to resolve. Maybe we have some escalation policies for how long we are going to wait before we take action. 
 
-# Summary
+## Summary
 
 That was the first post. I hope you liked it. I'll try to keep the other ones coming during the next couple of days. 
 

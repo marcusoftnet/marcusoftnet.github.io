@@ -17,7 +17,7 @@ This time I wanted to talk about the column themselves, or maybe I dare to talk 
 
 <!-- excerpt-end -->
 
-# Todo - doing - done is not your process
+## Todo - doing - done is not your process
 
 This is probably the best example of [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) in our community I can come up with; the names of the columns on the board. If you have any close to your office I urge you to take a look; I promise that the vast majority have column names like "To do"/"Next", "Doing"/"In progress" and "Done".
 
@@ -80,7 +80,7 @@ Two examples where this can happen are
 * really fast processes like support functions - where items are on the board for less than a day and in certain steps on our board for just minutes or half an hour. No need to have an elaborate process for that - that just overhead.
 * [Mob programming teams](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/) - these teams rarely see the need for a board in the first place; everyone in the team knows the state of the work anyway. I've seen other visualizations of work outcome and work lined up - but a board is often not needed. For all intents and purposes, a mob is working on only 1 thing at the same time, by definition. There's no big gain in visualizing that. 
 
-# Summary
+## Summary
 
 Short and sweet;
 

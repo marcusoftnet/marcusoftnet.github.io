@@ -15,14 +15,14 @@ The book is really great and worth reading. In this post I wanted to talk about 
 
 <!-- excerpt-end -->
 
-# "Review"
+## "Review"
 First of all; I love the book. It's another of the those text books that is a novel. In this case a very well-written, well-developed story about a new CEO that enters a startup. The company have some really good people in their management team, but their failure to work together as a team hurts the company. 
 
 The rest of the book is devoted to how the heroine (Kathryn) helps the management team to really become a team and not just a bunch of people happen to work together. 
 
 It's of course based on the author's, Patrick Lencioni, ideas and experience, but presented so subtle and engrossing in the story that you almost don't notice it. 
 
-# A simple exercise
+## A simple exercise
 The last part of the book is a little bit more like a normal text book where the ideas that is presented in the story is more developed and given some practical tips too. 
 
 I picked up one of those exercises as an initial "get-to-know-each-other" meeting. 
@@ -53,7 +53,7 @@ Here's the questions we ran with, right out of the book:
 
 Of course everyone was free to skip questions that felt uncomfortable to answer in public. 
 
-# Summary
+## Summary
 This simple exercise actually made our knowledge about each other whole person much wider. I learned a lot about people that I've worked with for 10 years. 
 
 I think that going forward this knowledge will be really valuable to have as we work tightly together. 

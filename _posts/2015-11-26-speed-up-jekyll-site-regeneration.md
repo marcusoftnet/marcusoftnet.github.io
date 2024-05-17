@@ -16,10 +16,10 @@ I feel the need. The need for more speed.
 
 <!-- excerpt-end -->
 
-# TL;DR
+## TL;DR
 Use the <code>--limit_posts</code> switch to your <code>jekyll serve</code> command to significantly speed up re-generation and hence feedback.
 
-# Longer version
+## Longer version
 I've written before [my post scaffolder](/2014/12/my-post-scaffolder-for-jeyll) which is a handy little script to get started. The other script I have made is a very simple script for starting my site locally. Here it is: 
 
 ```bash

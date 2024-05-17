@@ -34,7 +34,7 @@ In the same way, most people, working at Aptitud couldn't care less if we are te
 
 That said, there are some of us that happen to be interested in how to build these kind of organizations. Just as some other people in Aptitud is interested in soccer, or coding 8-bit-games. 
 
-# Processes
+## Processes
 I have often said that "there's no problem if you are doing [Scrum-but](https://www.scrum.org/ScrumBut) as long as it serves you well." 
 
 Many of the best teams, in terms of frequent reliable high-quality deliveries, I've met have absolutely no idea what their method is called. Maybe it started as Scrum, inspired by Lean with a little bit of XP crumbled on top. Tomorrow it will be something different. 
@@ -48,7 +48,7 @@ and although implementing only parts of Scrum is possible, the result is not Scr
 
 And that it is Scrum or (brrrr) "not Scrum" is not important (for most of us). It just meta. It's not the most important.
 
-# However ...
+## However ...
 In some organizations there are people whose entire job is meta. As one of the people I talked to yesterday said: "They work as a middle-manager at a bank to be a middle-manager at a bank". 
 Or, if I'm going to be self-critical: "He works as an agile coach just to be an agile coach". Ouch... have to think about that. 
 
@@ -65,7 +65,7 @@ The "CEO" (or what you want to call him, since they got rid of titles a long tim
 
 That is not meta. That is important. From that stems all innovation, all new ideas they try. They don't care what it's called. Or if they happen to be "teal-but" or not. They just want to be better.
 
-# Conclusion
+## Conclusion
 Just because something is meta doesn't mean that it's not important. It's just not most important. By definition. That's why it's called meta. 
 
 Now - what is meta and what is not... Well ... you'll figure it out. Right? Tell me when you do. Please

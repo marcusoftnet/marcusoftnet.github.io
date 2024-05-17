@@ -237,7 +237,7 @@ ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 
@@ -331,7 +331,7 @@ ROOT_REPORT_FOLDER = "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 
@@ -340,7 +340,7 @@ efficiency_image = drive.upload_image_to_folder(folder_id=report_folder.id, file
 
 drive.make_public(file_id=efficiency_image.id)
 
-# Report generation will happen here
+## Report generation will happen here
 
 drive.remove_public_access(file_id=efficiency_image.id)
 ```
@@ -402,7 +402,7 @@ EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 
@@ -515,7 +515,7 @@ EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 
@@ -578,7 +578,7 @@ EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 
@@ -639,7 +639,7 @@ EFFICIENCY_REPORT_TEMPLATE = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 report_folder_name = f"a_client_name_report_{datetime.datetime.now().timestamp()}".replace(" ", "_")
 report_folder = drive.create_folder(report_folder_name, ROOT_REPORT_FOLDER)
 
-# Reading image into a bytes array
+## Reading image into a bytes array
 with open("/local/path/to/a/file.png, "rb") as image:
   image_bytes = image.read()
 

@@ -41,7 +41,7 @@ But what did he do there; he measured, saw problems, made a little change, measu
 My point, as you'll see below, is that you simply don't know what is the best thing - before the fact. The future is uncertain (duh!). The best way forward is to take small steps often and measure to see that you're on our way to the goal. If not we tweak our course.
 **[END UPDATED]**
 
-# What can we learn?
+## What can we learn?
 We don't know what will work. Not until we have tested. You can have great ideas and plans - but that's just ideas and plans until you have validated them. 
 
 In order to get to know fast we need to do small, frequent experiment often and change our approach, ideas and thinking based on the result of the experiment. 

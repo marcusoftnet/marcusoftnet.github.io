@@ -18,7 +18,7 @@ In this post I wanted to up the ante a little bit and store some data, more spec
 
 You might want to read up on the basics (creating accounts, what is Claudia etc) in my earlier post. I'll write every step down here but I will not explain it as thorough as last post.
 
-# Dynamo Db?
+## Dynamo Db?
 
 <blockquote>Amazon DynamoDB is a fully managed non-relational database service that provides fast and predictable performance with seamless scalability.</blockquote>
 
@@ -58,7 +58,7 @@ Running it shows that it works. You'll have to remove the table you already crea
 
 Nice! Two ways of creating DynamoDb tables. Let's move on.
 
-# Our code
+## Our code
 
 Now to write the code. We will be using two packages from Google themselves called [dynamodb-doc](https://www.npmjs.com/package/dynamodb-doc), and also [aws-sdk](https://www.npmjs.com/package/aws-sdk) but with a twist...
 
@@ -393,6 +393,6 @@ Replace [API-ID] and [REGION] with your stuff that you can see in the `claudia.j
 
 It works! Running the commands separately, or the `testrun.sh` script access our function, stores, updates, reads and delete our user.
 
-# Summary
+## Summary
 
 This post was pretty long but it's also a lot of ground covered. I hope you found it helpful as I learned A LOT writing and coding this.

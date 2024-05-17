@@ -12,7 +12,7 @@ Instead of posting this longish description in the social medias I thought I'd w
 
 Ordinary and casual readers of my blog, sorry. I'll be right back with normal content in a few weeks. Thinking about doing a new series about writing a [NuGet](http://www.nuget.org) package in DNX-land, using my Mac... 
 
-# TL;DR;
+## TL;DR;
 I'm in hospital. Again. From the same kidney infection since the last 3 weeks. I'm better this time but it's a little bit serious and I need antibiotics twice a day for seven days. 
 
 ## How did this happen? 
@@ -28,7 +28,7 @@ We will be fine.
 
 <!-- excerpt-end -->
 
-# Longer description, if you're bored
+## Longer description, if you're bored
 
 About 2 weeks ago I got very sick in a short period of time, 1-2 hours really. Literally by the minute I was getting worse. We (first doctor I met and me) thought that it was a urinal infection [^urinalinfection] and I got a broad-spectra antibiotics to help with that. 
 It did but I never fully recovered. This is a recurring theme in the story. I get better but not for the right reasons. That's broad spectra antibiotics for you. 
@@ -56,7 +56,7 @@ Well, I could not. Because I had two 5 year olds outside. So I got permit to be 
 
 That was a though day, because I was now off painkillers that apparently helped me. We got through it and now I am in hospital again waiting to be shown to my room and start my 7 day treatment. 
 
-# Thank you
+## Thank you
 Thank you everyone that have thought about, prayed for, cheered, tweeted and done so many things to keep my and my family spirits high. Being sick for more than a week is not fun. I'm staring my fourth now. 
 
 We'll make this.

@@ -22,7 +22,7 @@ Also this is my experience - your mileage may vary.
 
 <!-- excerpt-end -->
 
-# Glimpses of misuse
+## Glimpses of misuse
 As I have done for a few posts; let me give a few glimpses of situations when I felt that JIRA (in this case, could be any electronic tool like that) has actually not only slowed us down but been harmful.[^1] 
 
 ## Epic, label - who cares? 
@@ -75,7 +75,7 @@ The problem with this is: the whole *purpose* of kanban (and most other agile me
 
 If changing the board, late in the process (after using for a long period), causes disrupts or leading us to jump through hoops to get by... Well that's no tool I'd like to use. That's doesn't happen with my post-its.
 
-# My two biggies
+## My two biggies
 Quick out of complaints/rant mode. I don't like it there. And still think that JIRA and others are amazing pieces of software. 
 
 Let me just break my two biggest issues with electronic tools down and give some constructive recommendations.
@@ -104,7 +104,7 @@ But *every single one* of them dislikes reporting states in two systems. It's me
 
 There are of course times when an electronic board have benefits over a physical, like remote work. But it's not a given - [read my report from a team with a remote worker that opted for a physical board anyway](http://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html)
 
-# Trade offs
+## Trade offs
 Here's a few things that I've used that is the best trade-offs so far:
 
 * Decide on one master. Preferably a physical board

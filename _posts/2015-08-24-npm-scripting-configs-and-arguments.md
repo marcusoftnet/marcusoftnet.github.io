@@ -29,7 +29,7 @@ If you liked this post I know you will love the course! Thank you for reading th
 Here we go:
 <!-- excerpt-end -->
 
-# Chaining tasks... more options
+## Chaining tasks... more options
 In the [last post](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) I used <code>&&</code> to call task one after another.
 
 There's more options just using normal command line functionality:
@@ -72,7 +72,7 @@ The client will be reloaded with the help of [live-reload](https://github.com/Ra
 	// Note the matching port number 9091, to the live-reload command
 ```
 
-# Calling remote scripts
+## Calling remote scripts
 As you probably can see scripting in the <code>package.json</code> file can only get you so far. No sweat though, if needed you can always call out to a bash or command file:
 
 ```javascript
@@ -85,7 +85,7 @@ Now you are free to write the script how you want. This will of course require t
 
 Also it hides some of the functionality of the script. So I would steer away from this as much as possible.
 
-# External arguments, options etc.
+## External arguments, options etc.
 Speaking of breaking out to separate files **and** contradicting myself a bit sometimes all the options and their parameters might get out of hand. An example where this is likely to happen would be for a linting task, that potentially could have a lot of parameters.
 
 ## Options in separate files
@@ -167,10 +167,10 @@ It can also be overridden by other scripts:
 
 Pretty nice, and yet another option to use.
 
-# <a name="watching"></a>Watching and reloading
+## <a name="watching"></a>Watching and reloading
 Well... you can read about this in the section above on running in [parallel](#parallel). That describes *one* way to get watching and reloading of browsers. There's a number of different ways to do this, of course.
 
-# npm niftyness
+## npm niftyness
 There's some small things with the <code>npm</code> command that is easily missed and that can prove useful.
 
 ## -s to silence it down
@@ -225,7 +225,7 @@ This also means that we can use these command straight off without prefixing the
 
 Thanks [Juho Vepsäläinen](https://twitter.com/bebraw) for this tip!
 
-# Summary
+## Summary
 I love blogging. Because I learn so much. And I get some nice feedback and learn more.
 
 I hope that you could pick up some new and useful things here too.

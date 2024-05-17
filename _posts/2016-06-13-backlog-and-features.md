@@ -29,7 +29,7 @@ is one thing I've heard my team member say. And
 
 is a question that ends up being very hard to answer. 
 
-# What to do instead, mr Wiseguy? 
+## What to do instead, mr Wiseguy? 
 The solution is very simple - draw your [backlog as a mind map](http://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html#backlog-as-a-mindmap) instead of keeping a list of features. Preferably as an [impact map](https://www.impactmapping.org/).
 
 Starting from *WHY* we are doing things and then linking the things we are doing with that *WHY*-statement is really powerful in itself. 
@@ -50,7 +50,7 @@ Let's pick this backlog on some information:
 
 Not reflected on this map is "What next" - but that could easily be achieved using a different color of numbers for example
 
-# What has this helped you with?
+## What has this helped you with?
 Well, first of all communication. It's SO much easier to talk about this map and the ordering here than a list of features. Also the connection to the *WHY* in the middle is very good to discuss if that's the correct why and also for the things that the team does - if that is the correct thing to do *now* to support the *WHY*.
 
 It basically answers the `Why are you doing this now?` question by merely being there. 
@@ -59,7 +59,7 @@ Secondly this impact map have saved us time and effort already. See the big empt
 
 The team decided to try a couple of approaches to solve that problem. It turned out that one of those (the erased part) was quick to implement *and* solved the problem. So well in fact that they could now switch priorities and have a new #1 priority. 
 
-# What's the problem here again? 
+## What's the problem here again? 
 What I've seen is that many organizations locks down to a list of feature way too early. In some cases there's 2 or 3 levels before it even reaches the product owner where specific features are discussed.
 
 (Yes, yes... that's not really a product owner I know - but that's the reality for many product owners in big organizations)
@@ -82,6 +82,6 @@ The work in the team is **super boring.** You are only using a fraction of their
 
 >I'm used to people coming to me with problems - not solutions
 
-# Summary
+## Summary
 Quite simple: wait with putting features in the backlog as long as possible. Features (or the **WHAT** part of an impact map) are just means to reach a goal - not the goal.
 

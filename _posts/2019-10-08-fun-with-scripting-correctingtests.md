@@ -41,7 +41,7 @@ cwd=$(pwd)
 
 ## DO LOADS OF WORK
 
-# late in the script
+## late in the script
 # Go back to where we were
 cd $cwd
 ```
@@ -284,7 +284,7 @@ last_char=${GOOGLEDRIVE:length-1:1}
 
 echo "Will now correct the '$1' test using test results from the '$GOOGLEDRIVE' folder"
 
-# Store the current directory
+## Store the current directory
 cwd=$(pwd)
 
 ## Get all developers to a variable

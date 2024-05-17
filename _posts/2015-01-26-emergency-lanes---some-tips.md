@@ -28,14 +28,14 @@ No - we would drop everything, involve everyone we need to figure out the bug an
 
 Emergency is emergency.
 
-# Class of service
+## Class of service
 The "emergency" work above is what's known as a class of service. That's is a classification of certain types of work and the policies on how to treat them.
 
 Often this is visualized as a separate lane on the board. It should also have some policies attached to it so that we know how it should be treated.
 
 Even though it's a class of service I've noticed that many teams tend to refer to it as "the emergency lane". So I will do that in this blog post to.
 
-# Common policies
+## Common policies
 Here are a few principles that I've used and seen used by teams I've coached. Not a single team have implemented all of these principles - experiment and choose what works best for you.
 
 ## Have a lane of it's own
@@ -70,7 +70,7 @@ First of all; we should strive to treat emergencies as anomalies. They should no
 
 Also I've seen this act as something that make us think about if it is an emergency or not. "If you put it in here as an emergency... we will call you to an retrospective when it's done. You have to come - such are the rules of emergency items, you know."
 
-# The 'now everything will be an emergency'-fear
+## The 'now everything will be an emergency'-fear
 With the policies above in place much of the biggest fear from development teams around emergencies lanes goes away. I've yet to introduce emergency lanes to a team without seeing two gut reactions:
 
 - product owner eyes glitter: Yes - fast lane to production!
@@ -78,7 +78,7 @@ With the policies above in place much of the biggest fear from development teams
 
 I have also yet to see this fear becoming reality. Not in a single team, where I've tried this, have the fear become reality.
 
-# A story about escalating principles
+## A story about escalating principles
 In one team I was a member of we had a micromanager as product owner. No, he wasn't really small but rather he handed out the tasks to each person according to what he wanted them to work on. The result was a resigned team and really disruptive work.
 
 I asked the product owner if I could create a visualization for the team, so that we all knew what we where working on. He liked the idea. The board was very basic;

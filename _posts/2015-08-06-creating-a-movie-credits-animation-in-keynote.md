@@ -14,11 +14,11 @@ In one of my recent presentations, I found the "need" to do a movie credits anim
 
 A search on the [intertubes](https://www.google.co.id/search?q=keynote+movie+credits&oq=keynote+movie+credits&aqs=chrome..69i57j69i60j69i59j69i60l2j69i61.4030j0j7&sourceid=chrome&es_sm=119&ie=UTF-8) didn't give me much useful either. But it turned out to be pretty simple to do. In this post, I'll show you how.
 
-# TL;DR
+## TL;DR
 
 Basically, we will just use the "Move" Action for our block of text, move it over the entire screen, slow it down until it's readable.
 
-# Step-by-step
+## Step-by-step
 
 Paste the text you want into a block of text and increase the font to something readable (> 32 points). Now place the text block in the lower end of the screen. Like this:
 
@@ -51,6 +51,6 @@ Or in my case, I just wanted a comical (?) effect, which is the reason I chose a
 
 You might not like the "ease in/out" features that I have turned on so adjust as needed.
 
-# Summary
+## Summary
 
 Pretty easy to get a "Movie Credits"-animation into place by (ab)using the "Move" action beyond the screen, don't you think?

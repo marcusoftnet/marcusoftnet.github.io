@@ -16,7 +16,7 @@ I try to answer those questions when I get the can, especially when I see that t
 
 Here's Jocelyn's questions and my answers to follow
 
-# Benefits of Kanban
+## Benefits of Kanban
 >If Agile methodology is a bag of tricks what are the benefit of KANBAN? How does it adapt to various sectors and particularly the agency model?
 
 I don't think that agile is a bag of trick as much as a mindset. If you read the [Agile manifesto](http://www.agilemanifesto.org) you'll notice that there's very little there about HOW. It's mostly "we prefer this more than this". HOW to implement that is left out. 
@@ -46,7 +46,7 @@ Also, I'm now just talking about the team level. The real gain from kanban comes
 
 The good news is that it means that kanban is applicable to any process, organization or business. The lesser good news is that you'll have to discover many of the HOWs for yourself. There's not a single solution that applies to everyone. Kanban states this at the outset. But there's many things to learn from in the kanban community. 
 
-# Expected improvements 
+## Expected improvements 
 >Are there any significant insights into how much a business can expect to improve operations by?
 
 To me the biggest improvement is when you start to see the cooperation beyond the team level. This is really what kanban is for. 
@@ -57,7 +57,7 @@ Also this mindset have a tendency to spill over into process improvement in gene
 
 The main idea here is that many small changes often is better than few big changes seldom. Things like [continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery) or [Lean startup](http://theleanstartup.com/) shows this to great effect. It basically changes the way you can do business giving you a competitive advantage over others, since you can change, adapt and innovate faster. 
 
-# Important to learn
+## Important to learn
 >Also what is important to learn, and some questions i you should ask during the training... : )
 
 Oh Lord.... The main thing to understand, in my opinion, is that under the term of kanban hides many ideas and tools. What you choose to focus on is of course up to you. 
@@ -70,7 +70,7 @@ There are three books on Kanban itself that each treats the subject from differe
 * [Mike Burrows Kanban from the Inside](http://www.amazon.com/Kanban-Inside-Understand-connect-introduce/dp/0985305193/) is a interesting read that takes a standpoint in the values behind Kanban. Highly recommended
 * [Mine and Joakim Sundens Kanban In Action](http://bit.ly/theKanbanBook) is of course the best... No seriously it's a introduction that makes for a good first read and as a companion to a team or company starting with kanban
 
-# Conclusion
+## Conclusion
 I first of all hope that I made it in time for your course.... Secondly that my answers were helpful. And thirdly that you get a kick out of kanban just as I did when I first was introduced to it. 
 
 Happy learning. Happy Kanban-ing!

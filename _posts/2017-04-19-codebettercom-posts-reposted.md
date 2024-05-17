@@ -32,7 +32,7 @@ I mused over a comment that someone said about us [doing lean backwards](/2017/0
 
 My last post on CodeBetter.com (so far) was the first thing I wrote on [Koa](http://koajs.com/). A framework that completely took me by surprise. This post marks the first venture for me into Javascript land.  I was so happy to [get rid of the pesky callbacks that haunted me.](/2014/05/repost-beyond-callbacks-or-how-koa-helps-me-code-better.html) 
 
-# Conclusion
+## Conclusion
 
 CodeBetter.com is not dead, as far as I know. But I wanted to preserve my posts here. 
 

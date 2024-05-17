@@ -17,7 +17,7 @@ I think I speak too little about this, or at least I feel the need to be much mo
 
 <!-- excerpt-end -->
 
-# Background
+## Background
 I will give you some flashbacks first and then try to tie them together.
 
 ## In the beginning there was Scrum
@@ -45,7 +45,7 @@ Many places I've consulted at tries to fit agile into the current ways. It's alm
 
 No it's not. Most likely not. And by trying to shoe-horn it into your current ways you're hurting both your current ways. AND limiting the benefits of using agile.
 
-# Why do we do agile in the first place? 
+## Why do we do agile in the first place? 
 Sadly most companies I've been helping to "do agile" has absolutely no ideas as to why. At least not around benefits nor consequence it's meant to bring. Sometimes it's called "improve IT efficiency" or "shorten the period from requirement to finished product" - but seldom the real benefit of agile is talked about. 
 
 What did Mr Schwaber mean when he mentioned that Scrum will find your problems? Why is it stupid to send someone to fix the "developers" in this organization?
@@ -88,7 +88,7 @@ Toyota went:
 
 Change is built in how they do business. Reaching the goal is more important than the current ways and processes. 
 
-# Summary
+## Summary
 For many of us this might sound like obvious things, but I have met many big organizations where even thinking that you would change the process, the roles or working outside your normal roles is frowned upon. 
 
 I think I don't tell people enough about that. Because changing the organization and process to support a faster flow is what agile is all about. 

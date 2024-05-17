@@ -117,7 +117,7 @@ In a project it might be:
 
 (First bullet is from my first Scrum team. They stood up and applauded when they heard that... another story)
 
-# Summary and a final story
+## Summary and a final story
 I think we often try to sugar coat the data, thinking for the decision makers. I've often found that presenting the raw data at hand, being more transparent and open, "telling it as it is" is a much better approach. Doing frequent reporting of raw data is also better than to do fancy reporting seldom.
 
 Quite often, in our attempts to clarify and simplify, we end up hiding the data that actually is needed to make decisions. 
@@ -149,5 +149,5 @@ Note:
 * Everyone could see the difference from the previous data (I think we did some kind of overall progress * diagram).
 * The decisions were hopefully easier to make. 
 
-# Conclusion, really
+## Conclusion, really
 I will try steer away from doing progress indicators ("Ready to play in 12 minutes") and instead just display the relevant data, as it is. 

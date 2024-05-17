@@ -31,7 +31,7 @@ Becasue when that was all done I ran <code>elixir -v</code> to check my version 
 
 In the output from Homebrew I saw just a little warning but nothing that was particularly scary. So I did what every professional programmer does; searched the Internets. And on [GitHub I found this issue](https://github.com/elixir-lang/elixir/issues/2911) for Elixir, which sounds exactly like that I was looking for.
 
-# Yak-shaving: Erlang
+## Yak-shaving: Erlang
 Ok... it seems like my version of [Erlang](http://www.erlang.org/), since Elixir "leverages the Erlang VM" was out of date. 
 
 But when I ran (in all honestly after I've spent ca 45 minutes finding out how to start anything Erlang): <code>erl</code>, to run the Erlang interperator, it looked great:
@@ -51,7 +51,7 @@ Marcus-Bandung-MBP:~ marcus$ brew install erlang
 Warning: erlang-17.5 already installed, it's just not linked
 ```
 
-# Yak-shaving: Homebrew
+## Yak-shaving: Homebrew
 Installing a package with Homebrew consists of several step: download, install and linking (I think). One of the steps has failed. This was the little warning I got when I installed Elixir as I mentioned above. 
 
 Luckily you can <code>link</code> a package after it's been downloaded. For example <code>brew link erlang</code>, or to force it <code> brew link --overwrite erlang</code>. 
@@ -67,21 +67,21 @@ And do not try <code>sudo</code> in front of it. Homebrew doesn't think that's a
 
 But what did it say? <code>/usr/local/lib/erlang is not writable.</code> Maybe I can help it?
 
-# Yak-shaving: Os X
+## Yak-shaving: Os X
 Ha! Writable my aXX! I can fix that: <code>sudo chmod -R 777 /usr/local/lib/erlang</code>.
 
 Sadly that didn't help much. The linking command from above (<code> brew link --overwrite erlang</code>), still failed with the same error (<code>/usr/local/lib/erlang is not writable</code>).
 
 And the folder, and sub-folders (the <code>-R</code>-switch), was indeed writable. 
 
-# Yak = shaved clean
+## Yak = shaved clean
 What to do? Well, out of a whiff I just tried: <code>brew reinstall erlang</code> again. And it worked. 
 
 When you do a <code>brew reinstall</code> the old installation is removed first. This basically just <code>uninstall</code> and then directly <code>install</code> a formula. 
 
 My thinking is that I had, for some reason, an older version of Erlang installed. Maybe even failed install. When Homebrew tried to install a new version of Erlang it failed, since the folders was not writable. When I made them writable the <code>reinstall</code> worked. 
 
-# Conclusion
+## Conclusion
 Just for good measures I actually did a <code>brew reinstall elixir</code> too. Just to make sure that the dependencies was in good order. 
 
 After that I could start coding Elixir. This is the full extent of my Elixir knowledge. Strap in: 

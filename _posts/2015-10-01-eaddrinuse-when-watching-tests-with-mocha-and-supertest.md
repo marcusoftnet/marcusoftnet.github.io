@@ -32,7 +32,7 @@ I got that error from [```mocha```](https://github.com/mochajs/mocha/) when watc
 
 <!-- excerpt-end -->
 
-# TL;DR - Just tell me how to fix it
+## TL;DR - Just tell me how to fix it
 Make sure that your tests doesn't listen "twice", one time in the test (```require("supertest").agent(app.listen());```) and one time in the actual app (```app.listen(3000);```).
 
 This can be accomplished, in the application, by checking for a ```module.parent```, that not is present when the application is executed. Like this:
@@ -41,7 +41,7 @@ This can be accomplished, in the application, by checking for a ```module.parent
         app.listen(3000);
     }
 
-# My application
+## My application
 I'm using the simplest of Koa application to demo my problems:
 
     var app = module.exports = require("koa")();
@@ -57,7 +57,7 @@ I'm using the simplest of Koa application to demo my problems:
 
     console.log("Application started. Listening on port:" + port);
 
-# A little longer explanation, but still not border-line-killing-yourself
+## A little longer explanation, but still not border-line-killing-yourself
 [Supertest](https://github.com/visionmedia/supertest) is an amazing testing tool, especially suitable for [Express](http://expressjs.com/) and, my favorite, [Koa](http://koajs.com/) applications.
 
 To construct a supertest ```request``` object that we can use to test our application, we can pass it a http-server. In Koa (and Express) this is actually what the ```app.listen()``` method returns. They are not 100% the same, so beware about the difference. Check [this post](https://realguess.net/2015/03/29/supertest-listen-at-random-port/) for more on that. For the purposes of this post, they are the same.
@@ -82,7 +82,7 @@ Now the ```require("supertest").agent(app.listen());``` will get a port number b
 
 So this works fine when you run it once, because then the whole testing process dies. But if you run it over and over it breaks.
 
-# Solutions
+## Solutions
 What can we do to fix this then?
 
 ## Solution 1 - close the server manually
@@ -219,7 +219,7 @@ I could also have started to listen within each request if I wanted, that would 
         });
     });
 
-# Summary
+## Summary
 IT WORKS! Tears a flowing down my cheeks and I laugh uncontrollably.
 
 First of all the community around these tools are GREAT. Thanks everyone that helped me!

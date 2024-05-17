@@ -69,7 +69,7 @@ function gaTrack(path, title) {
 - Created a new `gaInit` function that returns the object it initializes, the `ga` object.
 - In the `gaTrack` function, it checks if the `window.ga` object is present. If not, it calls `gaInit()` to create it, initializing `ga` just-in-time and only the first time.
 
-# Using It
+## Using It
 
 Now, this is where that article leaves us. And at least I felt a little bit abandoned at this point because now we need to use it on A LOT of places. And I didn't really feel like writing an `onClick="ga()"` on every clickable thing on our page.
 
@@ -128,6 +128,6 @@ The simple solution for us was just to add a `title`-attribute on the `a`-tag. T
 
 Now, in our catch-all-click-handler, we can check if the `title`-attribute is set and if not, use the `.text`.
 
-# Summary
+## Summary
 
 With these simple functions, we have very simple, client-side Google Analytics tracking on a granularity level of our choice.

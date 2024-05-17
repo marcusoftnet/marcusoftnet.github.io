@@ -23,7 +23,7 @@ Shortly a big room planning could be described as an event where all the people 
 
 Or at least I want to describe it like that because then my points below falls out very natural. 
 
-# All the brilliant people in the room
+## All the brilliant people in the room
 The first, ah well all of these factors, is pretty obvious but here goes:
 
 >Keep people in the same room  
@@ -47,7 +47,7 @@ Just because we could not have this communication going continuously. Surely thi
 
 It resembles the strive for "one piece continuous flow" that Toyota has been seeking for half a century and more; every practice they are doing now is just "best so far". They are always striving for better. Why shouldn't we? 
 
-# Well established backlog or at least goals - demand
+## Well established backlog or at least goals - demand
 The best meeting we had was preceded by 2 or 3 meetings where we groomed and adjusted the backlog. I say "2 or 3" because in the first of those meeting we couldn't agree on what the goal for the business (the upcoming period) actually was. 
 
 Imagine if we would have gone into the meeting with that kind of mess around what the goal was, or what activities and features we were going to do to reach the goal that was suitable to do now. 
@@ -63,7 +63,7 @@ The work that happens under this heading is a real benefit of doing these planni
 
 But... surely not the end state? I hope that we would want a place where this is known all the time. In the mean-time this workaround is good for us. 
 
-# Well known capacity and scope
+## Well known capacity and scope
 Before going into the planning session we should have a good understanding of:
 
 * which teams there are
@@ -80,7 +80,7 @@ Goes without saying that it was not time well spent in the meeting where we were
 ## Marcus comment
 In a more flow-oriented approach problems like these would resolve themselves smoother and continuously. Some people needs to move into another team; sure - go ahead, then plan. Now we stand a risk of making these changes big-bang at the planning meeting. 
 
-# Summary
+## Summary
 These are my top 3 factors for a better big room planning:
 
 * Make sure that you know what the goal is and, for extra points, have a good idea about the features and activities that would take us closer to that goal (**the demand***)

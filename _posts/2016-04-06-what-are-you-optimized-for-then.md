@@ -20,7 +20,7 @@ I just have to write this down, and see if it becomes clearer for me. You can re
 
 <!-- excerpt-end -->
 
-# Value streams
+## Value streams
 We talked a lot about flow and that often our current organizational setup makes flow harder, but the penny dropped around this problem statement when we came to speak about *value streams*.
 
 I have to say that it's one of those really vague and fluffy things that I really don't understand what it is. Or how to find one. Let's check [a dictionary for help](http://www.businessdictionary.com/definition/value-stream.html)
@@ -35,7 +35,7 @@ Where value is created. Value. The reason we are here. Is created along that str
 
 In my experience most people I talked to agree with this definition. And that a values stream is useful and present. It's a good thing (tm)
 
-# Breaking down
+## Breaking down
 
 Where it breaks down for me is when you start to plot out a value stream in a typical organization. Because, in all cases I've seen so far, they often look like this:
 
@@ -45,7 +45,7 @@ And to this everyone says: `yes, that's how it is. At least in our place. It's a
 
 Quick side note: that's exactly how projects are created and setup. You pull resources from the normal organization to basically get something done.
 
-# Marcus having a "Falling down"-moment
+## Marcus having a "Falling down"-moment
 But... what ... how can .... if value is created in a value stream and that snakes itself through and organization like some kind of blob shaped amoeba. Then that must mean that our organization is not shaped around our value stream.
 
 Because to get hold of the value stream (where value is created mind you) we have to pull resources high and low.
@@ -64,7 +64,7 @@ AAAAAAAAAARGH?! WHY ARE WE HERE IF WE DON'T CREATE VALUE FOR ANYONE?!
 
 [There... I'm good now]
 
-# Contrasting
+## Contrasting
 I think that the other paradigm is organized around cost efficiency. The idea is that we want to keep the efficiency and utilization as high as possible in each individual part.
 
 A good example of this is if you have an IT department that the "business" buys service from. Or a operations department where you order actions on your product environment (a ticket for "open the firewall so that I can read logs").
@@ -89,7 +89,7 @@ or in fact more commonly (and even more sad)
 
 I've been to companies where this has been true by design since the middle managers got compensated by the utilization of the employee. 100% -> big bonus.
 
-# Conclusion
+## Conclusion
 If you're strategy is resource efficiency, don't try to squeeze in agile or lean on top. You will just be sad and there will be a lot of whining and problems that you don't want to have.
 
 And don't hire me - I would be miserable.

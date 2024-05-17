@@ -17,7 +17,7 @@ I'll elaborate on that as soon as I've described the change that I saw.
 
 <!-- excerpt-end -->
 
-# At first ...
+## At first ...
 
 In my current team we needed to pave the way for easier deployments and to iterate and move faster. Since the company we work on doesn't really embrace these ideas (yet) all, we have created a little task force to automate our build and some of our infrastructure creation needs. 
 
@@ -33,7 +33,7 @@ It was, in a word, shocking to witness. The people (in which we soon will see an
 
 Everything about them was siloed and slow. They even kept uptight around the coffee we had together.
 
-# .. but then ...
+## .. but then ...
 
 Before you get your hopes up... we didn't achieve anything earth shattering for the entire organisation. But for the individuals the change was important enough...
 
@@ -45,7 +45,7 @@ The board was, btw, super-simple; just columns for "To do", Doing, Done and a WI
 
 We then let them start their work and I offered my services, should they be needed. 
 
-# ...and all of a sudden ...
+## ...and all of a sudden ...
 
 In the beginning I still heard a few "I don't know what *I* can do about that" and "That's networking's problems - I only do security" etc. 
 
@@ -57,7 +57,7 @@ I was flabbergasted! What happened?! How could someone that just four days ago w
 
 It's by no means perfect and a total change, but it was clear enough for me to see a new person emerging from the closed up individuals that was here before. 
 
-# ...that probably has to do with ...
+## ...that probably has to do with ...
 
 There's of course many things at play here and I take almost no credit for the change personally. I do, however, note the following:
 

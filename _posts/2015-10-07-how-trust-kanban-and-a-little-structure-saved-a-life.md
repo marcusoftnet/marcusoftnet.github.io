@@ -24,7 +24,7 @@ She's General Manager of a hospital, Rumah Sakit Bungsu, that I'm helping, here 
 
 If you need something fixed - go to Ibu Elsye.
 
-# Her situation
+## Her situation
 
 She asked our help ([that is important, folks](http://www.marcusoft.net/2015/06/only-help-those-that-want-help.html)) about two weeks ago. She said that her departments were overworked but still never got anything done. This had to do with priorities being changed often and also many people bypassed Ibu Elsye and went straight to the people beneath her.
 

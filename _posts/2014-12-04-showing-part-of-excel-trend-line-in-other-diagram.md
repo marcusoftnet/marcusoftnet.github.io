@@ -15,7 +15,7 @@ I had to do it myself a little bit and try to extract some Math-skills from *way
 
 In this post, I'll show you what we did to get part of a big trend-curve to show up on a diagram showing part of the data. And how we later used that knowledge to start making some interesting prognostications.
 
-# The setup
+## The setup
 
 We do daily reporting for the number of patients we serve in an Excel sheet. In order to keep this reasonable, we have created a sheet for each month. On this sheet, we show a diagram with the data for the current month.
 
@@ -27,13 +27,13 @@ We have also created an overview sheet where we compile all the data from all th
 
 This works great for us saved for one thing - trends.
 
-# The problem
+## The problem
 
 Because we have used the built-in trend-lines to plot the trends of our data. They are great and easy because you just right-click the series you want to add a trend line for and ... Choose "Add trend line ...". We have mostly used "Linear trends".
 
 But now we really wanted to take part of that trend line (for say, December) and show it on the diagram for December. Because right now, of course, the trend line for December only took December data into consideration. And that was not showing the same slope nor starting points. Of course - for, for example, December we only have 3 data points right now.
 
-# The solution
+## The solution
 
 The first thing we did was just trying to copy the trend line from the overview and paste it right onto December. That would have been so sweet if it worked but sadly no. I bet if [Resharper](https://www.jetbrains.com/resharper/) did a plug-in for Excel...
 
@@ -80,7 +80,7 @@ It was then easy to select that data and add a Line to our diagram which showed 
 
 Now we had the trend curve, with the correct sloping and intersection point, calculated using our data, showing for only part of the data, the December-dates in this case.
 
-# The gain
+## The gain
 
 But math is a wonderful thing. The equation: `y = m * x + b` is used to calculate a data point `y` for a given date `x`.
 
@@ -94,6 +94,6 @@ We could go even further; by throwing the equation around a bit we could instead
 
 We had great fun with that and got good discussions going with our client. Of course; this only holds as long as the trend stays the same. But since we are updating the `m` and `b` as we get more data, so will the prognosis.
 
-# The summary
+## The summary
 
 As I have realized many times before; use the default tooling as long as it serves you, but for detailed control, you'll have to dive in a bit further. But when you do, the rewards can be plentiful. And useful.

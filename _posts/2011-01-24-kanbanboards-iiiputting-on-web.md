@@ -154,7 +154,7 @@ attribute to the repository, until I need to change it.  The rest of the
 code will be touched on and hence tested, even though I sense that it
 will be much more BDD than TDD.
 
-# Writing an end to end acceptance test
+## Writing an end to end acceptance test
 
 Right now the application doesn’t work if you actually run it. That’s
 one of the drawbacks of writing your step definitions against the

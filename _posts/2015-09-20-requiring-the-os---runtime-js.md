@@ -27,7 +27,7 @@ That would be so cool. Let me show to get that to work for a Koa application
 
 <!-- excerpt-end -->
 
-# Create the application
+## Create the application
 I've created a very basic, but not trivial Koa application (using `npm init`) and then this single file: 
 
 ```javascript
@@ -44,7 +44,7 @@ console.log("The app is now listening - try it on http://localhost:9000");
 
 It's just a little Hello world app, since that's where we all need to start, right? 
 
-# Depend on a OS
+## Depend on a OS
 Let's me introduce you to an operating system that I almost guarantee you have not heard about: [runtimejs](https://www.npmjs.com/package/runtimejs). It's a [language-specific unikernel operating system](https://medium.com/@darrenrush/after-docker-unikernels-and-immutable-infrastructure-93d5a91c849e). 
 
 Basically that it's tiny and dedicated to run just a certain type of application. In our case Node-applications. Let's run our application on that, shall we? 
@@ -67,7 +67,7 @@ We just said that the app now depends on the `runtimejs` operating system. But y
 
 But we're going to fix all of that now.
 
-# Run from an image
+## Run from an image
 To get this too work we need two development-time tools. Let's install them and I'll see if I can explain what it does: 
 
 ```bash
@@ -133,7 +133,7 @@ Ah well... actually - I've done that before. I know it fails. For some reason Ko
 
  the demo. 
 
-# Try it
+## Try it
 And now... `npm start`. 
 
 It should start up after a little while (5 min for my Indonesian connection... 10 secs for you guys) the `runtimejs` OS is downloaded and the application is started. In a separate OS. On a separate image.
@@ -147,7 +147,7 @@ Now, check your windows. If you look carefully you should see a QEMU emulator ru
 
 Finally - shut the application down with `CTRL-C` as normal. Notice that QEMU is shutting down too. 
 
-# Summary
+## Summary
 Ok - at this point I was gasping for air. It's so cool. Without leaving the current environment, NodeJs, I can bundle my application up with the dependency it has on a operating system. A small, unikernel operating system. A language specific, library, require-able operating system. 
 
 This image can now be pushed to a cloud host. You have already tried the runtime locally. It's the same as production runtime... because it's actually the same image, same disk running in the production environment. 

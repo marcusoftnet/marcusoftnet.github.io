@@ -26,7 +26,7 @@ If you liked this post I know you will love the course! Thank you for reading th
 
 <!-- excerpt-end -->
 
-# The makes of a makefile
+## The makes of a makefile
 My current [make file](http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html) (that I copy around from project to project) does the following:
 
 1. Test the application, see [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html)
@@ -253,7 +253,7 @@ open [url] # for example 'open http://koavote.herokuapp.com'
 
 For Windows they tell me it's <code>start "http://koavote.herokuapp.com"</code>.
 
-# Putting it all together
+## Putting it all together
 Now we are ready to create our <code>deployToProd</code> script. And it will just be stitching things together.
 
 You might have noticed that I'm using some kind of grouping with the <code>push:git</code>, <code>compile:ts</code>. I picked that up (among most everything I learned about npm scripting) from [this post](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/). I like the idea of grouping the task, but might switch to <code>push_git</code> that I think reads nicer.
@@ -306,7 +306,7 @@ Here's my first stab of a complete deploy script, I'll start with the <code>depl
 Oh, for the start command I've added a small web application, just to make sure it shows up. It's written using [koa](http://koajs.org) of course and hence I need the <code>--harmony</code> flag... Not on [iojs](www.pluralsight.com/courses/running-node-applications-io-js) but still on Node... :P
 </blockquote>
 
-# Summary
+## Summary
 This means that I can go <code>npm run deploy:prod</code> and it will clean, test, version, push, deploy and launch my application. Just using npm and the <code>package.json</code> file.
 
 There's no external tools dependencies but everything is downloaded with <code>npm install</code> which makes 0 to deploying very fast.

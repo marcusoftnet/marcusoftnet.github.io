@@ -19,7 +19,7 @@ In fact; that's what this post is about; stepping out of my box. A simple questi
 
 <a name='name'></a>
 
-# Getting to the point
+## Getting to the point
 
 First let's get back to my intro a bit. I think that everything I've seen here in Indonesia that puzzled me can be found in some regard in Sweden where I usally work. But here it's more extreme.
 
@@ -32,7 +32,7 @@ And so on. Of course I can only speak for Swedes and the few, of a the **many ma
 
 The point is; cultural differences is present everywhere. In some places / organizations / countries they are easier to spot than in others. But they are there.
 
-# Back to the point
+## Back to the point
 
 Ok, one day when I was particularly confused about "them" not doing what I wanted, I went for a walk. I think in this case I could not get "them" to see the benefits of having a clear goal or vision for their work. To me that's a no-brainer; without a goal - how do you know where you're going? But I just could not get the answers I wanted out of them. (hmmm... whose answers did I want here... #antoherPost)
 
@@ -42,7 +42,7 @@ As I was walking I remembered a great question from [Dan North](http://dannorth.
 
 Sadly, this time I was stumped. The cultural differences was too big. I couldn't understand what had to be true for them.
 
-# The point
+## The point
 So I tried this instead:
 
 <blockquote>What would they have to say to me that would make me behave like they are now?</blockquote>
@@ -64,7 +64,7 @@ Then I ask myself;
 
 Now, here's where it get interesting. If someone told me that "smoking is better"; what do they have to do for me to "get" that? Is it better? Who would I know / can I tell?
 
-# Conclusion
+## Conclusion
 I've found this reasoning very helpful for me to come up with alternative ways to formulate my goal. Sometimes step away from "my" goal and let them come up with "their" goal instead. Generally I find it very refreshing (read: a little painful) to shift perspective like this.
 
 Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise. 

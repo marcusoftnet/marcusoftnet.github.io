@@ -81,7 +81,7 @@ know when it’s time to act and when it’s not?
 I’m sure you can come up with more items if you wanted to. Here’s is my
 suggestion for what to do instead.
 
-# What to do instead
+## What to do instead
 
 The habit that I’ve grown into is to **not** move the work item note but
 rather put another, waiting note on top. On this little note I can write
@@ -116,7 +116,7 @@ There’s nothing really earthshattering about this, and most teams get
 here after awhile, but now you can take the shortcut here and improve
 further.
 
-# Callbacks on your board
+## Callbacks on your board
 
 Oh yeah, one more thing. I once met a team that was waiting a lot. In
 fact, if I remember correctly, they had a waiting stage between every

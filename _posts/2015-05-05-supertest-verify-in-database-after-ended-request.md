@@ -22,7 +22,7 @@ But last night, after weeks searching for this, I got it to work. I'm so excited
 
 <!-- excerpt-end -->
 
-# Tools
+## Tools
 
 I'm using the following tools:
 
@@ -35,7 +35,7 @@ I'm using the following tools:
 
 If you want to tag along as I build this example out, [grab the code from this tag](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1).
 
-# The start
+## The start
 Here's the test I'm starting from, you'll find it in /test/user.post.js:
 
 ```javascript
@@ -86,7 +86,7 @@ POST to /user
 
 Ah well... I changed the status code from 200 to 201 in the example so that needs to be updated in the [userRoute.js](https://github.com/marcusoftnet/UserApiWithTest/blob/v1.1/userRoutes.js)... but then it works.
 
-# The humble start ... by using .end()
+## The humble start ... by using .end()
 What we want is to after the request has finished check the state of the database. And [supertest](https://github.com/visionmedia/supertest) actually exposes a excellent place to do that; [.end()](https://github.com/visionmedia/supertest#endfn).
 
 And that takes a function. Let's by just using the end function. Like this:
@@ -107,7 +107,7 @@ This is just making the test a little bit clearer to read. "And then end the req
 
 Rerunning the test to make sure it works, of course.
 
-# Our own function
+## Our own function
 But we wanted to *do* something after the request as ended. Luckily we can by adding a function of our own as parameter to the <code>.end()</code>. Here's the trivial example of that:
 
 ```javascript
@@ -216,7 +216,7 @@ it('deletes an existing user', function(done){
 And we're back. Test are passing and we are using the latest version of our tools.
 Praise God for test when you update your infrastructure. And many other times too.
 
-# Back to the code at hand - let's assert it
+## Back to the code at hand - let's assert it
 Before we run the tests, let's go through the updated <code>.end()</code> function. Here it is again so that you don't have to scroll:
 
 ```javascript
@@ -242,7 +242,7 @@ There's a couple of things to note:
 Quick side note. I spent circa 2 months in this state. Not know what to do, hacking around, not verifying etc. etc.
 But I'll spare you this. It was horrible. I don't ever want to go back.
 
-# Promises, promises, promises
+## Promises, promises, promises
 
 Remember that <code>co</code> returns a Promise?
 
@@ -266,7 +266,7 @@ Here's how it would look:
 
 AND. IT. WORKS! Tears of joy are streaming down my face as I realized...
 
-# Or did it... failing for the right reason
+## Or did it... failing for the right reason
 Well... for some reason I doubted this from time to time. And I changed the test to this:
 
 ```javascript
@@ -328,7 +328,7 @@ Basically saying to the second done-parameter; take the <code>err</code> object 
 
 And now it works AND is readable and short.
 
-# TL;DR; - summary.
+## TL;DR; - summary.
 I wanted to check the state of the database after doing a request. This can be done using the <code>.end()</code> function of [supertest](https://github.com/visionmedia/supertest).
 
 Since I used [co-monk](http://npmjs.org/package/co-monk) I wanted to be able to do that using <code>yield</code> and generators. This means that I need to wrap my generator function with [co](http://npmjs.org/package/co).

@@ -20,7 +20,7 @@ There will soon be a site for the book and I'll make sure to update this post wi
 
 <!-- excerpt-end -->
 
-# The background
+## The background
 
 The story how it came to be is a bit similar as the story of [Kanban In Action](http://bit.ly/theKanbanBook). One of the most amazing things that happened during my two years in Indonesia is the story about [Ibu Elsye](https://t.co/x9M48XVjLX). When I published this post, I got a lot of very positive reactions, among them got an email from [Vasco Duarte](https://twitter.com/duarte_vasco):
 
@@ -31,7 +31,7 @@ I have a few ideas, writing a book would be the most obvious, but there are more
 
 To be frank I cried when I wrote it. And to be even more frank I don't want to get 1000's of people to cry, but I was intrigued by his proposal. We threw some ideas back and forth and pretty soon I realized that there's a story to tell here. 
 
-# The concept
+## The concept
 This will be a very different book, compared to [Kanban In Action](http://bit.ly/theKanbanBook). It purely story driven and I try to write the entire book in present-tense. One of the first sentences is: 
 
 <blockquote>As I walk into the Rumah Sakit Bungsu lobby this morning two things strikes me as unusual; first a foul stench of mold and moist, and secondly at least 4 buckets to collect the water dripping down from roof, from the second floor, is placed throughout the lobby.</blockquote>
@@ -113,7 +113,7 @@ What is this book not:
 * A long book. My goal is a < 170 pages.
 * A Christian book. I will, inevitable, talked about belief and God but that's just for framing and context.
 
-# The status
+## The status
 Me and Vasco are keeping the status of the book in a Google doc and you can see the status here: 
 
 <iframe width="589" height="364" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1-WLjqavJzEBWTK5KcGcYVKWoeYcTOgvBHAKcsXWwHOQ/pubchart?oid=1369661743&amp;format=interactive"></iframe>
@@ -124,7 +124,7 @@ Here's some stats of the size of each part in the story:
 
 Once the site for the book is up there will be free previews and a mailing list where you read the book as we finish chapter by chapter. 
 
-# The title... help me
+## The title... help me
 The title so far have not been set. I'm not particularly worried about that but if you have any ideas that we used you have a guaranteed place in the "Thank you"-section. And a free copy of the book of course.
 
 The subtitle of the book is set: 
@@ -133,7 +133,7 @@ The subtitle of the book is set:
 
 I just need something short and sweet on top of that: "Jungle Lean", "Agile at the equator" or something like that. 
 
-# The talks
+## The talks
 I'm very honored and happy to have been invited to speak at [LKNA 2016](http://lkna16.leankanban.com/). And I'm bursting with pride that they wanted to hear this story! 
 
 Here's a [link to the abstract of that presentation](http://sched.co/5tFw) that will happen May 17. See you there! 

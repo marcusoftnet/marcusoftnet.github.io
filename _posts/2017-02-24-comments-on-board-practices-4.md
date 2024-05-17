@@ -19,7 +19,7 @@ That is sad and I share a few thoughts on how to improve on that state of mind -
 
 <!-- excerpt-end -->
 
-# Colours of (not only) the stickies 
+## Colours of (not only) the stickies 
 
 Take a look that these stickies: 
 
@@ -110,7 +110,7 @@ If this works most questions about a teams status can actually be answered by si
 
 If you need help get started there's a set of standard stickies suggested in [David Anderssons seminal book on Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402). We also wrote about this in [Kanban In Action](http://bit.ly/theKanbanBook)
 
-# Summary
+## Summary
 
 Colours helps us to classify and understand work better. Do better than just picking up the sticky closest to you. Use colours deliberately. It's a quick fix that will help you and your team a lot.
 

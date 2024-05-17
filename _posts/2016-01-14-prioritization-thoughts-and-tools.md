@@ -21,7 +21,7 @@ There's high and low stuff here. Some of it might not be suitable for the kind o
 
 <!-- excerpt-end -->
 
-# Thoughts
+## Thoughts
 First some thoughts and general ideas that I've found invaluable when doing exercises like this. In no particular order - i find them all equally invaluable... 
 
 ## Who's here?
@@ -79,7 +79,7 @@ Note that I wrote *might be a waste of time* above. Maybe it's the best thing th
 
 <blockquote>Use the resources wisely - they are limited</blockquote>
 
-# Tools
+## Tools
 Let's become a little more concrete. Here's some tools that I've found useful in doing prioritization workshops. 
 
 ## The not list
@@ -187,7 +187,7 @@ This can be used in conjunction with the [diagrams I mentioned above](#simple-gr
 
 A hypothesis is a "falsifiable statement", if I remember correctly, which means the statement can be proven true or false. Measured if you will. It also means that our initiatives now needs to be expressed as such. "If we remove the CAPTCHA from registration we think that we will see more users register". Such a statement is crystal clear, easy to measure and even lends itself to A/B testing to evaluate which effort is better. 
 
-# Summary
+## Summary
 For me prioritization has to lot to do with understanding and learning. First of all the goals we are trying to achieve needs to be understood and then a shared understanding needs to be found on the feature level. 
 
 In fact, it's a very valuable side effect of doing the prioritization; shared understanding. Or was it the other way around...? 

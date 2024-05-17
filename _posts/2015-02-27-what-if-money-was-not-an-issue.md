@@ -29,7 +29,7 @@ Those are the rules of BPJS. They've take price out of the equation.
 
 Oh, by the way, 3-5 years from now there will be no hospitals not supporting BPJS. There are now, because not everyone has implemented it yet. But it's something you'll have to do, according to law, if you want to continue to run a hospital in the future.
 
-# New rules - new strategy
+## New rules - new strategy
 
 Now, if you where a director of a hospital and this happened, there's an interesting question that you could and probably should ask yourself here:
 
@@ -43,7 +43,7 @@ To me there's only one answer: quality. They come to us because some aspect of q
 
 And all of a sudden we are competing with the parameters that matter most, not taking the easy way out and competing with lower pricing (and worse quality).
 
-# Stepping back
+## Stepping back
 
 Let's leave the hospitals here and step back a couple of steps. Did you see what happened there? One basic presumption, or aspect was taken out of the picture and that made us rethink the basis of our existence. Once we had done that we came out with a strategy that actually was sharper and more relevant for our customers than we first had.
 
@@ -57,7 +57,7 @@ Starting in quality also start to address and handle the real need of our custom
 
 The reasoning is turned around from how it's normally done. This is our goal (quality in this case). Now, what do we need to change in the way we work to get there?
 
-# Challenge our assumptions
+## Challenge our assumptions
 
 Let's step even further back and see if there's something more we can learn here.
 
@@ -75,7 +75,7 @@ Once again we see that by eliminating one factor, or assumption ("we have to com
 
 What good can come out of that? Have we, in fact, missed the real reason people choses others over us?
 
-# Question time
+## Question time
 
 What are the assumptions that I am building my way of behaving, acting and consulting? How can I challenge them?
 
@@ -84,7 +84,7 @@ Would I want to do business with those customers? Why? Why not?
 
 If our business did the opposite from what we are doing today - what would be the consequences?
 
-# Final story
+## Final story
 
 I once worked for one of the really big insurance companies in Sweden. A friend of mine did some consultancy there for their top management group. We often had coffee together (me and my friend that is...) and I found that very interesting to listen in on what was discuss many many levels above me.
 

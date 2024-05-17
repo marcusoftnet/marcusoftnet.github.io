@@ -26,7 +26,7 @@ Now with the focus of higher flow and flexibility, required by the limited buyin
 
 After 20 years (!) it was down to just 3 minutes. Toyota could now easily switch dies back and forth to fast and smoothly create the particular car parts required. The batch size and inventory was kept to a minimum while flow was intact. 
 
-# Observations
+## Observations
 
 First of all it's interesting to see that the rest of the car industry considered changing the die a time constant. It took 12 hours. There are *so* many things in our industry (IT) that was considered a fact a few years ago that now is done radically different, or now at all. On the top of my head: 
 

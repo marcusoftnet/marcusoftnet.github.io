@@ -21,13 +21,13 @@ One peculiar thing I noticed was that there were people at every cash register, 
 
 Instead, we all stood around the counter waiting, inadvertently blocking access for other customers. The cashiers kept taking orders, and the number of people waiting for their meals continued to grow.
 
-# What Happened?
+## What Happened?
 
 As I stood there, I observed that there were plenty of staff behind the counter, but they were moving in groups because they were training new employees that day.
 
 Essentially, for each person in training, one of the regular staff members had to oversee them, resulting in fewer staff members available to prepare orders. This created a bottleneck in "order fulfillment," leading to a queue of hungry customers waiting for their orders.
 
-# Analysis
+## Analysis
 
 Here are a few thoughts that crossed my mind:
 

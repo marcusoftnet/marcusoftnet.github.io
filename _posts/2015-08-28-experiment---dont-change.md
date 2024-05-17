@@ -32,7 +32,7 @@ This is a vital, fundamental observation for me. Far too often I've been involve
 In the spirit of [teal organizations](http://www.marcusoft.net/2015/04/what-is-the-problem.html) let's think past that problem. What if we could get what we wanted without *change*? 
 Yes, it's a little bit stupid, [because something has to change for something to improve](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html), I know but give me some leeway. 
 
-# What's in a word?
+## What's in a word?
 What if we just changed the word "change" itself? Instead of talking about changing something; let's talk about doing an experiment. 
 
 [Experiment](http://www.merriam-webster.com/dictionary/experiment):
@@ -79,7 +79,7 @@ Experiments doesn't have those traits since we, as I said above, are humble befo
 "In order to increase our effectiveness we will, starting Friday, do mob programming." sets a tone of order.
 "Let's try to do mob programming on Friday and see how it goes." sets a tone of invitation.
 
-# Summary
+## Summary
 Even if you didn't agree with a single word of this post, next time you want something to change talk about it in terms of "experiment" or "experimenting". 
 
 I promise you that people will take to that easier, be more open to take part and that you will learn more from it. 

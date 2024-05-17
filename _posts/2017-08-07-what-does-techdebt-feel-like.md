@@ -78,7 +78,7 @@ Related is probably the fact that we are in the **soft**ware business. You would
 
 With software, we can defer some very important decisions to later. I'm not sure it's a good idea though. 
 
-# Conclusion
+## Conclusion
 
 The best time to handle technical debt is … now. When you write the code. It will never be a better time at least. It might be another time, but never a better time. 
 

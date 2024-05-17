@@ -37,12 +37,12 @@ It's sending a feeling of me being helpless. The decision is made. There's no re
 
 Also - with no reason; how can I make you, the decision maker, happy? If I knew the reason maybe I can change my ways to better fulfill the goal. But now you give me no choice but to just follow orders.
 
-# Confession time - and conclusion
+## Confession time - and conclusion
 I've made decisions like that. Over the heads of people. With best intentions, but without a (well communicated, understood and compelling) reason. 
 
 I will never do that again. Because being in the receiving end of it is horrible, painful and makes me feel belittled and used.
 
-# What if ... the opposite 
+## What if ... the opposite 
 My mind ran with a thought, that I'm going to leave you with. Above we saw two examples of decisions / changes without reason. 
 
 What if we tried the complete opposite: a reason but no change? 

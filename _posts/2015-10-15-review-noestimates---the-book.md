@@ -43,7 +43,7 @@ But HA!, says Duarte Vasco. He's thought about that. Because there's a complete 
 
 This is a perfect "Continue here" package that I cannot commend Duarte enough of. 
 
-# Summary
+## Summary
 This books is great I think. I gives a hands-on, story-driven, easy-going overview of the priniciples and examples of the practices for #NoEstimates. 
 
 If you ever found yourself in a situation where estimates and their inevitable conversion to plans and Gantt charts is just too much for you; there's another way. It's brilliantly presented here! 

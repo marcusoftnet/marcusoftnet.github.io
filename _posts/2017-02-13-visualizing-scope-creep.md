@@ -56,7 +56,7 @@ When suggesting this approach to the team someone asked me if there's a counter 
 
 But in my mind I think that items that take several days in each column is probably too big to start with - maybe breaking it down into pieces that can flow over the entire board in a shorter time period would be better. 
 
-# Summary
+## Summary
 
 As you can see from the questions above what happens is that we run a little mini-retrospective around this one story that now doesn't behave as we thought that it would. It can be kept super short - probably as 2-3 questions during the morning meeting, or just a quick decision. 
 

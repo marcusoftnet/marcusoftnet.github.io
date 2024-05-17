@@ -23,14 +23,14 @@ I dedicate this post to Lars, who helped me so much in the early stages of my co
 
 Let's dissect the answer a bit: 
 
-# "Great! Then you know exactly what to do" 
+## "Great! Then you know exactly what to do" 
 Having to much to do or not knowing where to start doesn't mean that we should panic. Too many times have this feeling paralyzed me (and team, and organizations I've coached) leading to nothing at all being done. Or worse many things being started and nothing being completed. 
 
 Now we don't have to feel stressed by the fact that we have too much to do. Instead it becomes a trigger, a call to arms for our trained routine in these situations. 
 
 That just took us from "Aaaaaaah" to "Great! Let's go!" Quite the start Lars. Quite the start.
 
-# "make a list"
+## "make a list"
 Lars tip in the second part of his statement is brilliant. 
 
 First of all it gives us something easy, practical to get started. It feels like we're already making progress from our confused situation, right. We're working here. We're making a list. 
@@ -38,7 +38,7 @@ First of all it gives us something easy, practical to get started. It feels like
 Secondly, making lists is at the [core of many great ideas](http://gettingthingsdone.com/) and [awesome books](http://heathbrothers.com/books/switch/) I've read. 
 It's structuring and visualizing (or at least concretising) thoughts, worries and idea. It's like a little therapy of it's own. 
 
-# "of the things you need to do"
+## "of the things you need to do"
 It had to be said, right?
 
 What do we actually need to do? What do we need to do now? 
@@ -47,7 +47,7 @@ Will this take us closer to the goal or not?
 
 I cannot count the number of times when I've written things down and many of my worries or work items have disappeared from the list, just by me organizing my work a little bit. 
 
-# "and then start doing"
+## "and then start doing"
 He's pulling out the heavy stuff now. 
 
 Yeah, let's do something. Because, as most likely everyone agrees on, not doing anything doesn't resolve the situation. 
@@ -68,7 +68,7 @@ Two quotes comes to mind:
 
 Planning or praying is great activities, but they don't complete task. Doing does that. 
 
-# "one of them"
+## "one of them"
 The final part holds some hidden gems too. 
 
 So what should we do then? Wasn't that a the thing that got us worried in the first place? Which is best? If I do this - this other thing will not get done...
@@ -79,11 +79,11 @@ For this to be a viable strategy the things you want to do have to be small. One
 
 <blockquote>What is the smallest thing we can try to see if this is a good idea or not?</blockquote>
 
-# "one of them"
+## "one of them"
 He didn't say; everything that is important. No, do **one** of them. Only that. 
 We are not expected to fix everything at once. Let's do one thing that we think is important and then see what is the next, one thing we think is important. 
 
-# Summary
+## Summary
 This idea and tip has helped me a lot. It also scales extremely well and I've tried it in teams of 2 to 40, organizations up to 6 teams and once on the portfolio level of an insurance company in Sweden. It's worked out great in all these place. 
 
 As you can see I was very lucky to have a guy like Lars to work with. In all honestly everything he said during those 5 years didn't stick in the same way... but this sure did.

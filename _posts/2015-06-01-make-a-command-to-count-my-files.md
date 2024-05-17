@@ -17,7 +17,7 @@ I now found myself in a situation where I simply wanted to count the number of f
 
 <!-- excerpt-end -->
 
-# Count'em
+## Count'em
 
 First I found a nice little combination of commands that did exactly that: 
 
@@ -25,7 +25,7 @@ First I found a nice little combination of commands that did exactly that:
 
 Yeah, exactly. That doesn't look to hard. And yes - I would never remember that either. My memory is excellent but very short.  
 
-# Remember it
+## Remember it
 
 Luckily there's a very simple little tool that can make commands like that easier to remember. You can create an *alias* with a name that's easier to remember. Like this for example:
 
@@ -33,7 +33,7 @@ Luckily there's a very simple little tool that can make commands like that easie
 
 Sweet! Now I can go <code>count</code> in the current directory and get the number of files, i.e. posts. 977 by the way. Yes I'm proud. 
 
-# Permanent it
+## Permanent it
 
 However - should you close the Terminal window and then, tomorrow, open it again you will be sorry since the <code>count</code> command now is gone. This is a bit surprising and also disappointing. 
 
@@ -47,7 +47,7 @@ alias count='ls -1 | wc -l'
 
 Now you can close the Terminal, reboot your computer or what ever you fancy and the <code>count</code> command will still be present. 
 
-# Parameterize it
+## Parameterize it
 Now I realized that I actually have to <code>cd</code> into the directory I wanted to check. And [apparently](http://superuser.com/questions/289117/creating-an-alias-or-function-need-to-be-able-to-pass-in-a-parameter) alias doesn't support parameters to be passed. 
 
 But that's easy to fix... Convert it to a function like this:
@@ -83,5 +83,5 @@ marcus$ count Projects/blog/marcusoftnet.github.io/_posts/
 
 Lovely!
 
-# Summarize it
+## Summarize it
 I love diving into stuff that I know little about. I will not make commands like this everyday but you never know when I (or you ^^) will look here again. 

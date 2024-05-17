@@ -182,7 +182,7 @@ Now the user can change team in the `J18`-dropdown box and see the graph update 
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=505773454&amp;format=interactive"></iframe>
 
-# Summary
+## Summary
 
 I learned a lot about Google Sheets and the formulas I used by trying to figure this out. I hope you did too. 
 

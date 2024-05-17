@@ -68,7 +68,7 @@ Secondly, one thing that I often miss and that a development team have a hard ti
 
 Also note that everything that we are producing in a system development process is cost. It's not value until the feature is in production, used by users. Code, testing, documents etc should be kept to a minimum to ensure that we can move quickly.  
 
-# Summary
+## Summary
 
 User stories are not small requirements. They completely change the relation between the product owner and the people that can help him to reach the goals of the product. 
 

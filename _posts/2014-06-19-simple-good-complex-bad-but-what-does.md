@@ -44,7 +44,7 @@ explain what Simple and Complex mean for me:
 To me simple is made up of two components (I think, might add  stuff
 here later): *transparency* and *short feedback loops.*
 
-# Transparency and trust
+## Transparency and trust
 
 Transparent in turn means that the things we do is open and showed to
 others within our organization and as far as we think it’s reasonable.
@@ -118,7 +118,7 @@ involved in the corruption do?
 Transparency is a powerful tool. Using it will uncover things. Are you
 ready to handle that?
 
-# Short feedback loops– making it concrete often
+## Short feedback loops– making it concrete often
 
 [<img
 src="http://lh5.ggpht.com/-r3OSrZGXw2M/U6KUVw1H97I/AAAAAAAAEbs/quByNvGGAaw/feedbackloopshort_thumb.jpg?imgmax=800"
@@ -221,7 +221,7 @@ shorten the feedback loop. An investment to give the organization more
 frequent opportunities to change and react. How much you want to invest
 in that is up to you.
 
-# Ok, that was the Simple part - Complex then, what is that?
+## Ok, that was the Simple part - Complex then, what is that?
 
 Well… it’s basically the opposite of the above:
 
@@ -238,7 +238,7 @@ Well… it’s basically the opposite of the above:
     creating a financial statement only at the end of each year,
     spending weeks to do so.
 
-# Dude, you lost me… Can you sum it up again?
+## Dude, you lost me… Can you sum it up again?
 
 [<img
 src="http://lh6.ggpht.com/-DhzqVDslgNk/U6KT656AE7I/AAAAAAAAEbc/Q5nTcK5kO4Y/Slide3_thumb%25255B3%25255D.png?imgmax=800"

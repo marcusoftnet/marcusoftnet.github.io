@@ -23,7 +23,7 @@ But now I have read it and I wanted to share some of the main points that I've p
 
 This is not a review per se but rather three points that I've picked up from the book and that already now have helped me immensely.
 
-# Everything can be measure or else
+## Everything can be measure or else
 
 The first thing found profound is that even intangible things can be measure. The whole book starts with that statement in fact:
 
@@ -42,7 +42,7 @@ Luckily the rest of the book is devoted to helping us finding and understanding 
 
 To me this has a profound effect on _what_ we are actually measuring, maybe even what we are doing? If we are doing doesn't make any observable difference - is it worth doing? Or can we restate what we are doing?
 
-# Decisions, decisions, decisions
+## Decisions, decisions, decisions
 
 > Prior to making a measurement, we need to answer the following:
 >
@@ -67,7 +67,7 @@ Often I have no answer to that? Or at least, often there's other more interestin
 What, really, is the decisions we want to affect with this data? In the book Mr Hubbard also tells the story about a bank putting a lot of effort in getting reports from their branch offices, but couldn't recall a single instance where those report had changed their decision.
 Talk about waste. That effort could have been used better, I'm sure everyone involved agree on.
 
-# Clone the world
+## Clone the world
 
 Mr Hubbard proposes a thought experiment to help you find what to measure:
 
@@ -81,7 +81,7 @@ For example; an pastor at a workplace - what should define her role? One way to 
 
 By the way you can ask the same thing for many supporting roles in "normal" workplaces; agile coach, managers, HR department, IT-support to mention a few that I've been involved in.
 
-# Summary
+## Summary
 
 How to measure anything is a great book and I'm happy that I've read it. I was surprised though that the main points that it gave me reached far beyond _just_ measuring things:
 

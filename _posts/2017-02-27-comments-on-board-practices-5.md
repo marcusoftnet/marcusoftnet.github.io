@@ -17,7 +17,7 @@ However, some early Kanban adopters, in their eagerness to depart from Scrum's c
 
 <!-- excerpt-end -->
 
-# Limitless Boards
+## Limitless Boards
 
 Most of the Kanban boards I've encountered lack limits on the amount of work they can contain. They simply accommodate as much work as deemed necessary for any given situation.
 

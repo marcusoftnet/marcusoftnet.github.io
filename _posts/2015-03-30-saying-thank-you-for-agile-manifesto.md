@@ -31,7 +31,7 @@ His answer was priceless:
 
 <blockquote>First of all - it's Jim. Secondly I was just there to ski - it change me too :)</blockquote>
 
-# Time is running out
+## Time is running out
 Jim (thanks) Grenning is the only of the signatories that I've met / seen in person. I've been doing agile for ca 9-10 years. This is simply too slow.
 
 But this is a non-centralized world and most of these people are still around and active. I will now instead start to track these people down on other media, such as Twitter etc.
@@ -41,7 +41,7 @@ Not because I'm a fan boy (.... or well) but mostly because it's actually the bi
 
 For this I'm eternally grateful. My working life is so much more interesting due to agile.
 
-# The list
+## The list
 
 ## People I've met and thanked in real life
 

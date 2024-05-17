@@ -44,7 +44,7 @@ Now I'm creating options. I trigger creativity and innovation. I humble myself b
 
 Also this way of putting it focus on the **outcome**; clean hands.
 
-# Outcomes or activities?
+## Outcomes or activities?
 There's many things that is discussed in the IT community today that comes back to this simple distinction; are we focusing on activities or the outcome of our work? 
 
 The General (world wide leader) of the Salvation Army - General Andre Cox [puts this beautiful](https://www.youtube.com/watch?v=NuNkmXHVRNI&feature=youtu.be&t=50s) in this video: 
@@ -61,7 +61,7 @@ I'm suspecting that [agile](http://agilemanifesto.org/), [xp](https://www.wikiwa
 
 The criticism is healthy, don't get me wrong. But I rather focus on the **outcomes** from the new practice rather than if the activities in it are correct, follows my current thinking or can be fitted in my current ways of working. If the practice is any good it should show in the outcomes from it, right?
 
-# Newer is always better - it's my oldest saying
+## Newer is always better - it's my oldest saying
 
 <blockquote>
 	Newer is always better - it's my oldest saying
@@ -102,7 +102,7 @@ Barney is wrong because it's not the "newness" in the thing that makes it better
 
 It would be very sad if mob programming was the best the human kind ever invented. Or Agile. Or Estimates. Or NoEstimates. After that nothing better would ever come. So sad.
 
-# Summary
+## Summary
 I'm looking for better than what we do today. 
 
 What is that? No idea. Better outcomes. Better ways to reach our goals. 

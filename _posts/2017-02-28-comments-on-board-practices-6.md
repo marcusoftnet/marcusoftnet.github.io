@@ -21,7 +21,7 @@ A simple adjustment can realign our focus, particularly during morning meetings.
 
 <!-- excerpt-end -->
 
-# Introduction
+## Introduction
 
 I once lost a contract for affirming:
 
@@ -107,7 +107,7 @@ Rotate the daily facilitator role.
 
 This fosters inclusivity and eliminates hierarchical undertones.
 
-# Summary
+## Summary
 
 In morning meetings, prioritize discussing work over individual updates. Focus on facilitating work flow by addressing impediments and anomalies on the board.
 

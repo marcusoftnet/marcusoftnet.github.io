@@ -16,7 +16,7 @@ The other week we decided to give TankWars a go. It great fun and educational, a
 
 <!-- excerpt-end -->
 
-# Tank Wars
+## Tank Wars
 
 TankWars is a nice little game that is have been used to teach AWS Lambda / Serverless computing in some classes given by [Gojko Adzic](http://www.gojko.net)
 
@@ -26,11 +26,11 @@ To objective is simply to survive longer than an opponent, or shoot them to smit
 
 Of course using AWS Lambda (or anyone old serverless technology) is a perfect fit for this. And if you are using Node - [Claudia](http://claudiajs.com) is your one stop shop for all things AWS Lambda.
 
-# How it played out
+## How it played out
 
 It turned out that we had too little time to get something really great out there, even though [one developer](https://twitter.com/orjansjoholm) actually created an algorithm that beat one of the AI robots created at a code camp. He called it luck - we knew that mad skills was on display too. 
 
-# Observations
+## Observations
 
 I came late and just went around observing and I saw one common struggle and complaint from all teams:
 
@@ -50,7 +50,7 @@ Quite often my change did **not** do what I thought (I kept driving through wall
 
 But when we code our production code we deploy once per week. That's 7 x 24 x 60 = 10080 minutes to get a small idea to be verified in the wild
 
-# Conclusions
+## Conclusions
 
 Why was this a problem in game context but not when we do production code on our day-to-day team. 
 

@@ -28,7 +28,7 @@ The tag-line on the [koa-mount](https://github.com/koajs/mount) page says it all
 
 That sounds easy but how does it really work and what opportunities does this give us? I think it's easiest to show with an example:
 
-# Basic (?) example
+## Basic (?) example
 
 ```javascript
 var koa = require('koa');
@@ -75,7 +75,7 @@ Now if you were to go to ```http://localhost:3000``` you'll get a ```Not found``
 
 Let's improve this a bit.
 
-# Separate files
+## Separate files
 Let's address the second point above first, because that's trivial. Moving the applications to separate files are very simple. I moved them into a sub directory called ```subapps``` Here's the ```/subapps/hello.js``` application:
 
 ```javascript
@@ -122,7 +122,7 @@ console.log('listening on port 3000');
 
 Here's we're just stitching together the application, giving each sub application the path under which they operate.
 
-# Sub routing
+## Sub routing
 But that's still "just" middle ware. Let's see what a little more real application would look like.
 
 Here's an application using [koa-route](https://www.npmjs.com/package/koa-route) to create some routing:
@@ -185,7 +185,7 @@ app.listen(3000);
 console.log('listening on port 3000');
 ```
 
-# Conclusion
+## Conclusion
 [koa-mount](https://github.com/koajs/mount) is perfect to compose bigger applications into smaller parts. Maybe you already have a blog application that you can reuse and just include under the ```/blog``` path. That's one line of code using ```koa-mount```.
 
 Bringing it back to my application that I've described at the top it will have a main application that looks something like this:

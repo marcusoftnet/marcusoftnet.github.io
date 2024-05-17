@@ -18,7 +18,7 @@ I'm on OS X Yosemite and I had nothing but problems. Yesterday I got it to work.
 
 I started out from the [CasperJs](http://casperjs.org) [installation instructions](http://docs.casperjs.org/en/latest/installation.html), but soon ran into problems. Not with Casper but rather with: 
 
-# The Phantom menace
+## The Phantom menace
 [CasperJs](http://casperjs.org/) is, to my knowledge, just a wrapper around [PhantomJS](http://www.phantomjs.org/), a WebKit headless browser. So first we need to install that. 
 
 When you go to their website there's actually no installation instructions (?) but rather [instructions to download](http://phantomjs.org/download.html). This gives us a big old binary, unzipped, in the <code>[path where you downloaded]/[name of zip]/bin/phantomjs</code>. 
@@ -44,7 +44,7 @@ $ sudo brew update && brew install phantomjs
 
 For example. For the life of me I couldn't get this to work. I'm blaming Indonesian internet speed. But that's an option. Should you for any other reason don't wanna use HomeBrew you now have an option. 
 
-# CasperJs
+## CasperJs
 At this point it was much smoother. Installing CasperJs is a breeze and can be done with HomeBrew again. And it worked on the first try for me: 
 
 ```bash
@@ -61,7 +61,7 @@ CasperJs is also installable via <code>npm</code> but I had problems getting tha
 
 It's just <code>npm install casperjs -g</code> to install it on your system. 
 
-# Trying it out
+## Trying it out
 Another, more fun, way to verify it is to write a small script. Like the example Casper provides, for example;
 
 ```javascript
@@ -92,7 +92,7 @@ You start the file with the <code>casperjs demo.js</code> command. Otherwise you
 
 When we go <code>casperjs demo.js</code> it works!
 
-# Extra points - Nightmare
+## Extra points - Nightmare
 
 There's a wrapper API around Casper that is called [Nightmare](https://www.npmjs.com/package/nightmare). It looks nice. 
 
@@ -116,7 +116,7 @@ new Nightmare()
 ```
 
 
-# Summary 
+## Summary 
 All-in-all this is probably the worst installation experience I've had on the Os X as a developer. I don't know why, more often it's super smooth. This was a lot of hick-ups. Now it works. 
 
 And CasperJs (and Nightmare) looks great. 

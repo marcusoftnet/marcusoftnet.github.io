@@ -75,7 +75,7 @@ Also, there’s a higher chance of lack of other things such as
 commitment, ownership, responsibility, innovation and ambition. In my
 experience.
 
-# What if…
+## What if…
 
 So, if we were to try the idea and advice of Captain Marquet and “move
 the authority to the information”. What differences will that make?
@@ -161,7 +161,7 @@ again:
 
 > Act as if the manager/leader was standing behind them.
 
-# Objections
+## Objections
 
 I already hear some objections to this. Let me air mine first and then
 we can continue in the comments below.

@@ -14,7 +14,7 @@ I recently returned from three days of coaching at [Nintex](http://www.nintex.co
 
 One topic we discussed extensively was the concept of "Order Point," a key element in the Kanban methodology for replenishing backlogs just-in-time. Unlike traditional approaches such as planning at the start of an iteration (common in Scrum), the Order Point enables teams to dynamically manage their workload based on demand.
 
-# Understanding Order Point
+## Understanding Order Point
 
 The Order Point, as described in [Kanban In Action](http://bit.ly/theKanbanBook), serves as a signal to replenish the backlog when it reaches a predetermined threshold. This threshold, illustrated in the accompanying cartoon, represents the point at which new work items are needed to maintain workflow efficiency.
 

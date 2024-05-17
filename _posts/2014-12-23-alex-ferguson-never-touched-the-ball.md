@@ -20,7 +20,7 @@ So what good am I? What do I do? How could you <a href="http://www.marcusoft.net
 
 <!-- excerpt-end -->
 
-# Busyness
+## Busyness
 Two thoughts goes through my head when I think about this. First a quote by <a href="zuill.us/WoodyZuill/">Woody Zuill</a>
 
 <blockquote>Busyness is not good for business</blockquote>
@@ -44,7 +44,7 @@ Even when we see the effectiveness of things like mob programming (for example, 
 
 No - I'm not busy at my clients. Busy typing that is. But very few clients I work for sells keystrokes. KPM (key strokes per minute) is not their best effectiveness measurement. Programming is not typing.
 
-# Ferguson
+## Ferguson
 I'm a coach for teams and organizations. The coach term is borrowed from the world of sports. Let's take Alex Ferguson as an example, the wonder-making coach of Manchester United from 1986 to 2013. Under this time Manchester United went from a mediocre team and became one of the best in the world.
 The other day something dawned on me.
 

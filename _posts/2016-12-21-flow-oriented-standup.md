@@ -21,7 +21,7 @@ In this post I wanted to share a few of the things I've seen changed and also a 
 
 I'll headline each topic with a sentence that I've heard teams I'm working with, use the last couple of weeks, in their daily stand-ups. Sentences previously was unheard or didn't make much sense. 
 
-# "How can help our finish that work?"
+## "How can help our finish that work?"
 
 When Scrum made "dailies" popular it was mainly centered around *The 3 questions*:
 
@@ -43,7 +43,7 @@ A easy way to shift this focus without a big fuzz is to start to enumerate the w
 
 As a side note; I once said "It's not primarily important that everyone is being busy". A quick chat with the CEO that overheard me, and 3 weeks later I was on another assignment. Good for me. Good for them. 
 
-# "Let's walk the board from the right"
+## "Let's walk the board from the right"
 
 We go through the items on the board one by one starting with the one closest to production (or ... ["Done"](http://www.marcusoft.net/2016/12/flow-oriented-standup.html#i-dont-like-the-name-of-our-done-column)). This means that we start to talk about the thing that is almost completed. Should the meeting run long and we need to stop we have at least talked about those items.
 
@@ -53,7 +53,7 @@ As good lean-practitioners we rather finish stuff than start new stuff so our fo
 
 This is also related to a principle of lean improvements; start closest to the customer and work your way backwards from that point. If we see recurring problems close to production, close to completing things (like for example manual deployments) it is well invested time to try to smooth and speed that flow up. 
 
-# "No problems so we don't need to talk about it"
+## "No problems so we don't need to talk about it"
 
 I once had a huge (40+ people) team that was using a single kanban board. Each morning meeting everyone gather around and ran a morning meeting that took ca 5 minutes. This was what happened: 
 
@@ -67,7 +67,7 @@ The focus should be put into **resolving** problems with our flow of work - not 
 
 Should we get stuck discussing something in our meeting we should let it be things that helps our work to flow better. Not to hear report about the work being done (that is of course interesting too - but less important compared to things that is hindering our work from flowing)
 
-# "There's too many things on our boards"
+## "There's too many things on our boards"
 
 Teams that want things to flow fast wants few items on their board. There's [mathematical proofs](https://en.wikipedia.org/wiki/Little%27s_law) for why that is a good idea, should you be interested in why.
 
@@ -89,7 +89,7 @@ Therefore I tweeted this the other day:
 
 I don't care how many things are going on, or how many percent done we are. What is used in production and what is not - that's the only real progress measure. See the [7th principle of the Agile Manifesto](http://agilemanifesto.org/principles.html)
 
-# "I don't like the name of our 'Done'-column"
+## "I don't like the name of our 'Done'-column"
 
 Speaking of Done. I hear more and more of the teams I'm working with skipping that column altogether. There's no Done. Our feature is in Production, being used by users, sure but that doesn't mean that it's Done, now do it. 
 
@@ -97,7 +97,7 @@ At the very least we should check if the reason (maybe even with a metric) we bu
 
 Some of my teams have a column for "Evaluate" or "Learn". And I've see sections on the board (or screens) for metrics that we are gathering to learn. I'm hoping to soon see another list at the end "What we learned from feature X being deployed"
 
-# "What's hindering us from putting this into production now"
+## "What's hindering us from putting this into production now"
 
 One last one, that is a few years old in all honesty, that really put a big focus on flow. In one team (8 people) we only had two columns "Not Done" and "Done" (yes yes I know... this was before I learned about the "Done"-column). The team allowed for only 3 items on their board. 
 
@@ -111,7 +111,7 @@ Then later the answer might have been <code>There's still some testing to be don
 
 The focus was laser sharp and kept the team in sync - and the meeting short but valuable. 
 
-# Summary
+## Summary
 
 The best thing about all these things is that they are new. I'm picking up new stuff more or less every month. In a few years I hope that all of these things feels as old as <code>What did you do yesterday?</code>. 
 

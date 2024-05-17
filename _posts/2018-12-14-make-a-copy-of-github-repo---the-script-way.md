@@ -70,7 +70,7 @@ Then you can run save the following script as `cloneRepository.sh` :
 echo "Making a copy of '$1/$2' to a new repo called '$1/$3'"
 echo "Hold on ..."
 
-# Store the current directory
+## Store the current directory
 cwd=$(pwd)
 
 ## Let go to the root and create a temporary place

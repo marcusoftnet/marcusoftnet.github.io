@@ -19,7 +19,7 @@ How does that look? What have we done? Most of the work we have done has not dir
 
 <!-- excerpt-end -->
 
-# The parking lot
+## The parking lot
 The first focus area is to redo the parking lot outside the hospital. This quite a big area (80 x 15 m), sloping and with very bad condition of the paving stones on the ground. Big holes, broken paving stones and just plain ugly.
 
 ## First things first
@@ -54,7 +54,7 @@ We spend **less money** up front. Yeah, of course. 100 money and we divided it t
 
 We can **keep** 3/4 of the parking **open** while we are renovating one phase. Compare this to doing a big concrete block over the entire parking lot. It's been suggested. That would mean closing the entire parking lot for the entire project running time.
 
-# Accreditation
+## Accreditation
 
 Another BIG project we are doing is about accreditation. Basically some kind of quality certification. There's a 200 page book from the Indonesian government guiding the hospital on how to get Accreditation.
 
@@ -116,7 +116,7 @@ A new list with "only" 70 applications came out. And it came out in prioritized 
 
 Much nicer! Much more approachable! And an improvement and simplification for the future too.
 
-# Conclusion
+## Conclusion
 
 Please note that the management group said that nothing of this can be done this way.
 They always do. Almost all the groups I've worked with at one point or another say "It's impossible. We cannot change that", when we try to challenge some strong held truths of the process or company.

@@ -30,7 +30,7 @@ If you liked this post I know you will love the course! Thank you for reading th
 
 I'll keep my [code here](https://github.com/marcusoftnet/preposthooks)
 
-# The scripts
+## The scripts
 Pretty soon after starting to use the package.json file we start to use the <code>scripts</code>-node. In fact when you use <code>npm init</code> to set up your <code>package.json</code> file a test script is created for you. Often it looks something like this:
 
 ```javascript
@@ -74,7 +74,7 @@ npm t
 
 But the really useful thing about these "well known" scripts is that tools and infrastructure in the Node world knows that they exists and can make use of them. For example, when you push code to [Heroku](http://www.heroku.com) it will launch your application with <code>npm start</code>. Or you continuous integration platform might run test, by convention by simply executing <code>npm test</code>.
 
-# Hooks; pre and post
+## Hooks; pre and post
 Before I get completely side tracked here let's go back to the theme of the this post; pre and post hooks.
 
 This is one of the lesser known and used features of npm scripting I think. And it's a bit funny that this is "lesser" known and used, since it's actually the first thing that they write about [in the documentation](https://docs.npmjs.com/misc/scripts).
@@ -116,7 +116,7 @@ There's quite a few hooks that <code>npm</code> knows about out of the box, and 
 
 For all of these there's respectively <code>pre</code> and <code>post</code> hook. This comes very handy to manage the life cycle of your application.
 
-# Custom scripts
+## Custom scripts
 What makes <code>npm</code> more useful, and what actually makes it a viable build tool, is that you can define your own, custom scripts.
 
 Remember that you <code>npm test</code> actually was a short-cut for <code>npm run test</code> (which in turn is a short-cut for <code>npm run-script test</code>)?
@@ -224,7 +224,7 @@ available via `npm run-script`:
     jslint '*.js'
 ```
 
-# Summary
+## Summary
 As you can see the <code>pre</code> and <code>post</code> hooks are very powerful allies if you want to use <code>npm</code> and <code>package.json</code> as a build tool.
 
 You can find my [code here](https://github.com/marcusoftnet/preposthooks)

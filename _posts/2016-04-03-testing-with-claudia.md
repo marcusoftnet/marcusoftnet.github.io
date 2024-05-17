@@ -18,7 +18,7 @@ And it's super easy to use. Tag along
 
 <!-- excerpt-end -->
 
-# Our example... again
+## Our example... again
 I'm going to use something very similar to the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) for our example. Here's the short version:
 
 * `mkdir hellotesting && cd hellotesting`
@@ -42,7 +42,7 @@ This will quite simply just log the event you sent to your function (see the [la
 
 Finally create this lambda function in AWS by running `npm run create`
 
-# Testing this
+## Testing this
 Now to the point of this post; how to test this. It's simple: `claudia test-lambda`. Try it and you'll see.
 
 See?! This will call your lambda function and if everything went well return you something like the following:
@@ -55,7 +55,7 @@ Let's make it a bit more accessible and save that command in the `package.json` 
 
 Ah ... bliss. Short, sweet and useful.
 
-# Passing data
+## Passing data
 In all honesty that call is a bit simple, because most of your function will require some sort of data being passed to them in order to work properly.
 
 No worries, Claudia got you covered:
@@ -82,7 +82,7 @@ Let's move that into our test command (making it: `"test": "claudia test-lambda 
 
 Ah... it works. But how really?
 
-# How does this work?
+## How does this work?
 Running `claudia test-lambda --help` reveals a bunch of parameters that we could use to set lambda function version, source directory and configuration file. Luckily for us the defaults are awesome.
 
 For example, the default for `configuration` is the `claudia.json` file in the local directory. This file is created for us by `claudia create` and is the thing that Claudia use to keep track of the deployed function locally.
@@ -101,7 +101,7 @@ Psst - you could create multiple test data file and pass them as parameters in y
 
 Running `npm t` will now trigger all three test-runs.
 
-# Summary
+## Summary
 The `claudia test-lambda` is a nifty little addition to Claudia that helps you to quickly call into your deployed AWS Lambda function and see that it is up and running.
 
 Using the `--event event.json` construct helps you to set up a test data to pass to the function in a simple manner.

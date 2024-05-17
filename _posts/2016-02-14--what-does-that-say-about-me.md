@@ -19,7 +19,7 @@ In this post I wanted to share these ideas, that are not mine mind you, and mayb
 
 I've [blogged](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) [many](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html) [times about](http://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html) [Switch](http://heathbrothers.com/books/switch/) which is the best book I've read on the topic. 
 
-# Change! or Change?
+## Change! or Change?
 
 There's a sentence in the beginning of the book that I really think is important to approach change in a more humble, gentle and (hopefully) hence more productive way: 
 
@@ -35,7 +35,7 @@ My goal as a change agent is something completely different. I don't need (nor w
 
 I didn't say that it was easier, but it's at least less confrontational and invites more innovations from the people around me. I take that any day of the week. 
 
-# If he is right...
+## If he is right...
 Last year I happen to stumble on an amazing documentary series about anger. It's beautiful and well worth watching the entire series. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6TrKkkVEhs?list=PLJA_jUddXvY62dhVThbeegLPpvQlR4CjF" frameborder="0" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ Quite simple: taking in that something new, that might question the reason of wh
 
 How can I approach the change so that fear like that goes away? 
 
-# What needs to be true... 
+## What needs to be true... 
 The last thought comes from sensei [Dan North](http://dannorth.net/) and is related to the above: 
 
 <blockquote>What needs to be true, for that to make sense?</blockquote>
@@ -88,7 +88,7 @@ The opposite would be to start in costs; by making each individual function as c
 
 "Sure - having our testers in India and Ukraine is not optimal for cooperation but the cost is so low that it will have to do. It's worth it."
 
-# Summary
+## Summary
 My best change management tip is to put yourself on the other side for awhile. These three statements helps me to remember that on a daily basis: 
 
 <blockquote>People doesn't oppose change. People opposed being changed</blockquote>

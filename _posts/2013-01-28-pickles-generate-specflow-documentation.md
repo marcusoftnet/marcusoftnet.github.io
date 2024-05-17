@@ -105,7 +105,7 @@ To call into Pickles you can do the following:
 # Import module
 Import-Module .\pickles\Pickle-Features.psm1
 
-# Run Pickles
+## Run Pickles
 Pickle-Features -FeatureDirectory ".\Specs\Features" -OutputDirectory ".\Docs\Features" -DocumentationFormat "Html" -OutputName "Features" -SystemUnderTestName "MyProject" -SystemUnderTestVersion "1.0.0.0" -TestResultsFile ".\Specs\bin\Debug\TestResult.xml"
 ```
 

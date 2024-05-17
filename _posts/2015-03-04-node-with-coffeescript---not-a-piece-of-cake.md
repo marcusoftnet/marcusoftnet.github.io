@@ -25,7 +25,7 @@ Well... there's quite a lot of setup and idiosyncrasies that you need to be awar
 
 <!-- excerpt-end -->
 
-# Initialize project and more
+## Initialize project and more
 
 Initalization of the project is straight forward for any Node developer, especially if you [rely](http://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](http://www.marcusoft.net/2014/02/mnb-packagejson.html).
 
@@ -63,7 +63,7 @@ Oh, get a [.gitignore for Node](https://www.gitignore.io/api/node) from the exce
 
 Done - we are set up.
 
-# Run tests
+## Run tests
 The first thing I tried to do was to get the tests to run. In order to do so I had to write a little test. In coffee-script of course, so the next paragraph should probably had come before this one... Well well. Do this:
 
 ```bash
@@ -127,7 +127,7 @@ Leaving our test command simply as <code>mocha</code>. I personally don't like t
 
 Ok, we can run our tests... Let's write some code.
 
-# Write .coffee code
+## Write .coffee code
 In order to have this working properly let's first add a file with our production code (<code>mkdir src && touch src/index.coffee</code>) and add the following code:
 
 ```coffeescript
@@ -146,7 +146,7 @@ greeting = (name) ->
 console.log greeting "Marcus"
 ```
 
-# Run .coffee code
+## Run .coffee code
 
 Ok - let's run it. Naively I tried <code>node src/index.coffee</code>. But unsurprising Node doesn't know anything about CoffeeScript (<code>SyntaxError: Unexpected token > </code>).
 
@@ -199,7 +199,7 @@ Error: The two following source files have the same output file:
 
 This is a bug in [CoffeeScript 1.9.1](https://github.com/jashkenas/coffeescript/issues/3863). It is fixed but not yet released. Make sure that you're running something else than 1.9.1 <code>sudo npm install -g coffee-script@1.9.0</code> for example.
 
-# Testing our function - CoffeeScript all the way
+## Testing our function - CoffeeScript all the way
 Ok, let's stich it all together. Now we can run tests and we can run our code. But we have not yet run test that tests our code...
 
 In the <code>spec.coffee</code> first require the file:
@@ -241,7 +241,7 @@ console.log greeting "Marcus Hammarberg"
 
 Better?! It rocks - because that acutally works. Since we are watching changes on our tests the change is picked up and it runs all our tests. Passing.
 
-# Summary
+## Summary
 This is a little bit too complicated to get set up if you ask me. I've gone back and forth a number of times before I got it too work but this should do it.
 
 One problem that I first had but then went away is described [here](https://github.com/jashkenas/coffeescript/issues/3349). My code now works without adding the <code>require 'coffee-script/register'</code> but maybe you have too...

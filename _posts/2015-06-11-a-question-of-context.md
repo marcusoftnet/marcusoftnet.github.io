@@ -18,7 +18,7 @@ This is NOT a post about THEM and (or versus) ME. It's a post about me, and my r
 
 <!-- excerpt-end -->
 
-# The story
+## The story
 When we first got to work with the hospitals here in Indonesia we found something that made us very surprised and scared. At one of our hospitals the nurses was not washing their hands between patients visits. This is a practice that's know to save lives in health care since [1820-ies](https://explorable.com/semmelweis-germ-theory). Even I knew that washing your hands is a good practice in health care.  
 
 So we asked the nurses and sure enough: "Yes, we know. We really should do that. We start now."
@@ -47,7 +47,7 @@ I tell you what I thought. I'm ashamed to do so but I'll do it anyway:
 
 But I was wrong. Let's continue our story
 
-# Standard operating procedure
+## Standard operating procedure
 
 The director did something that I didn't even think about. She updated the SOP (Standard Operating Procedure). One new line: 
 
@@ -61,7 +61,7 @@ I tell you what I thought:
 
 <blockquote>They ARE stupid. They are not using their brains. They are only following WHAT's written. Knowing that it was better to do what it didn't say.</blockquote>
 
-# Context - the organization
+## Context - the organization
 
 I was in this stage for an embarrassing number of months. But then I overheard a couple of conversations and email exchange that started to shift my perspective. 
 
@@ -116,7 +116,7 @@ Why did he say that? Because his salary was calculate on how many hours his empl
 
 The organizational system were (is?) holding improvements back.
 
-# Summary
+## Summary
 And the solution to all of this is .... Eh... don't know yet. 
 
 But I do know that people in general is not stupid. I very often miss or am ignorant about the context and culture in which they operate, though. There's most often a reason for people to behave, or not behave in a certain way. 

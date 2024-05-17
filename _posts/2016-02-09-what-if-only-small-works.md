@@ -34,7 +34,7 @@ And it dawned on me: what if it only works when it small? What if we need to ret
 
 Of course we could run many parallel small teams like this (they are two people running "Faith, hope and work") but after awhile it will be complicated to coordinate, make sure we're not competing for the same work etc. 
 
-# Agile at scale
+## Agile at scale
 This is the same kind of reasoning which trips "agile at scale" up, as I've mostly seen it implemented. Instead of fixing the processes, organizations and roles - we tweak agile, Scrum (tm) or Lean to fit our current organization, our current process, tollgates, contracts with outsourcing partners etc.
 
 I've many times seen new ways of working fail because it is shoehorned into the old ways. Maybe instead we should let the new ways of guide us towards better ways. 

@@ -16,10 +16,10 @@ Just a short little post about an error that have caused me problems. Here's the
 
 <!-- excerpt-end -->
 
-# TL;DR - Reload your browser
+## TL;DR - Reload your browser
 This is a Javascript parsing error, when trying to parse a very helpful error message from Meteor. Just reload the page and you'll see the message.
 
-# Longer ... but still short and sweet
+## Longer ... but still short and sweet
 
 ## The background
 Meteor is super helpful in many ways. Creating an app is just three small steps:
@@ -65,5 +65,5 @@ Your application has errors. Waiting for file change.
 
 The <code>Unexpected token Y</code> is the start of <code>Your</code>, that JavaScript tries to make sense of.
 
-# Summary
+## Summary
 Should you see the <code>Uncaught SyntaxError: Unexpected token Y</code> remember the old days and just reload the browser window. It's a hassle I know :)

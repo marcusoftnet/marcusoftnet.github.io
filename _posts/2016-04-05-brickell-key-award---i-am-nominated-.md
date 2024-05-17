@@ -22,7 +22,7 @@ But first - let me tell you a little bit about why you should do that, and what 
 
 <!-- excerpt-end -->
 
-# The award
+## The award
 
 ## Who is Brickell, and where is her keys?
 [Brickell Key](https://www.google.se/maps?q=brickell+key&ion=1&espv=2&bav=on.2,or.r_cp.&bvm=bv.118443451,d.bGg&biw=1436&bih=782&dpr=2&um=1&ie=UTF-8&sa=X&ved=0ahUKEwip5cKChfjLAhVDWSwKHbULCLoQ_AUIBygC) is in fact an funky looking island, located outside Miami.
@@ -50,7 +50,7 @@ Just the mere thought that I'm nominated, as a token of appreciation of my work,
 
 There's a statue (the Oscar of Kanban, if you like) and benefits to come to events organized by Lean Kanban Conferences, but really the main thing is the honor of being promoted within a community of awesome people.
 
-# Why you?
+## Why you?
 Why indeed...
 
 ## Why are you nominated?

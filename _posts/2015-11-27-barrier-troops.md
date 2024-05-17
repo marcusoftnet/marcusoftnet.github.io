@@ -23,7 +23,7 @@ To scale this model to accommodate many individuals, strict adherence to procedu
 
 Initially puzzling and immensely frustrating, this behavior becomes more understandable when we consider the origins and strengths of such organizations. However, I still find the entire scheme dehumanizing and fundamentally flawed.
 
-# Mental Imagery and Historical Context
+## Mental Imagery and Historical Context
 
 Laloux assigns a metaphor or mental image to each stage of organizational evolution, facilitating easier recollection. The image for Amber-Organizations is that of an Army. In my mind's eye, I envision a Roman army on the brink of war.
 
@@ -39,7 +39,7 @@ This concept, though brutal in its simplicity, was remarkably effective. Positio
 
 In either scenario, doom was inevitable.
 
-# Modern Manifestations of Barrier Troops
+## Modern Manifestations of Barrier Troops
 
 Although unsettling and barbaric, the concept of Barrier Troops persists in contemporary Amber-Conformist organizations. Punishments and rewards serve as modern-day equivalents. In a situation I've [previously recounted](/2015/06/a-question-of-context.html), nurses chose to forgo handwashing because it wasn't explicitly outlined in the procedure—a decision motivated by fear of pay deductions.
 
@@ -47,7 +47,7 @@ The typical response from Amber-Conformists is to revise procedures, acknowledgi
 
 In your own context, you'll likely identify similar examples: being held accountable for estimates you didn't set, facing deadlines you didn't establish, or experiencing annual bonuses tied to arbitrary metrics.
 
-# Fear's Role
+## Fear's Role
 
 What connects this behavior to the concept of Barrier Troops? Or, to phrase it differently, why does it work?
 

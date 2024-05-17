@@ -34,7 +34,7 @@ Here's the gist (pun intended) of it:
 ```bash
 #!/bin/bash
 
-# <... script code here ...>
+## <... script code here ...>
 
 tags=""
 read -p "Tags: " tags
