@@ -35,7 +35,7 @@ Not a very envious situation, but she has will power and really wants to do some
 
 This is not a blog post that will end with "... and now they are the richest hospital in Indonesia and the doctor has gone on to win the Noble prize in management". There will be no victory dance. We're not there.
 
-Yet. 
+Yet.
 
 I just wanted to show how we applied the ideas with these tools in a very different domain from what it was first intended for.
 
@@ -49,7 +49,7 @@ As the exercise unfolded I came to realize that Root Cause Analysis not is a pro
 
 I simply took a sticky and wrote "BOR is too low" on it and stuck it right in the middle of the board. And then we started upwards: "So what? Who cares if our BOR is too low?". That got them going, I tell you. Before long they had produced this:
 
-![Impact map](http://1.bp.blogspot.com/-rvwlnIhSzJw/Uw7DL4b5GdI/AAAAAAAACA4/pnmNnfuJaEc/s1600/2014-02-13+10.37.08.jpg)
+![Impact map](/img/bungsu_impact_map.jpg)
 
 I think it took about 1 hour and I did only help them to stay on track in their discussions, trying to remember to address all the branches we created.
 
@@ -57,7 +57,7 @@ We took a step back and looked at the tree we created and realized that we now h
 
 We then worked our way downward asking WHY-questions, as usual. Soon this picture had emerged:
 
-![Image](http://2.bp.blogspot.com/-eJW32S7XUfY/Uw7DT0z959I/AAAAAAAACBA/Zieyr-uwFCU/s1600/2014-02-13+10.37.17.jpg)
+![Image](/img/bungsu_root_cause.jpg)
 
 I was a bit disappointed at first, since I was hoping that we would find a single real issue that we all came to realize: This, that's what we need to address.
 
@@ -81,7 +81,7 @@ I pretty much followed the same way I usually go about [creating impact maps, as
 
 It took quite some time but soon we had an impact map that looked like this:
 
-![Overview](http://1.bp.blogspot.com/-NipbQbAEkD8/Uw7jEZQTfDI/AAAAAAAACBQ/SQ_cnzd7bBo/s1600/2014-02-13+12.04.24.jpg)
+![Overview](/img/bungsu_impactmap_1.jpg)
 
 Yeah, it was a bit messy. And I've had this experience quite often when I create maps like these. These are my general tips:
 
@@ -92,7 +92,7 @@ Yeah, it was a bit messy. And I've had this experience quite often when I create
 - Although there are awesome tools out there (looking at you [MindMup](http://www.mindmup.com/)) there's really nothing beating standing together in front of a whiteboard. The tactileness and directness is something else. I, for one, like it more.
 - That said: do consider moving to a tool after the initial workshop. As documentation for example. Search, navigation, and a lot of other features are very helpful to find stuff in your model.
 
-![Details](http://3.bp.blogspot.com/-01Dtpy3dMS8/Uw7jNCUrLvI/AAAAAAAACBY/gnBqnOuGoKo/s1600/2014-02-13+11.55.59.jpg)
+![Details](/img/bungsu_impactmap_2.jpg)
 
 ### Limit Work In Progress
 
