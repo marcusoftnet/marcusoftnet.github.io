@@ -10,7 +10,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-03-17T01:37:31.547Z
-thumbnail: http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s72-c/2014-03-04+15.06.08.jpg
+thumbnail: /img/yayasan_board_2.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6567161020781209891
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html
 ---
@@ -30,15 +30,15 @@ We left the board as it was on the Friday and started the week by reminding ours
 
 The board looked like this when we started the week:
 
-![Board Image](http://4.bp.blogspot.com/-b3JXWWdGUtI/UxsRVMUzhlI/AAAAAAAACDQ/bP1cT2mKAsc/s1600/2014-03-04+15.06.08.jpg)
+![Board Image](/img/yayasan_board_2.jpg)
 
 Pretty soon we realized that rather than use the limit as a max we filled the Doing column to the limit all the time. This caused a problem in more than one way, since it did not only hurt our focus and the lead time for the items. But also we started to have a hard time, actually see items. Here you can see how things are hiding under each other.
 
-![Board Image](http://4.bp.blogspot.com/-0AVQV3FBiMo/UxsRTGqqqII/AAAAAAAACDI/BsBFrRNZAxQ/s1600/2014-03-04+15.05.58.jpg)
+![Board Image](/img/yayasan_board_3.jpg)
 
 To make some more room we moved all the items from the Done-column over to a very simple report. Here's the first version of it:
 
-![Report Image](http://4.bp.blogspot.com/-JwWxC_Ps_NA/UxsSIRhYEbI/AAAAAAAACDY/ENBP09xwOaM/s1600/2014-03-04+08.09.01.jpg)
+![Report Image](/img/yayasan_count.jpg)
 
 One thing that is recurring and ruins our flow is that we have to wait for a lot of things. We have created a waiting column (Tunggu in Indonesian) but often it's full of items (7 is our "record" so far).
 
@@ -49,7 +49,7 @@ To get some more control over what happened we decide to do two things with item
 
 Here is how the Tunggu-column looked one day:
 
-![Waiting Column Image](http://4.bp.blogspot.com/-GexY2k1xiR8/UxsTagnAuUI/AAAAAAAACDw/Lo1kSIcxDrM/s1600/wating+column.png)
+![Waiting Column Image](/img/yayasan_wating_column.png)
 
 Note that the Waiting-column is part of the Doing-column. The items in there are just waiting for someone and still take up our attention and focus. So with 6 items in Waiting we only had 8 items to work with.
 
@@ -59,7 +59,7 @@ We also added a new criteria for putting items in the Todo-column: They need a "
 
 Some items are such in nature that we don't know the definition of done when we start (investigations for example). We agreed to put timeboxes for them instead. One example was the timebox we put in place to find a simple way to do reporting.
 
-![Board Image](http://3.bp.blogspot.com/-UJi79wz6zh4/UxsTJbPHKeI/AAAAAAAACDo/z_SQp-Pva0U/s1600/2014-03-06+14.15.43.jpg)
+![Board Image](/img/yayasan_board_3.jpg)
 
 Finally, oh I longed for this, I went up to the board and changed our Work in process limit from 14 to 12. And then asked the team:
 
