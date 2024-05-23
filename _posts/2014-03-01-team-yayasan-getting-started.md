@@ -79,16 +79,16 @@ Oh man, this blog post grew much longer than I wanted it to. Sorry, but it's pro
 
 On Monday I ran the Pass the Pennies exercise with the team ([now where I is that described and explained? If only there was a book or something that...](http://bit.ly/theKanbanBook) psst chapter 13). I've found exercises or games like these very useful later in the teams development as you can always refer back to them. "This is just like us adding more coins to the game..."
 
-![Exercise](http://4.bp.blogspot.com/-XBBB8fFMRR0/UxGAWL2GGXI/AAAAAAAACCU/hr8c7qDWpoY/s1600/2014-02-24+08.26.54.jpg)
+![Exercise](/img/yayasan_exercise.jpg)
 
 After that we had a discussion about limiting the number of things we do. We then went down to our office and created a very simple board. On a cupboard. Here's our first version.
 
-![Board](http://1.bp.blogspot.com/-_xrFdcPVV3A/UxF_pRg6fBI/AAAAAAAACB8/l3TCx4xRqCg/s1600/2014-02-24+09.41.26.jpg)
+![Board](/img/yayasan_board.jpg)
 
 We agreed on doing a short standup each morning after devotional to talk about what's up to day. We also started, thanks to an awesome suggestion from Elin, to put up a map over all the hospitals and clinics.
 To make us remember who we worked for.
 
-![Map](http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s1600/2014-02-26+08.34.51.jpg)
+![Map](/img/yayasan_board.jpg)
 
 Finally I added the keywords that we had on our site, on the wall too.
 Just as a reminder.
@@ -111,7 +111,7 @@ We agreed to try to do something about these issues next week. We suggested two 
 
 This is the final board after the first week:
 
-![Board](http://4.bp.blogspot.com/-vG5JC1Vt9xQ/UxGAGTmLkMI/AAAAAAAACCE/g5153yD8uIQ/s1600/2014-02-28+15.51.37.jpg)
+![Board](/img/yayasan_board_final.jpg)
 
 ### Summary
 
