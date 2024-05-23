@@ -10,7 +10,7 @@ tags:
   - Agile
   - Indonesia
 modified_time: 2014-03-17T01:37:31.541Z
-thumbnail: http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s72-c/2014-02-26+08.34.51.jpg
+thumbnail: /img/yayasan_map.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1338677593036398302
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-getting-started.html
 ---
@@ -29,7 +29,7 @@ You probably wonder about "Yayasan" and what that means, so I thought I'd give a
 
 Yayasan is Indonesian for Foundation and the Foundation we talk about here is the Health Foundation of the Salvation Army in Indonesia. Or Yayasan for short. The Yayasan organize the work of 6 hospitals and 13 clinics spread out over the entire country (or territory in Salvation Army speak) which we shown on this map:
 
-![Map](http://3.bp.blogspot.com/-HmAj5H5lOwU/UxGAG_NetAI/AAAAAAAACCI/4iZj3EjBQ6Y/s1600/2014-02-26+08.34.51.jpg)
+![Map](/img/yayasan_map.jpg)
 
 My tasks coming to Indonesia was to be a consultant to the Yayasan. However when I got here my first reactions was that the Yayasan was just a couple of boards (Management Board, Trustee board and Supervisory board) that directed and controlled the work of the Yayasan. No one did the work. There was a single women that was the "operations" parts of Yayasan. Amazing as she is that was not sufficient.
 
