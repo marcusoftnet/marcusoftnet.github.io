@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2014-07-19T12:26:51.129Z
-thumbnail: http://4.bp.blogspot.com/-HpPbiNXxq_o/U8k2jRE46fI/AAAAAAAAFBo/jneZ9bCoIV8/s72-c/2014-06-23+09.43.19.jpg
+thumbnail: /img/2014-06-23+09.43.19.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9115606127894985354
 blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-lego.html
 ---
@@ -34,7 +34,7 @@ What felt good? What felt bad? When did you have the most fun? When did you see 
 
 ### My Reflections
 
-![Building Lego](http://4.bp.blogspot.com/-HpPbiNXxq_o/U8k2jRE46fI/AAAAAAAAFBo/jneZ9bCoIV8/s1600/2014-06-23+09.43.19.jpg)
+![Building Lego](/img/2014-06-23+09.43.19.jpg)
 
 I quickly got hold of the instructions book and read from it, meaning that my son didn't really understand how to read these instructions.
 
@@ -60,4 +60,4 @@ The analogies I drew from this were when I have done very hands-on coaching, sho
 
 *PS: I of course have to show the finished product.*
 
-![Lego House Finished](http://3.bp.blogspot.com/-xAzsPH8QD40/U8k2TGkGokI/AAAAAAAAFBg/FLiipCg-_GQ/s1600/2014-07-02+17.45.52.jpg)
+![Lego House Finished](/img/2014-07-02+17.45.52.jpg)

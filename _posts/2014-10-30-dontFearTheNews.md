@@ -7,12 +7,12 @@ tags:
   - Marcus private
   - Life of a consultant
 modified_time: 2014-10-30
-thumbnail: http://1.bp.blogspot.com/-NBHYux_gKvg/VFG1Hr22e-I/AAAAAAAAIgk/W8ONkkq1NIA/s72-c/253323619_eb37d646b9_m.jpg
+thumbnail: /img/253323619_eb37d646b9_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8050334069200900800
 blogger_orig_url: http://www.marcusoft.net/2014/10/dontFearTheNews.html
 ---
 
-![Goldfish by josullivan.59](http://1.bp.blogspot.com/-NBHYux_gKvg/VFG1Hr22e-I/AAAAAAAAIgk/W8ONkkq1NIA/s1600/253323619_eb37d646b9_m.jpg)
+![Goldfish by josullivan.59](/img/253323619_eb37d646b9_m.jpg)
 
 *Goldfish by [josullivan.59](https://www.flickr.com/photos/josullivan59/), used under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/2.0/)*
 
@@ -40,4 +40,4 @@ I hinted in the heading that there's a certification around this methodology. Yo
 
 For reference - here is my certificate:
 
-![Certificate](http://3.bp.blogspot.com/-kgWsuHhhXTA/VFG79U7yllI/AAAAAAAAIg0/cUW6KSXiUhA/s1600/Screen%2BShot%2B2014-10-30%2Bat%2B11.17.33%2B.png)
+![Certificate](/img/Screen%2BShot%2B2014-10-30%2Bat%2B11.17.33%2B.png)

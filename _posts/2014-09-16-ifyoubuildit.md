@@ -11,7 +11,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-11-04T02:49:01.421Z
-thumbnail: http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s72-c/kanbanInAction.smells.jpg
+thumbnail: /img/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916
 blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html
 ---
@@ -32,20 +32,20 @@ The first thing is pretty obvious ... and not. If you want people to notice, und
 
 An excel list is much harder to digest and interpret than a board with cards in different columns. Or a diagram showing a visual representation of the data.
 
-![Kanban in Action](http://1.bp.blogspot.com/-2bnUPFODVsU/VBadmSoe_4I/AAAAAAAAHBo/KPMfDiszRe4/s1600/kanbanInAction.smells.jpg)
+![Kanban in Action](/img/kanbanInAction.smells.jpg)
 
 Consider the picture, from [our book](http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/), next to this paragraph. Consider the amount of status, problems, and information that this picture tells you. And we have not even written what the cards are about, they are just empty.
 
 ### Make it In Your Face
 
-![In Your Face](http://1.bp.blogspot.com/-YhR7fZuoCMQ/VBak6chi3eI/AAAAAAAAHB0/IzZK8DsWABQ/s1600/206413799_7c68420938_z.jpg)
+![In Your Face](/img/206413799_7c68420938_z.jpg)
 *By [Arthur](https://www.flickr.com/photos/nycarthur), used under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/2.0/)*
 
 Another thing that I've found invaluable is to make the information as apparent as possible. Put it on the wall or leave the big whiteboard out all the time. Boards and other visualizations that are rolled out or where you have to start a projector or pull down a screen are soon forgotten and the information grows stale and unused.
 
 ### Make it Big
 
-![Big Visualizations](http://4.bp.blogspot.com/-NAgJkxapOEg/VBaquSjMzAI/AAAAAAAAHCE/PYkEIKt3_OM/s1600/5550789546_9dccc9f90e_z.jpg)
+![Big Visualizations](/img/5550789546_9dccc9f90e_z.jpg)
 *By [Tambako The Jaguar](https://www.flickr.com/photos/tambako), used under [Creative Commons](https://creativecommons.org/licenses/by-nd/2.0/)*
 
 This is related to the point above but something that I've often found overlooked. Hence important information is overlooked and disregarded, which leads to less learning and fewer improvements.
@@ -58,7 +58,7 @@ This is crucial for the "live" feeling of the data. Make your visualization in a
 
 If you want people to react (possibly even change their behavior), you first need them to understand. Trying to simplify and aggregate the information to only show the most important things has proven very useful for me when it comes to getting people to understand.
 
-![Example Visualization](http://3.bp.blogspot.com/-YWAYVVVFGkI/VBeZ-BdhMAI/AAAAAAAAHEw/OvdGaEuE74I/s1600/board.png)
+![Example Visualization](/img/board.png)
 
 The [latest experience](http://www.marcusoft.net/2014/09/simplerQuestion.html) I have around this is a great example of what I mean. We created a diagram that we wanted all the staff to know about. It's about how many customers that we serve each day at this company and what our target is.
 
