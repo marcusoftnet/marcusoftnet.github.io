@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Between the Chairs: Some Thoughts on Backlogs and Things Outside Them
+title: Between the Chairs Some Thoughts on Backlogs and Things Outside Them
 date: 2013-03-05T14:07:00.001Z
 author: Marcus Hammarberg
 tags:

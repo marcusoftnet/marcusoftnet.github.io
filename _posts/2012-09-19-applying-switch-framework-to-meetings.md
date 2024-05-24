@@ -42,7 +42,7 @@ This post talks about directing the rider - read on about [Motivating the elepha
 
 One very effective and simple way to get change is to follow the bright spots. What works? Who has got this down? Where is the best place to see the change implemented today?
 
-![The Baseball Travellers](img/bowl-of-rice.jpg)
+![The Baseball Travellers](/img/bowl-of-rice.jpg)
 
 In the Switch book a story around this is about a doctor trying to help poor peasants to overcome starvation and save children that died from not having enough to eat. What he simply did was to see what the mothers did for the kids that actually survived - because those existed. They did simple things differently (for example feeding the kids 4 times a day instead of 2 (same amount of food in total) or adding other vegetables instead of rice every now and then).
 
