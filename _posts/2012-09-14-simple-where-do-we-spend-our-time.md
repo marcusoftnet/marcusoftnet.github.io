@@ -8,7 +8,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2012-10-05T08:31:36.272Z
-thumbnail: http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s72-c/work+item+types.JPG
+thumbnail: /img/work+item+types.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
@@ -52,21 +52,21 @@ So we agreed that we wanted something really lightweight but also really enough 
 
 Firstly all the stickies on the board are just in 2 colors; Reactive work and other work.
 
-![work item types](http://2.bp.blogspot.com/-bxNr2EPlb9c/UFLimV37OOI/AAAAAAAABXw/0PXZ_3EBzxA/s320/work+item+types.JPG)
+![work item types](/img/work+item+types.JPG)
 
 This means that you can easily take a glance at our board at anytime and see what's going on that the **current** distribution between reactive and proactive work
 
-![our board](http://4.bp.blogspot.com/-tZcm6EzinkE/UFLik2vIafI/AAAAAAAABXk/clx_3_PRJsc/s320/our+board.jpg)
+![our board](/img/our+board.jpg)
 
 To follow up we did a small board on the side (with a HORRIBLE background color, sorry about that) that is updated by each person around the daily standup each morning. It simply shows where you spent your time mostly the day before.
 
-![time spent tracker](http://4.bp.blogspot.com/-OHqTw7WW9gU/UFLiliDVMmI/AAAAAAAABXs/QSF0_hexvK4/s320/time+spent+tracker.JPG)
+![time spent tracker](/img/time+spent+tracker.JPG)
 
 Yes, we're tracking days that was mostly spent in meetings too, on the yellow stickies (some people have a hard time making out the color, hence the Swedish word for yellow, GUL, written on them). Somedays are swallowed up in meetings, which you can see.
 
 **UPDATE:** We started to track the trends updating them weekly. Here is how it's spread for the first couple of weeks:
 
-![bild](http://3.bp.blogspot.com/-F4QVmvVW_sw/UG6a0oehbNI/AAAAAAAABY8/IAsikqTdU1I/s320/bild+(2).JPG)
+![bild](/img/bild+(2).JPG)
 
 It's a rolling buffer just showing the last week. We take photos of it a little now and then to get an overview. So here you can see that during the last week the distribution was a bit different than before.
 

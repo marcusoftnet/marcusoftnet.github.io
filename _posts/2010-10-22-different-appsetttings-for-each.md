@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Visual Studio
 modified_time: 2010-12-14T15:17:50.660Z
-thumbnail: http://2.bp.blogspot.com/\_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s72-c/localsettings.JPG
+thumbnail: /img/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
 blogger_orig_url: http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
 ---
@@ -26,17 +26,17 @@ Here is what we did:
 
 We created a localAppSettings.config that contains the AppSettings that we want to override. Please note that this only contains . No -nodes in here. Here is what it looks like:
 
-![localsettings](http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGTGC3m5I/AAAAAAAAAo4/Vjz4vce3L4Q/s320/localsettings.JPG)
+![localsettings](/img/localsettings.JPG)
 
-We then changed the app.config to contain our standard configuration and to point to the localAppSettings.config. Please note that the path is relative TO THE PLACE WHERE THE TEST ARE RUN. In my case that was in *C:/Dev/Puls/Dev/PulsNet/GUI/PulsGui/LF.LIV.PEAAT/TestResults/localadmin_LF-E7A7A8B75E99%202010-10-22%2009_17_31/Out/* so the relative path is ... strange.
+We then changed the app.config to contain our standard configuration and to point to the localAppSettings.config. Please note that the path is relative TO THE PLACE WHERE THE TEST ARE RUN. In my case that was in `C:/Dev/Puls/Dev/PulsNet/GUI/PulsGui/LF.LIV.PEAAT/TestResults/localadmin_LF-E7A7A8B75E99%202010-10-22%2009_17_31/Out/` so the relative path is ... strange.
 
 Here is how our app.config appsettings look like:
 
-![app config](http://3.bp.blogspot.com/_TI0jeIedRFk/TMFGSxbnL1I/AAAAAAAAAo0/jof6Ic7_xOA/s320/app+config.JPG)
+![app config](/img/app+config.JPG)
 
 Finally we set the localAppSettings.config to be excluded from source control as I explained [in the last post.](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
 
-![solution](http://2.bp.blogspot.com/_TI0jeIedRFk/TMFGSL1yu3I/AAAAAAAAAow/TVmTgoHVyns/s1600/solution.JPG)
+![solution](/img/solution.JPG)
 
 This solution is much nicer with a lower impact for everyone... including the build server.
 
