@@ -10,7 +10,7 @@ tags:
   - Agile
   - Salvation Army
 modified_time: 2014-03-24T05:44:15.030Z
-thumbnail: http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s72-c/throughput+1.jpg
+thumbnail: /img/throughput_1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2414901018966712482
 blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html
 ---
@@ -19,7 +19,7 @@ The last week the blog post turned long. Sorry. This meant to just be short upda
 
 The first thing I did this week was to create a diagram over our throughput; the number of items we're getting done per week. And it looked pretty bleak. And was about to get worse... Here's how it looked at the beginning of the week.
 
-![Throughput trend at the start of the week](http://3.bp.blogspot.com/-C42tlxuNfLw/Uy-qRodILlI/AAAAAAAACGc/xjaY9qa-zaA/s1600/throughput+1.jpg)
+![Throughput trend at the start of the week](/img/throughput_1.jpg)
 
 That's not looking good, right. I think I can explain it... and I think that I shouldn't care too much about data with these few data points.
 
@@ -27,13 +27,13 @@ A lot of the things that we are doing require third part input. Someone else nee
 
 If you remember in the [second post](http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html) we created a special section of our Doing column called Tunggu (waiting). This is how it looks most days:
 
-![Tunggu section](http://1.bp.blogspot.com/-Kg-g-uCJ1jQ/Uy-roNQTyZI/AAAAAAAACGw/wYANSOKM1fk/s1600/2014-03-24+10.44.28.jpg)
+![Tunggu section](/img/yayasan_board_4.jpg)
 
 We have put a dot on our Reason-sticky to indicate how many days we have waited. Yeah, that's 13 dots  for the one on the left there. And we have worked maybe 2 hours on that one....
 
 Also, this week we started 4-5 new items that was Large or Medium. Meaning that they will take some time before they are finished. And accordingly, after this week our throughput looked like this:
 
-![Throughput at the end of the week](http://1.bp.blogspot.com/-s4SKJwr-Izg/Uy-qR1bpt5I/AAAAAAAACGg/Wtwu993dS7U/s1600/throughput+2.jpg)
+![Throughput at the end of the week](/img/throughput_2.jpg)
 
 Bleaker still... But this can be explained and teach us all something about the relationship between lead time and throughput. And the danger of just focusing on one metric.
 
