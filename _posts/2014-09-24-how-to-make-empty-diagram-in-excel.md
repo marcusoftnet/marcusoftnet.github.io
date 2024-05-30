@@ -9,12 +9,12 @@ tags:
   - Kanban
   - Agile
 modified_time: 2014-09-25
-thumbnail: http://2.bp.blogspot.com/-kixtMADNPsg/VCJKEqjpWxI/AAAAAAAAHig/De1YqMiIcYc/s72-c/board.jpg
+thumbnail: /img/board.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2332663668202321971
 blogger_orig_url: http://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-excel.html
 ---
 
-![Empty Diagram](http://2.bp.blogspot.com/-kixtMADNPsg/VCJKEqjpWxI/AAAAAAAAHig/De1YqMiIcYc/s1600/board.jpg)
+![Empty Diagram](/img/board.jpg)
 
 If I don't write this down, I will forget it before the end of the day. That right there was the reason I started my blog, ca 900 posts ago.
 
@@ -50,7 +50,7 @@ DISCLAIMER: I'm no Excel-guru. This was a pretty fast way, once I found it, to g
    
 5. Once that is done, you might have something that looks like this:
 
-   ![Formatted Diagram](http://2.bp.blogspot.com/-W3KaKa2-G2s/VCK1SMOIhVI/AAAAAAAAHkI/nihwPdcp3xc/s1600/Screen%2BShot%2B2014-09-24%2Bat%2B19.12.42%2B.png)
+   ![Formatted Diagram](/img/pasien_chart_2.png)
 
 6. Now, let's make this an empty diagram by not removing but hiding the "Number of customers" line. If you remove the line, the diagram collapses or expands depending on where your thresholds are set. But you can hide the line. Here's how:
 
@@ -60,7 +60,7 @@ DISCLAIMER: I'm no Excel-guru. This was a pretty fast way, once I found it, to g
 
 7. Finally, we now have a nice empty diagram that looks like this:
 
-   ![Empty Diagram](http://3.bp.blogspot.com/-iEemWzBhMPs/VCK2LDLgYfI/AAAAAAAAHkQ/Wg11WG6ulxs/s1600/Screen%2BShot%2B2014-09-24%2Bat%2B19.16.30%2B.png)
+   ![Empty Diagram](/img/empty_chart_1.png)
 
    What we did with this was to print it in 70x100 cm and laminate it in plastic. Now we can plot in the monthly stats and then erase it for each new month. We also thought about putting it behind glass but decided against it because that would make it much more bulky.
 
