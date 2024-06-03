@@ -9,7 +9,7 @@ tags:
   - .NET
   - SpecFlow
 modified_time: 2010-12-16T21:14:19.582Z
-thumbnail: http://3.bp.blogspot.com/\_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s72-c/step+definition+example+report.png
+thumbnail: /img/step_definition_example_report.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3594256389110553732
 blogger_orig_url: http://www.marcusoft.net/2010/12/know-where-you-stepgenerate-step.html
 ---
@@ -26,7 +26,7 @@ SpecFlow.exe stepdefinitionreport Specs\Specs.csproj
 
 That produces a report as follows:
 
-![step definition example report](http://3.bp.blogspot.com/_TI0jeIedRFk/TQqBIsralMI/AAAAAAAAAqQ/sd0c8q_VuaU/s320/step+definition+example+report.png)
+![step definition example report](/img/step_definition_example_report.png)
 
 The report could be very useful I think especially if you have a large project with loads of steps.
 

@@ -8,7 +8,7 @@ tags:
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.524Z
-thumbnail: http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s72-c/Screen+Shot+2014-02-04+at+20.38.36+.png
+thumbnail: /img/Screen+Shot+2014-02-04+at+20.38.36+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-65862151838481954
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-express.html
 ---
@@ -26,7 +26,7 @@ I'm writing down some of the things I've picked up when I started to learn about
 - Express is best without generators - this post
 - [supertest is a nice way to test an api](http://www.marcusoft.net/2014/02/mnb-supertest.html)
 
-This post is about the most commonly used web framework in Node: [Express](http://expressjs.com/). Node in itself is pretty cool and the three-line web server is mind-blowing at first sight. Pretty soon though you want something that is a bit friendlier to code against. Most people seem to go with [Express](http://expressjs.com/). From their web page, we read:
+This post is about the most commonly used web framework in Node: [Express](http://expressjs.com/). Node in itself is pretty cool, and the three-line web server is mind-blowing at first sight. Pretty soon though, you want something that is a bit friendlier to code against. Most people seem to go with [Express](http://expressjs.com/). From their web page, we read:
 
 > Express is a minimal and flexible node.js web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 
@@ -35,13 +35,13 @@ Couldn't agree more. The only thing is... most tutorials on Express use the gene
 - It sets up a complete site when I just want to do an API.
 - That site defaults to server-side generation when I want to serve a static JavaScript client.
 
-Nowadays I tend to default to a simple backend API (see, I didn't even write REST API just to avoid religious battles. Smooth operator :)), that just serves JSON and then a JavaScript client that calls into that API, using [AngularJS](http://angularjs.org/) for example.
+Nowadays, I tend to default to a simple backend API (see, I didn't even write REST API just to avoid religious battles. Smooth operator :)), that just serves JSON and then a JavaScript client that calls into that API, using [AngularJS](http://angularjs.org/) for example.
 
-I don't need Jade, Sessions, and folders for controllers, etc. My whole API will be 1-5 files depending on how modular I'm feeling. I might need a public folder but that's easy enough to fix.
+I don't need Jade, Sessions, and folders for controllers, etc. My whole API will be 1-5 files depending on how modular I'm feeling. I might need a public folder, but that's easy enough to fix.
 
 So my suggestion is that you ditch the [generators (powerful as they are)](http://expressjs.com/guide.html#executable) and drop down to bare-bones [Express](http://expressjs.com/). You'll find a very powerful and terse framework that resembles [NancyFx](http://nancyfx.org/) a lot. Ah, well, it resembles [Sinatra](http://www.sinatrarb.com/) too, but Nancy is cooler.
 
-In fact, on their [guide page](http://expressjs.com/guide.html#executable), [ExpressJs](http://expressjs.com/) is showing you the minimal version first. And we can write the ubiquitous fit-in-a-tweet-web application:
+In fact, on their [guide page](http://expressjs.com/guide.html#executable), [ExpressJs](http://expressjs.com/) is showing you the minimal version first. And we can write the ubiquitous fit-in-a-tweet web application:
 
 ```javascript
 var express = require('express');
@@ -58,22 +58,22 @@ This little application just responds with "Hello World" when you access it on [
 
 ### Understanding Express
 
-The API for Express is very easy and in fact, there are just a couple of basic things that you need to know in order to start coding up an API. Things are considerably easier when we're just dishing out JSON rather than creating a complete site.
+The API for Express is very easy and, in fact, there are just a couple of basic things that you need to know in order to start coding up an API. Things are considerably easier when we're just dishing out JSON rather than creating a complete site.
 
-As always this is just the things that I've used and got to know. You should check out the [API documentation](http://expressjs.com/api.html), it's great. And the [starting guide](http://expressjs.com/guide.html) is also nice.
+As always, this is just the things that I've used and got to know. You should check out the [API documentation](http://expressjs.com/api.html), it's great. And the [starting guide](http://expressjs.com/guide.html) is also nice.
 
-First and foremost you should create an Express application. This is super simple since that's what the `express()` function returns. Like this:
+First and foremost, you should create an Express application. This is super simple since that's what the `express()` function returns. Like this:
 
 ```javascript
 var express = require('express');
 var app = express();
 ```
 
-In the little tweet example above you saw the `app.get()` function in action. The really good news is that all the HTTP verbs act in the same manner. They take a URL path and a callback function.
+In the little tweet example above, you saw the `app.get()` function in action. The really good news is that all the HTTP verbs act in the same manner. They take a URL path and a callback function.
 
 You can understand it as: "when somebody *Posts* to '/orders/', execute this function that I'm writing here".
 
-As I said the path parameter can contain parameters that we easily get hold of via the `req.params` property. Here's an example of a get to a URL with a parameter, called id:
+As I said, the path parameter can contain parameters that we easily get hold of via the `req.params` property. Here's an example of a get to a URL with a parameter, called id:
 
 ```javascript
 app.get('/users/:id', function(req, res) {
@@ -81,7 +81,7 @@ app.get('/users/:id', function(req, res) {
 });
 ```
 
-Often your clients will be sending data in the body of the HTTP request. Express provides an easy way to extract those by using the middleware `bodyParser()` (see below). Which gives us this easy way to access the body data:
+Often your clients will be sending data in the body of the HTTP request. Express provides an easy way to extract those by using the middleware `bodyParser()` (see below). This gives us an easy way to access the body data:
 
 ```javascript
 app.post('/users', function(req, res) {
@@ -90,23 +90,23 @@ app.post('/users', function(req, res) {
 });
 ```
 
-To this you can post an HTTP form like this (using the awesome [Postman extension for Chrome](http://www.getpostman.com/)):
+To this, you can post an HTTP form like this (using the awesome [Postman extension for Chrome](http://www.getpostman.com/)):
 
-![Screen Shot](http://2.bp.blogspot.com/-1qNQ7SOosMg/UvDtzj8PjNI/AAAAAAAAB7M/gk0bNXl-_E8/s1600/Screen+Shot+2014-02-04+at+20.38.36+.png)
+![Screen Shot](/img/Screen+Shot+2014-02-04+at+20.38.36+.png)
 
-Sometimes, or rather after a while, writing the functions inline gets a bit messy. You can then write the handling code in a separate module and include that. Express, default, puts these in a folder called "routes", but we can do as we want.
+Sometimes, or rather after a while, writing the functions inline gets a bit messy. You can then write the handling code in a separate module and include that. Express, by default, puts these in a folder called "routes", but we can do as we want.
 
 Note that I'm using the `exports` keyword in the `userHandler.js` file. That lets the function be visible to other modules. I used the name `handler` as a nod to a way we created frameworks in the 90s. Everything that we really didn't know what to name was "handler". It should maybe have been "controller" in this case...
 
-You return data via the response-object that is passed to the callback function for your route, often called `res` but you can of course name it whatever you want. The simplest is just to do `send` as we've seen a lot of examples of already.
+You return data via the response-object that is passed to the callback function for your route, often called `res`, but you can of course name it whatever you want. The simplest is just to do `send` as we've seen a lot of examples of already.
 
-When you send JSON back there's a special method for that. The content-type will automatically be set to "application/json" for you when using this method as a nice little service to you.
+When you send JSON back, there's a special method for that. The content-type will automatically be set to "application/json" for you when using this method as a nice little service to you.
 
 ### Middleware
 
 At the heart of Express is the Connect middleware. For the most part, you don't need to care about Connect since it's nicely exposed as a couple of functions, but it's really how Express is stitched together.
 
-We have already seen the `bodyParser()` in action and here are a few others that I found useful:
+We have already seen the `bodyParser()` in action, and here are a few others that I found useful:
 
 #### basicAuth
 
@@ -114,11 +114,11 @@ We have already seen the `bodyParser()` in action and here are a few others that
 
 #### directory and static
 
-`directory()` - that helps you configure directories, together with `static()` it can help you to serve up static files; like your client-side JavaScript application for example.
+`directory()` - that helps you configure directories. Together with `static()`, it can help you to serve up static files, like your client-side JavaScript application for example.
 
-#### app.param() - an example of middleware, that is really powerful
+#### app.param() - an example of middleware that is really powerful
 
-The one middleware that impressed me the most, so far, is `app.param()`. This can help you do some really powerful stuff, in just a few lines of code. To show this I'm going to [lean on an example from this site](http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/) and walk you through it:
+The one middleware that impressed me the most, so far, is `app.param()`. This can help you do some really powerful stuff, in just a few lines of code. To show this, I'm going to [lean on an example from this site](http://webapplog.com/tutorial-node-js-and-mongodb-json-rest-api-server-with-mongoskin-and-express-js/) and walk you through it:
 
 ```javascript
 app.param('id', function(req, res, next, id) {
@@ -132,7 +132,9 @@ app.get('/user/:id', function(req, res) {
 });
 ```
 
-You could also do hard-coded paths, of course (like `/users`) and create a little snippet that loads users by id. This is shown to great effect in the documentation for `app.param()` and I've adapted it here:
+You could also do hard-coded paths, of course (like `/users`) and create a little snippet that loads users by id. This is shown to great effect in the documentation for `app.param()`,
+
+ and I've adapted it here:
 
 ```javascript
 app.param('userId', function(req, res, next, userId) {
@@ -147,4 +149,4 @@ app.get('/user/:userId', function(req, res) {
 
 ### Conclusion
 
-Yeah, as you can see express is not that hard and at the same time powerful. Just like we like it. I think you get to know the framework much better without the generators. Go old school and type it yourself!
+Yeah, as you can see, Express is not that hard and at the same time powerful. Just like we like it. I think you get to know the framework much better without the generators. Go old school and type it yourself!

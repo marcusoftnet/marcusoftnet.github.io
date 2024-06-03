@@ -12,7 +12,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-06-02T08:56:52.538Z
-thumbnail: http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s72-c/victory.gif
+thumbnail: /img/victory.gif
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310460295412389370
 blogger_orig_url: http://www.marcusoft.net/2014/02/HospitalImpactMap.html
 ---
@@ -31,7 +31,7 @@ The hospital director is a very young (28?) woman doctor who was promoted becaus
 
 Not a very envious situation, but she has will power and really wants to do something about this. I thought I'd try to help her get an action plan in order, since like for many of us in this situation, she wanted to do everything at once.
 
-![Happy](http://4.bp.blogspot.com/-ZKSV_7OQjhY/Uw7CtJeho3I/AAAAAAAACAw/sT99xQh_6oQ/s1600/victory.gif)
+![Happy](/img/victory.gif)
 
 This is not a blog post that will end with "... and now they are the richest hospital in Indonesia and the doctor has gone on to win the Noble prize in management". There will be no victory dance. We're not there.
 
