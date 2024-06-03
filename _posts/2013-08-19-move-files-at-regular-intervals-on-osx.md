@@ -7,7 +7,7 @@ tags:
   - Tools
   - Life of a consultant
 modified_time: 2013-08-19T13:05:55.135Z
-thumbnail: http://1.bp.blogspot.com/-BxLlj7TR9Vg/UhISm_Lq0JI/AAAAAAAABmY/TNAiogmrJo8/s72-c/Screen+Shot+2013-08-19+at+14.41.50+.png
+thumbnail: /img/Screen+Shot+2013-08-19+at+14.41.50+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7696849555794418675
 blogger_orig_url: http://www.marcusoft.net/2013/08/move-files-at-regular-intervals-on-osx.html
 ---
@@ -20,7 +20,7 @@ Ok - here we go:
 
 ### Automating moving files
 
-![The trigger happy Automator robot](http://1.bp.blogspot.com/-BxLlj7TR9Vg/UhISm_Lq0JI/AAAAAAAABmY/TNAiogmrJo8/s1600/Screen+Shot+2013-08-19+at+14.41.50+.png)
+![The trigger happy Automator robot](/img/Screen+Shot+2013-08-19+at+14.41.50+.png)
 
 Open Automator - I still have a problem with that cute robot holding a bazooka. I want to move files not blow them to heaven come. Well, well - open the Automator application.
 
@@ -40,7 +40,7 @@ To move the files we need another action called: "Move Finder Items". Search for
 
 When you're done your complete application looks like this:
 
-![Automator workflow](http://4.bp.blogspot.com/-C59ead7LJrg/UhIUivOlvZI/AAAAAAAABmk/8ZDF8z8qxG4/s320/Screen+Shot+2013-08-19+at+14.50.09+.png)
+![Automator workflow](/img/Screen+Shot+2013-08-19+at+14.50.09+.png)
 
 Save the application with a suitable name: MovePhotos.application for example.
 

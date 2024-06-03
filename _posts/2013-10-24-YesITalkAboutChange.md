@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-11-12T20:04:53.237Z
-thumbnail: http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s72-c/results_pass_the_pennies.png
+thumbnail: /img/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052
 blogger_orig_url: http://www.marcusoft.net/2013/10/YesITalkAboutChange.html
 ---
@@ -26,7 +26,7 @@ When I introduce people to Lean, I often play a little game with them. [Pass the
 
 We might end up with a result table like the one to the right. This is a result of running Pass the pennies. Each column represents the number of coins to pass per batch (or [Work In Process](http://en.wikipedia.org/wiki/Work_in_process) if you want). The rows are the individual workers' timings and the result for the First coin to arrive and the Total time.
 
-![Results](http://2.bp.blogspot.com/-OwX0UylNW0A/UmfQ6YiBI4I/AAAAAAAABu0/BB4Rc9-tVR4/s200/results_pass_the_pennies.png)
+![Results](/img/results_pass_the_pennies.png)
 
 Note the big difference for the 20-coin-batch result and the 1-coin-batch result. Also note what happens with the individual workers' timings.
 
@@ -38,7 +38,7 @@ Around this point, I often get interrupted, often from someone way in the back w
 
 > This all sounds nice in theory, but you know here, where I live, let's call it reality for the sake of argument, that stuff doesn't work. We need to wait for others, or there are third-party suppliers. Also, we have instructions that tell us to...
 
-![Oh no](http://1.bp.blogspot.com/-fSfvsHOuNjQ/UmfUSr9s5VI/AAAAAAAABu4/xk4Y1Um9p0I/s200/ohno.png)
+![Oh no](/img/ohno.png)
 
 I now realize that I've lost them and missed the most important point; that is what we want to change! Lean and Agile are not problem solvers - they're improvement opportunities finders.
 
@@ -62,7 +62,7 @@ I once visited a team that had a really bad reputation for being slow. It was a 
 
 It looked something like this:
 
-![Waiting](http://1.bp.blogspot.com/-skVSJRvw5PQ/UmjQxW9vyRI/AAAAAAAABvI/_SZwIVBKNW4/s400/Screen+Shot+2013-10-24+at+09.47.43+.png)
+![Waiting](/img/Screen+Shot+2013-10-24+at+09.47.43+.png)
 
 And, after we played the game, talked about Lean, and everyone had agreed that we were here to complete work items, not just be busy, the comment, of course, came:
 
@@ -88,7 +88,7 @@ That means that Toyota has a very clear and distinctive true north: one-piece-co
 
 In fact, they can (and are in fact doing this too), pose hypotheses of how changing their process would lead them closer to their goal. In doing so, they can allow themselves to experiment, in very small increments, and see if their hypothesis was confirmed or disproved. You can read more about this in the excellent book [Toyota Kata](http://www-personal.umich.edu/~mrother/Homepage.html).
 
-![Build Measure Learn](http://4.bp.blogspot.com/-Dz-S3gae76c/UmkAFJ0V_QI/AAAAAAAABvY/PqqZv4F0Lro/s200/buildmeasurelearn.png)
+![Build Measure Learn](/img/buildmeasurelearn.png)
 
 If you think that this sounds familiar, you would be right; it's how the [scientific method](http://en.wikipedia.org/wiki/Scientific_method) is lined out and hence how all major landmarks in science have been made. It's also the basis of the currently very popular [Lean Startup movement](http://theleanstartup.com/).
 

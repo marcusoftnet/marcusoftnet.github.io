@@ -7,7 +7,7 @@ tags:
   - Tools
   - Life of a consultant
 modified_time: 2013-07-29T08:50:31.650Z
-thumbnail: http://1.bp.blogspot.com/-B2MKCS6z8U8/UfYsaPJa9_I/AAAAAAAABjs/0WLSFog_0ig/s72-c/Screen+Shot+2013-07-29+at+10.48.11+.png
+thumbnail: /img/Screen+Shot+2013-07-29+at+10.48.11+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7497639516539350498
 blogger_orig_url: http://www.marcusoft.net/2013/07/export-all-images-from-word-doc.html
 ---

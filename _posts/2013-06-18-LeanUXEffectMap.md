@@ -8,7 +8,7 @@ tags:
   - Lean
   - Agile
 modified_time: 2013-06-18T19:18:25.753Z
-thumbnail: http://1.bp.blogspot.com/-8_0fODNcsQE/Ub9oQmn3VrI/AAAAAAAABhw/44Lsv73oLBQ/s72-c/Screen+Shot+2013-06-17+at+21.48.26+.png
+thumbnail: /img/Screen+Shot+2013-06-17+at+21.48.26+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-798473969077811208
 blogger_orig_url: http://www.marcusoft.net/2013/06/LeanUXEffectMap.html
 ---
@@ -50,7 +50,7 @@ The hypothesis is something that we think will make an impact. The experiment is
 
 Since I recently started to define an MVP with the help of my old favorite model, the effect map, I thought I would share how I did that via an example.
 
-#### The idea - The handyman service
+### The idea - The handyman service
 
 An IT effort starts, as I said, with an idea, good or bad, about how you can earn or save money. Let's imagine that I'm an entrepreneur and that this is my idea:
 

@@ -10,7 +10,7 @@ tags:
   - Tools
   - TDD
 modified_time: 2014-06-02T08:56:52.516Z
-thumbnail: http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s72-c/Screen+Shot+2014-02-01+at+20.05.01+.png
+thumbnail: /img/Screen+Shot+2014-02-01+at+20.05.01+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5065072872368802136
 blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-should.html
 ---
@@ -120,4 +120,4 @@ it("validates presence of email")
 
 This also makes for nicer reports, like this:
 
-![Thumbnail](http://3.bp.blogspot.com/-ONHsrONjpi4/Uu4xMOWdH1I/AAAAAAAAB6U/XmOgOFUgBvE/s1600/Screen+Shot+2014-02-01+at+20.05.01+.png)
+![Thumbnail](/img/Screen+Shot+2014-02-01+at+20.05.01+.png)
