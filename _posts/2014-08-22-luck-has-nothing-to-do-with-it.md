@@ -53,7 +53,7 @@ No... they really were not unlucky. They cut every corner they could think of. T
 
 ### Example 3 - Goal keepers
 
-![Peter "Pekka" Lindmark](http://4.bp.blogspot.com/-sAho1msrJYc/U_a9OeQzgcI/AAAAAAAAGCU/twvDoQjkQLE/s1600/pekka.jpg)
+![Peter "Pekka" Lindmark](/img/pekka.jpg)
 
 Sweden have a long tradition of awesome hockey goal keepers. One of the truly great ones was [Pekka Lindmark.](http://en.wikipedia.org/wiki/Peter_Lindmark) He famously said (if I remember correctly it right):
 

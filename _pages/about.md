@@ -53,6 +53,8 @@ By far the biggest thing I ever did was to write [Kanban In Action](http://bit.l
 
 Writing the book took about 2,5 years. Sometimes with a lot of frustration and work above our capacity. The pride and relief we felt when it was released was worth almost all of that work.
 
+The 
+
 If you haven’t got the book yet - get your’s today! We have done our very best to be both entertaining and informative.
 
 ### Salvation: The Bungsu Story

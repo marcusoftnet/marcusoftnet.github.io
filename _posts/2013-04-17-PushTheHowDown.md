@@ -11,7 +11,7 @@ tags:
   - Agile
   - SpecFlow
 modified_time: 2013-04-17T06:00:09.379Z
-thumbnail: http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s72-c/pushing+how+down.png
+thumbnail: /img/pushing+how+down.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8179040185480084998
 blogger_orig_url: http://www.marcusoft.net/2013/04/PushTheHowDown.html
 ---
@@ -85,7 +85,7 @@ Here we interact with the system to enter stuff and assert the output from the s
 
 Yes, there's a layered architecture right there. Here's how it looks in all it's glory:
 
-![pushing how down](http://1.bp.blogspot.com/-eDVUVeTVr08/UW0TAij0wwI/AAAAAAAABcc/Uu1E_90YclA/s400/pushing+how+down.png)
+![pushing how down](/img/pushing+how+down.png)
 
 1. Gherkin - the business readable scenario with focus on behavior. No HOW in here.
 2. Step definitions - simple, easy-to-understand realizations of the scenario steps. Propagate into a DSL/Driver object that interacts with the system under test
