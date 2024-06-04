@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Share your internet connection via WiFi on Windows 8.1
+title: Share Your Internet Connection via WiFi on Windows 8.1
 date: 2014-01-21T07:01:00.002Z
 author: Marcus Hammarberg
 tags:
@@ -8,84 +8,76 @@ tags:
   - Tools
   - Life of a consultant
 modified_time: 2014-10-05T12:18:39.121Z
-thumbnail: http://3.bp.blogspot.com/-8rPX2yoxHtc/Ut4bQmQgvFI/AAAAAAAAB2g/iG-Vu-z5u9s/s72-c/network+configuration+for+wifi+hotspot.png
+thumbnail: /img/network+configuration+for+wifi+hotspot.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-70385268225734244
 blogger_orig_url: http://www.marcusoft.net/2014/01/share-your-internet-connection-via-wifi.html
 ---
 
+For the first time in years, I'm using a Windows PC as my main computer. It's Windows 8.1, and thanks to a [great introduction video](http://www.hanselman.com/blog/TheMissingWindows8InstructionalVideo.aspx), the transition was quite smooth. Of course, there are things that I miss and keep doing wrong (right-click... had forgotten all about that one), but overall I'm happy.
 
+The first main issue I encountered was sharing my internet connection so that my phone could use it. Nothing strange really—I do this several times a day on my MacBook Pro, and it's dead simple. Click the Network symbol, select "Create network...", give it a name (and optional password), and you're done.
 
+So you can imagine my surprise when I started searching for this in Windows 8.1. There were guides on how to use [DOS commands and other configurations](http://www.youtube.com/watch?v=edc8V9hjUw4) or [stuff to download](http://virtualrouter.codeplex.com/) and install, which ended up crashing on me anyway.
 
+After a few frustrating moments, I found a solution that works, although it's not simple. I wouldn't let my mom do this, but she could probably set up a shared connection on a MacBook.
 
+There's a post that [describes this approach in great detail](http://techotv.com/windows-8-internet-sharing-wifi-hotspot-wireless-ad-hoc/), so this is the short version plus my gotchas.
 
-For the first time in years, I'm using a Windows PC as my main computer. It's Windows 8.1 and thanks to a <a href="http://www.hanselman.com/blog/TheMissingWindows8InstructionalVideo.aspx" target="_blank">great introduction video</a> the transition was quite nice. Of course there are things that I miss and keep doing wrong (right-click... had forgot all about that one), but overall I'm happy.
+### Creating the Hosted Network
 
-The first main thing that I ran into was when I was planning on sharing my internet connection so that my phone could use it. Nothing strange really. I do that several times a day on my MacBook Pro. And it's dead-simple too. Click the Network-symbol and go "Create network...", give it a name (and optional password) and you're done.
+First, create a .bat file with the following content:
 
-So you can imagine that I was surprised when I started to search for this in Windows 8.1. It was guides on how to use <a href="http://www.youtube.com/watch?v=edc8V9hjUw4" target="_blank">DOS-commands and other configuration</a>. Or <a href="http://virtualrouter.codeplex.com/" target="_blank">stuff that I should download</a> and install (and that ended up crashing on me anyway).
+```batch
+netsh wlan set hostednetwork mode=allow ssid=YourNetworkName key=YourPassword
+netsh wlan start hostednetwork
+```
 
-After a few hair pulls and, yes I admit, some screaming, I got around to a solution that at least works. Even though it's not simple. I wouldn't let my mom do this. And she could probably set up an shared connection on a Mac Book.
+This will create the hosted network (or hotspot if you prefer). The big gotcha here is that you need to run this with administrative privileges. But that's easy now that you have a .bat file. Right-click it and pick "Run as Administrator".
 
-There's a post that <a href="http://techotv.com/windows-8-internet-sharing-wifi-hotspot-wireless-ad-hoc/" target="_blank">describe this approach in great detail</a> and much better than me, so this is the short version + my gotchas.
-
-First, create a .bat-file with the following content.
-
-This will create the hosted network (or hotspot if you want). The big
-gotcha here is that you need to run this under Administrative
-privileges. But that's easy now that you have a .bat-file. Right-click
-it and pick "Run as Administrator".
-
-Oh yeah, remember to turn the WiFi on as well. If not you'll see a
-pretty decent error message so it's not biggie:
+Oh yeah, remember to turn the WiFi on as well. If not, you'll see a decent error message:
 
 > The wireless local area network interface is powered down and doesn't support the requested operation.
 
-### Let them use internet
+### Enabling Internet Access
 
-Well, that was not so hard, you think to yourself. And so did I. But now we actually need to let the hosted network use internet. Yes, I don't eally know what it's is in this stage, but it doesn't have internet access. It's just another network adapter. Probably named "Network connection 24" or something.
+Creating the network was the easy part. Now we need to let the hosted network use the internet. At this stage, it doesn't have internet access—it's just another network adapter, probably named "Network connection 24" or something.
 
 Here's what you need to do:
 
-![Picture](http://3.bp.blogspot.com/-8rPX2yoxHtc/Ut4bQmQgvFI/AAAAAAAAB2g/iG-Vu-z5u9s/s1600/network+configuration+for+wifi+hotspot.png)
+![Network Configuration](/img/network+configuration+for+wifi+hotspot.png)
 
-Open "Network and Sharing Center". This is easily done by a well-hidden gem of Windows 8.1.
+1. Open "Network and Sharing Center". This is easily done by typing "Network and" on the Start screen and selecting it.
+2. Click the link to your network connection that has access to the internet. In my case, it was the "Ethernet" network.
+3. Click Properties.
+4. Click the Sharing tab and check the top box ("Allow other network users to connect through this computer's Internet connection").
+5. Select your newly created hosted network.
 
-- Go to the Start-screen and just start typing "Network and" and it will show up for you to select.
-- Click the link to your network connection that has access to Internet. In my case the "Ethernet"-network.
-- Click properties
-- Click the Sharing-tab and check the top box ("Allow other network users to connect through this computer's Internet connection")
-- And ... select your newly created hosted network
+Yeah, sorry Mum. You won't pull that off. The good news is that this configuration only needs to be done once. Once configured, it will stay this way even if you shut down the hosted network, as long as the network continues to get the same name ("Network connection 9" for example).
 
-Yeah, sorry Mum. You wont pull that off. The only good news is that this configuration only needs to be done once. Once configured this will stay this way even if you shutdown the hosted network. As long as the network continues to get the same name ("Network connection 9" for example).
+The gotcha here was that the first time I did this, the internet access didn't show up for my hosted network for quite some time, although it worked from my phone. It was probably a refresh problem in the "Network and Sharing Center".
 
-The gotcha here was that the first time I did this the Internet access didn't show up for my hosted network for quite some time. Although it worked from my phone. It was some kind of refresh problem in the "Network and Sharing center" probably.
+### Troubleshooting
 
-### Problems
+Thanks to [Shirai](https://disqus.com/home/user/disqus_8bpw1NO5Db) for this tip: if your laptop cannot create the hotspot:
+- Open Network and Sharing Center.
+- Change Adapter Settings.
+- Right-click on your WiFi Adapter.
+- Select Properties.
+- Go to the Advanced tab.
+- Click on Adhoc support and set the value to Enable.
 
-Apparently some people have a few problems getting this far. Thanks to <a href="https://disqus.com/home/user/disqus_8bpw1NO5Db" target="_blank">Shirai</a>. 
+Thanks a bunch, Shirai!
 
-I've got this tip; if your laptop cannot create the hotspot:
-- open Network and Sharing Center
-- change Adapter Setting 
-- right click on your Wifi Adapter 
-- Properties 
-- Advanced tab 
-- Click on Adhoc support... 
-- set value - Enable.
+### Shutting Down the Network
 
-Thanks a bunch Shirai!
-
-### Shutting the network down
-
-Oh yeah, you might want to turn this off as well. That ~~easy~~ easier and just requires that you run the following command, from a command prompt with administrative privileges:
+You might want to turn off the network as well. This is easier and just requires you to run the following command from a command prompt with administrative privileges:
 
 ```bash
-netsh wlan
-stop hostednetwork
+netsh wlan stop hostednetwork
 ```
 
 ### Conclusion
 
-This is a real hustle and shouldn't have to be this hard. The setup I have now works fine, but it took me about 2 hours to try to get it to work. I hope you don't have to spend the same amount of time.
+This is a real hassle and shouldn't be this hard. The setup I have now works fine, but it took me about two hours to get it to work. I hope you don't have to spend the same amount of time.
 
-If anyone knows of a better, faster way of doing this: PLEASE let me know. I will happily delete this blog post.
+If anyone knows of a better, faster way of doing this, PLEASE let me know. I will happily delete this blog post.

@@ -83,7 +83,7 @@ What happened at those deployment periods, do you think?  
 
 At this time I gave a Lean presentation and I had a slide on continuous delivery in there. This made them angry. I tried to show them with a drawing like follows:
 
-![Continuous Delivery vs Stable IT](http://1.bp.blogspot.com/-cIfy_cFzJ1Y/U_bJLePzLFI/AAAAAAAAGC8/G7Ln01-2Du8/s1600/cd%2Bversus%2Bstable%2Bit.jpg)
+![Continuous Delivery vs Stable IT](/img/cd_versus_stable_it.jpg)
 
 To my surprise they said: well, your blue line is never stable. And if we just plan a little bit more ... next time will be without errors.
 ("And if you're lucky" ... I thought to myself)
