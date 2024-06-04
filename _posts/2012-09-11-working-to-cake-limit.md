@@ -9,7 +9,7 @@ tags:
   - Scrum
   - Agile
 modified_time: 2012-12-04T12:29:51.506Z
-thumbnail: 'http://2.bp.blogspot.com/-w_qio6tjuX0/UE5QG51lh6I/AAAAAAAABT8/8rmkm_bNWcw/s72-c/Screen+Shot+2012-09-10+at+22.39.42.png'
+thumbnail: /img/Screen+Shot+2012-09-10+at+22.39.42.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2885495205288364594
 blogger_orig_url: 'http://www.marcusoft.net/2012/09/working-to-cake-limit.html'
 ---
@@ -26,7 +26,7 @@ But using a more flow-based approach such as Kanban, there's nothing to hinder y
 
 I have now introduced the Cake limit in a number of teams I've been coaching. It's really quite simple; just put a Work in Process (WIP) limit on the Done-column of your board:
 
-![Cake Limit](http://2.bp.blogspot.com/-w_qio6tjuX0/UE5QG51lh6I/AAAAAAAABT8/8rmkm_bNWcw/s320/Screen+Shot+2012-09-10+at+22.39.42.png)
+![Cake Limit](/img/Screen+Shot+2012-09-10+at+22.39.42.png)
 
 When I first saw this, I thought it was a prank of some sort, so I asked the team. But "No," they explained, "when we've reached 40 items in the Done column, work starts to back up. And the only way to resolve that bottleneck is that the PO buys us a cake and congratulates us on a job well done." Simple and quite brilliant. You also reintroduce the all-too-easy missing celebrations, but based on the number of Done-items.
 

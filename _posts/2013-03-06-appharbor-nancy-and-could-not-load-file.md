@@ -9,7 +9,7 @@ tags:
   - .NET
   - ContinuousDelivery
 modified_time: 2013-03-06T10:35:19.266Z
-thumbnail: http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s72-c/Screen+Shot+2013-03-06+at+09.28.37+.png
+thumbnail: /img/Screen+Shot+2013-03-06+at+09.28.37+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2452370248443791950
 blogger_orig_url: http://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not-load-file.html
 ---
@@ -20,7 +20,7 @@ As we wanted something out there fast we built it with [NancyFx](http://www.nanc
 
 When a commit is pushed to AppHarbor the application is compiled and the test (if any) are run. That worked fine for us but then a stage is run that's called "Site precompilation".
 
-![Image](http://4.bp.blogspot.com/-BD7_e-V8lx0/UTb-Sh747XI/AAAAAAAABbs/KZKlNXi6keQ/s320/Screen+Shot+2013-03-06+at+09.28.37+.png)
+![Image](/img/Screen+Shot+2013-03-06+at+09.28.37+.png)
 
 That failed with the following error:
 
@@ -32,7 +32,7 @@ This had me for quite a while when I got a tip on "disabling precompilation". In
 
 The only thing was that I didn't understand the log. Hmmm ... haven't I been here before?
 
-![Image](http://2.bp.blogspot.com/-MerjpNT5euw/UTcbUy6hOLI/AAAAAAAABb8/iMgJ9Thm5Zc/s320/Screen+Shot+2013-03-05+at+20.20.54+.png)
+![Image](/img/Screen+Shot+2013-03-05+at+20.20.54+.png)
 
 OK, cutting to the chase here. The last part of the log comes from [AppHarbor](https://appharbor.com/)  In fact, the precompilation is a [AppHarbor](https://appharbor.com/) thing that can be turned off. Go to your application settings, navigate to Build and click the "Disable precompilation" button. It's enabled by default.
 

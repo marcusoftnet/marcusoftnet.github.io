@@ -11,7 +11,7 @@ tags:
   - C#
   - SpecFlow
 modified_time: 2014-06-21T00:09:55.466Z
-thumbnail: "http://4.bp.blogspot.com/-4ITuI6HkUQ0/UROeBmSi6nI/AAAAAAAABaY/TDU-LChRDVU/s72-c/Screen+Shot+2013-02-07+at+13.24.53+.png"
+thumbnail: /img/Screen+Shot+2013-02-07+at+13.24.53+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3220746848691426022
 blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting5.html
 ---
@@ -79,7 +79,7 @@ We now have all the parts for what I wanted to talk about in this post. Longest 
 
 Let's do a diagram over this:
 
-![Example Diagram](http://4.bp.blogspot.com/-4ITuI6HkUQ0/UROeBmSi6nI/AAAAAAAABaY/TDU-LChRDVU/s320/Screen+Shot+2013-02-07+at+13.24.53+.png)
+![Example Diagram](/img/Screen+Shot+2013-02-07+at+13.24.53+.png)
 
 The green boxes are code that you need to write (oh, well you need to write the .feature-file as well but that's not really code, right?). The rest of the picture is the frameworks work for us.
 

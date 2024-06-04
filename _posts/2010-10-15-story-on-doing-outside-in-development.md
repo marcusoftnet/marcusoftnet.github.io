@@ -7,7 +7,7 @@ tags:
   - BDD
   - .NET
   - SpecFlow
-thumbnail: http://2.bp.blogspot.com/_TI0jeIedRFk/TLiD5c8mP3I/AAAAAAAAAnM/Hk25KeDJi-s/s72-c/Screen+shot+2010-10-15+at+12.34.49.png
+thumbnail: /img/Screen+shot+2010-10-15+at+12.34.49.png
 ---
 
 Marcus Hammarberg embarks on an exploration of outside-in development with SpecFlow and ASP.NET MVC. In this narrative, he shares his journey from initial project setup to the implementation of specifications-driven code.

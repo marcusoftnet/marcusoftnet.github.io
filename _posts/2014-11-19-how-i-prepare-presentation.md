@@ -9,7 +9,7 @@ tags:
   - Kanban
   - Agile
 modified_time: 2014-11-20T03:01:43.904Z
-thumbnail: http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s72-c/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png
+thumbnail: /img/Screen_Shot_2014-11-19_at_10.51.42_.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
 blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
 ---
@@ -54,7 +54,7 @@ I've been blogging for about 8 years now. I like to write and I type pretty fast
 
 I write the script in markdown in my favorite editor [IaWriter](http://www.iawriter.com). Buy it now - you will not be disappointed.
 
-![Script](http://2.bp.blogspot.com/-i9Bd4Vcxsu4/VGwV-n6WcmI/AAAAAAAAJa8/1g9mtFxNiHY/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B10.51.42%2B.png)
+![Script](/img/Screen_Shot_2014-11-19_at_10.51.42_.png)
 
 First I just structure this as bullets but little-by-little I start to add content in there.
 
@@ -68,7 +68,7 @@ In fact that will prove useful in a little while.
 
 Any how, a finished version of that document might look something like the extract below. Or rather exactly like that.
 
-![Script 2](http://2.bp.blogspot.com/-rip2OL1bGjw/VGwXJIaXiaI/AAAAAAAAJbI/u8QbQrgdw_o/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B11.05.33%2B.png)
+![Script 2](/img/Screen_Shot_2014-11-19_at_11.05.33_.png)
 
 Some of the bullets might be empty for now. But it's mostly filled out. I tend to move things around a lot in this phase. And "cut and paste" (in my mind sometimes) from other presentations I've given.
 
@@ -82,7 +82,7 @@ Or [Prezi](http://prezi.com/) or some of the HTML tools. As you soon realise the
 
 One thing that have saved me a lot of time and helps me past creative blockage is to have a small introduction deck of me. Here's how it looks right now - I change it a lot:
 
-![Introduction](http://4.bp.blogspot.com/-z09G07OtPks/VGwZ44Ps-wI/AAAAAAAAJbU/5vBRp3Zmxko/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B11.17.09%2B.png)
+![Introduction](/img/Screen_Shot_2014-11-19_at_11.17.09_.png)
 
 This is the same basic introduction I do of myself for all talks. With this I also get started pretty quickly. I don't have to set up any fonts, or decide on background color etc. I just go.
 
@@ -98,11 +98,11 @@ I use the blank template for all my slide (no content) and for each I try to add
 
 Once that it can look something like this:
 
-![](http://4.bp.blogspot.com/-rY9qwbxrb34/VGwbRTUB4GI/AAAAAAAAJbg/DlCbaPO0hso/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B11.22.48%2B.png)
+![Sentence](/img/Screen_Shot_2014-11-19_at_11.22.48_.png)
 
 Limiting the presenter notes to 1-2 minutes of talk gives me quite a lot of slides, maybe 30-40 slides for the 45 minute talk. Just like I want it.
 
-![](http://4.bp.blogspot.com/-rnDPhKlz74w/VGw7X2YYDtI/AAAAAAAAJcE/s9jhvjfPXvo/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B13.40.16%2B.png)
+![All slides](/img/Screen_Shot_2014-11-19_at_13.40.16_.png)
 
 Quite often I find it hard to find a single word or concept that describes the thing I talk about. In those cases I split the slides into several, until I can find a word per slide. Giving me maybe 50 slides for 45 minutes.
 
@@ -112,7 +112,7 @@ After this I have a completed slide deck with short, descriptive words on each s
 
 ### Choosing pictures
 
-![](http://2.bp.blogspot.com/-Z8mx6d_5kDs/VGw28gSWYxI/AAAAAAAAJbw/NuAIu5Fi8Nw/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B13.08.24%2B.png)
+![Pictures](/img/Screen_Shot_2014-11-19_at_13.08.24_.png)
 
 I can still give a pretty descent talk at this point.
 
@@ -129,7 +129,7 @@ My thinking around the pictures:
 
 Once that is done my slide deck start to live up a bit:
 
-![](http://1.bp.blogspot.com/-VciF1sBWD5g/VGw280CLU2I/AAAAAAAAJb0/9EZTrA-hJT4/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B13.08.41%2B.png)
+![Alive](/img/Screen_Shot_2014-11-19_at_13.08.41_.png)
 
 At this point the presentation is more or less completed. I usually run through it a couple of times but usually that's also unnecessary since I have worked through it so many times. I know this by now. It's just to make sure that my nervosity doesn't take over.
 
@@ -137,8 +137,7 @@ At this point the presentation is more or less completed. I usually run through 
 
 I'm not rich. Neither am I a designer nor photographer. So I have to borrow stuff from others. You can do that but you have to know what you are borrowing and how to give credit for that. I primarily use two resources for my work: [Flickr](https://www.flickr.com/) and [Google Images](http://images.google.com/).
 
-
-![](http://2.bp.blogspot.com/-P4E1Md7_nDA/VG1WYUKgShI/AAAAAAAAJdM/NJ3H17ozZJ4/s1600/Screen%2BShot%2B2014-11-20%2Bat%2B09.43.42%2B.png)
+![Downloading pictures](/img/Screen_Shot_2014-11-20_at_09.43.42_.png)
 
 Let's talk about Google first. It's just a subset of the normal search that returns images. All images. You cannot use all of them right off. But you can let the tool help you. There's a "Search tool" button on the page of the search result. With it you can filter to only show pictures that you can reuse.
 
@@ -146,7 +145,7 @@ Note the different options here and then think about what you are doing. More on
 
 No - you should not disregard that. It's, in worst case, stealing and in best case just rude. Which ever picture you use make sure to credit the creator.
 
-![](http://3.bp.blogspot.com/-gYvlW8S4mSY/VG1WYdDpu_I/AAAAAAAAJdQ/MESu7FTFqIo/s1600/Screen%2BShot%2B2014-11-20%2Bat%2B09.47.47%2B.png)
+![Credit](/img/Screen_Shot_2014-11-20_at_09.47.47_.png)
 
 My favorite tool is Flickr. The quality of the pictures there is often much better. On their search you can also configure it to the things that you can use, under [Creative Commons](http://creativecommons.org/) for example.
 
@@ -156,7 +155,7 @@ I have a [link to a search with the Creative Commons filtering already set](http
 
 #### Licences
 
-![](http://3.bp.blogspot.com/-A_aIbyDumCM/VG1YuGmNS4I/AAAAAAAAJdg/5GC9NeUF2Io/s1600/Screen%2BShot%2B2014-11-20%2Bat%2B09.57.37%2B.png)
+![Licencese](/img/Screen_Shot_2014-11-20_at_09.57.37.png)
 
 While we're on the subject. What does those licenses mean... First you should be aware of if you are selling this material or presentation (commercial use). Secondly do you plan to modify the picture; adding to it or not.
 
@@ -170,7 +169,7 @@ Finally - spend 5 minutes watching this. You'll thank me later and can sleep sou
 
 I need to mention animations since they have been part of almost all presentations I've ever given. And [helped me](http://www.slideshare.net/marcusoftnet/kanbanboards) and [Joakim](http://joakimsunden.com/) to build reputation enough to get to [write a book](http://bit.ly/theKanbanBook).
 
-![](http://1.bp.blogspot.com/-gAaQEYG0N5g/VGw8P1GvSLI/AAAAAAAAJcM/WfTF6Drxy1s/s1600/Screen%2BShot%2B2014-11-19%2Bat%2B13.37.44%2B.png)
+![Animations](/img/Screen_Shot_2014-11-19_at_13.37.44_.png)
 
 Here is the gist on my take about animations; I avoid animations. Unless they are good. And animations are good to show progress and process. But I don't use them for flying, spinning or dropping pictures in.
 

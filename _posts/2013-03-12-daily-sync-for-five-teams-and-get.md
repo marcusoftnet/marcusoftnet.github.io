@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-03-12T08:00:05.592Z
-thumbnail: http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s72-c/Screen+Shot+2013-03-11+at+15.46.00+.png
+thumbnail: /img/Screen+Shot+2013-03-11+at+15.46.00+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2889868856905036157
 blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
 ---
@@ -45,7 +45,7 @@ We wanted the Daily Sync to have a purpose and be a meeting that is used for som
 
 This is our Daily Sync board as it looks today:
 
-![Daily Sync Board](http://2.bp.blogspot.com/-1LeietSKPd8/UT3uPWqRdNI/AAAAAAAABcM/NpeJ-4g27BM/s400/Screen+Shot+2013-03-11+at+15.46.00+.png)
+![Daily Sync Board](/img/Screen+Shot+2013-03-11+at+15.46.00+.png)
 
 For us focusing the Daily Sync means that we focus on three things every morning:
 
