@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-02-11T12:50:54.020Z
-thumbnail: http://3.bp.blogspot.com/-zoGsR5Z8uz8/UP553fs4fVI/AAAAAAAABaE/1v0f9oOQ8lQ/s72-c/IMG_2848.jpg
+thumbnail: /img/IMG_2848.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3948823221238371465
 blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html
 ---
@@ -31,13 +31,13 @@ We then had one day where we introduced the company vision, WHY this way of work
 
 The first day was ended with an open discussion held as a [Lean Coffee](http://www.leancoffee.org/) and we went for a beer (or other cold beverage, Salvation Army friends) or two.
 
-![Team Marketplace](http://3.bp.blogspot.com/-zoGsR5Z8uz8/UP553fs4fVI/AAAAAAAABaE/1v0f9oOQ8lQ/s1600/IMG_2848.jpg)
+![Team Marketplace](/img/IMG_2848.jpg)
 
 The second day each team put up a booth for their team. Here they could again present themselves in a way that would attract people to their team. Two hours were set aside to let people mingle around and get to talk with all the teams, the PO's for each of them, and ask questions.
 
 An email was then sent out where each person could rank their interest from 1-10 in each team. This was done to still allow for some flexibility in the placement. Maybe some people didn't care that much about which team they belonged to? You could then simply indicate that by showing your interest for more than one team.
 
-![Team Marketplace](http://3.bp.blogspot.com/-D43ZGtiqsNk/UP553Q_m9RI/AAAAAAAABaA/WzaDu4nWQ7Q/s1600/IMG_2847.jpg)
+![Team Marketplace](/img/IMG_2847.jpg)
 
 The result was aggregated, and the day after we moved into place in our new teams. Note that some teams didn't start their work right away in the group, but they [sat together from the outset](http://www.marcusoft.net/2012/10/agilechangetop52.html). I think this is very important for two reasons: first you got a team-feel right away, secondly, we could start small (a few people in the team work on new stuff) but still keep everyone updated.
 

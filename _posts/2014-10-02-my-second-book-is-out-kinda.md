@@ -11,12 +11,12 @@ tags:
   - Specification by example
   - Agile
 modified_time: 2014-10-02
-thumbnail: http://3.bp.blogspot.com/-43lZKd__bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s72-c/ikon_photo_book_150px.jpg
+thumbnail: /img/ikon_photo_book_150px.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8141264207080780779
 blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html
 ---
 
-![Book Cover](http://3.bp.blogspot.com/-43lZKd__bxM/VCyYHseUOqI/AAAAAAAAHt4/HbdK6bJaK3M/s1600/ikon_photo_book_150px.jpg)
+![Book Cover](/img/ikon_photo_book_150px.jpg)
 
 To many of my colleagues and friends, writing a book is at the top of the dream list or life goals. I have been very fortunate to have done that, but quite honestly I never even dreamt that I would do it. Or that someone thought that what I had to say was interesting enough to read it. Maybe I should have realized that after 500,000 views on this blog but still...
 

@@ -8,14 +8,14 @@ tags:
   - Scrum
   - Agile
 modified_time: 2012-08-15T16:43:07.207+02:00'
-thumbnail: 'http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s72-c/IMG_2063.jpg'
+thumbnail: /img/IMG_2063.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1869399151811674415
 blogger_orig_url: http://www.marcusoft.net/2012/08/summer-sprints-time-to-learn.html
 ---
 
 Sweden is a great country! We even have laws that states that everybody has the right to five (5!) weeks vacation every year. Many people even have 6 or more. And most of us take at least 3-4 of them in a row during the summer - the best time to be in Sweden.
 
-[![Summer](http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s320/IMG_2063.jpg)](http://2.bp.blogspot.com/-wWDQbfrRq2w/UCup2x_D4ZI/AAAAAAAABSs/sDBF7j6aHsg/s1600/IMG_2063.jpg)
+![Summer](/img/IMG_2063.jpg)
 
 That's all good but what happens at the offices do you think?
 

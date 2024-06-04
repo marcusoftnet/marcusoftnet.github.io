@@ -13,12 +13,12 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-10-21
-thumbnail: http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s72-c/kanbanInAction.improvement.jpg
+thumbnail: /img/kanbanInAction.improvement.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4129921012150118099
 blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html
 ---
 
-![Kanban In Action](http://4.bp.blogspot.com/-UPCq4fiBLgk/VEXeXjJiRhI/AAAAAAAAIM0/if4QQ0tAlqA/s1600/kanbanInAction.improvement.jpg)
+![Kanban In Action](/img/kanbanInAction.improvement.jpg)
 
 I'm working with vision statements and strategic planning right now. Man, this is an area that is really misunderstood and misused, I think. Also, and that's what this post is about, I think it's deliberately this way in order to get some wiggle room. I don't understand that. We'll get there.
 
