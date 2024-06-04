@@ -11,7 +11,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-11-07
-thumbnail: http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s72-c/financial%2Bdebt.jpg
+thumbnail: /img/financial_debt.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1668465135217375764
 blogger_orig_url: http://www.marcusoft.net/2014/11/communication-debt.html
 ---
@@ -20,7 +20,7 @@ As a programmer, I often end up trying to explain non-technical concepts to non-
 
 Today I tried to explain Technical Debt to a director of a hospital. That didn't really work - my mistake. However, the Technical Debt metaphor is based on something that most grown-up people understand: financial debt.
 
-![Financial Debt](http://1.bp.blogspot.com/-eu7i_1n2a6g/VFyALSS9X2I/AAAAAAAAI1g/eFoRIpzq3fc/s1600/financial%2Bdebt.jpg)
+![Financial Debt](/img/financial_debt.jpg)
 
 In this instance, we talked about how communication could be improved (as it always could be, I would think) in the hospital. In order to explain this, I drew this graph for her:
 
@@ -28,7 +28,7 @@ You know about debt, right? I asked her. The longer we wait to do down-payments,
 
 I removed the $-sign and wrote "Communication" in its place.
 
-![Communication Debt](http://4.bp.blogspot.com/-hQecz42PHsc/VFyAJY3MJRI/AAAAAAAAI1Y/1Jsc6LEueSw/s1600/communication%2Bdebt.jpg)
+![Communication Debt](/img/communication_debt.jpg)
 
 Because it's the same thing with communication and interaction. The longer we wait to communicate with someone, the more confusion, misunderstandings, interpretations, and beliefs we make. It's like we're trying to 'cover up' the missed communication and fill out the blanks with our own minds.
 
