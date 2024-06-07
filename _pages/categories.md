@@ -5,12 +5,20 @@ title: Tags
 ---
 
 <div id="archives">
-  {% assign tags_with_sizes = site.tags | map: "first" | map: "size" %}
-  {% assign sorted_tags = site.tags | sort: "size" %}
-  {% for tag in sorted_tags reversed %}
-    {% assign tag_name = tag[0] %}
-    {% assign tag_posts = site.tags[tag_name] %}
-    {% assign tag_size = tag_posts | size %}
+  {% assign tag_list = "" %}
+  {% for tag in site.tags %}
+    {% capture tag_name %}{{ tag[0] }}{% endcapture %}
+    {% capture tag_size %}{{ tag[1] | size }}{% endcapture %}
+    {% assign tag_list = tag_list | append: tag_name | append: ":" | append: tag_size | append: ";" %}
+  {% endfor %}
+
+{% assign sorted_tag_list = tag_list | split: ";" | sort: "size" %}
+
+{% for item in sorted_tag_list reversed %}
+{% assign tag_name = item | split: ":" | first %}
+{% assign tag_size = item | split: ":" | last %}
+{% assign tag_posts = site.tags[tag_name] %}
+
     <div class="archive-group">
       <div id="#{{ tag_name | slugify }}"></div>
       <p></p>
