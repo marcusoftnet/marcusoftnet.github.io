@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/what-is-soa-what-is-soap-rpc.
 
 The now almost age-old question; "but what is
 [SOA](http://en.wikipedia.org/wiki/Service-oriented_architecture) then?"
-has been out for debate at the office where i am right now. It must be
+has been out for debate at the office where I am right now. It must be
 stated that this is a gang of developers and quite often the questions
 bubbles down to; "but this line of code then, is this
 [SOA](http://en.wikipedia.org/wiki/Service-oriented_architecture)?".
@@ -25,7 +25,7 @@ is not correct in itself.
 do with switching position and behold your world from another angle, was
 my conclusion.
 
-And lo and behold; today i found an article that explained a lot of
+And lo and behold; today I found an article that explained a lot of
 stuff surronding this for me:
 <http://wisdomofganesh.blogspot.com/2008/02/deciding-characteristic-of-soa.html>
 

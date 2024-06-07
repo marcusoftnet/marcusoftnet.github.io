@@ -11,10 +11,9 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1108097675452977202
 blogger_orig_url: http://www.marcusoft.net/2008/01/true-stuff-doesnt-need-to-be-boring-tao.html
 ---
 
-
 A friend of mine sent me this link
 <http://www.canonical.org/~kragen/tao-of-programming.html>
-Very funny but also very true stuff. I almost became sad when i read
+Very funny but also very true stuff. I almost became sad when I read
 some passages (see for example the story about the programmer and the
 project manager in Book 5,
 <http://www.canonical.org/~kragen/tao-of-programming.html#book5>)

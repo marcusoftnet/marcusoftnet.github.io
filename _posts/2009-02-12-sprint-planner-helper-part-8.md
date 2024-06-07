@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5605745566373223322
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-part-8.html
 ---
 
-
 I’ve been doing some major reworking of the repository that I am using,
 from being a product repository to being a ProductOwnerRepository and a
 ProductBacklogRepository. This took me more than one hour and therefore
@@ -57,7 +56,7 @@ takes responsibility for all business rules. At least that’s how I
 understand it now.
 
 I am still loving the way TDD is driving my design-decisions. For a long
-time i pronounced TDD Test Driven Development but as you use it you
+time I pronounced TDD Test Driven Development but as you use it you
 realize that the last D is Design. You actually learn quite a lot about
 the code as you write your test and do small design changes as you go
 along.

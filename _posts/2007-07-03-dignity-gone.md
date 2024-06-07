@@ -11,14 +11,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5179432351637438825
 blogger_orig_url: http://www.marcusoft.net/2007/07/dignity-gone.html
 ---
 
-Here is a story about when my dignity was shredded. True i am afraid.
+Here is a story about when my dignity was shredded. True I am afraid.
 
 This weekend the Salvation Army Congress was held here in Sweden. We
 played with a small band on the last meeting, which of course was way to
-long for my tired eyes. So afterwards i rushed to get out instruments
+long for my tired eyes. So afterwards I rushed to get out instruments
 and packing.
 
-Coming up from the basement i found a small boy (4 years maybe) pointing
+Coming up from the basement I found a small boy (4 years maybe) pointing
 to a toilet saying: "He's bleeding". And right he was - in the toilet
 was another boy bleeding from his nose. A lot. Inside the toilet was
 also an old Salvation Army missionary women. And she was not afraid of
@@ -28,7 +28,7 @@ pinching the nose of the boy at the same time.
 Of course I told her that she didn't have to do that. I took over the
 situation, putting down the gear and with my euphonium on the back.
 The boy with the nosebleed was cleaned up - he was
-"mother-fainting"-messy, i can tell you. All of a sudden the boy outside
+"mother-fainting"-messy, I can tell you. All of a sudden the boy outside
 cries: "I need the bathroom. Now!"
 Me: "Give us 30 seconds"
 Boy: "I can't hold it"
@@ -37,20 +37,20 @@ Me: "Uh-uh"
 So we switched places. The small boy into the bathroom and me and mr
 Nosy outside. I put the bleeder in the stairs to rest.
 
-The small boy cries again: "I am done...". So i replied: "...well ...
+The small boy cries again: "I am done...". So I replied: "...well ...
 come out then...".
 
-Well he didn't so i open the door. He was still on the toilet looking at
+Well he didn't so I open the door. He was still on the toilet looking at
 me, almost shameful:
 "I have made 2!" - How did he want me to react to that! Corking up the
 champange?
 Marcus: "Well.... done? Please come out"
 "I can't clean myself"
 
-Here i understood where this was going, should probably have been sooner
+Here I understood where this was going, should probably have been sooner
 but anyway... I found myself saying: "I'll help you"
 Said and done. He "assumed" the position and for the first time ever i
-was wiping the butt of a four-year old. No, i said, no dignity left.
+was wiping the butt of a four-year old. No, I said, no dignity left.
 
 As this ... scene was taking place the other boy opened the door and
 asked if he could have his coke back. I was surprised that he didn't

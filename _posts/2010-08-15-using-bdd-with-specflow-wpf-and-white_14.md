@@ -50,9 +50,9 @@ Well – perfect fit, if you ask me. Also – the creators of Prism has used Whi
 
 I’ve followed the SpecFlow-project for a while now and they have increasingly supplied us with [great examples and tutorials](http://www.specflow.org/specflow/getting-started.aspx). I recommend you check them out. I haven’t seen to much that isn’t web application though.
 
-Likewise the Prism project comes with lot of examples. See their download and [learning pages](http://compositewpf.codeplex.com/wikipage?title=Learn%20Prism&amp;referringTitle=Home). [This description](http://www.tanguay.info/web/index.php?pg=howtos&amp;id=15) of a Hello World example helped me get started.
+Likewise the Prism project comes with lot of examples. See their download and [learning pages](http://compositewpf.codeplex.com/wikipage?title=Learn%20Prism&referringTitle=Home). [This description](http://www.tanguay.info/web/index.php?pg=howtos&id=15) of a Hello World example helped me get started.
 
-White also have some [useful examples](http://white.codeplex.com/wikipage?title=Functional%20Testing&amp;referringTitle=Home) on their [Codeplex](http://white.codeplex.com/)-site. I also found [this post by Ben Hall useful](http://blog.benhall.me.uk/2008/02/project-white-automated-ui-testing.html).
+White also have some [useful examples](http://white.codeplex.com/wikipage?title=Functional%20Testing&referringTitle=Home) on their [Codeplex](http://white.codeplex.com/)-site. I also found [this post by Ben Hall useful](http://blog.benhall.me.uk/2008/02/project-white-automated-ui-testing.html).
 
 #### How I did it
 
@@ -111,7 +111,7 @@ When I now ran my tests they are all pending. Which gives me an opportunity to w
 
 #### Writing application code
 
-Here I followed the description in the [HelloWorld-post](http://www.tanguay.info/web/index.php?pg=howtos&amp;id=15) I mentioned before, to get my skeleton code up and running. I will not repeat it here. I called my Shell Marcusoft.BDD.Calculator.Desktop and the module Marcusoft.BDD.Calculator.Module.
+Here I followed the description in the [HelloWorld-post](http://www.tanguay.info/web/index.php?pg=howtos&id=15) I mentioned before, to get my skeleton code up and running. I will not repeat it here. I called my Shell Marcusoft.BDD.Calculator.Desktop and the module Marcusoft.BDD.Calculator.Module.
 
 On trick was the Application.xaml is called Application and not App. This result in trouble since we’re inheriting from a Prism-class called Application. When you change the name there are 3 places to do it in… or use refactoring…
 
@@ -152,7 +152,7 @@ First I cleaned up my step to match all those occurrences. Here is the Given-att
 
 ![complete given](/img/bdd_complete_given[3].jpg)
 
-This will send the number after “that i write” as stringUserEntered and the name of the box after “textbox” as wllKnownNameOfTextbox.
+This will send the number after “that I write” as stringUserEntered and the name of the box after “textbox” as wllKnownNameOfTextbox.
 
 With that in place I could remove the other two givens that was exact matches for specific number.
 
@@ -168,7 +168,7 @@ I ran my tests again to watch them fail since there was no control on the form c
 
 I updated the user control with a label and textbox called Number 1, and then ran my tests again and … progress! The correct number was filled in.
 
-And the regular expression matches for both textboxes – so I when I get the next error (no textbox for named number2), i can safely add some production code and controls for that.
+And the regular expression matches for both textboxes – so I when I get the next error (no textbox for named number2), I can safely add some production code and controls for that.
 
 I had now worked my way outside, from the scenario / requirements, in to the actual implementation.
 
@@ -220,7 +220,7 @@ It took quite some time before I could get my first feature flying, but by then 
 
 I haven’t included anything on TDD in this post. And I didn’t do any. That doesn’t mean that I don’t think it’s needed, but I didn’t wanted to mix any of that into this example.
 
-I will sure have to work more on the handling of names and references to them. There is [an article](http://white.codeplex.com/wikipage?title=Screen%20Objects&amp;referringTitle=Functional%20Testing) on that in the White functional testing documentation, that talks about screen objects. Also I recommend [watching this video on how to test the GUI in a web application](http://www.viddler.com/explore/c4mvc/videos/4/). It gave me some valuable insights on how ATDD might influence your code and naming etc.
+I will sure have to work more on the handling of names and references to them. There is [an article](http://white.codeplex.com/wikipage?title=Screen%20Objects&referringTitle=Functional%20Testing) on that in the White functional testing documentation, that talks about screen objects. Also I recommend [watching this video on how to test the GUI in a web application](http://www.viddler.com/explore/c4mvc/videos/4/). It gave me some valuable insights on how ATDD might influence your code and naming etc.
 
 ##### The code
 

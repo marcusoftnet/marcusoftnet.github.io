@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7753639837260175907
 blogger_orig_url: http://www.marcusoft.net/2006/11/christmas-season.html
 ---
 
-
 My band, the <span id="SPELLING_ERROR_0" classVasa band of the Salvation
 Army, is entering the busiest season of the year - the Christmas season!
 I counted to 9 gigs during this season with different sizes of the
@@ -19,7 +18,7 @@ band.
 
 If brassbanding had as much to do
 during all of the year as under the Christmas season there would be a
-lot of more professional bands around, i can
+lot of more professional bands around, I can
 promise you.
 
 One thing that strikes me every year this happens (i.e. almost every

@@ -17,13 +17,13 @@ summer the "slow" period tend to drag out.
 Also we start to think about that period or at least plan for it long
 ahead of it.
 
-But not here, i can tell you! (for real). We have been hacking away in a
+But not here, I can tell you! (for real). We have been hacking away in a
 furious tempo at work and
 rounding up some things from the moving. And then there is the wedding
 of Elins
 sister this weekend...
 
 Been busy - so not that many blog post has been produced. But
-then again - now i can still claim that i only write when i have
+then again - now I can still claim that I only write when I have
 something interesting to say... Like this
 post ;)

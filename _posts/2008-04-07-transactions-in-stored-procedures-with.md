@@ -12,8 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-293035297188284140
 blogger_orig_url: http://www.marcusoft.net/2008/04/transactions-in-stored-procedures-with.html
 ---
 
-
-Yesterday i got a question from a collegue who had run into trouble
+Yesterday I got a question from a collegue who had run into trouble
 using the TransactionScope-construct in .NET.
 
 The case was as follows; the are programming against a database whose

@@ -10,10 +10,9 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-808334586301573999
 blogger_orig_url: http://www.marcusoft.net/2006/12/ybs-alive-and-kicking.html
 ---
 
-
 Just
 read that the YBS Band are looking forward and keeps a positive
-attitude. That's what i like! See the positive - even in the dark
+attitude. That's what I like! See the positive - even in the dark
 situations.
 [Read more here](http://www.ybsband.org.uk/YBS/news.html)
 

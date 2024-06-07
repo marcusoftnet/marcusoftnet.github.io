@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/09/sprint-demo.html
 
 Tomorrow is another sprint demo. I love the fast-forward way of
 incrementing doing improvements that SCRUM offers.
-One of the features i really like is the way that the developers get to
+One of the features I really like is the way that the developers get to
 feel good about themselves and to be proud.
 Really builds team spirit.
 

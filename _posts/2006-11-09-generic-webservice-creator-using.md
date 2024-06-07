@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7122064333594698841
 blogger_orig_url: http://www.marcusoft.net/2006/11/generic-webservice-creator-using.html
 ---
 
-
 This now contains an update
 <http://marcushammarberg.blogspot.com/2006/11/more-about-generic-webservces.html>.
 Be sure to look it up for a more elegant solution.
@@ -28,7 +27,7 @@ need to be configured in the same way. These configurations has to do
 with setting the URL in runtime, using other credentials, caching and
 maybe other things that we want to be able to do for all webservices.
 
-So what i wanted is a WebServiceCreator with metods that creates the
+So what I wanted is a WebServiceCreator with metods that creates the
 webservices and does the requested configurations. So my first thought
 was to use generics - and that was right for quite a while.
 

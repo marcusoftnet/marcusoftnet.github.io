@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1255301533495986662
 blogger_orig_url: http://www.marcusoft.net/2007/01/strange-bug-in-visual-studio-2005.html
 ---
 
-
 Just started to do some serious development with Windows Forms in
 Visual Studio 2005. A bug showed it's ugly face. Here is how it goes:
 
@@ -27,8 +26,8 @@ and not corrected with Visual Studio 2005 SP1.
 
 There are some suggestions for
 [workarounds](https://connect.microsoft.com/VisualStudio/feedback/Workaround.aspx?FeedbackID=144156)
-and the one that i tried was to add toolbox items by referencing the
-output of my windows application. But then i got another problem, a
+and the one that I tried was to add toolbox items by referencing the
+output of my windows application. But then I got another problem, a
 warning something like:
 "The type \[usercontrol\] in '\[my output\]' conflicts with the imported
 type \[usercontrol\] in '\[my output\]'"

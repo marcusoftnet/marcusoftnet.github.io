@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
 
-I have a confession to make; i think i'm turning into a data-guy. No, not a computer-guy - I've been that a long time. Rather it's that boring dude that keep asking for numbers, measurements and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recovery from some of the boredom-parts. It's called Simplicity and Visualisation.
+I have a confession to make; I think i'm turning into a data-guy. No, not a computer-guy - I've been that a long time. Rather it's that boring dude that keep asking for numbers, measurements and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recovery from some of the boredom-parts. It's called Simplicity and Visualisation.
 
 To be a little more serious I think that collecting data and then do small experiments based upon them rather than you feelings is the way to make controlled, continuous improvements. This is all very [Toyota Kata](http://www-personal.umich.edu/~mrother/Homepage.html) (or rather [Kanban Kata](http://hakanforss.wordpress.com/2012/07/12/kanban-katas-and-recipes-kanban-leadership-retreat-2012-session-klrat/) or even the [scientific method](http://en.wikipedia.org/wiki/Scientific_method)) like but that's exactly where I'm aiming.
 
@@ -66,7 +66,7 @@ Yes, we're tracking days that was mostly spent in meetings too, on the yellow st
 
 **UPDATE:** We started to track the trends updating them weekly. Here is how it's spread for the first couple of weeks:
 
-![bild](/img/bild+(2).JPG)
+![bild](</img/bild+(2).JPG>)
 
 It's a rolling buffer just showing the last week. We take photos of it a little now and then to get an overview. So here you can see that during the last week the distribution was a bit different than before.
 

@@ -11,14 +11,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7921648991803962963
 blogger_orig_url: http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html
 ---
 
-
 I'm
 back - yesterday was a day with speed since we had to prepare the Scrum
-demo we're going to hold today. And as frosting on the cake i caught a
+demo we're going to hold today. And as frosting on the cake I caught a
 cold (kind of).
 
 Well, nothing to do about that - the sprint demo today will be running
-smoothly even if i am a bit
+smoothly even if I am a bit
 slower than usual.
 
 The night at the shelter was quite quiet (:)) for me. I got to go to bed

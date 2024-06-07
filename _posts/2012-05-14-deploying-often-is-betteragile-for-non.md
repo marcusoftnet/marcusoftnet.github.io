@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1785069010922658762
 blogger_orig_url: http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html
 ---
 
-
 This is the second post of some of the things that I find myself talking
 to business people (and some technical folks too for that matter) when
 trying to explain agile thinking. <a
@@ -22,7 +21,7 @@ target="_blank">Here is the first if you want to read that</a>.
 Again, the disclaimer, this is mostly stated before and probably doesn't
 contain much new stuff if your an agile ninja guy. Please don't flame
 me - I'm trying to explain this to people who have done other stuff
-while you and i was geeking out in agile.
+while you and I was geeking out in agile.
 
 One thing that very often comes up is this notion of deployment, and
 maybe that we rather make small deploys to the production environment
@@ -72,10 +71,10 @@ related my clients problem and they just looked at me and asked:
 A couple of things to note about their story and achievement;
 
 - Their production environment is VERY complicated since online gaming
-    has regulations stating that your data needs to be stored on servers
-    in your resident country.
+  has regulations stating that your data needs to be stored on servers
+  in your resident country.
 - It wasn't for every application in their park, but for most of
-    them.
+  them.
 - It had taken them a long time to get there.
 - They were not done.
 
@@ -87,7 +86,7 @@ In many of the big companies I have done consultancy in deploying is a
 big thing. You often set up complete release project for crying out
 loud. With complete organizations handling that specific release and all
 the problems that goes into it.
-And that only is need *because* the release big and complicated, with
+And that only is need _because_ the release big and complicated, with
 a lot of dependencies.  Which the release will become when you do it
 seldom.
 

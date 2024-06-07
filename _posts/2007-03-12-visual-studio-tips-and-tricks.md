@@ -12,8 +12,8 @@ blogger_orig_url: http://www.marcusoft.net/2007/03/visual-studio-tips-and-tricks
 ---
 
 I am always interested in finding stuff that simplifies my day-to-day
-use of computer software. I love shortcuts and macros or rather i hate
+use of computer software. I love shortcuts and macros or rather I hate
 doing repetitive stuff that just is boring and tedious...
 
 Here is an great article about [shortcuts in Visual Studio
-2005](http://msdn2.microsoft.com/en-us/library/bb245788(vs.80).aspx)
+2005](<http://msdn2.microsoft.com/en-us/library/bb245788(vs.80).aspx>)

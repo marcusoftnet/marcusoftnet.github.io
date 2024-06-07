@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5644087848201059915
 blogger_orig_url: http://www.marcusoft.net/2006/11/snow-in-sweden.html
 ---
 
-
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/320/thorildsplan445.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
@@ -29,5 +28,5 @@ stopped etc) but then again we knew about this storm for about 2 weeks.
 Maybe if the busses have had winter tires on, or all other vehicles for
 tonight).
 
-Anyway, this gets us each year and i am not expecting any co-workers
+Anyway, this gets us each year and I am not expecting any co-workers
 until 10 o'clock today.

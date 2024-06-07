@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2750598584067777240
 blogger_orig_url: http://www.marcusoft.net/2009/05/sprint-planner-helper-final.html
 ---
 
-
 I have had some real problems to get going with the <a
 href="http://www.marcusoft.net/search/label/Sprint%20Planner%20Helper"
 target="_blank">Sprint Planner Helper Project</a> after the trip to
@@ -20,7 +19,7 @@ target="_blank">Sprint Planner Helper Project</a> after the trip to
 target="_blank">Ethiopia</a>. I am not sure why – but it made me think
 about the project, the scope and purpose.
 
-First and foremost – I am not working, i am on parental leave. That
+First and foremost – I am not working, I am on parental leave. That
 means this is my spare time project and I <a
 href="http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html"
 target="_blank">promised myself</a> that I would end it if I didn’t feel
@@ -37,7 +36,7 @@ OK – what was my learning goals and where have they taken me?
 
 #### <a href="http://en.wikipedia.org/wiki/Domain-driven_design"
 
-target="_blank">DDD</a>
+target="\_blank">DDD</a>
 
 The main purpose was to look into Domain Driven Design. I feel that I
 have got a nice grasp around that subject – and I most certainly want to
@@ -51,7 +50,7 @@ target="_blank">Here is my post on DDD</a>
 
 #### <a href="http://en.wikipedia.org/wiki/Test-driven_development"
 
-target="_blank">TDD</a>
+target="\_blank">TDD</a>
 
 When I started the Sprint Planner Helper project I liked test. Now they
 are a part of the way I code. Over and over again you are struck by the
@@ -86,7 +85,7 @@ target="_blank">this search</a>. Before the actual book it self!!!
 
 #### <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"
 
-target="_blank">Extreme OOP</a>
+target="\_blank">Extreme OOP</a>
 
 Eeeh – you can’t win them all, now can you? Actually this was the one
 thing that I pretty soon abandoned. Not that I don’t like the rules and
@@ -98,7 +97,7 @@ project that solely focus on extreme OOP. And that would be quite fun.
 
 Actually, in the
 <a href="http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf"
-target="_blank">PDF</a> i am linking to above, you find an exercise
+target="_blank">PDF</a> I am linking to above, you find an exercise
 that’ll get you started.
 
 #### Where to go now
@@ -108,23 +107,23 @@ resources that is much more ambitious than my feeble tries. Here are a
 short list of them. Be sure to check them out, I know I will:
 
 - [Sharp-architecture](http://code.google.com/p/sharp-architecture/) –
-    an base architecture that let’s you build web applications with
-    ASP.NET MVC and NHibernate. Here is an
-    <a href="http://dimecasts.net/Casts/CastDetails/75"
+  an base architecture that let’s you build web applications with
+  ASP.NET MVC and NHibernate. Here is an
+  <a href="http://dimecasts.net/Casts/CastDetails/75"
     target="_blank">introduction video</a>.
 - <a href="http://www.codeplex.com/MVCContrib" target="_blank">ASP.NET MVC
-    Contrib</a> – this is a project on CodePlex that collects “nice to
-    have” features for ASP.NET MVC, such as <a
+  Contrib</a> – this is a project on CodePlex that collects “nice to
+  have” features for ASP.NET MVC, such as <a
     href="http://mvccontrib.codeplex.com/Wiki/View.aspx?title=Grid&amp;referringTitle=Home"
     target="_blank">grid helper methods</a>,
-    <a href="http://www.codeplex.com/xval" target="_blank">validators</a>,
-    <a
+  <a href="http://www.codeplex.com/xval" target="_blank">validators</a>,
+  <a
     href="http://mvccontrib.codeplex.com/Wiki/View.aspx?title=Routing&amp;referringTitle=Home"
     target="_blank">routing engines</a> and <a
     href="http://mvccontrib.codeplex.com/Wiki/View.aspx?title=Brail&amp;referringTitle=Home"
     target="_blank">view engines</a> etc.
 - [InfoQs book on Domain Driven
-    Design](http://www.infoq.com/presentations/model-to-work-evans)
+  Design](http://www.infoq.com/presentations/model-to-work-evans)
 
 So I hope that anyone who has read this has enjoyed it for as long as it
 lasted. I know that I have learned a lot and that doing this project has

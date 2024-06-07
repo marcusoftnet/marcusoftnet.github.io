@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7595199482729270968
 blogger_orig_url: http://www.marcusoft.net/2006/12/busy-times-our-choice.html
 ---
 
-
 It's a
 very busy time right now. The band is in the midst of our long list of
 December engagements. So fun and good it has been so far! Last night we
@@ -21,7 +20,7 @@ at [Skansen](http://www.skansen.se/). A bit cold but the band played
 well and we had great fun.
 
 So this week contains a Christmas-festival at our corps and a gig in a
-Church... And then there are only two things left! Phew! But i like
+Church... And then there are only two things left! Phew! But I like
 it.
 
 Yesterday morning we had an Advent-service at our corps and the

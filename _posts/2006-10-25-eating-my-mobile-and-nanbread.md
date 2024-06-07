@@ -12,10 +12,10 @@ blogger_orig_url: http://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread
 
 ![Mobile](http://www.myqtek.com/media/12359-8100_front.gif)
 
-Today i might have to eat my mobile (QTek 8100) and an indian Nan-bread....
+Today I might have to eat my mobile (QTek 8100) and an indian Nan-bread....
 
 I have bet the IT-department at my customer that I would do that if the test-team has finnished their testing in one day (which is the set time).
 
-Although they never has done that before i am still a bit nervous. It looks really big and hard to ... "handle". I'll try to find a loophole to get me out of it... maybe if i made a replica of marispan and ate it really fast they wouldn't know the difference.
+Although they never has done that before I am still a bit nervous. It looks really big and hard to ... "handle". I'll try to find a loophole to get me out of it... maybe if I made a replica of marispan and ate it really fast they wouldn't know the difference.
 
 To the right is a picture of my phonemodel... Gulp

@@ -10,8 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2127731443858866833
 blogger_orig_url: http://www.marcusoft.net/2006/10/swedish-brass-band-championships.html
 ---
 
-
-While I am on the subject i might as well reveal how the Swedish
+While I am on the subject I might as well reveal how the Swedish
 Brass Band Championships will go down.
 
 This year it will be tighter, there is a two new band in Sweden - both
@@ -25,7 +24,7 @@ of playing together. Very impressive.
 newest band and also one with the most respectful line-up. The band is
 made up mostly of professionals in the Stockholm orchestras.
 
-But, i am sorry, they will never have a chance to beat the current
+But, I am sorry, they will never have a chance to beat the current
 champions, [Gothenburg](http://www.goteborgbrassband.org.se/) . I have
 played with them for a year and a half an know what they are made of.
 They mean serious business, also they have signed Nicholas Childs to do
@@ -35,7 +34,7 @@ not really :-)) but Gothenburg will easy take this home.
 Windcorp will probably do very well but may loose their cool and not be
 able to nail a very hard own choice piece.
 
-Stockholm brass band has made a big mistake, as i see it. They are all
+Stockholm brass band has made a big mistake, as I see it. They are all
 very good classical musicians (best in the country?). So why opt for an
 brass band test piece? Why not go with a classical piece that they could
 play better than no-one. Just think of hearing them play "Overture to

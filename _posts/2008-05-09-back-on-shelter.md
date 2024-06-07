@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7724150818158165227
 blogger_orig_url: http://www.marcusoft.net/2008/05/back-on-shelter.html
 ---
 
-
 Another [night on the
 shelter](http://www.marcusoft.net/2008/04/night-at-shelter.html) for the
 Salvation Army. Today it has been quite warm outside but for the men
@@ -18,7 +17,7 @@ visiting the shelter that only means that they will arrive a bit
 later.
 
 Just think for yourself, when you walk home late a summer night, even if
-it is warm - would you trade that for a bed? I know i wouldn't...
+it is warm - would you trade that for a bed? I know I wouldn't...
 
 I am always filled with some sort of sorrow when I see the guest here at
 the shelter. They are, many of them, younger than me. And already they

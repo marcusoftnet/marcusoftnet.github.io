@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4182643332027107112
 blogger_orig_url: http://www.marcusoft.net/2007/07/schlager-treat.html
 ---
 
-
 I had missed this:
 [http://www.aftonbladet.se/atv/player.html?catID=2672&<span
 id="SPELLING_ERROR_0" class="blsp-spelling-error"><span
@@ -24,6 +23,6 @@ class="blsp-spelling-corrected">embarrassing about this is that
 this song would probably have rocked at the competition. I mean that
 kind of music is not really innovative and challenging...
 
-In short - i don't like schlagers (or whatever the word is in
+In short - I don't like schlagers (or whatever the word is in
 english)
 but this song rocks.

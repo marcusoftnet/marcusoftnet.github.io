@@ -11,14 +11,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6600362055931403549
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-21.html
 ---
 
-
 I’m back! After [doing a
 detour](http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html)
 through the <a
 href="http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf"
 target="_blank">sample chapter</a> of the upcoming
 <a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> book
-(lovingly called “The four faces”, i heard…) I now feel ready to go on.
+(lovingly called “The four faces”, I heard…) I now feel ready to go on.
 
 And I learned a few things by that sample chapter; about ASP.NET MVC,
 yes but also I saw some flaws of my
@@ -43,25 +42,21 @@ So I’ll update my IRepository to something like this:
 > <div
 > style="font-size: 10pt; background: white; color: black; font-family: courier new">
 >
->an style="color: blue">public</span> <span
+> an style="color: blue">public</span> <span
 > style="color: blue">interface</span> <span
 > style="color: #2b91af">IRepository</span>\<T\>  <span
 > style="color: blue">where</span> T :<span
 > style="color: #2b91af">IBaseEntity</span>
 >
+> Id(<span style="color: blue">int</span> id);
 >
+> tyle="color: #2b91af">IQueryable</span>\<T\> Find();
 >
->Id(<span style="color: blue">int</span> id);
+> tyle="color: blue">void</span> Add(T entity);
 >
->tyle="color: #2b91af">IQueryable</span>\<T\> Find();
+> tyle="color: blue">void</span> Delete(T entity);
 >
->tyle="color: blue">void</span> Add(T entity);
->
->tyle="color: blue">void</span> Delete(T entity);
->
->tyle="color: blue">void</span> Save();
->
->
+> tyle="color: blue">void</span> Save();
 >
 > </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What i learned from 'From User stories to Acceptance tests' with Gojko Adzic
+title: What I learned from 'From User stories to Acceptance tests' with Gojko Adzic
 date: 2011-11-29T19:27:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,7 +11,6 @@ modified_time: 2011-11-29T21:34:36.362Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7973153048578917460
 blogger_orig_url: http://www.marcusoft.net/2011/11/what-i-learned-from-from-user-stories.html
 ---
-
 
 I've just returned back home from a course. It's the first course
 I've attended in over a year and I'm always amazed how much you can
@@ -68,12 +67,12 @@ concepts by using examples such as BlackJack and Busted for example.
 Two kind of exercises for creating examples as a group stood out to me:
 
 - Diverge and merge - where you intentionally let several groups work
-    on the same example for a while and then merge the groups to compare
-    and learn from each other.
+  on the same example for a while and then merge the groups to compare
+  and learn from each other.
 - A feedback exercise which reassembled [planning
-    poker](http://en.wikipedia.org/wiki/Planning_poker) a bit. Write
-    down a case and then each write the expected outcome. Compare and
-    learn.
+  poker](http://en.wikipedia.org/wiki/Planning_poker) a bit. Write
+  down a case and then each write the expected outcome. Compare and
+  learn.
 
 The main thing you want here is probably not the examples but rather to
 learn and get a shared understanding of the problem at hand. The
@@ -86,28 +85,28 @@ book and done presentation on these patterns. I still learned stuff of
 course:
 
 - All the teams that was successful in implementing Specification by
-    example specified collaborative and did that using examples
+  example specified collaborative and did that using examples
 - Key examples is not all examples. It's probably 10-15 not 500
 - Put up a couple of examples and try to break them (drill a hole in
-    them) to see if all relevant key examples has been found
+  them) to see if all relevant key examples has been found
 
 We then talked about some common collaboration patterns and when they
 might be applicable:
 
 - All-team workshops - when stakeholders are available, you need loads
-    of knowledge transfer (you don't know much about the domain) or you
-    want to explore new ideas. Pretty expensive tough.
+  of knowledge transfer (you don't know much about the domain) or you
+  want to explore new ideas. Pretty expensive tough.
 - Three Amigos - get a Business Analyst, Developer and tester together
-    and do a mini-workshop. [Hehe I drew this without
-    knowing](http://lh5.ggpht.com/_TI0jeIedRFk/THzCfVkXX9I/AAAAAAAAAlQ/rN05kWnVArs/s1600-h/specws1%5B2%5D.jpg) a
-    while back. This is useful when you have mature product that your
-    team knows a bit about.
+  and do a mini-workshop. [Hehe I drew this without
+  knowing](http://lh5.ggpht.com/_TI0jeIedRFk/THzCfVkXX9I/AAAAAAAAAlQ/rN05kWnVArs/s1600-h/specws1%5B2%5D.jpg) a
+  while back. This is useful when you have mature product that your
+  team knows a bit about.
 - Ad-hoc conversation where you simple skid over and ask the involved
-    people. This requires people being nearby and you knowing a lot
-    about the product.
+  people. This requires people being nearby and you knowing a lot
+  about the product.
 - Write + Review - you write a specification and then have somebody
-    else review it. Good if your are distributed and have a hard time to
-    get hold of people needed to answer questions.
+  else review it. Good if your are distributed and have a hard time to
+  get hold of people needed to answer questions.
 
 ### What makes a good specification
 
@@ -119,42 +118,42 @@ a big list of stuff that was good or bad with them.
 Here are the good part, as we finally summarized them:
 
 - A descriptive title (what you would Google for to find this
-    document)
+  document)
 - Has context under which the example executes
 - No technical details such as database ids or web page class names
 - Short - in fact most of the good stories were considerable shorter
-    than the bad ones
+  than the bad ones
 - Precis - talks only about the example at hand.
 - A structure in which the test was separated from the examples
-    ([Scenario Outline for
-    Cucumber](https://github.com/cucumber/cucumber/wiki/Scenario-outlines)
-    features for example)
+  ([Scenario Outline for
+  Cucumber](https://github.com/cucumber/cucumber/wiki/Scenario-outlines)
+  features for example)
 - Boundaries included - we triage and try different values to find the
-    boundaries for the example
+  boundaries for the example
 - More than 1 example (see above)
 - Uses the business language - the domain language
 - Has the *right* abstraction level. This is a hard one but you
-    reached this when you cannot remove anything without destroying it.
-    Or another way is to ask someone to summarize the things you have
-    written down. If they can and it's still understandable - use that
-    summary.
+  reached this when you cannot remove anything without destroying it.
+  Or another way is to ask someone to summarize the things you have
+  written down. If they can and it's still understandable - use that
+  summary.
 - Clear and measurable expectations
 - No new concepts introduced simply due to the fact that we're going
-    to test this with a tool
+  to test this with a tool
 
 Other stuff that came up from Gojkos presentation was:
 
 - Don't write workflow scripts - write WHAT should be tested not HOW
-    it should be tested. 90% of the team failing with BDD does this.
-    90%!!!
+  it should be tested. 90% of the team failing with BDD does this.
+  90%!!!
 - If you find yourself writing about technical concepts - try to
-    rephrase it into what that technical thing does
+  rephrase it into what that technical thing does
 - Try to find breaking examples to find the boundaries
 - Show the example to someone else and see if they understand it
-    (given domain knowledge). If so - then you have the right level of
-    self-explanation.
+  (given domain knowledge). If so - then you have the right level of
+  self-explanation.
 - Write the description of the test to be a description on how to read
-    the examples.
+  the examples.
 
 ### Fitting into a development process
 
@@ -166,19 +165,19 @@ teams to very rigid waterfall-type of processes.
 A few tips I picked up:
 
 - Set aside time before the planning (be it sprint planning or
-    whatever) to prepare some key examples. That will make the actually
-    planning much smoother not halting on the first question.
+  whatever) to prepare some key examples. That will make the actually
+  planning much smoother not halting on the first question.
 - The more stuff that is unknown the further ahead the initial team
-    should work. Work a sprint ahead if needed.
+  should work. Work a sprint ahead if needed.
 - Get only bullet points with acceptance criteria from BA if they are
-    very busy
+  very busy
 - Don't try to write out full specifications at workshops - who writes
-    the [specification is not
-    important](http://www.marcusoft.net/2011/09/who-writes-specification-now-again.html).
+  the [specification is not
+  important](http://www.marcusoft.net/2011/09/who-writes-specification-now-again.html).
 - Emphasize collaboration and shared understanding
 - Define tests as early as possible
 - Make sure that you get a mindset of collective ownership for the
-    specification
+  specification
 
 ### Adoption strategies and patterns
 
@@ -195,17 +194,17 @@ get people to think that it's their idea you have gained a lot.
 Gojko had three points:
 
 - **Change the team culture** to a culture of collaboration.
-    Collaborate on specifications and test, which will build trust among
-    team members. Focus on delivering business features and
-    not functionality which will build trust with stakeholders
+  Collaborate on specifications and test, which will build trust among
+  team members. Focus on delivering business features and
+  not functionality which will build trust with stakeholders
 - **Remove waste from the process** - make things precis early to
-    establish a clear definition of done. Validate frequently and strive
-    to get a single source of truth - the examples. This will make other
-    things you do unnecessary (such as writing different documents for
-    specifications and tests for example)
+  establish a clear definition of done. Validate frequently and strive
+  to get a single source of truth - the examples. This will make other
+  things you do unnecessary (such as writing different documents for
+  specifications and tests for example)
 - Facilitate change - make sure that the examples becomes the main
-    source of information (send links to them to answer questions),
-    document business process (do not "write tests")  
+  source of information (send links to them to answer questions),
+  document business process (do not "write tests")
 
 This section also contained a lot of other stuff but it was discussed
 and is hard to write down here.

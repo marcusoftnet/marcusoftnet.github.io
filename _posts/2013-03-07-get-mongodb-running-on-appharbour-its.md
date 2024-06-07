@@ -13,16 +13,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2488664060079678455
 blogger_orig_url: http://www.marcusoft.net/2013/03/get-mongodb-running-on-appharbour-its.html
 ---
 
-
-
-
 I have been playing around a bit with [MongoDB](http://www.mongodb.org/)
 for the first time of my life. It's really a very nice experience and
 have a lot of the "just works"-feeling that I have started to get used
 to from frameworks like [NancyFx](http://www.nancyfx.org/) and
 Simple.Data.
 
-But when i pushed it to AppHarbor I ran into problems. That all had with
+But when I pushed it to AppHarbor I ran into problems. That all had with
 me not reading stuff properly…
 
 AppHarbor has a nice feature that replaces stuff in your .config files
@@ -38,8 +35,7 @@ It should be added as an . As the documentation clearly points out. So
 you want this:
 
 > <span style="font-size: x-small;"><span
-> style="font-family: Courier New, Courier, monospace;">
-> <span
+> style="font-family: Courier New, Courier, monospace;"> > <span
 > style="font-family: 'Courier New', Courier, monospace;">key="MONGOHQ_URL"
 > value="mongodb://localhost/DotVoter"/\> <span
 > style="font-family: 'Courier New', Courier, monospace; font-size: x-small;">
@@ -55,7 +51,7 @@ You can then read that value as simple as this:
 > style="font-family: Courier New, Courier, monospace; font-size: x-small;">private
 > readonly MongoCollection \_collection;
 
-        <span
+<span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">public
 MongoRepository()
 <span
@@ -67,7 +63,7 @@ style="font-family: Courier New, Courier, monospace; font-size: x-small;">
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">
 
- ConfigurationManager.AppSettings.Get("MONGOHQ_URL");
+ConfigurationManager.AppSettings.Get("MONGOHQ_URL");
 <span
 style="font-family: Courier New, Courier, monospace; font-size: x-small;">
 <span

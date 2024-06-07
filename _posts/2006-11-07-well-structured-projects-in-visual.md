@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5231053951955942248
 blogger_orig_url: http://www.marcusoft.net/2006/11/well-structured-projects-in-visual.html
 ---
 
-
 [<img
 src="http://photos1.blogger.com/blogger2/4958/4459/200/project%202.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
@@ -26,7 +25,7 @@ data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/project%2
 
 [](http://photos1.blogger.com/blogger2/4958/4459/1600/project%201.jpg)
 
-This might be an obvious thing for some but i have missed its full
+This might be an obvious thing for some but I have missed its full
 potential for a while. And thank You Stefan for pointing it out to me.
 
 There is a new feature in Visual Studio 2005 called Solution Folders.

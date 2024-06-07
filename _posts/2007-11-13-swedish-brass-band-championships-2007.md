@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2880669356695036627
 blogger_orig_url: http://www.marcusoft.net/2007/11/swedish-brass-band-championships-2007.html
 ---
 
-
 As I [predicted](http://marcushammarberg.blogspot.com/2007/10/swedish-brass-band-championships-2007.html)
 the Swedish Brass band championships this year was mostly a formal
 matter when it comes the first places.
@@ -20,7 +19,7 @@ Windcorp of course took the top honors. They weren't treated really when
 That [Solna](http://www.solnabrass.com/) was second was not too
 surprising either.
 
-After that it was quite open and i congratulate [Malmö Brass
+After that it was quite open and I congratulate [Malmö Brass
 band](http://www.malmobrassband.com/) with the third place. And that
 [Torsby](http://www.torsbybrass.se/) was fourth was a real feat - well
 done [Torsby](http://www.torsbybrass.se/) and Berit Palmquist!

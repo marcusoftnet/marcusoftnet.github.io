@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
 blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
 ---
 
-I've just been to [Agile Singapore](http://2014.agilesingapore.org/) and had a blast. What a nice bunch of people I met there! And the event was super; fun well organised and informative - that's all i want from conference.
+I've just been to [Agile Singapore](http://2014.agilesingapore.org/) and had a blast. What a nice bunch of people I met there! And the event was super; fun well organised and informative - that's all I want from conference.
 
 I also had an opportunity to give a presentation there. It was quite some time since I created one for scratch so I took it (the opportunity) to rewrite my [Kanban in Action](http://bit.ly/theKanbanBook) presentation.
 
@@ -26,7 +26,7 @@ I don't consider myself an expert on desimomomooahahahaaa (sorry could not keep 
 
 I've come to notice that I work on my presentation in a number of iterations. In true lean fashion I try to produce something that would be possible to deliver as a presentation at the end of each iteration, each iteration producing something more and more polished.
 
-This has another advantage I've noticed - I takes much less effort to learn once I have the finished presentation. I have already rehearsed the presentation a number of times in my head. Meaning that the time from any step below to "ready to give presentation" *should* be short. Sometimes that works.
+This has another advantage I've noticed - I takes much less effort to learn once I have the finished presentation. I have already rehearsed the presentation a number of times in my head. Meaning that the time from any step below to "ready to give presentation" _should_ be short. Sometimes that works.
 
 Here's my rough process, sometimes I do more than one thing at the time and sometimes I skip steps. I has to do with how much time I've got.
 
@@ -40,7 +40,7 @@ I even try out sound bytes for part of my talk:
 
 > So that means I rather do small steps often than gigant steps seldom.
 >
-> Kanban is a process improvement tool. It makes you and your team better.  It’s collaborative, visual and really simple  to pick up
+> Kanban is a process improvement tool. It makes you and your team better. It’s collaborative, visual and really simple to pick up
 
 Often I end up doing run-throughs of the talk or parts of it. Just to get a feel for how I would present this.
 
@@ -50,7 +50,7 @@ After this stage, if pressed I could deliver a very unstructured and clumsy pres
 
 ### Script
 
-I've been blogging for about 8 years now. I like to write and I type pretty fast. So my way of concretize my thoughts is to write.  In this step I take my notes from the thinking and turn them into a script.
+I've been blogging for about 8 years now. I like to write and I type pretty fast. So my way of concretize my thoughts is to write. In this step I take my notes from the thinking and turn them into a script.
 
 I write the script in markdown in my favorite editor [IaWriter](http://www.iawriter.com). Buy it now - you will not be disappointed.
 
@@ -108,7 +108,7 @@ Quite often I find it hard to find a single word or concept that describes the t
 
 I sort the pictures under respectively header by moving them in under each other. In this way I can collapse and expand the pictures as needed and keep my overview even though I end up with many pictures. See the picture to the right.
 
-After this I have a completed slide deck with short, descriptive words on each slide and all of my presenter notes in the talk.  I have given presentations like this. It's pretty dull but if you move fast it can be very effective too. Check out [pecha kucha](http://www.pechakucha.org/) where people often use this technique.
+After this I have a completed slide deck with short, descriptive words on each slide and all of my presenter notes in the talk. I have given presentations like this. It's pretty dull but if you move fast it can be very effective too. Check out [pecha kucha](http://www.pechakucha.org/) where people often use this technique.
 
 ### Choosing pictures
 
@@ -125,7 +125,7 @@ My thinking around the pictures:
 - Try to replace the word or phrase with a single picture. Which of course sometimes is hard to I end up splitting the slides even more.
 - I'm not looking for perfect matches but rather something that associates the mind. For example: the "Why should I care?"-slide might have someone yawning.
 - Only one picture per slide unless I'm showing a process or progress (see animation below)
-- Make the picture big. Over the entire slide big. Too many presentations have pictures in the lower corner of a slide covered with a lot text. Don't do that! Remove the text and make the picture big and bold.  
+- Make the picture big. Over the entire slide big. Too many presentations have pictures in the lower corner of a slide covered with a lot text. Don't do that! Remove the text and make the picture big and bold.
 
 Once that is done my slide deck start to live up a bit:
 
@@ -193,7 +193,7 @@ Make sure that you have time over for questions after the talk. If in no other w
 
 I always give a link to a download the slides on my last slide. So I have to upload slides before the talk, or at least get a bit.ly-link ready. Sharing is caring. Sometimes I don't share my presenter notes but most times I share them too.
 
-My last slide always contains contact information so people can ask me questions that pops up afterwards.  
+My last slide always contains contact information so people can ask me questions that pops up afterwards.
 
 ### Summary
 

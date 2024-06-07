@@ -12,9 +12,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3548146079645682687
 blogger_orig_url: http://www.marcusoft.net/2007/04/tdd-how-is-it-done.html
 ---
 
-
 The next
-project will be done with Test Driven Development - i am really looking
+project will be done with Test Driven Development - I am really looking
 forward to this!
 
 We have all read about TDD, on this pros and cons and how it is done
@@ -28,5 +27,5 @@ and ui-layers. Especially from the [Doing Test-Driven
 Development](http://www.codeproject.com/dotnet/#h11) paragraph. The rest
 of the article is a very nice introduction to Nunit and other tools.
 
-I'll get back to you all when i have got the pieces together surrounding
+I'll get back to you all when I have got the pieces together surrounding
 this.

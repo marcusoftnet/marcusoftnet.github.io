@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7963168812570339592
 blogger_orig_url: http://www.marcusoft.net/2010/01/nunit-and-constraint-based-model.html
 ---
 
-
 At the
 <a href="http://blog.avegagroup.se/elevate/" target="_blank">Elevate</a>
 presentation <a
@@ -32,5 +31,5 @@ old style:
 
 And here is the same assertion in the Constraint-based version:
 
-Now read it out loud; Assert… That … i … is equal to 10. Nice, isn’t it?
+Now read it out loud; Assert… That … I … is equal to 10. Nice, isn’t it?
 I like that a lot.

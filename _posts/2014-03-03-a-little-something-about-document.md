@@ -9,9 +9,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3446493776187439494
 blogger_orig_url: http://www.marcusoft.net/2014/03/a-little-something-about-document.html
 ---
 
-
-
-
 This is just a short thing that I experienced when doing the data layer
 for <a href="https://github.com/aptitud/AptiTalk/"
 target="_blank">AptiTalk</a>. AptiTalk is an attempt to create a
@@ -40,7 +37,7 @@ alright with that model. I started to implement the data layer and wrote
 tests for it.
 But... after awhile it started to squeak. A lot.
 
-I noticed it when i started to put the whole thing together. In order to
+I noticed it when I started to put the whole thing together. In order to
 create a post I had to:
 
 Save the Post to the database

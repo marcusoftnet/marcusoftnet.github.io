@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3461087732195603473
 blogger_orig_url: http://www.marcusoft.net/2006/11/weekend-impressions.html
 ---
 
-
 The [silly
 season](http://marcushammarberg.blogspot.com/2006/11/christmas-season.html)
 i wrote about is taking off! This weekend we had two very contrasting
@@ -26,7 +25,7 @@ people came. It would have been good if they all came for us ... but
 this was the Salvation Army Christmas Concert and we were the
 "picturesque" Salvation Army-stuff in the concert. A lot of famous
 Swedish artists were there too.
-However the band played exceptionally well, i thought, and we probably
+However the band played exceptionally well, I thought, and we probably
 raised a few eyebrows.
 
 This week we have only two gigs - both on Sunday. And rehearsal of

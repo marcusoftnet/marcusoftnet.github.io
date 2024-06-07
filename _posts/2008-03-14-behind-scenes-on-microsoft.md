@@ -10,10 +10,9 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8652257912350570669
 blogger_orig_url: http://www.marcusoft.net/2008/03/behind-scenes-on-microsoft.html
 ---
 
-
 As
 we do at Marcusoft, our sister company Microsoft are serious enough to
-be able to laugh at ourselves. If now no one else does it i mean...:
+be able to laugh at ourselves. If now no one else does it I mean...:
 
 <http://preview.microsoft.com/video/videoDetails.aspx?video=5b0e3385-8f48-4dff-bf52-d8204285c0ff>
 

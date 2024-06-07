@@ -13,7 +13,7 @@ Anyone
 who has worked with me know that I love shortcuts
 (that is
 <span id="SPELLING_ERROR_11" class="blsp-spelling-error">keyboard
-shortcuts - i <span
+shortcuts - I <span
 id="SPELLING_ERROR_13" class="blsp-spelling-error">wouldn't <span
 id="SPELLING_ERROR_14" class="blsp-spelling-error">dream <span
 id="SPELLING_ERROR_15" class="blsp-spelling-error">of <span
@@ -48,7 +48,7 @@ a list <span id="SPELLING_ERROR_38"
 class="blsp-spelling-error">of <span id="SPELLING_ERROR_39"
 class="blsp-spelling-error">some <span id="SPELLING_ERROR_40"
 class="blsp-spelling-error">of <span id="SPELLING_ERROR_41"
-class="blsp-spelling-error">them - i <span id="SPELLING_ERROR_42"
+class="blsp-spelling-error">them - I <span id="SPELLING_ERROR_42"
 class="blsp-spelling-error">haven't <span id="SPELLING_ERROR_43"
 class="blsp-spelling-error">seen <span id="SPELLING_ERROR_44"
 class="blsp-spelling-error">some <span id="SPELLING_ERROR_45"

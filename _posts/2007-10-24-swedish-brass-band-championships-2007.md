@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6601734033766094621
 blogger_orig_url: http://www.marcusoft.net/2007/10/swedish-brass-band-championships-2007.html
 ---
 
-
 OK - it is time to do my predictions for the Swedish Brass Band
 Championships. I have already [brushed on the
 subject](http://marcushammarberg.blogspot.com/2007/05/gteborg-brass-band-aftermath.html)
@@ -33,7 +32,7 @@ Too bad that it won't be much of a fight.
 
 [Solna Brass](http://www.solnabrass.com/) will come. And they will have
 James Watson conducting them. I know that they can get their things
-together and play very well indeed. Not to win, i think but maybe
+together and play very well indeed. Not to win, I think but maybe
 second.
 
 So to the other side of Sweden; [Windcorp Brass

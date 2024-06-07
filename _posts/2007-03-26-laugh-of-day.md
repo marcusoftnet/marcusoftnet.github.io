@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6679979808538834148
 blogger_orig_url: http://www.marcusoft.net/2007/03/laugh-of-day.html
 ---
 
-This is so much fun - i can't believe that we laugh at this. This is how
+This is so much fun - I can't believe that we laugh at this. This is how
 it works under the covers on a computer, you know.
 
 <http://www.1-click.jp/>

@@ -11,14 +11,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1975302922210298912
 blogger_orig_url: http://www.marcusoft.net/2007/08/morning-devotional-by-friend-of-mine.html
 ---
 
-
 This week a friend of mine, Miriam Kjellgren, is featured on a radio
 show in Sweden. She is responsible for the morning devotionals in P1.
 
-She also is one of the wisest persons i know so the programs will be
+She also is one of the wisest persons I know so the programs will be
 well worth listening to. You can listen to them for 30 days after
 broadcast
 [here](http://www.sr.se/cgi-bin/P1/program/sandningsarkiv.asp?programID=1320).
 
 The music in between is Enfield Band playing the Light of the
-World. Brass, Miriam, i am so impressed ;)
+World. Brass, Miriam, I am so impressed ;)

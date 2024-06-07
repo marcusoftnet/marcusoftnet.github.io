@@ -11,11 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2632444438059152696
 blogger_orig_url: http://www.marcusoft.net/2007/12/weekend-report-part-1.html
 ---
 
-
 What a
 weekend!
 Phew - a most hectic period is to an end but it
-all went very well - soon i will stop to worry about this. I fall into
+all went very well - soon I will stop to worry about this. I fall into
 the same trap each time...
 
 Well - this Friday we finally did the Vasakårens

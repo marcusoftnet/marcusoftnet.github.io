@@ -12,5 +12,5 @@ blogger_orig_url: http://www.marcusoft.net/2008/01/webdesign-great-introduction.
 ---
 
 Found a site that promise to be a great introduction to web design, css
-and stuff that i don't know much about:
+and stuff that I don't know much about:
 <http://www.webdesignfromscratch.com/>

@@ -17,7 +17,7 @@ band.
 
 Top of the list must be that Patrik Randefalk is the new soloeuphonium
 of the world-famous Eikanger-Bjørsvik band in Norway. This band is one
-of the best bands in the movement if you ask me and i am sure that
+of the best bands in the movement if you ask me and I am sure that
 Patrik will contribute to their continued successes. Good luck Patrik.
 Looking forward to hearing the band with the low brass led by you!
 

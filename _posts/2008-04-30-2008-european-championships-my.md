@@ -18,7 +18,7 @@ the event takes place in Norway, in Stavanger.
 We Swedes are of course strengthen by the win of
 [WindCorp](http://www.windcorpbrassband.se/) in
 [Grenland](http://www.4barsrest.com/news/detail.asp?id=7708), which from
-what i understand was a great display from the band. We've come to
+what I understand was a great display from the band. We've come to
 expect nothing less from that great band.
 
 The Swedish band competing in Stavanger is [Stockholm Brass
@@ -29,7 +29,7 @@ potential to do so. I'll be keeping my thumbs crossed all weekend.
 So how will it all go down? The test piece is quite modern and not very
 "brass bandy". So that will probably promote that type of bands (like
 Stockholm and Oberoesterreich Brass Band). Of course that all comes down
-to what the judges is listening for. But from what i understand the
+to what the judges is listening for. But from what I understand the
 judges also are not brass band people.
 
 The own choice is another story - here the standard brass band
@@ -44,6 +44,6 @@ So all in all its about balancing the two styles. So here is my guess:
 4. [Cory](http://www.buyasyouviewcoryband.co.uk/)
 5. [Stockholm](http://www.stockholmbrass.se/)
 
-Being a bit patriotic for the last thing i still think it is a
+Being a bit patriotic for the last thing I still think it is a
 possibility. I wish all the bands good luck (as if the all read this :))
 but most of all Stockholm Brass Band.

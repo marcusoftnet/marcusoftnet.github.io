@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-842899556383643024
 blogger_orig_url: http://www.marcusoft.net/2007/04/new-assignment.html
 ---
 
-
-Yesterday i started a new assignment. Still the insurance business
+Yesterday I started a new assignment. Still the insurance business
 but a very different company. This is so big in comparison. The
 IT-department has 150 employed developers to be compared with the three
 person from the last place.
@@ -23,5 +22,5 @@ waiting for a day for admin rights on your computer. But all in all its
 fun to do something new.
 
 Soon the scary presentation will start... The butterflies has a
-gathering in my stomach. A short prayer and knowing that i have prepared
+gathering in my stomach. A short prayer and knowing that I have prepared
 will probably make them disappear...

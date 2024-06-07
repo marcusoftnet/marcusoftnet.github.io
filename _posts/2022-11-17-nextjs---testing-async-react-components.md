@@ -4,9 +4,9 @@ title: Next.JS - testing async React components
 author: Marcus Hammarberg
 date: 2022-11-17 14:50:34
 tags:
- - React
- - Next.JS
- - Testing
+  - React
+  - Next.JS
+  - Testing
 ---
 
 I had the great joy of teaching a course on [Next JS 13](https://nextjs.org) this last week. Next has for a long time been a favorite of mine and with version 13 they have really stepped it up a notch. Or three.
@@ -134,7 +134,7 @@ I also created a list of numbers on the home page (`/app/page.tsx`) like this:
 import Link from "next/link";
 
 const HomePage = () => {
-  const arrayOfTen = Array.from({ length: 10 }, (_, i) => i + 1);
+  const arrayOfTen = Array.from({ length: 10 }, (_, i) => I + 1);
   return (
     <div>
       <h1>Showing the first 10 heroes</h1>
@@ -166,7 +166,7 @@ But, as I wrote in the beginning, this is nothing that Next package up for us.
 In order make this happen there are a few things we need to install and configure. Run these commands and I'll describe what happened below:
 
 ```bash
-npm i -D @testing-library/react jest @testing-library/jest-dom ts-node jest-environment-jsdom
+npm I -D @testing-library/react jest @testing-library/jest-dom ts-node jest-environment-jsdom
 
 npx -y scradd . "test" "jest"
 npx -y scradd . "test:watch" "npm t -- --watch"
@@ -239,12 +239,14 @@ Ok - but this gives you a TypeScript error when (or before if you are using [Err
 
 ## Solving the problem
 
-Let's stop and think for awhile here. I think TypeScript is trying to communicate with us. It says that our component is not returning a `JSX Element`, but rather a `Promise<Element>` (a Promise *of* Element).
+Let's stop and think for awhile here. I think TypeScript is trying to communicate with us. It says that our component is not returning a `JSX Element`, but rather a `Promise<Element>` (a Promise _of_ Element).
 
 We can actually see this by opening `/app/[id]/page.tsx` and hover over the `HeroPage` function, i.e. our component function. Here is the function definition:
 
 ```typescript
-const HeroPage: ({ params: { id } }: HeroComponentProps) => Promise<JSX.Element>
+const HeroPage: ({
+  params: { id },
+}: HeroComponentProps) => Promise<JSX.Element>;
 ```
 
 Also, going WAY back in our React training. Remember that a React (functional) component is just a function that returns JSX. It's just a function.
@@ -287,18 +289,17 @@ We are testing `async` server components, using React Testing library. But it is
 
 I'm not all sure but I think that `fetch is not defined` comes from the fact that we are using the `jsdom` (installed as `jest-environment-jsdom`). That is not really a browser, but just an API that wraps around pages, so that we can program against them. This is what `screen` is wrapping for us.
 
-One thing that *is* missing from `jsdom`, most likely is a `fetch` implementation.
+One thing that _is_ missing from `jsdom`, most likely is a `fetch` implementation.
 
-We now have two, quite similar, options. We can supply a *real* fetch for the `jsdom` to use, inside render. Or we can fake one, using mocking. Let's do the other option first, because I don't like writing tests that depends on APIs the internet. Its too slow and flaky.
+We now have two, quite similar, options. We can supply a _real_ fetch for the `jsdom` to use, inside render. Or we can fake one, using mocking. Let's do the other option first, because I don't like writing tests that depends on APIs the internet. Its too slow and flaky.
 
 Run this:
 
 ```bash
-npm i -D jest-fetch-mock
+npm I -D jest-fetch-mock
 ```
 
 That is a tool that makes mocking of `fetch` easy. Update the test to this:
-
 
 ```typescript
 import { render, screen } from "@testing-library/react";
@@ -343,7 +344,7 @@ Ok - lots of code here, but it's mainly just me setting up the fake data `luke` 
 
 Other than that - it now works and we can test our `async` server component using a fake `fetch`.
 
-Oh - you could use a *real* fetch too, I presume., if you wanted, by supplying your component a real implementation, like [`node-fetch`](https://www.npmjs.com/package/node-fetch) (install with `npm i -D node-fetch`).
+Oh - you could use a _real_ fetch too, I presume., if you wanted, by supplying your component a real implementation, like [`node-fetch`](https://www.npmjs.com/package/node-fetch) (install with `npm I -D node-fetch`).
 
 I haven't played around with this, since I'm not a fan of having my unit and integration tests depend on APIs. That's what end-to-end tests are for. But I'm quite sure you could make this work.
 
@@ -383,12 +384,10 @@ await render(<HeroComponent params={id: 2} />)
 
 but I couldn't get it to work. This will have to suffice for now.
 
-
-
 ## Summary
 
 We made it. We now written test for our `async` server components using the React testing library syntax and assertions.
 
-I haven't mentioned this but the client side components can also be tested in the same manner. That is what React testing library was written for, and hence i haven't written much about that here. Others have done that better than me.
+I haven't mentioned this but the client side components can also be tested in the same manner. That is what React testing library was written for, and hence I haven't written much about that here. Others have done that better than me.
 
 Hope this helped you.

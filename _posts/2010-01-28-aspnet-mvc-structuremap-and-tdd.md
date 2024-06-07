@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8081588236115919566
 blogger_orig_url: http://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-tdd.html
 ---
 
-
 I’ve been playing around a bit with
 <a href="http://www.asp.net/mVC/" target="_blank">ASP.NET MVC</a> and
 StructureMap (an IOC container). It all looks very nice and works
@@ -26,7 +25,7 @@ target="_blank">StructureMap and ASP.NET MVC together</a>. Beware of the
 href="http://haacked.com/archive/2008/07/14/make-routing-ignore-requests-for-a-file-extension.aspx"
 target="_blank">favicon-problem though</a>.
 
-Again – i use <a href="https://www.hibernate.org/343.html"
+Again – I use <a href="https://www.hibernate.org/343.html"
 target="_blank">NHibernate</a> and
 <a href="http://fluentnhibernate.org/" target="_blank">Fluent
 NHibernate</a> which so much nicer than the XML-stuff. The critics to

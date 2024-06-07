@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6552408940114082155
 blogger_orig_url: http://www.marcusoft.net/2008/03/recording-session-ii.html
 ---
 
-
 Yesterday
 evening was the last rehearsal before the second and last recording
 session with my band, the Vasa Band.
@@ -29,4 +28,4 @@ lot of hard work. The pieces we are going to record are:
 - Journey into Peace - euphonium solo by William Himes
 - Hawthorne march - a march from the 1920's
 
-I am really proud of the band and i am sure that this will be great.
+I am really proud of the band and I am sure that this will be great.

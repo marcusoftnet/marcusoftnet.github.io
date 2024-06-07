@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4714403665752490331
 blogger_orig_url: http://www.marcusoft.net/2009/05/ddd-whats-deal.html
 ---
 
-
 After doing <a href="http://en.wikipedia.org/wiki/Domain-driven_design"
 target="_blank">DDD</a> (on a very basic level) for sometime now, I now
 realize that I could benefit with some sort of sum up. Often when I
@@ -24,10 +23,10 @@ change over time but here is how I see it today):
 
 I think first that the whole idea of DDD can be divided into two aspects
 (actually <a href="http://blog.avegagroup.se/JoakimSunden/default.aspx"
-target="_blank">Jocke</a> pointed me in this way but i like it):
+target="_blank">Jocke</a> pointed me in this way but I like it):
 
 - first code - a bunch of design patterns that help you produce great
-    object-oriented, testable software
+  object-oriented, testable software
 - then the implications on the way you can do software projects.
 
 For the code part there is not much to add, or rather not much that

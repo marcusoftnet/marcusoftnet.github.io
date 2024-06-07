@@ -11,9 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2986599029917462335
 blogger_orig_url: http://www.marcusoft.net/2007/12/displaying-xml-in-webbrowser-control.html
 ---
 
-
 This is one of those "how can this be hard stuff", and after
-checking the Net i couldn't find anything much about how to do it.
+checking the Net I couldn't find anything much about how to do it.
 
 The case is as follow; say that you have some XML that you want to
 display to the user. What better way than to use the nice format used by

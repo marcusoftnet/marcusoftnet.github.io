@@ -11,15 +11,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7517380477412776424
 blogger_orig_url: http://www.marcusoft.net/2007/04/including-namespaces-in-new-vbnet.html
 ---
 
-
 (UPDATE 2007-04-26 after reading this see
 <http://marcushammarberg.blogspot.com/2007/04/chose-your-battles.html>)
 
-When converting myself from C# to VB.NET i found one thing that annoyed
+When converting myself from C# to VB.NET I found one thing that annoyed
 me very much; when you create a new class in VB.NET the namespace is not
 included in the file.
 
-After a long and hard search i found out that there is a bit of a
+After a long and hard search I found out that there is a bit of a
 cultural difference here that comes into play. On the project-file for
 VB.NET project you'll find a setting called Root Namespace. The text you
 write here gets pre-pended to all classes a compile-time. So if you
@@ -44,13 +43,13 @@ Find my short version below
 1. Remove the Root Namespace from all your project. Now and forever!
 2. Create a new shiny class in your project
 3. Include the right namespace declarations and other things that you
-    want in all your, for example comments, regions etc.
+   want in all your, for example comments, regions etc.
 4. Save the file
 5. Choose File-\>Export Template
 6. Go Item template and go through the rest of the wizard
 7. Distribute the created zip-file in your project. Your project
-    members need to put it in their Document and Settings\Visual Studio
-    2005\My Exported Templates-folder and restart the studio
+   members need to put it in their Document and Settings\Visual Studio
+   2005\My Exported Templates-folder and restart the studio
 8. Viola!
 
 This solves some of the namespace problem but the

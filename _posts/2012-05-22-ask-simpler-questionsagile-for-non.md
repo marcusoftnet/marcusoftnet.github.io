@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8353209360813982392
 blogger_orig_url: http://www.marcusoft.net/2012/05/ask-simpler-questionsagile-for-non.html
 ---
 
-
 A couple of years ago I attended a course with
 <a href="http://www.agilemanagement.net/" target="_blank">David J
 Andersson</a>, father of
@@ -80,7 +79,7 @@ can even reach a point where the rest of the work is a "fill in the
 blanks" exercise.
 
 And for me, just trying to turn the tables on a "bad" answer and let it
-reflect on me is worth thinking about; what can i do to get a better
+reflect on me is worth thinking about; what can I do to get a better
 answer.
 
 > If you get a bad answer - you probably have asked a too hard question.

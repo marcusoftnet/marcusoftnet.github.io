@@ -11,14 +11,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1200052981307398407
 blogger_orig_url: http://www.marcusoft.net/2007/01/lots-of-things-to-do.html
 ---
 
-
 So, why
-do i always think that "it will be lesser to do this semester" - when i
+do I always think that "it will be lesser to do this semester" - when i
 know...
 
 This week contains a lot of different stuff to do, most fun but they are
 really packing up. It's something "extra" on the agenda each day of this
-week. But compared to the opposite (nothing to do) i would choose this
+week. But compared to the opposite (nothing to do) I would choose this
 every time, twice on Sundays :).
 
 So I'll try to report here whats going on.

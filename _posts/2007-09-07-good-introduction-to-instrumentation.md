@@ -11,11 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1070132324446337951
 blogger_orig_url: http://www.marcusoft.net/2007/09/good-introduction-to-instrumentation.html
 ---
 
-
 We'll adding instrumentation to our application but we lack
 experience in the project. Google to the fore!
 
-A quick search later and i found this good [introduction to
+A quick search later and I found this good [introduction to
 instrumentation](http://www.grimes.demon.co.uk/workshops/instrumentationWS.htm)
 for .NET 2.0. I haven't read it all yet but it looks pretty extensive
 and to be written in a nice comprehensive manner.

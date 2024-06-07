@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5354759544542362529
 blogger_orig_url: http://www.marcusoft.net/2008/03/abbe-growing-and-growing.html
 ---
 
-
 [<img
 src="http://4.bp.blogspot.com/_kkDJOSPNTLs/R9QuOrtDxaI/AAAAAAAAASI/meySp48QUxs/s320/PICT2590.JPG"
 id="BLOGGER_PHOTO_ID_5175812701540304290"
@@ -34,4 +33,4 @@ keep trying sounds and sights and see if the laugh can be lured out of
 him again.
 
 Above are some recent photos. I haven't been able to catch a smile yet -
-but i am looking... watch this space
+but I am looking... watch this space

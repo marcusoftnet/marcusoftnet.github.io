@@ -29,9 +29,9 @@ id="BLOGGER_PHOTO_ID_5097464462844824370"
 style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
 data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/Rr3U6-MLCzI/AAAAAAAAALE/XJFNeFoC-TE/s1600-h/PICT1896.JPG)
 
-I am home again after four weeks vacation. Feels great and i am really
+I am home again after four weeks vacation. Feels great and I am really
 in the mood to get down and do some programming again, and playing, and
-all the other stuff that i normally do.
+all the other stuff that I normally do.
 
 The vacation has been filled with wonderful sights (pictures from
 Croatia included above) and experiences. But, as it always do, you long
@@ -39,7 +39,7 @@ for home in the end - and that is a good thing right? I mean that means
 that you like your home the best of the places you been so far - good
 for me. :)
 
-The news i promised in an earlier post is that we are going to have a
+The news I promised in an earlier post is that we are going to have a
 baby!
 
 still five months away... I promise some more facts and my thoughts on

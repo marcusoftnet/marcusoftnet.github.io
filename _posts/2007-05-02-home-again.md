@@ -13,7 +13,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/05/home-again.html
 
 Just started the first day after a trip to Sardine (?) in Italy, with Avega.
 
-What a great bunch of people! I really enjoyed myself during this trip. On the way home i had a feeling that often have come over me when i been on tours or camps... you know: "so - now it's over i we will never have this much fun again. Just think if it would last forever". Only difference this time is that it will last.
+What a great bunch of people! I really enjoyed myself during this trip. On the way home I had a feeling that often have come over me when I been on tours or camps... you know: "so - now it's over I we will never have this much fun again. Just think if it would last forever". Only difference this time is that it will last.
 
 So a big thank you to all the organizers for the trip and to all the Avega People that made this trip into what it was - great fun and a great feeling of "we can do anything".
 

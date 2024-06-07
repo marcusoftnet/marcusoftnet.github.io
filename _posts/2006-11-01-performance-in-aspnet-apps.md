@@ -18,6 +18,6 @@ However what really caught my eye was the sidebar about performance
 myths. [Read it
 here](http://msdn.microsoft.com/msdnmag/issues/05/01/ASPNETPerformance/default.aspx?loc=&side=true#a).
 
-Some of those were new to me and some old, which but i have so many
+Some of those were new to me and some old, which but I have so many
 times tried to explain to customers (such the one about different speed
 on VB.NET and C#-code). So nice to have a place to point to...

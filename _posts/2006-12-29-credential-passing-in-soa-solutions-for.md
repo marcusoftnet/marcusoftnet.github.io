@@ -10,8 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1388415888810018347
 blogger_orig_url: http://www.marcusoft.net/2006/12/credential-passing-in-soa-solutions-for.html
 ---
 
-
-So finally i got the opportunity to write some about a finding that
+So finally I got the opportunity to write some about a finding that
 has solved a major problem at my customer. A big thank you to Fredrik A
 and Micke for the help on this solution.
 
@@ -35,7 +34,7 @@ SQL Server.
 So far the problem, the solution was to do a Impersonate when the
 internal web service executed. I first thought that this was impossible,
 since you actually have to change the credentials for the user running
-the current thread. However i was corrected via the [following
+the current thread. However I was corrected via the [following
 article](http://www.codeproject.com/csharp/ZetaImpersonator.asp) which
 uses some Windows API to do a impersonation.
 

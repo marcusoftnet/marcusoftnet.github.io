@@ -10,9 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4434228925994019806
 blogger_orig_url: http://www.marcusoft.net/2006/12/merry-continuation.html
 ---
 
-
 Back from a
-relative short holiday-season i am almost alone in the office. Today
+relative short holiday-season I am almost alone in the office. Today
 will be spent in Word, fleshing out the solution from the day before
 Christmas. It will actually be quite fun (?) even though You can't say
 that as a hacker.

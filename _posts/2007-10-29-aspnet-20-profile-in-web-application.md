@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5749312230854668126
 blogger_orig_url: http://www.marcusoft.net/2007/10/aspnet-20-profile-in-web-application.html
 ---
 
-
-It has been a while since i coded web (not longing to much, i can
+It has been a while since I coded web (not longing to much, I can
 say) and during this time a lot of development has happened of course.
 One of the great new features in ASP.NET 2.0 is the membership and
 profile handling which gives you easy access to store and get values
@@ -24,7 +23,7 @@ here](http://www.odetocode.com/Articles/440.aspx).
 
 However there is a problem in the different project models. When Visual
 Studio 2005 was released Microsoft did an attempt to solve the "i want
-to place my files for web projects wherever i want"-problem, and came up
+to place my files for web projects wherever I want"-problem, and came up
 with the Web Site-project type. It sucks!
 
 That project type doesn't contain a project file and has a completely

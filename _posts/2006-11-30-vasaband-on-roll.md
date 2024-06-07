@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6659423292729480900
 blogger_orig_url: http://www.marcusoft.net/2006/11/vasaband-on-roll.html
 ---
 
-
 [<img
 src="http://photos1.blogger.com/x/blogger2/4958/4459/320/921092/julkonsert%2006.jpg"
 style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
@@ -26,7 +25,7 @@ the band has always been great. And during the last few months we are
 also starting to play better and better.
 
 To the spring we are reinforced with some more cornets - so (you know i
-like to look into the future) i predict that the spring will be great.
+like to look into the future) I predict that the spring will be great.
 
 I just love to play in the band! It's so fun and we have a great time -
 thank you guys!

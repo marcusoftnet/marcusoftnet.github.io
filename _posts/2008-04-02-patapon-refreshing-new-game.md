@@ -11,6 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2008/04/patapon-refreshing-new-game.h
 ---
 
 This game, [Patapon](http://www.us.playstation.com/patapon/), looks so
-nice / fun / refreshing that i might buy a
+nice / fun / refreshing that I might buy a
 [PSP](http://www.us.playstation.com/PSP/About) just to get it
 The site for the game is also really cool.

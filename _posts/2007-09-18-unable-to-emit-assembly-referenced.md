@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5310005411164515714
 blogger_orig_url: http://www.marcusoft.net/2007/09/unable-to-emit-assembly-referenced.html
 ---
 
-Hmmm - another "Why does VB.NET hides so many useful things from me?" thing that adds to my determination to vote for C# whenever i get the chance.
+Hmmm - another "Why does VB.NET hides so many useful things from me?" thing that adds to my determination to vote for C# whenever I get the chance.
 
 The case is as follows; you have a project that you want to strong name. However it references a assembly that not is strong named. That will give you the following error from the compiler:
 

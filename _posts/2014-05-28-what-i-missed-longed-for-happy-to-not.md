@@ -12,9 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5858312803103136395
 blogger_orig_url: http://www.marcusoft.net/2014/05/what-i-missed-longed-for-happy-to-not.html
 ---
 
-
-
-
 Tomorrow I will end a 30 day social media fast.
 
 I got a bit overwhelmed and depressed by some comments and discussions
@@ -66,7 +63,7 @@ with? Things like that. I missed talking with people.
 ### Not missed
 
 I don't miss the stress about checking my twitter stream. I have now
-decided to do that 3 times a day. 20 minutes max when i get into the
+decided to do that 3 times a day. 20 minutes max when I get into the
 office, after lunch and when I get home. I will not install any apps to
 check social media for me, but will have to go through the "hassle" of
 opening a browser.
@@ -75,16 +72,17 @@ I don't miss the stress of tweeting. "oh, this would make a great
 tweet". I will not tweet that anymore. My day to day life simple is not
 that interesting. I think.
 
-|                                                                                              |
-|:--------------------------------------------------------------------------------------------:|
-|                                              <a
+|     |
+| :-: |
+
+| <a
   href="http://i0.kym-cdn.com/photos/images/newsfeed/000/039/080/5008_9c00_420.gif?1318992465"
                                       data-imageanchor="1"
      style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img
   src="http://i0.kym-cdn.com/photos/images/newsfeed/000/039/080/5008_9c00_420.gif?1318992465"
-                        data-border="0" width="320" height="243" /></a>                        |
-|                From <a href="http://knowyourmeme.com/memes/haters-gonna-hate"
-                               target="_blank">Know You Meme</a>                               |
+                        data-border="0" width="320" height="243" /></a> |
+| From <a href="http://knowyourmeme.com/memes/haters-gonna-hate"
+                               target="_blank">Know You Meme</a> |
 
 I don't  miss the anxiety of publishing things. "Dare I publish this?",
 "Wonder what X would answer to this tweet". Those thoughts still make me

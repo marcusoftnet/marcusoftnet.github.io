@@ -15,9 +15,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865
 blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html
 ---
 
-
-
-
 [SpecFlow](http://specflow.org/) is a wonderful tool. With a lot of
 hidden gems inside of it. I have been using and coding on it now for
 about 4 years and still I often forget about features and extension
@@ -30,7 +27,7 @@ built right into SpecFlow? Now you do and in this post I wanted to show
 you one way that you could use that feature to make your step
 definitions more maintainable.
 
-I found this feature (again, i had heard about it before) when Gaspar
+I found this feature (again, I had heard about it before) when Gaspar
 mentioned it too me after my presentation at [CukeUp
 2013](http://skillsmatter.com/podcast/agile-testing/cuke-envy-a-dot-net-programmers-attempt-to-catch-up) and
 the usage is part of ["Pushing the HOW

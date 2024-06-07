@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1226455410688214850
 blogger_orig_url: http://www.marcusoft.net/2007/01/mobilephones-forbidden-on-subway-in.html
 ---
 
-
 Just so that you know where you read it first...
 
 Since the start of the year the company running the subway and buses in
@@ -27,5 +26,5 @@ really are plugging the mobile as a great way of communicating with
 them. A lot of efforts has been put in to set up sites and portals for
 mobiles. Very nice then that you can't use it on the trains and buses...
 
-I bet that we will laugh at this in a year or so. So - as i said at the
+I bet that we will laugh at this in a year or so. So - as I said at the
 top: here is where you read it first. Don't forget it

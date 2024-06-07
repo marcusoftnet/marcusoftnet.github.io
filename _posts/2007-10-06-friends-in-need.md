@@ -11,25 +11,24 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1842414620581890623
 blogger_orig_url: http://www.marcusoft.net/2007/10/friends-in-need.html
 ---
 
-
 There's been a lot of blogging about computer stuff for a while -
-that time in the project i suspect... Well - this one is not.
+that time in the project I suspect... Well - this one is not.
 
-For a while i have been disturbed about the fact that many young people
+For a while I have been disturbed about the fact that many young people
 in Sweden today doesn't "feel good" or "have issues". Often that means
 that there some psychic problems, but it's not considered good manners
 to use that words. "Burnt out" is another phrase, used too much to
 capture the true sense.
 
 This hits everyone, it seems. Students and working, young (13?!!) and
-older, happy and sad. It has gone so far among people i know that
+older, happy and sad. It has gone so far among people I know that
 everyone knows somebody who has these kind of problems.
 
-Just this day i met a friend of mine that always seems to be in a good
+Just this day I met a friend of mine that always seems to be in a good
 mood. He's very, very successful, a Christian and always seems to have
 time. But now he looked slow, almost scared. I heard, a few weeks back,
 that he was sick but nothing about this. When we met he hugged me for a
-long time - i don't know him so good... But it felt like he really
+long time - I don't know him so good... But it felt like he really
 longed for it.
 
 Why is this? Sweden is one of the best countries in the world to live
@@ -39,7 +38,7 @@ this so common here?
 Why does this also come to Christians? Wasn't it supposed to be a
 **good** life with Jesus?
 
-Of course i don't have the answer to that one - wouldn't be very smart
+Of course I don't have the answer to that one - wouldn't be very smart
 to work with computers if you knew that secret, would it?
 
 I just now one thing;
@@ -59,9 +58,9 @@ support, power, joy and love to get us to the next step.
 
 So if you read this and recognize the symptoms above - then ask
 yourself; do you want to go through it alone? If not then simply pray;
-"Jesus, i want you in my life. Help me through this." and i promise, the
+"Jesus, I want you in my life. Help me through this." and I promise, the
 second after he will carry you.
 
-And for my friends carrying on these burdens, especially you i met
+And for my friends carrying on these burdens, especially you I met
 today... I will continue to pray that the lord will keep you... close to
 him.

@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5196648005050045479
 blogger_orig_url: http://www.marcusoft.net/2008/04/sending-parameters-to-msbuild-in-tfs.html
 ---
 
-
 The build process in Team Foundation Server is the one part where
 you still miss some stuff. Although it is much better in TFS 2008 than
 in TFS 2005 it is still quite cumbersome to handle.
@@ -21,7 +20,7 @@ into the .proj-file to do updates is also confusing. Most people don't
 want to be fiddling around with the nitty-gritty details of a
 MSBuild-script - it is not pretty.
 
-These, and other reasons, has led many of the projects that i am
+These, and other reasons, has led many of the projects that I am
 involved in to create a lot of build scripts - and some of them is not
 need. Like, for example, you shouldn't be needing a separate build
 script to deploy to a certain environment, or the deploy part should not
@@ -34,7 +33,7 @@ build script. This post is a short introduction to how to do this.
 A MSBuild-script can be started without the assistance of the TFS, of
 course. For example on the commandline (msbuild.exe). And besides the
 actual .proj-file the msbuild-enginge is going to run through you can
-send a lot (and i mean a lot) of switches and stuff.
+send a lot (and I mean a lot) of switches and stuff.
 
 One of them is /p which is a list of parameters (separated by commas)
 that the script can act on. The parameter becomes a standard property in

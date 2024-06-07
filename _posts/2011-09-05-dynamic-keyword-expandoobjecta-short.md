@@ -1,4 +1,4 @@
-```markdown
+````markdown
 ---
 layout: post
 title: The dynamic keyword, ExpandoObject–a short intro for me
@@ -22,7 +22,7 @@ Since .NET 4.0 we have a new keyword – [dynamic](http://msdn.microsoft.com/en-
 
 > The dynamic type enables the operations in which it occurs to bypass compile-time type checking. Instead, these operations are resolved at run time.
 
-Ok, but what useful is that? I mean you *could* write this, you probably shouldn’t but you could:
+Ok, but what useful is that? I mean you _could_ write this, you probably shouldn’t but you could:
 
 ```csharp
 // Any object can be typed dynamic
@@ -31,6 +31,7 @@ Ok, but what useful is that? I mean you *could* write this, you probably shouldn
 dynamic s = "Marcus again";
 Assert.AreEqual(s.Length, 12);
 ```
+````
 
 We now have a “dynamic” string. So the “s.Length” part compiles fine, but that’s actually just because the compile time checking is disabled. If I had written “s.StringLength” instead – that would also compile, but fail in runtime – since the string-class doesn’t implement a “StringLength” property.
 
@@ -74,7 +75,7 @@ public class MarcusExpandoTests
     public void should_be_able_to_use_marcusexpando()
     {
         // My own Expando...
-        // Oh how close i was to name it MarcusSpandex
+        // Oh how close I was to name it MarcusSpandex
         dynamic m = new MarcusExpando();
         m.Name = "Marcus";
         m.Age = 39;

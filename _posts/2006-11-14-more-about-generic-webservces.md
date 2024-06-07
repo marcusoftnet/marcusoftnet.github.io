@@ -25,13 +25,13 @@ where TWebService : SoapHttpClientProtocol
 
 means that TWebService must be of SoapHttpClientProtocol type.
 
-However i ran into a bit of confusion when i wanted to instantiate
-TWebService. The compiler was not happy when i wrote:
+However I ran into a bit of confusion when I wanted to instantiate
+TWebService. The compiler was not happy when I wrote:
 <span style="font-family:courier new;font-size:85%;">
 // This won't compile
 TWebService t = new TWebService();
 
-That is until i discovered another constraint - the Constructor
+That is until I discovered another constraint - the Constructor
 Constraint. By using this constraint you can constrain the types that is
 allowed to types with an empty (parameterless) constructor. And that
 will allow you to instantiate TWebService and the compiler will find the

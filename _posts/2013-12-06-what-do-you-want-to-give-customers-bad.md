@@ -13,14 +13,11 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4948431215303714546
 blogger_orig_url: http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html
 ---
 
-
-
-
 We've just got our visas for entering Indonesia! Lovely!
 
 But the process has been very long, trying and almost took the best out
 of us. It got me thinking about a big, and characterising difference
-between the agile and the non-agile approach (let's call i waterfall for
+between the agile and the non-agile approach (let's call I waterfall for
 now, shall we?).
 
 The process we went through for our visa application resembles the way

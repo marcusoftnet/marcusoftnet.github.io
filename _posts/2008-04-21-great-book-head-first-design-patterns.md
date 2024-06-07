@@ -10,10 +10,9 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1993322310507066871
 blogger_orig_url: http://www.marcusoft.net/2008/04/great-book-head-first-design-patterns.html
 ---
 
-
 During the last three weeks or so I've been reading a great book,
 [Head First Design
-Patterns](http://www.oreilly.com/catalog/hfdesignpat/). Now i have
+Patterns](http://www.oreilly.com/catalog/hfdesignpat/). Now I have
 finished it!
 
 As [i said
@@ -25,7 +24,7 @@ university.
 I have tried to wrap my brain around Design Patterns many times but
 failed, often due to the very academical language that is used
 when you speak about such abstract thing. I cannot count the
-number of times i got an "aaah", "so it was this simple?" or
+number of times I got an "aaah", "so it was this simple?" or
 "finally!"-feeling while reading this book.
 
 Thank you!

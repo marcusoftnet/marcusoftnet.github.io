@@ -11,9 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9040813422802570620
 blogger_orig_url: http://www.marcusoft.net/2008/03/how-what-he-likes-vbnet.html
 ---
 
-
 OK -
-this is actually the first time i ever find something like this on the
+this is actually the first time I ever find something like this on the
 net.
 
 [Top 10 reasons VB.NET is better than

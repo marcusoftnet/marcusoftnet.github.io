@@ -11,10 +11,9 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4382808575833036990
 blogger_orig_url: http://www.marcusoft.net/2007/06/vasagospel-release.html
 ---
 
-
 Today i
 will introduce a great choir when they release a new CD. They are
-[VasaGospel](http://www.vasagospel.com/) and i am so proud to have a
+[VasaGospel](http://www.vasagospel.com/) and I am so proud to have a
 choir like that in the ranks of our corps (church for all you
 non-salvationists).
 

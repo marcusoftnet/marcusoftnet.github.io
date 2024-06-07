@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4829204535328279220
 blogger_orig_url: http://www.marcusoft.net/2007/10/listen-just-listen-to-band.html
 ---
 
-Every Monday morning i usually listens
+Every Monday morning I usually listens
 to the last broadcast of [Listen to the
 band](http://www.bbc.co.uk/radio/aod/networks/radio2/aod.shtml?radio2/listenband).
 This week there are some serious playing going on... Grimethorpe and

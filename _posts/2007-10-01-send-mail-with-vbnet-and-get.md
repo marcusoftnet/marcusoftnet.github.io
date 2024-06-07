@@ -30,7 +30,7 @@ of course you don't want to integrated with Outlook or whatever the user
 is using on there machine.
 
 In .NET 2.0 Microsoft has introduced some asynchronous stuff surrounding
-SMTP-mail sending, and some great SmtpExceptions. But i am not sure how
+SMTP-mail sending, and some great SmtpExceptions. But I am not sure how
 it's working in reality (see [these
 links](http://www.google.se/search?hl=sv&sa=X&oi=spell&resnum=0&ct=result&cd=1&q=.net+2.0+SmtpFailedRecipientsException+occurred&spell=1)).
 

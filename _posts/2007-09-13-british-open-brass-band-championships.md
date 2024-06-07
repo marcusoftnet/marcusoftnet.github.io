@@ -10,12 +10,11 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4827349559608187146
 blogger_orig_url: http://www.marcusoft.net/2007/09/british-open-brass-band-championships.html
 ---
 
-
 This weekend is the first and maybe the greatest competition in the
 brass band year. It's the prestigious British Open.
 
-My money is on Black Dyke who i think are playing marvelous at the
-moment, better than in many years. Also i like that they not cling to
+My money is on Black Dyke who I think are playing marvelous at the
+moment, better than in many years. Also I like that they not cling to
 the brass band idiom but instead is going to a more modern and symphonic
 sound and approach.
 

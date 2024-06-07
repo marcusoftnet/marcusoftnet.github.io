@@ -11,9 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2278764567005500198
 blogger_orig_url: http://www.marcusoft.net/2007/06/get-current-user-name-and-with-vbnet.html
 ---
 
-
 I searched a while for this, actually... which is strange
-since all i wanted to do is to find the current user name and the
+since all I wanted to do is to find the current user name and the
 current user domain.
 
 It's dead simple with the following lines:

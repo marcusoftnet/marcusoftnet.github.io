@@ -15,7 +15,7 @@ At the start of this year my buildscripts ran into some serious trouble all of a
 
 `"Error emitting 'System.Reflection.AssemblyVersionAttribute' attribute -- 'The version specified '1.6.70102.1' is invalid"`
 
-What now? I know that nobody was here and changed code during the New Years Eve, and certainly not the day after, if you know what i mean.
+What now? I know that nobody was here and changed code during the New Years Eve, and certainly not the day after, if you know what I mean.
 
 It proves to be a flaw (nicer way of saying bug) in the assembly version handling of MSBuild, or actually the versioning of assemblies in Windows:
 

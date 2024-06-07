@@ -11,5 +11,4 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3075638830183813627
 blogger_orig_url: http://www.marcusoft.net/2006/12/marcus-presenter.html
 ---
 
-
-Here are some pictures of me doing the presentations this weekend. I would like to think that i have at least a small Bond-look...
+Here are some pictures of me doing the presentations this weekend. I would like to think that I have at least a small Bond-look...

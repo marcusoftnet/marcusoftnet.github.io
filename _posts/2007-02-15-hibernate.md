@@ -12,8 +12,8 @@ blogger_orig_url: http://www.marcusoft.net/2007/02/hibernate.html
 
 OK - it is now official. I am in love!
 
-For sometime now i have had some ideas that the Hibernate framework is
-cool, but i have not seen it in action. But now I have and it is
+For sometime now I have had some ideas that the Hibernate framework is
+cool, but I have not seen it in action. But now I have and it is
 wonderful... so nice and cool.
 
 The [Hibernate](http://www.hibernate.org/) framework solves the tedious

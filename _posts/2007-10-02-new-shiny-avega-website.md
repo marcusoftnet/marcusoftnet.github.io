@@ -19,11 +19,11 @@ Really nice design and easy on the eye. And quite informative also -
 lots of interesting content to read about [Avega](http://www.avega.se/)
 and the consultants.
 
-Right... almost forgot; i am on the site. If you go to the first page
+Right... almost forgot; I am on the site. If you go to the first page
 and wait for a while I'll flash (no pun intended) before your eyes. My
 10 seconds of fame on the net.
 
 This site adds to the <span style="color:#ffff00;"><span
-style="color:#000000;">proud feeling i already have for
+style="color:#000000;">proud feeling I already have for
 [Avega](http://www.avega.se/). The best place I've ever worked on. If
 you're interested of joining us, please let me know.

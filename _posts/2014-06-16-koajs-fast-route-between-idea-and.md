@@ -13,9 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4479719224435985617
 blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-fast-route-between-idea-and.html
 ---
 
-
-
-
 A couple of days ago I had a great experience in why a modular framework
 is a great thing, that I wanted to share in this blog post. You will
 follow the EXACT path of my thinking. Yes, it might scare you but... it
@@ -83,7 +80,7 @@ this:
 
 > <span
 > style="font-family: Courier New, Courier, monospace;">app.use(staticCache(\_\_dirname +
-> '/public/img'), { maxAge: 30 *24* 60 * 60 });\]
+> '/public/img'), { maxAge: 30 _24_ 60 \* 60 });\]
 
 12:28:35 - "Ok, that looked simple let's try this out"
 12:28:40 - \[typed
@@ -91,8 +88,8 @@ this:
 target="_blank"><span
 style="font-family: Courier New, Courier, monospace;">npm
 start</a> at the terminal and crashed on missing package\]
-12:28:50 - "Oh, man! If I had a dime every time I forget to *npm
-install* things..."
+12:28:50 - "Oh, man! If I had a dime every time I forget to _npm
+install_ things..."
 12:29:00 - \[typed <span
 style="font-family: Courier New, Courier, monospace;">npm install
 koa-static-cache --save in the terminal. Waited for download\]
@@ -158,7 +155,7 @@ you look carefully you can see buttons move or change shape between
 reloads as you use the site.
 
 Small changes often is better then big changes seldom. I've tried them
-both. I know which one i like better.
+both. I know which one I like better.
 
 UPDATE:
 I wrote a <a

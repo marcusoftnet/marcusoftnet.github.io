@@ -11,18 +11,17 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-559311242726549207
 blogger_orig_url: http://www.marcusoft.net/2007/05/european-in-retrospect.html
 ---
 
-
 So my
-tip failed miserably but i was tipping with
+tip failed miserably but I was tipping with
 my heart. From [this
 link](http://www.4barsrest.com/news/detail.asp?id=5566) you can find the
 full result and see the Willebroek won. Again - the second
 year running.
 
-From the live result service of 4BarsRest i understood that the
+From the live result service of 4BarsRest I understood that the
 playing from all the bands was exceptional. I've also spoken to some
 bandsmen in the Gothenburg band and know that they
-was very pleased with their playing. How the judges missed that i don't know - but
+was very pleased with their playing. How the judges missed that I don't know - but
 you never do.
 
 I still think GBB made and excellent job and really

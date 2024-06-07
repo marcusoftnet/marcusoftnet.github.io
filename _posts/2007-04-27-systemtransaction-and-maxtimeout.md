@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3176416818371085872
 blogger_orig_url: http://www.marcusoft.net/2007/04/systemtransaction-and-maxtimeout.html
 ---
 
-
 I love the new System.Transaction found in .NET 2.0. I have been and
 will continue to use it in my applications.
 
@@ -24,7 +23,7 @@ My favorite among them all, though, is the TransactionScope, which makes
 a nice and easy visual way of showing what is part of the transaction
 and not.
 
-However, i found out a small glitch yesterday. Appearently there is a
+However, I found out a small glitch yesterday. Appearently there is a
 configuration value (maxTimeout) hidden away in the machine.config-file
 on each computer. This value defaults to ten minutes and that value
 overrides any values found in other configs (web.config or
@@ -37,4 +36,4 @@ value. See this articles for more information.
 - <http://msdn2.microsoft.com/en-us/library/system.transactions.configuration.defaultsettingssection.aspx>
 - <http://msdn2.microsoft.com/en-us/library/system.transactions.configuration.machinesettingssection.aspx>
 
-But ... i still love it!
+But ... I still love it!

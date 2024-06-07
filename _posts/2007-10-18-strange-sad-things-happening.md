@@ -16,17 +16,17 @@ deaths, suicidals, people nearly dying,
 relationships ending and several friends with some pretty
 serious problems to handle.
 
-At the same time i feel like i am on the right place and at the right
+At the same time I feel like I am on the right place and at the right
 time in life. I experience the best project and
-learning experience of my life at work, i love the band and my corps and
+learning experience of my life at work, I love the band and my corps and
 most of all Elin and I have never had it
 better.
 
 Why is this? It feels really strange to still feel ... not happy but
-strong, maybe. I can only take it as a blessing from God and that i hope
-that i can be of support to anyone who needs me. I cannot count the
+strong, maybe. I can only take it as a blessing from God and that I hope
+that I can be of support to anyone who needs me. I cannot count the
 number of times it's been the other way around.
 
-My thoughts and prayers goes out to all the people who i have been in
+My thoughts and prayers goes out to all the people who I have been in
 contact with surrounding these things the last
 couple of weeks.

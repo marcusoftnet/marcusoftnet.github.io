@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2002463673518279606
 blogger_orig_url: http://www.marcusoft.net/2007/07/sandcastle-or-marcus-betting-on-wrong.html
 ---
 
-
 I read today about Sandcastle which is Microsofts new documentation utility
 for .NET Framework 2.0
 (<http://msdn2.microsoft.com/en-us/vstudio/bb608422.aspx>)
@@ -22,7 +21,7 @@ not NDoc
 has been upgraded to support .NET 2.0 but they probably knew that
 Sandcastle was coming along.
 
-Also - i have been betting and introducing NDoc for .NET 2.0 (Alpha) in some of
+Also - I have been betting and introducing NDoc for .NET 2.0 (Alpha) in some of
 my build scripts. When Sandcastle finally arrive (CTP now so
 should take about a year) documentation generation will probably be done
 better with Sandcastle than with NDoc Alpha.

@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8121637810301291815
 blogger_orig_url: http://www.marcusoft.net/2007/01/scrum-my-first-encounter.html
 ---
 
-
 I am
 just reading a [great
 article](http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf)
@@ -22,7 +21,7 @@ really interesting and fun article.
 However I am not yet convinced - it seems to be a lot of "that is not so
 important", "approximately" and "document if you think that you need
 it". I still miss the use case, the technical specifications and the
-system architecture. Maybe if i read to the end i will be converted.
+system architecture. Maybe if I read to the end I will be converted.
 
 With that said; the methodology contains some very interesting concepts
-and ideas, and i will most certainly incorporate elements already now.
+and ideas, and I will most certainly incorporate elements already now.

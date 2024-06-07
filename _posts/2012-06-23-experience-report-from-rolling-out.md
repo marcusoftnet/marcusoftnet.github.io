@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-13261481129450050
 blogger_orig_url: http://www.marcusoft.net/2012/06/experience-report-from-rolling-out.html
 ---
 
-
 I just ended my biggest coaching assignment in my career. So far. It
 started in January and aimed to roll out agile in a organization of 120
 (and then some) people – 60 on the business side and 60 on the IT-side.
@@ -21,7 +20,7 @@ but I then realized that I would reveal way too much about the customer
 and it's organization.
 
 So instead I'll write about a couple of things that I've experienced and
-thought of. Hopefully you can learn something from this - i know I did
+thought of. Hopefully you can learn something from this - I know I did
 learn a lot.
 
 Let me first state that not everything in this article is based from
@@ -152,15 +151,15 @@ modelled after the
 Coffee</a> concept;
 
 - <span style="background-color: white">get people who are interested
-    together
+  together
 - <span style="background-color: white">put together a short agenda
-    for the meeting by asking people what they want to talk about.
-    Anything goes here but related to agile or lean is a given
+  for the meeting by asking people what they want to talk about.
+  Anything goes here but related to agile or lean is a given
 - <span style="background-color: white">talk for time boxed period of
-    time (7 minutes) and when it's up vote if you want to continue or
-    not
+  time (7 minutes) and when it's up vote if you want to continue or
+  not
 - <span style="background-color: white">make a mind-map of what you
-    talked about
+  talked about
 
 We created this as a knowledge sharing room for the people in the
 organization involved in the agile roll out. It's open for anybody

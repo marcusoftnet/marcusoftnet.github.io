@@ -4,8 +4,8 @@ title: "Keeping Copies of Charts from Google Sheets Updated Automatically"
 author: "Marcus Hammarberg"
 date: 2018-06-19 10:06:29
 tags:
- - Tools
- - Life of a consultant
+  - Tools
+  - Life of a consultant
 ---
 
 At my current job, we heavily rely on Google Apps (Docs, Slides, Sheets, etc.). I've grown quite fond of them, especially the seamless integration between different apps. One of my favorite features is the ability to create a chart in Google Sheets and easily copy it to Google Slides for presentations.
@@ -29,18 +29,18 @@ After pasting the chart as a link, you'll notice that it doesn't update automati
 Open the Script Editor for your Google Sheet (Tools -> Script Editor) and paste the following code:
 
 ```javascript
-function refreshCharts(){
-    var slides = SlidesApp.getActivePresentation().getSlides();
+function refreshCharts() {
+  var slides = SlidesApp.getActivePresentation().getSlides();
 
-    for (var i = 0; i < slides.length; i++) {
-        var slide = slides[i];
-        var charts = slide.getSheetsCharts();
+  for (var I = 0; I < slides.length; i++) {
+    var slide = slides[i];
+    var charts = slide.getSheetsCharts();
 
-        for (var j = 0; j < charts.length; j++) {
-            var chart = charts[j];
-            chart.refresh();
-        }
+    for (var j = 0; j < charts.length; j++) {
+      var chart = charts[j];
+      chart.refresh();
     }
+  }
 }
 ```
 

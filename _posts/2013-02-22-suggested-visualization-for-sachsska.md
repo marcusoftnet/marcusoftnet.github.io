@@ -22,7 +22,7 @@ In this blog post I wanted to share my thoughts, from a pure client perspective.
 
 ### What are we solving here?
 
-In true [kanban](http://en.wikipedia.org/wiki/Kanban_(development)#The_Kanban_method) fashion, the visualization doesn't impose any change at all. It's just visualize the current workflow. For me as a patient this would provide invaluable information since that's about the only thing I think about when in the ER: when is it my turn? How many are before me?
+In true [kanban](<http://en.wikipedia.org/wiki/Kanban_(development)#The_Kanban_method>) fashion, the visualization doesn't impose any change at all. It's just visualize the current workflow. For me as a patient this would provide invaluable information since that's about the only thing I think about when in the ER: when is it my turn? How many are before me?
 
 These are the problems I want to focus on... for now. If I get excited I might suggest some ways to improve on this in a later post, but that's really getting ahead of myself as well as thinking that I really know how to improve. I leave that for later.
 
@@ -35,7 +35,7 @@ This is my description of what happens to me as a patient from when I enter the 
 1. I walk through the front doors and take a queuing ticket to the registration booth
 2. I'm instructed (by a sign) to be seated in the waiting room
 3. When it's my turn (a electronic sign and sound tells me) I go to the registration booth.
-4. Here i meet a nurse that take some basic controls (pulse, saturation and temperature). I also talk about the condition and tells her WHY I'm here. This is information is written down and put into a plastic folder.
+4. Here I meet a nurse that take some basic controls (pulse, saturation and temperature). I also talk about the condition and tells her WHY I'm here. This is information is written down and put into a plastic folder.
 5. I'm then instructed to wait to be examined.
 6. We then wait in the waiting room.
 7. After a while we get called and get to meet a doctor, that examines the kids more thoroughly and decide on some treatments. I suspect that you can often be sent home from here with a recipe, but let's stay on it for a little while more.

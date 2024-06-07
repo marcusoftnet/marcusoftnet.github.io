@@ -16,9 +16,9 @@ the Vasa Corps, my Salvation Army Church.
 
 I am so privilliged to be part of that group. They are some very nice
 and clever people and great things really happen when we get togheter.
-Like yesterday i thought i knew what was going to come out of the
+Like yesterday I thought I knew what was going to come out of the
 meeting but in the end something completely different but still very
 good came out instead.
 
-That felt so good - just think if i had known what we should decided
+That felt so good - just think if I had known what we should decided
 before the meeting. That would have been so boring.

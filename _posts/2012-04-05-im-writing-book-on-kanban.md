@@ -19,11 +19,11 @@ A couple of months ago I got the strangest mail sent to me. It was from [Manning
 
 Mike and I talked for awhile. What have I done around Kanban? Could I please describe it in 5 minutes for a total newbie (not that Mike was that :))? What would I see in a book on Kanban? questions like that for about 45 minutes.
 
-Then - all of a sudden - the final question (just about the time as my twins were tearing down the door and entering the room, i might add):
+Then - all of a sudden - the final question (just about the time as my twins were tearing down the door and entering the room, I might add):
 
 > Would I be interested in writing that book for Manning?
 
-I was totally taken by surprise! After the mail and some of the content of that I had some dreams but I never thought that it would actually happen. I have never aspired to write a book, although I've often wonder if i could do it given the chance. How do you actually do it? Just crack your knuckles and start to write? How much time does it take?
+I was totally taken by surprise! After the mail and some of the content of that I had some dreams but I never thought that it would actually happen. I have never aspired to write a book, although I've often wonder if I could do it given the chance. How do you actually do it? Just crack your knuckles and start to write? How much time does it take?
 
 All these questions and the feeling of "why, on the earth did they call me?" was speeding through my head as I tried to end the call in a composed manner. When the virtual Skype hook was off the line I screamed right out, scaring wife, kids and probably some neighbors too.
 
@@ -35,7 +35,7 @@ Two thoughts now came over me; firstly the [impostor syndrome](http://en.wikiped
 
 After thinking that second thought I felt that I would be able to live with myself without at least asking Joakim if he wanted to help me write the book. He did (!!!!).
 
-And that also helped me with my impostor symptoms, i experienced. I could not think of a person better rooted in the Kanban community and with a greater knowledge to back him up. Most things I've picked up around Kanban have either come from Joakim or been pointers from him. He has also opened a lot of doors for me with speaking opportunities and contacts in the Kanban world.
+And that also helped me with my impostor symptoms, I experienced. I could not think of a person better rooted in the Kanban community and with a greater knowledge to back him up. Most things I've picked up around Kanban have either come from Joakim or been pointers from him. He has also opened a lot of doors for me with speaking opportunities and contacts in the Kanban world.
 
 So we're going to write it together. And I'm very happy about that too.
 
