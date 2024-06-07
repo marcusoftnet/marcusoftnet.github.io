@@ -31,7 +31,7 @@ title: Tags
         <table>
           {% for post in tag_posts %}
           <tr>
-            <td>{{ post.date | date: "%Y-%m-%d" }}</td> <!-- Display publication date -->
+            <td width="25%">{{ post.date | date: "%Y-%m-%d" }}</td> <!-- Display publication date -->
             <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td> <!-- Display post title (link) -->
           </tr>
           {% endfor %}
