@@ -224,6 +224,28 @@ p > img {
   margin: 0 auto;
 }
 
+// Tag page
+.archive-group {
+  margin-bottom: 1em;
+}
+
+.category-head {
+  cursor: pointer;
+  margin: 0;
+  padding: 0.5em;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+}
+
+.archive-items {
+  display: none;
+  padding: 0 1em;
+}
+
+.archive-item {
+  margin: 0.5em 0;
+}
+
 // Fixes img in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

@@ -14,10 +14,8 @@
     {% include analytics_head.html %}
     <script>
       document.addEventListener("DOMContentLoaded", function () {
-        console.log("Loaded");
         var headers = document.querySelectorAll(".category-head");
         headers.forEach(function (header) {
-          console.log("Adds event listener to " + header);
           header.addEventListener("click", function () {
             console.log("Clicked");
             var nextElement = header.nextElementSibling;
