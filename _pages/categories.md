@@ -5,8 +5,8 @@ title: Tags
 ---
 
 <div id="archives">
-  {% assign tags_with_sizes = site.tags | map: "first" | sort %}
-  {% assign sorted_tags = tags_with_sizes | map: "last" | sort: "size" %}
+  {% assign tags_with_sizes = site.tags | map: "first" | map: "size" %}
+  {% assign sorted_tags = site.tags | sort: "size" %}
   {% for tag in sorted_tags reversed %}
     {% assign tag_name = tag[0] %}
     {% assign tag_posts = site.tags[tag_name] %}
@@ -28,5 +28,7 @@ title: Tags
         </table>
       </div>
     </div>
-  {% endfor %}
+
+{% endfor %}
+
 </div>
