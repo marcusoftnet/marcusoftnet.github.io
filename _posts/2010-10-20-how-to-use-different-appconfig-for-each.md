@@ -26,9 +26,9 @@ I tried to solve this with user settings, but that didn’t seem to work for tes
 
 But we’ve found a simple (and yes, more brute) way to do this:
 
-- I created an app.master.config that contains all the keys and settings we’re using for test runs on the build server.
-- I checked in that app.master.config.
-- I then created an app.config in my own project and changed the keys to my personal settings.
+- I created an `app.master.config` that contains all the keys and settings we’re using for test runs on the build server.
+- I checked in that `app.master.config`.
+- I then created an `app.config` in my own project and changed the keys to my personal settings.
 - And then, here’s the key step: I selected the app.config and went to "Exclude from project" in the Source Control menu.
 
 ![Exclude from source control](/img/exclude+from+sourcecontrol.png)

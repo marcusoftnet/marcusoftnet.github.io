@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2014-08-22T04:38:46.973Z
-thumbnail: http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s72-c/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
+thumbnail: /img/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1103084673136152864
 blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html
 ---
@@ -23,7 +23,7 @@ I'll share a few stories and then some thoughts in this post.
 
 I had the good fortune to do my military service in the [Royal Swedish Army Band](http://www.forsvarsmakten.se/sv/organisation/livgardet/forsvarsmusiken/armens-musikkar/) (1992 version) and playing there had a great influence on my musical life. I also got to meet some amazing musicians and some of them went on to great heights.
 
-![Clarinet Cat](http://4.bp.blogspot.com/-zDPGORa9OGY/U_a80yPz-mI/AAAAAAAAGCM/flx_nNYGcYQ/s1600/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg)
+![Clarinet Cat](/img/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg)
 
 Nothing to do with Kristian
 

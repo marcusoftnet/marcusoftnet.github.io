@@ -9,27 +9,25 @@ tags:
   - Life of a consultant
   - SpecFlow
 modified_time: 2012-10-21T18:59:17.033Z
-thumbnail: http://4.bp.blogspot.com/\_TI0jeIedRFk/TQjJvwiN9SI/AAAAAAAAAqI/jLAWtMkRrW0/s72-c/examplereport.png
+thumbnail: /img/examplereport.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-94606423148695401
 blogger_orig_url: http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html
 ---
 
-With your [SpecFlow](http://www.specflow.org/) installation comes SpecFlow.exe that is a program that can be used to generate tests from the scenarios AND to create nicely formatted reports from the generated test results. There's been a lot written on how to generate these reports when your using NUnit (see [this](http://www.codeproject.com/KB/architecture/BddWithSpecFlow.aspx) and [this](http://si-w.co.uk/blog/2010/07/20/running-specflow-reports-from-within-visual-studio/) for example), but when it comes to managing this for MsTest there's been almost silent. And facing this problem I can sure see why... It's a bit trickier.
+With your [SpecFlow](http://www.specflow.org/) installation comes SpecFlow.exe, a program that can be used to generate tests from the scenarios and create nicely formatted reports from the generated test results. There's been a lot written about how to generate these reports when using NUnit (see [this](http://www.codeproject.com/KB/architecture/BddWithSpecFlow.aspx) and [this](http://si-w.co.uk/blog/2010/07/20/running-specflow-reports-from-within-visual-studio/) for example), but there's been almost silence when it comes to managing this for MsTest. Facing this problem, I can see why... It's a bit trickier.
 
-In this blog post I want to show you two things; how to generate MsTest's from your .feature-files and how to create a report from the generated results. Finally I'll show you how to put the two together and link it up to a nice "External tool"-button in Visual Studio. Here we go:
+In this blog post, I want to show you two things: how to generate MsTests from your .feature files and how to create a report from the generated results. Finally, I'll show you how to put the two together and link it up to a nice "External tool" button in Visual Studio. Here we go:
 
-### Generate MsTest's from your .feature-file
+### Generate MsTests from your .feature file
 
-With this step you can generate the test from you scenarios. SpecFlow.exe picks up your [configuration](http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. From the look of it, it seems quite straight forward. Using the “help command” of SpecFlow.exe, “specflow help generateall” produces this help:
+With this step, you can generate the tests from your scenarios. SpecFlow.exe picks up your [configuration](http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. Using the “help” command of SpecFlow.exe, “specflow help generateall” produces this help:
 
 > Generate tests from all feature files in a project usage: specflow generateall projectFile \[/force\] \[/verbose\] projectFile  Visual Studio Project File containing features
 
-OK. I put together a .bat file that does that. (Note that I’m on a 64-bit machine and had to use some funky DOS-shortcut to get there. No simple way to be [architecture agnostic](http://marsbox.com/blog/howtos/batch-file-programfiles-x86-parenthesis-anomaly/) I’m afraid). Here is my file:
+I put together a .bat file that does this. (Note that I’m on a 64-bit machine and had to use some funky DOS shortcuts to get there. There's no simple way to be [architecture agnostic](http://marsbox.com/blog/howtos/batch-file-programfiles-x86-parenthesis-anomaly/) I’m afraid). Here is my file:
 
-``` bat
-"%ProgramFiles(x86)%\TechTalk\SpecFlow\SpecFlow.exe"
-generateAll Specs\Specs.csproj
-/force /verbose
+```bat
+"%ProgramFiles(x86)%\TechTalk\SpecFlow\SpecFlow.exe" generateAll Specs\Specs.csproj /force /verbose
 
 pause
 ```
@@ -40,11 +38,11 @@ Well – that was easy.
 
 ### Create a report from the generated results
 
-To get this step to work we have to run the test and get hold of the location of the test report file (.trx). When you do this from within Visual Studio the test reporting is done in a TestResult folder and the file get a name with a timestamp. That is not very script-friendly sadly and we’re forced into writing a bat-file that also run the tests.
+To get this step to work, we have to run the tests and get hold of the location of the test report file (.trx). When you do this from within Visual Studio, the test reporting is done in a TestResult folder, and the file gets a name with a timestamp. That is not very script-friendly, sadly, so we’re forced into writing a .bat file that also runs the tests.
 
-I used the [MsTest Command line reference](http://msdn.microsoft.com/en-us/library/ms182489(v=VS.100).aspx) to put together this .bat-file:
+I used the [MsTest Command line reference](http://msdn.microsoft.com/en-us/library/ms182489(v=VS.100).aspx) to put together this .bat file:
 
-``` bat
+```bat
 if Exist TestResult.trx del TestResult.trx
 
 "%ProgramFiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE\mstest.exe" /testcontainer:Specs\bin\Debug\Specs.dll /resultsfile:TestResult.trx
@@ -52,39 +50,36 @@ if Exist TestResult.trx del TestResult.trx
 pause
 ```
 
-Again, watch out for me using a 64-bit Windows and use %programfiles% if you’re not.
+Again, watch out for using a 64-bit Windows and use %programfiles% if you’re not.
 
-Some strangeness with MsTest made me delete the testResults.trx before each run. Also MsTest create some folders (username_testrun...) but that doesn’t bother me now.
+Some strangeness with MsTest made me delete the testResults.trx before each run. Also, MsTest creates some folders (username_testrun...), but that doesn’t bother me now.
 
-When we now have a created .trx file we can run the command that creates the report for us. According to the “documentation” (specflow help mstestexecutionreport"):
+When we have a created .trx file, we can run the command that creates the report for us. According to the “documentation” (specflow help mstestexecutionreport):
 
 > usage: specflow mstestexecutionreport projectFile [/testResult:value] [/xsltFile:value] [/out:value]
 
 - The projectFile is the Visual Studio Project File containing features and specifications.
-- Test Result refers to the .trx file generated by MsTest And it defaults to TestResult.trx
-- Xslt file to use, defaults to built-in stylesheet if not provided
-- out is the generated output file. Defaults to TestResult.html
+- Test Result refers to the .trx file generated by MsTest, and it defaults to TestResult.trx.
+- Xslt file to use, defaults to the built-in stylesheet if not provided.
+- out is the generated output file. Defaults to TestResult.html.
 
-I’m happy with the defaults of the last three since I [
+I’m happy with the defaults of the last three since I [choose my .trx-file name wisely](http://www.youtube.com/watch?v=Ubw5N8iVDHI&amp;feature=related). So my whole .bat file becomes this:
 
-choose my .trx-file name ... wisely](http://www.youtube.com/watch?v=Ubw5N8iVDHI&amp;feature=related). :)
-So my whole .bat-file becomes this:
-
-``` bat
+```bat
 "%ProgramFiles(x86)%\TechTalk\SpecFlow\SpecFlow.exe" mstestexecutionreport Specs\Specs.csproj
 
 pause
 ```
 
-A low and behold; it actually produces the nice report we wanted:
+Lo and behold; it actually produces the nice report we wanted:
 
-![examplereport](http://4.bp.blogspot.com/_TI0jeIedRFk/TQjJvwiN9SI/AAAAAAAAAqI/jLAWtMkRrW0/s320/examplereport.png)
+![examplereport](/img/examplereport.png)
 
 ### Putting it all together
 
-That’s neat – we now have three different .bat files that we need to click in consecutive order ;) No really – the first one (generate test from features can most certainly be handled by Visual Studio in most cases. Or in any case will probably not run in conjunction with the other two steps. But to run the tests and produce a report would be nice with a single file. Here it is:
+That’s neat – we now have three different .bat files that we need to click in consecutive order ;) No really – the first one (generate test from features) can most certainly be handled by Visual Studio in most cases. Or in any case will probably not run in conjunction with the other two steps. But to run the tests and produce a report would be nice with a single file. Here it is:
 
-``` bat
+```bat
 if Exist TestResult.trx del TestResult.trx
 
 "%ProgramFiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE\mstest.exe" /testcontainer:Specs\bin\Debug\Specs.dll /resultsfile:TestResult.trx
@@ -94,9 +89,9 @@ if Exist TestResult.trx del TestResult.trx
 pause
 ```
 
-And looking to this [blog post](http://si-w.co.uk/blog/2010/07/20/running-specflow-reports-from-within-visual-studio/) I’ve also created a parameterized version of it that I can hook up to a “external command” that does that with a single click. That changes the bat-file into this:
+And looking at this [blog post](http://si-w.co.uk/blog/2010/07/20/running-specflow-reports-from-within-visual-studio/), I’ve also created a parameterized version of it that I can hook up to an “external command” that does that with a single click. That changes the .bat file into this:
 
-``` bat
+```bat
 if Exist TestResult.trx del TestResult.trx
 
 "%ProgramFiles(x86)%\Microsoft Visual Studio 10.0\Common7\IDE\mstest.exe" /testcontainer:%2 /resultsfile:TestResult.trx
@@ -106,9 +101,9 @@ if Exist TestResult.trx del TestResult.trx
 echo Created file TestResult.html
 ```
 
-So you need to send the name of the test container (the .dll) and the project file. Save that file to a known location so that you can point your external command to it. Finally you can create a external tool button in Visual Studio and set the parameters as follows:
+So you need to send the name of the test container (the .dll) and the project file. Save that file to a known location so that you can point your external command to it. Finally, you can create an external tool button in Visual Studio and set the parameters as follows:
 
-![configuring external tools](http://2.bp.blogspot.com/_TI0jeIedRFk/TQjJ4c73ElI/AAAAAAAAAqM/pIZm5ZEHHEU/s320/configuring+external+tools.png)
+![configuring external tools](/img/configuring+external+tools.png)
 
 The arguments to the external command are:
 
@@ -119,4 +114,4 @@ Note that the project with specifications has to be selected before the External
 
 ### Conclusion
 
-In this blog post I’ve learned how hook up SpecFlow to generate tests and reports for me. You can [download my code here](https://github.com/marcusoftnet/Demo-Reporting-with-MsTest)
+In this blog post, I’ve learned how to hook up SpecFlow to generate tests and reports for me. You can [download my code here](https://github.com/marcusoftnet/Demo-Reporting-with-MsTest).
