@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Repost - Beyond Callbacks or How Koa helps me Code Better
+title: Repost Beyond Callbacks or How Koa helps me Code Better
 author: Marcus Hammarberg
 date: 2014-05-07 15:30:13
 tags:
- - Javascript
- - Tools
- - Node
- - Koa
- - CodeBetter
+  - Javascript
+  - Tools
+  - Node
+  - Koa
+  - CodeBetter
 ---
 
 ### REPOST FROM CODEBETTER
@@ -45,38 +45,38 @@ That was … …wait (state)
 
 <!-- excerpt-end -->
 
-There – we can continue. *the fact* that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely.
+There – we can continue. _the fact_ that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely.
 
 But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB](http://mongodb.github.io/)by name sent to the URL.
 
-``` javascript
+```javascript
 // Dependencies
-var koa = require('koa');
+var koa = require("koa");
 var app = koa();
-var logger = require('koa-logger');
-var route = require('koa-route');
+var logger = require("koa-logger");
+var route = require("koa-route");
 
 // Db access
-var monk = require('monk');
-var wrap = require('co-monk');
-var db = monk('localhost/koaDemoUsers');
-var users = wrap(db.get('users'));
+var monk = require("monk");
+var wrap = require("co-monk");
+var db = monk("localhost/koaDemoUsers");
+var users = wrap(db.get("users"));
 
 // Middleware
 app.use(logger());
 
 // Route
-app.use(route.get('/user/:name', getUser));
+app.use(route.get("/user/:name", getUser));
 
 // Route handling
-function *getUser(userName) {
-  var user = yield users.findOne({name:userName});
-  if (!user) this.throw(404, 'invalid user name');
+function* getUser(userName) {
+  var user = yield users.findOne({ name: userName });
+  if (!user) this.throw(404, "invalid user name");
   this.body = user;
-};
+}
 ```
 
-Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee –  short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short –
+Pretty nice, huh? Thumbs up from me! I even threw in some logging and error handling just to make it a little more interesting. Strip that out and you end up with 2,3 significant lines of code. I take my web frameworks like my coffee – short, sweet and powerful. And we have not lost the non-blocking features that we’ve come to expect and love in Node. In short –
 
 Koa helps me Code Better! In the rest of this post I’ll introduce you to the concepts of Koa and give you a short overview to how it works.
 
@@ -89,16 +89,16 @@ In fact, when I read the code above it’s exactly how I think about code. Get t
 I happily confess that I never used [yield in C#](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx), although it have been around for years. Now yield is coming to JavaScript and then they can be used in very interesting ways, which led me to try to understand yields again. Quite simply you can say that a yield statement is used to return a value from a sequence, and then halt until the client asks for the next value. Often they are used within loops through enumerations but they don’t have too. In fact this example made me understand them better;
 
 ```javascript
-function *theGenerator(){
- yield "One, for the money";
- yield "Two, for the show";
- yield "Three to get ready! Now go, cat, go";
-};
+function* theGenerator() {
+  yield "One, for the money";
+  yield "Two, for the show";
+  yield "Three to get ready! Now go, cat, go";
+}
 ```
 
 This is a little function that contains three yield statements. We can call the function in this way, in order to make use of the yield’ed values.
 
-``` javascript
+```javascript
 var elvis = theGenerator(); // get an instance of the generator
 
 console.log(elvis.next().value); // outputs "One, for the money”
@@ -115,7 +115,7 @@ Note that I’m using the `.value` property to get the value out of the generato
 I said above that yield most commonly is used within enumerations of sequences (`for(var item in list){ yield item;}` for example.) But the function is not an enumeration, but rather a generator-function. This is another feature that comes with ES6 and quite simply can be thought of like enumerators for functions, or simpler with the example above as a guide. In order for a function to be a generator function it needs to fulfil two things;
 
 - It needs to contain one or more yield-statements
-- You need to denote it with an asterisk, like the example above; function **theGenerator(){}* or for anonymous functions just *function \*(){}*
+- You need to denote it with an asterisk, like the example above; function \*_theGenerator(){}_ or for anonymous functions just _function \*(){}_
 
 You can read more about [generators here](http://www.marcusoft.net/2014/04/koaGenYield.html).
 
@@ -149,7 +149,7 @@ Ok, now that you have an updated version of Node on your system there’s one fi
 
 > use the –harmony flag when you execute the program.
 
-Let’s say that we had the code from my example above in a file called generatorDemo.js. We would then start the program like this; “*node –harmony generatorDemo.js*“. For me, the best way of remembering to do this is to put it into my package.json file, under the scripts-tag as the “*start*” script;
+Let’s say that we had the code from my example above in a file called generatorDemo.js. We would then start the program like this; “_node –harmony generatorDemo.js_“. For me, the best way of remembering to do this is to put it into my package.json file, under the scripts-tag as the “_start_” script;
 
 ```
  “scripts” : { “start” : “node –harmony app.js” }
@@ -171,7 +171,7 @@ SyntaxError: Unexpected string
 This happens when you forget to put the asterisk in the name of the function. It should be
 
 ```javascript
-function *theYielder(){}; // or function *(){}
+function* theYielder() {} // or function *(){}
 ```
 
 It’s too embarrassing really talk about the number of times I’ve forgot this and tried to figure out what the error message means.
@@ -223,27 +223,27 @@ Note in my `package.json` that I have encapsulated the starting of the applicati
 
 ```javascript
 // Dependencies.
-var logger = require('koa-logger');
-var route = require('koa-route');
-var koa = require('koa');
-var app = module.exports = koa();
+var logger = require("koa-logger");
+var route = require("koa-route");
+var koa = require("koa");
+var app = (module.exports = koa());
 
 // middleware
 app.use(logger());
 
 // route middleware
-var routes = require('./blogRoutes.js');
-app.use(route.get('/', routes.list));
-app.use(route.get('/post/new', routes.add));
-app.use(route.get('/post/:id', routes.show));
-app.use(route.post('/post', routes.create));
-app.use(route.post('/post/:id', routes.update));
-app.use(route.get('/post/:id/edit', routes.edit));
-app.use(route.get('/post/:id/delete', routes.remove));
+var routes = require("./blogRoutes.js");
+app.use(route.get("/", routes.list));
+app.use(route.get("/post/new", routes.add));
+app.use(route.get("/post/:id", routes.show));
+app.use(route.post("/post", routes.create));
+app.use(route.post("/post/:id", routes.update));
+app.use(route.get("/post/:id/edit", routes.edit));
+app.use(route.get("/post/:id/delete", routes.remove));
 
 // listen
 app.listen(3000);
-console.log('Blog engine fired up on http://localhost:3000');
+console.log("Blog engine fired up on http://localhost:3000");
 ```
 
 If you think this looks a lot like ExpressJs you are right. Koa is actually created by the VisionMedia guys, that created Express too. Wonder why they did that…?
@@ -256,82 +256,82 @@ Add the following code to it.
 
 ```javascript
 // dependencies
-var parse = require('co-body');
-var render = require('./render.js');
+var parse = require("co-body");
+var render = require("./render.js");
 
 // Set up monk
-var monk = require('monk');
-var wrap = require('co-monk');
-var db = monk('localhost/koaMongoBlog');
-var posts = wrap(db.get('posts'));
+var monk = require("monk");
+var wrap = require("co-monk");
+var db = monk("localhost/koaMongoBlog");
+var posts = wrap(db.get("posts"));
 module.exports.posts = posts; // Let's expose the posts collection for testing
 
 // And now... the route definitions
 // List posts
-module.exports.list = function *() {
+module.exports.list = function* () {
   var postList = yield posts.find({});
-  this.body = yield render('list', { posts: postList });
+  this.body = yield render("list", { posts: postList });
 };
 
 // Show creation form.
-module.exports.add = function *() {
-  this.body = yield render('new');
+module.exports.add = function* () {
+  this.body = yield render("new");
 };
 
 // Show post for id.
-module.exports.show = function *(id) {
-  var post = yield posts.findOne({_id:id});
-  if (!post) this.throw(404, 'invalid post id');
-  this.body = yield render('show', { post: post });
+module.exports.show = function* (id) {
+  var post = yield posts.findOne({ _id: id });
+  if (!post) this.throw(404, "invalid post id");
+  this.body = yield render("show", { post: post });
 };
 
 // create new post
-module.exports.create = function *() {
+module.exports.create = function* () {
   var post = yield parse(this); // parses the incoming request (this) into an object
   post.created_at = new Date();
 
   yield posts.insert(post);
-  this.redirect('/');
+  this.redirect("/");
 };
 
 // Show edit form
-module.exports.edit = function *(id) {
-  var post = yield posts.findOne({_id:id});
-  this.body = yield render('edit', { post: post });
+module.exports.edit = function* (id) {
+  var post = yield posts.findOne({ _id: id });
+  this.body = yield render("edit", { post: post });
 };
 
 // Update post
-module.exports.update = function *(id) {
+module.exports.update = function* (id) {
   var post = yield parse(this);
   yield posts.updateById(id, post);
-  this.redirect('/post/' + id);
+  this.redirect("/post/" + id);
 };
 
 // Remove post
-module.exports.remove = function *(id) {
-  yield posts.remove({_id:id});
-  this.redirect('/');
+module.exports.remove = function* (id) {
+  yield posts.remove({ _id: id });
+  this.redirect("/");
 };
 ```
 
-There’s a couple of lines at the top where we are setting up our access to Mongo through a great little library called Monk. This all ends up with us getting a blogPosts collection that we then can use in our functions below. With the generator goodness around [Monk](https://github.com/visionmedia/monk)  (using [co-monk](http://npmjs.org/package/co-monk)) the code is almost trivial, yet powerful. Just like we like it. You see examples on `.findById(id)`, `.find()`, `.update` and `.remove` in the code and I barely need to describe those. Many of the method takes optional parameters making them powerful, for things like sorting and projections. See the [Monk test for examples](https://github.com/visionmedia/monk). The rendering to views is done using a template engine called [swig](http://paularmstrong.github.io/swig/docs/) which you can read about if you need to, it’s really simple.  You can pass data to the templates as a second parameter to render like this (`yield render(“view.html”, { posts : postList})`).
+There’s a couple of lines at the top where we are setting up our access to Mongo through a great little library called Monk. This all ends up with us getting a blogPosts collection that we then can use in our functions below. With the generator goodness around [Monk](https://github.com/visionmedia/monk) (using [co-monk](http://npmjs.org/package/co-monk)) the code is almost trivial, yet powerful. Just like we like it. You see examples on `.findById(id)`, `.find()`, `.update` and `.remove` in the code and I barely need to describe those. Many of the method takes optional parameters making them powerful, for things like sorting and projections. See the [Monk test for examples](https://github.com/visionmedia/monk). The rendering to views is done using a template engine called [swig](http://paularmstrong.github.io/swig/docs/) which you can read about if you need to, it’s really simple. You can pass data to the templates as a second parameter to render like this (`yield render(“view.html”, { posts : postList})`).
 
 The call to the view engine is encapsulated in a simple function/middleware found in the `render.js` file.
 
 ```javascript
 // Dependencies.
-var views = require('co-views');
+var views = require("co-views");
 
 // setup views mapping .html
 // to the swig template engine
-module.exports = views(__dirname + '/views', {
-  map: { html: 'swig' }
+module.exports = views(__dirname + "/views", {
+  map: { html: "swig" },
 });
 ```
 
-This simple function just tells Koa where to find the views (`/views` folder) and that the swig template engine is to be used. In the actual views you use `{ % % }` for statements and `{{ data }}`  to have data appear on the page. Take a look at the list.html page that lists all the blog-posts in the system and you’ll see what I mean about swig being really simple.
+This simple function just tells Koa where to find the views (`/views` folder) and that the swig template engine is to be used. In the actual views you use `{ % % }` for statements and `{{ data }}` to have data appear on the page. Take a look at the list.html page that lists all the blog-posts in the system and you’ll see what I mean about swig being really simple.
 
-``` handlebars
+```handlebars
 { % extends 'layout.html' %}
 
 { % block title %}Posts{ % endblock %}
@@ -355,54 +355,53 @@ Note the inclusion of a layout page at the top (`{ % extends … % }`), where yo
 
 Ready to roll! You can now run you blog engine, written in less than 85 lines of code (not counting views). By you write tests first, right? Let’s try it out first and then write tests. [TDD is dead I heard](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)…
 
- To run this you need to:
+To run this you need to:
 
 - install the packages in the `package.json` with `npm intall`
 - and then kick the site off with `npm start` that fires up the command I had in `package.json` under scripts->start, if you remember
 
-Now open the blog app on <http://localhost:3000>. The [Mongo](http://www.mongodb.org/) database (you have Mongo installed right?)  will be created for you and you can use a tool like [RoboMongo](http://robomongo.org/) to peek into it.
+Now open the blog app on <http://localhost:3000>. The [Mongo](http://www.mongodb.org/) database (you have Mongo installed right?) will be created for you and you can use a tool like [RoboMongo](http://robomongo.org/) to peek into it.
 
 ### Testing
 
 Before you leave, let’s take a look on how this can be tested. I will not show all the tests since that tends to grow long, but rather just show you how we can make a simple test to check that the update page shows up for an existing post.
 
-``` javascript
-var app = require('./app.js');
-var co = require('co');
-var should = require('should');
-var request = require('supertest').agent(app.listen());
-var posts = require('./blogRoutes.js').posts;
+```javascript
+var app = require("./app.js");
+var co = require("co");
+var should = require("should");
+var request = require("supertest").agent(app.listen());
+var posts = require("./blogRoutes.js").posts;
 
-describe('Blog with mongo:', function(){
- var removeAll = function(done){
-  co(function *(){
-   yield posts.remove({});
-  })(done);
- };
+describe("Blog with mongo:", function () {
+  var removeAll = function (done) {
+    co(function* () {
+      yield posts.remove({});
+    })(done);
+  };
 
- beforeEach(function (done) {
-  removeAll(done);
- });
+  beforeEach(function (done) {
+    removeAll(done);
+  });
 
- afterEach(function (done) {
-  removeAll(done);
- });
+  afterEach(function (done) {
+    removeAll(done);
+  });
 
- var test_post  = { title: 'A nice title', body : 'Short body. Yeah!'};
+  var test_post = { title: "A nice title", body: "Short body. Yeah!" };
 
- it('updates an existing post', function(done){
-  co(function *(){
-   var post = yield posts.insert(test_post);
+  it("updates an existing post", function (done) {
+    co(function* () {
+      var post = yield posts.insert(test_post);
 
-   var postUrl = '/post/' + post._id;
-   request
-    .post(postUrl)
-    .send({title: 'Updated title', body: 'Updated body'})
-    .expect(302)
-    .expect('location', postUrl);
-     })(done);
- });
-
+      var postUrl = "/post/" + post._id;
+      request
+        .post(postUrl)
+        .send({ title: "Updated title", body: "Updated body" })
+        .expect(302)
+        .expect("location", postUrl);
+    })(done);
+  });
 });
 ```
 
@@ -412,15 +411,11 @@ When that is done I need to access the page and validate that the data is on the
 
 Note that the co constructor function wraps our entire test specification and then is immediately invoked, like this:
 
-``` javascript
-co(function *(){
-
+```javascript
+co(function* () {
   // the actual test that will use yield
-
   // code, code, code
-
   // and then, when we’re done…
-
 })(done);
 ```
 
