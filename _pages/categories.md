@@ -5,23 +5,28 @@ title: Tags
 ---
 
 <div id="archives">
-  {% for tag in site.tags %}
+  {% assign tags_with_sizes = site.tags | map: "first" | sort %}
+  {% assign sorted_tags = tags_with_sizes | map: "last" | sort: "size" %}
+  {% for tag in sorted_tags reversed %}
+    {% assign tag_name = tag[0] %}
+    {% assign tag_posts = site.tags[tag_name] %}
+    {% assign tag_size = tag_posts | size %}
     <div class="archive-group">
-      {% capture tag_name %}{{ tag | first }}{% endcapture %}
-      <div id="#{{ tag_name | slugize }}"></div>
+      <div id="#{{ tag_name | slugify }}"></div>
       <p></p>
 
-      <h3 class="category-head">{{ tag_name }}</h3>
-      <a name="{{ tag_name | slugize }}"></a>
+      <h3 class="category-head">{{ tag_name }} ({{ tag_size }})</h3>
+      <a name="{{ tag_name | slugify }}"></a>
       <div class="archive-items">
-        {% for post in tag[1] %}
-          <article class="archive-item">
-            <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{ post.title }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</a></h4>
-          </article>
-        {% endfor %}
+        <table>
+          {% for post in tag_posts %}
+          <tr>
+            <td>{{ post.date | date: "%Y-%m-%d" }}</td> <!-- Display publication date -->
+            <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td> <!-- Display post title (link) -->
+          </tr>
+          {% endfor %}
+        </table>
       </div>
     </div>
-
-{% endfor %}
-
+  {% endfor %}
 </div>
