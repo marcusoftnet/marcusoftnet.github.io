@@ -13,8 +13,5 @@ if [ ! -d "$1" ]; then
 fi
 
 # Run the Docker command
-docker run --rm \
-  --volume="$1:/srv/jekyll" \
-  -p 4000:4000 \
-  -it jekyll/jekyll:latest \
-  jekyll serve
+docker build -t marcusoftnet .
+docker run --rm --volume="$1:/usr/src/app" -it marcusoftnet jekyll build
