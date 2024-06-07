@@ -17,12 +17,12 @@ They are in Swedish but very informative since the give short tour of
 the capabilities of LINQ.
 
 - [Video
-    1](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-video-1-av-3.aspx)
+  1](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-video-1-av-3.aspx)
 - [Video
-    2](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-2-av-3.aspx)
+  2](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-2-av-3.aspx)
 - [Video
-    3](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-3-av-3.aspx)
+  3](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-3-av-3.aspx)
 - [Video
-    4](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-4-av-3.aspx)
+  4](http://blogs.msdn.com/johanl/archive/2007/10/29/linq-to-sql-video-4-av-3.aspx)
 
-Oh - how i long to Visual Studio 2008 - so nice, so good!
+Oh - how I long to Visual Studio 2008 - so nice, so good!

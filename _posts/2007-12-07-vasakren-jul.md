@@ -13,11 +13,11 @@ blogger_orig_url: http://www.marcusoft.net/2007/12/vasakren-jul.html
 
 Tonight is the night!
 
-My corps is putting on our yearly Christmas Concert. This year i have
-been in charge for the planning of it and i am quite nervous. Also the
+My corps is putting on our yearly Christmas Concert. This year I have
+been in charge for the planning of it and I am quite nervous. Also the
 program up to this and this weekend has been almost to much to handle.
 
-But i am really looking forward to the concert tonight - it will be
+But I am really looking forward to the concert tonight - it will be
 great. KarlMagnus Fredriksson is
 our guest soloist and that will surely be great. Vasa Gospel is
 in kick-... form. And the band also sounds great. To top the whole thing
@@ -26,5 +26,5 @@ to the whole scene.
 
 This will be great.
 
-The rest of the weekend will also be fun as i am presenter at the [WindCorp Brass
+The rest of the weekend will also be fun as I am presenter at the [WindCorp Brass
 band](http://www.windcorpbrassband.se/) Christmas concerts.

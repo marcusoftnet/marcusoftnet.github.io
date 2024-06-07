@@ -10,8 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2956868458258965011
 blogger_orig_url: http://www.marcusoft.net/2007/08/candy-exposure.html
 ---
 
-
-I found a, what i thought was, hilarious sign in one of the
+I found a, what I thought was, hilarious sign in one of the
 major stores in Stockholm.
 
 Above one of the cashiers a big sign hung that stated (roughly
@@ -20,13 +19,13 @@ translation here) "No candy-exposure in this cashier"
 How is it with the self-control of the people asking the store to up
 that sign:
 
-- "I'm sorry but i am on a diet and if i see a candy-bar i just must
-    have it. Could you please have a cashier with no candy in it and put
-    a sign above it so i know which one it is?"
-- "(smack) Yeah, i know i should not (chew, chew) eat these - but hey
-    (gromp) it's not my fault. Did you
-    know that they put candy IN THE CASHIER??!! (smack) I stand helpless
-    to that."
+- "I'm sorry but I am on a diet and if I see a candy-bar I just must
+  have it. Could you please have a cashier with no candy in it and put
+  a sign above it so I know which one it is?"
+- "(smack) Yeah, I know I should not (chew, chew) eat these - but hey
+  (gromp) it's not my fault. Did you
+  know that they put candy IN THE CASHIER??!! (smack) I stand helpless
+  to that."
 
 For your information the rest of the store (as all stores) is cramped
 with candy and candy-exposure. I counted to ten rows of shelves with

@@ -4,10 +4,10 @@ title: "KanbanStats II: filter the process chart "
 author: "Marcus Hammarberg"
 date: 2019-01-04 11:56:05
 tags:
- - Agile
- - Scrum
- - Lean
- - Kanban
+  - Agile
+  - Scrum
+  - Lean
+  - Kanban
 ---
 
 **UPDATE**
@@ -60,7 +60,7 @@ Perfect! Google sheets now helped us to filter stuff.
 
 My chart was not vastly improved though since the spread is still around. That was mainly due to the fact that I faked all the estimates.
 
-However, remember that estimates are just that; how big *we thought it would be **before we started to work with the item***. The chart is now, correctly, showing all the items that we estimated to S before we started. The data is showing us how long it really took.
+However, remember that estimates are just that; how big \*we thought it would be **before we started to work with the item\***. The chart is now, correctly, showing all the items that we estimated to S before we started. The data is showing us how long it really took.
 
 ## Filter and our functions
 
@@ -112,7 +112,7 @@ Fine! We now have a few views. Let’s visualize them.
 
 Hmmm ... this did not turn out how I hoped and thought. Got some very useful hints from [Joey Spooner](https://www.spoonstein.com/) about how we could make a query (using the QUERY-function, which is super powerful), and from that make a new export. Like a view of the view.
 
-While that works fine it becomes pretty messy to setup (way beyond the scope of this post, at least) and also means that i need to replicate the view filtering. One of the things that I like with views is that it's simple AND dynamic. I can make up new filters and it will update the chart automatically.
+While that works fine it becomes pretty messy to setup (way beyond the scope of this post, at least) and also means that I need to replicate the view filtering. One of the things that I like with views is that it's simple AND dynamic. I can make up new filters and it will update the chart automatically.
 
 Another tip from Joey was to make a picture out of the chart. This is very handy but static. I could totally see this being a viable solution with a script that basically just does that.
 
@@ -124,13 +124,13 @@ It's not as smooth as I wanted it to be but it helps us to answer a few question
 
 Ok - less philosofy and more doing.
 
-* On the "Lead time with filter"-tab I've added a new filter row, A:E
-* Each of the columns now holds a `HYPERLINK` to the filter
-  * The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end.
+- On the "Lead time with filter"-tab I've added a new filter row, A:E
+- Each of the columns now holds a `HYPERLINK` to the filter
+  - The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end.
     Select the whole address and use that as the first parameter
-  * The name is just a name for the filter `Only Size S` for example
-  * The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
-* Repeat for all views.
+  - The name is just a name for the filter `Only Size S` for example
+  - The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
+- Repeat for all views.
 
 An user can now click one of those links and get the chart filtered.
 
@@ -140,17 +140,16 @@ An user can now click one of those links and get the chart filtered.
 
 I need to show to export the chart as a picture as well, because that could be handy to know, I would guess.
 
-* Click one of those filters
-* See how the chart updates
-* Click the menu dots of the chart
-* Select Download as picture in a suitable format.
+- Click one of those filters
+- See how the chart updates
+- Click the menu dots of the chart
+- Select Download as picture in a suitable format.
 
 ## Summary
 
 Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
 
 In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter.
-
 
 ### The links
 

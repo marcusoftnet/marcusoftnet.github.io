@@ -11,13 +11,12 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2873417466962501171
 blogger_orig_url: http://www.marcusoft.net/2008/03/sprint-1-demo-time.html
 ---
 
-
 My new
 project has just completed it's first sprint; Sprint 1 (or maybe 0 since
 we have done some basic decisions regarding our technology and
 environment).
 
-Again - i am amazed how far you can get if you put your will to it. This
+Again - I am amazed how far you can get if you put your will to it. This
 project was initiated with a whole day meeting that was concluded by a
 comment from the customer; "you know, several people has been looking
 into this and said: it can't be done. Good luck!". Cheerful fellow ;)

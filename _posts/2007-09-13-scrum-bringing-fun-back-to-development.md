@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5818644234273162870
 blogger_orig_url: http://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-development.html
 ---
 
-
 OK - I'll make no fuzz about it. I am really excited about Scrum and
 what it can do. But now after two complete days with <span
 id="SPELLING_ERROR_0" class="blsp-spelling-error">mr Scrum, Ken
@@ -20,7 +19,7 @@ i am completely turned around. It was as closed to a religious wake-up
 as you will ever come without God.
 
 I can't imagine how development can be done with certainty, speed and
-most of all FUN - in any other way... Also i am a bit embarrassed about
+most of all FUN - in any other way... Also I am a bit embarrassed about
 the way I've counted and tried to predict everything in advance - just
 half a year ago.
 
@@ -28,7 +27,7 @@ The big differences are also the easiest - things like that people can
 take care of them self, change will always
 (ALWAYS) occur.
 
-So as long as i have a say in the question i will always conduct my
+So as long as I have a say in the question I will always conduct my
 projects as Scrum projects from now on. There is really no other way if
-you want quality. If i don't have a say i'll still try to run them as Scrum
-projects, just because i know it's best :)
+you want quality. If I don't have a say i'll still try to run them as Scrum
+projects, just because I know it's best :)

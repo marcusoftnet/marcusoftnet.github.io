@@ -13,9 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8186934658685696095
 blogger_orig_url: http://www.marcusoft.net/2014/11/goodpeople.html
 ---
 
-
-
-
 W. Edwards Deming is one the big quote-machines in the management
 business and one of the most often cited is this:
 
@@ -24,7 +21,7 @@ business and one of the most often cited is this:
 
 It's not only sad - it's also true. Sadly. (Oh wow - that was an
 recursive sentence almost :)). I believe this and I have seen it in
-practice. But i have also seen the opposite. Like this:
+practice. But I have also seen the opposite. Like this:
 
 > A good person will defeat a bad system, eventually - Marcus C.
 > Hammarberg
@@ -87,7 +84,7 @@ called him for help. After he fixed it we created an issue for his
 record.
 
 We worked around the **bad system** to get some **(good) work**
-done. ****
+done. \*\*\*\*
 
 **Good persons (and me) defeated the bad system.**
 

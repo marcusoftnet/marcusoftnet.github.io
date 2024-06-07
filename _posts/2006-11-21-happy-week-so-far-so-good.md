@@ -25,5 +25,5 @@ I even managed to handle some bumps in the road yesterday, with some
 laughter and dancing (?!?!) instead of digging graves. There might be
 something here.
 
-If this continue i will have to extend the period - let me get back to
+If this continue I will have to extend the period - let me get back to
 you on that.

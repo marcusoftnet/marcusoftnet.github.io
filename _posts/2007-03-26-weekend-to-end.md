@@ -11,8 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-485016979108118326
 blogger_orig_url: http://www.marcusoft.net/2007/03/weekend-to-end.html
 ---
 
-
-After a really busy weekend i have just started a
+After a really busy weekend I have just started a
 "get-back-into-shape-week"... That happens quite a lot to me - the
 weekends are more hectic than the weeks. So you need to shape up in the
 weeks.
@@ -21,8 +20,8 @@ This weekend has been mainly coloured by the celebration of my Salvation
 Army Corps 40 years anniversary. This was a major success with a music
 festival with the band at the Saturday to a capacity audience - that was
 a very long time ago indeed. So fun, so blessed and a lot of warmth to
-be shared. The band played to its best even though i wrecked that last
-note of my duet... Well it happens, but not to often i hope.
+be shared. The band played to its best even though I wrecked that last
+note of my duet... Well it happens, but not to often I hope.
 
 The Sunday was also great with a celebration with the whole corps, which
 include the string band (yes, they still hang around), a youth choir,

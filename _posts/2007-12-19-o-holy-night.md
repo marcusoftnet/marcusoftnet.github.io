@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1445048808904067337
 blogger_orig_url: http://www.marcusoft.net/2007/12/o-holy-night.html
 ---
 
-Yes i know that this is old and cheesy but i can't help myself. It's
+Yes I know that this is old and cheesy but I can't help myself. It's
 Christmas time and she is doing a very good performance, in her style.
 This is before she started to wailing every song to death.
 

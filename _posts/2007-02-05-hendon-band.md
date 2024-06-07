@@ -12,7 +12,7 @@ blogger_orig_url: http://www.marcusoft.net/2007/02/hendon-band.html
 ---
 
 I went to a short concert last afternoon with the Hendon band. This is one of the
-biggest bands in the Salvation and maybe elsewhere. So i had prepared
+biggest bands in the Salvation and maybe elsewhere. So I had prepared
 for a real "earcleaner" but to my big surprise
 they managed to play very controlled and balanced.
 

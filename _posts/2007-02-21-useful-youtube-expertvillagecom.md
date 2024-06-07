@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6404765985361830368
 blogger_orig_url: http://www.marcusoft.net/2007/02/useful-youtube-expertvillagecom.html
 ---
 
-
 Got a tip of really fun site <http://www.expertvillage.com/>.
 
 Here there are a lot of experts uploading videos of how to do stuff. So
@@ -20,4 +19,4 @@ to throw a American football - here is the place.
 A lot of fun is guaranteed.
 
 I couldn't find anything about the euphonium... yet. Might upload some
-stuff there if i dare
+stuff there if I dare

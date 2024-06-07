@@ -10,16 +10,16 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1788629061096680760
 blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-ii.html
 ---
 
-When i wrote about [babies and their
+When I wrote about [babies and their
 parents](http://marcushammarberg.blogspot.com/2006/11/babies-and-parents.html)
 it caused a small stir here at the office, of course from the parents
-here. Apparently babies *will* take up all your spare time.
+here. Apparently babies _will_ take up all your spare time.
 
 Anyhow - my friends, that was late pregnant, has now had a little girl.
-We are going there tonight and i am really looking forward to meeting
+We are going there tonight and I am really looking forward to meeting
 them and her.
 
 And also see if they still are the same people or if there has been
 major changes to them -as it have to be according to my co-workers. I
-won't promise to eat anything if not but i sure hope that its still my
+won't promise to eat anything if not but I sure hope that its still my
 old friends and not super-mum and dad.
