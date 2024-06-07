@@ -12,11 +12,15 @@ title: Tags
     {% assign tag_list = tag_list | append: tag_name | append: ":" | append: tag_size | append: ";" %}
   {% endfor %}
 
-{% assign sorted_tag_list = tag_list | split: ";" | sort: "size" %}
+{% assign tag_array = tag_list | split: ";" %}
+{% assign tag_array = tag_array | sort: "size" %}
 
-{% for item in sorted_tag_list reversed %}
-{% assign tag_name = item | split: ":" | first %}
-{% assign tag_size = item | split: ":" | last %}
+{% assign sorted_tags = tag_array | sort: 'last' %}
+
+{% for item in sorted_tags reversed %}
+{% assign tag_info = item | split: ":" %}
+{% assign tag_name = tag_info[0] %}
+{% assign tag_size = tag_info[1] %}
 {% assign tag_posts = site.tags[tag_name] %}
 
     <div class="archive-group">
