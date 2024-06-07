@@ -12,6 +12,24 @@
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/img/favicon-32x32.png">
     {% include analytics_head.html %}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        console.log("Loaded");
+        var headers = document.querySelectorAll(".category-head");
+        headers.forEach(function (header) {
+          console.log("Adds event listener to " + header);
+          header.addEventListener("click", function () {
+            console.log("Clicked");
+            var nextElement = header.nextElementSibling;
+            if (nextElement.style.display === "block") {
+              nextElement.style.display = "none";
+            } else {
+              nextElement.style.display = "block";
+            }
+          });
+        });
+      });
+    </script>
   </head>
 
   <body>
@@ -58,21 +76,5 @@
     </div>
 
     {% include analytics.html %}
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        var headers = document.querySelectorAll(".category-head");
-        headers.forEach(function (header) {
-          header.addEventListener("click", function () {
-            var nextElement = header.nextElementSibling;
-            if (nextElement.style.display === "block") {
-              nextElement.style.display = "none";
-            } else {
-              nextElement.style.display = "block";
-            }
-          });
-        });
-      });
-    </script>
   </body>
 </html>
