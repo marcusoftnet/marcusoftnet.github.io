@@ -19,7 +19,7 @@
         headers.forEach(function (header) {
           header.addEventListener("click", function () {
             console.log("Clicked " + header);
-            var nextElement = header.nextElementSibling;
+            var nextElement = header.parentElement.querySelector(".archive-items");
             console.log({ nextElement });
             if (nextElement.style.display === "block") {
               nextElement.style.display = "none";
