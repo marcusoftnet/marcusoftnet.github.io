@@ -45,19 +45,3 @@ title: Tags
 {% endfor %}
 
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var headers = document.querySelectorAll(".category-head");
-    headers.forEach(function(header) {
-      header.addEventListener("click", function() {
-        var nextElement = header.nextElementSibling;
-        if (nextElement.style.display === "block") {
-          nextElement.style.display = "none";
-        } else {
-          nextElement.style.display = "block";
-        }
-      });
-    });
-  });
-</script>
