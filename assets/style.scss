@@ -237,6 +237,15 @@ p > img {
   border: 1px solid #ddd;
 }
 
+.archive-items {
+  display: none;
+  padding: 0 1em;
+}
+
+.archive-item {
+  margin: 0.25em 0;
+}
+
 .archive-item h4 {
   margin: 0;
   font-size: 0.9em;
