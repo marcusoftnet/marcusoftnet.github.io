@@ -14,9 +14,9 @@ title: Tags
       <h3 class="category-head">{{ tag_name }}</h3>
       <a name="{{ tag_name | slugize }}"></a>
       <div class="archive-items">
-        {% for post in site.tags[tag_name] %}
+        {% for post in tag[1] %}
           <article class="archive-item">
-            <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt | strip_html}}{% endif %}</a></h4>
+            <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{ post.title }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</a></h4>
           </article>
         {% endfor %}
       </div>
