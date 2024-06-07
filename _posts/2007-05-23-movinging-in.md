@@ -6,41 +6,16 @@ author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2007-05-23T14:03:33.724Z
-thumbnail: http://3.bp.blogspot.com/\_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s72-c/PICT1580.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4836021775907817470
 blogger_orig_url: http://www.marcusoft.net/2007/05/movinging-in.html
 ---
 
-[<img
-src="http://3.bp.blogspot.com/_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s320/PICT1580.JPG"
-id="BLOGGER_PHOTO_ID_5067626063402356066"
-style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
-data-border="0" />](http://3.bp.blogspot.com/_kkDJOSPNTLs/RlPTDiObzWI/AAAAAAAAAJc/SbR4AZU24v0/s1600-h/PICT1580.JPG)
+Yesterday we moved! From our 30 square meters to 63 feels like a move from a closet to a hangar...
 
-[<img
-src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPS9SObzVI/AAAAAAAAAJU/1z-qPZxOQiA/s320/PICT1578.JPG"
-id="BLOGGER_PHOTO_ID_5067625956028173650"
-style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
-data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPS9SObzVI/AAAAAAAAAJU/1z-qPZxOQiA/s1600-h/PICT1578.JPG)
+It was very, very nice to be able to take a shower without having to stand above the toilet (called Stockholm-shower) and to walk from a room to another.
 
-[<img
-src="http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPSzSObzUI/AAAAAAAAAJM/1ArcROyexY8/s320/PICT1577.JPG"
-id="BLOGGER_PHOTO_ID_5067625784229481794"
-style="DISPLAY: block; MARGIN: 0px auto 10px; CURSOR: hand; TEXT-ALIGN: center"
-data-border="0" />](http://2.bp.blogspot.com/_kkDJOSPNTLs/RlPSzSObzUI/AAAAAAAAAJM/1ArcROyexY8/s1600-h/PICT1577.JPG)
-
-Yesterday we moved! From our 30 square meters to 63 feels like a move
-from a closet to a hangar...
-
-It was very, very nice to be able to take a shower without having to
-stand above the toilet (called Stockholm-shower) and to walk from a room
-to another.
-
-When you move from a small apartment, like ours, it doesn't take that
-long time either. Also we move one floor down - which helped the tempo a
-great
+When you move from a small apartment, like ours, it doesn't take that long time either. Also we move one floor down - which helped the tempo a great
 
 I'll include some pictures from the apparent.
 
-A special thank you to the nice folks at Indiska Odenplan, who stored
-our bench for 1 1/2 month. Thanks - it worked out great.
+A special thank you to the nice folks at Indiska Odenplan, who stored our bench for 1 1/2 month. Thanks - it worked out great.
