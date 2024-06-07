@@ -111,6 +111,8 @@ That code is straight out of the documentation, gently refactored for readabilit
 
 Picking an image from the image library is equally simple... to start with because that is also straight out of the [documentation](https://docs.expo.io/versions/latest/sdk/imagepicker/)
 
+{% raw %}
+
 ```javascript
 import { useState } from 'react';
 import * as ImagePicker from 'expo-image-picker';
@@ -140,19 +142,25 @@ export default function App() {
 
 ```
 
+{% endraw %}
+
 Ok - that is great. Not only did that select the image but also stored it in the local state state `setImageUri()`. Notice that thing that was stored was the URI of the file - that is the URI to the file on disk. I changed the name of the state from the documentation to reflect that.
 
 ## Showing the selected image
 
 Let's put that state into use and show the image:
 
+{% raw %}
+
 ```javascript
 <Image source={{ uri: imageUri }} style={{ width: 300, height: 300 }} />
 ```
 
+{% endraw %}
+
 BAH! This is too easy.
 
-##Upload part I - getting the binary
+## Upload part I - getting the binary
 
 Let's do something a bit more advanced and create a button to upload the picture.
 
@@ -183,7 +191,7 @@ The first time I saw this I mistook it for the upload to Firebase, but no - this
 
 ## Upload part 2 - uploading
 
-With the `getPictureBlob`-function in our toolbelt we can now create a function to upload the binary file to Firebase:
+With the `getPictureBlob`-function in our tool belt we can now create a function to upload the binary file to Firebase:
 
 ```javascript
 import { storage } from './firebase';

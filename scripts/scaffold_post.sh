@@ -20,10 +20,10 @@
 layout=post
 
 # Set text editor
-editor=open -a typora
+editor=code
 
 # Posts directory
-folder=_posts/
+folder=../_posts/
 
 # Author
 author="Marcus Hammarberg"

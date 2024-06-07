@@ -331,6 +331,8 @@ module.exports = views(__dirname + "/views", {
 
 This simple function just tells Koa where to find the views (`/views` folder) and that the swig template engine is to be used. In the actual views you use `{ % % }` for statements and `{{ data }}` to have data appear on the page. Take a look at the list.html page that lists all the blog-posts in the system and you’ll see what I mean about swig being really simple.
 
+{% raw %}
+
 ```handlebars
 { % extends 'layout.html' %}
 
@@ -350,6 +352,8 @@ This simple function just tells Koa where to find the views (`/views` folder) an
   </ul>
 { % endblock %}
 ```
+
+{% endraw %}
 
 Note the inclusion of a layout page at the top (`{ % extends … % }`), where you can set up the framework of the pages. The rest of the views, works the same way and [can be found here](https://github.com/marcusoftnet/CodeBetterKoaDemoCode).
 
