@@ -13,15 +13,13 @@ title: Tags
   {% endfor %}
 
 {% assign tag_array = tag_list | split: ";" %}
-{% assign tag_array = tag_array | sort: "size" %}
-
-{% assign sorted_tags = tag_array | sort: 'last' %}
+{% assign sorted_tags = tag_array | sort %}
 
 {% for item in sorted_tags reversed %}
 {% assign tag_info = item | split: ":" %}
 {% assign tag_name = tag_info[0] %}
 {% assign tag_size = tag_info[1] %}
-{% assign tag_posts = site.tags[tag_name] %}
+{% assign tag_posts = site.tags[tag_name] | sort: "date" %}
 
     <div class="archive-group">
       <div id="#{{ tag_name | slugify }}"></div>
