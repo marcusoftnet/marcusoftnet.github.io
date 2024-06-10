@@ -11,7 +11,6 @@ blogger_orig_url: http://www.marcusoft.net/2007/08/couch-in-house-finally.html
 ---
 
 We have just bought a new sofa to our apartment. Or rather we bought about two months ago but a long, long story including delay for six weeks and delivery of part of the sofa has delayed the installation until... today!
-
 If you like to wait and don't wont your orders handled fast I can recommend Folkhemmet. I'll get back on the quality of their furniture. Enough said!
 
 So here is Elin taking a well deserved rest after putting the whole thing together... I helped a little bit.

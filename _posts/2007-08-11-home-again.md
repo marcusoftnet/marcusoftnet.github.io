@@ -16,8 +16,8 @@ The vacation has been filled with wonderful sights (pictures from Croatia includ
 
 The news I promised in an earlier post is that we are going to have a baby!
 
-still five months away... I promise some more facts and my thoughts on parenthood etc. in posts to follow. For now we are just very happy!
+Still five months away... I promise some more facts and my thoughts on parenthood etc. in posts to follow. For now we are just very happy!
 
-And no
+And no...
 
 And yes - there are a lot of twins in the family. High ... risk/chance take your pick :)
