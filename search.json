@@ -9,7 +9,7 @@
       "category" : "{{ post.categories | join: ', '}}",
       "date"     : "{{ post.date | date: "%B %e, %Y" }}",
       "content"  : "{{ post.content | escape | strip_html | strip_newlines }}",
-      "fuzzy"    : true,
+      "fuzzy"    : true
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
