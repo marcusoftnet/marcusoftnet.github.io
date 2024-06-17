@@ -8,7 +8,7 @@
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "category" : "{{ post.categories | join: ', '}}",
       "date"     : "{{ post.date | date: "%B %e, %Y" }}",
-      "content"  : "{{ page.content | strip_html | strip_newlines | remove_chars | escape }}",
+      "content"  : "{{ page.content | jsonify  }}",
       "fuzzy"    : true,
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
