@@ -11,17 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-685415709126567308
 blogger_orig_url: http://www.marcusoft.net/2009/02/vasakaren-new-website.html
 ---
 
+My corps (or church) has redone their [website](http://www.fralsningsarmen.se/vasakaren/). Actually, it's me who has added all the content. [The Salvation Army in Sweden](http://www.fralsningsarmen.se/) is using a content management tool called P3 that I am not too pleased about, but now it's done.
 
-My corps (or church) has redone their
-<a href="http://www.fralsningsarmen.se/vasakaren/"
-target="_blank">website</a>. Actually it's me who has added all the
-content.
-<a href="http://www.fralsningsarmen.se/" target="_blank">The Salvation
-Army in Sweden</a> is using some content management tool (called P3)
-that I not am too pleased about, but now it's done.
+And I can add webmaster (or whatever it's called nowadays) to my CV. At least for a while.
 
-And I can put webmaster (or whatever it's called nowadays) in my CV. At
-least for a while.
-
-Now go check out <a href="http://www.fralsningsarmen.se/vasakaren/"
-target="_blank">Vasakåren online</a>
+Now go check out [Vasakåren online](http://www.fralsningsarmen.se/vasakaren/)

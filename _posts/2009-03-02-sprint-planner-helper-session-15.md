@@ -11,42 +11,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3480546717605318518
 blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-15.html
 ---
 
+I don’t think I have ever been doing system development in a nicer place – I am right now in [Hyppeln](http://www.hitta.se/LargeMap.aspx?var=Hyppeln) in the Gothenburg archipelago. The weather is wonderful, and we have actually been sitting out for coffee and even managed to do some barbecue…
 
-I don’t think I ever been doing system development in a nicer place – I
-am right now in <a href="http://www.hitta.se/LargeMap.aspx?var=Hyppeln"
-target="_blank">Hyppeln</a> in the Gothenburg archipelago. The weather
-is most wonderful and we have actually been sitting out for coffee and
-even managed to do some barbecue…
+OK – I am pressing on with the Edit controller action for the Product. I ran into a [bug](http://www.marcusoft.net/2009/03/aspnet-mvc-running-transformation-error.html) in the [ASP.NET MVC](http://www.asp.net/mvc/) framework, which is the first one I have seen – pretty good for a Release Candidate…
 
-OK – I am pressing on with the Edit controller action for the Product.
-Ran <a
-href="http://www.marcusoft.net/2009/03/aspnet-mvc-running-transformation-error.html"
-target="_blank">into a bug</a> of the
-<a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a>
-framework I think. The first one I see – pretty good for a RC…
+I think that I have missed some part of the TDD process by not being good at “testing my boundaries” (a Code Smell from [Clean Code by Robert C. Martin](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)). When I first read it, I didn’t fully understand it, but as I am beginning to grasp the TDD approach, I realized that for most cases this means writing tests for NULL values as well. You could go to the other extreme and write tests for the highest possible values, but I don’t see much use in that. NULL values are always worth testing, so I think I will incorporate that into my TDD rhythm and maybe even start with it.
 
-I think that I have missed some part of the TDD-ing with that I haven’t
-been good at “testing my boundaries” (a Code Smell from <a
-href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
-target="_blank">Clean Code by Robert C. Martin</a>). When I read it I
-didn’t fully understand it but as I am beginning to understand the
-TDD-ways I realized that for most cases that is to write tests for the
-NULL-values also. I guess that you could go to the other extreme and
-write test for the highest possible value but I cannot see the great use
-of that. NULL values are always good to test for so I think I will
-incorporate that into my TDD rhythm, and maybe even start with it.
+Today, I have worked on the Edit (update) and Delete actions. I have implemented them in both the view and the controller, still with a very simple UI.
 
-Today I have worked with the Edit (update) and Delete-actions. I have
-implemented them in the view and the controller, still with a very
-simple UI.
+I also managed to get the Product Backlog Items into a user control. I found the really nice [RenderPartial](http://devlicio.us/blogs/derik_whittaker/archive/2008/11/24/renderpartial-vs-renderaction.aspx) method that renders a user control in a view.
 
-I actually got the Product Backlog Items in a usercontrol also. Found
-the really nice <a
-href="http://devlicio.us/blogs/derik_whittaker/archive/2008/11/24/renderpartial-vs-renderaction.aspx"
-target="_blank">RenderPartial</a>-method that renders a user control in
-a view.
-
-I have a great feeling of “i have done this before” when doing the UI.
-It feel likes good old ASP.OLD done right. And a bit like
-<a href="http://www.avdf.com/oct98/art_id003.html" target="_blank">Web
-Classes</a> (IIS Applications in VB6 back in the days). I like it!
+I have a great feeling of “I have done this before” when working on the UI. It feels like good old ASP.OLD done right and a bit like [Web Classes](http://www.avdf.com/oct98/art_id003.html) (IIS Applications in VB6 back in the days). I like it!
