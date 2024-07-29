@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update AppSettings with XmlUpdate in build scripts
+title: Update AppSettings with XmlUpdate in Build Scripts
 date: 2009-01-20T07:00:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,29 +11,20 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3488066834100206897
 blogger_orig_url: http://www.marcusoft.net/2009/01/update-appsettings-with-xmlupdate-in.html
 ---
 
+I know I will chase this one forever if I don't put it up here...
 
-I know I will chase this one for ever if I don't put it up here...
+We encountered a situation where we needed to tweak the `AppSettings` section of a configuration before running tests in the build script.
 
-We ran into a situation where we needed to tweak the AppSettings-section
-of an configuration before tests in the build script.
+Luckily, there is a solution available. With the `XmlUpdate` task (from the [MSBuild Community Tasks](http://msbuildtasks.tigris.org/)), you can accomplish this—if you know how to write the XPath query.
 
-Luckily there is help to be found. With the XmlUpdate-task (in the
-<a href="http://msbuildtasks.tigris.org/" target="_blank">MSBuild
-Community Tasks</a>) this can be accomplished. IF you know how to write
-the XPath-query.
+Here’s how to use it (I found this [example here](http://geekswithblogs.net/paulwhitblog/archive/2006/04/11/74844.aspx)):
 
-Here is how (found it <a
-href="http://geekswithblogs.net/paulwhitblog/archive/2006/04/11/74844.aspx"
-target="_blank">here</a>):
+```xml
+<XmlUpdate 
+    Namespace="http://schemas.microsoft.com/.NetConfiguration/v2.0"
+    XmlFileName="$(SourceDir)\Core\ABSuite\ABClient\App.config"
+    Xpath="//configuration/appSettings/add[@key='Main.ConnectionString']/@value"
+    Value="$(DatabaseConnectionString)" />
+```
 
-> \<XmlUpdate
-> Namespace="<http://schemas.microsoft.com/.NetConfiguration/v2.0>"
-> XmlFileName="$(SourceDir)\Core\ABSuite\ABClient\App.config"
->
-> **Xpath="//configuration/appSettings/add\[@key='Main.ConnectionString'\]/@value"**
-> Value="$(DatabaseConnectionString)"
-> /\>
-
-Also here is a great site to pick up some
-<a href="http://www.zvon.org/xxl/XPathTutorial/Output/examples.html"
-target="_blank">XPath-skills</a>.
+Additionally, if you need to brush up on your XPath skills, check out this [XPath tutorial](http://www.zvon.org/xxl/XPathTutorial/Output/examples.html) for some great examples.

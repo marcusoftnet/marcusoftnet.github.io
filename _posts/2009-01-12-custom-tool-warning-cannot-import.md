@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom tool warning cannot import wsdl:portType
+title: Custom Tool Warning: Cannot Import wsdl:portType
 date: 2009-01-12T14:10:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -12,31 +12,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1861622144976994737
 blogger_orig_url: http://www.marcusoft.net/2009/01/custom-tool-warning-cannot-import.html
 ---
 
+I chased this bug for a while and got increasingly frustrated. Here’s what happened: I updated a WCF Service Reference and encountered the error (or actually a warning) in the Error List of Visual Studio. Additionally, the `Reference.vb` file was completely empty.
 
-I chased this bug for a while - more and more frustrated... This was
-what happened: I updated a WCF Service Reference and got this error (or
-actually warning) in the Error List of Visual Studio. Also I saw that
-the Reference.vb was totally empty.
+After some experimentation and frustration (why do I always try things myself before searching for a solution?), I decided to look online. Fortunately, I found the answer quickly.
 
-OK - after some trying of my own (why do I do that over and over? Don't
-think - steal from others...) I though of searching the Net and of
-course found the answer in five seconds.
+[Travis Spencer's blog](http://travisspencer.com/blog/2007/11/approaches-to-defining-fault-c.html) provided a solution. Although the title and description of the post were quite different, the solution was what I needed.
 
-<a
-href="http://travisspencer.com/blog/2007/11/approaches-to-defining-fault-c.html"
-target="_blank">Here is a guy</a> that solved it - but the header and
-description of the post is quite different so I'll try to give my own
-explanation here.
+In the "Configure Service Reference" dialog box, there is an option called "Reuse types in referenced assemblies." This option is a bit vague in its purpose—essentially, it means the tool attempts to download the assemblies that the service is referencing.
 
-In the Configure Service Reference... dialog box there is an option
-"Reuse types in referenced assemblies". Exactly what that means is hard
-to grasp (<a href="http://www.google.com/search?hl=en&amp;q="
-data-reuse+types+in+referenced+assemblies"&meta=" target="
-data-_blank"="">just try for yourselves</a>) - but I understand it as
-the tool tries to download the assemblies that the service is
-referencing.
+To solve the issue, you don’t need to fully understand this setting. Simply uncheck the "Reuse types in referenced assemblies" box and regenerate the reference. This should resolve the problem!
 
-The solution, however, don't have much to do with understanding that (if
-you don't want to) - simply clear that box and regenerate. It works!
-
-![](http://www.travisspencer.com/stash/blog_images/Service_Reference_Settings_Dialog_Box.gif)
+![Service Reference Settings Dialog Box](http://www.travisspencer.com/stash/blog_images/Service_Reference_Settings_Dialog_Box.gif)
