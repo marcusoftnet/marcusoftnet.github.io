@@ -7,7 +7,6 @@ tags:
   - Life of a consultant
   - ASP.NET MVC
 modified_time: 2009-03-07T21:58:15.133Z
-thumbnail: http://lh3.ggpht.com/_TI0jeIedRFk/Sar6-Cdw99I/AAAAAAAAADI/UjxSu9mWZxk/s72-c/templatedprocessing_thumb2.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8862835742123198589
 blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-running-transformation-error.html
 ---
@@ -17,7 +16,7 @@ This is solved. [See this](http://www.marcusoft.net/2009/03/aspnet-mvc-running-t
 
 I ran into this problem:
 
-[![Template Processing resulted in 1 Errors: Error: Running Transformation](http://lh3.ggpht.com/_TI0jeIedRFk/Sar6-Cdw99I/AAAAAAAAADI/UjxSu9mWZxk/templatedprocessing_thumb2.jpg?imgmax=800)](http://lh4.ggpht.com/_TI0jeIedRFk/Sar69EE5xHI/AAAAAAAAADE/nKOvDq_M6gE/s1600-h/templatedprocessing4.jpg)
+![Template Processing resulted in 1 Errors: Error: Running Transformation](/img/templatedprocessing4.jpg)
 
 It appeared when I added an Edit-view for an inline view-data class. That is, I created a special class to hold the view data that the controller is acting upon, and that class is declared inside the controller.
 
