@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Custom Tool Warning: Cannot Import wsdl:portType
+title: Custom Tool Warning Cannot Import wsdl portType
 date: 2009-01-12T14:10:00.001Z
 author: Marcus Hammarberg
 tags:
