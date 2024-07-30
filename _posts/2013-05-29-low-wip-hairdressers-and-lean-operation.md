@@ -15,9 +15,8 @@ blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean
 
 I was at the hairdresser yesterday. I'm not very particular about my hair, but it was starting to look a bit like this:
 
-<a href="/img/dolph-lundgren-flat-top-rocky.jpg" data-imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em; text-align: center;">
-  <img src="/img/dolph-lundgren-flat-top-rocky.jpg" data-border="0" width="111" height="130" />
-</a>
+![Dolph](/img/dolph-lundgren-flat-top-rocky.jpg)
+
 When I want it to be more like this guy to the left.
 
 The conversations at most hairdressers in Sweden are not very interesting, mostly due to the fact that I'm not interested in hair, particularly mine. So while I was seated in the chair, thoughts from some discussions on prioritization and flow for a team at a client came to mind.
@@ -38,9 +37,8 @@ He was right and wrong at the same time.
 
 ### Flow Efficiency Versus Resource Utilization
 
-<a href="/img/Screen+Shot+2013-05-29+at+10.13.46+.png" data-imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: center;">
-  <img src="/img/Screen+Shot+2013-05-29+at+10.13.46+.png" data-border="0" width="320" height="236" />
-</a>
+![This is lean](/img/Screen+Shot+2013-05-29+at+10.13.46+.png)
+
 In the great book [This is Lean](http://thisislean.com/) (read it now... I mean right now. Stop reading this blog and pick up the book - I won't be offended), they use an illustration to explain what Lean really is. It's just a simple diagram, like the one to the right.
 
 I won't go into all the details on how to explain what Lean is here. For now, we can just understand "Resource efficiency" as making sure that our resources or people are utilized to the max. Maximizing "Flow efficiency," on the other hand, is making sure that work is flowing through our process as fast as possible. Read my friend [Håkan Forss' post on the topic](https://hakanforss.wordpress.com/2012/03/18/the-balancing-act-of-getting-to-process-efficiency-nirvana/) instead. But this gives us a great framework to discuss our topic at hand.
