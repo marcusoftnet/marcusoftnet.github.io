@@ -17,7 +17,7 @@ Today is my last day on this assignment, where I've learned a lot. This time, Iâ
 
 The SCRUM part of this experience was almost a religious one. I feel like a different and better consultant after learning SCRUM, and I donâ€™t think I'll ever go back.
 
-The future holds six months with [Albert and Elin](http://lh6.ggpht.com/_kkDJOSPNTLs/SQ8ozDXCSLI/AAAAAAAAAYY/KZWQ9FxPyqc/DSC_0017_thumb%5B4%5D.jpg?imgmax=800). I will be "daddy-free" (a direct translation of "pappaledig" for all you Swedish readers). This is a wonderful benefit in Sweden where you actually receive money from the government to stay home with your kids. Amazing!
+The future holds six months with Albert and Elin. I will be "daddy-free" (a direct translation of "pappaledig" for all you Swedish readers). This is a wonderful benefit in Sweden where you actually receive money from the government to stay home with your kids. Amazing!
 
 Elin is working nights right now, which means she has a lot of free time during the day. This allows us to spend a lot of time together, something I am really looking forward to.
 

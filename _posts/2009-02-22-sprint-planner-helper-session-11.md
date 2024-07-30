@@ -7,34 +7,22 @@ tags:
   - Sprint Planner Helper
   - TDD
 modified_time: 2009-02-21T22:30:40.161Z
-thumbnail: http://lh6.ggpht.com/\_kkDJOSPNTLs/SaCAj6mqXeI/AAAAAAAAAhs/q5kHDnspv6E/s72-c/sprintplannerhelpergui1_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5399120244865118545
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-11.html
 ---
 
+It’s been a while since I last worked on the project. Abbe has been quite sickly, and I haven’t had much time. No worries – it's all a hobby. 😉
 
-It’s been a while since I did some code on the project. Abbe has been
-quite sickly and I have not had the time. No worries – it’s all a hobby
-;)
+### Progress Update
 
-OK – what I have done since last time (2 x 15 min I think) is to produce
-a list of Product on my web page. With this fancy layout…
+Since my last update (which was only 2 x 15-minute sessions), I’ve managed to produce a list of Products on my webpage with a new layout:
 
-[<img
-src="http://lh6.ggpht.com/_kkDJOSPNTLs/SaCAj6mqXeI/AAAAAAAAAhs/q5kHDnspv6E/sprintplannerhelpergui1_thumb%5B1%5D.jpg?imgmax=800"
-title="sprintplannerhelpergui1"
-style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px"
-data-border="0" width="386" height="212"
-alt="sprintplannerhelpergui1" />](http://lh3.ggpht.com/_kkDJOSPNTLs/SaCAjQSVUTI/AAAAAAAAAho/OLO2yJ2vMTw/s1600-h/sprintplannerhelpergui1%5B3%5D.jpg)
+This progress made me realize that I should have included some disclaimers regarding the UI. I created a specific CSS class for the product list, which will help later on. My focus now is on functionality, not aesthetics.
 
-That made me realize that I could have added some disclaimer when it
-comes to the UI. I made a certain css-class for the productlist, so
-someone can help me out later. I will make it functional now – not
-pretty.
+### Model Enhancements
 
-I also came to realize that my model may be enhanced with some status
-for the product items and aggregated values for how much that is done
-for a product. I TDD’ed them out and added them to the GUI. Which took
-me forever since I got stuck on LINQ-issues. Here is a [excellent
-site](http://msdn.microsoft.com/en-us/vcsharp/aa336746.aspx) for help in
-these matters.
+I also discovered that my model could be improved with additional features such as status for the product items and aggregated values for progress tracking. I used Test-Driven Development (TDD) to implement these changes and integrated them into the GUI. This process was quite time-consuming due to some challenges with LINQ.
+
+For those dealing with similar issues, here's an [excellent resource](http://msdn.microsoft.com/en-us/vcsharp/aa336746.aspx) on LINQ that proved helpful.
+
+More updates to come as I continue working on this project!
