@@ -6,53 +6,28 @@ author: Marcus Hammarberg
 tags:
   - Sprint Planner Helper
 modified_time: 2009-04-07T20:12:48.614Z
-thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/SduzvZvPLtI/AAAAAAAAAEI/HNFcB9fkQnU/s72-c/aggregates_thumb%5B1%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2791464324153723923
 blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-session-26.html
 ---
 
+I’ve recently come to a realization: I’m not making as much progress as I’d like on this project. It’s not exactly flattering to acknowledge that it’s taken me about 2.5 months to reach this conclusion, but here we are. 
 
-I have come to realize that I am not working… Not very flattering that I
-has taken me about 2,5 months to come to that conclusion but here I am.
+Given that I’m on parental leave, I’ve decided to slow down the pace of this project. I don’t want to feel pressured to “produce” results—this is supposed to be a fun and relaxing endeavor. So, from now on, progress will be slower and only when it feels enjoyable.
 
-So I will probably slow down the pace for this project. I have not done
-loads so far but I felt a bit pressured to “produce” and that not the
-kind of feeling I would like to have on my parental leave. So a bit slow
-– and still only when it’s fun!
+In today’s session, I focused on identifying aggregates and creating repositories for the Sprint domain object.
 
-OK – the thing today is to find aggregates and create repositories for
-the Sprint domain object.
+Aggregates are still a bit challenging for me to fully grasp. The mainstream definition suggests they are "things that must exist together," with common examples like the Order-OrderLine relationship. 
 
-When it’s comes to aggregates I still find them quite hard to grasp. The
-mainstream definition seems to be “things that must exists together” and
-the most common example is the Order-OrderLine relationship.
+For my Sprint domain, I have a list of `SprintItems`, each with a list of `ActionItems`. It feels cumbersome to retrieve the entire structure every time I need a Sprint, so I’m considering breaking it down into aggregates. I plan to start with an aggregate consisting of Sprint, Team, and SprintItems, and another for SprintItem and ActionItems.
 
-But for my Sprint I have a list of SprintItems each with a list of
-ActionItems. And if feels quite strange to get the complete thing each
-time I bring up a sprint. Feels to heavy. So I’ll start with the
-aggregate being the Sprint, Team and SprintItems and then another
-aggregate for SprintItem and ActionItems.
+I’m not entirely sure if this aligns perfectly with [Domain-Driven Design (DDD)](http://en.wikipedia.org/wiki/Domain-driven_design), but it’s a starting point. My modeling is done in PowerPoint, and you can check it out in the [modeling.pptx file](http://sprintplannerhelper.codeplex.com/) on the CodePlex project page.
 
-I am not sure that this is good
-<a href="http://en.wikipedia.org/wiki/Domain-driven_design"
-target="_blank">DDD</a> but I’ll start of like this. My modeling is done
-in PowerPoint, and if you follow my code (on
-<a href="http://sprintplannerhelper.codeplex.com/" target="_blank">this
-project @ CodePlex</a>) you’ll find it in the modelling.pptx-file.
+**PowerPointing in progress**
 
-\[PowerPointing in progress\]
+![Aggregates](/img/sprintplanner_aggregates.jpg)
 
-[<img
-src="http://lh4.ggpht.com/_TI0jeIedRFk/SduzvZvPLtI/AAAAAAAAAEI/HNFcB9fkQnU/aggregates_thumb%5B1%5D.jpg?imgmax=800"
-title="aggregates"
-style="border-right: 0px; border-top: 0px; display: inline; border-left: 0px; border-bottom: 0px"
-data-border="0" width="334" height="252" alt="aggregates" />](http://lh5.ggpht.com/_TI0jeIedRFk/SduzuzXmYuI/AAAAAAAAAEE/X2nz_6PLsDM/s1600-h/aggregates%5B3%5D.jpg)
+Now that the planning is done, I’ve moved on to creating repositories for these aggregates. This mainly involves setting up inheritance and writing simple tests. 
 
-OK – that was the thinking part. Now I need to add repositories for
-these aggregates. That is mostly inheritance and tests. Simple tests… :)
+**Coding in progress**
 
-\[Coding in progress\]
-
-Ok – that took some time. But now I have the tests in place and
-everything is dandy to get started on the UI for the sprint-part of my
-domain.
+The coding and testing took some time, but I’ve got the tests in place now. Everything is set up to start working on the UI for the sprint part of my domain. Looking forward to making some real progress here!
