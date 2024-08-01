@@ -23,6 +23,4 @@ Here are some resources that I found on the subject:
 
 And finally a great lightning talk by [Staffan Nöteberg](http://blog.staffannoteberg.com/) on the problems that Pomodoro sets out to solve. In Swedish I am afraid…
 
-![Pomodoro Talk](http://lh4.ggpht.com/_TI0jeIedRFk/So6DK6bWL8I/AAAAAAAAAGo/58R4zADdNVM/videoc98d5eb167f7%5B2%5D.jpg?imgmax=800)
-
 [Here](http://blog.staffannoteberg.com/2009/01/10/pomodoro-technique-oredev-2008-video/) is a longer (50 min) version of the same talk in English.
