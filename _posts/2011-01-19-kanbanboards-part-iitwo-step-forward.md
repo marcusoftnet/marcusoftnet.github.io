@@ -30,7 +30,7 @@ In the [first part of this series](http://www.marcusoft.net/2011/01/developing-i
 
 Where we left off we got an error message and stub implementation from [SpecFlow](http://www.specflow.org) like this:
 
-```gherkin
+```text
 Given the following Kanban boards
 
 ---
