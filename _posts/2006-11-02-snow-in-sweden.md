@@ -10,23 +10,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5644087848201059915
 blogger_orig_url: http://www.marcusoft.net/2006/11/snow-in-sweden.html
 ---
 
-[<img
-src="http://photos1.blogger.com/blogger2/4958/4459/320/thorildsplan445.jpg"
-style="FLOAT: right; MARGIN: 0px 0px 10px 10px; CURSOR: hand"
-data-border="0" />](http://photos1.blogger.com/blogger2/4958/4459/1600/thorildsplan445.jpg)
+![Snow at Thorildsplan](/img/0/thorildsplan445.jpg)
 
-Today, and most of all yesterday was the first snowstorm of the winter in
-the Stockholm-area.
+Today, and most of all yesterday, was the first snowstorm of the winter in the Stockholm area.
 
-Every, i'm saying every, year we miss this. First the trains is stopped
-by falling leafs and then, what do you know, snow? Here in Sweden? How
-can it happen?
+Every year, I'm saying every year, we miss this. First, the trains are stopped by falling leaves, and then, what do you know, snow? Here in Sweden? How can it happen?
 
-people not being able to get home, **all** busses in the Stockholm area
-stopped etc) but then again we knew about this storm for about 2 weeks.
+People couldn't get home, **all** buses in the Stockholm area stopped, etc. But then again, we knew about this storm for about two weeks.
 
-Maybe if the busses have had winter tires on, or all other vehicles for
-tonight).
+Maybe if the buses had winter tires on, or all other vehicles for that matter, it wouldn't be such an issue.
 
-Anyway, this gets us each year and I am not expecting any co-workers
-until 10 o'clock today.
+Anyway, this catches us each year, and I am not expecting any co-workers until 10 o'clock today.
