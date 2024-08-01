@@ -6,23 +6,12 @@ author: Marcus Hammarberg
 tags:
   - .NET - TFS
 modified_time: 2010-01-18T13:18:27.170Z
-thumbnail: http://lh4.ggpht.com/\_TI0jeIedRFk/S1RfoBoLsoI/AAAAAAAAALA/la_76x5SuqM/s72-c/image_2%5B1%5D_thumb.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5475226306907875937
 blogger_orig_url: http://www.marcusoft.net/2010/01/branching-guide-for-team-foundation.html
 ---
 
+[Here is a great resource](http://tfsbranchingguideiii.codeplex.com/) on how to handle branching in Team Foundation Server 2010.
 
-<a href="http://tfsbranchingguideiii.codeplex.com/" target="_blank">Here
-is a great resource</a> on how to handle branching in Team Foundation
-Server 2010.
+The best part is that you can get this very short and sweet picture of it. Here is the [description of it](http://tfsbranchingguideii.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=20785#DownloadId=52462).
 
-The best part is that you can get this very short and sweet picture of
-it. Here is the <a
-href="http://tfsbranchingguideii.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=20785#DownloadId=52462"
-target="_blank">description of it</a>.
-
-[<img
-src="http://lh4.ggpht.com/_TI0jeIedRFk/S1RfoBoLsoI/AAAAAAAAALA/la_76x5SuqM/image_2%5B1%5D_thumb.png?imgmax=800"
-title="image_2[1]"
-style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px"
-data-border="0" width="244" height="170" alt="image_2[1]" />](http://lh3.ggpht.com/_TI0jeIedRFk/S1RfnoTMa7I/AAAAAAAAAK8/G-5rjCPlEOI/s1600-h/image_2%5B1%5D%5B2%5D.png)
+![image_2[1]](/img/image_2%255B1%255D_thumb.png)
