@@ -8,66 +8,35 @@ tags:
   - .NET
   - Life of a consultant
 modified_time: 2013-08-22T09:58:35.339Z
-thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TT098Mo8gnI/AAAAAAAAAws/4E9E1y1stNo/s72-c/tortoise%20git%20sync%20window_thumb.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-492786643050013190
 blogger_orig_url: http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html
 ---
 
+I am loving [GitHub](http://www.github.com/)!
 
+Especially the social collaboration that occurs around projects and code. If you’ve never committed code to an OSS project, try it—it’s an exhilarating feeling. And just imagine the other side of the coin—to receive suggestions and [improvements from others](https://github.com/marcusoftnet/KanbanBoards/pull/1)! That’s the good news. The bad news (for me, at least) is that Git is something else. It’s great but takes some getting used to. I’m not there yet. For example, the preferred way seems to be the command line, which I haven’t quite mastered.
 
+There are some GUIs available to help people like me overcome the abyss, with TortoiseGit being one of the most well-known tools. TortoiseGit was the tool that finally helped me understand, use, and love GitHub.
 
-I am loving <a href="http://www.github.com/" target="_blank">GitHub</a>!
-Especially the social collaboration that occur around the projects and
-code. If you never committed code to a OSS project try it – it’s a
-exhilarating feeling. And just imaging the other side of the coin – to
-get suggestions and
-<a href="https://github.com/marcusoftnet/KanbanBoards/pull/1"
-target="_blank">improvements from other people sent to you</a>!
-That’s the good news – the bad news (for me at least) is the Git is
-something else. It’s great but it takes some getting used to. I’m not
-there yet. For example the preferred way seems to be command line, and I
-haven’t got used to that yet.
-There are some GUIs available that help people like me to overcome the
-abyss, the most well known is
-<a href="http://code.google.com/p/tortoisegit/"
-target="_blank">TortoiseGit</a>. That was the tool finally got me to
-understand, use and love GitHub.
-But when I got a pull request sent to me I hit a
-brick wall. At the bottom of the page for the
-<a href="https://github.com/marcusoftnet/KanbanBoards/pull/1"
-target="_blank">a pull request in GitHub</a> there are some excellent
-instructions for how to pull the request into your main branch. But I
-couldn’t translate that into what to do in TortoiseGit. And that’s one
-of the problems of a GUI on top of another system – the nomenclature is
-not always the same and you will run into problems.
-So here is ONE way to do it. I’m sure there is another better way but
-this works.
+However, when I received a pull request, I hit a brick wall. The instructions at the bottom of the [pull request page on GitHub](https://github.com/marcusoftnet/KanbanBoards/pull/1) are excellent for pulling the request into your main branch, but translating that into what to do in TortoiseGit was challenging. GUI nomenclature isn’t always aligned with command line terms, leading to confusion.
 
-1. Go to the pull request on GitHub (for example
-    <https://github.com/marcusoftnet/KanbanBoards/pull/1>)
-2. Add the extension “.patch” to the URL and download that file to your
-    disk somewhere
-3. Right-click the folder with your Git local repository (for example
-    C:\Dev\MyProject) and select Git Sync... from TortoiseGit – which
-    opens this window
-    [<img
-    src="http://lh6.ggpht.com/_TI0jeIedRFk/TT098Mo8gnI/AAAAAAAAAws/4E9E1y1stNo/tortoise%20git%20sync%20window_thumb.jpg?imgmax=800"
-    title="tortoise git sync window" data-border="0"
-    style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
-    width="420" height="341" alt="tortoise git sync window" />](http://lh3.ggpht.com/_TI0jeIedRFk/TT097jOf20I/AAAAAAAAAwo/tkMXMiPEwlw/s1600-h/tortoise%20git%20sync%20window%5B2%5D.jpg)
-4. From the window select Apply patch
-5. Choose Add from the next dialog and add the file you save in step 2
-    above
-    [<img
-    src="http://lh4.ggpht.com/_TI0jeIedRFk/TT099PUuHxI/AAAAAAAAAw0/NLmF9zem8ME/add%20patch_thumb.jpg?imgmax=800"
-    title="add patch" data-border="0"
-    style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
-    width="420" height="343" alt="add patch" />](http://lh3.ggpht.com/_TI0jeIedRFk/TT098m3jSWI/AAAAAAAAAww/Jfw0T4QqEhA/s1600-h/add%20patch%5B2%5D.jpg)
-6. Choose Apply
-7. Now commit the patch to your master
-8. Optionally push that change to a remote master
+Here is ONE way to apply a pull request using TortoiseGit. This method may not be perfect, but it works:
 
-I know that I probably will be frowned upon by command liners out there
-but this is a way I got around a serious problem.
-It took me about 2 hours to find and apply this solution which is enough
-time for not want to have to do it again.
+1. Go to the pull request on GitHub (for example, <https://github.com/marcusoftnet/KanbanBoards/pull/1>).
+2. Add the extension `.patch` to the URL and download that file to your disk somewhere.
+3. Right-click the folder with your Git local repository (for example, `C:\Dev\MyProject`) and select **Git Sync...** from TortoiseGit. This opens the sync window:
+
+   ![TortoiseGit Sync Window](/img/tortoise%2520git%2520sync%2520window_thumb.jpg)
+
+4. In the window, select **Apply patch**.
+5. Choose **Add** from the next dialog and add the file you saved in step 2:
+
+   ![Add Patch](/img/add%2520patch_thumb.jpg)
+
+6. Choose **Apply**.
+7. Now commit the patch to your master branch.
+8. Optionally, push the change to a remote master.
+
+I know that command line purists might frown upon this method, but it was a solution that worked for me. It took me about 2 hours to figure out, which is why I’m sharing it to save others from the same hassle.
+
+Feel free to comment and ask questions!

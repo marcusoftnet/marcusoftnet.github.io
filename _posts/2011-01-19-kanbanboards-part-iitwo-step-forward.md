@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KanbanBoards part II–two step forward and one back
+title: KanbanBoards part II–two steps forward and one back
 date: 2011-01-18T23:05:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -9,16 +9,15 @@ tags:
   - ASP.NET MVC
   - KanbanBoards
 modified_time: 2011-01-18T23:12:04.743Z
-thumbnail: http://lh3.ggpht.com/_TI0jeIedRFk/TTYchqvu2RI/AAAAAAAAAsE/S1AUq5UoCq0/s72-c/intial%20steps_thumb%5B2%5D.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1192963568942273739
 blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
 ---
 
 ### Disclaimers and introduction
 
-I am now the [father of three kids](http://www.marcusoft.net/2010/03/arvid-and-gustav.html). They are my 1 priority. This project will come second. I’m doing the project for myself mostly, but am very humbled by the fact that several people already have shown interest in my undertakings.
+I am now the [father of three kids](http://www.marcusoft.net/2010/03/arvid-and-gustav.html). They are my number one priority. This project will come second. I'm doing the project for myself mostly, but I'm very humbled by the fact that several people already have shown interest in my undertakings.
 
-Up to now I’ve also had time to look at the project half-an-hour at a time. With several hours of back-in-my-head-thinking in between. That might be good.
+Up to now I’ve also had time to look at the project half-an-hour at a time. With several hours of back-in-my-head thinking in between. That might be good.
 
 I have no master plan. I will make mistakes as you sure will notice in this post... I do not intend to document just the result but also my sidesteps and mistakes. I am a firm believer that it’s through our mistakes that we learn the most.
 
@@ -57,7 +56,7 @@ My plan is to not go against the GUI this time. Partly because the outside-in ex
 
 ### Specing out the first step
 
-OK – the first steps say that some “Kanbanboards” are needed. So the first order of business is to create them. I’ll use the Assist-namespace of SpecFlow to get help to turn the [SpecFlow Table into a list of object](http://www.youtube.com/watch?v=Dsk0EE43Tg4). This led me to specify the initial layout of the Domain object KanbanBoard.
+OK – the first steps say that some “Kanbanboards” are needed. So the first order of business is to create them. I’ll use the Assist-namespace of SpecFlow to get help to turn the [SpecFlow Table into a list of objects](http://www.youtube.com/watch?v=Dsk0EE43Tg4). This led me to specify the initial layout of the Domain object KanbanBoard.
 
 Here’s the code (really simple):
 
@@ -67,7 +66,7 @@ And for those wondering I moved the KanbanBoard class into the model directory o
 
 ### Strategy thinking
 
-But that doesn’t really cut it. We need to stick them somewhere. Later on we want to pull these from a repository right? Right! The background step sets up 4 Kanban boards but in the Then-step only the top 3 favorited should be returned as “Top Kanban boards”. Hmm – so we need to stick a fake database into the repository in order to mock it out.
+But that doesn’t really cut it. We need to stick them somewhere. Later on we want to pull these from a repository, right? Right! The background step sets up 4 Kanban boards but in the Then-step only the top 3 favorited should be returned as “Top Kanban boards”. Hmm – so we need to stick a fake database into the repository in order to mock it out.
 
 Here’s my plan; I was thinking on using [EF Code First](http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx) which defines the database context as a class inheriting from DbContext and exposing DbSet’s to write queries against. So maybe that DbContext could be a dependency to my repository and I can mock it when doing unit tests.
 
@@ -77,7 +76,7 @@ Let’s see if I can get there.
 
 One of the tools I wanted to try out is [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) that looks very interesting. For that to work out properly (I think?) I need an MVC project. So I created an empty one. This is the first **need** I see for it so in a way I’m forced to create it.
 
-Lets do that!
+Let’s do that!
 
 I simply created an MVC 3 project using the wizard. No unit-tests since I don’t need them. Yet. I went with Razor as my view engine.
 
@@ -104,8 +103,6 @@ Successfully added 'EFCodeFirst 0.8' to Web
 Successfully added 'T4Scaffolding 0.8.5' to Web
 Successfully added 'MvcScaffolding 0.8.7' to Web
 ```
-
-Here's the cleaned-up markdown for your blog post:
 
 ### Detour – wrong project
 
@@ -145,9 +142,11 @@ OK – that in turn led me to a lot of refactorings:
 
 - I extracted an interface called IKanbanBoardsDbContext from the KanbanBoardsDbContext class
 - I updated the KanbanBoardRepository to be dependent on that interface instead of the concrete implementation.
-- I used NuGet like a wizard and installed Should, installed Should Fluent, Uninstalled Should (![Smile](http://lh5.ggpht.com/_TI0jeIedRFk/TTYcsr0sdFI/AAAAAAAAAsw/43_M-ttge_w/wlEmoticon-smile2.png?imgmax=800)) and finally installed a mocking framework called NSubstitute. Man NuGet makes you work fast fast. Imagine an extension for Visual Studio that grabbed the framework you need when you used methods from it...
+- I used NuGet like a wizard and installed Should, installed Should Fluent, Uninstalled Should and finally installed a mocking framework called NSubstitute. Man NuGet makes you work fast fast. Imagine an extension for Visual Studio that grabbed the framework you need when you used methods from it...
 
-### Back to the steps
+### Back
+
+ to the steps
 
 There – now I can update the Given-step from way back to hold a mocked repository that returns the given KanbanBoards. Here is the implementation:
 
@@ -165,7 +164,7 @@ Here is the When step definition I wrote:
 
 Aaaand it was around this time that I realized that I was going about this the wrong way.
 
-### Step back, breath and reconsider
+### Step back, breathe, and reconsider
 
 My aim was to learn the tools, MvcScaffolding among others. So I can now go one of two ways. The way the code is coming about now is backwards in [TDD](http://en.wikipedia.org/wiki/Test-driven_development) terms since I get the code generated (well scaffolded) for me. For example, I would rather have a single method in the repository called GetTopThree or something. Or I can stay with the tools and only use my features to drive me forward. Also, looking at the code in the generated repository class it’s not much to test.
 
@@ -173,7 +172,7 @@ I’ll go with option two; I’ll use the tools I wanted to learn and the code t
 
 So now – what does that do with my design? For now I’ll leave it as simple as possible, which in this case is the generated code from MvcScaffolding. I might push the repository down to an application service later on but it will be ok as it is now.
 
-No time to lose – but I’ll leave out the details to save you, dear read, some time.
+No time to lose – but I’ll leave out the details to save you, dear reader, some time.
 
 ### Restart
 
@@ -188,9 +187,8 @@ Here is my When step definition:
 And the Then step definition:
 
 ![Then](/img/Then_thumb.jpg)
- %5B2%5D.jpg)
 
-Let me just add that for the Then-part there is an excellent [table Comparison helper in SpecFlow 1.5](https://github.com/darrencauthon/SpecFlowAssist/wiki/CompareToInstance-T-) that I would have used if not NuGet handed me 1.4 of SpecFlow instead ![Sad smile](http://lh6.ggpht.com/_TI0jeIedRFk/TTYc0KAjtyI/AAAAAAAAAtc/F3dcnQi85m0/wlEmoticon-sadsmile2.png?imgmax=800)
+Let me just add that for the Then-part there is an excellent [table Comparison helper in SpecFlow 1.5](https://github.com/darrencauthon/SpecFlowAssist/wiki/CompareToInstance-T-) that I would have used if not NuGet handed me 1.4 of SpecFlow instead.
 
 Finally, the Index-method and constructor of the Kanban controller now look like this.
 

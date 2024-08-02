@@ -10,7 +10,7 @@ tags:
 
 Ever since I first read [When will it be done](https://actionableagile.com/books/wwibd/) by [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/) I have been fascinated with how much prognosis work that can be created using very little data. I have written extensively about these ["kanban metrics" in other blog posts](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), should you want a deeper understanding.
 
-Dan and the Actionable Team have created a brilliant tool called [Actionable](https://actionableagile.com) which has many more capabilities than I will show here. This is a straw-man version, BUT I learned a lot of the mechanics behind the scenes in creating this and I hope you will too.
+Dan and the Actionable Agile Team have created a brilliant tool called [Actionable Agile](https://actionableagile.com) which has many more capabilities than I will show here. This is a straw-man version, BUT I learned a lot of the mechanics behind the scenes in creating this and I hope you will too.
 
 <!-- excerpt-end -->
 
