@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kanban-inizing the Avega Group office–getting the show on the road
+title: Kanban-inizing the Avega Group Office – Getting the Show on the Road
 date: 2011-09-19T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -8,93 +8,45 @@ tags:
   - Kanban
   - Agile
 modified_time: 2011-09-19T07:02:31.079Z
-thumbnail: http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/s72-c/IMG_1334_thumb1.jpg?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7479834583625300041
 blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html
 ---
 
-This is the second post in a small series on how we helped some parts of
-the <a href="http://www.avegagroup.se/" target="_blank">Avega Group</a>
-office to use Kanban to manage their workflow.
-In the [first post we
-introduced](http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html)
-the teams that we coached to a foundations for why you want to limit
-your work-in-process, what benefits that could give them and some key
-elements of Kanban and Lean.
-As a final exercise we helped them to create a simple Kanban board for
-each team. We stressed the fact that the boards not is complete (at any
-time!) but should change and this is just a suggestion.
-Together with the teams we created a simple
-board, containing the following columns and policies:
+This is the second post in a series detailing how we assisted some teams at the [Avega Group](http://www.avegagroup.se/) office in implementing Kanban to manage their workflow. [In the first post](http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html), we introduced the teams to the basics of Kanban and Lean, emphasizing the importance of limiting work-in-process and the benefits it could bring.
 
-- **Inbox** – their to do list for a horizon that feel comfortable. We
-    didn’t limit the number of items here, but suggested that they may
-    think about that.
-    Also we told them that the size of the items here could vary. When
-    the move it into the next column the work items is broken down into
-    smaller tasks
-- **Today** – the items that is due today. We suggested that they
-    should be between 0-8 hours in size and a work in process limit of
-    max 6 per person.
-- **Doing** – the current work going on. We told them to create
-    <a href="http://www.southparkstudios.se/avatar" target="_blank">2
-    avatars</a> each and used that as WIP-limit for this column.
-  - This column has a sub column of **Waiting** for stuff that is
-        waiting for someone or something that hinder the progress
-- **Done** – stuff they finished. We suggested that they keep the
-    stickies around until the end of each week , grouped by day. And
-    then to hold a retrospective based on the outcome of the week. What
-    worked? What felt great/bad?
-    We offered our services for the first retrospectives.
+In this post, we'll cover the initial implementation of Kanban boards for the teams and the early reactions to this new workflow system.
 
-And with that we let them loose…
+#### Setting Up the Kanban Boards
 
-#### First steps and hits
+Together with the teams, we created simple Kanban boards tailored to their needs. We stressed that these boards were not final and should evolve over time. Here’s what we set up:
 
-The next morning we found this in one room:
-[<img
-src="http://lh3.ggpht.com/-IayJTGyTqNc/TnI7t1YNcKI/AAAAAAAABDU/GudGjMl6DTo/IMG_1334_thumb1.jpg?imgmax=800"
-title="IMG_1334" data-border="0"
-style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
-width="403" height="302" alt="IMG_1334" />](http://lh3.ggpht.com/-Ymzt_9afvhI/TnI7ta7fCoI/AAAAAAAABDQ/BLHgTSFYbjk/s1600-h/IMG_13345.jpg)
-and saw this meeting taking place in another place at the office:
-[<img
-src="http://lh4.ggpht.com/-nVKnTEmwDyI/TnI7vVhADgI/AAAAAAAABDc/6l9F2p1MST4/IMG_1333_thumb1.jpg?imgmax=800"
-title="IMG_1333" data-border="0"
-style="background-image: none; border-bottom-width: 0px; border-left-width: 0px; border-right-width: 0px; border-top-width: 0px; display: block; float: none; margin: 0px auto; padding-left: 0px; padding-right: 0px; padding-top: 0px;"
-width="403" height="302" alt="IMG_1333" />](http://lh4.ggpht.com/-wci4GQqDYrI/TnI7uoGbldI/AAAAAAAABDY/wW5NYxCUxps/s1600-h/IMG_13335.jpg)
-They were up and running. The first few days we got comment like
-these:
+- **Inbox** – This column acts as the team's to-do list for a comfortable horizon. We didn’t impose a limit on the number of items here but suggested they consider it. Items in this column could vary in size, and once moved to the next column, they should be broken down into smaller tasks.
+- **Today** – Items due for today. We recommended that these tasks be between 0-8 hours in size with a work-in-process (WIP) limit of a maximum of 6 per person.
+- **Doing** – The current work in progress. Each team member created [2 avatars](http://www.southparkstudios.se/avatar) to use as a WIP-limit indicator for this column. This column includes a sub-column called **Waiting** for items awaiting dependencies or other blockers.
+- **Done** – Completed tasks. We suggested keeping the stickies in this column until the end of the week, grouping them by day, and holding a retrospective based on the week’s outcome. We offered our support for the first retrospectives.
 
-- “Hmmm – why is 4 stickies in waiting? Maybe I can take one of them”
-- “Creating avatars was to much fun – we created 4 each “(Breaking the
-    WIP-limit on doing with 100% (writers note))
-- “So nice to don’t have to hold all these task in my head”
-- “This made communication around the work easier and more concrete”
-- “Others will see how much we do. And have done – Ha ha!”
+With this setup, we let the teams take charge.
 
-And finally a small episode that Morgan oversaw/heard:
-As one of the teams was hold a morning meeting two “clients” to the team
-approached them. One of them saw that they were holding a morning
-meeting and went away, saying “I’ll be back later then”. The other one
-didn’t catch that and stood around. Stomping his feet. The team
-persevered and continued through their meeting.
-Well done - team!
+#### First Steps and Initial Reactions
 
-#### The road forward
+The next morning, we observed the following:
 
-As for now – we have asked the teams to grab any of the Lean/Agile
-coaches for any questions and at least invite one of us to their Friday
-retrospectives. That’s not much coaching but we trust them to learn by
-doing.
-Also other teams on the Avega Group office has shown interest in us
-helping them in a similar fashion… Lean for the win!
-I’ll try to post the rest of our story here.
+- [Image of a team’s Kanban board setup](/img/IMG_1334_thumb1.jpg)
+
+Some early comments from the teams included:
+
+- “Hmmm – why are there 4 stickies in waiting? Maybe I can handle one of them?”
+- “Creating avatars was so much fun – we ended up making 4 each!” (Breaking the WIP limit on doing by 100% – note to self)
+- “It’s nice not having to keep all these tasks in my head.”
+- “This made communication around work easier and more concrete.”
+- “Others can see how much we’re doing and what we’ve accomplished – Ha ha!”
+
+A memorable moment was when one team was holding a morning meeting, and one of their "clients" saw them and left, saying, “I’ll be back later.” Another client didn’t understand and stood around, visibly frustrated. The team persevered through their meeting, showing strong commitment.
+
+#### The Road Forward
+
+We’ve asked the teams to reach out to any Lean/Agile coaches with questions and to invite one of us to their Friday retrospectives. While this isn’t intensive coaching, we trust that the teams will learn and adapt by doing. Other teams at Avega Group have also shown interest in similar Kanban implementations, which is exciting news!
 
 #### Conclusion
 
-Although we might have helped these teams and their working environment,
-I think the greatest learning experience was for myself and Morgan. If
-you are doing Kanban at your software project – take a look around and
-find other areas that can use the same techniques. You’ll get a deeper
-understanding of the underlying principles I promise
+While we’ve certainly helped these teams and their work environment, the greatest learning experience was for myself and Morgan. If you’re implementing Kanban in your software project, consider applying these techniques to other areas. You'll gain a deeper understanding of the underlying principles, I promise.
