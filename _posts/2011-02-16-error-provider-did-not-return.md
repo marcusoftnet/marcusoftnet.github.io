@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: post
 title: Error “The provider did not return a ProviderManifestToken string” with SQL Compact Edition
@@ -7,7 +8,6 @@ tags:
   - .NET
   - SpecFlow
 modified_time: 2011-02-16T13:34:46.482Z
-thumbnail: http://lh6.ggpht.com/\_TI0jeIedRFk/TVvIRpWMf2I/AAAAAAAAA5U/Qa9CiARpmHw/s72-c/wlEmoticon-confusedsmile%5B2%5D.png?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6161852859030600182
 blogger_orig_url: http://www.marcusoft.net/2011/02/error-provider-did-not-return.html
 ---
@@ -20,10 +20,7 @@ The site was using Entity Framework Code first with [SQL CE as described here](h
 
 ```xml
 <connectionStrings>
-  <add
-   name="[Name from you dbcontext class]"
-   connectionString="DataSource=|DataDirectory|AnyName.sdf"
-  providerName="System.Data.SqlServerCe.4.0"/>
+  <add name="[Name from you dbcontext class]" connectionString="DataSource=|DataDirectory|AnyName.sdf" providerName="System.Data.SqlServerCe.4.0"/>
 </connectionStrings>
 ```
 
@@ -31,6 +28,6 @@ A few words here:
 
 - When adding this connection string the database got created. You might have to regenerate it (simply update your model to do), I’m not sure about that
 - You need the name of the connection string should equal the name of the `DbContext` class that your using
-- What or where the site got it’s data from before this I don’t know.There was no database present in the App_Data-directory before I did this fix. ![Confused smile](http://lh6.ggpht.com/_TI0jeIedRFk/TVvIRpWMf2I/AAAAAAAAA5U/Qa9CiARpmHw/wlEmoticon-confusedsmile%5B2%5D.png?imgmax=800)
+- What or where the site got it’s data from before this I don’t know. There was no database present in the App_Data-directory before I did this fix.
 
 My demo-site is saved. My demos for SpecFlow works as expected. I am happy!
