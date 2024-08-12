@@ -39,9 +39,11 @@ After that it's easier to describe what a impact map is, why it works so great a
 * An impact map is Collaborative - involving everyone needed to execute the plan, increasing the shared understanding right from the get-go
 
 You can see the presentation here:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gk_oV75iSvs" frameborder="0" allowfullscreen></iframe>
 
 And my slides here:
+
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/jThAKgZvrFeBFA" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/15-minutes-on-impact-mapping" title="15 minutes on impact mapping" target="_blank">15 minutes on impact mapping</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 
 I hope you like it - love your feedback!
