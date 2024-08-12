@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Types in SpecFlow: ScenarioContext and FeatureContext
+title: Two Types in SpecFlow - ScenarioContext and FeatureContext
 date: 2011-03-26T21:04:00.001Z
 author: Marcus Hammarberg
 tags:
