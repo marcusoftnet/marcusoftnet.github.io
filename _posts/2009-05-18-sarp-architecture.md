@@ -11,37 +11,19 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5470416424322259596
 blogger_orig_url: http://www.marcusoft.net/2009/05/sarp-architecture.html
 ---
 
+In a previous post, I briefly referred to [Sharp Architecture](http://code.google.com/p/sharp-architecture/) (what’s the thing with the funky spelling?).
 
-In a previous post I briefly referred to [Sharp
-Architecture](http://code.google.com/p/sharp-architecture/) (what’s the
-thing with the funky spelling?).
+I have now read a bit about it, and I must push for it harder. It’s rock good! What an ambitious project!
 
-I have now read a bit about it and I must push for it harder. It’s rock
-good! What an ambitious project!
+The idea is to give you a boiler-plate architecture that contains best practices and usable functionality when doing [DDD](http://en.wikipedia.org/wiki/Domain-driven_design), [TDD](http://en.wikipedia.org/wiki/Test-driven_development), [ASP.NET MVC](http://www.asp.net/mvc/), and [NHibernate](https://www.hibernate.org/343.html).
 
-The idea is to give you a boiler-plate architecture that contains best
-practices and useable functionality when doing
-<a href="http://en.wikipedia.org/wiki/Domain-driven_design"
-target="_blank">DDD</a>,
-<a href="http://en.wikipedia.org/wiki/Test-driven_development"
-target="_blank">TDD</a>,
-<a href="http://www.asp.net/mvc/" target="_blank">ASP.NET MVC</a> and
-<a href="https://www.hibernate.org/343.html"
-target="_blank">NHibernate</a>.
+You know – the way you always feel when a project is done… “This is so good that it easily could be a framework, if only …” – These guys have done it for you.
 
-You know – the way you always feel when a project is done… “This is so
-good that it easily could be a framework, if only …” – These guys has
-done it for you.
-
-It’s not done and still have a bit to go before but I really like it.
+It’s not done and still has a bit to go, but I really like it.
 
 Check it out. Here are some introduction videos:
 
-- <a href="http://dimecasts.net/Casts/CastDetails/75"
-    target="_blank">Introduction to S#arp Architecture</a>
-- <a href="http://dimecasts.net/Casts/CastDetails/97"
-    target="_blank">Validation, Design Decisions and Automapping</a>
-- <a href="http://dimecasts.net/Casts/CastDetails/102"
-    target="_blank">Modify the T4 templates used by Sharp Architecture</a>
-- <a href="http://dimecasts.net/Casts/CastDetails/107"
-    target="_blank">Testing MVC Routes</a>
+- [Introduction to S#arp Architecture](http://dimecasts.net/Casts/CastDetails/75)
+- [Validation, Design Decisions and Automapping](http://dimecasts.net/Casts/CastDetails/97)
+- [Modify the T4 templates used by Sharp Architecture](http://dimecasts.net/Casts/CastDetails/102)
+- [Testing MVC Routes](http://dimecasts.net/Casts/CastDetails/107)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Synchronization for consultants – how I got it to work
+title: Synchronization for Consultants – How I Got It to Work
 date: 2009-09-22T19:19:00.002Z
 author: Marcus Hammarberg
 tags:
@@ -11,90 +11,42 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5160297474166719392
 blogger_orig_url: http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html
 ---
 
+OK – this has been quite a journey, and I'm not completely satisfied with the solution yet, but it works. Along the way, I've had to delete all my contacts and calendar items on my phone about five times... Brrr – equally scary each time.
 
-OK – this has been quite a journey and I am not completely satisfied
-with the solution yet – but I works. During the journey I have also
-deleted all my contacts and calendar items on my phone about five times…
-Brrr – equally scary each time.
+Here's the problem: As a consultant, I work for customers who have their own Exchange Servers (or similar). When I start at a customer, I'm given an account, for example, <marcus.hammarberg@anycustomer.se>. My coworkers at AnyCustomer start sending me emails and making appointments in my AnyCustomer calendar.
 
-The problem is as follows; as a consultant I am working for customers
-that have their own Exchange Server (or similar). When I start there I
-am given an account for example <marcus.hammarberg@anycustomer.se>. So
-my coworkers at AnyCustomer will start sending me emails and making
-appointments in my AnyCustomer-calendar.
+I also work for [Avega](http://www.avega.se/), which provides me with an email address and calendar.
 
-Also I work for <a href="http://www.avega.se/" target="_blank">Avega</a>
-– that of course supplies me with an email address and accompanying
-calendar.
+Lastly, I have a private Gmail account for personal stuff.
 
-Finally I have a private Gmail account for private stuff.
+So, I have three synchronization issues: mail, contacts, and calendar items. Here’s how I’m handling them right now. I hope a better solution will present itself later.
 
-So I have three synchronization problems; mail, contacts and calendar
-items. Here is how I am synching them right now. I hope that a better
-solution will present itself later.
+#### Contacts
 
-#### **Contacts**
+I keep all my contacts in [Google Contacts](http://www.google.com/contacts). I then synchronize them with [Mac Address Book](http://support.apple.com/kb/HT2486) and my phone using [Google Mobile Sync](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636).
 
-I have all my contacts in
-<a href="http://www.google.com/contacts" target="_blank">Google
-Contact</a>. Then I synchronize them with
-<a href="http://support.apple.com/kb/HT2486" target="_blank">Mac Address
-Book</a> and with my phone using <a
-href="http://www.google.com/support/mobile/bin/answer.py?hl=en&amp;answer=138636"
-target="_blank">Google Mobile Sync</a>
+#### Mail
 
-#### **Mail**
-
-The excellent
-<a href="http://support.apple.com/kb/HT2500" target="_blank">Apple
-Mail</a> can handle several inboxes, from several Exchange servers, if
-you use IMAP Exchange. I do that and get all my mail into one tool.
-Since the top level inbox in Apple Mail shows all inboxes I works like a
-charm.
+The excellent [Apple Mail](http://support.apple.com/kb/HT2500) can handle multiple inboxes from several Exchange servers if you use IMAP Exchange. I do that, and it consolidates all my mail into one tool. The top-level inbox in Apple Mail shows all inboxes, which works like a charm.
 
 #### Calendar
 
-This is where it gets done to business, because you need to synchronize
-calendar items in both directions. So I first decided where my “master”
-will be; <a href="http://www.google.com/calendar" target="_blank">Google
-Calendar</a> is “in the cloud” and hence is a very good candidate.
+This is where it gets tricky because you need to synchronize calendar items in both directions. I first decided on [Google Calendar](http://www.google.com/calendar) as my “master” because it’s “in the cloud” and hence a good candidate.
 
-I also found a tool that synchronize (watch closely now) <a
-href="http://www.google.com/support/mobile/bin/answer.py?hl=en&amp;answer=138636"
-target="_blank">Outlook to Google Calendar</a>. So I configure my
-Outlook for each customer (and Avega) and then install the
-synchronization tool and of we go.
+I also found a tool that synchronizes [Outlook to Google Calendar](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636). So, I configure Outlook for each customer (and Avega) and install the synchronization tool. 
 
-Yeah that means that I still need an Outlook for each exchange account
-(Avega and AnyCustomer in my example) in order to get the
-synchronization to work. In reality that is not a biggie since my
-customers supplies me with Outlook. But it would have been much nicer
-with a Exchange to Google sync…
+That means I still need Outlook for each Exchange account (Avega and AnyCustomer) to get synchronization to work. In reality, that’s not a big issue since my customers provide me with Outlook. But it would be nicer to have a direct Exchange-to-Google sync…
 
 #### Mobile
 
-OK – the final step is to synchronize the mobile (a HTC Touch Dual) with
-the Google Stuff… This is <a
-href="http://www.google.com/support/mobile/bin/answer.py?hl=en&amp;answer=138636"
-target="_blank">described here</a> but seems to have some <a
-href="http://www.google.com/support/forum/p/Google+Mobile/thread?tid=493c34793bbff407&amp;hl=en"
-target="_blank">things</a> <a
-href="http://www.google.com/support/forum/p/Google+Mobile/thread?tid=4801dd2cba81edff&amp;hl=en"
-target="_blank">left</a> <a
-href="http://www.google.com/support/forum/p/Google+Mobile/thread?tid=3ee4959c6b22532e&amp;hl=en"
-target="_blank">before</a> it’s working like a charm…
+The final step is synchronizing my mobile (an HTC Touch Dual) with Google. This is [described here](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636) but seems to have some [issues](http://www.google.com/support/forum/p/Google+Mobile/thread?tid=493c34793bbff407&hl=en) [left](http://www.google.com/support/forum/p/Google+Mobile/thread?tid=4801dd2cba81edff&hl=en) [before](http://www.google.com/support/forum/p/Google+Mobile/thread?tid=3ee4959c6b22532e&hl=en) it works perfectly...
 
-Might not go mobile yet…
+Might not go mobile just yet…
 
-**\[UPDATED\]**
+**UPDATED**
 
-I got it to work after a while. But right now I am only synching the
-calendar with my mobile. The emails will only stress me. And the
-contacts is alright that they live separate lives for now.
+I eventually got it to work, but for now, I am only synchronizing the calendar with my mobile. The emails would just stress me out. And the contacts are fine living separate lives for now.
 
 #### Epilogue
 
-If Avega or AnyCustomer decides to upgrade to Exchange 2007, then Snow
-Leopard have built in support to synchronize email, calendar and
-contacts. Which will make me go through this again and have my Mac Book
-Pro as master…
+If Avega or AnyCustomer upgrades to Exchange 2007, Snow Leopard has built-in support to synchronize email, calendar, and contacts, which will make me revisit this process and possibly make my MacBook Pro the master…

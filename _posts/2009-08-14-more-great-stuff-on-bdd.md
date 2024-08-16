@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More great stuff on BDD
+title: More Great Stuff on BDD
 date: 2009-08-14T14:12:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,28 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7609413503800772907
 blogger_orig_url: http://www.marcusoft.net/2009/08/more-great-stuff-on-bdd.html
 ---
 
+I’ve been diving deeper into [BDD](http://dannorth.net/introducing-bdd), and the more I explore it, the more I like it. Today, working from home, I’ve been frequently exclaiming “Yes!” or enthusiastically explaining the benefits of BDD to Elin, who’s starting to get a bit annoyed.
 
-I have been doing some more reading on
-<a href="http://dannorth.net/introducing-bdd" target="_blank">BDD</a>,
-and I like it more and more, the more I read about it. I am working from
-my house today and Elin is getting a bit annoyed from every time I call
-out “Yes”, or when I am trying to explain how good this is.
+What stands out for me is that BDD provides a way to derive requirements iteratively and exploratively, using the experts' language (the ubiquitous language).
 
-The main thing for me, right now, is that using the BDD-technique gives
-you a way to derive the requirements in a iterative and exploring way.
-And in the language of the experts (the ubiquitous language).
+I also appreciate the structured approach to stories and scenarios described by [Dan North](http://dannorth.net/) in [this article](http://dannorth.net/whats-in-a-story). This structure offers clear guidance on what to tackle next in the system. [Mike Cohn](http://blog.mountaingoatsoftware.com/) outlines [other advantages](http://blog.mountaingoatsoftware.com/advantages-of-the-as-a-user-i-want-user-story-template) of using the “As a user, I want…” user story template.
 
-I also is fond of the strict structure of a story and it’s scenario that
-<a href="http://dannorth.net/" target="_blank">Dan North</a> describes
-in <a href="http://dannorth.net/whats-in-a-story" target="_blank">this
-article</a>. Mainly because it gives you guidance in the process (“what
-is the next important thing the system doesn’t do”). Here are some <a
-href="http://blog.mountaingoatsoftware.com/advantages-of-the-as-a-user-i-want-user-story-template"
-target="_blank">other reasons</a> from
-<a href="http://blog.mountaingoatsoftware.com/" target="_blank">Mike
-Cohn</a>
-
-Being strict and formal it also lends itself to automation, like these
-<a
-href="http://www.lostechies.com/blogs/joe_ocampo/archive/2007/11/30/bdd-macro-and-template-usage-screencast.aspx"
-target="_blank">guys has done</a>.
+The strict and formal nature of BDD also makes it well-suited for automation, as demonstrated by [these guys](http://www.lostechies.com/blogs/joe_ocampo/archive/2007/11/30/bdd-macro-and-template-usage-screencast.aspx).

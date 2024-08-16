@@ -26,7 +26,7 @@ I was not. And I think that the original comment by Paul was correct and enlight
 
 The easiest way to explain it is to start in the end. Because [Chris Matts](https://twitter.com/PapaChrisMatts) wrote this and it stopped there:
 
-<blockquote>R u suggestin risk management is waste for everyone other than RM consultant?</blockquote>
+> R u suggestin risk management is waste for everyone other than RM consultant?
 
 And the answer is "Yes, of course". Just as [stand up meetings](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html), estimating, kanban boards, testing and documentation are waste. In the [Lean](http://en.wikipedia.org/wiki/Lean_manufacturing) sense...
 
@@ -64,17 +64,19 @@ Actually the last one is correct.
 
 Defining waste like this is a bit too narrow and simplistic for my taste. I get a little bit nervous when I see on the [Lean Wiki Page](http://en.wikipedia.org/wiki/Lean_manufacturing) that the goal of Lean is to:
 
-<blockquote>Lean manufacturing or lean production, often simply "lean", is a systematic method for the elimination of waste ("Muda") within a manufacturing process.</blockquote>
+> Lean manufacturing or lean production, often simply "lean", is a systematic method for the elimination of waste ("Muda") within a manufacturing process.
 
 It's too simple. And this has been captured greatly in a quote by Donald Reinertsen (that also was involved in the discussion... )
-<blockquote>Value trumps flow, flow trumps waste reduction</blockquote>
+
+> Value trumps flow, flow trumps waste reduction.
 
 Basically; if you can get flow (smooth adding of value) with some waste - go for it. Or if you can get value to your customers with an unsmooth flow, why not?
 
 It very much comes down to how much of the process you are taking into consideration, as I [wrote about before](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html). No backlog might be great for _your flow_ in your part of the process. But how is that affecting the total process? Maybe a little buffer, in the form of a backlog in front of your steps, would mitigate risk (as [Dan wrote](https://twitter.com/tastapod/status/597019790373462016)) or be needed to be able to keep up with the demand from you.
 
 Much clearer expressed by Donald Reintersen himself, as response to my clumsy tweet-formulation and explanation above:
-<blockquote>$100 of waste reduction, is worth more than $10 of flow improvement, or $1 of value improvement. IMO Trumping is dangerous nonquantitative way to conceptualize problem. It's question of tradeoffs</blockquote>
+
+> $100 of waste reduction, is worth more than $10 of flow improvement, or $1 of value improvement. IMO Trumping is dangerous nonquantitative way to conceptualize problem. It's question of tradeoffs.
 
 ## Wake me up here
 

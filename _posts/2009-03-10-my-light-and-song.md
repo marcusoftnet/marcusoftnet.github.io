@@ -28,7 +28,7 @@ target="_blank">Patrik Randefalk</a> did play it with the
 
 I’ll try to post a recording here… after 25 march.
 
-**\[UPDATED\]**
+**UPDATED**
 
 This is so sick! <a
 href="http://books.google.com/books?id=y7UWPZNqmXYC&amp;printsec=frontcover&amp;dq=%22my+light+and+song%22&amp;source=gbs_summary_s&amp;cad=0"

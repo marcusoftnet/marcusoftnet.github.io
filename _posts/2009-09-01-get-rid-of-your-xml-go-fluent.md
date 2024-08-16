@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get rid of your xml – go Fluent NHibernate
+title: Get Rid of Your XML – Go Fluent NHibernate
 date: 2009-08-31T20:40:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,26 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2355742159307873703
 blogger_orig_url: http://www.marcusoft.net/2009/08/get-rid-of-your-xml-go-fluent.html
 ---
 
+After a brief experience with [NHibernate](https://www.hibernate.org/343.html), I quickly realized that managing XML files for mapping instructions can lead to several issues. XML files lack compile-time checking and can create discrepancies between code and configuration.
 
-After my very short experience with
-<a href="https://www.hibernate.org/343.html"
-target="_blank">NHibernate</a> I have already come to realize that lots
-of problems can arise from and in the XML-files that contains the actual
-mapping instructions.
+The solution? [Fluent NHibernate](http://fluentnhibernate.org/). This library allows you to define mappings in code using a [fluent interface](http://en.wikipedia.org/wiki/Fluent_interface), eliminating the need for XML configuration.
 
-Just the fact that they are XML gives you the classical problem of no
-compile-time checking and the possibility of calling things differently
-in the code and configuration.
-
-Well, here is the solution;
-<a href="http://fluentnhibernate.org/" target="_blank">Fluent
-NHibernate</a>. Their solution is simple – do it in code, in a
-<a href="http://en.wikipedia.org/wiki/Fluent_interface"
-target="_blank">fluent interface-style</a>.
-
-I just ran through their starter example and I like it. A lot. And some
-of it is <a href="http://wiki.fluentnhibernate.org/Auto_mapping"
-target="_blank">almost magic</a>. A good way to <a
-href="http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html"
-target="_blank">“let the storage issues be a consequence of the domain
-model”</a>
+I recently explored their starter example and was impressed. The approach is intuitive and offers features that feel almost magical, such as [auto-mapping](http://wiki.fluentnhibernate.org/Auto_mapping). It aligns well with the idea of [“letting the storage issues be a consequence of the domain model”](http://www.marcusoft.net/2009/08/implementing-unit-of-work-with.html).

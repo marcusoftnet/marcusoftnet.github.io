@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "package.json: engines & engineStrict - and how to use them"
+title: "package.json: Engines & engineStrict - And How to Use Them"
 author: "Marcus Hammarberg"
 date: 2015-03-24 11:14:54
 tags:
@@ -8,100 +8,94 @@ tags:
   - Tools
 ---
 
-I'm poking around quite a lot with <a href="https://iojs.org">io.js</a> recently for reasons that soon will be revealed. When doing so I used my favorite Node version manager - <a href="https://github.com/creationix/nvm">Node Version Manager</a> to manage different versions of <a href="http://nodejs.org">Node</a> and io.js.
+I've been diving into [io.js](https://iojs.org) recently for reasons that will soon become clear. In doing so, I've used my favorite Node version manager, [Node Version Manager](https://github.com/creationix/nvm), to handle different versions of [Node.js](http://nodejs.org) and io.js.
 
-Switching back and forth is simple and sometimes I end up running some code on a version of Node/io.js that the code does not support. For example running EcmaScript 6 `let`-statements in Node.
+Switching between versions is straightforward, but occasionally I end up running code on a version of Node/io.js that the code doesn't support. For instance, running EcmaScript 6 `let` statements in Node.js.
 
-I was hoping that I'd get a <a href="http://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html">warning</a> or preferable even an error when doing that. But no. Or...
+I hoped for a [warning](http://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html) or even an error to alert me to this mismatch, but none appeared. So...
 
-In this post I'll show you how to use the <a href="http://www.marcusoft.net/2014/02/mnb-packagejson.html">package.json</a> file to make sure that you get warnings and errors when using the wrong version of the framework
+In this post, I'll explain how to use the `package.json` file to get warnings and errors when running code on an unsupported version of the framework.
 
 <!-- excerpt-end -->
 
-## engines
+## Engines
 
-In the package.json there's an optional node that you can set called `engines`. From the <a href="https://docs.npmjs.com/files/package.json">documentation</a> we can read about what this is for:
+In `package.json`, there's an optional `engines` field. From the [documentation](https://docs.npmjs.com/files/package.json), we learn that:
 
-<blockquote>You can specify the version of node that your stuff works on</blockquote>
+> You can specify the version of node that your stuff works on.
 
-Love the informal tone of that documentation. Ok, so here we can list of not only Node, but also alternative runtime like io.js but also <a href="http://npmjs.org">npm</a>. This can be given as just a version number or with a range
+This field allows you to list not only Node.js but also alternative runtimes like io.js and [npm](http://npmjs.org). You can specify versions or ranges:
 
-```javascript
-{ "engines" : { "iojs" : "1.6.1" } } // exactly 1.6.1
-
-{ "engines" : { "npm" : "~1.0.20" } } // around 1.0.20
-
-{ "engines" : { "node" : ">0.11.9" } } // above 0.11.9
-
-{ "engines" : { "node" : ">=0.10.3 <0.12" } } // below or at 0.10.3 but not higher than 0.12
+```json
+{ "engines": { "iojs": "1.6.1" } } // Exactly 1.6.1
+{ "engines": { "npm": "~1.0.20" } } // Around 1.0.20
+{ "engines": { "node": ">0.11.9" } } // Above 0.11.9
+{ "engines": { "node": ">=0.10.3 <0.12" } } // Between 0.10.3 and 0.12 (exclusive)
 ```
 
-But you could also state that your "stuff" runs on several version of Node. In the case of using iojs this is true for all Node applications that is not using the EcmaScript 6 features not yet released in Node. <a href="http://koajs.com">Koa</a> is a good example of this. This is an extract from their package.json
+You can also state that your application supports multiple versions of Node.js. For example, many Node applications that don't use EcmaScript 6 features compatible with io.js can work with both Node.js and io.js. The [Koa](http://koajs.com) framework's `package.json` looks like this:
 
-```javascript
+```json
 "engines": {
     "node": ">= 0.11.16",
     "iojs": ">= 1.0.0"
 }
 ```
 
-Koa supports both node and io.js at the respectively stated versions.
+Koa supports both Node.js and io.js at the specified versions.
 
 ## engineStrict
 
-There's another optional configuration setting in the package.json file called `engineStrict`. Again from the documentation we read
+There's another optional field in `package.json` called `engineStrict`. The documentation states:
 
-<blockquote>If you are sure that your module will definitely not run properly on versions of Node/npm other than those specified in the engines object, then you can set "engineStrict": true in your package.json file.</blockquote>
+> If you are sure that your module will definitely not run properly on versions of Node/npm other than those specified in the engines object, then you can set "engineStrict": true in your package.json file.
 
-and also about the engines-node
+Additionally, regarding the engines field:
 
-<blockquote>...unless the user has set the engine-strict config flag, this field is advisory only.</blockquote>
+> ...unless the user has set the engine-strict config flag, this field is advisory only.
 
-Note that the `engineStrict` flag is set to false per default, leaving the `engines` node "advisory only".
+By default, `engineStrict` is false, making the `engines` field advisory only.
 
-Basically it means that we can be more restrictive about what our code need to run. For example, let's say that I'm using some feature that only io.js supports, like the `let`-statement for EcmaScript 6 for example. Then I can use the following configuration:
+Setting `engineStrict` to true makes it more restrictive. For example, if you use features unique to io.js, like EcmaScript 6 `let` statements, you can use:
 
-```javascript
-"engineStrict" : true,
+```json
+"engineStrict": true,
 "engines": {
     "iojs": "1.6.1"
 }
 ```
 
-This will ensure that only io.js at version 1.6.1 is used when running my module. But how is that ensured?
+This ensures that only io.js version 1.6.1 is used when running your module. But how is this enforced?
 
-## Using the engines configurations
+## Using the Engines Configuration
 
-Well this is cool but what does that mean? I'm state the engine my things requires but how can I use it?
+This is cool, but how do you use it? Let's test it. Suppose your `package.json` has:
 
-Let's take an example and test it out. Let's say that I have a package.json with the following configuration for engines:
-
-```javascript
+```json
 "engineStrict": true,
 "engines": {
     "node": "0.12.0"
 }
 ```
 
-But right now I'm running Node at `v0.11.14` (for example by going `nvm install v0.11.14`) on my system. In my directory I go `npm install` to install all the packages my application depends on. Knowing what I know now I expect an error. I have the wrong version of the framework and I'm using the `engineStrict`-flag, right?
+If you’re currently running Node.js version `v0.11.14` (for example, by running `nvm install v0.11.14`), and you run `npm install` in your application directory, you might expect an error due to the version mismatch. However, no error or warning appears. Everything installs happily, and the application starts, unless there’s a syntax error.
 
-But we are sorely disappointed. No error. No warning. Everything happily installed. It even starts up, unless there's a syntax error due to us using a later version of node.
+> Is this a bug?
 
-<blockquote>Surely this is a bug?!</blockquote>
-Marcus, a few days a go.
+Marcus, a few days ago.
 
-As it turns out the engines configuration are checked installation time of **package**. Yes, remember that `npm` stands for Node **Package** Manager. The engines-field is also in the package.json file. I first thought and hoped that this would be checked when I run my application but it's not. The engine field will be verified when you **install** the package, not when you run it.
+It turns out that `engines` configuration is checked during the installation of **packages**. Remember that `npm` stands for Node **Package** Manager. The `engines` field is also part of `package.json`. I initially hoped this would be checked when running the application, but it's actually verified during **package** installation, not when running the application.
 
-But we did do `npm install`. Why didn't it check this field?! Because doing `npm install` in our application folder only installs our applications _dependencies_. Should anyone of those dependencies require another framework version than the one we are on will would get the warning/error (depending on the `engineStrict` setting).
+The `npm install` command in your application folder only installs your application's _dependencies_. If any dependencies require a different version of Node.js, you will get a warning or error (depending on the `engineStrict` setting).
 
-However there's a trick here. Bless the makers of Node for their strive for simplicity. Here's what you do:
+Here’s a trick:
 
-1. go up one directory `cd ..`
-1. now npm install your application folder, for example `npm install myApp`
+1. Go up one directory: `cd ..`
+2. Run `npm install` on your application folder, for example: `npm install myApp`
 
-This will install your application as a package, trigger the checks of the `engines` and `engineStrict`.
+This will install your application as a package and trigger the checks for `engines` and `engineStrict`.
 
-If we try that again, with the same settings as before; engines: node = 0.12.0, and engineStrict = true... Lo and behold: we get the error we've been longing for:
+Try it again with the same settings: `engines: node = 0.12.0`, and `engineStrict = true`. You’ll see the error:
 
 ```bash
 npm ERR! notsup Not compatible with your version of node/npm: demoapp@1.0.0
@@ -109,16 +103,16 @@ npm ERR! notsup Required: {"node":"0.12.0"}
 npm ERR! notsup Actual:   {"npm":"2.0.0","node":"0.11.14"}
 ```
 
-Changing the `engineStrict` to false, give us warnings but it installs. Just as expected:
+With `engineStrict` set to false, you get warnings but the installation proceeds:
 
 ```bash
 npm WARN engine demoapp@1.0.0: wanted: {"node":"0.12.0"} (current: {"node":"0.11.14","npm":"2.0.0"})
 ```
 
-And finally, if we change the `engines` to match our running version (0.11.14) it works without errors.
+Finally, if you adjust the `engines` to match your running version (0.11.14), it installs without errors.
 
 ## Summary
 
-I think that with the advent of io.js we all have to be more watchful of which engines we are using for our code. Especially when we are deploying to services like <a href="http://www.heroku.com">Heroku</a> etc.
+With the advent of io.js, it’s important to be vigilant about the engines used for your code, especially when deploying to services like [Heroku](http://www.heroku.com).
 
-Knowing how, and why, the `engines` and `engineStrict` behaves as it does will be very valuable for me. And hopefully for you too.
+Understanding how `engines` and `engineStrict` behave will be valuable, and I hope you find this information useful too.

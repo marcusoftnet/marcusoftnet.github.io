@@ -63,7 +63,7 @@ id="SPELLING_ERROR_52" class="blsp-spelling-error">of <span
 id="SPELLING_ERROR_53" class="blsp-spelling-error">mine:
 <http://www.dev102.com/2008/05/06/11-more-visual-studio-shortcuts-you-should-know/>
 
-**\[UPDATED\]**
+**UPDATED**
 That short-cut site contained some other really useful stuff also:
 
 - <http://www.dev102.com/2008/05/09/6-useful-visual-studio-tweaks-you-need-to-know/>
