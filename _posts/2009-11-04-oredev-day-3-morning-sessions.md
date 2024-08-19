@@ -1,90 +1,50 @@
 ---
 layout: post
-title: ÖreDev day 3 – morning sessions
+title: ÖreDev Day 3 – Morning Sessions
 date: 2009-11-04T11:53:00.001Z
 author: Marcus Hammarberg
 tags:
   - ÖreDev
-  - Life of a consultant
+  - Life of a Consultant
   - Agile
 modified_time: 2011-11-09T20:49:22.599Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6851193783892192301
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-3-morning-sessions.html
 ---
 
+##### Accomplishing More by Doing Less
 
-##### Accomplishing more by doing less
+The day began with a keynote by Marc Lesser on “Accomplishing More by Doing Less.” This session revisited some concepts from Monday’s talk, offering a clearer and more concise understanding. It was a valuable refresher.
 
-This day started with Marc Lesser giving a keynote on “Accomplishing
-more by doing less”. This was a short overview of the day that I <a
-href="http://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-more-by.html"
-target="_blank">attended on Monday</a>, so it was some of the same, but
-also gave a crisper understanding of the subject. It was great to get a
-repetition for me.
+A standout quote was: *“Find the One who is not busy”—whether that’s in yourself, a higher power, or something else that resonates with you.*
 
-Great quote of the day; Find “the One who are not busy”. In yourself, or
-God or whatever you read into it. I know what I do…
+##### Scrum – Why It’s So Hard to Implement
 
-##### Scrum – why it’s so hard to implement
+Jens Ödegaard’s talk addressed the challenges of implementing Scrum. It was reassuring to see that my struggles were not unique. Key takeaways included:
 
-Jens Ödegaard gave this talk and it was one of those: “you’re not gonna
-get any silver bullets”, but rather a run through the challenges you
-face implementing Scrum. It was quite nice see that I wasn’t alone in my
-experiences. Here is some quotes that stuck:
+- Organizations must be willing to abandon traditional management styles.
+- Teams should support each other—if you can’t directly help, at least show solidarity (even if it means bringing coffee).
+- Problems in Scrum often existed before but were unnoticed.
+- A ScrumMaster should educate the organization about Scrum and remove impediments to help the team focus.
+- A ScrumMaster has no formal authority but must coach people to commit.
+- Daily scrums are team meetings, not reporting sessions for the ScrumMaster.
+- Define “DONE” collaboratively with the team and Product Owner.
 
-- We want organizations that dare to let go of the old way of
-    management.
-- The team is in this together – if you cannot do anything to help you
-    can always show that you want it solved. If by no other means –
-    bring coffee.
-- We didn’t have all these problems before Scrum. Well no. You had –
-    but you didn’t see them.
-- A ScrumMaster should explain scrum to the rest of the organization.
-- A ScrumMaster is the teams best friend, removing impediments to help
-    them focus on the task at hand.
-- A ScrumMaster has not authority. You have to coach people to
-    commitment.
-- The daily scrum is a team meeting, not reporting to the Scrum
-    Master. Scrum Master is not required to be there but rather make
-    sure to be there
-- Define DONE together with the team and the Product Owner.
+The presentation’s conclusion was much stronger than the beginning, which covered basic concepts. I would have liked more depth on the practical aspects.
 
-The end of the presentation was much better than the start which was
-very basic. It would have love to stayed longer on the “What to
-do?”-slide.
+##### eXtreme Programming in Practice
 
-OK – that was not good. On to the next
+Neal Ford delivered a compelling session on eXtreme Programming (XP). Highlights included:
 
-##### eXtreme programming in practice
+- XP’s success is attributed to various feedback loops operating on different timescales (minutes for pair programming, hours for unit tests, days for standups, etc.).
+- Ford introduced “Quality of Service” as a term for non-functional requirements, which I found appealing.
+- Instead of asking how long a task will take, gauge its complexity on a magnitude scale (1, 2, 4, 8, 16, etc.) relative to other tasks.
+- “All models are wrong, but some are useful”—a humorous yet true statement.
+- Track initial estimates, “sprint” estimates, and actual values.
+- Stories are 0% complete until they are 100% done, with criteria expressed in business terms (user stories in the format: *As [X] I want [Y] because [Z]*).
+- The “Truck Number” represents the number of people who must be absent (e.g., hit by a truck) before a project fails—aim for a number greater than 1.
+- YAGNI (You Aren’t Gonna Need It)—avoid building frameworks on speculation; extract them from completed projects.
 
-This session is given by
-<a href="http://www.nealford.com/" target="_blank">Neal Ford</a> and
-he’s a good presenter from what I understand.
+This session provided a great overview of XP and was thoroughly enjoyable. Neal’s slides are available for download [here](http://github.com/nealford).
 
-- One of the things he mentioned is that XP works well because there
-    are built on a series of feedback-loops on different time scales
-    (minutes – pair programming, hours – unit tests, days – standups,
-    weeks – iteration etc.)
-- He posed a new name for Non-functional requirements; Quality of
-    Service. I like that.
-- Don’t ask how long will a task will take. Rather gauge complexity in
-    a magnitude scale (1, 2, 4, 8, 16 etc.). And do it relative the
-    other stories in the system
-- “All models are wrong, but some are useful” – true and funny.
-- Track initial estimate, “sprint” estimates (beginning of iteration)
-    and actual values.
-- Every story is 0% until its 100% done. These criterias are expressed
-    in business terms, hence user stories (As \[X\] I want \[Y\]
-    **because \[Z\]**)
-- Truck number – the number of people that you cannot have hit by a
-    truck. This number should be greater than 1 or your in trouble…
-    Funny
-- YAGNI – Don’t build frameworks (on speculation). It’s better to
-    extract a framework from a finished project.
-
-This was a great presentation, also basic overview. On XP this time – I
-enjoyed that very much. Thank you Neal! The slides are for
-<a href="http://github.com/nealford" target="_blank">download here</a>
-
-This is a great conference and as always the best parts are in between
-sessions, talking to others.
+ÖreDev continues to impress, and the best parts are often the conversations between sessions.

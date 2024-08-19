@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kanban example by Henrik Kniberg
+title: Kanban Example by Henrik Kniberg
 date: 2009-11-17T20:32:00.002Z
 author: Marcus Hammarberg
 tags:
@@ -11,14 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7371763485207165967
 blogger_orig_url: http://www.marcusoft.net/2009/11/kanban-example-by-henrik-kniberg.html
 ---
 
+Today, I want to highlight a [Kanban example](http://tinyurl.com/kanbanexample) shared by [Henrik Kniberg](http://blog.crisp.se/henrikkniberg). 
 
-Finally today I need to store a reference to
-<a href="http://tinyurl.com/kanbanexample" target="_blank">this
-Kanban-example</a> that
-<a href="http://blog.crisp.se/henrikkniberg" target="_blank">Henrik
-Kniberg</a> has posted.
+Henrik's insights into Kanban and agile practices have been incredibly influential. He was a major inspiration for my initial dive into Scrum and agile methodologies through his remarkable work, [Scrum from the Trenches](http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf). 
 
-He was one of the main reasons I started with Scrum and agile in the
-first place with his excellent <a
-href="http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf"
-target="_blank">Scrum from the Threnches</a>.
+Check out his Kanban example for valuable perspectives and practical advice.

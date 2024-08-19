@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving items between listboxes with JQuery
+title: Moving Items Between Listboxes with jQuery
 date: 2009-11-24T07:30:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -12,14 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2912767797389562611
 blogger_orig_url: http://www.marcusoft.net/2009/11/moving-items-between-listboxes-with.html
 ---
 
+As a jQuery newbie, I was curious about how to move items between listboxes. A quick search led me to this helpful guide: [How to Add/Remove ListItems from One ListBox to Another Using jQuery](http://www.codedigest.com/CodeDigest/90-How-to-Add--Remove-ListItems-from-one-ListBox-to-Another-Using-JQuery-.aspx).
 
-OK – this was so special and lucky… Being a newbie at
-<a href="http://jquery.com/" target="_blank">JQuery</a> I was wondering
-on how to move items between listboxes. Well a <a
-href="http://www.google.se/search?sourceid=chrome&amp;ie=UTF-8&amp;q=jquery+moving+items+listbox"
-target="_blank">quick search</a> later and this popped up:
-
-<http://www.codedigest.com/CodeDigest/90-How-to-Add--Remove-ListItems-from-one-ListBox-to-Another-Using-JQuery-.aspx>
-
-Answering the question in two seconds. Internet is wonderful thing and
-without Google I couldn’t function as a contractor.
+It answered my question in seconds. The internet is a fantastic resource, and Google is indispensable for a contractor like me.

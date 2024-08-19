@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile testing – some thoughts after an excellent Elevate-evening
+title: Agile Testing – Reflections from an Excellent Elevate Evening
 date: 2009-11-13T10:57:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,88 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5694135538797434709
 blogger_orig_url: http://www.marcusoft.net/2009/11/agile-testing-some-thoughts-after.html
 ---
 
+Last night’s [Elevate](http://blog.avegagroup.se/elevate/) event was another impressive showcase of the diverse knowledge within [Avega](http://www.avegagroup.se). The focus was on Agile Testing, a topic that has often confused and frustrated me. I’ve struggled to implement effective agile testing practices in the teams I’ve led. Here are some of the challenges I've faced:
 
-Yesterday was another
-<a href="http://blog.avegagroup.se/elevate/" target="_blank">Elevate</a>-evening
-and again I was impressed by the diversity and knowledge of the
-consultants of
-<a href="http://www.avegagroup.se" target="_blank">Avega</a>.
+- **No Testers and No Testing in the Team**: This approach led to a traditional waterfall-like process with a separate testing phase after development. We missed out on the benefits of agile methodologies.
+- **Testers in the Team, But Not Doing Agile Testing**: When testers were included, they still followed company policies, which meant extensive documentation and test planning for each minor change. This approach proved inefficient.
+- **Testers Testing Only Sprint Work**: In this setup, testers only tested the features developed during the sprint, with an acceptance test phase every 4-5 sprints. While this was better, it still led to stress and inefficiencies, especially with regression testing.
 
-The theme for last night was; Agile Testing. This is an area that has
-confused and frustrated (is that a word?) me for some time. I haven’t
-got it to work in any of the agile teams I have been leading. Here are
-sample of my failures (as in failure is good – an opportunities to learn
-:));
+I was eager to learn how to address these issues effectively. The lightning talks at the Elevate evening provided valuable insights, even though I missed the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology) sessions.
 
-- **No testers and no testing in the team**. This was a disaster. We
-    did agile development but when we were done a 3 month testing phase
-    took place. Sounds a lot like waterfall to me. And we didn’t harvest
-    any of the goodness that agile can bring.
-- **Testers in the team – but not doing agile testing**. So we decided
-    to move testers into the team. But they had to keep up with the
-    company testing policies. So each time we did a change, how ever
-    minor it was, it resulted in several days work for the testers;
-    updating test cases, use cases and tests plan etc.
-    That didn’t work very well either.
-- Finally we had **testers in the team that only tested the things we
-    worked with during the sprint**. And with an acceptance test-phase
-    after each 4-5 sprints. This was the best result we’ve got at this
-    customer, but it was very hard to get through to the testers at
-    first, and to the developers after a while…
-    We got stressed and strained towards the end of each sprint, since
-    the testers had nothing to do in the beginning and to much to do at
-    the end. And the regression testing were killing them – more and
-    more for each sprint.
+Three key themes emerged from the talks:
 
-So I very much looked forward to the evening last night since I didn’t
-think that any of the approaches I’ve tried was good. And quite frankly
-I haven’t heard anyone say; “Agile testing or testing in an agile
-project? Yeah I know how to get that to work smoothly”.
-Finally I would get to hear how to do it!
+- **Team Commitment to Testing**: Emphasize that testing is a team responsibility, not just the role of dedicated testers. This approach aligns well with the next point.
+  
+- **Definition of Done**: Include testing in the definition of done. For instance, "We’re not done until the feature is tested." If developers aren't engaging with testing, consider having testers “take a break” for a sprint to encourage developers to step up.
 
-OK – that was my introduction. Here is my thoughts after the lightning
-talks last night. Unfortunally I didn’t have time to stay for the
-<a href="http://en.wikipedia.org/wiki/Open_Space_Technology"
-target="_blank">Open Space</a>.
+- **Invest in Automation**: Successful agile teams often use automated regression tests. Tools like [Selenium](http://seleniumhq.org/) are useful for this purpose. Manage test scripts as you would any other code, incorporating them into your continuous integration or daily build processes.
 
-As I hoped they all had some similar thoughts and underlying themes,
-which I takes as points worth noticing. For me three things stood out:
+Adopting a definition of done such as:
 
-- **Team commitment to test** - make the whole team think test. Make
-    sure that you don’t have developers and tester – only team members.
-    Which fit very nicely with the next point;
-- **Definition of done** – include testing in your definition of done.
-    Or in other words; “We’re not done until the thing is tested.”
-    We even got some suggestions on what to do if developers don’t take
-    interest in testing; let testers be “sick” for a sprint, which will
-    make developers to do the tests…
-- **Invest in automation –** all the success stories from yesterday
-    included automation of regression tests. Learn some tools for that,
-    for example
-    <a href="http://seleniumhq.org/" target="_blank">Selenium</a> and
-    let the testers do test automation, rather than only manual
-    testing.
-    Manage the test-scripts for automation of regression tests as any
-    other code.
+> “A story is done when it has a passing automated regression test.”
 
-All these will be in place if you can get the team to buy in on a
-definition of done such as:
+will bring several benefits:
 
-> “A story is done when it has an passing automated regression test”
+- It ensures the system is testable, with the ability to write tests against services and create test clients as needed.
+- Regression tests can be developed even before the code is complete.
+- A comprehensive suite of automated tests can provide ongoing feedback about the project’s health when integrated into daily builds or continuous integration processes.
 
-Of course it will probably contain some other stuff also but only to get
-a feel for it.
-
-Doing automated regression tests will have plenty of benefits;
-
-- the system needs to be testable – can we write tests against a
-    service? do we need a test client that enable us to do automated
-    tests?
-- you can start writing the regression tests before the code is done,
-    in many cases
-- you get a suite of tests that run through the whole system and
-    checks for breaks. Included in your Daily Build or Continuous
-    Integration this will give you a nice status of your project.
-
-OK – it was a great evening. Thank you everyone – you got me thinking a
-lot.
+Overall, it was an enlightening evening. Thanks to everyone who contributed—I’ve got a lot to think about and implement!

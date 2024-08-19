@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ÖreDev day 2 – NHibernate in practice'
+title: ÖreDev Day 2 – NHibernate in Practice
 date: 2009-11-03T16:00:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -12,36 +12,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6149552882586383561
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-nhibernate-in-practice.html
 ---
 
+Today’s session at ÖreDev was about NHibernate, led by [Stephen Bohlen](http://unhandled-exceptions.com/blog/index.php/about/). Stephen aimed to cover a comprehensive screencast from [Summer of NHibernate](http://www.summerofnhibernate.com) in just four hours.
 
-Now it’s <a href="https://www.hibernate.org/343.html"
-target="_blank">NHibernate</a> with
-<a href="http://unhandled-exceptions.com/blog/index.php/about/"
-target="_blank">Stephen Bohlen</a>, who is aiming to cramming in all
-(kinda…) of the screencast on
-[www.summerofnhibernate.com](http://www.summerofnhibernate.com) in 4
-hours.
+Stephen’s presentation was thorough and engaging, though it felt a bit rushed. Given the depth of NHibernate, a full day would have been ideal to delve deeper. Nonetheless, the material was valuable, and I can always revisit [Summer of NHibernate](http://www.summerofnhibernate.com) for more details.
 
-I think I’ll just sit back and try to learn this, because this guy is
-probably paid by the word :)
+One key takeaway was a principle for TDD and unit testing: Always ask, “What can we safely assert?” The answer should be, “Only the values I’ve set in the test code.” This is especially relevant for integration tests involving databases. For example, if you write a test to find people with the first name “FIRST NAME,” you can safely assert that the returned people have the first name “FIRST NAME,” but nothing beyond that.
 
-OK – closing in on the end. I really enjoyed this presentation but it
-would have benefitted from being longer, a whole day. It felt a bit
-rushed and we didn’t get as far as I would have reached. Although the
-material covered was great and well presented. And now I always have the
-[www.summerofnhibernate.com](http://www.summerofnhibernate.com) to run
-back to.
-
-I learned something about TDD and unit tests. Always ask:
-
-> “What can we safely assert?”
-
-And the answer should be:
-
-> “Only the values I’ve set in the test code”
-
-This is especially useful doing “unit tests” against the database (ie.
-integration tests).
-
-If you write a test that searches for people with first name equal
-“FIRST NAME”, the only thing you safely can check that returned people
-contains is that first name equal “FIRST NAME”.
+Overall, it was a great session, and I’m looking forward to applying these insights.
