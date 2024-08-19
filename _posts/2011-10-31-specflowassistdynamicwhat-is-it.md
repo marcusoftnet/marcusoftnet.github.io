@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SpecFlow.Assist.Dynamic–what is it?
+title: SpecFlow.Assist.Dynamic: What Is It?
 date: 2011-10-31T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -13,199 +13,123 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4240793233483386742
 blogger_orig_url: http://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html
 ---
 
+I’m excited to share a new NuGet package I’ve been working on: [SpecFlow.Assist.Dynamic](http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic). This extension builds on [SpecFlow](https://www.specflow.org) and the fantastic [Assist helpers](https://github.com/techtalk/SpecFlow/wiki/SpecFlow-Assist-Helpers) created by [Darren Cauthon](http://www.cauthon.com/).
 
-<a href="http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic" target="_blank">NuGet package</a>! I am so proud. Actually it’s just a small extension to <a href="https://www.specflow.org" target="_blank">SpecFlow</a> and the excellent <a href="https://github.com/techtalk/SpecFlow/wiki/SpecFlow-Assist-Helpers" target="_blank">Assist helpers</a> by <a href="http://www.cauthon.com/" target="_blank">Darren Cauthon</a>.
+In this post, I’ll cover what SpecFlow.Assist.Dynamic is, the problem it solves, and how it was developed. Future posts will delve into its usage and how it integrates with [Simple.Data](https://github.com/markrendle/Simple.Data) to enhance the testing experience.
 
-But I learned quite a lot about dynamics in the process and I thought I write a post or two on <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic" target="_blank">SpecFlow.Assist.Dynamic</a>; what it is, the problem it solves and how it’s made. Later post will be around how to use it and to put it together with <a href="https://github.com/markrendle/Simple.Data" target="_blank">Simple.Data</a> to create a real sweet testing experience.
+### The Problem
 
-Let me say – before I start – that there is <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki" target="_blank">documentation for usage on the GitHub wiki</a>. This is a blog posts on how I made <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic" target="_blank">SpecFlow.Assist.Dynamic</a> – not the official documentation.
-
-### The problem
-
-It’s not a very big problem I’ve solved – but I grew tired of writing small classes that just was for transporting data. For example for the Gherkin-step:
+One of the common issues with SpecFlow is the need to create simple data transfer classes just to move data around in your step definitions. For example, consider the following Gherkin step:
 
 ```gherkin
-1: Given the following users exists in the database:
-2:     | Name   | Age | Birth date | Length in meters |
-3:     | Marcus | 39  | 1972-10-09 | 1.96             |
-4:     | Albert | 3   | 2008-01-24 | 1.03             |
-5:     | Gustav | 1   | 2010-03-19 | 0.84             |
-6:     | Arvid  | 1   | 2010-03-19 | 0.85             |
+Given the following users exist in the database:
+    | Name   | Age | Birth date | Length in meters |
+    | Marcus | 39  | 1972-10-09 | 1.96             |
+    | Albert | 3   | 2008-01-24 | 1.03             |
+    | Gustav | 1   | 2010-03-19 | 0.84             |
+    | Arvid  | 1   | 2010-03-19 | 0.85             |
 ```
 
-I need to implement the following step-definitions (note that I’m using the <a href="https://www.specflow.org" target="_blank">SpecFlow</a>.Assists table extension methods here to keep things short):
+To handle this, you would typically create a `User` class and use it in your step definitions:
 
 ```csharp
-   1: [Binding]
-   2: public class DemoSteps
-   3: {
-   4:     [Given(@"the following users in the database")]
-   5:     public void x(Table table)
+[Binding]
+public class DemoSteps
+{
+    [Given(@"the following users in the database")]
+    public void GivenTheFollowingUsersInTheDatabase(Table table)
+    {
+        IEnumerable<User> listOfUsers = table.CreateSet<User>();
+        // Insert into database code goes here
+    }
+}
 
-   6:     {
-   7:         IEnumerable<User> listOfUsers = table.CreateSet<User>();
-   8:
-   9:         // insert in database code goes here
-  10:         //foreach (var user in listOfUsers)
-  11:         //{
-  12:         //    user.Name, user.Age
-  13:         //}
-  14:     }
-  15: }
-  16: 
-  17: public class User
-  18: {
-  19:     public string Name { get; set; }
-  20:     public int Age { get; set; }
-  21:     public DateTime BirthDate { get; set; }
-  22:     public double LengthInMeters { get; set; }
-  23: }
+public class User
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public DateTime BirthDate { get; set; }
+    public double LengthInMeters { get; set; }
+}
 ```
 
-So the actual step definition is pretty concise and slick. And actually the only thing that bothers me is that class User. It’s only needed by the step definition and it’s only purpose is to transport some data.
+While the step definition itself is concise, the `User` class is merely a data carrier and adds unnecessary overhead.
 
-## The solution
+### The Solution
 
-As I started to use <a href="https://github.com/markrendle/Simple.Data" target="_blank">Simple.Data</a> I realized that <a href="http://msdn.microsoft.com/en-us/library/dd264736.aspx" target="_blank">dynamics</a> could solve this problem for us. 
-
-So that instead can write:
+While working with [Simple.Data](https://github.com/markrendle/Simple.Data), I realized that [dynamics](http://msdn.microsoft.com/en-us/library/dd264736.aspx) in C# could simplify this. Instead of creating a `User` class, you can use dynamic objects to handle the data:
 
 ```csharp
-      [Binding]
-   2: public class DemoSteps
-   3: {
-   4:     [Given(@"the following users in the database")]
-   5:     public void x(Table table)
-   6:     {
-   7:         IEnumerable<dynamic> listOfUsers = table.CreateDynamicSet();
-   8:
-   9:         // insert in database code goes here
-  10:         //foreach (var user in listOfUsers)
-  11:         //{
-  12:         //    user.Name, user.Age
-  13:         //}
-  14:     }
-  15: }
+[Binding]
+public class DemoSteps
+{
+    [Given(@"the following users in the database")]
+    public void GivenTheFollowingUsersInTheDatabase(Table table)
+    {
+        IEnumerable<dynamic> listOfUsers = table.CreateDynamicSet();
+        // Insert into database code goes here
+    }
+}
 ```
 
-Just the code we need. No extra data carriers. Of course you’ll sacrifice intellisense, which is a big hurdle for a lot of us. But I got used to it – so can you.
+This approach eliminates the need for additional classes and keeps your code clean. While you lose some of the benefits of static typing and IntelliSense, the trade-off can be worth it for the simplicity it provides.
 
-## How to get it
+### Getting Started
 
-The easiest way, by far, is to <a href="http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic" target="_blank">download it via NuGet.</a>:
+The easiest way to add SpecFlow.Assist.Dynamic to your project is via NuGet:
 
 ```bash
 Install-Package SpecFlow.Assist.Dynamic
 ```
 
-If you want to help out…you are more than welcome. I’m not planning on doing any more work on this right now. But I hope that you see a bug or a improvement possibilities. <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic" target="_blank">Let me know via GitHub</a> 
+If you’re interested in contributing or have suggestions for improvements, [let me know via GitHub](https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic).
 
-## How it was made
+### How It Was Made
 
-The first thing I did was actually to write <a href="https://www.specflow.org" target="_blank">SpecFlow</a> scenarios for how I wanted the new functionality to work. Even though this was a good thing, as test first
-is, I would not recommend using <a href="https://www.specflow.org" target="_blank">SpecFlow</a> to test out unit level stuff. The major benefit with <a href="https://www.specflow.org" target="_blank">SpecFlow</a> and Cucumber, if you ask me, is that business users can read and understand the specifications.
-
-After that I simply created new <a href="http://msdn.microsoft.com/en-us/library/bb383977.aspx" target="_blank">extension methods</a> on the <a href="https://www.specflow.org" target="_blank">SpecFlow</a> Table object:
+To develop SpecFlow.Assist.Dynamic, I started by writing SpecFlow scenarios to define the desired functionality. Although SpecFlow is great for behavior-driven development, it's not ideal for unit-level testing. Instead, I focused on creating extension methods for the SpecFlow Table object:
 
 ```csharp
-   1: public static IEnumerable<dynamic> CreateDynamicSet(this Table table)
+public static IEnumerable<dynamic> CreateDynamicSet(this Table table)
 ```
 
-One for each of the new features I wanted to support, four in all:
+These methods include:
 
-- **CreateDynamicInstance** – creates an instance from a table. This can be done either for tables with one row or with two column tables. 
-   - In the case of one row tables the header values are used as property names. 
-   - In the case of the two column table the first column is presumed to contain the property values and the second the values for those properties (<a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/blob/master/Specs/DynamicInstancesFromTable.feature" target="_blank">for examples see this</a>)
-- **CreateDynamicSet** – creates a `IEnumerable<dynamic>` for a several rows. The headers are the property names as before.
-- **CompareDynamicInstance** (to table) – this compares a instance of a object you send to the method to a table. The table is parsed using the `CreateDynamicInstance`–method as above.
-- **CompareDynamicSet** – and finally you can compare a set of object to a table. The table is parsed using the `CreateDynamicSet`-method as above.
+- **CreateDynamicInstance** – Creates a dynamic object from a table, either from a single row or a two-column table.
+- **CreateDynamicSet** – Creates an `IEnumerable<dynamic>` for multiple rows.
+- **CompareDynamicInstance** – Compares a dynamic object to a table.
+- **CompareDynamicSet** – Compares a set of dynamic objects to a table.
 
-So, I have tried to use the same conventions as the one used in the <a href="https://www.specflow.org" target="_blank">SpecFlow.Assist</a> helpers;
+I followed conventions similar to SpecFlow.Assist, such as converting spaces in table headers to camel case and parsing values in the following order: `DateTime`, `Integer`, `Double`, and `string`.
 
-- Spaces can be used in table headers but are removed in property values (`“Birth Date”` becomes `“BirthDate”` for example)
-- I uppercase every new word even though it’s not like that in the table. So `“Birth date”` in the table header becomes `“BirthDate”` on the dynamic object
+### Implementation Challenges
 
-I also added a convention of my own that has to do with types on the `dynamic` object. I try to parse types from the values in the table in this order:
+#### Creating Object Properties from Header Strings
 
-1. First try to parse it as a `DateTime`
-1. Then as a `Integer`
-1. Then as a `Double`
-1. And as a fall back I use a `string`
-
-I wanted to do this to be able to do some more safe comparisons etc.
-
-## Challenges and solutions in the implementation
-
-### Creating object properties from header strings
-
-One of the first tricks I learned about is the <a href="http://msdn.microsoft.com/en-us/library/system.dynamic.expandoobject.aspx" target="_blank">ExpandoObject</a>. By reading up on this I learned a lot about how dynamics actually works.
-
-**First** – the keyword “dynamic” only means “don’t do compile-time checking for this variable, it will work in runtime”. Nothing more.
-
-**Secondly** - the base class for a lot of the cool the stuff in `System.Dynamics` – <a href="http://msdn.microsoft.com/en-us/library/system.dynamic.dynamicobject.aspx" target="_blank">`DynamicObject`</a> – is simply a wrapper that gives you the possibility to trap exceptions for when you are accessing members not present on the current object. So if I have written:
+Using the `ExpandoObject` class was crucial for handling dynamic properties. This class stores properties in an internal `IDictionary<string, object>`, allowing for flexible and dynamic property handling:
 
 ```csharp
-1: dynamic a = new MyDynamicObject();
-2: a.Name = "Marcus";
+private static ExpandoObject CreateDynamicInstance(TableRow tableRow)
+{
+    dynamic expando = new ExpandoObject();
+    var dicExpando = expando as IDictionary<string, object>;
+
+    foreach (var header in tableRow.Keys)
+    {
+        var propName = CreatePropertyName(header);
+        var propValue = CreateTypedValue(tableRow[header]);
+        dicExpando.Add(propName, propValue);
+    }
+
+    return expando;
+}
 ```
 
-I’m simply telling the compiler to let me write anything on the `a` object reference. So it swallows the `a.Name = “Marcus”` statement without complaining.
+#### Comparing Dynamic Objects
 
-In order to handle that I can write this simple class, inheriting from `DynamicObject`:
+Comparing dynamic objects presented a challenge due to the lack of direct methods for retrieving property names. I used the [Impromptu Interface](http://code.google.com/p/impromptu-interface/) library to address this issue, which provided methods to get member names and invoke methods dynamically.
 
-```csharp
-1: public class MyDynamicObject : DynamicObject
-2: {
-3:     public override bool TryGetMember(GetMemberBinder binder, out object result)
-4:     {
-5:         return base.TryGetMember(binder, out result);
-6:     }
-7: }
-```
+### Future Directions
 
-In the `TryGetMember` override I can handle access to any member and do something more useful than to crash with a `“Member not defined”`.
+While I hope SpecFlow will eventually incorporate this functionality, the current approach offers a flexible solution. I’ve enjoyed exploring the dynamic capabilities in C# and hope you find SpecFlow.Assist.Dynamic useful.
 
-And that’s exactly what `ExpandoObject` does. It simply stores all the members, and their value, that you access into an internal `IDictionary<string, object>`. In fact you can even cast an `ExpandoObject` into a `Dictionary<string, object>` and insert your members that way.
-
-And that’s how I insert new dynamic properties and their values from each table row. Like this:
-
-```csharp
-1: private static ExpandoObject CreateDynamicInstance(TableRow tablerow)
-2: {
-3:     dynamic expando = new ExpandoObject();
-4:     var dicExpando = expando as IDictionary<string, object>;
-5: 
-6:     foreach (var header in tablerow.Keys)
-7:     {
-8:         var propName = CreatePropertyName(header);
-9:         var propValue = CreateTypedValue(tablerow[header]);
-10:         dicExpando.Add(propName, propValue);
-11:     }
-12: 
-13:     return expando;
-14: }
-```
-
-### Comparing dynamic objects
-
-One problem that almost stumped me was how to compare dynamic instances. There is no way to check which properties a dynamic instance has. … In the .NET framework. … That I know of.
-
-But I found the <a href="http://code.google.com/p/impromptu-interface/" target="_blank">Impromptu Interface</a> project (and <a href="http://nuget.org/List/Packages/ImpromptuInterface" target="_blank">NuGet package</a>). It does a lot of marvelous and strange things but I used it to `GetMemberNames`. That’s a static method that take an object and returns a list of it’s members.
-
-And there’s also a method that invoke methods on any object by name – `InvokeSet(object, memberName)`.
-
-Combining these two made it a lot easier to write the comparisons methods for dynamic instances and sets.
-
-### Reflection
-
-But it was also around this place (having to take a dependency on `ImpromtuInterface`) that I realized that my solution might be the wrong one. I’m wondering if I might have been closer to a pure “`dynamic` by the book” solution if I had done a class inheriting from `DynamicObject` called `DynamicSpecFlowTable`. In that class I could easier and cleaner have handle how properties are set and comparisions done…
-
-Well it works fine now. I’ll keep it like this. 
-
-## The future
-
-Actually I would not like to have this NuGet package. I would rather see this included in the <a href="https://www.specflow.org" target="_blank">SpecFlow</a> main source. But as for now that means that <a href="https://www.specflow.org" target="_blank">SpecFlow</a> needs to take a dependency on ImpromtuInterface and that’s probably not what they want.
-
-So this has been my training ground for a small adventure in dynamic-land. I’ve enjoyed it.
-
-<a href="http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic" target="_blank">I hope you do too.</a>
+[Download SpecFlow.Assist.Dynamic on NuGet](http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic) and enjoy!

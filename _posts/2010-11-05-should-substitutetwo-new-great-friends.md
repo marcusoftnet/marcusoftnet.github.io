@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should & Substitute–two new great friends
+title: Should & Substitute – Two New Great Friends
 date: 2010-11-05T08:33:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -13,215 +13,105 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1188276247401983374
 blogger_orig_url: http://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html
 ---
 
+Recently, I discovered two fantastic frameworks that have significantly improved my test code: `Should` and `NSubstitute`. 
 
-Recently I’ve stumbled upon two great framework that greatly enhanced my
-test code.
+### Should I? Yes – You Should
 
-### Should I? Yes – you should
+First up is [Should](http://should.codeplex.com/), an assertion framework that enhances the readability and ease of writing assertions. Here’s an example showcasing its capabilities:
 
-First up is
-<a href="http://should.codeplex.com/" target="_blank">Should</a> – which
-is a assertion framework that makes your assertions much more readable
-and easier to write. Here’s some code that shows off it’s capabilities:
-       object obj = null;
+```csharp
+object obj = new object();
 
-        obj = new object();
-        obj.Should().Be.OfType(typeof(object));
-        obj.Should().Equal(obj);
-        obj.Should().Not.Be.Null();
-        obj.Should().Not.Be.SameAs(new object());
-        obj.Should().Not.Be.OfType<string>();
-        obj.Should().Not.Equal("foo");
-       "This String".Should().Contain("This");
-        "This String".Should().Not.Be.Empty();
-        "This String".Should().Not.Contain("foobar");
-       var list = new List<object>();
-        list.Should().Count.Zero();
-        list.Should().Not.Contain.Item(new object());
-       var item = new object();
-        list.Add(item);
-        list.Should().Not.Be.Empty();
-        list.Should().Contain.Item(item);
+obj.Should().Be.OfType(typeof(object));
+obj.Should().Equal(obj);
+obj.Should().Not.Be.Null();
+obj.Should().Not.Be.SameAs(new object());
+obj.Should().Not.Be.OfType<string>();
+obj.Should().Not.Equal("foo");
 
-One really nice feature is that the framework isn’t tied to any testing
-framework but works nicely with any test framework.
+"This String".Should().Contain("This");
+"This String".Should().Not.Be.Empty();
+"This String".Should().Not.Contain("foobar");
 
-### Get me a substitute! Now
+var list = new List<object>();
+list.Should().Count.Zero();
+list.Should().Not.Contain.Item(new object());
 
-The other framework is
-<a href="http://nsubstitute.github.com/" target="_blank">NSubstitute</a>
-which is a mocking framework. I first got hooked when I read their
-intro:
+var item = new object();
+list.Add(item);
+list.Should().Not.Be.Empty();
+list.Should().Contain.Item(item);
+```
 
->
->
-> Mock, stub, fake, spy, test double? Strict or loose? Nah, just
-> substitute for the type you need!
+One of the great features of `Should` is that it’s not tied to any specific testing framework, making it versatile and compatible with any test framework.
 
-I’m probably the only one (NOT!) who mess mock, stubs and fakes up
-except from just after I read a book on the subject. And really – who
-cares? I just want something to replace the real stuff for a while –
-let’s call it a substitute.
+### Get Me a Substitute! Now
 
-The syntax is also super-clean and easy going. Here’s the example from
-the NSubstitute site:
-   //Create:
+The other framework I’d like to highlight is [NSubstitute](http://nsubstitute.github.com/), a mocking framework that simplifies creating substitutes for dependencies. The introductory message from NSubstitute says it all:
 
-    //Set a return value:
-    calculator.Add(1, 2).Returns(3);
-    Assert.AreEqual(3, calculator.Add(1, 2));
-   //Check received calls:
-    calculator.Received().Add(1, Arg.Any<int>());
-    calculator.DidNotReceive().Add(2, 2);
+> Mock, stub, fake, spy, test double? Strict or loose? Nah, just substitute for the type you need!
 
-### Come together. Right now
+I often mix up mocks, stubs, and fakes, and honestly, I don’t care about the distinctions when I just need a simple substitute. NSubstitute offers clean and easy-to-read syntax. Here’s an example from their site:
 
-But the true power, I think, you get when combining these two together.
-Here’s an example from I did to show
-<a href="http://www.specflow.org" target="_blank">SpecFlow</a> that uses
-both Should and NSubsitute:
-   [Given(@"the following features in the database:")]
-    public void GivenTheFollowingFeaturesInTheDatabase(Table table)
+```csharp
+// Create a substitute:
+var calculator = Substitute.For<ICalculator>();
+
+// Set a return value:
+calculator.Add(1, 2).Returns(3);
+Assert.AreEqual(3, calculator.Add(1, 2));
+
+// Check received calls:
+calculator.Received().Add(1, Arg.Any<int>());
+calculator.DidNotReceive().Add(2, 2);
+```
+
+### Come Together, Right Now
+
+The real power comes when you combine `Should` and `NSubstitute`. Here’s an example demonstrating their use with [SpecFlow](http://www.specflow.org/):
+
+```csharp
+[Given(@"the following features in the database:")]
+public void GivenTheFollowingFeaturesInTheDatabase(Table table)
+{
+    var features = table.CreateSet<Feature>().ToList();
+    var dbWrapperSubstitute = Substitute.For<IFeatureDBWrapper>();
+    // Configure the substitute as needed
+}
+
+[When(@"I navigate to the homepage")]
+public void WhenINavigateToTheHomepage()
+{
+    var featureDBWrapper = ScenarioContext.Current.Get<IFeatureDBWrapper>(DBWRAPPER_KEY);
+    var controller = new HomeController(featureDBWrapper);
+    var indexView = controller.Index() as ViewResult;
+
+    indexView.Should().Not.Be.Null();
+    indexView.ViewData.Model.Should().Not.Be.Null();
+
+    var features = (IList<Feature>)indexView.ViewData.Model;
+    features.Should().Not.Be.Null();
+    featureDBWrapper.Received().AllNotDone();
+    ScenarioContext.Current.Set(features, FEATURES_IN_VIEW_KEY);
+}
+
+[Then(@"I should see a view with the following features:")]
+public void ThenIShouldSeeAViewWithTheFollowingFeatures(Table table)
+{
+    var features = ScenarioContext.Current.Get<IList<Feature>>(FEATURES_IN_VIEW_KEY);
+    var expectedFeatures = table.CreateSet<Feature>();
+
+    foreach (var expectedFeature in expectedFeatures)
     {
-       var features = table.CreateSet<Feature>().ToList();
-      var dbWrapperSubsitute = Substitute.For<IFeatureDBWrapper>();
-
-   }
-
-    [When(@"I navigate to the homepage")]
-    public void WhenINavigateToTheHomepage()
-    {
-        var featureDBWrapper = ScenarioContext.Current.Get<IFeatureDBWrapper>(DBWRAPPER_KEY);
-        var controller = new HomeController(featureDBWrapper);
-       var indexView = controller.Index() as ViewResult;
-       indexView.Should().Not.Be.Null();
-        indexView.ViewData.Model.Should().Not.Be.Null();
-        var features = (IList<Feature>)indexView.ViewData.Model;
-        features.Should().Not.Be.Null();
-       featureDBWrapper.Received().AllNotDone();
-       ScenarioContext.Current.Set(features, FEATURES_IN_VIEW_KEY);
-
-    [Then(@"I should see a view with the following features:")]
-    public void ThenIShouldSeeAViewWithTheFollowingFeatures(Table table)
-    {
-        var features = ScenarioContext.Current.Get<IList<Feature>>(FEATURES_IN_VIEW_KEY);
-       var expectedFeatures = table.CreateSet<Feature>();
-       foreach (var expectedFeature in expectedFeatures)
-        {
-            features.Should().Contain.Any( f => f.Name ==  expectedFeature.Name);
-            features.Should().Contain.Any( f => f.AssignedTo ==  expectedFeature.AssignedTo);
-            features.Should().Contain.Any( f => f.HoursWorked ==  expectedFeature.HoursWorked);
-            features.Should().Contain.Any( f => f.Status ==  expectedFeature.Status);
-            features.Should().Contain.Any( f => f.Size ==  expectedFeature.Size);
-        }
+        features.Should().Contain.Any(f => f.Name == expectedFeature.Name);
+        features.Should().Contain.Any(f => f.AssignedTo == expectedFeature.AssignedTo);
+        features.Should().Contain.Any(f => f.HoursWorked == expectedFeature.HoursWorked);
+        features.Should().Contain.Any(f => f.Status == expectedFeature.Status);
+        features.Should().Contain.Any(f => f.Size == expectedFeature.Size);
     }
+}
+```
 
-You can find the whole <a
-href="https://github.com/marcusoftnet/Marcusoft.OutsideIn.FeatureDemo"
-target="_blank">solution here</a>.
+You can find the complete [solution here](https://github.com/marcusoftnet/Marcusoft.OutsideIn.FeatureDemo).
 
-Recently I’ve stumbled upon two great framework that greatly enhanced my
-test code.
-
-### Should I? Yes – you should
-
-First up is
-<a href="http://should.codeplex.com/" target="_blank">Should</a> – which
-is a assertion framework that makes your assertions much more readable
-and easier to write. Here’s some code that shows off it’s capabilities:
-       object obj = null;
-
-        obj = new object();
-        obj.Should().Be.OfType(typeof(object));
-        obj.Should().Equal(obj);
-        obj.Should().Not.Be.Null();
-        obj.Should().Not.Be.SameAs(new object());
-        obj.Should().Not.Be.OfType<string>();
-        obj.Should().Not.Equal("foo");
-       "This String".Should().Contain("This");
-        "This String".Should().Not.Be.Empty();
-        "This String".Should().Not.Contain("foobar");
-       var list = new List<object>();
-        list.Should().Count.Zero();
-        list.Should().Not.Contain.Item(new object());
-       var item = new object();
-        list.Add(item);
-        list.Should().Not.Be.Empty();
-        list.Should().Contain.Item(item);
-
-One really nice feature is that the framework isn’t tied to any testing
-framework but works nicely with any test framework.
-
-### Get me a substitute! Now
-
-The other framework is
-<a href="http://nsubstitute.github.com/" target="_blank">NSubstitute</a>
-which is a mocking framework. I first got hooked when I read their
-intro:
-
->
->
-> Mock, stub, fake, spy, test double? Strict or loose? Nah, just
-> substitute for the type you need!
-
-I’m probably the only one (NOT!) who mess mock, stubs and fakes up
-except from just after I read a book on the subject. And really – who
-cares? I just want something to replace the real stuff for a while –
-let’s call it a substitute.
-
-The syntax is also super-clean and easy going. Here’s the example from
-the NSubstitute site:
-   //Create:
-
-    //Set a return value:
-    calculator.Add(1, 2).Returns(3);
-    Assert.AreEqual(3, calculator.Add(1, 2));
-   //Check received calls:
-    calculator.Received().Add(1, Arg.Any<int>());
-    calculator.DidNotReceive().Add(2, 2);
-
-### Come together. Right now
-
-But the true power, I think, you get when combining these two together.
-Here’s an example from I did to show
-<a href="http://www.specflow.org" target="_blank">SpecFlow</a> that uses
-both Should and NSubsitute:
-   [Given(@"the following features in the database:")]
-    public void GivenTheFollowingFeaturesInTheDatabase(Table table)
-    {
-       var features = table.CreateSet<Feature>().ToList();
-      var dbWrapperSubsitute = Substitute.For<IFeatureDBWrapper>();
-
-   }
-
-    [When(@"I navigate to the homepage")]
-    public void WhenINavigateToTheHomepage()
-    {
-        var featureDBWrapper = ScenarioContext.Current.Get<IFeatureDBWrapper>(DBWRAPPER_KEY);
-        var controller = new HomeController(featureDBWrapper);
-       var indexView = controller.Index() as ViewResult;
-       indexView.Should().Not.Be.Null();
-        indexView.ViewData.Model.Should().Not.Be.Null();
-        var features = (IList<Feature>)indexView.ViewData.Model;
-        features.Should().Not.Be.Null();
-       featureDBWrapper.Received().AllNotDone();
-       ScenarioContext.Current.Set(features, FEATURES_IN_VIEW_KEY);
-
-    [Then(@"I should see a view with the following features:")]
-    public void ThenIShouldSeeAViewWithTheFollowingFeatures(Table table)
-    {
-        var features = ScenarioContext.Current.Get<IList<Feature>>(FEATURES_IN_VIEW_KEY);
-       var expectedFeatures = table.CreateSet<Feature>();
-       foreach (var expectedFeature in expectedFeatures)
-        {
-            features.Should().Contain.Any( f => f.Name ==  expectedFeature.Name);
-            features.Should().Contain.Any( f => f.AssignedTo ==  expectedFeature.AssignedTo);
-            features.Should().Contain.Any( f => f.HoursWorked ==  expectedFeature.HoursWorked);
-            features.Should().Contain.Any( f => f.Status ==  expectedFeature.Status);
-            features.Should().Contain.Any( f => f.Size ==  expectedFeature.Size);
-        }
-    }
-
-You can find the whole <a
-href="https://github.com/marcusoftnet/Marcusoft.OutsideIn.FeatureDemo"
-target="_blank">solution here</a>.
+Both `Should` and `NSubstitute` have greatly enhanced my testing capabilities, and I’m excited to see how they can benefit your projects as well.
