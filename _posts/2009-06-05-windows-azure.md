@@ -12,23 +12,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3702324459945722813
 blogger_orig_url: http://www.marcusoft.net/2009/06/windows-azure.html
 ---
 
+I don't know that much about [Azure](http://www.microsoft.com/azure/) yet, but I am quite sure it will become more and more important in the future.
 
-I don't know that much about
-<a href="http://www.microsoft.com/azure/" target="_blank">Azure</a>...
-yet. But I am quite sure that is will be more and more important in the
-future.
+From what I understand now, it's Microsoft's platform for developing applications that use services "in the cloud." Behind the buzzwords, you'll find a range of services accessible over the internet, including storage, logging, and other low-level services, as well as Microsoft Live Services, CRM services, and more.
 
-From what I understand now it's the
-<a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
-platform for development of application that uses services "in the
-cloud", as you should say these days. Behind the buzzwords you'll find a
-bunch of services that can be reached over the internet that you can
-take advantage of. These includes storage, logging and other low level
-services but also Microsoft Live Services and CRM services etc.
+The whole idea is that with these services in place, you can get up and running much faster.
 
-The whole idea, I guess, is that given these services in place you can
-much faster get up and running.
-
-OK - sounds like an good idea... Let's see it in action.
-<a href="http://msdn.microsoft.com/en-us/azure/dd439432.aspx"
-target="_blank">Here are some videos</a>.
+OK – sounds like a good idea. Let's see it in action. [Here are some videos](http://msdn.microsoft.com/en-us/azure/dd439432.aspx).

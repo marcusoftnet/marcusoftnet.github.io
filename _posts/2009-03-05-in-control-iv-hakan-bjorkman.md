@@ -10,22 +10,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6067245503397737281
 blogger_orig_url: http://www.marcusoft.net/2009/03/in-control-iv-hakan-bjorkman.html
 ---
 
+OK – here is one of the nicest and probably best trombone players in the world showing off his amazing technique.
 
-OK – here is one of the nicest and probably best trombone players in the
-world showing of his amazing technique.
+Follow [this link](http://svtplay.se/v/1455978/musikministeriet/sex_musiker_tavlar_i_snabbhet) to a short clip from [SVT](http://www.svt.se) where a couple of musicians compete in playing the [Flight of the Bumble Bee](http://en.wikipedia.org/wiki/Flight_of_the_Bumblebee). In Swedish... The whole program can be found [here](http://svtplay.se/v/1456709/musikministeriet/del_7_av_8?cb,a1364145,1,f,102880/pb,a1364142,1,f,102880/pl,v,,1456709/sb,p102880,1,f,-1).
 
-Follow <a
-href="http://svtplay.se/v/1455978/musikministeriet/sex_musiker_tavlar_i_snabbhet"
-target="_blank">this link</a> to a short clip from
-<a href="http://www.svt.se" target="_blank">SVT</a> where a couple of
-musicians competes in playing the
-<a href="http://en.wikipedia.org/wiki/Flight_of_the_Bumblebee"
-target="_blank">Flight of the Bumble Bee</a>. In Swedish… The whole
-program can be found <a
-href="http://svtplay.se/v/1456709/musikministeriet/del_7_av_8?cb,a1364145,1,f,102880/pb,a1364142,1,f,102880/pl,v,,1456709/sb,p102880,1,f,-1"
-target="_blank">here</a>.
-
-Amazingly Håkan plays the piece 20 beats faster than for example the
-violinist… And very clean.
+Amazingly, Håkan plays the piece 20 beats faster than, for example, the violinist... And very clean.
 
 Thanks for the lesson Håkan!
