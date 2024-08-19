@@ -1,36 +1,18 @@
 ---
 layout: post
-title: DropBox – your drive in the cloud
+title: Dropbox – Your Drive in the Cloud
 date: 2009-10-09T11:09:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
-  - Life of a consultant
+  - Life of a Consultant
 modified_time: 2010-12-14T15:22:38.184Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1393725672116175760
 blogger_orig_url: http://www.marcusoft.net/2009/10/dropbox-your-drive-in-cloud.html
 ---
 
+As part of my commitment to practicing what I preach, I've started transitioning more of my work into the cloud. After managing emails, contacts, and calendars online, it's time to move my files.
 
-I am trying to live as I teach, and I think that I, in the near future,
-will talk to customers about storing stuff
-<a href="http://en.wikipedia.org/wiki/Cloud_computing"
-target="_blank">“in the cloud”</a>.
+**[Dropbox](http://www.getdropbox.com)** has proven to be an excellent tool for this purpose. It offers a straightforward way to store files online and sync them across multiple devices. Additionally, Dropbox allows you to share specific folders or make files publicly available. For instance, you can find [some example code here](http://dl.getdropbox.com/u/2408484/Marcusoft.FluentAutomapper.zip).
 
-To not be a complete hypocrite I have started to store <a
-href="http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html"
-target="_blank">more</a> and <a
-href="http://www.marcusoft.net/2009/09/add-coolness-to-your-presentations.html"
-target="_blank">more</a> stuff in the cloud.
-
-After email, contacts and calendar it’s now time for my files.
-<a href="http://www.getdropbox.com" target="_blank">DropBox</a> is a
-really nice alternative. It also have the possibility to share certain
-folders with others, or go public altogether (here is <a
-href="http://dl.getdropbox.com/u/2408484/Marcusoft.FluentAutomapper.zip"
-target="_blank">some code</a> for example). Finally it' syncs to all my
-computers that have
-<a href="http://www.getdropbox.com" target="_blank">DropBox</a>
-installed.
-
-Nice, really nice. No more USB…
+With Dropbox, I no longer need to rely on USB drives—it's a seamless and convenient solution for file management. Highly recommended!

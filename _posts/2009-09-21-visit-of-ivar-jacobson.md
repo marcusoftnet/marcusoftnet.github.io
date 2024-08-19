@@ -11,31 +11,12 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5248636408514101470
 blogger_orig_url: http://www.marcusoft.net/2009/09/visit-of-ivar-jacobson.html
 ---
 
+Last Thursday was an exciting day. After a not-so-well-planned [post](http://www.marcusoft.net/2009/04/debating-hero.html) about a previous article, we finally had the chance to host a visit from one of the giants of IT, [Ivar Jacobson](http://www.ivarjacobson.com/).
 
-Last Thursday the day had finally arrived. From a not very well planned
-<a href="http://www.marcusoft.net/2009/04/debating-hero.html"
-target="_blank">post after an article</a> it has been quite a journey to
-finally get a visit from one of the IT-gigants –
-<a href="http://www.ivarjacobson.com/" target="_blank">Ivar
-Jacobsson</a>.
+I've made a brief recap of his visit [here](http://blog.avegagroup.se/Elevate/archive/2009/09/17/be-smart-med-ivar-jacobson.aspx) (in Swedish). What stood out for me was not just the wealth of experience he brought, but also his enduring enthusiasm for the field.
 
-I have made a short recap of what he said <a
-href="http://blog.avegagroup.se/Elevate/archive/2009/09/17/be-smart-med-ivar-jacobson.aspx"
-target="_blank">here</a> (in Swedish), but the main thing for me was
-just to see and hear a man with that amount of experience, with all the
-enthusiasm still intact.
+I was particularly struck by his perspective on the IT industry as a fashion industry, constantly chasing trends. Ivar now emphasizes focusing on the practices used within various processes, rather than the processes themselves, as a way to provide great support for organizations.
 
-Also I like the ideas on the computer industry being a fashion industry
-that chases trend after trend. Ivar has started to look away from the
-different processes and instead focus on the practices that is used and
-can be combined into great support for the organization.
+One of his statements made me laugh: "We really have gone crazy with the documentation" (my translation). This from the father of [RUP](http://en.wikipedia.org/wiki/IBM_Rational_Unified_Process), a methodology that many have turned into a documentation-heavy behemoth…
 
-I really laughed hard at one of his statements: “We really has gone
-crazy with the documentation” (my translation). This said from the
-father of
-<a href="http://en.wikipedia.org/wiki/IBM_Rational_Unified_Process"
-target="_blank">RUP</a> that so many people has misused into
-documentation-mecca…
-
-It was really a honor to meet Ivar in real life and hear him talking
-about things that he obvious love to talk about.
+It was truly an honor to meet Ivar Jacobson in person and hear him speak about topics he's clearly passionate about.

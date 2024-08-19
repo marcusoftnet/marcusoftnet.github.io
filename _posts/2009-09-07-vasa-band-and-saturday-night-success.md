@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vasa Band and Saturday night success
+title: Vasa Band and Saturday Night Success
 date: 2009-09-06T19:11:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,25 +11,12 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2004630147388025983
 blogger_orig_url: http://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-success.html
 ---
 
+This weekend, the band I play in, the [Vasa Band](http://www.vasaband.se), had the privilege of performing at the Salvation Army's regional congress in Örebro. We were invited to participate in the musical festival on Saturday.
 
-This weekend the band I play in, the
-<a href="http://www.vasaband.se" target="_blank">Vasa Band</a>, had an
-opportunity to play at the Salvation Army regional congress in Örebro.
-We were invited to play in the musical festival at Saturday.
+In preparation, a few of us brainstormed ways to bring something new and different to the performance. We drew inspiration from some [great bands](http://www.blackdykeband.co.uk) and put together a short program featuring music from our latest [CD – Priority](http://www.vasaband.se/index.php?id=6).
 
-When we learned about this a few of us started to think in how we could
-make something new and different. And so we borrowed ideas from some
-<a href="http://www.blackdykeband.co.uk" target="_blank">great bands</a>
-and put together a short program with music from our latest
-<a href="http://www.vasaband.se/index.php?id=6" target="_blank">CD –
-Priority</a>.
+Our performance was very well received, making a significant impact. More importantly, we felt that many people experienced the presence of God and his message through our music. This is always our greatest hope and longing, and it was particularly evident on Saturday.
 
-It was very well received and we really made a big impact. But what felt
-very good was many people felt the presence of God and his message to
-them as we played. This is always our greatest hope and longing. And
-this Saturday it was very obvious.
+It feels wonderful to continue this journey with my fellow band members.
 
-Feels really good to continue on that road with my fellow
-bandsmen/women.
-
-I’ll try to upload some photos from the evening later
+I'll try to upload some photos from the evening soon.

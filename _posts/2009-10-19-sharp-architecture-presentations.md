@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharp Architecture presentations
+title: Sharp Architecture Presentations
 date: 2009-10-19T15:42:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,19 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4140511384266112060
 blogger_orig_url: http://www.marcusoft.net/2009/10/sharp-architecture-presentations.html
 ---
 
+I came across a fantastic presentation on the [S#arp Architecture](http://www.sharparchitecture.net/) framework, delivered by [Billy McCafferty](http://devlicio.us/blogs/billy_mccafferty/), the creator of the framework.
 
-Found a great presentation on the excellent
-<a href="http://www.sharparchitecture.net/" target="_blank">S#arp
-Architecture</a> framework. The presentation is given by
-<a href="http://devlicio.us/blogs/billy_mccafferty/"
-target="_blank">Billy McCafferty</a> who is the father of the framework.
+The presentation is so compelling that it makes you want to dive right into coding with it. While it may feel a bit "rough" around the edges, I suspect we'll see significant improvements in the developer experience in the near future.
 
-It’s so good – you just want to start to code with it. It’s a bit
-“rough” but I suspect that we will see some major improvements in the
-“developer experience” in the near future.
-
-Also – tomorrow <a href="http://blog.avegagroup.se/HakanAlexander/"
-target="_blank">Håkan Alexander</a> will present the framework at
-<a href="http://blog.avegagroup.se/Elevate" target="_blank">Elevate</a>.
-It will be great to see how the framework will be received among the
-Avegean. I would cast my vote on big success…
+Additionally, tomorrow [Håkan Alexander](http://blog.avegagroup.se/HakanAlexander/) will be presenting the framework at [Elevate](http://blog.avegagroup.se/Elevate). It will be interesting to see how the Avegean community responds. I'm optimistic about a big success!

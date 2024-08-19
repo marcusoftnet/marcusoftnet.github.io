@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ÖreDev day 5 – keynote and morning'
+title: ÖreDev Day 5 – Keynote and Morning
 date: 2009-11-06T11:06:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -15,121 +15,45 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7581226974756991164
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morning.html
 ---
 
+### Information Overload and Managing Flow
 
-##### Information overload and managing flow
+The final day of ÖreDev started with a keynote by [Scott Hanselman](http://www.hanselman.com/blog/), one of my "heroes." His talks are always insightful and humorous. Here are some key takeaways from his session:
 
-The last day kicks off with a keynote given by
-<a href="http://www.hanselman.com/blog/" target="_blank">Scott
-Hanselmann</a>, who is one of my "heroes" if you like. I always wanted
-to see him live, he is usually informative and really funny. Here is
-some off his tips on the subject:
+- **Effectiveness**: Doing the right things.
+- **Efficiency**: Doing things right (like jumping off a cliff efficiently!).
+- **Triage**: Sort information and avoid leaving things in your inbox. Use the "Do it – Drop it – Delegate it – Defer it" approach to manage tasks.
+- **Signals vs. Noise**: Sort your data streams (Twitter, email, colleagues) into these categories.
+- **Email Management**: Emails where you’re CC'd are less important. Avoid checking emails first thing in the morning to prevent becoming the fastest responder to all problems. Instead, check emails three times a day for 20 minutes each.
+- **Work Hours**: Don’t try to outwork the system by putting in more hours. Instead, use techniques like the [Pomodoro Technique](http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) to schedule and manage your work.
+- **Tool Recommendations**:
+  - [RescueTime](http://www.rescuetime.com/): For introspective retrospectives.
+  - [43 Folders](http://www.43folders.com/): A powerful but messy tool.
+  - [PocketMod](http://pocketmod.com/): Sync to paper.
+  - [Evernote](http://www.evernote.com/): For note-taking and organization.
+  - [Remember The Milk](http://www.rememberthemilk.com/): An alternative to todo.txt.
+  - Use email rules for better organization (e.g., To:/CC: and calendar invites).
 
-Effectiveness – doing the right things
+Scott’s session was both entertaining and informative, offering practical advice on managing information and productivity.
 
-Efficiency – doing the things right (jumping off a cliff in a efficient
-way :))
+### The Pair Programming Show
 
-Triage – sort information. Don’t leave things in your inbox
+The next session, “The Pair Programming Show,” promised to be engaging with its unique format. Presented by [Niclas Nilsson](http://niclasnilsson.se/) and [Hans Brattberg](http://blog.crisp.se/hansbrattberg/), the talk featured props and practical demonstrations.
 
-Do it – drop it – delegate it – defer it = pick one.
+Key points included:
+- **Communication**: Essential for effective pair programming. Share time at the keyboard, talk, and collaborate rather than just showing.
+- **Engagement**: An engaged navigator is crucial for successful pair programming. Without it, you miss out on the benefits.
+- **Economic Feasibility**: Pair programming can be cost-effective. For instance, having two people working together often results in higher code quality and less technical debt.
 
-Sort your data streams (twitter, email, colleague) into Signals and
-Noise
+The session offered a comprehensive look at pair programming, highlighting both its advantages and challenges.
 
-Email that you’re cc:ed on are not as important To:
+### Breaking Out of Dependency Hell
 
-Mailing list
+The final session was given by a visibly tired [Ayende](http://www.ayende.com). He discussed strategies for managing solution complexity using:
+- **Dependency Injection (DI)**: Helps in managing dependencies and reduces the complexity of a static system.
+- **Inversion of Control (IoC) Containers**: Facilitates managing dependencies and enables flexibility.
+- **Convention over Configuration**: Simplifies configuration by adhering to conventions.
+- **Aspect-Oriented Programming**: Useful for handling cross-cutting concerns.
 
-Don’t check emails in the morning - “If you are the fastest responder to
-a problem, you will get all the problems.”
+Ayende’s talk provided valuable insights into reducing complexity and improving the maintainability of software systems.
 
-Check email three times a day – for 20 minutes each.
-
-You cannot beat the system by putting in more hours.
-
-Use the <a
-href="http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html"
-target="_blank">Pomodoro Technique</a> and schedule your work (emailing,
-phoning, blogging, coding etc.)
-
-Audit your input and streamline it.
-
-“You can’t cut if you don’t measure” – Scott Hanselmann
-
-Tools
-
-- <a href="www.rescuetime.com/" target="_blank">Rescue Time</a> –
-    introspective retrospectives
-- <a href="http://www.43folders.com/" target="_blank">43 folders</a>
-    looks quite messy but powerful
-- Sync to paper – check out <http://pocketmod.com/>
-- Write things down that you want to do during a week. And check that
-    the list is done or not at the end of the week
-- <a href="http://www.evernote.com/" target="_blank">Evernote</a>
-- <a href="http://www.rememberthemilk.com/" target="_blank">Remember the
-    milk</a> instead of todo.txt
-- Use email rules as above (to:/cc: and calendar invites)
-
-This was very funny and informative. The funniest is that he did
-basically the same as the Zen-guru Marc Lesser. But oh so different…
-
-##### The Pair Programming Show
-
-This promise to be great. The first slide says “How to teach pair
-programming?” It looks to be, just as the title, as a show. With props
-and the whole thing – nice. The presentation is done by
-<a href="http://niclasnilsson.se/" target="_blank">Niclas Nilsson</a>
-and <a href="http://blog.crisp.se/hansbrattberg/" target="_blank">Hans
-Brattberg</a>
-
-Also they promise to show some of the bad things that we can experience
-when teaching/learning pair programming.
-
-Pair programming is about; communication, learning and communication. So
-be patient, split time with keyboard equal, talk, not show. It’s hard!
-But the only way to get everybody up to speed.
-
-Without an engaged navigator you don’t collaborate and share mind. Then
-you get any of the advantages of pair programming. A complicated
-operation is always performed with two doctors. Would you rather have
-one?
-
-There are now giving some
-<a href="http://www.agitar.com/solutions/why_unit_testing.html"
-target="_blank">great points</a> on why pair programming is feasible and
-economical. For example
-<a href="http://www.agitar.com/images/defect_chart.gif"
-target="_blank">this chart</a>.
-
-It’s easier to stand up for code quality and not “hacking” when you are
-two people together… Also it’s harder to hide technical debt.
-
-They had an excellent summary slide of benefits with too much for me
-reloop here.
-
-##### Breaking out of dependency hell
-
-This talk is given by a tired
-<a href="http://www.ayende.com" target="_blank">Ayende</a>. He has
-promised to use his designated victim method… Better stay alert.
-
-He talked about the use
-<a href="http://en.wikipedia.org/wiki/Dependency_injection"
-target="_blank">Dependency Injection</a>,
-<a href="http://en.wikipedia.org/wiki/Inversion_of_control"
-target="_blank">Inversion of Control containers</a> and
-<a href="http://en.wikipedia.org/wiki/Convention_over_configuration"
-target="_blank">Convention over configuration</a> to manage solution
-complexity.
-
-Using a Inversion of Container will make us feel like you lose control
-of your dependencies. And that is the whole idea – if you micro-manage
-your dependencies will give you a static system that is hard to change
-(<a href="http://www.oodesign.com/open-close-principle.html"
-target="_blank">Open-Close-principle</a>, open for extension but closed
-for modification).
-
-Another benefit from using an IoC is that you get opportunity to use
-<a href="http://en.wikipedia.org/wiki/Aspect-oriented_programming"
-target="_blank">aspect-oriented programming</a>, to handle cross cutting
-concerns.
+That wraps up ÖreDev! It's been an incredibly enriching experience, full of learning and insights. A big thank you to everyone, especially the ÖreDev team!

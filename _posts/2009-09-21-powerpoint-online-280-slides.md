@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Powerpoint online – 280 slides
+title: PowerPoint Online – 280 Slides
 date: 2009-09-21T12:36:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -12,21 +12,14 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4218879227902128537
 blogger_orig_url: http://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html
 ---
 
+I recently discovered a great tool for creating, editing, and presenting slideshows online: [280slides.com](http://280slides.com). It's a free platform that offers a lot of functionality.
 
-I found a cool tool that allows you to create, edit and show slide show
-presentations online. The tool is called
-<a href="http://280slides.com" target="_blank">280slides.com</a> and is
-completely free.
+With 280 Slides, you can:
+- Create and edit presentations directly in your browser
+- Upload presentations in PowerPoint format
+- Save your presentations "in the cloud"
+- Download presentations in several formats, including PPT(X) and PDF
 
-It also allows you to upload presentations in Power Point format, to
-save presentations
-<a href="http://en.wikipedia.org/wiki/Cloud_computing"
-target="_blank">“in the cloud”</a> and also download the presentation in
-several well-know formats (ppt(x) and pdf for example).
+I find it to be a really useful tool!
 
-I like it!
-
-BTW, this is my 600th post… It’s been a joy and I have no intention to
-stop. But I never knew from
-<a href="http://www.marcusoft.net/2006/10/marcus-on-net.html"
-target="_blank">the start</a>
+By the way, this is my 600th post. It's been a fantastic journey, and I have no plans to stop anytime soon. I never imagined when I started [here](http://www.marcusoft.net/2006/10/marcus-on-net.html) that I'd reach this milestone.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pastie – your online clipboard
+title: Pastie – Your Online Clipboard
 date: 2009-09-08T13:46:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,10 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4848642135039676921
 blogger_orig_url: http://www.marcusoft.net/2009/09/pastie-your-online-clipboard.html
 ---
 
+If you're looking for a simple way to share code snippets without the hassle of email or chat messages, [Pastie](http://www.pastie.org/) is a great tool.
 
-<a href="http://www.pastie.org/" target="_blank">Here is a great
-tool</a> for sharing code without having to send mail or chat-messages –
-<a href="http://www.pastie.org/" target="_blank">pastie.org</a>
-
-Just go to the site, paste your code, optionally chose a language and
-you’ll get a URL to the code.
+Just visit the site, paste your code, optionally select a programming language, and you'll receive a URL to share your code snippet. It's a handy way to quickly get feedback or collaborate with others on coding problems.

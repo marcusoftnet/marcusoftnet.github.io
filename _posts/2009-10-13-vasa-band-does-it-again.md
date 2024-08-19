@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vasa Band does it again
+title: Vasa Band Does It Again
 date: 2009-10-12T20:05:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -11,26 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2358093050402262524
 blogger_orig_url: http://www.marcusoft.net/2009/10/vasa-band-does-it-again.html
 ---
 
+As I [wrote before](http://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-success.html), we are truly blessed right now in the [Vasa Band](http://www.vasaband.se). It feels like our music is deeply infused with the Lord’s presence, and everything seems to be aligning perfectly with our long-held aspirations.
 
-As I <a
-href="http://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-success.html"
-target="_blank">wrote before</a> we are very blessed right now in the
-<a href="http://www.vasaband.se" target="_blank">Vasa Band</a>. It seems
-like we really are used by the Lord and that the music we play is filled
-with his presence.
+We recently had another wonderful performance on Sunday night, conducted by [Andreas Kratz](http://www.windcorpbrassband.se/members/andreas_k.html). You can listen to a recording of the concert [here](http://dl.getdropbox.com/u/2408484/VasaBand091011.zip) (please note the file is 45 MB).
 
-And the best part of it that it feels just right and like what we always
-wanted and has done.
+I am incredibly proud and grateful to be part of this amazing band and to serve as a Salvation Army bandsman. I've played with many great bands, but the sense of fulfillment and joy I experience with this group is unparalleled.
 
-<a href="http://dl.getdropbox.com/u/2408484/VasaBand091011.zip"
-target="_blank">Here is a recording of a concert</a> (beware 45 mb!) we
-did Sunday night with
-<a href="http://www.windcorpbrassband.se/members/andreas_k.html"
-target="_blank">Andreas Kratz</a> conducting.
-
-As always; I am so proud and happy to be a part of this great band and
-to be a Salvation Army bandsman. I have played with some great bands –
-but this is the greatest feeling, if nothing else.
-
-Thank you guys – let’s continue on this path. And thank you Andreas
-Kratz for making us great!
+Thank you, everyone—let’s keep moving forward on this path. And a special thanks to Andreas Kratz for helping us shine!

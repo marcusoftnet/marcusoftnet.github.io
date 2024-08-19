@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reference work 3 – TDD by example
+title: Reference Work 3 – TDD by Example
 date: 2009-09-17T08:32:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -12,48 +12,16 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3084874139483823348
 blogger_orig_url: http://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html
 ---
 
+Recently, I've been diving into some foundational literature in the IT field. It's a great way to get acquainted with influential figures and ideas that frequently come up in current developer discussions.
 
-I have noticed that I’ve been
-<a href="http://www.marcusoft.net/2009/07/parental-leave-reading.html"
-target="_blank">reading some reference</a> literature in the
-IT-department lately. I don’t know why but it’s a great way to get to
-know some of the giants that frequently is mentioned in current hot
-developer topics.
+After tackling *[Patterns of Enterprise Application Architecture](http://books.google.se/books?id=FyWZt5DdvFkC&dq=Patterns+of+Enterprise+Architecture&printsec=frontcover&source=bl&ots=eEBsZAYx9w&sig=TNqgtVMmDoTg8GVttcoC3YlNR4E&hl=sv&ei=KvKxSqGpKpGk4Qb_4JjEDg&sa=X&oi=book_result&ct=result&resnum=3#v=onepage&q=&f=false)* and *[Clean Code](http://books.google.se/books?id=dwSfGQAACAAJ&dq=Clean+Code&ei=SfKxStnQM6XCywSpjpHrAg)*, I moved on to *[Test-Driven Development: By Example](http://books.google.se/books?id=gFgnde_vwMAC&pg=PR12&dq=TDD+by+example&ei=YfKxSuCrKKbAygS7s8CvAw#v=onepage&q=TDD%20by%20example&f=false)*.
 
-So after <a
-href="http://books.google.se/books?id=FyWZt5DdvFkC&amp;dq=Patterns+of+Enterprise+Architecture&amp;printsec=frontcover&amp;source=bl&amp;ots=eEBsZAYx9w&amp;sig=TNqgtVMmDoTg8GVttcoC3YlNR4E&amp;hl=sv&amp;ei=KvKxSqGpKpGk4Qb_4JjEDg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3#v=onepage&amp;q=&amp;f=false"
-target="_blank">Patterns of Enterprise Application Architecture</a> and
-<a
-href="http://books.google.se/books?id=dwSfGQAACAAJ&amp;dq=Clean+Code&amp;ei=SfKxStnQM6XCywSpjpHrAg"
-target="_blank">Clean Code</a> the time had come to <a
-href="http://books.google.se/books?id=gFgnde_vwMAC&amp;pg=PR12&amp;dq=TDD+by+example&amp;ei=YfKxSuCrKKbAygS7s8CvAw#v=onepage&amp;q=TDD%20by%20example&amp;f=false"
-target="_blank">Test-driven development: by example</a> (my good
-–<a href="http://books.google.se/books" target="_blank">Google Books</a>
-is almost scary).
+This book was by far the most enjoyable IT book I’ve read. I found myself laughing out loud and thoroughly engaged throughout. For instance, check out [this paragraph](http://books.google.se/books?id=gFgnde_vwMAC&pg=PR12&dq=TDD+by+example&ei=YfKxSuCrKKbAygS7s8CvAw#v=onepage&q=young%20programmer&f=false) about Kent Beck's early days.
 
-This is was by far the funniest IT-book I ever read. I burst out
-laughing from time to other and found myself giggling through the whole
-thing. For example read <a
-href="http://books.google.se/books?id=gFgnde_vwMAC&amp;pg=PR12&amp;dq=TDD+by+example&amp;ei=YfKxSuCrKKbAygS7s8CvAw#v=onepage&amp;q=young%20programmer&amp;f=false"
-target="_blank">this paragraph</a> about the time when
-<a href="http://en.wikipedia.org/wiki/Kent_Beck" target="_blank">Kent
-Beck</a> was young.
+The book uses two main examples to explore various TDD disciplines. Kent Beck discusses patterns in TDD, including design patterns, testing patterns, and refactoring patterns.
 
-The book itself is centered around two example that take you through a
-variety of disciplines in
-<a href="http://en.wikipedia.org/wiki/Test-driven_development"
-target="_blank">TDD</a>. And then mr Beck talks about patterns in TDD;
-design patterns, testing patterns and refactoring pattern.
+Overall, the book focuses more on the mindset necessary for effective TDD rather than just the procedural steps, though those are covered as well.
 
-Overall I felt that the book was more about the mindset that you should
-have towards and with TDD, than to “teach” the steps. Although the steps
-were thought along the way.
+I nearly finished the book in one sitting. Thank you, Mr. Beck, for such a wonderful read.
 
-I almost read the whole thing from start to finnish in on go. Thank you
-mr Beck for a great experience and a great book.
-
-Oh yeah – now I have <a
-href="http://books.google.se/books?id=7dlaMs0SECsC&amp;dq=domain+driven+design+evans&amp;printsec=frontcover&amp;source=bn&amp;hl=sv&amp;ei=TPSxSur8FtzKjAeql6XVCw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4#v=onepage&amp;q=&amp;f=false"
-target="_blank">Domain-driven design: tackling complexity in the heart
-of software</a> on the table next to my bed. I am longing to read that
-one to. Reference work 4…
+Now, I'm looking forward to diving into *[Domain-Driven Design: Tackling Complexity in the Heart of Software](http://books.google.se/books?id=7dlaMs0SECsC&dq=domain+driven+design+evans&printsec=frontcover&source=bn&hl=sv&ei=TPSxSur8FtzKjAeql6XVCw&sa=X&oi=book_result&ct=result&resnum=4#v=onepage&q=&f=false)*, which is next on my reading list. Reference Work 4 awaits...
