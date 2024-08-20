@@ -10,12 +10,4 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-844459153530787225
 blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-quick-reference.html
 ---
 
-
-Picked
-<a href="http://vs2010quickref.codeplex.com/" target="_blank">this</a>
-up from a tweet by
-<a href="http://buzzfrog.blogs.com/" target="_blank">BuzzFrog (Dag
-König)</a>. It’s a collection of
-<a href="http://vs2010quickref.codeplex.com/" target="_blank">quick
-references for new stuff in Visual Studio 2010</a>. Great for picking up
-what’s new and how to use it.
+Picked up [this](http://vs2010quickref.codeplex.com/) from a tweet by [BuzzFrog (Dag König)](http://buzzfrog.blogs.com/). It’s a collection of [quick references for new stuff in Visual Studio 2010](http://vs2010quickref.codeplex.com/). Great for picking up what’s new and how to use it.
