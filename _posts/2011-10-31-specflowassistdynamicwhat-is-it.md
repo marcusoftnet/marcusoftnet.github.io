@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SpecFlow.Assist.Dynamic: What Is It?
+title: SpecFlow.Assist.Dynamic - What Is It?
 date: 2011-10-31T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
