@@ -2,7 +2,7 @@
 layout: post
 title: "Book review - Lizard Optimization"
 author: "Marcus Hammarberg"
-date: 2024-09-13 08:00:00
+date: 2024-09-13 04:00:00
 tags:
   - Agile
   - Books
