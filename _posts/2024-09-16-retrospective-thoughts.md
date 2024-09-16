@@ -57,4 +57,3 @@ It is not as snappy but here's a suggestion for a similiar thought about retrosp
 * `Have retrospectives short and frequently` - then you can run them frequently, rather than seldom
 * `Have retrospectives short and frequently, to create small actionable improvments` - ensure that they create small improvements that we can do
 * `Have retrospectives short and frequently, to create small actionable improvments now` - do it now. Just start. It's a good train, get on it.
-
