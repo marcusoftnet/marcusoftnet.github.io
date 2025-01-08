@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retrospective thoughts "
+title: "Retrospective thoughts"
 author: "Marcus Hammarberg"
 date: 2024-09-16 04:00:00
 tags:
