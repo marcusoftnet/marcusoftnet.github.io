@@ -452,6 +452,8 @@ A few words on EJS:
 
 Reload `http://localhost:3001/` and now see the page work again.
 
+I might want to add that the value of Google Client Id can / needs to be exported in the HTML. It's safe to use like that. We keep it in the `.env` for ease-of-use, not for secrecy.
+
 ## Summary
 
 Ok - we have an 2000-ies web page up and running, using a multi-page approach and return dynamically created content.
