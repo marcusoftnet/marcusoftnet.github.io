@@ -442,6 +442,8 @@ And then replace that code in the `main.ejs` and make the `<nav>`-section look l
 </nav>
 ```
 
+That's pretty neat, right? Now we can keep our `main.ejs` clean and short while at the same time make each partial easy to understand and reusable.
+
 A few words on EJS:
 
 - `<%-` means that we output the result / variable unescaped, i.e. including the tags
