@@ -298,11 +298,15 @@ I've made similar `if`-statement around the (still hardcoded) Todo-list.
 
 ```html
 <% if (!user) { %>
-  <h2>Log in to see your To-do list</h2>
+  <div class="todo-container">
+    <h2>Log in to see your To-do list</h2>
+  </div>
 <% } else { %>
-  <h2>Todo items</h2>
-  <!-- The entire hard-coded todo list -->
-<% } %
+  <div class="todo-container">
+    <h2>Todo items</h2>
+    <!-- And so on -->
+  </div>
+<% } %>
 ```
 
 The readability is enhanced by using `includes` and I've done that in the finished code, but I'm leaving that out for brevity.
