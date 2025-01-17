@@ -465,3 +465,5 @@ Ok - we have an 2000-ies web page up and running, using a multi-page approach an
 In the next post I'll move this into the 2010-ies and log in using a third party provider, before creating the actual application in the last post (taking us into the 2020-ies using a non-SPA approach).
 
 [Here's the code at this point](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/4fe785a13f151ee08bbe5083f469d54e3862640f)
+
+In the [next post](https://www.marcusoft.net/2025/01/htmx-todo-tutorial-II.html) we'll check how to login with Google.

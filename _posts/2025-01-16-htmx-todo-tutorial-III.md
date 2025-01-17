@@ -510,4 +510,4 @@ That's it for this post. We have built a fully-fledge (albeit missing some error
 
 [The code will be update here](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/8c5fa67aeaa48c866cc2e2aace32d12e513f7b17).
 
-I have one more thing I wanted to build and that is the counters at the end. It will require some HTMx trickery and I'll explore some options on how to achieve that, and make some very lofty promises. But that is in the next post.
+I have one more thing I wanted to build and that is the counters at the end. It will require some HTMx trickery and I'll explore some options on how to achieve that, and make some very lofty promises. But that is in the [next post](https://www.marcusoft.net/2025/01/htmx-todo-tutorial-IV.html).

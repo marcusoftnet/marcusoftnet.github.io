@@ -415,3 +415,5 @@ In this post we have set up authentication against Google, created a session to 
 Not too shabby, BUT we haven't really done much with HTMx yet, let's go fully HTMx in the next post. Oh, and add data in the Firestore database, but that will be tiny.
 
 [The code at this point can be found here.](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/7a6004505905efbe85120f2c60f215fc2f2e57c2)
+
+Join me in [the next post](https://www.marcusoft.net/2025/01/htmx-todo-tutorial-III.html) where we will build the actual meat of the application.
