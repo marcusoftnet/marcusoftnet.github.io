@@ -2,7 +2,7 @@
 layout: post
 title: "HTMx - tutorial part IV - Updating other parts of the application"
 author: "Marcus Hammarberg"
-date: 2025-01-18 04:00:00
+date: 2025-01-16 04:00:00
 tags:
  - Programming
  - HTMx
