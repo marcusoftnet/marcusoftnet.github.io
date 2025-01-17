@@ -20,6 +20,8 @@ I'm going to try to avoid to make this and Old Man Rant (tm), but first let's go
 
 This first post will be a bit theoretical but then we will write a Todo application (had to be one of those, right?) that stores data in Firebase and allows you to log in with Google.
 
+[At the end of each post I'll give you a link to the code in this repository](https://github.com/marcusoftnet/htmx-todo-tutorial)
+
 <!-- excerpt-end -->
 
 ## Multi-page applications
@@ -462,4 +464,4 @@ Ok - we have an 2000-ies web page up and running, using a multi-page approach an
 
 In the next post I'll move this into the 2010-ies and log in using a third party provider, before creating the actual application in the last post (taking us into the 2020-ies using a non-SPA approach).
 
-I'll update these post with a link to the source code, once I've written it.
+[Here's the code at this point](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/4fe785a13f151ee08bbe5083f469d54e3862640f)

@@ -2,7 +2,7 @@
 layout: post
 title: "HTMx - tutorial part III - Building the application"
 author: "Marcus Hammarberg"
-date: 2025-01-17 04:00:00
+date: 2025-01-16 04:00:00
 tags:
  - Programming
  - HTMx
@@ -508,6 +508,6 @@ And the `edit.ejs` file looks different enough from the `new.ejs` to warren a se
 
 That's it for this post. We have built a fully-fledge (albeit missing some error handling and validation, I'm happy to admit) todo application, storing the information in a collection per logged in user.
 
-The code will be update there.
+[The code will be update here](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/8c5fa67aeaa48c866cc2e2aace32d12e513f7b17).
 
 I have one more thing I wanted to build and that is the counters at the end. It will require some HTMx trickery and I'll explore some options on how to achieve that, and make some very lofty promises. But that is in the next post.
