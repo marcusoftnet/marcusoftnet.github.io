@@ -115,7 +115,7 @@ Let's create a `HTTP POST` route handler like this, just to see that we got some
 // Auth Routes
 app.post("/auth/login", async (req, res) => {
   const { credential } = req.body;
-  console.log({req.body});
+  console.log(req.body);
 });
 ```
 
@@ -204,10 +204,10 @@ Now we configure our Express application to use the session:
 //  at the top - import the functions
 import { sessionConfig, sessionTimeoutMiddleware } from "./middleware/session.js";
 
-// At the end of the middleware section - configure the sesions
+// At the end of the middleware section - configure the sessions
 // Configure sessions
-app.use(appSession.config);
-app.use(appSession.sessionTimeout);
+app.use(sessionConfig);
+app.use(sessionTimeoutMiddleware);
 ```
 
 We have configured our session handling.
@@ -347,6 +347,12 @@ app.get("/auth/logout", (req, res) => {
 ```
 
 We simply destroy the session and return a re-rendered home page.
+
+## WHY DO I HAVE TO LOGIN IN AND OUT ALL THE TIME!?
+
+When we restart the server in development mode, `npm run dev` we are also, through our session configuration killing the session. Hence we have to log in every time that happens.
+
+You can get around this by storing the session in a persistent store, but I have just left that here.
 
 ## First HTMx attributes
 

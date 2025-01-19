@@ -142,10 +142,9 @@ Let's take the `router.delete("/:id")` as an example. Add the `HX-Trigger` heade
 ```javascript
 router.delete("/:id", async (req, res) => {
   await deleteTodo(req.params.id);
-  res
-    .status(204) // no content
-    .header("HX-Trigger", '{"ITEM_UPDATED": `The ${id} item was DELETED`}')
-    .send();
+
+  res.setHeader("HX-Trigger", '{"ITEM_UPDATED": `The ${id} item was DELETED`}');
+  res.send();
 });
 ```
 
@@ -194,6 +193,11 @@ There's only one problem, it's not showing up. That's because our `counter.ejs` 
 And then, only for the `/` route I can pass `addSwapOOB:true`:
 
 ```javascript
+router.get("/", async (req, res) => {
+  const todos = await getAllTodos();
+  const counters = getCounters(todos);
+  res.render("todo/list.ejs", { todos, counters, addSwapOOB: true });
+});
 ```
 
 I'm not too happy but it will help to show the different approaches.
@@ -216,7 +220,7 @@ router.put("/:id/toggle", async (req, res) => {
 });
 ```
 
-And now the counters are updated through the events that gets triggered
+And now the counters are updated through the events that gets triggered. See the [end result here](https://github.com/marcusoftnet/htmx-todo-tutorial/blob/main/routes/todo.js).
 
 ## Summary
 
@@ -238,4 +242,4 @@ I learned a lot by writing this series and I hope you found it useful too.
 
 I think HTMx is a breath of fresh air for web developers that, like me, have got lost in SPA frameworks and JSON-to-HTML parsing. It brings the pure ideas of the web back to the forefront while still allows me to write websites that only rerenders the part of the application that has changed.
 
-[The code is found here in the state that I left it in at the end of this post.](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/406bda133d83410d85c52286f66a4f0124b19e6e)
+[The code is found here in the state that I left it in at the end of this post.](https://github.com/marcusoftnet/htmx-todo-tutorial/tree/406bda133d83410d85c52286f66a4f0124b19e6e). I then did some additional refactorings and the [`main` branch contains these improvements.](https://github.com/marcusoftnet/htmx-todo-tutorial)

@@ -38,12 +38,14 @@ service cloud.firestore {
 
 ### Configuration application
 
-We will use the firebase SDK to access Firestore, so install it with `npm i firestore`.
+We will use the firebase SDK to access Firestore, so install it with `npm i firebase`.
 
 Then create a firebase app, by configuring it like this (I've put this in `lib/firebase/config.js`):
 
 ```javascript
 import { initializeApp } from "firebase/app";
+import { getFirestore } from 'firebase/firestore';
+import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_APIKEY,
@@ -54,7 +56,10 @@ const firebaseConfig = {
   appId: process.env.FIREBASE_APPID,
 };
 
-export default const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig);
+
+export const db = getFirestore(app);
+export const auth = getAuth(app);
 ```
 
 Yes. Let's play it safe and put all those keys in the `.env` file.
@@ -215,7 +220,7 @@ First let's create the todo-routes in a separate file (`routes/todo.js`), and cr
 import express from "express";
 const router = express.Router();
 
-router.get("/new", (req, res) => res.render("/todo/new.ejs"));
+router.get("/new", (req, res) => res.render("todo/new.ejs"));
 
 export default router;
 ```
@@ -239,7 +244,7 @@ Then create the form in `views/todo/new.ejs`:
 
 We'll soon add in the HTMx attributes.
 
-Let's clean up the `main.ejs` and make the main section look like this:
+Let's clean up the `main.ejs`, make it a `<main>`-section, take out the hard-coded data and make the main section look like this:
 
 ```html
 <main class="todo-container">
@@ -251,6 +256,8 @@ Let's clean up the `main.ejs` and make the main section look like this:
 <% } %>
 </main>
 ```
+
+Yes - that's all we need. Later our todo-data will be injected into the `todo-list` using HTMX.
 
 Notice the `hx-trigger="load"` that will issue a `HTTP GET` towards `/todo/new` when the div is loaded. That will then lazily load the list.
 
@@ -278,7 +285,7 @@ Let's set up the form and button to issue the requests in the proper way :
 ```
 
 * With the help `hx-post`, `hx-target` and `hx-swap` we have told HTMx to post the form (it will automatically pick up all inputs in the form), and add the result to `#todo-list`
-* HTMx has a [rich event system](https://htmx.org/attributes/hx-on/) that we can hook into. Here we are getting called after the request and reset the form.
+* HTMx has a [rich event system](https://htmx.org/attributes/hx-on/) that we can hook into, using various `hx-on`-attributes.  Here we using `hx-on::after-request` to get called after the request and reset the form. Yes, using some JavaScript, although we are using HTMx (the framework that promise that you shouldn't write any JavaScript ... sue me).
 
 Let's now build the backend that stores the todo in firestore and return a snippet of html to insert in `#todo-list`
 
@@ -307,7 +314,7 @@ And the `todo/todo-list-item.ejs` can look like this:
 </div>
 ```
 
-(I made some styling changes here)
+(I made some styling changes here, that you can steal from the [finished style-sheet](https://github.com/marcusoftnet/htmx-todo-tutorial/blob/main/public/style.css))
 
 Perfect we can now create new todo items. AND they get prepended to the list. However, if you reload the page the list is gone.
 
@@ -315,7 +322,7 @@ Perfect we can now create new todo items. AND they get prepended to the list. Ho
 
 That's because we are using HTMx capabilities to dynamically update the list, on the client. However, we have never loaded the list of items from the start (or when the page is reloaded).
 
-But we have everything we know to do that. Let's lazily load the list. Here's the backend in `routes/todo.js`:
+But we have everything we need to do that, in place (just about). Let's lazily load the list. Here's the backend in `routes/todo.js`:
 
 ```javascript
 import { addTodo, getAllTodos } from "../lib/firebase/todoService.js";
@@ -371,7 +378,7 @@ Restart the application and log in and you can now see the different routes bein
 
 ### Toggle completion
 
-Toggle completion will be implemented with a `HTTP PUT` and then I'll just replace the entire `#todo-item`.
+Toggle completion will be implemented with a `HTTP PUT` and then I'll just replace the entire `#todo-item`. Update the `todo-list-item.ejs` to look like this:
 
 ```html
 <div class="todo-item">
@@ -399,6 +406,8 @@ router.put("/:id/toggle", async (req, res) => {
 });
 ```
 
+(Don't forget to import `toggleTodoCompleted` and `getTodo` from the `todoService.js`)
+
 The `:id` construct is a way for Express to parse the querystring into `req.params.id`.
 
 ### Delete Todo items
@@ -414,7 +423,7 @@ router.delete("/:id", async (req, res) => {
 });
 ```
 
-The correct way, according to REST principles, to respond to `HTTP DEL` is through `No Content` (status code 200 or 204). I've always wonder about that, but now it makes sense. Let's replace this element itself with the empty response, in effect deleting the the element.
+The correct way, according to REST principles, to respond to `HTTP DEL` is through `No Content` (status code 200 or 204, but I ran into problems returning 204). I've always wonder about that, but now it makes sense. Let's replace this element itself with the empty response, in effect deleting the the element.
 
 In the template I also show off the `hx-confirm` that will pop-up a confirmation box.
 
@@ -467,6 +476,8 @@ Here's the cleaned up code:
 
 Nice! We're getting close to done. Let's make a Edit-feature too.
 
+(Again - I added some styling here to better see that the icons are clickable - get your [styles here](https://github.com/marcusoftnet/htmx-todo-tutorial/blob/main/public/style.css))
+
 ### Edit todo item
 
 This is a bit trickier - we need a form to edit the item, and then a way to update the item using a `HTTP PUT`.
@@ -487,9 +498,31 @@ router.put("/:id", async (req, res) => {
 });
 ```
 
-Displaying the edit form is a little bit interesting. We're going to change
+First we update the `todo-list-item.ejs` to include a way to call the `/todo/<id>/edit` route and display the `edit.ejs´ form:
 
-And the `edit.ejs` file looks different enough from the `new.ejs` to warren a separate file, but it's quite similar:
+```html
+<div class="todo-item" hx-target="closest .todo-item" hx-swap="outerHTML">
+  <span class="todo-title"><%= todo.title %></span>
+  <span class="todo-field"><%= todo.duedate %></span>
+  <span class="todo-field todo-action" hx-put="/todo/<%= todo.id %>/toggle"
+    ><%= todo.completed ? "✅" : "⏳" %></span
+  >
+  <span
+    class="todo-field todo-action"
+    hx-get="/todo/<%= todo.id %>/edit"
+    hx-swap="innerHTML"
+    >...</span
+  >
+  <span
+    class="todo-field todo-action"
+    hx-confirm="Delete?! Sure about that?"
+    hx-delete="/todo/<%= todo.id %>"
+    >❌</span
+  >
+</div>
+```
+
+The `edit.ejs` file looks different enough from the `new.ejs` to call for a separate file, but it's quite similar:
 
 ```html
 <form id="new-todo-form">
@@ -503,6 +536,10 @@ And the `edit.ejs` file looks different enough from the `new.ejs` to warren a se
   >Update</button>
 </form>
 ```
+
+Here we are making `HTTP PUT` request using `hx-put="/todo/<%= todo.id %>"` and update the information about the item. I did not include the Completion here, as there's a separate function for that.
+
+I had a problem here when I used the `id` attribute of the HTML elements. When sending a HTML form back (using in our case `hx-put`) we need to use the `name`-attributes on `<input>` elements. `id` are for using the JavaScript DOM.
 
 ## Summary
 
