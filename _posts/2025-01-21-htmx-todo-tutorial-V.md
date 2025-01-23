@@ -2,7 +2,7 @@
 layout: post
 title: "HTMx - tutorial part V - Validation"
 author: "Marcus Hammarberg"
-date: 2025-01-16 04:00:00
+date: 2025-01-22 04:00:00
 tags:
   - Programming
   - HTMx
