@@ -111,11 +111,12 @@ We could, for example, create a `todo/partials/duedate.ejs` file and let it acce
   hx-target="this"
   hx-swap="outerHTML">
 
-  <% if(errormessage) { %>
+  <% if(errormessage) %>
     <span class="error-message" id="duedate-error">
       <%= errormessage -%>
     </span>
-  <% } %>
+  <% %>
+  <!-- There should be a { } in the EJS tags but Jekyll doesn't like it... Sorry -->
 
   <input
     class="<%= errormessage ? "error" : "valid"  %>"
