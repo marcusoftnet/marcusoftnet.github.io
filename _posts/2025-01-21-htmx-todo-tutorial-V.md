@@ -111,12 +111,11 @@ We could, for example, create a `todo/partials/duedate.ejs` file and let it acce
   hx-target="this"
   hx-swap="outerHTML">
 
-  <% if(errormessage) %>
+  <% if(errormessage) { %>
     <span class="error-message" id="duedate-error">
       <%= errormessage -%>
     </span>
-  <% %>
-  <!-- There should be a { } in the EJS tags but Jekyll doesn't like it... Sorry -->
+  <% } %>
 
   <input
     class="<%= errormessage ? "error" : "valid"  %>"
@@ -295,7 +294,7 @@ Here are my updated files:
   hx-target="this"
   hx-swap="outerHTML">
 
-  <% if(errormessage) {%>
+  <% if(errormessage) { %>
     <span class="error-message" id="title-error">
       <%= errormessage -%>
     </span>
@@ -359,7 +358,7 @@ In the end, removing the `id` property works fine. It means `title.ejs` looks li
   hx-target="this"
   hx-swap="outerHTML">
 
-  <% if(errormessage) {%>
+  <% if(errormessage) { %>
     <span class="error-message" id="title-error">
       <%= errormessage -%>
     </span>
