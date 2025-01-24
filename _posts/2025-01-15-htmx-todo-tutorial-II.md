@@ -18,7 +18,7 @@ In this part we will allow our users to sign in with Google.
 
 SPA frameworks have been around for quite some time now, and the tooling has really become quite impressive. For that reason I was a bit dismayed when I realized that a Google-Sign-in, was not as easy as just adding a component with one line. I really had to understand this on a little bit lower level than before.
 
-I've found that this is the story for many things HTMx. HTMx is a tool that allows you to understand how the HTTP requests works and the workflow is. This has often been abstracted away with components and default configurations in React, Angular and Next.js.
+I've found that this is the story for many things HTMx. HTMx is a library that allows you to understand how the HTTP requests works and the workflow is. This has often been abstracted away with components and default configurations in React, Angular and Next.js.
 
 Let see this in practice.
 

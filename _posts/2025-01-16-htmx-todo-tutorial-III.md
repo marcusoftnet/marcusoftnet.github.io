@@ -285,7 +285,7 @@ Let's set up the form and button to issue the requests in the proper way :
 ```
 
 * With the help `hx-post`, `hx-target` and `hx-swap` we have told HTMx to post the form (it will automatically pick up all inputs in the form), and add the result to `#todo-list`
-* HTMx has a [rich event system](https://htmx.org/attributes/hx-on/) that we can hook into, using various `hx-on`-attributes.  Here we using `hx-on::after-request` to get called after the request and reset the form. Yes, using some JavaScript, although we are using HTMx (the framework that promise that you shouldn't write any JavaScript ... sue me).
+* HTMx has a [rich event system](https://htmx.org/attributes/hx-on/) that we can hook into, using various `hx-on`-attributes.  Here we using `hx-on::after-request` to get called after the request and reset the form. Yes, using some JavaScript, although we are using HTMx (the library that promise that you shouldn't write any JavaScript ... sue me - [or watch this from the creator](https://gitnation.com/contents/make-js-enjoyable-again-with-htmx-2084)).
 
 Let's now build the backend that stores the todo in firestore and return a snippet of html to insert in `#todo-list`
 
