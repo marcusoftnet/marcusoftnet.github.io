@@ -8,17 +8,23 @@ header-img: img/about-bg.jpg
 
 ## Normal short intro
 
-Agile coach, Christian, .NET/NodeJs/Scala Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook) and [Salvation: The Bungsu Story](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135). Created a [bootcamp for developers](https://salt.dev/) and now works as a data engineering. 
+Agile coach, Christian, .NET/NodeJs/Scala Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook) and [Salvation: The Bungsu Story](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135). Created a [bootcamp for developers](https://salt.dev/) and now works as a data engineering.
+
+## My CV
+
+You can read my [Linked In CV here](https://www.linkedin.com/in/marcusoftnet/), which is always kept up to date.
+
+Or download a more [traditional proper CV from this link](CV-Marcus Hammarberg.pdf), that might need some updating from time to time
 
 ## Longer introduction
 
-During the years I have been moving around quite a bit. I started my career as a developer but soon got to be leader for the teams I was in. This got me to look into finding ways to become more effective as a team.
+During the years I have been moving around quite a bit in different roles in the industry. I started my career as a developer but soon got to be leader for the teams I was in. This got me to look into finding ways to become more effective as a team.
 
 I’m very quick to get excited over new things and this reflects in my posts that ranges over a lot of different subjects, tools and technologies.
 
 The underlying theme of it all is [agile](http://www.agilemanifesto.org) lean and it’s practical usage in the situations I find myself in.
 
-## Why this blog?
+### Why this blog?
 
 This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everthing I learned in my head and started to write it down instead.
 
@@ -29,15 +35,15 @@ William Glassner
 
 So ... it might be for my selfish learning purposes I write this. Anyway I'm very happpy to share this with you... to learn more ... to share more ... to learn more ... to
 
-### My family
+#### My family
 
 I have one wife, Elin, and three boys; Albert (born 2008) and Arvid and Gustav (2010). We have lived in Indonesia for a few years, but home is Stockholm, Sweden.
 
-### Salvation Army and Indonesia
+#### Salvation Army and Indonesia
 
 Yes, I lived in Indonesia for two years (2014-2015) working for the Salvation Army there. Me and Elin are worked with the 6 hospitals (and 17 clinics) that the Salvation Army have, trying to help them to become more effective in their medical and spiritual ministry. I wrote a [book about that experience](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135)
 
-### Aptitud
+#### Aptitud
 
 Back home in Sweden I work for [Aptitud](http://www.aptitud.se) - the best consultancy in Sweden! I am an agile coach working right between the business and IT if I get to choose. My motto is: Getting agile to work, which makes me focus on pragmatic solutions rather than theory.
 
@@ -45,19 +51,19 @@ Although I’ve become a process guy I’m still interested in code and the craf
 
 Read more about my professional life on [LinkedIn](se.linkedin.com/in/marcushammarberg/)
 
-## Stuff I've done
+### Stuff I've done
 
-### Kanban In Action
+#### Kanban In Action
 
 By far the biggest thing I ever did was to write [Kanban In Action](http://bit.ly/theKanbanBook). I did that together with my good friend [Joakim](http://www.joakimsunden.com)
 
 Writing the book took about 2,5 years. Sometimes with a lot of frustration and work above our capacity. The pride and relief we felt when it was released was worth almost all of that work.
 
-The 
+The
 
 If you haven’t got the book yet - get your’s today! We have done our very best to be both entertaining and informative.
 
-### Salvation: The Bungsu Story
+#### Salvation: The Bungsu Story
 
 The thing that I'm most proud of recently for work is my book about our adventures in Indonesia. It's a roller coaster of a novel about the work and tribulations of the Rumah Sakit Bungsu and how we used the principles of kanban, lean and agile to help them out of a looming disaster. Twice!
 
@@ -71,7 +77,17 @@ Or watch one of the many recorded talks of the story here:
 * [Agile Greece Summit 2018 - How Kanban saved a Salvation Army hospital in Indonesia](https://www.youtube.com/watch?v=8JcZlN2Fjmw)
 * [How lean and kanban saved a hospital in Indonesia. Twice! Øredev 2016](https://vimeo.com/191275724)
 
-### Speaking
+#### Curriculum of School of Applied Technology
+
+One of the most rewarding jobs I have had, here in Sweden, was when I worked as head of curriculum at [SALT](https://salt.dev), where we trained hundreds of wonderful people that now have software developer jobs in the industry. It's very rewarding to see how they are making a name for themselves.
+
+I created the curriculum (together with Jakob Leczinsky) the first curriculum for SALT which took a totally new approach to teaching, through [mob programming](https://www.marcusoft.net/tags/#MobProgramming) and getting hands-on programming experience from day one and throughout the program.
+
+The first bootcamp was about Full Stack JavaScript development and I then created two additional curriculums (.NET and Java) and a bunch of smaller courses in topics in and around being an effective software developer.
+
+I led a team of instructors that successfully trained more than 700 developers during my time there.
+
+#### Speaking
 
 I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se), [Agile Singapore](http://2014.agilesingapore.org) and [Yow West](http://www.marcusoft.net/2015/05/yow-west----some-thoughts.html)
 
@@ -88,7 +104,7 @@ I also did a [long series of short presentations](http://www.marcusoft.net/2015/
 
 Most slides for my talks can be found on my [Slide Share page](www.slideshare.net/marcusoftnet/)
 
-### Open source and programming
+#### Open source and programming
 
 I have been into Open source on the .NET platform for quite some time. The main projects I've been into are:
 
@@ -101,7 +117,7 @@ I’m most proud of my own little helper utility [SpecFlow.Assist.Dynamics](http
 
 All of my code is found on [GitHub under marcusoftnet](https://github.com/marcusoftnet)
 
-### Screen casts
+#### Screen casts
 
 In 2014 I got interested in Javascript and Node development. This led me to do a couple of courses for [PluralSight](http://www.pluralsight.com/author/marcus-hammarberg) on Node development, of all things:
 
