@@ -626,6 +626,6 @@ There are a few things that could clean this up significantly, like moving model
 
 Also, I didn't do an inline edit form - can you? You'll need a GET route for to get the form, and a PATCH route to update the todo information.
 
-You'll find the code here.
+[You'll find the code here.](https://github.com/marcusoftnet/HtmxWithRazorSlices)
 
 Now, I'm going to update a pull request with a sample to the Razor Slices repo.
