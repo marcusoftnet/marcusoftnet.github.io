@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started with HTMX and .NET"
+title: "HTMX on .NET Minimal API with Razor Slices"
 author: Marcus Hammarberg
 date: 2025-02-21 12:00:00
 tags:
