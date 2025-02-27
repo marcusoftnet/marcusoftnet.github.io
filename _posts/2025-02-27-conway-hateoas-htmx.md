@@ -18,7 +18,7 @@ To demo this I was thinking that Conway Game of Life could be a fun example. It'
 
 <!-- excerpt-end -->
 
-You can find all of the code here: [https://github.com/marcusoftnet/htxm-game-of-life](https://github.com/marcusoftnet/htxm-game-of-life), but we are going to build it up step by step in the article.
+You can find [all of the code here](https://github.com/marcusoftnet/htmx-game-of-life), but we are going to build it up step by step in the article.
 
 ## Disclaimer
 
@@ -50,7 +50,7 @@ const computeNextState = (state, neighbors) => {
 module.exports = { computeNextState };
 ```
 
-And [here are some tests that shows how this function works](https://github.com/marcusoftnet/htxm-game-of-life/blob/main/tests/computeNextState.test.js). I will not use the tests in the walkthrough, but they are part of the repo.
+And [here are some tests that shows how this function works](https://github.com/marcusoftnet/htmx-game-of-life/blob/main/tests/computeNextState.test.js). I will not use the tests in the walkthrough, but they are part of the repo.
 
 Game of Life is often used as a kata (coding exercise) as it has simple rules, but can be a bit tricky to implement.
 
@@ -94,7 +94,7 @@ npm i express express-handlebars
 code .
 ```
 
-I'm not going to talk about styling - get the [CSS here](https://github.com/marcusoftnet/htxm-game-of-life/blob/main/public/styles.css)
+I'm not going to talk about styling - get the [CSS here](https://github.com/marcusoftnet/htmx-game-of-life/blob/main/public/styles.css)
 
 The initial `server.js` looks like this, and generates the initial board:
 
@@ -122,7 +122,7 @@ app.listen(PORT, () =>
 );
 ```
 
-There are, for reasons that will soon become clear, quite a lot of Handlebars configuration. I've broken it out to a `config/handlebars.js` file. You can get it here: [https://github.com/marcusoftnet/htxm-game-of-life/blob/main/config/handlebars.js](https://github.com/marcusoftnet/htxm-game-of-life/blob/main/config/handlebars.js). It is basically telling handlebars that the views are in the `views` folder, with the `.hbs` extension and then create a few helper functions that will be used in the views.
+There are, for reasons that will soon become clear, quite a lot of Handlebars configuration. I've broken it out to a `config/handlebars.js` file. You can get it here: [https://github.com/marcusoftnet/htmx-game-of-life/blob/main/config/handlebars.js](https://github.com/marcusoftnet/htmx-game-of-life/blob/main/config/handlebars.js). It is basically telling handlebars that the views are in the `views` folder, with the `.hbs` extension and then create a few helper functions that will be used in the views.
 
 Let's now fill out the views. First the `views/board.hbs`, which also is the main page:
 
@@ -391,7 +391,7 @@ Reloading the page will stop the simulation run.
 
 ## Extras - Change speed of the simulation
 
-In the end product result in my [repository](https://github.com/marcusoftnet/htxm-game-of-life), I had a little bit of fun and created a slider to change the speed of the simulation. You can see this code in the `views/partials/controls.hbs` partial.
+In the end product result in my [repository](https://github.com/marcusoftnet/htmx-game-of-life), I had a little bit of fun and created a slider to change the speed of the simulation. You can see this code in the `views/partials/controls.hbs` partial.
 
 ## Conclusion
 
@@ -403,4 +403,4 @@ The actual business logic for the Cell update was pretty simple and setting up t
 
 I learned a lot about HTMX and in particular the `hx-trigger` and `hx-vals` attributes and how to use them in cooperation to get the appropriate data passed to the endpoint.
 
-I hope you found this interesting. Again the code is in my [repository here](https://github.com/marcusoftnet/htxm-game-of-life).
+I hope you found this interesting. Again the code is in my [repository here](https://github.com/marcusoftnet/htmx-game-of-life).
