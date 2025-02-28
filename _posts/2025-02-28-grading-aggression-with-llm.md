@@ -25,14 +25,14 @@ Luckily I found an [article that had the transcript from AP](https://apnews.com/
 I removed the names and called:
 
 - Vice President Vance - Person 1
-- President Zelinsky - Person 2
+- President Zelensky - Person 2
 - Trump - Person 3
 
 I turned this:
 
 ```text
 Vance: “Sure. Yeah.”
-Zelenskyy: “OK. So he (Putin) occupied it, our parts, big parts of Ukraine, parts of east and Crimea. So he occupied it in 2014. So during a lot of years — I’m not speaking about just Biden, but those times was (Barack) Obama, then President Obama, then President Trump, then President Biden, now President Trump. And God bless, now, President Trump will stop him. But during 2014, nobody stopped him. He just occupied and took. He killed people. You know what the --"
+Zelensky: “OK. So he (Putin) occupied it, our parts, big parts of Ukraine, parts of east and Crimea. So he occupied it in 2014. So during a lot of years — I’m not speaking about just Biden, but those times was (Barack) Obama, then President Obama, then President Trump, then President Biden, now President Trump. And God bless, now, President Trump will stop him. But during 2014, nobody stopped him. He just occupied and took. He killed people. You know what the --"
 Trump: “2015?”
 ```
 
@@ -108,7 +108,6 @@ The transcript reveals a tense and unproductive exchange. Person 3's aggressive 
 If you would like a more in-depth analysis of specific sections or aspects of the conversation, feel free to ask!
 ```
 
-
 ### Chat GPT
 
 Chat GPT responded like this:
@@ -177,8 +176,8 @@ The summary tables looked like this
 | PERSON 2    | 4/10           | 2/10      | 3/10                         |
 | PERSON 3    | 8/10           | 5/10      | 2/10                         |
 
-These scores reflect an evaluation based on the tone and approach each person displayed in the transcript citeturn0file0.
+These scores reflect an evaluation based on the tone and approach each person displayed in the transcript.
 
 ## Conclusion - Marcus own thoughts
 
-Trump and Vance was much more aggressive, more ironic and less willing to cooperate. Even the AI could hear that.
+Trump and Vance was much more aggressive, more ironic and less willing to cooperate. Even the AI could hear that. President Zelensky was much less aggressive, less ironic and wanted to cooperate.
