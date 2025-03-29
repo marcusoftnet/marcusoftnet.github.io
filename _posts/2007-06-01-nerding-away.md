@@ -5,7 +5,8 @@ date: 2007-06-01T06:39:00.000Z
 author: Marcus Hammarberg
 tags:
   - .NET
-  - Life of a consultant - Fun
+  - Life of a consultant
+  - Fun
 modified_time: 2007-06-01T06:43:54.742Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310265368623382915
 blogger_orig_url: http://www.marcusoft.net/2007/06/nerding-away.html

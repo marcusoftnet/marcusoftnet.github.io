@@ -5,7 +5,8 @@ date: 2012-11-14T10:38:00.001Z
 author: Marcus Hammarberg
 tags:
   - .NET
-  - Life of a consultant - Specification by example
+  - Life of a consultant
+  - Specification by example
   - Agile
   - TDD
 modified_time: 2012-11-14T21:49:28.747Z
