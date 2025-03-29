@@ -13,10 +13,10 @@ title: Tags
   {% endfor %}
 
   {% assign tag_array = tag_list | split: ";" %}
-  {% assign sorted_tags = tag_array | sort %}
+  {% assign sorted_tags = tag_array | sort %} <!-- Alphabetical order -->
 
   <div class="tags-list">
-    {% for item in sorted_tags reversed %}
+    {% for item in sorted_tags %}
       {% assign tag_info = item | split: ":" %}
       {% assign tag_name = tag_info[0] %}
       {% assign tag_size = tag_info[1] %}
@@ -27,24 +27,24 @@ title: Tags
     {% endfor %}
   </div>
 
-  {% for item in sorted_tags reversed %}
+  {% for item in sorted_tags %}
     {% assign tag_info = item | split: ":" %}
     {% assign tag_name = tag_info[0] %}
     {% assign tag_size = tag_info[1] %}
-    {% assign tag_posts = site.tags[tag_name] | sort %}
+    {% assign tag_posts = site.tags[tag_name] | sort: "date" %} <!-- Ensures posts are sorted by date -->
 
     <div class="archive-group">
       <h3 id="{{ tag_name | slugify }}" class="category-head">
         {{ tag_name }} <span class="tag-count">({{ tag_size }})</span>
       </h3>
-      <div class="archive-items">
-        {% for post in tag_posts %}
-          <div class="post-item">
+      <ul class="post-list">
+        {% for post in tag_posts reversed %}
+          <li>
             <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
             <a href="{{ site.baseurl }}{{ post.url }}" class="post-link">{{ post.title }}</a>
-          </div>
+          </li>
         {% endfor %}
-      </div>
+      </ul>
     </div>
   {% endfor %}
 </div>
@@ -94,24 +94,25 @@ title: Tags
   .category-head {
     font-size: 18px;
     color: #333;
+    margin-bottom: 10px;
   }
 
-  .archive-items {
-    display: grid;
-    grid-template-columns: 120px auto;
-    gap: 10px;
-    align-items: center;
+  .post-list {
+    list-style: none;
+    padding: 0;
   }
 
-  .post-item {
+  .post-list li {
+    padding: 8px 0;
     display: flex;
-    align-items: center;
     gap: 10px;
+    align-items: center;
   }
 
   .post-date {
     color: #888;
     font-size: 14px;
+    min-width: 100px;
   }
 
   .post-link {
