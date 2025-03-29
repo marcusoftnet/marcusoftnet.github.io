@@ -5,7 +5,8 @@ date: 2009-09-09T07:25:00.001Z
 author: Marcus Hammarberg
 tags:
   - DDD
-  - .NET - NHibernate
+  - .NET
+  - NHibernate
 modified_time: 2010-12-14T15:19:35.817Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5160606586149394728
 blogger_orig_url: http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html
@@ -19,9 +20,9 @@ I particularly enjoy the "fun" part of this quote! My aim is to configure conven
 
 The [Fluent NHibernate](http://fluentnhibernate.org/) framework has been updated since Ayende’s post. I explored the documentation, including [AutoMapping](http://wiki.fluentnhibernate.org/Auto_mapping), [Conventions](http://wiki.fluentnhibernate.org/Conventions), [Available Conventions](http://wiki.fluentnhibernate.org/Available_conventions), and discovered [some shortcuts](http://wiki.fluentnhibernate.org/Convention_shortcut). Additionally, [this article](http://wiki.fluentnhibernate.org/show/ConvertingToNewStyleConventions) explains how to transition from the old convention style to the new one.
 
-I've put together an updated example inspired by Ayende's post, including a feature for automatically setting cascades for OneToMany and ManyToMany relationships. 
+I've put together an updated example inspired by Ayende's post, including a feature for automatically setting cascades for OneToMany and ManyToMany relationships.
 
-[Here is the most important part of the code](http://pastie.org/610731). 
+[Here is the most important part of the code](http://pastie.org/610731).
 
 **UPDATED** [Here is the complete sample](http://dl.getdropbox.com/u/2408484/Marcusoft.FluentAutomapper.zip).
 

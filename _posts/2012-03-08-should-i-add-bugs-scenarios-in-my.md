@@ -4,7 +4,8 @@ title: Should I add bugs-scenarios in my specification?
 date: 2012-03-07T19:55:00.001Z
 author: Marcus Hammarberg
 tags:
-  - BDD - Specification by example
+  - BDD
+  - Specification by example
   - Agile
 modified_time: 2012-03-27T13:17:19.985Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5573551079010100753

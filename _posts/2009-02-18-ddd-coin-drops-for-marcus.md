@@ -6,7 +6,8 @@ author: Marcus Hammarberg
 tags:
   - DDD
   - Scrum
-  - Agile - Sprint Planner Helper
+  - Agile
+  - Sprint Planner Helper
 modified_time: 2009-02-18T11:03:35.713Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6314861110076624802
 blogger_orig_url: http://www.marcusoft.net/2009/02/ddd-coin-drops-for-marcus.html

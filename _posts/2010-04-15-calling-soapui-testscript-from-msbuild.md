@@ -5,7 +5,8 @@ date: 2010-04-14T18:31:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
-  - .NET - MSBuild
+  - .NET
+  - MSBuild
 modified_time: 2010-12-14T15:22:38.157Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-955286889235744294
 blogger_orig_url: http://www.marcusoft.net/2010/04/calling-soapui-testscript-from-msbuild.html

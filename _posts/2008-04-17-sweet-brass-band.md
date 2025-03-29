@@ -4,7 +4,8 @@ title: Sweet brass bander
 date: 2008-04-17T08:13:00.003Z
 author: Marcus Hammarberg
 tags:
-  - Brass Band - Fun
+  - Brass Band
+  - Fun
 modified_time: 2008-04-17T16:57:43.755Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5419241435390255067
 blogger_orig_url: http://www.marcusoft.net/2008/04/sweet-brass-band.html

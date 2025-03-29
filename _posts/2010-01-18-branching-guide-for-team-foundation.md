@@ -4,7 +4,8 @@ title: Branching Guide for Team Foundation Server 2010
 date: 2010-01-18T13:18:00.001Z
 author: Marcus Hammarberg
 tags:
-  - .NET - TFS
+  - .NET
+  - TFS
 modified_time: 2010-01-18T13:18:27.170Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5475226306907875937
 blogger_orig_url: http://www.marcusoft.net/2010/01/branching-guide-for-team-foundation.html

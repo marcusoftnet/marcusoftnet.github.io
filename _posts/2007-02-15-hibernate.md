@@ -4,7 +4,8 @@ title: NHibernate
 date: 2007-02-15T13:23:00.001Z
 author: Marcus Hammarberg
 tags:
-  - .NET - NHibernate
+  - .NET
+  - NHibernate
 modified_time: 2010-01-29T12:51:21.367Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8056115601936291389
 blogger_orig_url: http://www.marcusoft.net/2007/02/hibernate.html
