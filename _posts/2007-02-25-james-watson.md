@@ -4,7 +4,8 @@ title: James Watson
 date: 2007-02-25T11:46:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-02-26T09:26:17.483+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1022268405128742543
 blogger_orig_url: http://www.marcusoft.net/2007/02/james-watson.html

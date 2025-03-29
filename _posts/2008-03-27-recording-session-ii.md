@@ -4,7 +4,7 @@ title: Recording session II
 date: 2008-03-27T06:45:00.003Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand - Euphonium
+  - Brass Band - Euphonium
   - Salvation Army
 modified_time: 2008-03-27T06:54:58.425Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6552408940114082155

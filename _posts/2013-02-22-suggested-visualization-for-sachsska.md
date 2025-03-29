@@ -5,7 +5,8 @@ date: 2013-02-22T08:00:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - Tools - Lean
+  - Tools
+  - Lean
   - Life of a consultant
   - Agile
 modified_time: 2013-02-24T16:51:12.070Z

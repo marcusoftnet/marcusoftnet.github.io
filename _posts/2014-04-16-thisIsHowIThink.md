@@ -4,7 +4,8 @@ title: Understanding My Perspective A Journey in Thought
 date: 2014-04-16T02:13:00.003Z
 author: Marcus Hammarberg
 tags:
-  - Team Yayasan - Lean
+  - Team Yayasan
+  - Lean
   - Life of a consultant
   - Agile
   - Salvation Army

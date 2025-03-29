@@ -4,7 +4,8 @@ title: Scary stuff - all of the list
 date: 2007-04-24T06:05:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-04-24T06:25:14.958Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3635859586967541408
 blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html

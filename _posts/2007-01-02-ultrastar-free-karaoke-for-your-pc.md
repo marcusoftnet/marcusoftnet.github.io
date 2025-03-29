@@ -4,7 +4,8 @@ title: UltraStar - free karaoke for your PC
 date: 2007-01-02T09:01:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Fun
+  - Marcus private
+- Fun
 modified_time: 2007-01-02T14:57:14.915Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6626507262110371168
 blogger_orig_url: http://www.marcusoft.net/2007/01/ultrastar-free-karaoke-for-your-pc.html

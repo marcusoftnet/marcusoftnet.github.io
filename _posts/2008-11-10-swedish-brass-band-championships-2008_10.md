@@ -4,7 +4,7 @@ title: Swedish Brass Band Championships 2008 - the aftermath
 date: 2008-11-10T12:45:00.001Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2008-11-10T12:45:32.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4986525820417895878
 blogger_orig_url: http://www.marcusoft.net/2008/11/swedish-brass-band-championships-2008_10.html

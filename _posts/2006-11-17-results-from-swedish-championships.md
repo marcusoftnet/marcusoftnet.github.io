@@ -4,7 +4,7 @@ title: Results from Swedish Championships
 date: 2006-11-17T07:07:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2006-11-17T14:48:40.034Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5508656063660081007
 blogger_orig_url: http://www.marcusoft.net/2006/11/results-from-swedish-championships.html

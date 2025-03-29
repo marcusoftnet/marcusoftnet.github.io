@@ -4,7 +4,7 @@ title: 2008 - another great year
 date: 2008-12-31T08:44:00.001Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - Life of a consultant
   - Salvation Army
 modified_time: 2008-12-31T08:44:36.561Z

@@ -4,7 +4,7 @@ title: British Nationals, Brass band
 date: 2006-10-31T06:39:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2006-10-31T07:08:55.676Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2099952499717017670
 blogger_orig_url: http://www.marcusoft.net/2006/10/british-nationals-brass-band.html

@@ -4,7 +4,8 @@ title: British Open - the results
 date: 2007-09-17T05:56:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-09-17T06:02:43.623Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4950095826153554419
 blogger_orig_url: http://www.marcusoft.net/2007/09/british-open-results.html

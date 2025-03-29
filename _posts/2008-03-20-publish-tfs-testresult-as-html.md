@@ -4,7 +4,9 @@ title: Publish TFS testresult as HTML
 date: 2008-03-20T12:33:00.005Z
 author: Marcus Hammarberg
 tags:
-  - Tools - TFS - MSBuild
+  - Tools
+  - TFS
+  - MSBuild
 modified_time: 2010-12-14T15:22:38.281Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3773215006802964327
 blogger_orig_url: http://www.marcusoft.net/2008/03/publish-tfs-testresult-as-html.html

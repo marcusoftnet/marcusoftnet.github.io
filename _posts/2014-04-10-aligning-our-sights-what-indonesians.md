@@ -5,7 +5,7 @@ date: 2014-04-10T08:49:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - BrassBand - Lean
+  - Brass Band - Lean
   - Life of a consultant
   - Agile
   - Salvation Army

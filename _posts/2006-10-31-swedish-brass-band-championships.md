@@ -4,7 +4,7 @@ title: Swedish brass band championships
 date: 2006-10-31T06:49:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2006-10-31T13:13:29.642Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2127731443858866833
 blogger_orig_url: http://www.marcusoft.net/2006/10/swedish-brass-band-championships.html

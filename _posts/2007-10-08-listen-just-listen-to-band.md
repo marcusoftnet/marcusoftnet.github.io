@@ -4,7 +4,7 @@ title: Listen, just listen to the band
 date: 2007-10-08T10:50:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2007-10-08T10:53:24.344Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4829204535328279220
 blogger_orig_url: http://www.marcusoft.net/2007/10/listen-just-listen-to-band.html

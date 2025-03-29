@@ -4,7 +4,7 @@ title: Grimethorpe performance in full
 date: 2006-11-07T11:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
 modified_time: 2006-11-07T11:06:07.938Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2363157897411379557
 blogger_orig_url: http://www.marcusoft.net/2006/11/grimethorpe-performance-in-full.html

@@ -4,7 +4,7 @@ title: Tuba Circus - don't try this at home kids
 date: 2007-01-30T12:45:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - Fun
   - Euphonium
 modified_time: 2007-01-31T07:41:47.161Z

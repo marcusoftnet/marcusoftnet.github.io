@@ -4,7 +4,8 @@ title: Busy times - our choice?
 date: 2006-12-04T06:42:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
   - Salvation Army
 modified_time: 2006-12-04T06:54:32.627Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7595199482729270968

@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2023-12-14 08:00:00
 tags:
   - Life of a consultant
-  - Marcus Private
+  - Marcus private
 ---
 
 Over the years I and many around me have periods of time when we have too much to do. That is we have more to do than can fit in the time we have to do it. Pretty common, especially in the workplace.

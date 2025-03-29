@@ -4,7 +4,7 @@ title: Salvation Army banding in Stockholm
 date: 2007-08-20T06:15:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - Salvation Army
 modified_time: 2007-08-20T06:32:13.296Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7327845883896598568

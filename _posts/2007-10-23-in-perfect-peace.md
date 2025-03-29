@@ -4,7 +4,8 @@ title: In perfect peace
 date: 2007-10-23T06:25:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-10-26T06:10:39.941Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4131265341622033949
 blogger_orig_url: http://www.marcusoft.net/2007/10/in-perfect-peace.html

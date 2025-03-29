@@ -4,7 +4,7 @@ title: Presentations
 date: 2008-05-26T05:59:00.001Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - SOA
   - Life of a consultant
   - Euphonium

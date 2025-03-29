@@ -4,7 +4,7 @@ title: Melbourne Staff Band
 date: 2007-05-16T05:36:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - Salvation Army
 modified_time: 2007-05-16T05:42:44.022Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5063438253513106643

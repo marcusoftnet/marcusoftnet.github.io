@@ -4,7 +4,7 @@ title: Recording with the Vasa Band
 date: 2008-02-17T20:35:00.005Z
 author: Marcus Hammarberg
 tags:
-  - BrassBand
+  - Brass Band
   - Salvation Army
 modified_time: 2008-02-19T13:07:15.332Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-342955153423395129

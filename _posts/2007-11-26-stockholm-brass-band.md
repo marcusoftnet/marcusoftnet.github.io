@@ -4,7 +4,8 @@ title: Stockholm Brass Band
 date: 2007-11-26T11:35:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-11-26T11:44:38.039Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2251544957301809112
 blogger_orig_url: http://www.marcusoft.net/2007/11/stockholm-brass-band.html

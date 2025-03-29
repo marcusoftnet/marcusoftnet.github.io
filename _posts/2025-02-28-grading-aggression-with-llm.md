@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2025-02-28 04:00:00
 tags:
  - AI
- - Private
+ - Marcus private
 ---
 
 Just out of The Meeting, between the president of USA, the President of Ukraine and the American Vice president. Just baffled with what I saw.

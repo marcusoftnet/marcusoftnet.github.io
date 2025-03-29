@@ -4,7 +4,8 @@ title: Marcus - published!
 date: 2007-11-15T12:06:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - BrassBand
+  - Marcus private
+- BrassBand
 modified_time: 2007-11-16T06:25:12.991Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5712399718860877497
 blogger_orig_url: http://www.marcusoft.net/2007/11/marcus-published.html
