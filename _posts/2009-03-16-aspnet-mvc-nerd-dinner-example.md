@@ -4,7 +4,8 @@ title: ASP.NET MVC – The Nerd Dinner example
 date: 2009-03-15T20:46:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools - ASP.NET MVC
+  - Tools
+  - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.201Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3313785601403983906
 blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html
@@ -20,5 +21,5 @@ There are so many nice little features that I just cannot wait to know as well a
 
 I am now halfway through and will continue to the end. I’ll get back to you if anything more great appears.
 
-PS.  
+PS.
 I think this is the way we will build web applications from now on. I know I will…

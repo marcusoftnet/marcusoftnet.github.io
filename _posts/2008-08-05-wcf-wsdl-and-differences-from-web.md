@@ -4,7 +4,9 @@ title: WCF, WSDL and differences from web services
 date: 2008-08-05T08:46:00.007Z
 author: Marcus Hammarberg
 tags:
-  - .NET - SOA - WCF
+  - .NET
+  - SOA
+  - WCF
 modified_time: 2009-01-12T06:57:15.401Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8135171371212210138
 blogger_orig_url: http://www.marcusoft.net/2008/08/wcf-wsdl-and-differences-from-web.html

@@ -4,7 +4,8 @@ title: AppHarbor, Nancy and the "Could not load file or assembly 'Nancy.ViewEngi
 date: 2013-03-06T10:35:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Nancy
+  - Marcus private
+  - Nancy
   - Tools
   - .NET
   - ContinuousDelivery

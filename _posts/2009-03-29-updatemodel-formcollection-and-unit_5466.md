@@ -4,7 +4,8 @@ title: UpdateModel, FormCollection and Unit Test
 date: 2009-03-29T15:22:00.001Z
 author: Marcus Hammarberg
 tags:
-  - ASP.NET MVC - Sprint Planner Helper
+  - ASP.NET MVC
+  - Sprint Planner Helper
   - TDD
 modified_time: 2009-03-30T19:42:08.943Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1434916614193180165
@@ -62,9 +63,9 @@ public void CreateControllerActionCanTakeAFormCollectionWithProductDataAndAddItT
 {
     var numberOfProductsBefore = productRepository.Find().Count();
     var form = CreateProductTestFormCollection();
-    
+
     var result = productController.Create(form);
-    
+
     Assert.IsNotNull(result);
     Assert.IsInstanceOfType(result, typeof(RedirectToRouteResult));
     var redirectResult = (RedirectToRouteResult)result;

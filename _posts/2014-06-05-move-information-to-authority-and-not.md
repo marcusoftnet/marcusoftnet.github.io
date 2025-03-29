@@ -4,9 +4,11 @@ title: Move the authority to the information, and not the other way around
 date: 2014-06-05T04:39:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Lean
+  - Marcus private
+  - Lean
   - Life of a consultant
-  - Agile- Salvation Army
+  - Agile
+  - Salvation Army
   - Indonesia
 modified_time: 2014-06-06T03:03:32.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7435568262273030003
@@ -111,7 +113,7 @@ Here are our decision-making rules;
 
 > If the decision is small – just do it already, if you think it’s useful.
 > If the decision is a bit bigger – discuss it with any colleague. If you end up thinking it’s a good idea – just go!
-> If the decision is really big – involve more people. Maybe take it up on one of our biweekly company meetups. If you think it's good – run with it.  
+> If the decision is really big – involve more people. Maybe take it up on one of our biweekly company meetups. If you think it's good – run with it.
 >
 > What’s big and what is small? You decide. We trust you. And all the information (invoices, expenses, and salaries, etc.) is shared among everyone in the company anyway so…
 

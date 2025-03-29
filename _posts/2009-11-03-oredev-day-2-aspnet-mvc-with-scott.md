@@ -4,7 +4,8 @@ title: ÖreDev Day 2 - ASP.NET MVC with Scott Allen
 date: 2009-11-03T09:13:00.007Z
 author: Marcus Hammarberg
 tags:
-  - ÖreDev - ASP.NET MVC
+  - ÖreDev
+  - ASP.NET MVC
 modified_time: 2011-11-09T20:49:22.591Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-472327445991958099
 blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html

@@ -4,7 +4,8 @@ title: The only easy day was yesterday - this is a message of hope
 date: 2014-10-14T06:42:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools - Lean
+  - Tools
+  - Lean
   - Life of a consultant
   - Kanban
   - Agile

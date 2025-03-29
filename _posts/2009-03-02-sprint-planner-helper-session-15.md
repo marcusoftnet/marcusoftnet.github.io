@@ -4,7 +4,8 @@ title: Sprint Planner Helper – Session 15
 date: 2009-03-01T21:13:00.001Z
 author: Marcus Hammarberg
 tags:
-  - ASP.NET MVC - Sprint Planner Helper
+  - ASP.NET MVC
+  - Sprint Planner Helper
   - TDD
 modified_time: 2009-05-05T09:25:13.029Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3480546717605318518

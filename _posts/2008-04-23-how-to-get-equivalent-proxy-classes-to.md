@@ -4,7 +4,8 @@ title: How to get equivalent proxy-classes to implement a shared interface
 date: 2008-04-23T05:42:00.005Z
 author: Marcus Hammarberg
 tags:
-  - VB.NET - SOA
+  - VB.NET
+  - SOA
   - Life of a consultant
   - C#
   - WCF

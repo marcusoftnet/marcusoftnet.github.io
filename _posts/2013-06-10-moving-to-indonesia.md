@@ -4,7 +4,8 @@ title: Moving to Indonesia
 date: 2013-06-10T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private  - Lean
+  - Marcus private
+  - Lean
   - Salvation Army
   - Indonesia
 modified_time: 2013-06-10T13:25:53.605Z

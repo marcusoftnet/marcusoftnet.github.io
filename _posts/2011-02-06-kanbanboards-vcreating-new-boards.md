@@ -5,7 +5,8 @@ date: 2011-02-05T20:08:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - ASP.NET MVC
+  - .NET
+  - ASP.NET MVC
   - KanbanBoards
   - SpecFlow
 modified_time: 2011-02-05T20:11:06.427Z

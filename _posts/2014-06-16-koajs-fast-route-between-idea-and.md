@@ -5,7 +5,8 @@ date: 2014-06-16T13:51:00.002Z
 author: Marcus Hammarberg
 tags:
   - Javascript
-  - Koa - Lean
+  - Koa
+  - Lean
   - Agile
   - ContinuousDelivery
 modified_time: 2014-06-20T07:44:31.696Z

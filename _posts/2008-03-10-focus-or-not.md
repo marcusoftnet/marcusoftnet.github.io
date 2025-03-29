@@ -4,7 +4,8 @@ title: Great project started
 date: 2008-03-09T18:00:00.005Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - SOA
+  - Marcus private
+  - SOA
   - Life of a consultant
 modified_time: 2008-03-10T10:19:48.760Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2069792188809784994

@@ -4,8 +4,10 @@ title: Full speed and free
 date: 2008-09-26T14:20:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Scrum
-  - Agile - WCF
+  - Marcus private
+  - Scrum
+  - Agile
+  - WCF
 modified_time: 2008-09-26T14:20:38.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6079851253242287882
 blogger_orig_url: http://www.marcusoft.net/2008/09/full-speed-and-free.html

@@ -4,7 +4,8 @@ title: Using BDD with SpecFlow, WPF and White
 date: 2010-08-14T19:06:00.001Z
 author: Marcus Hammarberg
 tags:
-  - VB.NET - BDD
+  - VB.NET
+  - BDD
   - Tools
   - .NET
   - Agile

@@ -4,7 +4,8 @@ title: Embrace uncertainty - the family version
 date: 2014-10-27T04:20:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private  - Lean
+  - Marcus private
+  - Lean
   - Life of a consultant
   - Agile
 modified_time: 2014-10-27T04:20:56.862Z

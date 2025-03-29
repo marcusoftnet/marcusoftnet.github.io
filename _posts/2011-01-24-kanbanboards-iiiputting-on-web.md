@@ -5,7 +5,8 @@ date: 2011-01-23T21:26:00.001Z
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - ASP.NET MVC
+  - .NET
+  - ASP.NET MVC
   - KanbanBoards
   - SpecFlow
 modified_time: 2011-01-25T10:28:24.156Z
@@ -98,6 +99,6 @@ The next problem I faced was that the model returned was empty because the datab
 
 I encountered another issue: “model doesn’t implement”...
 
---- 
+---
 
 **Note**: The content has been truncated here. Make sure to adjust or complete based on actual content needs.

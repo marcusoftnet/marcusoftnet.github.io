@@ -4,7 +4,8 @@ title: code-tag in Firefox
 date: 2008-03-04T07:16:00.003Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Web Design
+  - Marcus private
+  - Web Design
 modified_time: 2008-03-04T07:19:12.642Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8342509319035989584
 blogger_orig_url: http://www.marcusoft.net/2008/03/tag-in-firefox.html

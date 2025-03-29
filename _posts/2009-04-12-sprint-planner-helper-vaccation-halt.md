@@ -4,7 +4,8 @@ title: Sprint Planner Helper - Vaccation halt
 date: 2009-04-11T18:55:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Marcus private - Sprint Planner Helper
+  - Marcus private
+  - Sprint Planner Helper
 modified_time: 2009-04-11T18:56:27.323Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9050739981040749710
 blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-vaccation-halt.html

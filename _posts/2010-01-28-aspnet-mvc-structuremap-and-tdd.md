@@ -5,7 +5,9 @@ date: 2010-01-28T08:26:00.003Z
 author: Marcus Hammarberg
 tags:
   - BDD
-  - .NET - NHibernate - ASP.NET MVC
+  - .NET
+  - NHibernate
+  - ASP.NET MVC
   - Agile
   - TDD
 modified_time: 2010-12-14T15:19:35.814Z

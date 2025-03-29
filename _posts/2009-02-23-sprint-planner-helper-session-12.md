@@ -4,7 +4,8 @@ title: Sprint Planner Helper – Session 12
 date: 2009-02-23T08:34:00.001Z
 author: Marcus Hammarberg
 tags:
-  - ASP.NET MVC - Sprint Planner Helper
+  - ASP.NET MVC
+  - Sprint Planner Helper
 modified_time: 2009-02-23T08:34:41.346Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5709480760236693340
 blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-12.html
@@ -22,7 +23,7 @@ Since I’m alone and Abbe is sound asleep, I decided to break the [1-hour rule]
 
 ### ASP.NET MVC Integration
 
-ASP.NET MVC integrates smoothly with Visual Studio 2008, which is incredibly helpful. Notably, the ability to generate typed views (for list, edit, and details) and controller classes via a dialog is a huge time-saver. 
+ASP.NET MVC integrates smoothly with Visual Studio 2008, which is incredibly helpful. Notably, the ability to generate typed views (for list, edit, and details) and controller classes via a dialog is a huge time-saver.
 
 This integration made me realize that the list of products might be better suited on its own view rather than being directly on the homepage. This means more work, but it’s all part of the learning process.
 

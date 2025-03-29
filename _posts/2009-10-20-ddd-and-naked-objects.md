@@ -4,7 +4,8 @@ title: DDD and Naked Objects
 date: 2009-10-20T11:48:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools - DDD
+  - Tools
+  - DDD
   - .NET
   - Agile
 modified_time: 2010-12-14T15:22:38.182Z
@@ -26,6 +27,6 @@ Some might argue that Naked Objects isn’t suitable for production environments
 
 Cool concept, right? Thanks to Tomas for the insight!
 
-For those interested, there are some [frameworks available](http://www.nakedobjects.net/home/index.shtml) to get started, along with [videos](http://www.nakedobjects.net/video/video_list.shtml) and [books](http://www.pragprog.com/titles/dhnako/domain-driven-design-using-naked-objects) that provide further details. 
+For those interested, there are some [frameworks available](http://www.nakedobjects.net/home/index.shtml) to get started, along with [videos](http://www.nakedobjects.net/video/video_list.shtml) and [books](http://www.pragprog.com/titles/dhnako/domain-driven-design-using-naked-objects) that provide further details.
 
 I’m excited by the potential of this approach and look forward to learning more.

@@ -4,7 +4,8 @@ title: ASP.NET MVC – completing the NerdDinner example
 date: 2009-03-19T06:58:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools - ASP.NET MVC
+  - Tools
+  - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.200Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8738366163329635387
 blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-completing-nerddinner.html

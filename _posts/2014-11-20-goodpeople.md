@@ -4,7 +4,8 @@ title: A good person and a bad system - my take '
 date: 2014-11-20T08:07:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Tools  - Lean
+  - Tools
+  - Lean
   - Life of a consultant
   - Kanban
   - Agile

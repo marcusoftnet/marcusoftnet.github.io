@@ -5,7 +5,8 @@ date: 2009-12-18T13:07:00.002Z
 author: Marcus Hammarberg
 tags:
   - .NET
-  - Life of a consultant - ASP.NET MVC
+  - Life of a consultant
+  - ASP.NET MVC
 modified_time: 2009-12-18T13:11:56.894Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2528632061713184735
 blogger_orig_url: http://www.marcusoft.net/2009/12/deploying-aspnet-mvc-on-iis6.html

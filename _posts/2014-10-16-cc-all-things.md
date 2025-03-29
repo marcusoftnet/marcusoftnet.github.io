@@ -4,7 +4,8 @@ title: cc all the things
 date: 2014-10-16T09:02:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Tools  - Lean
+  - Tools
+  - Lean
   - Life of a consultant
   - Kanban
   - Agile
