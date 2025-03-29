@@ -19,7 +19,7 @@ title: Tags
 {% assign tag_info = item | split: ":" %}
 {% assign tag_name = tag_info[0] %}
 {% assign tag_size = tag_info[1] %}
-{% assign tag_posts = site.tags[tag_name] | sort: "date" %}
+{% assign tag_posts = site.tags[tag_name] | sort %}
 
     <div class="archive-group">
       <div id="#{{ tag_name | slugify }}"></div>
