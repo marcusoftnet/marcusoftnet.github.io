@@ -4,14 +4,14 @@ title: "Value vs valueable - another aha-moment"
 author: "Marcus Hammarberg"
 date: 2024-03-11 08:00:00
 tags:
-  - User stories
+  - Agile
   - TDD
 ---
 English is not my first language, as I'm sure any reader of this blog knows. But I chose to view this as a superpower since I then can see things with fresh eyes. For example, the true meaning of words and phrases.
 
 I still remember when I understood the difference between effectiveness and efficiency. Those are the same word in Swedish, but when I understood the difference a lot of things made sense when it comes to agile and lean stuff. [Read more here](https://www.marcusoft.net/2014/10/effective-revisted.html)
 
-Last week I had another revelation like that - when I realized the difference between value and valueable. According to [Dave Farley it's a common](https://www.youtube.com/watch?v=0HMsh459h5c) mistake he sees for teams to adopt user stories effectively. I think he is right.  
+Last week I had another revelation like that - when I realized the difference between value and valueable. According to [Dave Farley it's a common](https://www.youtube.com/watch?v=0HMsh459h5c) mistake he sees for teams to adopt user stories effectively. I think he is right.
 
 <!-- excerpt-end -->
 
@@ -37,17 +37,17 @@ For example;
 At this point, I saw an analogy to how test-driven development should be practiced. I love when I see these connections in different areas because it makes it easier to know when I'm on the right path. An approach that has helped me in one area is easy to apply to another when I know the guiding principles.
 When using TDD to write code you follow a few steps to ensure that you are writing something small, useful, and relevant tests.
 
-1. **Write a test for some functionality that doesn't exist yet**. This is important since you will now take the standpoint of a user of your code. What would be the value to the user of this code? If it already existed - how would it look?  
+1. **Write a test for some functionality that doesn't exist yet**. This is important since you will now take the standpoint of a user of your code. What would be the value to the user of this code? If it already existed - how would it look?
 1. **Run the code and watch it fail.** This is important since you want to test your assumption that the functionality didn't exist yet. I've often been surprised to see tests pass at this stage, just to realize that I wrote the test badly.
 1. **Write the smallest possible implementation to make the test pass**. This is important since you will here validate that the test will pass if return the correct answer. Quite often you will here start by returning a hard-coded value. For the test "1+1 should be 2" we write some code that always returns 2. And watch the test pass.
 1. **Refactor the code**. This is the step where we change the code to do something intelligent in a proper way. It is important that we make changes to the code at this step since we now have a test that will tell us if we break anything while making the code do the right thing.
-1. **Create another test**. If needed, that is; if the functionality is not yet valueable, go back to 1 and start over. 
+1. **Create another test**. If needed, that is; if the functionality is not yet valueable, go back to 1 and start over.
 
 The first few iterations of your code are rarely the version that you end up with, but it has some value. Just like user stories.
 
 Also like user stories, we learn by doing the work. The more tests and production code iterations we do the better we understand the problem and can make even better solutions in the end.
 
-The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2`, but it was value for us at the time. 
+The distinction between value and valuable can be seen in bullet 3 above. The "return a constant"-step is rarely what is needed, but it still has value in the process of writing tests. We, the developers, got some value from it. It's doubtful that a function called `addIntegers` should always return the constant `2`, but it was value for us at the time.
 
 ## Summary
 

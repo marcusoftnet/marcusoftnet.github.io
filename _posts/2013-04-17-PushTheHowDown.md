@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Nancy
   - BDD
-  - Test
+  - Testing
   - Specification by example
   - Agile
   - SpecFlow

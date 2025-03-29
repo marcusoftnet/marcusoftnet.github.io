@@ -6,7 +6,6 @@ date: 2023-01-16 18:45:35
 tags:
  - Programming
  - Life of a consultant
- - Python
 ---
 
 I'm learning a brand new programming language. That should probably say, *new for me*.Because it's Python. I haven't touched it before. Yes yes - I'm slow, old and everything. But I am still learning new things... so I'm not all in all bad.

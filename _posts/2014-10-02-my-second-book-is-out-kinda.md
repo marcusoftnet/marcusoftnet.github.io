@@ -5,7 +5,7 @@ date: 2014-10-02
 author: Marcus Hammarberg
 tags:
   - Tools
-  - Test
+  - Testing
   - Lean
   - Life of a consultant
   - Specification by example

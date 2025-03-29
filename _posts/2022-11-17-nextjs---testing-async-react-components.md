@@ -5,7 +5,6 @@ author: Marcus Hammarberg
 date: 2022-11-17 14:50:34
 tags:
   - React
-  - Next.JS
   - Testing
 ---
 

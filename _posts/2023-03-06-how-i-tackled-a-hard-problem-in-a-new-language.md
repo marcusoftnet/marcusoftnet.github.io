@@ -6,7 +6,6 @@ date: 2023-03-06 10:54:35
 tags:
  - Programming
  - TDD
- - Scala
 ---
 
 I've just started a lot of new things in my life; programming [Scala](https://www.scala-lang.org/) (and Python), data engineering and a new client.
