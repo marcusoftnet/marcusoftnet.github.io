@@ -10,7 +10,6 @@ tags:
   - ÖreDev
   - Kanban
   - Agile
-  - CQRS
 modified_time: 2014-06-02T08:56:52.530Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7262514878258726848
 blogger_orig_url: http://www.marcusoft.net/2011/01/cqrsanother-love-story.html

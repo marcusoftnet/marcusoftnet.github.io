@@ -7,7 +7,7 @@ tags:
  - Agile
  - Leadership
  - Lean
- - Life of a Consultant
+ - Life of a consultant
  - Salvation Army
 ---
 

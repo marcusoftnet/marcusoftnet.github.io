@@ -4,7 +4,7 @@ title: "Introducing ScrAdd - the script adder"
 author: "Marcus Hammarberg"
 date: 2021-06-17 14:34:47
 tags:
-  - JavaScript
+  - Javascript
   - Tools
 ---
 

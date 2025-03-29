@@ -5,7 +5,7 @@ date: 2009-10-01T19:13:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
-  - Life of a Consultant
+  - Life of a consultant
   - Agile
 modified_time: 2010-12-14T15:22:38.186Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4716867737996249294

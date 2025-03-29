@@ -4,8 +4,7 @@ title: "Making boring fun - bash and Node to the rescue"
 author: "Marcus Hammarberg"
 date: 2021-08-26 19:54:53
 tags:
-  - JavaScript
-  - Bash
+  - Javascript
 ---
 
 I rarely get paid to write code these days... or that is people rarely ask me to write code. But since I'm a programmer at heart it is one of the tools in my toolbelt, regardless of what kind of tasks I'm given.

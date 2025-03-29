@@ -4,7 +4,7 @@ title: Agile Coaching Resources
 date: 2009-10-28T11:47:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Life of a Consultant
+  - Life of a consultant
   - Agile
 modified_time: 2009-10-28T11:47:00.792Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-541360700060127361

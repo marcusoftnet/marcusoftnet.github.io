@@ -4,7 +4,7 @@ title: "Top 5 Agile Change Tips 3 - Let Them Change How They Work"
 date: 2012-10-10T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - Life of a Consultant
+  - Life of a consultant
   - Agile
 modified_time: 2012-10-10T07:00:02.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3292166009938146484

@@ -5,7 +5,7 @@ date: 2011-08-30T12:55:00.001Z
 author: Marcus Hammarberg
 tags:
   - Tools
-  - Life of a Consultant
+  - Life of a consultant
   - Visual Studio
 modified_time: 2011-08-30T12:55:43.187Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8495699296690358537

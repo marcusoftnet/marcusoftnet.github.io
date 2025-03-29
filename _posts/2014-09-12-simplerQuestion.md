@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Lean
-  - Life of a Consultant
+  - Life of a consultant
   - Kanban
   - Agile
 modified_time: 2014-09-12T02:37:30.587Z
@@ -17,7 +17,7 @@ blogger_orig_url: http://www.marcusoft.net/2014/09/simplerQuestion.html
 
 ![David J Andersson](/img/david_andersson.jpg)
 
-David J Andersson, the father of Kanban in the software community, has taught me a lot. One of the best hands-on tricks he taught me was just one sentence: 
+David J Andersson, the father of Kanban in the software community, has taught me a lot. One of the best hands-on tricks he taught me was just one sentence:
 
 > "Ask a simpler question!"
 

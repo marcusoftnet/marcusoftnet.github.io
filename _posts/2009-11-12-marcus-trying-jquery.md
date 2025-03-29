@@ -7,7 +7,7 @@ tags:
   - Tools
   - .NET
   - Web Design
-  - Life of a Consultant
+  - Life of a consultant
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.178Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8035475995311768141
