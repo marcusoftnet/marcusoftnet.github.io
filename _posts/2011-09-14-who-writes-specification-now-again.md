@@ -4,7 +4,7 @@ title: Who Writes the Specification, Now Again?
 date: 2011-09-13T17:30:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Specification by Example
+  - Specification by example
   - Agile
 modified_time: 2011-09-13T20:16:34.263Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4387080625349899534

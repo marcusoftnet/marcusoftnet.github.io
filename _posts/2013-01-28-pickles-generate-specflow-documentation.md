@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - BDD
   - Tools
-  - Specification by Example
+  - Specification by example
   - SpecFlow
 modified_time: 2013-07-30T18:15:45.084Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5238097084946695251
