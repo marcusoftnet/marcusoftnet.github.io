@@ -5,7 +5,7 @@ date: 2009-08-24T06:50:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-- Fun
+  - Fun
 modified_time: 2010-12-14T15:19:57.870Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7006499675566975898
 blogger_orig_url: http://www.marcusoft.net/2009/08/flight-of-concords.html
