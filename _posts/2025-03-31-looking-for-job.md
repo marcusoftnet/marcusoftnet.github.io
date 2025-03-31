@@ -7,14 +7,15 @@ tags:
  - Marcus private
 ---
 
-I have just landed a new job!
-(Super happy about that and I'll write a separate post on it later).
+I have just landed a new job! (Super-happy about that and I'll write a separate post on it later).
 
 But that means that I leave one of the heavier periods in my working life - looking for a job in early 2025. I'm not kidding - there's been tears and a few screams of frustration, self-doubt and generally low-watermarks of Marcus.
 
 I wanted to write a few words for anyone else that is in the situation, share a few tips and advice that I wish I had. And in some case, had taken, because I heard some of these but didn't apply them.
 
 <!-- excerpt-end -->
+
+![Going up](/img/going_up.jpg)
 
 I'm very sorry to say that [Scling](https://www.scling.com) didn't really work out as we expected and in December 2024 we decided to close it down and I started to see if I could find a gig as a freelance contractor. I didn't really know what I wanted to do and also looked into other veins (like teaching and even musician).
 
