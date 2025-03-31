@@ -5,7 +5,7 @@ date: 2006-12-11T06:40:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-- BrassBand
+  - Brass Band
 modified_time: 2006-12-11T06:48:15.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5673834059834811622
 blogger_orig_url: http://www.marcusoft.net/2006/12/weekend-with-band.html

@@ -5,7 +5,7 @@ date: 2007-04-02T05:40:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-- BrassBand
+  - Brass Band
 modified_time: 2007-04-02T08:07:08.362+02:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5378186820892078226
 blogger_orig_url: http://www.marcusoft.net/2007/04/bengt-eklund.html

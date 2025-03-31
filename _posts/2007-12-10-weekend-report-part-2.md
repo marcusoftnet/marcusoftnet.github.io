@@ -5,7 +5,7 @@ date: 2007-12-10T07:16:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-- BrassBand
+  - Brass Band
 modified_time: 2007-12-10T07:22:55.486Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8481266556121088655
 blogger_orig_url: http://www.marcusoft.net/2007/12/weekend-report-part-2.html
