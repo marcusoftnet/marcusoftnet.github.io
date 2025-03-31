@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grading aggressivity from a transcript using LLMs"
+title: "Looking for a job - some advice I wish I had"
 author: "Marcus Hammarberg"
 date: 2025-03-31 04:00:00
 tags:
