@@ -5,7 +5,8 @@ date: 2009-06-02T21:10:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - Brass Band - Fun
+  - Brass Band
+  - Fun
 modified_time: 2009-06-02T21:46:34.494Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2395401910198297949
 blogger_orig_url: http://www.marcusoft.net/2009/06/what-i-am-watching.html

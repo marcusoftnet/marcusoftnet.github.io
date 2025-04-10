@@ -5,7 +5,7 @@ author: "Marcus Hammarberg"
 date: 2025-02-27 04:00:00
 tags:
  - Express
- - HTMX
+ - HTMx
 ---
 
 I've been playing around more with HTMX and one of the really cool features that I think we need to talk more about is the ability to trigger client side events from the server. This is accomplished by using the `hx-trigger` header and elements on the page can listen for events using `hx-trigger: myEvent from body`.

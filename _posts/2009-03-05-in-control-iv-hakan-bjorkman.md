@@ -5,7 +5,8 @@ date: 2009-03-05T08:16:00.001Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
-  - Brass Band - Fun
+  - Brass Band
+  - Fun
 modified_time: 2009-03-05T08:16:45.623Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6067245503397737281
 blogger_orig_url: http://www.marcusoft.net/2009/03/in-control-iv-hakan-bjorkman.html

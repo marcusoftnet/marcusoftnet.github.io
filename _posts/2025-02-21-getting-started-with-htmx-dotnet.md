@@ -5,7 +5,7 @@ author: Marcus Hammarberg
 date: 2025-02-21 12:00:00
 tags:
  - .NET
- - HTMX
+ - HTMx
 ---
 
 [HTMX is great!](https://htmx.org/) And I really like [.NET Minimal APIs](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis). Let's put it together and see how it works.
