@@ -11,7 +11,7 @@ tags:
 ---
 
 **UPDATE**
-I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+I have learned new stuff. There are a better ways. Find the [update here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
 
 This is the second post in my series where I show how you can get make powerful visualizations of process data. As before, my goal here is that you can dump your process data into one tab of [my sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) and then the dashboard will make all the other calculations.
 

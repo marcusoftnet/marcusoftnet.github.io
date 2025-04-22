@@ -11,7 +11,7 @@ tags:
 ---
 
 **UPDATE**
-I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+I have learned new stuff. There are a better ways. Find the [update here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
 
 It's time to wrap this series up. I have one final thing that I want to visualize: queue length. How much stuff is waiting and how long will that take us to complete? And maybe even, "if I add something in the queue now, how long before it's done?"
 

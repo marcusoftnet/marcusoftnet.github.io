@@ -11,7 +11,7 @@ tags:
 ---
 
 **UPDATE**
-I have learned new stuff. There are a better ways. Find the [update here](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
+I have learned new stuff. There are a better ways. Find the [update here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
 
 Lead time is awesome to track and try to improve. In fact, it's something that will guide you to a lot of improvements and should be front-and-centre of your process metrics.
 

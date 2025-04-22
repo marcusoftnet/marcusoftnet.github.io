@@ -68,7 +68,7 @@ If you read closely above you might have noticed that I repeated a few things. T
 
 This is the "change in the world" (Jeff Patton) that we want to achieve. The What/How part of how it's implemented is not very interesting. If we can accomplish the change in a radically different way than first envisioned, and in doing so writing less code, that would be **awesome**.
 
-Code is cost, as [Dan North](dannorth.net) puts it. And quite frankly so is everything we do in order to produce *working software in production, used by users*. That last part is the value.
+Code is cost, as [Dan North](https://dannorth.net) puts it. And quite frankly so is everything we do in order to produce *working software in production, used by users*. That last part is the value.
 
 ### Impact map
 
@@ -100,15 +100,11 @@ The product owner and a few other guys just got into a room and drew a big mindm
 
 You can see the mind map below:
 
-![Backlog as a mind map](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-14-at-08.13.56-.png)
-
 We then brought the management team into the room with the mindmap and simply asked:
 
 > Tell us how we are doing
 
 From this simple visualization they could actually answer all questions they had. It was a very powerful technique to make sure that you had the overview and overall progress before your eyes, without adding any extra reporting burdens.
-
-You can read more about this [way of working here](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/).
 
 ## Summary
 

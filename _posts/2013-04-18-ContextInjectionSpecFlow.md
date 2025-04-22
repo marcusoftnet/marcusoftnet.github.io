@@ -15,10 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-722525302763224865
 blogger_orig_url: http://www.marcusoft.net/2013/04/ContextInjectionSpecFlow.html
 ---
 
-[SpecFlow](http://specflow.org/) is a wonderful tool. With a lot of
-hidden gems inside of it. I have been using and coding on it now for
-about 4 years and still I often forget about features and extension
-points that [Gaspar](http://gasparnagy.com/) and the community has put
+SpecFlow is a wonderful tool. With a lot of hidden gems inside of it. I have been using and coding on it now for about 4 years and still I often forget about features and extension points that [Gaspar](http://gasparnagy.com/) and the community has put
 in there.
 
 For example: did you know that there's an [inversion of

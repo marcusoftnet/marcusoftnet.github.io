@@ -62,7 +62,7 @@ Plan, but don't follow up performance against that plan. Instead, do 2 things; i
 
 [Here's one simple example](https://www.marcusoft.net/2021/10/a-data-driven-prognosis-report.html) I did for myself.
 
-If you want to have data like that for you project I [created this template to help you](http://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html). Still simple - you only need to track start and stop dates per work item.
+If you want to have data like that for you project I [created this template to help you](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html). Still simple - you only need to track start and stop dates per work item.
 
 But, seriously, I just realized that
 
