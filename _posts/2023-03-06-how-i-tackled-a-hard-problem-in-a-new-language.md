@@ -24,7 +24,7 @@ It actually took me all of 1 hour to get this to work - and still be confident t
 
 Part of this clients request is to supply some weather data for a certain location and time. And in doing so they also wanted us to extend the weather data with the addition of the *wet-bulb temperature*.
 
-I don't know what that is, nor do I particulary care, but having a clue what it is is always a good idea. Google and Wikipedia to our help:
+I don't know what that is, nor do I particularly care, but having a clue what it is is always a good idea. Google and Wikipedia to our help:
 
 > The wet-bulb temperature (WBT) is the temperature read by a thermometer covered in water-soaked (water at ambient temperature) cloth (a wet-bulb thermometer) over which air is passed
 
@@ -58,7 +58,7 @@ Wet-bulb temperature: 35.66 °C
 
 I still don't get anything, but ok, this is a start.
 
-Look it even has a [How to calculate wet-bulb temperature section](https://www.omnicalculator.com/physics/wet-bulb#how-to-calculate-the-wet-bulb-temperature) let's loo...aaaaaaaaah Mother of GOD!
+Look it even has a [How to calculate wet-bulb temperature section](https://www.omnicalculator.com/physics/wet-bulb#how-to-calculate-the-wet-bulb-temperature) let's loo...aah Mother of GOD!
 
 ![Wet bulb calculation](/img/wetbulb-calculation.png)
 
@@ -86,7 +86,7 @@ Still, very weird. But checking the code helped me a bit:
 
 ## Implementation - my strategy
 
-Since I don't know the math and am very new to Scala I realized that I needed to create tests to ensure that I got the algorithm correct. I now could check that using the OmniCaclulator as my source of truth.
+Since I don't know the math and am very new to Scala I realized that I needed to create tests to ensure that I got the algorithm correct. I now could check that using the OmniCalculator as my source of truth.
 
 In Google Sheets I generated a bunch (20+) test cases by creating one column for temp, one for humidity. I then randomized some data within reason:
 
@@ -97,7 +97,7 @@ Humidity: =RANDBETWEEN(5, 99)
 
 See [Summary](#summary) for why I choose those numbers for humidity.
 
-(It might not make sense to caclulate the wet-bulb temp for that cold temperature, but I'm just checking an algorith so I don't care)
+(It might not make sense to calculate the wet-bulb temp for that cold temperature, but I'm just checking an algorithm so I don't care)
 
 I then ran each of these pair of values through the OmniCalculator and added a third column with the result.
 
@@ -131,7 +131,7 @@ object WetBulbTempCalculator {
 }
 ```
 
-After some fiddling with refrence (not really, since IntelliJ is great in helping me) that, unsurprisingly worked.
+After some fiddling with reference (not really, since IntelliJ is great in helping me) that, unsurprisingly worked.
 
 ### Then add many tests
 
@@ -186,7 +186,7 @@ If I could get all of those test cases to work I was now pretty confident that m
 
 The next step is huge, since I didn't see a way to do this in steps.
 
-But after copying the JavaScript code straight into the `calculateWetBulbTemperature` I actaully looked awful. I commented it out and then carefully structured the code into lines, putting each part of the formula on it's own line.
+But after copying the JavaScript code straight into the `calculateWetBulbTemperature` I actually looked awful. I commented it out and then carefully structured the code into lines, putting each part of the formula on it's own line.
 
 I then checked against the formula from OmniCalculator and before long it looked like this:
 
@@ -204,7 +204,7 @@ def calculateWetBulbTemperature(temperature: Double, humidity: Double): Double =
 
 The JavaScript code used the `Math.sqrt` instead of `Math.pow(X, 0,5)` that I have above. I decided to follow the formula as close I could.
 
-#### Optimize for readablility
+#### Optimize for readability
 
 Let's pause here and just appreciate how much you learn about the code by just writing sensible lines. Compare this code to the first version I got from pasting the code into the editor:
 
@@ -216,7 +216,7 @@ def calculateWetBulbTemperature(temperature: Double, humidity: Double): Double =
 
 It's the same code, just less readable. I always optimize for readability for the next developer (Hey it's probably me) first and if hard-pressed other values (like performance) later.
 
-In this case, the act of formatting the code into it's constitutent parts also helped me understand it.
+In this case, the act of formatting the code into it's constituent parts also helped me understand it.
 
 ### Running the tests
 

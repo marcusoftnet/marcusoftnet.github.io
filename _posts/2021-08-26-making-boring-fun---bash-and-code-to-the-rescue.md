@@ -7,7 +7,7 @@ tags:
   - Javascript
 ---
 
-I rarely get paid to write code these days... or that is people rarely ask me to write code. But since I'm a programmer at heart it is one of the tools in my toolbelt, regardless of what kind of tasks I'm given.
+I rarely get paid to write code these days... or that is people rarely ask me to write code. But since I'm a programmer at heart it is one of the tools in my tool belt, regardless of what kind of tasks I'm given.
 
 Today I got asked:
 
@@ -74,7 +74,7 @@ Sound functional and math-y to me...
 
 I decided to ditch bash now, and used JavaScript and Node instead, since I know it better and can make some more advanced things with it.
 
-I created a `licenseCounter.mjs` file and went to work. `.mjs` means that I'm not using CommonJs and can use stuff like `import` and`  async/await` in my code. I like that.
+I created a `licenseCounter.mjs` file and went to work. `.mjs` means that I'm not using CommonJs and can use stuff like `import` and `async/await` in my code. I like that.
 
 The initial version is pretty boring and just reads all of those lines into a constant
 
@@ -175,12 +175,12 @@ dependencyLicenses.reduce((res, value) => {
   - `res` is the result variable, and is also initialized as the second parameter to `.reduce` to an empty object `{}`
   - `value` is the current value that we are looping through. One value out of the `dependencyLicenses` array, in other words
 - After making a `key` I check if this key exists before.
-  - If not I initialize a new object with the `license` name and a `quantity set to `0`
+  - If not I initialize a new object with the `license` name and a `quantity set to 0`
   - I also add it to a `licenseCounts` array so that I can loop over all counts later.
 - Once I know that the `res[key]` is properly initialized I can safely increment the `quantity` with 1 for each value
 - Finally, and the part that I always forget, I return the `res` object so that it can be accumulated to the loop.
 
-Nice! Doing the same for the dependecies counting turns out to be _very_ similar:
+Nice! Doing the same for the dependencies counting turns out to be _very_ similar:
 
 ```javascript
 const dependencyCounts = [];

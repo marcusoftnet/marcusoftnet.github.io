@@ -28,7 +28,7 @@ But we can do it here. Follow along.
 1. Make sure you're on .NET 6 (I'm using 6.0.302)
 1. Create a new webapi; `dotnet new webapi -o WebAPIExercises`
 1. Open it in Visual Studio Code, `code WebAPIExercises`
-1. Delete everything `WeatherForcast`-related (when will someone give us a clean start?)
+1. Delete everything `WeatherForecast`-related (when will someone give us a clean start?)
 1. Add a `Models` and a `Data`-folder
 
 Time to get cracking by adding a model, it is code-first Entity Framework. Here's my `Developer` model:
@@ -170,7 +170,7 @@ git commit -m "Initial commit"
 
 Then I created a new repo in GitHub and pushed my local repository there:
 
-```
+```bash
 git remote add origin git@github.com:marcusoftnet/WebAPIExercises.git
 git branch -M main
 git push -u origin main
@@ -188,7 +188,7 @@ I should also say that it seems like Microsoft is pushing [Bicep-templates](http
 
 I like JSON and with the tools above the experience becomes ok.
 
-Creating an ARM-template from scratch is absolutely possible, but why? Head on over to the [quick-start gallery](https://azure.microsoft.com/en-us/resources/templates/) and find one that is cloest to your need.
+Creating an ARM-template from scratch is absolutely possible, but why? Head on over to the [quick-start gallery](https://azure.microsoft.com/en-us/resources/templates/) and find one that is closet to your need.
 
 I searched for `web sql` and found [this template that seems to be close](https://azure.microsoft.com/en-us/resources/templates/web-app-sql-database/).
 

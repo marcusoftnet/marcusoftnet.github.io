@@ -235,9 +235,9 @@ And just when I “just gonna run the tests and be done for today” my acceptan
 Well – at least the message is very informative. My domain has changed – my database hasn’t. In [this post by Scott Gu](http://weblogs.asp.net/scottgu/archive/2011/01/11/vs-2010-sp1-and-sql-ce.aspx) you can read more about it.
 
 I would like to see if the tool can initialize the database with some data for me. And with a quick search on [mother of all knowledge](http://stackoverflow.com) I found [a
-post](http://stackoverflow.com/questions/4703486/about-code-first-database-evolution-aka-migrations) that describe it very quick to me. Here is my implementation of my DatabaseIntializer:
+post](http://stackoverflow.com/questions/4703486/about-code-first-database-evolution-aka-migrations) that describe it very quick to me. Here is my implementation of my Databaseinitializer:
 
-![](/img/db%2520intializer_thumb.jpg)'
+![](/img/db%2520initializer_thumb.jpg)'
 
 And now I can simply call that initializer in Application_Start like this:
 
