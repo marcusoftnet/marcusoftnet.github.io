@@ -8,11 +8,11 @@ tags:
  - Life of a consultant
 ---
 
-I like to automate repetitive and boring things I do in my daily work. This lead to that me write bash scripts from time to time, but the problem is that I'm a newbie scripter. I'm learning as I go.
+I like to automate repetitive and boring things I do in my daily work. This lead to that me write bash scripts from time to time, but the problem is that I'm a newbie script:er. I'm learning as I go.
 
 And the other day I did a cardinal sin in scripting. Not only that - I decided to show the world. Now that is a point to feel ashamed or to learn. I did both.
 
-In this post, I will tell you about how I made my `curl`-script a little better and a lot safer, but using an old way that's been in `curl` for ages.  
+In this post, I will tell you about how I made my `curl`-script a little better and a lot safer, but using an old way that's been in `curl` for ages.
 
 ## The background
 

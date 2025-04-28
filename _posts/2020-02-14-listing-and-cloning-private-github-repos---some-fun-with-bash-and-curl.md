@@ -13,7 +13,7 @@ Yesterday evening someone just blurted out: what if all of us died at once?! All
 
 That cloud is GitHub and I'm sure it would be safe and that the risk that we all die at the same time is relatively low. Then again - I have booked a raw chicken tasting for our next offsite ...
 
-Just kidding - but when that was said my programmer-self sprung to life and I deviced, in my head, a simple script to make an offline copy.
+Just kidding - but when that was said my programmer-self sprung to life and I device, in my head, a simple script to make an offline copy.
 
 This post describes that script. Oh - I only had 30 minutes spare time to do it in. That was my timebox and I actually managed to pull it off. The finished script is about 5 lines of code... but I'm still proud.
 
@@ -21,9 +21,9 @@ This post describes that script. Oh - I only had 30 minutes spare time to do it 
 
 The [GitHub Api](https://api.github.com/) is great and a display in a well designed REST-ful interface. You should check it out. In this post I will use that API... Yes I have heard about `hub` and the new GitHub CLI but now I will use the simple HTTP(s) API interface.
 
-## Get all, even private, repositories of an organisation
+## Get all, even private, repositories of an organization
 
-Ok getting the respositories for an organization is just a GET request away:
+Ok getting the repositories for an organization is just a GET request away:
 
 ```bash
 curl -s "https://api.github.com/orgs/{orgname}/repos?per_page=200&type=all
@@ -41,7 +41,7 @@ We can now use this personal access token and authenticate that get request. It 
 curl -u marcusoftnet:{access token here} -s "https://api.github.com/orgs/{orgname}/repos?per_page=200&type=all"
 ```
 
-If you ~~put that in your pipe and smoke it~~ run that you will see lovely blob of JSON being out ralphed out in the terminal. Bom - we have all the private repos listed.
+If you ~~put that in your pipe and smoke it~~ run that you will see lovely blob of JSON being out ralph:ed out in the terminal. Bom - we have all the private repos listed.
 
 ## Get the urls for cloning
 
@@ -83,7 +83,7 @@ Let see:
 
 * Creating a variable in bash is `var=value` and my array will be called `repos`
 * But putting the result of the `curl | jq` was tricker but after a while I found that `($( command))` would do the trick
-* We can now loop over these `repos`. Yes - there's probably a regex way of doing this in another one-liner but now I was running out of time. I whipped out the trusty old `for`-loop. A weapon for a more civlized age.
+* We can now loop over these `repos`. Yes - there's probably a regex way of doing this in another one-liner but now I was running out of time. I whipped out the trusty old `for`-loop. A weapon for a more civilized age.
   * `for repo in ${repos[*]}` will iterate over the array of repos and creating a variable called `repo` that is the current item
   * In the `do ... done` block we can now operate on that variable
   * In my case this is pretty simple - I just clone the repository to my current directory `git clone repo`

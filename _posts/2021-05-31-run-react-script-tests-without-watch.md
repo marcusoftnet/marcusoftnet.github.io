@@ -45,7 +45,7 @@ Where I previously had
 ```bash
 testresult=$(npm t --silent -- --watchAll=false --json --passWithNoTests)
 if [[ "$testresult" != *"\"numPassedTests\":0"* ]]
-	# ... error reporting and stuff
+ # ... error reporting and stuff
 fi
 ```
 
@@ -54,7 +54,7 @@ I now simple add this:
 ```bash
 testresult=$(CI=true npm t --silent -- --watchAll=false --json --passWithNoTests)
 if [[ "$testresult" != *"\"numPassedTests\":0"* ]]
-	# ... error reporting and stuff
+ # ... error reporting and stuff
 fi
 ```
 

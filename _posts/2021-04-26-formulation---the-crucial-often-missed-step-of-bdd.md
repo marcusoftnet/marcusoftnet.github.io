@@ -11,7 +11,7 @@ tags:
 
 Very early in my agile journey, I stumbled over [behavior Driven Development](https://dannorth.net/introducing-bdd/) (in that exact blog post, in fact - Thanks Dan). And like many, I first thought of it as a more user-friendly way of writing tests.
 
-But pretty soon (through the help of [Specifcation By Example](https://www.manning.com/books/specification-by-example) - Thanks Gojko) I realized that the true power comes from the shared understanding that stakeholders and delivery team can get from writing the specifications together, before we start, as examples/tests using concrete data.
+But pretty soon (through the help of [Specification By Example](https://www.manning.com/books/specification-by-example) - Thanks Gojko) I realized that the true power comes from the shared understanding that stakeholders and delivery team can get from writing the specifications together, before we start, as examples/tests using concrete data.
 
 I was hooked and [Cucumber](https://cucumber.io/) was my poison. A programming language for requirements. Executable specifications, I mean - come on! This is now 15 years ago and I still am a big fan of this way of working.
 

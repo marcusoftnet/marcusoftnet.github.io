@@ -15,7 +15,7 @@ At least you'd want to check out the code, do an installation of dependencies an
 
 This is what scripts are made for, right? Automate the boring stuff.
 
-The only problem is that since we are teaching a lot of different technologies and tools, not two repositories are the same; this one uses Docker and this is actually just text, and over here we have one that is purely for CSS-stuff. In one repository we should have 4 failing tests but no linting errors. In the other, we need 42 liting errors but no failing tests. Etc, etc, etc. It's nigh on impossible to write a script that checks this for me. It's pretty much custom code and checks in every repository.
+The only problem is that since we are teaching a lot of different technologies and tools, not two repositories are the same; this one uses Docker and this is actually just text, and over here we have one that is purely for CSS-stuff. In one repository we should have 4 failing tests but no linting errors. In the other, we need 42 linting errors but no failing tests. Etc, etc, etc. It's nigh on impossible to write a script that checks this for me. It's pretty much custom code and checks in every repository.
 
 This problem pushed me to investigate how we could automate this process with bash scripts. I learned a lot and wanted to share a bit.
 
@@ -75,7 +75,7 @@ Ok - we have all the repositories and we can loop through them.
 
 The next step is the protection step. Because for quite some time not all repositories will have a verification script. We obviously cannot run the script the so we will skip that directory, but we might wanna indicate that no script was present.
 
-We can [use the `test` command to check if a file is NOT present](https://linuxize.com/post/bash-check-if-file-exists/#check-if-file-does-not-exist), or be even bashier and use the `[[ ]]` syntax that I barely understand. Let's go with the first variant that I do understand:
+We can [use the `test` command to check if a file is NOT present](https://linuxize.com/post/bash-check-if-file-exists/#check-if-file-does-not-exist), or be even bash-ier and use the `[[ ]]` syntax that I barely understand. Let's go with the first variant that I do understand:
 
 ```bash
 # as above
@@ -231,7 +231,7 @@ exit 0
 First (and last) we make a little trick to change directory into the directory of the script.
 
 - Getting the directory of the script can be accomplished with `cd "$( dirname "${BASH_SOURCE[0]}" )"`, which was a nifty little trick I [found here](https://unix.stackexchange.com/a/273380/163783)
-- Going back to where we just were (last directory that is) is a built-in, but lesser-known command: `cd -`. Here I'm sending the output of the command to `/dev/null` to [supress the irritating output of the current directory](https://superuser.com/a/593697/128561).
+- Going back to where we just were (last directory that is) is a built-in, but lesser-known command: `cd -`. Here I'm sending the output of the command to `/dev/null` to [suppress the irritating output of the current directory](https://superuser.com/a/593697/128561).
 
 A nice little side effect of using this technique is that we can run the script in the directory without any problems. Yay! Win!
 

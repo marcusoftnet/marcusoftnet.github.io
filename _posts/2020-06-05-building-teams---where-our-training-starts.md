@@ -21,6 +21,3 @@ Finally, we have teamed up with [AlvaLabs](https://alvalabs.io/) to do personali
 We have now run these workshops and tutorials for about 4 classes and I have to say that the result blows me away. The teams much faster come to the realization that they are depending on each other. Also, the mobs talk about cooperation and behavior towards each other in a deeper way than most teams I’ve seen in action. Finally, after just a few days, we see a lot of teams forming up, starting to depend on each other and most important care for each other.
 
 Our accelerated career program is not to become programmers. It’s about becoming developers. A key skill for developers today is a solid understanding of how teams work and operate. Our developers get this training from the get-go of the course and then keep working on developing these skills. And that means that we have seen many of our “junior” developers take on responsibilities to develop the teams they end up in for our customers.
-
-
-
