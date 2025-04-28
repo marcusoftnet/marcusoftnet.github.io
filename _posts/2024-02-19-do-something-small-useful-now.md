@@ -60,9 +60,9 @@ Someone looked into the build and we found a little change that would make our S
 
 So we made that change. And the build was a few minutes faster for a few sections. The build now took 1 hour 40 min.
 
-Then, just a few days later someone came up to me and said; we actually played around with parallellizing some of the build steps. But it was a bit messy, so we left it half-done. When asked how much was left they told me a few hours.
+Then, just a few days later someone came up to me and said; we actually played around with parallelizing some of the build steps. But it was a bit messy, so we left it half-done. When asked how much was left they told me a few hours.
 
-Turns out it was a bit more complicated than that. But, they told me, `when I looked into parallellizing I thought about getting SSD-disks for our cloud service`.
+Turns out it was a bit more complicated than that. But, they told me, `when I looked into parallelizing I thought about getting SSD-disks for our cloud service`.
 
 `DO SOMETHING SMALL`
 
@@ -89,7 +89,7 @@ All in all, this promises to take the build time down to around 20-30 minutes in
 
 The thing here is not that we made good changes (although we did). It's that we made small changes and started to do something.
 
-`It is in doing the work we discover the work we need to do` is another Woody Zuil quote that I love.
+`It is in doing the work we discover the work we need to do` is another Woody Zuill quote that I love.
 
 To conclude our journey is just one simple example of what can happen if we let people do something. But remember, that advice from Father ASCII:
 

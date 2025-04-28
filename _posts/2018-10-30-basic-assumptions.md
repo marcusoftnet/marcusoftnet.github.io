@@ -36,7 +36,7 @@ Well No. Because if we take the stance that everyone did the best, given the inf
 
 If someone did something that we considered stupid, selfish or evil even, then we can now ask ourselves (thanks [Dan North](https://dannorth.net/):
 
-> What is true in their world, to make that behaviour reasonable for them?
+> What is true in their world, to make that behavior reasonable for them?
 
 Or in system thinking terms:
 

@@ -56,7 +56,7 @@ Game of Life is often used as a kata (coding exercise) as it has simple rules, b
 
 ## The plan and HATEOAS
 
-Just about all implementations of Conways Game of Life is works with the whole grid, looping through the rows and cells, but I wanted to try to drive the game from changes that happens to each cell. Cell by cell instead.
+Just about all implementations of Conway's Game of Life is works with the whole grid, looping through the rows and cells, but I wanted to try to drive the game from changes that happens to each cell. Cell by cell instead.
 
 Which led to to think about HATEOAS (I have no idea how to pronounce that...), which Dr Roy Fielding, talked about in his PhD thesis on REST and among other places. HATEOAS stands for Hypermedia as the Engine of Application State and can easily be understood as the hypermedia describes the current state of an application. Not only the state, by the way, but also links to the next actions you can take etc.
 

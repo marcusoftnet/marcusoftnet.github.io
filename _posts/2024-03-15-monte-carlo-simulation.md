@@ -62,12 +62,12 @@ First I import all relevant rows using the powerful [`QUERY`-function](https://s
 This will give you all the columns from the RawData-tab and then we can create an additional column to calculate Flow time in the E-column:
 
 ```text
-=DATEDIF(C2, D2, "d") +1 
+=DATEDIF(C2, D2, "d") +1
 ```
 
 Fill the entire column with this formula, calculating the Flow time in days for each row.
 
-Now we want to calculate the Median (50%), 80%-percentile and 95%-percentiles for this data. This will be used as our prognosis data. Add these forumlas in the F, G and H columns
+Now we want to calculate the Median (50%), 80%-percentile and 95%-percentiles for this data. This will be used as our prognosis data. Add these formulas in the F, G and H columns
 
 | F                       |  G                      |  H                       |
 | :---                    | :---                    | :---                     |
@@ -78,7 +78,7 @@ Now fill all of those columns too, and calculate the percentiles for each row. Y
 
 Select all the columns and create a scatter plot using the Flow time, Median, 80, and 95 percentiles. For the percentiles format the series to have `Point size` set to None and only show a trend line. It should look like this
 
-![Scatterplot with predictions](/img/scatter-plot-with-predictions.png)
+![Scatter plot with predictions](/img/scatter-plot-with-predictions.png)
 
 And here we can now see that 50% of all values fall beneath the red, median line, which is at 8 days. And similar for the 80% and 95% line.
 
@@ -104,7 +104,7 @@ Open a new tab and call it ["Throughput"](https://docs.google.com/spreadsheets/d
 
 In the B-column, we can now count the number of times each date occurs in the raw data, using the following formula: `=COUNTIF(RawData!$D$2:$D, A2)` and repeat the formula for each row in the B-column.
 
-UPDATED: If you download some data from JIRA you will get timestamps for your Resolved dates and we really need only the date part. Here's a QUERY that reads the Resolve date (in the `X`-column of the sheet `Jira raw data`) and counts the number of occurances. I.e. the formulas above all at once:
+UPDATED: If you download some data from JIRA you will get timestamps for your Resolved dates and we really need only the date part. Here's a QUERY that reads the Resolve date (in the `X`-column of the sheet `Jira raw data`) and counts the number of occurrences. I.e. the formulas above all at once:
 
 ```text
 =QUERY(INDEX(DATEVALUE('Jira raw data'!X:X)),"SELECT Col1,COUNT(Col1) group by Col1 ORDER BY Col1 DESC Label Col1 'Date', COUNT(Col1) 'Throughput'")
@@ -145,8 +145,8 @@ I've added an additional parameter for `countOnlyWorkdays` which is `true` by de
 You can define custom functions in Google Sheets by going to Extensions->App Script and creating a function in the code editor. The code we write here is some variant of JavaScript and I had to write a few helper-functions to perform the Monte Carlo Algorithm, but here is the outline of the code. I'll show the entire code at the end of the post
 
 ```javascript
-function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
-  const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(througputDataRangeName));
+function MonteCarloSimulateBacklogCompletion(throughputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
+  const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(throughputDataRangeName));
 
   var projectedDates = []
   for(var i=0; i<=numberOfSimulationRuns; i++){
@@ -240,7 +240,7 @@ That will take some time to run (5 seconds ca for 100000 rows) but then we would
 
 You can now create a simple Column chart for all the values in `G:H` and it would look something like this:
 
-![Historgram for completion days after simulating 100000 runs](/img/distribution-of-simulated-completion-dates.png)
+![Histogram for completion days after simulating 100000 runs](/img/distribution-of-simulated-completion-dates.png)
 
 If you update the parameters the simulation will rerun and the graph will be updated. However, during the run, the graph disappears and other values cannot be calculated.
 
@@ -248,7 +248,7 @@ If you update the parameters the simulation will rerun and the graph will be upd
 
 That is cool but the prognosis is a bit hard to see. We wanted to get some certainties and ranges...
 
-For this, we need to calculate the percentiles for this data, which is a little bit tricky. For the 50-percentile we need to find the middle date, for example. We will do that by using [`INDEX` that finds](https://support.google.com/docs/answer/3098242?hl=en) a value from a range based on a row number.  
+For this, we need to calculate the percentiles for this data, which is a little bit tricky. For the 50-percentile we need to find the middle date, for example. We will do that by using [`INDEX` that finds](https://support.google.com/docs/answer/3098242?hl=en) a value from a range based on a row number.
 
 That makes our job pretty easy - we just count the number of values and multiply it with `0.5` (for 50%, for 80% we use `0.8` etc.). Here are my calculations:
 
@@ -262,13 +262,13 @@ That makes our job pretty easy - we just count the number of values and multiply
 Now we can answer the initial question like this:
 
 ```text
-If we started today, 2024-03-14, we would finish 100 items from the backlog: 
+If we started today, 2024-03-14, we would finish 100 items from the backlog:
 
 - With 50% certainty 2024-06-10
 - With 80% certainty 2024-07-03
 - With 95% certainty 2024-07-16
 
-We used a Monte Carlo Simulation with 100000 iterations and based it on our throughput for the last 178 days. 
+We used a Monte Carlo Simulation with 100000 iterations and based it on our throughput for the last 178 days.
 ```
 
 ## Summary
@@ -288,7 +288,7 @@ function rangeToFlatArray(range) {
 
 function randomFromArray(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
-} 
+}
 
 function addWorkdays(startDate, numWorkdays) {
     // Loop through each workday and add to startDate
@@ -317,7 +317,7 @@ function addDays(date, days) {
 }
 
 function getUniqueDays(dateArray) {
-  return dateArray.filter((date, i, self) => 
+  return dateArray.filter((date, i, self) =>
     self.findIndex(d => d.getTime() === date.getTime()) === i
   ).map(d => d.toISOString().split('T')[0])
 }
@@ -341,17 +341,17 @@ function daysToReachZero(values, backlogSize) {
 
 /**
  * Simulates end dates to complete the backlog using the Monte Carlo Simulation
- * 
- * @param {range} througputDataRangeName A range of actual things completed per day
+ *
+ * @param {range} throughputDataRangeName A range of actual things completed per day
  * @param {number} numberOfSimulationRuns The number of runs to do. More is better, but also slower. 10000 is probably good enough.
  * @param {number} backlogSize The size of the backlog, and number of items, to use in the simulation
  * @param {date} startDate The date to use as the start date for the calculation
  * @param {boolean} countOnlyWorkdays Indicates if only workdays should be counted, true by default
- * @return unique dates and times each date occurred in the simulation [date, number of occurrances]
+ * @return unique dates and times each date occurred in the simulation [date, number of occurrences]
  * @customfunction
  */
-function MonteCarloSimulateBacklogCompletion(througputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
-  const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(througputDataRangeName));
+function MonteCarloSimulateBacklogCompletion(throughputDataRangeName, numberOfSimulationRuns, backlogSize, startDate, countOnlyWorkdays = true) {
+  const throughputValues = rangeToFlatArray(SpreadsheetApp.getActive().getRange(throughputDataRangeName));
 
   var projectedDates = []
   for(var i=0; i<=numberOfSimulationRuns; i++){

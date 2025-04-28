@@ -42,7 +42,7 @@ As a nice side effect of having these discussions with the client you end up wit
 
 That means that you could run the examples you talked about against your system and they will tell you if you have implemented the feature as discussed or not. Your examples have become an **executable specification**.
 
-This was a super short introduction to the vast subject Specification by example (aka [Behaviour Driven Development BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)). If you haven't heard about it before I encourage you to check it out. It changed my life - and will change yours too if you give it a chance. It's a more fun way to do better code!
+This was a super short introduction to the vast subject Specification by example (aka [behavior Driven Development BDD](http://en.wikipedia.org/wiki/Behavior-driven_development)). If you haven't heard about it before I encourage you to check it out. It changed my life - and will change yours too if you give it a chance. It's a more fun way to do better code!
 
 Specification by example is not about the tools. It's actually mostly about the conversations that you and your client have around the examples. So to honor that very important fact - let's talk tools:
 

@@ -32,7 +32,7 @@ When you use `create-react-app` it includes some special scripts that encapsulat
 
 ## No watch, please
 
-And I don't, in the case of running tests, want it to automatically enable watching for file changes. In `react-script tests` this is the [default behaviour](https://github.com/facebook/jest/issues/2765)
+And I don't, in the case of running tests, want it to automatically enable watching for file changes. In `react-script tests` this is the [default behavior](https://github.com/facebook/jest/issues/2765)
 
 ## The solution
 

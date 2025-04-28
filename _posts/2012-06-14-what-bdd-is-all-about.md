@@ -17,13 +17,13 @@ I got an email from a colleague a couple of weeks back. We were members of the s
 
 We had a lot of discussions about [TDD](http://en.wikipedia.org/wiki/Test-driven_development) and if it's feasible or pay off. This project made me realize that TDD done backwards (writing unit tests after the production code) is not only NOT TDD but also doesn't pay off.  But as I am dunked deeply in the BDD pool I suggested that we've take a look at that and get started that way. I never got through there...
 
-So I was very happy when he wrote me an email with a link to [an article](http://devblog.cloudreach.co.uk/2012/05/behaviour-driven-development-in-net.html) that talk about doing BDD with [SpecFlow](http://specflow.org/) and [White](http://white.codeplex.com/). The question was simply; Is this how BDD is done?
+So I was very happy when he wrote me an email with a link to [an article](http://devblog.cloudreach.co.uk/2012/05/behavior-driven-development-in-net.html) that talk about doing BDD with [SpecFlow](http://specflow.org/) and [White](http://white.codeplex.com/). The question was simply; Is this how BDD is done?
 
 This was a temptation that I couldn't resist... I thought I'll drop the answer in here too.
 
 "Dear anonymous colleague,
 
-Firstly [that article](http://devblog.cloudreach.co.uk/2012/05/behaviour-driven-development-in-net.html) talks a lot about tools ([SpecFlow](http://specflow.org/), [NUnit](http://www.nunit.org/) and [White](http://white.codeplex.com/) in this case) and they are all great tools and I think he sketchs out a good process as well. But here's the thing - BDD is not about tools!
+Firstly [that article](http://devblog.cloudreach.co.uk/2012/05/behavior-driven-development-in-net.html) talks a lot about tools ([SpecFlow](http://specflow.org/), [NUnit](http://www.nunit.org/) and [White](http://white.codeplex.com/) in this case) and they are all great tools and I think he sketchs out a good process as well. But here's the thing - BDD is not about tools!
 
 I'll say that last part again; **BDD is a communication tool and is not about the tools**.
 
@@ -46,4 +46,4 @@ To sum up - yes that article is a describes a way to do BDD - but thats only the
 
 Read more (and better probably) here: [http://dannorth.net/introducing-bdd/](http://dannorth.net/introducing-bdd/), [http://dannorth.net/whats-in-a-story/](http://dannorth.net/whats-in-a-story/).
 
-Thanks for giving me the opportunity to write this. I had to think hard, as I knew that bright guys like you are going to read this. 
+Thanks for giving me the opportunity to write this. I had to think hard, as I knew that bright guys like you are going to read this.

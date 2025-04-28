@@ -28,7 +28,7 @@ What I meant with the first statement (tweet above) is a reaction to a phenomena
 
 For example; someone needs to pull a lot of strings and flex their personal network to get a computer installed with the correct administrative rights. Or instead of putting a ticket in the ticket system someone calls someone else that can take a look on our thing before others. Or the project manager that keeps nagging for people until the other party simply gives up and lets them have the people just to have the nagging stop. Or the function that got developed and test over night by a team that already was dead tired Or … Or …
 
-I'm sure you've seen a lot of other examples like these. What really saddens me is that I often see organisations take advantage of this, almost expecting it or at least hailing that behaviour as something awesome. People with a personal network easier/faster get things done since they knows their way around the informal organisation. We love to have those people on our team.
+I'm sure you've seen a lot of other examples like these. What really saddens me is that I often see organisations take advantage of this, almost expecting it or at least hailing that behavior as something awesome. People with a personal network easier/faster get things done since they knows their way around the informal organisation. We love to have those people on our team.
 
 Project managers are praised for a drive that helps them accomplish projects that had very little possibilities to succeed in the outset.
 

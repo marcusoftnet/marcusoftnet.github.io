@@ -63,7 +63,7 @@ const get = async (ctx, id) => {
 };
 ```
 
-This is one of those times where integration tests are nice. Because we didn't change the behaviour and external API but only the internals.
+This is one of those times where integration tests are nice. Because we didn't change the behavior and external API but only the internals.
 
 Because it works… But does it really… No and I'll try to explain why.
 

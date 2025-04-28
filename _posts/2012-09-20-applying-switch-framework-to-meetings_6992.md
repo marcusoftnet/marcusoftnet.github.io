@@ -22,7 +22,7 @@ Let's go!
 
 ### Tweak the environment
 
-The reasoning under this heading is that if you change the situation, the context we act in the change in the behaviour will follow. For example - if you have a system for queuing up calls in a call center ... a lot of calls will be in queue. To get quicker response time, throw the system out and have direct access. A bit brutal example but you get what I'm aiming at.
+The reasoning under this heading is that if you change the situation, the context we act in the change in the behavior will follow. For example - if you have a system for queuing up calls in a call center ... a lot of calls will be in queue. To get quicker response time, throw the system out and have direct access. A bit brutal example but you get what I'm aiming at.
 
 So what could we do to tweak the environment to make better, more qualitative meetings happen?
 

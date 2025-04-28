@@ -50,7 +50,7 @@ I don't buy it. Not one bit. But I've heard it so many times that I'm starting t
 
 Instead - I think that the sender also has a responsibility for the message being expressed. Sure, you can trust the receiver to `assume positive intent` but why make it as hard as possible?
 
-And think about this - everyone else who heard you express your well-intended message in a ... harder-to-intrepret-than-needed way, how will they express their message the next time? It will affect us since interactions like this build our culture.
+And think about this - everyone else who heard you express your well-intended message in a ... harder-to-interpret-than-needed way, how will they express their message the next time? It will affect us since interactions like this build our culture.
 
 ## What to do then?
 
@@ -62,7 +62,7 @@ Yesterday a friend said it like this `Culture is worst thing we accept`.
 
 Hence, we need to address this. If we want the receiver of a message to `Always assume positive intent` I think it's quite reasonable to also require the same of the sender of messages. There's a whole book on this subject - [The No Asshole Rule](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/1600245854) and anything you can read about how to give constructive feedback will help.
 
-When someone, the receiver OR sender, seems to struggle to see the positive intention we could ask them why. Typically there are other things behind behaviour like that - maybe they need help? Assuming a positive stance in that conversation is a good start, to be honest. And to not take that conversation publically...
+When someone, the receiver OR sender, seems to struggle to see the positive intention we could ask them why. Typically there are other things behind behavior like that - maybe they need help? Assuming a positive stance in that conversation is a good start, to be honest. And to not take that conversation publicly...
 
 To sum up I cannot come up with a short, snappy saying like the original but if I were pressed to write something it would be
 

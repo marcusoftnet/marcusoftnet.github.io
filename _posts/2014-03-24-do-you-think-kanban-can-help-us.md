@@ -60,7 +60,7 @@ Secondly, more specific to your situation maybe, I think what you are suggesting
 
 When you draw it - make sure it's made for changing. The only thing that is certain is that it's not correct. I usually draw my boards quickly (sloppy?) and on a whiteboard to indicate that this is just "best so far".
 
-Then you should start to think about what kind of behaviour you want to see. You wrote that each developer is working on his separate projects. Do you want to move away from that? Or is that what you want to see in the future as well?
+Then you should start to think about what kind of behavior you want to see. You wrote that each developer is working on his separate projects. Do you want to move away from that? Or is that what you want to see in the future as well?
 
 In Lean we focus on shortening lead-times (time from order to delivery, the whole process). Or put differently; if you put yourself in the the shoes of the customer; what do you want then? Would the customers need be address with higher quality, and faster if you started to work together?
 

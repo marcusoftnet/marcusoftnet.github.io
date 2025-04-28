@@ -16,7 +16,7 @@ Last Thursday I facilitated a [Elevate](http://blog.avegagroup.se/elevate/)-work
 
 I wanted to take some time to put down my thoughts and findings about the framework, BDD in general and some other stuff I have ran into.
 
-#### BDD – Behaviour driven design
+#### BDD – behavior driven design
 
 I don’t want to go into [explaining BDD](http://dannorth.net/introducing-bdd) since it's been done [several](http://blog.wekeroad.com/2009/09/21/make-bdd-your-bff-2) [times before](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/) (I can really recommend the last Steven Sanderson post – excellent!) in a much better ways than I could ever do. Go on and read them if you want – I’ll wait right here.
 

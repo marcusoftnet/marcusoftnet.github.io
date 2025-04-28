@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Value vs valueable - another aha-moment"
+title: "Value vs valuable - another aha-moment"
 author: "Marcus Hammarberg"
 date: 2024-03-11 08:00:00
 tags:
@@ -11,7 +11,7 @@ English is not my first language, as I'm sure any reader of this blog knows. But
 
 I still remember when I understood the difference between effectiveness and efficiency. Those are the same word in Swedish, but when I understood the difference a lot of things made sense when it comes to agile and lean stuff. [Read more here](https://www.marcusoft.net/2014/10/effective-revisted.html)
 
-Last week I had another revelation like that - when I realized the difference between value and valueable. According to [Dave Farley it's a common](https://www.youtube.com/watch?v=0HMsh459h5c) mistake he sees for teams to adopt user stories effectively. I think he is right.
+Last week I had another revelation like that - when I realized the difference between value and valuable. According to [Dave Farley it's a common](https://www.youtube.com/watch?v=0HMsh459h5c) mistake he sees for teams to adopt user stories effectively. I think he is right.
 
 <!-- excerpt-end -->
 
@@ -41,7 +41,7 @@ When using TDD to write code you follow a few steps to ensure that you are writi
 1. **Run the code and watch it fail.** This is important since you want to test your assumption that the functionality didn't exist yet. I've often been surprised to see tests pass at this stage, just to realize that I wrote the test badly.
 1. **Write the smallest possible implementation to make the test pass**. This is important since you will here validate that the test will pass if return the correct answer. Quite often you will here start by returning a hard-coded value. For the test "1+1 should be 2" we write some code that always returns 2. And watch the test pass.
 1. **Refactor the code**. This is the step where we change the code to do something intelligent in a proper way. It is important that we make changes to the code at this step since we now have a test that will tell us if we break anything while making the code do the right thing.
-1. **Create another test**. If needed, that is; if the functionality is not yet valueable, go back to 1 and start over.
+1. **Create another test**. If needed, that is; if the functionality is not yet valuable, go back to 1 and start over.
 
 The first few iterations of your code are rarely the version that you end up with, but it has some value. Just like user stories.
 

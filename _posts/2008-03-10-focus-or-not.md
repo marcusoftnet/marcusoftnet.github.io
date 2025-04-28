@@ -30,7 +30,7 @@ rocking, as it of course would.
 
 But it has come to my attention that readers of the blog are missing
 some personal comments on non-IT stuff. This is trademark Marcus Hammarberg
-behaviour - I get swallowed by new thing.
+behavior - I get swallowed by new thing.
 
 But I wont leave you hanging out there with nothing to do... So here
 above are some short postings on interesting things that have happened

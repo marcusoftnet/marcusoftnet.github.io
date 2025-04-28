@@ -142,7 +142,7 @@ Well… he is not just following our values now, is he? Is he working for anothe
 
 My simple tip is this:
 
-> Use the values of the company when you describe the behaviour you want to see.
+> Use the values of the company when you describe the behavior you want to see.
 
 Do not do the negative thing, the "Marcus"-versions above, at least not in public. Do much more of the positive. Hey - [do only that](http://developeronfire.com/podcast/episode-054-woody-zuill-turn-up-the-good)! Positive reinforcement is a powerful tool.
 
