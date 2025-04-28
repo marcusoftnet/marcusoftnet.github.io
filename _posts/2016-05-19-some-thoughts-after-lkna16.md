@@ -36,7 +36,7 @@ Throughout the two days there was a few themes, new and old, that at least I had
 
 This touches nicely on another idea that is very strong in the kanban community; metrics and models. I'm not personally strong in this, I realised after these days, but it's a strong trend to measure and track your progress and drive your improvements using models, not only the scientific method.
 
-But where then? What is better? HA - funny you should ask. I don't think I was in a single conversation that didn't end up talking about Why. Why are we doing this? How can we be more crisp in our communication of our purpose and making sure that everyone in the organisation, or team even, pulls towards the same goal. I think metrics play a vital role here, but you have to use that tool with care since you "might just get what you measure".
+But where then? What is better? HA - funny you should ask. I don't think I was in a single conversation that didn't end up talking about Why. Why are we doing this? How can we be more crisp in our communication of our purpose and making sure that everyone in the organization, or team even, pulls towards the same goal. I think metrics play a vital role here, but you have to use that tool with care since you "might just get what you measure".
 
 I attended an excellent work shop with my good friend [Christophe Achouiantz](https://twitter.com/ChrisAch) that spoke solely about how to define your purpose and making sure that you progress and improve towards that goal. Get his [slides for the workshop from here](http://leanagileprojects.blogspot.com/2016/05/from-good-enough-to-great-workshop.html), powerful stuff:
 

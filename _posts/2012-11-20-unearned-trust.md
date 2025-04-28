@@ -58,7 +58,7 @@ people (by the way - you must see
 target="_blank">Liz Keogh's talk on the subject from Lean Agile
 Scotland</a>). This means that we take the needs and goals of the
 individual workers into consideration as we strive to reach the goals of
-the organisation.
+the organization.
 
 But it also mean that we foster a culture of team work and autonomy, in
 the sense that the team take responsibility for their own work.

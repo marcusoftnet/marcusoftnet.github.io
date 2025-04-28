@@ -55,7 +55,7 @@ By applying, for example, SAFe to a few teams we lock ourselves into SAFe-thinki
 
 What if the practice needs to evolve? I remember when RUP (Rational Unified Process) was _the way_ to do things. It failed, since it builds on the notion of long feedback loops which has turned out to be really hard to implement.
 
-Or did it… No it didn't, because it stated clearly that you should only use the part of RUP that supports you and your organisation. But everyone (that I saw) still implemented everything of it. Just because it was there and, more importantly, because no-one knew where we going;
+Or did it… No it didn't, because it stated clearly that you should only use the part of RUP that supports you and your organization. But everyone (that I saw) still implemented everything of it. Just because it was there and, more importantly, because no-one knew where we going;
 
 - This big SAD document feels so stupid - should we stop doing it, do it better, do it in iterations, AAAAH - what is it?
 - We really should change the way we write these sequence diagrams, it doesn't gives me value most of the time. "Ap ap ap - that's not RUP. RUP tells us to …"

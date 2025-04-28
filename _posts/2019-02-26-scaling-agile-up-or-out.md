@@ -41,7 +41,7 @@ As you probably see scaling up or scaling out has two very different problem set
 ## Agile teams
 Now imagine that we have a hugely sucessful agile little team; the payment team. They have made wonders not only building, but also developing and running all the payment services in our company.They are 5 people, including the product manager for the payment services.
 
-Obviously we want this success story to spread. To all the 200 people in the organisation.
+Obviously we want this success story to spread. To all the 200 people in the organization.
 
 ### Scaling up
 **Scaling up** in this context could obviously mean that we make one big team or even double the team in size. But that doesn't make much sense, in most cases I've seen.  We are hopefully past that stage of agile maturity.

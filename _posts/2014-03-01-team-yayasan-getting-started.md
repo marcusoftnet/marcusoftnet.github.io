@@ -59,7 +59,7 @@ Finally we created a wiki where we added information around each hospital and cl
 When we had done that we started to have a conversation about where this would lead us. It would lead to greater transparency and that's a really good thing, was the common conclusion in the team. We decided to press on with this idea. I summarised our thinking in a couple of keywords and created a wiki about it. Here's an extract of it
 
 > **Transparency** - We believe that we should seek more and more transparency. It fosters a good and open culture of collaboration and openness. In a transparent setting its easier to get help, easier to share information and harder to hide and do bad things.
-> Ultimately this leads to trust being built up and shared among the members of the organisation. We trust each other to do good and I, as member of the organisation, knows that everything I do will be visible for everyone else in the organisation.
+> Ultimately this leads to trust being built up and shared among the members of the organization. We trust each other to do good and I, as member of the organization, knows that everything I do will be visible for everyone else in the organization.
 
 > **Service minded** - Yayasan without clinics and hospitals are truly useless.
 > A hospital or clinic could get by without the hospital.

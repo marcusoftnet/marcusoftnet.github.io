@@ -182,6 +182,6 @@ The beauty of this is that the Deliverables now actually are the stickies on our
 
 ## Summary
 
-Now I can pick up a sticky on our board, I can see Why we are doing this now and how it connects not only to the immediate goal but also how it contributes to the overall vision and goal for our organisation.
+Now I can pick up a sticky on our board, I can see Why we are doing this now and how it connects not only to the immediate goal but also how it contributes to the overall vision and goal for our organization.
 
 In this post I've used an example with mostly organisational and process changes, but I'm sure you can see how this can be useful for building new features too.x

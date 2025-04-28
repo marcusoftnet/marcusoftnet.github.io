@@ -112,7 +112,7 @@ Scrum - as described - is (sounds) super effective. I get really inspired. But r
 
 ## Conclusion
 
-I have no real problem with Scrum. It is really effective. However, in order to be that effective, there has to be some, in my experience, pretty massive adjustments from the rest of the organisation.
+I have no real problem with Scrum. It is really effective. However, in order to be that effective, there has to be some, in my experience, pretty massive adjustments from the rest of the organization.
 
 That doesn't mean that Scrum can be used, in part, to still give you some (significant?) improvements. However it's then not Scrum (TM) - and you don't have to care about that.
 

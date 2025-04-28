@@ -40,7 +40,7 @@ This talk is now turned into a [book that you can get here.](http://bit.ly/bungs
 
 ### Audience
 
-This can be enjoyed by anyone in your organisation. It is a great way to introduce agile and lean, on a concept level to other parts of the organisation, than you normally talk agile in.
+This can be enjoyed by anyone in your organization. It is a great way to introduce agile and lean, on a concept level to other parts of the organization, than you normally talk agile in.
 
 ### Length
 
@@ -97,7 +97,7 @@ Through my consultancy, I've met many companies in different fields of work (fro
 
 I have therefore collected a long list (36 and growing) of practices that I keep coming back to in my recommendations and while helping teams and organizations.
 
-This session is very practical but ties back to the theories behind kanban, lean and agile as the need arises. Most of the tips focus on one team / one board, some of the practices have implications and benefits for the larger organisation.
+This session is very practical but ties back to the theories behind kanban, lean and agile as the need arises. Most of the tips focus on one team / one board, some of the practices have implications and benefits for the larger organization.
 
 The session can be run in several different modes:
 

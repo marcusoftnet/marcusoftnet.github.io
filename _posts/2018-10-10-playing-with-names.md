@@ -11,7 +11,7 @@ tags:
 
 At my current client, we are trying to make a change to focus more on [flow than on resource utilization](http://www.marcusoft.net/2018/05/thinking-in-flow-some-recent-thoughts.html). This is harder than it sounds because much of the current ways of working, structures, roles and rewards are built to support another mindset.
 
-One of the things that lately have popped up for me are the words we are using to describe the roles we have in different parts of the organisation. This heavily prevailing in the IT-industry and maybe agile actually has helped to cement a few of these (an [excellent keynote by Michael Feathers](https://www.youtube.com/watch?v=odJ8esf2h6E) put me onto that idea).
+One of the things that lately have popped up for me are the words we are using to describe the roles we have in different parts of the organization. This heavily prevailing in the IT-industry and maybe agile actually has helped to cement a few of these (an [excellent keynote by Michael Feathers](https://www.youtube.com/watch?v=odJ8esf2h6E) put me onto that idea).
 
 This also ties into a great quote from [David L. Marquet and his excellent Turn the Ship around book](https://www.amazon.com/Turn-Ship-Around-Turning-Followers-ebook/dp/B00AFPVP0Y)
 
@@ -41,7 +41,7 @@ He left and started to fix the problem by reaching out to the torpedo-delivery t
 
 ## In the office
 
-There are many voices in the agile community now being raised to do away with the notion of "Projects". As in a software development effort that we start at some point in time and then end - handing over whatever we produced to a governing organisation.
+There are many voices in the agile community now being raised to do away with the notion of "Projects". As in a software development effort that we start at some point in time and then end - handing over whatever we produced to a governing organization.
 
 - At my current client, we are bouncing ideas about not having "Developing" and "Maintenance" as two separate roles. All we do would be "Developing". Or "Maintenance". Or work plain and simple.
 - Still to this day I, also, hear people talking about work being handed over to "Testing". As if the work is now someone else's problem and that quality can be fixed, magically by testing really good. Quality is (should be) built into the product from the start.

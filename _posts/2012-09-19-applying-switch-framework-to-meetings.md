@@ -75,7 +75,7 @@ Shu Ha Ri the reasoning about how you learn new techniques in martial arts.
 
 **Ri** means Leave the rules. Make up new rules for yourself. When you are the master you can make up new techniques.
 
-So here we want some really simple rules or guidelines to follow. In our case this can be as simple as guidelines for how to hold effective meetings, that are distributed to all meeting rooms, for example. And probably taught to the whole organisation. Why not when you are hired?
+So here we want some really simple rules or guidelines to follow. In our case this can be as simple as guidelines for how to hold effective meetings, that are distributed to all meeting rooms, for example. And probably taught to the whole organization. Why not when you are hired?
 
 For simple rules I would go with for example these (some [ideas borrowed from here](http://michaelhyatt.com/seven-rules-for-more-effective-meetings.html)):
 

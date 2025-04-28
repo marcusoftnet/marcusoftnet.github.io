@@ -97,7 +97,7 @@ What good is continuous improvement within a small cell or team? Sure they might
 
 In my opinon it's because [the urge to change](http://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organisational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
 
-Sometimes those changes can be very challenging for an organisation. You never know what it can be; one instance that comes to mind is that we couldn't have a person from one team sit next to other team. By contract. We'd get sued if we did.
+Sometimes those changes can be very challenging for an organization. You never know what it can be; one instance that comes to mind is that we couldn't have a person from one team sit next to other team. By contract. We'd get sued if we did.
 
 But if we are already doing pretty good, make money and everyone is generally happy - I don't think that organizations have the will power to change this. At least not fast enough to make a difference.
 
@@ -106,7 +106,7 @@ One time I've lean implemented fast and smooth was in [RS Bungsu, the Indonesian
 * were virtually bankrupt
 * a collapsed roof over 60% of the hospital area
 * not valid permit
-* no support from mother organisation, that wanted to sell the hospital
+* no support from mother organization, that wanted to sell the hospital
 
 They were ready to challenge everything they did and do something different. We turned that hospital around in about 1,5 year into becoming profitable, renovated, certified and using a hypothesis driven business model.
 

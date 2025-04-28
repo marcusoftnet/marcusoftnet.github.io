@@ -65,7 +65,7 @@ Ok - let's try to analyse the problems we saw here.
 
 Well first of all you get depressed by banging your head like this against the administrative wall of Kafka. It does not spark innovation and joy, or what do you think?
 
-If you are subjected to this kind of slowness for long you will start to whine and talk badly or sarcastically about your own organisation.
+If you are subjected to this kind of slowness for long you will start to whine and talk badly or sarcastically about your own organization.
 
 I'd rather work in a place where I'm proud of what we do.
 

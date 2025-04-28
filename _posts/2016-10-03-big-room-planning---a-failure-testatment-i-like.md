@@ -47,7 +47,7 @@ As you might have seen on this [blog I'm re-reading the Toyota Kata book](http:/
 
 Getting everyone together in a big room like this, investing in all those meetings, preparation work and effort during the day is just a workaround of a process that cannot handle fast flow of small items.
 
-The fact that we need to get everyone (45+ ppl) together in a room and put all other things aside for 8 hours straight to plan the upcoming 5 weeks in a batch is a testament to that our process and organisation, in it's current form, cannot support a faster flow. We have to meet like this in order to exchange the information needed, and that is only feasible to do in big batches.
+The fact that we need to get everyone (45+ ppl) together in a room and put all other things aside for 8 hours straight to plan the upcoming 5 weeks in a batch is a testament to that our process and organization, in it's current form, cannot support a faster flow. We have to meet like this in order to exchange the information needed, and that is only feasible to do in big batches.
 
 That said - I think that the exercise that we ran today was really good and helped us a lot. Many, many things were clarified during the day, some groups had their first ever common planning and it was the first time we got a business context for the things that we were about to start working with. All good things.
 

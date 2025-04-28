@@ -222,9 +222,9 @@ In this case, the act of formatting the code into it's constitutent parts also h
 
 I now ran the first test and belive it or not, but it worked. Running all the other tests ... did not. It failed on `17.04`. Now I was in real trouble, because fixing this would be impossible. For me.
 
-Until I saw that the error message said that `17.04` is not equal to `17.03832515115`. A roundning error. I can fix that!
+Until I saw that the error message said that `17.04` is not equal to `17.03832515115`. A rounding error. I can fix that!
 
-So I updated my implementation to round to 3 decimals, and changed the test data to use roundning to 3 decimals:
+So I updated my implementation to round to 3 decimals, and changed the test data to use rounding to 3 decimals:
 
 ```scala
 def calculateWetBulbTemperature(temperature: Double, humidity: Double): Double = {
@@ -246,7 +246,7 @@ This part actually ended up taking me about 20 minutes to figure out. Yes, I'm n
 
 With that I'm pretty confident that my 25, or so, test cases and this *stolen* implementation would do the trick. If not I can always add more test cases later, but I would be hard-pressed to think that it would fail.
 
-There's cases where OmniSharp doesn't give an answer (for humidity above 99% and below 5% for example), so trust my alogrithm implementation to handle all other cases too.
+There's cases where OmniSharp doesn't give an answer (for humidity above 99% and below 5% for example), so trust my algorithm implementation to handle all other cases too.
 
 I was very proud when I was done, but really I just used test to verify my work and translated and re-formatted the code. The code was for the most part stolen.
 
