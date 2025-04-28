@@ -84,7 +84,7 @@ test("nanToNoneOrValue returns None if None is passed in") {
   infinityToOption(None) should be(None)
 }
 
-test("nanToNoneOrValue returns None if NaN or inifite") {
+test("nanToNoneOrValue returns None if NaN or infinite") {
   infinityToOption(Some(Double.NaN)) should be(None)
   infinityToOption(Some(Double.NegativeInfinity)) should be(None)
   infinityToOption(Some(Double.PositiveInfinity)) should be(None)

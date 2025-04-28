@@ -13,10 +13,10 @@ I got invited to share a list of my top [five books on leadership and change man
 
 <!-- excerpt-end -->
 
-Because at Shepherd there are A LOT of authors that have done the same thing as I got asked to do: put toghether their best books on topics that they are interested in. And this is very helpful since the world is overflowing with books and finding the good ones is ~~sometimes~~ ~~often~~ hard.
+Because at Shepherd there are A LOT of authors that have done the same thing as I got asked to do: put together their best books on topics that they are interested in. And this is very helpful since the world is overflowing with books and finding the good ones is ~~sometimes~~ ~~often~~ hard.
 
-I've always trusted other peoples reccomendations for what to read and I know of no better people to recommend books on their topic than people that have researched and written about their topic.
+I've always trusted other peoples recommendations for what to read and I know of no better people to recommend books on their topic than people that have researched and written about their topic.
 
-This idea is what Shepherd is all aboout.
+This idea is what Shepherd is all about.
 
 Now if you excuse me, I have some books to read. I just got 8000 new friends that recommended me a few books each...

@@ -129,7 +129,7 @@ However, there's no use trying to sugar coat it. Just tell it as it is. I often 
 
 I think we too often try to soften then blow by painting a picture of something that is just not true. That might feel better now but there will be problems coming around the corner, when we will have to explain why we haven't delivered on our promises.
 
-I've never got in problems by being honest. I have got into problems by trying to soften the blow. Your milage may **not** vary.  
+I've never got in problems by being honest. I have got into problems by trying to soften the blow. Your milage may **not** vary.
 
 ### How we did it
 
@@ -155,7 +155,7 @@ Here we made an over simplification - we started to list activities right off. A
 
 We now turned to one of my favourite tools [Impact mapping](https://www.impactmapping.org/). Impact mapping is, according to the site:
 
-> a strategic planning technique that prevents organisations from getting lost while building products and delivering projects, by clearly communicating assumptions, helping teams align their activities with overall business objectives and make better roadmap decisions.
+> a strategic planning technique that prevents organizations from getting lost while building products and delivering projects, by clearly communicating assumptions, helping teams align their activities with overall business objectives and make better roadmap decisions.
 
 It's also simple to get started and get people up and running. I've used it for all kinds of things, backlogs, workshop documentation etc. Impact mapping is really cool. Here's an example:
 
@@ -168,7 +168,7 @@ It's also simple to get started and get people up and running. I've used it for 
 * Deliverable or What - what do we need to do, in order to impact the actors in the way we want.
   Note that we might try several different things here, maybe even at the same time. Who knows what will be the one that make the impact? Let's keep our options open.
 
-The scope of a typical impact map is 3-6 months, after that we create new map. This is again perfect for our needs in the context this post is about. Longer than that and the diagram will be uninteresting.  
+The scope of a typical impact map is 3-6 months, after that we create new map. This is again perfect for our needs in the context this post is about. Longer than that and the diagram will be uninteresting.
 
 Also, just pick one or two areas for effectiveness. There's no use doing them all at the same time. Limit work in process is very much in process here too. This decision might also effect the scope of your impact map. Let's run for 2 months with one of the "legs" and then reevaluate.
 

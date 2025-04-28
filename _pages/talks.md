@@ -14,7 +14,7 @@ I have done quite a few different talks and workshops during my career and here 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
 | [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and lean saving a hospital in Indonesia | 1 hour    |
 | [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on how kanban can help you and your team to be even better | 1-2 hours |
-| [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the principles behind agile (and lean) | 1-2 hours |
+| [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organizations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the principles behind agile (and lean) | 1-2 hours |
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop, we examine the earlier phases of development and see how lean principles and kanban can help us to improve flow. | 2-3 hours |
@@ -22,11 +22,11 @@ I have done quite a few different talks and workshops during my career and here 
 
 ## The Bungsu Story - inspirational presentation
 
-When you have no operational permit, no customers and the very building you are operating in falls in - most organisations give up. Not so with the Salvation Army hospital in Bandung Indonesia - they decided to try to save the hospital and I was very fortunate to help them in their journey.
+When you have no operational permit, no customers and the very building you are operating in falls in - most organizations give up. Not so with the Salvation Army hospital in Bandung Indonesia - they decided to try to save the hospital and I was very fortunate to help them in their journey.
 
 Me?! A lean/agile coach. A westerner with little to no knowledge in hospital management and operation.
 
-We started to apply the principles of kanban and in doing so turned the hospital around into something amazing. Transforming not only the organisation but also some lives among the people in the staff.
+We started to apply the principles of kanban and in doing so turned the hospital around into something amazing. Transforming not only the organization but also some lives among the people in the staff.
 
 While working with the hospital in this way I gained deeper insight and knowledge about the principles of lean and kanban means and how they can be applied to make us more and more effective. And save us from disaster too...
 
@@ -69,7 +69,7 @@ This is best as a 1-hour presentation - longer than that it is better to run as 
 
 ## Agile - principles over practices
 
-I've found that many teams and organisations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on.
+I've found that many teams and organizations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on.
 
 This leads to us following procedures that don't make sense to us, not getting the most out of what agile can give and that we see no or little improvement over time.
 
@@ -95,7 +95,7 @@ I usually do this as a 1-2 hour presentation, but very frequently follow up with
 
 Through my consultancy, I've met many companies in different fields of work (from internet startup, through big banks and even hospitals in Indonesia). In each of these settings, I have seen some similarities and common challenges.
 
-I have therefore collected a long list (36 and growing) of practices that I keep coming back to in my recommendations and while helping teams and organisations.
+I have therefore collected a long list (36 and growing) of practices that I keep coming back to in my recommendations and while helping teams and organizations.
 
 This session is very practical but ties back to the theories behind kanban, lean and agile as the need arises. Most of the tips focus on one team / one board, some of the practices have implications and benefits for the larger organisation.
 
@@ -124,7 +124,7 @@ This presentation is intended for teams that already are using agile methods and
 
 This workshop will teach you the foundations of kanban in a very practical and entertaining way. Kanban can help you improve your process to more effectively deliver value - no matter what process you are working with now, or how good you are in doing it.
 
-Kanban is just a few basic principles and practices - but the implications of them are hugely powerful, and can change not only your team but in the long run help and improve the entire organisation around you. You will learn how to discover, little by little, how to improve your ways of working to something better than you could imagine, through the evolutionary approach to process improvements.
+Kanban is just a few basic principles and practices - but the implications of them are hugely powerful, and can change not only your team but in the long run help and improve the entire organization around you. You will learn how to discover, little by little, how to improve your ways of working to something better than you could imagine, through the evolutionary approach to process improvements.
 
 Kanban is "just" our guide - not a framework that tells you details on how and what. For this reason, much of the content of the workshop will be driven by your needs, questions and context. This is better than me giving you a rigid framework that most likely will not suit your particular need.
 

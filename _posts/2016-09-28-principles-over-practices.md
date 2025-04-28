@@ -31,7 +31,7 @@ Before I started in that end and often ended up in another - but nowadays I just
 
 ### Creativity
 
-Principles are more powerful since they unlock the creativity and innovation within an organisation and also every individual. If you teach someone a practice (without or little focus on principles) their perception of reality and even language will be formed by that practice.
+Principles are more powerful since they unlock the creativity and innovation within an organization and also every individual. If you teach someone a practice (without or little focus on principles) their perception of reality and even language will be formed by that practice.
 
 I'm sure you have team that is not, [by any measure](http://agileforall.com/are-you-agile-the-nokia-test/), are doing Scrum and still refers to their board as the "Scrumboard". It's not. It's just a visualisation of your work. On a board. And that's perfectly ok - Scrum is not as important as the principle of making work visual so that we know what is going on.
 

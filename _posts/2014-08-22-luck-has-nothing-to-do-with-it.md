@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1103084673136152864
 blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html
 ---
 
-Have you noticed that people and organisations that are great have a lot of luck? And the opposite is also true: a poorly managed companies are unluckier. In my experience.
+Have you noticed that people and organizations that are great have a lot of luck? And the opposite is also true: a poorly managed companies are unluckier. In my experience.
 
 Now, I don't think luck has anything to do with it (no - this is not a post about my Christian faith, please contact me for that :)). Which is good news; because that means that we can control it, do something about it.
 
@@ -41,7 +41,7 @@ No, he wasn't. He was an awesome player. He practiced since forever. And kept pr
 
 ### Example 2 - Company X
 
-I have been working with an organisation lately that was missing a vital permit. They were super late with their application. They official authorities promised to handle things as fast as possible, since they really needed that permit.
+I have been working with an organization lately that was missing a vital permit. They were super late with their application. They official authorities promised to handle things as fast as possible, since they really needed that permit.
 
 Without the permit they were subjected to big risks.
 

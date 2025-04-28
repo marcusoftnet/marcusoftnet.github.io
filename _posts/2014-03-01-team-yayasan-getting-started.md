@@ -33,7 +33,7 @@ Yayasan is Indonesian for Foundation and the Foundation we talk about here is th
 
 My tasks coming to Indonesia was to be a consultant to the Yayasan. However when I got here my first reactions was that the Yayasan was just a couple of boards (Management Board, Trustee board and Supervisory board) that directed and controlled the work of the Yayasan. No one did the work. There was a single women that was the "operations" parts of Yayasan. Amazing as she is that was not sufficient.
 
-The first thing I had to do here was to talk to one of the hospital directors about his frustrations that things was moving so slow. You DON'T say? The Yayasan organisation was set up for control, not for speed.
+The first thing I had to do here was to talk to one of the hospital directors about his frustrations that things was moving so slow. You DON'T say? The Yayasan organization was set up for control, not for speed.
 
 Being me I made my voice clear about this in a couple of meetings, and when you do that you end up doing the work instead. Let that be a lesson to all of you. The Yayasan suggested that I would become ["The executive director" of Yayasan.](http://www.linkedin.com/nhome/updates?topic=5844287070452850688)
 
@@ -44,11 +44,11 @@ That impressive (and a  bit scary) title and be interpreted in two ways:
 
 I go for the second one for now. Feels less scary and also I get my orders and authority from the Management Board so far, so it's probably a more accurate description.
 
-But what we do in the Yayasan Ops office (my nickname) I have control over and could hence get starting Lean and Agile techniques without anyone saying anything.  
+But what we do in the Yayasan Ops office (my nickname) I have control over and could hence get starting Lean and Agile techniques without anyone saying anything.
 
 ### Preparations
 
-After being here for about 3 months now I have spent a lot of time trying to puzzle things together; "where's that document", "who decided that", "haven't you got my email?" I think that has to do with organisations here being set up for control and review to great part. There's not much transparency and hence people-dependent to a great deal.
+After being here for about 3 months now I have spent a lot of time trying to puzzle things together; "where's that document", "who decided that", "haven't you got my email?" I think that has to do with organizations here being set up for control and review to great part. There's not much transparency and hence people-dependent to a great deal.
 
 I thought we should change that and suggested it to the teams. They liked it and we created a site (using the excellent IBM Connections tool) where everyone in the Yayasan could share information with each other.
 

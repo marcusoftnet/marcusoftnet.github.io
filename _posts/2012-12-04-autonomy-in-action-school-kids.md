@@ -65,12 +65,12 @@ end up in the right place or ask for help.
 How do we manage teams or individuals in our business? And why?
 
 Often there's a lot of micromanagement, command and control taking place
-at many organisations (that I've visited). This results in many layers
-of management and they have to work a lot to keep the organisation or
+at many organizations (that I've visited). This results in many layers
+of management and they have to work a lot to keep the organization or
 project together. The more moving parts in the project the more work for
 the project management.
 
-In other organisations teams and individuals are trusted to end up in
+In other organizations teams and individuals are trusted to end up in
 the right place, fulfil the goal that have been set. This result in a
 lot of moving parts that is hard to track and control. But that doesn't
 matter since we trust them to do the right thing.
@@ -83,7 +83,7 @@ kid to his individual home"? That would take for ever and wear the
 teachers out in no time. Instead we release the imagination and power in
 letting them find their own way.
 
-But often, especially in big organisations, we fall back to command and
+But often, especially in big organizations, we fall back to command and
 control. "It's just not safe to let them run around doing whatever they
 want" seems to be the thinking.
 

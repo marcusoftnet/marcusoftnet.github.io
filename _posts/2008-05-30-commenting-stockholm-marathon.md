@@ -16,7 +16,7 @@ blogger_orig_url: http://www.marcusoft.net/2008/05/commenting-stockholm-marathon
 This weekend one of the biggest sports events in Sweden will take place
 in Stockholm - the Stockholm Marathon.
 
-This year the only organisation that is allowed, offically, around the
+This year the only organization that is allowed, offically, around the
 course is the Salvation Army. The Salvation Army in Sweden has decided
 to make an effort to raise money for [water tanks for schools in
 Kenya](http://www.fralsningsarmen.se/dl2/p3/admin.nsf/wwwPublished/fralsningsarmen_startsida_kenya?OpenDocument).

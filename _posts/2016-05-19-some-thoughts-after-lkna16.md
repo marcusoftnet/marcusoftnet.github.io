@@ -32,7 +32,7 @@ One thing that I'm often surprised by after attending a conference is how a them
 
 Throughout the two days there was a few themes, new and old, that at least I had conversations about.
 
-[David Anderssons](http://www.djaa.com/) keynote was about the concept of [anti-fragility and creating robust, resilient and anti-fragile organisations](http://www.slideshare.net/agilemanager/creating-robust-resilient-antifragile-organizations-using-kanban). I've read some of his blog posts on this and I think this not only is a really interesting topic but also a worthy goal. The first basic service any organisation can supply is to still be around, right? But to do that over time you very often need to adapt to new situations and needs. Sometimes, as shown in David's talk, you might need to abandon you original reason-to-be and become something new. IBM was a very interesting example of that (nowadays, out of PC, out of mainframe etc). This is was a anti fragile organisation can do.
+[David Anderssons](http://www.djaa.com/) keynote was about the concept of [anti-fragility and creating robust, resilient and anti-fragile organizations](http://www.slideshare.net/agilemanager/creating-robust-resilient-antifragile-organizations-using-kanban). I've read some of his blog posts on this and I think this not only is a really interesting topic but also a worthy goal. The first basic service any organization can supply is to still be around, right? But to do that over time you very often need to adapt to new situations and needs. Sometimes, as shown in David's talk, you might need to abandon you original reason-to-be and become something new. IBM was a very interesting example of that (nowadays, out of PC, out of mainframe etc). This is was a anti fragile organization can do.
 
 This touches nicely on another idea that is very strong in the kanban community; metrics and models. I'm not personally strong in this, I realised after these days, but it's a strong trend to measure and track your progress and drive your improvements using models, not only the scientific method.
 
@@ -42,9 +42,9 @@ I attended an excellent work shop with my good friend [Christophe Achouiantz](ht
 
 Chris' workshop will be the segue way into the next and final theme that kept popping up: service orientation. Me being a developer this has an old school SOA ring to it and I shrugged a bit at first. But after discussing it a bit there's real power here and it solves a problem I've had for a time.
 
-Because most big organisations don't have products internally - they have services that they supply. Sometimes even externally. And still we try to shoe-horn the concept of products in there; product owner, product backlog, product management etc. When the concept of a service sits much better.
+Because most big organizations don't have products internally - they have services that they supply. Sometimes even externally. And still we try to shoe-horn the concept of products in there; product owner, product backlog, product management etc. When the concept of a service sits much better.
 
-If we now only could [organise ourselves around those services](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organisation model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
+If we now only could [organise ourselves around those services](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organization model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
 
 ## My talk
 

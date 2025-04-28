@@ -73,7 +73,7 @@ continuous delivery is hard stuff!
 
 In a system that has been around for a while we have a big code base, a
 lot of dependencies to other systems, runs on several servers, no
-automated tests and even organisations that guard access to different
+automated tests and even organizations that guard access to different
 parts of the system - continuous delivery is hard.  You have to get all
 of those part aligned and in good shape to be able to create frequent
 releases of the system.

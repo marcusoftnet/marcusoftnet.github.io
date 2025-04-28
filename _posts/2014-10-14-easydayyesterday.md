@@ -94,7 +94,7 @@ First of all; most of us know. At least in the early stages of the improvement j
 
 Secondly; if we take a wrong step it's not a big problem. Unless we do big changes. Which brings us to the second part of my "improve continuously in **small steps**" statement above.
 
-Change is no problem as long as you do small change often rather than big changes seldom. Most people that I encounter that resist change (all kinds of change as general rule of thumb) do so because the changes are too big. And quite often we do "revamps" of entire organisations, or "roll-out" of the new method etc.
+Change is no problem as long as you do small change often rather than big changes seldom. Most people that I encounter that resist change (all kinds of change as general rule of thumb) do so because the changes are too big. And quite often we do "revamps" of entire organizations, or "roll-out" of the new method etc.
 
 But if we do tiny, tiny changes it's no problem if we go the wrong way. It was a tiny change - if it proves to be wrong we just go back.
 

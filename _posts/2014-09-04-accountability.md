@@ -44,7 +44,7 @@ But if you believe in the person to do good and Trust them you have now only spe
 
 What about Accountability then? Yes, I think it's important of course and it might be the formal part of who's actually doing what. "Who are accountable for this project?" This needs to be decided and know in order to have organisational clarity. But I also think that there's another mechanism that we can implement, much easier, that will make Accountability happen automatic, more or less; Transparency.
 
-Transparency means that we try to make information more visible and more known to more and more people in our organisation. In a fully transparent organisation everyone could know everything they wanted.
+Transparency means that we try to make information more visible and more known to more and more people in our organisation. In a fully transparent organization everyone could know everything they wanted.
 
 This doesn't mean that no one is in charge, you will still have people leading and focusing on certain parts and not on others. We can still hold people accountable for the Trust we've given them. And we should that. But we need not to **demand** Accountability - it's there by the virtue of the information being known to everyone that wants to.
 

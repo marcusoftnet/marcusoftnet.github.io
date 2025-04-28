@@ -9,35 +9,35 @@ tags:
  - Life of a consultant
 ---
 
-At [</salt>](https://www.study-at-salt.com/), a boot camp that I've been part of setting up, I get to try all kind of different things that I haven't done before. Mostly around configuring, management and supporting the students computers and our code. 
+At [</salt>](https://www.study-at-salt.com/), a boot camp that I've been part of setting up, I get to try all kind of different things that I haven't done before. Mostly around configuring, management and supporting the students computers and our code.
 
-Just last week we had the need for a simple way to do a copy of our GitHub repositories. I did some research and found a simple way that I've put together in a script. I wanted to share it here. 
+Just last week we had the need for a simple way to do a copy of our GitHub repositories. I did some research and found a simple way that I've put together in a script. I wanted to share it here.
 
 <!-- excerpt-end -->
 
 ## The case
 
-At Salt we have all our code, exercises and test checked in at GitHub. A normal workflow includes the students, cloning the repository to a branch with the name of their mob (programming) team. They then commit code to this repository. 
+At Salt we have all our code, exercises and test checked in at GitHub. A normal workflow includes the students, cloning the repository to a branch with the name of their mob (programming) team. They then commit code to this repository.
 
-This becomes messy as we are running several courses per year and need to keep the different courses separated. 
+This becomes messy as we are running several courses per year and need to keep the different courses separated.
 
-We have, therefor, created a template repository and then make need to make a copy of this template repository for the current course. So we might have a repository called `salt-jsfs-reactstarter` and want a copy, mostly just the master branch, called `salt-jsfs-reactstarter-vt19`, for example. 
+We have, therefor, created a template repository and then make need to make a copy of this template repository for the current course. So we might have a repository called `salt-jsfs-reactstarter` and want a copy, mostly just the master branch, called `salt-jsfs-reactstarter-vt19`, for example.
 
 ## What we need to do
 
-Obviously we could do this by just going to the repository on GitHub and make a new repository and then make a local copy and push that. That is [described here](https://help.github.com/articles/duplicating-a-repository/).  
+Obviously we could do this by just going to the repository on GitHub and make a new repository and then make a local copy and push that. That is [described here](https://help.github.com/articles/duplicating-a-repository/).
 
-But that is boring (i.e. not code :)) and also pretty slow to do if you are going to do it 35 times during 12 weeks. 
+But that is boring (i.e. not code :)) and also pretty slow to do if you are going to do it 35 times during 12 weeks.
 
-We needed a way to do this in a single command. 
+We needed a way to do this in a single command.
 
 ## The tools of the trade
 
-I found a nice little tool called `hub` that you can [read about here](https://hub.github.com/) and install, on OS X, with `brew install hub`. 
+I found a nice little tool called `hub` that you can [read about here](https://hub.github.com/) and install, on OS X, with `brew install hub`.
 
-This opens up a lot of nice commands, but the one that is of particular interest for us is: `hub create` which creates a GitHub repository for us. 
+This opens up a lot of nice commands, but the one that is of particular interest for us is: `hub create` which creates a GitHub repository for us.
 
-In conjunction with `git` itself we now have all the parts we need. 
+In conjunction with `git` itself we now have all the parts we need.
 
 ## How to clone the repository - step-by-step
 
@@ -47,18 +47,18 @@ Let’s say that the template repository is called `marcusoft/salt-jsfs-reactsta
 2. Create the repository using `hub create marcusoft/salt-jsfs-reactstarter-vt19`
 3. You will need to login in with the credentials you access the saltsthlm organisation
 4. Now make a “bare” clone of the template repository `git clone --bare https://github.com/marcusoft/salt-jsfs-reactstarter`
-   1. By adding a flag `--single-branch ` we can ensure that we only copy the master branch (which is default, or by add a name). This what we need for the most cases and hence the script (below) has this set. 
+   1. By adding a flag `--single-branch` we can ensure that we only copy the master branch (which is default, or by add a name). This what we need for the most cases and hence the script (below) has this set.
 5. Now do: `cd salt-jsfs-reactstarter.git`
 6. Mirror-push to the new repository: `git push --mirror https://github.com/marcusoft/salt-jsfs-reactstarter-vt19`
 7. Finally remove the temporary clone stuff: `cd .. && rm -rf salt-jsfs-reactstarter.git`
 
 Now you can ask the students to `git clone https://github.com/marcusoft/salt-jsfs-reactstarter-vt19`, but first give them read/write access in GitHub.
 
-Notice that the name of the organisation (or user) needs to be included in repository name (`marcusoft/salt-jsfs-reactstarter` for example)
+Notice that the name of the organization (or user) needs to be included in repository name (`marcusoft/salt-jsfs-reactstarter` for example)
 
 ## TL;DR - For the love of God - just give me the script!
 
-Ok. Ok. Ok. 
+Ok. Ok. Ok.
 
 First you need to install [hub](https://hub.github.com/) with `brew install hub`.
 
@@ -97,7 +97,7 @@ rm -rf aTemporaryPlace
 cd $cwd
 ```
 
-And then run it with `bash cloneRepository.sh organisation orginal-repo new-repo`, for example `bash cloneRepository.sh marcusoftnet salt-jsfs-reactstarter salt-jsfs-reactstarter`.
+And then run it with `bash cloneRepository.sh organization orginal-repo new-repo`, for example `bash cloneRepository.sh marcusoftnet salt-jsfs-reactstarter salt-jsfs-reactstarter`.
 
 ## Summary
 

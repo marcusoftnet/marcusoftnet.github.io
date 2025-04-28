@@ -57,7 +57,7 @@ For me personal it's quite simple things;
 - Not dragging out - great meetings may even feel a bit too short.
 - Not technical hiccups - leaving us all the time we wanted for the actual content instead of messing around trying to show slides correctly.
 
-If you look around your organisation you will most definitely find people that do this already. If not all of it so some or at least sometimes. What can you do to follow that? How can you get them to do more of it and always hold great meetings?
+If you look around your organization you will most definitely find people that do this already. If not all of it so some or at least sometimes. What can you do to follow that? How can you get them to do more of it and always hold great meetings?
 
 In the next section we will take a look at some more down to earth tips on how to make it work in practice.
 

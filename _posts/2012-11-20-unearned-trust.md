@@ -63,9 +63,9 @@ the organisation.
 But it also mean that we foster a culture of team work and autonomy, in
 the sense that the team take responsibility for their own work.
 
-In order to get there the organisation needs to trust the individuals to
+In order to get there the organization needs to trust the individuals to
 do their best. The individual in turn need to trust not only the other
-members of the team but also the rest of the organisation to do their
+members of the team but also the rest of the organization to do their
 part, not backstab each other and to put the common good before
 themselves.
 
@@ -114,7 +114,7 @@ team, group or company? What if trust was the way we did business here.
 We trust each other.
 
 There's a lot of safety nets and controls that are built into many
-organisations today that exists simply because we don't trust each other
+organizations today that exists simply because we don't trust each other
 to do great work. Don't get me wrong - I'm all for testing for example
 but I seem many organizations where this is taken to control
 mechanism.

@@ -32,6 +32,6 @@ These make up the sprints for the project and hence needs to be named
 (or selected in that box rather)
 \[projectname\]/\[Release\]/\[Sprint\].
 
-The name and organisations of these can be changed and manipulated by
+The name and organizations of these can be changed and manipulated by
 right clicking the project in Team Explorer and choosing Team project
 settings-\>Areas and iterations.

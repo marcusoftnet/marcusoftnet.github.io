@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 ---
 
-I have worked in many different types and sizes of orgnanisations, sometimes in several ages of the organisations growth; and I've noticed something that I don't really understand.
+I have worked in many different types and sizes of organizations, sometimes in several ages of the organizations growth; and I've noticed something that I don't really understand.
 
 When an organization passes the number of people where everyone cannot know everything (20?) something weird happens. You have probably seen it, or maybe (like me) even said this. I have never seen this not happen.
 
@@ -61,7 +61,7 @@ Now, I have also been "on the floor", doing work one parts of the company's over
 
 ## Distance
 
-I'm convinced that one part of this problem has to do with distance. Distanc between:
+I'm convinced that one part of this problem has to do with distance. Distance between:
 
 - the details and the bigger picture
 - the decision and the effects of the decison
@@ -73,7 +73,7 @@ And I don't really know how to solve this, since involving everyone in everythin
 
 Another part of this problem is probably [knowledge deficit fallacy](https://deepstash.com/idea/249690/the-information-deficit-model), which states: `if they/you only knew what I know you would act like me. Since I'm acting logically and base my actions on that information`.
 
-That is not true. It's a myth. Given the same information people will still interpret the facts differently, act on previous expriences and understand, in the end making different decisions.
+That is not true. It's a myth. Given the same information people will still interpret the facts differently, act on previous experiences and understand, in the end making different decisions.
 
 It's quite a though pill to swallow - very annoying to be honest. Since it basically means that we cannot inform our way out of "the problem".
 
@@ -91,14 +91,14 @@ But cross-cutting concerns (like platform related changes, going into new market
 
 ## Best in class
 
-The best I have expreienced in this regard is Spotify. And that is also a place where just about everyone gets a information overload shock the first weeks. When I worked there, 5 years ago, they had over 4000 Slack channels. And that is in addition to mailing lists, dashboards, documents and wikis etc. They are communicating like crazy - the only problem is to try to wade through it and know what is important.
+The best I have experienced in this regard is Spotify. And that is also a place where just about everyone gets a information overload shock the first weeks. When I worked there, 5 years ago, they had over 4000 Slack channels. And that is in addition to mailing lists, dashboards, documents and wikis etc. They are communicating like crazy - the only problem is to try to wade through it and know what is important.
 
 (Before I continue - I heard the same sentiments and statements as above even at Spotify. Just a little bit less)
 
 The differences that I saw at Spotify that I haven't seen elsewhere are a few:
 
-- They had processes in place to coordinate the overall priorities of the company. They only ran 9 big projects and they were stackranked. Everyone in the company knew and adhered to that priority
-- They had a culture of "always assume positive intent" that was very apparent and concrete. This helped a lot as even confusing messages could be understood if you started with an idea about "it's probably well intendended"
+- They had processes in place to coordinate the overall priorities of the company. They only ran 9 big projects and they were stack ranked. Everyone in the company knew and adhered to that priority
+- They had a culture of "always assume positive intent" that was very apparent and concrete. This helped a lot as even confusing messages could be understood if you started with an idea about "it's probably well intended"
 - There was a strong culture of sharing and giving input. At Spotify, if you asked for comments on a document and sent it to 10 people - you got a lot of comments. People naturally saw this as part of their job.
 
 These simple tools and strong culture helped Spotify to overcome some of these problems.

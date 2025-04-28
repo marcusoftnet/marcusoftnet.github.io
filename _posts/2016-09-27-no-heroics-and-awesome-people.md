@@ -24,11 +24,11 @@ In this post I wanted to try to sort these two separate statements out and see w
 
 ## No heroics
 
-What I meant with the first statement (tweet above) is a reaction to a phenomena that I have observed in many, primarily large organisations; the only way to get things done is through efforts above and beyond what is normal.
+What I meant with the first statement (tweet above) is a reaction to a phenomena that I have observed in many, primarily large organizations; the only way to get things done is through efforts above and beyond what is normal.
 
 For example; someone needs to pull a lot of strings and flex their personal network to get a computer installed with the correct administrative rights. Or instead of putting a ticket in the ticket system someone calls someone else that can take a look on our thing before others. Or the project manager that keeps nagging for people until the other party simply gives up and lets them have the people just to have the nagging stop. Or the function that got developed and test over night by a team that already was dead tired Or … Or …
 
-I'm sure you've seen a lot of other examples like these. What really saddens me is that I often see organisations take advantage of this, almost expecting it or at least hailing that behavior as something awesome. People with a personal network easier/faster get things done since they knows their way around the informal organisation. We love to have those people on our team.
+I'm sure you've seen a lot of other examples like these. What really saddens me is that I often see organizations take advantage of this, almost expecting it or at least hailing that behavior as something awesome. People with a personal network easier/faster get things done since they knows their way around the informal organisation. We love to have those people on our team.
 
 Project managers are praised for a drive that helps them accomplish projects that had very little possibilities to succeed in the outset.
 
@@ -50,13 +50,13 @@ Heroics are acts that are above and beyond what is expected from normal work. We
 
 ## Whining
 
-One thing that I personally often end up doing is to practice the ancient art of whining. I hate that trait with myself, but I notice that many people in my line of business (agile coaching) and in the developer community in large tends to draw towards that from time to other; the system we work on is not good enough, the organisation is not willing to change, the tools are not update etc.
+One thing that I personally often end up doing is to practice the ancient art of whining. I hate that trait with myself, but I notice that many people in my line of business (agile coaching) and in the developer community in large tends to draw towards that from time to other; the system we work on is not good enough, the organization is not willing to change, the tools are not update etc.
 
 When do we whine? When do I whine, maybe is a better question since I can answer that one… I whine when I'm frustrated with not being able to get things that I (or others) wants and needs to get done.
 
 A good example would be to code new features fast in a system that isn't build to move fast in; no automatic testing, no continuous deployment, lots of manual processes.
 
-The same goes for trying to implement a fast paced, agile, flow oriented process in an organisation that is built for resource utilisations. [It's simple not optimised for doing the thing that we want.](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)
+The same goes for trying to implement a fast paced, agile, flow oriented process in an organization that is built for resource utilisations. [It's simple not optimised for doing the thing that we want.](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)
 
 Since a difference between what is needed or required of me and what I can do is clear and present I feel frustrated. If that situation stays for long… yes I admit - I whine.
 
@@ -66,6 +66,6 @@ A much more constructive thing to do is of course to change the system in which 
 
 To really start to improve our process we should in fact look equally seriously on heroics than we do on error and deviations from normal process. By allowing and even praising heroics we are hiding flaws in our process.
 
-Instead we should celebrate and embrace the people that bring problems to the surface. These problems are nuggets of gold for organisations that really want to improve - because they shows us what doesn't work.
+Instead we should celebrate and embrace the people that bring problems to the surface. These problems are nuggets of gold for organizations that really want to improve - because they shows us what doesn't work.
 
 A great place to start is to go out and look for wait state - start there and you will help a lot of processes to flow smoother.

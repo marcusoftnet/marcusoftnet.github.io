@@ -41,7 +41,7 @@ a lot when trying to implement this in all kinds of teams;
 
 First; you are **not expected to read or act on this**. CC stands for
 Carbon (moahahaha!) Copy and simply means that you get a copy. I'd
-suggest you train the rest of your organisation in how to properly us
+suggest you train the rest of your organization in how to properly us
 this and DO not answer to emails that you are CC on, only to the ones
 sent TO you.
 
