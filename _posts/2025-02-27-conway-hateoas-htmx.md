@@ -126,6 +126,8 @@ There are, for reasons that will soon become clear, quite a lot of Handlebars co
 
 Let's now fill out the views. First the `views/board.hbs`, which also is the main page:
 
+{% raw %}
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -159,7 +161,11 @@ Let's now fill out the views. First the `views/board.hbs`, which also is the mai
 </html>
 ```
 
+{% endraw %}
+
 I'm including HTMX on the page, and then use the Handlebars `#each` loop to create a grid of cells. Each cell is rendered using the `views/partials/cell.hbs` partial, and get the `x` and `y` coordinates as parameters.
+
+{% raw %}
 
 ```html
 <div
@@ -174,6 +180,8 @@ I'm including HTMX on the page, and then use the Handlebars `#each` loop to crea
 >
 </div>
 ```
+
+{% endraw %}
 
 `data-state` is the value of the cell. It's set to `1` if the cell is alive, `0` if it's dead. `class` is used to style the cell.
 
@@ -211,6 +219,8 @@ Let's set this up using `hx-trigger` and `hx-vals`. `hx-trigger` is the event (l
 
 This will look messy, but bear with me.
 
+{% raw %}
+
 ```html
 <div
   id="cell-{{x}}-{{y}}"
@@ -247,6 +257,8 @@ This will look messy, but bear with me.
      }'>
 </div>
 ```
+
+{% endraw %}
 
 ### Listening for `click`
 
