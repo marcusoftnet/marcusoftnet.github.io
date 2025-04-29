@@ -22,7 +22,7 @@ Here's they are:
 
 My first post was on [mob programming](/2013/08/repost-mob-programming-full-team-full-throttle.html) and was the first post on the topic written by someone else than Woody Zuill. It's even mentioned on the [wikipedia page for mob programming](https://en.wikipedia.org/wiki/Mob_programming) and those facts makes me immensely proud
 
-I wrote a few post on a the work I was doing at my current client there, the first one was about how we [visualised our backlog and board](https://www.marcusoft.net/2013/08/repost-some-tools-for-improved-focus-improve-teamwork-and-faster-delivery.html)
+I wrote a few post on a the work I was doing at my current client there, the first one was about how we [visualized our backlog and board](https://www.marcusoft.net/2013/08/repost-some-tools-for-improved-focus-improve-teamwork-and-faster-delivery.html)
 
 And then a post on a tool that I have used many times under my consultancy career; [weighted index table](/2013/09/repost-weighted-index-a-simple-powerful-prioritization-tool.html)
 

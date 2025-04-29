@@ -21,7 +21,7 @@ In this post, I wanted to quickly write down some ways of making sure that your 
 2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
 3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html)
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
+5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
 ### 1 - Get a great "or else"-reason to change
 
@@ -61,4 +61,4 @@ This was the first post of my top 5 ways to succeed with agile transformation pr
 2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
 3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html)
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve (this post)](https://www.marcusoft.net/2012/10/agilechangetop55.html)
+5. [Use visualized data to improve (this post)](https://www.marcusoft.net/2012/10/agilechangetop55.html)

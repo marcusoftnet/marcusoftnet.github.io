@@ -21,7 +21,7 @@ This is of course good questions to ask and could be value, but I think there's 
 
 Drifting away from my main topic… So now you've experienced scope creep too and how easy it is to fall into. See what I did there ^^
 
-On a more serious note - this post is really about how I've seen scope creep being visualised and managed by a few teams on their board.
+On a more serious note - this post is really about how I've seen scope creep being visualized and managed by a few teams on their board.
 
 <!-- excerpt-end -->
 

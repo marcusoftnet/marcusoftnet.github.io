@@ -56,7 +56,7 @@ First of all: Kanban or not is not that important. What is important (i think) i
 
 And these three principles has been bunched together into something that we call kanban. But in reality they are just guiding principles that opens up the door to a lot of other practices and can help you to build a mindset of continuous improvements in your company.
 
-Secondly, more specific to your situation maybe, I think what you are suggesting is a great start. In fact, I would suggest that you use that as the first version. Try to make the kanban-board reflect reality as closely as possible, rather than a on-the-paper-process that you wished you had. If you visualised workflow reflects reality you will see the REAL problems too.
+Secondly, more specific to your situation maybe, I think what you are suggesting is a great start. In fact, I would suggest that you use that as the first version. Try to make the kanban-board reflect reality as closely as possible, rather than a on-the-paper-process that you wished you had. If you visualized workflow reflects reality you will see the REAL problems too.
 
 When you draw it - make sure it's made for changing. The only thing that is certain is that it's not correct. I usually draw my boards quickly (sloppy?) and on a whiteboard to indicate that this is just "best so far".
 
@@ -67,7 +67,7 @@ In Lean we focus on shortening lead-times (time from order to delivery, the whol
 All of this is just questions that I thought of when I imagined your visualized board in front of me. I'm quite sure that you will come up with many more, and better ideas once you get going.
 
 Two final ideas and suggestions;
-pretty soon after you have got the visualised workflow up, you should think about limiting the work in process (WIP), i.e. the number of items going on. Per lane, in your initial setup.
+pretty soon after you have got the visualized workflow up, you should think about limiting the work in process (WIP), i.e. the number of items going on. Per lane, in your initial setup.
 Not limiting WIP is a very common mistake and that is like saying that we're stretching the iteration indefinitely, if you're using iteration based projects. Without WIP limits there's nothing that will push us to be better.
 In our book we have devoted a whole chapter on setting WIP limits. There's some ideas in there for you.
 

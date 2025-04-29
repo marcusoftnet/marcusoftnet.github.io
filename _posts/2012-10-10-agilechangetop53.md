@@ -19,7 +19,7 @@ This is the list - in order of importance:
 2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
 3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
+5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
 ### 3 - Let Them Change How They Work
 
@@ -57,4 +57,4 @@ This was the third post of my top 5 list to succeed with agile transformation pr
 2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
 3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
+5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
