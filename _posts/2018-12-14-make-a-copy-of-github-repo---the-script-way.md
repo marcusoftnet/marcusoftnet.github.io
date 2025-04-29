@@ -56,7 +56,7 @@ Now you can ask the students to `git clone https://github.com/marcusoft/salt-jsf
 
 Notice that the name of the organization (or user) needs to be included in repository name (`marcusoft/salt-jsfs-reactstarter` for example)
 
-## TL;DR - For the love of God - just give me the script!
+## TL;DR - For the love of God - just give me the script
 
 Ok. Ok. Ok.
 
@@ -102,4 +102,3 @@ And then run it with `bash cloneRepository.sh organization orginal-repo new-repo
 ## Summary
 
 This was pretty fun to work with. That `hub` command opened up the possibilities and made for a nice, short and useful command.
-
