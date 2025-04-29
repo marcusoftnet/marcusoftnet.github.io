@@ -44,7 +44,7 @@ Finally – so what I did was simply to remove the services and then
 TDD:ed (hey, that looks funky) a way to inject a repository into the
 Controller. It caused me to move things around a bit in the solution.
 But for the better. I learned that test-projects should only contain
-tests. TestData Repositories for examples are better placed in the
+tests. Test Data Repositories for examples are better placed in the
 Repositories-assembly.
 
 I am really going back and forth – but at least I know what I am doing.

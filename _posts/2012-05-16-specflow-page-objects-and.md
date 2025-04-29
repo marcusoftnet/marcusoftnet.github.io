@@ -157,7 +157,7 @@ I’ve created a small class with static methods that I use to perform database 
 
 SpecFlow gives you a number of [events and hooks](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) that you can use to perform task that you want to run before and after tests. In this case I’m:
 
-- Cleaning out the testdata I’ve used and change after each scenario
+- Cleaning out the test data I’ve used and change after each scenario
 - Closing the browser after each test run. You DO want to do this or you’ll have 50+ browser instances open pretty quickly.
 
 ### Steps
