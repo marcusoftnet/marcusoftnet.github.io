@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Be good - expiriment week II
+title: Be good - experiment week II
 date: 2006-11-27T06:48:00.000Z
 author: Marcus Hammarberg
 tags:
   - Marcus private
 modified_time: 2006-11-27T07:19:13.136Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7633822811227639909
-blogger_orig_url: http://www.marcusoft.net/2006/11/be-good-expiriment-week-ii.html
+blogger_orig_url: http://www.marcusoft.net/2006/11/be-good-experiment-week-ii.html
 ---
 
 Last week I tried to stay happy through the week no matter the

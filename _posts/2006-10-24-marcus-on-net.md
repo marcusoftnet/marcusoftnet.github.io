@@ -17,7 +17,7 @@ I am not sure yet what to put down here but I hope that it will be
 meaningful, for me if not for anyother.
 
 Today I will try to lead the future-group at my Salvation Army corps
-(church) after work. We are planning the activites for the corps in the
+(church) after work. We are planning the activities for the corps in the
 future. A major rebuilding is in the planning and on the way so we also
 need to look over the "content" of the house.
 

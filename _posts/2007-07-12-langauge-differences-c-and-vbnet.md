@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Langauge differences C# and VB.Net
+title: language differences C# and VB.Net
 date: 2007-07-12T06:43:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-07-12T06:46:57.118Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1394425658544540729
-blogger_orig_url: http://www.marcusoft.net/2007/07/langauge-differences-c-and-vbnet.html
+blogger_orig_url: http://www.marcusoft.net/2007/07/language-differences-c-and-vbnet.html
 ---
 
 When converting from C# to VB.Net (not liking it though) I often find

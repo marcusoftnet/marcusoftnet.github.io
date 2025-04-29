@@ -53,6 +53,6 @@ dependency** of SalesController.
 Now we can, in a testcase, send in a mock-up of ItemInventory to easy
 test the methods of SalesController.
 
-Very short, to end this mega-post, Spring.NET gives you the possiblity
+Very short, to end this mega-post, Spring.NET gives you the possibility
 to do these injections via configuration-files, which further simplifies
 the testing process (i.e. a different config-file for the test-code).

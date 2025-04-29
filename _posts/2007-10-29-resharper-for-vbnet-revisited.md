@@ -16,7 +16,7 @@ i'll give
 Resharper
 another try - thanks to Ilya Ryzhenkov who encouraged
 me to try again. In all honesty the crasches I experienced were all in a
-buildscript-file, XML-syntax.
+build script-file, XML-syntax.
 
 So i'll
 have to try it with pure VB.NET-code I expect... Here we go.

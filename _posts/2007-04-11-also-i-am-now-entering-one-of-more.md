@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hectict times
+title: Hectic times
 date: 2007-04-11T06:38:00.000Z
 author: Marcus Hammarberg
 tags:

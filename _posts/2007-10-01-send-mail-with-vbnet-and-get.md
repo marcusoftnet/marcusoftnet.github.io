@@ -20,7 +20,7 @@ email.
 
 That is no biggie, i'll use SMTP-mail - you think... until they add the
 demand "and of course we need to know if the mail reach the delivery
-adress". Often that last part doesn't come up until the system is in
+address". Often that last part doesn't come up until the system is in
 production and the situation occurrs.
 
 Now you have some real tricky questions to handle. SMTP is a fire and
@@ -47,7 +47,7 @@ Here are some example code that shows you how it works. Of course in my
 favorite language VB.NET:
 
 `' Create the messageDim message As New MailMessage`
-`' This is adress that will get notifiedmessage.From = New MailAddress("me@home.com")message.To.Add("to@away.com")message.Subject = "Subject"message.Body = "The complete body of the mail"' Set DeliveryNotificationOptions.OnFailure to state that the From-adress' should be notified if the recipient couldn't be reachedmessage.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure' Create smtp-serviceDim smtpService As New Net.Mail.SmtpClient("mysmtp.server.com")'Send the messagesmtpService.Send(message)`
+`' This is address that will get notifiedmessage.From = New MailAddress("me@home.com")message.To.Add("to@away.com")message.Subject = "Subject"message.Body = "The complete body of the mail"' Set DeliveryNotificationOptions.OnFailure to state that the From-address' should be notified if the recipient couldn't be reachedmessage.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure' Create smtp-serviceDim smtpService As New Net.Mail.SmtpClient("mysmtp.server.com")'Send the messagesmtpService.Send(message)`
 
 As i've told my project for some days now this problem is probably the
 one I've put in most effort on, in all my project, in total... and here

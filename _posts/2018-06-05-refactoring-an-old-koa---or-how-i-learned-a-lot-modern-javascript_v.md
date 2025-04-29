@@ -139,7 +139,7 @@ Error: expected "location" matching /^\/[0-9a-fA-F]{24}$/, got "//5b37d45bda4bd5
 
 Ok - here's a little glitch in my plan. Because this app, by its own, doesn't care where it is mounted. But that causes problem since I get double slashes. The `ctx.originalUrl` is just `/`.
 
-I tried to change the urls for my app to now have a slash in front but ended up with some wierd errors. So I decided to go the hacky route instead like this:
+I tried to change the urls for my app to now have a slash in front but ended up with some weird errors. So I decided to go the hacky route instead like this:
 
 ```javascript
 const url = `${ctx.originalUrl}/${insertedUser._id}`.replace("//", "/");

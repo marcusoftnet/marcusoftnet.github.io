@@ -135,7 +135,7 @@ greeting = (name) ->
 	"Hello #{name}!"
 ```
 
-If you never seen CoffeeScript, this defines function <code>greeting</code> that takes one parameter <code>name</code> and returns (last row of a function automatically returns in coffeescript, and many other functional langauges) a string with the name inserted in.
+If you never seen CoffeeScript, this defines function <code>greeting</code> that takes one parameter <code>name</code> and returns (last row of a function automatically returns in coffeescript, and many other functional languages) a string with the name inserted in.
 
 To not have all problems pour down on us at the same time, let's not add a test right now, but rather just call the function we defined below it. Like this:
 

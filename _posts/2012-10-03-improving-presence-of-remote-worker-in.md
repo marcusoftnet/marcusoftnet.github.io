@@ -139,7 +139,7 @@ components to get this to work already in place. This was what we did:
 - got a computer that we installed Skype on
 - hooked the computer up to the TV and the Web Cam (with USB extension
     cord).
-- created a special Team Room Account in Skype (the same email adress
+- created a special Team Room Account in Skype (the same email address
     that we use to upload the photos with)
 - finally we set the Skype account to answer automatically (standard
     configuration in Skype) to all incoming calls from it's contacts.

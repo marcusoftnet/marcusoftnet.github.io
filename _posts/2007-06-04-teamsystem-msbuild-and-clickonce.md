@@ -11,22 +11,22 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2160098077060148442
 blogger_orig_url: http://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
 ---
 
-I've finally got around to work a bit more with our buildscript,
+I've finally got around to work a bit more with our build script,
 which we are running on top of Team System. I've once coded a build
 script based on other products (CruiseControl.net, NUnit etc.) so i
 hoped and thought that this wouldn't differ to much. However sometimes
 your hopes gets fulfilled and sometimes... well, you'll see.
 
-Firstly building buildscripts for Team Systems are more like responding
+Firstly building build scripts for Team Systems are more like responding
 to events that gets fired by the Team System build engine, than writing
 the flow yourself. Which events get fired and which order they fire in
 can be found
 [here](http://marcushammarberg.blogspot.com/2007/05/teamsystem-builds.html).
 
-Also - the start of building buildscripts with Team System is a wizard,
+Also - the start of building build scripts with Team System is a wizard,
 which is nice but all that it's really doing is generating the stub for
 the MSBuild-script-file for you. If you want to tweak it (and you want)
-you'll have to code in the "scary" MSBuild/XML-langauge.
+you'll have to code in the "scary" MSBuild/XML-language.
 
 And finally the Team System doesn't come with loads of new functionality
 for MSBuild. So I still cast my vote on the MSBuild Community Task for
@@ -38,7 +38,7 @@ Microsoft recommended me to use the MSBuild Community Tasks.
 
 ---
 
-So - now to my buildscript. What we wanted to do was fairly simple (we
+So - now to my build script. What we wanted to do was fairly simple (we
 thought); we just wanted to build the application and then perform a
 ClickOnce-publish to a certain location, in such a way that the latest
 version of the application automatically would be downloaded for any
@@ -54,11 +54,11 @@ On the **AfterGet**-target (which gets called by the
 TeamSystem-build-engine when the sourcefiles are retrieved from
 SourceControl) I do the following:
 
-1. Check out Version.txt which is a file with the versionnumber
+1. Check out Version.txt which is a file with the version number
 2. Check out Soulution.vb. This is a AssemblyInfo-file that is shared
    (linked-in) in all the projects of our solution. In this way we can
-   get the same versionnumber for all our assemblies.
-3. Update the Versionnumber by incrementing the revsionnumber with one.
+   get the same version number for all our assemblies.
+3. Update the version number by incrementing the revsionnumber with one.
    For this we used the \<Version\>-task from MSBuild Community Task
    like:
    <span
@@ -79,8 +79,8 @@ ClickOnce-applications (specified in the itemgroup above) as follows:
    class="small">`<RemoveDir Directories="$(ClickOnceDropLocation)" /><MakeDir Directories="$(ClickOnceDropLocation)" />`
 2. Then do a MSBuild-publish. This creates variables/output that
    contains the files for the ClickOnce-deployment. All important for
-   this task to execute sucessfully is that you controll the
-   versionnumber (which we do as shown above).
+   this task to execute successfully is that you controll the
+   version number (which we do as shown above).
    The task is executed as follows:
    <span
    class="small">`<MSBuild Targets="Publish" Projects="@(ClickOnceProjects)"Properties="%(ClickOnceProjects.ProjectPublishProperties);%(ClickOnceProjects.DeploymentPublishProperties); PublishUrl=%(ClickOnceProjects.DeploymentFolderClient); MinimumRequiredVersion=$(Major).$(Minor).$(Build).$(Revision); ApplicationVersion=$(Major).$(Minor).$(Build).$(Revision)"><Output TaskParameter="TargetOutputs" ItemName="PublishTargetOutputs"/></MSBuild>`

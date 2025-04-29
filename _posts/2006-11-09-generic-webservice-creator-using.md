@@ -27,7 +27,7 @@ need to be configured in the same way. These configurations has to do
 with setting the URL in runtime, using other credentials, caching and
 maybe other things that we want to be able to do for all webservices.
 
-So what I wanted is a WebServiceCreator with metods that creates the
+So what I wanted is a WebServiceCreator with methods that creates the
 webservices and does the requested configurations. So my first thought
 was to use generics - and that was right for quite a while.
 
@@ -38,7 +38,7 @@ public static TWebService
 GetWebService(string WebServiceURL)
 where TWebService : SoapHttpClientProtocol
 
-This means that when this metod is called TWebService needs to be replaced
+This means that when this method is called TWebService needs to be replaced
 with the type that GetWebService should return -
 and that type needs to be a SoapHttpClientProtocol - which
 all the webservice proxies inhierties. So the call would look something
@@ -69,7 +69,7 @@ looks like this:
 TWebService WebServiceConstructorDelegate();
 
 GetWebService is then
-updated to look like this (sorry for the weird indentention):
+updated to look like this (sorry for the weird indentation):
 
 <span style="font-size:85%;">public static TWebService GetWebService (
 <span style="font-size:85%;">WebServiceConstructorDelegate
@@ -78,7 +78,7 @@ WebServiceURL)
 where TWebService : SoapHttpClientProtocol
 
 And when you call GetWebService you supply a method that creates the
-webservice like this (really sorry for the indentention):
+webservice like this (really sorry for the indentation):
 
 <span style="font-size:85%;">DemoWebService.Service wss =
 WebServiceCreator.GetWebService(

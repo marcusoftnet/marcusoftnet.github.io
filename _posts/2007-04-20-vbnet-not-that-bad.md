@@ -29,7 +29,7 @@ few things that is a bit strange for the kind of language that VB.NET is
   a bit irritating after a while, even.
 - Namespaces are a bit troublesome. If you create a folder in your
   project and then add a class into it, the class still get the
-  project default namespace. I've been doing some googeling about it
+  project default namespace. I've been doing some googling about it
   but cannot find a solution to it...
 
 But all in all I like it quite much for now.

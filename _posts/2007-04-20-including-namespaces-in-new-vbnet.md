@@ -37,7 +37,7 @@ works...
 The sad part is that Visual Studio 2005 doesn't include the namespace in
 classes that you create. But after an even harder and longer search i
 found out about the [Export
-Template-functionallity](http://msdn.microsoft.com/msdnmag/issues/06/01/CodeTemplates/default.aspx).
+Template-functionality](http://msdn.microsoft.com/msdnmag/issues/06/01/CodeTemplates/default.aspx).
 Find my short version below
 
 1. Remove the Root Namespace from all your project. Now and forever!

@@ -18,7 +18,7 @@ In your windows application project you create some usercontrols. They
 appear in the toolbox for you to use in all your forms. Everbody is
 happy!
 
-But when you put your windows applilcation project into a [solution
+But when you put your windows application project into a [solution
 folder](http://marcushammarberg.blogspot.com/2006/11/well-structured-projects-in-visual.html)
 this doesn't work anymore... This is [confirmed by
 Microsoft](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=144156)

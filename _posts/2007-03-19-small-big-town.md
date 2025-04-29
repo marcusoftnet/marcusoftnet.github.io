@@ -12,4 +12,4 @@ blogger_orig_url: http://www.marcusoft.net/2007/03/small-big-town.html
 
 This weekend was spent at my sister, Therese, in Linköping. This is the fith (or so) town in Sweden, in size but the difference from Stockholm is very obvious when you are in the town. You can feel that different styles from the citys just by walking around in the cities.
 
-So in a way we made a small vaccation, to another place (not another time though) over the weekend. Even the weather was wierd with sunshine and hailstorms interchangning each other.
+So in a way we made a small vaccation, to another place (not another time though) over the weekend. Even the weather was weird with sunshine and hailstorms interchangning each other.
