@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2010-05-27T09:06:52.879Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6727733881573572513
-blogger_orig_url: http://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html
+blogger_orig_url: https://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html
 ---
 
 I have been involved in a lot of conversion project. More specific it has been converting legacy VB6 applications to .NET applications. I’m not sure why or how but I have found myself in many project like this.
@@ -29,7 +29,7 @@ The tester also have a hard time. Since there of course cannot be a one-to-one-c
 
 #### ATDD to the rescue?
 
-As readers of this blog know, I have lately snowed in on [agile testing](http://www.marcusoft.net/2008/11/agile-testing-how-we-get-it-to-work.html) (or [agile acceptance testing](http://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html), or [specification by example](http://www.marcusoft.net/2010/04/specification-by-example-missing-link.html), or [BDD](http://www.marcusoft.net/search/label/BDD)). Using this kind of specification by example will give you the most when collaborating on them with your customer, I know. But in many cases, in conversion projects like above that is simple not possible.
+As readers of this blog know, I have lately snowed in on [agile testing](https://www.marcusoft.net/2008/11/agile-testing-how-we-get-it-to-work.html) (or [agile acceptance testing](https://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html), or [specification by example](https://www.marcusoft.net/2010/04/specification-by-example-missing-link.html), or [BDD](https://www.marcusoft.net/search/label/BDD)). Using this kind of specification by example will give you the most when collaborating on them with your customer, I know. But in many cases, in conversion projects like above that is simple not possible.
 
 Can specification by example still be of use? [Jonas Bandi](http://www.jonasbandi.net/) ask (and answers) a [similar question here](http://blog.jonasbandi.net/2010/05/atdd-for-rewriting-legacy-application.html).  I think that it can be most useful. Using this approach you will get:
 
@@ -43,7 +43,7 @@ Can specification by example still be of use? [Jonas Bandi](http://www.jonasband
 
 If I ever got the opportunity to decide on matters like this (and I DO, sometime) I would set it up like follows.
 
-If we use the example that we’re converting a VB6 application, our most probable choice would be [WPF](http://en.wikipedia.org/wiki/Windows_Presentation_Foundation). One nice feature of WPF is that there are loads of great frameworks building on well known patterns, such as [MVP](http://en.wikipedia.org/wiki/Model_View_Presenter), [MVC](http://en.wikipedia.org/wiki/Mvc) and [MVVM](http://en.wikipedia.org/wiki/MVVM). I blogged about some of these [frameworks here](http://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-design.html).
+If we use the example that we’re converting a VB6 application, our most probable choice would be [WPF](http://en.wikipedia.org/wiki/Windows_Presentation_Foundation). One nice feature of WPF is that there are loads of great frameworks building on well known patterns, such as [MVP](http://en.wikipedia.org/wiki/Model_View_Presenter), [MVC](http://en.wikipedia.org/wiki/Mvc) and [MVVM](http://en.wikipedia.org/wiki/MVVM). I blogged about some of these [frameworks here](https://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-design.html).
 
 So I would probably go with [Prism from Microsoft](http://msdn.microsoft.com/en-us/library/cc707819.aspx). That will give us a clean separation between the view (XAML code that only do [data binding](http://www.nbdtech.com/Blog/archive/2009/02/02/wpf-xaml-data-binding-cheat-sheet.aspx) and an abstraction of the view that holds the properties the view binds to; the ViewModel.
 

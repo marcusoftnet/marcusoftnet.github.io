@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2011-10-04T12:35:06.154Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4478037245458920181
-blogger_orig_url: http://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/right-way-of-calling-mstest-in-tfs.html
 ---
 
 
@@ -18,7 +18,7 @@ what I was doing - call it what you want.
 
 In TFS Build-scripts there are a much nicer way of calling MSTest than
 the [Exec-task as I
-suggested.](http://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html)
+suggested.](https://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html)
 There is already a task for it, called
 [TestToolsTask.](http://msdn.microsoft.com/en-us/library/aa721750%28VS.80%29.aspx)
 With this task you can much easier reach all the properties you need.

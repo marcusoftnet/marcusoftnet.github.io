@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2012-04-05T06:12:42.634Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5666632138891207928
-blogger_orig_url: http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html
+blogger_orig_url: https://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html
 ---
 
 A fantastic thing has happened to me.

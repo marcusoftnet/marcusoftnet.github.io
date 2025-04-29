@@ -9,7 +9,7 @@ tags:
   - SpecFlow
 modified_time: 2010-09-28T07:28:49.844Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5718687913603168178
-blogger_orig_url: http://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html
+blogger_orig_url: https://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html
 ---
 
 

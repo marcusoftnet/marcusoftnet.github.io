@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2008-05-08T12:30:13.840Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-573917268034207125
-blogger_orig_url: http://www.marcusoft.net/2008/05/way-out-book-on-ruby.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/way-out-book-on-ruby.html
 ---
 
 

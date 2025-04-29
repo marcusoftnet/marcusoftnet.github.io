@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2007-04-24T06:25:14.958Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3635859586967541408
-blogger_orig_url: http://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html
 ---
 
 OK,
@@ -17,8 +17,7 @@ stuff](http://marcushammarberg.blogspot.com/2007/04/also-i-am-now-entering-one-o
 is now down to almost nothing. Which I take that I am not afraid of
 nothing anymore - good!
 
-On Sunday I was presenter on the last concert of <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">Gothenborg
+On Sunday I was presenter on the last concert of Gothenborg
 Brass Band. Sad - but I tried to keep the focus of that fact and keep
 focus on the music instead. For me the concert also was a milestone
 since the conductor was Nicholas Childs - the musical director of
@@ -52,5 +51,4 @@ So three big "thank you"-s are in order:
 - GBB -
   thanks for letting me into the band again and again. I feel like one
   of you and my thumbs are already white for you doing well at the
-  <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-corrected">Europeans.
+  Europeans.

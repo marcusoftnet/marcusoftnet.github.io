@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2009-09-28T06:55:32.984Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4636001046731964170
-blogger_orig_url: http://www.marcusoft.net/2009/09/kanban-great-agile-tool.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/kanban-great-agile-tool.html
 ---
 
 During the last week, I attended a course on [Kanban](http://en.wikipedia.org/wiki/Kanban) (Jedi level, mind you) at [Crisp](http://www.crisp.se/) in Stockholm. The course was conducted by [David Andersson](http://www.agilemanagement.net/), who is considered a key figure in applying Kanban to the software industry.

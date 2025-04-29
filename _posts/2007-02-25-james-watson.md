@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2007-02-26T09:26:17.483+01:00'
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1022268405128742543
-blogger_orig_url: http://www.marcusoft.net/2007/02/james-watson.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/james-watson.html
 ---
 
 I had the great opportunity to play and rehearse under Mr James Watson. He is really a great guy and a great band instructor. We have had a very nice (but exhausting) four days with him and the concert on Friday night went quite alright (the band had some odd moments in Couldcatcher Fells).

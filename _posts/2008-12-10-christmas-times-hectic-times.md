@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2008-12-09T21:48:15.985Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8659614510357589507
-blogger_orig_url: http://www.marcusoft.net/2008/12/christmas-times-hectic-times.html
+blogger_orig_url: https://www.marcusoft.net/2008/12/christmas-times-hectic-times.html
 ---
 
 
@@ -25,7 +25,7 @@ But fun stuff too:
     This year at our newly renovated corps. I was in the planning group
     as well as doing the presentations during the concert. Very fun!
 - This weekend was another highlight since I ([once
-    again](http://www.marcusoft.net/2006/12/marcus-presenter.html)) was
+    again](https://www.marcusoft.net/2006/12/marcus-presenter.html)) was
     presenter for the Lucia-concerts of the [Windcorp Brass
     Band](http://www.windcorpbrassband.se/). This year I even got the
     opportunity to play with them due to a late change in the parts.

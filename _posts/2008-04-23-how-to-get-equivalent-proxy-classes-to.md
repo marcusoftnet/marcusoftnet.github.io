@@ -11,7 +11,7 @@ tags:
   - WCF
 modified_time: 2008-04-24T05:36:14.351Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4450307372019789671
-blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-get-equivalent-proxy-classes-to.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/how-to-get-equivalent-proxy-classes-to.html
 ---
 
 

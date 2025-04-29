@@ -10,10 +10,10 @@ tags:
   - Koa
 modified_time: 2014-05-23T03:28:22.873Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-628425760225674799
-blogger_orig_url: "http://www.marcusoft.net/2014/03/koaExamples.html"
+blogger_orig_url: "https://www.marcusoft.net/2014/03/koaExamples.html"
 ---
 
-The [first](http://www.marcusoft.net/2014/03/koaintro.html) [two](http://www.marcusoft.net/2014/03/koaGenYield.html) post of this mini-series, we picked up the basic on getting [Koa Js](http://www.koajs.com/) to start as well as understand what it's build from and the concepts behind it. It's time to do something for real. Well over time, one might add. This post is all about using Koa to build different websites and web api's.
+The [first](https://www.marcusoft.net/2014/03/koaintro.html) [two](https://www.marcusoft.net/2014/03/koaGenYield.html) post of this mini-series, we picked up the basic on getting [Koa Js](http://www.koajs.com/) to start as well as understand what it's build from and the concepts behind it. It's time to do something for real. Well over time, one might add. This post is all about using Koa to build different websites and web api's.
 
 By using [Koas own examples](https://github.com/koajs/examples/) I will show you how you can use Koa for a lot of common tasks and scenarios. Let's dive right in.
 
@@ -23,15 +23,15 @@ By using [Koas own examples](https://github.com/koajs/examples/) I will show you
 
 The first thing to understand is that Koa is very modular. "Ok, got it", you think. "No", I answer, "**very** modular! The bits are tiny." So a Koa application is to a large extent made up by middleware you include, that is not included per default. The list of [middleware is quite staggering](https://github.com/koajs/koa/wiki) and will quite some time to learn and take in. Luckily you don't have to learn all of them, and they are so tiny that they one-by-one is not a problem.
 
-You should also check out the [co-project](https://github.com/visionmedia/co) that provide generator/yield style access to a [VAST amount of features and scenarios](https://github.com/visionmedia/co/wiki). [Co-monk](https://github.com/visionmedia/co-monk) is just one example, that we saw in the [last post](http://www.marcusoft.net/2014/03/koaGenYield.html) and will meet again later in this post.
+You should also check out the [co-project](https://github.com/visionmedia/co) that provide generator/yield style access to a [VAST amount of features and scenarios](https://github.com/visionmedia/co/wiki). [Co-monk](https://github.com/visionmedia/co-monk) is just one example, that we saw in the [last post](https://www.marcusoft.net/2014/03/koaGenYield.html) and will meet again later in this post.
 
 ### Examples
 
-I wanted to take a look at some of the [examples Koa Js](https://github.com/koajs/examples/) provides and make some comments. [Clone the repository](http://www.marcusoft.net/2014/02/mnb-git.html) and follow along. My plan is that these examples will prove useful for me and you as we start to build real things.
+I wanted to take a look at some of the [examples Koa Js](https://github.com/koajs/examples/) provides and make some comments. [Clone the repository](https://www.marcusoft.net/2014/02/mnb-git.html) and follow along. My plan is that these examples will prove useful for me and you as we start to build real things.
 
 Yes, I have copied the example files out to separate gists. This is because I don't trust linking directly to repositories. And the content of the repository files might change too.
 
-There's [one package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) for all the examples, which is awesome because that means that we can do `npm install` in the root and get all the examples. All examples must be run with the `node --harmony` flag, [as described earlier](http://www.marcusoft.net/2014/03/koaintro.html).
+There's [one package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) for all the examples, which is awesome because that means that we can do `npm install` in the root and get all the examples. All examples must be run with the `node --harmony` flag, [as described earlier](https://www.marcusoft.net/2014/03/koaintro.html).
 
 #### Blog
 
@@ -88,7 +88,7 @@ There you go. Be sure to dive deeper into the [documentation of Koa](https://git
 
 ### Summary
 
-I really like Koa. As I said in the [first post](http://www.marcusoft.net/2014/03/koaintro.html), I like that it's a minimal version of something. I like that it's very modular. I like that it uses generators, which makes the code a lot easier to read. And, as I hope to show, I like that it gives me a lot of power without putting too much onto me.
+I really like Koa. As I said in the [first post](https://www.marcusoft.net/2014/03/koaintro.html), I like that it's a minimal version of something. I like that it's very modular. I like that it uses generators, which makes the code a lot easier to read. And, as I hope to show, I like that it gives me a lot of power without putting too much onto me.
 
 We have taken a look at some of the examples that Koa provide and learnt about middleware. In the next post, I will do a more in-depth review of one of the examples and show you how to extend it to fit your own needs. See you then.
 

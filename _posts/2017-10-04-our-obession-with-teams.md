@@ -10,7 +10,7 @@ tags:
  - Kanban
 ---
 
-I love working in teams, when I get the chance. There [are a few teams](http://www.marcusoft.net/2015/02/all-the-great-teams.html) that I've been in that still lives vividly in my mind. The way you feel togetherness and trust in teams are awesome.
+I love working in teams, when I get the chance. There [are a few teams](https://www.marcusoft.net/2015/02/all-the-great-teams.html) that I've been in that still lives vividly in my mind. The way you feel togetherness and trust in teams are awesome.
 
 But lately a thought has slipped into my mind; are teams always the best grouping of people to complete a task? What if I'm in more than one team? What kind of team feeling will that give me and the others in the team? What is a number one team?
 
@@ -54,7 +54,7 @@ Yay! I was not to far off in my simplistic definition. The defining trait is tha
 
 ### Number one team
 
-There's also a term being used more and more from the excellent [Five Dysfunctions of a team](http://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html) book: *your number one team*. To my understanding this represent my home team. A group of people where I feel safe (physiologically) to share my ups and downs. I go to this group for support in hard decisions. The team has a united front behind which we support each other.
+There's also a term being used more and more from the excellent [Five Dysfunctions of a team](https://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html) book: *your number one team*. To my understanding this represent my home team. A group of people where I feel safe (physiologically) to share my ups and downs. I go to this group for support in hard decisions. The team has a united front behind which we support each other.
 
 This sounds like "home" or "family" to me. A group, and place even, where I can be myself. This would be the number place for me to sit and gravitate back to, even though I might be involved in other groups.
 

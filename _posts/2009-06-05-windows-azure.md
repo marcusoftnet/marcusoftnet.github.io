@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.196Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3702324459945722813
-blogger_orig_url: http://www.marcusoft.net/2009/06/windows-azure.html
+blogger_orig_url: https://www.marcusoft.net/2009/06/windows-azure.html
 ---
 
 I don't know that much about [Azure](http://www.microsoft.com/azure/) yet, but I am quite sure it will become more and more important in the future.

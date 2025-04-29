@@ -9,7 +9,7 @@ tags:
   - Fun
 modified_time: 2009-03-05T08:16:45.623Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6067245503397737281
-blogger_orig_url: http://www.marcusoft.net/2009/03/in-control-iv-hakan-bjorkman.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/in-control-iv-hakan-bjorkman.html
 ---
 
 OK – here is one of the nicest and probably best trombone players in the world showing off his amazing technique.

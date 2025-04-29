@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.545Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2002463673518279606
-blogger_orig_url: http://www.marcusoft.net/2007/07/sandcastle-or-marcus-betting-on-wrong.html
+blogger_orig_url: https://www.marcusoft.net/2007/07/sandcastle-or-marcus-betting-on-wrong.html
 ---
 
 I read today about Sandcastle which is Microsofts new documentation utility

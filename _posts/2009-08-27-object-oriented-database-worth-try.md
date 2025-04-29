@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.193Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1124798564099723385
-blogger_orig_url: http://www.marcusoft.net/2009/08/object-oriented-database-worth-try.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/object-oriented-database-worth-try.html
 ---
 
 I recently conducted a small experiment with an object-oriented database, [db4o](http://www.db4o.com), and I'm quite impressed.

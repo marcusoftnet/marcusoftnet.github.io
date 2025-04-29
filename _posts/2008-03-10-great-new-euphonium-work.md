@@ -7,7 +7,7 @@ tags:
   - Euphonium
 modified_time: 2008-03-09T18:12:43.897Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8384129523787421166
-blogger_orig_url: http://www.marcusoft.net/2008/03/great-new-euphonium-work.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/great-new-euphonium-work.html
 ---
 
 [Steven Mead](http://www.euphonium.net/) has premiered a new work for

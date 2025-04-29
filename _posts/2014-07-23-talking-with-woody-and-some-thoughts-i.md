@@ -10,7 +10,7 @@ tags:
   - Indonesia
 modified_time: 2014-07-23T02:04:52.337Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
-blogger_orig_url: http://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
+blogger_orig_url: https://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
 ---
 
 
@@ -121,7 +121,7 @@ And in the process inspired me.
 
 ### Constraints are great to produce innovation
 
-Real short on this; I've blogged about <a href="http://www.marcusoft.net/2013/01/on-constraints.html" target="_blank">constraints before.</a> But when you listen to the history of Woody you here constraints come into play again and again:
+Real short on this; I've blogged about <a href="https://www.marcusoft.net/2013/01/on-constraints.html" target="_blank">constraints before.</a> But when you listen to the history of Woody you here constraints come into play again and again:
 
 * "I couldn't afford to study full time, so I had to learn on the job meaning that I always pushed myself a little bit more"
 * "Learning to program I only had 1 hour to spend each day and I needed to build stuff for myself so I ..."

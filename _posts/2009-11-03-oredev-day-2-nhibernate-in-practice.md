@@ -9,7 +9,7 @@ tags:
   - NHibernate
 modified_time: 2011-11-09T20:49:22.595Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6149552882586383561
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-nhibernate-in-practice.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-2-nhibernate-in-practice.html
 ---
 
 Today’s session at ÖreDev was about NHibernate, led by [Stephen Bohlen](http://unhandled-exceptions.com/blog/index.php/about/). Stephen aimed to cover a comprehensive screencast from [Summer of NHibernate](http://www.summerofnhibernate.com) in just four hours.

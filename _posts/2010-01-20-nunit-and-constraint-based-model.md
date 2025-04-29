@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:22:38.169Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7963168812570339592
-blogger_orig_url: http://www.marcusoft.net/2010/01/nunit-and-constraint-based-model.html
+blogger_orig_url: https://www.marcusoft.net/2010/01/nunit-and-constraint-based-model.html
 ---
 
 At the

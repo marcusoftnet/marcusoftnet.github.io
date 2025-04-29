@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-03-05T06:41:15.559Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5384804617305238217
-blogger_orig_url: http://www.marcusoft.net/2007/03/art-down-below.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/art-down-below.html
 ---
 
 

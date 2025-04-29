@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2011-09-13T18:54:10.365Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2503147979131111501
-blogger_orig_url: http://www.marcusoft.net/2011/09/twitter-for-beginners.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/twitter-for-beginners.html
 ---
 
 I received a question from three colleagues about what [Twitter](http://twitter.com) is and how to use it. While I don’t consider myself an expert, I use Twitter frequently and have compiled an introductory guide with my own tips on how to navigate it. There are other resources available, such as this one by [Scott Hanselmann](http://www.hanselman.com/blog/HowToTwitterFirstStepsAndATwitterGlossary.aspx), but here’s my take on it.

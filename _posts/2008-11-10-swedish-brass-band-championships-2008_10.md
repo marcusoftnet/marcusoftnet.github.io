@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2008-11-10T12:45:32.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4986525820417895878
-blogger_orig_url: http://www.marcusoft.net/2008/11/swedish-brass-band-championships-2008_10.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/swedish-brass-band-championships-2008_10.html
 ---
 
 The Swedish brass band movement has a new champion... The king is dead - long live the king!

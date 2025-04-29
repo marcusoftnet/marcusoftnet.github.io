@@ -7,7 +7,7 @@ tags:
   - Euphonium
 modified_time: 2006-10-26T05:53:34.248Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116169569747573344
-blogger_orig_url: http://www.marcusoft.net/2006/10/new-besson-euphonium.html
+blogger_orig_url: https://www.marcusoft.net/2006/10/new-besson-euphonium.html
 ---
 
 

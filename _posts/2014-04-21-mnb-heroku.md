@@ -13,7 +13,7 @@ tags:
   - ContinuousDelivery
 modified_time: 2014-05-29T12:22:24.020Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6218298441525731501
-blogger_orig_url: http://www.marcusoft.net/2014/04/mnb-heroku.html
+blogger_orig_url: https://www.marcusoft.net/2014/04/mnb-heroku.html
 ---
 
 I've been doing something for real! A very [simple little polling site](http://warm-brushlands-9555.herokuapp.com/), that actually turned out pretty ok (saved the UI but I have a friend brushing that up for me) and might be useful. It's built with [KoaJs](http://www.koajs.com/), of course, and using [MongoDb](http://mongodb.github.io/) as a database. Basically you can create a "question", tag it with some meta data and then send a link to a page where you can start receiving answers. And there's some very basic "export to excel"-reporting. Simple stuff. I spent maybe 3-5 hours altogether on it, in the hospital bed with my son in the bed next to me. He was pretty ok, so the concentration was not on top on either tasks for me. Bad!
@@ -35,7 +35,7 @@ The first things you probably use the tool belt for are:
 
 The last point was also my first gist. I'll soon come back to it. But I need to explain one more command that you need to know about:
 
-- `git push heroku [branch]` - remember above where we created the application. This also sets up a [git remote](http://gitref.org/remotes/) for you, aptly named heroku. This is awesome because it means that we can move code to Heroku by a normal git push. If you're new to [git](http://www.marcusoft.net/2014/02/mnb-git.html), have a look here.
+- `git push heroku [branch]` - remember above where we created the application. This also sets up a [git remote](http://gitref.org/remotes/) for you, aptly named heroku. This is awesome because it means that we can move code to Heroku by a normal git push. If you're new to [git](https://www.marcusoft.net/2014/02/mnb-git.html), have a look here.
 
 #### Error: git push heroku master -> Permission denied (publickey)
 
@@ -52,9 +52,9 @@ This was strange. I had ssh-keys in place (if you have not, [read this article](
 
 #### package.json and the engine-node
 
-Oh yeah... almost forgot. I'm of course using [KoaJs](http://www.marcusoft.net/2014/03/koaintro.html) for the app. I got tired of writing nested functions... As you remember Koa needs a version of Node that is later than the current version. You need to tell Heroku that you're planning to use another version of node also, otherwise it will use the latest stable version.
+Oh yeah... almost forgot. I'm of course using [KoaJs](https://www.marcusoft.net/2014/03/koaintro.html) for the app. I got tired of writing nested functions... As you remember Koa needs a version of Node that is later than the current version. You need to tell Heroku that you're planning to use another version of node also, otherwise it will use the latest stable version.
 
-Luckily this is super simple. In your [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) file just define a node called "[engines](https://www.npmjs.org/doc/json.html#engines)" and give it the version of Node you're using. Like this:
+Luckily this is super simple. In your [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) file just define a node called "[engines](https://www.npmjs.org/doc/json.html#engines)" and give it the version of Node you're using. Like this:
 
 ```
 "engines": {
@@ -82,7 +82,7 @@ Now, this poses a bit of a problem since you want to use your local MongoDb serv
 
 The first lines set up my database connection strings, and use the MONGOHQ_URL if it is present
 
-. I can then use my configuration object when I create my database object (in this case using [Monk](http://www.marcusoft.net/2014/02/mnb-monk.html)) like this:
+. I can then use my configuration object when I create my database object (in this case using [Monk](https://www.marcusoft.net/2014/02/mnb-monk.html)) like this:
 
 ```
 var config = require('../config')();
@@ -105,11 +105,11 @@ Reading logs at the prompt is actually quite simple, albeit a bit verbose in its
 
 But it's not very nice to read, nor searchable.
 
-We [need better](http://www.marcusoft.net/2014/04/lookingForBetter.html). We need [Papertrail](https://addons.heroku.com/papertrail). Papertrail is a nice little addon that helps you read your log. Install it (`heroku addons:add papertrail`) and you get a dashboard for your app with a nice UI to see, read and search your logs.
+We [need better](https://www.marcusoft.net/2014/04/lookingForBetter.html). We need [Papertrail](https://addons.heroku.com/papertrail). Papertrail is a nice little addon that helps you read your log. Install it (`heroku addons:add papertrail`) and you get a dashboard for your app with a nice UI to see, read and search your logs.
 
 With that in place the [Yak was shaved](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx) and I could get back to trying to figure out why my site didn't show. There were two problems that hindered me:
 
-1. I was using [Nodemon](https://github.com/remy/nodemon) to start my application. It was not in my dependencies. Bad Marcus! I added that and updated my `"npm start"` command to point to the nodemon in my `node_modules` directory (`"start": "./node_modules/nodemon/bin/nodemon.js --harmony app.js prod"`). If none of that made any sense to you, [read this first](http://www.marcusoft.net/2014/02/mnb-packagejson.html). [And then this](http://www.marcusoft.net/2014/02/mnb-npm.html).
+1. I was using [Nodemon](https://github.com/remy/nodemon) to start my application. It was not in my dependencies. Bad Marcus! I added that and updated my `"npm start"` command to point to the nodemon in my `node_modules` directory (`"start": "./node_modules/nodemon/bin/nodemon.js --harmony app.js prod"`). If none of that made any sense to you, [read this first](https://www.marcusoft.net/2014/02/mnb-packagejson.html). [And then this](https://www.marcusoft.net/2014/02/mnb-npm.html).
 2. I then ran into the "Web process failed to bind to $PORT within 60 seconds of launch" mentioned above. Let's talk more about that.
 
 Heroku dynamically assigns your app a port, so you can't set the port to a fixed number. Heroku adds the port to the env, so you can pull it from there. Very much like the MONGOHQ_URL above. We need to use the environment variable set dynamically by Heroku in the production case and our local port in the local case. If you scroll back up you can see that I do that in my config-object (line 18), where set the port of my object to either the port from Heroku or a static one (`port: process.env.PORT || 5000`).

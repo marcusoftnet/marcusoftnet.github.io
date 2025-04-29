@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.382Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4435543381378976702
-blogger_orig_url: http://www.marcusoft.net/2007/03/springnet.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/springnet.html
 ---
 
 I

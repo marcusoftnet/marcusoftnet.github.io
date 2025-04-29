@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2008-04-09T06:48:25.814Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3432909724295493956
-blogger_orig_url: http://www.marcusoft.net/2008/04/black-dyke-live-concert.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/black-dyke-live-concert.html
 ---
 
 This

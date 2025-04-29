@@ -7,11 +7,11 @@ tags:
   - Marcus private
 modified_time: 2008-05-12T05:59:11.708Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7724150818158165227
-blogger_orig_url: http://www.marcusoft.net/2008/05/back-on-shelter.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/back-on-shelter.html
 ---
 
 Another [night on the
-shelter](http://www.marcusoft.net/2008/04/night-at-shelter.html) for the
+shelter](https://www.marcusoft.net/2008/04/night-at-shelter.html) for the
 Salvation Army. Today it has been quite warm outside but for the men
 visiting the shelter that only means that they will arrive a bit
 later.

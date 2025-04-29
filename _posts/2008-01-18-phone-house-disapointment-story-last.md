@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-01-18T07:34:41.658Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8981416447779583624
-blogger_orig_url: http://www.marcusoft.net/2008/01/phone-house-disapointment-story-last.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/phone-house-disapointment-story-last.html
 ---
 
 OK - as you all know I am quite disappointed with the Phone House

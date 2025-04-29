@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2006-12-22T06:47:11.394Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-25664959498094613
-blogger_orig_url: http://www.marcusoft.net/2006/12/pictures-from-caroling-in-old-town.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/pictures-from-caroling-in-old-town.html
 ---
 
 

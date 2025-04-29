@@ -11,7 +11,7 @@ tags:
   - Salvation Army
 modified_time: 2014-06-03T04:59:30.112Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4443794205082562848
-blogger_orig_url: http://www.marcusoft.net/2014/06/the-talk-about-later-list.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/the-talk-about-later-list.html
 ---
 
 When I was a kid (and teenager… oh, well still today too) I messed up a lot. I forgot things or did them in a stupid order and all of a sudden I was in an emergency. For example, I forgot that I should be in a rehearsal 1 hour away and here I was in my home, 2 hours from the rehearsal room.

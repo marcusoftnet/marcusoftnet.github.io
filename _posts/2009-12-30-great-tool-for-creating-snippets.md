@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.171Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2085744722495705602
-blogger_orig_url: http://www.marcusoft.net/2009/12/great-tool-for-creating-snippets.html
+blogger_orig_url: https://www.marcusoft.net/2009/12/great-tool-for-creating-snippets.html
 ---
 
 I love the [snippet](http://en.wikipedia.org/wiki/Snippet_(programming)) support in Visual Studio. It’s so much a part of what we do that we don’t even think about it anymore. Just like [Intellisense](http://en.wikipedia.org/wiki/IntelliSense) way, way back – remember the time before that?

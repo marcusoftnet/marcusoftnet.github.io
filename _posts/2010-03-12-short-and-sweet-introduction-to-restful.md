@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-03-12T11:48:40.891Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-340756781042224307
-blogger_orig_url: http://www.marcusoft.net/2010/03/short-and-sweet-introduction-to-restful.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/short-and-sweet-introduction-to-restful.html
 ---
 
 

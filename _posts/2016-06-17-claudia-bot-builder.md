@@ -10,7 +10,7 @@ tags:
  - Claudia
 ---
 
-I've written [a few](http://www.marcusoft.net/2016/04/claudia-some-updates-that-made-me-want-to-write-a-post.html) [posts](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia](http://claudiajs.com/) now and as often I jumped almost too early on the boat - it turns out that there's significant improvements to both Claudia herself and the entire ecosystem around the main tool.
+I've written [a few](https://www.marcusoft.net/2016/04/claudia-some-updates-that-made-me-want-to-write-a-post.html) [posts](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia](http://claudiajs.com/) now and as often I jumped almost too early on the boat - it turns out that there's significant improvements to both Claudia herself and the entire ecosystem around the main tool.
 
 The main tool Claudia:
 
@@ -24,7 +24,7 @@ AWS Lambda is really cool but it leaves one of those: `Oh wow… now what am I g
 
 ## What we're going to build
 
-To build something a little more useful than a HelloWorld (although they can [be fun too](https://github.com/claudiajs/claudia-bot-builder)) In this post we are going to build a little Slack Slash Command called pingu. The need came from my current team at work where we sometimes need a quick way of checking response-times for our sites. With pingu you can, in Slack, just go `/pingu http://www.marcusoft.net` and it will return you a message about how long it took to request that url.
+To build something a little more useful than a HelloWorld (although they can [be fun too](https://github.com/claudiajs/claudia-bot-builder)) In this post we are going to build a little Slack Slash Command called pingu. The need came from my current team at work where we sometimes need a quick way of checking response-times for our sites. With pingu you can, in Slack, just go `/pingu https://www.marcusoft.net` and it will return you a message about how long it took to request that url.
 
 Let's rebuild that now. Step by step.
 
@@ -34,7 +34,7 @@ We're going to follow the instructions from the [Getting Started guide](https://
 
 * Install [nvm](https://github.com/creationix/nvm) or something similar so that you can `nvm install v4.3.2` that Claudia-bot-builder requires (and AWS now supports)
 * Intall ClaudiaJs globally (if you want to) for that version of Node `npm install claudia -g` or update it if it's already installed `npm update claudia -g`
-* Set up an [AWS Account](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html#setting-up-your-environment) - yeah that's troublesome, but a one time thing. Hang in there.
+* Set up an [AWS Account](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html#setting-up-your-environment) - yeah that's troublesome, but a one time thing. Hang in there.
 * And then some coding.
 
 Create a new directory called `pingu`, cd into it and then init a new git repository and a npm application. Here's one command to do all of that for you:
@@ -65,7 +65,7 @@ module.exports = botBuilder(request => {
 });
 ```
 
-The `claudia-bot-builder` gives us a simple construct that receives the `request` object as single inparameter. From that we can read the `request.text` property which contains the text that the user sends us. In our case we will use a [Slack Slash Command](https://api.slack.com/) like this: `/pingu http://www.marcusoft.net`, and in that case `request.text` will be `http://www.marcusoft.net`.
+The `claudia-bot-builder` gives us a simple construct that receives the `request` object as single inparameter. From that we can read the `request.text` property which contains the text that the user sends us. In our case we will use a [Slack Slash Command](https://api.slack.com/) like this: `/pingu https://www.marcusoft.net`, and in that case `request.text` will be `https://www.marcusoft.net`.
 
 I'm using the [co-request](https://www.npmjs.com/package/co-request) module as to do simple http request, co-request allows me to use `yield` rather than the callback horrors that I've come to hate.
 
@@ -127,7 +127,7 @@ All see all those deployed functions that means that we could reach our little p
 
 ### Testing
 
-We could in fact that the setup is correct, by using the [testing feature of Claudia](http://www.marcusoft.net/2016/04/testing-with-claudia.html).
+We could in fact that the setup is correct, by using the [testing feature of Claudia](https://www.marcusoft.net/2016/04/testing-with-claudia.html).
 
 Create a `testdata/basictest.json` file containing the following:
 

@@ -28,7 +28,7 @@ Amazingly the book manages to do this in a very practical way and gives the read
 
 
 
-[A seat at the table](https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118/ref=asap_bc?ie=UTF8) - this is a gem I recently found. It's written by Mark Schwartz and I'm going to cut from [my previous review of it.](http://www.marcusoft.net/2017/12/review-of-a-seat-at-the-table.html)
+[A seat at the table](https://www.amazon.com/Seat-Table-Leadership-Age-Agility/dp/1942788118/ref=asap_bc?ie=UTF8) - this is a gem I recently found. It's written by Mark Schwartz and I'm going to cut from [my previous review of it.](https://www.marcusoft.net/2017/12/review-of-a-seat-at-the-table.html)
 
 The book talks a lot about how the CIO role changes as lean and agile practices are adopted. Practices like DevOps, autonomous squads or automated testing all come with a change in mindset and culture and this, of course, needs to be adjusted for in how IT leaders lead their organizations. I particularly liked the part that made analogies with the open source culture and that of a modern, agile IT organization.
 
@@ -68,21 +68,21 @@ Read it slow and thoughtful and you will be rewarded with a much deeper understa
 
 
 
-[When will it be done](https://leanpub.com/whenwillitbedone) is a marvellous book by [Daniel Vacanti](https://twitter.com/danvacanti) on process metrics. I was a fan from page 1. Maybe 2. What I particularly love about this book is that 1) he talks about prognosis from real data, rather than estimated value and 2) he lays down the way to track this data and plot the graphs as something very very simple. 
+[When will it be done](https://leanpub.com/whenwillitbedone) is a marvellous book by [Daniel Vacanti](https://twitter.com/danvacanti) on process metrics. I was a fan from page 1. Maybe 2. What I particularly love about this book is that 1) he talks about prognosis from real data, rather than estimated value and 2) he lays down the way to track this data and plot the graphs as something very very simple.
 
-Track start and stop date per item, calculate 50 and the 85 percentiles, create a histogram and a scatter chart and you are half-way there to the best process data you ever saw. 
+Track start and stop date per item, calculate 50 and the 85 percentiles, create a histogram and a scatter chart and you are half-way there to the best process data you ever saw.
 
 
 
 [Turn the ship around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) is the amazing and lovely story about how Captain David L. Marquet completely turned the way a nuclear submarine worked upside down. From giving orders to giving intent and in doing so creating new leaders rather than mindless executors.
 
-The book is packed with nuggets (nudges?) of management gold like "[Move the authority to where the information is](http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html)", for example. I keep coming back to this inspiring story over and over again. Sadly I lost my copy, but it lives in my mind forever. This
+The book is packed with nuggets (nudges?) of management gold like "[Move the authority to where the information is](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html)", for example. I keep coming back to this inspiring story over and over again. Sadly I lost my copy, but it lives in my mind forever. This
 
 
 
 ### Moved out
 
-In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books. 
+In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books.
 
 
 

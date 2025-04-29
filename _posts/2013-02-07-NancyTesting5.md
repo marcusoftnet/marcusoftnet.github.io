@@ -13,12 +13,12 @@ tags:
 modified_time: 2014-06-21T00:09:55.466Z
 thumbnail: /img/Screen+Shot+2013-02-07+at+13.24.53+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3220746848691426022
-blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting5.html
+blogger_orig_url: https://www.marcusoft.net/2013/02/NancyTesting5.html
 ---
 
 ![Nancy Logo](http://nancyfx.org/images/logo.png)
 
-When I showed the code from the [last post](http://www.marcusoft.net/2013/02/NancyTesting4.html) to a colleague ([@HugoHaggmark](http://www.twitter.com/HugoHaggmark)), he remarked: Nice - but that's no unit test. And he's absolutely right.
+When I showed the code from the [last post](https://www.marcusoft.net/2013/02/NancyTesting4.html) to a colleague ([@HugoHaggmark](http://www.twitter.com/HugoHaggmark)), he remarked: Nice - but that's no unit test. And he's absolutely right.
 
 A unit test should test a unit. The tests in the last post, and the test that Nancy.Testing allows us to easily write, flexes the whole stack of our application. In memory (which is super cool) but the full stack. That's no unit test.
 
@@ -26,11 +26,11 @@ This can still be VERY useful and in this post I'll show you how to put one of m
 
 As the tradition calls - let's look in wonder at Nancy's silhouette. If you came here and want to read up on what we have spoken about so far, the other posts in the series can be found here:
 
-1. [Intro to testing with Nancy](http://www.marcusoft.net/2013/01/NancyTesting1.html)
-2. [The Configurable bootstrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html)
-3. [The Browser and Response objects](http://www.marcusoft.net/2013/01/NancyTesting3.html)
-4. [Hat and shoeless testing with Simple.Data](http://www.marcusoft.net/2013/02/NancyTesting4.html)
-5. [SpecFlow and Nancy](http://www.marcusoft.net/2013/02/NancyTesting5.html) (this post)
+1. [Intro to testing with Nancy](https://www.marcusoft.net/2013/01/NancyTesting1.html)
+2. [The Configurable bootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html)
+3. [The Browser and Response objects](https://www.marcusoft.net/2013/01/NancyTesting3.html)
+4. [Hat and shoeless testing with Simple.Data](https://www.marcusoft.net/2013/02/NancyTesting4.html)
+5. [SpecFlow and Nancy](https://www.marcusoft.net/2013/02/NancyTesting5.html) (this post)
 
 In this post I'll introduce you, short - very short, to [Specification by example](http://www.specificationbyexample.com/) and [SpecFlow](http://www.specflow.org/) and some practices that make automating your application ... bearable.
 
@@ -67,13 +67,13 @@ When I first heard about specification by example I, like many others, wanted to
 
 But that means, for all the people not using Nancy, we have to automate against the UI. That's not very pleasant since it moves a lot (in other words: gives you brittle tests) and testing the UI means that you have very little control over the execution of a test. Finally, testing against the UI is slow. In short: you'll mostly end up [shooting yourself in the foot](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/) (thanks [Gojko](http://gojko.net/)) and finally resign with not using the tests.
 
-There are some ways to get around some of the maintainability issues and structuring the test code a bit. The best one I know is what's known as the [Page Wrapper](http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). It's basically encapsulating access to a page in a separate class with all the UI automation logic.
+There are some ways to get around some of the maintainability issues and structuring the test code a bit. The best one I know is what's known as the [Page Wrapper](https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). It's basically encapsulating access to a page in a separate class with all the UI automation logic.
 
 This wrapper (that you write) can be thought of as a [Domain Specific Language (DSL)](http://en.wikipedia.org/wiki/Domain-specific_language) that you use to automate your application. What's great about this is that your step definitions are lightweight and simple to write - you just delegate into the automation layer where all the automation happens. Not only that, but you could write a new DSL that for example didn't automate against the UI, without changing the .feature-file or the steps. Cool - huh? This can be seen to great effect in [this excellent talk by Matt Wynne](http://skillsmatter.com/podcast/agile-scrum/bdd-as-its-meant-to-be-done).
 
-Of course, it would be even better if we could skip the top layer, the UI, [the hat if you will](http://www.marcusoft.net/2013/02/NancyTesting4.html), and just test the application logic and not the rendering in the browser. If only ... now wait a minute here - that's exactly what Nancy.Testing gives us.
+Of course, it would be even better if we could skip the top layer, the UI, [the hat if you will](https://www.marcusoft.net/2013/02/NancyTesting4.html), and just test the application logic and not the rendering in the browser. If only ... now wait a minute here - that's exactly what Nancy.Testing gives us.
 
-That just leaves us with test data that is inherently difficult to set up when hitting the production code. That [would be your shoes](http://www.marcusoft.net/2013/02/NancyTesting4.html) and can also be handled with [Simple.Data](http://simple.data/), as described before.
+That just leaves us with test data that is inherently difficult to set up when hitting the production code. That [would be your shoes](https://www.marcusoft.net/2013/02/NancyTesting4.html) and can also be handled with [Simple.Data](http://simple.data/), as described before.
 
 We now have all the parts for what I wanted to talk about in this post. Longest intro ever, but there's some background in there as well, to my defense.
 
@@ -150,7 +150,7 @@ These are the methods that SpecFlow calls for us for each step in the .feature-f
 
 On the first line, we create a FairyTaleModuleWrapper that hands us a nice API to interact with the functionality of the module. In fact, that's the kind of API to automation that you always wanted, right? Just what you want: methods to register and validate results. I wonder how the automation looks like. Who's writing that now again? We? Better get to it.
 
-Now we're talking: here's the automation code we have seen [examples from throughout the series](http://www.marcusoft.net/2013/01/NancyTesting1.html). Let's walk through the code. It's a mouth full but by no means complicated.
+Now we're talking: here's the automation code we have seen [examples from throughout the series](https://www.marcusoft.net/2013/01/NancyTesting1.html). Let's walk through the code. It's a mouth full but by no means complicated.
 
 On lines 6-15 is the constructor of the wrapper. Here we set up a Nancy.Testing.Browser indicating that we'll be using the FairyTaleFigureModule to test against. We store the browser object in a private field since we'll be using that all over the class.
 
@@ -166,7 +166,7 @@ The rest of the methods (lines 38-64) are small verification methods in which we
 
 The final part is just my small private helper methods to create the form. Nothing particularly exciting there.
 
-As I said - that's a mouth full when you first look at it. The number of lines in that code has partly to do with my formatting and my comments. The actual code is not that hard and built on everything we've talked about in [this series](http://www.marcusoft.net/2013/01/NancyTesting1.html).
+As I said - that's a mouth full when you first look at it. The number of lines in that code has partly to do with my formatting and my comments. The actual code is not that hard and built on everything we've talked about in [this series](https://www.marcusoft.net/2013/01/NancyTesting1.html).
 
 That just leaves the production code:
 

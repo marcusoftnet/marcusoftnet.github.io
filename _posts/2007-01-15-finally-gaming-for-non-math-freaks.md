@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.389Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3453668134450807618
-blogger_orig_url: http://www.marcusoft.net/2007/01/finally-gaming-for-non-math-freaks.html
+blogger_orig_url: https://www.marcusoft.net/2007/01/finally-gaming-for-non-math-freaks.html
 ---
 
 

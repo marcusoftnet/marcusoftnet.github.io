@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-02-27T21:11:43.344Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6757288054780575445
-blogger_orig_url: http://www.marcusoft.net/2012/02/how-i-do-sprint-planning.html
+blogger_orig_url: https://www.marcusoft.net/2012/02/how-i-do-sprint-planning.html
 ---
 
 I haven’t done “proper” [Scrum](http://en.wikipedia.org/wiki/Scrum_(development)) in quite some time now, with the [Kanban](http://en.wikipedia.org/wiki/Kanban_(development))-ery going on. So when I got thrown into a sprint planning meeting the other day I was happy to see that I still remember how I used to do my sprint planning. Thought I write it down if I need to get back to it later.

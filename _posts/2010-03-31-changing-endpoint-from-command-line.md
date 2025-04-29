@@ -11,19 +11,19 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:22:38.158Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7243669668355727942
-blogger_orig_url: http://www.marcusoft.net/2010/03/changing-endpoint-from-command-line.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/changing-endpoint-from-command-line.html
 ---
 
 I have been singing <a
-href="http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
-target="_blank">SOAPUi’s praises</a> <a href="http://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
+href="https://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
+target="_blank">SOAPUi’s praises</a> <a href="https://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
 target="_blank">lately</a> and it’s really great for testing services.
 In <a
-href="http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
+href="https://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html"
 target="_blank">this post</a> I describe how I made the whole thing work
 for testing WCF Services.
 But, as stated in
-<a href="http://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
+<a href="https://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
 target="_blank">this post</a>, there was still one more thing to be
 solved… The <a
 href="http://www.soapui.org/userguide/commandline/testcaserunner.html"
@@ -35,7 +35,7 @@ kind of service.
 Luckily the SOAPUi team also have some great support (Thanks Ole, who
 replied in Swedish!). So here you have it – how to change the endpoint
 for one of your services under test from the command line –
-<a href="http://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
+<a href="https://www.marcusoft.net/2010/03/soapui-and-msbuild.html"
 target="_blank">which in my case means the build script</a>.
 
 1. I first created a sample WCF service project (very vanilla, I didn’t

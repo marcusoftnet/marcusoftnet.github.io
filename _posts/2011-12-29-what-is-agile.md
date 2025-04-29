@@ -7,7 +7,7 @@ tags:
   - Agile
 modified_time: 2012-01-01T20:40:46.550Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3944511374658002557
-blogger_orig_url: http://www.marcusoft.net/2011/12/what-is-agile.html
+blogger_orig_url: https://www.marcusoft.net/2011/12/what-is-agile.html
 ---
 
 About a year ago, my project manager asked me to “just give a quick intro and overview; What is agile? 20 minutes or so…” At first, this didn’t seem too bad. But when I got home and started preparing, I realized how challenging it is to sum up agile!
@@ -55,9 +55,9 @@ This longing for a quick fix explains the failure of many software methodologies
 Even the dreaded [Waterfall model](http://en.wikipedia.org/wiki/Waterfall_model) is a misconception and was mistakenly applied. The term was coined to reference a **flawed** model, yet our industry embraced it as if it were gospel. Why? Because it was something to hold on to.
 
 > “The waterfall method you say…? I’ll take it”
-> 
+>
 > “But it’s **flawed!!** It was meant as a joke…"
-> 
+>
 > “Don’t care! It’s at least something”
 
 [Dan North](http://dannorth.net/) gave an excellent [keynote at OreDev 2011](http://oredev.org/2011/sessions/embracing-uncertainty--the-hardest-pattern-of-all) where he said:
@@ -72,7 +72,7 @@ When agile emerged, starting with Scrum (at least in Sweden), we all thought:
 
 > “Yes! That’s right! And with some rules along with it. Let’s go.”
 
-So everyone started applying Scrum. Or at least tried. Or at least where it didn’t hurt too much. I have actually [never seen a Scrum implementation](http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html) as it was meant to be; it’s always some part missing:
+So everyone started applying Scrum. Or at least tried. Or at least where it didn’t hurt too much. I have actually [never seen a Scrum implementation](https://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html) as it was meant to be; it’s always some part missing:
 
 - Yeah, we do Scrum, but we don’t do standups/have a board/sit together.
 - It was too hard to find a good Scrum master, so we have our own *applied* version of it.
@@ -109,7 +109,7 @@ What’s behind this statement?
 
 Why emphasize this?
 
-Software is a **knowledge-creating** process – nobody knows the finished product before it’s done. Not even the customer. To succeed, we need to communicate frequently and effectively. 
+Software is a **knowledge-creating** process – nobody knows the finished product before it’s done. Not even the customer. To succeed, we need to communicate frequently and effectively.
 
 Focusing on individuals and their communication rather than on following a specific process or using a particular tool is key. If communication is effective, processes and tools become secondary.
 
@@ -123,7 +123,7 @@ Why emphasize this?
 
 Working software helps and delights the customer. Documentation alone doesn’t offer the same value. Delivering working software frequently allows for feedback, which is essential for improving and adapting.
 
-Think about how happy your customer would be for a great requirements specification versus working software. 
+Think about how happy your customer would be for a great requirements specification versus working software.
 
 How can you measure the efficiency of creating working software? What documentation does the end-customer really need?
 
@@ -131,7 +131,7 @@ How can you measure the efficiency of creating working software? What documentat
 
 Why emphasize collaboration over contracts?
 
-No one knows the finished product in advance, not even the customer. Contracts are often used to protect against uncertainty, but they can hinder collaboration. 
+No one knows the finished product in advance, not even the customer. Contracts are often used to protect against uncertainty, but they can hinder collaboration.
 
 In my experience, both sides often add extra time and resources to estimates to protect themselves, resulting in wasted time on contracts and budgets instead of delivering working software.
 
@@ -141,7 +141,7 @@ What could you stop doing if you sat next to your customers? How could you impro
 
 This is at the heart of agile philosophy. How do you respond when a plan encounters problems?
 
-Some people respond by making stricter plans and budgets, while others offer more flexibility for future projects. 
+Some people respond by making stricter plans and budgets, while others offer more flexibility for future projects.
 
 Planning is essential, but I have found it more effective to make detailed plans for the short term and rough plans for the long term, acknowledging that things will change. Look up [Rolling Wave Planning](http://www.ayeconference.com/starting-with-rolling-wave-planning/) for more.
 
@@ -156,9 +156,9 @@ To “become agile,” you and your team must apply this philosophy and then adj
 I find simple goal-statements, rephrased into questions, useful to guide myself and the teams I coach:
 
 > “Will this (meeting, feature, schedule, prioritization) make our customer happier?”
-> 
+>
 > “If you were forced to deliver new functionality into production every month/week/day, what would change first to achieve that?”
-> 
+>
 > “How could we solve the number one hindrance you see to deliver every other week?”
 
 ### Conclusion

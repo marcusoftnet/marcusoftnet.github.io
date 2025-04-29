@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.181Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-128803305506172494
-blogger_orig_url: http://www.marcusoft.net/2009/10/how-to-press-f9-f12-in-parallels.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/how-to-press-f9-f12-in-parallels.html
 ---
 
 As a developer, I often rely on a variety of keyboard shortcuts and function keys. For instance, I use `CTRL+R, T` to run all tests in a Visual Studio solution and `CTRL+SHIFT+F11` to step out of a function while debugging. These shortcuts are second nature to me.

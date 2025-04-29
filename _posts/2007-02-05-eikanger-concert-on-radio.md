@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-02-05T06:49:33.737Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8616226778455634059
-blogger_orig_url: http://www.marcusoft.net/2007/02/eikanger-concert-on-radio.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/eikanger-concert-on-radio.html
 ---
 
 A

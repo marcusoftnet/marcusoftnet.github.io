@@ -9,7 +9,7 @@ tags:
  - Tools
 ---
 
-[npm](http://www.marcusoft.net/2014/02/mnb-npm.html) is at the core of developing in [Node](http://www.nodejs.org). Most of us use it to get packages, set up the [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) etc.
+[npm](https://www.marcusoft.net/2014/02/mnb-npm.html) is at the core of developing in [Node](http://www.nodejs.org). Most of us use it to get packages, set up the [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) etc.
 
 But when you put it together with the vast possibilities in package.json you get another gear. Then npm can actually become a [build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - driving every aspect of your development. Without getting unwieldy and out of control.
 
@@ -20,9 +20,9 @@ This, and other posts on npm scripting, has drawn a lot of attention. I wanted y
 
 Also, don't miss the other posts on this blog on npm scripting:
 
-* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
-* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
-* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+* [npm scripting: git, version and deploy](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](https://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 
 If you liked this post I know you will love the course! Thank you for reading this.
 

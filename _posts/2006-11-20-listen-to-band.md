@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2006-11-20T06:40:15.890Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-990019875154611072
-blogger_orig_url: http://www.marcusoft.net/2006/11/listen-to-band.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/listen-to-band.html
 ---
 
 Every Monday morning I start the day with some good radio. The

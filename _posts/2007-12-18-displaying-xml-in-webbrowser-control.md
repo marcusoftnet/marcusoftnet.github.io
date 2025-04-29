@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.499Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2986599029917462335
-blogger_orig_url: http://www.marcusoft.net/2007/12/displaying-xml-in-webbrowser-control.html
+blogger_orig_url: https://www.marcusoft.net/2007/12/displaying-xml-in-webbrowser-control.html
 ---
 
 This is one of those "how can this be hard stuff", and after
@@ -35,87 +35,51 @@ and import it as a resource in your project. You could also hold it as a
 string variable but that is not as nice.
 
 The following method does the transformation for you:
-`'''`
 
+```vb
 ''' Transforms the XML-string with the sent-in XSL-string
-'''
-
 ''' the xml to transform
 ''' the xsl to use for the transformation
-''' a memorystream with the result of the
-transformation
+''' a memorystream with the result of the transformation
 '''
-''' An example of a call to set the XML in a webbrowser
-''' WebBrowser1.DocumentStream
-= TransformXML(<span
-id="SPELLING_ERROR_13" class="blsp-spelling-error">xml,
-My.Resources.PositionsDetaljer)
-'''
-Friend Shared Function TransformXML(<span
-id="SPELLING_ERROR_15" class="blsp-spelling-error">ByVal <span
-id="SPELLING_ERROR_16" class="blsp-spelling-error">xmlString As
-String, <span id="SPELLING_ERROR_17"
-class="blsp-spelling-error">ByVal <span id="SPELLING_ERROR_18"
-class="blsp-spelling-error">xlsString As String) As <span
-id="SPELLING_ERROR_19" class="blsp-spelling-error">MemoryStream
-Dim <span id="SPELLING_ERROR_20"
-class="blsp-spelling-error">memStream As <span
-id="SPELLING_ERROR_21" class="blsp-spelling-error">MemoryStream =
-Nothing
+''' An example of a call to set the XML in a web browser
+WebBrowser1.DocumentStream = TransformXML(xml, My.Resources.PositionsDetaljer)
+
+Friend Shared Function TransformXML(ByVal xmlString As String, ByVal xlsString As String) As MemoryStream
+
+Dim memStream As MemoryStream = Nothing
 Try
-' Create a <span id="SPELLING_ERROR_22"
-class="blsp-spelling-error">xml-document from the sent-in <span
-id="SPELLING_ERROR_23" class="blsp-spelling-error">xml-string
-Dim <span id="SPELLING_ERROR_24"
-class="blsp-spelling-error">xmlDoc As New <span
-id="SPELLING_ERROR_25" class="blsp-spelling-error">XmlDocument
-<span id="SPELLING_ERROR_26"
-class="blsp-spelling-error">xmlDoc.<span id="SPELLING_ERROR_27"
-class="blsp-spelling-error">LoadXml(<span id="SPELLING_ERROR_28"
-class="blsp-spelling-error">xmlString)
+  ' Create a xml-document from the sent-in xml-string
+  Dim xmlDoc As New XmlDocument
+  xmlDoc.LoadXml(xmlString)
 
-' Load the <span id="SPELLING_ERROR_29"
-class="blsp-spelling-error">xls into another document
-Dim <span id="SPELLING_ERROR_30"
-class="blsp-spelling-error">xslDoc As New <span
-id="SPELLING_ERROR_31" class="blsp-spelling-error">XmlDocument
-<span id="SPELLING_ERROR_32"
-class="blsp-spelling-error">xslDoc.<span id="SPELLING_ERROR_33"
-class="blsp-spelling-error">LoadXml(<span id="SPELLING_ERROR_34"
-class="blsp-spelling-error">xlsString)
+  ' Load the xls into another document
+  Dim xslDoc As New XmlDocument
+  xslDoc.LoadXml(xlsString)
 
-' Create a transformation
-Dim trans As New <span id="SPELLING_ERROR_35"
-class="blsp-spelling-error">XslCompiledTransform
-trans.Load(<span id="SPELLING_ERROR_36"
-class="blsp-spelling-error">xslDoc)
+  ' Create a transformation
+  Dim trans As New XslCompiledTransform
+  trans.Load(xslDoc)
 
-' Create a memory stream for output
-<span id="SPELLING_ERROR_37"
-class="blsp-spelling-error">memStream = New <span
-id="SPELLING_ERROR_38"
-class="blsp-spelling-error">MemoryStream()
+  ' Create a memory stream for output
+  memStream = New MemoryStream()
 
-' Do the transformation according to the <span id="SPELLING_ERROR_39"
-class="blsp-spelling-error">XSLT and save the result in our
-memory stream
-trans.Transform(<span id="SPELLING_ERROR_40"
-class="blsp-spelling-error">xmlDoc, Nothing, <span
-id="SPELLING_ERROR_41" class="blsp-spelling-error">memStream)
-<span id="SPELLING_ERROR_42"
-class="blsp-spelling-error">memStream.Position = 0
+  ' Do the transformation according to the XSLT and save the result in our
+  memory stream
+  trans.Transform(xmlDoc, Nothing, memStream)
+  memStream.Position = 0
 Catch ex As Exception
-Throw ex
+  Throw ex
 End Try
 
-Return <span id="SPELLING_ERROR_43"
-class="blsp-spelling-error">memStream
+Return memStream
 End Function
+```
 
 The final part is almost trivial:
-`WebBrowser1.DocumentStream = TransformXML(m_message, My.Resources.IEXMLDefaultStyle)`
 
-One last <span id="SPELLING_ERROR_47"
-class="blsp-spelling-corrected">gotcha though - don't set any of
-the Document properties in the constructor of the form. Do it in the
-Load-event handler or later.
+```vb
+WebBrowser1.DocumentStream = TransformXML(m_message, My.Resources IEXMLDefaultStyle)
+```
+
+One last gotcha though - don't set any of the Document properties in the constructor of the form. Do it in the Load-event handler or later.

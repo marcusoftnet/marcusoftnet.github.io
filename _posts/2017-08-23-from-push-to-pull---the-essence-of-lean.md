@@ -38,7 +38,7 @@ He sent an email out and said: this is how I understood it - do you agree? He di
 
 This was the first time we started to feel that something is not right in the way that we do things. Because who knows best the needs of a stakeholder? That's right - the stakeholder themselves.
 
-I think that we in many organizations create more problems than we avoid by accepting the items from many stakeholders onto our backlog. The priority is based of timing and need - and the people that know this the best the ones closest to the need. Reminds me a bit of [David L. Marqueet excellent saying](http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html):
+I think that we in many organizations create more problems than we avoid by accepting the items from many stakeholders onto our backlog. The priority is based of timing and need - and the people that know this the best the ones closest to the need. Reminds me a bit of [David L. Marqueet excellent saying](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html):
 
 > Move the authority to the information!
 
@@ -73,7 +73,7 @@ We had noticed that our backlogs kept growing, never shrunk and things way down 
 > Oh, by the way. Remember that thing that we promised that we were going to do **6 months** ago? Yes, the one we have not talked about since.
 > Not happening!
 
-I think that the way to solve this situation is to shift the flow of work from push to pull. Now, we are very lucky to be in a company where most [people speaks warmly and nice top each other](http://www.marcusoft.net/2017/01/kindness.html) so make this shift is not dramatic.
+I think that the way to solve this situation is to shift the flow of work from push to pull. Now, we are very lucky to be in a company where most [people speaks warmly and nice top each other](https://www.marcusoft.net/2017/01/kindness.html) so make this shift is not dramatic.
 
 Right now a **stakeholder** would ask:
 
@@ -134,7 +134,7 @@ But I've found that counting cards are both easier and more flexible. As we take
 
 This means that cards need to be roughly equal in size. My suggestion is that we slice them up to a suitable size; what we think will take a team member a couple of days, is a good starting point. If they are not in that size as we get the wishes from the stakeholders we can help them to slice the item up. Maybe that is a good first column on our board. Or if it's time consuming, as in taking up much of our valuable capacity; we can help the stakeholder to do it by herself.
 
-This way of slicing stories into suitable sizes is sometimes referred to as [Goldilocks estimation](http://www.marcusoft.net/2016/03/sml-estimates-dont-start-from-days.html) and gives you much more benefits than to try to guess how long something will take. Now you can easily, and comfortably just count the number of cards on your board.
+This way of slicing stories into suitable sizes is sometimes referred to as [Goldilocks estimation](https://www.marcusoft.net/2016/03/sml-estimates-dont-start-from-days.html) and gives you much more benefits than to try to guess how long something will take. Now you can easily, and comfortably just count the number of cards on your board.
 
 #### Reporting
 

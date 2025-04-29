@@ -41,7 +41,7 @@ All in all - quite an investment to get our sights aligned and our work planned.
 
 ## This is not needed…
 
-As you might have seen on this [blog I'm re-reading the Toyota Kata book](http://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) and it refreshed my sight on what is different in the mindset of lean companies, such as Toyota;
+As you might have seen on this [blog I'm re-reading the Toyota Kata book](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) and it refreshed my sight on what is different in the mindset of lean companies, such as Toyota;
 
 > They always seek to optimise and solve problems on the systemic level
 
@@ -57,7 +57,7 @@ This practice would not last long in companies that want to optimise flow - rath
 
 In fact this is a really fork in the road for how different organizations work with improvements. Many organizations would be happy with the big room planning and simply claim that it was the best that can be done.
 
-organizations that optimise for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganise the entire company if needed. [Read my post on Toyota Kata](http://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
+organizations that optimise for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganise the entire company if needed. [Read my post on Toyota Kata](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
 
 ## What to do instead, mr wise-guy?
 

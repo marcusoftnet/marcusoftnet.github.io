@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-12-19T07:13:51.772Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1445048808904067337
-blogger_orig_url: http://www.marcusoft.net/2007/12/o-holy-night.html
+blogger_orig_url: https://www.marcusoft.net/2007/12/o-holy-night.html
 ---
 
 Yes I know that this is old and cheesy but I can't help myself. It's

@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2010-03-28T10:22:41.725Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4252109985727479839
-blogger_orig_url: http://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html
 ---
 
 Together with [Joakim Sundén](http://www.joakimsunden.com/) and [Christophe Achouiantz](http://blog.avegagroup.se/ChristopheAchouiantz/default.aspx) I’ve been doing some talks on Kanban. We have included some practicality in the talk – Build your own Kanban-board sort of.

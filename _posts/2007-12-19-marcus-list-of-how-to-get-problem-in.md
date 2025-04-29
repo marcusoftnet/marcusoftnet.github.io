@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-12-19T13:26:36.977Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8688277135535059373
-blogger_orig_url: http://www.marcusoft.net/2007/12/marcus-list-of-how-to-get-problem-in.html
+blogger_orig_url: https://www.marcusoft.net/2007/12/marcus-list-of-how-to-get-problem-in.html
 ---
 
 From time to time I hear myself saying; "That's a good way to get
@@ -27,16 +27,14 @@ So here you are; How to get problems:
   .NET-applications call COM-components. If you mix old an new then
   the total "goodness" of the application will not be better than the
   old technology - if that even.
-- **Create applications that have a lot of <span id="SPELLING_ERROR_1"
-    class="blsp-spelling-corrected">dependencies** - these
+- **Create applications that have a lot of dependencies** - these
   hub-application are sometimes unavoidable but they always create a
   lot of problems in the business when they are deployed. And when the
   application is developed you get to the next problem in jiffy.
 - **Involve a lot of persons to be able to solve a problem** - this
   will create a lagging in the project that will slow you down more
   and more the further down the project you will come.
-- **Use <span id="SPELLING_ERROR_2"
-    class="blsp-spelling-corrected">web applications to do
+- **Use web applications to do
   Windows application stuff** - web applications are very good to
   present a easy GUI. They can be made to do some pretty impressive
   stuff - but that will cost you and cause a lot of annoying problems

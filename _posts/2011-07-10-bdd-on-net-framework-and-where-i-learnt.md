@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-09-14T07:31:18.229Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7319819737087236385
-blogger_orig_url: http://www.marcusoft.net/2011/07/bdd-on-net-framework-and-where-i-learnt.html
+blogger_orig_url: https://www.marcusoft.net/2011/07/bdd-on-net-framework-and-where-i-learnt.html
 ---
 
 I recently received an insightful email from Jose Samonte asking for resources on [Behavior-Driven Development (BDD)](http://en.wikipedia.org/wiki/Behavior_Driven_Development) and where to start learning about it. Given the depth of my own journey with BDD, I thought I'd share my experiences and recommendations publicly.

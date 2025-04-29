@@ -10,7 +10,7 @@ tags:
   - Koa
 modified_time: 2014-04-06T12:41:45.558Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4757293937630995296
-blogger_orig_url: http://www.marcusoft.net/2014/04/koaGenYield.html
+blogger_orig_url: https://www.marcusoft.net/2014/04/koaGenYield.html
 ---
 
 [Koa Js](http://www.koajs.com/) removes the need for callbacks but still uses non-blocking code. How is that possible?
@@ -23,7 +23,7 @@ These questions and more flew through my head when I first learned about Koa and
 
 It's really not that complicated once you understand it the first time... Just like [quantum mechanics](http://en.wikipedia.org/wiki/Quantum_mechanics)...
 
-First, let me restate that the things we're diving into now are bleeding-edge stuff. It's proposed for the [EcmaScript 6 and is included in Google's V8 Javascript engine](http://wingolog.org/archives/2013/05/08/generators-in-v8). You will need to tweak your environment in order to get this version of [Node](http://www.nodejs.org/) that can execute this. [Read this for instructions](http://www.marcusoft.net/2014/03/koaintro.html).
+First, let me restate that the things we're diving into now are bleeding-edge stuff. It's proposed for the [EcmaScript 6 and is included in Google's V8 Javascript engine](http://wingolog.org/archives/2013/05/08/generators-in-v8). You will need to tweak your environment in order to get this version of [Node](http://www.nodejs.org/) that can execute this. [Read this for instructions](https://www.marcusoft.net/2014/03/koaintro.html).
 
 I have learned LOADS from this [awesome article](http://tobyho.com/2013/06/16/what-are-generators/) by [Toby Ho](https://twitter.com/airportyh). Here I'm just writing down how I understood it. All credit for any good stuff here goes to Toby. Any crap is probably from me.
 
@@ -45,7 +45,7 @@ But when I [understood that](http://tobyho.com/2013/06/16/what-are-generators/):
 
 > when the code encounters a yield statement, it suspends execution indefinitely, and doesn't start again until you tell it to
 
-I was intrigued to say the least. Could this be used instead of [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) when doing non-blocking, asynchronous code? But how? Let's press on and see if that is the case.
+I was intrigued to say the least. Could this be used instead of [callbacks](https://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) when doing non-blocking, asynchronous code? But how? Let's press on and see if that is the case.
 
 ### Aha, but what are generators then?
 
@@ -68,7 +68,7 @@ var myGenerator = loop();
 myGenerator.next();
 ```
 
-That was the quote about mean when it said: "... until you tell it to". The code will halt at the yield until we tell it to continue, and we tell it by calling `.next()` on the function instance. To run this, remember that you have to call Node with the "--harmony" flag, as described in [my earlier post](http://www.marcusoft.net/2014/03/koaintro.html). This is the command I used:
+That was the quote about mean when it said: "... until you tell it to". The code will halt at the yield until we tell it to continue, and we tell it by calling `.next()` on the function instance. To run this, remember that you have to call Node with the "--harmony" flag, as described in [my earlier post](https://www.marcusoft.net/2014/03/koaintro.html). This is the command I used:
 
 ```bash
 node --harmony callingGenerator.js
@@ -95,7 +95,7 @@ Tying back to the heading of this section: a generator is simply a function that
 
 This is a mind-twister and interesting and all that... but what use can we have from this? Well, yield and generators are, in fact, the helping hand that will draw us up from callback hell and put our feet back on solid, well-trampled ground.
 
-Did you notice the little passage about the asynchronous wait above? The thing is, when yield is called the code is waiting for you to call `.next()` to continue. For as long as that takes. In the meantime, Node can do something else that is more important than waiting. You recognize this? (Saved the fact that I wrote it above). This is what [callbacks give us](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html). Non-blocking code. Sadly to the cost of nesting and tightly coupled code, where you have to pass parameters that the innermost code need.
+Did you notice the little passage about the asynchronous wait above? The thing is, when yield is called the code is waiting for you to call `.next()` to continue. For as long as that takes. In the meantime, Node can do something else that is more important than waiting. You recognize this? (Saved the fact that I wrote it above). This is what [callbacks give us](https://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html). Non-blocking code. Sadly to the cost of nesting and tightly coupled code, where you have to pass parameters that the innermost code need.
 
 Let's take a look at an example on how [Koa Js](http://www.koajs.com/) uses this. This example is doing some very simple logging and really made the usefulness of generators stand out for me. Start this simple site up and then access it from the terminal with `curl http://localhost:3000 -v` so that you can see the headers returned, and there you see the X-Response-Time reported. As well at the console.
 
@@ -111,7 +111,7 @@ If you want to, you could read the middleware code like this: "Get the start tim
 
 I like that. A lot. It's simple, short, and easy to read and understand. All the hard stuff about generators... Well, we don't have to think so much about that. Yield means: "do everything else you need to do at this point".
 
-Here's another example where we store the data from a post into a Mongo database using [Monk](http://www.marcusoft.net/2014/02/mnb-monk.html) via the coroutine library [Co-Monk](https://www.npmjs.org/package/co-monk) (which is the simplest way to access MongoDB with generators right now):
+Here's another example where we store the data from a post into a Mongo database using [Monk](https://www.marcusoft.net/2014/02/mnb-monk.html) via the coroutine library [Co-Monk](https://www.npmjs.org/package/co-monk) (which is the simplest way to access MongoDB with generators right now):
 
 Again, using curl (why not?) we can now add a couple of users with the following commands:
 
@@ -160,8 +160,9 @@ My code is in those gists listed above or [here in a repo](https://github.com/ma
 
 I like Koa Js. I've written a couple of posts about it. Here they will be when they are published:
 
-- [Let's talk about Koa for a while, shall we?](http://www.marcusoft.net/2014/03/koaintro
+- [Let's talk about Koa for a while, shall we?](<https://www.marcusoft.net/2014/03/koaintro>
 
 .html)
+
 - Let's talk about yield and generators, shall we? (this post)
-- [Marcus Node Bits: Let's flex Koa Js, shall we?](http://www.marcusoft.net/2014/04/koaExamples.html)
+- [Marcus Node Bits: Let's flex Koa Js, shall we?](https://www.marcusoft.net/2014/04/koaExamples.html)

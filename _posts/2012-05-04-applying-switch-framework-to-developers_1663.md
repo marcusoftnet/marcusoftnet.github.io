@@ -11,16 +11,16 @@ tags:
 modified_time: 2012-05-04T10:00:05.962Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8461407434616449279
 blogger_orig_url: >-
-  http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_1663.html
+  https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_1663.html
 ---
 
 
 This is the last post in my series on how to motivate developers to
 write test for their code. Please read the first two posts to get some
 context (<a
-href="http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
+href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
 target="_blank">part 1</a> and <a
-href="http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html"
+href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html"
 target="_blank">part 2</a>).
 
 This post talks about the last part of the Switch Framework – Shape the

@@ -6,14 +6,14 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-10-14T16:04:13.877Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3239158553466281381
-blogger_orig_url: http://www.marcusoft.net/2008/10/back-from-road-and-well-again.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/back-from-road-and-well-again.html
 ---
 
 
 The last week marked a significant step in this year for the [Vasa
 Band](http://www.vasaband.se/). We released our brand new CD Priority
 (as I wrote about
-[here](http://www.marcusoft.net/2008/10/i-still-alive.html)) and also
+[here](https://www.marcusoft.net/2008/10/i-still-alive.html)) and also
 embarked on a small tour of the western part of Sweden.
 
 The tour was great - and the greatest part about it was the way we felt

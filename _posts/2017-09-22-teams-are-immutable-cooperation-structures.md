@@ -44,7 +44,7 @@ Cannot be change, for us laymen.
 
 This is a key trait of a whole class of programming languages called [functional programming languages](https://en.wikipedia.org/wiki/Functional_programming?oldformat=true). that was dormant to the large community of developer from the 1950-ies (yes - some of the first programming languages were functional in nature), but the last couple of years they have come into interest again.
 
-They have a [strong constraint](http://www.marcusoft.net/2013/01/on-constraints.html) in that they only allow for immutable values and data structures. This means that once a value has been created in memory of the computer it cannot be changed. The only way to change the value is to make a new copy containing the change. It's something new. It's not the same value.
+They have a [strong constraint](https://www.marcusoft.net/2013/01/on-constraints.html) in that they only allow for immutable values and data structures. This means that once a value has been created in memory of the computer it cannot be changed. The only way to change the value is to make a new copy containing the change. It's something new. It's not the same value.
 
 Although this first sounds very complicated it drives a structure and architecture of the programs that gives some great benefits. Because if the computer can assume that values will never be change it can help us to optimise the running of the program. For example we can very easy run parts of the program on parallell processors and thereby significantly speed up execution. This is very trick to do if you can change the values in a program at will.
 
@@ -68,7 +68,7 @@ But it's an immutable structure.
 
 As team starts to work together it's very easy for leadership to generalize and think that other teams works in the same way. But they do not. Because they are immutable - so one team is not the same as the other team. Even if you seed the new team with team members from the orginal team, or if you train them similary etc.
 
-One common example is when asking a team to estimate the size of task, [if you still do stuff like that](http://www.marcusoft.net/2015/10/review-noestimates-the-book.html). Let's say that we ask the team to classify some work items into sizes of [S, M and L](http://www.marcusoft.net/2016/03/sml-estimates-dont-start-from-days.html) - relatively.
+One common example is when asking a team to estimate the size of task, [if you still do stuff like that](https://www.marcusoft.net/2015/10/review-noestimates-the-book.html). Let's say that we ask the team to classify some work items into sizes of [S, M and L](https://www.marcusoft.net/2016/03/sml-estimates-dont-start-from-days.html) - relatively.
 
 They do a great job and make some data based prognosis. Team Awesome crunches (on average, see my post above) 10 S, 4 M and 1 L per week.
 

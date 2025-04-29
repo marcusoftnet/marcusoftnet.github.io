@@ -10,7 +10,7 @@ tags:
  - Claudia
 ---
 
-In writing the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) I stumbled into a little nugget of gold that I never tried before `claudia test-lambda`.
+In writing the [last post](https://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) I stumbled into a little nugget of gold that I never tried before `claudia test-lambda`.
 
 This is a quick and simple way to verify and [smoke test](https://www.wikiwand.com/en/Smoke_testing_(software)) your lambda function once deployed.
 
@@ -19,7 +19,7 @@ And it's super easy to use. Tag along
 <!-- excerpt-end -->
 
 ## Our example... again
-I'm going to use something very similar to the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) for our example. Here's the short version:
+I'm going to use something very similar to the [last post](https://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) for our example. Here's the short version:
 
 * `mkdir hellotesting && cd hellotesting`
 * `npm init` and then some enter-strokes
@@ -38,7 +38,7 @@ Finally `touch main.js` and enter the code below
         context.succeed(event);
     };
 
-This will quite simply just log the event you sent to your function (see the [last post](http://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) on where that ends up) and then return whatever you passed to the function back to you.
+This will quite simply just log the event you sent to your function (see the [last post](https://www.marcusoft.net/2016/04/claudiajs-and-consolelog.html) on where that ends up) and then return whatever you passed to the function back to you.
 
 Finally create this lambda function in AWS by running `npm run create`
 

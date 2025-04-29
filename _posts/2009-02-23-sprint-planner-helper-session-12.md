@@ -8,7 +8,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-23T08:34:41.346Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5709480760236693340
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-12.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-session-12.html
 ---
 
 Today, I started off with some refactoring of the code from yesterday. The ASPX page had some pretty ugly code that I've now cleaned up by adding properties to the domain model.
@@ -19,7 +19,7 @@ I began working on adding functionality for the Product and the product backlog.
 
 While Test-Driven Development (TDD) is fantastic, it doesn't solve the problem of test data. Even with a solid repository pattern, it’s still a challenge. I hope that the effort will pay off in the long run.
 
-Since I’m alone and Abbe is sound asleep, I decided to break the [1-hour rule](http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html) and push on a bit further.
+Since I’m alone and Abbe is sound asleep, I decided to break the [1-hour rule](https://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html) and push on a bit further.
 
 ### ASP.NET MVC Integration
 

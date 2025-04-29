@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2009-05-04T09:21:10.473Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7597305624497546469
-blogger_orig_url: http://www.marcusoft.net/2009/05/pictures-from-ethopia.html
+blogger_orig_url: https://www.marcusoft.net/2009/05/pictures-from-ethopia.html
 ---
 
 The last week has been quite unusual and busy, as we’re still recovering from an illness we picked up in Africa. Elin has been hit the hardest, but Abbe and I have also felt the effects.

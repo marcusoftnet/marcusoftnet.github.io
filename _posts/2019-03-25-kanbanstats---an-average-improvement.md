@@ -9,7 +9,7 @@ tags:
  - Lean
 ---
 
-I've always believed in the transformative power of books—they alter our perspectives and enrich our understanding of the world. As an avid reader and unapologetic learn-o-holic, I recently delved into [When Will It Be Done](https://leanpub.com/whenwillitbedone) by [Dan Vacanti](https://twitter.com/danvacanti), and it revolutionized my approach to process metrics. My previous musings on the topic, documented in a series of [blog posts](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), were challenged by Vacanti's insights, prompting a reevaluation of my methodologies.
+I've always believed in the transformative power of books—they alter our perspectives and enrich our understanding of the world. As an avid reader and unapologetic learn-o-holic, I recently delved into [When Will It Be Done](https://leanpub.com/whenwillitbedone) by [Dan Vacanti](https://twitter.com/danvacanti), and it revolutionized my approach to process metrics. My previous musings on the topic, documented in a series of [blog posts](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), were challenged by Vacanti's insights, prompting a reevaluation of my methodologies.
 
 ## The Fallacy of Averages
 

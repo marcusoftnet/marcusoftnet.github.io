@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2010-03-06T18:53:13.618Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5996332960561722947
-blogger_orig_url: http://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html
 ---
 
 Last Thursday I facilitated a [Elevate](http://blog.avegagroup.se/elevate/)-workshop, [Avega](http://www.avegagroup.se) on [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) with [SpecFlow](http://www.specflow.org). It was, as always, a very nice learning experience for me, and hopefully also for the participants.
@@ -32,7 +32,7 @@ A great way to get hold of behavior is to ask for example scenarios. These fit v
 
 ##### Implementing outside in
 
-Finally when it comes down to implementing the scenarios you get a nice outside-in approach to your testing. Of course this was where I started. Being a programmer I was eager to see how to use this to write code. And as [you might know](http://www.marcusoft.net/2010/02/specflow-bdd-net-style.html) that was where I started glancing on SpecFlow and BDD.
+Finally when it comes down to implementing the scenarios you get a nice outside-in approach to your testing. Of course this was where I started. Being a programmer I was eager to see how to use this to write code. And as [you might know](https://www.marcusoft.net/2010/02/specflow-bdd-net-style.html) that was where I started glancing on SpecFlow and BDD.
 
 Starting from the acceptance criteria's or scenarios I was amazed how a design was [pulled](http://en.wikipedia.org/wiki/Kanban) from the text and turned into code. Just-in-time so to speak
 

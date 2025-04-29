@@ -12,10 +12,10 @@ tags:
   - SpecFlow
 modified_time: 2011-11-03T15:34:05.677Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-508246732156716014
-blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
+blogger_orig_url: https://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html
 ---
 
-<a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic" target="_blank">SpecFlow.Assist.Dynamic</a> came about from my own need when I wrote something that used <a href="https://github.com/markrendle/Simple.Data" target="_blank">Simple.Data</a>. 
+<a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic" target="_blank">SpecFlow.Assist.Dynamic</a> came about from my own need when I wrote something that used <a href="https://github.com/markrendle/Simple.Data" target="_blank">Simple.Data</a>.
 
 I saw the power and simplicity (duh!) in Simple.Data by using dynamics. And I started to thinking on how it could be used in <a href="http://www.blogger.com/www.specflow.org" target="_blank">SpecFlow</a> to further simplify and shorten up the code in my steps.
 
@@ -31,7 +31,7 @@ As I said in my earlier post test data management is something that you often ha
 ### SpecFlow.Assist.Dynamic and Simple.Data
 
 So I thought I’ll take Darrens example from the post and rewrite it
-using SpecFlow.Assist.Dynamic. 
+using SpecFlow.Assist.Dynamic.
 
 Here is the feature Darren is using, updated to be a bit more readable for a non-technical person (spaces in headers):
 
@@ -111,7 +111,7 @@ The actual `FakeAccountController` looks like this:
 ```
 
 Finally the `Then`-step compares the Table from the scenario to the content of the database. For now I just compare the number of rows,
-which is super lazy… but it’s ten o’clock and I’m tired… 
+which is super lazy… but it’s ten o’clock and I’m tired…
 
 ```csharp
 1:  [Then(@"the following accounts should exist")]
@@ -127,6 +127,6 @@ which is super lazy… but it’s ten o’clock and I’m tired…
 
 ## Conclusion
 
-So by marrying the great Simple.Data framework with my small efforts in SpecFlow.Assist.Dynamic we can now move clear-text scenario data from and to the database very easily and with just a few lines of code. 
+So by marrying the great Simple.Data framework with my small efforts in SpecFlow.Assist.Dynamic we can now move clear-text scenario data from and to the database very easily and with just a few lines of code.
 
 I hope you found this helpful and the SpecFlow.Assist.Dynamic could be useful for you.

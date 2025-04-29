@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.278Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3551199948800060059
-blogger_orig_url: http://www.marcusoft.net/2008/05/process-explorer-good-tool.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/process-explorer-good-tool.html
 ---
 
 This is probably old news for many of you but today I had great use of the [Process Explorer](http://technet.microsoft.com/en-us/sysinternals/bb896653.aspx) tool.

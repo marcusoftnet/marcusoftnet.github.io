@@ -11,7 +11,7 @@ tags:
   - ContinuousDelivery
 modified_time: 2014-06-20T07:44:31.696Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4479719224435985617
-blogger_orig_url: http://www.marcusoft.net/2014/06/koajs-fast-route-between-idea-and.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/koajs-fast-route-between-idea-and.html
 ---
 
 A couple of days ago I had a great experience in why a modular framework
@@ -85,7 +85,7 @@ this:
 
 12:28:35 - "Ok, that looked simple let's try this out"
 12:28:40 - \[typed
-<a href="http://www.marcusoft.net/2014/02/mnb-npm.html"
+<a href="https://www.marcusoft.net/2014/02/mnb-npm.html"
 target="_blank"><span
 style="font-family: Courier New, Courier, monospace;">npm
 start</a> at the terminal and crashed on missing package\]
@@ -160,6 +160,6 @@ both. I know which one I like better.
 
 UPDATE:
 I wrote a <a
-href="http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html"
+href="https://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html"
 target="_blank">follow up to this post</a> showing how I made this even
 simpler with a single command in a Makefile.

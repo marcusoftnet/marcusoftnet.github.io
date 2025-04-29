@@ -34,9 +34,9 @@ Vision statements paint a picture of a future where we are executing the Mission
 
 With a great vision statement we get like a compass for our entire organization to help us in our day-to-day decisions and choices.
 
-During the presentation I talk, again, about [effective vs efficient](http://www.marcusoft.net/2014/10/effective-revisted.html) and that without an Vision we cannot really be effective. At least not on purpose.
+During the presentation I talk, again, about [effective vs efficient](https://www.marcusoft.net/2014/10/effective-revisted.html) and that without an Vision we cannot really be effective. At least not on purpose.
 
-There's a short part on [measurements](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) as well.
+There's a short part on [measurements](https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) as well.
 
 I go through a couple of Vision statements for inspiration and to learn a little from others.
 

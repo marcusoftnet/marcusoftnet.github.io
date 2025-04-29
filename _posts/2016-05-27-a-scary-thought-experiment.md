@@ -50,7 +50,7 @@ Let me finish the post with a series of questions.
 
   * What is the difference?
   * Why is that better?
-  * What would the company be [optimised for](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)?
+  * What would the company be [optimised for](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)?
 * Most PMs I've met are smart people, wanting to do good things for the company. Let's assume that our PM are like that:
 
   * Why did she set up the project like she did?

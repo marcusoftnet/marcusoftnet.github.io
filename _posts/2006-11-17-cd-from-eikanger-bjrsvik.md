@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2006-11-17T07:17:52.263Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5087828319830246734
-blogger_orig_url: http://www.marcusoft.net/2006/11/cd-from-eikanger-bjrsvik.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/cd-from-eikanger-bjrsvik.html
 ---
 
 

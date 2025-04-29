@@ -13,9 +13,9 @@ The little series I've written on [supertest](https://github.com/visionmedia/sup
 
 But here are the things I've written so far:
 
-* [Splitting API over several files](http://www.marcusoft.net/2015/04/supertest-things-ive-learned---part-i.html)
+* [Splitting API over several files](https://www.marcusoft.net/2015/04/supertest-things-ive-learned---part-i.html)
 * Splitting the API not only the test - this post
-* [Verify in database after ended request](http://www.marcusoft.net/2015/05/supertest-verify-in-database-after-ended-request.html)
+* [Verify in database after ended request](https://www.marcusoft.net/2015/05/supertest-verify-in-database-after-ended-request.html)
 
 In this post I will show you a powerful way of using [koa-mount](https://www.npmjs.com/package/koa-mount) to create a very modular application structure. And how to test it, of course.
 
@@ -122,9 +122,9 @@ Of course you need to <code>npm install koa koa-mount --save</code> too.
 
 I've written blog posts about most of these parts before, so I'll direct you to them for details:
 
-* Line 4 and 17-18 uses a configuration object to externalize the configuration of the application. [See more here](http://www.marcusoft.net/2015/02/config-handling-in-node-and-heroku---with-secrets.html)
+* Line 4 and 17-18 uses a configuration object to externalize the configuration of the application. [See more here](https://www.marcusoft.net/2015/02/config-handling-in-node-and-heroku---with-secrets.html)
 * Line 7 - 11 sets up a small (I say) application that just returns a very simple string, for now. This could of course been done in a separate file too, should it be bigger than this
-* Line 14 is the magic-sauce: here's we use that applications and mounts it under the <code>/</code> path. Read more about [mounting in koa here](http://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html)
+* Line 14 is the magic-sauce: here's we use that applications and mounts it under the <code>/</code> path. Read more about [mounting in koa here](https://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html)
 
 Finally I added two new commands to my <code>package.json</code> to start it, both in production (notice the <code>prod</code> parameter that will be picked up by our configuration object) and for local runs:
 
@@ -167,7 +167,7 @@ Ok, now we have some APIs and and a root application. Let's put it all together,
 
 Let's add a little twist, let's mount the <code>/orders</code> with some authentication. I'm using basic-authentication now, but this can be more elaborate if needed.
 
-Mounting ([read previous post](http://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html)) takes two parameters;
+Mounting ([read previous post](https://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html)) takes two parameters;
 
 * A path/URL under which the application will be found
 * the (koa) application itself
@@ -185,7 +185,7 @@ The mounting on line 3 is just as before, but please notice that we are mounting
 ## File dependencies and package.json
 But first; what on earth is <code>UserApi</code> in that <code>require</code>-statement and how did I get it there?
 
-As I've written before [package.json & npm are a might tools](http://www.marcusoft.net/2014/02/mnb-packagejson.html) and since 2.0.0 you can set dependencies to local files or directories. The simplest way to do this is just use <code>npm install</code>, as I did for the user api: <code>npm install ./apis/user/ --save</code>.
+As I've written before [package.json & npm are a might tools](https://www.marcusoft.net/2014/02/mnb-packagejson.html) and since 2.0.0 you can set dependencies to local files or directories. The simplest way to do this is just use <code>npm install</code>, as I did for the user api: <code>npm install ./apis/user/ --save</code>.
 
 And with that I got a new dependency in my <code>package.json</code>:
 

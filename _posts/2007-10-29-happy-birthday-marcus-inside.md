@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-10-29T11:51:37.275Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2496410496021557951
-blogger_orig_url: http://www.marcusoft.net/2007/10/happy-birthday-marcus-inside.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/happy-birthday-marcus-inside.html
 ---
 
 Today I have had this blog for a whole year. I never thought that it
@@ -26,6 +26,6 @@ would evolve to this. Here are some interesting (?) facts and statics.
   correctly)
 - 2007-08-27 was another important date in the history of the blog
   since the URL and name was changed into the current
-  [marcusoft.net](http://www.marcusoft.net/)
+  [marcusoft.net](https://www.marcusoft.net/)
   So - there you have it - happy birthday
-  [marcusoft.net](http://www.marcusoft.net/)
+  [marcusoft.net](https://www.marcusoft.net/)

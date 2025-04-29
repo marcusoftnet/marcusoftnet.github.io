@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2007-10-26T06:10:39.941Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4131265341622033949
-blogger_orig_url: http://www.marcusoft.net/2007/10/in-perfect-peace.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/in-perfect-peace.html
 ---
 
 The last thing the Gothenburg Brass band did before the

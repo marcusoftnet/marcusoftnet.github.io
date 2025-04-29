@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2010-03-30T07:10:07.408Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6661326606084940078
-blogger_orig_url: http://www.marcusoft.net/2010/03/status-of-workitems-where-to-keep-it.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/status-of-workitems-where-to-keep-it.html
 ---
 
 
@@ -30,10 +30,10 @@ take on it:
 
 First I think that no electronic system will ever beat the flexibility,
 simplicity and agileness of a board. <a
-href="http://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html"
+href="https://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html"
 target="_blank">See this for some examples</a>. There are
 <a href="http://agilezen.com/" target="_blank">some</a> that <a
-href="http://www.marcusoft.net/2009/08/task-board-for-team-system-finally.html"
+href="https://www.marcusoft.net/2009/08/task-board-for-team-system-finally.html"
 target="_blank">have come close</a> but a low tech board communicates so
 much information with the added flexibility to move things around very
 easy.

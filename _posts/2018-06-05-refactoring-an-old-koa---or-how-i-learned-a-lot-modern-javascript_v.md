@@ -13,15 +13,15 @@ This is the fifth and last post in a series where I refactor an old (4 years) co
 
 Here are all the posts in the series
 
-- [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
-- [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
-- [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
-- [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
-- [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html) - this post
+- [Part I - get the tests to run](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
+- [Part II - where we clean up the test code a bit](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
+- [Part III - where we start to move over to async/await testing](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+- [Part IV - where finally do something about the production code, and fix the other parts of the application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
+- [Part V - wrapping up by refactoring the root application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html) - this post
 
 <!-- excerpt-end -->
 
-The last post ended with us finishing refactoring the individual part applications. The time has come to the orchestration app on top. If you remember from the very first post I had done this to show a feature of [Koa](http://koajs.com/) where you can compose Koa applications in a nice way. There's [another blogpost on that.](http://www.marcusoft.net/2015/05/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)
+The last post ended with us finishing refactoring the individual part applications. The time has come to the orchestration app on top. If you remember from the very first post I had done this to show a feature of [Koa](http://koajs.com/) where you can compose Koa applications in a nice way. There's [another blogpost on that.](https://www.marcusoft.net/2015/05/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)
 
 We'll tackle this in the same manner:
 
@@ -80,7 +80,7 @@ The tests are still passing and I'm a bit nervous.
 
 ### Listening when spoken too
 
-But now we got another problem that I happen to recognize from before `Uncaught Error: listen EADDRINUSE :::3000 `. I actually wrote a [pretty long post](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) on this problem, that now served me well in fixing this…
+But now we got another problem that I happen to recognize from before `Uncaught Error: listen EADDRINUSE :::3000`. I actually wrote a [pretty long post](https://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) on this problem, that now served me well in fixing this…
 
 ```javascript
 if (!module.parent) {
@@ -216,8 +216,8 @@ If you got this far... Thanks for reading.
 
 Here are all the posts in the series
 
-- [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
-- [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
-- [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
-- [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
-- [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html) - this post
+- [Part I - get the tests to run](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
+- [Part II - where we clean up the test code a bit](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
+- [Part III - where we start to move over to async/await testing](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+- [Part IV - where finally do something about the production code, and fix the other parts of the application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
+- [Part V - wrapping up by refactoring the root application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html) - this post

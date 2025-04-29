@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-02-07T07:30:34.744Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3928613094393754283
-blogger_orig_url: http://www.marcusoft.net/2007/02/brass-band-festival-on-radio.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/brass-band-festival-on-radio.html
 ---
 
 This week a lot of brass banding has been (or is being) sent out over

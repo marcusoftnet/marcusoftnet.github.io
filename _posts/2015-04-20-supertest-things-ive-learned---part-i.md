@@ -30,7 +30,7 @@ When I read James comment two things popped (every time I use that word I'm afra
 
 Let's do it one at the time starting with the test question.
 
-My code will, as with the [screen cast I did](http://www.marcusoft.net/2014/02/mnb-supertest.html) be [found here](https://github.com/marcusoftnet/UserApiWithTest).
+My code will, as with the [screen cast I did](https://www.marcusoft.net/2014/02/mnb-supertest.html) be [found here](https://github.com/marcusoftnet/UserApiWithTest).
 
 If you haven't seen the screen cast where we build out the first version it's here:
 
@@ -40,7 +40,7 @@ If you haven't seen the screen cast where we build out the first version it's he
 
 In my [original example](https://www.youtube.com/embed/aTTjednotGQ) I kept things super simple and had the tests in one file. Let's split it out, but still keep it simple; one test per file, simulating that we test completely separate parts of a bigger API.
 
-Oh, yeah; I'm using [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) here. Read that post on mocha, should you need a refresher.
+Oh, yeah; I'm using [mocha](https://www.marcusoft.net/2014/02/mnb-mocha.html) here. Read that post on mocha, should you need a refresher.
 
 Here's is how the `test.js` file look from the start:
 
@@ -166,7 +166,7 @@ Phew! Refactoring without tests are scary. This is much better.
 
 Let's break the tests up a bit. Our goal is to test one route per file; all POST to /user tests in one file, all GETs /user in another etc. Imagine a bigger real life and you can think about maybe all /user-stuff in one file and all /order-test in another etc.
 
-Later I'll show you how to get really fancy with this using [mount](http://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html), but for now let's keep it like this and just split up the test, the original request was about that.
+Later I'll show you how to get really fancy with this using [mount](https://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html), but for now let's keep it like this and just split up the test, the original request was about that.
 
 First let's just create 3 more copies of the file and then rename the original. Like this:
 

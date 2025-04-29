@@ -7,7 +7,7 @@ tags:
   - VB.NET
 modified_time: 2010-12-14T15:20:33.326Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1392169269904390839
-blogger_orig_url: http://www.marcusoft.net/2008/03/how-to-get-out-of-syntax-highlighting.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/how-to-get-out-of-syntax-highlighting.html
 ---
 
 One of the most annoying thing with VB.NET is when it tries to help you with syntax highlighting, when using snippets.

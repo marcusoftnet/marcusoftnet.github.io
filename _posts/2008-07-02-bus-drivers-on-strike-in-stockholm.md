@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2008-07-02T05:41:56.830Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2606069275646993791
-blogger_orig_url: http://www.marcusoft.net/2008/07/bus-drivers-on-strike-in-stockholm.html
+blogger_orig_url: https://www.marcusoft.net/2008/07/bus-drivers-on-strike-in-stockholm.html
 ---
 
 

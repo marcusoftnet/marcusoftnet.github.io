@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-01-03T11:22:56.563Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1990770724840060092
-blogger_orig_url: http://www.marcusoft.net/2008/01/2008-what-year-to-look-forward-too.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/2008-what-year-to-look-forward-too.html
 ---
 
 So - here we are at the beginning of a new year. Prepare your

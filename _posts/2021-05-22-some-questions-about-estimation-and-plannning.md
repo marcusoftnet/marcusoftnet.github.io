@@ -39,13 +39,13 @@ This is a big question and we might need to have a face2face chat over this.
 But “shortly” - agile techniques has sometimes been misinterpreted as “don’t plan at all”, which I think is a misconception. For me it’s all about making adjustments so that we can iterate and learn faster and faster. This gives us more flexibility - i.e. we become agile.
 I would take [Dan Norths](https://dannorth.net/) advice going into a project like this and [optimize for discovery]( https://dannorth.net/2010/08/30/introducing-deliberate-discovery/).
 
-Hence - I would spend some time in planning the architecture and make some high-level plans for how the thing is going to be built. But remember; you don’t know yet, since you most certainly will discover things along the way. Hence - just plan for what you know/need now and be ready to change. In other words - every document you write, decision you make - make it easy to change. [Read this](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)  that was one of my aha-experiences.
+Hence - I would spend some time in planning the architecture and make some high-level plans for how the thing is going to be built. But remember; you don’t know yet, since you most certainly will discover things along the way. Hence - just plan for what you know/need now and be ready to change. In other words - every document you write, decision you make - make it easy to change. [Read this](https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)  that was one of my aha-experiences.
 
 So, summarize: do plan - but not too much. Make decisions that helps you to move faster. Defer details until later. Example - you might decide: all our services will use REST over HTTP and we will expose a GraphQL endpoint for our front-ends to use. But no further than that. Leave HOW until later, as much as sensible.
 
 Ok - now for the second part, which is trickier from a political perspective. Don’t spend a lot of time estimating. Those estimates will be wrong anyway :smile:
 
-Instead take [my advice here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.htm) l ([starting here](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html))  and track good data often.
+Instead take [my advice here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.htm) l ([starting here](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html))  and track good data often.
 
 For the political part I often use this reasoning:
 

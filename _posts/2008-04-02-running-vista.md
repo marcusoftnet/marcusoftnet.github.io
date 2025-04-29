@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-04-02T09:48:13.285Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4016149876415041136
-blogger_orig_url: http://www.marcusoft.net/2008/04/running-vista.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/running-vista.html
 ---
 
 

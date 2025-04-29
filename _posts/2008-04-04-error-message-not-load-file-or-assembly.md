@@ -8,7 +8,7 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:20:33.304Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5549454053387136368
-blogger_orig_url: http://www.marcusoft.net/2008/04/error-message-not-load-file-or-assembly.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/error-message-not-load-file-or-assembly.html
 ---
 
 When we deployed our latest WCF-service we ran into this error message: Could not load file or assembly 'Microsoft.VisualStudio.Enterprise.ASPNetHelper'.

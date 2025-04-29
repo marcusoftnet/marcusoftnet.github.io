@@ -9,7 +9,7 @@ tags:
   - Tools
 modified_time: 2014-06-02T08:56:52.519Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5949303220137372164
-blogger_orig_url: http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html
 ---
 
 This is a confession post. Yes, [I'm a phony too](http://www.hanselman.com/blog/ImAPhonyAreYou.aspx). I pick up some things very late. Like JavaScript. And Node and ... well a lot of things.

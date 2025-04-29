@@ -12,7 +12,7 @@ tags:
 modified_time: 2014-03-17T01:37:31.547Z
 thumbnail: /img/yayasan_board_2.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6567161020781209891
-blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html
 ---
 
 This week was really, really interesting. The things that happened on the board and within the team was good but what happened with our interactions with others was both unexpected, a bit tough and also important. I'll try to describe both things without revealing too much details about people and events.

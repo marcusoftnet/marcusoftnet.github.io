@@ -9,7 +9,7 @@ tags:
   - Specification by example
 modified_time: 2011-09-26T12:45:34.880Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3657259940402708159
-blogger_orig_url: http://www.marcusoft.net/2011/09/executable-specification-whole-stack-or.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/executable-specification-whole-stack-or.html
 ---
 
 
@@ -79,7 +79,7 @@ test-data:
     the tests need. This can in
     <a href="http://www.cukes.info" target="_blank">Cucumber</a>-like
     settings be accomplished with <a
-    href="http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
+    href="https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html"
     target="_blank">hooks and tags</a>. I would prefer this approach if
     there’s not too extensive test data to set up.
 - Create a test database with known test-data and restore it before

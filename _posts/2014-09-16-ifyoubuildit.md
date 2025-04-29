@@ -13,7 +13,7 @@ tags:
 modified_time: 2014-11-04T02:49:01.421Z
 thumbnail: /img/kanbanInAction.smells.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2556638757871784916
-blogger_orig_url: http://www.marcusoft.net/2014/09/ifyoubuildit.html
+blogger_orig_url: https://www.marcusoft.net/2014/09/ifyoubuildit.html
 ---
 
 My good friend and co-writer [Joakim Sundén](http://joakimsunden.com/) has taught me a great deal about agile, lean, and a whole bunch of other things too. One thing that he said, early in my journey, that I didn't fully believe was:
@@ -24,7 +24,7 @@ So Joakim says that just by having a visualization in place discussions arise. F
 
 Have you experienced that? I have. Often. Very often, in fact. But not always. In this post, I'll outline a few things that in my experience make these conversations happen more frequently and some words on how to harvest this nugget of information making.
 
-(The reference in the title is, of course, from [Field of Dreams with Kevin Costner](http://www.marcusoft.net/2014/09/simplerQuestion.html))
+(The reference in the title is, of course, from [Field of Dreams with Kevin Costner](https://www.marcusoft.net/2014/09/simplerQuestion.html))
 
 ### Make it Visual
 
@@ -60,7 +60,7 @@ If you want people to react (possibly even change their behavior), you first nee
 
 ![Example Visualization](/img/board.png)
 
-The [latest experience](http://www.marcusoft.net/2014/09/simplerQuestion.html) I have around this is a great example of what I mean. We created a diagram that we wanted all the staff to know about. It's about how many customers that we serve each day at this company and what our target is.
+The [latest experience](https://www.marcusoft.net/2014/09/simplerQuestion.html) I have around this is a great example of what I mean. We created a diagram that we wanted all the staff to know about. It's about how many customers that we serve each day at this company and what our target is.
 
 However, to our surprise, no one seemed to react to it. We were well below target, and we explained the consequences (not making money - no sustainable company - no work for any of us), but still no reaction.
 

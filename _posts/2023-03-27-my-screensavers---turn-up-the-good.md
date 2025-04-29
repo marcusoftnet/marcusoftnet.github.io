@@ -14,10 +14,10 @@ One of the things that Woody once told me stuck with me hard enough to have it a
 
 This post is part of a series of blog posts that I've written on some images I have a screensaver and what they remind me of. Here are all the posts in my series:
 
-- [Kindness is better](http://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
-- [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
-- [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
-- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
+- [Kindness is better](https://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
+- [Complex == Bad. Simple == Good](https://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
+- [What would Jesus do?](https://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
+- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](https://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
 - Turn up the good - This post
 
 <!-- excerpt-end -->
@@ -34,7 +34,7 @@ This is profound. They focused on the Good (tm) and just did more of it. They [`
 
 I've found this a very useful and positive outlook on life that I think would change a lot of otherwise boring meetings and work.
 
-- Imagine [a retrospective](http://www.marcusoft.net/2017/04/the-walking-turn-up-the-good-retrospective.html) where you only try to ensure that the good things that happened last `{time period}` happens again and again
+- Imagine [a retrospective](https://www.marcusoft.net/2017/04/the-walking-turn-up-the-good-retrospective.html) where you only try to ensure that the good things that happened last `{time period}` happens again and again
 - Imagine a brainstorming session where you together make the suggestions better by improving them instead of shooting them down with all the things that might not work
 - Imagine a plan that focuses on making a pathway for great things to happen instead of focusing on all the bad things that might happen.
 

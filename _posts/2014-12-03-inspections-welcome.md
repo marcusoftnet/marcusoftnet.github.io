@@ -13,7 +13,7 @@ I've just come back from a vacation in Bali. Due to some fortunate overbookings 
 
 The villa was in an area of other villas in the same class together with some upper-class hotels. All of them were boasting their luxury, their services, and their capacity. Some had stars on them (I don't really know what those mean though).
 
-I sat in our car on the way to the beach and we passed one hotel that looked small but very nice indeed. On the wall, nothing was said about their services, no stars or anything like that. Just a simple, but [big](http://www.marcusoft.net/2014/09/ifyoubuildit.html), sign that said:
+I sat in our car on the way to the beach and we passed one hotel that looked small but very nice indeed. On the wall, nothing was said about their services, no stars or anything like that. Just a simple, but [big](https://www.marcusoft.net/2014/09/ifyoubuildit.html), sign that said:
 
 > Inspections welcome!
 

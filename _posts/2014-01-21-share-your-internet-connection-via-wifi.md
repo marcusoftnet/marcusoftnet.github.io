@@ -10,7 +10,7 @@ tags:
 modified_time: 2014-10-05T12:18:39.121Z
 thumbnail: /img/network+configuration+for+wifi+hotspot.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-70385268225734244
-blogger_orig_url: http://www.marcusoft.net/2014/01/share-your-internet-connection-via-wifi.html
+blogger_orig_url: https://www.marcusoft.net/2014/01/share-your-internet-connection-via-wifi.html
 ---
 
 For the first time in years, I'm using a Windows PC as my main computer. It's Windows 8.1, and thanks to a [great introduction video](http://www.hanselman.com/blog/TheMissingWindows8InstructionalVideo.aspx), the transition was quite smooth. Of course, there are things that I miss and keep doing wrong (right-click... had forgotten all about that one), but overall I'm happy.

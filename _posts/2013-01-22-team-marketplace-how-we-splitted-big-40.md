@@ -10,7 +10,7 @@ tags:
 modified_time: 2013-02-11T12:50:54.020Z
 thumbnail: /img/IMG_2848.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3948823221238371465
-blogger_orig_url: http://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html
 ---
 
 I have a new coaching assignment at [Tradera](http://www.tradera.com/), which is the Swedish branch of [Ebay](http://www.ebay.com/). I've been there about 30 hours during the last three years, mostly doing presentations and courses. In a way it feels like I've been part of what they have done, but only as a bystander. This gig looks like a lot of fun, and I've always been impressed by the technical excellence there and the willingness to adopt new things and change.
@@ -39,7 +39,7 @@ An email was then sent out where each person could rank their interest from 1-10
 
 ![Team Marketplace](/img/IMG_2847.jpg)
 
-The result was aggregated, and the day after we moved into place in our new teams. Note that some teams didn't start their work right away in the group, but they [sat together from the outset](http://www.marcusoft.net/2012/10/agilechangetop52.html). I think this is very important for two reasons: first you got a team-feel right away, secondly, we could start small (a few people in the team work on new stuff) but still keep everyone updated.
+The result was aggregated, and the day after we moved into place in our new teams. Note that some teams didn't start their work right away in the group, but they [sat together from the outset](https://www.marcusoft.net/2012/10/agilechangetop52.html). I think this is very important for two reasons: first you got a team-feel right away, secondly, we could start small (a few people in the team work on new stuff) but still keep everyone updated.
 
 ### How Did It Turn Out?
 

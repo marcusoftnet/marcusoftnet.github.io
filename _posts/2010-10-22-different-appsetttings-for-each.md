@@ -10,10 +10,10 @@ tags:
 modified_time: 2010-12-14T15:17:50.660Z
 thumbnail: /img/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
-blogger_orig_url: http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
+blogger_orig_url: https://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
 ---
 
-In my [last post](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html) I asked for comments, and it didn't take Anders (Granåker) very long time to come up with a better and more correct solution to the problem.
+In my [last post](https://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html) I asked for comments, and it didn't take Anders (Granåker) very long time to come up with a better and more correct solution to the problem.
 
 The downside of my solution is that you need to tweak the build process on a build server for example. We knew that BUT I left it for later solving. There is a rename to be done and a moving of the real app.config etc.
 
@@ -34,7 +34,7 @@ Here is how our app.config appsettings look like:
 
 ![app config](/img/app+config.JPG)
 
-Finally we set the localAppSettings.config to be excluded from source control as I explained [in the last post.](http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
+Finally we set the localAppSettings.config to be excluded from source control as I explained [in the last post.](https://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html)
 
 ![solution](/img/solution.JPG)
 

@@ -11,7 +11,7 @@ tags:
 modified_time: 2014-11-20T03:01:43.904Z
 thumbnail: /img/Screen_Shot_2014-11-19_at_10.51.42_.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
-blogger_orig_url: http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
+blogger_orig_url: https://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
 ---
 
 I've just been to [Agile Singapore](http://2014.agilesingapore.org/) and had a blast. What a nice bunch of people I met there! And the event was super; fun well organised and informative - that's all I want from conference.

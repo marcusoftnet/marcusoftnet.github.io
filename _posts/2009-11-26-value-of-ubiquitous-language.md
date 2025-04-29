@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2009-11-26T08:24:18.509Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-611891532521926659
-blogger_orig_url: http://www.marcusoft.net/2009/11/value-of-ubiquitous-language.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/value-of-ubiquitous-language.html
 ---
 
 The concept of a **ubiquitous language**—a common domain model—can be interpreted differently depending on the context. Here's how I see it:

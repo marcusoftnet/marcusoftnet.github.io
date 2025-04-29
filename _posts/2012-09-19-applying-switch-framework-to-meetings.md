@@ -9,7 +9,7 @@ tags:
 modified_time: 2012-09-24T09:05:51.476Z
 thumbnail: /img/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
-blogger_orig_url: http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
+blogger_orig_url: https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
 ---
 
 Who's up for a meeting? Whoopie - another meeting!
@@ -22,7 +22,7 @@ And furthermore - we want to meet more. We want to have a lot of frequent face-t
 
 Meetings are a great way of communicating a lot of information. Face-to-face is superior any other communication form in that regard. But often we waste our opportunity by missing simple things.
 
-Readers of this blog know that I love the [Switch book by the Heath brothers](http://www.heathbrothers.com/switch/) and it's pragmatic approach to accomplish change. I've already tried to apply the thinking in their [Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to [Broken builds being ignored](http://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html) and [Developers don't want to test](http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html). I thought that this could be a good fit; Applying the Switch framework to Meetings are not work.
+Readers of this blog know that I love the [Switch book by the Heath brothers](http://www.heathbrothers.com/switch/) and it's pragmatic approach to accomplish change. I've already tried to apply the thinking in their [Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to [Broken builds being ignored](https://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html) and [Developers don't want to test](https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html). I thought that this could be a good fit; Applying the Switch framework to Meetings are not work.
 
 ### Switch framework
 
@@ -36,7 +36,7 @@ In order to accomplish change you will have to address both the rider and the el
 
 Under the headings; Direct the rider, Motivate the elephant and Shape the path (they both are heading down) Chip and Dan Heath gives a lot of tips, and stories that help us understand to address both parts of the human psyche when we introduce change. Resulting in a much higher probability of the change to happen and [Stick](http://www.heathbrothers.com/madetostick/).
 
-This post talks about directing the rider - read on about [Motivating the elephant](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) and [Shaping the path](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6053.html) in the other posts in the series.
+This post talks about directing the rider - read on about [Motivating the elephant](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) and [Shaping the path](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6053.html) in the other posts in the series.
 
 ### Follow the bright spots
 
@@ -111,4 +111,4 @@ I've deliberately not talked about meeting free days or having fewer meetings he
 
 Yes - we could probably cut down on the actual number as well, but that will probably happen when you start to ask questions on why we're holding the meeting.
 
-In this post I have tried different ways of addressing the Rider - the one that could reason about this and really know how a great meeting should be. In the [next post I'll try to reason with the Elephant](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) - the subconscious that rather just hack away on the code instead of talking of a lot of people that simply don't get it...
+In this post I have tried different ways of addressing the Rider - the one that could reason about this and really know how a great meeting should be. In the [next post I'll try to reason with the Elephant](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) - the subconscious that rather just hack away on the code instead of talking of a lot of people that simply don't get it...

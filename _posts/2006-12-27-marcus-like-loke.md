@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2010-12-14T15:19:57.901Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3079094318279126395
-blogger_orig_url: http://www.marcusoft.net/2006/12/marcus-like-loke.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/marcus-like-loke.html
 ---
 
 ![Marcus like Loke](http://www.lokeloke.se/bilder/rubriker/topjagarloke.jpg)

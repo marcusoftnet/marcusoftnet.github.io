@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-01-07T07:58:11.863Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6206110930991029468
-blogger_orig_url: http://www.marcusoft.net/2008/01/quality-reclamation-and-phones.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/quality-reclamation-and-phones.html
 ---
 
 This weekend has been a weekend of reclamations; i've been around the

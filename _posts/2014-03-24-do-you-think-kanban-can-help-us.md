@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2014-03-24T07:00:13.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1552795069584789818
-blogger_orig_url: http://www.marcusoft.net/2014/03/do-you-think-kanban-can-help-us.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/do-you-think-kanban-can-help-us.html
 ---
 
 One thing that is really interesting and very enjoyable is to have long time contacts over social media (in my case Twitter mostly). Many of these people I have never met in reality and I still consider them friends. We know quite a lot about each other and have learned a lot from each other.

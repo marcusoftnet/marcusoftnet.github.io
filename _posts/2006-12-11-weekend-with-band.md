@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2006-12-11T06:48:15.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5673834059834811622
-blogger_orig_url: http://www.marcusoft.net/2006/12/weekend-with-band.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/weekend-with-band.html
 ---
 
 Just back from a wonderful weekend with the Gothenburg Brass Band. I had the wonderful opportunity to spend the entire weekend together with the band and it made me feel again as a part of this wonderful group.

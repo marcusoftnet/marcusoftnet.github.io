@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.640Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6756222835924599255
-blogger_orig_url: http://www.marcusoft.net/2007/03/visual-studio-tips-and-tricks.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/visual-studio-tips-and-tricks.html
 ---
 
 I am always interested in finding stuff that simplifies my day-to-day

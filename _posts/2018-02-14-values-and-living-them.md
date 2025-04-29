@@ -74,7 +74,7 @@ Well… that's not innovative. And it shows clearly.
 
 #### We're collaborative!
 
-One of the things that stand out on day one when you get to the Spotify organization is how much they are helping each other. I've [blogged about that before](http://www.marcusoft.net/2017/01/kindness.html) without revealing the company name (psst - all Spotify for the good stuff).
+One of the things that stand out on day one when you get to the Spotify organization is how much they are helping each other. I've [blogged about that before](https://www.marcusoft.net/2017/01/kindness.html) without revealing the company name (psst - all Spotify for the good stuff).
 
 Let's try it:
 

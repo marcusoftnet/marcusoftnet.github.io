@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.575Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8743873172538316941
-blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-warnings-for-xml-documentation.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/vbnet-warnings-for-xml-documentation.html
 ---
 
 When you generate system documentation from the XML comments in your

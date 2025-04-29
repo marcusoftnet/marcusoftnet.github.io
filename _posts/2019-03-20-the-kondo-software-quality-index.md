@@ -23,7 +23,7 @@ Measuring software quality is notoriously complex, as eloquently discussed by Go
 
 Despite the intricacies of quality measurement, developers and team members intuitively knew the state of the systems they worked on. Conversations revealed a shared sentiment regarding the quality of different components—ranging from enthusiastic pride to visible discomfort.
 
-Drawing inspiration from [How to Measure Anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html), I proposed tracking how proud developers felt about the products they were building. This concept aligns with the XP value of simplicity, emphasizing the creation of work that instills pride and is maintainable over time.
+Drawing inspiration from [How to Measure Anything](https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html), I proposed tracking how proud developers felt about the products they were building. This concept aligns with the XP value of simplicity, emphasizing the creation of work that instills pride and is maintainable over time.
 
 It was during this discussion that Yngve humorously interjected:
 

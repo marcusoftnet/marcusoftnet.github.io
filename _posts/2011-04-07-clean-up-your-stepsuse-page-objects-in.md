@@ -10,7 +10,7 @@ tags:
   - SpecFlow
 modified_time: 2011-04-11T14:31:19.845Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2188015318186471315
-blogger_orig_url: http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html
+blogger_orig_url: https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html
 ---
 
 If you are a developer doing [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development), as me, you’ll soon run into the joys of UI automation. The BDD community today seems to lean towards running your specifications/test end-to-end in order to capture the whole stack of the application as well as getting great regression tests.
@@ -53,7 +53,7 @@ Which can be accomplished by a page object that exposes the following property t
 
 ![getting all values from a certain column](/img/getting%2520all%2520values%2520from%2520a%2520certain%2520column_thumb.jpg)
 
-Or to take another example, setting data in a form (i.e. filling out forms). You can simply expose properties for each value that you want to fill out from your specification like this (yes I only have setters right now, because my specifications have not had need for anything else... yet... 
+Or to take another example, setting data in a form (i.e. filling out forms). You can simply expose properties for each value that you want to fill out from your specification like this (yes I only have setters right now, because my specifications have not had need for anything else... yet...
 
 ![properties for field on form](/img/properties%2520for%2520field%2520on%2520form_thumb.jpg)
 

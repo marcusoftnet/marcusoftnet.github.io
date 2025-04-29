@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.172Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4539056337136759587
-blogger_orig_url: http://www.marcusoft.net/2009/12/learning-jquery-with-firebug.html
+blogger_orig_url: https://www.marcusoft.net/2009/12/learning-jquery-with-firebug.html
 ---
 
 Got a tip from [Daniel](http://www.numlock.se) about this video, that shows an easy way to learn and understand [JQuery](http://www.jquery.com):

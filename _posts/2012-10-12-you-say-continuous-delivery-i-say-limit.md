@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-10-12T10:25:44.623Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6086100727965739079
-blogger_orig_url: http://www.marcusoft.net/2012/10/you-say-continuous-delivery-i-say-limit.html
+blogger_orig_url: https://www.marcusoft.net/2012/10/you-say-continuous-delivery-i-say-limit.html
 ---
 
 
@@ -115,7 +115,7 @@ A couple of things to note here:
 - You chose! There's nothing technical that forces us to do releases
     more seldom. You can change that policy. Or even better set it at
     the outset of you project. <a
-    href="http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html"
+    href="https://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html"
     target="_blank">Still we chose not to</a>
 - If you release at day one you have a super low WIP, as noted. Here's
     some good news; if you then do a release on day 2 that WIP is still

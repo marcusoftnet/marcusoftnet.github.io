@@ -9,7 +9,7 @@ tags:
   - Indonesia
 modified_time: 2014-05-29T12:35:40.891Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5858312803103136395
-blogger_orig_url: http://www.marcusoft.net/2014/05/what-i-missed-longed-for-happy-to-not.html
+blogger_orig_url: https://www.marcusoft.net/2014/05/what-i-missed-longed-for-happy-to-not.html
 ---
 
 Tomorrow I will end a 30 day social media fast.

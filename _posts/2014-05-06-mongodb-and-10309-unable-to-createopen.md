@@ -10,7 +10,7 @@ tags:
   - Life of a consultant
 modified_time: 2014-05-06T13:33:12.579Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1414687539616327239
-blogger_orig_url: http://www.marcusoft.net/2014/05/mongodb-and-10309-unable-to-createopen.html
+blogger_orig_url: https://www.marcusoft.net/2014/05/mongodb-and-10309-unable-to-createopen.html
 ---
 
 

@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2013-09-25T07:40:01.856Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3719361643283986207
-blogger_orig_url: http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html
+blogger_orig_url: https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html
 ---
 
 

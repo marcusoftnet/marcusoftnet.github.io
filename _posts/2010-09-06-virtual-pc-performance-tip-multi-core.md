@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2013-10-08T07:19:43.239Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8875288799659277872
-blogger_orig_url: http://www.marcusoft.net/2010/09/virtual-pc-performance-tip-multi-core.html
+blogger_orig_url: https://www.marcusoft.net/2010/09/virtual-pc-performance-tip-multi-core.html
 ---
 
 I often get to work with brilliant people. That’s one of the real benefits of being a consultant, I would argue. Last week I got to know Thomas Gyllencreutz, who came onboard my project. He didn’t waste any time in getting the performance in our virtual development environments to new heights. This post is a condensation of his findings that really got our Virtual PC images flying.

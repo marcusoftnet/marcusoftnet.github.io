@@ -11,12 +11,12 @@ tags:
   - SpecFlow
 modified_time: 2011-02-05T20:11:06.427Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8417148080028689205
-blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html
 ---
 
 OK – after the last post of refactoring I now feels great to turn my focus on some new functionality; I want to let the users create new Kanban boards. This involves some new views and controllers stuff, uploading pictures and also changes in the domain model.
 
-I got some valuable feedback from my colleague [Joakim Sunden](http://www.joakimsunden.com/) on the real purpose of the Kanban board application / site. I actually never wrote it down. So I’ve updated [the first post in the series](http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) with the following:
+I got some valuable feedback from my colleague [Joakim Sunden](http://www.joakimsunden.com/) on the real purpose of the Kanban board application / site. I actually never wrote it down. So I’ve updated [the first post in the series](https://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) with the following:
 
 > [www.kanban-boards.com](http://www.kanban-boards.com) will be a site where users can upload their Kanban boards for other people to see, vote on and get inspired by. In this way we can share and learn from each other I think and hope. The creation of this site is documented as my learning process.
 

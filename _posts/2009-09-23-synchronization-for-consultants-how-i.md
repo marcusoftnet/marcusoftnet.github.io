@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.188Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5160297474166719392
-blogger_orig_url: http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html
 ---
 
 OK – this has been quite a journey, and I'm not completely satisfied with the solution yet, but it works. Along the way, I've had to delete all my contacts and calendar items on my phone about five times... Brrr – equally scary each time.
@@ -33,7 +33,7 @@ The excellent [Apple Mail](http://support.apple.com/kb/HT2500) can handle multip
 
 This is where it gets tricky because you need to synchronize calendar items in both directions. I first decided on [Google Calendar](http://www.google.com/calendar) as my “master” because it’s “in the cloud” and hence a good candidate.
 
-I also found a tool that synchronizes [Outlook to Google Calendar](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636). So, I configure Outlook for each customer (and Avega) and install the synchronization tool. 
+I also found a tool that synchronizes [Outlook to Google Calendar](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636). So, I configure Outlook for each customer (and Avega) and install the synchronization tool.
 
 That means I still need Outlook for each Exchange account (Avega and AnyCustomer) to get synchronization to work. In reality, that’s not a big issue since my customers provide me with Outlook. But it would be nicer to have a direct Exchange-to-Google sync…
 

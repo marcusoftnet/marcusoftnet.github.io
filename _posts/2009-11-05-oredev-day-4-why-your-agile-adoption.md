@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2011-11-09T20:49:22.616Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9969726431816509
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-why-your-agile-adoption.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-4-why-your-agile-adoption.html
 ---
 
 Today’s session with [Dan North](http://www.dannorth.com) was a standout. Following a somewhat disappointing morning, Dan’s talk was exactly what I needed to rejuvenate my enthusiasm.

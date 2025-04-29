@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.412Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116168904231987814
-blogger_orig_url: <http://www.marcusoft.net/2006/10/get-more-use-from-ncover.html>l>
+blogger_orig_url: <https://www.marcusoft.net/2006/10/get-more-use-from-ncover.html>l>
 ---
 
 This is just to good to be missed...

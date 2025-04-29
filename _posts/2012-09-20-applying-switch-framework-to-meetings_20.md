@@ -10,7 +10,7 @@ tags:
 modified_time: 2012-10-05T08:31:36.272Z
 thumbnail: /img/work+item+types.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
-blogger_orig_url: http://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
+blogger_orig_url: https://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
 
 I have a confession to make; I think I'm turning into a data guy. No, not a computer guy - I've been that for a long time. Rather, it's that boring dude who keeps asking for numbers, measurements, and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recover from some of the boredom parts. It's called Simplicity and Visualization.

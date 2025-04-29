@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.289Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1039618126787174780
-blogger_orig_url: http://www.marcusoft.net/2008/03/webservice-studio-tools-for-testing.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/webservice-studio-tools-for-testing.html
 ---
 
 I got to know about a cool tool for testing web services today. The web page that normally is created for you have the small disadvantage that you can't invoke web services with complex types. Since most non-trivial web services use more types and string and int's that is not very helpful.

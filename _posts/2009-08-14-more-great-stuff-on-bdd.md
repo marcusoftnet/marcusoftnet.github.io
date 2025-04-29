@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2009-08-14T14:12:34.862Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7609413503800772907
-blogger_orig_url: http://www.marcusoft.net/2009/08/more-great-stuff-on-bdd.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/more-great-stuff-on-bdd.html
 ---
 
 I’ve been diving deeper into [BDD](http://dannorth.net/introducing-bdd), and the more I explore it, the more I like it. Today, working from home, I’ve been frequently exclaiming “Yes!” or enthusiastically explaining the benefits of BDD to Elin, who’s starting to get a bit annoyed.

@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2007-05-21T06:15:38.150Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-466119577858273659
-blogger_orig_url: http://www.marcusoft.net/2007/05/european-sounds.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/european-sounds.html
 ---
 
 

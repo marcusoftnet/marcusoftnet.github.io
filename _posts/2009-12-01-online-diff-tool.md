@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.173Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6537020066430405833
-blogger_orig_url: http://www.marcusoft.net/2009/12/online-diff-tool.html
+blogger_orig_url: https://www.marcusoft.net/2009/12/online-diff-tool.html
 ---
 
 Found [this nugget](http://www.quickdiff.com/) today when comparing numerous very long SQL-strings. Yeah, yeah – I know; [data access is a solved problem](https://www.hibernate.org/343.html) – but this app still got them. In spades!

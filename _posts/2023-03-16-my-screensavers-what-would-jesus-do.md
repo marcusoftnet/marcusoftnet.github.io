@@ -16,11 +16,11 @@ I've started a little series about the screensavers that I have running on my co
 
 Here are the screensavers that I'm flicking through each day.
 
-- [Kindness is better](http://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
-- [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
+- [Kindness is better](https://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
+- [Complex == Bad. Simple == Good](https://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
 - What would Jesus do? - This post
-- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
-- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
+- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](https://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
+- [Turn up the good](https://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 

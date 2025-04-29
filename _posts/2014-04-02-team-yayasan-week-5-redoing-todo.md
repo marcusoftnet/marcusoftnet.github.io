@@ -12,12 +12,12 @@ tags:
 modified_time: 2014-04-03T00:42:33.128Z
 thumbnail: /img/yayasan_mini_wb.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6826546676553991315
-blogger_orig_url: http://www.marcusoft.net/2014/04/team-yayasan-week-5-redoing-todo.html
+blogger_orig_url: https://www.marcusoft.net/2014/04/team-yayasan-week-5-redoing-todo.html
 ---
 
 This week started a bit late due to a public holiday, the Hindu new years celebrations, (the joys of working in a country that respect 4 different religions and celebrate all the main events publicly!) and then we had been spread out during the weekend. It took some time to gather the forces.
 
-[Last week](http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html) we were a bit confused about the lead times and throughput. Sure enough this week we did some more items, due to the ketchup-effect of doing to big items. We are continuing to track both the lead time per size (S, M and L) and the number of items (or each size) that we are completing per week. It's still a little too little data to draw any conclusions but we are confident that with this data tracked we will soon start to understand our work.
+[Last week](https://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html) we were a bit confused about the lead times and throughput. Sure enough this week we did some more items, due to the ketchup-effect of doing to big items. We are continuing to track both the lead time per size (S, M and L) and the number of items (or each size) that we are completing per week. It's still a little too little data to draw any conclusions but we are confident that with this data tracked we will soon start to understand our work.
 
 ### Retrospectives
 

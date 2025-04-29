@@ -40,7 +40,7 @@ The reason we reach for cross-functional teams is that we have seen that the fun
 
 The good news of that approach is that each silo can ensure their values being addressed. For example, we can have the architects validated the solution before passing on to the coders, the security department can sign off on the solution and we can even have the regulatory demands being validated for compliance before moving on.
 
-The bad part with this approach is that it [doesn't work](http://www.marcusoft.net/2017/11/no-waterfall-is-not-sometimes-correct-it-is-always-wrong.html), creates sub-optimal, is very slow and cannot handle change well. Also, it creates many hand-overs and a culture of someone ordering something and others (downstream) fulfilling that order.
+The bad part with this approach is that it [doesn't work](https://www.marcusoft.net/2017/11/no-waterfall-is-not-sometimes-correct-it-is-always-wrong.html), creates sub-optimal, is very slow and cannot handle change well. Also, it creates many hand-overs and a culture of someone ordering something and others (downstream) fulfilling that order.
 
 Just about all the things that we want out of a process for *developing* something. Fast feedback and the possibility to change frequently and fast.
 

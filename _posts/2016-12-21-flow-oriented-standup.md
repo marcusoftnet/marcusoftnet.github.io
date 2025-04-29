@@ -39,13 +39,13 @@ Well... that is actually not important. At least not **as** important as work fl
 
 > In our daily we are mainly focused on work flowing - not that everyone are busy.
 
-A easy way to shift this focus without a big fuzz is to start to enumerate the work on the board. [See below for more](http://www.marcusoft.net/2016/12/flow-oriented-standup.html#lets-walk-the-board-from-the-right) on how to do this.
+A easy way to shift this focus without a big fuzz is to start to enumerate the work on the board. [See below for more](https://www.marcusoft.net/2016/12/flow-oriented-standup.html#lets-walk-the-board-from-the-right) on how to do this.
 
 As a side note; I once said "It's not primarily important that everyone is being busy". A quick chat with the CEO that overheard me, and 3 weeks later I was on another assignment. Good for me. Good for them.
 
 ## "Let's walk the board from the right"
 
-We go through the items on the board one by one starting with the one closest to production (or ... ["Done"](http://www.marcusoft.net/2016/12/flow-oriented-standup.html#i-dont-like-the-name-of-our-done-column)). This means that we start to talk about the thing that is almost completed. Should the meeting run long and we need to stop we have at least talked about those items.
+We go through the items on the board one by one starting with the one closest to production (or ... ["Done"](https://www.marcusoft.net/2016/12/flow-oriented-standup.html#i-dont-like-the-name-of-our-done-column)). This means that we start to talk about the thing that is almost completed. Should the meeting run long and we need to stop we have at least talked about those items.
 
 The things that is closest to be released are probably where we should spend our focus and efforts the most on the day. Things that we just started to work with are also important but not urgent time-wise.
 
@@ -57,7 +57,7 @@ This is also related to a principle of lean improvements; start closest to the c
 
 I once had a huge (40+ people) team that was using a single kanban board. Each morning meeting everyone gather around and ran a morning meeting that took ca 5 minutes. This was what happened:
 
-- I started in the right-most column, starting from the right, [see above](http://www.marcusoft.net/2016/12/flow-oriented-standup.html#lets-walk-the-board-from-the-right)
+- I started in the right-most column, starting from the right, [see above](https://www.marcusoft.net/2016/12/flow-oriented-standup.html#lets-walk-the-board-from-the-right)
 - I pointed to each sticky on the board and simply asked: <code>Any problems hindering our work from flowing with this?</code>
   - If there was nothing to be said I went on to the next
   - If there was problem I just asked: <code>Who do you need help to resolve that problem?</code>

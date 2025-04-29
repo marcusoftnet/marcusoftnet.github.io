@@ -7,7 +7,7 @@ tags:
   - Tools
 modified_time: 2010-12-14T15:22:38.250Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1494707090964070184
-blogger_orig_url: http://www.marcusoft.net/2008/08/i-like-powercommands-for-visual-studio.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/i-like-powercommands-for-visual-studio.html
 ---
 
 Just found these [PowerCommands for Visual Studio 2008](http://code.msdn.microsoft.com/PowerCommands), which looks very promising indeed. They are a collection of nice-to-have-features in Visual Studio, that are missing from the start.

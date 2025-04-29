@@ -10,12 +10,12 @@ tags:
   - KanbanBoards
 modified_time: 2011-01-18T23:12:04.743Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1192963568942273739
-blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
 ---
 
 ### Disclaimers and introduction
 
-I am now the [father of three kids](http://www.marcusoft.net/2010/03/arvid-and-gustav.html). They are my number one priority. This project will come second. I'm doing the project for myself mostly, but I'm very humbled by the fact that several people already have shown interest in my undertakings.
+I am now the [father of three kids](https://www.marcusoft.net/2010/03/arvid-and-gustav.html). They are my number one priority. This project will come second. I'm doing the project for myself mostly, but I'm very humbled by the fact that several people already have shown interest in my undertakings.
 
 Up to now I’ve also had time to look at the project half-an-hour at a time. With several hours of back-in-my-head thinking in between. That might be good.
 
@@ -23,7 +23,7 @@ I have no master plan. I will make mistakes as you sure will notice in this post
 
 OK – on with the show.
 
-In the [first part of this series](http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) I simply wrote the first specification. So it’s no time to, [outside in](www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html), get some of the steps passing.
+In the [first part of this series](https://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) I simply wrote the first specification. So it’s no time to, [outside in](www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html), get some of the steps passing.
 
 ### Step carefully now
 

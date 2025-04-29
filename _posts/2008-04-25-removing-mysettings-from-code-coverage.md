@@ -8,7 +8,7 @@ tags:
   - TFS
 modified_time: 2010-12-14T15:20:33.294Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7137896854594876672
-blogger_orig_url: http://www.marcusoft.net/2008/04/removing-mysettings-from-code-coverage.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/removing-mysettings-from-code-coverage.html
 ---
 
 

@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2009-02-23T18:22:59.588Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4661288536482602952
-blogger_orig_url: http://www.marcusoft.net/2009/02/abbe-in-pulka-slopes.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/abbe-in-pulka-slopes.html
 ---
 
 Winter has “struck” Stockholm and we have lots of snow. And knowing the Stockholm weather, we expect most of it to be gone in a few days.

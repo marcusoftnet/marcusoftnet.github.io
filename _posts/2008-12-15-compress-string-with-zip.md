@@ -9,7 +9,7 @@ tags:
   - C#
 modified_time: 2009-01-12T06:57:42.696Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8330905761469245113
-blogger_orig_url: http://www.marcusoft.net/2008/12/compress-string-with-zip.html
+blogger_orig_url: https://www.marcusoft.net/2008/12/compress-string-with-zip.html
 ---
 
 **[UPDATE START]**

@@ -9,7 +9,7 @@ tags:
   - TFS
 modified_time: 2010-12-14T15:22:38.318Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3393779877548953569
-blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-build-watcher-finally.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/tfs-build-watcher-finally.html
 ---
 
 I've

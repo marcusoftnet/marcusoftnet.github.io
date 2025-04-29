@@ -8,10 +8,10 @@ tags:
   - Agile
 modified_time: 2012-05-14T10:28:22.839Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1785069010922658762
-blogger_orig_url: http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html
 ---
 
-This is the second post in a series where I discuss agile concepts with business people (and some technical folks too). [Here is the first post](http://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html) if you want to catch up.
+This is the second post in a series where I discuss agile concepts with business people (and some technical folks too). [Here is the first post](https://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html) if you want to catch up.
 
 Again, a disclaimer: this might seem basic to agile experts. Please bear with me as I explain these ideas to people who may not have immersed themselves in agile methodologies.
 

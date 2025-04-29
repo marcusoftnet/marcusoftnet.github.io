@@ -9,10 +9,10 @@ tags:
   - Koa
 modified_time: 2014-06-09T02:59:00.503Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8966292886396606059
-blogger_orig_url: http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html
+blogger_orig_url: https://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html
 ---
 
-As [you might know I have fallen in love](http://www.marcusoft.net/search/label/Koa) with [Koa Js](http://www.koajs.com/). I have, from experience, also come to realize that if you want to really understand a framework or tool you need to build something real with it. In that spirit, I created a little voting site that we will use in [my current job](http://www.marcusoft.net/search/label/Team%20Yayasan). The whole application is simple; basically, you can create a question (poll maybe is a better word) that you want someone to answer. “How did you enjoy your stay?” for example. There are then only 4 valid answers: ![Sad smile](/img/wlEmoticon-sadsmile2.png), ![Disappointed smile](/img/wlEmoticon-disappointedsmile2.png), ![Smile](/img/wlEmoticon-smile2.png), and ![Open-mouthed smile](/img/wlEmoticon-openmouthedsmile2.png). The idea is that answering this is just pushing a button on your way out, like a physical Facebook like-button. From this, we can gather some simple, but interesting data about what people think about the question asked.
+As [you might know I have fallen in love](https://www.marcusoft.net/search/label/Koa) with [Koa Js](http://www.koajs.com/). I have, from experience, also come to realize that if you want to really understand a framework or tool you need to build something real with it. In that spirit, I created a little voting site that we will use in [my current job](https://www.marcusoft.net/search/label/Team%20Yayasan). The whole application is simple; basically, you can create a question (poll maybe is a better word) that you want someone to answer. “How did you enjoy your stay?” for example. There are then only 4 valid answers: ![Sad smile](/img/wlEmoticon-sadsmile2.png), ![Disappointed smile](/img/wlEmoticon-disappointedsmile2.png), ![Smile](/img/wlEmoticon-smile2.png), and ![Open-mouthed smile](/img/wlEmoticon-openmouthedsmile2.png). The idea is that answering this is just pushing a button on your way out, like a physical Facebook like-button. From this, we can gather some simple, but interesting data about what people think about the question asked.
 
 However, soon I realized that I wanted to be able to add new questions, or fix spelling errors, etc. Since the site was open, I needed some sort of authentication to make sure that not everyone could change this. I opted for the most basic I could think of: Basic Authentication.
 
@@ -75,7 +75,7 @@ This means that if you have set anything in `process.env.BASIC_USER`, that will 
 
 ## On Heroku or other providers
 
-… you need to [supply it as parameters to Node](http://nodejs.org/docs/latest/api/process.html#process_process_argv) as I wrote above. You could do this by setting these parameters in the [start script of your package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html), but that would defeat our purpose of having to check in the username and password in clear text.
+… you need to [supply it as parameters to Node](http://nodejs.org/docs/latest/api/process.html#process_process_argv) as I wrote above. You could do this by setting these parameters in the [start script of your package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html), but that would defeat our purpose of having to check in the username and password in clear text.
 
 ![settingConfigVars](/img/settingConfigVars_thumb34.jpg)
 

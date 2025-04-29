@@ -11,7 +11,7 @@ tags:
   - Salvation Army
 modified_time: 2014-09-04T08:22:38.712Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1565427642585029622
-blogger_orig_url: http://www.marcusoft.net/2014/09/accountability.html
+blogger_orig_url: https://www.marcusoft.net/2014/09/accountability.html
 ---
 
 How's that for a little topic to clear out in a blog post? I promise this will be just a short thought... even though the title promise more of a book.
@@ -28,7 +28,7 @@ The keyword in the message is Accountability. I have a bit of a hard time with t
 
 If I get the opportunity I'd often talk about Trust and Transparency. At least before Accountability.
 
-I find it very hard to demand Accountability if you haven't given Trust first. And in giving Trust you have to give Authority too. [Give Trust without Authority is not Trust at all](http://www.marcusoft.net/2012/11/unearned-trust.html). I don't know what it's called but it's not Trust. Because with Trust comes a part belief and "taking a chance" on a unknown outcome:
+I find it very hard to demand Accountability if you haven't given Trust first. And in giving Trust you have to give Authority too. [Give Trust without Authority is not Trust at all](https://www.marcusoft.net/2012/11/unearned-trust.html). I don't know what it's called but it's not Trust. Because with Trust comes a part belief and "taking a chance" on a unknown outcome:
 
 > "I trust you to handle this situation."
 
@@ -62,4 +62,4 @@ if you're into those kind of things.
 
 I don't have a problem with Accountability, but I much rather start with Trust and Transparency. Then Accountability comes automatically.
 
-I've written before about [Commitment](http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html) and I think those ideas brush on this topic.
+I've written before about [Commitment](https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html) and I think those ideas brush on this topic.

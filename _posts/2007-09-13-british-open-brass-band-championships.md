@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-09-13T06:52:07.639Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4827349559608187146
-blogger_orig_url: http://www.marcusoft.net/2007/09/british-open-brass-band-championships.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/british-open-brass-band-championships.html
 ---
 
 This weekend is the first and maybe the greatest competition in the

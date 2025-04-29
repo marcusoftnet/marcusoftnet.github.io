@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2010-12-14T15:22:38.214Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7120408968784614607
-blogger_orig_url: http://www.marcusoft.net/2008/12/msbuild-sidekicks.html
+blogger_orig_url: https://www.marcusoft.net/2008/12/msbuild-sidekicks.html
 ---
 
 This tool, [MSBuild Sidekick](http://www.attrice.info/msbuild/), looks quite promising. It's a graphical editor with which you build MSBuild project files.

@@ -11,10 +11,10 @@ tags:
   - KanbanBoards
 modified_time: 2011-03-08T19:03:13.839Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1325740255107798275
-blogger_orig_url: http://www.marcusoft.net/2011/02/kanbanboards-vititeln-har-or-else.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/kanbanboards-vititeln-har-or-else.html
 ---
 
-It’s been a while since I did any work on the [KanbanBoards](http://www.marcusoft.net/search/label/KanbanBoards) project, but now I got around to add some more features. I planning on doing some acceptance tests for creating new boards. The controller functionality was spec'd out in then [last installment of the series](http://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html).
+It’s been a while since I did any work on the [KanbanBoards](https://www.marcusoft.net/search/label/KanbanBoards) project, but now I got around to add some more features. I planning on doing some acceptance tests for creating new boards. The controller functionality was spec'd out in then [last installment of the series](https://www.marcusoft.net/2011/02/kanbanboards-vcreating-new-boards.html).
 
 To do that properly I need to touch on two main areas of functionality:
 
@@ -117,7 +117,7 @@ Here how it happened;
 
 ### Conclusion
 
-I hope this post will help you with implementing OpenID in your own projects. It was a fun adventure with some small bumps along the road, but that’s how it is when you are trying out new things. 
+I hope this post will help you with implementing OpenID in your own projects. It was a fun adventure with some small bumps along the road, but that’s how it is when you are trying out new things.
 
 I hope it also shows how amazing the OSS-community is and that it is actually worth getting involved with that world.
 

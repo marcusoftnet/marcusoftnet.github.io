@@ -11,7 +11,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.178Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8035475995311768141
-blogger_orig_url: http://www.marcusoft.net/2009/11/marcus-trying-jquery.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/marcus-trying-jquery.html
 ---
 
 I’m still amazed at how JavaScript has evolved. A language that many of us once dismissed has become a critical part of modern web development. Fortunately, the emergence of various JavaScript libraries means we don’t have to write everything from scratch.

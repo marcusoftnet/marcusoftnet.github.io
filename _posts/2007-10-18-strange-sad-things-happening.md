@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-10-18T06:49:44.187Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-155205495115965200
-blogger_orig_url: http://www.marcusoft.net/2007/10/strange-sad-things-happening.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/strange-sad-things-happening.html
 ---
 
 The last few weeks there have been a lot of really strange and sad

@@ -10,7 +10,7 @@ tags:
 modified_time: 2013-05-29T13:38:40.861Z
 thumbnail: /img/Screen+Shot+2013-05-29+at+10.13.46+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5197645370134929012
-blogger_orig_url: http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html
+blogger_orig_url: https://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html
 ---
 
 I was at the hairdresser yesterday. I'm not very particular about my hair, but it was starting to look a bit like this:
@@ -23,7 +23,7 @@ The conversations at most hairdressers in Sweden are not very interesting, mostl
 
 Low WIP and flow are concepts that are well understood and often implemented at this particular client, but the implications of such a strategy were interesting. And, oddly enough, I saw some great strategies implemented at my hairdresser.
 
-I sat down with some guys, and we talked about [Mob Programming](http://mobprogramming.org/) as they had read my [blog post on the topic](http://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html). Specifically, we talked about the great flow of work that would arise from having everyone work on one and the same thing at the same time. A WIP of 1.
+I sat down with some guys, and we talked about [Mob Programming](http://mobprogramming.org/) as they had read my [blog post on the topic](https://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html). Specifically, we talked about the great flow of work that would arise from having everyone work on one and the same thing at the same time. A WIP of 1.
 
 I said something like:
 

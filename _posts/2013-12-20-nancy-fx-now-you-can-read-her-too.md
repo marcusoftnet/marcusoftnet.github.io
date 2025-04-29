@@ -12,7 +12,7 @@ tags:
   - TDD
 modified_time: 2014-06-22T13:17:16.397Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8389897732025322547
-blogger_orig_url: http://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-her-too.html
+blogger_orig_url: https://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-her-too.html
 ---
 
 

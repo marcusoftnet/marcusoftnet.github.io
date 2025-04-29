@@ -8,18 +8,18 @@ tags:
   - Agile
 modified_time: 2012-10-10T07:00:02.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3292166009938146484
-blogger_orig_url: http://www.marcusoft.net/2012/10/agilechangetop53.html
+blogger_orig_url: https://www.marcusoft.net/2012/10/agilechangetop53.html
 ---
 
 This is the third post on my top 5 ways of making sure that your agile change initiative succeeds.
 
 This is the list - in order of importance:
 
-1. [Get a great "Or else"-reason for doing this change](http://www.marcusoft.net/2012/10/agilechangetop51.html)
-2. [Sit together](http://www.marcusoft.net/2012/10/agilechangetop52.html)
-3. [Let them change how they work](http://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
-4. [Support the initiative](http://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve](http://www.marcusoft.net/2012/10/agilechangetop55.html)
+1. [Get a great "Or else"-reason for doing this change](https://www.marcusoft.net/2012/10/agilechangetop51.html)
+2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
+3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
+4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
+5. [Use visualised data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
 ### 3 - Let Them Change How They Work
 
@@ -53,8 +53,8 @@ Finally, this also connects back to my first point - get an "or else"-reason tha
 
 This was the third post of my top 5 list to succeed with agile transformation projects:
 
-1. [Get a great "Or else"-reason for doing this change](http://www.marcusoft.net/2012/10/agilechangetop51.html)
-2. [Sit together](http://www.marcusoft.net/2012/10/agilechangetop52.html)
-3. [Let them change how they work](http://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
-4. [Support the initiative](http://www.marcusoft.net/2012/10/agilechangetop54.html)
-5. [Use visualised data to improve](http://www.marcusoft.net/2012/10/agilechangetop55.html)
+1. [Get a great "Or else"-reason for doing this change](https://www.marcusoft.net/2012/10/agilechangetop51.html)
+2. [Sit together](https://www.marcusoft.net/2012/10/agilechangetop52.html)
+3. [Let them change how they work](https://www.marcusoft.net/2012/10/agilechangetop53.html) (this post)
+4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
+5. [Use visualised data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)

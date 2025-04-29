@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2007-04-12T05:39:55.562Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7690297960903219028
-blogger_orig_url: http://www.marcusoft.net/2007/04/directions.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/directions.html
 ---
 
 Got a [this

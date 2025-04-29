@@ -9,7 +9,7 @@ tags:
   - Indonesia
 modified_time: 2014-03-18T07:18:10.051Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4311236184618518878
-blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html
 ---
 
 
@@ -17,18 +17,18 @@ blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-mot
 
 DISCLAIMER for frequent readers of this blog:
 I now work for
-<a href="http://www.marcusoft.net/2013/06/moving-to-indonesia.html"
+<a href="https://www.marcusoft.net/2013/06/moving-to-indonesia.html"
 target="_blank">the Salvation Army in Indonesia</a> and they asked me to
 write an article from time to time in the Indonesian War Cry (the
 Salvation Army magazine). I of course used my normal style of writing
 and wrote about the thing I've written about here. Oh, not
-<a href="http://www.marcusoft.net/search/label/Javascript"
+<a href="https://www.marcusoft.net/search/label/Javascript"
 target="_blank">Javascript</a> or
-<a href="http://www.marcusoft.net/search/label/Nancy"
+<a href="https://www.marcusoft.net/search/label/Nancy"
 target="_blank">Nancy</a> maybe but Limit WIP,
-<a href="http://www.marcusoft.net/search/label/Lean"
+<a href="https://www.marcusoft.net/search/label/Lean"
 target="_blank">Lean</a> and
-<a href="http://www.marcusoft.net/search/label/Kanban"
+<a href="https://www.marcusoft.net/search/label/Kanban"
 target="_blank">Kanban</a>. But with a Christian twist and message.
 
 So if you don't want to read this, please stop now. I'll soon come back

@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-24T22:35:45.648Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8572976544850085921
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-14.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-session-14.html
 ---
 
 Ok – today I’ll start by creating a factory for the `Product` class. I have some issues with the factory pattern and here is my reasoning: Another class is the creator and must have access to the `NEW` method of the class to create it. Since that forces at least a protected-level on the constructor, it means that I cannot be sure that clients use the factory and not the constructor.

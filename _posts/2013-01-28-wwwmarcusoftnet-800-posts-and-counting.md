@@ -8,25 +8,25 @@ tags:
   - Life of a consultant
 modified_time: 2013-01-28T14:29:10.901Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7904302299992204183
-blogger_orig_url: http://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-and-counting.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-and-counting.html
 ---
 
 
 
 
 I've just published my <a
-href="http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html"
+href="https://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html"
 target="_blank">800th post</a>!
 
 Can't really understand that. I know that <a
-href="http://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread.html"
+href="https://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread.html"
 target="_blank">some of them</a> haven't been
-<a href="http://www.marcusoft.net/2006/10/i-like.html"
+<a href="https://www.marcusoft.net/2006/10/i-like.html"
 target="_blank">all that great</a> but there's some nuggets of
 information in there. At least for me.
 
 That's how I
-<a href="http://www.marcusoft.net/2006/10/marcus-on-net.html"
+<a href="https://www.marcusoft.net/2006/10/marcus-on-net.html"
 target="_blank">started to blog</a>: to make myself write stuff down to
 remember and formalize my knowledge.
 

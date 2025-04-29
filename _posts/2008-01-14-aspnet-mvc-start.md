@@ -9,7 +9,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:20:33.365Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1223226366906556291
-blogger_orig_url: http://www.marcusoft.net/2008/01/aspnet-mvc-start.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/aspnet-mvc-start.html
 ---
 
 I am really hooked on a new thing from Microsoft called ASP.NET

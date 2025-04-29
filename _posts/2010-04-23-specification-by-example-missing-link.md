@@ -11,14 +11,14 @@ tags:
   - Agile
 modified_time: 2010-04-22T18:01:43.927Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7935641062205744091
-blogger_orig_url: http://www.marcusoft.net/2010/04/specification-by-example-missing-link.html
+blogger_orig_url: https://www.marcusoft.net/2010/04/specification-by-example-missing-link.html
 ---
 
 I’ve been thinking. That statement alone will be sure to put fear in the heart of a lot of you… But if you have continued on this far, here we go.
 
 #### Learning programming stuff
 
-During the last year or so I have been reading a lot. I have read stuff [on XP](http://jamesshore.com/Agile-Book/), on [good design](http://www.marcusoft.net/2009/07/parental-leave-reading.html) [DDD](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) and [TDD](http://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html). This reading has affected me and my coding style way much more than I first thought. I simply cannot write code anymore without the test first, interface first, thinking of SOLID etc..
+During the last year or so I have been reading a lot. I have read stuff [on XP](http://jamesshore.com/Agile-Book/), on [good design](https://www.marcusoft.net/2009/07/parental-leave-reading.html) [DDD](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) and [TDD](https://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html). This reading has affected me and my coding style way much more than I first thought. I simply cannot write code anymore without the test first, interface first, thinking of SOLID etc..
 
 #### Learning lean stuff
 
@@ -36,7 +36,7 @@ Surely – this cannot be the best case? So I started read about [agile testing]
 
 #### The solution?
 
-I have heard and [learned](http://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html) quite a lot about [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development). I knew that BDD and [“outside-in” thinking](http://en.wikipedia.org/wiki/Behavior_Driven_Development#Outside-In) can help me design my application in a maintainable way. But BDD can be applied at any level. It could be used to spec out your unit test. Another way to do [TDD](http://en.wikipedia.org/wiki/Test-driven_development) ([AAA](http://www.arrangeactassert.com/) becomes [GWT](http://blog.objectmentor.com/articles/2008/11/27/the-truth-about-bdd))
+I have heard and [learned](https://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html) quite a lot about [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development). I knew that BDD and [“outside-in” thinking](http://en.wikipedia.org/wiki/Behavior_Driven_Development#Outside-In) can help me design my application in a maintainable way. But BDD can be applied at any level. It could be used to spec out your unit test. Another way to do [TDD](http://en.wikipedia.org/wiki/Test-driven_development) ([AAA](http://www.arrangeactassert.com/) becomes [GWT](http://blog.objectmentor.com/articles/2008/11/27/the-truth-about-bdd))
 
 But I had missed the fact that the specifications and features should ~~could~~ be written in collaboration with customer or business analysists. This will turn the specs into **executable specifications. (**Those words still gives me the shivers. It’s so cool!)
 

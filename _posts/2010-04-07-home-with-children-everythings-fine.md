@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2010-04-07T08:58:45.416Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1213035755040787898
-blogger_orig_url: http://www.marcusoft.net/2010/04/home-with-children-everythings-fine.html
+blogger_orig_url: https://www.marcusoft.net/2010/04/home-with-children-everythings-fine.html
 ---
 
 We have now been home for a while and things are settling down over here. Actually, it’s working pretty well so far.

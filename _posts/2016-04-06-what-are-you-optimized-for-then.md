@@ -10,11 +10,11 @@ tags:
  - Life of a consultant
 ---
 
-I was in a couple of very interesting discussions yesterday, through the mean of a [SAFe course](http://www.marcusoft.net/2016/04/thoughts-after-a-safe-course.html). Just sitting in the room with your peers and stakeholders, off-site, discussing how to work more effectively is really powerful - it turns out.
+I was in a couple of very interesting discussions yesterday, through the mean of a [SAFe course](https://www.marcusoft.net/2016/04/thoughts-after-a-safe-course.html). Just sitting in the room with your peers and stakeholders, off-site, discussing how to work more effectively is really powerful - it turns out.
 
 "Who knew?", he exclaimed with some irony in his voice but still some hope and joy.
 
-Ok, in our discussion I, [again](http://www.marcusoft.net/2016/02/the-hidden-agenda-of-agile.html), ran into the point where I simply don't understand the reason for organization your company in a certain way.
+Ok, in our discussion I, [again](https://www.marcusoft.net/2016/02/the-hidden-agenda-of-agile.html), ran into the point where I simply don't understand the reason for organization your company in a certain way.
 
 I just have to write this down, and see if it becomes clearer for me. You can read it too if you want.
 

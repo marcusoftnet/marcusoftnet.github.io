@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-04-20T05:46:56.961Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7674306098552155455
-blogger_orig_url: http://www.marcusoft.net/2007/04/well-meet-again.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/well-meet-again.html
 ---
 
 At my new customer (a big insurance company in Sweden) I have met so
@@ -23,8 +23,7 @@ Here is a small list of people I've met so far:
   Henrik something. I haven't seen him since I stopped work there in
   1999
 - Second day - learned and met the chief business architect for my
-  project... He is my <span id="SPELLING_ERROR_2"
-    class="blsp-spelling-corrected">neighbour from a year back.
+  project... He is my neighbour from a year back.
   He met me the first time when I locked myself out and tried to pry
   the door open. He helped...
 - Third day - met a friend from university that I hung with for the

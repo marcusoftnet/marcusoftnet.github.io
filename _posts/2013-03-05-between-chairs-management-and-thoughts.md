@@ -10,10 +10,10 @@ tags:
 modified_time: 2013-03-05T14:09:37.252Z
 thumbnail: /img/between+the+chairs.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4864005741396452887
-blogger_orig_url: http://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html
+blogger_orig_url: https://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html
 ---
 
-At my current client, we have split our teams into five smaller (8 people) teams. [I wrote about that process before](http://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html), if you want to read about that. One of the big concerns that people have had after the split is how we make sure that we don't miss stuff that "falls between the chairs" for these teams. I think that's an overstated problem, but we sat down together and, as always with [great people that care](http://gojko.net/2013/02/13/the-february-revolution/), a good solution came out. This post shows our findings, and I'll try to unfold my thinking on why I thought the problem is overstated as well. Since we're now brushing on business-critical strategies, I need to keep this post fairly general. I'll try my best to make it understandable.
+At my current client, we have split our teams into five smaller (8 people) teams. [I wrote about that process before](https://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html), if you want to read about that. One of the big concerns that people have had after the split is how we make sure that we don't miss stuff that "falls between the chairs" for these teams. I think that's an overstated problem, but we sat down together and, as always with [great people that care](http://gojko.net/2013/02/13/the-february-revolution/), a good solution came out. This post shows our findings, and I'll try to unfold my thinking on why I thought the problem is overstated as well. Since we're now brushing on business-critical strategies, I need to keep this post fairly general. I'll try my best to make it understandable.
 
 ### The Problem
 

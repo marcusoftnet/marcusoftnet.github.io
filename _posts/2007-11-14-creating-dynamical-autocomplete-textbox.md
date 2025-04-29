@@ -9,7 +9,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.508Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4324360961164731150
-blogger_orig_url: http://www.marcusoft.net/2007/11/creating-dynamical-autocomplete-textbox.html
+blogger_orig_url: https://www.marcusoft.net/2007/11/creating-dynamical-autocomplete-textbox.html
 ---
 
 In my recent project we have had to implement a own textbox to be

@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2006-10-26T05:54:47.178Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116168806472327241
-blogger_orig_url: http://www.marcusoft.net/2006/10/marcus-on-net.html
+blogger_orig_url: https://www.marcusoft.net/2006/10/marcus-on-net.html
 ---
 
 

@@ -52,7 +52,7 @@ The second assumption is a funny one. Because just about every organization I co
 
 > You know, here it's a bit special: we have much more to do than we have the capacity.
 
-Dear clients, past and future; that's how **every organization in the world** has it. I've never seen anything else. In fact; if the [opposite was true](http://www.marcusoft.net/2018/10/playing-with-names.html) it would probably be a company on the verge of dying.
+Dear clients, past and future; that's how **every organization in the world** has it. I've never seen anything else. In fact; if the [opposite was true](https://www.marcusoft.net/2018/10/playing-with-names.html) it would probably be a company on the verge of dying.
 
 Let's try it, by going via negativa on that statement:
 

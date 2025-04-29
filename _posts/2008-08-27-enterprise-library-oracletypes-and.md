@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:23:30.932Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9201356354710801780
-blogger_orig_url: http://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html
 ---
 
 

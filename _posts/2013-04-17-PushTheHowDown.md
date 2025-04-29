@@ -13,7 +13,7 @@ tags:
 modified_time: 2013-04-17T06:00:09.379Z
 thumbnail: /img/pushing+how+down.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8179040185480084998
-blogger_orig_url: http://www.marcusoft.net/2013/04/PushTheHowDown.html
+blogger_orig_url: https://www.marcusoft.net/2013/04/PushTheHowDown.html
 ---
 
 I've just attended my first ever [CukeUp conference](http://skillsmatter.com/event/agile-testing/cukeup-2013), that is given by [Skillsmatter](http://www.skillsmatter.com/) each year. It's organized by [Aslak Hellesoy](http://aslakhellesoy.com/) that created [Cucumber](http://cukes.info/) five years ago. It attracts a nice audience and community that share a lot of interest with me. For me it was extra fun to meet some of my heros and friends that I've followed and interacted with for quite some time ([Matt Wynne](http://blog.mattwynne.net/) and [Gaspar Nagy](http://gasparnagy.com/) to mention a few).
@@ -73,13 +73,13 @@ Now wait a minute... I still don't see the HOW?! At least not if we're supposed 
 
 ### HOW in page objects
 
-No - that's right. The DSL above is an example of using the [driver pattern](http://c2.com/cgi/wiki?BridgePattern). Most often we hear about this in the form of the [Page Object Wrapper](http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html) that I've blogged about before. While this is a great idea I think that the DSL/Driver constructed above is better. It becomes a higher level Driver, that contains the Page Objects you might need.
+No - that's right. The DSL above is an example of using the [driver pattern](http://c2.com/cgi/wiki?BridgePattern). Most often we hear about this in the form of the [Page Object Wrapper](https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html) that I've blogged about before. While this is a great idea I think that the DSL/Driver constructed above is better. It becomes a higher level Driver, that contains the Page Objects you might need.
 
 If you don't have a higher level Driver you'll need to orchestrate how you call between the different pages right in the step definitions, making them more complicated and harder to maintain. A DSL/Driver object that in turns calls into the Page Object is a much better, and more maintainable solution, in my opinion.
 
 And finally, here is the HOW:
 
-Here we interact with the system to enter stuff and assert the output from the system. Of course drivers doesn't have to be run against web pages only. Here's another driver that interacts with the [Nancy](http://www.nancyfx.org/) [testing browser](http://www.marcusoft.net/2013/01/NancyTesting1.html):
+Here we interact with the system to enter stuff and assert the output from the system. Of course drivers doesn't have to be run against web pages only. Here's another driver that interacts with the [Nancy](http://www.nancyfx.org/) [testing browser](https://www.marcusoft.net/2013/01/NancyTesting1.html):
 
 ### Conclusion and "was that really necessary?"
 

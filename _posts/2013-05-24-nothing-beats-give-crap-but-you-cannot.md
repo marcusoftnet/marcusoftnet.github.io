@@ -12,7 +12,7 @@ tags:
 modified_time: 2013-05-24T13:24:02.770Z
 thumbnail: /img/4137841698_44ee6db32c_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
-blogger_orig_url: http://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html
+blogger_orig_url: https://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html
 ---
 
 I'm back from [AgileSverige](http://www.agilasverige.se/), the premier agile conference in Sweden (IMHO), and this year was no exception. Or rather, it was—exceptionally great from where I sat.
@@ -83,7 +83,7 @@ Standups... I really don't know. They are working on one thing. There's really n
 
 They could have a board to visualize what's going on, for stuff coming up next, for example, or things that are completed.
 
-This can be a way for the mob to report outwards to other parties what's going on and what the next things coming up are. 
+This can be a way for the mob to report outwards to other parties what's going on and what the next things coming up are.
 
 If you want to see a project where this was done in practice (and you speak Swedish), check out [Anders Löwenborg's](http://twitter.com/anderslowenborg) talk at [Agila Sverige](https://agilasverige.solidtango.com/video/2013-05-20-agila-sverige-haren-d2p01). That project had no process. Just people that were very engaged in making a great product. And a product owner that gave them permission and support to do what they (the team) thought was best to make things happen.
 

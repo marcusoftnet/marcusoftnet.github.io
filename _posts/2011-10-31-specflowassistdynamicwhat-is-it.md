@@ -10,7 +10,7 @@ tags:
   - SpecFlow
 modified_time: 2011-11-03T15:37:44.638Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4240793233483386742
-blogger_orig_url: http://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html
+blogger_orig_url: https://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html
 ---
 
 I’m excited to share a new NuGet package I’ve been working on: [SpecFlow.Assist.Dynamic](http://nuget.org/List/Packages/SpecFlow.Assist.Dynamic). This extension builds on [SpecFlow](https://www.specflow.org) and the fantastic [Assist helpers](https://github.com/techtalk/SpecFlow/wiki/SpecFlow-Assist-Helpers) created by [Darren Cauthon](http://www.cauthon.com/).

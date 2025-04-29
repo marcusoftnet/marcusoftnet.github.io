@@ -7,7 +7,7 @@ tags:
   - LINQ
 modified_time: 2008-01-04T09:21:34.024Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2553240381198016864
-blogger_orig_url: http://www.marcusoft.net/2008/01/data-source-only-supports-single-view.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/data-source-only-supports-single-view.html
 ---
 
 I am trying the LinqDataSource out and ran into the error message:

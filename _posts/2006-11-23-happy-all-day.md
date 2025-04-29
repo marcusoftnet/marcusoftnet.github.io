@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2006-11-23T07:04:08.476Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2015468865646890693
-blogger_orig_url: http://www.marcusoft.net/2006/11/happy-all-day.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/happy-all-day.html
 ---
 
 Yesterday was a bit hard to keep the mood in top. Probably had to do

@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2011-01-21T14:04:00.334Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5436875631721491002
-blogger_orig_url: http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/tdd-and-scaffolding.html
 ---
 
 In my exploration of new Microsoft technologies, I've encountered the concept of scaffolding, particularly through tools like [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/). Scaffolding is a well-known feature in other frameworks, such as Ruby on Rails, where it provides a quick way to generate code templates.

@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:23:11.122Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8360816253364459230
-blogger_orig_url: http://www.marcusoft.net/2008/04/design-patterns.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/design-patterns.html
 ---
 
 I've been doing some reading up on design patterns, mostly actually

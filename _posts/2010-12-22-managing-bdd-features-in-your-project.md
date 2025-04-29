@@ -12,7 +12,7 @@ tags:
   - SpecFlow
 modified_time: 2011-01-13T20:18:53.615Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6919193304724604886
-blogger_orig_url: http://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html
+blogger_orig_url: https://www.marcusoft.net/2010/12/managing-bdd-features-in-your-project.html
 ---
 
 From time to time I find myself in the position where I ask “stupid” questions. I’ve found that it’s often the case that the question is not that “stupid” after all and if it is you get to learn a lot in the process. I have never been verbally abused, flamed or laughed at for my questions – which often are the reasons that people don’t want to ask “stupid” questions. So recently I’ve been asking “stupid” (final time I use that word in this post, promise) questions surrounding the management of features (.feature-files for us [Cucumber](https://github.com/aslakhellesoy/cucumber/wiki/) freaks). And at the same time I've been searching high and low on the net for best practices on how to manage your features through the course of a project. I didn't find much due to a couple of reasons:
@@ -43,8 +43,8 @@ What this means is that the real benefit from using the agile methodology of BDD
 
 So that leads us to the features. What are those? What do they represent? And who writes them? A feature is a behavior in the system that some person (or role) benefits from (see [Introducing BDD by Dan North](http://blog.dannorth.net/introducing-bdd/)). Often they are written in the form of [user stories](http://en.wikipedia.org/wiki/User_story) since that practice and form capture the three elements in a very concise format:
 
-> **As a** \[X\]  
-> **I want** \[Y\]  
+> **As a** \[X\]
+> **I want** \[Y\]
 > **so that** \[Z\]
 
 Who writes the stories then? It’s easy to think that this is a business/requirement thing. But as a [great answer](http://groups.google.com/group/behaviordrivendevelopment/msg/e8b983ae5b433b99) to [my question](http://groups.google.com/group/behaviordrivendevelopment/browse_thread/thread/c75ec1255a34a5a6/e8b983ae5b433b99?#e8b983ae5b433b99?), [great authoritative resources](http://cuke4ninja.com/sec_collaborative_feature_files.html), and even [links off old post of mine](http://blog.jonasbandi.net/2010/05/bdd-antipattern-business-readable-but.html) show, that misses the point of BDD. You want to write the features and their scenarios together as I wrote above.
@@ -52,11 +52,11 @@ Who writes the stories then? It’s easy to think that this is a business/requir
 A bit like this maybe:
 ![specws.jpg](/img/specws.jpg)
 
-(Short side note – I actually was on to that track in an [earlier post](http://www.marcusoft.net/2010/08/story-on.html) also, which I hope lessens the stupidity of my question and reasoning a bit).
+(Short side note – I actually was on to that track in an [earlier post](https://www.marcusoft.net/2010/08/story-on.html) also, which I hope lessens the stupidity of my question and reasoning a bit).
 
 In the picture above we see that the roles needed to grasp the story meet, bringing all the documentation of the work they have done up to now and record their common understanding of the problem in a feature with scenarios. They write the feature together. In the [answer to my question on the BDD list](http://groups.google.com/group/behaviordrivendevelopment/msg/e8b983ae5b433b99) another view was also suggested:
 
-> “Cucumber features are an executable map of the current functionality of the system”  
+> “Cucumber features are an executable map of the current functionality of the system”
 > “The output of running cucumber features is something you can keep. You can say at this time that system was like this.”
 
 I like this idea a lot! (Thanks [Andrew Premdas](http://blog.andrew.premdas.org/)). In a way this means that the content of the .feature files are like source code that can be run to see how well the system fulfills the current requirements. So in short – you meet and write the features down together. Probably this can be sketched out during the meeting and nailed by somebody later (to better match existing steps or to keep the language consistent for example). The feature is then checked in with the source code as it can be executed to produce a map between our common understanding of the requirements and how well the system fulfills them.
@@ -65,7 +65,7 @@ I like this idea a lot! (Thanks [Andrew Premdas](http://blog.andrew.premdas.org/
 
 Now we can see how to associate the feature we write together with a work item in TFS. The link between the two can be achieved two-way like this:
 
-- In the .feature file you can [tag](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) the feature or scenario with the work item ID, @TFS_432453 for example. That can be used to search for the item among your scenarios and to control which items are run again ([see this post](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html)).
+- In the .feature file you can [tag](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) the feature or scenario with the work item ID, @TFS_432453 for example. That can be used to search for the item among your scenarios and to control which items are run again ([see this post](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html)).
 - You can also use a comment with a link to the work item on the TFS Server. For example, this link ([http://tfs:8080/tfs/WorkItemTracking/Workitem.aspx?artifactMoniker=68717](http://tfs:8080/tfs/WorkItemTracking/Workitem.aspx?artifactMoniker=68717)) will take me to the WI 68717 on the TFS website. When the .feature file is created, associate it with the work item of choice (for example, a work item with some relevant documentation attached to it) just like you do with any other check-in.
 
 ### Suggested workflow
@@ -87,7 +87,7 @@ As work is commenced, the different steps will give the developers a possibility
 
 When new knowledge arises (as it always does), that can easily be incorporated into the feature by updating and changing the scenarios, of course after communicating within the team.
 
-Likewise, when testing is done, new scenarios and new data might be added to further enhance the story. The use of [tags](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) can be used here to differentiate between the different tests and when to run them.
+Likewise, when testing is done, new scenarios and new data might be added to further enhance the story. The use of [tags](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) can be used here to differentiate between the different tests and when to run them.
 
 ### Conclusion
 

@@ -10,7 +10,7 @@ tags:
  - Scrum
 ---
 
-In my [last post](http://www.marcusoft.net/2015/01/emergency-lanes---some-tips.html), I discussed practices and policies around emergency lanes. Today, during my visit to my client, I realized that we, ourselves, had created the need for them. The good news is, if we created the need, we can also eliminate it.
+In my [last post](https://www.marcusoft.net/2015/01/emergency-lanes---some-tips.html), I discussed practices and policies around emergency lanes. Today, during my visit to my client, I realized that we, ourselves, had created the need for them. The good news is, if we created the need, we can also eliminate it.
 
 Let me explain.
 
@@ -63,7 +63,7 @@ For example:
 
 ## Summary
 
-Breaking down tasks not only brings [numerous benefits](http://www.marcusoft.net/2015/01/make-it-smaller---some-practical-experiences.html), but it also reduces the need for urgent items. We aim to minimize "Urgent" tasks since they increase WIP temporarily, slow down the process, and divert focus from our primary work.
+Breaking down tasks not only brings [numerous benefits](https://www.marcusoft.net/2015/01/make-it-smaller---some-practical-experiences.html), but it also reduces the need for urgent items. We aim to minimize "Urgent" tasks since they increase WIP temporarily, slow down the process, and divert focus from our primary work.
 
 For instance, during today's stand-up, approximately 25% of the time was spent on urgent matters. These items existed as urgent due to our tendency to chunk work into large projects.
 

@@ -9,7 +9,7 @@ tags:
   - Agile
 ---
 
-I got another email from a former client that I wanted to answer here on the blog. In fact, in this instance, I also got the same question during a [Lean Coffee](http://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html) discussion at a current client too.
+I got another email from a former client that I wanted to answer here on the blog. In fact, in this instance, I also got the same question during a [Lean Coffee](https://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html) discussion at a current client too.
 
 Without stating the whole email the questions were a little bit like this:
 
@@ -82,7 +82,7 @@ Those are all made up, obviously... not really... but really made up... not...
 
 Here's the thing; limiting work in process and visualization will _show you the problems_, but not solve all of them for you. That part is left up to you and, in my experience, always contextual to the current time, current people, current organization and current opportunity.
 
-The focus on **help work to flow** is the principle that drives this behavior. Flow where? Of [what](http://www.marcusoft.net/2018/03/a-simple-diagram-on-flow-efficiency.html)?
+The focus on **help work to flow** is the principle that drives this behavior. Flow where? Of [what](https://www.marcusoft.net/2018/03/a-simple-diagram-on-flow-efficiency.html)?
 
 The flow of finished things (as "Thank you" from the person ordering) of things that matters and is valuable to someone. See [Mike Burrows excellent definition of done](https://blog.agendashift.com/2018/05/03/my-handy-referenceable-definition-of-done/)
 
@@ -104,9 +104,9 @@ Because with that basic premises of what kanban really is the questions are easy
 
 ## I don't like all those process steps - it looks like a waterfall
 
-This is one of the most common push-back I get when we are mapping a workflow. The response is simple: the board should reflect your current ways - not my or anything from a book. I wrote a [blog post](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) on that
+This is one of the most common push-back I get when we are mapping a workflow. The response is simple: the board should reflect your current ways - not my or anything from a book. I wrote a [blog post](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) on that
 
-If you are a team of people that works together to finish work (from idea, via dev, test and deploy and [followup while it's used by customers](http://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)), regardless of roles, as you might do in a mob programming team for example; then having an elaborate workflow is not reflecting how you actually work. Just have [mind map](http://www.marcusoft.net/2016/06/backlog-and-features.html) for things that you have not started and a single column for the one thing you are working on.
+If you are a team of people that works together to finish work (from idea, via dev, test and deploy and [followup while it's used by customers](https://www.marcusoft.net/2017/02/comments-on-board-practices-3.html)), regardless of roles, as you might do in a mob programming team for example; then having an elaborate workflow is not reflecting how you actually work. Just have [mind map](https://www.marcusoft.net/2016/06/backlog-and-features.html) for things that you have not started and a single column for the one thing you are working on.
 
 If you, however, have more steps than "The one thing we are doing right now" in your workflow, by all means, let the board show the way you are working.
 
@@ -116,7 +116,7 @@ The closer your visualization reflects how you actually work the more likely you
 
 Yes. If you let it.
 
-Kanban only shows you how your work works, if you like. If you see problems with how the workflow, such as bottlenecks and huge amounts of WIP, but change nothing in your process to handle it - nothing will improve. [Improving means changing](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
+Kanban only shows you how your work works, if you like. If you see problems with how the workflow, such as bottlenecks and huge amounts of WIP, but change nothing in your process to handle it - nothing will improve. [Improving means changing](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
 
 So if you have a board with a long array of 14 columns because your process of implementing that contract in code requires 14 steps - perfect! That is how you work today - so it's a good visualization. Put a WIP limit on that board ("There will never be more than 15 items on the board at once", for example) and you're off to a great start.
 

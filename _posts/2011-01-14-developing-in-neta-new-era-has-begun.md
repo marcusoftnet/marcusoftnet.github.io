@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2011-02-05T20:13:11.775Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5907964016203666193
-blogger_orig_url: http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html
 ---
 
 ### News
@@ -20,8 +20,8 @@ The other day I just realized how much has changed in the way we develop code no
 I don’t claim this to be in the right chronological order, but here are some major milestones for me:
 
 - [TDD](http://en.wikipedia.org/wiki/Test-driven_development) – didn’t use just 2 years back
-- [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) – finally get the [requirements and tester into the agile loop](http://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html) and an opportunity to [work outside in](http://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html), which feels just right for me. My favorite tool right now is [SpecFlow](http://www.specflow.org).
-- [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594) – totally changed the way C# ([VB.NET still sucks at LINQ if you ask me](http://www.marcusoft.net/2010/02/vbnet-considered-harmful.html)) looks.
+- [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) – finally get the [requirements and tester into the agile loop](https://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html) and an opportunity to [work outside in](https://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html), which feels just right for me. My favorite tool right now is [SpecFlow](http://www.specflow.org).
+- [LINQ](http://msdn.microsoft.com/en-us/netframework/aa904594) – totally changed the way C# ([VB.NET still sucks at LINQ if you ask me](https://www.marcusoft.net/2010/02/vbnet-considered-harmful.html)) looks.
 - [ASP.NET MVC](http://www.asp.net/mVC/) – a web framework that makes sense and that you can test. I understand again.
 
 And now the other day (the day of the many updates as it might well be known), [Microsoft released a big load of new updates](http://weblogs.asp.net/scottgu/archive/2011/01/13/announcing-release-of-asp-net-mvc-3-iis-express-sql-ce-4-web-farm-framework-orchard-webmatrix.aspx). Here’s what I find most interesting:
@@ -30,7 +30,7 @@ And now the other day (the day of the many updates as it might well be known), [
 - [Razor](http://weblogs.asp.net/scottgu/archive/2010/07/02/introducing-razor.aspx) – a new, more concise way to write web pages.
 - [SQL Compact Edition (or SQL CE) 4.0](http://weblogs.asp.net/scottgu/archive/2011/01/11/vs-2010-sp1-and-sql-ce.aspx) – a small, fully working, easily deployable, free database from Microsoft.
 - [Code First Entity Framework](http://weblogs.asp.net/scottgu/archive/2010/08/03/using-ef-code-first-with-an-existing-database.aspx) – your [POCO classes](http://stackoverflow.com/questions/250001/define-poco), mapped to a database, automatically. It looks nice, so nice.
-- [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) – scaffolds loads of stuff for you in MVC 3 projects. Looks *very* promising. I didn’t say “brings Ruby-On-Rails to the .NET sphere”... but it was on my mind 
+- [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) – scaffolds loads of stuff for you in MVC 3 projects. Looks *very* promising. I didn’t say “brings Ruby-On-Rails to the .NET sphere”... but it was on my mind
 
 When you put all these together, you get something very, very cool, I think. Or at least hope.
 

@@ -12,7 +12,7 @@ tags:
   - Salvation Army
   - Indonesia
 modified_time: 2014-04-10T08:49:59.113Z
-blogger_orig_url: http://www.marcusoft.net/2014/04/aligning-our-sights-what-indonesians.html
+blogger_orig_url: https://www.marcusoft.net/2014/04/aligning-our-sights-what-indonesians.html
 ---
 
 I have now been in Indonesia for about 4 months. There's so many new impressions and things that I've seen, learned and experienced that I'm starting to forget them. Some is bad, some is good, ~~some are ugly~~ so I thought that I would write them down. The first thing is some sort of alignment that is repeated almost everyday. In almost all workplaces that I've seen or heard about. Like a routine checkup on what is important here. I've actually experienced that before, in a very different setting.

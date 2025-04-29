@@ -12,7 +12,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:19:35.814Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8081588236115919566
-blogger_orig_url: http://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-tdd.html
+blogger_orig_url: https://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-tdd.html
 ---
 
 I've been experimenting with **ASP.NET MVC** and **StructureMap** (an IOC container), and the integration has been quite smooth. For guidance on combining StructureMap with ASP.NET MVC, check out [Elija Manor's blog post](http://elijahmanor.com/webdevdotnet/post/Using-StructureMap-with-ASPNET-MVC-MVC-Contrib.aspx). Be cautious of the [favicon issue](http://haacked.com/archive/2008/07/14/make-routing-ignore-requests-for-a-file-extension.aspx).

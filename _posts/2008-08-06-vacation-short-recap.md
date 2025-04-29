@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-08-05T21:15:08.518Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8557571995910001240
-blogger_orig_url: http://www.marcusoft.net/2008/08/vacation-short-recap.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/vacation-short-recap.html
 ---
 
 As I wrote earlier I've just spent four wonderful weeks on vacation. Great times and great feeling to do something completely different for a month.

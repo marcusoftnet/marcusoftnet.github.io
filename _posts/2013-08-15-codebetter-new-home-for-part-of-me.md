@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2013-08-15T13:54:22.794Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2149031434733384001
-blogger_orig_url: http://www.marcusoft.net/2013/08/codebetter-new-home-for-part-of-me.html
+blogger_orig_url: https://www.marcusoft.net/2013/08/codebetter-new-home-for-part-of-me.html
 ---
 
 ## CodeBetter - a new home for part of me

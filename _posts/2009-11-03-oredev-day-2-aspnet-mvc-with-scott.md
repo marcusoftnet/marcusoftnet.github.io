@@ -8,7 +8,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2011-11-09T20:49:22.591Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-472327445991958099
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html
 ---
 
 
@@ -45,7 +45,7 @@ put it here as we go, in no particular order;
     object sent to the Execute-method, that contains
     RouteData-dictionary. There you have your route-template values...
 - I can't believe that [I've
-    forgot](http://www.marcusoft.net/2009/03/updatemodel-formcollection-and-unit_5466.html)
+    forgot](https://www.marcusoft.net/2009/03/updatemodel-formcollection-and-unit_5466.html)
     about
     [UpdateModel](http://davidhayden.com/blog/dave/archive/2008/09/08/ASPNETMVCUpdateModelTryUpdateModelDataBinding.aspx).
     It's a good thing - but sending the strong type is better :)

@@ -9,7 +9,7 @@ tags:
  - Claudia
 ---
 
-Before the summer I showed you how to build a [Slack bot using Claudia](http://www.marcusoft.net/2016/06/claudia-bot-builder.html) - it's a very simple ping command that you could run from a Slack-client. However that implementation had a flaw; if the command takes more than 3 seconds to complete it fails.
+Before the summer I showed you how to build a [Slack bot using Claudia](https://www.marcusoft.net/2016/06/claudia-bot-builder.html) - it's a very simple ping command that you could run from a Slack-client. However that implementation had a flaw; if the command takes more than 3 seconds to complete it fails.
 
 This has to do with a restriction in Slack that doesn't allow requests to take more than 3 seconds. In my mind created a super complex and beautiful solution including me handing a message of to a queue and that I then polled and called back to… I ran out of time figuring out.
 
@@ -35,13 +35,13 @@ or
 npm upgrade claudia -g
 ```
 
-You can, of course go through my [previous blog post](http://www.marcusoft.net/2016/06/claudia-bot-builder.html) to reach this point too.
+You can, of course go through my [previous blog post](https://www.marcusoft.net/2016/06/claudia-bot-builder.html) to reach this point too.
 
 Now, we are ready to install the dependencies: `npm install` and, if you haven't done that you can create the service with `npm run create`. Make sure to check the `package.json` so that the settings for the `create` script matches your region etc.
 
 ## Configuring a Slack command
 
-Oh, you need to configure a Slack command too. [Read this](http://www.marcusoft.net/2016/06/claudia-bot-builder.html#hook-up-a-slack-command) - it's easy.
+Oh, you need to configure a Slack command too. [Read this](https://www.marcusoft.net/2016/06/claudia-bot-builder.html#hook-up-a-slack-command) - it's easy.
 
 ## Where are we?
 
@@ -216,7 +216,7 @@ Should you already have a deployed version of the bot you can add any additional
 
 Hey - it works! No complicated (although wonderful) message queue and complex but rather everything is done in a single small file that fits in my head.
 
-We have a created a small little bot that now can receive a comma separated list of url in Slack and that pings them all. For example try this: `/pingu http://www.aptitud.se, http://www.marcusoft.net, http://www.google.com`
+We have a created a small little bot that now can receive a comma separated list of url in Slack and that pings them all. For example try this: `/pingu http://www.aptitud.se, https://www.marcusoft.net, http://www.google.com`
 
 I hope you found this useful. I learned a lot writing this.
 

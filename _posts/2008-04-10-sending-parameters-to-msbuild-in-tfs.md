@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2008-04-10T10:36:33.778Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5196648005050045479
-blogger_orig_url: http://www.marcusoft.net/2008/04/sending-parameters-to-msbuild-in-tfs.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/sending-parameters-to-msbuild-in-tfs.html
 ---
 
 The build process in Team Foundation Server is the one part where

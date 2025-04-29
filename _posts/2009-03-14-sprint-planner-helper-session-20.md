@@ -8,14 +8,14 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-03-13T19:42:03.172Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-247415908341303729
-blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-20.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/sprint-planner-helper-session-20.html
 ---
 
-Today I plan to finish up the last part of the prioritizing of Product Backlog Items (see [Session 19](http://www.marcusoft.net/2009/03/sprint-planner-helper-session-19.html)). That is, [TDD](http://en.wikipedia.org/wiki/Test-driven_development) the controller and then wrap the GUI.
+Today I plan to finish up the last part of the prioritizing of Product Backlog Items (see [Session 19](https://www.marcusoft.net/2009/03/sprint-planner-helper-session-19.html)). That is, [TDD](http://en.wikipedia.org/wiki/Test-driven_development) the controller and then wrap the GUI.
 
 Let’s go!
 
-Whooa – I ran into some [problems with routing](http://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html). Some problems that took me about two sessions (read: hours) to solve. To not bore you with details or meaningless posts of me scratching my head, I’ll sum it up in this post.
+Whooa – I ran into some [problems with routing](https://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html). Some problems that took me about two sessions (read: hours) to solve. To not bore you with details or meaningless posts of me scratching my head, I’ll sum it up in this post.
 
 Here is the layout of the “problem": I have an Action-method with two parameters:
 

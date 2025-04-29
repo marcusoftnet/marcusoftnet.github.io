@@ -11,7 +11,7 @@ tags:
  - Indonesia
 ---
 
-I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html), [twice](http://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.
+I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](https://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html), [twice](https://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.
 
 Again please don't read that as I think that they are stupid or ignorant - it's just their culture. There's a lot of strange things going on in our culture too. Just step outside your own box and you'll see it.
 
@@ -23,7 +23,7 @@ In fact; that's what this post is about; stepping out of my box. A simple questi
 
 First let's get back to my intro a bit. I think that everything I've seen here in Indonesia that puzzled me can be found in some regard in Sweden where I usally work. But here it's more extreme.
 
-* Here we might say '[Please don't question the process](http://www.marcusoft.net/2015/04/please-question-the-process.html)' whereas in Sweden this is hinted and implied, wrapped in smooth formulations.
+* Here we might say '[Please don't question the process](https://www.marcusoft.net/2015/04/please-question-the-process.html)' whereas in Sweden this is hinted and implied, wrapped in smooth formulations.
 * Here we don't question decisions from "senior" people. In Sweden we do... but maybe not so that they hear it. Or in ways that still not challenge them to much. Or in some places we do... knowing that it will be ignored
 * Here we follow the procedure as it's written without asking a single question. In Sweden we "do as we always have done - it's easier"
 * Here we do things knowing that it's stupid "because it says so". In Sweden we do things knowing it's stupid "because otherwise it will just take a lot of time"
@@ -54,7 +54,7 @@ Their reactions:
 * looking "Yeah, you keep talking... we'll do it our own ways"
 * Utterly surprised and chocked; "How can you even say things like that? Is that safe?"
 
-What would make me do things like that? Maybe if they said "You need to smoke a pack of cigarettes per day - then your [effectiveness](http://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html) will be awesome" or "Waterfall projects! That's proven greatly effective! Here is why" or "Use stones and a hammer to write your emails"...
+What would make me do things like that? Maybe if they said "You need to smoke a pack of cigarettes per day - then your [effectiveness](https://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html) will be awesome" or "Waterfall projects! That's proven greatly effective! Here is why" or "Use stones and a hammer to write your emails"...
 
 I've found that I can use whatever stupid example I could come up with, just to make me "feel" like they feel.
 
@@ -67,4 +67,4 @@ Now, here's where it get interesting. If someone told me that "smoking is better
 ## Conclusion
 I've found this reasoning very helpful for me to come up with alternative ways to formulate my goal. Sometimes step away from "my" goal and let them come up with "their" goal instead. Generally I find it very refreshing (read: a little painful) to shift perspective like this.
 
-Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise. 
+Try it in your culture if you want to. If you dare it will open new thoughts to you. Promise.

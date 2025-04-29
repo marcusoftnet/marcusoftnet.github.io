@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-01-18T06:48:46.908Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1683503506067199455
-blogger_orig_url: http://www.marcusoft.net/2007/01/phonesalesmen.html
+blogger_orig_url: https://www.marcusoft.net/2007/01/phonesalesmen.html
 ---
 
 Yesterday I got phoned by a salesman (woman actually, Madeleine or

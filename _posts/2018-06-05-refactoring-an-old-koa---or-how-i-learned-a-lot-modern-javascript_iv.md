@@ -13,11 +13,11 @@ This is the fourth post in a series where I refactor an old (4 years) code base 
 
 Here are all the posts in the series
 
-- [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
-- [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
-- [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
-- [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) - this post
-- [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
+- [Part I - get the tests to run](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
+- [Part II - where we clean up the test code a bit](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html)
+- [Part III - where we start to move over to async/await testing](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+- [Part IV - where finally do something about the production code, and fix the other parts of the application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) - this post
+- [Part V - wrapping up by refactoring the root application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
 
 <!-- excerpt-end -->
 
@@ -87,7 +87,7 @@ it("deletes an existing user", async () => {
 
 But when I did the log statement became `/undefined` in the console. Hmmm… what's up. Further more, why didn't the test fail when navigating to `/undefined ` ?
 
-The first question is answered with this awesome [StackOverflow response](https://stackoverflow.com/questions/39224320/nodejs-koajs-async-await-not-getting-value-from-db-collection-find). It's a long story but my favorite way to access [Mongo is via Monk](http://www.marcusoft.net/2014/02/mnb-monk.html). But [Monk](https://github.com/Automattic/monk), out of the box, doesn't support generators and `yield`, so I had to wrap it with [co-monk](https://www.npmjs.com/package/co-monk).
+The first question is answered with this awesome [StackOverflow response](https://stackoverflow.com/questions/39224320/nodejs-koajs-async-await-not-getting-value-from-db-collection-find). It's a long story but my favorite way to access [Mongo is via Monk](https://www.marcusoft.net/2014/02/mnb-monk.html). But [Monk](https://github.com/Automattic/monk), out of the box, doesn't support generators and `yield`, so I had to wrap it with [co-monk](https://www.npmjs.com/package/co-monk).
 
 But now… In my tests, I am not using generators. I'm using `async/await`. And it turns out that, repeating the StackOverflow answer
 
@@ -249,7 +249,7 @@ describe("User API", () => {
 });
 ```
 
-Also a full description of this approach code is found [in a separate post](http://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html)
+Also a full description of this approach code is found [in a separate post](https://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html)
 
 When `.end()` is back in there the tests starts to fail again. I will not lie - this took the better part of a day to clear up and I'm not sure I remember everything I did. Two apparent errors was hindering me:
 
@@ -280,7 +280,7 @@ All in all there were many moving parts here, so let's summarize what we did to 
   - And then turned them into using `=>` notation.
 - That made me nervous about using this and we started to used the passed in Koa context object instead
   - I forgot that in places and messed up additionally that took me about 4 hours to find
-- For the test, using supertest, I [wrote a separate post on this](http://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html), but:
+- For the test, using supertest, I [wrote a separate post on this](https://www.marcusoft.net/2018/06/testing-a-koa-application-with-supertest-using-asyncawait.html), but:
   - I create the server before all tests and close it after all tests
   - before each test I create the request object for the request under test
   - Finally I've put the `.end()`-function call
@@ -294,4 +294,4 @@ The good news, is that I now will do the same thing for the other apis (in folde
 - First checking is found under `Refactored OrderAPI`
 - Second check in is found under `Refactored Address API`
 
-Then, in the final post, we will tackle the top-level api that puts all of this together. Might be long or short. See [you there](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)!
+Then, in the final post, we will tackle the top-level api that puts all of this together. Might be long or short. See [you there](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)!

@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2007-01-15T06:54:09.926Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5391255051189945122
-blogger_orig_url: http://www.marcusoft.net/2007/01/Hectic-week-to-end.html
+blogger_orig_url: https://www.marcusoft.net/2007/01/Hectic-week-to-end.html
 ---
 
 Last week was a real burnout, of a start for this year. Something booked for each day last week, which is to much, for me anyway. And yesterday me and Elin was in charge of the meeting at our Salvation army corps.

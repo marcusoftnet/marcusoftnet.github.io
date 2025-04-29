@@ -26,7 +26,7 @@ As I said that I was reminded about many times I've been required to give estima
 
 ## Disclaimer
 
-Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but as you know I'm wiser than that. This is a comment in the [#LessEstimates discussion](http://www.marcusoft.net/2015/05/no-no---more-less.html).
+Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but as you know I'm wiser than that. This is a comment in the [#LessEstimates discussion](https://www.marcusoft.net/2015/05/no-no---more-less.html).
 
 ## The story
 
@@ -96,7 +96,7 @@ If I bring up customer information on my screen, and you do the same thing on yo
 
 One of the things that I really like about the CQRS/"eventual consistent" approach was that it gave the opportunity to be honest on a whole new level with what the users was seeing. We could tell them "This data was updated at XX:XX", trigger a reload when someone else was updating the data or even show that someone else is editing the data,
 
-This was cool, because out of the strict constraints that CQRS imposed, came new possibilities. [I like that, as you know](http://www.marcusoft.net/2013/01/on-constraints.html).
+This was cool, because out of the strict constraints that CQRS imposed, came new possibilities. [I like that, as you know](https://www.marcusoft.net/2013/01/on-constraints.html).
 
 ## Back on track, please
 

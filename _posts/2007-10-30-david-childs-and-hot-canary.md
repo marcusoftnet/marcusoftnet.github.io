@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-10-30T09:09:45.169Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6302245462694710313
-blogger_orig_url: http://www.marcusoft.net/2007/10/david-childs-and-hot-canary.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/david-childs-and-hot-canary.html
 ---
 
 

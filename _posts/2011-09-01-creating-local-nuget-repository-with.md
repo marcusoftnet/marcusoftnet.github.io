@@ -8,10 +8,10 @@ tags:
   - .NET
 modified_time: 2011-09-01T14:03:37.637Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-640926282847787172
-blogger_orig_url: http://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html
 ---
 
-I’m loving [NuGet](http://www.nuget.org) and it’s totally changed the way I look at bringing in external dependencies to my projects. [I've written about that before](http://www.marcusoft.net/2011/02/nuget-uninstall-remove-dependencies.html).
+I’m loving [NuGet](http://www.nuget.org) and it’s totally changed the way I look at bringing in external dependencies to my projects. [I've written about that before](https://www.marcusoft.net/2011/02/nuget-uninstall-remove-dependencies.html).
 
 Sometimes, you need to install several packages into a project. For example, when installing [SpecFlow](www.specflow.org), you might also need a test framework like [NUnit](http://www.nunit.org/) or [MsTest](http://msdn.microsoft.com/en-us/library/ms182489(v=vs.80).aspx), and perhaps an assertion or mocking framework.
 

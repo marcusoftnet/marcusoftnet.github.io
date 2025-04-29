@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-09-18T06:07:45.257Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-436677869737422669
-blogger_orig_url: http://www.marcusoft.net/2007/09/middagsfrid-or-how-to-start-rebellion.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/middagsfrid-or-how-to-start-rebellion.html
 ---
 
 Oh my God- this (<http://www.middagsfrid.se/>) is a thing that is

@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-09-07T06:56:54.995Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1070132324446337951
-blogger_orig_url: http://www.marcusoft.net/2007/09/good-introduction-to-instrumentation.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/good-introduction-to-instrumentation.html
 ---
 
 We'll adding instrumentation to our application but we lack

@@ -13,7 +13,7 @@ tags:
 modified_time: 2014-11-07
 thumbnail: /img/financial_debt.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1668465135217375764
-blogger_orig_url: http://www.marcusoft.net/2014/11/communication-debt.html
+blogger_orig_url: https://www.marcusoft.net/2014/11/communication-debt.html
 ---
 
 As a programmer, I often end up trying to explain non-technical concepts to non-technical people using things that I've picked up as a programmer. Often it doesn't pay off. "Don't Repeat Yourself" or "Tell - don't ask" is not always easy to explain or translate, even if they hold truths and wisdom.

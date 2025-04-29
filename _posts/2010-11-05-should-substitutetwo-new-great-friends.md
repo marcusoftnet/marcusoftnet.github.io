@@ -10,10 +10,10 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:22:38.152Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1188276247401983374
-blogger_orig_url: http://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html
+blogger_orig_url: https://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html
 ---
 
-Recently, I discovered two fantastic frameworks that have significantly improved my test code: `Should` and `NSubstitute`. 
+Recently, I discovered two fantastic frameworks that have significantly improved my test code: `Should` and `NSubstitute`.
 
 ### Should I? Yes – You Should
 

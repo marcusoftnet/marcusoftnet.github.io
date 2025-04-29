@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.491Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5888117216102285736
-blogger_orig_url: http://www.marcusoft.net/2008/02/moving-items-in-checkedlistbox.html
+blogger_orig_url: https://www.marcusoft.net/2008/02/moving-items-in-checkedlistbox.html
 ---
 
 This is a very common requirement in applications and one that I always

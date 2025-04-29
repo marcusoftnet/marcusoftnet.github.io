@@ -28,7 +28,7 @@ The easiest way to explain it is to start in the end. Because [Chris Matts](http
 
 > R u suggestin risk management is waste for everyone other than RM consultant?
 
-And the answer is "Yes, of course". Just as [stand up meetings](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html), estimating, kanban boards, testing and documentation are waste. In the [Lean](http://en.wikipedia.org/wiki/Lean_manufacturing) sense...
+And the answer is "Yes, of course". Just as [stand up meetings](https://www.marcusoft.net/2015/05/flow-wip-and-waste.html), estimating, kanban boards, testing and documentation are waste. In the [Lean](http://en.wikipedia.org/wiki/Lean_manufacturing) sense...
 
 Is that bad? Well wait a second and you'll see. Is it interesting to talk about? I'll end with that (scroll down to "Wake me up here").
 
@@ -72,7 +72,7 @@ It's too simple. And this has been captured greatly in a quote by Donald Reinert
 
 Basically; if you can get flow (smooth adding of value) with some waste - go for it. Or if you can get value to your customers with an unsmooth flow, why not?
 
-It very much comes down to how much of the process you are taking into consideration, as I [wrote about before](http://www.marcusoft.net/2015/05/flow-wip-and-waste.html). No backlog might be great for _your flow_ in your part of the process. But how is that affecting the total process? Maybe a little buffer, in the form of a backlog in front of your steps, would mitigate risk (as [Dan wrote](https://twitter.com/tastapod/status/597019790373462016)) or be needed to be able to keep up with the demand from you.
+It very much comes down to how much of the process you are taking into consideration, as I [wrote about before](https://www.marcusoft.net/2015/05/flow-wip-and-waste.html). No backlog might be great for _your flow_ in your part of the process. But how is that affecting the total process? Maybe a little buffer, in the form of a backlog in front of your steps, would mitigate risk (as [Dan wrote](https://twitter.com/tastapod/status/597019790373462016)) or be needed to be able to keep up with the demand from you.
 
 Much clearer expressed by Donald Reintersen himself, as response to my clumsy tweet-formulation and explanation above:
 
@@ -91,4 +91,4 @@ I'll let Paul Klipp finish:
 
 Maybe a little waste can be present and we can still be great. Or not? Real life is more complicated than to divide the world in good and bad.
 
-All the people in the discussion; I have the highest respect for you all and if my comment made you upset I'm truly sorry. I just wanted to clarify a little.  
+All the people in the discussion; I have the highest respect for you all and if my comment made you upset I'm truly sorry. I just wanted to clarify a little.

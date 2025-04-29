@@ -41,7 +41,7 @@ Again on the wikipedia (the book doesn't say much about this) it says:
 
 > Before the goal itself can be reached, necessary conditions must first be met. These typically include safety, quality, legal obligations, etc.
 
-So... all of those things are really just things we need to handle... but they are not the [reason we are here](http://www.marcusoft.net/2014/04/thisIsHowIThink.html).
+So... all of those things are really just things we need to handle... but they are not the [reason we are here](https://www.marcusoft.net/2014/04/thisIsHowIThink.html).
 
 I get a little bit of a foul taste in my mouth.
 

@@ -109,7 +109,7 @@ By visualizing a target (often just a simple line) on the board it's much easier
 
 ## Changes often
 
-I've [blogged about this one already](http://www.marcusoft.net/2015/09/indicators-leading-trailing---short-or-long.html) so I'll leave this short. We prefer data that is "too simple" but moves often rather than "very accurate" and updates seldom.
+I've [blogged about this one already](https://www.marcusoft.net/2015/09/indicators-leading-trailing---short-or-long.html) so I'll leave this short. We prefer data that is "too simple" but moves often rather than "very accurate" and updates seldom.
 
 Here's a few examples to clarify what I mean:
 
@@ -125,7 +125,7 @@ The reason we strive for quick-moving metrics, even though they might be simplif
 
 Using these "rules" we have found that the visualized metrics we are using become much more relevant, useful and interesting to everyone that we show it to.
 
-Underlying which metrics we choose lies a strive to only do things that will make an impact on the things that we are tracking. That's another blog post, but basically we ask (thank you [Dr Hubbard](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html)):
+Underlying which metrics we choose lies a strive to only do things that will make an impact on the things that we are tracking. That's another blog post, but basically we ask (thank you [Dr Hubbard](https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html)):
 
 > What decisions are we going to make based on these data?
 

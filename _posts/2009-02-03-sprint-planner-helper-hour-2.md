@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2010-12-14T15:20:33.227Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3718682898700130985
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-2.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-hour-2.html
 ---
 
 
@@ -27,4 +27,4 @@ what Visual Studio was made for.
 **\[UPDATED\]
 **I moved the snippet for creating test methods to a post of it’s own.
 You’ll find it
-[here](http://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html).
+[here](https://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html).

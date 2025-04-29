@@ -6,12 +6,12 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-09-04T18:08:58.121Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357478391735284163
-blogger_orig_url: http://www.marcusoft.net/2008/09/more-on-enterprise-library-entlib.html
+blogger_orig_url: https://www.marcusoft.net/2008/09/more-on-enterprise-library-entlib.html
 ---
 
 
 The [last
-time](http://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
+time](https://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
 I wrote about this I was a bit too fast to get all the intricate details
 down. One of those details blew up in my face today.
 
@@ -57,7 +57,7 @@ your command. When the standard DbCommand is enough you'll use it and
 it's features.
 
 So I simply removed some of the features from [my earlier
-post](http://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
+post](https://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
 such as the OracleDatabase (I only use the generic stuff) and kept other
 things such as the methods to create OracleParameters, since I'll need
 some details found in the OracleParameter class.

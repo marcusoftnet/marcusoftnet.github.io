@@ -7,7 +7,7 @@ tags:
   - VB.NET
 modified_time: 2010-02-08T07:48:01.372Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5980516792000738535
-blogger_orig_url: http://www.marcusoft.net/2010/02/casting-in-vbnet.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/casting-in-vbnet.html
 ---
 
 
@@ -15,7 +15,7 @@ OK – VB.NET is on the subject again. As I remember there was two things
 that led to big arguments and confusions: Casting and arrays.
 
 I’ve already blogged about how
-<a href="http://www.marcusoft.net/2007/10/arrays-in-vbnet.html"
+<a href="https://www.marcusoft.net/2007/10/arrays-in-vbnet.html"
 target="_blank">arrays are handled here</a>.
 
 Here is

@@ -8,7 +8,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-03-04T08:31:36.506Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8188991577348770009
-blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-16.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/sprint-planner-helper-session-16.html
 ---
 
 I am now almost ready with the first user story of my own backlog.

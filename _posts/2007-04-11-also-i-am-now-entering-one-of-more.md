@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2007-05-16T06:49:26.679Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3957256200867345660
-blogger_orig_url: http://www.marcusoft.net/2007/04/also-i-am-now-entering-one-of-more.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/also-i-am-now-entering-one-of-more.html
 ---
 
 Also - I am now entering one of the more hectic periods of my life

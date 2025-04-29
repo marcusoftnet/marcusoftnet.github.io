@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2013-09-23T08:47:40.764Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7982866793575880275
-blogger_orig_url: http://www.marcusoft.net/2013/09/what-my-fair-lady-can-teach-us-about.html
+blogger_orig_url: https://www.marcusoft.net/2013/09/what-my-fair-lady-can-teach-us-about.html
 ---
 
 I have a confession to make: I'm a sucker for musicals. Especially those old ones with those jolly tunes. One of my all-time favorites is: [My fair lady](http://www.imdb.com/title/tt0058385/). Since I like these old musicals it happens from time to time that I find myself singing the tunes. Out loud. The other day it happened again, but this time it was actually appropriate. In fact; the song I was humming told me something about visualization.

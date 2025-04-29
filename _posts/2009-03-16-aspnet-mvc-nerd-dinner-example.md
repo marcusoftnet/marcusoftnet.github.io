@@ -8,10 +8,10 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.201Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3313785601403983906
-blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html
 ---
 
-I am going through the [free sample chapter](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf) that I talked about [earlier](http://www.marcusoft.net/2009/03/sprint-planner-helper-session-20.html). It’s one thick chapter (196 pages) but it’s really good to introduce concepts and features of the [ASP.NET MVC](http://www.asp.net/mvc/) framework.
+I am going through the [free sample chapter](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf) that I talked about [earlier](https://www.marcusoft.net/2009/03/sprint-planner-helper-session-20.html). It’s one thick chapter (196 pages) but it’s really good to introduce concepts and features of the [ASP.NET MVC](http://www.asp.net/mvc/) framework.
 
 I love it! I cannot say anything else when after a few years of WebForms and me not understanding I am back. I actually get this – no more funky event-firing and endless questions about which event is fired first.
 

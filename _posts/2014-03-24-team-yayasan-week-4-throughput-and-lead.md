@@ -12,7 +12,7 @@ tags:
 modified_time: 2014-03-24T05:44:15.030Z
 thumbnail: /img/throughput_1.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2414901018966712482
-blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html
 ---
 
 The last week the blog post turned long. Sorry. This meant to just be short updates. Here's another one.
@@ -25,7 +25,7 @@ That's not looking good, right. I think I can explain it... and I think that I s
 
 A lot of the things that we are doing require third part input. Someone else needs to approve, read or work with the item before we can finish it. I've been working with a LOT of teams that have this situation. It's a drag...
 
-If you remember in the [second post](http://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html) we created a special section of our Doing column called Tunggu (waiting). This is how it looks most days:
+If you remember in the [second post](https://www.marcusoft.net/2014/03/team-yayasan-week-2-transparency.html) we created a special section of our Doing column called Tunggu (waiting). This is how it looks most days:
 
 ![Tunggu section](/img/yayasan_board_4.jpg)
 

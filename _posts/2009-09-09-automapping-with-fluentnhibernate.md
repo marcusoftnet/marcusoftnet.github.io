@@ -9,7 +9,7 @@ tags:
   - NHibernate
 modified_time: 2010-12-14T15:19:35.817Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5160606586149394728
-blogger_orig_url: http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html
 ---
 
 I came across [this post by Ayende](http://ayende.com/Blog/archive/2008/12/11/fluent-nhibernate.aspx) which perfectly captures my goal for achieving persistence ignorance:

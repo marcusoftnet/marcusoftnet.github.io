@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-03-12T06:46:57.470Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-725532187139496796
-blogger_orig_url: http://www.marcusoft.net/2007/03/easter-coming-up.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/easter-coming-up.html
 ---
 
 On my way to work today I noticed that the Easter was initiated in

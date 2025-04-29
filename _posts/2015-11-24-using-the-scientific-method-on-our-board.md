@@ -21,9 +21,9 @@ Way in the bottom of this post you'll [find an summary](/2015/11/using-the-scien
 
 <!-- excerpt-end -->
 
-The main setup for our team is not very special, we have a huge white board, on wheels that we meet in front of every morning. We like visualizations and metrics and half of the board is dedicated to a bunch of different diagrams and progress indicator. You can read about our ["Metrics Pirate Code" in another post](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html).
+The main setup for our team is not very special, we have a huge white board, on wheels that we meet in front of every morning. We like visualizations and metrics and half of the board is dedicated to a bunch of different diagrams and progress indicator. You can read about our ["Metrics Pirate Code" in another post](https://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html).
 
-The other part of the board is a pretty standard task/kanban/scrum board where our "hospital-wide improvements" are made. Somethings that [needs attention are "outsourced"](http://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html), because we want to keep our focus on the overarching, big processy things.
+The other part of the board is a pretty standard task/kanban/scrum board where our "hospital-wide improvements" are made. Somethings that [needs attention are "outsourced"](https://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html), because we want to keep our focus on the overarching, big processy things.
 
 The task-board simply lists 3 (not more at the time) tasks and our current efforts to improve them. From the beginning we only had these column per item:
 
@@ -58,7 +58,7 @@ At this point I happened to mention experiments and we tried something out. We c
 * What - What are we doing here, what is this thing? A short description
 * Why - why are we doing this. We need a good, compelling reason to do something, or we might have other things that are more important.
 * Hypothesis - here's where it get a little bit more interesting. By working on this thing we think that X will happen. We'll get back to the details around this soon.
-* Experiment - the tasks are now rephrased as experiments. This has a huge impact in how failure and learning is perceived. Among other things.  
+* Experiment - the tasks are now rephrased as experiments. This has a huge impact in how failure and learning is perceived. Among other things.
 * And an empty column for things like PIC or deadlines as we see fit.
 
 ## Hypothesis and experiments
@@ -159,7 +159,7 @@ Here's what it means:
 
 **Kenapa (Indonesian for Why)** - a short rationale for Why this is important. "We need to serve more patients per day to cover our operational costs", for example
 
-**Hypothesis** - What do we think will happen if we take this action? How can we measure that so that we can see our progress? Is there new measurements to be made (follow the [Metrics Pirates Code](http://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)).
+**Hypothesis** - What do we think will happen if we take this action? How can we measure that so that we can see our progress? Is there new measurements to be made (follow the [Metrics Pirates Code](https://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html)).
 Examples could be "Increase the number of operations per day will increase the total number of patients served" - this means that we will keep track on the total number of patients served as well as the number of operations. They should both go up.
 
 **Experiments** - What is the next little thing we can try to see if we are moving in the right direction? What would good look like on our metrics? How would bad look? How can we make that step smaller? We aim to do 2 week experiments before we evaluate and only do 1 or 2 experiments at the time.

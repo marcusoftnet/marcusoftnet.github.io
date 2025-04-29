@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-04-17T11:57:29.181Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-842899556383643024
-blogger_orig_url: http://www.marcusoft.net/2007/04/new-assignment.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/new-assignment.html
 ---
 
 Yesterday I started a new assignment. Still the insurance business

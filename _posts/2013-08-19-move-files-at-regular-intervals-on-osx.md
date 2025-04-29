@@ -9,7 +9,7 @@ tags:
 modified_time: 2013-08-19T13:05:55.135Z
 thumbnail: /img/Screen+Shot+2013-08-19+at+14.41.50+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7696849555794418675
-blogger_orig_url: http://www.marcusoft.net/2013/08/move-files-at-regular-intervals-on-osx.html
+blogger_orig_url: https://www.marcusoft.net/2013/08/move-files-at-regular-intervals-on-osx.html
 ---
 
 I've been starting to use [Automator](http://support.apple.com/kb/HT2488) for some tasks that I commonly do and it's actually quite capable although a bit convoluted and secretive.

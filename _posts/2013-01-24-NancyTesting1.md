@@ -11,7 +11,7 @@ tags:
   - Agile
 modified_time: 2014-06-21T00:09:55.461Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2536136940455319768
-blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting1.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/NancyTesting1.html
 ---
 
 ![Nancy Logo](http://nancyfx.org/images/logo.png)
@@ -24,11 +24,11 @@ The thing that really blew me away when I first saw it was the testing abilities
 
 I thought I'd devote a couple of posts to the testing abilities of Nancy; here's what I have planned:
 
-1. [Intro to testing with Nancy](http://www.marcusoft.net/2013/01/NancyTesting1.html) (this post)
-2. [The Configurable bootstrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html)
-3. [The Browser and Response objects](http://www.marcusoft.net/2013/01/NancyTesting3.html)
-4. [Hat and shoeless testing with Simple.Data](http://www.marcusoft.net/2013/02/NancyTesting4.html)
-5. [SpecFlow and Nancy](http://www.marcusoft.net/2013/02/NancyTesting5.html)
+1. [Intro to testing with Nancy](https://www.marcusoft.net/2013/01/NancyTesting1.html) (this post)
+2. [The Configurable bootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html)
+3. [The Browser and Response objects](https://www.marcusoft.net/2013/01/NancyTesting3.html)
+4. [Hat and shoeless testing with Simple.Data](https://www.marcusoft.net/2013/02/NancyTesting4.html)
+5. [SpecFlow and Nancy](https://www.marcusoft.net/2013/02/NancyTesting5.html)
 
 The underlying idea here is to get to know Nancy better, through tests. Join me if you want. The speed of the blog posts will be much dependent on how the book writing goes (Kanban In Action...). At the time of writing, I have the first two posts prepared, and the rest in my head.
 
@@ -36,7 +36,7 @@ The underlying idea here is to get to know Nancy better, through tests. Join me 
 
 Nancy is a web framework built from the ground up, which means that it has no dependencies on System.Web or any of the web-stuff in the .NET framework. Those parts have been notoriously hard to test (mocking the complete Request-object is a nightmare that still haunts many of us).
 
-Not only that - the creators of Nancy have themselves worked with testing as a main feature of the framework, probably even test-first. This has led the framework to be very testable from the outset. To connect back to my [post on constraints](http://www.marcusoft.net/2013/01/on-constraints.html): they constrained themselves to test everything, which made them create a very testable framework. Thank you, constraint!
+Not only that - the creators of Nancy have themselves worked with testing as a main feature of the framework, probably even test-first. This has led the framework to be very testable from the outset. To connect back to my [post on constraints](https://www.marcusoft.net/2013/01/on-constraints.html): they constrained themselves to test everything, which made them create a very testable framework. Thank you, constraint!
 
 There are two levels where this testability shines through to great effect:
 
@@ -59,7 +59,7 @@ Executing that request (with the Get-method in this case to perform a HTTP-GET) 
 If you were to test the same thing with an ASP.NET MVC application you are faced with two options:
 
 - Test the controller directly. This is nice since the controller is just a class. You can supply dependencies and control the way it's called to test what you want. But you get back a View-object. The templated view is not executed, so you don't know how the page is generated.
-- Which brings us to option number 2: test against the view. To do this you will have to fire up a [browser automation tool](http://www.marcusoft.net/2012/05/specflow-page-objects-and.html) that first needs to start. Then the application is "deployed" in your local IIS or Casini web server. When that is booted up the first call to your application is made, routed, the view generated and the HTML returned. In short - this takes a lot of time, and slows down both testing and the feedback loop.
+- Which brings us to option number 2: test against the view. To do this you will have to fire up a [browser automation tool](https://www.marcusoft.net/2012/05/specflow-page-objects-and.html) that first needs to start. Then the application is "deployed" in your local IIS or Casini web server. When that is booted up the first call to your application is made, routed, the view generated and the HTML returned. In short - this takes a lot of time, and slows down both testing and the feedback loop.
 
 ### Summing up Nancy testability
 

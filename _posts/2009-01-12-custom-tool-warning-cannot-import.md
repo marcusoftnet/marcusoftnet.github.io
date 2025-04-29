@@ -9,7 +9,7 @@ tags:
   - WCF
 modified_time: 2009-01-12T14:11:43.467Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1861622144976994737
-blogger_orig_url: http://www.marcusoft.net/2009/01/custom-tool-warning-cannot-import.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/custom-tool-warning-cannot-import.html
 ---
 
 I chased this bug for a while and got increasingly frustrated. Here’s what happened: I updated a WCF Service Reference and encountered the error (or actually a warning) in the Error List of Visual Studio. Additionally, the `Reference.vb` file was completely empty.

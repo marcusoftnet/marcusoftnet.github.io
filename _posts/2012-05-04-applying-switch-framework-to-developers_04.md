@@ -10,12 +10,12 @@ tags:
 modified_time: 2012-05-04T06:00:06.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7328654065310556224
 blogger_orig_url: >-
-  http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html
+  https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html
 ---
 
 
 This is the second part (<a
-href="http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
+href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
 target="_blank">read the first part</a>) of my trying to get inspiration
 from the
 <a href="http://www.heathbrothers.com/switch/" target="_blank">Switch

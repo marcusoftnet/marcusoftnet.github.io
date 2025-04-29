@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.184Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1393725672116175760
-blogger_orig_url: http://www.marcusoft.net/2009/10/dropbox-your-drive-in-cloud.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/dropbox-your-drive-in-cloud.html
 ---
 
 As part of my commitment to practicing what I preach, I've started transitioning more of my work into the cloud. After managing emails, contacts, and calendars online, it's time to move my files.

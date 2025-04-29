@@ -8,7 +8,7 @@ tags:
   - Scrum
 modified_time: 2008-05-16T13:46:21.916Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6581267679866109238
-blogger_orig_url: http://www.marcusoft.net/2008/05/sprint-demo-again.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/sprint-demo-again.html
 ---
 
 
@@ -27,7 +27,7 @@ charge of the Scrum board (we look in via web camera).
 
 OK - I am not that nervous for the demo itself but a bit nervous for how
 it will be received. [The last
-time](http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html)
+time](https://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html)
 was such a success that we have a lot to live up to.
 
 **\[UPDATE\]**

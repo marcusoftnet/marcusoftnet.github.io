@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2006-11-27T06:48:34.430Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3461087732195603473
-blogger_orig_url: http://www.marcusoft.net/2006/11/weekend-impressions.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/weekend-impressions.html
 ---
 
 The [silly

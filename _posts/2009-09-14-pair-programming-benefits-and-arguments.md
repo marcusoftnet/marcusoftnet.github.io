@@ -8,10 +8,10 @@ tags:
   - Agile
 modified_time: 2009-09-14T12:17:41.215Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2197221765880764913
-blogger_orig_url: http://www.marcusoft.net/2009/09/pair-programming-benefits-and-arguments.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/pair-programming-benefits-and-arguments.html
 ---
 
-As I [wrote earlier](http://www.marcusoft.net/2009/09/marcus-doing-new-stuff.html), I attended my first ever [Alt.Net un-conference](http://www.altdotnet.se/) this weekend. It was a rewarding experience, and meeting fellow developers in such an informal setting was fantastic. The [open spaces](http://en.wikipedia.org/wiki/Open_Space_Technology) were particularly valuable.
+As I [wrote earlier](https://www.marcusoft.net/2009/09/marcus-doing-new-stuff.html), I attended my first ever [Alt.Net un-conference](http://www.altdotnet.se/) this weekend. It was a rewarding experience, and meeting fellow developers in such an informal setting was fantastic. The [open spaces](http://en.wikipedia.org/wiki/Open_Space_Technology) were particularly valuable.
 
 One of the open spaces I participated in focused on [Pair Programming](http://en.wikipedia.org/wiki/Pair_programming). The discussion quickly evolved into how to persuade developers, management, and others that it’s a beneficial practice.
 
@@ -19,7 +19,7 @@ Here is a recap of some of the insightful points from that session:
 
 ### Good Ideas
 
-- **Switch the keyboard often:** One developer writes the test and another handles the implementation, or use a [Pomodoro](http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) timer for ten-minute intervals.
+- **Switch the keyboard often:** One developer writes the test and another handles the implementation, or use a [Pomodoro](https://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) timer for ten-minute intervals.
 - **Switch partners frequently:** For example, once a day.
 
 ### Arguments for the Benefits of Pair Programming

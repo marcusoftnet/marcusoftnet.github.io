@@ -9,13 +9,13 @@ tags:
   - Agile
 modified_time: 2013-11-12T20:04:32.841Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-328419199866986129
-blogger_orig_url: http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html
+blogger_orig_url: https://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html
 ---
 
 Often when I try to explain Lean and Agile there's a couple of things that I fail to communicate clearly. Quite shortly these things can be summed up with these two short answers:
 
-- [Yes - I'm talking about changing the way we work](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
-- [No - I'm not talking about working faster (this post)](http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html)
+- [Yes - I'm talking about changing the way we work](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
+- [No - I'm not talking about working faster (this post)](https://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html)
 
 ![Image](http://www.acs.psu.edu/drussell/Asterix/images/drum-row-1.jpg)
 From [http://www.acs.psu.edu/drussell/Asterix/](http://www.acs.psu.edu/drussell/Asterix/)
@@ -43,8 +43,8 @@ After really thinking long and hard about this I have come to realise that it re
 There's many reasons to strive to a faster flow, faster process but here are a few that I come back to:
 
 - with a shorter feedback loop **we will learn about our product faster.** This is the foundational thinking behind [continuous delivery](http://continuousdelivery.com/) and [lean startup](http://theleanstartup.com/); get things out there as fast as possible and learn from how it behaves, is received and how your users end up using the feature. We can, quite simply, validate our hypothesis about our product more frequently and hence get more frequent opportunities to make corrective actions.
-- with a faster flow **we will learn things faster about our process faster.** Remember the [last post](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)? Where I called agile methods problem finders? We want to find those improvement opportunities as fast as possible. The faster we get to know them the faster we can improve. A process with little work in process, and hence a fast flow of the work, will reveal these opportunities faster.  
-- with a **faster turnaround of features**, we will build trust with our stakeholders. If we can put a little something into production every day, I guarantee that you will see less and less demands for estimates, plans and [(the wrong kind of) commitments](http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html).
+- with a faster flow **we will learn things faster about our process faster.** Remember the [last post](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)? Where I called agile methods problem finders? We want to find those improvement opportunities as fast as possible. The faster we get to know them the faster we can improve. A process with little work in process, and hence a fast flow of the work, will reveal these opportunities faster.  
+- with a **faster turnaround of features**, we will build trust with our stakeholders. If we can put a little something into production every day, I guarantee that you will see less and less demands for estimates, plans and [(the wrong kind of) commitments](https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html).
 - completing (smaller) stuff often is more fun and more engaging. You, and your team, will feel more in control over your destiny and that what you're doing is important.
 
 ### As fast as possible - but not faster

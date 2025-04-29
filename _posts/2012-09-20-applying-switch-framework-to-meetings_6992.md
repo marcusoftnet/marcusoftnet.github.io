@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-496174853263675189
 
 This is the final post in my series on the problem that a lot of people sees meetings as not being real work. I think this has to do with the meetings being bad and badly conducted. So we need to improve on the quality of the meetings to make them more interesting feel worthwhile.
 
-In these blog posts ([I](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) and [II](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html)) I have applied [the Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to the problem on how to make meetings better and more interesting to attend.
+In these blog posts ([I](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) and [II](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html)) I have applied [the Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to the problem on how to make meetings better and more interesting to attend.
 
 In the previous two posts we've talked about reasoning with the Rider (our logical side) and tried to get the Elephant (our lazy, subconsious part) over to our side. In this post we're trying to smooth the path that they are walking down to make the change journey even easier to take.
 
@@ -46,7 +46,7 @@ This can probably be enforced technically if you want too.
 
 A habit is something we do without thinking, it doesn't take any effort from our Rider. It just happens this way. A great example of this is an agile team that stop in their tracks and fix a broken build as the build agent informs them too.
 
-Checklists are also good for this and I've talked about them [already](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) in this series, but it could be as simple as posting a checklist in each meeting. Or putting an timer in each room that can be winded up to the right amount of time for the meeting, helping us to keep our time box.
+Checklists are also good for this and I've talked about them [already](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) in this series, but it could be as simple as posting a checklist in each meeting. Or putting an timer in each room that can be winded up to the right amount of time for the meeting, helping us to keep our time box.
 
 Another great tip here is to stand up for short meetings. Yes - I said; stand up for the stand-up. There's a reason to do so. We don't want it long. Standing up will help it to be so. Still I see a lot of teams sitting down for their standup ... and the meetings starts to linger of course.
 
@@ -71,7 +71,7 @@ Here you want to create forums and meeting places to share tips and tools for co
 
 Maybe even record some meetings for inspiration. Or track the number of meetings / months with a ROTI over 3.
 
-This heading touches on the Grow your people-heading in [post](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) - we want to create a culture of us being great at meetings. Help this culture to spread.
+This heading touches on the Grow your people-heading in [post](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) - we want to create a culture of us being great at meetings. Help this culture to spread.
 
 ### Conclusion
 

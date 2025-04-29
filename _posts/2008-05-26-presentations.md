@@ -10,7 +10,7 @@ tags:
   - Euphonium
 modified_time: 2008-05-26T05:59:43.492Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9146102879703022399
-blogger_orig_url: http://www.marcusoft.net/2008/05/presentations.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/presentations.html
 ---
 
 Today is kind of a special day at work. After the normal work day we have invited my customer to [Avega](http://www.avega.se/) for an evening of some, hopefully interesting and fun presentation.

@@ -10,18 +10,18 @@ tags:
   - SpecFlow
 modified_time: 2012-05-23T09:09:35.847Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4713664336685455661
-blogger_orig_url: http://www.marcusoft.net/2012/05/find-controla-way-stabilize-ui.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/find-controla-way-stabilize-ui.html
 ---
 
-I have been diving deep into automating web pages for my current client. I have a love – hate relationship with this. It’s quite cool but I would also recommend against using it. I [wrote about why just a post](http://www.marcusoft.net/2012/05/specflow-page-objects-and.html) or two ago so I won’t repeat it here.
+I have been diving deep into automating web pages for my current client. I have a love – hate relationship with this. It’s quite cool but I would also recommend against using it. I [wrote about why just a post](https://www.marcusoft.net/2012/05/specflow-page-objects-and.html) or two ago so I won’t repeat it here.
 
-In this post I will instead acknowledge the fact that we are going to automate against the web page and do our [best to handle the brittleness of such tests](http://www.marcusoft.net/2012/05/specflow-page-objects-and.html). One challenge that you are facing when writing code to automate elements of a page is to actually get hold of the elements themselves. This is done in different ways with different automation frameworks, but typically you can search by Id (or other attributes on the elements), order in the page, and position.
+In this post I will instead acknowledge the fact that we are going to automate against the web page and do our [best to handle the brittleness of such tests](https://www.marcusoft.net/2012/05/specflow-page-objects-and.html). One challenge that you are facing when writing code to automate elements of a page is to actually get hold of the elements themselves. This is done in different ways with different automation frameworks, but typically you can search by Id (or other attributes on the elements), order in the page, and position.
 
 In this post, I will examine those different approaches and suggest one way that I’ve found very useful to further handle the brittleness of a webpage.
 
 #### What was the problem now again?
 
-The problem with testing against a web page is that those tests tend to be brittle. This has to do with the web page (or other GUI for that matter) being one of the parts of a system that changes a lot. There are ways to [cushion the blow from that a bit](http://www.marcusoft.net/2012/05/specflow-page-objects-and.html), but it’s still a reality that we have to live with.
+The problem with testing against a web page is that those tests tend to be brittle. This has to do with the web page (or other GUI for that matter) being one of the parts of a system that changes a lot. There are ways to [cushion the blow from that a bit](https://www.marcusoft.net/2012/05/specflow-page-objects-and.html), but it’s still a reality that we have to live with.
 
 In this post, when I write automation code I mean the code that actually automates the browser, however well encapsulated and well-structured it might be. Somewhere you still have to hit the web page and find the control.
 
@@ -45,11 +45,11 @@ One could argue, at least with certain web frameworks, that even the ID or Name 
 
 #### Create an ID for you and your automation needs
 
-A couple of years ago, I did some [automation against WPF](http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html) and found an attribute, found on every WPF control, that I never saw the use for before: [the AutomationID property](http://msdn.microsoft.com/en-us/library/aa349646.aspx). That property solely exists for you to set an ID that you can use when automating the application. It’s separate from the ID property of the control and can be thought of as an alternative key to the control.
+A couple of years ago, I did some [automation against WPF](https://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html) and found an attribute, found on every WPF control, that I never saw the use for before: [the AutomationID property](http://msdn.microsoft.com/en-us/library/aa349646.aspx). That property solely exists for you to set an ID that you can use when automating the application. It’s separate from the ID property of the control and can be thought of as an alternative key to the control.
 
 That would be something, right? Fortunately, we can create one of our own!
 
-The main browsers simply ignore attributes that they don’t understand, but you can still find it with CSS Selectors. So that’s great – we can make up an attribute for UI Automation. But a validator tool might be upset. Luckily in the HTML5 specification, there is help in the [form of the `data-* attributes`](http://dev.w3.org/html5/spec/global-attributes.html#embedding-custom-non-visible-data-with-the-data-attributes). 
+The main browsers simply ignore attributes that they don’t understand, but you can still find it with CSS Selectors. So that’s great – we can make up an attribute for UI Automation. But a validator tool might be upset. Luckily in the HTML5 specification, there is help in the [form of the `data-* attributes`](http://dev.w3.org/html5/spec/global-attributes.html#embedding-custom-non-visible-data-with-the-data-attributes).
 
 I do NOT claim to be an expert here, but basically, you can make up any attribute you like, prefix it with “data-” and it will pass even validation in HTML5.
 

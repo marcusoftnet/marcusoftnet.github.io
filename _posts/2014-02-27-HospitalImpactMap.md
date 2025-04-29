@@ -14,14 +14,14 @@ tags:
 modified_time: 2014-06-02T08:56:52.538Z
 thumbnail: /img/victory.gif
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8310460295412389370
-blogger_orig_url: http://www.marcusoft.net/2014/02/HospitalImpactMap.html
+blogger_orig_url: https://www.marcusoft.net/2014/02/HospitalImpactMap.html
 ---
 
-I have a [new job](http://se.linkedin.com/in/marcushammarberg). In a [new country](http://www.marcusoft.net/2013/06/moving-to-indonesia.html). In a [new domain](http://en.wikipedia.org/wiki/Health_in_Indonesia).
+I have a [new job](http://se.linkedin.com/in/marcushammarberg). In a [new country](https://www.marcusoft.net/2013/06/moving-to-indonesia.html). In a [new domain](http://en.wikipedia.org/wiki/Health_in_Indonesia).
 
 But it's still me, luckily. And I bring the knowledge and tools that I know and have used from other domains. I have often thought that the IT industry was special. that projects in our environment were much more complicated than in any other environment. That we had special communication problems that only occurred here.
 
-I'm now starting to change my mind. Of course, I cannot talk [TDD](http://www.marcusoft.net/search/label/TDD) and [Specification by example](http://www.marcusoft.net/search/label/SpecificationByExample) with these people, but there are many universal things that will help you: focus on lead times and doing fewer things at the same time, [get people together in the same room](http://www.marcusoft.net/2012/10/agilechangetop52.html), visualize your problem to get a better and common understanding of it. Things like that.
+I'm now starting to change my mind. Of course, I cannot talk [TDD](https://www.marcusoft.net/search/label/TDD) and [Specification by example](https://www.marcusoft.net/search/label/SpecificationByExample) with these people, but there are many universal things that will help you: focus on lead times and doing fewer things at the same time, [get people together in the same room](https://www.marcusoft.net/2012/10/agilechangetop52.html), visualize your problem to get a better and common understanding of it. Things like that.
 
 In this post I'll describe how we used three (Root cause analysis, Impact mapping, and Limit WIP) of the tools that I've picked up during the latest years to help a struggling hospital director to get a solid understanding and a plan for how to proceed.
 
@@ -98,7 +98,7 @@ Yeah, it was a bit messy. And I've had this experience quite often when I create
 
 And with that, we headed right into selecting a couple of actions. The young doctor was super happy. She would try all of them (35+) and start them tomorrow. The Lean-guy inside me cringed. Violently. I think it showed.
 
-I had to do yet another exercise with them, a simulation to teach them a little bit about why you shouldn't do too many things at once. We ran the "Learn to count" exercise that I've [blogged about before](http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html) (and written about in this [free sample chapter from an excellent book](http://manning.com/hammarberg/KanbaninAction_CH13.pdf)). I like this exercise since you can run it with a single person and it's very to-the-point and gets the message across.
+I had to do yet another exercise with them, a simulation to teach them a little bit about why you shouldn't do too many things at once. We ran the "Learn to count" exercise that I've [blogged about before](https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html) (and written about in this [free sample chapter from an excellent book](http://manning.com/hammarberg/KanbaninAction_CH13.pdf)). I like this exercise since you can run it with a single person and it's very to-the-point and gets the message across.
 
 The doctor picked it up fully. After that, we did a [Dot vote](http://martinfowler.com/bliki/DotVoting.html) session to get the top 3 items to start investigating. We wanted "bang for the buck" - the biggest impact with the least effort. They got that too. But still, as we went around the board and voted they were asking me for more dots... :P
 

@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2013-06-10T13:25:16.325Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5361804377589118445
-blogger_orig_url: http://www.marcusoft.net/2013/06/whoIsNotTeams.html
+blogger_orig_url: https://www.marcusoft.net/2013/06/whoIsNotTeams.html
 ---
 
 I was asked to help a client facilitate an [Impact Mapping](http://impactmapping.org/) workshop. An initial map had already been created, so we discussed it to understand where the conversation would lead.

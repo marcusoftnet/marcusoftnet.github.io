@@ -8,13 +8,12 @@ tags:
   - WCF
 modified_time: 2008-08-14T06:33:51.879Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6621610237746349724
-blogger_orig_url: http://www.marcusoft.net/2008/08/validating-wcf-messages-with-wsdl.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/validating-wcf-messages-with-wsdl.html
 ---
 
 
 When you first think about it, it's quite strange that no
-validation, takes place out-of-the-box ,against the <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">WSDL that
+validation, takes place out-of-the-box ,against the WSDL that
 describes a service (asmx or [WCF](http://en.wikipedia.org/wiki/Windows_Communication_Foundation)).
 Then you (read: I) forget it and all of a sudden you don't think that
 much about it; the generated proxy or services code doesn't contain

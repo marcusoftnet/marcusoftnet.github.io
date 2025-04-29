@@ -10,10 +10,10 @@ tags:
 modified_time: 2013-03-12T08:00:05.592Z
 thumbnail: /img/Screen+Shot+2013-03-11+at+15.46.00+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2889868856905036157
-blogger_orig_url: http://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
+blogger_orig_url: https://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
 ---
 
-I'm working for [Tradera](http://www.tradera.com/) right now and as I've [blogged about before](http://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html) we have been splitting a big (40 people) team into smaller ones. Getting this to continue to work and the teams to be effective has been my challenging and very interesting task since then.
+I'm working for [Tradera](http://www.tradera.com/) right now and as I've [blogged about before](https://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html) we have been splitting a big (40 people) team into smaller ones. Getting this to continue to work and the teams to be effective has been my challenging and very interesting task since then.
 
 I can tell you that without great people that care - this would have been a lot harder. With people that care, you can even allow yourselves to try something, fail, and change. That's great news for someone like me - I fail a lot. And take great pride in doing so, as long as I learn from it.
 
@@ -23,7 +23,7 @@ In this post, I thought I'll describe a particular part of that process that I h
 
 It's really quite simple really; you have several teams and you want some sort of synchronization between them, share information, or just know what the others are up to. In our case, we even had one big team before, where everybody met every morning. The feeling of us knowing exactly what was going on in every part of the system was very clear and present. But did we really know everything?
 
-Often you create a board or someplace to gather information from all teams. I personally think that it's a very good thing to visualize your work there too (as I've [blogged about before, from another project](http://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html)) but that also forms questions about levels of details and double bookkeeping.
+Often you create a board or someplace to gather information from all teams. I personally think that it's a very good thing to visualize your work there too (as I've [blogged about before, from another project](https://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html)) but that also forms questions about levels of details and double bookkeeping.
 
 I mean; to keep the big board interesting, we want it to show the right level of details but that's also reflected on each team board, which in turn means that you need to have each work item represented twice. And keep them synchronized.
 
@@ -50,7 +50,7 @@ This is our Daily Sync board as it looks today:
 For us focusing the Daily Sync means that we focus on three things every morning:
 
 - What is being released during the day - we have created a board with columns for "To Release", "Releasing", "Follow up", and finally "Done". The "Follow up" column is used for things that we need to keep track of after we have released it.
-- Is there anything that's come up that falls ["between the chairs"](http://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html). I've blogged about that in length before so I won't bore you with that here.  
+- Is there anything that's come up that falls ["between the chairs"](https://www.marcusoft.net/2013/03/between-chairs-management-and-thoughts.html). I've blogged about that in length before so I won't bore you with that here.  
 - Any other important information that everybody needs to know? Here we can talk about a lot of different things; who is on "emergency call", which team is "emergency backup", there's cake at 15 today - anything you like. Most things that we talk about and decide are somehow visualized on the board. You can see an example of this on the board where we show important links, dates, and the "Between the chairs"-square.
 
 We're not:

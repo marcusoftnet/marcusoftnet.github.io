@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2008-04-29T06:18:08.316Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2628051183812318304
-blogger_orig_url: http://www.marcusoft.net/2008/04/how-to-fail-tfs-build-on-test-failing.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/how-to-fail-tfs-build-on-test-failing.html
 ---
 
 
@@ -27,7 +27,7 @@ complete build.
 
 I extended his code to use the test-status-flag on the tasks that follow
 the test, i.e. the publish task. This task deploys the executables
-to my <span id="SPELLING_ERROR_3" class="blsp-spelling-corrected">test
+to my ="blsp-spelling-corrected">test
 server, update the documentation etc.
 
 So now I've got my desired result which is that failing test leads to

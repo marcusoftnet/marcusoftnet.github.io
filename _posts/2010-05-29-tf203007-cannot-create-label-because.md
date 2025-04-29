@@ -9,7 +9,7 @@ tags:
   - TFS
 modified_time: 2010-05-28T18:38:53.799Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7602326061290665776
-blogger_orig_url: http://www.marcusoft.net/2010/05/tf203007-cannot-create-label-because.html
+blogger_orig_url: https://www.marcusoft.net/2010/05/tf203007-cannot-create-label-because.html
 ---
 
 

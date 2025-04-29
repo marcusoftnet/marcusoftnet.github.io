@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-03-09T18:36:54.699Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5354759544542362529
-blogger_orig_url: http://www.marcusoft.net/2008/03/abbe-growing-and-growing.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/abbe-growing-and-growing.html
 ---
 
 Albert (or Abbe for short) is growing and in equal parts impressing and driving us mad.

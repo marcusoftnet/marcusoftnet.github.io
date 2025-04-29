@@ -9,7 +9,7 @@ tags:
   - SpecFlow
 modified_time: 2011-12-11T20:51:57.425Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8208460981540200585
-blogger_orig_url: http://www.marcusoft.net/2011/12/creating-tools-only-nuget-package.html
+blogger_orig_url: https://www.marcusoft.net/2011/12/creating-tools-only-nuget-package.html
 ---
 
 I have started to help out in a new OSS project. The last one was [SpecFlow](http://www.specflow.org) and now it’s [Pickles](https://github.com/x97mdr/pickles). Pickles is a tool that takes .feature-files from SpecFlow or Cucumber and turns it into a nice living documentation. It’s a great addition to SpecFlow.
@@ -78,10 +78,10 @@ Nothing strange here, I simply point to the .nuspec file and pass a parameter as
 
 ### Trying out your package locally
 
-A really nice feature of NuGet is that you can very easily set up a local NuGet repository. I’ve [blogged about that before](http://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html) and it’s done in just a few minutes. So to try my package out I simply copied it into my local repository (just a folder on my computer) and then went “Install-Package Pickles” in the Package Manager Console in Visual Studio. I even got intellisense for the package name.
+A really nice feature of NuGet is that you can very easily set up a local NuGet repository. I’ve [blogged about that before](https://www.marcusoft.net/2011/09/creating-local-nuget-repository-with.html) and it’s done in just a few minutes. So to try my package out I simply copied it into my local repository (just a folder on my computer) and then went “Install-Package Pickles” in the Package Manager Console in Visual Studio. I even got intellisense for the package name.
 
 ### Conclusion and lessons learned
 
-I had some strange problems with the references to dependencies for my package for a while. But when I cleaned my files up in order to write a [StackOverflow](http://stackoverflow.com) question about it… the problems went away. Typical! I must have messed up. But I learned one very important thing when trying your packages out; Increment the version number for each new version! Or start a new project to import your package into. I suspect that the cleanup didn’t always work as expected. All in all, this is a very nice way to deploy a tool, I think. It has taken me quite some time to put together but 70% of that has been me going back and forth trying to figure out why it didn’t work. Most likely that had to do with me using the same version number all the time. 
+I had some strange problems with the references to dependencies for my package for a while. But when I cleaned my files up in order to write a [StackOverflow](http://stackoverflow.com) question about it… the problems went away. Typical! I must have messed up. But I learned one very important thing when trying your packages out; Increment the version number for each new version! Or start a new project to import your package into. I suspect that the cleanup didn’t always work as expected. All in all, this is a very nice way to deploy a tool, I think. It has taken me quite some time to put together but 70% of that has been me going back and forth trying to figure out why it didn’t work. Most likely that had to do with me using the same version number all the time.
 
 The Pickles NuGet packages will be available from NuGet.org soon. Very soon.

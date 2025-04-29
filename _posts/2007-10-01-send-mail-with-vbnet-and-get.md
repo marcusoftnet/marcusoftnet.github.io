@@ -7,7 +7,7 @@ tags:
   - VB.NET
 modified_time: 2007-10-02T07:40:30.677Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8792127585828094825
-blogger_orig_url: http://www.marcusoft.net/2007/10/send-mail-with-vbnet-and-get.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/send-mail-with-vbnet-and-get.html
 ---
 
 This has been a hard case to crack for quite sometime now... And it's

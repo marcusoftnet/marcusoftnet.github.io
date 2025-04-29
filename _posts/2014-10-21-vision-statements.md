@@ -15,7 +15,7 @@ tags:
 modified_time: 2014-10-21
 thumbnail: /img/kanbanInAction.improvement.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4129921012150118099
-blogger_orig_url: http://www.marcusoft.net/2014/10/vision-statements.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/vision-statements.html
 ---
 
 ![Kanban In Action](/img/kanbanInAction.improvement.jpg)
@@ -65,7 +65,7 @@ This is funny (or well...) because it shows that we often don't take the reality
 
 The last part, business plans, is just an example, a suggestion in my mind. Here one could benefit greatly from the thinking behind [rolling wave planning](http://leansoftwareengineering.com/2007/11/14/planning-a-month-or-less-ahead-is-not-enough/); for things that are close in the future (next week) we have more details planned, for things that are further in the future we leave details out.
 
-Remember that you hold the dial for how many details you put in there. [And hence your disappointments...](http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html)
+Remember that you hold the dial for how many details you put in there. [And hence your disappointments...](https://www.marcusoft.net/2014/06/controlling-disappointment-dial.html)
 
 ### You were speaking about a problem?
 

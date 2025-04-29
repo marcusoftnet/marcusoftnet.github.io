@@ -8,12 +8,11 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:20:33.311Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2690269119710637624
-blogger_orig_url: http://www.marcusoft.net/2008/04/debugging-wcf-service-service-attribute.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/debugging-wcf-service-service-attribute.html
 ---
 
 
-We've got the "the Service attribute value in the <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">ServiceHost
+We've got the "the Service attribute value in the ServiceHost
 directive could not be found" error message when we renamed (and moved)
 and .svc-file. There are not a very good
 support for that in Visual Studio 2008.

@@ -9,7 +9,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2011-11-09T20:49:22.578Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3775314391784966064
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-4-afternoon.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-4-afternoon.html
 ---
 
 I’m still feeling a bit exhausted from Dan North's previous talk, but now it’s time for some more down-to-earth coding topics.
@@ -45,6 +45,6 @@ Some key points from the workshop:
   - Allowing questions and additional example suggestions
   - Discussing until there's confidence that enough examples are provided to begin work
 
-This approach fosters shared domain knowledge and evolves the ubiquitous language. 
+This approach fosters shared domain knowledge and evolves the ubiquitous language.
 
 Overall, the workshop was fantastic! Thanks, [Gojko](http://gojko.net/about/), for the valuable insights.

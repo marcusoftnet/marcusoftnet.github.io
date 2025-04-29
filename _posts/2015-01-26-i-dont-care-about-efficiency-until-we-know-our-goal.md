@@ -10,11 +10,11 @@ tags:
  - Things I say often
 ---
 
-I've talked more about [effectiveness vs efficiency](http://www.marcusoft.net/2014/10/effective-revisted.html) than you all care about. The reason for this fascination might be that the word is mixed up in Swedish I guess; there's only one word for these both concepts. Boooh... Swedish.
+I've talked more about [effectiveness vs efficiency](https://www.marcusoft.net/2014/10/effective-revisted.html) than you all care about. The reason for this fascination might be that the word is mixed up in Swedish I guess; there's only one word for these both concepts. Boooh... Swedish.
 
 Because the difference is paramount.
 
-In the excellent book [the Goal](http://www.marcusoft.net/2014/12/what-is-the-goal.html) Dr Goldratt puts it like this:
+In the excellent book [the Goal](https://www.marcusoft.net/2014/12/what-is-the-goal.html) Dr Goldratt puts it like this:
 
 <blockquote>Productivity is meaningless unless you know what your goal is</blockquote>
 

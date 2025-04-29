@@ -9,7 +9,7 @@ tags:
   - NHibernate
 modified_time: 2010-12-14T15:19:35.812Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8565856852452716878
-blogger_orig_url: http://www.marcusoft.net/2010/02/urnnhibernate-mapping-22-has-invalid.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/urnnhibernate-mapping-22-has-invalid.html
 ---
 
 

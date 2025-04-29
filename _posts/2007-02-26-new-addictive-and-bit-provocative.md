@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2007-02-26T09:13:36.357Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8311985648935934221
-blogger_orig_url: http://www.marcusoft.net/2007/02/new-addictive-and-bit-provocative.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/new-addictive-and-bit-provocative.html
 ---
 
 

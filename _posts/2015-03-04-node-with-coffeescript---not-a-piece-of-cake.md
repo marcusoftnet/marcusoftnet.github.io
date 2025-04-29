@@ -27,7 +27,7 @@ Well... there's quite a lot of setup and idiosyncrasies that you need to be awar
 
 ## Initialize project and more
 
-Initalization of the project is straight forward for any Node developer, especially if you [rely](http://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](http://www.marcusoft.net/2014/02/mnb-packagejson.html).
+Initalization of the project is straight forward for any Node developer, especially if you [rely](https://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](https://www.marcusoft.net/2014/02/mnb-packagejson.html).
 
 Start by doing:
 
@@ -253,4 +253,4 @@ I'm by no means an expert. Consider this an experience report from me, an averag
 And please tell me if there are better ways.
 
 **UPDATE**
-There are many! [Check out my follow up post](http://www.marcusoft.net/2015/03/coffeescript-what-ive-should-have-done.html)
+There are many! [Check out my follow up post](https://www.marcusoft.net/2015/03/coffeescript-what-ive-should-have-done.html)

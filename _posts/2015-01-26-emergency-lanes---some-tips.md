@@ -66,7 +66,7 @@ The idea is to make us think a little bit harder before jumping into calling it 
 ## Obligatory retrospective
 A very useful and reasonable practice is to always hold a retrospective after an emergency. I've even seen that as a separate step for emergency items.
 
-First of all; we should strive to treat emergencies as anomalies. They should not happen. So if they do we still want to know [why](http://www.marcusoft.net/2015/01/things-i-say-often-why.html) it happened and see what we can do to prevent it happening again.
+First of all; we should strive to treat emergencies as anomalies. They should not happen. So if they do we still want to know [why](https://www.marcusoft.net/2015/01/things-i-say-often-why.html) it happened and see what we can do to prevent it happening again.
 
 Also I've seen this act as something that make us think about if it is an emergency or not. "If you put it in here as an emergency... we will call you to an retrospective when it's done. You have to come - such are the rules of emergency items, you know."
 

@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2013-10-17T11:25:02.272Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4899659258879319994
-blogger_orig_url: http://www.marcusoft.net/2013/10/specification-by-example-is-about.html
+blogger_orig_url: https://www.marcusoft.net/2013/10/specification-by-example-is-about.html
 ---
 
 Over and over again I've seen the main gain from using [specification by example](http://specificationbyexample.com/) emerge in the conversations you have around the specifications. I've even been known to tell people to just make sure to do the specifications on a whiteboard, take a photo of it and then don't use anymore of the practices. Just doing that will help an awful lot - I promise.
@@ -88,7 +88,7 @@ If a new feature updates any of the main flows they, of course, go through the t
 
 #### Don't automate against the UI if you don't have to
 
-UI automation is super cool and I still get a buzz from seeing my scripts clicking around in my application. But UI automation is inherently slow and brittle. You don't have to use it to verify your system. Maybe you can just verify this feature using your domain, or running your system but in a controlled environment, with mocked dependencies (see my [post on doing](http://www.marcusoft.net/2013/02/NancyTesting5.html) this with [NancyFx](http://nancyfx.org/), or if you can stand it; [watch me presenting this](http://skillsmatter.com/podcast/agile-testing/cuke-envy-a-dot-net-programmers-attempt-to-catch-up) instead).
+UI automation is super cool and I still get a buzz from seeing my scripts clicking around in my application. But UI automation is inherently slow and brittle. You don't have to use it to verify your system. Maybe you can just verify this feature using your domain, or running your system but in a controlled environment, with mocked dependencies (see my [post on doing](https://www.marcusoft.net/2013/02/NancyTesting5.html) this with [NancyFx](http://nancyfx.org/), or if you can stand it; [watch me presenting this](http://skillsmatter.com/podcast/agile-testing/cuke-envy-a-dot-net-programmers-attempt-to-catch-up) instead).
 
 Doing this will not only make your executable specifications run faster (which in turn assures that they are run... often) but they will be more resilient to changes in your application. The UI is the part of the application that changes the most, in my experience. UI automation means writing code to run the application. That means tying your automation code directly to the UI, in some way. Change the UI automatically means changing the UI.
 

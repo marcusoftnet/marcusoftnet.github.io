@@ -9,7 +9,7 @@ tags:
  - Lean
 ---
 
-The other week I saw the most amazing transformation of a person I've seen in a few years. [The number one spot is taken by Ibu Elsye](http://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html).
+The other week I saw the most amazing transformation of a person I've seen in a few years. [The number one spot is taken by Ibu Elsye](https://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html).
 
 As many of the other times I've seen changes like these I realize that the transformation, as well as the state before and after, are solely (not largely, but solely) created by the system we create for people.
 
@@ -67,6 +67,6 @@ There's of course many things at play here and I take almost no credit for the c
 * We visualized their work
 * We held daily synchronization meeting in the team, that helped them see their work progress (or not) frequently. Also this gave the opportunity for the team to talk, as a team, about how to finish stuff as a team.
 
-But, just as with [Ibu Elsye]((<http://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html>), the big moment here was to see amazing people emerge out of a system that have held them down for a long, long time.
+But, just as with [Ibu Elsye]((<https://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html>), the big moment here was to see amazing people emerge out of a system that have held them down for a long, long time.
 
 And it gave me another opportunity to think again about the environments and context that I'm creating in the future; how can I help to bring out the best of people and not hold them back?

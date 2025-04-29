@@ -8,7 +8,7 @@ tags:
   - ContinuousDelivery
 modified_time: 2012-11-02T10:37:35.910Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2349708152375787890
-blogger_orig_url: http://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html
+blogger_orig_url: https://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html
 ---
 
 Sure enough... There's an abbreviation for [Continuous Delivery. It's CD](http://en.wikipedia.org/wiki/Continuous_delivery). I think this means that it's important :)

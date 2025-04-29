@@ -8,7 +8,7 @@ tags:
   - Fun
 modified_time: 2008-08-22T07:27:20.060Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2960134539198474093
-blogger_orig_url: http://www.marcusoft.net/2008/08/in-control-iii-trombonist.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/in-control-iii-trombonist.html
 ---
 
 

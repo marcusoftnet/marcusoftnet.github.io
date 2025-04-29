@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2007-08-28T06:33:21.297Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1975302922210298912
-blogger_orig_url: http://www.marcusoft.net/2007/08/morning-devotional-by-friend-of-mine.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/morning-devotional-by-friend-of-mine.html
 ---
 
 This week a friend of mine, Miriam Kjellgren, is featured on a radio

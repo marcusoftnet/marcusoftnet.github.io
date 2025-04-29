@@ -9,7 +9,7 @@ tags:
   - C#
 modified_time: 2008-04-09T11:35:18.428Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-293035297188284140
-blogger_orig_url: http://www.marcusoft.net/2008/04/transactions-in-stored-procedures-with.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/transactions-in-stored-procedures-with.html
 ---
 
 Yesterday I got a question from a collegue who had run into trouble

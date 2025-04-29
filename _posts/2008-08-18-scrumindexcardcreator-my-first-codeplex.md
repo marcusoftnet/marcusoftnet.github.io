@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8218660768324070029
-blogger_orig_url: http://www.marcusoft.net/2008/08/scrumindexcardcreator-my-first-codeplex.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/scrumindexcardcreator-my-first-codeplex.html
 ---
 
 
@@ -24,5 +24,5 @@ here <http://www.codeplex.com/ScrumIndexCard>.
 
 So... this [Scrum Index Card
 Creator](http://www.codeplex.com/ScrumIndexCard) is the first official
-release from [Marcusoft](http://www.marcusoft.net/).
+release from [Marcusoft](https://www.marcusoft.net/).
 I wonder where is might end...

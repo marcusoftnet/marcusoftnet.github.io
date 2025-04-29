@@ -9,14 +9,14 @@ tags:
   - Agile
 modified_time: 2011-03-07T12:35:53.078Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1461423135737723573
-blogger_orig_url: http://www.marcusoft.net/2011/02/specification-by-example-with.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/specification-by-example-with.html
 ---
 
 I have been talking about [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) or specification by example almost every day for a year and a half now. I still love the idea—executable specifications that everyone concerned can read, so you can talk about the behavior of the system before a single line of code is written. Yeah, you see, as soon as I start to write about it, it’s hard to stop.
 
 Most people (or roles rather) react positively to this idea; developers love the possibility to get a detailed specification to start from, testers see great promises in automating the tests, and requirements people love the traceability features and the level of detail that you get before you start.
 
-It’s the workflow or process that is the “problem.” How do we organize the work around this? Who writes those features? Where are they updated? I have [blogged about](http://www.marcusoft.net/2010/08/story-on.html) this [several](http://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html) times before, but as I learn, I gain more insights into how this could be done.
+It’s the workflow or process that is the “problem.” How do we organize the work around this? Who writes those features? Where are they updated? I have [blogged about](https://www.marcusoft.net/2010/08/story-on.html) this [several](https://www.marcusoft.net/2011/01/specification-by-example-with-specflow.html) times before, but as I learn, I gain more insights into how this could be done.
 
 This post examines a new tool to support the early stages of the lifetime of a user story with scenarios—the foundation in a specification by example process. The tool is called [SpecLog](http://speclog.org/) from [TechTalk](http://www.techtalk.at/) (as [SpecFlow](http://www.specflow.org) is). It looks promising—very promising indeed.
 

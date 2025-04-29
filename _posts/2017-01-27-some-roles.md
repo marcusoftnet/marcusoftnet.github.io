@@ -11,7 +11,7 @@ tags:
 
 The other day I heard someone distinguish between a few roles that I take on from time to time. I've never made the differentiations between those roles clear to myself, and as a consequence, I end up doing them all at the same time in my consulting.
 
-This can sometimes be confusing for me and my clients, and it makes me also ineffective in the role I'm trying - or is expected to play. I actually wrote about this in a [post a few years ago](http://www.marcusoft.net/2015/09/what-can-you-do-for-us-then.html) - without really knowing what kind of problem I was addressing.
+This can sometimes be confusing for me and my clients, and it makes me also ineffective in the role I'm trying - or is expected to play. I actually wrote about this in a [post a few years ago](https://www.marcusoft.net/2015/09/what-can-you-do-for-us-then.html) - without really knowing what kind of problem I was addressing.
 
 In this post, I want to share a few thoughts on these different roles and hopefully shed some light on their distinctions.
 

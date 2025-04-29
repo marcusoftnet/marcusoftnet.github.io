@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-11T21:20:46.906Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3916968531467618756
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-day-1.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-day-1.html
 ---
 
 I started off very pure and true to the noble principles of TDD and Extreme OOP. Actually, I did decide on a few naming conventions first: the name of the product is Sprint Planner Helper and it will reside in the namespace `Marcusoft.SprintPlannerHelper`. I also created four projects like this (idea stolen from [ASP.NET MVC Storefront](http://www.asp.net/learn/mvc-videos/#MVCStorefrontStarterKit)):

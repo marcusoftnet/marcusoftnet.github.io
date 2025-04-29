@@ -8,7 +8,7 @@ tags:
   - SpecFlow
 modified_time: 2011-02-10T00:34:51.789Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1569234750775344083
-blogger_orig_url: http://www.marcusoft.net/2011/02/in-specflowa-test-runner-is-just-glue.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/in-specflowa-test-runner-is-just-glue.html
 ---
 
 I answered a question on Twitter today from a guy who had problems running [SpecFlow](http://www.specflow.org) scenarios with MSTest. That shouldn’t be I thought to myself – in SpecFlow the test runner is only used for the auto-generated stuff (#2 in this pictures) and shouldn’t affect the code you write. Lets try it.

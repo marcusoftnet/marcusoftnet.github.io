@@ -7,7 +7,7 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:20:33.362Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6393534253230416362
-blogger_orig_url: http://www.marcusoft.net/2008/02/wcf-introductions.html
+blogger_orig_url: https://www.marcusoft.net/2008/02/wcf-introductions.html
 ---
 
 We're

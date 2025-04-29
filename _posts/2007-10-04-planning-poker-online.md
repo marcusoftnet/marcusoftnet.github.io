@@ -8,7 +8,7 @@ tags:
   - Scrum
 modified_time: 2010-12-14T15:22:38.298Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6802096703375470653
-blogger_orig_url: http://www.marcusoft.net/2007/10/planning-poker-online.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/planning-poker-online.html
 ---
 
 Estimations can be quite tricky to do and even trickier to get from an
@@ -21,5 +21,5 @@ And as the Internet is a fantastic thing someone of course as made an
 online version, that can be found here <http://www.planningpoker.com/>
 
 I think that it's more important to get together than to do the actual
-<span id="SPELLING_ERROR_2" class="blsp-spelling-corrected">poker
+="blsp-spelling-corrected">poker
 playing, but if you don't have that option this will have to do.

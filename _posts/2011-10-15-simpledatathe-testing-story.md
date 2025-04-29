@@ -9,7 +9,7 @@ tags:
   - C#
 modified_time: 2011-11-03T18:46:59.686Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2699078655489363036
-blogger_orig_url: http://www.marcusoft.net/2011/10/simpledatathe-testing-story.html
+blogger_orig_url: https://www.marcusoft.net/2011/10/simpledatathe-testing-story.html
 ---
 
 ## Simple.Data–the testing story
@@ -29,7 +29,7 @@ When you install Simple.Data via [NuGet](http://www.nuget.org/), you might be su
 I create a Class Library and NuGet the following packages:
 
 - `Install-Package NUnit`
-- `Install-Package ShouldFluent` ([excellent assertion library](http://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html))
+- `Install-Package ShouldFluent` ([excellent assertion library](https://www.marcusoft.net/2010/11/should-substitutetwo-new-great-friends.html))
 - `Install-Package Simple.Data.Mocking`
 
 I can now write some tests. Let's try to simply call a mocked database in a known state and return some rows for us:

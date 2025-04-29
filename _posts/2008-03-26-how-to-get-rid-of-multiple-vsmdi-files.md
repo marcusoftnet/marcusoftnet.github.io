@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2008-03-26T07:45:34.311Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7174602734773481204
-blogger_orig_url: http://www.marcusoft.net/2008/03/how-to-get-rid-of-multiple-vsmdi-files.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/how-to-get-rid-of-multiple-vsmdi-files.html
 ---
 
 

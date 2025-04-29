@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2009-11-13T10:57:28.121Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5694135538797434709
-blogger_orig_url: http://www.marcusoft.net/2009/11/agile-testing-some-thoughts-after.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/agile-testing-some-thoughts-after.html
 ---
 
 Last night’s [Elevate](http://blog.avegagroup.se/elevate/) event was another impressive showcase of the diverse knowledge within [Avega](http://www.avegagroup.se). The focus was on Agile Testing, a topic that has often confused and frustrated me. I’ve struggled to implement effective agile testing practices in the teams I’ve led. Here are some of the challenges I've faced:
@@ -22,7 +22,7 @@ I was eager to learn how to address these issues effectively. The lightning talk
 Three key themes emerged from the talks:
 
 - **Team Commitment to Testing**: Emphasize that testing is a team responsibility, not just the role of dedicated testers. This approach aligns well with the next point.
-  
+
 - **Definition of Done**: Include testing in the definition of done. For instance, "We’re not done until the feature is tested." If developers aren't engaging with testing, consider having testers “take a break” for a sprint to encourage developers to step up.
 
 - **Invest in Automation**: Successful agile teams often use automated regression tests. Tools like [Selenium](http://seleniumhq.org/) are useful for this purpose. Manage test scripts as you would any other code, incorporating them into your continuous integration or daily build processes.

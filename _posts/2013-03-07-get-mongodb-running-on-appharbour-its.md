@@ -10,7 +10,7 @@ tags:
   - ContinuousDelivery
 modified_time: 2013-03-07T08:32:05.227Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2488664060079678455
-blogger_orig_url: http://www.marcusoft.net/2013/03/get-mongodb-running-on-appharbour-its.html
+blogger_orig_url: https://www.marcusoft.net/2013/03/get-mongodb-running-on-appharbour-its.html
 ---
 
 I have been playing around a bit with [MongoDB](http://www.mongodb.org/)

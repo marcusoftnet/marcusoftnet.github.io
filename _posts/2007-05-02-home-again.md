@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-05-03T05:37:13.064Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4279257510615337179
-blogger_orig_url: http://www.marcusoft.net/2007/05/home-again.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/home-again.html
 ---
 
 Just started the first day after a trip to Sardine (?) in Italy, with Avega.

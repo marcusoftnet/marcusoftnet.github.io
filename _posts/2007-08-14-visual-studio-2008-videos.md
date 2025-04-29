@@ -7,7 +7,7 @@ tags:
   - .NET
 modified_time: 2007-08-14T10:03:12.273Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3099592107891532481
-blogger_orig_url: http://www.marcusoft.net/2007/08/visual-studio-2008-videos.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/visual-studio-2008-videos.html
 ---
 
 Found some introduction videos about Visual Studio 2008 that look quite

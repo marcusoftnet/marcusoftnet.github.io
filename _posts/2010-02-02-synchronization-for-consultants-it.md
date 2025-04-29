@@ -8,12 +8,12 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.166Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5328502569237114133
-blogger_orig_url: http://www.marcusoft.net/2010/02/synchronization-for-consultants-it.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/synchronization-for-consultants-it.html
 ---
 
 
 I am so proud. My <a
-href="http://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html"
+href="https://www.marcusoft.net/2009/09/synchronization-for-consultants-how-i.html"
 target="_blank">evil scheme to keep my calendar(s)</a> in sync got
 tested for real today.
 

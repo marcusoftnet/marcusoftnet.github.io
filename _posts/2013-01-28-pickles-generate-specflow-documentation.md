@@ -10,7 +10,7 @@ tags:
   - SpecFlow
 modified_time: 2013-07-30T18:15:45.084Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5238097084946695251
-blogger_orig_url: http://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html
 ---
 
 If you're doing [specification by example](http://specificationbyexample.com/) or [BDD](http://en.wikipedia.org/wiki/Behavior-driven_development), you will soon realize that the tooling still points towards developers. With that, I mean that [Cucumber](http://cukes.info/) and [SpecFlow](http://www.specflow.org/) allow you to write your executable specifications in plain text, but you still check it into the source repository. This is, of course, a good thing since you'd want to version the specification with your code - but it also effectively hides it and keeps the spec out of reach for any non-developing member of the team.

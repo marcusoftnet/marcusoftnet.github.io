@@ -10,7 +10,7 @@ tags:
   - SpecFlow
 modified_time: 2013-08-22T09:59:06.452Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6620558657478065759
-blogger_orig_url: http://www.marcusoft.net/2011/02/specflow-presentation-at-sweden.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/specflow-presentation-at-sweden.html
 ---
 
 I got an invitation to the Sweden Progressive .NET (the group formerly known as Alt.Net Sweden) to do a presentation on SpecFlow. I know many of the people in this group, a lot of them work for Avega, and have the highest respect for their knowledge.

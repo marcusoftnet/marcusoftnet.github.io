@@ -8,7 +8,7 @@ tags:
   - C#
 modified_time: 2008-03-11T14:27:05.289Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9040813422802570620
-blogger_orig_url: http://www.marcusoft.net/2008/03/how-what-he-likes-vbnet.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/how-what-he-likes-vbnet.html
 ---
 
 OK -

@@ -9,7 +9,7 @@ tags:
  - Scrum
 ---
 
-Ok, got a few encouraging comments on the [first post](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my original blog-idea to write things down to clear it up for me and not forget about it.
+Ok, got a few encouraging comments on the [first post](https://www.marcusoft.net/2017/02/comments-on-board-practices.html) so I'll continue this series. If for nothing else it's keeping to my original blog-idea to write things down to clear it up for me and not forget about it.
 
 {% include boardpractice-posts.md %}
 

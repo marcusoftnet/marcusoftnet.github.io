@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2008-11-11T09:41:42.055Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6662911047123782891
-blogger_orig_url: http://www.marcusoft.net/2008/11/tfs-build-targets-and-properties.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/tfs-build-targets-and-properties.html
 ---
 
 
@@ -31,7 +31,7 @@ this is quite easy once you know how.
 
 But then I often get the question; "Ok - what can I configure". I
 haven't had a good answer ([this was my best so
-far](http://www.marcusoft.net/2007/05/teamsystem-builds.html)) but now I
+far](https://www.marcusoft.net/2007/05/teamsystem-builds.html)) but now I
 found a list of the customable targets and properties.
 
 - [Customizable Team Foundation Build

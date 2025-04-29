@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-16T21:38:46.665Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5583006853510556248
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-10.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-session-10.html
 ---
 
 You could call the last session my first “sprint demo.” What happened was that I could finally see where this was going. As the Product Owner, I was not happy – I couldn’t even yell at the team (also me) because the result was quite poor.

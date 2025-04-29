@@ -14,7 +14,7 @@ tags:
 modified_time: 2014-10-23T03:44:28.638Z
 thumbnail: /img/9096190838_350590d10d_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8744532193182995906
-blogger_orig_url: http://www.marcusoft.net/2014/10/effective-revisted.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/effective-revisted.html
 ---
 
 I talk a lot about **effectiveness** and how it differs from **efficiency**. This is probably due to two reasons: firstly, the difference between these two concepts is central to the lean mindset. Secondly, I'm Swedish.

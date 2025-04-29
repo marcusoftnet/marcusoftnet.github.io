@@ -13,11 +13,11 @@ This is the second post in a series where I refactor an old (4 years) code base 
 
 Here are all the posts in the series
 
-- [Part I - get the tests to run](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
-- [Part II - where we clean up the test code a bit](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html) - this post
-- [Part III - where we start to move over to async/await testing](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
-- [Part IV - where finally do something about the production code, and fix the other parts of the application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
-- [Part V - wrapping up by refactoring the root application](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
+- [Part I - get the tests to run](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript.html)
+- [Part II - where we clean up the test code a bit](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_ii.html) - this post
+- [Part III - where we start to move over to async/await testing](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
+- [Part IV - where finally do something about the production code, and fix the other parts of the application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
+- [Part V - wrapping up by refactoring the root application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
 
 <!-- excerpt-end -->
 
@@ -131,6 +131,6 @@ This will fail the tests, as we renamed and reshuffled somethings. Simple fixes 
 
 ### Summary
 
-Ok - that is better but now we need to get to the meat and start using some of the modern features that exists in ES6. Let's do that in the [next post](http://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html). See you there.
+Ok - that is better but now we need to get to the meat and start using some of the modern features that exists in ES6. Let's do that in the [next post](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html). See you there.
 
 By the way… Thank God for tests - this is a joy to refactor!

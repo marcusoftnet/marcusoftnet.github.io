@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-05-30T08:32:17.363Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1111113580918664374
-blogger_orig_url: http://www.marcusoft.net/2007/05/gteborg-brass-band-aftermath.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/gteborg-brass-band-aftermath.html
 ---
 
 The Göteborg Brass Band is terminated (as it's [said on the

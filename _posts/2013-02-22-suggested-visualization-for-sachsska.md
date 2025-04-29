@@ -12,7 +12,7 @@ tags:
 modified_time: 2013-02-24T16:51:12.070Z
 thumbnail: /img/Screen+Shot+2013-02-24+at+17.50.30+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8029179407855875544
-blogger_orig_url: http://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html
+blogger_orig_url: https://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html
 ---
 
 I have small children (5, 3 and 3 years old). During the winter half of the year that means that they are sick. A lot. No really: like you wouldn't believe. Ok... like this: last year we had a cold outbreak in october and the next time all three of them was well again was in august. This means that I have from time to time spent some time at the hospital. No - you cannot go during the day since the kids mostly becomes much worse when they have lied down for a couple of hours. Like after sleeping for about 3 hours for example. The people working at [SÖS children emergency room](http://www.sodersjukhuset.se/Avdelningar--mottagningar/Mottagningar/barnakuttmottagning/) is amazing! I very rarely met people that isn't cooperative and want to do their best, even 0430 in the night. Thanks a bunch for taking care of me and my kids when we have been in dire straits.

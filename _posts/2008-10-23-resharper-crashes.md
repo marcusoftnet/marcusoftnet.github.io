@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2010-12-14T15:21:03.989Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1497074953926190551
-blogger_orig_url: http://www.marcusoft.net/2008/10/resharper-crashes.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/resharper-crashes.html
 ---
 
 First and foremost- I love [Resharper (4.0)](http://www.jetbrains.com/resharper/), but I think that some small flaws are still there and does bad things...

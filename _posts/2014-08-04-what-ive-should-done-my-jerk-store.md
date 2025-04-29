@@ -11,7 +11,7 @@ tags:
   - Agile
 modified_time: 2014-08-10T12:38:47.506Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7430677175134339617
-blogger_orig_url: http://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-store.html
+blogger_orig_url: https://www.marcusoft.net/2014/08/what-ive-should-done-my-jerk-store.html
 ---
 
 Have you ever had a conversation and then a couple of hours later you come up with a much better way of stating your matter or a better phrasing?
@@ -86,7 +86,7 @@ It was apparent that the management for the insurance company didn't understand 
 - Say no. If you don't think it will work say so. If you get thrown out it will hurt but you will not leave the project feeling disappointed that you achieved "nothing".
 - Agile (or lean for that matter) is not an IT thing, it's a change in how you do business at the company. Make sure that everyone understands the difference or you will have much frustration and failure.
 - You are here to **change** the process, not to "fit agile into the current process".
-  [I wrote about this here](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html).
+  [I wrote about this here](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html).
 - Make sure that everyone understands that you still will have anger and frustration, but hopefully leading to something better. Define that better so that you can point towards this.
 - Create a function that can take care of questions. Sending information is **not** enough. Create a safe haven for asking questions.
 

@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2007-07-03T05:54:32.869Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5179432351637438825
-blogger_orig_url: http://www.marcusoft.net/2007/07/dignity-gone.html
+blogger_orig_url: https://www.marcusoft.net/2007/07/dignity-gone.html
 ---
 
 Here is a story about when my dignity was shredded. True I am afraid.

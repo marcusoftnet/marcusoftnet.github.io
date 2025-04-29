@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.663Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7122064333594698841
-blogger_orig_url: http://www.marcusoft.net/2006/11/generic-webservice-creator-using.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/generic-webservice-creator-using.html
 ---
 
 This now contains an update

@@ -108,7 +108,7 @@ Anything agile run on feedback. That's pretty much what we are after and why agi
 
 For us, that means that running a weekly meeting where everyone (that are interested) in the company gets to know what is happening and how we are progressing to reach our goal.
 
-In the second part of the meeting, we can quickly and frequently resolve any synchronization issues, dependencies that slow us down or hinders of different sorts. Did you squint and saw the pink note on top of one of the tickets? That's a [blocker](http://www.marcusoft.net/2017/02/comments-on-board-practices.html) that helps us to know what is blocking something from completion.
+In the second part of the meeting, we can quickly and frequently resolve any synchronization issues, dependencies that slow us down or hinders of different sorts. Did you squint and saw the pink note on top of one of the tickets? That's a [blocker](https://www.marcusoft.net/2017/02/comments-on-board-practices.html) that helps us to know what is blocking something from completion.
 
 ## Autonomous teams
 
@@ -116,7 +116,7 @@ We think that the best way of making amazing things happen is to let a group of 
 
 This is why we have created autonomous teams that can govern themselves and quickly make decisions, change their minds and find better ways to improve their value stream/product/systems to reach the effect.
 
-We wanted them to be [autonomous - not isolated mind you](http://www.marcusoft.net/2019/06/autonomous-does-not-mean-isolated.html)
+We wanted them to be [autonomous - not isolated mind you](https://www.marcusoft.net/2019/06/autonomous-does-not-mean-isolated.html)
 
 ### What / How
 

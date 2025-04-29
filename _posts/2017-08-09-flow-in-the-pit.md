@@ -47,7 +47,7 @@ Here's what I notice as I think about it:
   * They are working as a team to achieve this goal (notice how the right-front-tire team is talking to each other just before the car enters the pit)
   * They are highly specialised (I wanna be right-front-wing-swiper-supervisor too!) but still works together. Should an emergency or blockage happen they know who should ditch what they are doing now and where to help
 * The guys in this team is not active throughout the race. In fact I would think that most of the crew pretty much do nothing else but changing that tire, during the entire race.
-  * They have optimised their organization for flow (or the car) not resource utilisation (making sure that [all crew member are busy](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html))
+  * They have optimised their organization for flow (or the car) not resource utilisation (making sure that [all crew member are busy](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html))
 * All of those small, small improvements comes from thousands of hours of deliberate training and practice
   * I'm betting that the way they work change after every race. A new way to position yourself, should I hold my hands like this or even a new type of drill
   * I'm betting that the crew members are encouraged to improve their ways, rather than waiting to be told how to act.

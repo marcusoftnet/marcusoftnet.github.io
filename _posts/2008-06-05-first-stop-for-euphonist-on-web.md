@@ -7,7 +7,7 @@ tags:
   - Euphonium
 modified_time: 2008-06-05T12:59:05.787Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2005722504554064702
-blogger_orig_url: http://www.marcusoft.net/2008/06/first-stop-for-euphonist-on-web.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/first-stop-for-euphonist-on-web.html
 ---
 
 

@@ -7,7 +7,7 @@ tags:
   - Agile
 modified_time: 2009-10-12T13:05:41.345Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4485896415444043703
-blogger_orig_url: http://www.marcusoft.net/2009/10/webcasts-on-all-things-agile.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/webcasts-on-all-things-agile.html
 ---
 
 I recently stumbled upon a treasure trove of webcasts dedicated to various Agile practices. At the bottom of the page, I found a list of valuable resources covering topics like Kanban, Agile Design, TDD, Pair Programming, and more.

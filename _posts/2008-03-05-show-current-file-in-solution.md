@@ -7,7 +7,7 @@ tags:
   - VB.NET
 modified_time: 2010-12-14T15:20:33.358Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3325496387399004688
-blogger_orig_url: http://www.marcusoft.net/2008/03/show-current-file-in-solution.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/show-current-file-in-solution.html
 ---
 
 Ooooh - so nice. And so easy now when I know how to do it...

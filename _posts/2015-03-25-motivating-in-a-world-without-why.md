@@ -10,7 +10,7 @@ tags:
  - Agile
 ---
 
-In a previous post, I explored the concept of a <a href="http://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">world without WHY in Indonesian culture</a>. Reflecting on my experiences in Indonesia, I delved into the challenge of motivating individuals in a culture that often lacks a clear sense of purpose. Building upon those insights, I aim to share practical strategies for motivating individuals within this context.
+In a previous post, I explored the concept of a <a href="https://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html">world without WHY in Indonesian culture</a>. Reflecting on my experiences in Indonesia, I delved into the challenge of motivating individuals in a culture that often lacks a clear sense of purpose. Building upon those insights, I aim to share practical strategies for motivating individuals within this context.
 
 Before we proceed, it's essential to acknowledge the following:
 

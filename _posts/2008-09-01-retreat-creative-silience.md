@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2008-09-01T05:33:37.754Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1673910782798705182
-blogger_orig_url: http://www.marcusoft.net/2008/09/retreat-creative-silience.html
+blogger_orig_url: https://www.marcusoft.net/2008/09/retreat-creative-silience.html
 ---
 
 I am

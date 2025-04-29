@@ -10,7 +10,7 @@ tags:
   - TDD
 modified_time: 2012-06-14T06:49:18.169Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9079199862341884847
-blogger_orig_url: http://www.marcusoft.net/2012/06/what-bdd-is-all-about.html
+blogger_orig_url: https://www.marcusoft.net/2012/06/what-bdd-is-all-about.html
 ---
 
 I got an email from a colleague a couple of weeks back. We were members of the same team for awhile this last autumn. He (and the rest of the team) are great programmers - way better than me. I had some difficulties to keep in step with them, but to some extent that had to do with [F#](http://msdn.microsoft.com/en-us/vstudio/hh388569.aspx) being the language of choice. A first for me!

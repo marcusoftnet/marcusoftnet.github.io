@@ -9,7 +9,7 @@ tags:
   - SpecFlow
 modified_time: 2011-02-16T13:34:46.482Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6161852859030600182
-blogger_orig_url: http://www.marcusoft.net/2011/02/error-provider-did-not-return.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/error-provider-did-not-return.html
 ---
 
 I was totally terrified when this happened to my yesterday. I had prepared a little website to use on a [SpecFlow](http://www.specflow.org) demonstration. I had run it several times and it worked fine. But all of a sudden – when I was doing one of those “just checking” it failed on me with this (“The provider did not return a ProviderManifestToken string”) error.

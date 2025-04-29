@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2012-05-03T06:00:04.866Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6471968641873307367
-blogger_orig_url: http://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html
 ---
 
 
@@ -32,7 +32,7 @@ tell them that “They must!”. But I don’t think that works particular
 well. At least it don’t stick. Around here I got to think about
 <a href="http://www.heathbrothers.com/switch/"
 target="_blank">Switch</a> and <a
-href="http://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html"
+href="https://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html"
 target="_blank">a blog post I wrote awhile back</a> where I applied the
 <a
 href="http://www.heathbrothers.com/resources/download/switch-framework.pdf"
@@ -49,7 +49,7 @@ small notes here and then try to use the problem at hand.
 
 So the problem is that for many developers testing is an activity
 performed by testers. “I develop code – they test it”. The <a
-href="http://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html"
+href="https://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html"
 target="_blank">problem with that</a> kind of thinking is, among others,
 that it builds queues of work that is fed back into development as bugs
 are discovered. In
@@ -137,7 +137,7 @@ education, good examples, pairing and even code templates.
 
 On thing that I have found incredible useful is to create a short
 template to help you get started. <a
-href="http://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html"
+href="https://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html"
 target="_blank">My template</a> sets up a test with a proper naming and
 the Arrange-Act-Assert parts of the test body. Finally it sets up an
 assertion that fails until you have implemented the tests. It’s a bit
@@ -156,7 +156,7 @@ Finally, but that almost goes without saying, you want to enable testing
 in the build that is run on each check-in. That will both keep your code
 base clean and safe but also give quick feedback to the developer
 committing code. But make sure that you <a
-href="http://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html"
+href="https://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html"
 target="_blank">fix the broken build</a>
 
 That’s a couple of ways of scripting the critical moves.

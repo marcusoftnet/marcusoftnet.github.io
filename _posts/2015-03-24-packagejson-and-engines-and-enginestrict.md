@@ -12,7 +12,7 @@ I've been diving into [io.js](https://iojs.org) recently for reasons that will s
 
 Switching between versions is straightforward, but occasionally I end up running code on a version of Node/io.js that the code doesn't support. For instance, running EcmaScript 6 `let` statements in Node.js.
 
-I hoped for a [warning](http://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html) or even an error to alert me to this mismatch, but none appeared. So...
+I hoped for a [warning](https://www.marcusoft.net/2015/01/koa-and-the-referenceerror-promise-is-not-defined.html) or even an error to alert me to this mismatch, but none appeared. So...
 
 In this post, I'll explain how to use the `package.json` file to get warnings and errors when running code on an unsupported version of the framework.
 

@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2014-03-03T08:11:20.066Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3446493776187439494
-blogger_orig_url: http://www.marcusoft.net/2014/03/a-little-something-about-document.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/a-little-something-about-document.html
 ---
 
 This is just a short thing that I experienced when doing the data layer
@@ -22,7 +22,7 @@ databases (<a href="http://www.mongodb.org/" target="_blank">Mongo</a>
 in this case).
 The data model is really simple. It's just a
 Posts, Replies and Hashtags. So we created the Posts like this (using
-<a href="http://www.marcusoft.net/2014/03/mnb-mongoosejs.html"
+<a href="https://www.marcusoft.net/2014/03/mnb-mongoosejs.html"
 target="_blank">Mongoose</a>):
 
 Let's leave the Replies out of this discussion for now. I think I have

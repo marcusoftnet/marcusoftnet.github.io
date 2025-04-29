@@ -7,10 +7,10 @@ tags:
   - Marcus private
 modified_time: 2010-03-25T19:06:44.497Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5938538147033356692
-blogger_orig_url: http://www.marcusoft.net/2010/03/arvid-and-gustav.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/arvid-and-gustav.html
 ---
 
-The last week has really been something extra. Last Friday, early morning, we got some signs that the [twins](http://www.marcusoft.net/2009/11/life-changing-events.html) were on their way.
+The last week has really been something extra. Last Friday, early morning, we got some signs that the [twins](https://www.marcusoft.net/2009/11/life-changing-events.html) were on their way.
 
 ![Born on the 19 of March - the Hammarberg twins](/img/DSC_2064_thumb.jpg)
 

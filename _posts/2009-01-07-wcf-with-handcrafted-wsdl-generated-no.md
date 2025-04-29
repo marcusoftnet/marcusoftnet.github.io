@@ -8,7 +8,7 @@ tags:
   - WCF
 modified_time: 2009-01-07T10:07:14.585Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6397917165602429158
-blogger_orig_url: http://www.marcusoft.net/2009/01/wcf-with-handcrafted-wsdl-generated-no.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/wcf-with-handcrafted-wsdl-generated-no.html
 ---
 
 This problem has haunted us for the good part of the autumn and winter.

@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.660Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1225927400840922867
-blogger_orig_url: http://www.marcusoft.net/2006/11/more-about-generic-webservces.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/more-about-generic-webservces.html
 ---
 
 I've looked further down the documentation ([this chapter in

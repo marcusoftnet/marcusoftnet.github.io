@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-06-01T20:56:45.817Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2318944997718944184
-blogger_orig_url: http://www.marcusoft.net/2011/06/theory-of-constraints-and-specification.html
+blogger_orig_url: https://www.marcusoft.net/2011/06/theory-of-constraints-and-specification.html
 ---
 
 Following up on my previous post about [Specification by Example](http://specificationbyexample.com/) and [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_Constraints), I’ve received insightful feedback from colleagues, particularly Håkan Forss, whom I greatly respect.
@@ -34,7 +34,7 @@ Understanding the goal of your project can help direct the focus of improvement 
 
 #### **Identify the Constraint**
 
-In physical systems, identifying constraints is often straightforward—like observing queues or bottlenecks. In knowledge work, such as software development, identifying constraints is more abstract. 
+In physical systems, identifying constraints is often straightforward—like observing queues or bottlenecks. In knowledge work, such as software development, identifying constraints is more abstract.
 
 Using techniques like [root cause analysis](http://en.wikipedia.org/wiki/Root_cause_analysis) can help understand why work is stalled or redirected. Visualization tools like Kanban boards can also make constraints more apparent by showing where work is piling up or where there are gaps in the process.
 

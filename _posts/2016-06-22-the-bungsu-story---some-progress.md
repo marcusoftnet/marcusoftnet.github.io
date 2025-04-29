@@ -12,7 +12,7 @@ tags:
 
 About six months ago I got home from the adventure of our life time in Indonesia. At the time I was actually feeling very underwhelmed and that we've failed in our work there.
 
-But the more I think about it and the more I [speak and write](http://www.marcusoft.net/tags/#Indonesia) about our experiences there, and especially the mind blowing transformation we led in Rumah Sakit Bungsu - the more I realize that this is an once in a life time thing that have happened.
+But the more I think about it and the more I [speak and write](https://www.marcusoft.net/tags/#Indonesia) about our experiences there, and especially the mind blowing transformation we led in Rumah Sakit Bungsu - the more I realize that this is an once in a life time thing that have happened.
 
 I'm writing [a book](http://bit.ly/bungsustory) about that journey. with my good friends at [Oikosofy](http://oikosofy.com/). But I have also given a few presentations on the topic.
 

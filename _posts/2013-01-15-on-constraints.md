@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2013-01-15T10:17:16.159Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5048683139140827296
-blogger_orig_url: http://www.marcusoft.net/2013/01/on-constraints.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/on-constraints.html
 ---
 
 As always it's hard to boot up all processes in a new year. The blogging process apparently was down prioritized by my internal product owner. Well - he'll have to stand back: I'm on it again.
@@ -32,7 +32,7 @@ Toyota could also have resigned from the fact that they couldn't do that. But th
 
 I dread the "rollout" in the heading above and also the effect it will have on any agilistas out there. But I have been involved in quite a few "rollouts" in my career. That is: implement agile in an organization.
 
-They seldom work. Why? There's no big constraint forcing the organization to move. I wrote about this before and called the [constraint a "or else"-reason](http://www.marcusoft.net/2012/10/agilechangetop51.html).
+They seldom work. Why? There's no big constraint forcing the organization to move. I wrote about this before and called the [constraint a "or else"-reason](https://www.marcusoft.net/2012/10/agilechangetop51.html).
 
 But often efforts like this fail, simply because it doesn't really matter. If the project fails or goes way over budget, someone gets yelled at or maybe (very seldom at least in Sweden) gets fired. That means that trying new ways of working is just syntactical differences on the same thing.
 

@@ -8,7 +8,7 @@ tags:
   - Scrum
 modified_time: 2007-10-02T10:51:38.586Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6623804660638275061
-blogger_orig_url: http://www.marcusoft.net/2007/10/scrum-vs-rup-practical-comparison.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/scrum-vs-rup-practical-comparison.html
 ---
 
 Just now something happened here at the office that really showed

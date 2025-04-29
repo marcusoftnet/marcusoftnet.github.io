@@ -56,7 +56,7 @@ For every question that pops up, there’s someone ready to answer. We don’t h
 
 “But, but … that means that a lot of people is sitting around … not typing” – I said around this point. Yes – that’s exactly what it mean. But you’re not in the keystroke / minute business, now are you?
 
-Have you been [waiting at the emergency](http://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html)? You know what I mean; you’ve been sitting there for hours upon hours when all of a sudden a real emergency happens: the ambulance comes with someone that doesn’t breathes. That poor person (it went well, no worries – I just made it up) just flies through the ER and gets treated in seconds.
+Have you been [waiting at the emergency](https://www.marcusoft.net/2013/02/suggested-visualization-for-sachsska.html)? You know what I mean; you’ve been sitting there for hours upon hours when all of a sudden a real emergency happens: the ambulance comes with someone that doesn’t breathes. That poor person (it went well, no worries – I just made it up) just flies through the ER and gets treated in seconds.
 
 What’s the difference in how the ER staff acts? For normal, non-urgent cases, hospitals often try to make sure that the staff is kept busy, especially those expensive doctors. In fact, at least in Sweden, the hospitals are so scared of doctors ending up idle, that queues of waiting patients are built in front of them. When the emergency occurs everyone (almost) drop what they are doing and rush to the ER. There’s an abundance of staff around the stretcher, until the patient is stable. In the latter case the lead time of the patient is critical and so we value short lead time over maximizing staff utilization.
 

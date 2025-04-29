@@ -9,10 +9,10 @@ tags:
   - Agile
 modified_time: 2013-04-24T07:00:09.964Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7663992142364497452
-blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html
+blogger_orig_url: https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html
 ---
 
-In my [last post](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html), I shared two stories that got me thinking about what we code for: change or stability.
+In my [last post](https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html), I shared two stories that got me thinking about what we code for: change or stability.
 
 The post received unexpected attention, prompting questions that led me to reflect further. Here are some thoughts and answers to recent discussions:
 

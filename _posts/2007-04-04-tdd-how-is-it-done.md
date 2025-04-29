@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:22:38.379Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3548146079645682687
-blogger_orig_url: http://www.marcusoft.net/2007/04/tdd-how-is-it-done.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/tdd-how-is-it-done.html
 ---
 
 The next

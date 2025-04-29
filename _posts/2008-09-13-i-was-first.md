@@ -8,7 +8,7 @@ tags:
   - Fun
 modified_time: 2008-09-14T19:00:19.918Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3390587423459309843
-blogger_orig_url: http://www.marcusoft.net/2008/09/i-was-first.html
+blogger_orig_url: https://www.marcusoft.net/2008/09/i-was-first.html
 ---
 
 
@@ -17,7 +17,7 @@ Väggen](http://www.tv6.se/halivaggen). It's a total rip-off from a
 really wacky Japanese TV-show.
 
 Just to set the record straight - [I discovered it
-first](http://www.marcusoft.net/2007/07/only-in-japan.html)! Here is the
+first](https://www.marcusoft.net/2007/07/only-in-japan.html)! Here is the
 proof - written Wednesday, July 11, 2007.
 
 So TV6 - send the money to me. I accept checks. ;)

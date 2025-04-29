@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2006-11-20T07:06:00.333Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8955672982792045388
-blogger_orig_url: http://www.marcusoft.net/2006/11/babies-and-their-parents-iii.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/babies-and-their-parents-iii.html
 ---
 
 OK - I was wrong, a bit at least.

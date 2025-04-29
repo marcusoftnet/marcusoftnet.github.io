@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-10-20T12:58:46.684Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5183569694525573431
-blogger_orig_url: http://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html
+blogger_orig_url: https://www.marcusoft.net/2011/05/specification-by-example-and-theory-of.html
 ---
 
 Since I first encountered [Specification by Example](http://specificationbyexample.com/) (or [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) as it’s also known), I felt it had a natural alignment with Lean thinking and related theories. Today, I want to explore how the [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_Constraints) can be applied through Specification by Example to enhance the system development process.
@@ -20,7 +20,7 @@ This post reflects my own thoughts and tries to piece together insights from var
 
 ### Theory of Constraints
 
-Last year, I read the insightful book, [*The Goal* by Eliyahu Goldratt](http://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781). Goldratt’s Theory of Constraints (TOC) asserts that every system has at least one bottleneck that limits its overall performance. Improvements to other areas are less effective if they don't address the bottleneck. 
+Last year, I read the insightful book, [*The Goal* by Eliyahu Goldratt](http://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781). Goldratt’s Theory of Constraints (TOC) asserts that every system has at least one bottleneck that limits its overall performance. Improvements to other areas are less effective if they don't address the bottleneck.
 
 Here’s a simple example:
 

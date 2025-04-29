@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2009-09-17T08:34:31.932Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3084874139483823348
-blogger_orig_url: http://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html
 ---
 
 Recently, I've been diving into some foundational literature in the IT field. It's a great way to get acquainted with influential figures and ideas that frequently come up in current developer discussions.

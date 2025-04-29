@@ -7,10 +7,10 @@ tags:
   - Tools
 modified_time: 2010-12-14T15:22:38.187Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5517277713528233333
-blogger_orig_url: http://www.marcusoft.net/2009/09/add-coolness-to-your-presentations.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/add-coolness-to-your-presentations.html
 ---
 
-Yes, I know I’ve already written about an [online PowerPoint tool](http://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html), but this new tool might just replace the need for both PowerPoint and similar software altogether.
+Yes, I know I’ve already written about an [online PowerPoint tool](https://www.marcusoft.net/2009/09/powerpoint-online-280-slides.html), but this new tool might just replace the need for both PowerPoint and similar software altogether.
 
 I often find myself struggling with presentations that end up being dull and overly reliant on bullet points. While PowerPoint offers ways to enhance presentations, I sometimes find it lacking in creativity.
 

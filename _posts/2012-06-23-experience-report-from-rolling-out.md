@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2012-06-22T19:51:07.380Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-13261481129450050
-blogger_orig_url: http://www.marcusoft.net/2012/06/experience-report-from-rolling-out.html
+blogger_orig_url: https://www.marcusoft.net/2012/06/experience-report-from-rolling-out.html
 ---
 
 I just ended my biggest coaching assignment in my career. So far. It
@@ -110,7 +110,7 @@ The games I've used lately is
 <a href="http://www.netobjectives.com/resources/articles/the-dot-game/"
 target="_blank">the Dot Game</a> (link requires free registration) to
 establish core agile concepts, Learning to count (see <a
-href="http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
+href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
 target="_blank">this post</a>) and
 <a href="http://www.lego4scrum.com/" target="_blank">Lego4Scrum</a> that
 is a introduction to Scrum (duh!). Make sure that you have plenty of

@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2014-10-27T04:20:56.862Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6023087985767811697
-blogger_orig_url: http://www.marcusoft.net/2014/10/my-sons-experience-reality.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/my-sons-experience-reality.html
 ---
 
 

@@ -15,20 +15,20 @@ tags:
   - SpecFlow
 modified_time: 2013-12-10T14:10:52.306Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8456584150489726017
-blogger_orig_url: http://www.marcusoft.net/2013/11/ImTellingYou.html
+blogger_orig_url: https://www.marcusoft.net/2013/11/ImTellingYou.html
 ---
 
-As most of you probably know [I'm on my way to leave the country and do other type of work for a while](http://www.marcusoft.net/2013/06/moving-to-indonesia.html). It's been a bumpy ride and we're actually still waiting for the work permits before we can leave. Any day now...
+As most of you probably know [I'm on my way to leave the country and do other type of work for a while](https://www.marcusoft.net/2013/06/moving-to-indonesia.html). It's been a bumpy ride and we're actually still waiting for the work permits before we can leave. Any day now...
 
 The last couple of weeks I've ended most of my commitments and different consultant contracts with my customers, but I don't have anything else to do... so I thought I'll make something up. Two things popped into my head:
 
-- last year when I did some [free presentations during a period](http://www.marcusoft.net/2012/12/have-presentations-will-travel.html) between employments
+- last year when I did some [free presentations during a period](https://www.marcusoft.net/2012/12/have-presentations-will-travel.html) between employments
 - and the fact that I don't want to come back in 3 years and just continue with the same material
 
 ![Image](http://ia.media-imdb.com/images/M/MV5BNDM4OTY0NTAyMF5BMl5BanBnXkFtZTcwNTcxMDQyMQ@@._V1_SY317_CR1,0,214,317_.jpg)
 From [IMDB](http://www.imdb.com/title/tt0500140/)
 
-People who read this blog knows that [I love constraints](http://www.marcusoft.net/2013/01/on-constraints.html), and people that know me knows that I'm a Seinfeld buff. He imposed a constraint on himself after 10-15 years in the business. He retired all of his jokes and went on a tour called ["I'm telling you for the last time"](http://www.imdb.com/title/tt0500140/). After that he started over with a blank sheet and never told those jokes again.
+People who read this blog knows that [I love constraints](https://www.marcusoft.net/2013/01/on-constraints.html), and people that know me knows that I'm a Seinfeld buff. He imposed a constraint on himself after 10-15 years in the business. He retired all of his jokes and went on a tour called ["I'm telling you for the last time"](http://www.imdb.com/title/tt0500140/). After that he started over with a blank sheet and never told those jokes again.
 
 No comparison between mr Seinfeld and me but I he inspired me to try the same. So I'm giving the presentations one last time and then retire them forever. I will never reuse the slides, I will present the materials in new ways. I promise!
 

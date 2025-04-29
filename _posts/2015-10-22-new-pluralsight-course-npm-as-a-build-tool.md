@@ -16,9 +16,9 @@ This time I took the opportunity to put together a course on using npm (Node Pac
 
 As you might know I've written a couple of posts on the topic:
 
-* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
-* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
-* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+* [npm scripting: git, version and deploy](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](https://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 
 <!-- excerpt-end -->
 
@@ -28,7 +28,7 @@ In the course I dive much deeper and the topics discussed are:
 * Running and writing scripts with npm and package.json
     * Writing custom scripts
     * Short cuts for common scripts
-* Pre and post hooks for scripts, [see this](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+* Pre and post hooks for scripts, [see this](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
     * Hooks for custom scripts
 * Scripts useful for development, supporting tasks as:
     * Compile Coffee-Script
@@ -43,7 +43,7 @@ In the course I dive much deeper and the topics discussed are:
     * Using Nodemon
     * Client Side Watching
     * Live Reloading of Browser
-* Versioning and deploying with npm, [see this](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* Versioning and deploying with npm, [see this](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
     * Incrementing Version Number
     * Versioning Code in git
     * Push Code to Repository

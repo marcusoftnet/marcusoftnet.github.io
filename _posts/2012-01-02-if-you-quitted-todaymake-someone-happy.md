@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2012-01-09T07:56:41.695Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2071797570192050990
-blogger_orig_url: http://www.marcusoft.net/2012/01/if-you-quitted-todaymake-someone-happy.html
+blogger_orig_url: https://www.marcusoft.net/2012/01/if-you-quitted-todaymake-someone-happy.html
 ---
 
 

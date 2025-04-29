@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-02-21T06:36:25.480Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-548781782083693211
-blogger_orig_url: http://www.marcusoft.net/2007/02/coldness-trump.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/coldness-trump.html
 ---
 
 Today it is really cold in Stockholm, about -10 degrees Celsius.

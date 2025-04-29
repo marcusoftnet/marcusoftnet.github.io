@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2009-02-02T14:25:53.360Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2814906879620335144
-blogger_orig_url: http://www.marcusoft.net/2009/02/first-day-of-parental-leave-i-love-it.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/first-day-of-parental-leave-i-love-it.html
 ---
 
 OK - my first parental leave day is well on the way. You should try this - it's great!

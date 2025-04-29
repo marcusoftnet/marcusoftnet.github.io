@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-11-03T07:42:14.820Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3719669431473149548
-blogger_orig_url: http://www.marcusoft.net/2008/11/regular-expression-for-even-number.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/regular-expression-for-even-number.html
 ---
 
 Let me first be very clear - I'm not a [RegExp](http://en.wikipedia.org/wiki/Regular_expression)-guy. I find them quite hard to understand at times and often take refuge in .NET code.

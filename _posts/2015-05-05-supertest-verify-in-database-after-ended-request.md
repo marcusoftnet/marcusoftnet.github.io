@@ -137,7 +137,7 @@ Ha! Trivial again... I said... Until I remember that yield cannot be called in a
 });
 ```
 
-Running the tests again (<code>npm t</code>) and will get this error that I've [blogged about before](http://www.marcusoft.net/2014/04/WhenIGotGenerators.html)
+Running the tests again (<code>npm t</code>) and will get this error that I've [blogged about before](https://www.marcusoft.net/2014/04/WhenIGotGenerators.html)
 
 ```bash
 var userFromDb = yield users.findOne({ name: test_user.name});

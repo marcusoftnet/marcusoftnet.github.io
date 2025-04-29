@@ -14,11 +14,11 @@ For each of these items, there's a story and some thoughts that pop into my head
 
 Here are the screensavers that I'm flicking through each day.
 
-- [Kindness is better](http://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
+- [Kindness is better](https://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
 - Complex == Bad. Simple == Good - This post
-- [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
-- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
-- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
+- [What would Jesus do?](https://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
+- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](https://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
+- [Turn up the good](https://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 
@@ -56,7 +56,7 @@ I think the difference is best described in the [Cynefin framework](https://en.w
 
 ## Some examples
 
-Here is a list of some domains that I use the lesson in. Also, I have already [written about this before](http://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html) if you want to go deeper.
+Here is a list of some domains that I use the lesson in. Also, I have already [written about this before](https://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html) if you want to go deeper.
 
 ### Application structure
 

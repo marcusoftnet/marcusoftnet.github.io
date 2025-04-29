@@ -8,7 +8,7 @@ tags:
 modified_time: 2009-11-27T08:27:54.059Z
 thumbnail: /img/IMG_0054.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5908278279614572935
-blogger_orig_url: http://www.marcusoft.net/2009/11/life-changing-events.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/life-changing-events.html
 ---
 
 Often, you can’t see them until afterwards... the events that really changed the course of your life. But in retrospect, you can almost always point to a single moment when your life took a certain path.

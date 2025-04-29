@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-03-30T19:33:34.857Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3273761672659892156
-blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-24.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/sprint-planner-helper-session-24.html
 ---
 
 My detour for learning [ASP.NET MVC](http://www.asp.net/mvc/) is coming to an end. I cannot say that I fully know the framework, but I have a much better understanding of it now, and that will hopefully help me keep the tempo up.

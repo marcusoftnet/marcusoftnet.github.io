@@ -8,7 +8,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.198Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1151619254679631734
-blogger_orig_url: http://www.marcusoft.net/2009/03/ruby-on-rails-supercool-demo.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/ruby-on-rails-supercool-demo.html
 ---
 
 Here is a demo of the famous [Ruby On Rails](http://rubyonrails.org/) framework that is just mind-blowing.

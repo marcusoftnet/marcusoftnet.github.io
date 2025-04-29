@@ -7,7 +7,7 @@ tags:
   - MSBuild
 modified_time: 2008-10-20T09:14:12.584Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3420428001447646419
-blogger_orig_url: http://www.marcusoft.net/2008/10/msbuild-refactor-and-targets-in-other.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/msbuild-refactor-and-targets-in-other.html
 ---
 
 I found a very niffty little feature of MSBuild, that is really helpful when it comes to structuring your build file.
@@ -19,8 +19,8 @@ From [this article](http://dotnet.sys-con.com/node/253420) I learned how to do i
 Actually it's easier to describe it as it's intended from the outset, to call targets in other files. Imagine that you create a MSBuild-file called DeployScript.proj with a target called DeployIt. In order to deploy to different environments we use some variables that instructs MSBuild to deploy to different paths for example. Like the $(PublishWebSitePath) in the example below:
 
 ```xml
-<RemoveDir 
-  Condition="Exists('$(PublishWebSitePath)')" 
+<RemoveDir
+  Condition="Exists('$(PublishWebSitePath)')"
   Directories="$(PublishWebSitePath)" />
 <MakeDir Directories="$(PublishWebSitePath)" />
 ```
@@ -28,10 +28,10 @@ Actually it's easier to describe it as it's intended from the outset, to call ta
 We can now call the targets of the DeployScript.proj-file from another file, with parameters, in the following manner:
 
 ```xml
-<MSBuild 
-  Projects="DeployScript.proj" 
-  Targets="DeployIt" 
-  Properties="PublishWebSitePath=\\[server]\[share]" 
+<MSBuild
+  Projects="DeployScript.proj"
+  Targets="DeployIt"
+  Properties="PublishWebSitePath=\\[server]\[share]"
 />
 ```
 

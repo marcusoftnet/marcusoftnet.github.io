@@ -7,7 +7,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-04-09T06:03:57.771Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6751370494112070271
-blogger_orig_url: http://www.marcusoft.net/2008/04/required-file-with-ialink3-could-not-be.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/required-file-with-ialink3-could-not-be.html
 ---
 
 

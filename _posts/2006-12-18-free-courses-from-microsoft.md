@@ -7,7 +7,7 @@ tags:
   - .NET
 modified_time: 2008-03-14T06:35:07.235Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6620844867408290558
-blogger_orig_url: http://www.marcusoft.net/2006/12/free-courses-from-microsoft.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/free-courses-from-microsoft.html
 ---
 
 This is not to often but these courses are in fact totally free of

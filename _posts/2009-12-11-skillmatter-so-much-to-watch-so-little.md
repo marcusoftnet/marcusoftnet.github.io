@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2009-12-11T09:19:24.245Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1185758968968146998
-blogger_orig_url: http://www.marcusoft.net/2009/12/skillmatter-so-much-to-watch-so-little.html
+blogger_orig_url: https://www.marcusoft.net/2009/12/skillmatter-so-much-to-watch-so-little.html
 ---
 
 On the [SkillsMatter](http://skillsmatter.com) site there are so many good things to read and see that I would have to spend a month just streaming video.

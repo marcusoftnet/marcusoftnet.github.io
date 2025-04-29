@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-05-23T14:03:33.724Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4836021775907817470
-blogger_orig_url: http://www.marcusoft.net/2007/05/movinging-in.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/movinging-in.html
 ---
 
 Yesterday we moved! From our 30 square meters to 63 feels like a move from a closet to a hangar...

@@ -8,7 +8,7 @@ tags:
   - Euphonium
 modified_time: 2006-12-18T06:50:26.946Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1250660888806753435
-blogger_orig_url: http://www.marcusoft.net/2006/12/hospital-caroling.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/hospital-caroling.html
 ---
 
 When I wrote

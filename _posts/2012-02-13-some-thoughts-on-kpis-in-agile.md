@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-02-13T07:00:06.894Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5306069240380609300
-blogger_orig_url: http://www.marcusoft.net/2012/02/some-thoughts-on-kpis-in-agile.html
+blogger_orig_url: https://www.marcusoft.net/2012/02/some-thoughts-on-kpis-in-agile.html
 ---
 
 

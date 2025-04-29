@@ -11,14 +11,14 @@ tags:
   - Agile
 modified_time: 2014-10-16T09:02:16.304Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5469088052128164126
-blogger_orig_url: http://www.marcusoft.net/2014/10/cc-all-things.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/cc-all-things.html
 ---
 
 
 
 
 We are working a lot with
-<a href="http://www.marcusoft.net/2014/09/accountability.html"
+<a href="https://www.marcusoft.net/2014/09/accountability.html"
 target="_blank">trust and transparency</a> in my current team.
 Specifically on the transparency item one "trick" we have been using is
 to cc the entire team in as many conversations as possible.

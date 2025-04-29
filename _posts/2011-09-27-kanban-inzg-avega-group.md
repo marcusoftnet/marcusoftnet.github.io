@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-09-27T18:27:37.769Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1798314656243096071
-blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inzg-avega-group.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/kanban-inzg-avega-group.html
 ---
 
 
@@ -19,9 +19,9 @@ and me went about to introduce Kanban and some Lean thinking to two
 support teams of the
 <a href="http://www.avegagroup.se" target="_blank">Avega Group</a>
 office. You can read <a
-href="http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
+href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
 target="_blank">post 1</a> and <a
-href="http://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html"
+href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html"
 target="_blank">post 2</a> before this to get the complete picture.
 
 With this post I wanted to do some reflections on how the introduction
@@ -122,7 +122,7 @@ had to argument using other words. Really hard, but also very good for
 our own understanding.
 
 We cannot emphasize the use of simple exercises enough (see <a
-href="http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
+href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html"
 target="_blank">the first post</a>). That made a lot of difference and
 gave us a common platform to refer back to. We also introduced the
 exercises in terms of their business (Imagine 3 projects, one is this

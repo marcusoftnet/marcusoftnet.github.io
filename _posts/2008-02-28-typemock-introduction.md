@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2008-03-14T06:34:11.477Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8848933600414376144
-blogger_orig_url: http://www.marcusoft.net/2008/02/typemock-introduction.html
+blogger_orig_url: https://www.marcusoft.net/2008/02/typemock-introduction.html
 ---
 
 I my

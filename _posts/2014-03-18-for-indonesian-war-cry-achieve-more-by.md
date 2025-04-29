@@ -9,14 +9,14 @@ tags:
   - Indonesia
 modified_time: 2014-03-18T07:42:36.437Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5247113248900127168
-blogger_orig_url: http://www.marcusoft.net/2014/03/for-indonesian-war-cry-achieve-more-by.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/for-indonesian-war-cry-achieve-more-by.html
 ---
 
-**DISCLAIMER** for frequent readers of this blog: I now work for [the Salvation Army in Indonesia](http://www.marcusoft.net/2013/06/moving-to-indonesia.html) and they asked me to write an article from time to time in the Indonesian War Cry (the Salvation Army magazine). I of course used my normal style of writing and wrote about the thing I've written about here. Oh, not [Javascript](http://www.marcusoft.net/search/label/Javascript) or [Nancy](http://www.marcusoft.net/search/label/Nancy) maybe but Limit WIP, [Lean](http://www.marcusoft.net/search/label/Lean) and [Kanban](http://www.marcusoft.net/search/label/Kanban). But with a Christian twist and message.
+**DISCLAIMER** for frequent readers of this blog: I now work for [the Salvation Army in Indonesia](https://www.marcusoft.net/2013/06/moving-to-indonesia.html) and they asked me to write an article from time to time in the Indonesian War Cry (the Salvation Army magazine). I of course used my normal style of writing and wrote about the thing I've written about here. Oh, not [Javascript](https://www.marcusoft.net/search/label/Javascript) or [Nancy](https://www.marcusoft.net/search/label/Nancy) maybe but Limit WIP, [Lean](https://www.marcusoft.net/search/label/Lean) and [Kanban](https://www.marcusoft.net/search/label/Kanban). But with a Christian twist and message.
 
 So if you don't want to read this, please stop now. I'll soon come back to my normal things. But if you want to please continue. Maybe there's something that you can use in here. Or not. As normal on this blog, I use it to store my ideas and thoughts. **END DISCLAIMER**
 
-Here is the second of two short articles that I've written for the Indonesian War Cry. [You can read the first here.](http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) This article is about Achieving more by doing less. I hope you like it.
+Here is the second of two short articles that I've written for the Indonesian War Cry. [You can read the first here.](https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) This article is about Achieving more by doing less. I hope you like it.
 
 ### Achieving more by doing less
 
@@ -35,10 +35,10 @@ The game is about writing letters and numbers in columns as fast as possible; in
 We want to get the time it takes to complete all three columns (the total time) as well as the time for each individual column.
 The first round I want you to do as much as possible at the same time, attending to all the columns at the same time. So do the columns row by row. Like this:
 
-A I 1  
-B II 2  
-C III 3  
-...  
+A I 1
+B II 2
+C III 3
+...
 J X 10
 
 As a special treat to you people reading this online I include this as simulated exercise here:
@@ -75,7 +75,7 @@ I hear what you are thinking now:
 
 > "Hrmf, dear article author, sir; shouldn't this have something to do with Christianity, the Salvation Army or Jesus? This sounds a bit more like a management book."
 
-If you read my [previous article](http://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) you remember that I think that we should be the best we can be for Him. Doing the MOST good. That both means that we want to optimize the value of our actions but also do less of the things that aren't valuable.
+If you read my [previous article](https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) you remember that I think that we should be the best we can be for Him. Doing the MOST good. That both means that we want to optimize the value of our actions but also do less of the things that aren't valuable.
 
 What in our life could we stop doing, simply because it's not valuable? Which of your "pens" could you put down?
 

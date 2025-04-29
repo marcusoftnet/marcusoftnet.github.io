@@ -7,7 +7,7 @@ tags:
   - .NET
 modified_time: 2006-12-29T07:36:06.522Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1077885982742039947
-blogger_orig_url: http://www.marcusoft.net/2006/11/performance-in-aspnet-apps.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/performance-in-aspnet-apps.html
 ---
 
 Read a great

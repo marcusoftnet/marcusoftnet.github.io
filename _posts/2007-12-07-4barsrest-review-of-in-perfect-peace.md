@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2007-12-07T11:53:46.922Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2527307076736865641
-blogger_orig_url: http://www.marcusoft.net/2007/12/4barsrest-review-of-in-perfect-peace.html
+blogger_orig_url: https://www.marcusoft.net/2007/12/4barsrest-review-of-in-perfect-peace.html
 ---
 
 4BarsRest has just reviewed the last CD from Gothenburg Brass Band - In Perfect

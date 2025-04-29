@@ -9,7 +9,7 @@ tags:
 modified_time: 2014-10-30
 thumbnail: /img/253323619_eb37d646b9_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8050334069200900800
-blogger_orig_url: http://www.marcusoft.net/2014/10/dontFearTheNews.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/dontFearTheNews.html
 ---
 
 ![Goldfish by josullivan.59](/img/253323619_eb37d646b9_m.jpg)
@@ -26,7 +26,7 @@ This is the same kind of thinking that can be found behind the [Chaos Monkey at 
 
 > Oh, yeah... One more thing before you start to write code here for us at Netflix. You should know that we have a program that runs around our server farm and shuts things down. Network cards, CPUs, and databases... those kinds of things. Make sure you think about it when you write your program.
 
-The code is, of course, better, because we know that we have to take this into consideration. [Are we coding for change or stability?](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)
+The code is, of course, better, because we know that we have to take this into consideration. [Are we coding for change or stability?](https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html)
 
 What would this be for an entire business? The "don't lie" or "Don't be a dick" as we say at [Aptitud](http://aptitud.se/). I was playing with this thought:
 

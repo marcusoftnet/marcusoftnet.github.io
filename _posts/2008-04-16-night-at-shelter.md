@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2008-04-15T19:53:12.811Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-343545671301042006
-blogger_orig_url: http://www.marcusoft.net/2008/04/night-at-shelter.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/night-at-shelter.html
 ---
 
 Tonight I am sleeping at the Salvation Army shelter for homeless in

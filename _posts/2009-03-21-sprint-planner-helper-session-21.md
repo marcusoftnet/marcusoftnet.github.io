@@ -8,10 +8,10 @@ tags:
   - TDD
 modified_time: 2009-03-20T21:11:42.876Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6600362055931403549
-blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-21.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/sprint-planner-helper-session-21.html
 ---
 
-I’m back! After [doing a detour](http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html) through the [sample chapter](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf) of the upcoming [ASP.NET MVC](http://www.asp.net/mvc/) book (lovingly called “The Four Faces,” I heard…), I now feel ready to continue.
+I’m back! After [doing a detour](https://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html) through the [sample chapter](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf) of the upcoming [ASP.NET MVC](http://www.asp.net/mvc/) book (lovingly called “The Four Faces,” I heard…), I now feel ready to continue.
 
 I learned a few things from that sample chapter—not just about ASP.NET MVC but also about some flaws in my [DDD](http://en.wikipedia.org/wiki/Domain-driven_design)-ing, especially in the use of the Repository pattern.
 

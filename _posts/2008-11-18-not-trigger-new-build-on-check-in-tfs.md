@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2008-11-18T08:56:59.177Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9090563442531140247
-blogger_orig_url: http://www.marcusoft.net/2008/11/not-trigger-new-build-on-check-in-tfs.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/not-trigger-new-build-on-check-in-tfs.html
 ---
 
 OK - today we found out why we are building 650 builds each week...

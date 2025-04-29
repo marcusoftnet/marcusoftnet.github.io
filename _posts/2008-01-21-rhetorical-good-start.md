@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-01-21T13:30:51.203Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2454732724246582743
-blogger_orig_url: http://www.marcusoft.net/2008/01/rhetorical-good-start.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/rhetorical-good-start.html
 ---
 
 I've

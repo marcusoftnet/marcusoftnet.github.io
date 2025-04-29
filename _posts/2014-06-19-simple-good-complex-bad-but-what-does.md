@@ -10,7 +10,7 @@ tags:
   - Salvation Army
 modified_time: 2014-06-19T07:42:17.939Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1426830830628928525
-blogger_orig_url: http://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/simple-good-complex-bad-but-what-does.html
 ---
 
 I’m a programmer. But I, for some strange reason, often find myself doing management consulting on different levels. Since my basic schooling is in programming I ~~sometimes~~ often find myself using principles that work well for programming in management.
@@ -63,7 +63,7 @@ The other part of Simple to me is short feedback loops. For example, when we cre
 - The meeting is short.
 - Problems that occur will be small.
 
-Funnily enough, if you meet seldom you can go through that list and make the opposites… And you [control the dial for that too](http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html).
+Funnily enough, if you meet seldom you can go through that list and make the opposites… And you [control the dial for that too](https://www.marcusoft.net/2014/06/controlling-disappointment-dial.html).
 
 There’s been a lot of [text written about meeting daily](http://martinfowler.com/articles/itsNotJustStandingUp.html) so let's just focus on the last bullet for now. This connects the short feedback loops with the other part of the heading – making things concrete often.
 

@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:23:11.103Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3644009418423301654
-blogger_orig_url: http://www.marcusoft.net/2008/11/aspects-i-love-it.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/aspects-i-love-it.html
 ---
 
 Today I really harvested the full effect of our inclusion of [Aspect Orientation](http://en.wikipedia.org/wiki/Aspect-oriented_programming), by using the [Policy Injection block](http://msdn.microsoft.com/en-us/library/cc309507.aspx) of [Enterprise Library](http://www.codeplex.com/entlib).
@@ -26,7 +26,7 @@ Here is my configuration:
 <!-- Caching policy for IDaVardeForrad REQUIRED! -->
 <add name="CachingPolicy">
   <matchingRules>
-    <add 
+    <add
       type="Microsoft.Practices.EnterpriseLibrary.PolicyInjection.MatchingRules.TypeMatchingRule,
       Microsoft.Practices.EnterpriseLibrary.PolicyInjection,
       Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35"

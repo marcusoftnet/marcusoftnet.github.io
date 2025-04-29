@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-08-13T06:01:15.215Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2418878764709914777
-blogger_orig_url: http://www.marcusoft.net/2007/08/home-again.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/home-again.html
 ---
 
 I am home again after four weeks vacation. Feels great and I am really in the mood to get down and do some programming again, and playing, and all the other stuff that I normally do.

@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2008-05-05T05:45:38.479Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-884317536801515701
-blogger_orig_url: http://www.marcusoft.net/2008/05/2008-european-championships-results.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/2008-european-championships-results.html
 ---
 
 
@@ -28,7 +28,7 @@ don't win any competitions against the other group. A 9 place for
 Stockholm Brass Band may have been a correct adjudication.
 
 And for me things went quite well. [My
-predictions](http://www.marcusoft.net/2008/04/2008-european-championships-my.html)
+predictions](https://www.marcusoft.net/2008/04/2008-european-championships-my.html)
 had the right three top bands, but not in the right order. I am not a
 big fan of [Cory](http://www.buyasyouviewcoryband.co.uk/) but apparently
 they kicked some serious butt in both events. Well done and well

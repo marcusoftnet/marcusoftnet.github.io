@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2006-11-30T06:50:22.683Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6659423292729480900
-blogger_orig_url: http://www.marcusoft.net/2006/11/vasaband-on-roll.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/vasaband-on-roll.html
 ---
 
 [![VasaBand Christmas Concert 2006](/img/julkonsert06.jpg)

@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2014-06-06T04:15:36.646Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3857759954962312283
-blogger_orig_url: http://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-trick.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-trick.html
 ---
 
 A couple of days ago I learned about the 7 Levels of Delegation in the [Management 3.0 book](http://www.management30.com/) by [Jurgen Appelo](http://www.jurgenappelo.com/).
@@ -24,7 +24,7 @@ I told her that she needed to delegate an area of responsibility to a manager of
 
 ![cringe](/img/cringe.gif)
 
-She cringed when I told her what I wanted her to try. By doing everything, she controlled all the information too. That made her feel safe. Now I asked her to move the [authority to the information](http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html), leaving decision power to someone else. That made her feel uncertain.
+She cringed when I told her what I wanted her to try. By doing everything, she controlled all the information too. That made her feel safe. Now I asked her to move the [authority to the information](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html), leaving decision power to someone else. That made her feel uncertain.
 
 > Side note here; I do this. Often. Especially with my kids. I am *not* better than anyone else on this, but this little revelation came to me and I think it will help me.
 

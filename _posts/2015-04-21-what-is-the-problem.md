@@ -101,7 +101,7 @@ And me adding:
 <blockquote>And current control can be replaced by transparency</blockquote>
 
 ## Leader/coaches over managers
-The organizations mentioned have very few managers. They have a [lot of leaders though](http://www.marcusoft.net/2015/01/leadership---not-management.html)... and the make leaders within their own ranks. A trademark of a healthy organization if you ask me.
+The organizations mentioned have very few managers. They have a [lot of leaders though](https://www.marcusoft.net/2015/01/leadership---not-management.html)... and the make leaders within their own ranks. A trademark of a healthy organization if you ask me.
 
 One common trait for all the organizations is the people "higher up" in the hierarchy have *no authority* over the people "lower down". The CEO is only advisory. And great care has been taken to make sure that it stays like that, even in the teams.
 

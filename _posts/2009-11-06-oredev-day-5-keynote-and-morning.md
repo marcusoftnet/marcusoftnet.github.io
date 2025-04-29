@@ -12,7 +12,7 @@ tags:
   - Agile
 modified_time: 2011-11-09T20:49:22.612Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7581226974756991164
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morning.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morning.html
 ---
 
 ### Information Overload and Managing Flow
@@ -24,7 +24,7 @@ The final day of ÖreDev started with a keynote by [Scott Hanselman](http://www.
 - **Triage**: Sort information and avoid leaving things in your inbox. Use the "Do it – Drop it – Delegate it – Defer it" approach to manage tasks.
 - **Signals vs. Noise**: Sort your data streams (Twitter, email, colleagues) into these categories.
 - **Email Management**: Emails where you’re CC'd are less important. Avoid checking emails first thing in the morning to prevent becoming the fastest responder to all problems. Instead, check emails three times a day for 20 minutes each.
-- **Work Hours**: Don’t try to outwork the system by putting in more hours. Instead, use techniques like the [Pomodoro Technique](http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) to schedule and manage your work.
+- **Work Hours**: Don’t try to outwork the system by putting in more hours. Instead, use techniques like the [Pomodoro Technique](https://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) to schedule and manage your work.
 - **Tool Recommendations**:
   - [RescueTime](http://www.rescuetime.com/): For introspective retrospectives.
   - [43 Folders](http://www.43folders.com/): A powerful but messy tool.

@@ -9,7 +9,7 @@ tags:
 
 This year has been a very strange one, for most of us. I thought I'd share a little Christmas Greeting.
 
-For me personally, I've gone through one of the big personal crisis of my life that led to a sudden, and deep, [fatigue syndrome](http://www.marcusoft.net/2020/10/marcus-and-the-wall.html). I am better but it takes longer that than I wanted and I still am fighting a lot of different symptoms of the sickness.
+For me personally, I've gone through one of the big personal crisis of my life that led to a sudden, and deep, [fatigue syndrome](https://www.marcusoft.net/2020/10/marcus-and-the-wall.html). I am better but it takes longer that than I wanted and I still am fighting a lot of different symptoms of the sickness.
 
 But there is hope. For all of us there is hope - we can do this. We can get through the pandemic, depression and fear. I'm sure that we will make it - and I'm sure that we will come out stronger, wiser and probably learned a lot.
 

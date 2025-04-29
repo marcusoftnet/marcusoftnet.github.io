@@ -10,7 +10,7 @@ tags:
 modified_time: 2013-06-18T19:18:25.753Z
 thumbnail: /img/Screen+Shot+2013-06-17+at+21.48.26+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-798473969077811208
-blogger_orig_url: http://www.marcusoft.net/2013/06/LeanUXEffectMap.html
+blogger_orig_url: https://www.marcusoft.net/2013/06/LeanUXEffectMap.html
 ---
 
 I ran across a [great post](http://heltsonika.wordpress.com/2012/10/11/lean-ux-med-effektkartan/) by [Dan Kindeborg](https://heltsonika.wordpress.com/om/) that taught me a lot about effect mapping (prequel to [Impact mapping](http://www.impactmapping.org/)). "Sadly" it was in Swedish, and I couldn't keep the material to myself. So I asked Dan for permission to translate the [original post](http://heltsonika.wordpress.com/2012/10/11/lean-ux-med-effektkartan/) here on my blog. He was totally fine with that, so here it is. When you read stuff about UX and design below, it's Dan's words. I still know nothing about that. But I learned a lot by reading this, and I hope you do too. So, from the next paragraph when you read "I think," it's actually Dan thinking. Just so you know. Over to Dan.

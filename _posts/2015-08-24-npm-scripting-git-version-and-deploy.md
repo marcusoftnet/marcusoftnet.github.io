@@ -9,7 +9,7 @@ tags:
  - Tools
 ---
 
-In the [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html) I promised to write something about "git, pushing and deploying". This is purely from a personal need since I have used [make](https://www.gnu.org/software/make/http://www.marcusoft.net/2014/02/mnb-packagejson.html) for those things. I wanted to see if I can move all of that to use [npm](https://docs.npmjs.com/misc/scripts) and [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) instead.
+In the [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html) I promised to write something about "git, pushing and deploying". This is purely from a personal need since I have used [make](https://www.gnu.org/software/make/https://www.marcusoft.net/2014/02/mnb-packagejson.html) for those things. I wanted to see if I can move all of that to use [npm](https://docs.npmjs.com/misc/scripts) and [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) instead.
 
 I'll also add a compile and minification step, just since that it's a common need.
 
@@ -18,16 +18,16 @@ This, and other posts on npm scripting, has drawn a lot of attention. I wanted y
 
 Also, don't miss the other posts on this blog on npm scripting:
 
-* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
-* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
-* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+* [npm scripting: git, version and deploy](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](https://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 
 If you liked this post I know you will love the course! Thank you for reading this
 
 <!-- excerpt-end -->
 
 ## The makes of a makefile
-My current [make file](http://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html) (that I copy around from project to project) does the following:
+My current [make file](https://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html) (that I copy around from project to project) does the following:
 
 1. Test the application, see [last post](/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 2. Create a release by incrementing the minor part of the version number in <code>package.json</code>

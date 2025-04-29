@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2009-06-13T10:35:07.138Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3866509650310930638
-blogger_orig_url: http://www.marcusoft.net/2009/06/great-introduction-to-bdd.html
+blogger_orig_url: https://www.marcusoft.net/2009/06/great-introduction-to-bdd.html
 ---
 
 [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) (Behavior Driven Development) is the next natural evolution from [TDD](http://en.wikipedia.org/wiki/Test-driven_development). Since I am now converted to TDD, I thought I’d look into BDD.

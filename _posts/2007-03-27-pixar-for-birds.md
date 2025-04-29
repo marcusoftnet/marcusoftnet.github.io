@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2007-03-27T06:37:15.026Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8407772763677773685
-blogger_orig_url: http://www.marcusoft.net/2007/03/pixar-for-birds.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/pixar-for-birds.html
 ---
 
 This one great short animated movie from the geniuses from Pixar.

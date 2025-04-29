@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-10-01T10:28:28.964Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5877411300635892001
-blogger_orig_url: http://www.marcusoft.net/2008/10/rockbox-and-upgrading-my-iriver.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/rockbox-and-upgrading-my-iriver.html
 ---
 
 
@@ -24,7 +24,7 @@ example:
 That second point is quite cool and I've just downloaded the latest
 version of [RockBox](http://www.rockbox.org/) - a free open source
 operating system for MP3-players. Quite cool as [I
-wrote](http://www.marcusoft.net/2006/11/rockbox-cool-stuff.html) a long
+wrote](https://www.marcusoft.net/2006/11/rockbox-cool-stuff.html) a long
 time ago... [Their
 installer](http://www.rockbox.org/twiki/bin/view/Main/RockboxUtility)
 was also something quite extra. Best I've seen in a long, long time - it

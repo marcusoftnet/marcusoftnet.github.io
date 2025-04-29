@@ -13,7 +13,7 @@ tags:
 modified_time: 2014-10-02
 thumbnail: /img/ikon_photo_book_150px.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8141264207080780779
-blogger_orig_url: http://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/my-second-book-is-out-kinda.html
 ---
 
 ![Book Cover](/img/ikon_photo_book_150px.jpg)

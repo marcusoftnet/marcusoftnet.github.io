@@ -12,21 +12,21 @@ tags:
 modified_time: 2014-06-02T08:56:52.516Z
 thumbnail: /img/Screen+Shot+2014-02-01+at+20.05.01+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5065072872368802136
-blogger_orig_url: http://www.marcusoft.net/2014/02/mnb-should.html
+blogger_orig_url: https://www.marcusoft.net/2014/02/mnb-should.html
 ---
 
 I'm writing down some of the things I've picked up when I started to learn about [Node](http://nodejs.org/), [Express](http://expressjs.com/), and [Mongo](http://www.mongodb.org/). Here are all the posts in the series:
 
-- [Doing stuff in the terminal is not scary at all](http://www.marcusoft.net/2014/02/mnb-terminal.html)
-- [`npm` is not only for getting packages](http://www.marcusoft.net/2014/02/mnb-npm.html)
-- [Package.json is a mighty tool](http://www.marcusoft.net/2014/02/mnb-packagejson.html)
-- [`git` is not that hard, but I need to refresh my knowledge](http://www.marcusoft.net/2014/02/mnb-git.html)
-- [Callback function is cool stuff, and I even know how to write them](http://www.marcusoft.net/2014/02/mnb-callbacks.html)
-- [mocha is cool both as a framework and test runner](http://www.marcusoft.net/2014/02/mnb-mocha.html)
+- [Doing stuff in the terminal is not scary at all](https://www.marcusoft.net/2014/02/mnb-terminal.html)
+- [`npm` is not only for getting packages](https://www.marcusoft.net/2014/02/mnb-npm.html)
+- [Package.json is a mighty tool](https://www.marcusoft.net/2014/02/mnb-packagejson.html)
+- [`git` is not that hard, but I need to refresh my knowledge](https://www.marcusoft.net/2014/02/mnb-git.html)
+- [Callback function is cool stuff, and I even know how to write them](https://www.marcusoft.net/2014/02/mnb-callbacks.html)
+- [mocha is cool both as a framework and test runner](https://www.marcusoft.net/2014/02/mnb-mocha.html)
 - Should is a nice way to do asserts - this post
-- [`monk` is an easy way to access mongo](http://www.marcusoft.net/2014/02/mnb-monk.html)
-- [Express is best without generators](http://www.marcusoft.net/2014/02/mnb-express.html)
-- [supertest is a nice way to test an API](http://www.marcusoft.net/2014/02/mnb-supertest.html)
+- [`monk` is an easy way to access mongo](https://www.marcusoft.net/2014/02/mnb-monk.html)
+- [Express is best without generators](https://www.marcusoft.net/2014/02/mnb-express.html)
+- [supertest is a nice way to test an API](https://www.marcusoft.net/2014/02/mnb-supertest.html)
 
 This post is about an assertion framework that I've come to love: [should.js](https://github.com/visionmedia/should.js).
 

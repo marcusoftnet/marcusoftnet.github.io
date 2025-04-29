@@ -17,7 +17,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 ## Orginal post
 
-For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](http://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript.
+For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](https://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript.
 
 Being a backend-guy (I will NEVER understand CSS… There – I’ve said it!) I soon came to look into [Node](http://www.nodejs.org/)too. And pretty soon after that I met [Express](http://www.expressjs.com/). Express was very nice since it reminded me of [Nancy](http://www.nancyfx.org/). Felt right at home, back on the super-duper-happy-path! So after going through a lot of examples and tutorials and writing a couple of applications on my own I grew really tiered of one feature of most Node applications.
 
@@ -45,7 +45,7 @@ That was … …wait (state)
 
 <!-- excerpt-end -->
 
-There – we can continue. _the fact_ that you need to use [callbacks](http://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely.
+There – we can continue. _the fact_ that you need to use [callbacks](https://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) so extensively. Don’t get me wrong – the non-blocking principles that Node is built around is awesome. I especially like that you “fall into the pit of success” since everything is written around non-blocking code, which automatically helps my application to scale and manage resource wisely.
 
 But seriously… all those nested callbacks are making my eyes bleed. Talk about hiding the intention of the code. And I also grew very tired of trying of passing state through the chain of callbacks just to be able to use it in the final one. And for the record; Yes – I have heard about [promises](http://www.html5rocks.com/en/tutorials/es6/promises/), but for some reason I couldn’t wrap my head around it. For me, it didn’t feel natural. Never gave it a proper chance, I’m willing to admit. But when I saw [Koa Js](http://koajs.com/) things started to make sense again. Here is a mini-application that returns a user, from [MongoDB](http://mongodb.github.io/)by name sent to the URL.
 
@@ -117,7 +117,7 @@ I said above that yield most commonly is used within enumerations of sequences (
 - It needs to contain one or more yield-statements
 - You need to denote it with an asterisk, like the example above; function \*_theGenerator(){}_ or for anonymous functions just _function \*(){}_
 
-You can read more about [generators here](http://www.marcusoft.net/2014/04/koaGenYield.html).
+You can read more about [generators here](https://www.marcusoft.net/2014/04/koaGenYield.html).
 
 From <http://twistedsifter.com/2012/04/50-animated-gifs-for-every-situation-ever/>
 
@@ -155,7 +155,7 @@ Let’s say that we had the code from my example above in a file called generato
  “scripts” : { “start” : “node –harmony app.js” }
 ```
 
-This will then allow me to start the application, like I always do, with “npm start”. If you want to learn more I’ve written about [package.json](http://www.marcusoft.net/2014/02/mnb-packagejson.html) and [npm](http://www.marcusoft.net/2014/02/mnb-npm.html).
+This will then allow me to start the application, like I always do, with “npm start”. If you want to learn more I’ve written about [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) and [npm](https://www.marcusoft.net/2014/02/mnb-npm.html).
 
 ## A quick note on a problem you might run into
 
@@ -248,7 +248,7 @@ console.log("Blog engine fired up on http://localhost:3000");
 
 If you think this looks a lot like ExpressJs you are right. Koa is actually created by the VisionMedia guys, that created Express too. Wonder why they did that…?
 
-Routing works as expected by telling the app to `.use` a certain function to response to a certain URL. Nothing strange. Also note how simple it is to use the middleware of Koa, just `app.use(logger())` and you’re done. Writing your own middleware, or encapsulating them is very easy to. [Here’s a post](http://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html) where I create my own very simple middleware.
+Routing works as expected by telling the app to `.use` a certain function to response to a certain URL. Nothing strange. Also note how simple it is to use the middleware of Koa, just `app.use(logger())` and you’re done. Writing your own middleware, or encapsulating them is very easy to. [Here’s a post](https://www.marcusoft.net/2014/05/marcus-node-bits-basic-authentication.html) where I create my own very simple middleware.
 
 But right now, nothing is really happening in the app… it’s just routes. Let’s create the `blogRoutes.js` we’re requiring on line 11, just below the // routes comment.
 
@@ -409,7 +409,7 @@ describe("Blog with mongo:", function () {
 });
 ```
 
-Here we are using [Supertest](http://www.marcusoft.net/2014/02/mnb-supertest.html) together with [mocha](http://www.marcusoft.net/2014/02/mnb-mocha.html) to test our application. Note how simple it is to do requests against the application (line 4 and 29-33) and how we can validate the data on the page too. I should say a couple of words about [co](http://npmjs.org/package/co) and how I’m using it in testing. In order to show an existing post from the database on the page, I need first to insert it into mongo. I do that using the posts-collection from the `blogRoutes.js` file.
+Here we are using [Supertest](https://www.marcusoft.net/2014/02/mnb-supertest.html) together with [mocha](https://www.marcusoft.net/2014/02/mnb-mocha.html) to test our application. Note how simple it is to do requests against the application (line 4 and 29-33) and how we can validate the data on the page too. I should say a couple of words about [co](http://npmjs.org/package/co) and how I’m using it in testing. In order to show an existing post from the database on the page, I need first to insert it into mongo. I do that using the posts-collection from the `blogRoutes.js` file.
 
 When that is done I need to access the page and validate that the data is on there. Since the co-monk is using generators it’s expecting that we use yield, and hence wait until that line is completed before moving on, we need someone to control that flow of execution. That’s Koa when we’re running this as a web application, but in the testing case we need help from another library, `co` . Co controls the flow through the yields for us and we can write the code as in our tests.
 
@@ -430,6 +430,6 @@ First – all the code for this [blog post can be found here](https://github.com
 - [Great intro on Generators](http://tobyho.com/2013/06/16/what-are-generators/)
 - [Koa’s own examples](https://github.com/koajs/examples/) contains a lot of good starting points
 - [Koa’s website](http://www.koajs.com/)
-- And I’ve written [some posts on Koa](http://www.marcusoft.net/search/label/Koa) that dives a bit deeper than this
+- And I’ve written [some posts on Koa](https://www.marcusoft.net/search/label/Koa) that dives a bit deeper than this
 
 I hope this longish post helps you steer away from some of the long winding error roads I have travelled and wrong turns I’ve taken the last couple of months.

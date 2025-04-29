@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2007-03-26T05:54:11.392Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-485016979108118326
-blogger_orig_url: http://www.marcusoft.net/2007/03/weekend-to-end.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/weekend-to-end.html
 ---
 
 After a really busy weekend I have just started a

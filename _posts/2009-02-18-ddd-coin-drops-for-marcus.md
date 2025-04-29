@@ -10,7 +10,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-18T11:03:35.713Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6314861110076624802
-blogger_orig_url: http://www.marcusoft.net/2009/02/ddd-coin-drops-for-marcus.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/ddd-coin-drops-for-marcus.html
 ---
 
 
@@ -64,7 +64,7 @@ design:
     the model in a more direct way than to write about it.
 
 So that was quite a lot of information to me and to the [Sprint Planner
-Project](http://www.marcusoft.net/search/label/Sprint%20Planner%20Helper).
+Project](https://www.marcusoft.net/search/label/Sprint%20Planner%20Helper).
 No code today – but quite a lot of nice input.
 
 Here’s a last one: since I only code one hour a day I often find it hard

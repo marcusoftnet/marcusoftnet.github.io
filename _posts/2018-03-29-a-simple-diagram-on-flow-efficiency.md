@@ -119,7 +119,7 @@ Well, that is not hard to understand at all if you add an equally crude organiza
 
 ![Organization Chart](/img/flowefficiency_5.jpg)
 
-The departments are organized in silos, but this work requires that we go through all the silos and work together to achieve a result. This is how value is created - it's called the value stream (I blogged about [that realization before - it was painful](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html))
+The departments are organized in silos, but this work requires that we go through all the silos and work together to achieve a result. This is how value is created - it's called the value stream (I blogged about [that realization before - it was painful](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html))
 
 We have a legal department to do legal things, a development department to develop things, and sometimes even a testing department to test things. They are often tracked on how many things they are doing and rewarded accordingly. The more you test, the better. This means that you are always trying to be busy - hence increasing your work in process and probably queue length.
 

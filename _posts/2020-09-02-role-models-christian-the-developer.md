@@ -12,7 +12,7 @@ I've just started a series about a few a the people that have shaped, influenced
 
 I am, as the saying goes, standing on the shoulders of giants. For what they have done for me I'm very grateful and I wanted to show that gratitude here.
 
-The first post was about [Staffan](http://www.marcusoft.net/2020/08/role-models-staffan-the-consultant.html) - that showed me servant leadership and what a consultant is. Today it's about [Christian Forsberg](https://www.linkedin.com/in/christianforsberg), a rock 'n roll developer.
+The first post was about [Staffan](https://www.marcusoft.net/2020/08/role-models-staffan-the-consultant.html) - that showed me servant leadership and what a consultant is. Today it's about [Christian Forsberg](https://www.linkedin.com/in/christianforsberg), a rock 'n roll developer.
 
 <!-- excerpt-end -->
 

@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-05-06T06:45:08.976Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7543601996402260284
-blogger_orig_url: http://www.marcusoft.net/2008/05/made-me-happy.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/made-me-happy.html
 ---
 
 Here are two short videos that made me happy in the morning. The first is a song with Oh Laura. The lead is performed by a friend of mine, Jörgen Kjellgren.

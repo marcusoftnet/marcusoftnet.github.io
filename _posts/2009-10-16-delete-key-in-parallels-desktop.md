@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2009-10-16T14:41:54.062Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5657349061531373331
-blogger_orig_url: http://www.marcusoft.net/2009/10/delete-key-in-parallels-desktop.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/delete-key-in-parallels-desktop.html
 ---
 
 

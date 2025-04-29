@@ -7,7 +7,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:18:09.700Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5234814501701697946
-blogger_orig_url: http://www.marcusoft.net/2010/01/visual-studio-2010-webconfig.html
+blogger_orig_url: https://www.marcusoft.net/2010/01/visual-studio-2010-webconfig.html
 ---
 
 

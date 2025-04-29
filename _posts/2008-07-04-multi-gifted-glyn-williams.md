@@ -9,7 +9,7 @@ tags:
   - Euphonium
 modified_time: 2008-07-04T07:01:01.322Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-396031901073453443
-blogger_orig_url: http://www.marcusoft.net/2008/07/multi-gifted-glyn-williams.html
+blogger_orig_url: https://www.marcusoft.net/2008/07/multi-gifted-glyn-williams.html
 ---
 
 I can't keep this clip from you - it's golden. The clip shows one of my favorite bands, [the Fodens Richardsons band](http://www.fodensband.co.uk/), in their best party-mode. The "main" soloist is an excellent euphonium player named Glyn Williams, but here he tries out some other instruments also.

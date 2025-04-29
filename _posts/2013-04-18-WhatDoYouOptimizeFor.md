@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2013-04-23T09:01:49.830Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4901344307200799475
-blogger_orig_url: http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html
+blogger_orig_url: https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html
 ---
 
 
@@ -129,5 +129,5 @@ These two stories got me thinking.
 What do you optimize for?
 
 I wrote a follow-up
-[post](http://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html) on
+[post](https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor2.html) on
 this topic if you want to read more.

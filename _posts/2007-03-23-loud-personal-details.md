@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-03-23T06:39:21.340Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5792618868011093876
-blogger_orig_url: http://www.marcusoft.net/2007/03/loud-personal-details.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/loud-personal-details.html
 ---
 
 I'm

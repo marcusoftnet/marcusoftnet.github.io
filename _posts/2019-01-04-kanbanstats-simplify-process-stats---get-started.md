@@ -144,7 +144,7 @@ Although it looks a bit messy it’s quite a lot that we can read out of this ch
 
 ## Summary
 
-I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single chart in the dashboard. In [the next post](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html) – let's make a version that allows us to do some filtering.
+I think that is enough for now. We have got started. The next blog posts will be a shorter and only concern a single chart in the dashboard. In [the next post](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html) – let's make a version that allows us to do some filtering.
 
 I wanted to create a powerful but simple tool, where the user can simply paste some data into one place and then the dashboard does the calculations needed to make better sense of the raw process data.
 
@@ -157,9 +157,9 @@ In this first post, we got started by creating a process running chart for lead 
 
 All the posts in the series are found through these links:
 
-1. [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-2. [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-3. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-4. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-5. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
-6. [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
+1. [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+2. [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+3. [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+4. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+5. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+6. [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)

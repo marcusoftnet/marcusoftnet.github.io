@@ -8,7 +8,7 @@ tags:
   - Fun
 modified_time: 2006-12-29T07:35:38.489Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1005349153656350675
-blogger_orig_url: http://www.marcusoft.net/2006/12/great-seinfeld-episode-yesterday.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/great-seinfeld-episode-yesterday.html
 ---
 
 

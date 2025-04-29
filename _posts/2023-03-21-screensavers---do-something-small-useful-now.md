@@ -12,11 +12,11 @@ This the fourth installation of my series with tips that I feed myself everyday,
 
 Here are all the posts in my series:
 
-- [Kindness is better](http://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
-- [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
-- [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
+- [Kindness is better](https://www.marcusoft.net/2023/03/my-screensavers-kindness-is-better.html)
+- [Complex == Bad. Simple == Good](https://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
+- [What would Jesus do?](https://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
 - (DO(SOMETHING(SMALL(USEFUL(NOW()))))) - This post
-- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
+- [Turn up the good](https://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 

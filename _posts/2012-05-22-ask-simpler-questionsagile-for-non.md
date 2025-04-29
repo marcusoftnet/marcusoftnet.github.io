@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2012-05-22T14:10:35.764Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8353209360813982392
-blogger_orig_url: http://www.marcusoft.net/2012/05/ask-simpler-questionsagile-for-non.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/ask-simpler-questionsagile-for-non.html
 ---
 
 A couple of years ago I attended a course with
@@ -31,9 +31,9 @@ questions. And then all of a sudden it dawned on me; this is what we’re
 trying to do all the time with agile. Break down complex and hard
 questions into small easier questions.
 This is the third post in this small series (read part <a
-href="http://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html"
+href="https://www.marcusoft.net/2012/05/agile-is-good-for-business-part-i.html"
 target="_blank">one</a> and <a
-href="http://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html"
+href="https://www.marcusoft.net/2012/05/deploying-often-is-betteragile-for-non.html"
 target="_blank">two</a>), and again – if you are an agile old-timer this
 is probably not new to you. Please read along but remember that this is
 just me trying putting together old thoughts and practice that already
@@ -52,7 +52,7 @@ are actually pulling the production code from you. And the you can
 easily see the next step, based on the one you already took.
 
 I then got that feeling again as I was doing a task for writing <a
-href="http://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html"
+href="https://www.marcusoft.net/2012/04/im-writing-book-on-kanban.html"
 target="_blank">the book</a>; I was asked to organize the table of
 contents. When first faced with the task of writing a book I wondered
 how I was going to do it; just crack my knuckles and start to write at

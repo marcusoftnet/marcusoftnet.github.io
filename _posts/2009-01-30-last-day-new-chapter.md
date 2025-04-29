@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2009-01-30T07:09:21.487Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6772939701414694365
-blogger_orig_url: http://www.marcusoft.net/2009/01/last-day-new-chapter.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/last-day-new-chapter.html
 ---
 
 I have come to a fork in the road of my life (that almost sounds like a poem :)).
@@ -23,5 +23,5 @@ Elin is working nights right now, which means she has a lot of free time during 
 
 So that’s my agenda for the next six months: daddy-free! See you!
 
-**P.S.**  
+**P.S.**
 I’ve just bought [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) and [Patterns of Enterprise Architecture](http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420) - so I’ll be reading those. I also plan to start a little hobby project to explore [DDD](http://en.wikipedia.org/wiki/DDD), [TDD](http://en.wikipedia.org/wiki/Test-driven_development), and [ASP.NET MVC](http://www.asp.net/mvc/). I’ll update you on that if I follow through.

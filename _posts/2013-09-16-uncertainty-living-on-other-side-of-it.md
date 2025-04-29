@@ -9,7 +9,7 @@ tags:
   - Indonesia
 modified_time: 2013-09-16T13:10:53.153Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-314128669280077609
-blogger_orig_url: http://www.marcusoft.net/2013/09/uncertainty-living-on-other-side-of-it.html
+blogger_orig_url: https://www.marcusoft.net/2013/09/uncertainty-living-on-other-side-of-it.html
 ---
 
 
@@ -34,7 +34,7 @@ all.
 ### No status = all statuses
 
 As you might or might not known I'm in the process of
-<a href="http://www.marcusoft.net/2013/06/moving-to-indonesia.html"
+<a href="https://www.marcusoft.net/2013/06/moving-to-indonesia.html"
 target="_blank">moving to Indonesia</a>. Right now we are waiting for
 the work permits and subsequently the visas to get into Indonesia. We
 sent all the paper work to get those permits to the Indonesian embassy

@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2010-10-25T09:54:19.072Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4353853140548734745'
-blogger_orig_url: http://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html
+blogger_orig_url: https://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html
 ---
 
 

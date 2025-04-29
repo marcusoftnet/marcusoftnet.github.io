@@ -9,7 +9,7 @@ tags:
   - Scrum
 modified_time: 2014-10-28T06:25:49.243Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2396561934348658248'
-blogger_orig_url: http://www.marcusoft.net/2007/10/slow-and-fast.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/slow-and-fast.html
 ---
 
 We are closing in on the end of the project (the development phase) and

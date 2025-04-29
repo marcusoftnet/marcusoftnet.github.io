@@ -9,7 +9,7 @@ tags:
   - SpecFlow
 modified_time: 2011-02-01T20:48:59.755Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5960457740940799277
-blogger_orig_url: http://www.marcusoft.net/2011/02/customize-your-specflow-templates-and.html
+blogger_orig_url: https://www.marcusoft.net/2011/02/customize-your-specflow-templates-and.html
 ---
 
 I got this tip from a non-developer. An intern, actually. He’s brilliant though and figured this out by himself, about 3 months after I introduced him to [SpecFlow](http://www.specflow.org). Thank you, Dejen – you’re great!

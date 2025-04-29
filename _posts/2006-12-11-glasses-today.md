@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2006-12-11T07:39:19.254Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2516533581870950660
-blogger_orig_url: http://www.marcusoft.net/2006/12/glasses-today.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/glasses-today.html
 ---
 
 Today is the day! I will get my glasses. A bit scared but after

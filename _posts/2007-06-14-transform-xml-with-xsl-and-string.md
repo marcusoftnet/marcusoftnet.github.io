@@ -7,7 +7,7 @@ tags:
   - VB.NET
 modified_time: 2007-06-14T11:43:29.854Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5447969887586774494
-blogger_orig_url: http://www.marcusoft.net/2007/06/transform-xml-with-xsl-and-string.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/transform-xml-with-xsl-and-string.html
 ---
 
 

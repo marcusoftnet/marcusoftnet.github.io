@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2009-09-06T19:11:55.338Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2004630147388025983
-blogger_orig_url: http://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-success.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/vasa-band-and-saturday-night-success.html
 ---
 
 This weekend, the band I play in, the [Vasa Band](http://www.vasaband.se), had the privilege of performing at the Salvation Army's regional congress in Örebro. We were invited to participate in the musical festival on Saturday.

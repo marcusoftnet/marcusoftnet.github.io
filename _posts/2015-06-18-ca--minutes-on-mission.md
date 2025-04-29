@@ -33,7 +33,7 @@ Please read the reason and ideas behind the [entire series in the first post](/2
 
 In the presentation I go through a couple of examples and take a look at the good and bad parts of them.
 
-There's also a short segment about values, which [I have blogged about before](http://www.marcusoft.net/2014/09/values.html).
+There's also a short segment about values, which [I have blogged about before](https://www.marcusoft.net/2014/09/values.html).
 
 You can see the presentation here, with EXCELLENT subtitles :):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MkLhlJyfpsw" frameborder="0" allowfullscreen></iframe>

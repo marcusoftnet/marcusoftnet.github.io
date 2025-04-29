@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2009-08-13T12:20:11.318Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3078518711410422523
-blogger_orig_url: http://www.marcusoft.net/2009/08/some-great-soa-articles.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/some-great-soa-articles.html
 ---
 
 I am preparing a talk on [SOA](http://en.wikipedia.org/wiki/Service-oriented_architecture). That always scares me since it’s such a big topic. Who among us would want to answer the question, ["What is SOA?"](http://www.whatissoa.com/)

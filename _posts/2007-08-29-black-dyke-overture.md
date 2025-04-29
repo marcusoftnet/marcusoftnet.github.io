@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-08-29T20:16:34.297Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4514966816691630430
-blogger_orig_url: http://www.marcusoft.net/2007/08/black-dyke-overture.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/black-dyke-overture.html
 ---
 
 The season has started for the brass band in UK and Black Dyke kicked it off with a tour of the Netherlands.

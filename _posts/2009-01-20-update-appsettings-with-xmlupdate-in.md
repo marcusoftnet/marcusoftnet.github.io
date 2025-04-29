@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2009-01-20T07:00:15.088Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3488066834100206897
-blogger_orig_url: http://www.marcusoft.net/2009/01/update-appsettings-with-xmlupdate-in.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/update-appsettings-with-xmlupdate-in.html
 ---
 
 I know I will chase this one forever if I don't put it up here...
@@ -20,7 +20,7 @@ Luckily, there is a solution available. With the `XmlUpdate` task (from the [MSB
 Here’s how to use it (I found this [example here](http://geekswithblogs.net/paulwhitblog/archive/2006/04/11/74844.aspx)):
 
 ```xml
-<XmlUpdate 
+<XmlUpdate
     Namespace="http://schemas.microsoft.com/.NetConfiguration/v2.0"
     XmlFileName="$(SourceDir)\Core\ABSuite\ABClient\App.config"
     Xpath="//configuration/appSettings/add[@key='Main.ConnectionString']/@value"

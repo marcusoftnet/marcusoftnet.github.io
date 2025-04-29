@@ -11,12 +11,12 @@ tags:
 modified_time: 2010-12-14T15:18:09.697Z
 thumbnail: /img/exclude+from+sourcecontrol.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4159732501731910010
-blogger_orig_url: http://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html
+blogger_orig_url: https://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html
 ---
 
-**UPDATED**: See [this post](http://www.marcusoft.net/2010/10/different-appsetttings-for-each.html) for a different way to do this.
+**UPDATED**: See [this post](https://www.marcusoft.net/2010/10/different-appsetttings-for-each.html) for a different way to do this.
 
-In our current team, we’re doing a [lot of integration testing](http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html), which means we need a well-known state in the database before each test run. We have solved this with a simple restore of a known backup before each test run (using the handy BeforeTestRun attribute of [SpecFlow](http://www.specflow.org/)). But we have run into some issues...
+In our current team, we’re doing a [lot of integration testing](https://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html), which means we need a well-known state in the database before each test run. We have solved this with a simple restore of a known backup before each test run (using the handy BeforeTestRun attribute of [SpecFlow](http://www.specflow.org/)). But we have run into some issues...
 
 This approach means we end up destroying the database for each other all the time during development. So we created a small database for each developer and restored that before each test run. But again, it came back to bite us.
 

@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2006-12-18T06:44:24.007Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5000153235170939039
-blogger_orig_url: http://www.marcusoft.net/2006/12/first-sant-completed.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/first-sant-completed.html
 ---
 
 Yesterday did my first Santa-performance!

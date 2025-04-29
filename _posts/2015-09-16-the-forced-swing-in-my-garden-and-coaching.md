@@ -32,7 +32,7 @@ Note - it was better. Clearly an improvement. But I now feel a bit dismissive to
 
 ## Coaching
 
-A couple of months ago, I wrote a post on ["Only Helping Those Who Want Help"](http://www.marcusoft.net/2015/06/only-help-those-that-want-help.html). In that post, I was reasoning from the perspective of myself as a helper, improver, consultant.
+A couple of months ago, I wrote a post on ["Only Helping Those Who Want Help"](https://www.marcusoft.net/2015/06/only-help-those-that-want-help.html). In that post, I was reasoning from the perspective of myself as a helper, improver, consultant.
 
 But this episode reminded me of the inverse: "Don't Help Those Who Don't Want Help." This is about respect and trust. As a consultant, as someone who wants to give you advice, I have to respect your space and state of mind.
 

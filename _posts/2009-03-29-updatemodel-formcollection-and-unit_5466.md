@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2009-03-30T19:42:08.943Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1434916614193180165
-blogger_orig_url: http://www.marcusoft.net/2009/03/updatemodel-formcollection-and-unit_5466.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/updatemodel-formcollection-and-unit_5466.html
 ---
 
 I ran into some problems with an Action Controller method that accepted a `FormCollection`. Inside the method, I use `UpdateModel` to get the values from the form into the model class.

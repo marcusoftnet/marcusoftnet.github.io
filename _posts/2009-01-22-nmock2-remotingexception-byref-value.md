@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2012-08-12T07:30:52.050Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5118053612590653411
-blogger_orig_url: http://www.marcusoft.net/2009/01/nmock2-remotingexception-byref-value.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/nmock2-remotingexception-byref-value.html
 ---
 
 

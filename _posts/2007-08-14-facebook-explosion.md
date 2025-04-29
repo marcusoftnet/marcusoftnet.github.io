@@ -8,7 +8,7 @@ tags:
   - Tools
 modified_time: 2010-12-14T15:22:38.336Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8506333806631973494
-blogger_orig_url: http://www.marcusoft.net/2007/08/facebook-explosion.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/facebook-explosion.html
 ---
 
 OK -

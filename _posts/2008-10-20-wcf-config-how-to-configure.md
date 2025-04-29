@@ -7,7 +7,7 @@ tags:
   - WCF
 modified_time: 2008-10-20T09:11:50.064Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1325842803821633001
-blogger_orig_url: http://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html
 ---
 
 

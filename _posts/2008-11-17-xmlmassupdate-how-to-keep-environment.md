@@ -7,7 +7,7 @@ tags:
   - MSBuild
 modified_time: 2010-12-14T15:20:33.238Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8864576940672244780
-blogger_orig_url: http://www.marcusoft.net/2008/11/xmlmassupdate-how-to-keep-environment.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/xmlmassupdate-how-to-keep-environment.html
 ---
 
 
@@ -21,7 +21,7 @@ here... 90% of this file hasn't changed from the last environment...".
 
 But you don't get the time to investigate always. But now, again after
 some <a
-href="http://www.marcusoft.net/2008/11/calling-sandcastle-with-response-file.html"
+href="https://www.marcusoft.net/2008/11/calling-sandcastle-with-response-file.html"
 target="_blank">thoughtful input by colleagues</a>, I noticed the
 XMLMassUpdate.
 

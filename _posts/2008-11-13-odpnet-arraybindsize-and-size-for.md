@@ -8,10 +8,10 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:23:30.903Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5487802933639404013
-blogger_orig_url: http://www.marcusoft.net/2008/11/odpnet-arraybindsize-and-size-for.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/odpnet-arraybindsize-and-size-for.html
 ---
 
-I have [written](http://www.marcusoft.net/2008/09/how-to-pass-and-receive-associative.html) about this before but I'll make a short recap since it has to do with some quite interesting stuff in Oracle.
+I have [written](https://www.marcusoft.net/2008/09/how-to-pass-and-receive-associative.html) about this before but I'll make a short recap since it has to do with some quite interesting stuff in Oracle.
 
 With [ODP.NET](http://www.oracle.com/technology/tech/windows/odpnet/index.html) you can harness the full power of Oracle's features such as, for example, using [Associative Arrays](http://en.wikipedia.org/wiki/Associative_array) to bulk stuff into the database. We are using this feature in my current application since it will handle big loads.
 

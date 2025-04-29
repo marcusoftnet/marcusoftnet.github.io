@@ -7,7 +7,7 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:20:33.297Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-548239126291337484
-blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-configuration-or-do-it-yourself.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/wcf-configuration-or-do-it-yourself.html
 ---
 
 Configuration of WCF-services is a vast area... anyone who looked

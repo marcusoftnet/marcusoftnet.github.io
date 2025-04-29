@@ -15,7 +15,7 @@ My favourite quote is a simple one:
 
 > Move the authority to the information
 
-I like it so much that I've already 2 years ago wrote a [blog post about that idea](http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html), outlining why this is a good thing and how we can save a lot of effort and time in moving the information back and forth.
+I like it so much that I've already 2 years ago wrote a [blog post about that idea](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html), outlining why this is a good thing and how we can save a lot of effort and time in moving the information back and forth.
 
 The other week I realised that there's other, more subtle and viscous wastes in continuing to move the information to the authority (as we do now). In this post I will describe what that is and how to avoid it.
 
@@ -47,7 +47,7 @@ Also the (outsourced) deployment team will be inquired on why they are so slow a
 
 On your way out of the meeting you get a sinking feeling that you may not have got decisions for the right thing by the management board. Did they really grasp the situation? It was not moving the deployment team faster that really was the problem, but that was all you had time to talk about in the short time span. Your next slide had other, more important things.
 
-Next time you decide to [work around the system](http://www.marcusoft.net/2014/11/goodpeople.html) instead of going the correct way. Surely that has to be better
+Next time you decide to [work around the system](https://www.marcusoft.net/2014/11/goodpeople.html) instead of going the correct way. Surely that has to be better
 
 ## Problems
 

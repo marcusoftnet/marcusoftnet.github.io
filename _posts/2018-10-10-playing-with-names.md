@@ -9,7 +9,7 @@ tags:
   - Lean
 ---
 
-At my current client, we are trying to make a change to focus more on [flow than on resource utilization](http://www.marcusoft.net/2018/05/thinking-in-flow-some-recent-thoughts.html). This is harder than it sounds because much of the current ways of working, structures, roles and rewards are built to support another mindset.
+At my current client, we are trying to make a change to focus more on [flow than on resource utilization](https://www.marcusoft.net/2018/05/thinking-in-flow-some-recent-thoughts.html). This is harder than it sounds because much of the current ways of working, structures, roles and rewards are built to support another mindset.
 
 One of the things that lately have popped up for me are the words we are using to describe the roles we have in different parts of the organization. This heavily prevailing in the IT-industry and maybe agile actually has helped to cement a few of these (an [excellent keynote by Michael Feathers](https://www.youtube.com/watch?v=odJ8esf2h6E) put me onto that idea).
 

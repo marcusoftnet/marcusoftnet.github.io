@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2009-02-11T21:22:20.485Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4401996462216297568
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-hour-3.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-hour-3.html
 ---
 
 As I reviewed my work from yesterday, I quickly realized that I bit off much too much. I only need to implement the model for the first product backlog item, which is:

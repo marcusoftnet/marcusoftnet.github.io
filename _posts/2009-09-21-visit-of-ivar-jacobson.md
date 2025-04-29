@@ -8,10 +8,10 @@ tags:
   - Agile
 modified_time: 2009-09-21T12:47:46.591Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5248636408514101470
-blogger_orig_url: http://www.marcusoft.net/2009/09/visit-of-ivar-jacobson.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/visit-of-ivar-jacobson.html
 ---
 
-Last Thursday was an exciting day. After a not-so-well-planned [post](http://www.marcusoft.net/2009/04/debating-hero.html) about a previous article, we finally had the chance to host a visit from one of the giants of IT, [Ivar Jacobson](http://www.ivarjacobson.com/).
+Last Thursday was an exciting day. After a not-so-well-planned [post](https://www.marcusoft.net/2009/04/debating-hero.html) about a previous article, we finally had the chance to host a visit from one of the giants of IT, [Ivar Jacobson](http://www.ivarjacobson.com/).
 
 I've made a brief recap of his visit [here](http://blog.avegagroup.se/Elevate/archive/2009/09/17/be-smart-med-ivar-jacobson.aspx) (in Swedish). What stood out for me was not just the wealth of experience he brought, but also his enduring enthusiasm for the field.
 

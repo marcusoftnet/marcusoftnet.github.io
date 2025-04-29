@@ -9,7 +9,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.536Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5310005411164515714
-blogger_orig_url: http://www.marcusoft.net/2007/09/unable-to-emit-assembly-referenced.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/unable-to-emit-assembly-referenced.html
 ---
 
 Hmmm - another "Why does VB.NET hides so many useful things from me?" thing that adds to my determination to vote for C# whenever I get the chance.

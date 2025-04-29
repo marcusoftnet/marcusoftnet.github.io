@@ -91,7 +91,7 @@ The actuall application code is found on line 8-13
 
 Should this fail, Koa will automatically return 500 for us. Good enough for now
 
-I added a [little trick from befrore](http://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) where I start the Koa server only when the module has no parent. This is the case when the code is started with `node api.js`. When you run the server as normal. When the code is run under test there is a parent; namely mocha
+I added a [little trick from befrore](https://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) where I start the Koa server only when the module has no parent. This is the case when the code is started with `node api.js`. When you run the server as normal. When the code is run under test there is a parent; namely mocha
 
 ### Writing the test
 

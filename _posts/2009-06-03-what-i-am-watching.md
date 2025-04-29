@@ -9,7 +9,7 @@ tags:
   - Fun
 modified_time: 2009-06-02T21:46:34.494Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2395401910198297949
-blogger_orig_url: http://www.marcusoft.net/2009/06/what-i-am-watching.html
+blogger_orig_url: https://www.marcusoft.net/2009/06/what-i-am-watching.html
 ---
 
 Ok – the updates on this blog have been way under par for a while. That’s because I am not working right now.

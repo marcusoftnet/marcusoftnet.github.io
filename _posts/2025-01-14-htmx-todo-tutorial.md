@@ -112,7 +112,7 @@ Yes, yes you are correct. Let's build something with HTMx. I will admit that wri
 
 I will use:
 
-- [Express](https://expressjs.com/) to build my backend API. [2014 was the date of my first post on Express](http://www.marcusoft.net/2014/02/mnb-express.html), I still love Express.
+- [Express](https://expressjs.com/) to build my backend API. [2014 was the date of my first post on Express](https://www.marcusoft.net/2014/02/mnb-express.html), I still love Express.
   - I will also use the `express-sessions` to keep track of user data.
 - [EJS template](https://ejs.co/) - it's old, it's still used a lot and works well with Express. AND it looks a bit like Active Server Pages.
 - [HTMx](https://htmx.org), kinda goes without saying for this tutorial.

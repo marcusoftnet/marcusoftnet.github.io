@@ -9,10 +9,10 @@ tags:
   - Agile
 modified_time: 2011-09-19T07:02:31.079Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7479834583625300041
-blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html
 ---
 
-This is the second post in a series detailing how we assisted some teams at the [Avega Group](http://www.avegagroup.se/) office in implementing Kanban to manage their workflow. [In the first post](http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html), we introduced the teams to the basics of Kanban and Lean, emphasizing the importance of limiting work-in-process and the benefits it could bring.
+This is the second post in a series detailing how we assisted some teams at the [Avega Group](http://www.avegagroup.se/) office in implementing Kanban to manage their workflow. [In the first post](https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html), we introduced the teams to the basics of Kanban and Lean, emphasizing the importance of limiting work-in-process and the benefits it could bring.
 
 In this post, we'll cover the initial implementation of Kanban boards for the teams and the early reactions to this new workflow system.
 

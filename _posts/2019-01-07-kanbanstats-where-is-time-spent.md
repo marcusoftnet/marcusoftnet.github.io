@@ -12,9 +12,9 @@ tags:
 
 This is the fourth post in my series on some simple kanban board statistics. We have been talking about:
 
-* [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-* [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-* [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+* [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+* [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+* [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
 
 And this time it's time to see if we can visualise a bit where time is spent. For this first post, we will make some basic classifications of active and not active or not "on the board" and "on the board".
 
@@ -32,12 +32,12 @@ There are three dates that are important for these calculations:
 * Activated Date - the date when work was started on the ticket.
 * Closed Date - the date the ticket (first) was closed.
 
-`Closed Date - Start Date = lead time` as [we said before](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html).
+`Closed Date - Start Date = lead time` as [we said before](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html).
 
 But we never used the Activation date. And with that we can get two more data points:
 
 * `Activation date - Start date = time in backlog` . This is the time from when the ticket was created and until we started to work on it.
-  Typically tickets spend a lot of time waiting in the backlog before we start to work on them. I've [written](http://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html) [several](http://www.marcusoft.net/2016/06/backlog-and-features.html) [times](http://www.marcusoft.net/2017/05/impact-and-backlogs.html), about the bad things a long backlog brings that it brings with it, but here's a way to show this in numbers
+  Typically tickets spend a lot of time waiting in the backlog before we start to work on them. I've [written](https://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html) [several](https://www.marcusoft.net/2016/06/backlog-and-features.html) [times](https://www.marcusoft.net/2017/05/impact-and-backlogs.html), about the bad things a long backlog brings that it brings with it, but here's a way to show this in numbers
 * `Closed date - Activation Date = time on board`. This gives us the time when the ticket has been on the board. That doesn't necessarily mean that we worked with it (it can have been blocked or down prioritized etc.), but at least it's in been under our attention.
 * Also, we can get a chance to see how big part of the lead time that is made up of waiting respectively working.
 
@@ -91,7 +91,7 @@ Let's see how much and how that trend is moving
 
 ## How about the trend then?
 
-I now did a similar thing as we did for the throughput [in the last post](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html): let's aggregate the averages per month and week and see if that gives us anything interesting.
+I now did a similar thing as we did for the throughput [in the last post](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html): let's aggregate the averages per month and week and see if that gives us anything interesting.
 
 I will show you what I did for weeks, but it's quite similar for months.
 
@@ -154,9 +154,9 @@ Here's a final link to the [Google Sheet](https://docs.google.com/spreadsheets/d
 
 All the posts in the series are found through these links:
 
-1. [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-2. [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-3. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-4. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-5. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
-6. [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
+1. [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+2. [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+3. [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+4. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+5. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+6. [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)

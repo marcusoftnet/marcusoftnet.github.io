@@ -10,7 +10,7 @@ tags:
   - C#
 modified_time: 2014-06-21T00:09:55.472Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3281707504116832093
-blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting3.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/NancyTesting3.html
 ---
 
 ![Nancy Logo](http://nancyfx.org/images/logo.png)
@@ -19,17 +19,17 @@ This is the third post in my series on Nancy.Testing. It will focus a lot on the
 
 The other posts can be found here:
 
-1. [Intro to testing with Nancy](http://www.marcusoft.net/2013/01/NancyTesting1.html)
-2. [The Configurable bootstrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html)
-3. [The Browser and Response objects](http://www.marcusoft.net/2013/01/NancyTesting3.html) (this post)
-4. [Hat and shoeless testing with Simple.Data](http://www.marcusoft.net/2013/02/NancyTesting4.html)
-5. [SpecFlow and Nancy](http://www.marcusoft.net/2013/02/NancyTesting5.html)
+1. [Intro to testing with Nancy](https://www.marcusoft.net/2013/01/NancyTesting1.html)
+2. [The Configurable bootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html)
+3. [The Browser and Response objects](https://www.marcusoft.net/2013/01/NancyTesting3.html) (this post)
+4. [Hat and shoeless testing with Simple.Data](https://www.marcusoft.net/2013/02/NancyTesting4.html)
+5. [SpecFlow and Nancy](https://www.marcusoft.net/2013/02/NancyTesting5.html)
 
 By now you're probably just looking for the code so let's dive right in.
 
 ### Browser
 
-The Browser object is the one that you use to issue requests to the site you're testing. Most of the Browser configuration is done through the [ConfigurableBootstrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html) and let's not go over that again.
+The Browser object is the one that you use to issue requests to the site you're testing. Most of the Browser configuration is done through the [ConfigurableBootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html) and let's not go over that again.
 
 But the Browser has a couple of other tricks up its sleeve too. With each method that you can use to issue HTTP Requests (Get, Post, Delete, Put, Options etc), there's configuration to be done too. Here's a real simple example that shows how you can configure your tests to do HTTPS requests:
 

@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-06-03T12:10:47.195Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2610418444745090626
-blogger_orig_url: http://www.marcusoft.net/2008/06/oracle-and-net-start-here.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/oracle-and-net-start-here.html
 ---
 
 

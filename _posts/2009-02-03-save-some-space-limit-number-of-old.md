@@ -7,7 +7,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:20:33.223Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9179550461340282787
-blogger_orig_url: http://www.marcusoft.net/2009/02/save-some-space-limit-number-of-old.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/save-some-space-limit-number-of-old.html
 ---
 
 Found an option that really saves some space for TDD:ers in Visual Studio. The test results folder can be limited to a certain number of test runs. That would really have helped me at my latest project where my Test Result folder was several GB.

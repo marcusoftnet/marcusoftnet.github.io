@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-06-05T05:38:55.936Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9109950316311914203
-blogger_orig_url: http://www.marcusoft.net/2008/06/vista-running-programs-in-elevated-mode.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/vista-running-programs-in-elevated-mode.html
 ---
 
 

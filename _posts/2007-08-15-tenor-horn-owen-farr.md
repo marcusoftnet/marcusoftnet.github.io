@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-08-15T05:50:14.724Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7045473909901277221
-blogger_orig_url: http://www.marcusoft.net/2007/08/tenor-horn-owen-farr.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/tenor-horn-owen-farr.html
 ---
 
 

@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2009-04-29T08:45:03.956Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8870568026577945878
-blogger_orig_url: http://www.marcusoft.net/2009/04/home-again.html
+blogger_orig_url: https://www.marcusoft.net/2009/04/home-again.html
 ---
 
 We're back home again from Ethiopia. The trip was truly something extra. As I heard someone say: "Africa is more of everything - the worst as well as the best" – this trip has really taken its toll.

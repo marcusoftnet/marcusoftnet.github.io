@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.517Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5749312230854668126
-blogger_orig_url: http://www.marcusoft.net/2007/10/aspnet-20-profile-in-web-application.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/aspnet-20-profile-in-web-application.html
 ---
 
 It has been a while since I coded web (not longing to much, I can

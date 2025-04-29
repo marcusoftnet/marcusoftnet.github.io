@@ -11,7 +11,7 @@ tags:
   - TDD
 modified_time: 2012-11-14T21:49:28.747Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7295652061062160894
-blogger_orig_url: http://www.marcusoft.net/2012/11/tdd-for-kids.html
+blogger_orig_url: https://www.marcusoft.net/2012/11/tdd-for-kids.html
 ---
 
 I had the opportunity to do something exciting yesterday. I was invited by my good friend Tristessa to teach a class on programming for her 13-14-year-olds. She teaches at the International School of the Stockholm Region and had introduced them to programming just a couple of weeks before I came.

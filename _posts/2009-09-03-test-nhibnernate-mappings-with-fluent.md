@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2010-12-14T15:22:38.192Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3155308461422640762
-blogger_orig_url: http://www.marcusoft.net/2009/09/test-nhibnernate-mappings-with-fluent.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/test-nhibnernate-mappings-with-fluent.html
 ---
 
 After spending a few days working with Fluent NHibernate, I’m finding it to be a fantastic tool. One feature that stands out is the ability to [test your mappings](http://wiki.fluentnhibernate.org/Persistence_specification_testing). This feature is especially useful as it allows you to switch to an in-memory database, such as [SQLite](http://www.sqlite.org/), which speeds up your tests and eliminates the need for a complex database setup.

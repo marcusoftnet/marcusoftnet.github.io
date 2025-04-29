@@ -16,7 +16,7 @@ But really I've had a hard time to come to grips with what I'm really doing. Man
 
 But I'm quite often not very busy and when you look back in what is produced it's hard to see my foot print (very few check-ins under my name for example).
 
-So what good am I? What do I do? How could you <a href="http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">measure the effect</a> of having someone like me in the team, at the company?
+So what good am I? What do I do? How could you <a href="https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">measure the effect</a> of having someone like me in the team, at the company?
 
 <!-- excerpt-end -->
 
@@ -29,7 +29,7 @@ That Woody Zuill &copy; &reg; and all that on that quote folks, I'm merely citin
 What it means? Well ask Woody he's the one ...
 No - really it talks about many organizations, in many industries, are very worried about keeping people busy, making sure that they are an activated resource (to use the language of the <a href="http://www.amazon.com/The-Goal-Process-Ongoing-Improvement/dp/0884270610">The Goal</a>). More so in fact than to focus on getting work completed.
 
-This is <a href="http://www.marcusoft.net/2014/10/effective-revisted.html">effective vs efficient</a> all over again. But I've seen it so many times. When ideas are proposed that takes people away from being busy for the greater good of flowing work through the process faster.
+This is <a href="https://www.marcusoft.net/2014/10/effective-revisted.html">effective vs efficient</a> all over again. But I've seen it so many times. When ideas are proposed that takes people away from being busy for the greater good of flowing work through the process faster.
 If you ever tried to introduce Pair Programming or Mob Programming to someone you understand what I mean:
 
 "WHAT?! One keyboard - two people?! So there's only one guy typing? Why on earth would you do that?"

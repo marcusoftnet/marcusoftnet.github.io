@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2006-12-14T11:17:40.199Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-808334586301573999
-blogger_orig_url: http://www.marcusoft.net/2006/12/ybs-alive-and-kicking.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/ybs-alive-and-kicking.html
 ---
 
 Just

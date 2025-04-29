@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-11-13T07:22:24.319Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2880669356695036627
-blogger_orig_url: http://www.marcusoft.net/2007/11/swedish-brass-band-championships-2007.html
+blogger_orig_url: https://www.marcusoft.net/2007/11/swedish-brass-band-championships-2007.html
 ---
 
 As I [predicted](http://marcushammarberg.blogspot.com/2007/10/swedish-brass-band-championships-2007.html)

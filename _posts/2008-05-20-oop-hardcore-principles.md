@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-05-20T07:49:22.008Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7173161767256013223
-blogger_orig_url: http://www.marcusoft.net/2008/05/oop-hardcore-principles.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/oop-hardcore-principles.html
 ---
 
 

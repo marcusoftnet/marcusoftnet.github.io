@@ -7,12 +7,11 @@ tags:
   - TFS
 modified_time: 2010-12-14T15:20:33.256Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6393301215503286885
-blogger_orig_url: http://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-open-file.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-open-file.html
 ---
 
 
-This warning occurs when doing testing with <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">MSTest and
+This warning occurs when doing testing with MSTest and
 running the test under code coverage. It is related to the warning
 "warning VSP2013:
 Instrumenting this image requires it to run as a 32-bit process. The
@@ -26,10 +25,8 @@ No fear; the solution is quite simple (thanks to [this excellent forum
 post](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2149662&SiteID=1));
 here is what you need to do:
 
-- Find the test configuration file <span id="SPELLING_ERROR_3"
-    class="blsp-spelling-corrected">you're using for the test run
-    under code coverage. It is <span id="SPELLING_ERROR_4"
-    class="blsp-spelling-corrected">usually called <span
+- Find the test configuration file you're using for the test run
+    under code coverage. It is usually called <span
     style="font-family:courier new;">LocalTestRun.<span
     id="SPELLING_ERROR_6"
     class="blsp-spelling-error">testrunconfig and resides

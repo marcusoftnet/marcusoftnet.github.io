@@ -10,7 +10,7 @@ tags:
 modified_time: 2014-08-22T04:38:46.973Z
 thumbnail: /img/clarinet-cat-meme-generator-tries-to-slur-from-a-to-b-natural-squeaks-c17236.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1103084673136152864
-blogger_orig_url: http://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html
+blogger_orig_url: https://www.marcusoft.net/2014/08/luck-has-nothing-to-do-with-it.html
 ---
 
 Have you noticed that people and organizations that are great have a lot of luck? And the opposite is also true: a poorly managed companies are unluckier. In my experience.
@@ -107,7 +107,7 @@ topic of unexpected events](https://vimeo.com/86396740) that I recommend.
 
 With 2 alternatives we're taking the ever changing nature of reality
 into consideration and instead prepare to change
-([yes... I said it again... change](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)) our process,
+([yes... I said it again... change](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)) our process,
 policies and ways of working.
 
 Now, this is not just something that we can say "Now" and start to do.

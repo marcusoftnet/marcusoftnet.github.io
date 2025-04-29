@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-11-26T14:03:20.380Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7160354428266020593
-blogger_orig_url: http://www.marcusoft.net/2008/11/leave-my-wifi-card-alone-please.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/leave-my-wifi-card-alone-please.html
 ---
 
 

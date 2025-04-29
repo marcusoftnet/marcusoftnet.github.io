@@ -9,12 +9,12 @@ tags:
   - C#
 modified_time: 2010-02-26T08:23:06.710Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8741078323839573558
-blogger_orig_url: http://www.marcusoft.net/2010/02/vbnet-considered-harmful.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/vbnet-considered-harmful.html
 ---
 
 
 I have once again been forced into using VB.NET which I am
-<a href="http://www.marcusoft.net/2007/03/vbnet-or-c.html"
+<a href="https://www.marcusoft.net/2007/03/vbnet-or-c.html"
 target="_blank">not very fond of</a>.
 
 My points up to now has been that the language in itself is not that

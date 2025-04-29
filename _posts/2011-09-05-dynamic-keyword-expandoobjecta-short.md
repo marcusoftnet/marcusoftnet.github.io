@@ -9,7 +9,7 @@ tags:
   - .NET
 modified_time: 2011-09-05T13:52:44.514Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8903492296720178197
-blogger_orig_url: http://www.marcusoft.net/2011/09/dynamic-keyword-expandoobjecta-short.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/dynamic-keyword-expandoobjecta-short.html
 ---
 
 Right away – this blog post is mostly for me. I have not been dabbling enough with the “dynamic” keyword to say that I know it. This is what and how I understand it now.

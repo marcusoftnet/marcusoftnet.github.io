@@ -119,10 +119,10 @@ That doesn't mean that Scrum can be used, in part, to still give you some (signi
 Go ahead - make your own Scrum. Call it something else if needed. Here's a recipe that I've seen work (well really … someone has [made a method around this](https://en.wikipedia.org/wiki/Kanban_(development)) :)):
 
 - Start where you are - that is, just show your current state and ways of working now.
-- [Visualize your workflow](http://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) (as you probably have done if you're doing Scrum)
-- [Limit your work in process](http://www.marcusoft.net/2017/02/comments-on-board-practices-5.html) so that you strive to do fewer things at the same time over more things at the same time.
+- [Visualize your workflow](https://www.marcusoft.net/2017/02/comments-on-board-practices-2.html) (as you probably have done if you're doing Scrum)
+- [Limit your work in process](https://www.marcusoft.net/2017/02/comments-on-board-practices-5.html) so that you strive to do fewer things at the same time over more things at the same time.
   - [Stop starting - start finishing!](http://bit.ly/theKanbanBook)
-- Help the work to flow faster. [Focus on the work - not the workers](http://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). A good idea is to make smaller things or collaborate to move things faster
+- Help the work to flow faster. [Focus on the work - not the workers](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). A good idea is to make smaller things or collaborate to move things faster
 - Agree to improve in an experimental fashion, in small steps
 
 If you end up with something that looks like Scrum or not… who cares?

@@ -27,7 +27,7 @@ The first focus area is to redo the parking lot outside the hospital. This quite
 The first thing we always do is to define the focus area:
 
 - We give it a name: "Fix the parking lot" in this case
-- We answer the question [Why](http://www.marcusoft.net/2015/01/things-i-say-often-why.html). Why are we doing this change: "To support safety and ease of access for all our visitors and make a better first impression", for example
+- We answer the question [Why](https://www.marcusoft.net/2015/01/things-i-say-often-why.html). Why are we doing this change: "To support safety and ease of access for all our visitors and make a better first impression", for example
 - We define a Definition of Done: "When the parking lot is fixed and cars have parked on it without problem"
 
 Now we begin to talk on how to reach that goal. I allow no improvements to be worked on without answering Why and Definition of Done. As it turns out sometimes the Why is not what you'd think. And other times people have widely different Definitions of Done.

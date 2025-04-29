@@ -9,10 +9,10 @@ tags:
   - Agile
 modified_time: 2009-01-30T07:54:00.393Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2966390881866212042
-blogger_orig_url: http://www.marcusoft.net/2009/01/clean-code-pragmatic-approach.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/clean-code-pragmatic-approach.html
 ---
 
-As I mentioned in my [previous post](http://www.marcusoft.net/2009/01/last-day-new-chapter.html), I am currently reading [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert "Uncle Bob" Martin. It's a great book!
+As I mentioned in my [previous post](https://www.marcusoft.net/2009/01/last-day-new-chapter.html), I am currently reading [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert "Uncle Bob" Martin. It's a great book!
 
 However, having a 200-page book with rules on coding can become overwhelming, especially when trying to adopt these practices within a team.
 

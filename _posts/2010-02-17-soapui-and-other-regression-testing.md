@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2010-12-14T15:22:38.162Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-559290756056572436
-blogger_orig_url: http://www.marcusoft.net/2010/02/soapui-and-other-regression-testing.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/soapui-and-other-regression-testing.html
 ---
 
 
@@ -20,7 +20,7 @@ of time the last time I tried it.
 The thing I will settle on is
 <a href="http://soapui.org/" target="_blank">SOAPUi</a>, which seems
 just awesome. I have already <a
-href="http://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html"
+href="https://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html"
 target="_blank">written about it</a> – but didn’t get the time to try it
 for real. I sure will now!
 But there are others – many of the free. Just

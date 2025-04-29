@@ -39,7 +39,7 @@ Hence I've found it very fruitful to at least understand and discuss these minds
 
 ## From activities to value
 
-I wrote a [blog post about a client](http://www.marcusoft.net/2019/08/how-we-agile-principle-led.html) the other week, where we applied numerous agile principles and found some good practices from it.
+I wrote a [blog post about a client](https://www.marcusoft.net/2019/08/how-we-agile-principle-led.html) the other week, where we applied numerous agile principles and found some good practices from it.
 At that client, if someone asks me what we have done and I am in a hurry I tell them:
 
 > We've shifted focus from activities and following up plans to value and following up flow of value
@@ -52,7 +52,7 @@ Well quite simply **before** (a few years back) the company was very concerned a
 
 **Now** we are little-by-little moving the teams to focus on the value and effect they are creating, and less on the activities. It's much more important for us now that everyone in the team knows *why* something is built and that they have ways to track that value (quality, happiness, business value or what have you) than that they are busy.
 
-Here's an illustrative and a little bit provocative example that we have been using; imagine that a team has 3 (balancing) key metrics that they track. They also have 6 things that they are working on to improve these metrics. At one weekly standup (see [previous post](http://www.marcusoft.net/2019/08/how-we-agile-principle-led.html)) they announce:
+Here's an illustrative and a little bit provocative example that we have been using; imagine that a team has 3 (balancing) key metrics that they track. They also have 6 things that they are working on to improve these metrics. At one weekly standup (see [previous post](https://www.marcusoft.net/2019/08/how-we-agile-principle-led.html)) they announce:
 
 > We have scrapped those 6 things and now are working on these 2 new ones instead. We figured they would help us reach our goals better, so we're gonna try that and see.
 
@@ -119,7 +119,7 @@ The last shift in mindset is one of organizational paradigm - agile will promote
 
 In my experience, this is particularly challenging to grasp and understand, in organizations that have been project-driven on top of a functionally structured organization. One where you will find a "business", an IT department and a separate operations department. Or even a development and testing department.
 
-In organizations like that the way to get "anything" done is through projects. I've [written before about my mental breakdown](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) about the strange reasoning here, but from my point of view and experience, a project is basically a hack. Value is created, with the cooperation of all the departments, but since they are not built to cooperate or share goals, we pull people from all of the departments and create a temporary organization that can deliver that value.
+In organizations like that the way to get "anything" done is through projects. I've [written before about my mental breakdown](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) about the strange reasoning here, but from my point of view and experience, a project is basically a hack. Value is created, with the cooperation of all the departments, but since they are not built to cooperate or share goals, we pull people from all of the departments and create a temporary organization that can deliver that value.
 
 In organizations like these, the notion of organization around a product can feel very apart. Product is not a concept that fits in the thinking of the organization, its department, and processes.
 

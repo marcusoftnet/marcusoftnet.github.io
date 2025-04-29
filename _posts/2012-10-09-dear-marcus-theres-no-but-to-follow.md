@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2013-06-07T18:54:02.869Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8546017893577843804
-blogger_orig_url: http://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-follow.html
+blogger_orig_url: https://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-follow.html
 ---
 
 

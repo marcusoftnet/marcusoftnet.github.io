@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2008-06-10T06:22:09.416Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5110854271985701620
-blogger_orig_url: http://www.marcusoft.net/2008/06/butchering-star-wars.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/butchering-star-wars.html
 ---
 
 

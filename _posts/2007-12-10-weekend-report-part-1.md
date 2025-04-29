@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2007-12-10T07:16:45.881Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2632444438059152696
-blogger_orig_url: http://www.marcusoft.net/2007/12/weekend-report-part-1.html
+blogger_orig_url: https://www.marcusoft.net/2007/12/weekend-report-part-1.html
 ---
 
 What a
@@ -30,5 +30,5 @@ as a highlight of the evening.
 
 I am so proud of my corps - we really have nice atmosphere in the corps
 and can still maintain high standards. I really like being a part of the
-<span id="SPELLING_ERROR_12" class="blsp-spelling-error">Vasa
+="blsp-spelling-error">Vasa
 corps.

@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2009-01-14T14:57:42.542Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6063345379372657279
-blogger_orig_url: http://www.marcusoft.net/2009/01/aspnet-mvc-storefront.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/aspnet-mvc-storefront.html
 ---
 
 

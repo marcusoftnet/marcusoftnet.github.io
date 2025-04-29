@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-12-10T14:39:30.545Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1551771198832030366
-blogger_orig_url: http://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html
+blogger_orig_url: https://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html
 ---
 
 Just found this [tool](http://www.soapui.org) - or actually, I've used it but missed its greatness...

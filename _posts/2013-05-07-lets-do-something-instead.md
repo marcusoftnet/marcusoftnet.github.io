@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2013-05-07T18:17:18.806Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6757202335518255949
-blogger_orig_url: http://www.marcusoft.net/2013/05/lets-do-something-instead.html
+blogger_orig_url: https://www.marcusoft.net/2013/05/lets-do-something-instead.html
 ---
 
 

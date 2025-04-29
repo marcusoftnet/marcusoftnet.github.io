@@ -11,10 +11,10 @@ tags:
   - SpecFlow
 modified_time: 2011-01-25T10:28:24.156Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9181359261521028249
-blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html
 ---
 
-After my latest [post-of-admitting-failures](http://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html) I got some really nice feedback from a lot of people. Apparently there are others out there who think that a failure is a great learning opportunity. OK – I will most certainly continue down that path.
+After my latest [post-of-admitting-failures](https://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html) I got some really nice feedback from a lot of people. Apparently there are others out there who think that a failure is a great learning opportunity. OK – I will most certainly continue down that path.
 
 I actually write these posts as I code along. It’s forward only mode in other words... Almost.
 
@@ -31,7 +31,7 @@ Darren has done a lot of stuff in and around the [SpecFlow](http://www.specflow.
 
 OK – with the aid of GitHub and not to mention Darren, the project is now in great shape.
 
-But really - it’s just too [hard to grasp git sometimes](http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html). I finally applied Darren's changes as a patch. I am a damaged Microsoft developer who hasn’t adjusted to the bash/dos command only world of git.
+But really - it’s just too [hard to grasp git sometimes](https://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html). I finally applied Darren's changes as a patch. I am a damaged Microsoft developer who hasn’t adjusted to the bash/dos command only world of git.
 
 On with tasks at hand.
 
@@ -43,7 +43,7 @@ The current scenario lacks a little bit of information. When you navigate to the
 
 The observant reader sees that I’ve done a few minor tweaks to the scenario title and the When-step as well since it didn’t fit or read very well.
 
-OK – this of course fails since I haven’t implemented the step yet. Yada, yada, yada – [it’s all been explained before](http://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html). Finally, led and driven by my scenario, I ended up with this new When step definition:
+OK – this of course fails since I haven’t implemented the step yet. Yada, yada, yada – [it’s all been explained before](https://www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html). Finally, led and driven by my scenario, I ended up with this new When step definition:
 
 ![then step for latest additions](/img/then-step-for-latest-additions_thumb.jpg)
 
@@ -53,9 +53,9 @@ And this, rather ugly, action method for the Index action of the KanbanBoard Con
 
 Let me be the first to acknowledge the possibilities for improvement here. I was thinking of using [CQRS](http://ncqrs.org/reference/) as my architecture for this application, but didn’t because that would be too many things at once. I might go back and redo the application CQRS style as an exercise to learn it later.
 
-Right now I’m satisfied with this. It keeps my focus on the stuff I [wanted to learn](http://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) and the scenarios will be a great guide when I redo the architecture later. Wow – I’m looking forward to it already.
+Right now I’m satisfied with this. It keeps my focus on the stuff I [wanted to learn](https://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html) and the scenarios will be a great guide when I redo the architecture later. Wow – I’m looking forward to it already.
 
-Let me also here declare my standpoint on [TDD](http://en.wikipedia.org/wiki/Test-driven_development) and Scaffolding ([see this](http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html)). OK – I’m going to treat the generated repository code as not mine. I actually added the DebuggerNonUserCode attribute to the repository, until I need to change it. The rest of the code will be touched on and hence tested, even though I sense that it will be much more BDD than TDD.
+Let me also here declare my standpoint on [TDD](http://en.wikipedia.org/wiki/Test-driven_development) and Scaffolding ([see this](https://www.marcusoft.net/2011/01/tdd-and-scaffolding.html)). OK – I’m going to treat the generated repository code as not mine. I actually added the DebuggerNonUserCode attribute to the repository, until I need to change it. The rest of the code will be touched on and hence tested, even though I sense that it will be much more BDD than TDD.
 
 ## Writing an end-to-end acceptance test
 
@@ -67,7 +67,7 @@ Since I haven’t yet, this process will force me to install an IoC Container ([
 
 ### Writing the scenario
 
-I have created a new project for the acceptance tests (called... AcceptanceTests). The difference from the specs in the Specs-project is that these tests will test a whole application and be handled separately. I will use [tags](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) to distinguish slow end-to-end tests from fast specifications.
+I have created a new project for the acceptance tests (called... AcceptanceTests). The difference from the specs in the Specs-project is that these tests will test a whole application and be handled separately. I will use [tags](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) to distinguish slow end-to-end tests from fast specifications.
 
 Testing an entire application forces you to think about loading known test data or writing scenarios that are less dependent on test data.
 

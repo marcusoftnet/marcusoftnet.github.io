@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2012-12-07T08:00:15.142Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5057147655975788856
-blogger_orig_url: http://www.marcusoft.net/2012/12/good-bye-avega.html
+blogger_orig_url: https://www.marcusoft.net/2012/12/good-bye-avega.html
 ---
 
 Today is the last day I work for [Avega Group](http://www.avegagroup.se/). It's the best place I ever worked at to date. I've been there for almost 8 years and see the company grow from 50 people to about 400 people.

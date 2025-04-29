@@ -10,7 +10,7 @@ tags:
   - TDD
 modified_time: 2009-02-23T20:43:54.324Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4192933904487220024
-blogger_orig_url: http://www.marcusoft.net/2009/02/why-ddd-rocks-marcusoftnet-version.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/why-ddd-rocks-marcusoftnet-version.html
 ---
 
 Today I had a very interesting conversation with a colleague and friend. He is very accomplished in matters concerning [Application Lifecycle Management](http://en.wikipedia.org/wiki/Application_Lifecycle_Management) (ALM). The more we talked about that and the things I am learning with the [Sprint Planner Helper](Sprint%20Planner%20Helper) (TDD, DDD, and ASP.NET MVC), the more I am convinced that I am on the right track. It’s the way to go – especially if you want to be agile.

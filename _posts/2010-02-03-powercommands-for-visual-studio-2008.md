@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:22:38.165Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4362394711823504784
-blogger_orig_url: http://www.marcusoft.net/2010/02/powercommands-for-visual-studio-2008.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/powercommands-for-visual-studio-2008.html
 ---
 
 

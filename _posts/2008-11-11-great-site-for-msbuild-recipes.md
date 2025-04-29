@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-11-11T09:42:23.337Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2854379912221414993
-blogger_orig_url: http://www.marcusoft.net/2008/11/great-site-for-msbuild-recipes.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/great-site-for-msbuild-recipes.html
 ---
 
 

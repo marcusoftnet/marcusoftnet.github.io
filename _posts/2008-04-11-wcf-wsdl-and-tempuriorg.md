@@ -8,7 +8,7 @@ tags:
   - WCF
 modified_time: 2008-04-11T06:45:18.425Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4421399573659073116
-blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-and-tempuriorg.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/wcf-wsdl-and-tempuriorg.html
 ---
 
 It's
@@ -30,7 +30,7 @@ describing how to do it. The key points are quite easy:
 
 Here is an example (yes, I know, it's in dredded VB.NET):
 
-\<ServiceBehavior(Namespace:="http://www.marcusoft.net/Services/2008/04/MyService",
+\<ServiceBehavior(Namespace:="<https://www.marcusoft.net/Services/2008/04/MyService>",
 )\> \_
 Public Class MyServiceImplementation
 implements IService

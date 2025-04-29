@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-09-16T07:00:11.577Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2993379680989849936
-blogger_orig_url: http://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html
 ---
 
 I have recently returned from parental leave and got to experience office tempo first-hand. Was not prepared for that, but it also had me look around and I saw two teams at [Avega Group](http://www.avegagroup.se) that were under a lot of stress (they said) and seemed to handle a lot of tasks simultaneously.
@@ -38,7 +38,7 @@ Secondly, we don’t know much about the work they’re doing. So we need to com
 
 So, we simply went up to the team leaders and asked them if they could spare us a minute or five. In character, they both answered Yes! and more or less promptly left what they were doing and followed us.
 
-When we asked if we could help – they both were very happy. Arm-waving took place in one instance 
+When we asked if we could help – they both were very happy. Arm-waving took place in one instance
 
 So we set a date for a workshop – “Monday would be great. All the MD’s are away then – which means that we get a quieter day”. Hmmm – maybe something to talk about?
 
@@ -66,7 +66,7 @@ This game was a real eye-opener for the group (although one pair did the exercis
 
 - The first time, the complete exercise took (with my numbers) roughly 2.5 times longer (1.12 versus 0.28)
 - The first column – the most important project – was delivered after 1.10 minutes the first time around and in 8 seconds (!!) the second time
-- The quality suffered in many cases (writing the wrong letters, writing uglier, and forgetting rows) in the first exercise – while the second time around almost no one messed up (I did – if you look closely 
+- The quality suffered in many cases (writing the wrong letters, writing uglier, and forgetting rows) in the first exercise – while the second time around almost no one messed up (I did – if you look closely
 - The general feeling was “calmer and more focused” for the second iteration.
 
 Morgan and I were very happy with the outcome that we thought created an awareness of the problems with the “old way” of doing things.

@@ -8,7 +8,7 @@ tags:
   - SpecFlow
 modified_time: 2010-12-15T11:51:20.454Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5961012444005971982
-blogger_orig_url: http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html
+blogger_orig_url: https://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html
 ---
 
 

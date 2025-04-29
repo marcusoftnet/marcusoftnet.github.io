@@ -9,7 +9,7 @@ tags:
  - Tools
 ---
 
-I've written [two](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) [posts](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html) on <code>npm</code> scripting with <code>package.json</code> and during the course of these post I've picked up some tricks that I didn't really use in the posts.
+I've written [two](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) [posts](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html) on <code>npm</code> scripting with <code>package.json</code> and during the course of these post I've picked up some tricks that I didn't really use in the posts.
 
 This post will hence be a bit less structured by contain some small tidbits of information for you to, hopefully, enjoy and use.
 
@@ -20,9 +20,9 @@ This, and other posts on npm scripting, has drawn a lot of attention. I wanted y
 
 Also, don't miss the other posts on this blog on npm scripting:
 
-* [npm scripting: git, version and deploy](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
-* [npm scripting: configs and arguments... and some more tricks](http://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
-* [Pre and Post hooks for npm scripting](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
+* [npm scripting: git, version and deploy](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
+* [npm scripting: configs and arguments... and some more tricks](https://www.marcusoft.net/2015/08/npm-scripting-configs-and-arguments.html)
+* [Pre and Post hooks for npm scripting](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
 
 If you liked this post I know you will love the course! Thank you for reading this
 
@@ -30,7 +30,7 @@ Here we go:
 <!-- excerpt-end -->
 
 ## Chaining tasks... more options
-In the [last post](http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) I used <code>&&</code> to call task one after another.
+In the [last post](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html) I used <code>&&</code> to call task one after another.
 
 There's more options just using normal command line functionality:
 
@@ -176,7 +176,7 @@ There's some small things with the <code>npm</code> command that is easily misse
 ## -s to silence it down
 Any parameter you pass to <code>npm</code> at the command prompt is used for that entire command. For example <code>-s</code> turns logging more or less off (<code>-d</code> is more logging, and <code>-ddd</code> is silly logging, try it!), that can be useful to tweak.
 
-What I found interesting is that this is passed on to <code>npm</code> scripts. So for our mega-build-script-calling-into-other-scripts thing we [built before](http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html):
+What I found interesting is that this is passed on to <code>npm</code> scripts. So for our mega-build-script-calling-into-other-scripts thing we [built before](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html):
 
 ```javascript
 "deploy:prod": "npm run test && npm run version:patch && npm run push && npm run launch",

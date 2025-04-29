@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2007-09-24T06:22:44.280Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-183175191725952958
-blogger_orig_url: http://www.marcusoft.net/2007/09/mirjam-new-media-reverend-of-sweden.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/mirjam-new-media-reverend-of-sweden.html
 ---
 
 Last week [Miriam](http://marcushammarberg.blogspot.com/2007/08/morning-devotional-by-friend-of-mine.html) did it again. She held, all of her own, the weekend-evening devotional (well I am not sure of the word for helgmålsbön, but that will have too do...).

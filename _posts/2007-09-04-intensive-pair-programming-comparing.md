@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2007-09-04T05:42:05.177Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7104120732779677777
-blogger_orig_url: http://www.marcusoft.net/2007/09/intensive-pair-programming-comparing.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/intensive-pair-programming-comparing.html
 ---
 
 For about four days straight now we have been battling a

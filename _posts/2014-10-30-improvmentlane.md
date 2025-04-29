@@ -14,14 +14,14 @@ tags:
 modified_time: 2014-10-30
 thumbnail: /img/Screen_Shot_2014-10-30_at_10.00.02_.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2472026161708010128
-blogger_orig_url: http://www.marcusoft.net/2014/10/improvmentlane.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/improvmentlane.html
 ---
 
 One of the best and shortest explanations of what Lean is really about, I've found in the ["This is Lean"](http://thisislean.com/) book by [Niclas Modig](https://twitter.com/leanonmyself) and Per Åhlström.
 
 ![Image](/img/Screen_Shot_2014-10-30_at_10.00.02_.png)
 
-The thing that made it "click" for me was a diagram that contrasted Resource efficiency with Flow efficiency. I love it! Even though I might have talked about [Efficiency versus Effectiveness](http://www.marcusoft.net/2014/10/effective-revisted.html)... Well, it's not my book—maybe that's why it's famous and I'm not.
+The thing that made it "click" for me was a diagram that contrasted Resource efficiency with Flow efficiency. I love it! Even though I might have talked about [Efficiency versus Effectiveness](https://www.marcusoft.net/2014/10/effective-revisted.html)... Well, it's not my book—maybe that's why it's famous and I'm not.
 
 Basically:
 

@@ -7,14 +7,13 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.593Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3713039309925097026
-blogger_orig_url: http://www.marcusoft.net/2007/05/load-event-of-usercontrols-in-design.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/load-event-of-usercontrols-in-design.html
 ---
 
 
 Ran into another problem just now...
 
-If you have code in the Load-event of a Windows <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">usercontrol, it
+If you have code in the Load-event of a Windows usercontrol, it
 will fire when the usercontrol is shown in Visual Studio
 at design-time. This can be troublesome if the code doesn't compile or
 needs some runtime-only variables.

@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2007-05-16T05:42:44.022Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5063438253513106643
-blogger_orig_url: http://www.marcusoft.net/2007/05/melbourne-staff-band.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/melbourne-staff-band.html
 ---
 
 Got a tip

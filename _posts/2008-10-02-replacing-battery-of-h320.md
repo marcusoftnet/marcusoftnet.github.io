@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-10-02T06:14:01.647Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8271451601506810371
-blogger_orig_url: http://www.marcusoft.net/2008/10/replacing-battery-of-h320.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/replacing-battery-of-h320.html
 ---
 
 When my battery for my H320 arrives, I of course must replace the old one. I am dreading this moment!

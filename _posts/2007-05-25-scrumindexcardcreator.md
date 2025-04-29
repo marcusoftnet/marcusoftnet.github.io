@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2007-05-28T06:02:53.899Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4966481514230234420
-blogger_orig_url: http://www.marcusoft.net/2007/05/scrumindexcardcreator.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/scrumindexcardcreator.html
 ---
 
 I have thrown together a small application for generating index cards from a Excel-based backlog list. This is very handy when you do sprint planning meetings. A printed index card is easier to move around on a withe board than a row in Excel.

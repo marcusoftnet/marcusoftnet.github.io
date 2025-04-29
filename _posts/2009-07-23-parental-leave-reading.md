@@ -10,14 +10,14 @@ tags:
   - Agile
 modified_time: 2009-07-22T18:03:25.891Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4098259383771149911
-blogger_orig_url: http://www.marcusoft.net/2009/07/parental-leave-reading.html
+blogger_orig_url: https://www.marcusoft.net/2009/07/parental-leave-reading.html
 ---
 
 I am slowly but certainly coming to the end of my parental leave. Six months without working! The time has disappeared so quickly… it’s a bit sad.
 
 But I also feel "hungry" for work, especially to put my newly acquired skills and knowledge into practice (like [TDD](http://en.wikipedia.org/wiki/Test-driven_development), [ASP.NET MVC](http://www.asp.net/mvc/), [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development), [DDD](http://en.wikipedia.org/wiki/Domain-driven_design), etc.)
 
-During my leave, I’ve done some reading. I’m proud of reaching many of the goals I set for myself on the [last day of working](http://www.marcusoft.net/2009/01/last-day-new-chapter.html). Here’s a short review of the books I read:
+During my leave, I’ve done some reading. I’m proud of reaching many of the goals I set for myself on the [last day of working](https://www.marcusoft.net/2009/01/last-day-new-chapter.html). Here’s a short review of the books I read:
 
 ### Clean Code by Robert “Uncle Bob” Martin
 

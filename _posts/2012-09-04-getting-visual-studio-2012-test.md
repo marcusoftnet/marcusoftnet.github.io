@@ -12,7 +12,7 @@ tags:
 modified_time: 2012-09-04T07:00:07.749Z
 thumbnail: /img/Screen+Shot+2012-09-02+at+21.18.46.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5998573811657878660
-blogger_orig_url: 'http://www.marcusoft.net/2012/09/getting-visual-studio-2012-test.html'
+blogger_orig_url: 'https://www.marcusoft.net/2012/09/getting-visual-studio-2012-test.html'
 ---
 
 Yes, this is another "hey, this is a cool feature of Visual Studio 2012" post. If you know all about the new Test Explorer and how to get NUnit, xUnit, and by association [SpecFlow](http://www.specflow.org/) to work with it - you can stop reading here. For me, it took a while to get up and running.

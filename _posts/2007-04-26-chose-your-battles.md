@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.619Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4999671088852773853
-blogger_orig_url: http://www.marcusoft.net/2007/04/chose-your-battles.html
+blogger_orig_url: https://www.marcusoft.net/2007/04/chose-your-battles.html
 ---
 
 When trying

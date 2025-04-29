@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-09-14T20:38:06.777Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1422752204414097530
-blogger_orig_url: http://www.marcusoft.net/2008/09/new-layout.html
+blogger_orig_url: https://www.marcusoft.net/2008/09/new-layout.html
 ---
 
 

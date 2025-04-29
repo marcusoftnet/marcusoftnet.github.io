@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-12-04T08:00:11.824Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5696287241357235073
-blogger_orig_url: <http://www.marcusoft.net/2012/12/autonomy-in-action-school-kids.html>
+blogger_orig_url: <https://www.marcusoft.net/2012/12/autonomy-in-action-school-kids.html>
 ---
 
 Today I rode the tram to work and was faced with the barbarian horde of

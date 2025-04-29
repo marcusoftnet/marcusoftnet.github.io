@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2009-09-21T12:37:06.877Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1171352571349259359
-blogger_orig_url: http://www.marcusoft.net/2009/09/vaccation-memories.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/vaccation-memories.html
 ---
 
 Although some time has passed since the vacation, I realized that I haven't posted photos from it. Here is a short summary of what we did and where we went during those lovely summer months. Not too far away...

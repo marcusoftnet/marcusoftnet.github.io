@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-01-29T11:21:30.821Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-644964024397565861
-blogger_orig_url: http://www.marcusoft.net/2008/01/son-is-born.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/son-is-born.html
 ---
 
 Finally - after 9 months our baby has arrived. It is the most wonderful little boy you can imagine and we are so grateful for having him into our life.

@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-05-11T19:56:18.222Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5876123677039343472'
-blogger_orig_url: http://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-design.html
+blogger_orig_url: https://www.marcusoft.net/2010/05/wcf-mvvm-and-good-client-design.html
 ---
 
 

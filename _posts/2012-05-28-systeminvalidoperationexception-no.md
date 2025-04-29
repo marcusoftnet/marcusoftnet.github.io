@@ -10,7 +10,7 @@ tags:
   - C#
 modified_time: 2012-05-28T14:08:22.349Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2846331516279827243
-blogger_orig_url: http://www.marcusoft.net/2012/05/systeminvalidoperationexception-no.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/systeminvalidoperationexception-no.html
 ---
 
 
@@ -18,7 +18,7 @@ We’ve run into a little issue with
 <a href="http://fluent.stirno.com/blog/"
 target="_blank">FluentAutomation</a> and using MsTest at my current
 client. I’ve <a
-href="http://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
+href="https://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
 target="_blank">blogged about the setup before</a> but then I used
 <a href="http://www.nunit.org/" target="_blank">NUnit</a> and everything
 worked just fine. With MsTest… we had some problems. The first was an
@@ -100,7 +100,7 @@ Double click the Local.testsettings file and go to the Deployment-tab.
 Run the test,
 <a href="http://fluent.stirno.com/docs/" target="_blank">for example
 this</a>. Beware of any browser automation gotchas. <a
-href="http://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
+href="https://www.marcusoft.net/2012/05/specflow-page-objects-and.html"
 target="_blank">See this post</a>
 
 It should now work!

@@ -13,10 +13,10 @@ tags:
 modified_time: 2014-10-14T06:42:15.875Z
 thumbnail: /img/250px-US_Navy_SEALs_insignia.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4622216197719868034
-blogger_orig_url: http://www.marcusoft.net/2014/10/easydayyesterday.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/easydayyesterday.html
 ---
 
-At my current "client" we have been employing a lot of activities to increase the number of customer we serve per day. [I've blogged about this before](http://www.marcusoft.net/2014/09/ifyoubuildit.html). Now it turns out that we have succeeded. The customers are pouring in. And the staff finds themselves with much more work than they have experienced in about 5 years. Yesterday was our best day so far and it was amazing to see the difference from a normal day;
+At my current "client" we have been employing a lot of activities to increase the number of customer we serve per day. [I've blogged about this before](https://www.marcusoft.net/2014/09/ifyoubuildit.html). Now it turns out that we have succeeded. The customers are pouring in. And the staff finds themselves with much more work than they have experienced in about 5 years. Yesterday was our best day so far and it was amazing to see the difference from a normal day;
 
 - Everyone was moving fast - compared to sitting around waiting
 - Everyone was focused - compared to not really knowing what to do
@@ -39,7 +39,7 @@ First of all, the [Navy Seals](http://en.wikipedia.org/wiki/United_States_Navy_S
 
 "The only easy day was yesterday" simply means; "things will just get harder from now on". Never has this been more true since you at any time during the 8+24-week training period will be expelled if you fail a test.
 
-WHY?! Why do they do this? Why so hard? [Why so focused on the problems?](http://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-improvements.html)
+WHY?! Why do they do this? Why so hard? [Why so focused on the problems?](https://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-improvements.html)
 
 It's simple; they want only the best. Best in this case means the people that can endure this training, the physical constraints and the mental pressure. (Just as a side note I have a bit of a problem with them training killers basically since that's really what they excel in but let's put that aside for now).
 

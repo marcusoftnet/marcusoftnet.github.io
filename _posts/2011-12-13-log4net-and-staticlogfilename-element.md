@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2011-12-13T12:29:42.279Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3333381899174569140
-blogger_orig_url: http://www.marcusoft.net/2011/12/log4net-and-staticlogfilename-element.html
+blogger_orig_url: https://www.marcusoft.net/2011/12/log4net-and-staticlogfilename-element.html
 ---
 
 We have been chasing some strange logging bugs for a while in my current project. We are using [log4net](http://logging.apache.org/log4net/) to do our logging and it works fine ... until a couple of weeks ago. Some logging didn't occur, in another case we didn't get new files...

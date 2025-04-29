@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2007-01-10T06:59:04.488Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3137650438429997487
-blogger_orig_url: http://www.marcusoft.net/2007/01/futureforce-of-vasacorps.html
+blogger_orig_url: https://www.marcusoft.net/2007/01/futureforce-of-vasacorps.html
 ---
 
 Yesterday we finally had a long awaited meeting with the FutureForce for

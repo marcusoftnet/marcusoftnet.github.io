@@ -10,10 +10,10 @@ tags:
   - Indonesia
 thumbnail: /img/doing-the-most-good-for-web.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6329581777686380371
-blogger_orig_url: http://www.marcusoft.net/2014/01/on-lead-time-important-projects-and.html
+blogger_orig_url: https://www.marcusoft.net/2014/01/on-lead-time-important-projects-and.html
 ---
 
-I've started working in a very different organization, in a very different culture, and I see the same problems. For those who don't know yet, I have [moved to Indonesia](http://www.marcusoft.net/2013/06/moving-to-indonesia.html) and work for Bala Keselamatan, better known internationally as [the Salvation Army](http://www.salvationarmy.org/). My task is to help the organization that oversees the Salvation Army hospitals (yes, 6 of them) and clinics (17, I think) become more effective and get more done with less. "Doing the most good," in other words.
+I've started working in a very different organization, in a very different culture, and I see the same problems. For those who don't know yet, I have [moved to Indonesia](https://www.marcusoft.net/2013/06/moving-to-indonesia.html) and work for Bala Keselamatan, better known internationally as [the Salvation Army](http://www.salvationarmy.org/). My task is to help the organization that oversees the Salvation Army hospitals (yes, 6 of them) and clinics (17, I think) become more effective and get more done with less. "Doing the most good," in other words.
 
 When I came here, I hoped (or maybe bet) that my knowledge of Lean and Agile would be helpful. I've seen similar problems here as I did with clients back home. In this blog post, I want to discuss one of these problems: long lead times in important projects.
 
@@ -84,7 +84,7 @@ Ok, here it comes. My solution to this age-old problem. I'm planning on releasin
 2. Work on it until it's done.
 3. Done!
 
-It's also known as "Go in a room and get it done" or ["Sit together - work together"](http://www.marcusoft.net/2012/10/agilechangetop52.html).
+It's also known as "Go in a room and get it done" or ["Sit together - work together"](https://www.marcusoft.net/2012/10/agilechangetop52.html).
 
 Sorry, I was being ironic there for a while. But one could ask oneself, as one (being me) has done from time to time: so **everyone** knows that this is bad, so **why** does this still happen?
 

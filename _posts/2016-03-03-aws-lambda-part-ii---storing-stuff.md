@@ -10,7 +10,7 @@ tags:
  - Claudia
 ---
 
-In [my last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia JS](https://github.com/claudiajs/claudia) we only created a very simple function that echoed some data back to us. Still amazingly cool since that echoing scales to whatever load we will put on it, but a bit meek maybe.
+In [my last post](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) on [Claudia JS](https://github.com/claudiajs/claudia) we only created a very simple function that echoed some data back to us. Still amazingly cool since that echoing scales to whatever load we will put on it, but a bit meek maybe.
 
 In this post I wanted to up the ante a little bit and store some data, more specifically in the AWS Document database called [DynamoDb](https://console.aws.amazon.com/dynamodb/home)
 
@@ -42,7 +42,7 @@ We can create the table in other ways too. Let me show you just one - the [Amazo
 
 The CLI can be installed (Oh my Lord - another package manager? <code>pip</code> needs to be installed first) [from that site](https://aws.amazon.com/cli/) and once that is done you might want to check out the [configuration of the tool as well](http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration).
 
-If you followed along in the [last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) we created a configuration file by hand. The <code>aws</code> tool can do that for us, but now that it's in place it will be used.
+If you followed along in the [last post](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html) we created a configuration file by hand. The <code>aws</code> tool can do that for us, but now that it's in place it will be used.
 
 Creating the table is now, finally, doable. Note that I'm not saying *easy* but here's the command to set up the same table we used the DynamoDb console to do above:
 
@@ -102,7 +102,7 @@ Now add two commands to your `scripts` in `package.json`:
         "deploy" : "claudia update"
     }
 
-Create the lambda function in the cloud with `claudia` using `npm run create`. You can now head to the [API Gateway](https://console.aws.amazon.com/apigateway/), find the URL to your function (see [last post](http://www.marcusoft.net/2016/02/first-aws-lamda-steps.html)) and test your application out.
+Create the lambda function in the cloud with `claudia` using `npm run create`. You can now head to the [API Gateway](https://console.aws.amazon.com/apigateway/), find the URL to your function (see [last post](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html)) and test your application out.
 
 I used a `curl` command like this:
 

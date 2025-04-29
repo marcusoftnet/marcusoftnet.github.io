@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.676Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8811774914758431524
-blogger_orig_url: http://www.marcusoft.net/2006/10/mycssprop-is-not-known-css-property.html
+blogger_orig_url: https://www.marcusoft.net/2006/10/mycssprop-is-not-known-css-property.html
 ---
 
 ![CSS Error](/img/csserror.1.jpg)

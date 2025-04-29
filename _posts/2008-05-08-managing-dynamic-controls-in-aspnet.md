@@ -8,7 +8,7 @@ tags:
   - C#
 modified_time: 2010-12-14T15:20:33.286Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6971485611318880487
-blogger_orig_url: http://www.marcusoft.net/2008/05/managing-dynamic-controls-in-aspnet.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/managing-dynamic-controls-in-aspnet.html
 ---
 
 The last couple of days (well actually for my parts it's more like

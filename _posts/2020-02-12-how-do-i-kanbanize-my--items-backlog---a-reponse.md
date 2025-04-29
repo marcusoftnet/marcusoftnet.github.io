@@ -79,7 +79,7 @@ In the words of Woody Zuill
 >
 > \- Woody zuill
 
-Or in my words [When was Lars happy?](http://www.marcusoft.net/2019/09/when-was-lars-happy.html)
+Or in my words [When was Lars happy?](https://www.marcusoft.net/2019/09/when-was-lars-happy.html)
 
 Shorter; I always found it more beneficially to group work by features, as viewed of the people that will use the feature.
 
@@ -198,12 +198,12 @@ That is, it's free if someone took the time to create a ... funny that you shoul
 Here are the posts in a series describing this dashboard in detail:
 
 * [Introduction post on how this simple dashboard works](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html). Then there's a whole array of post describing each metric, what it is, how to gather it and what you can read from it:
-  * [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-  * [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-  * [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-  * [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-  * [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
-  * [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
+  * [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+  * [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+  * [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+  * [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+  * [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+  * [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
 * [Why and how you should use percentiles rather than average](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html)
 
 ## Summary

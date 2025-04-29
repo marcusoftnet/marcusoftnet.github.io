@@ -20,7 +20,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 At one of the teams I’m coaching right now at [Tradera](http://www.tradera.se/) (Swedish Ebay-branch) we are experimenting with increasing our focus on delivering completed work. We have had a big goal (technical upgrade of the complete site in a very short time) and there’s been some challenges to get the focus and team working together, towards this goal.  Which has led us to try to experiment with some new practices and visualizations (board and backlog etc) and is summed up with a new question that we ask ourselves at our daily standups (you’ll find it under the Daily Standup heading if you’re in a hurry :)).
 
-These a just a couple of practices that together has proven useful for us. In this blog post we’ll take a look at each one. Our starting-point was that it’s more important that we complete work than making sure that everyone is busy, that is built from the [core ideas of lean](http://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html). Hopefully you can get some ideas and insights from reading about this.
+These a just a couple of practices that together has proven useful for us. In this blog post we’ll take a look at each one. Our starting-point was that it’s more important that we complete work than making sure that everyone is busy, that is built from the [core ideas of lean](https://www.marcusoft.net/2013/05/low-wip-hairdressers-and-lean-operation.html). Hopefully you can get some ideas and insights from reading about this.
 
 <!-- excerpt-end -->
 

@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-03-22T20:50:09.625Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6644721424555041710
-blogger_orig_url: http://www.marcusoft.net/2009/03/sprint-planner-helper-session-22.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/sprint-planner-helper-session-22.html
 ---
 
 I have had some serious thoughts on what to do next in my project. On one hand, I want to update the way I am doing the GUI for the product and product backlog. Right now I am warm and learning a lot about [ASP.NET MVC](http://www.asp.net/mvc/) so it feels quite good to continue there.

@@ -12,7 +12,7 @@ tags:
 modified_time: 2014-03-17T01:37:31.541Z
 thumbnail: /img/yayasan_map.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1338677593036398302
-blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-getting-started.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/team-yayasan-getting-started.html
 ---
 
 I have a wonderful opportunity on my hands. I have been given a team of 4 people that never have done agile or lean before (albeit one of the is Elin, my wife, so she should know something). I have also authorization to decide about how and what we work on, within some limits (that I don't really know the bounds of yet). And I have three years to work with them.

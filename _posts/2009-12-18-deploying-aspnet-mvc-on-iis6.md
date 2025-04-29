@@ -9,7 +9,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2009-12-18T13:11:56.894Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2528632061713184735
-blogger_orig_url: http://www.marcusoft.net/2009/12/deploying-aspnet-mvc-on-iis6.html
+blogger_orig_url: https://www.marcusoft.net/2009/12/deploying-aspnet-mvc-on-iis6.html
 ---
 
 OK - this seems to be a problem that [many people have run into](http://www.google.se/search?hl=sv&q=asp.net+mvc+404&meta=). But for IIS 6, it seems some additional configuration is needed to get ASP.NET MVC up and running.

@@ -8,7 +8,7 @@ tags:
   - Brass Band
 modified_time: 2006-12-05T13:05:44.385Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6301195801056833480
-blogger_orig_url: http://www.marcusoft.net/2006/12/christmas-concert.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/christmas-concert.html
 ---
 
 

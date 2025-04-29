@@ -11,7 +11,7 @@ tags:
   - WCF
 modified_time: 2011-11-09T20:49:22.573Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3732020210808748696
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-3-afternoon.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-3-afternoon.html
 ---
 
 ### The Fallacy of Efficiency

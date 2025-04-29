@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2010-12-14T15:19:57.874Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8208673182992391595
-blogger_orig_url: http://www.marcusoft.net/2008/08/in-control-ii-bobby-mcferrin.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/in-control-ii-bobby-mcferrin.html
 ---
 
 Bobby McFerrin is known to a broader

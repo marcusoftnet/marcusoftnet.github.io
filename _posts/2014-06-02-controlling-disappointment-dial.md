@@ -10,7 +10,7 @@ tags:
   - Indonesia
 modified_time: 2014-06-03T11:35:08.189Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1975251623952516075
-blogger_orig_url: http://www.marcusoft.net/2014/06/controlling-disappointment-dial.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/controlling-disappointment-dial.html
 ---
 
 Walking my oldest son, Albert, to and from school is one of the highlights of the day here in Indonesia. At least when he’s in a good mood. Today was not one of those days. He was angry because something didn’t turn out as he planned. He very often does that: makes up his mind about what we should do (often involving TV or games) and then gets very upset when it doesn’t happen the way he wanted.
@@ -25,7 +25,7 @@ Here’s what I said to Albert:
 > [He said No. Very grumpy]
 > No she doesn’t, and that makes her disappointed. And when she’s looking for a sweater. She decides that the sweater should be blue with a small yellow shield and have stripes on the arms; red or blue. She then goes looking for them. Do you think she’ll find them?
 > [He said yes, but now he was laughing a little. I knew I had his attention now]
-> No she doesn’t and that too makes her disappointed. This is the same thing as you do, Albert. When you decide, beforehand, what is going to happen there’s a much bigger chance that you will be disappointed. 
+> No she doesn’t and that too makes her disappointed. This is the same thing as you do, Albert. When you decide, beforehand, what is going to happen there’s a much bigger chance that you will be disappointed.
 > [Lost him. Tried something else, going into coaching-mode]
 > What do you think grandma should try to avoid being disappointed all the time?
 > [Albert]; don’t buy shoes at all!

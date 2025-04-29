@@ -13,7 +13,7 @@ tags:
   - TDD
 modified_time: 2012-12-13T20:14:29.174Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-820434950966250266
-blogger_orig_url: http://www.marcusoft.net/2012/12/have-presentations-will-travel.html
+blogger_orig_url: https://www.marcusoft.net/2012/12/have-presentations-will-travel.html
 ---
 
 

@@ -7,7 +7,7 @@ tags:
   - Fun
 modified_time: 2008-03-14T06:37:01.670Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8652257912350570669
-blogger_orig_url: http://www.marcusoft.net/2008/03/behind-scenes-on-microsoft.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/behind-scenes-on-microsoft.html
 ---
 
 As

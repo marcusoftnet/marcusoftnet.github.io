@@ -8,7 +8,7 @@ tags:
   - NHibernate
 modified_time: 2010-12-14T15:19:35.818Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1927364463858470307
-blogger_orig_url: http://www.marcusoft.net/2009/09/fluent-nhibnerate-checkreference-throws.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/fluent-nhibnerate-checkreference-throws.html
 ---
 
 Lately, I've been working extensively with [Fluent NHibernate](http://fluentnhibernate.org/) and encountered a recurring issue.

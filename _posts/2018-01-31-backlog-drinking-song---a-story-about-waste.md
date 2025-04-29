@@ -135,7 +135,7 @@ Luckily it's not that bad for software. But we still spend a considerable amount
 
 Ok. Let the ranting stop and the suggestion start.
 
-First of all - drop the list. Create a mind map instead. I've [blogged about this before](http://www.marcusoft.net/2016/06/backlog-and-features.html) and there are great tools for this, so I'll keep this very short.
+First of all - drop the list. Create a mind map instead. I've [blogged about this before](https://www.marcusoft.net/2016/06/backlog-and-features.html) and there are great tools for this, so I'll keep this very short.
 
 Check out:
 
@@ -144,7 +144,7 @@ Check out:
 
 Secondly;
 
-> [Don't fear forgetting things](http://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html). Per definition, important things will come back - if not they were not important.
+> [Don't fear forgetting things](https://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html). Per definition, important things will come back - if not they were not important.
 
 Don't put things into a backlog just because you don't want to forget it. Do it or drop it. Or create a mind map of ideas on a whiteboard, so that you can relate it to things that you want to do.
 

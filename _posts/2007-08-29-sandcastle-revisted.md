@@ -7,7 +7,7 @@ tags:
   - Tools
 modified_time: 2010-12-14T15:22:38.322Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2439247928364528321
-blogger_orig_url: http://www.marcusoft.net/2007/08/sandcastle-revisted.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/sandcastle-revisted.html
 ---
 
 As i

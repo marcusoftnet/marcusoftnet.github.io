@@ -9,7 +9,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:22:38.225Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5393877567027229759
-blogger_orig_url: http://www.marcusoft.net/2008/10/automation-of-integration-tests.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/automation-of-integration-tests.html
 ---
 
 
@@ -56,6 +56,6 @@ Quite easy and maybe not the most beautiful solution ... but it works.
 **\[UPDATE\]**
 
 See <a
-href="http://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html"
+href="https://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html"
 target="_blank">this for how we solved the testing in our build
 script</a>

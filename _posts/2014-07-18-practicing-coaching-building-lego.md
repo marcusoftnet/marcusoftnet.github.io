@@ -10,7 +10,7 @@ tags:
 modified_time: 2014-07-19T12:26:51.129Z
 thumbnail: /img/2014-06-23+09.43.19.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9115606127894985354
-blogger_orig_url: http://www.marcusoft.net/2014/07/practicing-coaching-building-lego.html
+blogger_orig_url: https://www.marcusoft.net/2014/07/practicing-coaching-building-lego.html
 ---
 
 ![Lego House](http://ecx.images-amazon.com/images/I/91Pv76bx9FL._SL1500_.jpg)

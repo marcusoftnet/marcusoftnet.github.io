@@ -26,7 +26,7 @@ In this post I suggest that you should:
 
 A few months back the Salvation Army in Sweden changed the territorial leader - in Salvation Army speak the Commissioner of Sweden. I happen to know both the going and coming (a couple) commissioners pretty well and really appreciate them as leaders.
 
-However the going commissioner, [Marie Willermark](https://twitter.com/mariewillermark), was of particular help to me and my family when we lived in [Indonesia](http://www.marcusoft.net/tags/#Indonesia). Someone asked me to say a few words at her farewell meeting, as one of the non-employed members of the Salvation Army, Sweden. I gladly accepted.
+However the going commissioner, [Marie Willermark](https://twitter.com/mariewillermark), was of particular help to me and my family when we lived in [Indonesia](https://www.marcusoft.net/tags/#Indonesia). Someone asked me to say a few words at her farewell meeting, as one of the non-employed members of the Salvation Army, Sweden. I gladly accepted.
 
 As I prepared I was thinking about what the challenges would be, in a job like Commissioner Marie had, and what I thought that she had done exceptionally well - because from where I stood she had been an excellent leader of the Salvation Army.
 

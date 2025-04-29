@@ -31,7 +31,7 @@ One of my teams started a nice little practice that I've seen a few places: each
 
 When I asked them what it was for they said that they wanted to track how many days the sticky had been worked on. That was great! What an easy to see, do and follow visualization. But then I asked them *what behavior / decisions they we're going to changed based on this information* and that was not really decided yet.
 
-Quick side note: that is a nice little question that I've picked up from the awesome [How to measure anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) book. This measurement - or practice for that matter - how will we the information it gives us change our behavior. Very powerful question to understand the real need for the things we are doing.
+Quick side note: that is a nice little question that I've picked up from the awesome [How to measure anything](https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) book. This measurement - or practice for that matter - how will we the information it gives us change our behavior. Very powerful question to understand the real need for the things we are doing.
 
 No problems with that - what to do can grow on you. But it started me to think about how this can help us to track scope creep on our board. Because that is really hard to see and understand that it's happening. And it might also be something that we actually **want** to have sometimes, when we are in discovery mode for example.
 

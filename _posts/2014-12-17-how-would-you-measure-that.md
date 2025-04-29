@@ -37,7 +37,7 @@ So the goal is common understanding. Earlier.
 
 Now, that "make concrete earlier"-trick can be used in many other places and situations too. I've found it very useful to be a little more sure that we understand something in the same way. Let me give you an example where I've found it useful.
 
-Right now I'm working with mission and vision statements for the Salvation Army Hospitals in Indonesia. As for most vision statements I've seen or heard, they are often quite hard to grasp. And a bit fluffy. <a href="http://www.marcusoft.net/2014/10/vision-statements.html">Why not say what you really mean?</a>, me thinks.
+Right now I'm working with mission and vision statements for the Salvation Army Hospitals in Indonesia. As for most vision statements I've seen or heard, they are often quite hard to grasp. And a bit fluffy. <a href="https://www.marcusoft.net/2014/10/vision-statements.html">Why not say what you really mean?</a>, me thinks.
 
 But then I realized that it may be a hard to do that. Because we don't want to lock it down, or *gasp* we might not know ourselves what it really means until we have worked with it for awhile.
 
@@ -45,7 +45,7 @@ That sounds a bit like the main problem in most software development to me: nobo
 
 Since vision statements are meant to be a guiding star, a compass for our actions it might be hard or at least futile to try to give examples that are representative we have to do something different.
 
-Measurements are one way to make it concrete. And yes <a href="http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">anything can be measured</a>. I'm not saying that we need to follow our vision up on these measurement, but just to make it more concrete. Just as our examples in specification by example might not be implemented as tests. They are useful just as conversations to make our common understanding clearer.
+Measurements are one way to make it concrete. And yes <a href="https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html">anything can be measured</a>. I'm not saying that we need to follow our vision up on these measurement, but just to make it more concrete. Just as our examples in specification by example might not be implemented as tests. They are useful just as conversations to make our common understanding clearer.
 
 So maybe for our vision we ask:
 <blockquote>How do we know if we are getting closer towards our vision?</blockquote>

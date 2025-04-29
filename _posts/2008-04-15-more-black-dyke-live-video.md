@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2008-04-16T05:56:42.541Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2986599036065042380
-blogger_orig_url: http://www.marcusoft.net/2008/04/more-black-dyke-live-video.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/more-black-dyke-live-video.html
 ---
 
 

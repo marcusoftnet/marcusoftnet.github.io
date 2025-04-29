@@ -22,7 +22,7 @@ The initial section outlines how I created the video for uploading to YouTube. I
 
 ## Creating the Presentation
 
-Referencing my previous post on [presentation preparation](http://www.marcusoft.net/2014/11/how-i-prepare-presentation.html), I follow a structured approach that aids in preparing, recording, and translating the content.
+Referencing my previous post on [presentation preparation](https://www.marcusoft.net/2014/11/how-i-prepare-presentation.html), I follow a structured approach that aids in preparing, recording, and translating the content.
 
 ## Recording the Presentation
 

@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2007-06-27T08:04:55.065Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2278764567005500198
-blogger_orig_url: http://www.marcusoft.net/2007/06/get-current-user-name-and-with-vbnet.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/get-current-user-name-and-with-vbnet.html
 ---
 
 I searched a while for this, actually... which is strange

@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-11-29T21:34:36.362Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7973153048578917460
-blogger_orig_url: http://www.marcusoft.net/2011/11/what-i-learned-from-from-user-stories.html
+blogger_orig_url: https://www.marcusoft.net/2011/11/what-i-learned-from-from-user-stories.html
 ---
 
 I've just returned home from a course, marking my first training in over a year. It’s amazing how much you can learn in such a short time when the course and instructor are both excellent and you actively engage. This time, the course was led by [Gojko Adzic](http://gojko.net/), covering a subject I find both fascinating and valuable: [Specification by Example](http://specificationbyexample.com/).

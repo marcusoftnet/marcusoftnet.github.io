@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2009-02-22T19:04:32.746Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4166080631954390990
-blogger_orig_url: http://www.marcusoft.net/2009/02/prayer-works-jesus-hears-them.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/prayer-works-jesus-hears-them.html
 ---
 
 

@@ -10,7 +10,7 @@ tags:
   - C#
 modified_time: 2014-06-21T00:09:55.478Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3442155135108836212
-blogger_orig_url: http://www.marcusoft.net/2013/02/NancyTesting4.html
+blogger_orig_url: https://www.marcusoft.net/2013/02/NancyTesting4.html
 ---
 
 
@@ -29,16 +29,16 @@ blog post, but then it's just code all the way down.
 
 The other posts in the series can be found here:
 
-1. <a href="http://www.marcusoft.net/2013/01/NancyTesting1.html"
+1. <a href="https://www.marcusoft.net/2013/01/NancyTesting1.html"
     target="_blank">Intro to testing with Nancy</a>
-2. <a href="http://www.marcusoft.net/2013/01/NancyTesting2.html"
+2. <a href="https://www.marcusoft.net/2013/01/NancyTesting2.html"
     target="_blank">The Configurable bootstrapper</a>
-3. <a href="http://www.marcusoft.net/2013/01/NancyTesting3.html"
+3. <a href="https://www.marcusoft.net/2013/01/NancyTesting3.html"
     target="_blank">The Browser and Response objects</a>
-4. <a href="http://www.marcusoft.net/2013/02/NancyTesting4.html"
+4. <a href="https://www.marcusoft.net/2013/02/NancyTesting4.html"
     target="_blank">Hat and shoeless testing with Simple.Data</a>(this
     post)
-5. <a href="http://www.marcusoft.net/2013/02/NancyTesting5.html"
+5. <a href="https://www.marcusoft.net/2013/02/NancyTesting5.html"
     target="_blank">SpecFlow and Nancy</a>
 
 Let's dive right in a say hello to Simple.Data, if you haven't met him
@@ -102,7 +102,7 @@ etc for your InMemoryAdapter.
 
 As I just said we can now test the stack all the way down to the bottom
 of our application architecture. And in the rest of the [blog posts of
-this series](http://www.marcusoft.net/2013/01/NancyTesting1.html), I've
+this series](https://www.marcusoft.net/2013/01/NancyTesting1.html), I've
 talked about how Nancy.Testing allows you to test your whole stack
 upwards, just before the rendered HTML leaves the web server.
 
@@ -146,16 +146,16 @@ fast:
     Simple.Data to use that adapter for all subsequent calls to
     Database.Open().
 - On line 35-36 in the same file we configure the
-    [ConfigurableBoostrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html) to
+    [ConfigurableBoostrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html) to
     use our **production** repository. That's quite ok since we just
     told Simple.Data to use our "mock" the InMemoryAdapter.
 - We then proceed to call into the SimpleDataModuleWithView, via the
-    [Nancy.Testing.Browser](http://www.marcusoft.net/2013/01/NancyTesting2.html) object.
+    [Nancy.Testing.Browser](https://www.marcusoft.net/2013/01/NancyTesting2.html) object.
     That's calling the entire stack - but not doing network calls, mind
     you. We're cutting in just before the web server itself.
 - The rest of the code is standard Nancy and Razor code. Mind that the
     Razor view (the .cshtml-file) needs to be set to ["Copy if
-    newer"](http://www.marcusoft.net/2013/02/NancyViewTesting.html) in
+    newer"](https://www.marcusoft.net/2013/02/NancyViewTesting.html) in
     the Properties window, Copy to output directory in order for
     Nancy.Testing to be able to render it under test. Read more on this
     here.

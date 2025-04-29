@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.180Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-261372006467802949
-blogger_orig_url: http://www.marcusoft.net/2009/10/private-source-control-repository-with.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/private-source-control-repository-with.html
 ---
 
 I was recently searching for a solution to a [Source Control](http://en.wikipedia.org/wiki/Revision_control) problem—specifically, setting up a system quickly and efficiently.

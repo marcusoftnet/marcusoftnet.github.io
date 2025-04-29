@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-10-28T21:09:23.656Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7430660714436939699
-blogger_orig_url: http://www.marcusoft.net/2008/10/marcus-now-in-full-color-video.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/marcus-now-in-full-color-video.html
 ---
 
 

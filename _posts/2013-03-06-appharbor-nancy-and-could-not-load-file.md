@@ -12,7 +12,7 @@ tags:
 modified_time: 2013-03-06T10:35:19.266Z
 thumbnail: /img/Screen+Shot+2013-03-06+at+09.28.37+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2452370248443791950
-blogger_orig_url: http://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not-load-file.html
+blogger_orig_url: https://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not-load-file.html
 ---
 
 I've built a small application. Just something I threw together with a friend during a hack-session at the client. (It's a [dot voting](http://martinfowler.com/bliki/DotVoting.html) application and you can [try it here](http://dotvoter.appharbor.com/), if it's up :))

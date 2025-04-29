@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.177Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6573264846475102998
-blogger_orig_url: http://www.marcusoft.net/2009/11/when-is-good-decide-already.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/when-is-good-decide-already.html
 ---
 
 Over the past month, I've been involved in numerous meeting scheduling activities. The process always seems to involve a lot of back-and-forth with dates before finally settling on one.

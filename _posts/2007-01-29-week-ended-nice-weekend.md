@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-01-29T06:45:32.246Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-917660750540573695
-blogger_orig_url: http://www.marcusoft.net/2007/01/week-ended-nice-weekend.html
+blogger_orig_url: https://www.marcusoft.net/2007/01/week-ended-nice-weekend.html
 ---
 
 The last week was really intense, work wise, with some stuff starting off at my primary customer and a review for another customer in the last two days.

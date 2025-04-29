@@ -21,7 +21,7 @@ A few days back, I said something to my client that apparently many people on Tw
 </blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-My client, the hospital that I've written about many times before, has [a big project ahead](http://www.marcusoft.net/2015/01/make-it-smaller---some-practical-experiences.html). We are going to be accredited for quality in all our processes. So... there's a lot of documentation, implementation, and training to be done.
+My client, the hospital that I've written about many times before, has [a big project ahead](https://www.marcusoft.net/2015/01/make-it-smaller---some-practical-experiences.html). We are going to be accredited for quality in all our processes. So... there's a lot of documentation, implementation, and training to be done.
 
 Nobody really knows how much. We think, from hearing about other projects, that it's about 6 months and made that our goal. But we haven't got a clue how much work it is left for us.
 

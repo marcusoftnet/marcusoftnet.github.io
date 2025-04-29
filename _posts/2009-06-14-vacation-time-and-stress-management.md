@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2009-06-14T15:47:21.092Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5634371849815943142
-blogger_orig_url: http://www.marcusoft.net/2009/06/vacation-time-and-stress-management.html
+blogger_orig_url: https://www.marcusoft.net/2009/06/vacation-time-and-stress-management.html
 ---
 
 Yes, I know that some people will refer to [Seinfeld](http://en.wikipedia.org/wiki/Seinfeld) and the [episode](http://www.imdb.com/title/tt0697793/usercomments) where George goes on vacation while being without a job, but it's true—my vacation starts tomorrow. What that means is that I am going to [Hyppeln](http://www.hitta.se/LargeMap.aspx?var=Hyppeln) on the west coast of Sweden. It will be great and hopefully with some better weather than we have had the last few weeks...

@@ -9,7 +9,7 @@ tags:
 modified_time: 2010-11-12T15:12:30.686Z
 thumbnail: /img/estimated+time+left.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6514925003307124771
-blogger_orig_url: http://www.marcusoft.net/2010/11/emperor-is-naked-planning-in-advance-is.html
+blogger_orig_url: https://www.marcusoft.net/2010/11/emperor-is-naked-planning-in-advance-is.html
 ---
 
 This is a well-known truth for all practicing agile methods.
@@ -18,7 +18,7 @@ This is a well-known truth for all practicing agile methods.
 
 I'm currently working on a migration project with a fantastic team—possibly the best I've ever worked with. We're converting a large VB6 application to VB.NET and WPF. Due to various reasons, we decided to do this in two phases:
 
-1. **Migrate everything with a tool and then get it to work again.** Write an [integration test that ensures the function works as expected](http://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html).
+1. **Migrate everything with a tool and then get it to work again.** Write an [integration test that ensures the function works as expected](https://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html).
 2. **Rewrite the underlying architecture bit by bit.** Since we have integration tests in place, we are shielded from introducing any significant bugs.
 
 In the first phase, we worked our way through the old code, form by form. There were 265 forms, and we created a simple tracking tool in Excel to classify each form as S, M, L, or XL (based on size in KB). As we progressed, we tracked the time spent on all activities. Eventually, we could estimate how long it would take us and how much work remained.
@@ -51,6 +51,6 @@ So when could I have been right? Never! This is because [software development is
 
 For agilistas, this is old news. We know this. But the question still comes. Just the other week, we were asked to estimate when phase 2 would be done. By then, we hadn't even decided what would go into it. So it still happens.
 
-What to do? Just give me a date when you want it done, and we'll try to fill it with the most important functionality, with the best quality we can manage in that timespan. 
+What to do? Just give me a date when you want it done, and we'll try to fill it with the most important functionality, with the best quality we can manage in that timespan.
 
 I'm sorry. The emperor is naked—you cannot estimate a software project with any certainty.

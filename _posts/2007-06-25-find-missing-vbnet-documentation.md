@@ -9,7 +9,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:22:38.352Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5986658430063569109
-blogger_orig_url: http://www.marcusoft.net/2007/06/find-missing-vbnet-documentation.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/find-missing-vbnet-documentation.html
 ---
 
 As frequent readers of this blog probably have [noticed](http://marcushammarberg.blogspot.com/search/label/VB.NET), I am not that impressed with VB.NET. Don't get me wrong it is a great language but I think that there are a lot of improvements in Visual Studio for C# that you are missing when you're using VB.NET.

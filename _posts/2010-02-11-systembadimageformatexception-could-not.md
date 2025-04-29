@@ -10,12 +10,12 @@ tags:
   - NHibernate
 modified_time: 2010-12-14T15:22:38.164Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3325711529846229433
-blogger_orig_url: http://www.marcusoft.net/2010/02/systembadimageformatexception-could-not.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/systembadimageformatexception-could-not.html
 ---
 
 
 I ran into this problem when I tried to re-open a <a
-href="http://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html"
+href="https://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html"
 target="_blank">solution I did a while back</a> when labbing with Fluent
 <a href="https://www.hibernate.org/343.html"
 target="_blank">NHibernate</a> and SQLite.

@@ -10,7 +10,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:22:38.199Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8292620657830390019
-blogger_orig_url: http://www.marcusoft.net/2009/03/moq-and-test-run-deployment-issue.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/moq-and-test-run-deployment-issue.html
 ---
 
 The [NerdDinner](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx) example uses the [MOQ-framework](http://code.google.com/p/moq/) for mocking some authentication mechanism.

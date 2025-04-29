@@ -8,7 +8,7 @@ tags:
   - C#
 modified_time: 2010-12-14T15:23:11.109Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7858678868465124323
-blogger_orig_url: http://www.marcusoft.net/2008/11/aspect-clean-up-your-code.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/aspect-clean-up-your-code.html
 ---
 
 The other thing that really impressed me this week was the use of [policy injection](http://msdn.microsoft.com/en-us/library/cc309507.aspx) and [aspect-oriented programming](http://en.wikipedia.org/wiki/Aspect-oriented_programming) in our code.

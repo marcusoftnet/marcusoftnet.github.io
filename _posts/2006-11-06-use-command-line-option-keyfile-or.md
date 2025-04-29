@@ -10,7 +10,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.671Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1603842338209902601
-blogger_orig_url: http://www.marcusoft.net/2006/11/use-command-line-option-keyfile-or.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/use-command-line-option-keyfile-or.html
 ---
 
 Ran into an old "friend" compiler error...

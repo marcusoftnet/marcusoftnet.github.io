@@ -8,7 +8,7 @@ tags:
   - Salvation Army
 modified_time: 2008-02-19T13:07:15.332Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-342955153423395129
-blogger_orig_url: http://www.marcusoft.net/2008/02/recording-with-vasa-band.html
+blogger_orig_url: https://www.marcusoft.net/2008/02/recording-with-vasa-band.html
 ---
 
 Phew - the weekend has really been intense with a CD-recording as the major happening. Also our prayer group was in charge of the Sunday morning meeting which was a success but quite different from an ordinary Salvation Army meeting.

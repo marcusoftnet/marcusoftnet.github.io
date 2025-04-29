@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-08-21T18:20:50.014Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7525604069077413052
-blogger_orig_url: http://www.marcusoft.net/2007/08/couch-in-house-finally.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/couch-in-house-finally.html
 ---
 
 We have just bought a new sofa to our apartment. Or rather we bought about two months ago but a long, long story including delay for six weeks and delivery of part of the sofa has delayed the installation until... today!

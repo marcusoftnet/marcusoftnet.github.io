@@ -7,12 +7,12 @@ tags:
   - VB.NET
 modified_time: 2010-12-14T15:20:33.355Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9081143277930480770
-blogger_orig_url: http://www.marcusoft.net/2008/03/type-typename-is-not-cls-compliant.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/type-typename-is-not-cls-compliant.html
 ---
 
 OK - here is a strange one...
 \[UPDATE ON THIS POST - SEE
-<http://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html>\]
+<https://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html>\]
 
 We are using dependency injection to be able to inject mocked version of
 classes that the class we're testing is using.... (oh, my god - requires

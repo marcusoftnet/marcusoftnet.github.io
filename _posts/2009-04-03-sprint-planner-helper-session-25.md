@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2009-05-05T09:46:18.956Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3621811682976096535
-blogger_orig_url: http://www.marcusoft.net/2009/04/sprint-planner-helper-session-25.html
+blogger_orig_url: https://www.marcusoft.net/2009/04/sprint-planner-helper-session-25.html
 ---
 
 Today I will continue working on the model surrounding Sprints, and of course drive it forward with tests.

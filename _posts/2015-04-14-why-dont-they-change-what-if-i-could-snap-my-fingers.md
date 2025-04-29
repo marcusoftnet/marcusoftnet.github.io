@@ -22,7 +22,7 @@ Just kidding but I will try to write this so I can use it as a nice reminder pos
 
 <!-- excerpt-end -->
 
-Once again I was pondering why "they" just couldn't understand and start to do goal driven plans, a [vision statement](http://www.marcusoft.net/2014/10/vision-statements.html) that actually helped us to know where we were going and things like that.
+Once again I was pondering why "they" just couldn't understand and start to do goal driven plans, a [vision statement](https://www.marcusoft.net/2014/10/vision-statements.html) that actually helped us to know where we were going and things like that.
 
 And I thought to myself:
 

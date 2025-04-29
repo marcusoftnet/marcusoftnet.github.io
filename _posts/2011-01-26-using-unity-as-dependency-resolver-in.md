@@ -9,12 +9,12 @@ tags:
   - ASP.NET MVC
 modified_time: 2011-01-25T19:44:16.939Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-178841900667357474
-blogger_orig_url: http://www.marcusoft.net/2011/01/using-unity-as-dependency-resolver-in.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/using-unity-as-dependency-resolver-in.html
 ---
 
 There have been a lot of improvements and additions to [dependency resolving](http://bradwilson.typepad.com/blog/2010/07/service-location-pt1-introduction.html) in [ASP.NET MVC](http://www.asp.net/mVC/) 3. Even in areas that you first didn’t think about (dependency injection in views) at first.
 
-OK – after [my last post](http://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html), in which I’m using [Ninject](http://ninject.org/) (with the cool website) I got the questions if it can be done with [Unity](http://unity.codeplex.com/). Of course it does. This post shows how.
+OK – after [my last post](https://www.marcusoft.net/2011/01/kanbanboards-iiiputting-on-web.html), in which I’m using [Ninject](http://ninject.org/) (with the cool website) I got the questions if it can be done with [Unity](http://unity.codeplex.com/). Of course it does. This post shows how.
 
 I’m using Ninject because of the super-slick integration with ASP.NET MVC 3 via [NuGet](http://nuget.org/). It gives me a “correct” and easy to start with solution. The main part in this found in this App_Start static file, that is run before any other code with the Web Activator mechanism:
 

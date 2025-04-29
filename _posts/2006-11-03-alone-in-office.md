@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2006-11-03T12:26:54.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-558442394067670738
-blogger_orig_url: http://www.marcusoft.net/2006/11/alone-in-office.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/alone-in-office.html
 ---
 
 ![Alone in the Office](/img/IMAGE_094.jpg)

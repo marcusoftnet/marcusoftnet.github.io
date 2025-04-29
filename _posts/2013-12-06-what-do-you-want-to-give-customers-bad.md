@@ -10,7 +10,7 @@ tags:
   - Indonesia
 modified_time: 2013-12-08T19:53:20.953Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4948431215303714546
-blogger_orig_url: http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html
+blogger_orig_url: https://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html
 ---
 
 We've just got our visas for entering Indonesia! Lovely!
@@ -76,11 +76,11 @@ There must be another way... This cannot be the best we found so far.
 Sadly, as far as visa-approving-processes goes, I have not a clue on how
 to improve this. I do know that putting your customer and her needs
 first, aim to improve and
-<a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
+<a href="https://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">CHANGE</a> your process is a great way to get started.
 
 However, I know a bit about doing this for IT. And if we
-<a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
+<a href="https://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">CHANGED</a> our process into delivering small increments
 (that's working pieces of software to production, for the rest of us)
 frequently, starting with the ones that are most important to our
@@ -92,5 +92,5 @@ you have a series of good news until, all of a sudden, you have exactly
 what your customer needed.
 
 The million dollar question(s) is; which one do you prefer?  How will
-you <a href="http://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
+you <a href="https://www.marcusoft.net/2013/10/YesITalkAboutChange.html"
 target="_blank">CHANGE</a> today towards that goal?

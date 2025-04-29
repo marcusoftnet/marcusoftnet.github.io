@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.578Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1604975735963282913
-blogger_orig_url: http://www.marcusoft.net/2007/06/vbnet-showing-build-configuration.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/vbnet-showing-build-configuration.html
 ---
 
 Just found a solution to something that have confused and annoyed for a while.

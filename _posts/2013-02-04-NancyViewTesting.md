@@ -10,7 +10,7 @@ tags:
   - C#
 modified_time: 2014-06-21T00:09:55.449Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1820569848746353017
-blogger_orig_url: http://www.marcusoft.net/2013/02/NancyViewTesting.html
+blogger_orig_url: https://www.marcusoft.net/2013/02/NancyViewTesting.html
 ---
 
 
@@ -59,6 +59,6 @@ Oh yeah - the two settings you need to do:
 After that it'll "just work".
 
 You can read more about the awesome [testing capabilities of Nancy
-here.](http://www.marcusoft.net/2013/01/NancyTesting1.html)
+here.](https://www.marcusoft.net/2013/01/NancyTesting1.html)
 My code can [be found
 here.](https://github.com/marcusoftnet/DiscoveringNancyThroughTests)

@@ -35,7 +35,7 @@ The feature that the team was going to add was a Cart. Yes, like a shopping cart
 
 The team approach this by getting together for a couple of days and throwing ideas around. There was some spiking and a lot of drawings and scenarios was discussed.
 
-After just a couple of days (maybe a week) they came up with a plan, and was asked to [commit to deliver](http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html) the feature before the summer. 2,5 months away.
+After just a couple of days (maybe a week) they came up with a plan, and was asked to [commit to deliver](https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html) the feature before the summer. 2,5 months away.
 
 A plan with a number of small changes to the code base was put into place. I think they did maybe 12 small releases with things “behind the scenes”. The first one took them just a couple of days to put out into production.
 
@@ -89,7 +89,7 @@ Again, let me stress that the feature was a success. But it might have over deli
 
 What would have been a very big difference is the time-to-market; it’s just a couple of days before something new showed up in production.
 And then the feedback would have started to come to us.
-This would have stilled much of the questioning for our progress, the need for plans and [“commitments”](http://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html), I think.
+This would have stilled much of the questioning for our progress, the need for plans and [“commitments”](https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html), I think.
 
 Also we would have started to get feedback on the feature much faster. I remember when the team did release the feature; it just took a day or two before they started to get ideas on what people was looking for, how to get that into the next release etc. That kind of feedback would have come to us much earlier. Much. Earlier.
 
@@ -106,4 +106,4 @@ When you think about it it’s your choice really;
 - setting up your process in a Big Bang fashion bootstrap yourself for a series of bad news, delays, exceeded budgets and a risk that the finished product will disappoint the customer
 - with small frequent, customer-facing, release you have a series of good news until, all of a sudden, you have exactly what your customer needed. And you will learn what from what you have done so far.
 
-(Read about another[process with these problems here](http://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html) )
+(Read about another[process with these problems here](https://www.marcusoft.net/2013/12/what-do-you-want-to-give-customers-bad.html) )

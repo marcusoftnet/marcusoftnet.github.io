@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-12T22:03:22.105Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5063613979911026979
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-9.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-session-9.html
 ---
 
 

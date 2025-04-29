@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2007-03-30T07:51:48.406Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-340487749415014671
-blogger_orig_url: http://www.marcusoft.net/2007/03/dependency-injection-explained.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/dependency-injection-explained.html
 ---
 
 When I first read about Dependency Injection, I of course read the

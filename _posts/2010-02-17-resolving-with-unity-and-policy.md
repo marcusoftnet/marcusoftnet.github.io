@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:23:11.099Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4787243305328550278
-blogger_orig_url: http://www.marcusoft.net/2010/02/resolving-with-unity-and-policy.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/resolving-with-unity-and-policy.html
 ---
 
 
@@ -49,6 +49,6 @@ Yeah that’s right here is the <a
 href="http://dl.dropbox.com/u/2408484/ResolvingWithPolicyInjection.zip"
 target="_blank">complete code example.</a> And here is a services that
 <a
-href="http://www.marcusoft.net/2008/01/convert-c-to-vbnet-and-back-again.html"
+href="https://www.marcusoft.net/2008/01/convert-c-to-vbnet-and-back-again.html"
 target="_blank">translates C# to VB.NET</a> if that’s your preference,
 mr Scott. :)

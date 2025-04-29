@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2010-12-14T15:20:33.290Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2920252063191246961
-blogger_orig_url: http://www.marcusoft.net/2008/04/tfs-msbuild-and-code-coverage.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/tfs-msbuild-and-code-coverage.html
 ---
 
 When you have a testing framework in place you of course want to test it

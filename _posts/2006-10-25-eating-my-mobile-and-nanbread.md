@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2006-10-26T05:53:10.509Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116175519939418314
-blogger_orig_url: http://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread.html
+blogger_orig_url: https://www.marcusoft.net/2006/10/eating-my-mobile-and-nanbread.html
 ---
 
 ![Mobile](http://www.myqtek.com/media/12359-8100_front.gif)

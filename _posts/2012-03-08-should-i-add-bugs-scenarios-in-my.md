@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-03-27T13:17:19.985Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5573551079010100753
-blogger_orig_url: http://www.marcusoft.net/2012/03/should-i-add-bugs-scenarios-in-my.html
+blogger_orig_url: https://www.marcusoft.net/2012/03/should-i-add-bugs-scenarios-in-my.html
 ---
 
 Right now I’m very impressed with the way that two my colleagues ([Hugo Häggmark](http://www.hugohaggmark.com/) and [Tobias Karlsson](http://www.tobias-karlsson.se/)) has introduced [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) or rather [Specification by example](http://specificationbyexample.com/) at their client. They have in a very short time gone from people not speaking to each other (analysts and developers) to collaboration around the scenarios of their specifications and demos running from those specs. I’m officially impressed! [Another colleague](https://twitter.com/#!/toresta) even threw together a speech engine integration that speak the SpecFlow features as they are run. Silly but …Coolness!
@@ -37,7 +37,7 @@ So back to Hugos questions; should I add scenarios for bugs under the specificat
 
 Aha – I didn’t say that! I still think that creating bug scenarios is a great idea, but it can be done in different .feature files. Then they might cut the system in a different way as well to better suit the description of the bug.
 
-They can be tucked away in a different folder and [tagged with some tags](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) (@bugfix or @regressionTest) that you only run on daily builds, keeping your continuous build quick.
+They can be tucked away in a different folder and [tagged with some tags](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) (@bugfix or @regressionTest) that you only run on daily builds, keeping your continuous build quick.
 
 Maybe a folder structure for you feature-file could look something like this:
 

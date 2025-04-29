@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2011-11-23T21:34:10.980Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102
-blogger_orig_url: http://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html
+blogger_orig_url: https://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html
 ---
 
 

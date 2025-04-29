@@ -8,7 +8,7 @@ tags:
   - WCF
 modified_time: 2008-04-11T17:24:24.634Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8821292909315687787
-blogger_orig_url: http://www.marcusoft.net/2008/04/wcf-wsdl-configurations-explained.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/wcf-wsdl-configurations-explained.html
 ---
 
 OK - after an intensive coding session I can now proudly say that I
@@ -23,7 +23,7 @@ The attributes that you should set are:
   bindingNamespace-attribute in the config-file:
   \<endpoint
   bindingNamespace="[<span
-    style="font-family:courier new;">http://www.marcusoft.net/Services/](http://www.marcusoft.net/Services/)"<span
+    style="font-family:courier new;">https://www.marcusoft.net/Services/](https://www.marcusoft.net/Services/)"<span
     style="font-family:courier new;"> /\>
 - **ServiceBehavior.ConfigurationName** - this is the name that you
   use as service name in the configuration file:

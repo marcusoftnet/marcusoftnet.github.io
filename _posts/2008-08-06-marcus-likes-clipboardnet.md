@@ -7,7 +7,7 @@ tags:
   - Tools
 modified_time: 2010-12-14T15:22:38.271Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3280235566942894208
-blogger_orig_url: http://www.marcusoft.net/2008/08/marcus-likes-clipboardnet.html
+blogger_orig_url: https://www.marcusoft.net/2008/08/marcus-likes-clipboardnet.html
 ---
 
 Found [this cool tool](https://clipmon32.bountysource.com/) that remembers a

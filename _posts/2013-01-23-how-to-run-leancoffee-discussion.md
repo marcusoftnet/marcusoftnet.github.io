@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2014-02-05T06:52:09.860Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4246626537979187189'
-blogger_orig_url: http://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html
 ---
 
 On a Sunday night a got a mail that asked me to do a presentation tomorrow. New client. Want to put best foot forward. :) So I threw one together and here's the run down of it. Thinking of recording it and put it up somewhere too.

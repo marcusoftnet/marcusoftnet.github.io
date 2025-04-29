@@ -15,7 +15,7 @@ I have learned new stuff. There are a better ways. Find the [update here](https:
 
 This is the second post in my series where I show how you can get make powerful visualizations of process data. As before, my goal here is that you can dump your process data into one tab of [my sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) and then the dashboard will make all the other calculations.
 
-In the [first post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), I talked at some length about other goals of this tool and some of the principles I built these ideas on.
+In the [first post](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html), I talked at some length about other goals of this tool and some of the principles I built these ideas on.
 
 Speaking of those principles; in this post, I will violate one of them a bit, by adding a filter capability to the lead time chart, so that we can see just a part of the data.
 
@@ -37,7 +37,7 @@ To get some more data to filter on I added a new column, copying over the “Siz
 
 ## What are we trying to do here
 
-The goal of all of this is to make a few lead time charts, like the one in the [previous post](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html):
+The goal of all of this is to make a few lead time charts, like the one in the [previous post](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html):
 
 - Lead times for all items we estimated to S
 - Lead times for all items we estimated to M
@@ -147,7 +147,7 @@ I need to show to export the chart as a picture as well, because that could be h
 
 ## Summary
 
-Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
+Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
 
 In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter.
 
@@ -157,9 +157,9 @@ In this post we have given the user a bunch of opportunities in how to filter th
 
 All the posts in the series are found through these links:
 
-1. [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-2. [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-3. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-4. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-5. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
-6. [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
+1. [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+2. [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+3. [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+4. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+5. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+6. [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)

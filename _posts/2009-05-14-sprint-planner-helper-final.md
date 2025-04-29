@@ -9,12 +9,12 @@ tags:
   - TDD
 modified_time: 2009-05-18T17:30:40.116Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2750598584067777240
-blogger_orig_url: http://www.marcusoft.net/2009/05/sprint-planner-helper-final.html
+blogger_orig_url: https://www.marcusoft.net/2009/05/sprint-planner-helper-final.html
 ---
 
-I have had some real problems to get going with the [Sprint Planner Helper Project](http://www.marcusoft.net/search/label/Sprint%20Planner%20Helper) after the trip to [Ethiopia](http://www.marcusoft.net/2009/05/pictures-from-ethopia.html). I am not sure why – but it made me think about the project, the scope, and purpose.
+I have had some real problems to get going with the [Sprint Planner Helper Project](https://www.marcusoft.net/search/label/Sprint%20Planner%20Helper) after the trip to [Ethiopia](https://www.marcusoft.net/2009/05/pictures-from-ethopia.html). I am not sure why – but it made me think about the project, the scope, and purpose.
 
-First and foremost – I am not working, I am on parental leave. That means this is my spare time project and I [promised myself](http://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html) that I would end it if I didn’t feel up to it for some reason. Since I have found it hard to restart, I conclude that I have reached that point.
+First and foremost – I am not working, I am on parental leave. That means this is my spare time project and I [promised myself](https://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html) that I would end it if I didn’t feel up to it for some reason. Since I have found it hard to restart, I conclude that I have reached that point.
 
 Secondly – the main reason and purpose of the project was to learn, not to produce a wonder-application (although that would have been nice :)). I think that I have learned quite a lot during this project and that I am at a junction right now. You cannot pursue depth in all directions.
 
@@ -26,7 +26,7 @@ The main purpose was to look into Domain Driven Design. I feel that I have got a
 
 **UPDATED**
 
-[Here is my post on DDD](http://www.marcusoft.net/2009/05/ddd-whats-deal.html)
+[Here is my post on DDD](https://www.marcusoft.net/2009/05/ddd-whats-deal.html)
 
 #### [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 
@@ -36,7 +36,7 @@ When I started the Sprint Planner Helper project, I liked tests. Now they are a 
 
 Finally, a web framework from Microsoft that I understand! I’ve been doing WebForms on and off during several years and still don’t get it. Actually, I don’t think many do (how many developers fully understand the implication of [this](http://emanish.googlepages.com/Asp.Net2.0Lifecycle.PNG)…)
 
-After doing ASP.NET MVC during this project, I can honestly say that I will surely continue and never look back. Also, the community is exploding with [examples](http://blogs.msdn.com/brada/archive/2008/01/29/asp-net-mvc-example-application-over-northwind-with-the-entity-framework.aspx), [code](http://www.codeplex.com/MVCContrib), and [projects](http://code.google.com/p/sharp-architecture/) that will assist you in creating great code. And of course the introduction [Nerd Dinner chapter](http://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html).
+After doing ASP.NET MVC during this project, I can honestly say that I will surely continue and never look back. Also, the community is exploding with [examples](http://blogs.msdn.com/brada/archive/2008/01/29/asp-net-mvc-example-application-over-northwind-with-the-entity-framework.aspx), [code](http://www.codeplex.com/MVCContrib), and [projects](http://code.google.com/p/sharp-architecture/) that will assist you in creating great code. And of course the introduction [Nerd Dinner chapter](https://www.marcusoft.net/2009/03/aspnet-mvc-nerd-dinner-example.html).
 
 I am ridiculously proud of being the number one hit on [this search](http://www.google.com/search?hl=en&q=nerd+dinner+mvc&meta=). Before the actual book itself!
 

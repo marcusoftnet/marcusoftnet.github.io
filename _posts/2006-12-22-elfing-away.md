@@ -8,7 +8,7 @@ tags:
   - Fun
 modified_time: 2006-12-22T12:30:41.606Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8218067790774423403
-blogger_orig_url: http://www.marcusoft.net/2006/12/elfing-away.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/elfing-away.html
 ---
 
 The last day of work before Christmas has contained some major

@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2012-10-03T07:56:43.366Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-835259150443180617
-blogger_orig_url: http://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html
+blogger_orig_url: https://www.marcusoft.net/2012/10/improving-presence-of-remote-worker-in.html
 ---
 
 

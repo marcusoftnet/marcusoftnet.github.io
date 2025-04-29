@@ -20,13 +20,13 @@ I was a small, small part of that change and I wanted to share the story with yo
 ![Ibu Elsye](/img/ibuElsye.png){:style="float:left;padding:15px;width:50%;"}
 This is Ibu Elsye (lady dressed in black in the picture) or Mrs. Elsye for you westerners.
 
-She's General Manager of a hospital, Rumah Sakit Bungsu, that I'm helping, here in [Indonesia](http://www.marcusoft.net/tags/#Indonesia). General Manager; what is that, in a hospital - is a very natural question to ask. Basically, she's in charge of everything that is not health care. Food, laundry, maintenance, security staff, drivers ... you name it.
+She's General Manager of a hospital, Rumah Sakit Bungsu, that I'm helping, here in [Indonesia](https://www.marcusoft.net/tags/#Indonesia). General Manager; what is that, in a hospital - is a very natural question to ask. Basically, she's in charge of everything that is not health care. Food, laundry, maintenance, security staff, drivers ... you name it.
 
 If you need something fixed - go to Ibu Elsye.
 
 ## Her situation
 
-She asked our help ([that is important, folks](http://www.marcusoft.net/2015/06/only-help-those-that-want-help.html)) about two weeks ago. She said that her departments were overworked but still never got anything done. This had to do with priorities being changed often and also many people bypassed Ibu Elsye and went straight to the people beneath her.
+She asked our help ([that is important, folks](https://www.marcusoft.net/2015/06/only-help-those-that-want-help.html)) about two weeks ago. She said that her departments were overworked but still never got anything done. This had to do with priorities being changed often and also many people bypassed Ibu Elsye and went straight to the people beneath her.
 
 She spent her days just running around trying to get things done, which "I don't want to do anymore because the moment I go into a room I get more to do". She was sobbing during that sentence. Me too.
 

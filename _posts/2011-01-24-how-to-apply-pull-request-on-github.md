@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2013-08-22T09:58:35.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-492786643050013190
-blogger_orig_url: http://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/how-to-apply-pull-request-on-github.html
 ---
 
 I am loving [GitHub](http://www.github.com/)!

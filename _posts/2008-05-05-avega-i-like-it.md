@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2008-05-05T06:20:47.695Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3885291506851472241
-blogger_orig_url: http://www.marcusoft.net/2008/05/avega-i-like-it.html
+blogger_orig_url: https://www.marcusoft.net/2008/05/avega-i-like-it.html
 ---
 
 My company, [Avega](http://www.avega.se/), is back from a conference
@@ -39,9 +39,9 @@ during the year. Doing a lot of fun stuff together.
 And that is were I work! What a feeling!
 
 I have the same feeling with [my
-family](http://www.marcusoft.net/2008/03/abbe-growing-and-growing.html),
+family](https://www.marcusoft.net/2008/03/abbe-growing-and-growing.html),
 my Salvation Army Corps and my
-[band](http://www.marcusoft.net/2008/03/cd-in-can.html)... and that
+[band](https://www.marcusoft.net/2008/03/cd-in-can.html)... and that
 pretty much sums up the things I do. The only word I can think of that
 explains that is blessed. I am truly blessed in my life right now.
 

@@ -8,7 +8,7 @@ tags:
   - Scrum
 modified_time: 2008-05-16T06:13:47.615Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7921648991803962963
-blogger_orig_url: http://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html
 ---
 
 I'm

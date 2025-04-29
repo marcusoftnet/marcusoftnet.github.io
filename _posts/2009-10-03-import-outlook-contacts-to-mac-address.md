@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.185Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6860689483999708427
-blogger_orig_url: http://www.marcusoft.net/2009/10/import-outlook-contacts-to-mac-address.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/import-outlook-contacts-to-mac-address.html
 ---
 
 Importing your Outlook contacts to the Mac Address Book can be tricky, especially if you want to avoid losing non-text data like images or if you don't want to spend money on tools. Here's a free and easy method to get it done:

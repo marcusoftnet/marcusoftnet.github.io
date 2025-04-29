@@ -30,7 +30,7 @@ But first - let me tell you a little bit about why you should do that, and what 
 It was the location for the first Lean Kanban Conference in 2009.
 
 ## What is the Brickell Key Award?
-The [Brickell Key Award](http://conf.leankanban.com/brickell) is an  award for extraordinary efforts and achievements within the international kanban community. 
+The [Brickell Key Award](http://conf.leankanban.com/brickell) is an  award for extraordinary efforts and achievements within the international kanban community.
 
 From the web page on the award:
 
@@ -68,7 +68,7 @@ Firstly, I wrote [Kanban in Action](https://www.manning.com/books/kanban-in-acti
 
 ### Indonesian hospitals
 
-In the second case, the work with hospitals in Indonesia, requires a little bit more elaboration. A whole lot more, in fact, [which is the reason I'm writing a book about it](http://www.marcusoft.net/2016/02/indonesia-agile-lean-its-a-new-book.html), but here's a short back-story.
+In the second case, the work with hospitals in Indonesia, requires a little bit more elaboration. A whole lot more, in fact, [which is the reason I'm writing a book about it](https://www.marcusoft.net/2016/02/indonesia-agile-lean-its-a-new-book.html), but here's a short back-story.
 
 My wife Elin and me went to Indonesia to work with the 6 hospitals and 17 clinics that the Salvation Army runs there. Once we got there the hospital most local to us, [RS Bungsu](https://www.facebook.com/pages/RSU-Bungsu-Bala-Keselamatan-Jl-Veteran-no-6-Bandung/349927368351308), ended up in big trouble financially. On top of that a disaster struck where the roof of the second floor fell in.
 

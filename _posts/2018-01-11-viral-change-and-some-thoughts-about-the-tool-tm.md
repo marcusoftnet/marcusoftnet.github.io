@@ -65,7 +65,7 @@ David L. Marquet also teaches us to use the [values that we want to see more of 
 
 ## What is right then?
 
-The initial reason I got pointed to Viral Change was that I said that I met so many organizations that have a real reason to make change the we want to see happen. I've [blogged about this before as my #1 reason for a change to happen](http://www.marcusoft.net/2012/10/agilechangetop51.html). And it resonates well with [Dr. Kotter's book on Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431).
+The initial reason I got pointed to Viral Change was that I said that I met so many organizations that have a real reason to make change the we want to see happen. I've [blogged about this before as my #1 reason for a change to happen](https://www.marcusoft.net/2012/10/agilechangetop51.html). And it resonates well with [Dr. Kotter's book on Leading Change](https://www.amazon.com/Leading-Change-New-Preface-Author/dp/1422186431).
 
 This doesn't change much, in my opinion. We still need a strong reason for why we need this change. Now. But now we are instead trusting the people that are closest to the information to come up with the **HOW** we should change our behavior. It might be implemented differently in different places of the organization. But that is ok too - since we are shooting for the same WHY and goal. Each part of the organization now reaches the goal in the way that is most suitable and effective for them.
 

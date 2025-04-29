@@ -10,7 +10,7 @@ tags:
 modified_time: 2014-04-06T12:41:45.586Z
 thumbnail: /img/inceptiontop.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6779226674205683514
-blogger_orig_url: http://www.marcusoft.net/2014/03/setting-up-complete-node-development.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/setting-up-complete-node-development.html
 ---
 
 I got yet another computer. To work on. But there will be slow days on airports and hotels with this baby to... So I decided to try something new; I decided to go Linux and setup a development environment for Node Js. I did not set up a goal of this being a no-cost project, it just ended up that way (with one worthy exception, in the end).

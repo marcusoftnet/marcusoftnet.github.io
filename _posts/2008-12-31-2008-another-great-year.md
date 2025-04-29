@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2008-12-31T08:44:36.561Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1203307379232676258
-blogger_orig_url: http://www.marcusoft.net/2008/12/2008-another-great-year.html
+blogger_orig_url: https://www.marcusoft.net/2008/12/2008-another-great-year.html
 ---
 
 To sum up 2008 is not very hard for me—it starts and ends with Abbe (Albert). He was almost a part of our lives at the start of 2008 since he took up considerable space in Elin's belly. :)

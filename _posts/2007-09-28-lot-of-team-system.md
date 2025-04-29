@@ -8,12 +8,11 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.528Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7349605965807386338
-blogger_orig_url: http://www.marcusoft.net/2007/09/lot-of-team-system.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/lot-of-team-system.html
 ---
 
 This entire week
-has been concerned with Team Foundation Server (<span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">TFS) and
+has been concerned with Team Foundation Server (TFS) and
 Visual Studio Team System (VSTS).
 
 There are really a lot of interesting features in this product. Some are

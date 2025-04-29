@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2012-03-27T13:16:56.015Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-557483721164471838
-blogger_orig_url: http://www.marcusoft.net/2012/03/common-kanban-mistakes-not-limiting-wip.html
+blogger_orig_url: https://www.marcusoft.net/2012/03/common-kanban-mistakes-not-limiting-wip.html
 ---
 
 

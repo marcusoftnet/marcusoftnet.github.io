@@ -12,7 +12,7 @@ tags:
 modified_time: 2014-09-12T02:37:30.587Z
 thumbnail: /img/david_andersson.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8054044261438433216
-blogger_orig_url: http://www.marcusoft.net/2014/09/simplerQuestion.html
+blogger_orig_url: https://www.marcusoft.net/2014/09/simplerQuestion.html
 ---
 
 ![David J Andersson](/img/david_andersson.jpg)

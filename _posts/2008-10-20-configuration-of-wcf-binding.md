@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-10-20T09:20:16.964Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4401615870941869968
-blogger_orig_url: http://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html
 ---
 
 This area is (in the words of [Juwal Löwy](http://www.idesign.net)) "truly vast". And as I read somewhere else most of the properties doesn't make sense to the common programmer. We (yeah, I'm one of the common ones) just want it to work.
@@ -20,4 +20,4 @@ So what to do - well I'm sorry but you'll need to know quite a bit of informatio
 - The excellent tool for WCF-configuration in Visual Studio... (Christer Cederborg tipped me on this one, thanks). Go to Tools->WCF Service Configuration Editor and you'll get a lot of help when you configure your service and clients...
 - Here is [another great introductionary article](http://www.winterdom.com/weblog/2007/02/12/WCFConfigurationComplexity.aspx) to the subject
 
-I'll try to post some examples of how to do certain things as I need to do them. Here is the first: [How to configure wsHttpBinding for no security](http://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html)
+I'll try to post some examples of how to do certain things as I need to do them. Here is the first: [How to configure wsHttpBinding for no security](https://www.marcusoft.net/2008/10/wcf-config-how-to-configure.html)

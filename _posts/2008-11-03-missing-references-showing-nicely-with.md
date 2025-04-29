@@ -7,7 +7,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:21:03.985Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8485039993098283981
-blogger_orig_url: http://www.marcusoft.net/2008/11/missing-references-showing-nicely-with.html
+blogger_orig_url: https://www.marcusoft.net/2008/11/missing-references-showing-nicely-with.html
 ---
 
 I found a feature that I thought was a bug in Visual Studio... If you have [ReSharper](http://www.jetbrains.com/resharper/) (4.0 in my case) installed, it shows your missing references directly in the .config file.

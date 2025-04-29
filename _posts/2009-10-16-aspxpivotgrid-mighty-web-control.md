@@ -13,7 +13,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.183Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-127983959711797815
-blogger_orig_url: http://www.marcusoft.net/2009/10/aspxpivotgrid-mighty-web-control.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/aspxpivotgrid-mighty-web-control.html
 ---
 
 This might be one of the most impressive web controls I've ever used.

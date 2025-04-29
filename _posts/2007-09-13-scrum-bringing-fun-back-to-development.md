@@ -8,12 +8,11 @@ tags:
   - Scrum
 modified_time: 2007-09-13T06:04:57.989Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5818644234273162870
-blogger_orig_url: http://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-development.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/scrum-bringing-fun-back-to-development.html
 ---
 
 OK - I'll make no fuzz about it. I am really excited about Scrum and
-what it can do. But now after two complete days with <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">mr Scrum, Ken
+what it can do. But now after two complete days with mr Scrum, Ken
 Schwaber,
 i am completely turned around. It was as closed to a religious wake-up
 as you will ever come without God.

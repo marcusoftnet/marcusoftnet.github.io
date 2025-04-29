@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.194Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7103386656828308648
-blogger_orig_url: http://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html
 ---
 
 I have been introduced to a new concept called [The Pomodoro Technique](http://www.pomodorotechnique.com/). It’s a way to work in a very focused and lean way, on the individual level (it can also be used for groups).

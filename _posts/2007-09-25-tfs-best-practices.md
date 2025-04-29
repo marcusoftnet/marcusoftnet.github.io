@@ -7,7 +7,7 @@ tags:
   - TFS
 modified_time: 2007-09-25T06:09:36.658Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2632326281389822086
-blogger_orig_url: http://www.marcusoft.net/2007/09/tfs-best-practices.html
+blogger_orig_url: https://www.marcusoft.net/2007/09/tfs-best-practices.html
 ---
 
 

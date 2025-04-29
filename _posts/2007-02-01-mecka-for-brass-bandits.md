@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-02-01T12:07:47.470Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7719377498554246453
-blogger_orig_url: http://www.marcusoft.net/2007/02/mecka-for-brass-bandits.html
+blogger_orig_url: https://www.marcusoft.net/2007/02/mecka-for-brass-bandits.html
 ---
 
 

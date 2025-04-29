@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2011-01-22T06:41:06.071Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2276640867182322749
-blogger_orig_url: http://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/some-boards-in-my-current-project.html
 ---
 
 I’ve been involved and coached a project with several teams during the last year. The project aims to convert a big (and important) core business system from VB6 to the .NET platform.

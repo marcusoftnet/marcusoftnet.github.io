@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2009-10-28T11:47:00.792Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-541360700060127361
-blogger_orig_url: http://www.marcusoft.net/2009/10/agile-coaching-stuff.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/agile-coaching-stuff.html
 ---
 
 I recently discovered an excellent resource for agile coaches: [AgileCoach.net](http://www.agilecoach.net). Although the homepage may seem modest, it contains a wealth of valuable and engaging content. Some highlights include:

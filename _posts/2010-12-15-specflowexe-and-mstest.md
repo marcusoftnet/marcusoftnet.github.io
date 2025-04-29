@@ -11,7 +11,7 @@ tags:
 modified_time: 2012-10-21T18:59:17.033Z
 thumbnail: /img/examplereport.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-94606423148695401
-blogger_orig_url: http://www.marcusoft.net/2010/12/specflowexe-and-mstest.html
+blogger_orig_url: https://www.marcusoft.net/2010/12/specflowexe-and-mstest.html
 ---
 
 With your [SpecFlow](http://www.specflow.org/) installation comes SpecFlow.exe, a program that can be used to generate tests from the scenarios and create nicely formatted reports from the generated test results. There's been a lot written about how to generate these reports when using NUnit (see [this](http://www.codeproject.com/KB/architecture/BddWithSpecFlow.aspx) and [this](http://si-w.co.uk/blog/2010/07/20/running-specflow-reports-from-within-visual-studio/) for example), but there's been almost silence when it comes to managing this for MsTest. Facing this problem, I can see why... It's a bit trickier.
@@ -20,7 +20,7 @@ In this blog post, I want to show you two things: how to generate MsTests from y
 
 ### Generate MsTests from your .feature file
 
-With this step, you can generate the tests from your scenarios. SpecFlow.exe picks up your [configuration](http://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. Using the “help” command of SpecFlow.exe, “specflow help generateall” produces this help:
+With this step, you can generate the tests from your scenarios. SpecFlow.exe picks up your [configuration](https://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. Using the “help” command of SpecFlow.exe, “specflow help generateall” produces this help:
 
 > Generate tests from all feature files in a project usage: specflow generateall projectFile \[/force\] \[/verbose\] projectFile  Visual Studio Project File containing features
 

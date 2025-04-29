@@ -67,7 +67,7 @@ It's not an option to walk or work around that vision. It's why we are here. To 
 
 Again wonderful coaching, although a bit harsh, but we can already sense that the plant manager is willing to do changes to the process as needed to reach the vision of the company.
 
-Yes - [I said **change** the current ways to reach a better future.](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html).
+Yes - [I said **change** the current ways to reach a better future.](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html).
 
 ## Is there anything of you in here, Marcus?
 
@@ -83,7 +83,7 @@ I cannot count the number times I've heard things like:
 
 Except for the two "brrr"'s above these are quotes, said by smart people in organizations that want to "become agile" according to their strategic goals.
 
-Don't get me wrong - they are not at all stupid or against the change. They just viewing the [problem and solution from another angle](http://www.marcusoft.net/2016/09/its-all-perspective.html), as I blogged about the other day.
+Don't get me wrong - they are not at all stupid or against the change. They just viewing the [problem and solution from another angle](https://www.marcusoft.net/2016/09/its-all-perspective.html), as I blogged about the other day.
 
 The thing that bugs me is that little thing that we have said that we *want* this change. We want to move faster, we want smaller things, we want to "become more agile" (if that ever was a goal worth anything).
 
@@ -95,7 +95,7 @@ What good is continuous improvement within a small cell or team? Sure they might
 
 ## Reason to change
 
-In my opinon it's because [the urge to change](http://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organisational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
+In my opinon it's because [the urge to change](https://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organisational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
 
 Sometimes those changes can be very challenging for an organization. You never know what it can be; one instance that comes to mind is that we couldn't have a person from one team sit next to other team. By contract. We'd get sued if we did.
 

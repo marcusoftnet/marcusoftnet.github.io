@@ -6,12 +6,12 @@ author: Marcus Hammarberg
 tags: null
 modified_time: 2008-10-22T11:26:35.756Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3177796519915879546
-blogger_orig_url: http://www.marcusoft.net/2008/10/more-on-wcf-configuration.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/more-on-wcf-configuration.html
 ---
 
 
 In my [last
-post](http://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html)
+post](https://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html)
 I mentioned the great WCF service/client configuration editor that ships
 with Visual Studio 2008. I haven't used it much but rather done "it" by
 hand - which has been quite painful from time to time.

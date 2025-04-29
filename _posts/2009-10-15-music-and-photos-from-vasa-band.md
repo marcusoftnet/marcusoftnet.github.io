@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2009-10-14T20:49:08.271Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7437912927993410771
-blogger_orig_url: http://www.marcusoft.net/2009/10/music-and-photos-from-vasa-band.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/music-and-photos-from-vasa-band.html
 ---
 
 

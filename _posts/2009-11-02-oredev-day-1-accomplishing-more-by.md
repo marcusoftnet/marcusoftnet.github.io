@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2011-11-09T20:49:22.569Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2142245261599319871
-blogger_orig_url: http://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-more-by.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-more-by.html
 ---
 
 

@@ -14,7 +14,7 @@ tags:
 
 I don't like meetings. Because most meetings I've attended has not been great. And I'm guilty of organizing some of those meetings too.
 
-In this presentation I talk about how to make [effective](http://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html) meetings. There will be a lot of small advices that I've found useful during my consultancy. I will also briefly describe the Lean Coffee meeting format.
+In this presentation I talk about how to make [effective](https://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html) meetings. There will be a lot of small advices that I've found useful during my consultancy. I will also briefly describe the Lean Coffee meeting format.
 
 Here's all the post in the series (the links will work as I post them):
 
@@ -39,7 +39,7 @@ In the DO-ing of a meeting the Goal of the meetings comes back as one of the big
 
 Following time box and take short breaks are things that I've found vital to make your meeting focused and productive.
 
-All of this is summed up in the [Lean Coffee meeting format](http://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html)
+All of this is summed up in the [Lean Coffee meeting format](https://www.marcusoft.net/2013/01/how-to-run-leancoffee-discussion.html)
 
 The final two parts of the PDCA-cycle; Check and Act are the most important to make sure that you are in fact improving.
 

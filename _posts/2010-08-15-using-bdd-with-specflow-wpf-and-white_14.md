@@ -11,14 +11,14 @@ tags:
   - Agile
 modified_time: 2010-12-14T15:22:38.155Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4211414648845018243
-blogger_orig_url: http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html
+blogger_orig_url: https://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html
 ---
 
 It’s been a while since I blogged. [Twitter](http://twitter.com/marcusoftnet) is taking over. I compensate that with a major blog post.
 
 #### Background
 
-I written about the project I’m in right now a [couple](http://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html) of times before and to make a long story short; we don’t have any requirements! We only have the existing application which we are to “convert” from VB6 to VB.NET. 1:1 is the mantra – which is to be understood as: functional the same.
+I written about the project I’m in right now a [couple](https://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html) of times before and to make a long story short; we don’t have any requirements! We only have the existing application which we are to “convert” from VB6 to VB.NET. 1:1 is the mantra – which is to be understood as: functional the same.
 
 I have suggested for the team that we work with [BDD](http://en.wikipedia.org/wiki/Behavior_driven_development) (or ATDD if you like) to create the requirements as we go. They liked it. A lot!
 

@@ -27,7 +27,7 @@ We build trust in the mob through some different exercises, but the underlying t
 
 > You trust people you know - so let's get to know each other well first
 
-Therefor the first exercise we run with the teams is one from this [book that I've written up here.](http://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html)
+Therefor the first exercise we run with the teams is one from this [book that I've written up here.](https://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html)
 
 ## Vulnerability
 

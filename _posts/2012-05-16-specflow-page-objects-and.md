@@ -10,7 +10,7 @@ tags:
   - SpecFlow
 modified_time: 2013-01-30T14:40:57.546Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1609908988336242581
-blogger_orig_url: http://www.marcusoft.net/2012/05/specflow-page-objects-and.html
+blogger_orig_url: https://www.marcusoft.net/2012/05/specflow-page-objects-and.html
 ---
 
 I’ve been putting together a sample for my client on how to automate against a web page. The purpose is to show how the tools are used and give a starting ground for training and elaboration. When I was done I realized that this could be useful for many – so here is my story on how I set this up, problems I’ve ran into and solutions to them and [the code](https://github.com/marcusoftnet/SpecFlowAndFluentAutomation). Please join me on the journey!
@@ -41,7 +41,7 @@ The "Team" above is a small class with the properties Name, City and date Founde
 
 This will produce a simple, but useful, little application in which you can create a soccer team, that you then can list, edit and delete. [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) in a nutshell in other words. But it’s sufficient for our needs in this case.
 
-MVCScaffolding will put you database in your SQLServer express instance if you don’t tell it otherwise, see [this post for more information](http://www.marcusoft.net/2011/02/error-provider-did-not-return.html). I don’t want that since I want to be able to move the database together with the source. So I updated the Web.Config with this:
+MVCScaffolding will put you database in your SQLServer express instance if you don’t tell it otherwise, see [this post for more information](https://www.marcusoft.net/2011/02/error-provider-did-not-return.html). I don’t want that since I want to be able to move the database together with the source. So I updated the Web.Config with this:
 
 All of this is made in a web application called Web found in [the source code](https://github.com/marcusoftnet/SpecFlowAndFluentAutomation).
 
@@ -133,7 +133,7 @@ Everything is up and running!
 
 ## Page objects and wrappers
 
-One of the problems with UI tests is that they are brittle. The UI is changing and finding controls on the page can be tricky sometimes. In order to handle that problem a bit and buffer the problem you can create a Wrapper around the page. I have [described this common pattern here](http://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). For a real indepth look on this pattern in action [check this excellent screen cast](http://skillsmatter.com/podcast/agile-scrum/bdd-as-its-meant-to-be-done) by [Matt Wynnne](http://blog.mattwynne.net/)
+One of the problems with UI tests is that they are brittle. The UI is changing and finding controls on the page can be tricky sometimes. In order to handle that problem a bit and buffer the problem you can create a Wrapper around the page. I have [described this common pattern here](https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). For a real indepth look on this pattern in action [check this excellent screen cast](http://skillsmatter.com/podcast/agile-scrum/bdd-as-its-meant-to-be-done) by [Matt Wynnne](http://blog.mattwynne.net/)
 
 ### PageWrapperBase
 
@@ -155,7 +155,7 @@ I’ve created a small class with static methods that I use to perform database 
 
 ### SpecFlow events
 
-SpecFlow gives you a number of [events and hooks](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) that you can use to perform task that you want to run before and after tests. In this case I’m:
+SpecFlow gives you a number of [events and hooks](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) that you can use to perform task that you want to run before and after tests. In this case I’m:
 
 - Cleaning out the testdata I’ve used and change after each scenario
 - Closing the browser after each test run. You DO want to do this or you’ll have 50+ browser instances open pretty quickly.

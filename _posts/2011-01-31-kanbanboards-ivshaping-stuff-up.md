@@ -10,7 +10,7 @@ tags:
   - KanbanBoards
 modified_time: 2011-01-30T20:55:55.120Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5936748023655640119
-blogger_orig_url: http://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-up.html
+blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-up.html
 ---
 
 I have now coded away for a while and it’s time to reflect a refactor a bit. I don’t like code lying around that I might not need. [YAGNI](http://en.wikipedia.org/wiki/You_ain't_gonna_need_it) you know...
@@ -29,7 +29,7 @@ Here we go.
 
 ### Remove unused stuff
 
-OK – I love the [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) ideas but, as I [wrote here](http://www.marcusoft.net/2011/01/tdd-and-scaffolding.html), I’m having some trouble with the code it’s generating. In this case – I’m not even sure that I will need all the views and controller methods. Maybe I would have been better off by just generating the repository.
+OK – I love the [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) ideas but, as I [wrote here](https://www.marcusoft.net/2011/01/tdd-and-scaffolding.html), I’m having some trouble with the code it’s generating. In this case – I’m not even sure that I will need all the views and controller methods. Maybe I would have been better off by just generating the repository.
 
 Not use crying over that – I’ll just remove the views and action methods of the controller that I’m not using. So under Views/Kanbanboard I removed all the .cshtml (Razor) files except the Index.cshtml which is the page we’re using.
 
@@ -97,14 +97,14 @@ And all this together gives some pretty clean step definitions:
 
 ### The read service and CQRS
 
-Last – but not least, I want to introduce a read service. I’m thinking about CQRS but it’s really a lot to wrap your head around. So I want to start with a read service and then maybe move to CQRS later. 
+Last – but not least, I want to introduce a read service. I’m thinking about CQRS but it’s really a lot to wrap your head around. So I want to start with a read service and then maybe move to CQRS later.
 
-The idea is to create a service that only reads data, and maybe use this service to build the list on the home page. 
+The idea is to create a service that only reads data, and maybe use this service to build the list on the home page.
 
 This has the potential to decouple the read and write sides of my code and also be able to create special read-optimized structures of data that’s more suited for queries. And if you start to use something like [Event Sourcing](http://en.wikipedia.org/wiki/Event_sourcing) you get the option to build some cool stuff.
 
-There’s a lot of material out there, so I will start to read and learn about this. 
+There’s a lot of material out there, so I will start to read and learn about this.
 
-For now – this has to wait. 
+For now – this has to wait.
 
 There, that’s it. Lots of stuff to shape up and lots of stuff to do. I feel better and will continue to shape stuff up as I go along.

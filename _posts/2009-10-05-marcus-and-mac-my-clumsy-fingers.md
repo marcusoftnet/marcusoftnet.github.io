@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2009-10-05T08:11:42.696Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7204361642552393801
-blogger_orig_url: http://www.marcusoft.net/2009/10/marcus-and-mac-my-clumsy-fingers.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/marcus-and-mac-my-clumsy-fingers.html
 ---
 
 

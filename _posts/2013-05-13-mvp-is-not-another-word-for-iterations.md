@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2013-05-13T13:34:26.443Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-405187406250963476
-blogger_orig_url: http://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-iterations.html
+blogger_orig_url: https://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-iterations.html
 ---
 
 In recent years, the [Lean Startup movement](http://theleanstartup.com/principles) has gained significant traction. It offers a compelling framework for rapidly validating startup ideas. However, like many concepts, it's often misinterpreted and misapplied. In this post, I'll share some reflections on the concept of Minimal Viable Product (MVP) and its relationship to learning.

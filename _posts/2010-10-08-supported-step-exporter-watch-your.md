@@ -10,13 +10,13 @@ tags:
   - SpecFlow
 modified_time: 2010-12-14T15:22:38.153Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8540178614606428776
-blogger_orig_url: http://www.marcusoft.net/2010/10/supported-step-exporter-watch-your.html
+blogger_orig_url: https://www.marcusoft.net/2010/10/supported-step-exporter-watch-your.html
 ---
 
 
 After working intensively with
 <a href="http://www.specflow.org" target="_blank">SpecFlow</a> <a
-href="http://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html"
+href="https://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-and-white_14.html"
 target="_blank">for a while now</a> I have experienced something that I
 think is common. After a while you have all the steps you need… Or
 rather, if you write your step <a
@@ -29,7 +29,7 @@ target="_blank">Gherkin</a>. In Swedish for example.
 
 It’s really cool to write Swedish that tells what the application should
 do. And it does it. I <a
-href="http://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html"
+href="https://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html"
 target="_blank">wrote about that experience before</a>. The extension of
 this is that non-developers soon can start to write the specs and run
 them without any steps needed to be developed. But to do that you’ll

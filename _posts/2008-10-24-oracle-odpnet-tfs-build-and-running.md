@@ -8,7 +8,7 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:23:30.906Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6282787406161895821
-blogger_orig_url: http://www.marcusoft.net/2008/10/oracle-odpnet-tfs-build-and-running.html
+blogger_orig_url: https://www.marcusoft.net/2008/10/oracle-odpnet-tfs-build-and-running.html
 ---
 
 We have for several days now been chasing a bug for a couple of days now. Very, very annoying...

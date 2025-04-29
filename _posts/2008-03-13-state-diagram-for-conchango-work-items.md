@@ -7,7 +7,7 @@ tags:
   - TFS
 modified_time: 2010-12-14T15:22:51.425Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3002085824029122061
-blogger_orig_url: http://www.marcusoft.net/2008/03/state-diagram-for-conchango-work-items.html
+blogger_orig_url: https://www.marcusoft.net/2008/03/state-diagram-for-conchango-work-items.html
 ---
 
 When we started to use the Conchango template for Team Foundation Server I immediately got a few questions about how the states flow for the different work items.

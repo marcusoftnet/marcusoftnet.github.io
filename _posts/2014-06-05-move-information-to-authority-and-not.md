@@ -12,7 +12,7 @@ tags:
   - Indonesia
 modified_time: 2014-06-06T03:03:32.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7435568262273030003
-blogger_orig_url: http://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html
 ---
 
 ![David Marquet](/img/David-Marquet.jpg)
@@ -107,7 +107,7 @@ So that’s it then. No more of this. It ends in a [big sad trombone](http://sad
 
 I don’t think so. Firstly, I think this is worthy of pursuing and striving towards. You don’t (and maybe never should) turn the dial all the way to 11, with all decisions being made out there ([chaordic organization/mindset](http://flowchainsensei.wordpress.com/2011/03/03/rightshifting-transitions-part-3/) I think it's called). [Some people have tried and succeeded](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdfe%20people%20have%20tried%20and%20succeed), go ahead and explore your possibilities.
 
-Secondly, doing this to an existing organization is much harder than starting fresh. Trust me, I work (well ok… not really, [I’m on leave right now](http://www.marcusoft.net/2013/06/moving-to-indonesia.html)) for [Aptitud](http://www.aptitud.se/). Let me, to end this finally tell you a little bit about how we decide things at Aptitud.
+Secondly, doing this to an existing organization is much harder than starting fresh. Trust me, I work (well ok… not really, [I’m on leave right now](https://www.marcusoft.net/2013/06/moving-to-indonesia.html)) for [Aptitud](http://www.aptitud.se/). Let me, to end this finally tell you a little bit about how we decide things at Aptitud.
 
 Here are our decision-making rules;
 

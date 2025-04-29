@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-01-19T16:06:40.004Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3198071745889391264
-blogger_orig_url: http://www.marcusoft.net/2008/01/time-to-come-down.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/time-to-come-down.html
 ---
 
 It seems

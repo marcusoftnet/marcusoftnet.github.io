@@ -9,7 +9,7 @@ tags:
   - Salvation Army
 modified_time: 2006-12-04T06:54:32.627Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7595199482729270968
-blogger_orig_url: http://www.marcusoft.net/2006/12/busy-times-our-choice.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/busy-times-our-choice.html
 ---
 
 It's a

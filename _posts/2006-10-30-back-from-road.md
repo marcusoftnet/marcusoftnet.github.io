@@ -8,7 +8,7 @@ tags:
   - Euphonium
 modified_time: 2006-10-30T07:03:48.997Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6082049307851792675
-blogger_orig_url: http://www.marcusoft.net/2006/10/back-from-road.html
+blogger_orig_url: https://www.marcusoft.net/2006/10/back-from-road.html
 ---
 
 

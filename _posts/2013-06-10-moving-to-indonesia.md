@@ -10,7 +10,7 @@ tags:
   - Indonesia
 modified_time: 2013-06-10T13:25:53.605Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1012190930985440668
-blogger_orig_url: http://www.marcusoft.net/2013/06/moving-to-indonesia.html
+blogger_orig_url: https://www.marcusoft.net/2013/06/moving-to-indonesia.html
 ---
 
 
@@ -74,7 +74,7 @@ for Hospital Foundation". It's a project for three years.
 I have been doing contracting work for about 18 years now. I know that a
 work title and description doesn't mean that much until you get to do it
 in practices. We'll see how it plays out. I'm confident that my
-<a href="http://www.marcusoft.net/search/label/Lean"
+<a href="https://www.marcusoft.net/search/label/Lean"
 target="_blank">Lean</a> and
 <a href="http://bit.ly/theKanbanBook" target="_blank">Kanban</a> competence
 will come into good use.
@@ -106,7 +106,7 @@ Corps, my church, is the best place I've been to and I love to go there.
 I have great friends and a fantastic family around me.
 
 I know all this. Just this autumn <a
-href="http://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-follow.html"
+href="https://www.marcusoft.net/2012/10/dear-marcus-theres-no-but-to-follow.html"
 target="_blank">I wrote this post</a> that underlines all this. And
 still we have decided to go.
 

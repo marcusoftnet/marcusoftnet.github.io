@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2009-01-15T12:02:13.292Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6709170915116823756
-blogger_orig_url: http://www.marcusoft.net/2009/01/how-to-read-other-exe-config.html
+blogger_orig_url: https://www.marcusoft.net/2009/01/how-to-read-other-exe-config.html
 ---
 
 

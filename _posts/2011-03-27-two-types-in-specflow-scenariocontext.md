@@ -9,7 +9,7 @@ tags:
   - SpecFlow
 modified_time: 2013-04-07T18:31:58.395Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6352021831868808402
-blogger_orig_url: http://www.marcusoft.net/2011/03/two-types-in-specflow-scenariocontext.html
+blogger_orig_url: https://www.marcusoft.net/2011/03/two-types-in-specflow-scenariocontext.html
 ---
 
 Recently, I had the chance to explore more advanced error handling with [SpecFlow](http://www.specflow.org/) and delved into the ScenarioContext and FeatureContext objects. These components offer some powerful capabilities that are worth understanding. In this post, I’ll take a closer look at both and offer some tips on how to utilize them effectively in your SpecFlow projects.
@@ -64,7 +64,7 @@ Similar to `ScenarioContext.Current`, this property also provides a `Dictionary`
 
 ### Conclusion – What’s It Good For?
 
-Understanding these contexts allows for improved logging, tracing, and error handling in your SpecFlow tests. Combining this knowledge with [hooks](http://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) can enhance your testing capabilities.
+Understanding these contexts allows for improved logging, tracing, and error handling in your SpecFlow tests. Combining this knowledge with [hooks](https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html) can enhance your testing capabilities.
 
 I hope you found this information useful. I certainly learned a lot while exploring these features! 😊
 

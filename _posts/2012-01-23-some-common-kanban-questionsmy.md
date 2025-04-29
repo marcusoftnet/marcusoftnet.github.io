@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2012-01-23T07:00:09.381Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5823647146010711072
-blogger_orig_url: http://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html
+blogger_orig_url: https://www.marcusoft.net/2012/01/some-common-kanban-questionsmy.html
 ---
 
 

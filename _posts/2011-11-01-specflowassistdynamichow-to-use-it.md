@@ -11,10 +11,10 @@ tags:
   - SpecFlow
 modified_time: 2011-11-03T15:39:48.397Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-651375687003503
-blogger_orig_url: http://www.marcusoft.net/2011/11/specflowassistdynamichow-to-use-it.html
+blogger_orig_url: https://www.marcusoft.net/2011/11/specflowassistdynamichow-to-use-it.html
 ---
 
-This is the second post about [SpecFlow.Assist.Dynamic](https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic) – a tool I wrote to help you write less code in your step definitions and focus on the actual steps instead of infrastructure. You can read the [first post here](http://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html) – it explains what SpecFlow.Assist.Dynamic is.
+This is the second post about [SpecFlow.Assist.Dynamic](https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic) – a tool I wrote to help you write less code in your step definitions and focus on the actual steps instead of infrastructure. You can read the [first post here](https://www.marcusoft.net/2011/10/specflowassistdynamicwhat-is-it.html) – it explains what SpecFlow.Assist.Dynamic is.
 
 In this post, I’ll show you some ways I use the dynamic features and some tricks that you might not know about.
 
@@ -89,7 +89,7 @@ There’s a lot to be said about the data access code; for example, you might be
 
 Let’s focus on SpecFlow.Assist.Dynamic. It’s not much to it – I simply create a list of dynamic objects and use my `DBHelper` to insert each one into the database. Shorten it up with Step Argument Transformations.
 
-You can use a trick that I’ve included in SpecFlow.Assist.Dynamic to shorten the code even further. 
+You can use a trick that I’ve included in SpecFlow.Assist.Dynamic to shorten the code even further.
 
 There is a [SpecFlow feature called Step Argument Transformation](https://github.com/techtalk/SpecFlow/wiki/Step-Argument-Conversions) that I use to shorten code like the one above. With step argument transformation, you can create small conversion methods that are triggered when certain types are used.
 
@@ -132,7 +132,7 @@ This ensures that the step arguments are picked up from the `dll`.
 
 ### Asserting Results in the Then Steps
 
-SpecFlow.Assist.Dynamic also shines when asserting that certain results of an action have occurred. 
+SpecFlow.Assist.Dynamic also shines when asserting that certain results of an action have occurred.
 
 If we expand my example into a fully-fledged feature, we get this:
 
@@ -157,14 +157,14 @@ public class DemoSteps
 {
     private IList<dynamic> _books;
     private IEnumerable<dynamic> _filteredBooks;
-    
+
     [Given(@"the following books in the system")]
     public void GivenTheFollowingBooksInTheSystem(IList<dynamic> books)
     {
         foreach (var book in books) { DBHelper.AddBook(book); }
         _books = books;
     }
-    
+
     [When(@"I search for Titles containing '(.*)'")]
     public void PerformTitleSearch(string value)
     {
@@ -172,7 +172,7 @@ public class DemoSteps
                          where b.Title.Contains(value)
                          select b;
     }
-    
+
     [Then(@"the results should show the following books")]
     public void ResultsContainsBooks(Table table)
     {
@@ -199,7 +199,7 @@ I have shown you how I use these helpers. Please note that they are inspired by 
 
 I hope you find this helpful. Please let me know if I can improve.
 
-In the [next post](http://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html), I’ll show a final thing that marries this with [Simple.Data](https://github.com/markrendle/S
+In the [next post](https://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html), I’ll show a final thing that marries this with [Simple.Data](<https://github.com/markrendle/S>
 
 imple.Data). See you then.
 ```

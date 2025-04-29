@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2007-06-11T08:28:47.633Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3434132804816088329
-blogger_orig_url: http://www.marcusoft.net/2007/06/whit-friday-and-black-dyke.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/whit-friday-and-black-dyke.html
 ---
 
 There is a famous brass band / marching competition in Great Britain

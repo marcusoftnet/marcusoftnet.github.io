@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2007-10-18T16:00:02.471Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2547889078885122524
-blogger_orig_url: http://www.marcusoft.net/2007/10/non-exsisting-service-quality-at-phone.html
+blogger_orig_url: https://www.marcusoft.net/2007/10/non-exsisting-service-quality-at-phone.html
 ---
 
 I can't hold it in anymore. The service quality of The Phone House

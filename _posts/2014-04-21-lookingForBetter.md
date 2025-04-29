@@ -10,10 +10,10 @@ tags:
   - Agile
 modified_time: 2014-04-21T12:43:50.529Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7433831584229980430
-blogger_orig_url: http://www.marcusoft.net/2014/04/lookingForBetter.html
+blogger_orig_url: https://www.marcusoft.net/2014/04/lookingForBetter.html
 ---
 
-Apparently [my last post](http://www.marcusoft.net/2014/04/thisIsHowIThink.html) was not completely gibberish and contained some thoughts that you could make use of. Thanks for the feedback. Let me continue my train of thoughts here. It's not a very long train, but it's still a train.
+Apparently [my last post](https://www.marcusoft.net/2014/04/thisIsHowIThink.html) was not completely gibberish and contained some thoughts that you could make use of. Thanks for the feedback. Let me continue my train of thoughts here. It's not a very long train, but it's still a train.
 
 Here's where we ended: there's a customer, we are here to delight them (thank you [Stephen Deming](http://www.stevedenning.com/site/Default.aspx) for that phrase). Everything we do right now is just best so far in our strive to more effectively give value to the customer. We can and should, change our current state, process, organization, tools, or what have you, to try to improve. If we do the change in bigger steps there will be bigger impacts on our productivity, in smaller steps smaller impact.
 
@@ -34,7 +34,7 @@ Why did Toyota come up with [Toyota Production System](http://en.wikipedia.org/w
 
 I think, and I have not seen any evidence for this being true I confess, that it had to do with the whole country being in ruins after the second world war. They had nothing! No factories left. No raw material. Few people. But they still decided that they could build cars for customers that wanted them.
 
-In order to do so with their [current constraints](http://www.marcusoft.net/2013/01/on-constraints.html), they needed to focus on flowing value through the system fast.
+In order to do so with their [current constraints](https://www.marcusoft.net/2013/01/on-constraints.html), they needed to focus on flowing value through the system fast.
 
 > “All we are doing is looking at the time line, from the moment the customer gives us an order to the point when we collect the cash. And we are reducing the timeline by reducing the non-value-adding wastes.” - Taiichi Ohno
 
@@ -45,7 +45,7 @@ Focusing on reducing the time from order to car on your driveway. I see customer
 
 [Agile](http://agilemanifesto.org/). Same thing. A bunch of really smart guys came together, because the IT industry was really really bad at doing projects that succeeded, came in on time, or even finished (regardless of success or failure). Or if you [don't trust the CHAOS report](http://www.drdobbs.com/architecture-and-design/the-non-existent-software-crisis-debunki/240165910), at least this was their experience (and mine, but they didn't invite me to the meeting... I had a really strict spam-filter back then... yeah, that was probably it).
 
-They [changed how they did work](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)... in order to deliver value to the customer, faster, and with better quality. Customer-focused.
+They [changed how they did work](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)... in order to deliver value to the customer, faster, and with better quality. Customer-focused.
 
 You know what I think (or actually know, since I've seen and experienced it); A LOT of people said that it was stupid. That it would never work. That it's just better for programmers. But I think they missed the whole point. The point of agile (as I interpret it) was to improve the output of the software process. Sure, by improving and changing the fundamentals of how we do software development, but with the end goal of improving for the customer.
 

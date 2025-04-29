@@ -9,7 +9,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2010-12-14T15:22:38.176Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8355701805675040507
-blogger_orig_url: http://www.marcusoft.net/2009/11/testing-aspnet-mvc-application-with.html
+blogger_orig_url: https://www.marcusoft.net/2009/11/testing-aspnet-mvc-application-with.html
 ---
 
 I encountered issues when trying to use session state in an [ASP.NET MVC](http://www.asp.net/mVC/) application, especially while writing unit tests for an action method that interacted with the session object.

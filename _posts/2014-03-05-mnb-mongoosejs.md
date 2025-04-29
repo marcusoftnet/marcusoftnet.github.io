@@ -10,12 +10,12 @@ tags:
   - Agile
 modified_time: 2014-06-02T08:56:52.500Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2091121684384294337
-blogger_orig_url: http://www.marcusoft.net/2014/03/mnb-mongoosejs.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/mnb-mongoosejs.html
 ---
 
 I often blog too early. I get excited and want to tell everyone as soon as possible. I whip together a demo and then write a blog post about my experience. Sometimes that is a bit too early. Sometimes you need another look to really appreciate a tool, or to realize that it doesn't do the job.
 
-In my [blog post about Monk](http://www.marcusoft.net/2014/02/mnb-monk.html) (which I still think is great... Monk, that is, not the blog post) I wrote that I didn't like [Mongoose](http://mongoosejs.com/) that much. That was too early to say. I have now used it for real and I think I like it.
+In my [blog post about Monk](https://www.marcusoft.net/2014/02/mnb-monk.html) (which I still think is great... Monk, that is, not the blog post) I wrote that I didn't like [Mongoose](http://mongoosejs.com/) that much. That was too early to say. I have now used it for real and I think I like it.
 
 Let's me redeem my bad Mongoose-conscience and write a ~~short~~ post on what I've picked up when trying it... [for real](http://github.com/aptitud/AptiTalk).
 

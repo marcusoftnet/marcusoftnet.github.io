@@ -11,7 +11,7 @@ tags:
   - Salvation Army
 modified_time: 2014-06-02T06:44:48.859Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6144254050967463845
-blogger_orig_url: http://www.marcusoft.net/2014/06/waiting-is-bad-for-you-and-its-worse.html
+blogger_orig_url: https://www.marcusoft.net/2014/06/waiting-is-bad-for-you-and-its-worse.html
 ---
 
 I recently ran into a concrete example on waiting that showed me, again, why it’s bad. And how easy the alternative is.

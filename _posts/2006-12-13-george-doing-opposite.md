@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2010-01-29T12:53:12.742Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9033823247428985208
-blogger_orig_url: http://www.marcusoft.net/2006/12/george-doing-opposite.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/george-doing-opposite.html
 ---
 
 

@@ -9,7 +9,7 @@ tags:
   - WCF
 modified_time: 2010-05-06T07:16:04.780Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1742965287199499064
-blogger_orig_url: http://www.marcusoft.net/2010/05/configure-wcf-in-iis-for-anonymous.html
+blogger_orig_url: https://www.marcusoft.net/2010/05/configure-wcf-in-iis-for-anonymous.html
 ---
 
 
@@ -49,5 +49,5 @@ check if it’s the right password! Beware – I locked out our
 administrator account due to this.
 
 Now it works – and we have a build script that is doing <a
-href="http://www.marcusoft.net/2010/04/calling-soapui-testscript-from-msbuild.html"
+href="https://www.marcusoft.net/2010/04/calling-soapui-testscript-from-msbuild.html"
 target="_blank">regressions tests via SOAPUI</a>.

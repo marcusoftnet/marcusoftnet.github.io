@@ -9,7 +9,7 @@ tags:
   - Euphonium
 modified_time: 2007-11-13T11:21:13.453Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2401754555025296058
-blogger_orig_url: http://www.marcusoft.net/2007/11/new-euphonium-sales-site.html
+blogger_orig_url: https://www.marcusoft.net/2007/11/new-euphonium-sales-site.html
 ---
 
 

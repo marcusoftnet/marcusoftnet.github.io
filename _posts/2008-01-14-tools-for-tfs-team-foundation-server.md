@@ -7,7 +7,7 @@ tags:
   - TFS
 modified_time: 2008-01-14T14:38:04.119Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2601852030862714590
-blogger_orig_url: http://www.marcusoft.net/2008/01/tools-for-tfs-team-foundation-server.html
+blogger_orig_url: https://www.marcusoft.net/2008/01/tools-for-tfs-team-foundation-server.html
 ---
 
 

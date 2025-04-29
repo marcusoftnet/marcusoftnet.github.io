@@ -55,7 +55,7 @@ One thing that have really frustrated and fascinated me during my time here is t
 
 To contrast this I can take myself as an example. After ca 1 month here someone asked me to write an article about motivation "because you are so motivated". No I'm not more motivated than anyone here. I am, however, **very** goal-driven. I simply cannot do anything if I don't no the goal of the exercise. Doing things without purpose or knowing why is prison in my mind.
 
-One thing that I've observed here is the relatively few moving vans. The <a href="http://www.marcusoft.net/2015/03/what-the-traffic-in-jakarta-taught-me-about-slack.html">traffic here</a> is really crazy and there's A LOT of people here. But very very few moving trucks. In Stockholm there'd be loads of moving trucks (at least in the end of the months).
+One thing that I've observed here is the relatively few moving vans. The <a href="https://www.marcusoft.net/2015/03/what-the-traffic-in-jakarta-taught-me-about-slack.html">traffic here</a> is really crazy and there's A LOT of people here. But very very few moving trucks. In Stockholm there'd be loads of moving trucks (at least in the end of the months).
 But here not. Because people really don't think about moving. Because I'm here.
 
 ## A world without "WHY"

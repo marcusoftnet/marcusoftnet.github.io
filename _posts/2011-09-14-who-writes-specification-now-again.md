@@ -8,7 +8,7 @@ tags:
   - Agile
 modified_time: 2011-09-13T20:16:34.263Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4387080625349899534
-blogger_orig_url: http://www.marcusoft.net/2011/09/who-writes-specification-now-again.html
+blogger_orig_url: https://www.marcusoft.net/2011/09/who-writes-specification-now-again.html
 ---
 
 There’s been a lot of buzz around [Specification by Example](http://specificationbyexample.com/) lately, especially in my circles. Recently, I was asked to introduce the topic to a group of interested individuals. Interestingly, the conversations I encounter are predominantly among business analysts, testers, and not just developers.

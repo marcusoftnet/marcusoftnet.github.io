@@ -17,7 +17,7 @@ In this post I wanted to share these ideas, that are not mine mind you, and mayb
 
 <!-- excerpt-end -->
 
-I've [blogged](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) [many](http://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html) [times about](http://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html) [Switch](http://heathbrothers.com/books/switch/) which is the best book I've read on the topic.
+I've [blogged](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) [many](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html) [times about](https://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html) [Switch](http://heathbrothers.com/books/switch/) which is the best book I've read on the topic.
 
 ## Change! or Change?
 
@@ -25,7 +25,7 @@ There's a sentence in the beginning of the book that I really think is important
 
 <blockquote>People doesn't oppose change. People opposed being changed</blockquote>
 
-(HA! [Already quoted exactly that when I _was_ changed](http://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html), forgot about that horrible feeling).
+(HA! [Already quoted exactly that when I _was_ changed](https://www.marcusoft.net/2015/10/changes-reasons-or-the-opposite.html), forgot about that horrible feeling).
 
 Basically trying to force change _upon_ someone is not fruitful. I might be able to do it using authority and force but it will most likely not last long, or it will only be done as _I_ would have done it. The huge potential improvements from others will be lost.
 

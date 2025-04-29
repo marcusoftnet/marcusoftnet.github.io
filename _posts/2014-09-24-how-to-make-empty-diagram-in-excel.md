@@ -11,14 +11,14 @@ tags:
 modified_time: 2014-09-25
 thumbnail: /img/board.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2332663668202321971
-blogger_orig_url: http://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-excel.html
+blogger_orig_url: https://www.marcusoft.net/2014/09/how-to-make-empty-diagram-in-excel.html
 ---
 
 ![Empty Diagram](/img/board.jpg)
 
 If I don't write this down, I will forget it before the end of the day. That right there was the reason I started my blog, ca 900 posts ago.
 
-A couple of days ago, I was, again, creating a [big diagram on a whiteboard](http://www.marcusoft.net/2014/09/ifyoubuildit.html). This particular one was pretty high and a lot of data points had to go into it. It turned out to be hard and messy to both update and read. I have done this so many times that I've lost count. I never found a great solution. I don't want to use a small A3 report because I want everyone to see it. And I don't want to print a big A1 sheet every day because it's too expensive. And I don't want to use a projector because this needs to be physical and tangible. And in front of everyone every day.
+A couple of days ago, I was, again, creating a [big diagram on a whiteboard](https://www.marcusoft.net/2014/09/ifyoubuildit.html). This particular one was pretty high and a lot of data points had to go into it. It turned out to be hard and messy to both update and read. I have done this so many times that I've lost count. I never found a great solution. I don't want to use a small A3 report because I want everyone to see it. And I don't want to print a big A1 sheet every day because it's too expensive. And I don't want to use a projector because this needs to be physical and tangible. And in front of everyone every day.
 
 Someone suggested to print an empty diagram in a big size and then laminate it with plastic to be able to enter the data on top of the basic diagram.
 
@@ -38,16 +38,16 @@ DISCLAIMER: I'm no Excel-guru. This was a pretty fast way, once I found it, to g
    | 1    | 45                  | 100         | 200         |
    | 2    | 145                 | 100         | 200         |
    | 3    | 80                  | 100         | 200         |
-   
+
    Keep doing the "dates" until date 31. The data in the columns will determine the height of the Y-axis. The 200 in Threshold 2 will make sure the Y-axis goes to 200.
-   
+
 3. Select all data in the 3 last columns and then click `Diagram -> Line -> Line diagram` which produces an ugly diagram.
 4. Now... that requires some formatting:
 
    - Add some extra helper lines that will prove useful when this is a big, on the wall diagram. Select the "Diagram layout" tab and then Support lines and add the ones you need. I added support lines for sub-scale for both X and Y axis.
    - Add nice text for the axis. Again select the "Diagram layout" tab and choose Axis headings. Now you can add labels for the axis.
    - Add a Diagram heading (Diagram layout tab, then Diagram heading).
-   
+
 5. Once that is done, you might have something that looks like this:
 
    ![Formatted Diagram](/img/pasien_chart_2.png)

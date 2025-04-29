@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2013-03-26T14:19:06.460Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2693832132518295773
-blogger_orig_url: http://www.marcusoft.net/2013/03/limit-wip-doesnt-mean-doing-less-stuff.html
+blogger_orig_url: https://www.marcusoft.net/2013/03/limit-wip-doesnt-mean-doing-less-stuff.html
 ---
 
 I'm coaching in an organization new to agile practices. This challenges my assumptions, like explaining practices I've taken for granted. Recently, a dialogue unfolded:

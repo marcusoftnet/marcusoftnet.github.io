@@ -10,12 +10,12 @@ tags:
   - WCF
 modified_time: 2010-12-14T15:22:38.160Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4181984269981750147
-blogger_orig_url: http://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html
+blogger_orig_url: https://www.marcusoft.net/2010/03/soapui-and-testing-wcf-services-how-i.html
 ---
 
 
 I have <a
-href="http://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html"
+href="https://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html"
 target="_blank">already blogged</a> about
 <a href="http://www.soapui.org/" target="_blank">SOAPUi</a> but then it
 was more me thinking and seeing it was a good idea to use SOAPUi to do

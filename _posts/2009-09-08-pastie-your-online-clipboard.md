@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.190Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4848642135039676921
-blogger_orig_url: http://www.marcusoft.net/2009/09/pastie-your-online-clipboard.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/pastie-your-online-clipboard.html
 ---
 
 If you're looking for a simple way to share code snippets without the hassle of email or chat messages, [Pastie](http://www.pastie.org/) is a great tool.

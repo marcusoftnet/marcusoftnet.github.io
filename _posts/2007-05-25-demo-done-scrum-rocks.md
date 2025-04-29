@@ -9,7 +9,7 @@ tags:
   - Agile
 modified_time: 2007-05-25T06:12:42.764Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6521077029563469445
-blogger_orig_url: http://www.marcusoft.net/2007/05/demo-done-scrum-rocks.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/demo-done-scrum-rocks.html
 ---
 
 Another

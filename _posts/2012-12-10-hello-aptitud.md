@@ -8,14 +8,14 @@ tags:
   - Life of a consultant
 modified_time: 2012-12-10T08:45:29.478Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4381363136158323509
-blogger_orig_url: http://www.marcusoft.net/2012/12/hello-aptitud.html
+blogger_orig_url: https://www.marcusoft.net/2012/12/hello-aptitud.html
 ---
 
 
 
 
 
-So as I <a href="http://www.marcusoft.net/2012/12/good-bye-avega.html"
+So as I <a href="https://www.marcusoft.net/2012/12/good-bye-avega.html"
 target="_blank">wrote this Friday</a> I have now left
 <a href="http://www.avegagroup.se/" target="_blank">Avega Group</a>
 after 8 great years. Many people asked me what I was up to now and I

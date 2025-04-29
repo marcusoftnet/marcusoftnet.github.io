@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.195Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7385064068883905711
-blogger_orig_url: http://www.marcusoft.net/2009/08/booting-from-vhd-in-windows-7.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/booting-from-vhd-in-windows-7.html
 ---
 
 OK – I have been playing around for a while with my [Windows 7](http://www.microsoft.com/windows/windows-7/) and up to now I love it! It even got my old [Dell Precision M70](http://tbn1.google.com/images?q=tbn:uMf9EXIHxwjx2M:http://laptoplogic.com/data/resources/images/31/laptop.jpg) (4 years old and as many kilos) to look good again.

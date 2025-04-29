@@ -7,7 +7,7 @@ tags:
   - Sprint Planner Helper
 modified_time: 2009-02-15T20:08:20.980Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-51752831053783427
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-session-9_15.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-session-9_15.html
 ---
 
 Today I focused on finally getting the controller for my Product Owner tested and done.

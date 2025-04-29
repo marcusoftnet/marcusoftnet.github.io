@@ -10,7 +10,7 @@ tags:
   - Agile
 modified_time: 2010-12-14T15:22:38.182Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357154258673076643
-blogger_orig_url: http://www.marcusoft.net/2009/10/ddd-and-naked-objects.html
+blogger_orig_url: https://www.marcusoft.net/2009/10/ddd-and-naked-objects.html
 ---
 
 I recently discovered something intriguing and wanted to share it along with some useful links.

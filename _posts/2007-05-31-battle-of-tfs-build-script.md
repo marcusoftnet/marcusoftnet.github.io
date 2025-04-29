@@ -9,7 +9,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.589Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-900809608655174297
-blogger_orig_url: http://www.marcusoft.net/2007/05/battle-of-tfs-build-script.html
+blogger_orig_url: https://www.marcusoft.net/2007/05/battle-of-tfs-build-script.html
 ---
 
 I
@@ -27,7 +27,7 @@ want to do the following:
 - Generate documentation
 
 It's the ClickOnce-part that's not working and
-<span id="SPELLING_ERROR_5" class="blsp-spelling-corrected">I've
+="blsp-spelling-corrected">I've
 got an confirmation from Microsoft that what we want to do not is
 supported by default in VSTS. You need some third part
 products.

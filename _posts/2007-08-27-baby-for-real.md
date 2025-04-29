@@ -7,10 +7,10 @@ tags:
   - Marcus private
 modified_time: 2007-08-27T06:22:59.648Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3148654725197374451
-blogger_orig_url: http://www.marcusoft.net/2007/08/baby-for-real.html
+blogger_orig_url: https://www.marcusoft.net/2007/08/baby-for-real.html
 ---
 
-As I've [hinted in earlier post](http://www.marcusoft.net/2007/08/home-again.html) we are going to have a baby! In January 2008.
+As I've [hinted in earlier post](https://www.marcusoft.net/2007/08/home-again.html) we are going to have a baby! In January 2008.
 
 Up to now a lot of things has been questions and guessing about how many, kind and most important health. But on Friday we went to an ultra-sonic scan and got to know a lot:
 

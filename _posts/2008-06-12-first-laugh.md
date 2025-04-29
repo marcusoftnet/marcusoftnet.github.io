@@ -7,7 +7,7 @@ tags:
   - Marcus private
 modified_time: 2008-06-12T10:52:42.871Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3606708872668700283
-blogger_orig_url: http://www.marcusoft.net/2008/06/first-laugh.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/first-laugh.html
 ---
 
 Yesterday we heard the first chuckle and laughter from Albert... It was a very special feeling - for the first time you could sense his voice, how he will sound when he talks. Also it was very moving to see him so happy. He couldn't keep it in...

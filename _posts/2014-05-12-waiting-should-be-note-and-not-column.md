@@ -12,7 +12,7 @@ tags:
   - Agile
 modified_time: 2014-05-12T06:46:20.318Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3379764614197030165
-blogger_orig_url: http://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html
+blogger_orig_url: https://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html
 ---
 
 Quite often when you create a visualized version of your workflow you end up with a waiting column. This is where items go while you are waiting for someone else, or something else to happen before you can continue to work on it.

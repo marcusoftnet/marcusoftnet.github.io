@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2008-04-30T13:07:36.038Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6282714289186759306
-blogger_orig_url: http://www.marcusoft.net/2008/04/2008-european-championships-my.html
+blogger_orig_url: https://www.marcusoft.net/2008/04/2008-european-championships-my.html
 ---
 
 It's that great time of the year when the best brass band competition in

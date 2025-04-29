@@ -10,7 +10,7 @@ tags:
   - C#
 modified_time: 2014-06-21T00:09:55.455Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2035700742916788295
-blogger_orig_url: http://www.marcusoft.net/2013/01/NancyTesting2.html
+blogger_orig_url: https://www.marcusoft.net/2013/01/NancyTesting2.html
 ---
 
 ![Nancy Logo](http://nancyfx.org/images/logo.png)
@@ -19,11 +19,11 @@ This is the second post in my series on the awesome testability of [Nancy](http:
 
 The other posts can be found here:
 
-1. [Intro to testing with Nancy](http://www.marcusoft.net/2013/01/NancyTesting1.html)
-2. [The Configurable bootstrapper](http://www.marcusoft.net/2013/01/NancyTesting2.html) (this post)
-3. [The Browser and Response objects](http://www.marcusoft.net/2013/01/NancyTesting3.html)
-4. [Hat and shoeless testing with Simple.Data](http://www.marcusoft.net/2013/02/NancyTesting4.html)
-5. [SpecFlow and Nancy](http://www.marcusoft.net/2013/02/NancyTesting5.html)
+1. [Intro to testing with Nancy](https://www.marcusoft.net/2013/01/NancyTesting1.html)
+2. [The Configurable bootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html) (this post)
+3. [The Browser and Response objects](https://www.marcusoft.net/2013/01/NancyTesting3.html)
+4. [Hat and shoeless testing with Simple.Data](https://www.marcusoft.net/2013/02/NancyTesting4.html)
+5. [SpecFlow and Nancy](https://www.marcusoft.net/2013/02/NancyTesting5.html)
 
 This post covers a basic feature that makes up much of the awesomeness that is around configurability in Nancy testing: the configurable bootstrapper.
 

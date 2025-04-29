@@ -11,10 +11,10 @@ tags:
 modified_time: 2014-09-22T07:31:36.566Z
 thumbnail: /img/3496249511_2d194b807f_z.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6249188199569374805
-blogger_orig_url: http://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-improvements.html
+blogger_orig_url: https://www.marcusoft.net/2014/09/why-so-sad-can-we-point-to-improvements.html
 ---
 
-![Fry complaining](/img/3496249511_2d194b807f_z.jpg)  
+![Fry complaining](/img/3496249511_2d194b807f_z.jpg)
 *"Fry complaining" by [Umberto Salvagnin](https://www.flickr.com/photos/kaibara/), under [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/2.0/)*
 
 - As agile and lean practitioners, why do we always focus on the negative? "It's management's fault", "This needs to go faster", "The quality is substandard", "You don't use TDD" ... tell me when to stop...

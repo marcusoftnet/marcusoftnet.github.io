@@ -8,7 +8,7 @@ tags:
   - C#
 modified_time: 2009-08-31T19:53:49.383Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8533106289960370612
-blogger_orig_url: http://www.marcusoft.net/2009/08/first-stop-for-learning-events.html
+blogger_orig_url: https://www.marcusoft.net/2009/08/first-stop-for-learning-events.html
 ---
 
 I found [this great article](http://sdesmedt.wordpress.com/2009/05/21/for-once-and-for-all-delegates-events-anonymous-methods-and-lambda-expressions/) about events, delegates, and anonymous methods.

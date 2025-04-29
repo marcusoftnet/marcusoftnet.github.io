@@ -16,7 +16,7 @@ This post reflects a few thoughts and ramblings that I've had in my head for som
 
 <!-- excerpt-end -->
 
-As in most companies, School Of Applied Technology has also moved to social distancing and remote work. And as [I have written about](http://www.marcusoft.net/2020/03/experience-report-first-week-of-x-mobs-going-remote.html), it works out pretty well - but I've noticed some issues around transparency and time for feedback.
+As in most companies, School Of Applied Technology has also moved to social distancing and remote work. And as [I have written about](https://www.marcusoft.net/2020/03/experience-report-first-week-of-x-mobs-going-remote.html), it works out pretty well - but I've noticed some issues around transparency and time for feedback.
 
 Disclaimer; everything I write is drawn from my own experience and telling my side of the story. I'm sure you might have other views and experiences - that are equally valuable. These observations are mine, though.
 

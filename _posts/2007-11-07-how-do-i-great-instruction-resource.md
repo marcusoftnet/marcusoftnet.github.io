@@ -7,13 +7,12 @@ tags:
   - .NET
 modified_time: 2010-12-14T15:20:33.392Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7645524779308366099
-blogger_orig_url: http://www.marcusoft.net/2007/11/how-do-i-great-instruction-resource.html
+blogger_orig_url: https://www.marcusoft.net/2007/11/how-do-i-great-instruction-resource.html
 ---
 
 During the last days I have run into more and more of the
 "How-do-I"-videos from Microsoft. They are really a great resource for
-getting fast introduction on a subject from everything to <span
-id="SPELLING_ERROR_0" class="blsp-spelling-error">Silverlight to
+getting fast introduction on a subject from everything to Silverlight to
 LINQ.
 
 Here is the overview link:

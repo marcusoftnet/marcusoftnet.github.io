@@ -8,7 +8,7 @@ tags:
   - Euphonium
 modified_time: 2009-03-09T20:55:36.836Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7210931014186323918
-blogger_orig_url: http://www.marcusoft.net/2009/03/my-light-and-song.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/my-light-and-song.html
 ---
 
 In a few weeks the [Vasa Band](http://www.vasaband.se) will do a music festival at the [corps](http://www.fralsningsarmen.se/vasakaren). I will play an euphonium solo and was looking for something that isn’t played very often.

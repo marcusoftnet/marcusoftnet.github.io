@@ -11,7 +11,7 @@ tags:
 modified_time: 2012-12-04T12:29:51.506Z
 thumbnail: /img/Screen+Shot+2012-09-10+at+22.39.42.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2885495205288364594
-blogger_orig_url: 'http://www.marcusoft.net/2012/09/working-to-cake-limit.html'
+blogger_orig_url: 'https://www.marcusoft.net/2012/09/working-to-cake-limit.html'
 ---
 
 When teams transition from an iteration-based (i.e., Scrum) to a more flow-based (i.e., Kanban) approach to software development, they often face three big risks: no planning, no retrospectives, and no celebrations. Which, when you look at it, just leaves work work work.

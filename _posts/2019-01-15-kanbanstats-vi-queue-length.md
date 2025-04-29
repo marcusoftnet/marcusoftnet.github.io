@@ -15,11 +15,11 @@ I have learned new stuff. There are a better ways. Find the [update here](https:
 
 It's time to wrap this series up. I have one final thing that I want to visualize: queue length. How much stuff is waiting and how long will that take us to complete? And maybe even, "if I add something in the queue now, how long before it's done?"
 
-1. [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-1. [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-1. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-1. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-1. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+1. [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+1. [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+1. [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+1. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+1. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
 
 As always [my sheet is found here](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) and you can make a copy of it and use it. Please let me know how it's working out for you and if you end up doing something cooler than me.
 
@@ -125,7 +125,7 @@ The reason the chart is very underwhelming is that right now, we only get the nu
 
 For example; let's try to answer how long it will take us to empty the backlog if nothing new gets added.
 
-In order to do that we are going to use the calculations about [throughput that we did before](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) and the average number of items, we complete per week. We can get that by doing the average of the "Completed per week"-column on the "Throughput calculations sheet"
+In order to do that we are going to use the calculations about [throughput that we did before](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) and the average number of items, we complete per week. We can get that by doing the average of the "Completed per week"-column on the "Throughput calculations sheet"
 
 ```
 =H2/AVERAGE('Throughput calculations'!I:I)
@@ -183,10 +183,10 @@ Thank you for reading. I hope you enjoyed this series.
 
 All the posts in the series are found through these links:
 
-1. [Lead time](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
-2. [Lead time with filters](http://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
-3. [Throughput](http://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
-4. [Where time is spent](http://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
-5. [Single numbers - averages, median and max of lead time](http://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
-6. [Queue length](http://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
+1. [Lead time](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html)
+2. [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
+3. [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
+4. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
+5. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
+6. [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
 

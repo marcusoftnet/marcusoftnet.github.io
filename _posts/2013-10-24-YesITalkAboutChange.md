@@ -10,15 +10,15 @@ tags:
 modified_time: 2013-11-12T20:04:53.237Z
 thumbnail: /img/results_pass_the_pennies.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1948937636553075052
-blogger_orig_url: http://www.marcusoft.net/2013/10/YesITalkAboutChange.html
+blogger_orig_url: https://www.marcusoft.net/2013/10/YesITalkAboutChange.html
 ---
 
 I've done numerous presentations on Lean and Agile, and there are a couple of things that I often feel I don't succeed in implanting in people's minds. I thought I'd write them down so that I can direct people back here, and also remind myself when I forget.
 
 Quite shortly, these things can be summed up with these two short answers:
 
-- [Yes - I'm talking about changing the way we work (this post)](http://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
-- [No - I'm not talking about working faster](http://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html)
+- [Yes - I'm talking about changing the way we work (this post)](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
+- [No - I'm not talking about working faster](https://www.marcusoft.net/2013/11/NoIDontMeanWorkFaster.html)
 
 This post is about changing.
 
@@ -76,7 +76,7 @@ In this case, I simply asked: What would improve the flow of the work? And their
 Me: What can we do to wait less?
 ... and on we went.
 
-Sadly, I have no solutions for you here. Your knowledge about your process is much better than mine, of course. But I can tell you this: if we do nothing, we will still have these problems. ([And maybe that is ok...](http://www.marcusoft.net/2012/10/agilechangetop51.html)). Focusing on flow and limiting work in process will help us push our improvements towards a better flow.
+Sadly, I have no solutions for you here. Your knowledge about your process is much better than mine, of course. But I can tell you this: if we do nothing, we will still have these problems. ([And maybe that is ok...](https://www.marcusoft.net/2012/10/agilechangetop51.html)). Focusing on flow and limiting work in process will help us push our improvements towards a better flow.
 
 How about going over to the guy that you are waiting for when you're done and ask how you two together can take this to the next step? Or tell him that you are now finished with "Do stuff 1" and that he can call you back when you can continue with "Do stuff 2"? Maybe you could do what's done in "Wait for others" yourself for certain work items?
 

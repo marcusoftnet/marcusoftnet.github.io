@@ -20,10 +20,10 @@ I wanted to share them with you and also what I'm thinking about when seeing the
 Here are the screensavers that I'm flicking through each day.
 
 - Kindness is better - This post
-- [Complex == Bad. Simple == Good](http://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
-- [What would Jesus do?](http://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
-- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](http://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
-- [Turn up the good](http://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
+- [Complex == Bad. Simple == Good](https://www.marcusoft.net/2023/03/my-screensavers-simple-good-complex-bad.html)
+- [What would Jesus do?](https://www.marcusoft.net/2023/03/my-screensavers-what-would-jesus-do.html)
+- [(DO(SOMETHING(SMALL(USEFUL(NOW())))))](https://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html)
+- [Turn up the good](https://www.marcusoft.net/2023/03/my-screensavers-turn-up-the-good.html)
 
 <!-- excerpt-end -->
 

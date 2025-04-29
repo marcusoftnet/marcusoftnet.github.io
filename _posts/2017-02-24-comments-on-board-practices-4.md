@@ -67,7 +67,7 @@ It can also help us know how to act and behave differently with different type o
 
 My recommendation is to use different colours to do just that; know what to do with the work at hand. I've often seen teams use different colours for work that is going to be prioritized and worked on in the same way. It either ends in confusion or that we stop using different colours.
 
-In the great book [How to measure anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) Dr Hubbard says something along the lines:
+In the great book [How to measure anything](https://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) Dr Hubbard says something along the lines:
 
 > Anything can be measured - but the question is if it should
 

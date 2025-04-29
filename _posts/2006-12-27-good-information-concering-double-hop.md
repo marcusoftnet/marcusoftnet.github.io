@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2006-12-29T07:35:19.814Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4488585336515488152
-blogger_orig_url: http://www.marcusoft.net/2006/12/good-information-concering-double-hop.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/good-information-concering-double-hop.html
 ---
 
 I am currently writing another solution to this and will post it

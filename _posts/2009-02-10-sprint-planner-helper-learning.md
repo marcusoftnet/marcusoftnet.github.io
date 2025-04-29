@@ -8,7 +8,7 @@ tags:
   - TDD
 modified_time: 2009-02-11T21:23:54.698Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8845363078970420054
-blogger_orig_url: http://www.marcusoft.net/2009/02/sprint-planner-helper-learning.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-learning.html
 ---
 
 OK – I did some reading about repositories, and they basically constitute a way for the domain model to perform [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations – in a language needed by the domain model.

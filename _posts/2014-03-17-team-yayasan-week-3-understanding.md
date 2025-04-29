@@ -10,7 +10,7 @@ tags:
 modified_time: 2014-03-17T04:18:29.327Z
 thumbnail: /img/yayasan_mini_board.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7834322553779832021
-blogger_orig_url: http://www.marcusoft.net/2014/03/team-yayasan-week-3-understanding.html
+blogger_orig_url: https://www.marcusoft.net/2014/03/team-yayasan-week-3-understanding.html
 ---
 
 Every week (or in case of this week) we hold a short retrospective. It's very informal and basically just us asking ourselves what worked and what did not. And then we change something. I think that is very important. We change something. In order to improve. Those changes don't have to, and up to now most haven't, been suggested and implemented at the retrospective meeting. But we try to improve in small steps. Often. Hmmm someone should write about that.

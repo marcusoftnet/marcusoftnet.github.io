@@ -8,7 +8,7 @@ tags:
   - WCF
 modified_time: 2009-01-12T06:57:27.980Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5473159836345930651
-blogger_orig_url: http://www.marcusoft.net/2008/06/wcf-data-contract-versioning.html
+blogger_orig_url: https://www.marcusoft.net/2008/06/wcf-data-contract-versioning.html
 ---
 
 I've been checking out a very interesting subject for my current
@@ -35,5 +35,5 @@ subject:
     Contracts](http://msdn.microsoft.com/en-us/library/ms731083.aspx)
 
 Well, that should get you started to handling versioning of
-your <span id="SPELLING_ERROR_11" class="blsp-spelling-error">WCF
+your ="blsp-spelling-error">WCF
 contracts and services.

@@ -7,7 +7,7 @@ tags:
   - Brass Band
 modified_time: 2009-02-06T16:21:18.254Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-9022070833199977261
-blogger_orig_url: http://www.marcusoft.net/2009/02/norwegian-brass-band-championships-live.html
+blogger_orig_url: https://www.marcusoft.net/2009/02/norwegian-brass-band-championships-live.html
 ---
 
 Right now you can follow the Norwegian Championships in Brass Band live on [nrk.no](http://www.nrk.no). Here is the link: [NRK Live Stream](http://www1.nrk.no/nett-tv/distrikt/hordaland/verdi/89482).

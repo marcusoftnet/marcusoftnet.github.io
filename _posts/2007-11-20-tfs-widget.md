@@ -8,7 +8,7 @@ tags:
   - Visual Studio
 modified_time: 2010-12-14T15:19:05.504Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6309539789624696264
-blogger_orig_url: http://www.marcusoft.net/2007/11/tfs-widget.html
+blogger_orig_url: https://www.marcusoft.net/2007/11/tfs-widget.html
 ---
 
 Found this great resource today -

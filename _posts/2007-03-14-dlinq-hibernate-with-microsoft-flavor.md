@@ -8,7 +8,7 @@ tags:
   - NHibernate
 modified_time: 2009-10-19T15:44:03.870Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8118350437797908369
-blogger_orig_url: http://www.marcusoft.net/2007/03/dlinq-hibernate-with-microsoft-flavor.html
+blogger_orig_url: https://www.marcusoft.net/2007/03/dlinq-hibernate-with-microsoft-flavor.html
 ---
 
 I have read somethings about the

@@ -10,7 +10,7 @@ tags:
   - TDD
 modified_time: 2010-01-05T18:08:38.992Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3549924587180405623
-blogger_orig_url: http://www.marcusoft.net/2010/01/trying-coding-dojo-kata-and-extreme-oop.html
+blogger_orig_url: https://www.marcusoft.net/2010/01/trying-coding-dojo-kata-and-extreme-oop.html
 ---
 
 In preparation for a presentation next week (which will go on for two days… brrr), I had my sights set on doing something about [Extreme OOP](http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf) or [Object Calisthenics](http://www.markhneedham.com/blog/2008/11/06/object-calisthenics-first-thoughts/). I’m thinking of using that exercise to illustrate some OOP practices.

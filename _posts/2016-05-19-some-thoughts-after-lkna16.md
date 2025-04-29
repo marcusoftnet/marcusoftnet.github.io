@@ -44,7 +44,7 @@ Chris' workshop will be the segue way into the next and final theme that kept po
 
 Because most big organizations don't have products internally - they have services that they supply. Sometimes even externally. And still we try to shoe-horn the concept of products in there; product owner, product backlog, product management etc. When the concept of a service sits much better.
 
-If we now only could [organise ourselves around those services](http://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organization model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
+If we now only could [organise ourselves around those services](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organization model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
 
 ## My talk
 

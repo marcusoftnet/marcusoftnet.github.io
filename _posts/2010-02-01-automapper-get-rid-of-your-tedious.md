@@ -9,7 +9,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.167Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6026107355969873960
-blogger_orig_url: http://www.marcusoft.net/2010/02/automapper-get-rid-of-your-tedious.html
+blogger_orig_url: https://www.marcusoft.net/2010/02/automapper-get-rid-of-your-tedious.html
 ---
 
 

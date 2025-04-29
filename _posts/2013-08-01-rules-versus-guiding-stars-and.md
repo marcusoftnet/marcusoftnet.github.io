@@ -7,7 +7,7 @@ tags:
   - Agile
 modified_time: 2013-08-01T14:00:43.953Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7711855420494540411
-blogger_orig_url: http://www.marcusoft.net/2013/08/rules-versus-guiding-stars-and.html
+blogger_orig_url: https://www.marcusoft.net/2013/08/rules-versus-guiding-stars-and.html
 ---
 
 ## Rules versus guiding stars ... and a lot about soccer

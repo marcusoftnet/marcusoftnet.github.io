@@ -8,7 +8,7 @@ tags:
   - MSBuild
 modified_time: 2011-10-03T10:32:50.080Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2160098077060148442
-blogger_orig_url: http://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
+blogger_orig_url: https://www.marcusoft.net/2007/06/teamsystem-msbuild-and-clickonce.html
 ---
 
 I've finally got around to work a bit more with our build script,

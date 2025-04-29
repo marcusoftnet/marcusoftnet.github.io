@@ -7,7 +7,7 @@ tags:
   - ASP.NET MVC
 modified_time: 2009-03-13T18:30:59.600Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-815186232609530962
-blogger_orig_url: http://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html
+blogger_orig_url: https://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html
 ---
 
 This (`The parameters dictionary contains a null entry for parameter`) exception was thrown at me and confused me for a while.

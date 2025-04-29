@@ -71,7 +71,7 @@ Come to think about it - what is the real value here? That would be how good the
 
 ## Lesson 3 - Predictions are just predictions - not reality
 
-Being a nerd of stats, I've written many posts about [how to track](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html) (software development) [projects here](http://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html) and also being off the average-fallacy-train thanks to [Dan Vacanti](https://twitter.com/danvacanti), I quickly threw together a predictions sheet.
+Being a nerd of stats, I've written many posts about [how to track](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html) (software development) [projects here](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html) and also being off the average-fallacy-train thanks to [Dan Vacanti](https://twitter.com/danvacanti), I quickly threw together a predictions sheet.
 
 At first, I just predicted the total length of all the video to record. Remember; I knew exactly how many it was (63), but I didn't really know how long each thing would be. My feeling was that they were about the same length (turns out ... not really).
 

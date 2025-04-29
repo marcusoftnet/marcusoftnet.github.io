@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.191Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-349034536879017212
-blogger_orig_url: http://www.marcusoft.net/2009/09/dos-script-to-delete-all-visual-studio.html
+blogger_orig_url: https://www.marcusoft.net/2009/09/dos-script-to-delete-all-visual-studio.html
 ---
 
 
@@ -40,6 +40,6 @@ Well this script deletes the following:
 - All Debug-folders (both obj/Debug and bin/Debug)
 - All folders that Resharper generates for you
 - All TestResults folder (<a
-    href="http://www.marcusoft.net/2009/02/save-some-space-limit-number-of-old.html"
+    href="https://www.marcusoft.net/2009/02/save-some-space-limit-number-of-old.html"
     target="_blank">they can be massive!!</a>)
 - All the crazy vsmdi-files that hold testlist for you

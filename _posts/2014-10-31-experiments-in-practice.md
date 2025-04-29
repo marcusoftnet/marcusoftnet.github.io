@@ -12,14 +12,14 @@ tags:
   - Salvation Army
 modified_time: 2014-11-02T00:58:53.276Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2929863065570671239
-blogger_orig_url: http://www.marcusoft.net/2014/10/experiments-in-practice.html
+blogger_orig_url: https://www.marcusoft.net/2014/10/experiments-in-practice.html
 ---
 
 
 
 
 At my current client we're starting to work with improvements, as
-<a href="http://www.marcusoft.net/2014/10/improvmentlane.html"
+<a href="https://www.marcusoft.net/2014/10/improvmentlane.html"
 target="_blank">I wrote about before</a>. The things I talk about in
 that post is small changes, but bigger things we handle on separate
 lines. For now. That might change.

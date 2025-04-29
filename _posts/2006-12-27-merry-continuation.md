@@ -8,7 +8,7 @@ tags:
   - Fun
 modified_time: 2006-12-27T06:54:37.801Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4434228925994019806
-blogger_orig_url: http://www.marcusoft.net/2006/12/merry-continuation.html
+blogger_orig_url: https://www.marcusoft.net/2006/12/merry-continuation.html
 ---
 
 Back from a
