@@ -13,7 +13,8 @@ tags:
 Agile is soon (?) to be forgotten and ditched like yesterdays clothes if you ask some agilistas that I follow. I think the reason is that we have watered down the meaning of the concept by applying the name to more and more un-agile things. Soon we will be able to become agile without letting its ideas and principles changing a thing about what we do or how we act. Because agile is just some simple, yet powerful, ideas - originally described in the [Agile Manifesto](http://agilemanifesto.org).
 
 I yesterday posted the following at twitter:
-> This is a companywide board we created at a client. It shows all the #valueStreams their #impact and deliverables. At weekly meeting representatives for the entire company gathers and prioritize and replan. A continuous #bigRoomPlanning if you like. I’m at back of the room [pic.twitter.com/gXbqu8y3eu](https://t.co/gXbqu8y3eu) — Marcus Hammarberg (@marcusoftnet) [August 13, 2019](https://twitter.com/marcusoftnet/status/1161219171218313217?ref_src=twsrc%5Etfw)
+
+> This is a company.wide board we created at a client. It shows all the #valueStreams their #impact and deliverables. At weekly meeting representatives for the entire company gathers and prioritize and replan. A continuous #bigRoomPlanning if you like. I’m at back of the room [pic.twitter.com/gXbqu8y3eu](https://t.co/gXbqu8y3eu) — Marcus Hammarberg (@marcusoftnet) [August 13, 2019](https://twitter.com/marcusoftnet/status/1161219171218313217?ref_src=twsrc%5Etfw)
 
 And on [LinkedIn](https://www.linkedin.com/posts/marcusoftnet_valuestreams-impact-bigroomplanning-activity-6567094847310708736-2PWQ) I got even cockier and added:
 

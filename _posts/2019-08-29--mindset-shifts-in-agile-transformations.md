@@ -60,7 +60,7 @@ What should be the reaction from the company? Note - they are **not** doing what
 
 They made the [best decision and they are closest to the relevant information](https://www.marcusoft.net/2016/10/move-the-information-to-the-authority-considered-harmful.html) (or should be and we can help them to get there)
 
-Making this shift will challenge many of the current ways we do work in our organizations today. Just one example that stumped me more than once is time reporting. It gets really hard to call work development or maintenance when you are improving an overall value for a longlived product or value stream. Is this line of code maintenance, is this document new development?
+Making this shift will challenge many of the current ways we do work in our organizations today. Just one example that stumped me more than once is time reporting. It gets really hard to call work development or maintenance when you are improving an overall value for a long lived product or value stream. Is this line of code maintenance, is this document new development?
 
 In a project world this makes total sense; often work *in* the project is new development and outside the project is maintenance. The new development cost can be written off faster and improve the looks of the books (Hey - it rhymes)
 
