@@ -38,7 +38,6 @@ cat > "$TEMP_CONFIG" <<EOF
   "words": $USER_WORDS
 }
 EOF
-
 echo "Created temporary cspell config at $TEMP_CONFIG"
 
 # Run cspell on the target folder
