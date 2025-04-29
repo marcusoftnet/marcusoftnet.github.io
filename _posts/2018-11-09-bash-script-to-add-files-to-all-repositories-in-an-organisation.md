@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bash script to add file(s) to all repositories in an organisation"
+title: "Bash script to add file(s) to all repositories in an organization"
 author: "Marcus Hammarberg"
 date: 2018-11-09 14:10:45
 tags:
@@ -33,7 +33,7 @@ My game plan was pretty easy:
 
 ### Create a static license file
 
-I went to [Choose A License](https://choosealicense.com) , picked an [appropiate license](https://choosealicense.com/licenses/mit/) and create a file out of that text. I ensured to update it with our company name.
+I went to [Choose A License](https://choosealicense.com) , picked an [appropriate license](https://choosealicense.com/licenses/mit/) and create a file out of that text. I ensured to update it with our company name.
 
 ### Clone all repository
 
@@ -62,7 +62,7 @@ That was good because that meant that I understood the second part much easier:
 * That lets us load that barfed json that `curl` command gave us.
 * We loop over that array of results, i.e. the repositories
 * For each (`.each { ... }`) we simply do a `git clone` and use the value in the `ssh_url`
-  * That actuall didn't really work for me so I changed it into `clone_url`
+  * That actually didn't really work for me so I changed it into `clone_url`
 
 All in all I ended up with this script:
 

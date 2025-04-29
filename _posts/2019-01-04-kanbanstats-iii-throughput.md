@@ -63,13 +63,13 @@ I put the unique months in column F and the unique weeks in column H, for now.
 
 ## Appreciation break
 
-Let me just stop and appreciate the amazing Google Sheet for awhile. Many things in the application are mindblowing but right now I wanted to send a special love for the `C2:C` syntax.
+Let me just stop and appreciate the amazing Google Sheet for awhile. Many things in the application are mind-blowing but right now I wanted to send a special love for the `C2:C` syntax.
 
-Take all rows in the C-column, starting on row 2. You can't do that in Excel. I love that. Without it, I would either get the heading or update this formula everytime new rows are added.
+Take all rows in the C-column, starting on row 2. You can't do that in Excel. I love that. Without it, I would either get the heading or update this formula every time new rows are added.
 
 Thank you, Google!
 
-## Round'em up!
+## Round'em up
 
 It's now, thanks to the copying of all the rows in columns A:D, pretty easy to count the number of items finished per month: `=COUNTIF(C2:C, F2)`
 
@@ -95,7 +95,7 @@ Pretty soon you'd want to filter this data as well... I will leave this as an ex
 
 But just to whet your appetite, here's a chart showing the throughput per week and estimated size.
 
-![Througput per estimated size](/img/ThroughputPerEstimatedSize.png)
+![Throughput per estimated size](/img/ThroughputPerEstimatedSize.png)
 
 ## Summary
 
@@ -104,7 +104,6 @@ There! A nice and quick throughput visualization.
 Pretty happy how this turned out, the only thing is that I now realized that I need to update the lead time sheets too so that I only include the completed items. I'll make an update to that post about that.
 
 In the next post, we will do something more advanced and start to measure the queue lengths. It will probably be two posts since we need to update the raw data with items that are not finished.
-
 
 ### The links
 

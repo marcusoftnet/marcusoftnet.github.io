@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Repost - Some tools for improved focus, improve teamwork and faster delivery
+title: Re-post - Some tools for improved focus, improve teamwork and faster delivery
 author: Marcus Hammarberg
 date: 2013-08-13 15:23:54
 tags:
@@ -12,7 +12,7 @@ tags:
  - Life of a consultant
 ---
 
-### REPOST FROM CODEBETTER
+### RE-POST FROM CODEBETTER
 
 I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/), here to my site.
 
@@ -32,7 +32,7 @@ The first thing they did, that I really felt helped them a lot, was to draw thei
 
 - There’s a couple of (very cute, little) dragons over there to the left, did you see them? They indicate stuff that scares us a bit, things that we know little about or things that we know that we will struggle with.
 
-  [Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)
+  [Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)](<http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png>)
 
 - Work in progress means that this is the branch of the mind map that we work on. Green circle means that it’s done. And completely Done.
 
@@ -68,28 +68,28 @@ The next thing we implemented was the actual board that the team uses to visuali
 
 Here is how their board looks right now:
 
-[This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)This team uses a board built around priority filters.
+[This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)](<http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)This> team uses a board built around priority filters.
 Only 3 items are priority 1 and hence given our attention up to our capacity.
 
 - Done – these are things that the team have completed. There’s no more work to be done on these
-- Priority  1 – these items are of the highest priority and hence the things that we work on right now. Haha – just imagine if we would work on something that wasn’t highest priority. That would be so stup… now wait – that happens a lot…
+- Priority  1 – these items are of the highest priority and hence the things that we work on right now. Haha – just imagine if we would work on something that wasn’t highest priority. That would be so stupid… now wait – that happens a lot…
   It’s limited to the capacity of the team and right now the team is experimenting with using 3 items as their WIP ([Work in process](http://en.wikipedia.org/wiki/Work_in_process)) limit.  This is done to further enhance their focus on the work at hand, but also has a positive effect on the lead-time, as [Littles law](http://en.wikipedia.org/wiki/Little's_law) teaches us.
-- Priority 2 – these are the items that we will be working on next. It’s urgent and everything, but we don’t have capacity for it right now. We allow for six items in this column, twice the capacity of our prio 1 items.
-- Priority 3 – are items that we think that we will work on next. These stand a big risk of being down prioritized as we close in on moving stuff up to prio 1.
+- Priority 2 – these are the items that we will be working on next. It’s urgent and everything, but we don’t have capacity for it right now. We allow for six items in this column, twice the capacity of our priority 1 items.
+- Priority 3 – are items that we think that we will work on next. These stand a big risk of being down prioritized as we close in on moving stuff up to priority 1.
 
-Since we have limited the Prio 1 items to our capacity (of 3 items in this case) it means that new work cannot be started until a work item is completed and move into Done. We can then *pull* in a new item from Prio 2 (or maybe 3 or something else that was more important).
+Since we have limited the priority 1 items to our capacity (of 3 items in this case) it means that new work cannot be started until a work item is completed and move into Done. We can then *pull* in a new item from priority 2 (or maybe 3 or something else that was more important).
 
-In fact this show that prioritization is tightly coupled to the time that we make the prioritization desicion. The question is really: “what’s most important *now*?” rather than “can you create a list of all items in prioritized order?” Who cares if an item is no 14 or 15 on that list. Things will have changed when we’re about to pick those up anyway. Don’t lock your business agility and opportunities into a long backlog that’s hard to change.
+In fact this show that prioritization is tightly coupled to the time that we make the prioritization decision. The question is really: “what’s most important *now*?” rather than “can you create a list of all items in prioritized order?” Who cares if an item is no 14 or 15 on that list. Things will have changed when we’re about to pick those up anyway. Don’t lock your business agility and opportunities into a long backlog that’s hard to change.
 
 This leads the team towards another goal: smaller items. The faster we can complete the items the more prioritization opportunities we get. Selecting new stuff to work on every 3 months is scary and causes a lot of discussions. Getting a new opportunity twice a week does not. And we decide the size of each item.
 
-We don’t really care about the order of the items in the column. There’s items that we work on, and the rest. That we might start work on later. I wouldn’t be surprised if the priority 2 and 3 columns will be just “Not prio 1″ later for this team.
+We don’t really care about the order of the items in the column. There’s items that we work on, and the rest. That we might start work on later. I wouldn’t be surprised if the priority 2 and 3 columns will be just “Not priority 1″ later for this team.
 
 ## Daily standup
 
 And now finally the new standup question I promised at the outset. At our daily standup we, as a team, ask ourselves only one question:
 
-> What are hindering us from completing the prio 1 items today?
+> What are hindering us from completing the priority 1 items today?
 
 (You can see this question, in Swedish, under the Priority 1 column on the board above).
 

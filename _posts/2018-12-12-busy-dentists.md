@@ -10,7 +10,7 @@ tags:
  - Kanban
 ---
 
-When I introduce agile I do that through a nice little quandrat originally from the [This is Lean](https://thisislean.com/) book by [Pär Åhlström](http://parahlstrom.com/) and [Niclas Modig](https://twitter.com/leanonmyself), and visualized by [Håkan Forss](https://www.marcusoft.net/img/thisIsLean.png). I've [wrote about it here](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). This post will only focus on the top left triangle - where we focus on maximizing resource utilization.
+When I introduce agile I do that through a nice little quadrant originally from the [This is Lean](https://thisislean.com/) book by [Pär Åhlström](http://parahlstrom.com/) and [Niclas Modig](https://twitter.com/leanonmyself), and visualized by [Håkan Forss](https://www.marcusoft.net/img/thisIsLean.png). I've [wrote about it here](https://www.marcusoft.net/2017/02/comments-on-board-practices-6.html). This post will only focus on the top left triangle - where we focus on maximizing resource utilization.
 
 But I've noticed that personal stories sticks better and I have used a story about my dentist to show an example of a setting that focuses heavily on the resource utilization.
 
@@ -48,7 +48,7 @@ This is what the second part of the story is about
 
 ## Part II - the callback
 
-Torbjörn fixed my tooth in 2-3 pretty advanced treatments and I was then asked to schedule a callback and checkup about a year later. When a year had past, one of these secretaries called me and gave me a timeslot, just a month from the time she called me, in September.
+Torbjörn fixed my tooth in 2-3 pretty advanced treatments and I was then asked to schedule a callback and checkup about a year later. When a year had past, one of these secretaries called me and gave me a time slot, just a month from the time she called me, in September.
 
 Sadly I was out of town that day and asked for a later slot. She sighed and started that same flipping-through-pages-of-the-booking-calendar again; "Well, the next available slot is ... in ... December 5. 1130-1145. It's just a short check-up."
 
@@ -59,8 +59,10 @@ But sure enough, my observations since last time was correct, they all cheerfull
 They proudly told me that there was a waiting list for waiting. You could go on a list that they started to call through if one dentist got a cancellation, due to sickness, for example. "Then we can quickly call these people", she pointed to a list with about 30 numbers, "and quickly fill that empty slot again."
 
 I also overheard, more than one, calls that went like this:
-Secretary: "Hi... Oh, it's broken in half? Ouch - that sounds painful. Well... sadly, we are fully fully booked. The next timeslot is ... next Thursday. Can you come in around 0745?"
-At this point, Torbjörns nurse, came out, moved me into the chair and Torbjörn cheerfully entered. He snapped 2-3 x-rays, looked at them for about a minute and I was on my way. I was cured!
+
+Secretary: "Hi... Oh, it's broken in half? Ouch - that sounds painful. Well... sadly, we are fully fully booked. The next time slot is ... next Thursday. Can you come in around 0745?"
+
+At this point, Torbjörn's nurse, came out, moved me into the chair and Torbjörn cheerfully entered. He snapped 2-3 x-rays, looked at them for about a minute and I was on my way. I was cured!
 
 ## Reflections on part II
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Board visualisation tips"
+title: "Board visualization tips"
 author: "Marcus Hammarberg"
 date: 2018-12-03 21:09:17
 tags:
@@ -38,7 +38,7 @@ Do you see a common theme with all these bullets? They are questions. Because th
 
 Since you create your own board (like a great Jedi) you also can change it. No, wait; you *should* change it. Make it fit your world, your work and your workflow. The closer to reality it is the more close to reality your improvements will be too.
 
-Start with something and tweak it as you go. I always suggest starting by drawing it with a marker on a whiteboard. Not with tape or not as an electronic tool. I've seen very small hinderances or annoyances of making change lead to very strange workflows a few months later.
+Start with something and tweak it as you go. I always suggest starting by drawing it with a marker on a whiteboard. Not with tape or not as an electronic tool. I've seen very small hindrances or annoyances of making change lead to very strange workflows a few months later.
 
 Change the tool to fit your work.
 

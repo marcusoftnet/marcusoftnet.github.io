@@ -45,7 +45,7 @@ Let’s say that the template repository is called `marcusoft/salt-jsfs-reactsta
 
 1. Open the terminal in any folder with a git repository (it can be an empty one, that you create using `git init .`)
 2. Create the repository using `hub create marcusoft/salt-jsfs-reactstarter-vt19`
-3. You will need to login in with the credentials you access the saltsthlm organisation
+3. You will need to login in with the credentials you access the saltsthlm organization
 4. Now make a “bare” clone of the template repository `git clone --bare https://github.com/marcusoft/salt-jsfs-reactstarter`
    1. By adding a flag `--single-branch` we can ensure that we only copy the master branch (which is default, or by add a name). This what we need for the most cases and hence the script (below) has this set.
 5. Now do: `cd salt-jsfs-reactstarter.git`
@@ -97,7 +97,7 @@ rm -rf aTemporaryPlace
 cd $cwd
 ```
 
-And then run it with `bash cloneRepository.sh organization orginal-repo new-repo`, for example `bash cloneRepository.sh marcusoftnet salt-jsfs-reactstarter salt-jsfs-reactstarter`.
+And then run it with `bash cloneRepository.sh organization original-repo new-repo`, for example `bash cloneRepository.sh marcusoftnet salt-jsfs-reactstarter salt-jsfs-reactstarter`.
 
 ## Summary
 

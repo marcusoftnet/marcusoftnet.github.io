@@ -125,7 +125,7 @@ Ok – the chart is thankfully a bit simpler to create, now that we have all the
    3. Select the “Lead time” series and set the “Point size” to 7 px and select a good shape
    4. Select the “Lead time” series and select “Custom” which will pick up our Slug. It will display the value when you hover over it. You can remove the data label if you find it cluttered. You can always enable it again later.
 6. Select Legend and put the legend at the bottom.
-7. You can fiddle around with gridlines for the axis to make it more readable, to your heart's content.
+7. You can fiddle around with grid lines for the axis to make it more readable, to your heart's content.
 
 When that is done you should have something that looks like this.
 

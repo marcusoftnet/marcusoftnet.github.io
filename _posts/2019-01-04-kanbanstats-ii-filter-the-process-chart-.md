@@ -31,7 +31,7 @@ Also, I’m going to add this filtering-capability, so that we can filter on oth
 
 ## Setting it up
 
-Just for clarity, I will do this as a separate tab calculating lead times “Leadtimes with filters”. I created it by making a duplicate of the “Lead time calculations”-tab. I kept the chart (that got copied) that is already showing the data in a nice way, but I changed the title to “Filtered lead times” to know what was what.
+Just for clarity, I will do this as a separate tab calculating lead times “Lead times with filters”. I created it by making a duplicate of the “Lead time calculations”-tab. I kept the chart (that got copied) that is already showing the data in a nice way, but I changed the title to “Filtered lead times” to know what was what.
 
 To get some more data to filter on I added a new column, copying over the “Size”-column from the “Raw data”-tab.
 
@@ -129,7 +129,7 @@ Ok - less philosofy and more doing.
   - The URL can be picked up by showing the filter (Data -> Filter views-> Estimated to S for example). See how the URL in the address bar changed to have a `&fvid=` at the end.
     Select the whole address and use that as the first parameter
   - The name is just a name for the filter `Only Size S` for example
-  - The full forumla will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
+  - The full formula will look something like `=HYPERLINK("https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/edit#gid=918968025&fvid=2092689969", "Only Size S")`
 - Repeat for all views.
 
 An user can now click one of those links and get the chart filtered.
@@ -147,7 +147,7 @@ I need to show to export the chart as a picture as well, because that could be h
 
 ## Summary
 
-Ok that last part was a bit dissapoiting. Let's move to another simpler world in the [next post](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
+Ok that last part was a bit disappointing. Let's move to another simpler world in the [next post](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) where we will calculate throughput; how much gets done per time unit.
 
 In this post we have given the user a bunch of opportunities in how to filter the data and have the charts update to reflect the filter.
 
