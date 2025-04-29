@@ -33,7 +33,7 @@ And thus, the Kondo-index was born.
 
 ## A Primer on Marie Kondo
 
-For those unfamiliar with Marie Kondo, she is a Japanese organizational consultant whose methodology has garnered widespread acclaim. Through her books and Netflix series, she advocates for decluttering and organizing one's living space to promote joy and serenity.
+For those unfamiliar with Marie Kondo, she is a Japanese organizational consultant whose methodology has garnered widespread acclaim. Through her books and Netflix series, she advocates for de-cluttering and organizing one's living space to promote joy and serenity.
 
 Her guiding question is simple yet profound:
 

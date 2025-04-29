@@ -35,7 +35,7 @@ Percentiles offer a superior means of gauging data distribution, providing inval
 
 Armed with this insight, I embarked on a journey to recalibrate my process metrics, leveraging the versatility of Google Sheets' [QUERY](https://support.google.com/docs/answer/3093343?hl=en&authuser=0) function to streamline data analysis.
 
-## Reimagining Lead Time Analysis
+## Re-imagining Lead Time Analysis
 
 I revamped my lead time analysis, leveraging percentiles to provide more accurate forecasts. By calculating percentile values, I could offer probabilistic estimates of completion time—a marked improvement over simplistic averages.
 
@@ -49,7 +49,7 @@ My journey culminated in the creation of novel visualization tools, including a 
 
 ## Conclusion
 
-My recalibrated approach to process metrics represents a departure from conventional wisdom, embracing the transformative potential of percentiles over averages. As I continue to refine these methodologies, I invite fellow practitioners to join me on this journey of exploration and discovery.
+My re-calibrated approach to process metrics represents a departure from conventional wisdom, embracing the transformative potential of percentiles over averages. As I continue to refine these methodologies, I invite fellow practitioners to join me on this journey of exploration and discovery.
 
 [Access the updated Google Sheets template here](https://docs.google.com/spreadsheets/d/1lmlelcMdvo1SvQ0JZXraGYQxnZ5TNZ5qxUj5CapJn40/edit#gid=1896547007) and embark on your own voyage of process optimization.
 
