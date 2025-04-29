@@ -14,7 +14,7 @@ This weekend has been a weekend of reclamations; i've been around the
 several stores demanding different stuff to be replaced. It's been beds
 (IKEA), whisk (Åhléns), shoes (Wedins, they lasted about two months...)
 and finally phones (yes,
-[again](http://marcushammarberg.blogspot.com/2007/10/non-exsisting-service-quality-at-phone.html)) -
+[again](https://www.marcusoft.net/2007/10/non-exsisting-service-quality-at-phone.html)) -
 i'll get back to the phone-part.
 
 So first of all this makes me wonder; is the quality level of things
@@ -28,7 +28,7 @@ cut a few corners, put things faster on the market and hope that no-one
 will notice or at least don't have the strength or will to complain.
 
 So now to my mobile-phone. Yes again. Read [this
-post](http://marcushammarberg.blogspot.com/2007/10/non-exsisting-service-quality-at-phone.html)
+post](https://www.marcusoft.net/2007/10/non-exsisting-service-quality-at-phone.html)
 for complete story up to now. Well - since the phone still is no better
 and I really need a working phone in these baby-waiting-times, I thought
 that I would make a last push.

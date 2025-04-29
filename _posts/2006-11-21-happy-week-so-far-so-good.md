@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/happy-week-so-far-so-good.ht
 
 ![Smiley](/img/smiley.jpg)
 
-Well, well, well—this [happy week stuff](http://marcushammarberg.blogspot.com/2006/11/be-good.html) seems to be working... One day with no anger and everything is dandy. Didn't take too much effort either.
+Well, well, well—this [happy week stuff](https://www.marcusoft.net/2006/11/be-good.html) seems to be working... One day with no anger and everything is dandy. Didn't take too much effort either.
 
 I even managed to handle some bumps in the road yesterday, with some laughter and dancing (?!?!) instead of digging graves. There might be something here.
 

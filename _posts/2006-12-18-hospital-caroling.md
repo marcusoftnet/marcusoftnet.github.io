@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2006/12/hospital-caroling.html
 
 When I wrote
 the list over [weird things to do this
-weekend](http://marcushammarberg.blogspot.com/2006/12/strange-thing-on-agenda.html)
+weekend](https://www.marcusoft.net/2006/12/strange-thing-on-agenda.html)
 i forgot the most heartwarming thing; yesterday I went to the St Görans
 Hospital with Elin and a friend. Elins father works there as a hospital
 priest. We went around about 5 floors and sung carols and some

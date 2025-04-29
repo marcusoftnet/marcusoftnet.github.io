@@ -16,7 +16,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/04/how-to-get-equivalent-proxy-
 
 
 After reading the great patterns book [i was talking about
-earlier](http://marcushammarberg.blogspot.com/2008/04/great-book-head-first-design-patterns.html)
+earlier](https://www.marcusoft.net/2008/04/great-book-head-first-design-patterns.html)
 i soon ran into a problem that at first seemed pattern-like but was not
 after some examination.
 
@@ -26,7 +26,7 @@ Integrator](http://www.microsoft.com/technet/archive/transsrv/mtscomti.mspx).
 The "problem" is that the department that is responsible for the
 integration is creating a web service for each program ("method") we are
 accessing. I brushed on this in an [earlier
-post](http://marcushammarberg.blogspot.com/2008/04/naming-service-reference-to-get.html)
+post](https://www.marcusoft.net/2008/04/naming-service-reference-to-get.html)
 about naming those web services.
 
 A lot of the stuff we are sending back and forth are equivalent but not

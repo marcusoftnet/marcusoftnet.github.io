@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/08/new-better-refactoring-suppo
 ---
 
 
-As I've [written before](http://marcushammarberg.blogspot.com/2007/06/refactoring-support-for-vb.html) the refactoring support in Visual Studio 2005 is non-existing (or at least very very bad) for Visual Basic.
+As I've [written before](https://www.marcusoft.net/2007/06/refactoring-support-for-vb.html) the refactoring support in Visual Studio 2005 is non-existing (or at least very very bad) for Visual Basic.
 
 So we have to settle with third party products. The best I've found is Refactor! but it's not very good either (my studio hangs from time to time after installing Refactor!).
 

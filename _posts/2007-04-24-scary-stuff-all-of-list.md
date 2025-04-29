@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/04/scary-stuff-all-of-list.html
 
 OK,
 the weekend is over (yes, prolonged I know) and my [list of scary
-stuff](http://marcushammarberg.blogspot.com/2007/04/also-i-am-now-entering-one-of-more.html)
+stuff](https://www.marcusoft.net/2007/04/also-i-am-now-entering-one-of-more.html)
 is now down to almost nothing. Which I take that I am not afraid of
 nothing anymore - good!
 
@@ -30,7 +30,7 @@ spoiled the order of the program. From what I heard in the audience that
 didn't interfere much. The band was also in excellent form. Good to
 hear!
 
-Yesterday, Monday, was a sad day when the funeral of [Bengt Eklund](http://marcushammarberg.blogspot.com/2007/04/bengt-eklund.html)
+Yesterday, Monday, was a sad day when the funeral of [Bengt Eklund](https://www.marcusoft.net/2007/04/bengt-eklund.html)
 took place. The service was very nice(?) and a lot of fitting and good
 music was played. There was a lot of tears and sobbing though, and the
 farewell from the band is a memory that will stay with me forever. Thank

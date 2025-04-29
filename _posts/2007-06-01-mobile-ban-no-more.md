@@ -14,7 +14,7 @@ Oh - how i
 love to be right...
 
 A few months back I was very upset about the [ban of
-mobiles-phones](http://marcushammarberg.blogspot.com/2007/01/mobilephones-forbidden-on-subway-in.html)
+mobiles-phones](https://www.marcusoft.net/2007/01/mobilephones-forbidden-on-subway-in.html)
 on the subway and buses in Stockholm.
 
 In that post I also wrote that we would laugh ("No really, I promise.

@@ -16,6 +16,6 @@ blogger_orig_url: https://www.marcusoft.net/2007/08/marcus-model_27.html
 
 ![Me holding a euphonium](/img/eufon_f_N6396.jpg)
 
-The pictures from [last week's photo session](http://marcushammarberg.blogspot.com/2007/08/marcus-model.html) for Avega has arrived. I'll try make them smaller in a while - these are very big. Sorry.
+The pictures from [last week's photo session](https://www.marcusoft.net/2007/08/marcus-model.html) for Avega has arrived. I'll try make them smaller in a while - these are very big. Sorry.
 
 I am quite happy with the outcome - just think what some editing in PhotoShop can accomplish ;)

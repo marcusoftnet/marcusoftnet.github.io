@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/04/tdd-how-is-it-done-vol-2.htm
 
 When
 digging around for TDD stuff I have started [a small
-series](http://marcushammarberg.blogspot.com/2007/04/tdd-how-is-it-done.html)
+series](https://www.marcusoft.net/2007/04/tdd-how-is-it-done.html)
 (?) about how to actually implementing the good ideas and promises from
 TDD.
 

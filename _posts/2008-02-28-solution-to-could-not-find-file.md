@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/02/solution-to-could-not-find-f
 
 Here is the solution to my previous posting [Could not find file
 'Microsoft.Windows.CommonLanguageRuntime error for
-testprojects](http://marcushammarberg.blogspot.com/2008/02/could-not-find-file-microsoftwindowscom.html).
+testprojects](https://www.marcusoft.net/2008/02/could-not-find-file-microsoftwindowscom.html).
 
 As always it is simple when you know how. You simply uncheck the Enable
 ClickOnce security settings-checkbox under

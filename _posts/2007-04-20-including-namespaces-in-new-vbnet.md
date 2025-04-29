@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/04/including-namespaces-in-new-
 ---
 
 (UPDATE 2007-04-26 after reading this see
-<http://marcushammarberg.blogspot.com/2007/04/chose-your-battles.html>)
+<https://www.marcusoft.net/2007/04/chose-your-battles.html>)
 
 When converting myself from C# to VB.NET I found one thing that annoyed
 me very much; when you create a new class in VB.NET the namespace is not

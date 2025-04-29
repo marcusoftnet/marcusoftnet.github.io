@@ -12,28 +12,19 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-900809608655174297
 blogger_orig_url: https://www.marcusoft.net/2007/05/battle-of-tfs-build-script.html
 ---
 
-I
-have under the last days trying to get our build script to work....
+I have under the last days trying to get our build script to work....
 
-What we are trying to do is simple enough, but I can't understand
-how to use the build mechanism in Team System to do what I want... We
-want to do the following:
+What we are trying to do is simple enough, but I can't understand how to use the build mechanism in Team System to do what I want... We want to do the following:
 
 - Compile all projects
 - Update some config-files
 - Run VSTS-tests
-- Publish a ClickOnce-application and deploy
-  it to a "latest version" folder
+- Publish a ClickOnce-application and deploy it to a "latest version" folder
 - Generate documentation
 
-It's the ClickOnce-part that's not working and
-="blsp-spelling-corrected">I've
-got an confirmation from Microsoft that what we want to do not is
-supported by default in VSTS. You need some third part
-products.
+It's the ClickOnce-part that's not working and I've got an confirmation from Microsoft that what we want to do not is supported by default in VSTS. You need some third part products.
 
-I think I am a solution in the tracks but there is still some things
-left. I'll post a solution when (if???) I find it.
+I think I am a solution in the tracks but there is still some things left. I'll post a solution when (if???) I find it.
 
 In my research so far I have had great use of the following resources:
 

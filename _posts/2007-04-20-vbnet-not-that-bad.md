@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/04/vbnet-not-that-bad.html
 Just for
 the record I also need to add a small notice as an answer to [my
 battering of
-VB.NET](http://marcushammarberg.blogspot.com/2007/03/vbnet-or-c.html)....
+VB.NET](https://www.marcusoft.net/2007/03/vbnet-or-c.html)....
 It's not to bad actually.
 
 I switched syntax in about a day and feel quite at home with it now. A

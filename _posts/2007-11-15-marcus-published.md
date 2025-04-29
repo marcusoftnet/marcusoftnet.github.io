@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/11/marcus-published.html
 Today was a proud day for me as I for the first time ever was
 published. I have written the commentaries for Gothenburg
 Brass Bands last CD, [In Perfect
-Peace](http://marcushammarberg.blogspot.com/2007/10/in-perfect-peace.html).
+Peace](https://www.marcusoft.net/2007/10/in-perfect-peace.html).
 And now it has been
 [released](http://www.worldofbrass.eu/acatalog/24884.html).
 

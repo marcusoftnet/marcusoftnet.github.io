@@ -19,7 +19,7 @@ would evolve to this. Here are some interesting (?) facts and statics.
 - 39 people has commented these posting
 - 7404 pages has been served to 1667 different visitors
 - Top content is the sketch [Mor i
-  skutan](http://marcushammarberg.blogspot.com/2007/08/mor-i-skutan.html)
+  skutan](https://www.marcusoft.net/2007/08/mor-i-skutan.html)
   with 168 hits
 - Best visitor day was 2007-10-15 with 98 different visitors
 - I've changed the layout for the blog 4 times (if I remember

@@ -13,9 +13,9 @@ blogger_orig_url: https://www.marcusoft.net/2008/01/phone-house-disapointment-st
 OK - as you all know I am quite disappointed with the Phone House
 service quality and the way the treat their customers. You can read
 about it
-[here](http://marcushammarberg.blogspot.com/2008/01/quality-reclamation-and-phones.html)
+[here](https://www.marcusoft.net/2008/01/quality-reclamation-and-phones.html)
 and
-[here](http://marcushammarberg.blogspot.com/2007/10/non-exsisting-service-quality-at-phone.html).
+[here](https://www.marcusoft.net/2007/10/non-exsisting-service-quality-at-phone.html).
 And try out this funny query at
 [Google](http://www.google.com/search?hl=sv&q=phone+house+Service+Quality+&btnG=S%C3%B6k&meta=)
 where I am one of the top hits with a not very flattering post.

@@ -19,7 +19,7 @@ appear in the toolbox for you to use in all your forms. Everbody is
 happy!
 
 But when you put your windows application project into a [solution
-folder](http://marcushammarberg.blogspot.com/2006/11/well-structured-projects-in-visual.html)
+folder](https://www.marcusoft.net/2006/11/well-structured-projects-in-visual.html)
 this doesn't work anymore... This is [confirmed by
 Microsoft](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=144156)
 and not corrected with Visual Studio 2005 SP1.

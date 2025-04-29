@@ -11,11 +11,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/04/more-black-dyke-live-video.h
 ---
 
 
-My
-God - they are producing at an unprecedented speed right now.
-Here are another concert, with some truly great music:
+My God - they are producing at an unprecedented speed right now. Here are another concert, with some truly great music:
 
 - <http://video-2.leedsmet.ac.uk/View.aspx?ID=1170>
-- <http://video-2.leedsmet.ac.uk/View.aspx?ID=1171> (The <span
-    id="SPELLING_ERROR_1" class="blsp-spelling-error">Engima
-    Variations!!!)
+- <http://video-2.leedsmet.ac.uk/View.aspx?ID=1171> (The Engima Variations!!!)

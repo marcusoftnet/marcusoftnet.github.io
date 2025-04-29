@@ -27,7 +27,7 @@ database.
 
 So we thought that making the calls, to the internal web services, under
 system account would solve the problem. But then the [double hop
-problem](http://marcushammarberg.blogspot.com/2006/12/good-information-concering-double-hop.html)
+problem](https://www.marcusoft.net/2006/12/good-information-concering-double-hop.html)
 kicked in and the credentials will "disappear" when going to the
 database, resulting in the dreaded "User ('null')" error message from
 SQL Server.

@@ -12,14 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/09/tfs-useful-links.html
 ---
 
 
-Really, really in a hurry right now. Cannot withhold these two great
-links with answers to some very common and annoying</span> problems with Visual
-Studio Team System (="blsp-spelling-error">VSTS</span>) and Team Foundation Server
-(="blsp-spelling-error">TFS</span>):
+Really, really in a hurry right now. Cannot withhold these two great links with answers to some very common and annoying problems with Visual Studio Team System) and Team Foundation Server:
 
-- [How to run tests in a build without test <span
-    id="SPELLING_ERROR_3" class="blsp-spelling-error">metadata</span>
-    files and test lists (.vsmdi</span>
-    files)](http://blogs.msdn.com/buckh/archive/2006/11/04/how-to-run-tests-without-test-metadata-files-and-test-lists-vsmdi-files.aspx)
-- [Beware the Team Test VSMDI</span>
-    file](http://blogs.vertigosoftware.com/teamsystem/archive/2006/06/23/Beware_the_Team_Test_VSMDI_file.aspx)
+- [How to run tests in a build without test metadata files and test lists (.vsmdi files)](http://blogs.msdn.com/buckh/archive/2006/11/04/how-to-run-tests-without-test-metadata-files-and-test-lists-vsmdi-files.aspx)
+- [Beware the Team Test VSMDI file](http://blogs.vertigosoftware.com/teamsystem/archive/2006/06/23/Beware_the_Team_Test_VSMDI_file.aspx)

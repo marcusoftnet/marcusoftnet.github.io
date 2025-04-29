@@ -11,7 +11,7 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/babies-and-their-parents-ii.
 ---
 
 When I wrote about [babies and their
-parents](http://marcushammarberg.blogspot.com/2006/11/babies-and-parents.html)
+parents](https://www.marcusoft.net/2006/11/babies-and-parents.html)
 it caused a small stir here at the office, of course from the parents
 here. Apparently babies _will_ take up all your spare time.
 

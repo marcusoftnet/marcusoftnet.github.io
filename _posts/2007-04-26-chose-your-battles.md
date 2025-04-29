@@ -17,7 +17,7 @@ and when to keep trying a little while longer... that's my lesson from
 this week.
 
 Last friday (?) [i wrote about namespaces in
-VB.NET](http://marcushammarberg.blogspot.com/2007/04/including-namespaces-in-new-vbnet.html)
+VB.NET](https://www.marcusoft.net/2007/04/including-namespaces-in-new-vbnet.html)
 and how to make them appear a the top of the class file automatically.
 Well I learned a lot about VB since then (actually!) and one of the
 things are the philosophy of VB.NET. VB.NET comes from a long row of

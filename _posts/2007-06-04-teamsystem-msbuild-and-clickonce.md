@@ -21,7 +21,7 @@ Firstly building build scripts for Team Systems are more like responding
 to events that gets fired by the Team System build engine, than writing
 the flow yourself. Which events get fired and which order they fire in
 can be found
-[here](http://marcushammarberg.blogspot.com/2007/05/teamsystem-builds.html).
+[here](https://www.marcusoft.net/2007/05/teamsystem-builds.html).
 
 Also - the start of building build scripts with Team System is a wizard,
 which is nice but all that it's really doing is generating the stub for

@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5378186820892078226
 blogger_orig_url: https://www.marcusoft.net/2007/04/bengt-eklund.html
 ---
 
-This weekend a very inspirational and important brass teacher was taken home. Although I have known about his [decease for quite some while now](http://marcushammarberg.blogspot.com/2006/11/cancer.html) it'salways very sad when the end comes.
+This weekend a very inspirational and important brass teacher was taken home. Although I have known about his [decease for quite some while now](https://www.marcusoft.net/2006/11/cancer.html) it'salways very sad when the end comes.
 
 Bengt was one of those people that stick in your conscience from the first time you meet him. For my first rehearsal with [GBB](http://www.goteborgbrassband.org.se/) I was actually scared of him, but that all went away after just meeting him outside the rehearsal room. Since then Bengt has continued to fascinate me, give me valuable tips (both for playing and life) and being a great friend.
 

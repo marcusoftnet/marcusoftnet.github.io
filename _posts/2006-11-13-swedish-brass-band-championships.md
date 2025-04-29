@@ -22,7 +22,7 @@ Also to my prediction the Gothenburg Brass band went home with the first
 price. I am quite proud of getting the first three band, in the right
 order a month ahead of the competition. The only thing I missed was the
 points. [See for
-yourself](http://marcushammarberg.blogspot.com/2006/10/swedish-brass-band-championships.html)
+yourself](https://www.marcusoft.net/2006/10/swedish-brass-band-championships.html)
 
 To my opinion Gothenburg was best on the own choice program (the part i
 heard) - but not with as much as I expected. Windcorp really made a very

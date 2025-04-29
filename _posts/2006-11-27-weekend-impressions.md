@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/weekend-impressions.html
 ---
 
 The [silly
-season](http://marcushammarberg.blogspot.com/2006/11/christmas-season.html)
+season](https://www.marcusoft.net/2006/11/christmas-season.html)
 i wrote about is taking off! This weekend we had two very contrasting
 gigs with the VasaBand (Salvation Army).
 

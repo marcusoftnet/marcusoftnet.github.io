@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/08/sandcastle-revisted.html
 
 As i
 [wrote
-earlier](http://marcushammarberg.blogspot.com/2007/08/ndoc-is-dead-long-live-sandcastle.html)
+earlier](https://www.marcusoft.net/2007/08/ndoc-is-dead-long-live-sandcastle.html)
 i have tried out the CTP version of Sandcastle. And it is a CTP by which
 i mean that it's not a finished product. But I looks very promising i
 must say.

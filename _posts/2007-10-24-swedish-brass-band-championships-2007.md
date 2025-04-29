@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/10/swedish-brass-band-champions
 
 OK - it is time to do my predictions for the Swedish Brass Band
 Championships. I have already [brushed on the
-subject](http://marcushammarberg.blogspot.com/2007/05/gteborg-brass-band-aftermath.html)
+subject](https://www.marcusoft.net/2007/05/gteborg-brass-band-aftermath.html)
 but now its really closing in (three weeks) so I though you might wanna
 know how it will happen.
 
@@ -28,7 +28,7 @@ altogether which has to do with a lot of professional musicians in the
 band. They will - and often must - prioritize differently and this is a
 "spare time" thing. I hate to be one of those people that says: "i said
 so" but look at the end of [this post from a year
-back](http://marcushammarberg.blogspot.com/2006/10/swedish-brass-band-championships.html)
+back](https://www.marcusoft.net/2006/10/swedish-brass-band-championships.html)
 Too bad that it won't be much of a fight.
 
 [Solna Brass](http://www.solnabrass.com/) will come. And they will have
