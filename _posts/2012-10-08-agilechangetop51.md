@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2012/10/agilechangetop51.html
 
 This is a topic I ~~rant~~ talk about quite a lot nowadays it seems. I feel like an old LP with a scratch (just that analogy probably dates me pretty good I guess). But I do it because I see it missing from a lot of agile change initiatives, big and small. And they are then doomed to fail.
 
-Just to be sure - I make no claim of being the inventor of this; I've picked it up here and there and everywhere. Not even sure where anymore. Half [Lean](http://en.wikipedia.org/wiki/Lean_software_development), half [agile](http://www.agilemanifesto.org/), half [rightshifting](http://flowchainsensei.wordpress.com/rightshifting/) and half the [Kanban Method](http://agilemanagement.net/index.php/Blog/the_principles_of_the_kanban_method) I guess. For whatever I've learned I'm eternally grateful. What I'm saying is this; if anything strikes you as good it was probably invented elsewhere. If it's bad - it's probably me.
+Just to be sure - I make no claim of being the inventor of this; I've picked it up here and there and everywhere. Not even sure where anymore. Half [Lean](http://en.wikipedia.org/wiki/Lean_software_development), half [agile](http://www.agilemanifesto.org/), half [right-shifting](http://flowchainsensei.wordpress.com/rightshifting/) and half the [Kanban Method](http://agilemanagement.net/index.php/Blog/the_principles_of_the_kanban_method) I guess. For whatever I've learned I'm eternally grateful. What I'm saying is this; if anything strikes you as good it was probably invented elsewhere. If it's bad - it's probably me.
 
 In this post, I wanted to quickly write down some ways of making sure that your agile change initiative succeeds. But these are not ideas made up in my head (MY GOD - the horrors...) but things that I've tried and failed miserably with. Over and over. And learned a lot from. Here we go - in order of importance:
 
@@ -45,7 +45,7 @@ Finally, and this is a bit threatening and I don't like it, but I think that you
 
 > If Acme Inc enters our market they will pass us within 3 months
 
-These are good reasons for change. And when you have a reason like this in place you can trust that everybody understands and is willing(-inger) to make a long-lasting change. It's turning the reasoning on its head:
+These are good reasons for change. And when you have a reason like this in place you can trust that everybody understands and is willing to make a long-lasting change. It's turning the reasoning on its head:
 
 > Release every week?! We can't do that now. We can't do anything about it either.
 
