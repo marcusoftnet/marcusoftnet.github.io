@@ -38,7 +38,7 @@ But we never used the Activation date. And with that we can get two more data po
 
 * `Activation date - Start date = time in backlog` . This is the time from when the ticket was created and until we started to work on it.
   Typically tickets spend a lot of time waiting in the backlog before we start to work on them. I've [written](http://www.marcusoft.net/2016/04/fear-of-loosing-important-things.html) [several](http://www.marcusoft.net/2016/06/backlog-and-features.html) [times](http://www.marcusoft.net/2017/05/impact-and-backlogs.html), about the bad things a long backlog brings that it brings with it, but here's a way to show this in numbers
-* `Closed date - Activation Date = time on board`. This gives us the time when the ticket has been on the board. That doesn't necessarily mean that we worked with it (it can have been blocked or down prioritised etc.), but at least it's in been under our attention.
+* `Closed date - Activation Date = time on board`. This gives us the time when the ticket has been on the board. That doesn't necessarily mean that we worked with it (it can have been blocked or down prioritized etc.), but at least it's in been under our attention.
 * Also, we can get a chance to see how big part of the lead time that is made up of waiting respectively working.
 
 In later posts, we can count stuff that is still in the backlog, but we can do that now since that data is not included yet.

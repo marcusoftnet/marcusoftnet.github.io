@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marcus list of how to get problem in a system developement project
+title: Marcus list of how to get problem in a system development project
 date: 2007-12-19T12:47:00.000Z
 author: Marcus Hammarberg
 tags:

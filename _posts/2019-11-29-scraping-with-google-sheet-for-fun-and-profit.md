@@ -77,7 +77,7 @@ On my clipboard. Perfect. This kids is an ancient way to do query selectors in a
 Back to my Google Scraping automation sheet I created a new column, D and enter the following formula:
 
 ```text
-=IMPORTXML(C2, "//*[@id='searchCountPages']") 
+=IMPORTXML(C2, "//*[@id='searchCountPages']")
 ```
 
 * C2 - holds the URL for my search of, for example, angular and node ([https://se.indeed.com/jobb?q=angular%20node&l=stockholm](<https://se.indeed.com/jobb?q=angular> node&l=stockholm))

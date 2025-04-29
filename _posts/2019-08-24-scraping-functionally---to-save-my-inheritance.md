@@ -330,7 +330,7 @@ Promise.all(
 ).then(console.log);
 ```
 
-That works, and it's blazingly fast too! Async is my lightsaber!
+That works, and it's blazingly fast too! Async is my light saber!
 
 Also, I'm kind of starting to love `Promise.all`. This way I can map over asynchronous functions and await all of them before I proceed to my next `.then()`.
 
@@ -363,7 +363,7 @@ Promise.all(
   .then(console.log);
 ```
 
-If we wanted we could encapsulate that in a promisfied version, to make our code-chain even nicer to read:
+If we wanted we could encapsulate that in a promisified version, to make our code-chain even nicer to read:
 
 ```javascript
 const flattenArray = async (arr) => {

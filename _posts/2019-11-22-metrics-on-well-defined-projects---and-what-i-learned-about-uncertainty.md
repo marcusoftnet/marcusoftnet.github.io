@@ -23,7 +23,7 @@ This particular project was a bit different and hence perfect to make a point ab
 
 * I knew exactly what needed to be done - record 63 lectures
 * I knew exactly what went into each part - the material and slides was created before I started
-* It was an area in which I was an expert - I've created the entire boot camp together with [Jakob Leczinsky](https://twitter.com/jaklec) and I have made many screencasts and presentations over the years. [Some are recorded](https://www.youtube.com/user/MarcusoftNet/videos)
+* It was an area in which I was an expert - I've created the entire boot camp together with [Jakob Leczinsky](https://twitter.com/jaklec) and I have made many screencast and presentations over the years. [Some are recorded](https://www.youtube.com/user/MarcusoftNet/videos)
 
 But still, the uncertainty bit me and it was bigger than I (we) thought, took longer in some regards and shorter in others and in general revealed a lot about things we didn't really think about.
 
@@ -65,7 +65,7 @@ Maybe there is no real correlation between length of the hours recorded and prog
 
 Or put differently; just the number of lectures is not much worse than tracking hours recorded.
 
-Come to think about it - what is the real value here? That would be how good the students will pick up the content. That is the real value, but also that has a much longer feedback loop. Also for this "record all the lectures"-project it's not a really good indicator. Maybe if I am rather instead trac... {Marcus fades away in an infinite loop of reasoning}
+Come to think about it - what is the real value here? That would be how good the students will pick up the content. That is the real value, but also that has a much longer feedback loop. Also for this "record all the lectures"-project it's not a really good indicator. Maybe if I am rather instead track... {Marcus fades away in an infinite loop of reasoning}
 
 **Lesson**: By starting to track anything you will trigger good discussions about what the real value of a project it is. Track something and be ready to change.
 

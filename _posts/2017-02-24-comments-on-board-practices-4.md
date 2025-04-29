@@ -65,7 +65,7 @@ Why is it a good idea to use different coloured stickies in the first place? Bec
 
 It can also help us know how to act and behave differently with different type of work. You could say that there's different policies for how we are going to treat work of a certain class, known as classes of service, see chapter 8 of [Kanban In Action](http://bit.ly/theKanbanBook).
 
-My recommendation is to use different colours to do just that; know what to do with the work at hand. I've often seen teams use different colours for work that is going to be prioritised and worked on in the same way. It either ends in confusion or that we stop using different colours.
+My recommendation is to use different colours to do just that; know what to do with the work at hand. I've often seen teams use different colours for work that is going to be prioritized and worked on in the same way. It either ends in confusion or that we stop using different colours.
 
 In the great book [How to measure anything](http://www.marcusoft.net/2014/12/what-ive-learned-from-how-to-measure-anything.html) Dr Hubbard says something along the lines:
 
@@ -75,7 +75,7 @@ He then goes on and ask great question to help to know if it's a good idea to me
 
 > What decisions are we going to make differently based of this metric - and how
 
-I think that's a really good question to ask about colours on our stickies too; sure we'll write everything from Department X on green stickies - but why? Are we going to prioritise them over other things? Are they to be handled with any special attention?
+I think that's a really good question to ask about colours on our stickies too; sure we'll write everything from Department X on green stickies - but why? Are we going to prioritize them over other things? Are they to be handled with any special attention?
 
 If not - I say it's better to write them on normal color. Until we know if and how we are going to behave differently with them.
 
@@ -86,7 +86,7 @@ This is related to my advice above. Start as simple as possible. I have been don
 Typically you need only 2 colours of stickies:
 
 * **Normal** - pale yellow is normal choice for this type of work. It's also easy to use since that color is abundant and commonly present too. It's also a very bland color, just as this is just normal attention needed.
-* **Prioritised, expedite or urgent** - red or pink is a normal choice for this work since that signals urgency (in most cultures). Make it stand out from whatever color your normal work has.  It's easy to find in most stores
+* **prioritized, expedite or urgent** - red or pink is a normal choice for this work since that signals urgency (in most cultures). Make it stand out from whatever color your normal work has.  It's easy to find in most stores
 
 There can of course be more fine-grained prioritisation needed but I've often found that it can be handled with the order of the stickies in the columns (top more important - lower less important).
 

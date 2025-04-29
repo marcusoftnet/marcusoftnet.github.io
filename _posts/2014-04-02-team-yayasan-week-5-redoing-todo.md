@@ -34,7 +34,7 @@ Right now we only had three columns: Todo, Doing and Done. Particulary the Todo-
 - We kept the Doing and Done columns (although I showed you what we did with the Done-column later)
 - The Todo column have a limit of max 6 items, we later changed that to 8.
 - We changed the name of "To do this week", meaning that this is imminent items that we have decided to do as soon as we're done doing the things in Doing.
-- The Todo column has a prioritised order from top to bottom.
+- The Todo column has a prioritized order from top to bottom.
 - When we put something in Todo we also set S, M or L on the item if it's not already classified. And note the date when it was put into the Todo-column.
 - We added a "Next" column before that. To better understand it we called it "Next month", meaning that this column contains stuff that is worthy our attention but not now. Usually this means work that we will start within a month. We write the items in the "Next month"-column on cards but there's no other requirements for them. There's no order either. Just a bunch of stuff.
 - Finally we added an Ideas-column where we could note down ideas. These can big project or small tasks. There's no order, just a couple rows of text. No cards even.

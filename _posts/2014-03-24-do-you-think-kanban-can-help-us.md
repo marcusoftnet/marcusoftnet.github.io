@@ -31,7 +31,7 @@ So we basically have a big list or queue of tasks with a certain priority/urgenc
 
 Management has asked me to take care of this and to make sure that there is a visual representation of work waiting in the queue and work being done. I immediately thought "Kanban!" but I'm not sure. All the examples I've read about kanban are in the context of a team all working on the same big project within a certain flow (eg. waiting -\analysis -\program -\check -\deploy -\done). Here we have multiple smaller projects (divided in smaller tasks) and each project is only worked on by one person.
 
-I thought about having a prioritised "Waiting" lane and then one lane per developer but I'm not really sure if this would work.
+I thought about having a prioritized "Waiting" lane and then one lane per developer but I'm not really sure if this would work.
 
 What do you think?
 

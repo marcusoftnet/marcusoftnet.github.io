@@ -109,7 +109,7 @@ rootApp.use(async (ctx, next) => {
 
 Using koa-mount I could then mount it under `/` using this expression `app.use(mount('/', rootApp))`
 
-### Fixing the orignal URL
+### Fixing the original URL
 
 I then ran into some follow-on problems from me cleaning up the code, that I now found when I mounted the different sub applications into my root application.
 

@@ -8,7 +8,7 @@ tags:
  - Programming
 ---
 
-In my `_posts` directory of this blog I have 1247 posts... Some of them are not very good or readable since they are WAY dated - I wrote the first in 2006. During these years I have also used a number of different tools and ways to write the blog (string with Blogger way back when). Much have changed. With the tooling and with me.
+In the `_posts` directory of this blog I have 1247 posts... Some of them are not very good or readable since they are WAY dated - I wrote the first in 2006. During these years I have also used a number of different tools and ways to write the blog (string with Blogger way back when). Much have changed. With the tooling and with me.
 
 One concrete example is that in my code editor now, I have instant and brilliant spell checking. I'm using [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) which seems to be the default choice for many.
 
