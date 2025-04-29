@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spell checking all my files"
+title: "Spell checking all my blog posts"
 author: "Marcus Hammarberg"
 date: 2025-04-23 04:00:00
 tags:
