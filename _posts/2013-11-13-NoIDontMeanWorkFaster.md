@@ -38,7 +38,7 @@ All of this is summed up with an excellent question, from my colleague and frien
 
 ### Why does it have to go so fast all the time?
 
-After really thinking long and hard about this I have come to realise that it really *should* flow faster, as fast as possible in fact. But not faster... let's come back to that last part and instead try to answer the question in the heading of this section.
+After really thinking long and hard about this I have come to realize that it really *should* flow faster, as fast as possible in fact. But not faster... let's come back to that last part and instead try to answer the question in the heading of this section.
 
 There's many reasons to strive to a faster flow, faster process but here are a few that I come back to:
 

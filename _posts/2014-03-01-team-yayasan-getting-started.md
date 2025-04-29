@@ -93,7 +93,7 @@ To make us remember who we worked for.
 Finally I added the keywords that we had on our site, on the wall too.
 Just as a reminder.
 
-During the week we didn't see any major differences. We worked each on our own stuff. One very disturbing thing was the people in the team was making sure MY task flowed quicker... A culture thing I suspect but I soon realised that and could avoid those situations.
+During the week we didn't see any major differences. We worked each on our own stuff. One very disturbing thing was the people in the team was making sure MY task flowed quicker... A culture thing I suspect but I soon realized that and could avoid those situations.
 
 I went out and created some laminated cards instead of using post-its.
 Post-its are expensive here and creating these reusable cards cost me about 2 packs of Post-its.

@@ -147,7 +147,7 @@ Probably you'll see one or two things where the difference is bigger. Those migh
 
 ### How we did it
 
-In our case we realised pretty soon that some activities we had in mind would actually improve other things. If we improved our lead time we will get better motivation in the team, and most likely more innovation would take place too, for example.
+In our case we realized pretty soon that some activities we had in mind would actually improve other things. If we improved our lead time we will get better motivation in the team, and most likely more innovation would take place too, for example.
 
 Here we made an over simplification - we started to list activities right off. And for a long time nothing got done. Again the gap between "best in Sweden during 2017", "let's improve lead times" and "implement continuous integration server" felt too far.
 

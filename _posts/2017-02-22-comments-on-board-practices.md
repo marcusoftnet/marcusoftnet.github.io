@@ -11,7 +11,7 @@ tags:
 
 It's very interesting to see how a practice goes from a nice idea to best practice and over to tradition. In my community, the software industry, things move very fast so I've seen many examples of this; simple things like formatting of code, background colors of editor all the way to architectural patterns - all of these become default usages and tradition, and sometime "the way it's done". Sometimes people calls it [cargo cult](https://en.wikipedia.org/wiki/Cargo_cult) which refers to that I often do things without really reflecting over why.
 
-When it comes to my field of practice; lean and agile there's bountyful examples of cargo culting, but in this series of post I wanted to examine a few very practical things that I often notices on how agile team uses their boards.
+When it comes to my field of practice; lean and agile there's bountiful examples of cargo culting, but in this series of post I wanted to examine a few very practical things that I often notices on how agile team uses their boards.
 
 It will be a little hit-list of my pet issues commonly found on agile/kanban-boards I've seen.
 
@@ -27,7 +27,7 @@ Let's start with a simple one - blocked should not be a column.
 
 ## Blocked is not a column
 
-Actually I could make this really short by refereing to an [old post I wrote a few years ago](https://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html) but I'll write down a few thoughts here. Maybe I've become wiser.
+Actually I could make this really short by referring to an [old post I wrote a few years ago](https://www.marcusoft.net/2014/05/waiting-should-be-note-and-not-column.html) but I'll write down a few thoughts here. Maybe I've become wiser.
 
 On many boards I've seen there's a special area or even column called "blocked". We move stuff in there as items that we are working on becomes blocked by others.
 
@@ -37,7 +37,7 @@ Blocked in the case of a board means that work cannot continue with this item (r
 
 ## Why do I comment on this?
 
-While it's a nice visualisation to move the item to a separate area, it shows us that the work is now being blocked, it bothers me in, at least, three ways;
+While it's a nice visualization to move the item to a separate area, it shows us that the work is now being blocked, it bothers me in, at least, three ways;
 
 Firstly we move it *from* the current position on our board. That means that once the blockage is fixed we have to move it back (and *remember* where it should go). The information that the sticky's position held is gone.
 
@@ -55,7 +55,7 @@ Thirdly - moving the sticky to the blocked-column doesn't convey any information
 
 ## What to fix/do instead?
 
-A simpler and better (in my opinion) to visulise blocked items is to leave it in place and put another sticky on top of the item, preferably in an attention-calling color (which color I leave as a creative exercise for you and your team).
+A simpler and better (in my opinion) to visualize blocked items is to leave it in place and put another sticky on top of the item, preferably in an attention-calling color (which color I leave as a creative exercise for you and your team).
 
 We can now write the reason for the original sticky being blocked as a description - or better yet what needs to be done before we can continue our work. I prefer the second, more goal-oriented approach.
 

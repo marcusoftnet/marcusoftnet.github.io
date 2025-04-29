@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/09/retreat-creative-silience.ht
 
 I am
 back from a very different weekend indeed. I was given the opportunity
-to take part in a retreat organised by our corps (congregation). That
+to take part in a retreat organized by our corps (congregation). That
 meant that we were 15 people going away to far-off place and were silent
 for the main part of the weekend.
 

@@ -17,7 +17,7 @@ My favourite quote is a simple one:
 
 I like it so much that I've already 2 years ago wrote a [blog post about that idea](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html), outlining why this is a good thing and how we can save a lot of effort and time in moving the information back and forth.
 
-The other week I realised that there's other, more subtle and viscous wastes in continuing to move the information to the authority (as we do now). In this post I will describe what that is and how to avoid it.
+The other week I realized that there's other, more subtle and viscous wastes in continuing to move the information to the authority (as we do now). In this post I will describe what that is and how to avoid it.
 
 <!-- excerpt-end -->
 

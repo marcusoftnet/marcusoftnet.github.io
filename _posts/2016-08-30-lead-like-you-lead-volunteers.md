@@ -12,7 +12,7 @@ tags:
 
 Have you ever said something profound and deep?
 
-No - me neither… or rather not on purpose. Sometimes though, when I look back I both realise that some things I said was actually pretty good - and also that I didn't really understand it when I said it.
+No - me neither… or rather not on purpose. Sometimes though, when I look back I both realize that some things I said was actually pretty good - and also that I didn't really understand it when I said it.
 
 I wanted to share such a moment with you and then explain why I think it was actually pretty good.
 

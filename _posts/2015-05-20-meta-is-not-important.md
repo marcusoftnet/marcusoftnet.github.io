@@ -24,7 +24,7 @@ I am completely absorbed by the [Reinventing Organizations](http://www.reinventi
 
 But one thing that stand out for all of the organizations that is researched is that the people in these *teal* organizations are not in the organizations because they are teal. They are there because they like the way they work.
 
-I'm betting that in [FAVI](http://www.favi.com/ang/index.php) there's not many people that are aware that they work in a teal organization. That's just meta-information. It happens to be the way FAVI is organised. The people in the organization like they work and want to become better in doing the work they do.
+I'm betting that in [FAVI](http://www.favi.com/ang/index.php) there's not many people that are aware that they work in a teal organization. That's just meta-information. It happens to be the way FAVI is organized. The people in the organization like they work and want to become better in doing the work they do.
 
 If you go to their web site they are not advertising the "teal" way of organizing. They just say that they create great products.
 

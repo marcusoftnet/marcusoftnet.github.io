@@ -11,7 +11,7 @@ tags:
 
 I've just attended [Agile Greece Summit](http://agilesummit.gr/) which was a wonderful event. Many awesome speaker, met a few of my heroes ([Linda Rising](http://lindarising.org/), [Michael Feathers](https://michaelfeathers.silvrback.com/), [David Snowden](http://cognitive-edge.com/our-people/dave-snowden/) and [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/)) and met new friends ([Portia Tung](https://twitter.com/portiatung), [Alison Coward](https://twitter.com/alisoncoward), [Lisi Hocke](https://twitter.com/lisihocke), [Gary Crawford](https://twitter.com/crawfrd) and [Gwen Diagram](https://twitter.com/gwendiagram), just to mention a few) and finally had many interesting and challenging conversations throughout the conference.
 
-All in all it was a very good event to attened, expertly organised by an awesome team and I consider myself lucky to have been here.
+All in all it was a very good event to attened, expertly organized by an awesome team and I consider myself lucky to have been here.
 
 As with many conferences an underlying theme starts to emerge from the different talks. I suspect we take inspiration from other speakers and conversations, but I've observed this too many times to think it's a coincidence.
 

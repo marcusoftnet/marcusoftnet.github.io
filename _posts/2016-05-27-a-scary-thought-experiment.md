@@ -45,7 +45,7 @@ I've actually asked this question to about 30 people already. Everyone answers i
 
 Let me finish the post with a series of questions.
 
-* Why would she create a company organised like the current project you are in?
+* Why would she create a company organized like the current project you are in?
 * What would she create instead?
 
   * What is the difference?
@@ -55,7 +55,7 @@ Let me finish the post with a series of questions.
 
   * Why did she set up the project like she did?
   * What is that organization optimised for?
-* Who believes that it is a good idea to be organised like we currently are?
+* Who believes that it is a good idea to be organized like we currently are?
   * Why?
   * If no one - why are we still doing it?
 

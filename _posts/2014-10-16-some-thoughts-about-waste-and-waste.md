@@ -19,7 +19,7 @@ blogger_orig_url: https://www.marcusoft.net/2014/10/some-thoughts-about-waste-an
 Every Lean practitioner goes through a phase of "waste elimination
 frenzy". At least the ones I've met. Ah, well.... I did at least.
 This usually happen in the beginning of your Lean journey when you
-realise that if you can remove waste the flow would be improved and
+realize that if you can remove waste the flow would be improved and
 value will be created faster and more effective.
 
 Now we go out on a hunt to find that pesky waste. Kill it!

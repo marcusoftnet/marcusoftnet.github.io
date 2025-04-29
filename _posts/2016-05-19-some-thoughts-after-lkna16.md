@@ -20,7 +20,7 @@ I wanted to jot down a few thoughts and comments.
 
 ## Thank you
 
-Since I was both a speaker and an attendee I got to experience the full features of the conference and I have to say that it was brilliantly organised. Thought out the two days + workshop day I didn't see or experience a single glitch and hiccup.
+Since I was both a speaker and an attendee I got to experience the full features of the conference and I have to say that it was brilliantly organized. Thought out the two days + workshop day I didn't see or experience a single glitch and hiccup.
 
 The [Lean Kanban team](http://leankanban.com/) really knows their stuff. I wonder what kind of methodology for organising things like this they use?
 
@@ -34,7 +34,7 @@ Throughout the two days there was a few themes, new and old, that at least I had
 
 [David Anderssons](http://www.djaa.com/) keynote was about the concept of [anti-fragility and creating robust, resilient and anti-fragile organizations](http://www.slideshare.net/agilemanager/creating-robust-resilient-antifragile-organizations-using-kanban). I've read some of his blog posts on this and I think this not only is a really interesting topic but also a worthy goal. The first basic service any organization can supply is to still be around, right? But to do that over time you very often need to adapt to new situations and needs. Sometimes, as shown in David's talk, you might need to abandon you original reason-to-be and become something new. IBM was a very interesting example of that (nowadays, out of PC, out of mainframe etc). This is was a anti fragile organization can do.
 
-This touches nicely on another idea that is very strong in the kanban community; metrics and models. I'm not personally strong in this, I realised after these days, but it's a strong trend to measure and track your progress and drive your improvements using models, not only the scientific method.
+This touches nicely on another idea that is very strong in the kanban community; metrics and models. I'm not personally strong in this, I realized after these days, but it's a strong trend to measure and track your progress and drive your improvements using models, not only the scientific method.
 
 But where then? What is better? HA - funny you should ask. I don't think I was in a single conversation that didn't end up talking about Why. Why are we doing this? How can we be more crisp in our communication of our purpose and making sure that everyone in the organization, or team even, pulls towards the same goal. I think metrics play a vital role here, but you have to use that tool with care since you "might just get what you measure".
 

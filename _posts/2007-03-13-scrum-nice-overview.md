@@ -25,5 +25,5 @@ Here's another good introduction site: <http://www.scrum-master.com/>,
 especially check out Ken Schwabers top ten tips
 
 Coming from the RUP-methodology I like the presentation but I also
-realise that this a bit against the whole "agile"-concept. In short - i
+realize that this a bit against the whole "agile"-concept. In short - i
 like it.

@@ -35,7 +35,7 @@ A log. Of back-work. Uncompleted and behind!
 
 In the whole setup of the word and concept, there's a negative ring (that I amplified greatly above :))
 
-Focusing on business impact is more positive. It holds opportunities and optimism. Impacts that we still can do, open spaces of unrealised potential.
+Focusing on business impact is more positive. It holds opportunities and optimism. Impacts that we still can do, open spaces of unrealized potential.
 
 Impact is also [defined more positive](https://www.google.se/search?q=definition+of+impacxt&oq=definition+of+impacxt&aqs=chrome..69i57j0l5.2391j0j4&sourceid=chrome&ie=UTF-8), I think:
 
@@ -47,7 +47,7 @@ There's a before and an after. Here's how it looked before we made our impact, h
 
 Notice the absence of a list, there's no order, there's no behind. It's just a set of impacts that we could try to get us closer to the goal. That is often a little bit hard to handle so why not organize it in a map which gives a visual representation and context to the different impacts we want to make.
 
-> Focusing on impacts implies focusing on opportunities and unrealised improvement opportunities. It is, at its core, positive.
+> Focusing on impacts implies focusing on opportunities and unrealized improvement opportunities. It is, at its core, positive.
 
 ## Mindless working of the backlog - know the goal
 

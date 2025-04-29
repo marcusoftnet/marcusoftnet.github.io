@@ -28,7 +28,7 @@ Because it should, right? We are putting this tag on the item for some reason. `
 
 > Hey, you that work with this thingy. Remember that this is a "Need investigation" item. I thought it would be great to know that, before you started.
 
-Putting a tag on the item, means that it is different from the other, untagged items. If we don't want people to behave differently then we should not tag it as something different either. Or inversly; putting the tag on all or many items means that everything is special which, as you know from Lego The Movie - means that no-one is special.
+Putting a tag on the item, means that it is different from the other, untagged items. If we don't want people to behave differently then we should not tag it as something different either. Or inversely; putting the tag on all or many items means that everything is special which, as you know from Lego The Movie - means that no-one is special.
 
 ## Obvious objection from the readers
 
@@ -40,6 +40,6 @@ Yes, your behavior about reporting changed. We wanted this item to be reported d
 
 Visualization is a powerful tool. We should use it wisely so that each thing we visualize is related to a change in behavior we want to see. Tagging work is such a visualization. For each tag, ask yourselves:
 
-> How do we want our behaivour to change based on an item being tagged with this.
+> How do we want our behavior to change based on an item being tagged with this.
 
 If you don't find any interesting answer - don't use that tag.

@@ -83,18 +83,16 @@ In order to do that we will use the [`VLOOKUP`-function](https://support.google.
 
 First - to get the name of the column per status.
 
-```
+```text
 =VLOOKUP(D2, $A:$B, 2, FALSE)
 ```
 
-* First parameter (`D2`) is the searchkey, in this case, a Status ("Active" for example)
+* First parameter (`D2`) is the search key, in this case, a Status ("Active" for example)
 * Second parameter (`$A:$B`) is the Search range, the columns to search. This is the mapping table we created before.
 * Third parameter (`2`) is the index for the value that we want to check. In our case 2 refers to the B column, where the Column-names are stored.
 * The last parameter (`FALSE`) indicates if the values are sorted or not. Not in our case.
 
 So basically we are looking up the column name for each status with a count.
-
-
 
 Ok - so now we know what column-name each column, with a count, has... now we can easily aggregate the total number of items in each _column_ .
 
@@ -102,7 +100,7 @@ First I get the `UNIQUE`-column names and put them into column `G` (`=SORT(UNIQU
 
 The total number of items per can now be calculated by summarizing all with a certain column name:
 
-```
+```text
 =SUMIF(F:F, G2, E:E)
 ```
 
@@ -110,14 +108,11 @@ The total number of items per can now be calculated by summarizing all with a ce
 * look for value `G2` (1 - Backlog, in our case)
 * And then summarize the values in the `E`-column
 
-Easy peasy.
-
-
+Easy-peasy.
 
 And we can now very easily make a chart that is a bit underwhelming:
 
 ![Queue length per column on the board](/img/queueLengthPerColumn.png)
-
 
 ## But what does that mean then?
 
@@ -157,11 +152,7 @@ In this post, we measured the length of each queue or column on the board. After
 
 There's still other data and dimensions that I haven't got to yet (like lead time for blocked items etc.) but I feel the need for historical data to do that and even with Queue length it's feeling underwhelming without plotting the changes over time. Just getting to know that the "Backlog" contains 80 items right now is not that interesting if I have nothing to compare it to. What was it before? How has it developed over time? Is 80 good or bad? It's awesome if it was 800 a month ago, but crap if 80 is the highest point we've seen the last six months... It's the answer to the famous "It depends...".
 
-
-
 And that brings us to the next natural development of this sheet. My goal was to extract a lot of different views from a simple export of the items of an electronic system like TFS or JIRA and that we have achieved.
-
-
 
 But ... it's just a point in history. We could do much more if we, for example, counted the number of items in each column on the board each day. With that data, we can create a very powerful visualization called a cumulative flow diagram; where we can see both the lead time, work in process but also how a lower work in process leads to faster flow etc.
 
@@ -189,4 +180,3 @@ All the posts in the series are found through these links:
 4. [Where time is spent](https://www.marcusoft.net/2019/01/kanbanstats-where-is-time-spent.html)
 5. [Single numbers - averages, median and max of lead time](https://www.marcusoft.net/2019/01/kanbanstats-v-single-numbers.html)
 6. [Queue length](https://www.marcusoft.net/2019/01/kanbanstats-vi-queue-length.html)
-

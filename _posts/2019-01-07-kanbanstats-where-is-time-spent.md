@@ -16,7 +16,7 @@ This is the fourth post in my series on some simple kanban board statistics. We 
 * [Lead time with filters](https://www.marcusoft.net/2019/01/kanbanstats-ii-filter-the-process-chart.html)
 * [Throughput](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html)
 
-And this time it's time to see if we can visualise a bit where time is spent. For this first post, we will make some basic classifications of active and not active or not "on the board" and "on the board".
+And this time it's time to see if we can visualize a bit where time is spent. For this first post, we will make some basic classifications of active and not active or not "on the board" and "on the board".
 
 In the coming posts I want to expand on this and see if we can make a distinction between other states on the board as well, but for that, we need to expand the data in "Raw data", because that data only contains completed items right now.
 
@@ -110,9 +110,7 @@ I will show you what I did for weeks, but it's quite similar for months.
       3. Google sheets will auto-fill the formulas for all the rows of unique weeks
       4. This is when the `$` for locking certain references comes handy as Google sheets otherwise will increment row references...
 
-
-
-Ok - that data looks fiiine! But let's show it as well.
+Ok - that data looks fine! But let's show it as well.
 
 For the months I created a simpler chart; a stacked column chart for `K1:M7` (columns Unique month, Average In Backlog and Average On Board). A nifty little setting was where you can set a label, per column, for the total. The result looks like this:
 
@@ -131,7 +129,7 @@ For the weeks I made a Combo chart (whatever that means) out of the `O:R` column
 4. Repeat for the Average On board
 5. Now select the Lead time series and make it a line. (AH! This is what a combo chart is). That will be the top of each column (as lead time is the sum of In backlog and On board), so this line is not particularly interesting
    1. However, the trend of the average lead time is pretty interesting.
-   2. Check the box for trendline (i used a [moving average to smooth the trend line](https://www.intel.ru/content/dam/www/program/education/us/en/documents/project-design/graphing/graphing-trendlines.pdf) out a bit) and format it in some nice way
+   2. Check the box for trend line (i used a [moving average to smooth the trend line](https://www.intel.ru/content/dam/www/program/education/us/en/documents/project-design/graphing/graphing-trendlines.pdf) out a bit) and format it in some nice way
    3. Now, let's remove the actual line by selecting Color = None
 6. Done - admire your work
 
@@ -146,7 +144,6 @@ In this post we charted out where the time for this data was spent; in the backl
 In the next post, I will try to make a few static numbers that people often ask about and that we, relatively easily can pull from the data.
 
 Here's a final link to the [Google Sheet](https://docs.google.com/spreadsheets/d/1IinrY-3_wEQUwHucDgHsCMUkFhLOqlBzXkZfc1yLBBI/) I'm working in. Feel free to copy it if you find this useful.
-
 
 ### The links
 

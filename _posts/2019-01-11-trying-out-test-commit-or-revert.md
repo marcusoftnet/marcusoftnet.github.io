@@ -13,9 +13,9 @@ I stumbled over a new concept the other day. As it was conceived by Kent Beck, t
 
 **[UPDATED]**
 
-I read Kents blog post a bit too fast and missed that this idea was actually proposed by [Oddmund Strømmer](https://twitter.com/jraregris). Very sorry that I missed that in my writeup, Oddmund. Thanks for correcting me, [Raquel](https://rachelcarmena.github.io/2018/11/13/test-driven-programming-workflows.html).
+I read Kent's blog post a bit too fast and missed that this idea was actually proposed by [Oddmund Strømmer](https://twitter.com/jraregris). Very sorry that I missed that in my writeup, Oddmund. Thanks for correcting me, [Raquel](https://rachelcarmena.github.io/2018/11/13/test-driven-programming-workflows.html).
 
-And after some [even more research the origins seems to be traced back](https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520) to a group of people that took a workshop with Kent Beck. Not only Oddmund Strømme but also Lars Barlindhaug and Ole Tjensvoll Johannessen. Those Norwegians... always a few steps ahead of me.
+And after some [even more research the origins seems to be traced back](https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520) to a group of people that took a workshop with Kent Beck. Not only Oddmund Strømmer but also Lars Barlindhaug and Ole Tjensvoll Johannessen. Those Norwegians... always a few steps ahead of me.
 
 **[BACK TO THE OLD TEXT]**
 
@@ -35,7 +35,7 @@ In this blog post, I have documented my complete workflow in getting this up and
 
 ## The kata, the platform and the workflow
 
-I choosed the [Fizz Buzz kata](http://codingdojo.org/kata/FizzBuzz/), because it is so simple that I could focus on the tooling and workflow instead.
+I chose the [Fizz Buzz kata](http://codingdojo.org/kata/FizzBuzz/), because it is so simple that I could focus on the tooling and workflow instead.
 
 I also picked the Node-platform and JavaScript, as I'm most comfortable there. And this time I'm learning a new workflow and not a new platform.
 
@@ -43,7 +43,7 @@ For this setup, I will not go full "limbo" and run the tests automatically every
 
 You can find [my code here](https://github.com/marcusoftnet/fizzbuzz-tcr)
 
-## The initialisation
+## The initialization
 
 Here are the commands I ran to get started:
 
@@ -355,7 +355,7 @@ module.exports.single = (n) => {
 
 **Result**:
 
-- AND BLEUAH - it failed... because I checked for exactly 3, 5 and 3 and 5... I didn't check for things _divisible_ with 3 or 5
+- AND BLUÄRK - it failed... because I checked for exactly 3, 5 and 3 and 5... I didn't check for things _divisible_ with 3 or 5
 - IDIOT - I needed more cases for Fizz and Buzz
 
 ### Seventh test run
@@ -516,9 +516,9 @@ const isBuzz = (n) => n % 5 === 0;
 **Result**:
 
 - Passed.
-- I'm done with this feature and can squash my commits into a pushable commit. I didn't not but pressed on.
+- I'm done with this feature and can squash my commits into a push-able commit. I didn't not but pressed on.
 
-### Twelvth test run
+### Twelfth test run
 
 Test:
 
@@ -807,7 +807,7 @@ const string = (numbers) => {
 
 - IT WORKED and this should be it.
 
-### Twenthiet test run
+### Twentieth test run
 
 I now did a full test like this:
 

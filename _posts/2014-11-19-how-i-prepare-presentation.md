@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6470177393684097846
 blogger_orig_url: https://www.marcusoft.net/2014/11/how-i-prepare-presentation.html
 ---
 
-I've just been to [Agile Singapore](http://2014.agilesingapore.org/) and had a blast. What a nice bunch of people I met there! And the event was super; fun well organised and informative - that's all I want from conference.
+I've just been to [Agile Singapore](http://2014.agilesingapore.org/) and had a blast. What a nice bunch of people I met there! And the event was super; fun well organized and informative - that's all I want from conference.
 
 I also had an opportunity to give a presentation there. It was quite some time since I created one for scratch so I took it (the opportunity) to rewrite my [Kanban in Action](http://bit.ly/theKanbanBook) presentation.
 
@@ -78,7 +78,7 @@ Once I'm at this place I could actually give the talk as I wanted to - but witho
 
 It's now time to move to slides. I use [Keynote](https://www.apple.com/mac/keynote) but [PowerPoint](http://www.microsoft.com/mac/powerpoint) is of course another option.
 
-Or [Prezi](http://prezi.com/) or some of the HTML tools. As you soon realise the way I do slides the tool doesn't matter too much. Most of the tools I've seen or use can handle my ... requirements.
+Or [Prezi](http://prezi.com/) or some of the HTML tools. As you soon realize the way I do slides the tool doesn't matter too much. Most of the tools I've seen or use can handle my ... requirements.
 
 One thing that have saved me a lot of time and helps me past creative blockage is to have a small introduction deck of me. Here's how it looks right now - I change it a lot:
 

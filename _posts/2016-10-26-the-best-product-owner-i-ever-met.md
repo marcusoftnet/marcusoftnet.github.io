@@ -24,7 +24,7 @@ But first let's meet a great product owner.
 
 ## The great product owner in the diner
 
-My current client is a food retailer in Sweden. Quite naturally the quality in the diner is great - but I realised that the diner is run by another company. In fact it's a franchise. Doesn't really matter, but my story is about the owner of that diner restaurant.
+My current client is a food retailer in Sweden. Quite naturally the quality in the diner is great - but I realized that the diner is run by another company. In fact it's a franchise. Doesn't really matter, but my story is about the owner of that diner restaurant.
 
 He is one of the best examples of a product owner I've seen so far.
 

@@ -41,7 +41,7 @@ Right now we only had three columns: Todo, Doing and Done. Particulary the Todo-
 
 We then created three piles of cards and moved everything on the board to the correct pile. This is what it looked like, at one stage, during our little exercise:
 
-Elin took the responsibility to put all of this back on the board, producing "much nicer signs over each column" too. My writing was not satisfactory I'm willing to agree on. Here's how the reorganised board looked like:
+Elin took the responsibility to put all of this back on the board, producing "much nicer signs over each column" too. My writing was not satisfactory I'm willing to agree on. Here's how the reorganized board looked like:
 
 ### The move from Idea to Next, and from Next to Todo
 

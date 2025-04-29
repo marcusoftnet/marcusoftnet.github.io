@@ -13,7 +13,7 @@ The other week I attended a course that introduced a lean and agile mindset to a
 
 At one point in time, after we've been through the [agile manifesto](http://agilemanifesto.org/) and [the principles](http://agilemanifesto.org/principles.html), and finally [the principles of Lean Software development](http://www.allaboutagile.com/7-key-principles-of-lean-software-development-2/) a high ranking manager next to me raised his voice and said:
 
-> This all sounds very good. I buy all of it. Its common sense. But the one thing that I don't get is why we realise this now. We are doing something very different than this now - have we been stupid before?
+> This all sounds very good. I buy all of it. Its common sense. But the one thing that I don't get is why we realize this now. We are doing something very different than this now - have we been stupid before?
 
 The discussion that followed was very fruitful and the people in the room learned a lot. But I wanted to go beyond the question. Because he's of course not stupid - he's very knowledgable and experienced. And so was everyone else in the room.
 
@@ -41,7 +41,7 @@ When you manage for flow you turn the tables totally for how we are treating, ma
 
 * Slack or idle time is not bad, since it gives room for innovation and also make sure that works flows even faster (i.e. I'm available when needed). For example consider [mob programming](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/) where 4-5 people take turns using the same keyboard and screen - a very popular agile method.
 * Problems are not bad - they are nuggets of gold for those to improve their process even further. Stopping and reflect on the problem to do even better tomorrow is a great thing.
-* Changing is a constant - nothing that we do today is guaranteed to be there tomorrow, if it turns out that changing a role, process or policy will give us better flow. Your competitor doesn't care how you are organised, how your roles are defined.
+* Changing is a constant - nothing that we do today is guaranteed to be there tomorrow, if it turns out that changing a role, process or policy will give us better flow. Your competitor doesn't care how you are organized, how your roles are defined.
 * Smaller things are generally preferred over bigger, that reduce risk, increase throughput and quality.
 * Principles and ideas are better than best practices. Best practices are *best* in a certain context - with principles and ideas we are allowed and encouraged to look beyond the practice and find something that works better for us. Here. Now.
 

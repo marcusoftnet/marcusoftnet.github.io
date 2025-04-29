@@ -25,9 +25,9 @@ A couple of months ago I had an opportunity to speak at the inaugural [Agile Isl
 
 One of the quotes that stood out for me was:
 
-> Our customer doesn't care how we are organised.
+> Our customer doesn't care how we are organized.
 
-No exactly. They want to use our product or service - but couldn't care less about how we are organised internally.
+No exactly. They want to use our product or service - but couldn't care less about how we are organized internally.
 
 It's like me and computers - I want to use them but have never, on purpose, opened one up. I'm just interested in the service my computer provides to me - couldn't care less how it moves stuff between the RAM and disk. For example.
 
@@ -71,6 +71,6 @@ Even if our customers hate it and our competetitors love it, we still (?!) might
   * Does it make our competitors happy? Yes - if that means that you are hindered from choosing the right tool for the right job, that would be awesome
   * Should we still do it? Sure - if we can show that the value of having everyone on the same platform is greater than coming behind our competitors that can change fast, and something that our customers doesn't care about
 
-In thinking about this I've come to realise that our customers care about very few things around **how** we work and make our products. The competitors are of course happy if those choices puts us in a worse place than them.
+In thinking about this I've come to realize that our customers care about very few things around **how** we work and make our products. The competitors are of course happy if those choices puts us in a worse place than them.
 
 We should at least weigh those two perspectives in, when evaluating our choices to become better.

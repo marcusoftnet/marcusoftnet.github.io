@@ -78,7 +78,7 @@ To do this I first listed all our unique estimates: `=UNIQUE($C$2:$C)` which, fo
 
 I then created the following average-formula, to select the lead times for all the work estimated to S:
 
-```
+```text
 =AverageIf($C$2:$C, I4, $E$2:$E)
 ```
 
@@ -93,7 +93,7 @@ Repeat for M and L and we are done.
 
 The type of work is very much the same:
 
-*  Get the types of work with `=UNIQUE($B$2:$B)`
+* Get the types of work with `=UNIQUE($B$2:$B)`
 * Calculate the average for each type with `=AverageIf($B$2:B, I9, $E$2:$E)` where `I9` contains a type of work
 
 ### Visualize it with gauges
@@ -126,7 +126,7 @@ Doing the MEDIAN calculations are very similar to the average... except in it's 
 
 Yup - dead simple:
 
-```
+```text
 =MEDIAN(E2:E)
 ```
 
@@ -134,7 +134,7 @@ Yup - dead simple:
 
 Now it becomes a little tricky since Median doesn't have a `MEDIANIF`. So we will just the [FILTER](https://www.lifewire.com/google-spreadsheets-median-function-3123873)-function to do the filtering and then pass the result of the MEDIAN function. Like this:
 
-```
+```text
 =MEDIAN(FILTER($E$2:$E, $C$2:$C =K4 ))
 ```
 
@@ -176,7 +176,7 @@ Hmmm... why is that? Can it teach us something? Maybe? Or maybe not...
 
 I'm leaning to not because this is just a single value and is very hard to put in relation to other data points. Just you wait...
 
-## Per week!
+## Per week
 
 Much more interesting, in my opinion, is to see how this value develops and change over time.
 
@@ -198,7 +198,6 @@ Ha! That's better:
 ## Summary
 
 Aggregation to a single number is pretty interesting (`HA! We closed 248 issues the last 6 months!`), but I hope that I convinced you that having historical data and see how the trends for each line is developing makes it even more interesting.
-
 
 ### The links
 
