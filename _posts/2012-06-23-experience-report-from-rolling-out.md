@@ -67,7 +67,7 @@ within the company itself. An outside coach/change agent can be a very
 good thing to help you on the journey but the actual need must come from
 within the company.
 
-I've heard that Toyota sensei:s (TPS/Lean gurus) often are requested to
+I've heard that Toyota sansei:s (TPS/Lean gurus) often are requested to
 go and help other companies. They hang up the first 99 calls. On the
 100th call they respond - now they know that the company is really
 desperate to get their help and ready to change.

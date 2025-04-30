@@ -35,7 +35,7 @@ Read more in the excellent book on [Continuous Delivery](https://www.amazon.com/
 
 Yes, the whole idea of lean is to move small things through the entire workflow faster. Little by little this would involve people upstream and downstream from us in our work. From the beginning, not much might change but in the long run, our whole way of cooperating could be very very different.
 
-For example, it's not uncommon for Toyota to first send Lean sensei's to their suppliers to educate them and change their processes to be more aligned with Toyotas way of working. Ultimately Toyota very often ends up buying their suppliers (or at least large portions of their shares).
+For example, it's not uncommon for Toyota to first send Lean sansei's to their suppliers to educate them and change their processes to be more aligned with Toyotas way of working. Ultimately Toyota very often ends up buying their suppliers (or at least large portions of their shares).
 
 But that is the long-long term perspective. For starters, a strong emphasizes on transparency and continuous improvements of the relationship, through regular improvement workshops could be a great start.
 

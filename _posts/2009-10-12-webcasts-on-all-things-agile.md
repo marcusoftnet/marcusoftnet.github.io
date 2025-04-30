@@ -18,6 +18,6 @@ Additionally, the site features a range of other interesting webcasts:
 
 - [Agile Design with Alan Shalloway](http://skillsmatter.com/podcast/agile-scrum/agile-design)
 - [Fast Track Test-Driven Development: Testify Your Project with David Evans](http://skillsmatter.com/podcast/agile-scrum/fast-track-test-driven-development-testify-your-project)
-- [Is Lean the Inevitable Future for Software-Intensive Product Development?](http://skillsmatter.com/podcast/agile-scrum/the-future-of-software-intensive-product-development) with Flow Chain Sensei (try saying that three times fast!)
+- [Is Lean the Inevitable Future for Software-Intensive Product Development?](http://skillsmatter.com/podcast/agile-scrum/the-future-of-software-intensive-product-development) with Flow Chain sansei (try saying that three times fast!)
 
 These resources provide valuable insights into Agile methodologies and practices, making them worth checking out.

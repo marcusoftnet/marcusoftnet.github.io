@@ -69,7 +69,7 @@ Under this heading the Switch authors talk about simple, prescriptive behaviors 
 
 Shu Ha Ri the reasoning about how you learn new techniques in martial arts.
 
-**Shu** means Obey the rules - do exactly what the sensei tells you. Do it over and over again until it's second nature. This is what Script the critical moves is all about.
+**Shu** means Obey the rules - do exactly what the sansei tells you. Do it over and over again until it's second nature. This is what Script the critical moves is all about.
 
 **Ha** means roughly Break the rules. Try something new that you haven't done before. But do that taking a stance in the basic rules you know.
 

@@ -40,7 +40,7 @@ and
 
 >(verb) come together as a team to achieve a common goal.
 
-[Merriam-Webster](https://www.merriam-webster.com/dictionary/team) emphasises the cooperation:
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/team) emphasizes the cooperation:
 
 > a number of persons associated together in work or activity
 

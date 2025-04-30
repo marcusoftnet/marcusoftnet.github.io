@@ -43,7 +43,7 @@ All in all - quite an investment to get our sights aligned and our work planned.
 
 As you might have seen on this [blog I'm re-reading the Toyota Kata book](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) and it refreshed my sight on what is different in the mindset of lean companies, such as Toyota;
 
-> They always seek to optimise and solve problems on the systemic level
+> They always seek to optimize and solve problems on the systemic level
 
 Getting everyone together in a big room like this, investing in all those meetings, preparation work and effort during the day is just a workaround of a process that cannot handle fast flow of small items.
 
@@ -53,11 +53,11 @@ That said - I think that the exercise that we ran today was really good and help
 
 But in the same breath I want to emphasise that we should try to find other, less intrusive, more flow-oriented ways of doing our planning - since flow is what we are after.
 
-This practice would not last long in companies that want to optimise flow - rather they would seek to find ways to do the planning just-in-time for smaller items at the time. Since that is in the vision of the production (in Toyotas case; 1x1 piece flow).
+This practice would not last long in companies that want to optimize flow - rather they would seek to find ways to do the planning just-in-time for smaller items at the time. Since that is in the vision of the production (in Toyotas case; 1x1 piece flow).
 
 In fact this is a really fork in the road for how different organizations work with improvements. Many organizations would be happy with the big room planning and simply claim that it was the best that can be done.
 
-organizations that optimise for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganise the entire company if needed. [Read my post on Toyota Kata](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
+organizations that optimize for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganise the entire company if needed. [Read my post on Toyota Kata](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
 
 ## What to do instead, mr wise-guy?
 

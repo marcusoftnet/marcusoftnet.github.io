@@ -60,7 +60,7 @@ At the very least we should think hard before *increasing* work in process. This
 >
 > [Dr. Arne Roock](http://twitter.com/arneroock)
 
-Goes without saying that only slack is of course not good, but with a little slack in the system we have created room for innovation. Fully utilised means no time to think:
+Goes without saying that only slack is of course not good, but with a little slack in the system we have created room for innovation. Fully utilized means no time to think:
 
 > Busy-ness is not good for business
 >

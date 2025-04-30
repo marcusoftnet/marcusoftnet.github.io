@@ -65,11 +65,11 @@ And that's correct. Because the organization is, of course (hopefully even), bui
 
 Of course I asked why:
 
-> Because I get paid by how much my staff is utilised. 100% utilisation is the goal
+> Because I get paid by how much my staff is utilized. 100% utilisation is the goal
 
 The organization was built to support the paradigm that it believed. And lean is of course the exact opposite of those ideas.
 
-If you want even more things to think about, consider the goal of a separate IT-department is. Organising into separate departments is not (always) optimising for flow, right?
+If you want even more things to think about, consider the goal of a separate IT-department is. Organising into separate departments is not (always) optimizing for flow, right?
 
 ## Conclusion
 

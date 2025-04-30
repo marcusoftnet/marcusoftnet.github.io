@@ -65,7 +65,7 @@ How can I approach the change so that fear like that goes away?
 
 ## What needs to be true...
 
-The last thought comes from sensei [Dan North](http://dannorth.net/) and is related to the above:
+The last thought comes from sansei [Dan North](http://dannorth.net/) and is related to the above:
 
 <blockquote>What needs to be true, for that to make sense?</blockquote>
 

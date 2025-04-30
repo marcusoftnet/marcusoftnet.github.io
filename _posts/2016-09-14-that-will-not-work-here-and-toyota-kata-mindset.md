@@ -110,7 +110,7 @@ One time I've lean implemented fast and smooth was in [RS Bungsu, the Indonesian
 
 They were ready to challenge everything they did and do something different. We turned that hospital around in about 1,5 year into becoming profitable, renovated, certified and using a hypothesis driven business model.
 
-The Toyota sensei above pointed firmly to the goal of the company; 1x1 flow and simple states:
+The Toyota sansei above pointed firmly to the goal of the company; 1x1 flow and simple states:
 
 > is not optional no open for discussing
 

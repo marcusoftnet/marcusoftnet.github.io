@@ -14,7 +14,7 @@ Sometimes in my consultancy the soft "people ware" thinking can borrow ideas fro
 
 > Teams are immutable structures
 
-I found this very useful to describe some of the unique traits of a team, that is often hard to grasp; such as estimates cannot be compared between teams or that changing  teams around to opitmize resources utilization is sub-optimization in more ways than one.
+I found this very useful to describe some of the unique traits of a team, that is often hard to grasp; such as estimates cannot be compared between teams or that changing  teams around to optimize resources utilization is sub-optimization in more ways than one.
 
 But first, there's a strange word in there. Two, actually!
 
@@ -26,7 +26,7 @@ Because what does a **team** really mean. The [Webster definition](https://www.m
 
 > a number of persons associated together in work or activity
 
-The focus that stands out for me, in the way that I use the term *team*, is of course in the cooperation. It's not just a group of people sitting next to eachother. It's a group that works **together** solve the problem.
+The focus that stands out for me, in the way that I use the term *team*, is of course in the cooperation. It's not just a group of people sitting next to each other. It's a group that works **together** solve the problem.
 
 The reason we are a team, in the first place, is that we think that the task will be solved better, faster and more correctly than if we did it together. The sum of our efforts together is greater than our parts. It's in the interactions between us the extra value of us being together is created.
 
@@ -46,7 +46,7 @@ This is a key trait of a whole class of programming languages called [functional
 
 They have a [strong constraint](https://www.marcusoft.net/2013/01/on-constraints.html) in that they only allow for immutable values and data structures. This means that once a value has been created in memory of the computer it cannot be changed. The only way to change the value is to make a new copy containing the change. It's something new. It's not the same value.
 
-Although this first sounds very complicated it drives a structure and architecture of the programs that gives some great benefits. Because if the computer can assume that values will never be change it can help us to optimise the running of the program. For example we can very easy run parts of the program on parallell processors and thereby significantly speed up execution. This is very trick to do if you can change the values in a program at will.
+Although this first sounds very complicated it drives a structure and architecture of the programs that gives some great benefits. Because if the computer can assume that values will never be change it can help us to optimism the running of the program. For example we can very easy run parts of the program on parallel processors and thereby significantly speed up execution. This is very trick to do if you can change the values in a program at will.
 
 This constraint and consequent benefit has led to great interest in functional programs as a mean to process big data. The team I'm working with is regular crunching through hundreds of TB of data in a few hours, in cluster of 50000 machines that share the work load. The programmer has not decided how to split up the program - it's done by the infrastructure, due to the constraint of immutable data structure. It's truly amazing to see in action.
 
@@ -58,43 +58,37 @@ Let's unpack that:
 
 **A team is a immutable structure** - if you remove or add a new member to a team it's not the same team. It's a new team. They need to [storm, form and norm](https://www.wikiwand.com/en/Tuckman%27s_stages_of_group_development) all over again. It might be faster than if everyone is new but it still happens.
 
-They don't reason the same about the same kind of problems. Removing the quitest person in the group will affect the group - as will removing the loudest. Adding a new visual person will make the team see new opportunities in new ways. Etc. etc. This is sometime the reason we change team constitutions, to shake it up.
+They don't reason the same about the same kind of problems. Removing the quietest person in the group will affect the group - as will removing the loudest. Adding a new visual person will make the team see new opportunities in new ways. Etc. etc. This is sometime the reason we change team constitutions, to shake it up.
 
 But it's an immutable structure.
 
 **This is a good thing** - there's power in immutable data structures, as we now know that we get something new as we change them. We can, as I wrote above, use this to shake things up if a team needs to - or to refrain to do so as teams need time to come together.
 
-## Examples! Now!
+## Examples! Now
 
-As team starts to work together it's very easy for leadership to generalize and think that other teams works in the same way. But they do not. Because they are immutable - so one team is not the same as the other team. Even if you seed the new team with team members from the orginal team, or if you train them similary etc.
+As team starts to work together it's very easy for leadership to generalize and think that other teams works in the same way. But they do not. Because they are immutable - so one team is not the same as the other team. Even if you seed the new team with team members from the original team, or if you train them similarly etc.
 
 One common example is when asking a team to estimate the size of task, [if you still do stuff like that](https://www.marcusoft.net/2015/10/review-noestimates-the-book.html). Let's say that we ask the team to classify some work items into sizes of [S, M and L](https://www.marcusoft.net/2016/03/sml-estimates-dont-start-from-days.html) - relatively.
 
 They do a great job and make some data based prognosis. Team Awesome crunches (on average, see my post above) 10 S, 4 M and 1 L per week.
 
-Great, you think. I have 5 teams. That means 50 S, 20 M and 5 L work items per week. Ca. There's tools that does exactly this. Check our the [portfolio managment tool for JIRA](https://www.atlassian.com/software/jira/portfolio) for a horrible, but glaring example.
+Great, you think. I have 5 teams. That means 50 S, 20 M and 5 L work items per week. Ca. There's tools that does exactly this. Check our the [portfolio management tool for JIRA](https://www.atlassian.com/software/jira/portfolio) for a horrible, but glaring example.
 
 Because this is dead wrong. The teams are immutable. You cannot transfer one estimate from one team to another. What one team thinks is a S might be 5 S for another. And once you change one team member from one team - it is no longer the same team and that same team might now, if asked, re-estimate a S-task to M. Or S again.
 
 It's not transferable - because it's not the same team.
 
-
-
 I'm building a self-assessment survey for teams in my department of 20 teams. Teams will rank themselves on agile practices, using a [fist-of-five-voting](https://medium.com/101ideasforagileteams/fist-of-five-1dbaffa1e68d) technique. This will be tracked in radar chart to help the team to know where to focus their improvement efforts.
 
-Great, someone said, now we can see how the entire department are doing, by summarizing the scores for each team. No - you cannot. Same misstake. Team assessments is not transferable to other teams. What one team thinks is a 3 might be the other teams 6.
+Great, someone said, now we can see how the entire department are doing, by summarizing the scores for each team. No - you cannot. Same mistake. Team assessments is not transferable to other teams. What one team thinks is a 3 might be the other teams 6.
 
 And again, the same goes if you change team members in an existing team.
-
-
 
 We sometimes ask ourselves if we should have fixed teams or throw together tasks forces for certain tasks. I think there might be value in both approaches, but as team are immutable structures and hence the speed, quality and ways of working that was great for one team might not work equally well as you change members (adding or removing a single member counts) in the team.
 
 They, at the very least, need time to find their own ways and practices. Sure this can be helped (a little) with policies but the time is needed to let the (new) team form.
 
-
-
-The best soccer player Sweden ever had is Zlatan Ibrahimovic. By a landslide. Something funny happened at the end of his career in the Swedish national team. The team had not had a great period, but Zlatan had still been amazing on the pictch when the rest of the team feed him the right balls to work on.
+The best soccer player Sweden ever had is Zlatan Ibrahimovic. By a landslide. Something funny happened at the end of his career in the Swedish national team. The team had not had a great period, but Zlatan had still been amazing on the pitch when the rest of the team feed him the right balls to work on.
 
 Then he quit. A brand new team arose. It was restructured to it's core and new leaders, new player and even new strategies was born out of neccesserity. The team started to win again - after loosing the best player in the world?!
 

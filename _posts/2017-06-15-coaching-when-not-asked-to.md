@@ -41,7 +41,7 @@ It reminds me of a situation that [I was in my personal life when I lived in Ind
 
 Being helped when you don't want help is a little bit abusive. Like this:
 
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">My favourite subset of internet video is dogs that think their owners are drowning and this one is gold  <a href="https://t.co/Yiv2MMZHFt">pic.twitter.com/Yiv2MMZHFt</a></p>— Alan White (@aljwhite) <a href="https://twitter.com/aljwhite/status/894289884168560640">August 6, 2017</a></blockquote>
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">My favourite subset of internet video is dogs that think their owners are drowning and this one is gold  <a href="https://t.co/Yiv2MMZHFt">A pic</a></p>— Alan White (@aljwhite) <a href="https://twitter.com/aljwhite/status/894289884168560640">August 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And in this video - I would be the dog.
@@ -56,13 +56,13 @@ At this particular role was a pure coach role. There was another team lead that 
 
 I was there to coach. The result of that coaching was nothing that I was held accountable for, nor followed up on. And how could it be? Because if you take out some of the part of the team lead role (as defined above) and give to another, external party, you would create a very strange situation.
 
-Imagine that I was held accountable for lead time in the team and the team lead for the quality and staff well-being. We would now be _against_ each other in our goals. [Balancing](https://www.marcusoft.net/2015/09/indicators-leading-trailing-short-or-long.html) [scores](https://www.marcusoft.net/2015/11/using-the-scientific-method-on-our-board.html) are good but only if one role can more than one score. If I'm optimising for only one of them it would create the pursuit of a [local optimum](https://en.wikipedia.org/wiki/Local_optimum) - which is known as a bad thing.
+Imagine that I was held accountable for lead time in the team and the team lead for the quality and staff well-being. We would now be _against_ each other in our goals. [Balancing](https://www.marcusoft.net/2015/09/indicators-leading-trailing-short-or-long.html) [scores](https://www.marcusoft.net/2015/11/using-the-scientific-method-on-our-board.html) are good but only if one role can more than one score. If I'm optimizing for only one of them it would create the pursuit of a [local optimum](https://en.wikipedia.org/wiki/Local_optimum) - which is known as a bad thing.
 
 Now I was working without a purpose. There was no goal for me. Nothing I could do more of to come closer to my goal. It doesn't matter how much [Autonomy and Mastery](http://www.danpink.com/resource/ted-talk-the-puzzle-of-motivation/) you have if you don't have a [Purpose](http://www.danpink.com/resource/ted-talk-the-puzzle-of-motivation/). Work will feel futile and meaningless pretty fast.
 
 ## What could I have done differently?
 
-First I need to recognise that I could have done something about this myself. I took many things for granted before I started and there was a lot of hidden assumptions that I didn't clear out.
+First I need to recognize that I could have done something about this myself. I took many things for granted before I started and there was a lot of hidden assumptions that I didn't clear out.
 
 * I could have talked with the team in the outset to define a purpose and goal of my coaching. Defining exit criteria for me would have been a great start, I think.
 * I could probably also have worked out the purpose part with the team lead. Most likely we could not have fixed what I'm measured on but we could have had a better alignment between us.

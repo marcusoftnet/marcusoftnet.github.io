@@ -51,4 +51,4 @@ Here are the steps I followed:
 
 6. Save the application to a well-known place, for example, the desktop.
 
-You have now created a little renamer application. To it, you can drag the files you want to rename and ... presto - they will be renamed.
+You have now created a little rename:er application. To it, you can drag the files you want to rename and ... presto - they will be renamed.

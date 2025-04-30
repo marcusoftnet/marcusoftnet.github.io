@@ -56,7 +56,7 @@ When do we whine? When do I whine, maybe is a better question since I can answer
 
 A good example would be to code new features fast in a system that isn't build to move fast in; no automatic testing, no continuous deployment, lots of manual processes.
 
-The same goes for trying to implement a fast paced, agile, flow oriented process in an organization that is built for resource utilisations. [It's simple not optimised for doing the thing that we want.](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)
+The same goes for trying to implement a fast paced, agile, flow oriented process in an organization that is built for resource utilisations. [It's simple not optimized for doing the thing that we want.](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html)
 
 Since a difference between what is needed or required of me and what I can do is clear and present I feel frustrated. If that situation stays for long… yes I admit - I whine.
 

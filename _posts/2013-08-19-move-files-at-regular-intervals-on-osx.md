@@ -36,7 +36,7 @@ Now you can configure where the Find Finder Items action is going to look and ba
 
 #### Move the files
 
-To move the files we need another action called: "Move Finder Items". Search for it and doubleclick it. You can then configure where you want the files moved to. "Which files?", you might wonder. Well the files that you've sent to the action. It's selected with the Find Finder items.
+To move the files we need another action called: "Move Finder Items". Search for it and double-click it. You can then configure where you want the files moved to. "Which files?", you might wonder. Well the files that you've sent to the action. It's selected with the Find Finder items.
 
 When you're done your complete application looks like this:
 

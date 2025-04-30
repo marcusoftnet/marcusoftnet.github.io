@@ -12,7 +12,7 @@ tags:
 
 I have been working with a team now for close to 6 months. It's the same old story; team has a lot of very important things to do from 4-5 different stakeholders around the company, team try to keep up, stakeholders around them get upset with the slow progress on the "features", team struggles under a lot of tech debt that team postponed earlier to get faster progress on the "features".
 
-If you've been in any larger IT organization the last 20 years, you know this story. Your basic "hard-working, well-intending, trying to cope with the demand from the organisation"-development team.
+If you've been in any larger IT organization the last 20 years, you know this story. Your basic "hard-working, well-intending, trying to cope with the demand from the organization"-development team.
 
 What I've found fascinating with this team, except that the engineers are amazing developers, is that the whole team feels trap. I've asked them numerous times to cut down on work in process (WIP) or cutting items into smaller pieces. Every time I've got confused looks and people say things like:
 
@@ -20,7 +20,7 @@ What I've found fascinating with this team, except that the engineers are amazin
 
 The other day we tried to do something about this and in doing that we found a key principle from lean that was missing here. We also discovered two different aspects of planning that helped us to sort this up.
 
-In this post, I wanted to share what I learned about these principles and ideas. And show what we did. There's nothing earthshattering here. It's just [kanban in action](http://bit.ly/theKanbanBook) and some lean thinking.
+In this post, I wanted to share what I learned about these principles and ideas. And show what we did. There's nothing earth-shattering here. It's just [kanban in action](http://bit.ly/theKanbanBook) and some lean thinking.
 
 <!-- excerpt-end -->
 
@@ -30,7 +30,7 @@ As I mentioned above the team has 4-5 groups of stakeholders around the company.
 
 This person is in many organizations referred to as a product owner. Which, in all honesty, is a pretty misleading title since there's no ownership to take, nor is there a product to govern as much as different projects and stakeholders competing over the sparse capacity of the team.
 
-Our product owner, as most I've seen in this complicated role, is doing a great job. He even told me that he went through the backlog and filtred out the items on our list from the different stakeholders. Then he went through the list and sorted them in prioritized order. To the best of his knowledge.
+Our product owner, as most I've seen in this complicated role, is doing a great job. He even told me that he went through the backlog and filtered out the items on our list from the different stakeholders. Then he went through the list and sorted them in prioritized order. To the best of his knowledge.
 
 He sent an email out and said: this is how I understood it - do you agree? He didn't have to wait long. One of the stakeholders wrote back in return:
 
@@ -38,11 +38,11 @@ He sent an email out and said: this is how I understood it - do you agree? He di
 
 This was the first time we started to feel that something is not right in the way that we do things. Because who knows best the needs of a stakeholder? That's right - the stakeholder themselves.
 
-I think that we in many organizations create more problems than we avoid by accepting the items from many stakeholders onto our backlog. The priority is based of timing and need - and the people that know this the best the ones closest to the need. Reminds me a bit of [David L. Marqueet excellent saying](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html):
+I think that we in many organizations create more problems than we avoid by accepting the items from many stakeholders onto our backlog. The priority is based of timing and need - and the people that know this the best the ones closest to the need. Reminds me a bit of [David L. Marquet excellent saying](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html):
 
 > Move the authority to the information!
 
-Finally, saying No (which by many is hailed as key product owner skill, I included) becomes hard and akward. Imagine the conversation:
+Finally, saying No (which by many is hailed as key product owner skill, I included) becomes hard and awkward. Imagine the conversation:
 
 > Stakeholder: Please do feature X now!
 >
@@ -64,7 +64,7 @@ Here's another situation where saying No because awkward. First we could say no 
 
 Pretty awkward for both parties. So maybe we down-prioritize things that we already have on our backlog instead. How would that play out?
 
-> Oh, by the way. Remember that thing that we said last week that we are going to work on? Not happening. Stakeholder Z wanted another thing, so we throwed your thing out.
+> Oh, by the way. Remember that thing that we said last week that we are going to work on? Not happening. Stakeholder Z wanted another thing, so we threw your thing out.
 
 This type of conversations is something that I've forced the team into. Sorry...… Because I asked ~~demanded~~ by the team that they put in a limit of the number of things in their Inbox.
 
@@ -118,7 +118,7 @@ Given what we know now with our company and local priorities we have decided tha
 
 You can, of course, argue for and against these priorities. I can already now hear poor Stakeholder C that have not been granted any capacity at all for the last 5 strategy reviews screaming in agony. Maybe next meeting, C-ey. Maybe next...
 
-But rememer that we are now discussing capacity planning. It's not about **what is most important now**, because that is something that the stakeholder is best suited to know and care about.
+But remember that we are now discussing capacity planning. It's not about **what is most important now**, because that is something that the stakeholder is best suited to know and care about.
 
 We are not asking the team to take on more work, it's just about how to divide their capacity, **on a suitable workload level**.
 
@@ -152,9 +152,9 @@ That might not qualify as good news but it's honest and now we can do something 
 
 Remember above when I said that one stakeholder probably not is the best person to decide on how the capacity should be divided. That exact situation was the situation that Dragos was in when he created the first ever kanban team in software development.
 
-This is documented in [David J. Anderssons seminal book on Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402), but the story goes a little like this;
+This is documented in [David J. Andersson's seminal book on Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402), but the story goes a little like this;
 
-The worst support team in Microsoft was handed to [Dragos Dumitriu](http://edu.leankanban.com/users/dragos-dumitriu). They had 4 stakeholders, spread across the globe, a huge backlog and "nothing" got done. Dragos estabilshed a WIP limit on the inbox of the team and then simply called the stakeholders up in a meeting stating:
+The worst support team in Microsoft was handed to [Dragos Dumitriu](http://edu.leankanban.com/users/dragos-dumitriu). They had 4 stakeholders, spread across the globe, a huge backlog and "nothing" got done. Dragos established a WIP limit on the inbox of the team and then simply called the stakeholders up in a meeting stating:
 
 > We have room for 4 more - what do you want… now?
 

@@ -105,7 +105,7 @@ I agree. And this is where I get sad. People are more reluctant to let go of pow
 
 So that’s it then. No more of this. It ends in a [big sad trombone](http://sadtrombone.com/?play=true)?
 
-I don’t think so. Firstly, I think this is worthy of pursuing and striving towards. You don’t (and maybe never should) turn the dial all the way to 11, with all decisions being made out there ([chaordic organization/mindset](http://flowchainsensei.wordpress.com/2011/03/03/rightshifting-transitions-part-3/) I think it's called). [Some people have tried and succeeded](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdfe%20people%20have%20tried%20and%20succeed), go ahead and explore your possibilities.
+I don’t think so. Firstly, I think this is worthy of pursuing and striving towards. You don’t (and maybe never should) turn the dial all the way to 11, with all decisions being made out there ([chaordic organization/mindset](http://flowchainsansei.wordpress.com/2011/03/03/rightshifting-transitions-part-3/) I think it's called). [Some people have tried and succeeded](http://assets.sbnation.com/assets/1074301/Valve_Handbook_LowRes.pdfe%20people%20have%20tried%20and%20succeed), go ahead and explore your possibilities.
 
 Secondly, doing this to an existing organization is much harder than starting fresh. Trust me, I work (well ok… not really, [I’m on leave right now](https://www.marcusoft.net/2013/06/moving-to-indonesia.html)) for [Aptitud](http://www.aptitud.se/). Let me, to end this finally tell you a little bit about how we decide things at Aptitud.
 

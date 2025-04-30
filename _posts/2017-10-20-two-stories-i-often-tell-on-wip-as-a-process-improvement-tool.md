@@ -9,13 +9,13 @@ tags:
  - Life of a consultant
 ---
 
-Work in process (WIP) limits is a powerful, lightweight tool to not only improve your process flow but also to find further improvements in your process. I consider it widly underused but hugely impactful.
+Work in process (WIP) limits is a powerful, lightweight tool to not only improve your process flow but also to find further improvements in your process. I consider it wildly underused but hugely impactful.
 
 Often when WIP limits are introduced we miss the point of them being the driver for further process improvement, but rather focus on what our WIP limit should be, or how we are going visualize it on our board. So I often share a story on how that can work.
 
 I realize that I'm turing into an old man... I have, for many years now, being telling and retelling the same story so many times that people around me don't stop me anymore.
 
-At the same time I sometimes forget some of those stories. So I thought I'd better write them down before I lose it altogher.
+At the same time I sometimes forget some of those stories. So I thought I'd better write them down before I lose it altogether.
 
 <!-- excerpt-end -->
 
@@ -29,11 +29,11 @@ As you picked the first 5 doors you notice that the sixth door has a little card
 
 > Go over to door-builder station 14 and ask them to build you 10 more doors
 
-You walk over there. Give them a highfive and then ask them to build 10 new doors. After some banter about the fading sun-burn in your face you walk back to your station and continue to mount doors.
+You walk over there. Give them a high-five and then ask them to build 10 new doors. After some banter about the fading sun-burn in your face you walk back to your station and continue to mount doors.
 
 Just as you mounted the tenth door, your turn around the the door-builder from station 14 comes by with a new pallet. Timed to perfection. It's almost scary.
 
-As this happens a lean sensei walks past you two and asks:
+As this happens a lean sansei walks past you two and asks:
 
 > How is it going?
 
@@ -41,7 +41,7 @@ You respond:
 
 > Everything is working fine here. We have door work in process limit of 10 and that is beautifully timed so that I get the doors just in time and don't have to wait.
 >
-> No overproduction or other waste here, sir lean sensei, sir!
+> No overproduction or other waste here, sir lean sansei, sir!
 
 He smiles and nods and then say:
 
