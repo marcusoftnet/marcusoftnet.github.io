@@ -79,7 +79,7 @@ I cannot count the number times I've heard things like:
 * Our role is defined in this way - we can't change it
 * This is how we source (brrr…) resources (brrr…. even more) in this company - it's in the contract
 * This process is like this by law. You cannot change it.
-* If we're going to resolve prioritisation problems like these we need the chairman of the board in the room
+* If we're going to resolve prioritization problems like these we need the chairman of the board in the room
 
 Except for the two "brrr"'s above these are quotes, said by smart people in organizations that want to "become agile" according to their strategic goals.
 

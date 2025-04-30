@@ -27,13 +27,13 @@ In order to prepare for the meeting we have held a lot of preparation meetings:
 
 * A few just to set up the preparing
 * One introduction meeting with everyone involved
-* One prioritisation meeting to get the backlog in order
+* One prioritization meeting to get the backlog in order
 * One meeting with product owners to clarify what is required from them during the meeting
 * And a number of individual conversations
 
-All in all most of these meetings has been good and useful, especially the prioritisation meeting that was needed to get the backlog in a good shape and prioritized so that we knew which items of the backlog, that was going to be addressed in the planning meeting.
+All in all most of these meetings has been good and useful, especially the prioritization meeting that was needed to get the backlog in a good shape and prioritized so that we knew which items of the backlog, that was going to be addressed in the planning meeting.
 
-We then held the meeting itself, involving about 25-30 people in our teams and ca 20-25 people from groups around us that we need to get our stuff out of the door. Some of these people were high-ranking people that (in case) we needed to resolve prioritisation issues and dependencies.
+We then held the meeting itself, involving about 25-30 people in our teams and ca 20-25 people from groups around us that we need to get our stuff out of the door. Some of these people were high-ranking people that (in case) we needed to resolve prioritization issues and dependencies.
 
 Today I've spent the better part of 8 hours trying to summarize and document what was said during the meeting. I'm not quite done yet so maybe a few hours more before it's done.
 

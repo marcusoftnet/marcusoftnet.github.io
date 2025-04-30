@@ -49,7 +49,7 @@ If we left them in the column (see [the part on fixing below](https://www.marcus
 
 >There's 3 items blocked in testing, 1 in development and 1 in deployment.
 
-That sends much more information and can actually helps us to both do some intelligent prioritisation but also start to reflect on why items often tend to block in "Test", for example.
+That sends much more information and can actually helps us to both do some intelligent prioritization but also start to reflect on why items often tend to block in "Test", for example.
 
 Thirdly - moving the sticky to the blocked-column doesn't convey any information about the blockage itself; what is it, how is the resolution of the blockage going, or how long we have been working on this.
 

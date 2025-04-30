@@ -18,7 +18,7 @@ I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing 
 
 A couple of months ago I was very fortunate to work alongside a great team. They had a not so envious task before them, namely to introduce a new main concept into an legacy code base. You know, the code has been around for at least 5 years and now you need to add a concept that was no-one ever thought we would have in there.
 
-They did that. In just 3-4 months and delivered with flying colours. I didn’t have much to do with that, I merely observed their work.
+They did that. In just 3-4 months and delivered with flying colors. I didn’t have much to do with that, I merely observed their work.
 
 When they were done I proudly introduced the team to a new senior in the company and told him about their feat and how they had gone about doing it. His words: well, *that’s Lean backwards then*.
 
