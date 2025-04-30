@@ -33,7 +33,7 @@ Let's rebuild that now. Step by step.
 We're going to follow the instructions from the [Getting Started guide](https://github.com/claudiajs/claudia-bot-builder/blob/master/GETTING_STARTED.md) of the Claudia-bot-builder repository. There's some short administration first;
 
 * Install [nvm](https://github.com/creationix/nvm) or something similar so that you can `nvm install v4.3.2` that Claudia-bot-builder requires (and AWS now supports)
-* Intall ClaudiaJs globally (if you want to) for that version of Node `npm install claudia -g` or update it if it's already installed `npm update claudia -g`
+* Install ClaudiaJs globally (if you want to) for that version of Node `npm install claudia -g` or update it if it's already installed `npm update claudia -g`
 * Set up an [AWS Account](https://www.marcusoft.net/2016/02/first-aws-lamda-steps.html#setting-up-your-environment) - yeah that's troublesome, but a one time thing. Hang in there.
 * And then some coding.
 
@@ -55,17 +55,17 @@ module.exports = botBuilder(request => {
 
     return co(function*() {
         var start = new Date();
-	    var result = yield coreq(url);
-    	var end = new Date() - start;
+        var result = yield coreq(url);
+        var end = new Date() - start;
 
         return `Pinged ${url} successfully - took ${end} ms`;
     }).catch(function(err) {
-		return `Could not ping ${url} (${err.message})`;
+  return `Could not ping ${url} (${err.message})`;
     });
 });
 ```
 
-The `claudia-bot-builder` gives us a simple construct that receives the `request` object as single inparameter. From that we can read the `request.text` property which contains the text that the user sends us. In our case we will use a [Slack Slash Command](https://api.slack.com/) like this: `/pingu https://www.marcusoft.net`, and in that case `request.text` will be `https://www.marcusoft.net`.
+The `claudia-bot-builder` gives us a simple construct that receives the `request` object as single in-parameter. From that we can read the `request.text` property which contains the text that the user sends us. In our case we will use a [Slack Slash Command](https://api.slack.com/) like this: `/pingu https://www.marcusoft.net`, and in that case `request.text` will be `https://www.marcusoft.net`.
 
 I'm using the [co-request](https://www.npmjs.com/package/co-request) module as to do simple http request, co-request allows me to use `yield` rather than the callback horrors that I've come to hate.
 
@@ -73,7 +73,7 @@ There's some simple error handling in there as well. Good enough for now.
 
 To get all the dependencies we need into our application, and more importantly into the `package.json`, we can use this command:
 
-```
+```bash
 npm install claudia-bot-builder co co-request -S
 ```
 
@@ -83,7 +83,7 @@ That's the hard part done.
 
 Now for the part where Claudia excels. Deploying this is super simple:
 
-```
+```bash
 claudia create --region us-east-1 --api-module bot
 ```
 
@@ -133,10 +133,10 @@ Create a `testdata/basictest.json` file containing the following:
 
 ```json
 {
-	"context" : {
-		"path" : "/",
-		"method" : "GET"
-	}
+ "context" : {
+  "path" : "/",
+  "method" : "GET"
+ }
 }
 ```
 
@@ -155,7 +155,7 @@ From this part on it's just following the wizard. Here's a few pointers:
   ​
   So that's `https://vozc2ng03h.execute-api.us-east-1.amazonaws.com/latest/slack/slash-command` in my case
 * I left method as POST
-* I customised the name to be `pingu`
+* I customized the name to be `pingu`
 * I uploaded a, most likely trademark violated, picture for my command
 * Finally I added a nice description and a usage hint
 
@@ -184,7 +184,7 @@ Better yet... use [Claudia Bot Builder](https://www.npmjs.com/package/claudia-bo
 
 `claudia update --configure-slack-slash-command` for slash-commands for only your team (that's what this article is about.). And use `claudia update --configure-slack-slash-app` for Slack applications.
 
-## Test!
+## Test
 
 Once all of that is done you can now go to the Slack group for which you installed the command and run your beauty.
 
