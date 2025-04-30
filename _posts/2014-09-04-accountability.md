@@ -42,7 +42,7 @@ But if you believe in the person to do good and Trust them you have now only spe
 
 ### Accountability and Transparency
 
-What about Accountability then? Yes, I think it's important of course and it might be the formal part of who's actually doing what. "Who are accountable for this project?" This needs to be decided and know in order to have organisational clarity. But I also think that there's another mechanism that we can implement, much easier, that will make Accountability happen automatic, more or less; Transparency.
+What about Accountability then? Yes, I think it's important of course and it might be the formal part of who's actually doing what. "Who are accountable for this project?" This needs to be decided and know in order to have organizational clarity. But I also think that there's another mechanism that we can implement, much easier, that will make Accountability happen automatic, more or less; Transparency.
 
 Transparency means that we try to make information more visible and more known to more and more people in our organization. In a fully transparent organization everyone could know everything they wanted.
 

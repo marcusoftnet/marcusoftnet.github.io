@@ -21,8 +21,7 @@ mobile at all".
 
 This is so stupid! What is next - you can't talk at all in wagon 1?
 
-Extra funny is that ="blsp-spelling-error" onclick="BLOG_clickHandler(this)">SL
-really are plugging the mobile as a great way of communicating with
+Extra funny is that SL really are plugging the mobile as a great way of communicating with
 them. A lot of efforts has been put in to set up sites and portals for
 mobiles. Very nice then that you can't use it on the trains and buses...
 

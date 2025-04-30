@@ -89,13 +89,13 @@ The thing that bugs me is that little thing that we have said that we *want* thi
 
 If we *do* want that - why are the organization not ready to handle the problems, opportunities and change requests that occurs? Why is there no readiness to tweak organizations, to change contracts, to move people or to update frameworks? Why is the most common response based of the "but this is how we've always done it"?
 
-To get a real concrete example; imagine a team that holds weekly retrospectives. Where do they take problems that goes outside their organisational bounds (we need access to servers)? Are those functions ready to change those conditions? If they don't get that support - why are they doing retrospectives in the first place?
+To get a real concrete example; imagine a team that holds weekly retrospectives. Where do they take problems that goes outside their organizational bounds (we need access to servers)? Are those functions ready to change those conditions? If they don't get that support - why are they doing retrospectives in the first place?
 
 What good is continuous improvement within a small cell or team? Sure they might become a little bit better, but the system they operate in will never change for the better. Not affecting other teams conditions for example.
 
 ## Reason to change
 
-In my opinon it's because [the urge to change](https://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organisational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
+In my opinon it's because [the urge to change](https://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organizational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
 
 Sometimes those changes can be very challenging for an organization. You never know what it can be; one instance that comes to mind is that we couldn't have a person from one team sit next to other team. By contract. We'd get sued if we did.
 

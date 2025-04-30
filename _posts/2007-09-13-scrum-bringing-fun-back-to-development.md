@@ -28,5 +28,5 @@ take care of them self, change will always
 
 So as long as I have a say in the question I will always conduct my
 projects as Scrum projects from now on. There is really no other way if
-you want quality. If I don't have a say i'll still try to run them as Scrum
+you want quality. If I don't have a say I'll still try to run them as Scrum
 projects, just because I know it's best :)

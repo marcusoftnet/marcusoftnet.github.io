@@ -14,4 +14,4 @@ Finally - after 9 months our baby has arrived. It is the most wonderful little b
 
 Here are some pictures of him.
 
-Right now we are quite tired also, so i'll get back with details later on. A very quick thank you to all the people that have prayed for, warm thought.
+Right now we are quite tired also, so I'll get back with details later on. A very quick thank you to all the people that have prayed for, warm thought.

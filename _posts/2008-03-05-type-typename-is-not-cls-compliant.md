@@ -16,7 +16,7 @@ OK - here is a strange one...
 
 We are using dependency injection to be able to inject mocked version of
 classes that the class we're testing is using.... (oh, my god - requires
-another blog-post I think... i'll get back).
+another blog-post I think... I'll get back).
 
 So the first thing we did was to extract interfaces for all the methods
 the implementation is using. So far so good.

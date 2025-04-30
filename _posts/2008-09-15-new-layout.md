@@ -11,19 +11,10 @@ blogger_orig_url: https://www.marcusoft.net/2008/09/new-layout.html
 ---
 
 
-It's been a while since I've updated the layout of the blog - but now
-it's been done!  
+It's been a while since I've updated the layout of the blog - but now it's been done!  
 
-The theme is a bit more autumn than the previous one - may not kling to
-this one for as long.
+The theme is a bit more autumn than the previous one - may not cling to this one for as long.
 
-Aha - my tag cloud have disappeared - I'll get it back for you , sorry
-me.
+Aha - my tag cloud have disappeared - I'll get it back for you , sorry me.
 
-<span class="Apple-style-span"
-style="font-weight: bold;">\[UPDATED\]
-
-Tag Cloud is back - thanks again for [an excellent
-description](http://phy3blog.googlepages.com/Beta-Blogger-Label-Cloud.html).
-Have also added my analytics tags which always disappear when you do an
-update...<span class="Apple-tab-span" style="white-space:pre">
+**\[UPDATED\]** Tag Cloud is back - thanks again for [an excellent description](http://phy3blog.googlepages.com/Beta-Blogger-Label-Cloud.html). Have also added my analytics tags which always disappear when you do an update...

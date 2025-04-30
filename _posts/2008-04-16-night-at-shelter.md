@@ -20,4 +20,4 @@ Feels fine for now - I hope I don't mess things up, though. There are a
 lot of things to keep track of and the people I am serving are used to a
 certain standard and certain ways. I hope I don't let them down.
 
-Bye for now - i'll get back to you after the night.
+Bye for now - I'll get back to you after the night.

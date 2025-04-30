@@ -9,24 +9,11 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8412792532818677787
 blogger_orig_url: https://www.marcusoft.net/2008/05/shortcuts.html
 ---
 
-Anyone
-who has worked with me know that I love shortcuts
-(that is
-="blsp-spelling-error">keyboard
-shortcuts - I wouldn't dream of taking shortcuts in
-real life...).
+Anyone who has worked with me know that I love shortcuts (that is keyboard shortcuts - I wouldn't dream of taking shortcuts in real life...).
 
-I ="blsp-spelling-error">love
-="blsp-spelling-error">them in
-general but specifically in Visual
-Studio - they often involve at least three keys and at least two hands to be fully executed.
+Here is a list of some of them - I haven't seen some them before and other ones are loved friends of mine: <http://www.dev102.com/2008/05/06/11-more-visual-studio-shortcuts-you-should-know/>
 
-="blsp-spelling-error">Here is
-a list of some of them - I haven't seen some them before and other ones are loved friends of mine:
-<http://www.dev102.com/2008/05/06/11-more-visual-studio-shortcuts-you-should-know/>
-
-**UPDATED**
-That short-cut site contained some other really useful stuff also:
+**UPDATED** That short-cut site contained some other really useful stuff also:
 
 - <http://www.dev102.com/2008/05/09/6-useful-visual-studio-tweaks-you-need-to-know/>
 - <http://www.dev102.com/2008/04/17/10-visual-studio-shortcuts-you-must-know/>

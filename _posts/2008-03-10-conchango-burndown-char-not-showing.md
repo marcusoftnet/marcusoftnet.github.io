@@ -49,7 +49,7 @@ bit confusing... or maybe not but one of the reports are: All sprints
 that returns 12 sprints when only 3 sprints is added to areas and
 iterations.
 
-Well - if I ever understand that i'll post the solution here.
+Well - if I ever understand that I'll post the solution here.
 
 However two things I have noticed about the sprint work item is these:
 

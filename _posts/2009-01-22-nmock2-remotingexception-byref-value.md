@@ -13,29 +13,23 @@ blogger_orig_url: https://www.marcusoft.net/2009/01/nmock2-remotingexception-byr
 ---
 
 
-OK this might be the most misleading error message I've seen. I
-cannot decide on how to describe it... What this means... or what this
-try to ...
-Actually this happens when one of your mocked objects is mocking a
-method that returns something and your mocking doesn't return anything.
-Eeeeh - that was quite tricky. Got it?
-Here is an example:
+OK this might be the most misleading error message I've seen. I cannot decide on how to describe it... What this means... or what this try to ... Actually this happens when one of your mocked objects is mocking a method that returns something and your mocking doesn't return anything. Eeeh - that was quite tricky.
+
+Got it? Here is an example:
+
 When I mock this method:
 
->     Public Class FacadeObject 
->          Function CreateSomeThing(ByVal aName As String) As Long
->                    End Function
->
->             End Class
+```vb
+Public Class FacadeObject 
+     Function CreateSomeThing(ByVal aName As String) As Long
+     End Function
+End Class
+```
 
-<span style="color: #666666;">by using the following code to do the
-mock
+by using the following code to do the mock
 
->     Expect.Once.On(m_mockadFacadeObject).Method("CreateSomeThing")
+```vb
+Expect.Once.On(m_mockadFacadeObject).Method("CreateSomeThing")
+```
 
-an exception of RemotingException (ByRef value type parameter cannot be
-null) will be thrown.
-Here is <a
-href="http://rhysc.blogspot.com/2008/04/nmock2-remotingexception.html"
-target="_blank">another description</a> that you might find easier to
-understand
+an exception of RemotingException (ByRef value type parameter cannot be null) will be thrown. Here is <a href="http://rhysc.blogspot.com/2008/04/nmock2-remotingexception.html" target="_blank">another description</a> that you might find easier to understand
