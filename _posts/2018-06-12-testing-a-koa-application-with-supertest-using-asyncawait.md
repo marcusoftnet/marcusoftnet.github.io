@@ -19,7 +19,7 @@ In doing so I had an epic battle with [mocha](https://mochajs.org/), [monk](http
 
 This will be small but not too contrived. The test will store an object in a MongoDb database, then will call an HTTP-endpoint (`/user/:id`) that simply returns that object for us again.
 
-To do this we will have to await the call to mongo using monk, then do the request using supertest and finally use supertests own asseration features to ensure that we get back what we expected.
+To do this we will have to await the call to mongo using monk, then do the request using supertest and finally use Supertest's own assertion features to ensure that we get back what we expected.
 
 I started with a simple `setTimeout` but thought I would something a little bit more real.
 
@@ -83,15 +83,15 @@ Setting up monk is done with the next three lines:
 - require monk so that we can use it
 - Initialize a database pointing to the Mongo database you will use, by giving a connection string of sorts
 
-The actuall application code is found on line 8-13
+The actual application code is found on line 8-13
 
 - get the Mongo collection you will work with in our code. I'm doing it inline here, but this can of course be moved out to an own file
-- Then use Monks excellent `findOne` feature that returns a user by some search critera. In this case I'm searching by id (called `_id` in the Mongo world)
+- Then use Monks excellent `findOne` feature that returns a user by some search criteria. In this case I'm searching by id (called `_id` in the Mongo world)
 - We then just store the user in the `ctx.body` to return it and set the status to 200 ok.
 
 Should this fail, Koa will automatically return 500 for us. Good enough for now
 
-I added a [little trick from befrore](https://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) where I start the Koa server only when the module has no parent. This is the case when the code is started with `node api.js`. When you run the server as normal. When the code is run under test there is a parent; namely mocha
+I added a [little trick from before](https://www.marcusoft.net/2015/10/eaddrinuse-when-watching-tests-with-mocha-and-supertest.html) where I start the Koa server only when the module has no parent. This is the case when the code is started with `node api.js`. When you run the server as normal. When the code is run under test there is a parent; namely mocha
 
 ### Writing the test
 
@@ -147,12 +147,12 @@ Using the reference to the `app` this becomes a one-liner: `before(() => { serve
 
 The same goes for `after` all the tests are run, we should close the server down; `after(() => { server.close() })`
 
-This means that the tests starts in a prestine state without take a long time.
+This means that the tests starts in a pristine state without take a long time.
 
 `beforeEach` test I want to do two things:
 
 - first completely wipe the (test) database so that each test knows the state they are testing against. This is accomplished by using the monk `users` collection and the `remove` function; `await users.remove({})`
-  - Remove returns a promise and we `await` the resovled promise before we continue
+  - Remove returns a promise and we `await` the resolved promise before we continue
   - We can use `await` in this method because it's marked as `async`
 - Second thing I want to do is to create the supertest `request` object, so that it's a fresh request object for each test. This is done with `request = supertest(server)`
 

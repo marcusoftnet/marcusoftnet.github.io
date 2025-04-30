@@ -35,7 +35,7 @@ All in all most of these meetings has been good and useful, especially the prior
 
 We then held the meeting itself, involving about 25-30 people in our teams and ca 20-25 people from groups around us that we need to get our stuff out of the door. Some of these people were high-ranking people that (in case) we needed to resolve prioritisation issues and dependencies.
 
-Today I've spent the better part of 8 hours trying to summarise and document what was said during the meeting. I'm not quite done yet so maybe a few hours more before it's done.
+Today I've spent the better part of 8 hours trying to summarize and document what was said during the meeting. I'm not quite done yet so maybe a few hours more before it's done.
 
 All in all - quite an investment to get our sights aligned and our work planned. We planned for 5 weeks ahead, which is much shorter than recommended by SAFe (8-12 weeks) but still enough that we didn't know for sure what is going to be delivered in the end of the session.
 
@@ -65,7 +65,7 @@ It would not be fair to list everything that is bad with one approach without at
 
 But here goes; here's a suggestion that requires no changes in organization and a lot less overhead in setting meetings up. We have parts of this in place already in my current team and I long for the time when we can do this smoother than a big room planning.
 
-We've created a kanban board for the high-level stories (we summarise those in a one page format stating the hypothesis, size, metrics and other important facts about the feature) that are lined up for development.
+We've created a kanban board for the high-level stories (we summarize those in a one page format stating the hypothesis, size, metrics and other important facts about the feature) that are lined up for development.
 
 From this point this is just my thinking out loud, but I'm sure this would work in a smoother, cheaper and faster way than to call a big expensive meeting every X weeks.
 

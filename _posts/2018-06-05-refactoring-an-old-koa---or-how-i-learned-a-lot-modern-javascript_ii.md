@@ -27,7 +27,7 @@ In the last post we just go the test to run. So now we can start to do some:
 
 Perfect! With passing tests I feel much more confident to make changes. And I want to. This code makes my eyes bleed.
 
-First; it is unlinted with my favorite linter [standard](https://standardjs.com/). Since I also have the [plug-in installed](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs) it makes my editor scream angry squigglies at me. Let's fix that.
+First; it is un-linted with my favorite linter [standard](https://standardjs.com/). Since I also have the [plug-in installed](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs) it makes my editor scream angry squigglies at me. Let's fix that.
 
 First, let's install standard (`npm I standard -D` to save it as a development dependency) and then add two new scripts to the `package.json`:
 
@@ -97,7 +97,7 @@ Yes yes - I have a helper class. Hate away. But maybe we can get rid of it once 
 First we clean it up, like with the others.
 
 - We'll move the exports to a "interface"-definition at the end
-- Replace `var` with `const` whereever we can
+- Replace `var` with `const` where ever we can
 - Rename `test_user` to what StandardJs tell us `testUser`
 
 That makes the code look like this:

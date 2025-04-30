@@ -48,7 +48,7 @@ And thank you for making this an easy question to answer: Yes, kanban will help 
 
 Well, I return your favour and answer it a bit more elaborated than that.
 
-First of all: Kanban or not is not that important. What is important (i think) is to see what you are doing (and problems/opportunities you're facing), strive to complete work fast and help the workflow to work better. This could be summarised in:
+First of all: Kanban or not is not that important. What is important (i think) is to see what you are doing (and problems/opportunities you're facing), strive to complete work fast and help the workflow to work better. This could be summarized in:
 
 - Visualize
 - Limit work in process

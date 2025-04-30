@@ -39,20 +39,20 @@ The first test run (`npm t` ) of course fail in the same manner as before, regar
 
 #### Fixing local dependencies
 
-But then the interesting stuff started. Because this application uses local reference in the `package.json` file like this: `    "AddressAPI": "file:./apis/address"`
+But then the interesting stuff started. Because this application uses local reference in the `package.json` file like this: `"AddressAPI": "file:./apis/address"`
 
-That's all and well, but I learned now, those names ` AddressAPI` are apparently case-sensetive. And my casing was all over the place. And I know why.
+That's all and well, but I learned now, those names `AddressAPI` are apparently case-sensitive. And my casing was all over the place. And I know why.
 
 I got a linting error in the `package.json` file about using upper-case letters. I fixed that in some places and … not in others.
 
-(Sidenote - I figured this out by installing a local dependency with `npm I -S ./api/order`, which can be handy to know).
+(Side note - I figured this out by installing a local dependency with `npm I -S ./api/order`, which can be handy to know).
 
 Luckily this is not hard, although boring to fix:
 
 - Go into each of the `package.json` in the `apis`-folder and lower case the `name` property
 - Open `package.json` in the root application
 - Update it to use the same casing, all lowercase
-- Reinstall the `node_modules` using brute force `rm -rf node_modules && npm I `
+- Reinstall the `node_modules` using brute force `rm -rf node_modules && npm I`
 
 Rerun the tests and we can build our app. Great!
 
@@ -89,7 +89,7 @@ if (!module.parent) {
 }
 ```
 
-There - now we're only listening on a port, coming from the config object, when this is started without a parent. That is the case when we are running in production. We could also have checke the `ENV` flag of course, but now this is how I do it.
+There - now we're only listening on a port, coming from the config object, when this is started without a parent. That is the case when we are running in production. We could also have checked the `ENV` flag of course, but now this is how I do it.
 
 It turned out that I had done a few different ways of doing this, for example passing in an ENV variable called `standalone` for the AddressAPI, forgetting to listen at all for the Order and just listening on port 3000 every time for the Users. A mess!
 
@@ -154,7 +154,7 @@ So close! One thing left.
 
 Here I will let you down my friends. There are a few test, and features, in the code around (basic) authentication that I couldn't get to work.
 
-I was pulling my hair to get it to work but ran out of energey. I simply don't find the energy sometimes, now a-days, to flesh out all the fails.
+I was pulling my hair to get it to work but ran out of energy. I simply don't find the energy sometimes, now a-days, to flesh out all the fails.
 
 It looks like the packages are out of sync and possible have not been updated for the more updated versions of Koa. It's not particular hard to fix, if you had the energy to look into it. I didn't this time.
 
@@ -206,9 +206,9 @@ With that the whole test suite should be passing again. And `npm t` reveals that
 
 It felt like cheating in the end but it was beyond the scope of this series to fix the old-school basic authentication as well.
 
-In this series I took a old (ah, 4 years at least) [Koa](http://koajs.com/) application and tried to update it to the new Koa framework. This led me to learn and understand quite a lot about ES6, funcational programming and async/await.
+In this series I took a old (ah, 4 years at least) [Koa](http://koajs.com/) application and tried to update it to the new Koa framework. This led me to learn and understand quite a lot about ES6, functional programming and async/await.
 
-I hope you found this helpful and intresting.
+I hope you found this helpful and interesting.
 
 All the code is checked in and merged to [master here](https://github.com/marcusoftnet/UserApiWithTest)
 

@@ -68,7 +68,7 @@ async function removeAll (done) {
 
 Nice! Smaller! Tighter. And passing the tests! This calls for a check-in!
 
-## Tigther still
+## Tighter still
 
 We can be even more functional and ES6-y, by writing the function using `=>` syntax:
 
@@ -79,7 +79,7 @@ const removeAll = async (done) => {
 }
 ```
 
-That still passes but now the `done`-flag is troubling me. Because I remember that done is really [mochas way of allowing us to test asynchronous code](https://mochajs.org/#asynchronous-code). But in theory that should not be needed, now that we are using async and await. That handles the synchronisation for us.
+That still passes but now the `done`-flag is troubling me. Because I remember that done is really [mochas way of allowing us to test asynchronous code](https://mochajs.org/#asynchronous-code). But in theory that should not be needed, now that we are using async and await. That handles the synchronization for us.
 
 ### Functional like it's 1958
 
@@ -97,7 +97,7 @@ Let me first unpack that beautiful one-liner above:
 
 - By removing the `done`  call the parameter is not needed, of course. So we remove it.
 - Then there's only one line in the method. In JavaScript (ES6) if there's only has one line in the method you can remove the curly braces and bring it up on one line
-- Since there's only one statement in the function now, without curly braces, JavaScript assumes that this a return. And `await` is consider redudant for return values. I presume (but do not know) it's because we will wait implicilty until the method can return or fail. No other way out.
+- Since there's only one statement in the function now, without curly braces, JavaScript assumes that this a return. And `await` is consider redundant for return values. I presume (but do not know) it's because we will wait implicitly until the method can return or fail. No other way out.
 - This is great, but wait there's more: we can also remove the `const co = require('co')` at the top of the file, since it's not used in this code.
 
 And the tests are still passing!
@@ -140,7 +140,7 @@ beforeEach(async function () {
 })
 ```
 
-That works! See how I removed both the `done` paratmeter and it's call. Now we are await-ing or failing the tests. JavaScript is controlling that execution for us, just like any normal function.
+That works! See how I removed both the `done` parameter and it's call. Now we are await-ing or failing the tests. JavaScript is controlling that execution for us, just like any normal function.
 
 ### Tighter test-code
 
@@ -194,11 +194,11 @@ Pssst - I made some errors here, by skipping the `.end()` function. But we will 
 
 ### Fix the numerous test file problem
 
-But now I get very bother by the fact that we have so many files… It's only one test per file, in rare occations 2. Also, they are in a separate directory, which makes sense if there's many files but I want to have one file with all tests.
+But now I get very bother by the fact that we have so many files… It's only one test per file, in rare occasions 2. Also, they are in a separate directory, which makes sense if there's many files but I want to have one file with all tests.
 
 I will create a new file next to `userRoutes.js` and call it `userRoutes.test.js`. I will do this with `cp test/user.del.js ./userRoutes.test.js` Then I'm going to copy (yes, copy) all the code from each file in the `test`-directory into that file. That will double the number of tests.
 
-Ok - done. And I got a lot of duplication errors for the `requires` and the gobal comment. Let's remove it.
+Ok - done. And I got a lot of duplication errors for the `requires` and the global comment. Let's remove it.
 
 I was a bit surprised to see that my test doesn't work, until I realized that we need to tell mocha where to look for my tests. By default that is in the `test` directory, but now we have to update the test command to this:
 
@@ -222,13 +222,13 @@ describe('User API', () => {
 })
 ```
 
-That gives a nice reporting but also allows us to move the setup code up to the new scope that `describe`-block gave us. Move `before/removeAll`, any instansiation that is common etc. And then remove those things in the other, nested `describe`-blocks.
+That gives a nice reporting but also allows us to move the setup code up to the new scope that `describe`-block gave us. Move `before/removeAll`, any instantiation that is common etc. And then remove those things in the other, nested `describe`-blocks.
 
-Nice! Much shorter and less repetion. Love it.
+Nice! Much shorter and less repetition. Love it.
 
 Now I removed all the test-files in the `test` directory. Leaving only the `testHelpers.js`
 
-### Kill testhelpers.js
+### Kill `testhelpers.js`
 
 In fact - let's do away with that file all together. I copied all of the `testHelpers.js` into my only test file now.
 

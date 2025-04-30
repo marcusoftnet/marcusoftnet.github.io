@@ -33,7 +33,7 @@ No-one in the "deploy to production" team or the "Change Management Board" have 
 
 You need to take this higher up. To the management team. They make the decisions in matters like these, cutting across departments.
 
-In order to present this information in a correct way you need to **summarise** the information, calculate a **business case** and present some certainty of **positive** improvement (or they will not look at it) and finally **get time** with the correct people in a meeting where they are ready to make the decision.
+In order to present this information in a correct way you need to **summarize** the information, calculate a **business case** and present some certainty of **positive** improvement (or they will not look at it) and finally **get time** with the correct people in a meeting where they are ready to make the decision.
 
 Since they only meet for 1 hour per week (if you are lucky) they will have a lot of things on their agenda. That means that you need to digest and be concrete in the information that you present - making **only the important** parts stand out.
 
@@ -99,7 +99,7 @@ If their (mine) kids ask them what they do for work the answer:
 >
 > I'm an powerpoint creator
 
-Their job is to summarise, simplify and concretise information, situations, context and problem that one group have, a group that they are not working in, to present to another group of people, that is not in that situation either, so that the second group can make a decision to help the first group.
+Their job is to summarize, simplify and concretise information, situations, context and problem that one group have, a group that they are not working in, to present to another group of people, that is not in that situation either, so that the second group can make a decision to help the first group.
 
 It's weird. Hey, even that sentence is weird, but that might be my bad english.
 
@@ -137,7 +137,7 @@ For me the idea of "moving authority to the information" is building around thre
 
 Another example; at my company, [Aptitud](http://www.aptitud.se), all invoices for things that employees buys will be sent to everyone in the company. Sure you can buy a TV and call it a "computer related working device" - but remember that everyone will see it.
 
-**Accountability** - if you make decisions you will also face the consequences. At Amazon this is summarised in the slogan ["You build it - you own it"](http://aronatkins.github.io/2014/12/23/you-build-it-you-own-it.html). You will have to take **responsibility** for the things you do. Just likes adults do in real life.
+**Accountability** - if you make decisions you will also face the consequences. At Amazon this is summarized in the slogan ["You build it - you own it"](http://aronatkins.github.io/2014/12/23/you-build-it-you-own-it.html). You will have to take **responsibility** for the things you do. Just likes adults do in real life.
 
 These three go together; demanding transparency without trust is just micromanaging, trusting without any accountability is irresponsible, hold people accountable without giving them authority is cruel.
 

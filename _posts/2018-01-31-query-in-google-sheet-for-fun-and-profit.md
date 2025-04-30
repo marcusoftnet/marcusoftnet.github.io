@@ -10,13 +10,13 @@ tags:
 
 I had another opportunity to learn a thing or two about Google Sheets and it's internal functions. Again. [On a similar topic as last time](https://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html).
 
-This time around I had to summarise the data from 4 different sheets and then let the user filter the data dynamically.
+This time around I had to summarize the data from 4 different sheets and then let the user filter the data dynamically.
 
 To do this, I had to look up a lot of things, learn a little bit about the [QUERY-function](https://support.google.com/docs/answer/3093343?hl=en) and then jump through some hoops. I write this down here so that I don't have to learn this again. You can read it if you want to.
 
 <!-- excerpt-end -->
 
-I've created a [sheet with some example data](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit?usp=sharing), similar but not the same as the data we had. This was also, as [last time](https://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html), a survey about the state of our office that we needed to summarise for a meeting.
+I've created a [sheet with some example data](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit?usp=sharing), similar but not the same as the data we had. This was also, as [last time](https://www.marcusoft.net/2018/01/create-a-dynamic-updated-chart-in-google-sheets.html), a survey about the state of our office that we needed to summarize for a meeting.
 
 We had asked for input and asked people to classify the data in 4 areas; "Urgent", "Great stuff", "Could be improved" and "General questions". Each of these was listed on a tab each.
 
@@ -54,17 +54,14 @@ There are a few moving parts here.
 
 Fine - now we have the unique values listed in Column A of the [Summary-sheet](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit#gid=1544983361). Now it's easy to set up a drop-down list. Let's do that again:
 
-- Click the cell where the drop-down box should be displayed. I have it in `C2`
-
-- Go Data => Data validation … to open the dialog box to create the data validation
-
-- Select the range (`A2:A`) where the data for the drop-down box is located and enter it in Criteria
-
-- Click Save
+* Click the cell where the drop-down box should be displayed. I have it in `C2`
+* Go Data => Data validation … to open the dialog box to create the data validation
+* Select the range (`A2:A`) where the data for the drop-down box is located and enter it in Criteria
+* Click Save
 
 We now have a drop-down list with the unique categories, based on the data the users entered. Next!
 
-## Summarise the data based on the selection in the category drop-down
+## Summarize the data based on the selection in the category drop-down
 
 In order to get this to work, we are going to use the [`QUERY`-formula](https://support.google.com/docs/answer/3093343?hl=en). This is a super powerful formula that allows us to pose complex queries over ranges. It can be quite daunting but don't worry, I'll be here to hold your hand. We'll make it together!
 
@@ -73,11 +70,11 @@ The moving parts of `QUERY` are pretty simple, it just needs two things:
 * A range, where the raw data is located. This is all the data in all sheets for us
 * A query to structure, filter and order the data. This is much like SQL if you ever used this. There's a [great description of the query language here.](https://developers.google.com/chart/interactive/docs/querylanguage)
 
-### Make one big range!
+### Make one big range
 
 The first part needs a trick, that we already used. We will concatenate all the data using the array concatenation syntax we used before `{Range1;Range2}`. Here's the query that I have:
 
-```
+```text
 {'Urgent Disaster'!A:D; 'Great things'!A:D;'Could be improved'!A:D;'General questions'!A:D}
 ```
 
@@ -133,7 +130,7 @@ SELECT Col4, Col2,Col1,Col3 WHERE Col2='"&C2&"'
 
 We basically just create a string with the value in `C2` the `&`-sign
 
-### Put it in your pipe and smoke it!
+### Put it in your pipe and smoke it
 
 Finally - put it all together in one big `QUERY`- formula. You can do it! Like this:
 

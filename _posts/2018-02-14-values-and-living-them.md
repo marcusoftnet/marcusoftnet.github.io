@@ -18,7 +18,7 @@ But I've ~~found~~… who am I kidding … stolen a way that make values more ta
 
 Regarding these lofty values I mentioned in the intro, you know what I'm talking about, right? The values are words and statements that basically no-one would disagree with:
 
-  - Fun! Have you heard anyone say; `No - I'm not fun. I don't want to be part of that`
+- Fun! Have you heard anyone say; `No - I'm not fun. I don't want to be part of that`
 - Professional! - `BAH! That's a fad. It will pass`
 - Open - `No. No. No! We are closed! How many times do I have to tell you…`
 
@@ -26,7 +26,7 @@ This is easy to make fun of these of course, but there's a more serious flip sid
 
 > These values paints a picture of the way we want to be or the way we think we are. If we don't honor these values … we are not we.
 
-Woah… we want to be us, now don't we?
+Whoa… we want to be us, now don't we?
 
 The problem is that the values and culture of the company are present if we write it down or not. Writing a few words down a nice wall doesn't automatically make these values ours. Even if you print it on a paper next to each desk, or have an awesome screensaver with them.
 
@@ -72,7 +72,7 @@ Yes! That is what we want to see. It works. Let's [see it fail too](http://www.s
 
 Well… that's not innovative. And it shows clearly.
 
-#### We're collaborative!
+#### We're collaborative
 
 One of the things that stand out on day one when you get to the Spotify organization is how much they are helping each other. I've [blogged about that before](https://www.marcusoft.net/2017/01/kindness.html) without revealing the company name (psst - all Spotify for the good stuff).
 
@@ -90,7 +90,7 @@ And what about the opposite - would we spot it.
 
 No no no… that is not right. Good. It fails as expected.
 
-#### We're sincere!
+#### We're sincere
 
 Since the collaboration is tight and frequent we need a very clear communication. There cannot be politics, hidden agendas or "being nice and not telling" since that would muddle our interactions.
 
@@ -108,7 +108,7 @@ or
 
 Oh my God - what's his problem?! Opposite of what we wanted. Let's leave this and move on.
 
-#### We're passionate!
+#### We're passionate
 
 Here Spotify talks about their passion is the thing that drives them, the makes them bold and wanting to take big bets.
 

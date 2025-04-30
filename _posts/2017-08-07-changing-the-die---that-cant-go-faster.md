@@ -37,7 +37,7 @@ First of all it's interesting to see that the rest of the car industry considere
 
 We have to continue to challenge the current ways to become better.
 
-The second observation is that one of the reasons that Taichii Ohno pressed on was that he had a strong guiding star; smaller batches with less inventory. This is famously summarised in Toyota production strategy:
+The second observation is that one of the reasons that Taichii Ohno pressed on was that he had a strong guiding star; smaller batches with less inventory. This is famously summarized in Toyota production strategy:
 
 > One piece continuous flow
 

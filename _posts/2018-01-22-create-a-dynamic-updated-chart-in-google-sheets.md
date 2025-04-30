@@ -34,13 +34,13 @@ Meaning; there are a couple of scale-questions (1-6) and one question for which 
 
 > Can I get the result per team?
 
-And me myself I wanted to see the result grouped in thirds (how many vote 1-2, how many 3-4 and how many vote 5-6). 
+And me myself I wanted to see the result grouped in thirds (how many vote 1-2, how many 3-4 and how many vote 5-6).
 
-This is not too hard to do and even get some nice graphs to show the result in. [Here's a Google Sheet](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/) where I'm playing around with this. 
+This is not too hard to do and even get some nice graphs to show the result in. [Here's a Google Sheet](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/) where I'm playing around with this.
 
 ## Step 1 - Create sheet for the stats
 
-All the data from a survey ends up in a Google Sheet called ["Form Responses"](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit#gid=0) or something like that. I have created a heet like that, but there's no connection to a form now. Doesn't matter for our purpose. This sheet is now our raw-data and we will not touch it, as it gets the data from the Form.
+All the data from a survey ends up in a Google Sheet called ["Form Responses"](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit#gid=0) or something like that. I have created a sheet like that, but there's no connection to a form now. Doesn't matter for our purpose. This sheet is now our raw-data and we will not touch it, as it gets the data from the Form.
 
 After that I just added a new ["Stats"-sheet](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit#gid=51274800) where we will make our calculation. To start with I made something really simple; just the average for each question. That is two columns that looks like this:
 
@@ -51,9 +51,9 @@ After that I just added a new ["Stats"-sheet](https://docs.google.com/spreadshee
 | ='Form Responses'!E1 | =Average('Form Responses'!E:E) |
 | Totals               | =AVERAGE(B3:B5)                |
 
-Nothing fancy at all here. Just getting started. 
+Nothing fancy at all here. Just getting started.
 
-* In Column A we are copying the question titles 
+* In Column A we are copying the question titles
 * Column B contains the average. Note that it contains all the values from `Form Responses'!C:C`, including the question title. But the `Average`-function is of course smart enough to ignore the not numeric values
 
 ## Step 2 - Some grouping
@@ -62,7 +62,7 @@ All though the Responses feature of Google Forms has a nice auto-summary, I want
 
 * 1-2 - detractors. They didn't really like whatever this question was about
 * 3-4 - the Meh's. These respondents are a little bit either or…
-* 5-6 - the attractors. These people really liked whatever we asked about. 
+* 5-6 - the attractors. These people really liked whatever we asked about.
 
 In order to do this we need to use another function; `CountIf`, that counts the number of rows that matches a criteria. Here's an example row to get these values:
 
@@ -75,20 +75,20 @@ In order to do this we need to use another function; `CountIf`, that counts the 
 * 3-4 - I count the rows that have a value above two (`>2`) and then subtract the number of 5-6.
 * I then added a total for the total number of answers for this question
 
-Nothing strange there and I even added a column with percentages for each group, that ended up not using. It was as easy as just diving the number of responses with the total (`=G3/I3`, for example). 
+Nothing strange there and I even added a column with percentages for each group, that ended up not using. It was as easy as just diving the number of responses with the total (`=G3/I3`, for example).
 
-## Step 3 - Visualising totals
+## Step 3 - Visualizing totals
 
-Let's make a diagram out of that to show our result. 
+Let's make a diagram out of that to show our result.
 
 * Select the data you want to include by holding down CTRL/CMD and selecting the data. This way you can select data that is not next to each other. For my sheet, I selected `A1:A5,C1:C5,E1:E5,G1:G5`
 * Click the button for Insert Chart (or in the menu Insert => Chart)
-* Do some formatting of the labels, legend etc. 
+* Do some formatting of the labels, legend etc.
   * I removed the Horizontal axis title
   * Put the Legend on the bottom
   * And updated the Title of the Chart to `Spread of values - all teams`
 
-This gave me a nice graph that looks like this and is a good start. 
+This gave me a nice graph that looks like this and is a good start.
 
 <iframe width="488.5" height="302.05583333333334" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRmafos4hXNR2xJxecFkqa2HHUOftLjx5uysbk8Idxx3TF8tLtwG5ngE8B1DGyYUwEaVhhhnwn0zQ_M/pubchart?oid=1615789057&amp;format=interactive"></iframe>
 
@@ -109,9 +109,9 @@ I then added a new cell with a drop-down-box for the teams. This is easily done 
   * Enter the column with the Teams, in my case `'Form Responses'!B:B`
   * Click OK to create a drop-down list of the team names
 
-A nice little trick here is to ensure that you start from the second row in the range because the first row probably contains the title of the question (`Team`) in this case. You can easily do that by giving the range `'Form Responses'!B2:B`. 
+A nice little trick here is to ensure that you start from the second row in the range because the first row probably contains the title of the question (`Team`) in this case. You can easily do that by giving the range `'Form Responses'!B2:B`.
 
-Pretty nifty; start on B2 and use the entire column. 
+Pretty nifty; start on B2 and use the entire column.
 
 ### Average per team
 
@@ -127,8 +127,8 @@ Let's dissect the `AverageIf` formula a bit:
 
 * The first part (`'Form Responses'!B:B`) is the range we are going to evaluate our criteria again. "If *these* rows matches"
 * The second part (`$J$18`) is the criteria itself. In this case just: "Same value that is in J18"
-  * The $-signs is just a way to make sure that it's always `J18` even when you copy the formula to another cell
-* The final part (`'Form Responses'!C:C`) is the values to run average on. 
+  * The `$`-signs is just a way to make sure that it's always `J18` even when you copy the formula to another cell
+* The final part (`'Form Responses'!C:C`) is the values to run average on.
 
 The whole thing could be read like:
 
@@ -136,7 +136,7 @@ The whole thing could be read like:
 
 ### Counts per team
 
-Now let's do the same thing to count the 1-2, 3-4 and 5-6 values. This is not as easy it turns out. Because, if you remember we used `CountIf` to count the values. We need a way to evaluate more than one criteria. 
+Now let's do the same thing to count the 1-2, 3-4 and 5-6 values. This is not as easy it turns out. Because, if you remember we used `CountIf` to count the values. We need a way to evaluate more than one criteria.
 
 Enter `CountIfs` that does precisely that. Here's an example formula, to count 1-2 for a certain team:
 
@@ -158,25 +158,25 @@ Do the same for the other formulas (3-4 and 5-6), before continuing:
 * `=CountIfs('Form Responses'!C:C,">2", 'Form Responses'!B:B, $J$18)-G18`
 * `=COUNTIFS('Form Responses'!C:C,">4", 'Form Responses'!B:B, $J$18)`
 
-Nice! 
+Nice!
 
-You can now try it out by select different teams in J18, which should update the values for the formula. 
+You can now try it out by select different teams in J18, which should update the values for the formula.
 
 ### Watch out
 
-I noticed that in order to do this *change* people need to be able to *change* the Google Sheet if you share it with others. That is pretty obvious when you think about it, but I forgot to set that when I sent it out. 
+I noticed that in order to do this *change* people need to be able to *change* the Google Sheet if you share it with others. That is pretty obvious when you think about it, but I forgot to set that when I sent it out.
 
 ## Step 5 - Charts, charts, charts
 
-Let's, **finally**, use all of this for something useful. Let's create a graph similar to the one above, but only for the team that the user has selected. 
+Let's, **finally**, use all of this for something useful. Let's create a graph similar to the one above, but only for the team that the user has selected.
 
 * As before, this requires some tricky selection using the CTRL/CMD key and selecting the `A16:A20,C16:C20,E16:E20,G16:G20` values.
 * The rest is the same as before:
   * Click the button for Insert Chart (or in the menu Insert => Chart)
-  * Do some formatting of the labels, legend etc. 
-    - I removed the Horizontal axis title
-    - Put the Legend on the bottom
-    - And updated the Title of the Chart to `Spread of values - selected team`
+  * Do some formatting of the labels, legend etc.
+    * I removed the Horizontal axis title
+    * Put the Legend on the bottom
+    * And updated the Title of the Chart to `Spread of values - selected team`
 
 Now the user can change team in the `J18`-dropdown box and see the graph update itself. Like a nice little reporting tool. Here's how the graph looks for me:
 
@@ -184,6 +184,6 @@ Now the user can change team in the `J18`-dropdown box and see the graph update 
 
 ## Summary
 
-I learned a lot about Google Sheets and the formulas I used by trying to figure this out. I hope you did too. 
+I learned a lot about Google Sheets and the formulas I used by trying to figure this out. I hope you did too.
 
-[My sheet is found here](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit?usp=sharing). If you want to play around you can duplicate it and play around with it. 
+[My sheet is found here](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit?usp=sharing). If you want to play around you can duplicate it and play around with it.

@@ -56,9 +56,7 @@ And [my favorite](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-t
 
 (Take it easy start-up-Jonas, there are tips in here soon. Just need to lay the groundwork first.)
 
-
-
-But, there's an opportunity in the Conway's Law too. This is what Tobbe was talking about; [the reverse Conway manuver](https://vimeo.com/108017431). In short; if this is a law (i.e. it will happen) we can also use that fact to our advantage. For example by building teams as we want our product/code organized.
+But, there's an opportunity in the Conway's Law too. This is what Tobbe was talking about; [the reverse Conway maneuver](https://vimeo.com/108017431). In short; if this is a law (i.e. it will happen) we can also use that fact to our advantage. For example by building teams as we want our product/code organized.
 
 If you make teams called input, compute and output - what will happen with your code base? Well, there might be some problems at first but after awhile; you will probably have input, compute and output components. Separated and within them, the teams can move, hopefully, relatively independent. The way they talk with each other needs to be well-structured and established, but within they are free to do what they need.
 
@@ -81,8 +79,6 @@ In fact! Let's make that the goal of how we organize our teams:
 > Optimize for flow of value!
 
 That means that we want the decisions we make around team structure and organization to ensure that value flows smooth and fast. This is a great North Star and helps us to make tradeoffs and decision.
-
-
 
 And just for completeness - not optimizing for flow would be something like optimizing for resource utilization. Or in other words, ensuring that everyone is busy all the time. That is a noble art that has been mastered by … no-one that I've met.
 
@@ -109,8 +105,6 @@ But let me ask you a few questions, from the perspective of the flow as our guid
 
 If you are not sure (and you are not - that's ok. No one is); try for awhile and see if it works. Do retrospectives frequently and reflect on your current flow and see how the structure is helping you. [*Change* when needed.](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)
 
-
-
 > a team of developers
 
 Really? What about testers? Are the developers testing? All the way? Can they deploy as needed?
@@ -120,8 +114,6 @@ This, dear startup, used to be a big problem back in the days, at least in big o
 But will the developers be in charge of testing? Great. How can you ensure that they both built the right thing and built the thing right? Check out [Specification by example](https://gojko.net/books/specification-by-example/?src=/) for one (!) way to do that.
 
 Do you need other roles in there to improve flow? Designers? Product people? Marketing? What would improve flow? Or rather how can we ensure flow?
-
-
 
 > In particular, the product owner role and what that role does and doesn't do. I like the PO very local and present, but many people seem to have the PO outside the team as an ordering function.
 
@@ -137,8 +129,6 @@ Ensuring that the team and PO are in sync means that you will have a faster flow
 It's just another kind of work - that is better to sync on frequently rather than on bi-weekly-demo meeting. Just like developers doing some front-end, some back-end, and some admin work - everything doesn't need to be done together, but sync frequently.
 
 My experience is that more frequently syncs leads to better flow.
-
-
 
 > For me the PO is the one that maximizes the customer value, prioritize the backlog but also helps the team to reach their full potential.
 

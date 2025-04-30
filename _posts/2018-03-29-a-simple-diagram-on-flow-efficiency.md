@@ -161,7 +161,7 @@ Oh, that's right; this will fail. It will without exception fail, **if** you don
 
 For this to succeed you need the people that can complete the work in the room. Alternatively, give the people in the room the authority to complete the work.
 
-### Objection, your honor!
+### Objection, your honor
 
 Yes yes - this is a bit simplified. Or is it? See [Mob programming](https://en.wikipedia.org/wiki/Mob_programming) that does exactly this.
 

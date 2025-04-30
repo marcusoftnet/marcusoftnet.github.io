@@ -11,7 +11,7 @@ tags:
 
 I have learned so much by following the [Koa Js community](https://koajs.com/) and framework over the years. My [first post on the topic](https://www.marcusoft.net/2014/03/koaintro.html) was written in March 2014, when Koa was just a little tiny bird trying out its wings (look up that reference…).
 
-From that point I've [written many posts](https://www.marcusoft.net/tags/#Koa), done a few [screencasts for fun](https://www.youtube.com/watch?v=aTTjednotGQ)  and [other for profit](https://www.pluralsight.com/courses/javascript-koa-introduction).
+From that point I've [written many posts](https://www.marcusoft.net/tags/#Koa), done a few [screen casts for fun](https://www.youtube.com/watch?v=aTTjednotGQ)  and [other for profit](https://www.pluralsight.com/courses/javascript-koa-introduction).
 
 4 years (MY GOD!) is a long period but in the JavaScript world it's eons of time. I noticed that the other day when I refactored one of my later Koa applications into something more modern. I learned so much about the topics that I ran into, while upgrading my code and the resulting code was much more elegant, functional and understandable.
 
@@ -39,7 +39,7 @@ Ha - smaller is better! Who knew!?
 
 ## Getting started
 
-For reference I have installed Node `v10.2.1` using the excellent [nvm tool](https://github.com/creationix/nvm/blob/master/README.md).  But the code is written for something much much older. Aincient almost… Node `0.11.9` that was needed to get Koa to run. Bleeding edge back in the days.
+For reference I have installed Node `v10.2.1` using the excellent [nvm tool](https://github.com/creationix/nvm/blob/master/README.md).  But the code is written for something much much older. Ancient almost… Node `0.11.9` that was needed to get Koa to run. Bleeding edge back in the days.
 
 Get, [clone the repo from this tag](https://github.com/marcusoftnet/UserApiWithTest/tree/OrignialBefore2018Update) and … tag along. Promise, that was the last *bad* joke in the article series.
 
@@ -49,13 +49,13 @@ Then run `npm i` (shortcut for `npm install` save those fingers). That create a 
 
 ## Get the tests to run
 
-Nowadays the first thing I do is always to run `npm run` to see the commands avaible to me (you know [npm scripting right?](https://www.pluralsight.com/courses/npm-build-tool-introduction) Saved my life!) When we can see that I've actually set up commands for testing and starting. Good on me!
+Nowadays the first thing I do is always to run `npm run` to see the commands available to me (you know [npm scripting right?](https://www.pluralsight.com/courses/npm-build-tool-introduction) Saved my life!) When we can see that I've actually set up commands for testing and starting. Good on me!
 
-Also good on me, is that I have written test. They are written as integrationtests using an excellent framework called [supertest](https://github.com/visionmedia/supertest). This will serve excellent as a safety net for our refactoring.
+Also good on me, is that I have written test. They are written as integration tests using an excellent framework called [supertest](https://github.com/visionmedia/supertest). This will serve excellent as a safety net for our refactoring.
 
-My first order of business, if possible, is to get them to run. If I can get there then I can refactor more safely, knowning that the tests will let me know if I've done something stupid.
+My first order of business, if possible, is to get them to run. If I can get there then I can refactor more safely, knowing that the tests will let me know if I've done something stupid.
 
-`npm t` (shortcut for `npm test`, that in turn is a shortcut for `npm run test`) and … [baw-baw-baaaaw](https://sadtrombone.com/):
+`npm t` (shortcut for `npm test`, that in turn is a shortcut for `npm run test`) and … [baw-baw-baw](https://sadtrombone.com/):
 
 ```bash
 bad option: --harmony-generators
@@ -63,21 +63,19 @@ bad option: --harmony-generators
 
 Ok kids - history lesson. Koa used (and still can use) a feature called generators. The inner workings of that is a bit complicated and out of scope of this article but I've recorded a [screen cast on that too.](https://www.youtube.com/watch?v=egLUa6urd6I)
 
-Anyway; at the time I wrote this code, Node didn't support generator functions by default. Hence we need to use a flag to enable it. That flag in turn was only availble in Node versions above `0.11.9`, which is the reason that version was important.
+Anyway; at the time I wrote this code, Node didn't support generator functions by default. Hence we need to use a flag to enable it. That flag in turn was only available in Node versions above `0.11.9`, which is the reason that version was important.
 
-(A whole [separate fork of Node, called iojs](https://www.pluralsight.com/courses/running-node-applications-io-js) was created to get features like these faster. War, then love, emerged and now everyone is playing togther nicely. )
+(A whole [separate fork of Node, called iojs](https://www.pluralsight.com/courses/running-node-applications-io-js) was created to get features like these faster. War, then love, emerged and now everyone is playing together nicely. )
 
 Since then it's been included out of the box and this flag is not needed. Time to change some code. Let's do as little as possible now and only update the test script to this
 
 ```javascript
 "scripts": {
-	"test": "mocha -u bdd -R spec"
+  "test": "mocha -u bdd -R spec"
 }
 ```
 
-Sidenote; the strange `./node_modules/mocha/bin/mocha` reference that I have in there is not needed. `npm` can use tools in the local `node_modules`-folder without that prefix. I didn't know this at the time. Already an improvement.
-
-
+Side note; the strange `./node_modules/mocha/bin/mocha` reference that I have in there is not needed. `npm` can use tools in the local `node_modules`-folder without that prefix. I didn't know this at the time. Already an improvement.
 
 Let's run it again; `npm t` and … yes. New errors this time. Progress.
 
@@ -85,7 +83,7 @@ This time we get an error saying something like `var skinClassName = 'Skin' + Na
 
 Let's remove the monk-stuff and reinstall it `npm uninstall monk co-monk -S` and then `npm install monk co-monk -S`.
 
-Then rerun the tests `npm t`. This will produce a slow-running test suite, all tests failing, because you havent started (or installed?) Mongod. Open a new terminal window or tab, and start MongoDb with `mongod`.
+Then rerun the tests `npm t`. This will produce a slow-running test suite, all tests failing, because you haven't started (or installed?) Mongod. Open a new terminal window or tab, and start MongoDb with `mongod`.
 
 Then rerun the … you know what? This is tedious. Change the `package.json` test command to `"test": "mocha -w -u bdd -R spec"` that will watch your files for changes. **Then** rerun the test, for the last time; `npm t`.
 
@@ -100,7 +98,7 @@ TypeError: Cannot read property 'apply' of undefined
 
 That's JavaScript trying to be friendly and say that it doesn't know what `Collection.findById` is. Monk has updated it's api. We did a upgrade from 1.0.0 to 6.0.0 so that was kind of expected.
 
-Ok - this is easy to fix, by using the [excellent documentation of Monk](https://automattic.github.io/monk/docs/collection/findOne.html). Let's update the useage of `.findById`. It's in the `userRoutes.js` file on line 30. Change it from
+Ok - this is easy to fix, by using the [excellent documentation of Monk](https://automattic.github.io/monk/docs/collection/findOne.html). Let's update the usage of `.findById`. It's in the `userRoutes.js` file on line 30. Change it from
 
 ```javascript
 var user = yield users.findById(id);
@@ -113,8 +111,6 @@ var user = yield users.findOne({_id: id});
 ```
 
 All documents in MongoDb gets an id called `_id` by default, and hence the code above finds one document with the `_id` matching the `id` we pass to it.
-
-
 
 Now do a similar change for the `.updateById` and change line 38 [into this](https://automattic.github.io/monk/docs/collection/findOneAndUpdate.html):
 
@@ -143,4 +139,3 @@ Here are all the posts in the series
 * [Part III - where we start to move over to async/await testing](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iii.html)
 * [Part IV - where finally do something about the production code, and fix the other parts of the application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html)
 * [Part V - wrapping up by refactoring the root application](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_v.html)
-

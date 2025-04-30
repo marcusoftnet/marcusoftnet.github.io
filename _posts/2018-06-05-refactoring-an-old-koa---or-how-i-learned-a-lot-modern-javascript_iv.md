@@ -23,9 +23,9 @@ Here are all the posts in the series
 
 In the last post we made significant progress and now have some very modern and neat looking tests. That run and pass. Time to turn our attention to the system under test and give that an overhaul too.
 
-Keep the test running by doing `npm t` . I notice that sometimes when we rename files or move them mocha can crach so keep your eye out for that and restart the tests if that happens.
+Keep the test running by doing `npm t` . I notice that sometimes when we rename files or move them mocha can crash so keep your eye out for that and restart the tests if that happens.
 
-### Async / await for our code!
+### Async / await for our code
 
 Let's do the same trick as we did for our tests and move from generators and `yield` to `async` and `await`. They are supposed to accomplish the same thing; help us to write asynchronous in a synchronous flow.
 
@@ -71,7 +71,7 @@ Because it works… But does it really… No and I'll try to explain why.
 
 I was on a long detour here, I willingly admit. Hours, days even.
 
-Because the test were passing just fine, but whatever I changed in the system under test, they were still passing. For example changin the order of the parameters to the async functions (`const get = async (ctx, id) => {` or `const get = async (id, ctx) => {`) didn't change much.
+Because the test were passing just fine, but whatever I changed in the system under test, they were still passing. For example changing the order of the parameters to the async functions (`const get = async (ctx, id) => {` or `const get = async (id, ctx) => {`) didn't change much.
 
 So I started to suspect that my tests were not testing anything at all, maybe not even called the code. But they were, they just skipped the result. Here's how I found out.
 
@@ -85,7 +85,7 @@ it("deletes an existing user", async () => {
 });
 ```
 
-But when I did the log statement became `/undefined` in the console. Hmmm… what's up. Further more, why didn't the test fail when navigating to `/undefined ` ?
+But when I did the log statement became `/undefined` in the console. Hmmm… what's up. Further more, why didn't the test fail when navigating to `/undefined` ?
 
 The first question is answered with this awesome [StackOverflow response](https://stackoverflow.com/questions/39224320/nodejs-koajs-async-await-not-getting-value-from-db-collection-find). It's a long story but my favorite way to access [Mongo is via Monk](https://www.marcusoft.net/2014/02/mnb-monk.html). But [Monk](https://github.com/Automattic/monk), out of the box, doesn't support generators and `yield`, so I had to wrap it with [co-monk](https://www.npmjs.com/package/co-monk).
 
@@ -108,7 +108,7 @@ const db = monk("localhost/usersApi");
 const users = db.get("users");
 ```
 
-Since I didn't change the name of the exported variable everything worked just fine. I could now see the logging in the console and promptly removed that statment.
+Since I didn't change the name of the exported variable everything worked just fine. I could now see the logging in the console and promptly removed that statement.
 
 Still that didn't explain why my test where passing, because I still had a hunch that they were not running properly. I changed my delete test into this:
 
@@ -127,7 +127,7 @@ it("deletes an existing user", async () => {
 
 And sure enough. That console.log statement was fired and then it crashed with a Internal server error… I was bewilder and stumped...
 
-### Update packages! Dear Lord. Do it now!
+### Update packages! Dear Lord. Do it now
 
 Then I just checked the `package.json` out of a coincident. The packages in there has pretty low number. I ran a command called `npm outdated` and sure enough. A lot could have happened on the way.
 
@@ -161,7 +161,7 @@ Finally I updated the development dependencies too, saving them with the `-D` fl
 npm uninstall should supertest -S && npm install should supertest -D
 ```
 
-I restarted the tests and ran it. Now I got this error: `TypeError: Class constructor Application cannot be invoked without 'new' `
+I restarted the tests and ran it. Now I got this error: `TypeError: Class constructor Application cannot be invoked without 'new'`
 
 Ok - Koa now uses a class instead of a ordinary function. So we need to new it up. The first two lines in `app.js` became:
 
@@ -203,9 +203,9 @@ But there's still a problem here; the tests pass regardless of how I change my c
 
 I actually changed up quite a lot of how the supertest request is created:
 
-- In `before`, that is run before any testm, I create the server (`app.listen(8888)`)
+- In `before`, that is run before any tests, I create the server (`app.listen(8888)`)
 - and close it in `after` (with `server.close()`)
-- Then `beforeEach` test we create a new supertest `request` object with `request = supertest(server) `
+- Then `beforeEach` test we create a new supertest `request` object with `request = supertest(server)`
 - Finally I created an error checker that is called in the `.end()` call, that simply throws an error if one was found.
   - That simply looks like this, when used: `.end(throwIfError)`
 
@@ -253,9 +253,9 @@ Also a full description of this approach code is found [in a separate post](http
 
 When `.end()` is back in there the tests starts to fail again. I will not lie - this took the better part of a day to clear up and I'm not sure I remember everything I did. Two apparent errors was hindering me:
 
-1. the `await users.remove({})` I had in the `afterEach` hook for mocha was not good. Since this was in an async handler `afterEach(async () => {` , as all the test were they started to wipe the collection clean uncontrollable, or at least unpredictable. So I removed that hook althogether.
+1. the `await users.remove({})` I had in the `afterEach` hook for mocha was not good. Since this was in an async handler `afterEach(async () => {` , as all the test were they started to wipe the collection clean uncontrollable, or at least unpredictable. So I removed that hook altogether.
 
-2. I had a few slip-ups where I forgot to change from using `this` to using the context object `ctx`. Noteably in the `add` function in `userRoutes.js` where it for the longest time still was. `  const postedUser = await parse(this)`. This is now fixed.
+2. I had a few slip-ups where I forgot to change from using `this` to using the context object `ctx`. Notably in the `add` function in `userRoutes.js` where it for the longest time still was. `const postedUser = await parse(this)`. This is now fixed.
 
 And now the test fails when I change the code! Yes!
 (and passes when it's suppose to pass)
@@ -264,7 +264,7 @@ And now the test fails when I change the code! Yes!
 
 That just leaves a little helper I've used to check for existence and then the `userRoutes.js` is up to standard.
 
-I've changed it into this, shorter more funcational version:
+I've changed it into this, shorter more functional version:
 
 ```javascript
 const exists = (value) => value !== undefined && value !== null;
