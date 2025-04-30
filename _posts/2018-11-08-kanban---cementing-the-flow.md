@@ -63,7 +63,7 @@ But in essence:
 
 Ok, what good is that then? How will this help me?, you might ask.
 
-**Start where you are** will help you as you don't / should not do big changes. Ever. But even as we improve we should strive to do smaller steps towards ... well better ... What is that even? A question I sometimes surprise my coachee's with is "If this team was 100% better in a month - how would we notice? How would people around us?"
+**Start where you are** will help you as you don't / should not do big changes. Ever. But even as we improve we should strive to do smaller steps towards ... well better ... What is that even? A question I sometimes surprise my clients with is "If this team was 100% better in a month - how would we notice? How would people around us?"
 
 Speaking of noticing; this is one of the benefits of **visualization**. Knowledge work (as we do in the IT industry) has the drawback that it is not visible. So we need to take it out of our heads and into the physical world somehow. Make a little post-it note for each item we are working on. Map these post-its in a column describing the type of work we are doing. Draw a diagram showing how we are progressing towards our goals. The sky is the limit - visualize the crap out of that work. The better we see it - the better the decisions we make around it.
 

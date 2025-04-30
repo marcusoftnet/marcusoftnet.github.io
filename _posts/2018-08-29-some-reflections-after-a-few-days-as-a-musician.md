@@ -11,7 +11,7 @@ tags:
 
 I've had the great opportunity to do some extra work in a very different environment this week; I've been a musician in a professional orchestra - the awesome [Östgöta Blåsarsymfoniker.](http://www.ostgotamusiken.se/)
 
-It was quite a treat to work in this group and get to play my instrument on a high level. Also, as an amateur, getting paid to play my instrument is ... mindboggling.
+It was quite a treat to work in this group and get to play my instrument on a high level. Also, as an amateur, getting paid to play my instrument is ... mind boggling.
 
 Being part of this group for a few days made me notice a few rituals and practices that I think we can learn from. I wanted to share a few thoughts on them here.
 
@@ -67,7 +67,7 @@ One thing that I had particular enjoyment from was that my part had different ro
 
 These different roles were changed in a few bars, and everyone around me was supposed to do the same with their parts. When it worked it was a beautiful display of cooperation and listening that created an almost living organism and oneness out of us.
 
-If (and, I'm sad to say, *when*) I didn't pick up the role I played I ended up destroying the musical picture. Imagine for example that was supporting the bassoon, but played it as if I was the solo voice. An euphonium can easily overpower a bassoon and drown him out. Then that voice and change in timbre and sound in the music would have been lost and the music would have sound much duller and borning. A failure in performing the music, just because I didn't understand my role.
+If (and, I'm sad to say, *when*) I didn't pick up the role I played I ended up destroying the musical picture. Imagine for example that was supporting the bassoon, but played it as if I was the solo voice. An euphonium can easily overpower a bassoon and drown him out. Then that voice and change in timbre and sound in the music would have been lost and the music would have sound much duller and boring. A failure in performing the music, just because I didn't understand my role.
 
 Very seldom the music contains descriptions on what role I should take on, but this is rather discovered through playing the piece together.
 

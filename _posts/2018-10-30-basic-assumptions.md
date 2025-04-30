@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 basic (priorization) assumptions"
+title: "3 basic (prioritization) assumptions"
 author: "Marcus Hammarberg"
 date: 2018-10-30 17:45:48
 tags:
@@ -28,11 +28,9 @@ This is probably (who knows - my brain ... I don't always trust it myself) a rif
 >
 > > Norm Kerth, Project Retrospectives: A Handbook for Team Review
 
-Yes, I know that there are evil people, but admit it: it is so much easier to discuss, whatever problem we are facing if we disregard that for a while.
-Also, if people are here to do evil or willingly stupid things, we have a very different problem indeed.
+Yes, I know that there are evil people, but admit it: it is so much easier to discuss, whatever problem we are facing if we disregard that for a while. Also, if people are here to do evil or willingly stupid things, we have a very different problem indeed.
 
-But, I hear you inject, isn't this stance very gullible and naïve (double dotted I achievement unlocked)?
-Well No. Because if we take the stance that everyone did the best, given the information they had - then we turn our focus on improving the system that caused them to behave as they did.
+But, I hear you inject, isn't this stance very gullible and naïve (double dotted I achievement unlocked)? Well No. Because if we take the stance that everyone did the best, given the information they had - then we turn our focus on improving the system that caused them to behave as they did.
 
 If someone did something that we considered stupid, selfish or evil even, then we can now ask ourselves (thanks [Dan North](https://dannorth.net/):
 
@@ -54,7 +52,7 @@ The second assumption is a funny one. Because just about every organization I co
 
 Dear clients, past and future; that's how **every organization in the world** has it. I've never seen anything else. In fact; if the [opposite was true](https://www.marcusoft.net/2018/10/playing-with-names.html) it would probably be a company on the verge of dying.
 
-Let's try it, by going via negativa on that statement:
+Let's try it, by going _via negativa_ on that statement:
 
 > Here we have much more capacity than things to do.
 

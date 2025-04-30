@@ -65,14 +65,14 @@ Let's play a game! It's called "You cannot use the term **\_**" and see what hap
 
 Below is me playing this game on myself. What did you come up with?
 
-| You cannot use \_\_\_\_ | This sentence would then                                                                                                               | become this:                                                                                                                           |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Maintenance             | There! The development project is over now - it's now handed over to _maintenance_                                                     | There! We have done features and improvement for a while, and will continue to do some more features and improvements                  |
-| Testing                 | I hope they don't find a lot of bugs in _testing_. The timeline is tight!                                                              | I hope we find a lot of bugs early, before working in _working with code_. The timeline is tight                                       |
-| The Business            | _The Business_ has called a meeting - They have decided new directions for how the product will be developed. I wonder what it can be? | We have a workshop later to decide on the future for the product. Exciting! I have a few ideas since the last couple of tests I wrote. |
-| Ops                     | Oh Lordy... I need this out now - but _the ops guys_ (or _the devops ladies_) are busy. Doh!                                           | Oh Lordy ... I need this out now. Better get going writing a deployment script myself, I guess. We are all _Devops_ now.               |
+| You cannot use \_\_\_\_ | This sentence | would then become this: |
+| --- | --- | --- |
+| Maintenance | There! The development project is over now - it's now handed over to _maintenance_ | There! We have done features and improvement for a while, and will continue to do some more features and improvements  |
+| Testing | I hope they don't find a lot of bugs in _testing_. The timeline is tight!  | I hope we find a lot of bugs early, before working in _working with code_. The timeline is tight |
+| The Business  | _The Business_ has called a meeting - They have decided new directions for how the product will be developed. I wonder what it can be? | We have a workshop later to decide on the future for the product. Exciting! I have a few ideas since the last couple of tests I wrote. |
+| Ops | Oh Lord... I need this out now - but _the ops guys_ (or _the devops ladies_) are busy. Doh! | Oh Lord ... I need this out now. Better get going writing a deployment script myself, I guess. We are all _Devops_ now. |
 
-There are so many things that cast a light on the strange practice to divide our work up in phases, and even more so roles connected to that phase. I think it's a left-over from the Taylorism-era where each task was reduced down to it's smallest parts and then we had people executing that single task as fast as possible.
+There are so many things that cast a light on the strange practice to divide our work up in phases, and even more so roles connected to that phase. I think it's a left-over from the Taylor-ism-era where each task was reduced down to it's smallest parts and then we had people executing that single task as fast as possible.
 
 That might have been a good idea if you wanted to build many of the same ("They can get whatever car they want - as long as it is a black T-Ford", is a [famous](http://oplaunch.com/blog/2015/04/30/the-truth-about-any-color-so-long-as-it-is-black/) quote)
 
@@ -80,19 +80,19 @@ That might have been a good idea if you wanted to build many of the same ("They 
 
 I think we should continue to challenge the names that we have for roles and see what happens with how we view work then. Maybe we will learn something new
 
-My personal favorite story came from a little gallup I ran on twitter the other week. There's a Swedish word called "Förvaltning" that, as it is used in IT, doesn't easily translate to English. It's somewhere between "Maintenance" and "Governance", but a role in singular (The Governance). I've met people that introduce themselves as "I'm a maintainer" ("Jag är förvaltare").
+My personal favorite story came from a little gallup I ran on twitter the other week. There's a Swedish word called "Förvaltning" that, as it is used in IT, doesn't easily translate to English. It's somewhere between "Maintenance" and "Governance", but a role in singular (The Governance). I've met people that introduce themselves as "I'm a maintainer".
 
 So I asked for help to find a translation:
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="sv" dir="ltr">Jag kallar det Continous Improvement. Går hem också I stora förvaltande organisationer.</p>&mdash; Ingrid Domingues (@ingriddomingues) <a href="https://twitter.com/ingriddomingues/status/1048450256638234624?ref_src=twsrc%5Etfw">October 6, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="sv" dir="ltr">Jag kallar det Continuous Improvement. Går hem också I stora förvaltande organisationer.</p>&mdash; Ingrid Domingues (@ingriddomingues) <a href="https://twitter.com/ingriddomingues/status/1048450256638234624?ref_src=twsrc%5Etfw">October 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I tested this with my client and they jumped on it right away. I suggested that we would change the name to "Förbättring" (Improvement). So far it's just done informally but I wanted to leave you with a few conversations that be flying around the office that shows the strangeness in having Förvaltning (or developing of course) as a separate role and phase.
+I tested this with my client and they jumped on it right away. I suggested that we would change the name to "Improvement. So far it's just done informally but I wanted to leave you with a few conversations that be flying around the office that shows the strangeness in having a separate "Maintaining"-phase (or developing of course) as a separate role and phase.
 
 > 1: Ok, the development project is soon done, so the system will soon go into ... _Improvement_
 >
 > 2: _Improvement_?! What did you do in the project then?
-
+>
 > Item 36, that is an ... _improvement_-task. Hey?! What are these other tasks? Are we not all doing improvements all along?
-
+>
 > Well, soon our budget for ... _improvement_ is just about over. I guess that we should stop improving then?

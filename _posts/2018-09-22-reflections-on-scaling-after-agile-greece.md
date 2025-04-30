@@ -11,13 +11,13 @@ tags:
 
 I've just attended [Agile Greece Summit](http://agilesummit.gr/) which was a wonderful event. Many awesome speaker, met a few of my heroes ([Linda Rising](http://lindarising.org/), [Michael Feathers](https://michaelfeathers.silvrback.com/), [David Snowden](http://cognitive-edge.com/our-people/dave-snowden/) and [Mark Schwartz](https://itrevolution.com/faculty/mark-schwartz/)) and met new friends ([Portia Tung](https://twitter.com/portiatung), [Alison Coward](https://twitter.com/alisoncoward), [Lisi Hocke](https://twitter.com/lisihocke), [Gary Crawford](https://twitter.com/crawfrd) and [Gwen Diagram](https://twitter.com/gwendiagram), just to mention a few) and finally had many interesting and challenging conversations throughout the conference.
 
-All in all it was a very good event to attened, expertly organized by an awesome team and I consider myself lucky to have been here.
+All in all it was a very good event to attended, expertly organized by an awesome team and I consider myself lucky to have been here.
 
 As with many conferences an underlying theme starts to emerge from the different talks. I suspect we take inspiration from other speakers and conversations, but I've observed this too many times to think it's a coincidence.
 
 I wanted a few reflections that I got during this conference. It can be summed up in a few very strange sentences:
 
-> It's all about people, and they are complex systems working in complex systems. So you cannot trust their experiences or facting them into do what you want. But you can put down your sword and listen, and that will open new possibilities that you didn't have before
+> It's all about people, and they are complex systems working in complex systems. So you cannot trust their experiences or fact-ing them into do what you want. But you can put down your sword and listen, and that will open new possibilities that you didn't have before
 
 Let me explain how I interpret the messages of the two days.
 
@@ -27,11 +27,11 @@ Let me explain how I interpret the messages of the two days.
 
 The first day ended with a very interesting and fun talk on Play by my friend (yah!) Portia Tung. Too many good things that stands out there - see it yourself as soon as you can, but it underlined what we talked about in many sessions and conversations the first day.
 
-> Although we are doing techincal things, with methods and processes - it is all people.
+> Although we are doing technical things, with methods and processes - it is all people.
 
 Every story, every point made or even tools shone light on the people in the team. How they could (or not) cooperate and thrive together. The space made for them to be awesome - or not.
 
-Even the first keynote by Michael Feathers, that was more techinal, talk mostly how people would interact better or worse by the structures we put in place to help them do so.
+Even the first keynote by Michael Feathers, that was more technical, talk mostly how people would interact better or worse by the structures we put in place to help them do so.
 
 This is obviously not something new (see [Agile Manifesto](http://agilemanifesto.org/) for starters) but I sense a move away from stats, diagrams, simulations and calculations (a little bit - I still use and propagate for these things) to celebrating the creativity and innovation hidden within each human being. And how a good process, great tooling, great understanding of the enabling constraints can help them become the best version of them.
 
@@ -55,7 +55,7 @@ Also think about other prescriptive methods. Where were they invented? What chal
 
 Further more, Prof Snowden told us, people are notoriously good in remembering and forgetting parts of the actual chain of events. If something great happen we interpreted our actions as things that helped that result. When things goes south it was bad luck.
 
-This is highlight in many places in Daniel Kahnemans book [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) too.
+This is highlight in many places in Daniel Kahneman's book [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) too.
 
 At this point I got chills down my spine. [I have just published a story about a hospital in Indonesia](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=sr_1_2_twi_pap_2?ie=UTF8&qid=1537619450&sr=8-2&keywords=Marcus+Hammarberg) and how we used a method and process to help them survive and improve. And I can almost guarantee that I've forgotten, painted a better (or worse) picture than the actual facts. In any case I've told the book from my perspective and how I perceived it - there was at least 100 people more in the hospital.
 
@@ -63,9 +63,9 @@ Am I a baddie? Do I tell people to do that and succeed?
 
 Well, I don't. In fact, I always try to ensure that the Bungsu story is an inspirational story that by all means is true. But I also suspect that you have a very different context and cannot apply the tools in the same way as we did; when the roof falls in, on a hospital running with loss and no renewed operational permit. And even if you did - you didn't have Dr Lillian, Ibu Elsye or a crazy Swede.
 
-Read the story ([DO IT!, DO IT NOW!](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=sr_1_2_twi_pap_2?ie=UTF8&qid=1537619450&sr=8-2&keywords=Marcus+Hammarberg)), be inspired by others but don't apply their concepts straight off. Think about **why** they did what they did and apply those prinicples to find your practices, when they make sense.
+Read the story ([DO IT!, DO IT NOW!](https://www.amazon.com/Salvation-hospital-Indonesia-reshape-company/dp/1719485135/ref=sr_1_2_twi_pap_2?ie=UTF8&qid=1537619450&sr=8-2&keywords=Marcus+Hammarberg)), be inspired by others but don't apply their concepts straight off. Think about **why** they did what they did and apply those principles to find your practices, when they make sense.
 
-### Or facting them into do what you want
+### Or fact-ing them into do what you want
 
 The best keynote was left for last. I've never cried before at an IT presentation (saved my own when I too emotional about the ... people ... that was restored) - but the last keynote by Linda Rising had me in tears.
 
@@ -73,12 +73,10 @@ Her topic was about meeting resistance and convincing others. And this was topic
 
 She started with a very revealing thought experiment:
 
-Imagine that you have a debate with someone you don't agree with. It can be something simple as Trump or very very sensitive as #NoEstimates. Now imagine that you use FACT to fence them to the ground. Your arguments are wastly better. They shred you opponent to a puddle and they (metaphorically) lies on the ground looking up to you. Bleeding.
+Imagine that you have a debate with someone you don't agree with. It can be something simple as Trump or very very sensitive as #NoEstimates. Now imagine that you use FACT to fence them to the ground. Your arguments are vastly better. They shred you opponent to a puddle and they (metaphorically) lies on the ground looking up to you. Bleeding.
 Now do you think that they will say: Thank you! I now see the light. You showed me how stupid I was and I regret that. But thank you. You knew best.
 
-Newflash: that will never happen. If anything they will believe even more that they are right. You strenghten (or even frighten) them more.
-
-
+Newsflash: that will never happen. If anything they will believe even more that they are right. You strengthen (or even frighten) them more.
 
 This is bad news for anyone like me that are hired to do transformations (shrug) and turn peoples mind. Linda just said that I cannot. [Facts will not change our mind](https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds)
 
@@ -108,9 +106,9 @@ By listening we create a stronger social understanding and bond between us, and 
 
 ## Summary
 
-Yes, it might be a bit touchy feely, but for me it all ties together nicely.
+Yes, it might be a bit touchy feel-y, but for me it all ties together nicely.
 
-If it's all about people and people are complex systems (as indivuals but even more in groups) it means that we cannot prescribe solutions from before and expect it to work. Our fancy facts and/or stories will not make a difference. Not only that; we cannot use it to convince others either.
+If it's all about people and people are complex systems (as individuals but even more in groups) it means that we cannot prescribe solutions from before and expect it to work. Our fancy facts and/or stories will not make a difference. Not only that; we cannot use it to convince others either.
 
 But we can listen. Not with the intent to convince. But with the intent to learn.
 

@@ -1,9 +1,88 @@
+---
+layout: post
+title: Integrate JIRA search results in Google Sheets for fun and profit
+author: Marcus Hammarberg
+date: 2018-06-21T13:55:11.000Z
+tags:
+- Tools
+- Agile
+- Lean
+- Scrum
+- Kanban
+- Life of a consultant
+---
+
+As an agile coach working in bigger companies you are sound exposed to [JIRA](https://www.atlassian.com/software/jira). JIRA - a tool that started out as a good idea and then grew into … a not as good idea.
+
+But hey - we got to live with it, I suppose.
+
+`</rant>`
+
+In this post I wanted to show you how to easily import data from a JIRA query to Google Sheets (or Excel I presume). That is, in all honesty, not that complicated so I will share a few other tips around this whole process.
+
+In short:
+
+> Tweaking export of JIRA data for fun and profit
+
+<!-- excerpt-end -->
+
+## Creating a filter
+
+[JIRA](https://www.atlassian.com/software/jira) has a really powerful tool in searching for issues, through it's query language [JQL](https://www.atlassian.com/blog/jira-software/jql-the-most-flexible-way-to-search-jira-14). If you head on to the search feature (Issues -> Search for issues) we can try something out:
+
+```text
+Resolution is not empty and labels in (roar-subzero-tech, wtp-unplanned)
+```
+
+This will return all tickets that is closed (has a Resolution) with the labels `roar-subzero-tech` or `wtp-unplanned`.
+
+This is really cool, but very … volatile. Let's store this query by creating a filter. Click `Save as` and give it a name. I named my `tech-items-for-roar-subzero`.
+
+Perfect it's is now stored and got an id so that you can get back to it via a URL, and a name. Mine go `https://{serveraddress}/issues/?filter=30966`
+
+Another great thing is that this filter now have, what's known as a canonical name; it's like a definition if you like.
+
+> Go here and you will get all the tech items for roar-subzero
+
+This mean that should we change the definition we just change this filter query and everyone can keep using it.
+
+Fun fact: I actually just change that filter to this
+
+```text
+Resolution is not empty and labels in (roar-subzero-tech)
+```
+
+As I understand more about how we report issues in JIRA.
+
+### With data from other filters
+
+Now considering a case where you have many teams in an organizations; `roar-subzero, roar-counters, roar-reporters, roar-core`, to make a few up. What if I want to see all the resolved tech-items for all of these, but they have different definitions for what a tech item is?
+
+Ha! This is easy: just make a filter like above and then use that in a filter of filter query like this:
+
+```text
+filter in (tech-items-for-roar-subzero, tech-items-for-roar-counters, tech-items-for-roar-reporters, tech-items-for-roar-core)
+```
+
+By doing this we can easily combine filters in to build higher-order filters. The definition of what each of this mean lives in their own filter definition and can change independently for this higher order function.
+
+I stored that as `tech-items-for-roar`
+
+### With the data for the last couple of days
+
+But we can do more, since that now is a lot of items (potentially) we need to filter it down a bit.
+
+I created yet another filter that I called `tech-items-for-roar-last-month` and wrote it like this:
+
+```text
+filter in (tech-items-for-roar) and resolved > -30d
+```
 
 This gives me all the tech items that have been resolved across all of Roar organizations in the last 30 days.
 
 ### Selecting Columns
 
-Now, the default columns are great for reading this long list of items, but I want to do some stats. I just need the issue key, creation date, and resolution date. 
+Now, the default columns are great for reading this long list of items, but I want to do some stats. I just need the issue key, creation date, and resolution date.
 
 To select columns, click the `Columns` link to the right of the search. Then select the columns you want to store for this filter. They will be saved automatically.
 
@@ -28,7 +107,7 @@ I usually color calculated cells differently to indicate they shouldn't be touch
 My sheet has 10 calculated columns. The first 4 calculate per row:
 
 * **Link**: This creates a hyperlink back to the issue.
-* **Leadtime in days**: This calculates the lead time by subtracting the creation date from the resolution date.
+* **Lead time in days**: This calculates the lead time by subtracting the creation date from the resolution date.
 * **Week completed**: This gets the week for the resolved date.
 * **Month completed**: This calculates the month for the resolved date.
 
@@ -40,24 +119,25 @@ I've also created a few visualizations of the data. You can see them [here](http
 
 ### Throughput per Month
 
-- Select the column N-P, all rows.
-- Go to Insert -> Chart.
-- The data range should be `N1:N1000,O1:P1000`.
-- Move the Months to the X-axis series.
-- Remove it from the Y-axis series and add it as an X-axis series.
-- Select the Smooth line chart type.
-- Make any additional formatting adjustments.
+* Select the column N-P, all rows.
+* Go to Insert -> Chart.
+* The data range should be `N1:N1000,O1:P1000`.
+* Move the Months to the X-axis series.
+* Remove it from the Y-axis series and add it as an X-axis series.
+* Select the Smooth line chart type.
+* Make any additional formatting adjustments.
 
 ### Throughput per Week
 
 Same as above, but use the data from `J1:L1000`.
 
-### Leadtime per Issue
+### Lead time per Issue
 
-- Select Column D (Resolved) and F (Leadtime in days).
-- Go to Insert -> Chart.
-- Select a Scatter chart.
-- Add a Polynominal trend line for the Leadtime in days series.
+* Select Column D (Resolved) and F (lead time in days).
+* Go to Insert -> Chart.
+* Select a Scatter chart.
+* Add a Polynomial trend line for the lead time in days series.
+
 - Make any additional adjustments.
 
 ## Conclusion

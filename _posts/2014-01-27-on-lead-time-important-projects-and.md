@@ -62,7 +62,7 @@ In processes like the one described above, the work is not being worked on much 
 - Write "Working" above it and "Waiting" below it, to the left.
 - Now plot where the task has been by doing a staple diagram of sorts. You'll end up with something like this:
 
-![bad leadtime](/img/bad+leadtime.jpg)
+![bad lead time](/img/bad+leadtime.jpg)
 
 Now, for the fun part.
 
@@ -70,7 +70,7 @@ Now, for the fun part.
 - Draw a new similar diagram below and plot only the "Working" time on the diagram.
 - You'll end up with something like this (I've even added a little waiting time in the beginning, I'll get back to that later in the post):
 
-![better leadtime](/img/better+leadtime.jpg)
+![better lead time](/img/better+leadtime.jpg)
 
 In true [Switch-spirit](http://heathbrothers.com/download/switch-framework.pdf), we now have visualized information and hence "found the feeling" or felt the pain that's needed to improve. We've also "posted a postcard from the future" to show how fast it could go. Now, the only question is, how?
 
@@ -116,7 +116,7 @@ If I could think faster, I would have responded:
 
 Another thing that doesn't help the poor people in processes like these is often the lack of clear priorities. I've heard about a big bank in Sweden that had 15 projects that were top prioritized. That's 15 projects that we should work on first. I'm not sure that's even English. Surely only one project (person, thing, or whatever) can be the first?
 
-I've also worked at a Swedish insurance company that, in one project, had so many PRIO 1 items in the backlog that they (wait for it) introduced PRIO 0. Yes, PRIO 0 is even more prioritized than PRIO 1. Surely this will redeem the situation? It did not, and pretty soon they had about 20 PRIO 0 items in the backlog too.
+I've also worked at a Swedish insurance company that, in one project, had so many priority 1 items in the backlog that they (wait for it) introduced priority 0. Yes, priority 0 is even more prioritized than priority 1. Surely this will redeem the situation? It did not, and pretty soon they had about 20 priority 0 items in the backlog too.
 
 With a lot of things that are highest priority for teams and people, we're making it very hard for them to know what to do. In many situations, it really doesn't matter: they are making someone disappointed anyway.
 
@@ -126,7 +126,7 @@ With a lot of things that are highest priority for teams and people, we're makin
 
 It doesn't say a thing about giving priorities 1, 2, 3 and first doing all the 1's and then all the 2's. No, it says: "treat something as more important than other things". Yes, some things will have to wait before we start to work on them. But, then what we **actually** work on is more important and hence it will be a better use of the time we put in.
 
-[Corey Ladas](http://twitter.com/COREY_LADAS) introduced me to a tool called [priority filters](http://leansoftwareengineering.com/2008/08/19/priority-filter/). With this, we visualize our priorities from less important all the way up to "so important that we're actually working on it now". I like that definition much better than PRIO 1.
+[Corey Ladas](http://twitter.com/COREY_LADAS) introduced me to a tool called [priority filters](http://leansoftwareengineering.com/2008/08/19/priority-filter/). With this, we visualize our priorities from less important all the way up to "so important that we're actually working on it now". I like that definition much better than priority 1.
 
 ### What I Will Do Now
 
