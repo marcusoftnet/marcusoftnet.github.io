@@ -27,8 +27,6 @@ No! Exactly. Us talking, presenting, showing nice graphs and "re-emphasizing the
 
 This is by the way, very close to the [agile manifesto](http://agilemanifesto.org/) way of putting things ("Working software is the primary measure of progress" for example.
 
-
-
 Viral Change then goes on and say that the best way to influence people is through the power of the network and peer-to-peer influence. In other words: hearing stories about how the changed behavior is better for us helped us, gave us increased X - from our peers is much more powerful than to get a new way of working handed down to us.
 
 Again the agile manifesto is brushing on this ("The most efficient and effective method of conveying information to and within a development team is a face-to-face conversation." And "Individuals and interactions over processes and tools")
@@ -37,20 +35,18 @@ This way of looking at effective change is plugged very much into my favorite [C
 
 Viral Change happens when you let a small group of people, with the "right" behaviors, telling/spreading these behaviors in the network. The word Viral is not by accident of course since this reminiscence the way viral diseases (or [cat pictures](https://www.buzzfeed.com/expresident/best-cat-pictures)) happens.
 
-
-
 The final part, that I want to talk about here, is how this approach (trusting the network, letting peers) changes leadership. Because you need to move towards what Viral Change calls "Backstage leadership". Now you are not sending **HOW** to do things, but rather create an environment where Viral Change (networking, peer-to-peer influence, storytelling) can happen and be effective.
 
 Hmmm… this *also* resonates with me and my experiences from agile and lean. Because if you want autonomous, responsible and accountable teams in your organization you, as a leader, need to ensure that an environment where such teams thrive exists.
 
-I'm reminded of [David L. Marqueet and his intent based leadership](http://www.davidmarquet.com/). I love how he [phrase it in this video](https://youtu.be/OqmdLcyES_Q?t=3m3s) - here are some quotes:
+I'm reminded of [David L. Marquet and his intent based leadership](http://www.davidmarquet.com/). I love how he [phrase it in this video](https://youtu.be/OqmdLcyES_Q?t=3m3s) - here are some quotes:
 
 > If you want your people to think - give intent
-
+>
 > What are we trying to accomplish here?
-
+>
 > You give intent to them and they give intent back to you
-
+>
 > Stop requesting permission and start telling your intent
 
 By doing these things the initiative shifts from you, the leader, to them the people in the organization where the change is supposed to happen.
@@ -58,9 +54,9 @@ By doing these things the initiative shifts from you, the leader, to them the pe
 David L. Marquet also teaches us to use the [values that we want to see more of when we tell stories](https://youtu.be/MkLhlJyfpsw?t=4m). That is a great way of reinforcing and promoting the values:
 
 > John was very **bold** yesterday when he …
-
+>
 > Lisa showed great **initiative** when she invited our customer to the office
-
+>
 > Anna arranged a really **fun** session yesterday …
 
 ## What is right then?
@@ -79,12 +75,9 @@ Instead of valuing great plans and deadline compliance we start to value deliver
 
 > If a team didn't deliver a thing on the backlog but reached the change in the target values (increase number of users, or what have you) - would that be acceptable throughout the organization?
 
-
-
 Well, Viral Change has an interesting take on that too.  This quote about, for example, made me think about agile (replace Viral Change TM below with "agile" for example and see for yourselves) and how I often introduce it to teams and organizations:
 
 > There are no big declarations of ‘a new programme’ or anything that looks/may look like ’another corporate initiative’6. **The more visible and more formal Viral Change TM becomes, the less likely its success**.
-
 
 and this
 
