@@ -129,4 +129,4 @@ On this you can create cards that you can move around anywhere you want. Further
 
 There could be an area on the board where you pull items that are completed. Lead time is counted from the time you put it on the board until you pull the item down to that area.
 
- [^1]: Funny story - I actually considered naming this post "JIRA considered harmul", but then I would have a really hard time not ranting. And I DO NOT want to do that.
+ [^1]: Funny story - I actually considered naming this post "JIRA considered harmful", but then I would have a really hard time not ranting. And I DO NOT want to do that.

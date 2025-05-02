@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some thoughts I got after talking with Woody Zuil
+title: Some thoughts I got after talking with Woody Zuill
 date: 2014-07-23T02:01:00.003Z
 author: Marcus Hammarberg
 tags:

@@ -60,7 +60,7 @@ By looking at yourself from the outside in we can evaluate the value of a policy
 * Will our customer be more happy by us doing this? Do they even care?
 * What would our competitors say? Will this put us ahead or behind them?
 
-Even if our customers hate it and our competetitors love it, we still (?!) might decided to continue doing it, for whatever reason. But now at leas that is a conscious decision and one that we have to justify with some real value above and beyond the downside from a customer and competitor perspective.
+Even if our customers hate it and our competitors love it, we still (?!) might decided to continue doing it, for whatever reason. But now at leas that is a conscious decision and one that we have to justify with some real value above and beyond the downside from a customer and competitor perspective.
 
 * All our work needs to be followed up in a time reporting system
   * Does our customers care? No - not one bit

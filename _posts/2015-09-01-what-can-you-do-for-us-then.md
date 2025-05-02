@@ -39,14 +39,15 @@ Many many times. I've had jobs that was only that;
 
 <blockquote>
  "Go to those teams and coach them."
-	<p>"But they say they have no problems"</p>
-	<p>"You: do coaching! Them: better. Any questions?"</p>
-	<p>"No sir, important person who pays my fee SIR!"</p>
+ <p>"But they say they have no problems"</p>
+ <p>"You: do coaching! Them: better. Any questions?"</p>
+ <p>"No sir, important person who pays my fee SIR!"</p>
 </blockquote>
 
 I will never do that again. Promise. Scouts honor.
 
 ## Coaching - what is it
+
 Before (promise), I check the definition up I wanted to write a few words on what coaching means to me; to me coaching means that you get help from someone outside (aka not you) to improve or learn something. You ask this person to help you because you think that will increase the speed or the quality of the learning / improving. There's a lot of trust between the parties in order to make the relationship a fruitful one.
 
 Ok ... hold on while I search for definitions.
@@ -78,6 +79,7 @@ If all answers are No - then I thank you for you time and wish you success in yo
 If you answer No to anyone of those - then we could do this but I will probably not be to any great assistance to you. The chances of our work being fruitful or worthwhile are definitely lower too. But I'm happy to give it a chance - most times I've been engaged as a coach not all three of these has been answered Yes. Some of those times have been great, some have been "Meh...".
 
 ## Summary
+
 When I got the original question ("What is it that you can help us with, then?") I wanted to come up with an answer like the one Mr Wolf pulls in Pulp Fiction:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NP4lrVIpbvo" frameborder="0" allowfullscreen></iframe>
@@ -87,8 +89,8 @@ Actually; he's not too bad. He presents himself and tells what he does ("I solve
 He's a little bit too frank and cocky - not really my style. I'd rather try something like
 
 <blockquote>
-	"What is it that you can help us with, then?"
-	<p>"I'm mr Marcus - I help people that wants to improve to do so. Do you need My help?"</p>
+ "What is it that you can help us with, then?"
+ <p>"I'm mr Marcus - I help people that wants to improve to do so. Do you need My help?"</p>
 </blockquote>
 
 Now I'm going to buy a book on coaching. I think I need to improve.

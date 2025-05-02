@@ -15,7 +15,7 @@ At one point in time, after we've been through the [agile manifesto](http://agil
 
 > This all sounds very good. I buy all of it. Its common sense. But the one thing that I don't get is why we realize this now. We are doing something very different than this now - have we been stupid before?
 
-The discussion that followed was very fruitful and the people in the room learned a lot. But I wanted to go beyond the question. Because he's of course not stupid - he's very knowledgable and experienced. And so was everyone else in the room.
+The discussion that followed was very fruitful and the people in the room learned a lot. But I wanted to go beyond the question. Because he's of course not stupid - he's very knowledgeable and experienced. And so was everyone else in the room.
 
 But why does things that *sounds very good*, *is common sense* and that *I buy all of it* - comes out like something totally different and unnatural in many organizations.
 
@@ -35,9 +35,9 @@ It's a great way to change perspective and seek understanding. If I stood where 
 
 Without going to deep into psychology and bringing it back to the topic at hand: agile and lean - I think it's like this:
 
-With lean we take a totally different basic premise for how work should be handled: we [manage for flow](https://en.wikipedia.org/wiki/Kanban_(development)?oldformat=true#General_practices), whereas many organization instead manage for resource utilisation. Now I propose that one is not generally *better* than the other - they just strive towards different goals. I know which one I *think* is better, but since lean is a business strategy I'm going to treat it like that, a strategy, and continue to use it until I see something better.
+With lean we take a totally different basic premise for how work should be handled: we [manage for flow](https://en.wikipedia.org/wiki/Kanban_(development)?oldformat=true#General_practices), whereas many organization instead manage for resource utilization. Now I propose that one is not generally *better* than the other - they just strive towards different goals. I know which one I *think* is better, but since lean is a business strategy I'm going to treat it like that, a strategy, and continue to use it until I see something better.
 
-When you manage for flow you turn the tables totally for how we are treating, managing and organising our processes. Here's a few examples that is very different from traditional methods when managing for flow;
+When you manage for flow you turn the tables totally for how we are treating, managing and Organizing our processes. Here's a few examples that is very different from traditional methods when managing for flow;
 
 * Slack or idle time is not bad, since it gives room for innovation and also make sure that works flows even faster (i.e. I'm available when needed). For example consider [mob programming](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/) where 4-5 people take turns using the same keyboard and screen - a very popular agile method.
 * Problems are not bad - they are nuggets of gold for those to improve their process even further. Stopping and reflect on the problem to do even better tomorrow is a great thing.
@@ -61,15 +61,15 @@ It's like this [excellent video](https://youtu.be/TCqQ9LxzTwM?t=9m9s) tells it:
 
 And that's correct. Because the organization is, of course (hopefully even), built to support the paradigm that the organization believes in. In one indecent I presented the ideals of lean to a group of managers. At the end one of them said:
 
-> I like it! Faster flow, slack and less utilisation - all great stuff! Never talk to my staff about this!
+> I like it! Faster flow, slack and less utilization - all great stuff! Never talk to my staff about this!
 
 Of course I asked why:
 
-> Because I get paid by how much my staff is utilized. 100% utilisation is the goal
+> Because I get paid by how much my staff is utilized. 100% utilization is the goal
 
 The organization was built to support the paradigm that it believed. And lean is of course the exact opposite of those ideas.
 
-If you want even more things to think about, consider the goal of a separate IT-department is. Organising into separate departments is not (always) optimizing for flow, right?
+If you want even more things to think about, consider the goal of a separate IT-department is. Organizing into separate departments is not (always) optimizing for flow, right?
 
 ## Conclusion
 

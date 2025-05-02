@@ -23,7 +23,7 @@ When I started the project the teams where working in sprints of two weeks, and 
 
 As I told you in the intro the team had failed a few releases in a row, and sure enough, the first release with me aboard also failed. We had to make a partial rollback and then a hot fix a few days later.
 
-This, in combination with the fact, that the team was maintaining the product they are developing made me feel that iterations maybe not was the best way to approach for this team to work. Scope of iterations could not be locked down since some room had to be made for things that needs to be fixed. And if you cannot lock down the scope of an iteration the use of having iterations, although short, is diminshed.
+This, in combination with the fact, that the team was maintaining the product they are developing made me feel that iterations maybe not was the best way to approach for this team to work. Scope of iterations could not be locked down since some room had to be made for things that needs to be fixed. And if you cannot lock down the scope of an iteration the use of having iterations, although short, is diminished.
 
 I simply suggested that we ditch the sprints and just work in a flow related manner; taking on new work as something else gets completed.
 

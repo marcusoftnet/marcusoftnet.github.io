@@ -12,7 +12,7 @@ tags:
 
 This is another post in the impromptu series "Marcus explains his tweets in more detail".
 
-In this post I wanted to talk a little realisation that I've grown into the last couple of years
+In this post I wanted to talk a little realization that I've grown into the last couple of years
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There are no best practices is knowledge work.Only good practices and context when they apply. Learn principles-adjust and develop practices</p>— Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/779327360948723712">September 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -33,9 +33,9 @@ Before I started in that end and often ended up in another - but nowadays I just
 
 Principles are more powerful since they unlock the creativity and innovation within an organization and also every individual. If you teach someone a practice (without or little focus on principles) their perception of reality and even language will be formed by that practice.
 
-I'm sure you have team that is not, [by any measure](http://agileforall.com/are-you-agile-the-nokia-test/), are doing Scrum and still refers to their board as the "Scrumboard". It's not. It's just a visualisation of your work. On a board. And that's perfectly ok - Scrum is not as important as the principle of making work visual so that we know what is going on.
+I'm sure you have team that is not, [by any measure](http://agileforall.com/are-you-agile-the-nokia-test/), are doing Scrum and still refers to their board as the "Scrum board". It's not. It's just a visualization of your work. On a board. And that's perfectly ok - Scrum is not as important as the principle of making work visual so that we know what is going on.
 
-If you understand that visualisation is the thing maybe other, better suited, ways of doing the visualisation will emerge. A board might not be the thing. Maybe, in our context, shelves with boxes are better? Only you know and can find it, if you get the principle.
+If you understand that visualization is the thing maybe other, better suited, ways of doing the visualization will emerge. A board might not be the thing. Maybe, in our context, shelves with boxes are better? Only you know and can find it, if you get the principle.
 
 ## Are we even in the right box?
 
@@ -57,7 +57,7 @@ What if the practice needs to evolve? I remember when RUP (Rational Unified Proc
 
 Or did it… No it didn't, because it stated clearly that you should only use the part of RUP that supports you and your organization. But everyone (that I saw) still implemented everything of it. Just because it was there and, more importantly, because no-one knew where we going;
 
-- This big SAD document feels so stupid - should we stop doing it, do it better, do it in iterations, AAAAH - what is it?
+- This big SAD document feels so stupid - should we stop doing it, do it better, do it in iterations?
 - We really should change the way we write these sequence diagrams, it doesn't gives me value most of the time. "Ap ap ap - that's not RUP. RUP tells us to …"
 - All these meetings are wearing us down. There's no time to work. But which one should we stop doing? If we stop doing one, why not stop doing all? Which is the more important.
 

@@ -72,9 +72,9 @@ This is manifested in “funny” (?) in the section showing the backlog where t
 
 So, as you probably can understand, each team has chosen different approaches. We have two Scrum projects that use sprints and well-defined backlogs for the sprint and for the whole “sub-project” (a.k.a. product backlog for the team). Here are their boards:
 
-![scrum team 1 scrumboard](/img/scrum%2520team%25201%2520scrumboard_thumb%255B1%255D.jpg)
+![scrum team 1 Scrum board](/img/scrum%2520team%25201%2520Scrum board_thumb%255B1%255D.jpg)
 
-![scrum team 2 scrumboard](/img/scrum%2520team%25202%2520scrumboard_thumb.jpg)
+![scrum team 2 Scrum board](/img/scrum%2520team%25202%2520Scrum board_thumb.jpg)
 
 ### Phases for cross cutting concerns conversions
 

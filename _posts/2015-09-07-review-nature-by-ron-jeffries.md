@@ -47,6 +47,7 @@ I could write comment, praise and thoughts that popped into my head, about almos
 Instead I'll wrap this review up with one of those thoughts.
 
 ## An example: scaling agile
+
 At the end of the book Mr Jeffries gives some thoughts on scaling agile. He's basic argument is that if we can get a single team to "do agile properly" then scaling might not be needed (for that one product). One team, work in a fluent agile way, would probably be enough.
 
 I tend to agree with that thought, but in many organizations I've been working in there's a structure in place already, not around product but rather around specialties and ... "how we used to do".
@@ -61,14 +62,14 @@ So what is "fluent agile" then? According to Mr Jeffries (and I agree 100% to al
 
 * It's simple or it's not agile
 * Teams work [according to the principles](http://agilemanifesto.org/principles.html) of the [agile manifesto](http://agilemanifesto.org/)
-	* Daily with their business stake holders
-	* Deliver working software often (every other week at tops)
-	* Progress is measure in working software
-	* Continuously works of technical debt to be able to move faster
-	* and more great stuff
- 	* that you can
-	* read in the [principles](http://agilemanifesto.org/principles.html)
-	* of the [agile manifesto](http://agilemanifesto.org/)
+  * Daily with their business stake holders
+  * Deliver working software often (every other week at tops)
+  * Progress is measure in working software
+  * Continuously works of technical debt to be able to move faster
+  * and more great stuff
+  * that you can
+    * read in the [principles](http://agilemanifesto.org/principles.html)
+    * of the [agile manifesto](http://agilemanifesto.org/)
 * Can keep a consistent pace and quality sustainable over a period of time
 
 Well... if we can get one team to do that then the next team will be **easy**. We have changed **a lot** about how you work in order to get that to work. Or we have not done it properly.

@@ -14,7 +14,7 @@ tags:
 
 Throughout all the things I've talked about in this series; mission, vision, strategic plans and kanban there's a underlying concept. We want to improve. We want to be better in achieving our vision.
 
-If you want to improve you will have to be great in fixing problems. Not only fixing the problems but the actual underlying reason for the problem to occured in the first place.
+If you want to improve you will have to be great in fixing problems. Not only fixing the problems but the actual underlying reason for the problem to occurred in the first place.
 
 Root cause analysis is a powerful tool for doing that. This is what I talk about in this presentation.
 

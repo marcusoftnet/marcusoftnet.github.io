@@ -33,23 +33,26 @@ In the spirit of [teal organizations](https://www.marcusoft.net/2015/04/what-is-
 Yes, it's a little bit stupid, [because something has to change for something to improve](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html), I know but give me some leeway.
 
 ## What's in a word?
+
 What if we just changed the word "change" itself? Instead of talking about changing something; let's talk about doing an experiment.
 
 [Experiment](http://www.merriam-webster.com/dictionary/experiment):
 
 <blockquote><p>a scientific test in which you perform a series of actions and carefully observe their effects in order to learn about something</p>
-	<p>something that is done as a test : something that you do to see how well or how badly it works</p>
+ <p>something that is done as a test : something that you do to see how well or how badly it works</p>
 </blockquote>
 
 Let's contrast experiments and changes a bit. All of these are my interpretations of the concepts based on my experience;
 
 ## Scope
+
 Change is permanent. There's a "how we used to do it" and "this new thing", a Before and After.
 Going back to the "old ways" is a failure. "The new thing we changed into didn't work, so we have to go back. Told ya!".
 
 An experiment is per definition limited in scope (time and other), it's by definition something "we try to learn from". If an experiment fails not only can we easily revert to our old ways, but also is the failing bad in itself; failing is just an outcome that we can learn from.
 
 ## Humbleness
+
 For me, in doing a change, we have also defined what better is. It's imperative and closed, I think. "This is going to be our outfit. One-piece silver jumpsuit, V-stripe, and boots. That's it." - [obscure Seinfeld quote](http://www.seinfeldscripts.com/TheJacket.htm)).
 
 We close down other possibilities.
@@ -57,15 +60,17 @@ We close down other possibilities.
 When posing an experiment we are also humble before the fact that we don't (I said do **not**) know the outcome: "Dude, I don't know if it works... let's try it for awhile and see."
 
 ## Focus
+
 After introducing the change it's very natural to start to ask: "How are we going to do that?". We are focusing on **HOW** we are going to achieve the change. Not thinking too much about if the goal is good or bad and thinking even less about if the change will take us towards that goal or not.
 
 Directly after posing an experiment it's very natural to ask: "How do we know if *it became* better or worse?". This means that we ask important questions about the outcome, **WHAT** we are trying to achieve.
 The focus is naturally drawn towards the outcome of the experiment or the goal.
 
 ## Participation
+
 The other day I asked about peoples experiences with [mob programming](http://mobprogramming.com), in particular where it had failed:
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">What is the worse experience anyone have had with <a href="https://twitter.com/hashtag/mobprogramming?src=hash">#mobprogramming</a> <a href="https://twitter.com/MobProgramming1">@MobProgramming1</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/636401723892871170">August 26, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">What is the worse experience anyone have had with <a href="https://twitter.com/hashtag/mobprogramming?src=hash">#mobProgramming</a> <a href="https://twitter.com/MobProgramming1">@MobProgramming1</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/636401723892871170">August 26, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I did this because I've not heard many people talk about failing in mob programming and I thought that was a bit interesting. More interesting was the answers I got.
@@ -80,11 +85,10 @@ Experiments doesn't have those traits since we, as I said above, are humble befo
 "Let's try to do mob programming on Friday and see how it goes." sets a tone of invitation.
 
 ## Summary
+
 Even if you didn't agree with a single word of this post, next time you want something to change talk about it in terms of "experiment" or "experimenting".
 
 I promise you that people will take to that easier, be more open to take part and that you will learn more from it.
 
 I cannot count the number of times I've implemented the wrong change.
 I've yet to cause the same damage with an experiment.
-
-

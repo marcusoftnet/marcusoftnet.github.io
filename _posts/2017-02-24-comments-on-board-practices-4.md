@@ -23,7 +23,7 @@ That is sad and I share a few thoughts on how to improve on that state of mind -
 
 Take a look that these stickies:
 
-![Different coloured stickies](/img/boardWithMulitColorStickies.jpg)
+![Different colored stickies](/img/boardWithMulitColorStickies.jpg)
 
 The first thing that pops into my head when I see this is: Why is that one orange? How do you act differently on yellow vs blue? Blue?! Isn't that hard to read? Etc. etc.
 
@@ -37,7 +37,7 @@ The reason I often come to think about this is that the colors used on a board i
 
 So on the board above:
 
-* Organge doesn't mean a thing - it just what I wrote on at the time
+* Orange doesn't mean a thing - it just what I wrote on at the time
 * Blue happened to be what I had on my desktop when I wrote it
 * I wrote the other on yellow so I thought I'd write this on red ones.
 
@@ -51,17 +51,17 @@ This is **very** easy to fix on the surface - but can be used to be a little bit
 
 This is so simple to do and helps a lot: make sure that only the colors you are using is lying around where the board is.
 
-Seriously - do it now. Go to your board and just remove all colors but the pale yellow one (for example). Stash them far away from the board and leave piles upon pile with same coloured stickies around.
+Seriously - do it now. Go to your board and just remove all colors but the pale yellow one (for example). Stash them far away from the board and leave piles upon pile with same colored stickies around.
 
 I sometimes even create a nice little box with board tools that holds these stickies (and others):
 
-![Box with tools, and only the 'correct' coloured stickies](/img/boardToolBox.jpg)
+![Box with tools, and only the 'correct' colored stickies](/img/boardToolBox.jpg)
 
-There! You have improved the easy-to-ready-iness of the board with about 78,6%. All the new stickies will now be pale-yellow.
+There! You have improved the easy-to-read-iness of the board with about 78,6%. All the new stickies will now be pale-yellow.
 
 ### Use colors to help us to know what to do
 
-Why is it a good idea to use different coloured stickies in the first place? Because they will tell us that things are different from each other somehow - colors is a really nice way to do that.
+Why is it a good idea to use different colored stickies in the first place? Because they will tell us that things are different from each other somehow - colors is a really nice way to do that.
 
 It can also help us know how to act and behave differently with different type of work. You could say that there's different policies for how we are going to treat work of a certain class, known as classes of service, see chapter 8 of [Kanban In Action](http://bit.ly/theKanbanBook).
 
@@ -90,11 +90,11 @@ Typically you need only 2 colors of stickies:
 
 There can of course be more fine-grained prioritization needed but I've often found that it can be handled with the order of the stickies in the columns (top more important - lower less important).
 
-But, by all means, use as many colors you need. It's your board. I recommend you to start with two colors and add more as you see the need. Learning new behavior takes some time. Don't introduce more than one new colour / policy at the time.
+But, by all means, use as many colors you need. It's your board. I recommend you to start with two colors and add more as you see the need. Learning new behavior takes some time. Don't introduce more than one new color / policy at the time.
 
 ### Make a legend
 
-Tying into that last comment I very often found it useful to create little legend with a description of what each colour mean.
+Tying into that last comment I very often found it useful to create little legend with a description of what each color mean.
 
 ![Color legend](/img/stickyLegend.jpg)
 
@@ -108,7 +108,7 @@ For extra point and clarity for other around you start to use a standard set of 
 
 If this works most questions about a teams status can actually be answered by simply look at the board. Even very in-frequent visitors can understand the board with little or no explanation. This is further helped by the legend mentioned above.
 
-If you need help get started there's a set of standard stickies suggested in [David Anderssons seminal book on Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402). We also wrote about this in [Kanban In Action](http://bit.ly/theKanbanBook)
+If you need help get started there's a set of standard stickies suggested in [David Andersson's seminal book on Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402). We also wrote about this in [Kanban In Action](http://bit.ly/theKanbanBook)
 
 ## Summary
 

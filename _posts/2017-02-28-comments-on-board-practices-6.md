@@ -105,7 +105,7 @@ To prevent meetings from feeling like reports to management:
 
 Rotate the daily facilitator role.
 
-This fosters inclusivity and eliminates hierarchical undertones.
+This fosters inclusive thinking and eliminates hierarchical undertones.
 
 ## Summary
 

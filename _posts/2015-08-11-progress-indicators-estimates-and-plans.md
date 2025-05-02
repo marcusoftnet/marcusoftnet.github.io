@@ -12,13 +12,11 @@ tags:
 
 Here in Indonesia Internet is often very slow. No, you don't understand. VERY slow. Downloading big files, like movies on iTunes, can be a project from 4 hours to days.
 
-The other night we wanted to watch a movie ([Bamse I Tjuvstaden](https://itunes.apple.com/se/movie/bamse-och-tjuvstaden/id933533886), it's actually pretty good) that our kids love. We have already bought it but iTunes still downloads part of it.
+The other night we wanted to watch a movie ([Bamse i Tjuvstaden](https://itunes.apple.com/se/movie/bamse-och-tjuvstaden/id933533886), it's actually pretty good) that our kids love. We have already bought it but iTunes still downloads part of it.
 
 The normal thing happened; the progress indicator lied. My kids were angry and I had to explain to them:
 
-<blockquote>
-	That is an estimate, a guess. They simply don't know when it's done.
-</blockquote>
+> That is an estimate, a guess. They simply don't know when it's done.
 
 As I said that I was reminded about many times I've been required to give estimates in other settings. In this post I wanted to examine the similarities I felt was present.
 
@@ -32,17 +30,17 @@ Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but 
 
 Here's how the waiting played out, with about 1 minute between each update:
 
-- iTunes: Ready to play in 12 minutes - Kids: Oooooh... that's forever.
-- iTunes: Ready to play in 8 minutes - Kids: Booooring!
+- iTunes: Ready to play in 12 minutes - Kids: Ooh... that's forever.
+- iTunes: Ready to play in 8 minutes - Kids: Boring!
 - iTunes: Ready to play in 6 minutes - Kids: Hurry! Hurry! Hurry!
 - iTunes: Ready to play in 10 minutes - Kids: Huh?!
 - iTunes: Ready to play in 6 minutes - Kids: Yeah! Go iTunes!
 - iTunes: Ready to play in 2 minutes - Kids: Huh?! Now?
-- iTunes: Ready to play in 4 minutes - Kids: Daaaa-aaad! iTunes is stupid
+- iTunes: Ready to play in 4 minutes - Kids: Dad! iTunes is stupid
 - iTunes: Ready to play in 2 minutes - Kids: Yeah!
 - iTunes: Ready to play in 1 minutes - Kids: Sit down, dad. It starts now.
 - iTunes: Ready to play in 1 minutes - Kids: ...
-- iTunes: Ready to play in 1 minutes - Kids: Daaaa-aad! Make it stop.
+- iTunes: Ready to play in 1 minutes - Kids: Dad! Make it stop.
 - iTunes: Ready to play in 1 minutes - Kids: Let's watch TV instead.
 
 I'm actually sugar coating it a bit. In reality the last part went on for quite some time.
@@ -102,7 +100,7 @@ This was cool, because out of the strict constraints that CQRS imposed, came new
 
 Ok, ok... back to progress indicator, estimates, planning and all of that.
 
-What I was saying is that instead of guessing something that we simply do not have enough data for (i.e. "showing the spinner", "12 minutes left, no wait 4, no 6, or eehhh... it looks like 4 hours now"), maybe there's something else we could report. Something that helps decision makers to make better decisions. More raw data, leaving the analysis up to the decision maker.
+What I was saying is that instead of guessing something that we simply do not have enough data for (i.e. "showing the spinner", "12 minutes left, no wait 4, no 6, or eeh... it looks like 4 hours now"), maybe there's something else we could report. Something that helps decision makers to make better decisions. More raw data, leaving the analysis up to the decision maker.
 
 And in doing so we open new possibilities.
 

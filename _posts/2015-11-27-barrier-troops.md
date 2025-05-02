@@ -41,7 +41,7 @@ In either scenario, doom was inevitable.
 
 ## Modern Manifestations of Barrier Troops
 
-Although unsettling and barbaric, the concept of Barrier Troops persists in contemporary Amber-Conformist organizations. Punishments and rewards serve as modern-day equivalents. In a situation I've [previously recounted](/2015/06/a-question-of-context.html), nurses chose to forgo handwashing because it wasn't explicitly outlined in the procedure—a decision motivated by fear of pay deductions.
+Although unsettling and barbaric, the concept of Barrier Troops persists in contemporary Amber-Conformist organizations. Punishments and rewards serve as modern-day equivalents. In a situation I've [previously recounted](/2015/06/a-question-of-context.html), nurses chose to forgo hand-washing because it wasn't explicitly outlined in the procedure—a decision motivated by fear of pay deductions.
 
 The typical response from Amber-Conformists is to revise procedures, acknowledging their insufficiency (as was initially suggested in the aforementioned case). However, it's essential to recognize that not everything can be codified. Some degree of autonomy and authority must be delegated to the lowest levels.
 

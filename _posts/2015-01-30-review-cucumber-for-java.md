@@ -21,7 +21,7 @@ The author stresses this point throughout the book and make the reasons for Cucu
 The books consists of 3 parts; the first gives you the basic knowledge about the tool but also the basic understanding of the process and how to use the tool. The second part is a "worked example" that goes beyond the basic. Not only do we get to know more about Cucumber and it's capabilities but also how to make sure that you are building a structure for you glue code that is maintainable over time. Also - there's more in this part on the process and what works and not.
 The final part is more in the form of patterns and recipes and gives you techniques and approaches to handle common scenarios and situations, such as using Dependency Injection frameworks, testing web applications and APIs and running cucumber in a continuous integration tool.
 
-Throughout the book there's a very nice "this is not that hard really"-tone that I enjoyed throughly.
+Throughout the book there's a very nice "this is not that hard really"-tone that I enjoyed thoroughly.
 
 Even though I'm not a Java programmer (and through the examples in this book, I hope never will be either.... GOD some of it is verbose) I got a lot out of this book. I am a long time user of Cucumber on the .NET platform (SpecFlow as it's known there), I even built part of the tool on that platform. Still I learned new things, tricks in the tool and ways to work with the tool that I haven't tried before.
 

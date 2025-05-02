@@ -23,7 +23,7 @@ Way in the bottom of this post you'll [find an summary](/2015/11/using-the-scien
 
 The main setup for our team is not very special, we have a huge white board, on wheels that we meet in front of every morning. We like visualizations and metrics and half of the board is dedicated to a bunch of different diagrams and progress indicator. You can read about our ["Metrics Pirate Code" in another post](https://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html).
 
-The other part of the board is a pretty standard task/kanban/scrum board where our "hospital-wide improvements" are made. Somethings that [needs attention are "outsourced"](https://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html), because we want to keep our focus on the overarching, big processy things.
+The other part of the board is a pretty standard task/kanban/scrum board where our "hospital-wide improvements" are made. Somethings that [needs attention are "outsourced"](https://www.marcusoft.net/2015/10/how-trust-kanban-and-a-little-structure-saved-a-life.html), because we want to keep our focus on the overarching, big process-y things.
 
 The task-board simply lists 3 (not more at the time) tasks and our current efforts to improve them. From the beginning we only had these column per item:
 
@@ -50,7 +50,7 @@ I've found that asking this question early raises a lot of really good questions
 
 ## Experiment driven
 
-But then we started to do things that we didn't really know what the Definition of Done was for. For example; we want to increase the number of patients that we serve each day. To what? Well, more... When is that done? Eeehh... soon... ish...
+But then we started to do things that we didn't really know what the Definition of Done was for. For example; we want to increase the number of patients that we serve each day. To what? Well, more... When is that done? Eeeh... soon... ish...
 What is Done really for this? Done? We never wanna be Done. More is better. Less is worse.
 
 At this point I happened to mention experiments and we tried something out. We cleared the board and stared over with a few new columns:

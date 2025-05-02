@@ -29,13 +29,13 @@ There's a sentence in the beginning of the book that I really think is important
 
 Basically trying to force change _upon_ someone is not fruitful. I might be able to do it using authority and force but it will most likely not last long, or it will only be done as _I_ would have done it. The huge potential improvements from others will be lost.
 
-If I instead create understanding about the current situation and leave the end goal open I've noticed that people can do big changes, complete turn-arounds, without really knowing it. It's now them that are doing the change - not me. That's a big difference.
+If I instead create understanding about the current situation and leave the end goal open I've noticed that people can do big changes, complete turn-around, without really knowing it. It's now them that are doing the change - not me. That's a big difference.
 
 My goal as a change agent is something completely different. I don't need (nor want) to _change_ people but rather create an atmosphere where they discover the changes they need to make and do it themselves.
 
 I didn't say that it was easier, but it's at least less confrontational and invites more innovations from the people around me. I take that any day of the week.
 
-## If he is right...
+## If he is right
 
 Last year I happen to stumble on an amazing documentary series about anger. It's beautiful and well worth watching the entire series.
 
@@ -63,7 +63,7 @@ Quite simple: taking in that something new, that might question the reason of wh
 
 How can I approach the change so that fear like that goes away?
 
-## What needs to be true...
+## What needs to be true
 
 The last thought comes from sansei [Dan North](http://dannorth.net/) and is related to the above:
 
@@ -85,7 +85,7 @@ I can't leave you hanging without going through my reasoning that I used to unde
 
 I think that by focus on quality and moving small things fast from idea to production, the costs of doing so will justify the outcome we will see.
 
-"Sure - [mob programming ](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)is not efficient but the effectiveness is awesome; it's worth it."
+"Sure - [mob programming](http://codebetter.com/marcushammarberg/2013/08/06/mob-programming/)is not efficient but the effectiveness is awesome; it's worth it."
 
 The opposite would be to start in costs; by making each individual function as cost efficient as possible the quality and speed can probably be enough to keep us competitive.
 

@@ -9,7 +9,7 @@ tags:
  - Agile
 ---
 
-This post could be summarized as you summarize an argument among kids; and then he said, so I replied, and then she went, and I'm like SAY WAAAHHAT?! but also hmmmmm… and then I went back home and asked a few friends and then I went Aaaaaah!
+This post could be summarized as you summarize an argument among kids; and then he said, so I replied, and then she went, and I'm like SAY WHAT?! but also hmmm… and then I went back home and asked a few friends and then I went Aah!
 
 And then I learned something deeper of what I until that point only was a belief.
 
@@ -29,7 +29,7 @@ The specific case we discussed was a user story that didn't supply any (perceive
 
 Also, there was talk about purely non-functional stuff like refactoring and other stories. There's no, apparent, customer benefit from that. Nothing that "is shown on the screen" as customer value was defined by one of the members in the group. I **do not** agree with that definition, just for the record.
 
-Now earlier in the discussion I had referenced Dr. Reintersen nice little mnemonic:
+Now earlier in the discussion I had referenced Dr. Reinertsen nice little mnemonic:
 
 > Value trumps flow, flow trumps waste elimination
 
@@ -65,7 +65,7 @@ With this picture, the authors of This is Lean want to explain that Lean is a *b
 
 Ok - the key word here is *strategy*. A strategy is not a given. Something we *know* will happen. It's a plan - we don't *know* that it will work the best. We *believe* that, but it's still just one strategy out of many. Lean's strategy is to focus firstly on flow and then on resource efficiency.
 
-### Eeeeeh? Come again? What does that mean?
+### Eeeh? Come again? What does that mean?
 
 What Håkan meant with his comment was simply; starting by focusing on getting small things to flow faster has proven an easier way to come closer to nirvana. At least over trying to produce bigger, full-featured things firstly and then get that process to go faster and faster.
 

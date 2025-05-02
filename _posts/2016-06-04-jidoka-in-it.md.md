@@ -34,7 +34,7 @@ When a machine detects a problem the machine stops the production, signals to a 
 
 The example I've heard was from the time when Toyota was producing fabric. Their automatic loom machines had a feature that if a thread would break the machine would stop and then raise a little flag.
 
-That it stop meant that no faulty fabric was produced. A human could then go down there and fix the problem and restart the machine. Minimising the waste of faulty fabric.
+That it stop meant that no faulty fabric was produced. A human could then go down there and fix the problem and restart the machine. Minimizing the waste of faulty fabric.
 
 There's stories about Toyota workers and machines stopping the line, like this, many times a day while flushing out problems and waste. To try to end up in a non-wasteful, just-in-time, continuous flow of value.
 

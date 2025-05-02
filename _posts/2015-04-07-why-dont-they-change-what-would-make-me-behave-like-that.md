@@ -21,7 +21,7 @@ In fact; that's what this post is about; stepping out of my box. A simple questi
 
 ## Getting to the point
 
-First let's get back to my intro a bit. I think that everything I've seen here in Indonesia that puzzled me can be found in some regard in Sweden where I usally work. But here it's more extreme.
+First let's get back to my intro a bit. I think that everything I've seen here in Indonesia that puzzled me can be found in some regard in Sweden where I usually work. But here it's more extreme.
 
 * Here we might say '[Please don't question the process](https://www.marcusoft.net/2015/04/please-question-the-process.html)' whereas in Sweden this is hinted and implied, wrapped in smooth formulations.
 * Here we don't question decisions from "senior" people. In Sweden we do... but maybe not so that they hear it. Or in ways that still not challenge them to much. Or in some places we do... knowing that it will be ignored

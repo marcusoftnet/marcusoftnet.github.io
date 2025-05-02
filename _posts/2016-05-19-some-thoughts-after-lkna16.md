@@ -22,7 +22,7 @@ I wanted to jot down a few thoughts and comments.
 
 Since I was both a speaker and an attendee I got to experience the full features of the conference and I have to say that it was brilliantly organized. Thought out the two days + workshop day I didn't see or experience a single glitch and hiccup.
 
-The [Lean Kanban team](http://leankanban.com/) really knows their stuff. I wonder what kind of methodology for organising things like this they use?
+The [Lean Kanban team](http://leankanban.com/) really knows their stuff. I wonder what kind of methodology for Organizing things like this they use?
 
 Thank you so much for this great event!
 
@@ -32,7 +32,7 @@ One thing that I'm often surprised by after attending a conference is how a them
 
 Throughout the two days there was a few themes, new and old, that at least I had conversations about.
 
-[David Anderssons](http://www.djaa.com/) keynote was about the concept of [anti-fragility and creating robust, resilient and anti-fragile organizations](http://www.slideshare.net/agilemanager/creating-robust-resilient-antifragile-organizations-using-kanban). I've read some of his blog posts on this and I think this not only is a really interesting topic but also a worthy goal. The first basic service any organization can supply is to still be around, right? But to do that over time you very often need to adapt to new situations and needs. Sometimes, as shown in David's talk, you might need to abandon you original reason-to-be and become something new. IBM was a very interesting example of that (nowadays, out of PC, out of mainframe etc). This is was a anti fragile organization can do.
+[David Andersson's](http://www.djaa.com/) keynote was about the concept of [anti-fragility and creating robust, resilient and anti-fragile organizations](http://www.slideshare.net/agilemanager/creating-robust-resilient-antifragile-organizations-using-kanban). I've read some of his blog posts on this and I think this not only is a really interesting topic but also a worthy goal. The first basic service any organization can supply is to still be around, right? But to do that over time you very often need to adapt to new situations and needs. Sometimes, as shown in David's talk, you might need to abandon you original reason-to-be and become something new. IBM was a very interesting example of that (nowadays, out of PC, out of mainframe etc). This is was a anti fragile organization can do.
 
 This touches nicely on another idea that is very strong in the kanban community; metrics and models. I'm not personally strong in this, I realized after these days, but it's a strong trend to measure and track your progress and drive your improvements using models, not only the scientific method.
 
@@ -44,13 +44,13 @@ Chris' workshop will be the segue way into the next and final theme that kept po
 
 Because most big organizations don't have products internally - they have services that they supply. Sometimes even externally. And still we try to shoe-horn the concept of products in there; product owner, product backlog, product management etc. When the concept of a service sits much better.
 
-If we now only could [organise ourselves around those services](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organization model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
+If we now only could [organize ourselves around those services](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html) we would have a real powerful organization model. And here kanban has a perfect fit to ensuring flow across services boundaries through the use of WIP limits and a common purpose and goal. I have to read up on this. I like it.
 
 ## My talk
 
 I told the story about how kanban saved a hospital in Indonesia and you can flip through the slides below:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ix5qhNS0IYA7HD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/marcusoftnet/how-kanban-saved-a-hospital-in-indoneisa-lkna2016" title="How kanban saved a hospital in Indoneisa LKNA2016" target="_blank">How kanban saved a hospital in Indoneisa LKNA2016</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ix5qhNS0IYA7HD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="/marcusoftnet/how-kanban-saved-a-hospital-in-indonesia-lkna2016" title="How kanban saved a hospital in Indonesia LKNA2016" target="_blank">How kanban saved a hospital in Indonesia LKNA2016</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 
 I was very happy and proud to do so and the reception was overwhelming. Many people came up to me during the days and thank me not only for the talk but also for the inspiring content. Just what I wanted and needed.
 

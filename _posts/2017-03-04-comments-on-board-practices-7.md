@@ -33,7 +33,7 @@ There's a number of reason why I think this is a good practice;
 
 ![Stop starting - start finishing](/img/stopStarting.jpg)
 
-It emphasise our strive to complete work, rather than start new work (Stop starting - start finishing you know). We want to spend time in the meeting discussing how we can get stuff out there. If we start from the other end we might run out of time and not have any time left to talk about the things that will soon be completed. That would be, to quote a president; Sad.
+It emphasize our strive to complete work, rather than start new work (Stop starting - start finishing you know). We want to spend time in the meeting discussing how we can get stuff out there. If we start from the other end we might run out of time and not have any time left to talk about the things that will soon be completed. That would be, to quote a president; Sad.
 
 By going through the work from left to right we also honor an old lean process improvement principle; start improving from closest the customer and work your way backwards when improving the process. I view morning meetings as mini improvement workshops. It's very seldom that I've attended a morning meeting that haven't brought a flow-problem to the surface or where we decided to change our process, ever so slightly.
 
@@ -43,7 +43,7 @@ Finally, it's easy to remember and to do. In fact you can let anyone in your tea
 
 In your morning meeting — walk the board from right to left. This
 
-* emphasises our focus on finishing work
+* emphasizes our focus on finishing work
 * puts most of our time in the work that is closest to the goal
 * is easy to remember and do
 

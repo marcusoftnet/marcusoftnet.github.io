@@ -9,7 +9,7 @@ tags:
  - Life of a consultant
 ---
 
-I've just completed my first ever big room planning meeting (a type of exercise made famous by [SAFe](http://scaledagileframework.com) in their [PI Planning](http://scaledagileframework.com/pi-planning/)). That was quite an excerises and I'm totally worn out. But also immensely impressed by the team and the amount of learning that took place in the room today.
+I've just completed my first ever big room planning meeting (a type of exercise made famous by [SAFe](http://scaledagileframework.com) in their [PI Planning](http://scaledagileframework.com/pi-planning/)). That was quite an exercises and I'm totally worn out. But also immensely impressed by the team and the amount of learning that took place in the room today.
 
 It was quite noisy at times but after 8 hours we went home with our sights aligned and a much better feel for what we will do the upcoming period (5 weeks in our case).
 
@@ -51,13 +51,13 @@ The fact that we need to get everyone (45+ ppl) together in a room and put all o
 
 That said - I think that the exercise that we ran today was really good and helped us a lot. Many, many things were clarified during the day, some groups had their first ever common planning and it was the first time we got a business context for the things that we were about to start working with. All good things.
 
-But in the same breath I want to emphasise that we should try to find other, less intrusive, more flow-oriented ways of doing our planning - since flow is what we are after.
+But in the same breath I want to emphasize that we should try to find other, less intrusive, more flow-oriented ways of doing our planning - since flow is what we are after.
 
 This practice would not last long in companies that want to optimize flow - rather they would seek to find ways to do the planning just-in-time for smaller items at the time. Since that is in the vision of the production (in Toyotas case; 1x1 piece flow).
 
 In fact this is a really fork in the road for how different organizations work with improvements. Many organizations would be happy with the big room planning and simply claim that it was the best that can be done.
 
-organizations that optimize for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganise the entire company if needed. [Read my post on Toyota Kata](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
+organizations that optimize for flow would of course not stop there - they would find an even better way, working with even smaller batches, trying to reach even faster, even smoother flow, maybe even resulting in reorganize the entire company if needed. [Read my post on Toyota Kata](https://www.marcusoft.net/2016/09/that-will-not-work-here-and-toyota-kata-mindset.html) for an example of that mindset
 
 ## What to do instead, mr wise-guy?
 

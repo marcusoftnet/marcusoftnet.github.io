@@ -139,7 +139,7 @@ api.intercept((event) => {
     const urls = urlsFromSlackMessage(message);
 
     var pingResults = yield each(urls, pingUrl);
-    var attachments = yield each(pingResults, pingResultToSlackAttachement);
+    var attachments = yield each(pingResults, pingResultToSlackAttachment);
 
     return slackDelayedReply(message, {
       response_type: "ephemeral",
@@ -156,7 +156,7 @@ function urlsFromSlackMessage(message){
   return message.text.split(',');
 };
 
-function pingResultToSlackAttachement(url){
+function pingResultToSlackAttachment(url){
   return { text : url };
 };
 
@@ -176,7 +176,7 @@ function pingUrl(url) {
 
 Ok, this is a bit longer, but also easier to read, in my humble opinion.
 
-We are utilising a feature from claudia-bot-builder in `api.intercept`. This is a way to catch our requests before they reach the normal routing in our application. By doing that we can inspect the event-payload that we attached as `Payload` in the initial request.
+We are utilizing a feature from claudia-bot-builder in `api.intercept`. This is a way to catch our requests before they reach the normal routing in our application. By doing that we can inspect the event-payload that we attached as `Payload` in the initial request.
 
 We simply check if the `.slackEvent` property is present ( `if (!event.slackEvent) return event;`). If not we hand it back to the normal flow.
 

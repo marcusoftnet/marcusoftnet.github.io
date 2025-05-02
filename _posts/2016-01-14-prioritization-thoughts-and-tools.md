@@ -142,7 +142,7 @@ Very often the content or meaning of the feature in question needs and gets clar
 
 The meaning of the ranking criteria is another common discussion point. This is also healthy, since a solid understanding of these shows where our overarching priority lies.
 
-<blockquote>What? How can Feature 1 get 1 on quick to implement? .... Aaaaahhh - I thought that meant ...</blockquote>
+<blockquote>What? How can Feature 1 get 1 on quick to implement? .... Aah - I thought that meant ...</blockquote>
 
 Very often it leads to us expressing the evaluation criteria in another, more clear way.
 

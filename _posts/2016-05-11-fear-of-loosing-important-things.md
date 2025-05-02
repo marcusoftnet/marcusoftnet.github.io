@@ -76,7 +76,7 @@ One of the more powerful tools I've seen to handle the overarching strategies an
 
 It's basically a very simple mind map showing **Why** we are doing something - what is the impact we are trying to achieve, **Who** we need to influence to make that change, **How** do we need to change their behavior and finally **What** do we need to build to accomplish that change.
 
-![Impact mapping in a nutshell from www.impactmapping.com](https://www.impactmapping.org/assets/im_template.png)
+![Impact mapping in a nutshell from www.impactMapping.com](https://www.impactmapping.org/assets/im_template.png)
 
 There's an [awesome book and site](https://www.impactmapping.org) and I urge you to check this out. It's a great tool for any product owner.
 

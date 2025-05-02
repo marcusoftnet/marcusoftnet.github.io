@@ -120,7 +120,7 @@ These two stories got me thinking.
 - Change will always come. I know that from the outset. "I will change
     something in that spec during the 25 years the system will live".
     How do I try to handle that?
-- Do I precieve change as a risk or an enabler? Being able to change
+- Do I preceive change as a risk or an enabler? Being able to change
     fast is a business advantage and a way to manage risk. How do I make
     my code being easy to change?
 - What kind of documentation do I need in a system that I'm going to

@@ -71,7 +71,7 @@ There are three books on Kanban itself that each treats the subject from differe
 
 - [David J Andersons Successful Evolutionary Change for Your Technology Business](http://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402/) book is the bible and talks about The Kanban Method
 - [Mike Burrows Kanban from the Inside](http://www.amazon.com/Kanban-Inside-Understand-connect-introduce/dp/0985305193/) is a interesting read that takes a standpoint in the values behind Kanban. Highly recommended
-- [Mine and Joakim Sundens Kanban In Action](http://bit.ly/theKanbanBook) is of course the best... No seriously it's a introduction that makes for a good first read and as a companion to a team or company starting with kanban
+- [Mine and Joakim Sunden's Kanban In Action](http://bit.ly/theKanbanBook) is of course the best... No seriously it's a introduction that makes for a good first read and as a companion to a team or company starting with kanban
 
 ## Conclusion
 

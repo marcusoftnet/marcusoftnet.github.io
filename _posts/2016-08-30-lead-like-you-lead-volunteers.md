@@ -26,7 +26,7 @@ In this post I suggest that you should:
 
 A few months back the Salvation Army in Sweden changed the territorial leader - in Salvation Army speak the Commissioner of Sweden. I happen to know both the going and coming (a couple) commissioners pretty well and really appreciate them as leaders.
 
-However the going commissioner, [Marie Willermark](https://twitter.com/mariewillermark), was of particular help to me and my family when we lived in [Indonesia](https://www.marcusoft.net/tags/#Indonesia). Someone asked me to say a few words at her farewell meeting, as one of the non-employed members of the Salvation Army, Sweden. I gladly accepted.
+However the going commissioner, [Marie Willermark](https://twitter.com/mariewillermark), was of particular help to me and my family when we lived in [Indonesia](https://www.marcusoft.net/tags/#indonesia). Someone asked me to say a few words at her farewell meeting, as one of the non-employed members of the Salvation Army, Sweden. I gladly accepted.
 
 As I prepared I was thinking about what the challenges would be, in a job like Commissioner Marie had, and what I thought that she had done exceptionally well - because from where I stood she had been an excellent leader of the Salvation Army.
 
@@ -53,7 +53,7 @@ A volunteer doesn't get paid, it's all based on inspiration, love and joy in the
 
 But help these people to evolve, feel pride, feel needed and important in their service and a group of volunteers can move mountains. This is the triggers that [Dan Pink](http://www.danpink.com/books/drive/) talks about; autonomy, purpose and mastery.
 
-* A volunteer is more *autonom* per default since the connection with the organization is, in a formal sense, vaguer.
+* A volunteer is more *autonomy* per default since the connection with the organization is, in a formal sense, vaguer.
 * The *mastery* comes in evolving in doing the things we like to do - for example I spend on average 1 h per day practicing [my euphonium](https://www.wikiwand.com/en/Euphonium) with no one telling me to do so, no monetary incentive in sight. It's all just because I love to play my instrument and I want to become better
 * The *purpose* is the part that a leader can supply - making sure that we know where we are going, making the *why* clear and meaningful. In doing so I will soon feel like i'm part of something bigger than myself and my drive to work will be stronger.
 

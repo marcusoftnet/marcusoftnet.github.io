@@ -29,7 +29,7 @@ or in other words:
 
 BAM! It hit me like lightning; this is of course true for every presentation you ever give. You are not the most important thing - the message and how your audience receives / understands it is.
 
-Sadly, when I look back, I have focused more on how _I_ will present, how _I_ will look or come out, will they laugh here, will they find me knowledgable. Not on the message.
+Sadly, when I look back, I have focused more on how _I_ will present, how _I_ will look or come out, will they laugh here, will they find me knowledgeable. Not on the message.
 
 But not since that comment. This simple little sentence made me restructure my presentations but mostly gave me a new approach to my material. Even old material was improved just by approaching with another goal.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CodeBetter.com posts reposted"
+title: "CodeBetter.com posts re-posted"
 author: "Marcus Hammarberg"
 date: 2017-04-19 15:30:39
 tags:

@@ -95,7 +95,7 @@ An easy way to do that is to take away the outliers. In the diagram below there'
 
 ![Board](/img/board150324.jpg)
 
-Oooor... this might be a ripe opportunity for improvement. If we could become "that hospital that has excellent care on Sundays"... but now we're leaving visualization country and entering management / marketing territory. I'll leave that up to them.
+Or... this might be a ripe opportunity for improvement. If we could become "that hospital that has excellent care on Sundays"... but now we're leaving visualization country and entering management / marketing territory. I'll leave that up to them.
 
 ## Has a least one target
 

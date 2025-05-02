@@ -11,7 +11,7 @@ tags:
 
 I downloaded a new markdown editor called [Typora](https://www.typora.io/) that looks amazing. Now I just wanted to try it out, and needed something to write about.
 
-Also I've noticed that [Claudia](https://github.com/claudiajs/claudia) has come out with some new releases and that [AWS Lamdba](http://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html) now supports Node 4.3.2 - which is awesome.
+Also I've noticed that [Claudia](https://github.com/claudiajs/claudia) has come out with some new releases and that [AWS Lambda](http://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html) now supports Node 4.3.2 - which is awesome.
 
 This post gave an opportunity to fix both itches above in one go. So this is an updated "Get started with Claudia JS for AWS Lambda"-post.
 
@@ -45,7 +45,6 @@ This is simple:
 * Create our code file `touch index.js`
 * No need to tell Claudia which `"files"` to deploy, as you had to do before, but it could be a good idea to exclude the `claudia.json` in your `.gitignore` and `.npmignore`
 
-
 Open the `index.js` file and write the following simple code:
 
 ```javascript
@@ -54,7 +53,7 @@ var ApiBuilder = require("claudia-api-builder");
 var api = new ApiBuilder();
 
 api.get("/hello/{name}", function (request) {
-    return `Hello World! Haaaaave you met ${request.pathParams.name}?`;
+    return `Hello World! Have you met ${request.pathParams.name}?`;
 });
 
 module.exports = api;
@@ -66,7 +65,7 @@ Quite simple we will respond to `/hello/Marcus` with a nice little greeting. Did
 
 Ok - time to release this little site. Open the `package.json` and add the following two scripts:
 
-```
+```json
 "scripts": {
     "create": "claudia create --region us-west-2 --api-module index",
     "deploy" : "claudia update"
@@ -106,15 +105,15 @@ YES! Alive!
 
 I just realize that there's a bug. A question mark is missing at the end of the string we return. Let's fix it:
 
-```
-return `Hello World! Haaaaave you met ${request.pathParams.name}?`;
+```javascript
+return `Hello World! Have you met ${request.pathParams.name}?`;
 ```
 
 Save `index.js` and then redeploy the function with `npm run deploy`. How's the for continuous deployment?
 
 We now got some more detailed output from Claudia:
 
-```
+```json
 {
   "FunctionName": "helloworld12",
   "FunctionArn": "arn:aws:lambda:us-west-2:430072528539:function:helloworld12:3",
@@ -150,6 +149,6 @@ Now I can run a quick smoke-test by just going `npm t` .
 
 There's few nice additions in the output from Claudia that makes it feel more production ready. Also I seem to feel a significant improvement in performance and the overall speed.
 
-The new possiblities with the updated Node version is very nice too.
+The new possibilities with the updated Node version is very nice too.
 
 And I like writing with [Typora](https://www.typora.io/) - check it out!

@@ -70,7 +70,7 @@ app.use(staticCache(\_\_dirname + '/public/img'), { maxAge: 30 _24_ 60 \* 60 });
 
 12:29:33 - `[` typed `npm start`, went to <http://localhost:3000> `]`
 
-12:29:38 - "Hey, it comes up. How can I verify if the images are cached or not?... If I reload... yes, it's superfast, but it was superfast before too. But did it come over the network? How... can I see that? Ah! The Chrome dev tools has a network tab.
+12:29:38 - "Hey, it comes up. How can I verify if the images are cached or not?... If I reload... yes, it's super-fast, but it was super-fast before too. But did it come over the network? How... can I see that? Ah! The Chrome dev tools has a network tab.
 
 12:29:52 - `[` open Chrome developer tools and the network tab `]`
 

@@ -32,7 +32,7 @@ Here it is, with me playing together with my good friend Jon-Anders Martinhussen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AHBQUagxKhQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> There is stillness and silence, as the ground is coloured white.
+> There is stillness and silence, as the ground is colored white.
 > From the safe, old church the song is flowing out
 > I have paused at the road to rest for a while
 > And was caught by the borderland that unites night and day

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple where-do-we-spend-our-time visualisation
+title: Simple where-do-we-spend-our-time visualization
 date: 2012-09-14T08:48:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: https://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
 
-I have a confession to make; I think i'm turning into a data-guy. No, not a computer-guy - I've been that a long time. Rather it's that boring dude that keep asking for numbers, measurements and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recovery from some of the boredom-parts. It's called Simplicity and Visualisation.
+I have a confession to make; I think i'm turning into a data-guy. No, not a computer-guy - I've been that a long time. Rather it's that boring dude that keep asking for numbers, measurements and saying "yes, but how do you KNOW that" all the time. But I'm on a program to recovery from some of the boredom-parts. It's called Simplicity and visualization.
 
 To be a little more serious I think that collecting data and then do small experiments based upon them rather than you feelings is the way to make controlled, continuous improvements. This is all very [Toyota Kata](http://www-personal.umich.edu/~mrother/Homepage.html) (or rather [Kanban Kata](http://hakanforss.wordpress.com/2012/07/12/kanban-katas-and-recipes-kanban-leadership-retreat-2012-session-klrat/) or even the [scientific method](http://en.wikipedia.org/wiki/Scientific_method)) like but that's exactly where I'm aiming.
 
@@ -72,4 +72,4 @@ It's a rolling buffer just showing the last week. We take photos of it a little 
 
 ### Conclusion
 
-With these two simple visualisations we gathering data on how the distribution really is between the reactive and the proactive work. Note that lack of exact numbers here. It's deliberate. We hope that the pictures still gives us an good enough knowledge about the distribution, and warns us when it goes to far to either way.
+With these two simple visualizations we gathering data on how the distribution really is between the reactive and the proactive work. Note that lack of exact numbers here. It's deliberate. We hope that the pictures still gives us an good enough knowledge about the distribution, and warns us when it goes to far to either way.

@@ -23,7 +23,7 @@ In this post I wanted to share some things that I've seen. Mind you this is only
 
 <!-- excerpt-end -->
 
-Below when I talk about mobs I talk about the ones I've seen in practise; cross functional teams that turn ideas to working features in production that users are using, responsible throughout the process. I'm sure you could have a Dev-only team that delivers to Test, but I fail to see the purpose since that's basically just speeding up a part of the process.
+Below when I talk about mobs I talk about the ones I've seen in practice; cross functional teams that turn ideas to working features in production that users are using, responsible throughout the process. I'm sure you could have a Dev-only team that delivers to Test, but I fail to see the purpose since that's basically just speeding up a part of the process.
 
 ## Peace-, thought- and purposeful progress
 
@@ -35,9 +35,9 @@ At first it made me nervous - come on guys! Hack away! But after watching the *o
 
 One team of 4 people had a counter part off-site. The offsite team didn't know how many they mob team were, but the guess was in the 40-50 people range. That team in particular was moving very thoughtful as I observed them. That team has a cosy sofa where the part of the mob not typing is sitting (slouching in some examples). *Very* relaxed feel.
 
-I think this purposefulness comes from the way that programming in a group like this forces you to **externalise** your thinking. This is talked about to great effect in the excellent [Turn the Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by [David L. Marquet](https://twitter.com/ldavidmarquet).
+I think this purposefulness comes from the way that programming in a group like this forces you to **externalize** your thinking. This is talked about to great effect in the excellent [Turn the Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by [David L. Marquet](https://twitter.com/ldavidmarquet).
 
-In a mob you cannot just type or think away on your own. It has to be verbalised and described to others. In doing so you have to put word to your reasoning and often this helps us to better understand the problem even before we've written a line of code. If you're alone programming - try [Rubber Duck programming](http://www.rubberduckdebugging.com/) to achieve something similar (although a bit more silly)
+In a mob you cannot just type or think away on your own. It has to be verbalized and described to others. In doing so you have to put word to your reasoning and often this helps us to better understand the problem even before we've written a line of code. If you're alone programming - try [Rubber Duck programming](http://www.rubberduckdebugging.com/) to achieve something similar (although a bit more silly)
 
 Even in the best teams I've been working with a feeling of stress and urge has from time to time manifest itself. The mobs that I've been watching have kept their cool - even when the heat is on.
 

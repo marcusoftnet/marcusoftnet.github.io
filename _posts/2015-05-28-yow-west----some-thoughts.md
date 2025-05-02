@@ -27,7 +27,7 @@ What that looks like in you context might vary, but recurring themes was smaller
 
 In stark (yes, Swedish readers that is a Swedish word that you can use like this) contrast comes the insight that many predominate model and roles is geared towards a very different kind of work place.
 
-* Did you know that Human Resources as a concept was pioneered by the followers around Fredrik Talyor of [Taylorism fame](http://en.wikipedia.org/wiki/Scientific_management)? It was a way, originally, to find employees (or resource if you like ^^) that would be compliant to their managers. And the name still sticks. Human. Resources. Like Batteries in my book. We have to [stop using that name](http://agile.dzone.com/articles/resources-don%E2%80%99t-write-software). It's very old and doesn't fit modern organizations.
+* Did you know that Human Resources as a concept was pioneered by the followers around Frederick Windsor Taylor of [Taylorism fame](http://en.wikipedia.org/wiki/Scientific_management)? It was a way, originally, to find employees (or resource if you like ^^) that would be compliant to their managers. And the name still sticks. Human. Resources. Like Batteries in my book. We have to [stop using that name](http://agile.dzone.com/articles/resources-don%E2%80%99t-write-software). It's very old and doesn't fit modern organizations.
 * Have you thought about that the role names in a typical IT organization often has a strong connection to the phases in waterfall? Requirements guy, Tester, Architect and Developer. That reinforces a way of thinking that doesn't fit the way most agile people like to work. But we keep it.
 
 And there was other things from the past that is making a come back;

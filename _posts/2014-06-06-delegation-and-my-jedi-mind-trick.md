@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3857759954962312283
 blogger_orig_url: https://www.marcusoft.net/2014/06/delegation-and-my-jedi-mind-trick.html
 ---
 
-A couple of days ago I learned about the 7 Levels of Delegation in the [Management 3.0 book](http://www.management30.com/) by [Jurgen Appelo](http://www.jurgenappelo.com/).
+A couple of days ago I learned about the 7 Levels of Delegation in the [Management 3.0 book](http://www.management30.com/) by [Jürgen Appelo](http://www.jurgenappelo.com/).
 
 The last level of delegation (aptly named Delegate) is defined as:
 
@@ -28,7 +28,7 @@ She cringed when I told her what I wanted her to try. By doing everything, she c
 
 > Side note here; I do this. Often. Especially with my kids. I am *not* better than anyone else on this, but this little revelation came to me and I think it will help me.
 
-![jedimindtrick](/img/jedimindtrick.jpg)
+![jedi mind trick](/img/jedimindtrick.jpg)
 
 I then remembered a little trick that I do with myself to make sure that I do in fact delegate. Remember that in the definition above it says that “I don’t even want to know about the result.”
 

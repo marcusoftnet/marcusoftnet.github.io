@@ -17,7 +17,7 @@ After a really busy weekend I have just started a
 weekends are more hectic than the weeks. So you need to shape up in the
 weeks.
 
-This weekend has been mainly coloured by the celebration of my Salvation
+This weekend has been mainly colored by the celebration of my Salvation
 Army Corps 40 years anniversary. This was a major success with a music
 festival with the band at the Saturday to a capacity audience - that was
 a very long time ago indeed. So fun, so blessed and a lot of warmth to

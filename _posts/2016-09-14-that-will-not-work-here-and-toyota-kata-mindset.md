@@ -11,7 +11,7 @@ tags:
 
 I'm re-reading the [Toyota Kata book](https://www.amazon.com/Toyota-Kata-Managing-Improvement-Adaptiveness/dp/0071635238) right now I had forgotten how much it influenced my thinking. If you haven't read it - go and do that now. Don't read this post - read the book. I won't mind.
 
-Toyota Kata is what the author, [Mike Rother](http://www-personal.umich.edu/~mrother/Homepage.html), calls the mindset and practices that Toyota employs to get continuous improvement to work. Note that Toyota themselves might not recognise the term Toyota Kata, because it's just how they do.
+Toyota Kata is what the author, [Mike Rother](http://www-personal.umich.edu/~mrother/Homepage.html), calls the mindset and practices that Toyota employs to get continuous improvement to work. Note that Toyota themselves might not recognize the term Toyota Kata, because it's just how they do.
 
 The book is filled with wonderful stories that shows clearly about how the Toyota mindset influence every aspect about the continuous improvement work there.
 
@@ -95,7 +95,7 @@ What good is continuous improvement within a small cell or team? Sure they might
 
 ## Reason to change
 
-In my opinon it's because [the urge to change](https://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organizational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
+In my opinion it's because [the urge to change](https://www.marcusoft.net/2012/10/agilechangetop51.html) is not strong enough. Because many of the questions that will be asked as we start to try to flow faster will challenge our current ways. That will cause organizational pain - if we are not ready to do something about that the pain will stay. If we do something about it - the pain goes away.
 
 Sometimes those changes can be very challenging for an organization. You never know what it can be; one instance that comes to mind is that we couldn't have a person from one team sit next to other team. By contract. We'd get sued if we did.
 

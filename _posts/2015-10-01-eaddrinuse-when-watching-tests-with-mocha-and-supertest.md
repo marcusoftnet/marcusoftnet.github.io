@@ -92,7 +92,7 @@ What can we do to fix this then?
 
 ## Solution 1 - close the server manually
 
-The most brute-force approach is to close the server manually. To do that we need to get hold of the server that we started. After reading this [Japaneese, Coffee-Script based example](http://blog.takeshun.net/gulp-mocha-supertest/) - (yes - I was desperate, it was late) I modified my application to this,basically just exposing the server object created by the `app.listen()`:
+The most brute-force approach is to close the server manually. To do that we need to get hold of the server that we started. After reading this [Japanese, Coffee-Script based example](http://blog.takeshun.net/gulp-mocha-supertest/) - (yes - I was desperate, it was late) I modified my application to this,basically just exposing the server object created by the `app.listen()`:
 
     var app = require("koa")();
 

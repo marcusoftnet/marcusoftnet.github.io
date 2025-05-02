@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clean Query analyser stuff with Notepad
+title: Clean Query analyzer stuff with Notepad
 date: 2006-11-01T07:49:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -8,12 +8,12 @@ tags:
   - Life of a consultant
 modified_time: 2010-12-14T15:22:38.393Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8019320609808138538
-blogger_orig_url: https://www.marcusoft.net/2006/11/clean-query-analyser-stuff-with-notepad.html
+blogger_orig_url: https://www.marcusoft.net/2006/11/clean-query-analyzer-stuff-with-notepad.html
 ---
 
 Just another great utility that everybody has at their disposal...
 
-Quite often you will need the columns from a Query Analyser result for
+Quite often you will need the columns from a Query analyzer result for
 further handling, to put as header in Excel or to use in another query.
 The sad part is that they are not easily captured, if you get the result
 as a grid you can't reach them and if you get the result as text they

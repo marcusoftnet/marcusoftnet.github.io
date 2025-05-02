@@ -25,7 +25,7 @@ Quite simply: don't estimate the size - base it off data instead. It requires a 
 
 ## Classification into S, M, and L
 
-![Golidlocks estimation](https://pixabay.com/en/road-distance-landscape-horizon-348544/)
+![Goldilocks estimation](https://pixabay.com/en/road-distance-landscape-horizon-348544/)
 One of the simplest exercises I know about estimating in S, M, and L is an exercise we in [Kanban in Action](http://bit.ly/theKanbanBook) called "a line of cards". It's quick, simple, and good enough. Here's what you do:
 
 1. Pick an item from your backlog and write it on a sticky and place it in the middle of a table
@@ -81,7 +81,7 @@ Now it will be easier to give better and better predictions: using the upper and
 
 Inevitably, people will suggest that you introduce and XL or XXS to your scale. At this point I always suggest that we only use one size instead: Story. Because that is basically the same thing; tracking the data in the same manner we will sooner or later be able to make pretty certain predictions within what span our next story (of average size) will fall.
 
-## Golilocks estimation
+## Goldilocks estimation
 
 There's an exercise that I like a lot where you turn the estimation on its head: it's called Goldilocks estimation. And it's not really estimation at all... Basically, you just pick one of the stories you've done that felt about the right size. Then for each item in your backlog (or how far you need to go) you simply ask: is this just right or too big, or too small. For all the things that are too big we split them into just right sized items. For all the items that are too small we merge them into just right. This will help our prognosis to be more accurate with a narrower span.
 

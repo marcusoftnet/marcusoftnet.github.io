@@ -59,7 +59,7 @@ Here's a funny picture of a cat hacker to lighten up the mood a bit
 
 You ok?
 
-Ok - let's try to analyse the problems we saw here.
+Ok - let's try to analyze the problems we saw here.
 
 ### Depressing
 
@@ -71,7 +71,7 @@ I'd rather work in a place where I'm proud of what we do.
 
 ### Time taken - Cost of Delay
 
-Then there's the obvious loss of time in all wait-states here. First of all we are waiting for the decsion to be made and maybe cannot continue our work until it's done (or worse work around that waiting by building workarounds into our system…)
+Then there's the obvious loss of time in all wait-states here. First of all we are waiting for the decison to be made and maybe cannot continue our work until it's done (or worse work around that waiting by building workarounds into our system…)
 
 Worse; what if that decision actually would give us value (du-uh - I sure hope so). That value is delayed. This can be calculated as [Cost of Delay](http://www.leadingagile.com/2015/06/an-introduction-to-cost-of-delay/) and is a really good way to measure the cost of waiting.
 
@@ -85,7 +85,7 @@ On the meeting in question 25 different items that requires your decision was br
 
 How can anyone take in sufficient information, understand the complete problem and context to make wise decisions for all those point? In short; you can't.
 
-The only sane thing ([or …](/2016/10/move-the-information-to-the-authority-considered-harmful.html#move-the-authority-to-the-information)) to do is to ask for simplifications, summarisations, briefs and then trust that that compilation of all the context, information and situations on the floor is done correctly and then … make the *correct decision*
+The only sane thing ([or …](/2016/10/move-the-information-to-the-authority-considered-harmful.html#move-the-authority-to-the-information)) to do is to ask for simplifications, summarizations, briefs and then trust that that compilation of all the context, information and situations on the floor is done correctly and then … make the *correct decision*
 
 Whatever decision you do make it seems to always cause people to be upset or angry with the decision you made. They say; "they simply don't get it"
 
@@ -99,7 +99,7 @@ If their (mine) kids ask them what they do for work the answer:
 >
 > I'm an powerpoint creator
 
-Their job is to summarize, simplify and concretise information, situations, context and problem that one group have, a group that they are not working in, to present to another group of people, that is not in that situation either, so that the second group can make a decision to help the first group.
+Their job is to summarize, simplify and concretize information, situations, context and problem that one group have, a group that they are not working in, to present to another group of people, that is not in that situation either, so that the second group can make a decision to help the first group.
 
 It's weird. Hey, even that sentence is weird, but that might be my bad english.
 
@@ -107,7 +107,7 @@ It's weird. Hey, even that sentence is weird, but that might be my bad english.
 
 The poor management team are not on the place where the work is being done. Because they are busy in meetings deciding no how to solve problems on the job being made on the floor.
 
-In lean terms; there's no managers gemba. Gemba is Japansese and literally means "the real place" which detectives used to say that they are at the crime scene.
+In lean terms; there's no managers gemba. Gemba is Japanese and literally means "the real place" which detectives used to say that they are at the crime scene.
 
 Not being at the shop floor means that you are [not gemba, not at "the real place"](https://www.wikiwand.com/en/Gemba) where work is being done. If you are not someone has to describe that situation to you in order for you to fully understand it.
 

@@ -45,7 +45,7 @@ That was too long to be a heading. The whole question is:
 
 > From the internal team perspective, I imagine that one of your team members might be working on more than one project at a time e.g. an iOS developer might be primarily working on a new project but also supporting some previous app that he worked on, Correct? In this situation, how do you create that visualization and how do you perform capacity planning?
 
-There are many ways to visualise this. I would recommend [Kanban In Action](http://bit.ly/theKanbanBook) for many ideas as to how. Especially check the chapter on classes of services that is one way to classify work into different classes. Each class of service then have a policy adhered to it so that people knows how to handle, prioritize and behave around that kind of work.
+There are many ways to visualize this. I would recommend [Kanban In Action](http://bit.ly/theKanbanBook) for many ideas as to how. Especially check the chapter on classes of services that is one way to classify work into different classes. Each class of service then have a policy adhered to it so that people knows how to handle, prioritize and behave around that kind of work.
 
 A very common way to visualize this is to create separate "swimlanes" across the board with a policy for how to prioritize. There's often an expedite lane; work put into here and we'll let all other work go and only work on that. The entire team stops and does that. Doing that, of course, makes that expedited item move really fast - but at the cost of all other work slowing down.
 

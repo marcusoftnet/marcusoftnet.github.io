@@ -30,7 +30,7 @@ the have been to many times before. To learn stuff that they are
 not interested in (by now you realize that this is TOTALLY made up -
 that would NEVER happen in real school. right :)).
 
-For a school with, say, 500 pupils organising that  outing is quite a
+For a school with, say, 500 pupils Organizing that  outing is quite a
 feat. The teachers needs to be on their toe and make sure that everyone
 is still with us, going to the right place, ending up there. Finally
 there they have to make sure that everyone pays attention and don't

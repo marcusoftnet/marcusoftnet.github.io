@@ -78,7 +78,7 @@ I am ready fond of the [kanban](http://bit.ly/theKanbanBook) battle cry:
 
 In this way kanban is much nicer to get started with; change nothing in your current setup, no new roles, no new jobs, no new organizations. It's just like before.
 
-However the "start" in there marks the start of something. What? Well of the change. As David J Anderssons book is subtitled: "Successful Evolutionary **Change** for Your Technology Business".
+However the "start" in there marks the start of something. What? Well of the change. As David J Andersson's book is subtitled: "Successful Evolutionary **Change** for Your Technology Business".
 
 Yes, it's about the same thing. Of course. Why would we add kanban or agile at all if we don't want change?
 

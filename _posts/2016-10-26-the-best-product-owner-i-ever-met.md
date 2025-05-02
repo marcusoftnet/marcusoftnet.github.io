@@ -34,7 +34,7 @@ But what stands out is this owner - let's call him Richard. You can find him eve
 
 But everywhere he goes he's oozing *love for food*. If he brings a tray of a dish to a serving spot, he always stops and introduce the food in the most poetic kind of way:
 
-> This soup is just pure love - some heat in the chill, met in a gentle way with the honey dressing and then topped of with small shreds of basil the we repead in our garden …
+> This soup is just pure love - some heat in the chill, met in a gentle way with the honey dressing and then topped of with small shreds of basil the we harvested in our garden …
 
 You see where this is going. It's impossible not to be attracted to that food.
 
@@ -84,7 +84,7 @@ Who loves insurances at your big insurance companies? Who walks around at the bi
 
 ## What to do instead
 
-I think that it's better to take an **evolutionary approach to change**. That is; keep the roles as they are right now. If you have a "business" and an "IT department" - keep it like that to start with. **Visualise** the entire flow, limit the **work in process** and start to take measures to **manage for a faster flow**, for example:
+I think that it's better to take an **evolutionary approach to change**. That is; keep the roles as they are right now. If you have a "business" and an "IT department" - keep it like that to start with. **visualize** the entire flow, limit the **work in process** and start to take measures to **manage for a faster flow**, for example:
 
 * Limit the work in process to the number of items you are currently working on right now + 20%.
 * Then promise each other to reduce the work in process with 10% each month.

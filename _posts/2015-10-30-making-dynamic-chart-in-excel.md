@@ -99,8 +99,8 @@ Right-click the diagram and select "Select Data...". We're now going to add the 
 - First delete the series that is there now, created by Excel. We will not use it, since it shows all the data we selected.
 - Click Add to add a new series
 - In the "Name" box give the series a sensible name. I went with `No. Patients per day`
-- Y-values is the `RecentValues` named ranged. You have to give that using the workbook name for some reason (tell you soon). Write it like this: `='dynamicchart.xlsx'!RecentValues`
-- Label for category (X-axis) is the Recent Dates. In our case this is `='dynamicchart.xlsx'!RecentDates`
+- Y-values is the `RecentValues` named ranged. You have to give that using the workbook name for some reason (tell you soon). Write it like this: `='dynamicChart.xlsx'!RecentValues`
+- Label for category (X-axis) is the Recent Dates. In our case this is `='dynamicChart.xlsx'!RecentDates`
 - Click OK and you should have a diagram that looks something like the one below.
 
 ![Final Diagram](/img/finalDiagram.png){: style="padding: 5px" width="80%"}
@@ -115,7 +115,7 @@ This is looks ok, right? Let's play around with it and make sure that it works t
 - Change `F2` to 31 and you'll get the entire range.
 - Add a line below and see that the first data point is "rolled out of our window"
 - Remove the row you just added and see that the first data point now is shown again.
-- Add a trend line (right-click the line and then "Add trendline"), notice how that trend is affected by the data that is shown, as you change the `F2` value or add / remove data. Pretty sweet.
+- Add a trend line (right-click the line and then "Add trend line"), notice how that trend is affected by the data that is shown, as you change the `F2` value or add / remove data. Pretty sweet.
 
 ## Summary
 

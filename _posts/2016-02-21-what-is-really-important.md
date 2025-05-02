@@ -39,7 +39,7 @@ What would not be important?
 
 * This person that you just can stand, because he simply just don't get agile; right now he needs a hug - don't you think?
 
-* How important is it if my boys behave in McDonalds - when my old friend just told me about his daughters problems?
+* How important is it if my boys behave in McDonald's - when my old friend just told me about his daughters problems?
 
 * Even discussing corruption and financial problems on the verge of bankruptcy... and then someone dies. What is important?
 
@@ -50,7 +50,7 @@ That, right there. The strange feeling I get when I think about things like that
 ## Summary
 
 > WHAT? The things we work with is not important? Losing millions of dollars is not important, is that what you are saying?
-
+>
 > And why on earth should I think all those horrible thoughts? You want me to get depressed?
 
 Of course not. But when the going gets tough, I've found that gaining some perspective on things helps me realize what is really important.

@@ -60,4 +60,4 @@ But in my mind I think that items that take several days in each column is proba
 
 As you can see from the questions above what happens is that we run a little mini-retrospective around this one story that now doesn't behave as we thought that it would. It can be kept super short - probably as 2-3 questions during the morning meeting, or just a quick decision.
 
-The important point, as with almost anything that we visualise, is that we now get a visual signal about something not behaving as expected. That means that we can make thought-through decisions on how to act on it. We can sure press on and finish the item - but at least we know why we are doing it.
+The important point, as with almost anything that we visualize, is that we now get a visual signal about something not behaving as expected. That means that we can make thought-through decisions on how to act on it. We can sure press on and finish the item - but at least we know why we are doing it.

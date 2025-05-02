@@ -78,7 +78,7 @@ This simple little starter template helps us to just get starting writing tags d
 
 Because the tags can (often are) stored in .tag files and get processed, compiled and distributed by the riot compiler. In this simple example this is done on the browser
 
-As I mentioned there are other ways too; you can for example perform the compilation on the server and get .js files to use in your site, this seems to be the preferred way. You could even [prerender the tags on the server](https://www.youtube.com/watch?v=6ww1UXGJzcs).
+As I mentioned there are other ways too; you can for example perform the compilation on the server and get .js files to use in your site, this seems to be the preferred way. You could even [pre-render the tags on the server](https://www.youtube.com/watch?v=6ww1UXGJzcs).
 
 But is harder to get started like that. I'm running with this now.
 
@@ -96,7 +96,7 @@ Now create a directory called `tags` and it it add a file `todo.tag` with the fo
 
 Here we declare the `todo` tag.
 
-Fire up a simple web server, if you're on OsX just go `python -m SimpleHTTPServer` and then point a browser to http://0.0.0.0:8000. Sit back and be amazed. You have created a Riot component.
+Fire up a simple web server, if you're on OsX just go `python -m SimpleHTTPServer` and then point a browser to <http://0.0.0.0:8000>. Sit back and be amazed. You have created a Riot component.
 
 ## First dissection of the tag
 
@@ -118,7 +118,7 @@ Replace the `<todo></todo>` with this `<todo title="Stuff to do"></todo>`. Reloa
 
 The attributes, that you make up btw, on the tag, becomes properties on the `opts` object, like `.title` for example.
 
-## Another list?!
+## Another list?
 
 The great thing about components is that once you have defined them you can reuse them over and over. Let's add another todo list on our page. Let's make the `body` look like this:
 
@@ -250,7 +250,7 @@ Finally we're going to feed in some default todo items into the list, just like 
       riot.mount("todo", {
         title: "I want to behave!",
         items: [
-          { title: "Avoid excessive coffeine", done: true },
+          { title: "Avoid excessive caffeine", done: true },
           { title: "Hidden item", hidden: true },
           { title: "Be less provocative" },
           { title: "Be nice to people" },
@@ -414,7 +414,7 @@ There's a number of things here, but really nothing new:
 
 My plan (who said architecture?!) is that I'll keep all the operations that manipulate the `items` array in the main tag (`<todo></todo>`) and then have the underlying tags only handling their own stuff.
 
-A trivial example is that the `<todo-form></todo-form>` does the incrementation of the number of todo items. Since that's a "service" that the `<todo-form></todo-form>` has. The `<todo></todo>` just pass the number of items in.
+A trivial example is that the `<todo-form></todo-form>` does the incrementing of the number of todo items. Since that's a "service" that the `<todo-form></todo-form>` has. The `<todo></todo>` just pass the number of items in.
 
 ## Using the form
 
@@ -501,7 +501,7 @@ Psst, there's another type of loop that allows you to get hold of the item that 
 
 ## Summary
 
-Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (oooh, sorry. Totally unintended joke) along on my learning journey.
+Whoa - this post grew longer than I expected. Tags in Riot are really very simple. Now you got to tag (ooh, sorry. Totally unintended joke) along on my learning journey.
 
 Custom tags are the building blocks of the UI when using Riot. They can consist of HTML, JavaScript or both in which the markup comes before the script. Optionally you can add styling for the component.
 

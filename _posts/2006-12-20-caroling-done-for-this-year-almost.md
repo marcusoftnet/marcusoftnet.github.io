@@ -17,7 +17,7 @@ year with the Vasa Band. And that was something special I can tell
 you:
 
 Apparently this has been going on for a while now but the Old Town in
-Stockholm is organising a advent-calender in the famous buildings around
+Stockholm is Organizing a advent-calender in the famous buildings around
 the Old Town. So for example door 13 was in the castle and the King and
 Queen went to do their little thing (mostly waving of hands). Yesterday
 we took part in the opening of door 19 and there were about 200 people

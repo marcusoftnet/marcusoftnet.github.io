@@ -42,7 +42,7 @@ Me, standing on the side to start with, thought the exact opposite (at first); t
 * `claudia update` (see my [previous posts on Claudia](/2016/02/first-aws-lamda-steps.html)) - 30 seconds more
 * Starting a new game and see if your change did anything useful (for example; do I stop when I hit a wall) - 1 minute
 
-That's from idea to verified idea in production in under 2 minutes. Mindblowingly fast!
+That's from idea to verified idea in production in under 2 minutes. Mind-blowing-ly fast!
 
 And then I sat down and wrote some code myself and I felt that it was just too slow.
 

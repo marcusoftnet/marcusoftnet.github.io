@@ -21,6 +21,6 @@ Of course I couldn’t resist to preach the Agile gospel even for the
 Salvation Army. We are often quite rigid in our structures so that could
 be needed from time to time.
 
-It was well recieved with a very rewarding discussion afterwards. It
+It was well received with a very rewarding discussion afterwards. It
 also felt very good for me to be able to put some quotes form the bible
 on a PowerPoint slide. Haven’t done that before.

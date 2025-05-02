@@ -37,59 +37,59 @@ Here's the thing I found noteworthy in the guide - most of them are straight quo
 ### General about Scrum
 
 > The Product Owner is one person, not a committee.
-
+>
 > For the Product Owner to succeed, the entire organization must respect his or her decisions.
-
+>
 > Development Teams are structured and empowered by the organization to organize and manage their own work
-
+>
 > Self-organizing; no one tells the Development Team how to turn Product Backlog into Increments of potentially releasable functionality
-
+>
 > Scrum recognizes no sub-teams in the Development Team
-
+>
 > Scrum recognizes no titles for Development Team members other than Developer
 
 ### About the events and meetings
 
 > All events are time-boxed events... Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened.
-
+>
 > During the Sprint: No changes are made that would endanger the Sprint Goal
-
+>
 > The Daily Scrum is a 15-minute time-boxed event for the Development Team
-
-> [http://bit.ly/2orJfOt ](https://t.co/ED6xQ5bSHt) Nothing about the informing the PO or other external stakeholders at the Daily Scrum
-
+>
+> [http://bit.ly/2orJfOt](https://t.co/ED6xQ5bSHt) Nothing about the informing the PO or other external stakeholders at the Daily Scrum
+>
 > During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint.
-
+>
 > Sprint Retro is an opportunity for the Scrum Team to inspect itself & create a plan for improvements to be enacted during the next Sprint.
-
+>
 > By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint
 
-### About the artefacts
+### About the artefact
 
 > Scrum’s artifacts represent work or value to provide transparency and opportunities for inspection and adaptation.
-
+>
 > The Product Owner is responsible for the Product Backlog, including its content, availability, and ordering.
-
+>
 > The Product Backlog lists all features, functions, requirements, enhancements, and fixes that constitute the changes to be made
-
+>
 > Product Backlog items have the attributes of a description, order, estimate and value.
-
+>
 > As a product is used and gains value, and the marketplace provides feedback, the Product Backlog becomes a larger and more exhaustive list.
-
+>
 > The Scrum Team decides how and when refinement is done. Refinement usually consumes no more than 10% of the capacity of the Development Team
-
+>
 > At any point in time, the total work remaining to reach the product goal can be summed.
 
 ### About Sprints
 
 > At any point in time in a Sprint, the total work remaining in the Sprint Backlog can be summed.
-
+>
 > At end of a Sprint, the new Increment must be “Done,” i.e. it must be in useable condition & meet the Scrum Team’s definition of “Done.”
-
+>
 > Scrum relies on transparency. Decisions to optimize value and control risk are made based on the perceived state of the artifacts.
-
+>
 > The purpose of each Sprint is to deliver Increments of potentially releasable functionality [... as of the] current definition of “Done.”
-
+>
 > Development Teams deliver an Increment of product functionality every Sprint. Each Increment is additive to all prior Increments and thoroughly tested, ensuring that all Increments work together.
 
 ### And finally about the guide itself

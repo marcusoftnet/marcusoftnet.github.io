@@ -21,6 +21,7 @@ This post is just an update about the progress of the work around the "Salvation
 <!-- excerpt-end -->
 
 ## Presenting
+
 I was fortunate enough to be able to present at Lean Kanban North America 2016. To my great joy they were interested in hearing about the my hospital journey there. The reception of my presentation was overwhelming. I saw people drying tears during the presentation at more than one occasion and I spoke with many people after the presentation.
 
 Here's my presentation recorded by [Lean Kanban Inc.](http://leankanban.com/)
@@ -37,6 +38,7 @@ Even more exciting is a number of presentations already booked on the same topic
 * My favorite developer conference has always been [OreDev](http://www.oredev.org) and I was beyond myself when they accepted my "hospital story"-speech. That will be something for the books.
 
 ## The book with a site
+
 Thanks to the super helpful people at [Oikosofy](http://oikosofy.com/) there's now a landing page for the book. [bit.ly/bungsustory](http://bit.ly/bungsustory) is the URL you need to remember.
 
 Once there you can get the first chapter for free and then tag along as we produce more and more chapters.
@@ -48,6 +50,7 @@ This will also a place where we launch extra material that will be a nice additi
 I've also created a twitter account [@bungsustorybook](https://twitter.com/bungsustorybook) where I will share most of the information on the book.
 
 ## Progress and hopes
+
 The book is progressing... But a bit slow for my taste. I have the most excellent help from [Duarte Vasco](https://twitter.com/duarte_vasco) that is more a writing-coach than merely my editor.
 
 Here's the current status:
@@ -63,6 +66,7 @@ I have written the whole story down. I had too - my memory fails me fast. But we
 I would love to have some serious progress and have it packed for the early autumn. That's my hope.
 
 ## Summary
+
 This project is so close to my heart. I'm immensely proud of the work that I was fortunate to take part in. The stories from that 1,5 years needs to be told. In a great way. I will do my very best to do so.
 
 Please join me and as always, I'd love your feedback.

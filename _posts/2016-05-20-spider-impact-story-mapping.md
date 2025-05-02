@@ -62,9 +62,9 @@ You get the picture. You'll have to talk about it. That's also powerful. Talking
 
 ## Making the vision … eh … visible
 
-One of the foundational principles of kanban in particular and lean in general is to make work *visual*. It turns out that things that you can see are much easier to grasp and reason about. Never has this been more true than when you talk about abstract and highflying things like vision or goals for example.
+One of the foundational principles of kanban in particular and lean in general is to make work *visual*. It turns out that things that you can see are much easier to grasp and reason about. Never has this been more true than when you talk about abstract and high-flying things like vision or goals for example.
 
-Take the abstract text and make it accessible, present and in-your-face-clear and much of the battle is won. Take a look at the [pirate code of visualistation](https://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html) that we created a Rumah Sakit Bungsu a few years back - they work as a great start for me.
+Take the abstract text and make it accessible, present and in-your-face-clear and much of the battle is won. Take a look at the [pirate code of visualization](https://www.marcusoft.net/2015/10/the-visualization-pirate-rules-of-rs-bungsu.html) that we created a Rumah Sakit Bungsu a few years back - they work as a great start for me.
 
 I'm blessed right now with being surrounded by brilliant people. One of the new acquaintances I've made is Fredrik, a management consultant that brought some new ideas to us. Fredrik guided the management team (4-5 ppl) of our entire team (40-50 ppl) in a workshop where we defined the *capabilities* that we thought that we needed to reach the vision defined above.
 
@@ -79,14 +79,14 @@ We decided to plot all of the capabilities we thought that we needed in a so cal
 I like these diagrams because they convey a lot of information:
 
 * The axis - our capabilities that we need to work with to reach our goal
-* The area should be [balanced](https://www.marcusoft.net/2015/11/using-the-scientific-method-on-our-board.html#whats-important-to-track-really) and maximised most likely. This is easy to see and convey.
+* The area should be [balanced](https://www.marcusoft.net/2015/11/using-the-scientific-method-on-our-board.html#whats-important-to-track-really) and maximized most likely. This is easy to see and convey.
 * Where we are now - the current area, for example the red area above.
 * Where we want to be - the future area, for example the green area
   * You can even show the next iteration, for example the next quarter we will
 * It's also easy to see the difference or delta between where we are now and our desired state.
   * Even the parts that's lagging behind are easy to spot and point to
 
-Visualisation - can't beat the feeling.
+visualization - can't beat the feeling.
 
 We ended up with 7 different capabilities plotted out on a whiteboard, but you might have fewer or more. Examples of our capabilities were "Innovation within the team", "Motivated team members" and "Short lead times" that we will use as examples throughout the post.
 
@@ -112,7 +112,7 @@ If you have an easy way to measure the progress within one area use the grading 
 
 In our case we did not have a great way of grading our capabilities so we decided to use 10-grade scale for each.
 
-We then defined what 10 means for each axis. This was really fun and rewarding since we now could dream. Note that it doesn't have to be achievable, since the reaching the vision means that the area needs to be balanced. Reaching the vision doesn't mean that it's maximised.
+We then defined what 10 means for each axis. This was really fun and rewarding since we now could dream. Note that it doesn't have to be achievable, since the reaching the vision means that the area needs to be balanced. Reaching the vision doesn't mean that it's maximized.
 
 For example:
 
@@ -159,7 +159,7 @@ We now turned to one of my favourite tools [Impact mapping](https://www.impactma
 
 It's also simple to get started and get people up and running. I've used it for all kinds of things, backlogs, workshop documentation etc. Impact mapping is really cool. Here's an example:
 
-![An example impact map from www.impactmapping.org](https://www.impactmapping.org/assets/im_template.png)
+![An example impact map from www.impactMapping.org](https://www.impactmapping.org/assets/im_template.png)
 
 * Goal or Why - the legs in the radar chart now becomes impact maps, where the impact you want to make in the coming 3-6 moths is the *goal* or *why* of the the impact map.
   Note that we give a concrete and measurable number for our goal - how would we know if we have improved otherwise.

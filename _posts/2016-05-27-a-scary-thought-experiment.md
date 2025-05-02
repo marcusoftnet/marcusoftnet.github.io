@@ -14,7 +14,7 @@ Just a short post on a little thought experiment I've been testing out.
 
 I am right now in a big company trying to apply agile and lean practices for software development. We struggle because we meet the current organization that is not built to move in the way we want it to.
 
-[Please fill out the rest of the story from your own experience while I yaaawn]
+[Please fill out the rest of the story from your own experience while I yawn]
 
 […]
 
