@@ -73,7 +73,7 @@ So what is the difference here? It's the same paper, same end result, same pens 
 
 I hear what you are thinking now:
 
-> "Hrmf, dear article author, sir; shouldn't this have something to do with Christianity, the Salvation Army or Jesus? This sounds a bit more like a management book."
+> "Hmmm, dear article author, sir; shouldn't this have something to do with Christianity, the Salvation Army or Jesus? This sounds a bit more like a management book."
 
 If you read my [previous article](https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) you remember that I think that we should be the best we can be for Him. Doing the MOST good. That both means that we want to optimize the value of our actions but also do less of the things that aren't valuable.
 

@@ -57,7 +57,7 @@ The week ended early since 3 out of 5 members had to go to Jakarta. We decided t
 
 We also added a new criteria for putting items in the Todo-column: They need a "definition of done" so we know what we're supposed to do with them. Preferably, we can answer "When this is done we have ...".
 
-Some items are such in nature that we don't know the definition of done when we start (investigations for example). We agreed to put timeboxes for them instead. One example was the timebox we put in place to find a simple way to do reporting.
+Some items are such in nature that we don't know the definition of done when we start (investigations for example). We agreed to put time-boxes for them instead. One example was the timebox we put in place to find a simple way to do reporting.
 
 ![Board Image](/img/yayasan_board_3.jpg)
 

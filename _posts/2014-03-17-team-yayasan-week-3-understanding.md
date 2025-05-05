@@ -88,13 +88,13 @@ The first thing is that we're talking about "WE" and never "THEM", "YOU" or "US"
 And here's how a reminder email can look like, following that advice:
 
 > Our goal for the Kantor Yayasan is: "to help the hospitals and clinics to improve". That's why we keep pushing us and keep nagging about reports being late. Like this. I am NOT angry with any single one of you, I just want us to improve. Us. The Yayasan. And all the hospitals and clinics in it. And the Kantor Yayasan. Us.
-
+>
 > Ok, right now we are waiting for the finance report. I learned this Monday that we have got all the reports from all hospitals up to 31/12 2013. That's great! But that also means that we are 73 days that are not reported. See attached photo. Our goal is that it should be 1.
-
+>
 > This renders a lot of extra work for Bp Deny and Bp Anton since they have to call several times a day (see attached photo) and remind us to get our reports in on time. And keeping the Kantor Pusat accounting up to date is considerably harder too, since the different books from the different hospitals are out of synchronization.
-
+>
 > Let's help them and get the report for February in. It's the only thing that is still missing, so it's not that much left now! We're halfway there!
-
+>
 > Thank you for helping us to be a better Yayasan!
 
 The second thing was a board we created to show how much time we are spending on reminding people about the reports. Here's the current status:

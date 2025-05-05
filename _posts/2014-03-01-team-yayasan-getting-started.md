@@ -105,8 +105,7 @@ We also have A lot of things going on at the same time (ca 10-16 things).
 
 We agreed to try to do something about these issues next week. We suggested two changes that we're trying for next week:
 
-- Limiting the Doing-column (Sedang in Indonesian) to 14 items. It's a lot I know but as you'll see in my summary below I'm not in a hurry.
-    Also I wanted to try a technique that [Donald Reintersen](http://reinertsenassociates.com/) introduced me too (also described [in the book btw](http://bit.ly/theKanbanBook)). Each week we will lower this limit with 20% until it hurts. Then we start our discussions about how to improve from there. Right now it's not hurting at all...
+- Limiting the Doing-column ("Sedang" in Indonesian) to 14 items. It's a lot I know but as you'll see in my summary below I'm not in a hurry. Also I wanted to try a technique that [Donald Reinertsen](http://reinertsenassociates.com/) introduced me too (also described [in the book btw](http://bit.ly/theKanbanBook)). Each week we will lower this limit with 20% until it hurts. Then we start our discussions about how to improve from there. Right now it's not hurting at all...
 - We decided to classify all the items in Todo (Akan) in S, M, L and (XL). That's is if something is XL we break it down. Nothing should take longer than 2 weeks, that's our idea now at least.
 
 This is the final board after the first week:

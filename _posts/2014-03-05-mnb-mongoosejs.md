@@ -19,7 +19,7 @@ In my [blog post about Monk](https://www.marcusoft.net/2014/02/mnb-monk.html) (w
 
 Let's me redeem my bad Mongoose-conscience and write a ~~short~~ post on what I've picked up when trying it... [for real](http://github.com/aptitud/AptiTalk).
 
-The thing that ticked me off and actually made me turn away from Mongoose on the idea-stadium was the fact that it needs a typed model. To me, at the time, this seemed to go against the whole idea of simplicity and dynamicallity (yeah, made that word up... but I mean focus on dynamic stuff; I can store object that doesn't have exactly the same properties in the same collection for example) that can be seen through [Mongo](http://www.mongodb.org/) and [Monk](https://github.com/LearnBoost/monk) for example.
+The thing that ticked me off and actually made me turn away from Mongoose on the idea-stadium was the fact that it needs a typed model. To me, at the time, this seemed to go against the whole idea of simplicity and dynamically (yeah, made that word up... but I mean focus on dynamic stuff; I can store object that doesn't have exactly the same properties in the same collection for example) that can be seen through [Mongo](http://www.mongodb.org/) and [Monk](https://github.com/LearnBoost/monk) for example.
 
 As always with Node frameworks Mongoose is really simple to install:
 
@@ -81,7 +81,7 @@ However that means cleaning stuff up before and after your tests, since you cann
 
 ### ORM or Data Access framework?
 
-Ok, so why did I diss this awesome framework the first time around? Because I didn't even think about an ORM, I just wanted data access. For a number of years I've just used very [simple tools](https://github.com/markrendle/Simple.Data) and shied away from the complex as much as I could. When I saw that I needed to create a model, and that Mongoose hid all things Mongo from me... I was a bit hesitant.
+Ok, so why did I dismiss this awesome framework the first time around? Because I didn't even think about an ORM, I just wanted data access. For a number of years I've just used very [simple tools](https://github.com/markrendle/Simple.Data) and shied away from the complex as much as I could. When I saw that I needed to create a model, and that Mongoose hid all things Mongo from me... I was a bit hesitant.
 
 Now, when I've used the tool I feel much better. It's worth the "toll" I pay by creating models etc, I think. The API that Mongoose exposes is very nice and powerful and I have yet been near running into a situation that I cannot handle.
 
