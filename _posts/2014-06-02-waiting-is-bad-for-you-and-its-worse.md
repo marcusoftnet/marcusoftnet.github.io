@@ -26,7 +26,7 @@ To explain what just happened to the people in the room I drew this diagram on t
 
 ![2014-06-02 13.16.14](/img/2014-06-02%2525252013.16.14_thumb%2525255B8%2525255D.jpg)
 
-We talked for awhile and they seem to understand. Heads where nodding and people went “aaaaah”.
+We talked for awhile and they seem to understand. Heads where nodding and people went “aah”.
 
 (Yeah, that’s how I measure success in delivering messages. Not really the best way I can tell you… Find better for yourselves.)
 

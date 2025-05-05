@@ -88,7 +88,7 @@ Please note that just changing is not improving, but improvement means changing.
 
 Now you say;
 
-> Aaaaah ... if we're going to change continuously ... how do we know that it's improvements? Or just change?
+> Aah ... if we're going to change continuously ... how do we know that it's improvements? Or just change?
 
 First of all; most of us know. At least in the early stages of the improvement journey. After that we need a [true north](http://theleanedge.org/?p=3343), that a lot of Lean literature is talking about.
 

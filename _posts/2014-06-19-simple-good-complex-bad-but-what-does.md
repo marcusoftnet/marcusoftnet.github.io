@@ -54,7 +54,7 @@ Transparency is a powerful tool. Using it will uncover things. Are you ready to 
 
 ## Short feedback loops – making it concrete often
 
-![feedbackloopshort](/img/feedbackloopshort.jpg)
+![Feed back loop short](/img/feedbackloopshort.jpg)
 
 The other part of Simple to me is short feedback loops. For example, when we create the board with tasks as above, we meet *daily* to talk about it. This has a number of advantages over meeting once a week:
 

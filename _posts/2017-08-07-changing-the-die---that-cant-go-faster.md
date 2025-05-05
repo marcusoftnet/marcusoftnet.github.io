@@ -16,7 +16,7 @@ My favourite part was the history of car manufacturing that and how the Toyota P
 
 <!-- excerpt-end -->
 
-There's an awesome little paragraph in the book (page 51-52) showing clearly how Taichi Ohno (and in turn Toyota) let their strive for a faster flow change things that was considered constants.
+There's an awesome little paragraph in the book (page 51-52) showing clearly how Taiichi Ohno (and in turn Toyota) let their strive for a faster flow change things that was considered constants.
 
 At the time (and still I presume) you make cars from a roll of steel that then is stamped into the required parts for the model needed. These dies of course need to be very heavy and sturdy since you, quite literally, are stamping things out of steel. Also they need to be extremely precise as smallest problem would replicate throughout all the parts stamped out.
 
@@ -37,7 +37,7 @@ First of all it's interesting to see that the rest of the car industry considere
 
 We have to continue to challenge the current ways to become better.
 
-The second observation is that one of the reasons that Taichi Ohno pressed on was that he had a strong guiding star; smaller batches with less inventory. This is famously summarized in Toyota production strategy:
+The second observation is that one of the reasons that Taiichi Ohno pressed on was that he had a strong guiding star; smaller batches with less inventory. This is famously summarized in Toyota production strategy:
 
 > One piece continuous flow
 

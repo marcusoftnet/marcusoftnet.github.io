@@ -50,7 +50,7 @@ In this situation it’s easy to get angry (and I sure have been a number of tim
 
 ### Meet them
 
-![stoplisten](/img/stoplisten_thumb.jpg)
+![Stop and listen](/img/stoplisten_thumb.jpg)
 
 Most important is to meet people in this need to air their disappointment. I often let them state their case and then, just before we’re entering discussion I say something like, as polite as possible:
 

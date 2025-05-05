@@ -15,7 +15,7 @@ tags:
 
 I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving my post from there here.
 
-## Orginal post
+## Original post
 
 For the better part of my life I have been a C# programmer. But lately I have ventured into [JavaScript land](https://www.marcusoft.net/search/label/Javascript). And I like it. I have come over the “what kind of junk is this”-phase and come to see the power and beauty that is “[hidden under a huge steaming pile of good intentions and blunders is an elegant, expressive programming language](http://codeascraft.com/2011/03/23/douglas-crockford-at-etsy/)”. You should read [that book](http://shop.oreilly.com/product/9780596517748.do), by the way, that’s the one that made me like JavaScript.
 
@@ -106,7 +106,7 @@ console.log(elvis.next().value); // outputs "Two, for the show"
 console.log(elvis.next().value); // outputs "Three to get ready! Now go, cat, go"
 
 /*
-console.log(elvis.next()); // ouputs { value: undefined, done: true }
+console.log(elvis.next()); // outputs { value: undefined, done: true }
 console.log(elvis.next()); // throws Error: Generator has already finished*/
 ```
 
@@ -361,7 +361,7 @@ Ready to roll! You can now run you blog engine, written in less than 85 lines of
 
 To run this you need to:
 
-- install the packages in the `package.json` with `npm intall`
+- install the packages in the `package.json` with `npm install`
 - and then kick the site off with `npm start` that fires up the command I had in `package.json` under scripts->start, if you remember
 
 Now open the blog app on <http://localhost:3000>. The [Mongo](http://www.mongodb.org/) database (you have Mongo installed right?) will be created for you and you can use a tool like [RoboMongo](http://robomongo.org/) to peek into it.
@@ -432,4 +432,4 @@ First – all the code for this [blog post can be found here](https://github.com
 - [Koa’s website](http://www.koajs.com/)
 - And I’ve written [some posts on Koa](https://www.marcusoft.net/search/label/Koa) that dives a bit deeper than this
 
-I hope this longish post helps you steer away from some of the long winding error roads I have travelled and wrong turns I’ve taken the last couple of months.
+I hope this longish post helps you steer away from some of the long winding error roads I have traveled and wrong turns I’ve taken the last couple of months.

@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2777218186814061355
 blogger_orig_url: https://www.marcusoft.net/2014/05/screencast-on-getting-started-with-koa.html
 ---
 
-I got a [comment from a reader](https://www.marcusoft.net/2014/03/mnb-mongoosejs.html). That's both encouraging and educating. Mr Robert Larsson asked me if I could show him and others how to write an API using [Koa Js](http://www.koajs.com/). Yes, sir. I can do that.
+I got a [comment from a reader](https://www.marcusoft.net/2014/03/mnb-mongoosejs.html). That's both encouraging and educating. Mr Robert Larson asked me if I could show him and others how to write an API using [Koa Js](http://www.koajs.com/). Yes, sir. I can do that.
 
 I thought that I would try something different (for me) and did a screencast out of this. I had great fun doing this and was a bit nervous to record this (would the internet act up, would any dogs or cats outside my house be audible), but the end result was pretty good I think (Elin opened our VERY squeaky door twice but other than that it came across fine).
 

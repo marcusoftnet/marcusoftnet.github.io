@@ -32,10 +32,10 @@ But this linguistic poverty has been a trigger for learning for me. I've really 
 To this date, this is the best and simplest way to describe the difference between the two concepts:
 
 > For a sprinter, **efficiency** is about running without wasting energy. Make sure your hands don't take up a lot of air, be very particular about how you move your legs, when is the best time to raise your head, how long should your steps be in the beginning, middle, or end of the race. How do I use the energy from the start in my first 10 meters, etc.
-
+>
 > For a sprinter, **effectiveness** is running in the right direction. Towards the goal, if I may offer a suggestion.
 
-Effectiveness has to do with reaching our goal. In fact, I don't care much about efficiency until we know where we are going. Imagine seeing Usain Bolt take off from the starting block and run the wrong way! We would all go:
+Effectiveness has to do with reaching our goal. In fact, I don't care much about efficiency until we know where we are going. Imagine seeing Usian Bolt take off from the starting block and run the wrong way! We would all go:
 
 > Why on earth did he do that? Doesn't he know where he's going? He knows where the goal is, right?
 

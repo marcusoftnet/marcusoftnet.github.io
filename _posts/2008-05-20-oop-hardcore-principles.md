@@ -26,7 +26,7 @@ VB.NET.
 
 I have not followed all of these in my current project (it would lead to
 a loo-ot of classes and assemblies) but having them nailed to the wall
-has given my an oppurtunity to learn and use some of the guidelines. And
+has given my an opportunity to learn and use some of the guidelines. And
 lo, and behold - my design was better and my code more readable.
 
 He might be onto something here, the good Brikenstock...

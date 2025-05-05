@@ -30,7 +30,7 @@ Locally you need something called the [Heroku tool belt](https://toolbelt.heroku
 The first things you probably use the tool belt for are:
 
 - `heroku login` - to authenticate with the Heroku-site credentials
-- `heroku create [appname]` - create a Heroku application in a directory and on the Heroku site. And set up a nice link between them that is the real power of Heroku.
+- `heroku create [app name]` - create a Heroku application in a directory and on the Heroku site. And set up a nice link between them that is the real power of Heroku.
 - `heroku keys:add` - add your ssh-keys to let Heroku know that you are you. [Read this](https://devcenter.heroku.com/articles/keys).
 
 The last point was also my first gist. I'll soon come back to it. But I need to explain one more command that you need to know about:
@@ -41,7 +41,7 @@ The last point was also my first gist. I'll soon come back to it. But I need to 
 
 I was happy. Everything had gone so great. I had installed and run the Heroku tool belt command. They all worked like a charm. I even started to think that I knew what I was doing. Then I pushed to Heroku for the first time:
 
-```
+```bash
 git push heroku master
 Permission denied (publickey).
 fatal: Could not read from remote repository.
@@ -56,9 +56,9 @@ Oh yeah... almost forgot. I'm of course using [KoaJs](https://www.marcusoft.net/
 
 Luckily this is super simple. In your [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) file just define a node called "[engines](https://www.npmjs.org/doc/json.html#engines)" and give it the version of Node you're using. Like this:
 
-```
+```json
 "engines": {
-"node": "0.11.12"
+  "node": "0.11.12"
 }
 ```
 
@@ -76,7 +76,7 @@ The addon is then added to your application on the Heroku site and configured as
 
 In order to use MongoHq in your application you need to get hold of the URL to the MongoDb database. The MongoHq addon exposes this through an environment variable which you can get hold of in Node by doing: `process.env.MONGOHQ_URL`.
 
-You can see the settings for your application under https://dashboard.heroku.com/apps/[your application name]/settings.
+You can see the settings for your application under <https://dashboard.heroku.com/apps/[your> application name]/settings.
 
 Now, this poses a bit of a problem since you want to use your local MongoDb server when developing and the one in the cloud at MongoHq when you are running live. There's myriads of ways to solve this but I have dragged a little configuration utility around for a while. It's just a single file that exports an object with the configuration variables I need. Here is one incarnation of it:
 

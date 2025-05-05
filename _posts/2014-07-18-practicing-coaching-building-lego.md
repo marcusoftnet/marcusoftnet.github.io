@@ -26,7 +26,7 @@ I think this is a really good exercise, and in this short post, I'll show you a 
 
 The whole thing is quite simple. Get a Lego model that you and a kid you have close to. I did this with my own kids, but you can "borrow" one. Just ask permission or it all ends up strange and a bit criminal :). Below I named my son "the kid".
 
-Then basically just build the model. I try not to touch the Legos as an exercise for myself and also try to involve my sons more and more in the goals and the plans on how we're going to build. This will be a gradual process that has to do with experiences of Lego-building you and your kid have.
+Then basically just build the model. I try not to touch the Lego pieces as an exercise for myself and also try to involve my sons more and more in the goals and the plans on how we're going to build. This will be a gradual process that has to do with experiences of Lego-building you and your kid have.
 
 Now, the most important part, is that you afterwards reflect on your behavior. What worked? What failed? What do you call failure? What does the kid call failure?
 
@@ -55,7 +55,7 @@ Now, I know that building is just for the fun of it. And we sure had fun (that s
 
 The analogies I drew from this were when I have done very hands-on coaching, showing people new techniques or tools. My two best pieces of advice for that kind of thing are:
 
-- Step away from the Legos keyboard. Let the person you are teaching be the driver.
+- Step away from the Lego pieces / keyboard. Let the person you are teaching be the driver.
 - Always ask the person to restate the reason for why you are doing what you are doing right now. Maybe, just maybe, there are ways to do this that you didn't think of. Would you want to be the one holding back the creativity of new stars?
 
 *PS: I of course have to show the finished product.*

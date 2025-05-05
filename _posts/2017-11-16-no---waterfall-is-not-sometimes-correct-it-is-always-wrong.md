@@ -46,7 +46,7 @@ The path to agile transformation begins with a shift in mindset and practices. W
 
 A common refrain is that certain endeavors—such as large-scale ERP implementations—are incompatible with lean and agile methodologies. To this, I offer a simple yet profound response: "Not yet." Rather than accepting the status quo, we must challenge it, seeking innovative solutions guided by lean principles.
 
-Consider the story of Taichi Ohno, the pioneering mind behind Toyota's lean philosophy. By relentlessly pursuing faster flow and shorter lead times, he revolutionized die-change processes, achieving feats once deemed impossible.
+Consider the story of Taiichi Ohno, the pioneering mind behind Toyota's lean philosophy. By relentlessly pursuing faster flow and shorter lead times, he revolutionized die-change processes, achieving feats once deemed impossible.
 
 ## In Conclusion
 

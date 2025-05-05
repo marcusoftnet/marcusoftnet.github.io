@@ -27,15 +27,15 @@ I had the good fortune to do my military service in the [Royal Swedish Army Band
 
 Nothing to do with Kristian
 
-I'm a brass musician (euphonium, mind you) and I had little experience with wood winds, whats easy and hard on those instruments, before being in the Royal Swedish Army Band. Specifically the technical fluency of the clarinet impressed me, and the high-pitched squeekes (pull a chair out and you know what I mean) that sometime came out of the clarinets, had me confused. Even great players produced these from time to time.
+I'm a brass musician (euphonium, mind you) and I had little experience with wood winds, whats easy and hard on those instruments, before being in the Royal Swedish Army Band. Specifically the technical fluency of the clarinet impressed me, and the high-pitched squeaks (pull a chair out and you know what I mean) that sometime came out of the clarinets, had me confused. Even great players produced these from time to time.
 
 I noticed that our best player, [Kristian Möller (who went on to amazing things)](http://www.sverigesradiobutiken.se/kristian-moller-klarinette/127-0), never had those sounds coming from his instrument.
 So I asked him:
 
-Me: Can't you teach the others to stop doing SQUUEEEEEK?
-Kristian: No. You can't control that. It has to do with moist and ... well it's just bad luck.
-Me: But... it never happens to you
-Kristian (with a sly smile): Well, I guess I'm lucky then.
+- Me: Can't you teach the others to stop doing SQUEAK?
+- Kristian: No. You can't control that. It has to do with moist and ... well it's just bad luck.
+- Me: But... it never happens to you
+- Kristian (with a sly smile): Well, I guess I'm lucky then.
 
 No, he wasn't. He was an awesome player. He practiced since forever. And kept practicing. That gave him margins. Luck had nothing to do with it.
 
@@ -47,7 +47,7 @@ Without the permit they were subjected to big risks.
 
 They pushed hard, got the application in just in time, started to wait.... and got unlucky.
 
-The person handling the permit was hit by a car and hospitalised. They had to wait a few weeks more. They were really unlucky.
+The person handling the permit was hit by a car and hospitalized. They had to wait a few weeks more. They were really unlucky.
 
 No... they really were not unlucky. They cut every corner they could think of. They ran too fast and started too late. They worked too much in a short while. That gave them small margins. Luck had nothing to do with it.
 
@@ -78,7 +78,7 @@ What happened at those deployment periods, do you think?  
 - The complexity of the deployment projects was enormous.
 - They had 4 full-time employed Deployment project managers, just to coordinate the activities
 - If they were really lucky everything went just as planned.
-- Often (who said "Always"?!) things went bad. For at least some of the dependencies. Unluck and unexpected things.
+- Often (who said "Always"?!) things went bad. For at least some of the dependencies. Un-luck and unexpected things.
 - Minor extra releases had to be made. After the main release. Changing things even further.
 
 At this time I gave a Lean presentation and I had a slide on continuous delivery in there. This made them angry. I tried to show them with a drawing like follows:

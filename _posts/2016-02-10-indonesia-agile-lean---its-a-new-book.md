@@ -99,7 +99,7 @@ Here I thought instead that I should write some fake reviews, as I would want pe
 </blockquote>
 
 <blockquote><p>Marcus has taken some very simple principles and applied them in a highly unlikely setting. It's an excellent example about the principles not being rules but rather something that should be applied and adjusted.</p>
-<p>- Taichi Ohno, Inventor Toyota Production System</p> </blockquote>
+<p>- Taiichi Ohno, Inventor Toyota Production System</p> </blockquote>
 
 <blockquote><p>With this emotional and roller coaster of a story, Marcus was able to keep me interested in the people in the Hospital, and how they are able to change the system that they were in, applying simple, yet transformational practices. Deming is alive and well in Indonesia, thanks to Marcus and the crew at the Salvation Army. Lives have been saved (and I don't mean the patients) with this story. This book can save your soul dear Agile coach. Take the first step, the book will do the rest...</p>
 <p>-Vasco Duarte - Author NoEstimates book, ScrumMasterPodCast host, agile / lean long time practitioner, editor of this book</p>

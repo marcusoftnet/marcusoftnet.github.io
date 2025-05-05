@@ -42,7 +42,7 @@ What in reality came out of that project was Scrum-ish work at each team, a lot 
 
 Oh, we created an agile coffee meeting each Tuesday morning where people could come and talk about agile things, problems, and challenges. That was really good.
 
-After six months, the teams were all working with Scrum (morning meetings, participations from the business teams in most of the development teams, iterations of 3 weeks, etc. etc.). They were, in fact, trying to fit Scrum within their current system's frames.
+After six months, the teams were all working with Scrum (morning meetings, participation from the business teams in most of the development teams, iterations of 3 weeks, etc. etc.). They were, in fact, trying to fit Scrum within their current system's frames.
 
 In my mind, it failed because no (big) changes in the output of the system were created. A LOT of frustration and anger were displayed, mainly due to roles changing. Not much came out of that since we didn't change the system, just how we worked within the system.
 

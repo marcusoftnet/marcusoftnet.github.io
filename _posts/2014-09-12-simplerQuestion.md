@@ -45,7 +45,7 @@ The situation the company was facing was the same. We need more customers. Every
 
 At this point, David's words came to me: "Ask a simpler question." So we did a single very simple diagram. It proved quite hard to produce, but once in place, it was simple to keep updated and understand.
 
-Instead of talking about incomes and expenditures, prognosis and budget, debts, account receivable, financial costs, and operating costs (all hard to grasp and quite frankly... *yaawn* ... a bit boring), we brought it down to one single measurement:
+Instead of talking about incomes and expenditures, prognosis and budget, debts, account receivable, financial costs, and operating costs (all hard to grasp and quite frankly... *yawn* ... a bit boring), we brought it down to one single measurement:
 
 > How many customers do we need to have each day to do well?
 

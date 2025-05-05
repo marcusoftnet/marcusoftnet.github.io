@@ -21,7 +21,7 @@ In this post I'm planning to tell you a couple of short stories and episodes, to
 
 ### Gothenburg Brass Band
 
-I had the great privilege to play in the top brass band in Sweden for about 2 years. The height of my musical "career". This was an amatuer group in such regard that everyone played in the band on the spare time and nobody got paid. Many of the members were professional musicians (and there we were 4 people who just tried to keep up...) which meant that the standard was super high. Great great fun.
+I had the great privilege to play in the top brass band in Sweden for about 2 years. The height of my musical "career". This was an amateur group in such regard that everyone played in the band on the spare time and nobody got paid. Many of the members were professional musicians (and there we were 4 people who just tried to keep up...) which meant that the standard was super high. Great great fun.
 
 There's lot to say about them and the way they approach excellence but I'll leave it for the sake of brevity. Let's me focus on a single thing that they were very particular about; the warmups.
 
@@ -39,7 +39,7 @@ Their reasoning was; "there's no real reason doing the hard stuff when we haven'
 
 I now work in Indonesia - that's a big change. I also work for the Salvation Army - that's another big change. Every morning we gather the entire office (80 people circa) for a morning prayer. (Stay with me atheist friends, there's nothing particular Christian about this post). The program is simple;
 
-- Someone tells what's happening in the office today, who is aways etc.
+- Someone tells what's happening in the office today, who is always etc.
 - We have a short devotional, where someone shares their thoughts on a Bible passage
 - We sing a song that goes nicely together with the devotional
 - We pray for people working for the Salvation Army institutes and hospitals in the country, as well as another country in the world.
@@ -72,7 +72,7 @@ But how often do you talk about your values. Yeah, the ones on the wall over the
 
 ![Campfire](http://upload.wikimedia.org/wikipedia/commons/4/4b/Pancho_Villa_Expedition_-_Around_the_Campfire_HD-SN-99-02005.JPEG)
 
-In order for them to mean something we need to live by them. And we can share how we live by them by telling the stories (thanks [Tobbe](http://twitter.com/drunkcod) for this insight). It's like sitting around the campfire and tell each other the stories. What if we took a couple of minutes with the group  (company, team or floor - take your pick) and shared what those values meant among eachother? What if we did that often?
+In order for them to mean something we need to live by them. And we can share how we live by them by telling the stories (thanks [Tobbe](http://twitter.com/drunkcod) for this insight). It's like sitting around the campfire and tell each other the stories. What if we took a couple of minutes with the group  (company, team or floor - take your pick) and shared what those values meant among each other? What if we did that often?
 
 I think that would make us more aligned on why we are really here. In Gothenburg Brass Band speak: "getting the basics in place before we try to do the complicated stuff". Made sure we checked in with our basic values before we started to execute them.
 

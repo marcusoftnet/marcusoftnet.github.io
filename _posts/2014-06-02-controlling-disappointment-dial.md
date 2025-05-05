@@ -17,7 +17,7 @@ Walking my oldest son, Albert, to and from school is one of the highlights of th
 
 I tried to talk with him about that and in doing so I had a little epiphany about me, the IT industry, estimates, and uncertainty. Oh, I should probably add that I re-watched [this great presentation by Dan North](https://vimeo.com/43603453) two days before. It probably affected me, to maybe be wiser than I otherwise would.
 
-![walkingwithAlbert](/img/walkingwithAlbert_thumb%2525255B37%2525255D.jpg)
+![Walking with Albert](/img/walkingwithAlbert_thumb%2525255B37%2525255D.jpg)
 
 Here’s what I said to Albert:
 

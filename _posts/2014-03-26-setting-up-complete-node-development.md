@@ -8,7 +8,6 @@ tags:
   - Javascript
   - Tools
 modified_time: 2014-04-06T12:41:45.586Z
-thumbnail: /img/inceptiontop.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6779226674205683514
 blogger_orig_url: https://www.marcusoft.net/2014/03/setting-up-complete-node-development.html
 ---
@@ -67,7 +66,7 @@ This is simple... if you know how.
 
 #### Install VirtualBox on your host
 
-Now that you have everything downloaded, first install VirtualBox on your host system. This is your typical "Next, Next, Next, Wait, Finish"-installation and I will not say much about that. Just doubleclick the "VirtualBox-yada-yada-yada-Win.exe" file you downloaded and you should be fine.
+Now that you have everything downloaded, first install VirtualBox on your host system. This is your typical "Next, Next, Next, Wait, Finish"-installation and I will not say much about that. Just double click the "VirtualBox-yada-yada-yada-Win.exe" file you downloaded and you should be fine.
 
 #### Create your virtual machine
 

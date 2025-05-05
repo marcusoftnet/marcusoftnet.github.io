@@ -15,7 +15,7 @@ blogger_orig_url: "https://www.marcusoft.net/2014/03/koaExamples.html"
 
 The [first](https://www.marcusoft.net/2014/03/koaintro.html) [two](https://www.marcusoft.net/2014/03/koaGenYield.html) post of this mini-series, we picked up the basic on getting [Koa Js](http://www.koajs.com/) to start as well as understand what it's build from and the concepts behind it. It's time to do something for real. Well over time, one might add. This post is all about using Koa to build different websites and web api's.
 
-By using [Koas own examples](https://github.com/koajs/examples/) I will show you how you can use Koa for a lot of common tasks and scenarios. Let's dive right in.
+By using [Koa's own examples](https://github.com/koajs/examples/) I will show you how you can use Koa for a lot of common tasks and scenarios. Let's dive right in.
 
 <!-- excerpt-end -->
 

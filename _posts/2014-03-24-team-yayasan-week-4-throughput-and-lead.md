@@ -52,4 +52,4 @@ And since we're tracking how much we're waiting for each item (in days) we can a
 
 Also now we have two metrics to try to balance against each other; we want short lead time as well as good throughput. (And great quality, but that is still to be measured) .
 
-This very slow week thaught us a great deal.
+This very slow week taught us a great deal.

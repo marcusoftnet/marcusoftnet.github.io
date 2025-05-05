@@ -58,7 +58,7 @@ There’s nothing really earth-shattering about this, and most teams get here af
 
 Oh yeah, one more thing. I once met a team that was waiting a lot. In fact, if I remember correctly, they had a waiting stage between every doing stage in their workflow. And it was maybe 80-90% of the total time. It looked like this, kind of:
 
-![longwait](/img/longwait_thumb%2525255B250%2525255D.png)
+![Long wait](/img/longwait_thumb%2525255B250%2525255D.png)
 
 I hope that none of you end up in a state like that. There’s a time and place to stop waiting as well. If you end up waiting for each thing you do, maybe you should do them differently?
 

@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/11/creating-dynamical-autocompl
 
 In my recent project we have had to implement a own textbox to be
 able to set a few properties that force the user to follow certain
-formats etc. A few days ago I saw this as an oppurtunity to do something
+formats etc. A few days ago I saw this as an opportunity to do something
 cool as an additional feature.
 
 I wanted to implement a AutoComplete feature but with the values that

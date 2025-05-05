@@ -29,7 +29,7 @@ The retrospective today, 2 days delayed due to Hindu public holiday and not all 
 
 This weekend we had a meeting we all the leaders of our customers, the directors of the hospitals. From that meeting came a flood of small tasks that we needed to address; write PMs, check on status for projects, help people start using tools etc. etc. So we saw a need to do something about our board structure.
 
-Right now we only had three columns: Todo, Doing and Done. Particulary the Todo-column bother us, since it contained a lot of stuff on very different time scale. Something was a 2 months project that we need to do before 2015. Another thing was to send a couple of emails to check the status of a project somewhere. After some discussion we decided to do something that looked like this:
+Right now we only had three columns: Todo, Doing and Done. Particularly the Todo-column bother us, since it contained a lot of stuff on very different time scale. Something was a 2 months project that we need to do before 2015. Another thing was to send a couple of emails to check the status of a project somewhere. After some discussion we decided to do something that looked like this:
 
 - We kept the Doing and Done columns (although I showed you what we did with the Done-column later)
 - The Todo column have a limit of max 6 items, we later changed that to 8.
