@@ -37,7 +37,7 @@ I've been using this approach for a couple of years and it gives me feedback. Bu
 
 ## New approach
 
-The really good approach here would be to ask people on beforehand what they want to get out of the presentation, but I've noticed that many attendees are there to be info-tained not to participate up front. I do that for training and longer workshop since I then can tweak the program a bit.
+The really good approach here would be to ask people on beforehand what they want to get out of the presentation, but I've noticed that many attendees are there to be "entertained" not to participate up front. I do that for training and longer workshop since I then can tweak the program a bit.
 
 Today I tried to use other words to get another result. It worked kinda good.
 
@@ -62,7 +62,7 @@ One day, when I'm really brave I will use the ROTI to, a little bit more literal
 
 In Sweden I do 2 h presentations for 3 - 7 000 SEK ($375 - $875), depending on the audience and event. That's a bit too low really but let's use that as an example.
 
-Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: `$200 * ROTI of 3 = $800`, if I'm awesome and everyone thinks the time was well invested `$200 * 5.5 ROTI = $1100`.
+Let's say that I offer a $200 / hour as base rate. As an incentive for me I get that multiplied by the ROTI-score I get: `$200 *ROTI of 3 = $800`, if I'm awesome and everyone thinks the time was well invested `$200* 5.5 ROTI = $1100`.
 
 Or I can take my average score and say: "My average is 4.5 and my average rate is $625. If I get above my average we double the fee, below it's half price".
 

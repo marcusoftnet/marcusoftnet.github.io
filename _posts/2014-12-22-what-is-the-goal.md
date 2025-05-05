@@ -35,7 +35,7 @@ Make money.
 
 Really?! That's all we do? What about the people in the company then? What about "make a difference in society"? What about all the big words we use in mission and vision statements?
 
-Are they just lies or nifty rephrasings of The Goal?
+Are they just lies or nifty rephrasing of The Goal?
 
 Again on the wikipedia (the book doesn't say much about this) it says:
 
@@ -65,7 +65,7 @@ As a westerner I'm inclined to ask "What about me? What about my needs?". And no
 
 ## Summary
 
-I cannot get this straight. I'm sure I'm missing something or simply haven't read enough of Mr Goldratts thinking.
+I cannot get this straight. I'm sure I'm missing something or simply haven't read enough of Mr Goldratt's thinking.
 In my mind the Theory Of Constraints thinking, five focusing steps could and SHOULD be applied to pursue any goal. It's really just taking a good look at your system / organization and see what is not contributing to The Goal. I like that. A lot.
 
 But ... does The Goal really have to be "Make money"?

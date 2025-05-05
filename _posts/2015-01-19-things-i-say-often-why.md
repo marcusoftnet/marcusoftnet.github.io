@@ -34,7 +34,7 @@ The movie is about a woman (Virginia Cunningham played by Olivia de Havilland) w
 
 ![The Snake Pit](/img/whythesnakepit.jpg)
 
-One day... (set to the beautiful [2nd movement of Dvořák's No 9, New World Symphony](http://www.youtube.com/watch?v=_z6gms666Xk)), she stops. And asks herself: Why? She goes into the center of the room and sits down. Why - is it not allowed? A nurse spots her and realizes that if you're healthy enough to question arbitrary and incomprehensible rules like that... you're probably not sick at all.
+One day... (set to the beautiful [2nd movement of Dvorák's No 9, New World Symphony](http://www.youtube.com/watch?v=_z6gms666Xk)), she stops. And asks herself: Why? She goes into the center of the room and sits down. Why - is it not allowed? A nurse spots her and realizes that if you're healthy enough to question arbitrary and incomprehensible rules like that... you're probably not sick at all.
 
 Are you asking Why?
 Are you looking for better?

@@ -11,7 +11,7 @@ tags:
 
 Last autumn I met one of the signatories of the [Agile Manifesto](http://agilemanifesto.org) in real life. At the [Agile Singapore](http://2014.agilesingapore.org/) conference.
 
-I didn't think much about that until he ([James Grenning](http://www.renaissancesoftware.net/blog/)) mentioned it in the beginning of one of his talk. He told some anectodes about that meet-up. In honestly so would I if I was at that weekend in Snowbird.
+I didn't think much about that until he ([James Grenning](http://www.renaissancesoftware.net/blog/)) mentioned it in the beginning of one of his talk. He told some anecdotes about that meet-up. In honestly so would I if I was at that weekend in Snowbird.
 
 There I was. Also a speaker at this conference half-around the world. Working with management for the Salvation Army in Indonesia, being invited to the conference since I've [written a book on Kanban](http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/).
 
@@ -39,7 +39,6 @@ But this is a non-centralized world and most of these people are still around an
 
 Not because I'm a fan boy (.... or well) but mostly because it's actually the biggest defining thing in my career. One of the few watershed things, with a before and after for me. I'm not saying that they thought me everything I know and I know that I've brought my own thinking to the table but they put me on the path.
 
-
 For this I'm eternally grateful. My working life is so much more interesting due to agile.
 
 ## The list
@@ -49,7 +48,6 @@ For this I'm eternally grateful. My working life is so much more interesting due
 ### James Grenning
 
 Ah... well see [above](https://www.marcusoft.net/2015/03/saying-thank-you-for-agile-manifesto.html)
-
 
 ### Arie van Bennekum
 
@@ -93,7 +91,7 @@ I met Arie, in a corridor at Agile People 2019 and I was a treat to say Thank yo
 
 ### Mike Beedle
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/mikebeedle">@mikebeedle</a> just wanted to finally say thank you for writing the <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> manifesto. It change my life forever. <a href="https://twitter.com/hashtag/9yearsAndCouting?src=hash">#9yearsAndCouting</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/586367589384765440">April 10, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/mikebeedle">@mikebeedle</a> just wanted to finally say thank you for writing the <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> manifesto. It change my life forever. <a href="https://twitter.com/hashtag/9yearsAndCouting?src=hash">#9yearsAndCounting</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/586367589384765440">April 10, 2015</a></blockquote>
 
 ### Arie van Bennekum
 

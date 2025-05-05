@@ -13,7 +13,7 @@ tags:
 
 **H:** "No, but I like it already. Tell me more."
 
-**M:** "So I wanted to whip out a fast little [Koa](http://www.koajs.com) site. It's sooo good for those."
+**M:** "So I wanted to whip out a fast little [Koa](http://www.koajs.com) site. It's soo good for those."
 
 **H:** "Yeah, I know. You told me like a million times."
 
@@ -82,13 +82,13 @@ ReferenceError: Promise is not defined
 
 **H:** "But how on earth should you know. I think Koa should tell you when you start an app."
 
-**M:** "ME TOO! I actually regged an [issue about that](https://github.com/koajs/koa/issues/397). And boy was that embarrissing?"
+**M:** "ME TOO! I actually registered an [issue about that](https://github.com/koajs/koa/issues/397). And boy was that embarrassing?"
 
 **H:** "Huh? How come? Are they mean?"
 
 **M:** "No, super nice guys, but apparently this is already in place. You do get a warning.... but not from Koa."
 
-**H:** "Not from Koa? So who ... aaaaah npm?"
+**H:** "Not from Koa? So who ... aah npm?"
 
 **M:** "Yup - scrolling back up... sure enough I saw it. Not really right in front of my eyes but still... Read the manual, dude!"
 

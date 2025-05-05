@@ -25,7 +25,7 @@ One of the stories he told was about when the [Black Dyke Band](http://blackdyke
 
 I've gone a period where I felt under-stimulated and not to my full potential. You know the feeling; sometimes that happens for a couple of days or even a week but this has now been going on for ca 4 months.
 
-Basically it caused me to get depressed. I felt no joy and no energy for the job. Nothing that we did (in my mind) had any effect. We just did it. Because we were told to. In a word: Booooooring!
+Basically it caused me to get depressed. I felt no joy and no energy for the job. Nothing that we did (in my mind) had any effect. We just did it. Because we were told to. In a word: Booooring!
 
 But after a few sessions with a therapist / coach I realized what was wrong: I was getting NO feedback on my work. Apparently that's how (old-school) Asian cultures work. It's more important to just follow whatever arbitrary instructions you got to the letter than to feel that you've accomplished something important.
 

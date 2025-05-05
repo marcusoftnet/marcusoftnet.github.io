@@ -14,7 +14,7 @@ The other day I commented on a tweet from [Paul Klipp](http://paulklipp.com/). A
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/duarte_vasco">@duarte_vasco</a> <a href="https://twitter.com/paulklipp">@paulklipp</a> true, but only chasing waste is too simple :) &quot;Value trumps flow, flow trumps waste reduction&quot; <a href="https://twitter.com/DReinertsen">@DReinertsen</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/596933996849795072">May 9, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-All the elements to have an argument are in there: the word "waste" is used (see below) the tag #NoEstimates is mention (which in itself has caused a lot of anger) and finally the tweet is a bit provokative.
+All the elements to have an argument are in there: the word "waste" is used (see below) the tag #NoEstimates is mention (which in itself has caused a lot of anger) and finally the tweet is a bit provocative.
 
 However, since I know that "waste" is a concept that many people have many different ideas about (I promise I will explain) I wrote the comment above.
 
@@ -26,7 +26,7 @@ I was not. And I think that the original comment by Paul was correct and enlight
 
 The easiest way to explain it is to start in the end. Because [Chris Matts](https://twitter.com/PapaChrisMatts) wrote this and it stopped there:
 
-> R u suggestin risk management is waste for everyone other than RM consultant?
+> R u suggesting risk management is waste for everyone other than RM consultant?
 
 And the answer is "Yes, of course". Just as [stand up meetings](https://www.marcusoft.net/2015/05/flow-wip-and-waste.html), estimating, kanban boards, testing and documentation are waste. In the [Lean](http://en.wikipedia.org/wiki/Lean_manufacturing) sense...
 
@@ -70,13 +70,13 @@ It's too simple. And this has been captured greatly in a quote by Donald Reinert
 
 > Value trumps flow, flow trumps waste reduction.
 
-Basically; if you can get flow (smooth adding of value) with some waste - go for it. Or if you can get value to your customers with an unsmooth flow, why not?
+Basically; if you can get flow (smooth adding of value) with some waste - go for it. Or if you can get value to your customers with an un-smooth flow, why not?
 
 It very much comes down to how much of the process you are taking into consideration, as I [wrote about before](https://www.marcusoft.net/2015/05/flow-wip-and-waste.html). No backlog might be great for _your flow_ in your part of the process. But how is that affecting the total process? Maybe a little buffer, in the form of a backlog in front of your steps, would mitigate risk (as [Dan wrote](https://twitter.com/tastapod/status/597019790373462016)) or be needed to be able to keep up with the demand from you.
 
-Much clearer expressed by Donald Reintersen himself, as response to my clumsy tweet-formulation and explanation above:
+Much clearer expressed by Donald Reinertsen himself, as response to my clumsy tweet-formulation and explanation above:
 
-> $100 of waste reduction, is worth more than $10 of flow improvement, or $1 of value improvement. IMO Trumping is dangerous nonquantitative way to conceptualize problem. It's question of tradeoffs.
+> $100 of waste reduction, is worth more than $10 of flow improvement, or $1 of value improvement. IMO Trumping is dangerous non-quantitative way to conceptualize problem. It's question of tradeoffs.
 
 ## Wake me up here
 

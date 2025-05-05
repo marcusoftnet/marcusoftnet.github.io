@@ -23,7 +23,7 @@ What I've found immensely useful here is to write down some really simple exampl
 | Number of items in order | Shipping free?
 | 2  | No
 | 3  | Yes
-| 4  | Eeeeh? Yes... or?
+| 4  | Eeeh? Yes... or?
 
 See... that was not really covered by the business rule. It could be considered obvious that it was *3 or more* items in order. But by writing down a few simple examples we made the *common understanding* better.
 

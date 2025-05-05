@@ -10,7 +10,7 @@ tags:
  - Things I say often
 ---
 
-I've talked more about [effectiveness vs efficiency](https://www.marcusoft.net/2014/10/effective-revisted.html) than you all care about. The reason for this fascination might be that the word is mixed up in Swedish I guess; there's only one word for these both concepts. Boooh... Swedish.
+I've talked more about [effectiveness vs efficiency](https://www.marcusoft.net/2014/10/effective-revisted.html) than you all care about. The reason for this fascination might be that the word is mixed up in Swedish I guess; there's only one word for these both concepts. Booh... Swedish.
 
 Because the difference is paramount.
 
@@ -24,7 +24,7 @@ My favorite explanation for the difference of effectiveness and efficiency makes
 
 Usian Bolt take the blocks.
 He has trained his muscles to perfection - they are very efficient for moving him fast.
-He has the latests experimental shoes from Pumaddike on - super efficient! No air resistant at all.
+He has the latests experimental shoes from Puma on - super efficient! No air resistant at all.
 The same goes for his clothing - they are super light, no air resistance.
 He knows how to get out of the blocks the fastest in the world.
 Even his hearing and reflexes are the best in the world.

@@ -20,7 +20,7 @@ I also had an opportunity to give a presentation there. It was quite some time s
 
 Some people have asked me how I create presentations and I thought that it could be good idea to write it down for myself as well. Hopefully I will do more presentations... then I can use this.
 
-I don't consider myself an expert on desimomomooahahahaaa (sorry could not keep a straight face... ok - once again...) on design of slides nor do I have deep communication education. I have failed a lot though and I really enjoy doing presentation. Below works for me - your milage may vary.
+I don't consider myself an expert on design ... hahaha (sorry could not keep a straight face... ok - once again...) on design of slides nor do I have deep communication education. I have failed a lot though and I really enjoy doing presentation. Below works for me - your milage may vary.
 
 ### Strategy - introduction
 
@@ -38,11 +38,11 @@ I start to let that thought soar around my head when I'm walking or running (rea
 
 I even try out sound bytes for part of my talk:
 
-> So that means I rather do small steps often than gigant steps seldom.
+> So that means I rather do small steps often than giant steps seldom.
 >
 > Kanban is a process improvement tool. It makes you and your team better. It’s collaborative, visual and really simple to pick up
 
-Often I end up doing run-throughs of the talk or parts of it. Just to get a feel for how I would present this.
+Often I end up doing run-through of the talk or parts of it. Just to get a feel for how I would present this.
 
 The hardest part for me here is to remember what I thought... So I usually write down some points or bullets when I get the chance, after the run for example. They are often repeated and unstructured. Doesn't matter now.
 
@@ -88,7 +88,7 @@ This is the same basic introduction I do of myself for all talks. With this I al
 
 It's maybe a bit boring using the same thing over and over but sometimes I get time over and redo this template.
 
-I have added a slide for title and an outro slide to. And a final black one because I go past the last slide sometimes I have a hard time getting back into the slidedeck at the right place.
+I have added a slide for title and an outro slide to. And a final black one because I go past the last slide sometimes I have a hard time getting back into the slide-deck at the right place.
 
 ### Blank sheets
 
@@ -108,7 +108,7 @@ Quite often I find it hard to find a single word or concept that describes the t
 
 I sort the pictures under respectively header by moving them in under each other. In this way I can collapse and expand the pictures as needed and keep my overview even though I end up with many pictures. See the picture to the right.
 
-After this I have a completed slide deck with short, descriptive words on each slide and all of my presenter notes in the talk. I have given presentations like this. It's pretty dull but if you move fast it can be very effective too. Check out [pecha kucha](http://www.pechakucha.org/) where people often use this technique.
+After this I have a completed slide deck with short, descriptive words on each slide and all of my presenter notes in the talk. I have given presentations like this. It's pretty dull but if you move fast it can be very effective too. Check out [Pecha Kucha](http://www.pechakucha.org/) where people often use this technique.
 
 ### Choosing pictures
 
@@ -153,9 +153,9 @@ The same rules apply - please borrow the pictures but credit the person in quest
 
 I have a [link to a search with the Creative Commons filtering already set](https://www.flickr.com/search?sort=relevance&license=1%2C2%2C3%2C4%2C5%2C6&text=burger), default searching for burgers... I cannot explain why.
 
-#### Licences
+#### Licence
 
-![Licencese](/img/Screen_Shot_2014-11-20_at_09.57.37.png)
+![Licensee](/img/Screen_Shot_2014-11-20_at_09.57.37.png)
 
 While we're on the subject. What does those licenses mean... First you should be aware of if you are selling this material or presentation (commercial use). Secondly do you plan to modify the picture; adding to it or not.
 
@@ -179,7 +179,7 @@ I frequently remove animations and duplicate slides and just move a little piece
 
 Don't fret the many slides. Hide them using collapse to get the overview.
 
-### Giving the prezi
+### Giving the presentation
 
 During the presentation I just try to enjoy myself. Try to have fun - chances are that the people you're talking to are having more fun then.
 

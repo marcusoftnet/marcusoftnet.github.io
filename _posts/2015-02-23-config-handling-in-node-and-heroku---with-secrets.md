@@ -18,24 +18,24 @@ I use a simple yet effective object to handle configurations, which I include in
 ```javascript
 // Configuration object
 var config = {
-	local: {
-		mode: 'local',
-		port: 3000,
-		mongoUrl: 'localhost:27017/myApp_Dev',
-		user: { name: 'marcus', pass: 'koavote' }
-	},
-	staging: {
-		mode: 'staging',
-		port: 4000,
-		mongoUrl: 'localhost:27017/myApp_Test',
-		user: { name: 'marcus', pass: 'koavote' }
-	},
-	prod: {
-		mode: 'prod',
-		port: process.env.PORT || 5000,
-		mongoUrl: process.env.MONGOLAB_URI || 'localhost:27017/myApp_Prod',
-		user: { name: process.env.BASIC_USER || 'marcus', pass: process.env.BASIC_PASS || 'koavote' }
-	}
+ local: {
+  mode: 'local',
+  port: 3000,
+  mongoUrl: 'localhost:27017/myApp_Dev',
+  user: { name: 'marcus', pass: 'koavote' }
+ },
+ staging: {
+  mode: 'staging',
+  port: 4000,
+  mongoUrl: 'localhost:27017/myApp_Test',
+  user: { name: 'marcus', pass: 'koavote' }
+ },
+ prod: {
+  mode: 'prod',
+  port: process.env.PORT || 5000,
+  mongoUrl: process.env.MONGOLAB_URI || 'localhost:27017/myApp_Prod',
+  user: { name: process.env.BASIC_USER || 'marcus', pass: process.env.BASIC_PASS || 'koavote' }
+ }
 };
 ```
 
@@ -54,7 +54,7 @@ describe("Configuration", function() {
             config.mode.should.equal("local");
             done();
         });
-        
+
         it("has all the valid properties", function(done) {
             validateConfig(config);
             done();
@@ -72,7 +72,7 @@ function validateConfig(config) {
 Using `process.env` allows storing sensitive data outside the code. For instance, Heroku's Config Variables feature lets you configure such values securely. Here's how you can set environment variables:
 
 ```bash
-node -e 'process.env.MONGOLAB_URI = "mylocalconnectionstring"'
+node -e 'process.env.MONGOLAB_URI = "myLocalConnectionstring"'
 ```
 
 On Heroku, these variables can be managed under Settings. Remember not to reveal sensitive information publicly.

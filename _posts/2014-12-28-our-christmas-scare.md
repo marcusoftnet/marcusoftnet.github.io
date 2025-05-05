@@ -156,7 +156,7 @@ Albert and I have spent 2 days after the operation at the great K.K. hospital. T
 
 Albert is in pain and scared when we move him but he's improving on that too. He will probably go home in a wheelchair since the don't think he'll manage the crutches.
 
-The Jeppsson has helped us to handle some practical matters like washing and adapters. But mainly being here and just talking to us, mostly me - has been invaluable. Thank you!
+The Jeppsson's has helped us to handle some practical matters like washing and adapters. But mainly being here and just talking to us, mostly me - has been invaluable. Thank you!
 
 It looks like we will go home in a day or two from now. There's some matters to be cleared about how we're actually going to travel etc.
 

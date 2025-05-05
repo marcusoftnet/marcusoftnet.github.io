@@ -15,7 +15,7 @@ We built a little CMS to drive content, and the whole page is a Single Page Appl
 
 Or maybe not... in this post, I'll describe how we got it to work for our Single Page Application. Google Analytics default setup is not built for that. And many descriptions you find [out there](https://www.google.co.id/search?q=google+analytic+spa&oq=google+analytic+spa&aqs=chrome.0.69i59j69i64.5919j0j7&sourceid=chrome&es_sm=119&ie=UTF-8) are written with a client-side framework in mind, like [Backbone.js](http://backbonejs.org).
 
-What I write about below only requires jQuery, and that's mostly for convenience. 
+What I write about below only requires jQuery, and that's mostly for convenience.
 
 As with most things I learn, it's based on others' knowledge that I tweak. In this case, I found a [GREAT article](https://mjau-mjau.com/blog/ajax-universal-analytics/) that contained much of the information I needed but didn't take me all the way. Go ahead and read it now!
 

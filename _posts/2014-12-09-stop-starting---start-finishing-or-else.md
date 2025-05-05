@@ -22,7 +22,7 @@ I think it was [Karl Scotland](https://twitter.com/kjscotland) who said it like 
 
 The reason for us doing whatever we do, creating software features for example, is for some end customer to use them. To reach that state, we need to complete the *entire* job required to be complete.
 
-Here is where I often see teams trip up. The definition of *entire*. It's *sooo* nice to move on to the next thing that we tend to forget or skip the last percentages. In fact, in many corporate cultures I've been in, having many things going on is the mark of success.
+Here is where I often see teams trip up. The definition of *entire*. It's *so* nice to move on to the next thing that we tend to forget or skip the last percentages. In fact, in many corporate cultures I've been in, having many things going on is the mark of success.
 
 Ask any big company project manager how his project is going and you'll see what I mean:
 > "Our project is doing just great - there's a lot of things going on right now."

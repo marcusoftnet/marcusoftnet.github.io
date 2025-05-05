@@ -15,7 +15,7 @@ A few days back, I said something to my client that apparently many people on Tw
 <blockquote class="twitter-tweet" data-partner="tweetdeck">
   <p>“How is the project going?”<br>
   “We have a lot of things going on!”<br>
-  “Ahhh… so you’re slowing down the progress?”<br>
+  “Ahh… so you’re slowing down the progress?”<br>
   <a href="https://twitter.com/hashtag/stopStartingStartFinishing?src=hash">#stopStartingStartFinishing</a></p>
   &mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/560637396291559425">January 29, 2015</a>
 </blockquote>

@@ -1,3 +1,4 @@
+---
 title: Inspections welcome
 author: Marcus Hammarberg
 tags:
@@ -7,7 +8,7 @@ tags:
   - Agile
 ---
 
-I've just come back from a vacation in Bali. Due to some fortunate overbookings we ended up in a villa that was an oasis of tranquility and luxury. By far the nicest place I've ever seen, including the room I stayed in for [Agile Singapore](http://2014.agilesingapore.org/). The 3-day stay flew by but was a blessing for my soul.
+I've just come back from a vacation in Bali. Due to some fortunate over-bookings we ended up in a villa that was an oasis of tranquility and luxury. By far the nicest place I've ever seen, including the room I stayed in for [Agile Singapore](http://2014.agilesingapore.org/). The 3-day stay flew by but was a blessing for my soul.
 
 ![Our villa](/img/balivilla.jpg)
 
@@ -42,4 +43,5 @@ Do I have "Inspection welcome"-sign on my work, services, and behavior?
 If I did - how would that change me, and the way people see me?
 
 PS
+
 Btw - _inspections are welcome_ in the comments below or by [leaving feedback](https://github.com/marcusoftnet/marcusoftnet.github.io/issues/new).

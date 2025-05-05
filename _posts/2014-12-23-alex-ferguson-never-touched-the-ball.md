@@ -21,6 +21,7 @@ So what good am I? What do I do? How could you <a href="https://www.marcusoft.ne
 <!-- excerpt-end -->
 
 ## Busyness
+
 Two thoughts goes through my head when I think about this. First a quote by <a href="zuill.us/WoodyZuill/">Woody Zuill</a>
 
 <blockquote>Busyness is not good for business</blockquote>
@@ -45,6 +46,7 @@ Even when we see the effectiveness of things like mob programming (for example, 
 No - I'm not busy at my clients. Busy typing that is. But very few clients I work for sells keystrokes. KPM (key strokes per minute) is not their best effectiveness measurement. Programming is not typing.
 
 ## Ferguson
+
 I'm a coach for teams and organizations. The coach term is borrowed from the world of sports. Let's take Alex Ferguson as an example, the wonder-making coach of Manchester United from 1986 to 2013. Under this time Manchester United went from a mediocre team and became one of the best in the world.
 The other day something dawned on me.
 
@@ -57,4 +59,4 @@ So what use was he? How would you know if Man Utd where better off without him?
 Put shortly: they didn't. But the results <a href="http://en.wikipedia.org/wiki/Alex_Ferguson#As_a_manager">during this period</a> was extraordinary. The *output of the system* was great. He had a part in making it so. Man Utd thought it was worth it.
 But he didn't touch the ball.
 
-I don't type code, but maybe I can help, assist, facilitate and challenge the people in the orgnization to make the *output of the system* better. If not - please let me go to another place. That will be better for both you and me.
+I don't type code, but maybe I can help, assist, facilitate and challenge the people in the organization to make the *output of the system* better. If not - please let me go to another place. That will be better for both you and me.

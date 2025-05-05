@@ -27,7 +27,7 @@ Well... there's quite a lot of setup and idiosyncrasies that you need to be awar
 
 ## Initialize project and more
 
-Initalization of the project is straight forward for any Node developer, especially if you [rely](https://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](https://www.marcusoft.net/2014/02/mnb-packagejson.html).
+Initialization of the project is straight forward for any Node developer, especially if you [rely](https://www.marcusoft.net/2014/02/mnb-npm.html) on the [tool](https://www.marcusoft.net/2014/02/mnb-packagejson.html).
 
 Start by doing:
 
@@ -64,6 +64,7 @@ Oh, get a [.gitignore for Node](https://www.gitignore.io/api/node) from the exce
 Done - we are set up.
 
 ## Run tests
+
 The first thing I tried to do was to get the tests to run. In order to do so I had to write a little test. In coffee-script of course, so the next paragraph should probably had come before this one... Well well. Do this:
 
 ```bash
@@ -75,12 +76,12 @@ Open that file in a text-editor and add the following naive test:
 
 ```coffeescript
 describe "Writing Node with CoffeeScript", ->
-	it "is easy to get started testing... or is it?", -> true
+ it "is easy to get started testing... or is it?", -> true
 ```
 
 In CoffeesScript indentation is significant so make sure you enter it exactly as above.
 
-I want to run my tests with mocha and I want to end up with a <code>test</code>-command in the package.json. Let's try the simplest we can come up with:
+I want to run my tests with mocha and I want to end up with a `test`-command in the package.json. Let's try the simplest we can come up with:
 
 ```javascript
 "scripts": {
@@ -94,9 +95,9 @@ This simply tells mocha to run and watch changes in our test-directory (by conve
 npm test
 ```
 
-which gives us <code>0 passing (0ms)</code>... No tests passing? But there is one in the spec.coffee-file?
+which gives us `0 passing (0ms)`... No tests passing? But there is one in the spec.coffee-file?
 
-However it's not JavaScript and we need to tell mocha to compile the .coffee files into JavaScript before it runs. This is done with a flag, that took me some time to track down: <code>--compilers coffee:coffee-script/register</code>. Add that to your test-script, in the package.json, making it look like this:
+However it's not JavaScript and we need to tell mocha to compile the .coffee files into JavaScript before it runs. This is done with a flag, that took me some time to track down: `--compilers coffee:coffee-script/register`. Add that to your test-script, in the package.json, making it look like this:
 
 ```javascript
 "scripts": {
@@ -104,7 +105,7 @@ However it's not JavaScript and we need to tell mocha to compile the .coffee fil
  }
 ```
 
-Rerun <code>npm test</code> and YES! It works...
+Rerun `npm test` and YES! It works...
 
 There's other options you can set, I usually end up with a complete command that looks like this:
 
@@ -114,7 +115,7 @@ There's other options you can set, I usually end up with a complete command that
  }
 ```
 
-If you find that to long to read you could specify the options in a <code>mocha.opts</code> file, in the test-directory. It will look like this:
+If you find that to long to read you could specify the options in a `mocha.opts` file, in the test-directory. It will look like this:
 
 ```bash
  --compilers coffee:coffee-script/register
@@ -123,39 +124,40 @@ If you find that to long to read you could specify the options in a <code>mocha.
  -w
 ```
 
-Leaving our test command simply as <code>mocha</code>. I personally don't like this approach since I find that it's more places to look. But it's an option.
+Leaving our test command simply as `mocha`. I personally don't like this approach since I find that it's more places to look. But it's an option.
 
 Ok, we can run our tests... Let's write some code.
 
 ## Write .coffee code
-In order to have this working properly let's first add a file with our production code (<code>mkdir src && touch src/index.coffee</code>) and add the following code:
+
+In order to have this working properly let's first add a file with our production code (`mkdir src && touch src/index.coffee`) and add the following code:
 
 ```coffeescript
 greeting = (name) ->
-	"Hello #{name}!"
+ "Hello #{name}!"
 ```
 
-If you never seen CoffeeScript, this defines function <code>greeting</code> that takes one parameter <code>name</code> and returns (last row of a function automatically returns in coffeescript, and many other functional languages) a string with the name inserted in.
+If you never seen CoffeeScript, this defines function `greeting` that takes one parameter `name` and returns (last row of a function automatically returns in coffeescript, and many other functional languages) a string with the name inserted in.
 
 To not have all problems pour down on us at the same time, let's not add a test right now, but rather just call the function we defined below it. Like this:
 
 ```coffeescript
 greeting = (name) ->
-	"Hello #{name}!"
+ "Hello #{name}!"
 
 console.log greeting "Marcus"
 ```
 
 ## Run .coffee code
 
-Ok - let's run it. Naively I tried <code>node src/index.coffee</code>. But unsurprising Node doesn't know anything about CoffeeScript (<code>SyntaxError: Unexpected token > </code>).
+Ok - let's run it. Naively I tried `node src/index.coffee`. But unsurprising Node doesn't know anything about CoffeeScript (`SyntaxError: Unexpected token >`).
 
-In order to run Node code we first need to compile it. And then run the compiled JavaScript file. To spare you all my pain I'll just show you the command I ended up with for <code>npm start</code> in my <code>package.json</code>, and then talk through it:
+In order to run Node code we first need to compile it. And then run the compiled JavaScript file. To spare you all my pain I'll just show you the command I ended up with for `npm start` in my `package.json`, and then talk through it:
 
 ```javascript
 "scripts": {
-	"test": "mocha",
-	"start": "(coffee --compile --output dist --watch src &);node ./dist/index.js"
+ "test": "mocha",
+ "start": "(coffee --compile --output dist --watch src &);node ./dist/index.js"
 }
 ```
 
@@ -164,16 +166,16 @@ If you haven't seen it before the ampersand ```&``` at the end of the first part
 Also the ```;``` is separating two commands, running them in sequence; first the coffee-compilation-watcher and then the start-our-application command. You can also chain commands with ```&&``` but then the execution will stop if one of the command should fail.
 Thank Ania for pointing that out to me.
 
-Oh mama! That should probably go into a build file or something. But I'm keeping it here so that we can see it. Nothing too complicated though. Let's disect that a bit:
+Oh mama! That should probably go into a build file or something. But I'm keeping it here so that we can see it. Nothing too complicated though. Let's dissect that a bit:
 
-* the first part (up to the ;-sign) compilies .coffee files into .js files and put them in the dist folder.
-	* <code>--output dist</code> means that the output will end up in the dist-folder, that will be created for us if non-existing
-	* the <code>--watch src</code> simply means watch the <code>src</code> directory and subdirectories for changes to our .coffee-files
-	* the <code>&</code> in the end (I think) is just to let the Node know that there's more commands to be executed. Anyhow, without that ampersand <code>npm start</code> hangs after compiling the .coffee-files.
+* the first part (up to the ;-sign) compiles .coffee files into .js files and put them in the dist folder.
+  * `--output dist` means that the output will end up in the dist-folder, that will be created for us if non-existing
+  * the `--watch src` simply means watch the `src` directory and subdirectories for changes to our .coffee-files
+  * the `&` in the end (I think) is just to let the Node know that there's more commands to be executed. Anyhow, without that ampersand `npm start` hangs after compiling the .coffee-files.
 * the second part of the command starts the application.
-	* notice that it's starting the application in the dist-folder (<code>node ./dist/index.js</code>)
+  * notice that it's starting the application in the dist-folder (`node ./dist/index.js`)
 
-We can improve on this by using [Nodemon](http://nodemon.io/), that helps us to watch for changes. Install it with <code>npm install nodemon --save</code> and then change the start command into this:
+We can improve on this by using [Nodemon](http://nodemon.io/), that helps us to watch for changes. Install it with `npm install nodemon --save` and then change the start command into this:
 
 ```javascript
 "scripts": {
@@ -185,66 +187,70 @@ We can improve on this by using [Nodemon](http://nodemon.io/), that helps us to 
 And the second part now starts Nodemon from our local node_modules-folder, not relying on that everyone that runs this code have Nodemon installed globally.
 
 **UPDATE**
-Again Ania pointed out (see comments) that you need a Nodemon ignore file (```nodemon.json```) with the following pattern
+Again Ania pointed out (see comments) that you need a Nodemon ignore file (`nodemon.json`) with the following pattern
 
-    src/*.coffee
+```bash
+src/*.coffee
+```
 
-Ok, let's run it: <code>npm start</code>. It works!
+Ok, let's run it: `npm start`. It works!
 
-And if we change the <code>index.coffee</code> file ... it fails!
+And if we change the `index.coffee` file ... it fails!
 
 ```bash
 Error: The two following source files have the same output file:
 ```
 
-This is a bug in [CoffeeScript 1.9.1](https://github.com/jashkenas/coffeescript/issues/3863). It is fixed but not yet released. Make sure that you're running something else than 1.9.1 <code>sudo npm install -g coffee-script@1.9.0</code> for example.
+This is a bug in [CoffeeScript 1.9.1](https://github.com/jashkenas/coffeescript/issues/3863). It is fixed but not yet released. Make sure that you're running something else than 1.9.1 `sudo npm install -g coffee-script@1.9.0` for example.
 
 ## Testing our function - CoffeeScript all the way
+
 Ok, let's stich it all together. Now we can run tests and we can run our code. But we have not yet run test that tests our code...
 
-In the <code>spec.coffee</code> first require the file:
+In the `spec.coffee` first require the file:
 
 ```coffeescript
 sut = require '../src/index.coffee'
 ```
 
-Then add a test that access the <code>greeting</code> function. This is the entire <code>spec.coffee</code> after these changes:
+Then add a test that access the `greeting` function. This is the entire `spec.coffee` after these changes:
 
 ```coffeescript
 sut = require '../src/index.coffee'
 should = require 'should'
 
 describe 'Writing Node with CoffeeScript', ->
-	it 'is easy to get started testing... or is it?', -> true
-	it 'can access exported functions in other modules', ->
-		sut.greeting('Marcus').should.equal 'Hello Marcus!'
+ it 'is easy to get started testing... or is it?', -> true
+ it 'can access exported functions in other modules', ->
+  sut.greeting('Marcus').should.equal 'Hello Marcus!'
 ```
 
 Yes, I added should since that's a nice way to do assertions.
 
-Let's run the test <code>npm test</code>. It fails miserably:
+Let's run the test `npm test`. It fails miserably:
 
 ```bash
 TypeError: undefined is not a function
 ```
 
-Luckily this is easy to understand... We have not exported the greeting function in our <code>/src/index.coffee</code>. Make that file look like this and it will be better:
+Luckily this is easy to understand... We have not exported the greeting function in our `/src/index.coffee`. Make that file look like this and it will be better:
 
 ```coffeescript
 greeting = (name) ->
-	"Hello #{name}!"
+ "Hello #{name}!"
 
 module.exports.greeting = greeting
 
 console.log greeting "Marcus Hammarberg"
 ```
 
-Better?! It rocks - because that acutally works. Since we are watching changes on our tests the change is picked up and it runs all our tests. Passing.
+Better?! It rocks - because that actually works. Since we are watching changes on our tests the change is picked up and it runs all our tests. Passing.
 
 ## Summary
+
 This is a little bit too complicated to get set up if you ask me. I've gone back and forth a number of times before I got it too work but this should do it.
 
-One problem that I first had but then went away is described [here](https://github.com/jashkenas/coffeescript/issues/3349). My code now works without adding the <code>require 'coffee-script/register'</code> but maybe you have too...
+One problem that I first had but then went away is described [here](https://github.com/jashkenas/coffeescript/issues/3349). My code now works without adding the `require 'coffee-script/register'` but maybe you have too...
 
 You'll find my [code here](http://github.com/marcusoftnet/FirstCoffeeDemo)
 

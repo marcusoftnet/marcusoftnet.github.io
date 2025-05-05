@@ -15,8 +15,8 @@ When I first arrived in Indonesia I didn't think nor knew much about the differe
 
 To not come out as very prejudiced there's some of disclaimers to be made and I'll do that throughout the post, but here are few to get started:
 
-1.	These are merely my observations after 15 months in the country. I've been working with quite a lot of people (met maybe ≈500) and in a few different companies.
-2.	It's very easy to jump to a conclusion that some behavior (mine, your or theirs) is stupid or wrong. I don't want to do that, so in everything I write here I will try to remember that it's just different cultures that have formed us under many many years into what we are. For example, consider some strange tradition that you've seen in another culture (dressing up like dragons and jumping around on poles for Chinese New Year for example). It shouldn't take you long to find a similar ridiculous event in your own culture (Santa anyone? Easter Bunny etc).
+1. These are merely my observations after 15 months in the country. I've been working with quite a lot of people (met maybe ≈500) and in a few different companies.
+2. It's very easy to jump to a conclusion that some behavior (mine, your or theirs) is stupid or wrong. I don't want to do that, so in everything I write here I will try to remember that it's just different cultures that have formed us under many many years into what we are. For example, consider some strange tradition that you've seen in another culture (dressing up like dragons and jumping around on poles for Chinese New Year for example). It shouldn't take you long to find a similar ridiculous event in your own culture (Santa anyone? Easter Bunny etc).
 
 Oh, this post is mostly me reasoning. I have no ambition so solve any problems. Although, I think that this can be useful for you even if you never leave your own country (in which case I pity you - get out there!). Remember that each organization form subcultures of their own. Maybe this can help you understand things in another department. I can tell you that many of the things I find puzzling here in Indonesia can be observed to some degree in Sweden as well.
 
@@ -25,6 +25,7 @@ Let's get started... I'm fearing it might be long.
 <!-- excerpt-end -->
 
 ## Group vs individual
+
 First we need to realize one important fact. Indonesian (and many Asian cultures) is a group culture. This stands in stark (yes, Swedish readers that [word can be used here](http://www.thefreedictionary.com/stark)) contrast to my own culture which is very individual based.
 
 By no mean an expert I can still say that in a group culture the well-being of the group (company, people with same profession as me, village / neighborhood or what have you) comes before the well being of yourself. In fact "your group" could even be more important to you than other structures that the group is a part of; the society at large for example. I might be a little bit loose around how I follow laws if it give my group an advantage.
@@ -37,10 +38,11 @@ A fun example of this happened in church the other day. I sat next to two women 
 I think that this difference is one of the biggest sources to many of my misunderstandings, because it runs deep into whatever we do.
 
 ## Fatalism
+
 [Fatalism](https://www.google.com/search?q=fatalism&oq=fatalism) is
 <blockquote>the belief that all events are predetermined and therefore inevitable</blockquote>
 
-This belief can be seen in many cultures, but my guess (see how scientific I am here) is that the Muslim culture, ways and beliefs has influenced the Indonesian society around this. [Insha'Allah](http://en.wikipedia.org/wiki/Insha%27Allah) is the well know saying stating that "It will happen if God are willing".
+This belief can be seen in many cultures, but my guess (see how scientific I am here) is that the Muslim culture, ways and beliefs has influenced the Indonesian society around this. [Insha' Allah](http://en.wikipedia.org/wiki/Insha%27Allah) is the well know saying stating that "It will happen if God are willing".
 
 In normal daily life this means that Indonesian in general doesn't really think that they can affect their situation and context. "So I'm stuck in this crappy job - well I better work then". Whereas we Individualist would say; ["So I'm stuck in this crappy job - better fix that!"](http://www.hanselman.com/blog/ChangingPerspectivesOnYourJobWillYouRenewYourBossForAnotherSeason.aspx) - Great article by the way.
 
@@ -51,6 +53,7 @@ This is how Indonesian people have brought up their children too; they get screa
 Careful now... don't think they are stupid. This is culture at work. I am also product of my culture, good and bad.
 
 ## Here and now
+
 One thing that have really frustrated and fascinated me during my time here is the seemingly little interest in the future. Or the past for that matter. Life here, for many, is just about here and now. This is related to the previous paragraph since first of all; who am I to try to change what is going to happen here? Secondly, Insha'Allah - whatever happens will still happen.
 
 To contrast this I can take myself as an example. After ca 1 month here someone asked me to write an article about motivation "because you are so motivated". No I'm not more motivated than anyone here. I am, however, **very** goal-driven. I simply cannot do anything if I don't no the goal of the exercise. Doing things without purpose or knowing why is prison in my mind.
@@ -59,14 +62,16 @@ One thing that I've observed here is the relatively few moving vans. The <a href
 But here not. Because people really don't think about moving. Because I'm here.
 
 ## A world without "WHY"
+
 To summarize this simply you can say:
 <blockquote>
-	many Indonesians lives in a world without WHY.
+ many Indonesians lives in a world without WHY.
 </blockquote>
 
 They don't question or plan for any long-term future. Because they shouldn't. And the organizations they are in (families, schools, churches, business etc.) will not encourage this and punish you when you question. I've seen it many many times, and been subjected to it too.
 
-## Conclusi... Final thoughts at least
+## Conclusion... Final thoughts at least
+
 What should I do now?
 
 My main task here is to help our hospitals to evolve strategic plans based on good visions. I've been involved in turning a hospital around by motivating people. Every other sentence out of my mouth is about <a href="www.marcusoft.net/2014/12/kenapa---even-in-good-times.html">WHY</a> or <a href="www.marcusoft.net/2014/10/vision-statements.html">visions</a>.

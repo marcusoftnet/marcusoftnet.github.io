@@ -47,7 +47,7 @@ Simplify complex concepts and metrics to make them more accessible. Use straight
 
 ## 4. Involve at Every Level
 
-Transparency and inclusivity are vital. Involve individuals at all levels in discussions and decision-making processes. Share data openly, celebrating successes and addressing challenges together.
+Transparency and being inclusive are vital. Involve individuals at all levels in discussions and decision-making processes. Share data openly, celebrating successes and addressing challenges together.
 
 ## 5. Build Team Spirit
 
