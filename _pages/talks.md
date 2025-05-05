@@ -18,7 +18,9 @@ I have done quite a few different talks and workshops during my career and here 
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
 | [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop, we examine the earlier phases of development and see how lean principles and kanban can help us to improve flow. | 2-3 hours |
-| [Serverless - What? Why? How?](#serverless---why-what-how) | In this presentation I will give you an overview of the next paradigm shift for developers - serverless. We will see how we can move faster with these capabilities. There will be demos | 1-2 hours |
+| [Impact mapping - a hands-on introduction](#impact-mapping---a-hands-on-introduction) | Impact mapping is a great tool that covers a missing part for many teams; knowing WHY we are doing something. This is a workshop where we get to know more about impact mapping and get our hands dirty using it. | 1-3 hours |
+| [User story mapping - a hands-on introduction](#user-story-mapping---a-hands-on-introduction) | User story maps helps team to create and slice user stories into small increments of a value. This is a workshop where we get to know more about user story mapping and get our hands dirty using it. | 1-3 hours |
+| [Mob programming - a hands-on introduction](#mob-programming---a-hands-on-introduction) | [Mob programming](https://www.marcusoft.net/tags/#mobprogramming) is a power way of developing together as a team, and is the most effective way I have seen to create great software. This is a workshop where we get to know more about impact mapping and get our hands dirty using it.| 1-3 hours |
 
 ## The Bungsu Story - inspirational presentation
 
@@ -185,3 +187,63 @@ This is an overview of what serverless is but there will be code as well, nothin
 ### Length
 
 1 - 2 hours
+
+## Impact mapping - a hands-on introduction
+
+Impact mapping is a great tool that covers a missing part for many teams; knowing WHY we are doing something. Typically teams get stuck in long lists of feature requests and very quickly the reasons for these items being prioritized over others are lost. This can easily lead to us building the wrong thing, and even building the thing wrong.
+
+Impact mapping is a strategic planning technique that ensures that the whole team have a common goal and understand the impact we are trying to make.
+
+### Outcomes
+
+- Theoretical understanding about what impact mapping is and why it is a good tool for product development teams
+- Practical understanding about how to conduct effective workshops to create impact maps
+- Know how to use impact maps to structure the work ahead
+
+### Audience
+
+Any team member of a digital development team.
+
+### Length
+
+1-3 hours
+
+## User story mapping - a hands-on introduction
+
+Making user stories that are small and still deliver some value to an end user is one of the most important features of user stories, but also one of the hardest things to do well. User story mapping is a technique that helps you in this job and also, as a wonderful side-effect, gives you the opportunity to plan releases, MVPs (minimum valuable product) or MLP (minimal loveable product).
+
+### Outcomes
+
+- Understand what user story maps are and when to use them
+- Practical experience in creating user story maps
+- Learn how to plan with user story maps
+
+### Audience
+
+Any team member of a digital development team.
+
+### Length
+
+1-3 hours
+
+## Mob programming - a hands-on introduction
+
+Mob programming (aka Software teaming) is one of the most innovative, provocative and effective ways I have come across in doing software development. Working in mob was also the first time I felt part of a real team that was working *together* to create value.
+
+Mob programming is very easy to learn but has a lot of subtleties to make it enjoyable and effective.
+
+Mob programming doesn't have to be applied to software development, but that was where it first was used. Ask me to tweak it to your setting.
+
+### Outcomes
+
+- Get ready to start using mob programming in your team
+- Learn about the ways that mob programming can help you to reach new levels of effectiveness
+- Get hands-on experience starting using mob programming in your team.
+
+### Audience
+
+Any team member of a digital development team.
+
+### Length
+
+1-3 hours
