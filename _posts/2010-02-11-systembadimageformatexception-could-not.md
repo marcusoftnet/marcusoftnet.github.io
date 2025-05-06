@@ -14,19 +14,8 @@ blogger_orig_url: https://www.marcusoft.net/2010/02/systembadimageformatexceptio
 ---
 
 
-I ran into this problem when I tried to re-open a <a
-href="https://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html"
-target="_blank">solution I did a while back</a> when labbing with Fluent
-<a href="https://www.hibernate.org/343.html"
-target="_blank">NHibernate</a> and SQLite.
+I ran into this problem when I tried to re-open a <a href="https://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html" target="_blank">solution I did a while back</a> when labbing with Fluent <a href="https://www.hibernate.org/343.html" target="_blank">NHibernate</a> and SQLite.
 
-Behind the cryptic error message lies and easy solution; I was running
-the 32-bit version of the SQLite-driver and runtime. That' doesn’t fly
-on my Windows 7 64-bit machine.
+Behind the cryptic error message lies and easy solution; I was running the 32-bit version of the SQLite-driver and runtime. That' doesn’t fly on my Windows 7 64-bit machine.
 
-Here is a more <a
-href="http://www.bennymichielsen.be/post/2009/10/12/Using-SQLite-in-64-bit-NET-environments.aspx"
-target="_blank">through description</a> and here is a link to
-<a href="http://sourceforge.net/projects/sqlite-dotnet2/files/"
-target="_blank">the latest version of SQLite</a> that will get you all
-the version (32 and 64 bits) of the SQLite.
+Here is a more <a href="http://www.bennymichielsen.be/post/2009/10/12/Using-SQLite-in-64-bit-NET-environments.aspx" target="_blank">through description</a> and here is a link to <a href="http://sourceforge.net/projects/sqlite-dotnet2/files/" target="_blank">the latest version of SQLite</a> that will get you all the version (32 and 64 bits) of the SQLite.
