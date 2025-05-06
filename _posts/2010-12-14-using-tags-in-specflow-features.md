@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8822445321832123412
 blogger_orig_url: https://www.marcusoft.net/2010/12/using-tags-in-specflow-features.html
 ---
 
-Since I first read about [Cucumber](https://github.com/aslakhellesoy/cucumber/wiki) in the excellent [RSpec Book](http://www.pragprog.com/titles/achbd/the-rspec-book), the concept of tags has been one that I haven’t really grasped. I liked the idea as outlined [here](https://github.com/aslakhellesoy/cucumber/wiki/Tags), which states that you can use tags to organize your features and only run a subset of them. The über-cool `@wip` tag allows you to limit the number of items in progress for the team, perfect for [Kanban](https://www.marcusoft.net/2009/11/kanban-example-by-henrik-kniberg.html) lovers.
+Since I first read about [Cucumber](https://github.com/aslakhellesoy/cucumber/wiki) in the excellent [RSpec Book](http://www.pragprog.com/titles/achbd/the-rspec-book), the concept of tags has been one that I haven’t really grasped. I liked the idea as outlined [here](https://github.com/aslakhellesoy/cucumber/wiki/Tags), which states that you can use tags to organize your features and only run a subset of them. The uber-cool `@wip` tag allows you to limit the number of items in progress for the team, perfect for [Kanban](https://www.marcusoft.net/2009/11/kanban-example-by-henrik-kniberg.html) lovers.
 
 OK – but when I got around to trying it in [SpecFlow](http://www.specflow.org/), I was a bit disappointed to learn that only `@ignore` was supported… Or was it?
 
@@ -22,7 +22,7 @@ OK – but when I got around to trying it in [SpecFlow](http://www.specflow.org/
 
 ### Custom Tags
 
-You then have the liberty to make up any tag you want. For example, Aslak Hellesoy lists these:
+You then have the liberty to make up any tag you want. For example, Aslak Hellesøy lists these:
 
 ```text
 @important @billing @bicker @annoy @qa_ready

@@ -91,7 +91,7 @@ One cool feature with SpecFlow is that you can put some rules for how your featu
 
 So I added an App.config with the following content:
 
-![appconfig](/img/bdd_appconfig[8].jpg)
+![app config](/img/bdd_appconfig[8].jpg)
 
 I used sv-SE to enable Swedish for my language setting. But I switched to en-US to get English for this post.
 
@@ -134,9 +134,9 @@ So first I referenced White.Core.dll and put a reference from Marcusoft.BDD.Calc
 
 I then used the BeforeFeature-attribute of SpecFlow to start the application (or attach me to it) and the AfterFeature to kill it. That made me write this code:
 
-![beforeafterfeature](/img/bdd_beforeafterfeature[3].jpg)
+![before after feature](/img/bdd_beforeafterfeature[3].jpg)
 
-##### Writing in textboxes
+##### Writing in text boxes
 
 Now we’re cooking. This actually starts my application and displays the form. On to the next order of business…
 
@@ -158,17 +158,17 @@ With that in place I could remove the other two givens that was exact matches fo
 
 A problem occurred with the name of the textbox. When writing the specifications we don’t want to write the ID of the textbox (txtNumber1 for example). Instead we want some kind of well known name that the users refers to the box with. Often that will be the name of the label for the control.
 
-In this simplified example I have implemented a [convention (over configuration)](http://en.wikipedia.org/wiki/Convention_over_configuration). All textboxes have the same name (in lowercase and without spaces) as their label. That may not hold for ever but works for now.
+In this simplified example I have implemented a [convention (over configuration)](http://en.wikipedia.org/wiki/Convention_over_configuration). All text boxes have the same name (in lowercase and without spaces) as their label. That may not hold for ever but works for now.
 
 I could now write a method that returns a control, of a given type, based on the well-known name for that control. Here it is:
 
-![getcontrolbyname](/img/bdd_getcontrolbyname[3].jpg)
+![get control by name](/img/bdd_getcontrolbyname[3].jpg)
 
 I ran my tests again to watch them fail since there was no control on the form called “number1”. Great – no I can write production code.
 
 I updated the user control with a label and textbox called Number 1, and then ran my tests again and … progress! The correct number was filled in.
 
-And the regular expression matches for both textboxes – so I when I get the next error (no textbox for named number2), I can safely add some production code and controls for that.
+And the regular expression matches for both text boxes – so I when I get the next error (no textbox for named number2), I can safely add some production code and controls for that.
 
 I had now worked my way outside, from the scenario / requirements, in to the actual implementation.
 
@@ -190,7 +190,7 @@ Given("that I choose '(.*)' in the list (.*)")
 
 And then implemented a generic method that selects a value from a combo box like follows:
 
-![selectsvalue](/img/bdd_selectsvalue[3].jpg)
+![select value](/img/bdd_selectsvalue[3].jpg)
 
 That drove me to put the a Combo-box on the view. And got another part of my feature passing.
 
@@ -200,11 +200,11 @@ We’re getting there. One step at the time.
 
 To click a button it’s as simple as:
 
-![clicksbutton](/img/bdd_clicksbutton[3].jpg)
+![click button](/img/bdd_clicksbutton[3].jpg)
 
 And the following method to check the content of a textbox:
 
-![Textboxcontainstext](/img/bdd_Textboxcontainstext[3].jpg)
+![Textbox contains text](/img/bdd_Textboxcontainstext[3].jpg)
 
 With these two methods I could bring the whole feature together. And it fails and tells me that 5 is expected but it got an empty string. I can now implement the functionality for the feature.
 
@@ -230,7 +230,7 @@ I will sure have to work more on the handling of names and references to them. T
 
 This has been a very technical post with lots of code. But remember – it’s not in the tool!
 
-For me the biggest take away when working like this is the way you can collaborate with customer, analysist and tester when writing your features and scenarios.
+For me the biggest take away when working like this is the way you can collaborate with customer, analysts and tester when writing your features and scenarios.
 
 That’s so much more important than any tool.
 

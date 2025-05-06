@@ -32,13 +32,13 @@ But around here the frustration started to kick in. I felt that these two areas;
 
 Also, a specific thing that I have been really frustrated in is how to include test in an agile world. Testing are left out in planning, are left to try to keep up with development and the regression stuff will eventually kill them. So “testing sprints” are introduced, “we’re running a sprint behind the rest of the team” and other solutions like that is used to try to get around it.
 
-Surely – this cannot be the best case? So I started read about [agile testing](http://www.agiletester.ca). I loved [the book](http://www.acceptancetesting.info/the-book/) by [Gjoko Adzic](http://gojko.net/). This book introduced me to the term [agile acceptance testing and specification by example](http://www.acceptancetesting.info/).
+Surely – this cannot be the best case? So I started read about [agile testing](http://www.agiletester.ca). I loved [the book](http://www.acceptancetesting.info/the-book/) by [Gojko Adzic](http://gojko.net/). This book introduced me to the term [agile acceptance testing and specification by example](http://www.acceptancetesting.info/).
 
 #### The solution?
 
 I have heard and [learned](https://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html) quite a lot about [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development). I knew that BDD and [“outside-in” thinking](http://en.wikipedia.org/wiki/Behavior_Driven_Development#Outside-In) can help me design my application in a maintainable way. But BDD can be applied at any level. It could be used to spec out your unit test. Another way to do [TDD](http://en.wikipedia.org/wiki/Test-driven_development) ([AAA](http://www.arrangeactassert.com/) becomes [GWT](http://blog.objectmentor.com/articles/2008/11/27/the-truth-about-bdd))
 
-But I had missed the fact that the specifications and features should ~~could~~ be written in collaboration with customer or business analysists. This will turn the specs into **executable specifications. (**Those words still gives me the shivers. It’s so cool!)
+But I had missed the fact that the specifications and features should ~~could~~ be written in collaboration with customer or business analyst. This will turn the specs into **executable specifications. (**Those words still gives me the shivers. It’s so cool!)
 
 That’s the thing! With executable specifications you have a living specification to code against, and the moment you’re done (as in [done done](http://jamesshore.com/Agile-Book/done_done.html)) with the story the specification is “magically” turned into an acceptance test.
 
@@ -54,10 +54,10 @@ And that in turn closes [the gap](http://www.acceptancetesting.info/the-book/) f
 
 #### Recommended watching and reading
 
-Read Gojkos book – [Bridging the communication gap](http://www.acceptancetesting.info/the-book/). Stop reading whatever you reading now and start reading this. It was a eye-opener for me.
+Read Gojko's book – [Bridging the communication gap](http://www.acceptancetesting.info/the-book/). Stop reading whatever you reading now and start reading this. It was a eye-opener for me.
 
 Watch (~~anything you can get your hands on~~) this webcast by [Dan North.](http://www.infoq.com/presentations/bdd-dan-north) There are lots of great stuff in here on BDD and design.
 
-I’m reading [Agile Testing](http://www.agiletester.ca) right now. That has really showed me that testing is something that any agile person (developer, tester, business analysist etc.) should care about. Or as Deming put it:
+I’m reading [Agile Testing](http://www.agiletester.ca) right now. That has really showed me that testing is something that any agile person (developer, tester, business analyst etc.) should care about. Or as Deming put it:
 
 > [“Quality is everyone's responsibility.”](http://thinkexist.com/quotes/w._edwards_deming/)

@@ -51,6 +51,6 @@ So when could I have been right? Never! This is because [software development is
 
 For agilistas, this is old news. We know this. But the question still comes. Just the other week, we were asked to estimate when phase 2 would be done. By then, we hadn't even decided what would go into it. So it still happens.
 
-What to do? Just give me a date when you want it done, and we'll try to fill it with the most important functionality, with the best quality we can manage in that timespan.
+What to do? Just give me a date when you want it done, and we'll try to fill it with the most important functionality, with the best quality we can manage in that time span.
 
 I'm sorry. The emperor is naked—you cannot estimate a software project with any certainty.

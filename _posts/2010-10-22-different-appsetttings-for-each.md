@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Different appSetttings for each developer in the team - part II
+title: Different appSettings for each developer in the team - part II
 date: 2010-10-22T08:23:00.002Z
 author: Marcus Hammarberg
 tags:
@@ -8,12 +8,11 @@ tags:
   - Life of a consultant
   - Visual Studio
 modified_time: 2010-12-14T15:17:50.660Z
-thumbnail: /img/localsettings.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5552055479284267781
 blogger_orig_url: https://www.marcusoft.net/2010/10/different-appsetttings-for-each.html
 ---
 
-In my [last post](https://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html) I asked for comments, and it didn't take Anders (Granåker) very long time to come up with a better and more correct solution to the problem.
+In my [last post](https://www.marcusoft.net/2010/10/how-to-use-different-appconfig-for-each.html) I asked for comments, and it didn't take Anders very long time to come up with a better and more correct solution to the problem.
 
 The downside of my solution is that you need to tweak the build process on a build server for example. We knew that BUT I left it for later solving. There is a rename to be done and a moving of the real app.config etc.
 
@@ -26,7 +25,7 @@ Here is what we did:
 
 We created a localAppSettings.config that contains the AppSettings that we want to override. Please note that this only contains . No -nodes in here. Here is what it looks like:
 
-![localsettings](/img/localsettings.JPG)
+![local settings](/img/localsettings.JPG)
 
 We then changed the app.config to contain our standard configuration and to point to the localAppSettings.config. Please note that the path is relative TO THE PLACE WHERE THE TEST ARE RUN. In my case that was in `C:/Dev/Puls/Dev/PulsNet/GUI/PulsGui/LF.LIV.PEAAT/TestResults/localadmin_LF-E7A7A8B75E99%202010-10-22%2009_17_31/Out/` so the relative path is ... strange.
 

@@ -82,7 +82,7 @@ public void GivenTheFollowingFeaturesInTheDatabase(Table table)
 [When(@"I navigate to the homepage")]
 public void WhenINavigateToTheHomepage()
 {
-    var featureDBWrapper = ScenarioContext.Current.Get<IFeatureDBWrapper>(DBWRAPPER_KEY);
+    var featureDBWrapper = ScenarioContext.Current.Get<IFeatureDBWrapper>(DB_WRAPPER_KEY);
     var controller = new HomeController(featureDBWrapper);
     var indexView = controller.Index() as ViewResult;
 
