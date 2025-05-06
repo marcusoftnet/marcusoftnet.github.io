@@ -15,7 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8081588236115919566
 blogger_orig_url: https://www.marcusoft.net/2010/01/aspnet-mvc-structuremap-and-tdd.html
 ---
 
-I've been experimenting with **ASP.NET MVC** and **StructureMap** (an IOC container), and the integration has been quite smooth. For guidance on combining StructureMap with ASP.NET MVC, check out [Elija Manor's blog post](http://elijahmanor.com/webdevdotnet/post/Using-StructureMap-with-ASPNET-MVC-MVC-Contrib.aspx). Be cautious of the [favicon issue](http://haacked.com/archive/2008/07/14/make-routing-ignore-requests-for-a-file-extension.aspx).
+I've been experimenting with **ASP.NET MVC** and **StructureMap** (an IOC container), and the integration has been quite smooth. For guidance on combining StructureMap with ASP.NET MVC, check out [Elijah Manor's blog post](http://elijahmanor.com/webdevdotnet/post/Using-StructureMap-with-ASPNET-MVC-MVC-Contrib.aspx). Be cautious of the [favicon issue](http://haacked.com/archive/2008/07/14/make-routing-ignore-requests-for-a-file-extension.aspx).
 
 I'm also using **NHibernate** and **Fluent NHibernate** for a cleaner configuration compared to XML. If you need to set specific properties in Fluent NHibernate, this [Stack Overflow thread](http://stackoverflow.com/questions/968730/how-to-set-a-configuration-property-when-using-fluent-nhibernate) provides a helpful example. Additionally, the [TekPub NHibernate series](http://tekpub.com/view/nhibernate/1) and [Kona project examples](http://github.com/robconery/Kona/blob/master/Kona.Web/) are great resources.
 
