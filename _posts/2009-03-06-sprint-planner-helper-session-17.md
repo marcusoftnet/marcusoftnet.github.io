@@ -17,7 +17,7 @@ My approach to learning this is very much like the way we played with the chemis
 
 So… I guess that you see where this is going. I have to redo something. Actually, it’s two things. And actually, I am not that worried; the whole idea of agile [TDD](http://en.wikipedia.org/wiki/Test-driven_development), [DDD](http://en.wikipedia.org/wiki/Domain-driven_design), and all this is that it should be easy to change.
 
-The first thing is not a biggie; my Entities have a [Guid](http://msdn.microsoft.com/en-us/library/system.guid.aspx) as ID right now. It’s mega-ugly when I am passing it around on the query string etc. I’ll change that into an integer. The nice thing about Guids is that they are guaranteed to be unique. But not very human-friendly…
+The first thing is not a biggie; my Entities have a [Guid](http://msdn.microsoft.com/en-us/library/system.guid.aspx) as ID right now. It’s mega-ugly when I am passing it around on the query string etc. I’ll change that into an integer. The nice thing about Guid's is that they are guaranteed to be unique. But not very human-friendly…
 
 The second thing is a more delicate matter in [DDD](http://en.wikipedia.org/wiki/Domain-driven_design). It has to do with [aggregates](http://domaindrivendesign.org/discussion/messageboardarchive/Aggregates.html) and something called aggregate boundaries (which I understand as: “where do I stop, the whole database is knitted together…”). [This post](http://devlicio.us/blogs/casey/archive/2009/02/16/ddd-aggregates-and-aggregate-roots.aspx), by Casey Charlton, explains the background in a nice, compact way. Actually, the [whole site rocks](http://dddstepbystep.com), with the relevant posts as a book even.
 

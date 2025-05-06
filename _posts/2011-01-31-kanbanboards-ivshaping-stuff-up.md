@@ -31,11 +31,11 @@ Here we go.
 
 OK – I love the [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) ideas but, as I [wrote here](https://www.marcusoft.net/2011/01/tdd-and-scaffolding.html), I’m having some trouble with the code it’s generating. In this case – I’m not even sure that I will need all the views and controller methods. Maybe I would have been better off by just generating the repository.
 
-Not use crying over that – I’ll just remove the views and action methods of the controller that I’m not using. So under Views/Kanbanboard I removed all the .cshtml (Razor) files except the Index.cshtml which is the page we’re using.
+Not use crying over that – I’ll just remove the views and action methods of the controller that I’m not using. So under Views/KanbanBoard I removed all the .cshtml (Razor) files except the Index.cshtml which is the page we’re using.
 
 And then in the KanbanBoardController I removed all the methods save the Index action method. Leaving me with this very slimmed controller: [slimmed controller](/img/slimmed%2520controller_thumb.jpg)
 
-There – much better. Ooops – almost forgot. Better run my specs and tests. There – they run fine. I feel better.
+There – much better. Oops – almost forgot. Better run my specs and tests. There – they run fine. I feel better.
 
 Next!
 
@@ -59,7 +59,7 @@ I’m not happy with the lists on the index page right now. I want something con
 
 But first – I’m looping over two collections of KanbanBoards, creating the same HTML. That doesn’t feel [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) at all. So I used the Html.RenderPartial() – method like this:
 
-[using renderpartial](/img/using%2520renderpartial_thumb%255B1%255D.jpg)
+[using render partial](/img/using%2520renderpartial_thumb%255B1%255D.jpg)
 
 And then I created this partial view that just creates a row for one KanbanBoard:
 
@@ -85,11 +85,11 @@ Here is my first stab of a page object for my home page, with loads of concepts 
 
 Well that – felt pretty nice. But I see room for improvement. I created an abstract base-class that encapsulates some stuff that all page objects need. Here’s that class:
 
-[baseclass for page objects](/img/baseclass%2520for%2520page%2520objects_thumb%255B2%255D.jpg)
+[base class for page objects](/img/baseclass%2520for%2520page%2520objects_thumb%255B2%255D.jpg)
 
 And that shaped up my HomePage object into this:
 
-[home page object inheriting baseclass](/img/home%2520page%2520object%2520inheriting%2520baseclass_thumb%255B1%255D.jpg)
+[home page object inheriting base class](/img/home%2520page%2520object%2520inheriting%2520baseclass_thumb%255B1%255D.jpg)
 
 And all this together gives some pretty clean step definitions:
 

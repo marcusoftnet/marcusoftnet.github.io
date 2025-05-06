@@ -72,7 +72,7 @@ Actually it’s not too hard to implement. Here’s a rudimentary implementation
 public class MarcusExpandoTests
 {
     [Test]
-    public void should_be_able_to_use_marcusexpando()
+    public void should_be_able_to_use_marcus_expando()
     {
         // My own Expando...
         // Oh how close I was to name it MarcusSpandex

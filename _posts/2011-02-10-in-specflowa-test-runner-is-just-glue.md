@@ -27,7 +27,7 @@ Install-Package ShouldFluent
 
 And sure enough – when I compile some NUnit code is auto generated for me:
 
-![generated nunit code](/img/generated%2520nunit%2520code_thumb.jpg)
+![generated NUnit code](/img/generated%2520nunit%2520code_thumb.jpg)
 
 Just for good manners I implemented the steps and ran the specification. It worked with these (naïve) steps in place:
 

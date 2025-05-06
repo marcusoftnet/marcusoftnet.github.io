@@ -93,9 +93,9 @@ In the top part I set up the things I require that the user supplies (name and e
 
 Finally I changed the implementation of my logon-partial view by (again) stealing a partial that OpenIdPortableArea supplies. Like this:
 
-![openidportablearea loginwidget](/img/openidportablearea%2520loginwidget_thumb.jpg)
+![openIdPortableArea login widget](/img/openidportablearea%2520loginwidget_thumb.jpg)
 
-To get this to work you need to add the OpenIdPortableArea into the `<namespaces>` section of the Web.Config in the Views-folder. That’s just to let your views to know that OpendIdPortableArea is something that they can use.
+To get this to work you need to add the OpenIdPortableArea into the `<namespaces>` section of the Web.Config in the Views-folder. That’s just to let your views to know that OpenIdPortableArea is something that they can use.
 
 All of this was stolen from the [excellent screencast](http://www.userinexperience.com/post/Mvc-Screencast-4-MvcContrib.aspx) of [Brandon Satrom](http://stackoverflow.com/users/380135/brandon-satrom) on MvcContrib.
 
@@ -109,9 +109,9 @@ What then happened was a powerful testament to the powers of Twitter and the OSS
 
 Here how it happened;
 
-- I contacted Brandon Satrom ([@brandonsatrom](http://twitter.com/brandonsatrom)) and asked if he had had the same problem when he did his screencasts.
+- I contacted ([Brandon Satrom](http://twitter.com/brandonsatrom)) and asked if he had had the same problem when he did his screen casts.
 - He experienced the same thing when he used Razor views.
-- So I contacted John Nelson ([@johncoder](http://twitter.com/johncoder)) who created the OpenID Portable Area in the first place.
+- So I contacted ([John Nelson](http://twitter.com/johncoder)) who created the OpenID Portable Area in the first place.
 - Aware of the problems he was just about to release a new version of the OpenId Portable Area.
 - Two days later it was on [NuGet.org](http://nuget.org/) and it contained support for Razor.
 

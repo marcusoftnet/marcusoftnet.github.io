@@ -17,7 +17,7 @@ I received a question from three colleagues about what [Twitter](http://twitter.
 
 According to [Wikipedia](http://en.wikipedia.org/wiki/Twitter):
 
-> **Twitter** is an online [social networking](http://en.wikipedia.org/wiki/Social_network_service) and [microblogging](http://en.wikipedia.org/wiki/Microblogging) service that enables its users to send and read text-based posts of up to 140 [characters](http://en.wikipedia.org/wiki/Character_(computing)), informally known as "tweets."
+> **Twitter** is an online [social networking](http://en.wikipedia.org/wiki/Social_network_service) and [micro blogging](http://en.wikipedia.org/wiki/Microblogging) service that enables its users to send and read text-based posts of up to 140 [characters](http://en.wikipedia.org/wiki/Character_(computing)), informally known as "tweets."
 
 You send short messages (tweets) that are visible to anyone who follows you. You can also follow other users to receive their updates. Most of the content is public (with some exceptions like direct messages) and can be viewed by visiting [your Twitter page](http://twitter.com/marcusoftnet). That’s the basic idea, but there’s more to it than meets the eye.
 
@@ -29,7 +29,7 @@ Due to the 140-character limit, several conventions have emerged to communicate 
 
 A hashtag (e.g., #avegaConference) categorizes your tweet and makes it discoverable by others interested in the same topic. For instance:
 
-> If you’re at a large conference, you might use a tag like #oredev or #javaZone2011 in your tweets. This allows others searching for that tag to find your tweets and join the discussion.
+> If you’re at a large conference, you might use a tag like #Øredev or #javaZone2011 in your tweets. This allows others searching for that tag to find your tweets and join the discussion.
 
 Popular tags can be tracked using services like [Trendistic](http://trendistic.indextank.com/), which helps you stay updated on trending topics. For example, during the Egyptian revolution, the tag #tahrir was widely used.
 
@@ -53,7 +53,7 @@ Emoticons and abbreviations add emotion and brevity to tweets:
 
 - :) – Happy
 - :( – Sad
-- ;) – Winky, ironic
+- ;) – Winking, ironic
 - FTW – For the win
 
 #### Replies

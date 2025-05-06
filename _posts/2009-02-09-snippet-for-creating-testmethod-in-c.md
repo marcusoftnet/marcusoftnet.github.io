@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snippet for creating testmethod in C#
+title: Snippet for creating test method in C#
 date: 2009-02-08T21:10:00.001Z
 author: Marcus Hammarberg
 tags:
@@ -21,7 +21,7 @@ and now you don’t have to write it.
             <Header>
                 <Title>TestMethod</Title>
                 <Shortcut>tm</Shortcut>
-                <Description>Code snippet for creating a testmethod</Description>
+                <Description>Code snippet for creating a test method</Description>
                 <Author>Marcusoft (www.marcusoft.net)</Author>
                 <SnippetTypes>
                     <SnippetType>Expansion</SnippetType>

@@ -42,4 +42,4 @@ public List<ProductBacklogItem> ProductBacklogItems
 
 After adding an `AddProductBacklogItem` method, I was back on track with all green lights…
 
-I was then at the edge of blowing my 1-hour rule, so I stopped. Tomorrow I’ll get back to reprioritizing the items.
+I was then at the edge of blowing my 1-hour rule, so I stopped. Tomorrow I’ll get back to re-prioritizing the items.

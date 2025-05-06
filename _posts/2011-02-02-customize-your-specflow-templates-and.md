@@ -34,9 +34,7 @@ Here, you’ll find several zip archives containing the templates. You can modif
 4. Now you can **edit** it as much as you want. In our case, we wrote some instructions as comments, converted the text into Swedish (our standard language in `app.config`), and wrote some common background steps.
 5. **Save** the file.
 6. **Create** a new zip archive with just the three files in it. Not the folder – that won’t work. Like this:
-
-![zipping together your template](/img/zipping%2520together%2520your%2520template_thumb.jpg)
-
+    ![zipping together your template](/img/zipping%2520together%2520your%2520template_thumb.jpg)
 7. And you are done. From **Add New Item** in Visual Studio, you can now use your new template and distribute it to your team members.
 8. A restart of Visual Studio might help in picking up the new template. It doesn’t hurt to restart it.
 
@@ -48,7 +46,7 @@ You can take this a step further. If the `ItemTemplates` folder contains several
 
 The only thing is that they have the same name. But that’s what the other file in the zip archive is for. It’s called `SpecFlowFeature.vstemplate` and contains information about your template. Here, I’ve tweaked it to be my Marcus version of a SpecFlow feature:
 
-![vstemplate for Marcus feature](/img/vstemplate%2520for%2520Marcus%2520feature_thumb.jpg)
+![template for Marcus feature](/img/vstemplate%2520for%2520Marcus%2520feature_thumb.jpg)
 
 Important elements in this file include:
 

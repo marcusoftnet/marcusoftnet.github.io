@@ -11,13 +11,8 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4362394711823504784
 blogger_orig_url: https://www.marcusoft.net/2010/02/powercommands-for-visual-studio-2008.html
 ---
 
+I’m back with Visual Studio 2008 after a few months only doing Visual Studio 2010 stuff. And… you miss some stuff. Things get old so fast. Sad.
 
-I’m back with Visual Studio 2008 after a few months only doing Visual
-Studio 2010 stuff. And… you miss some stuff. Things get old so fast.
-Sad.
+Here’s some nifty tools that get you a bit closer; <a href="http://code.msdn.microsoft.com/PowerCommands" target="_blank">PowerCommands for Visual Studio 2008</a>.
 
-Here’s some nifty tools that get you a bit closer;
-<a href="http://code.msdn.microsoft.com/PowerCommands"
-target="_blank">PowerCommands for Visual Studio 2008</a>.
-
-Aaah – now it feels a bit better.
+Aah – now it feels a bit better.

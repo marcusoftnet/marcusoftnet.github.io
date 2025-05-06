@@ -50,7 +50,7 @@ So that leads us to the features. What are those? What do they represent? And wh
 Who writes the stories then? It’s easy to think that this is a business/requirement thing. But as a [great answer](http://groups.google.com/group/behaviordrivendevelopment/msg/e8b983ae5b433b99) to [my question](http://groups.google.com/group/behaviordrivendevelopment/browse_thread/thread/c75ec1255a34a5a6/e8b983ae5b433b99?#e8b983ae5b433b99?), [great authoritative resources](http://cuke4ninja.com/sec_collaborative_feature_files.html), and even [links off old post of mine](http://blog.jonasbandi.net/2010/05/bdd-antipattern-business-readable-but.html) show, that misses the point of BDD. You want to write the features and their scenarios together as I wrote above.
 
 A bit like this maybe:
-![specws.jpg](/img/specws.jpg)
+![specification workshop](/img/specws.jpg)
 
 (Short side note – I actually was on to that track in an [earlier post](https://www.marcusoft.net/2010/08/story-on.html) also, which I hope lessens the stupidity of my question and reasoning a bit).
 

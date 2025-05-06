@@ -31,7 +31,7 @@ Here are additional resources that have contributed to my BDD knowledge:
 
 - **[Growing Object-Oriented Systems Guided by Tests (GOOS)](http://www.growing-object-oriented-software.com)**: This book is a cornerstone in understanding test-driven development and BDD.
 - **[Rob Conery’s SpecFlow Webcast](http://specflow.org/specflow/screencast.aspx)**: Offers a practical overview of using SpecFlow for BDD.
-- **[Steven Sanderson’s Blog Post](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/)**: An insightful post on implementing BDD with SpecFlow and ASP.NET MVC.
+- **[Steven Sandersson's Blog Post](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/)**: An insightful post on implementing BDD with SpecFlow and ASP.NET MVC.
 - **[Gherkin Language Wiki](https://github.com/cucumber/cucumber/wiki/Gherkin)**: A comprehensive resource on the Gherkin language used by Cucumber.
 - **[Gojko Adzic’s Site](http://gojko.net)**: Rich in articles and resources related to BDD and its practices.
 - **[SpecFlow Source Code on GitHub](https://github.com/techtalk/SpecFlow/)**: Reviewing and contributing to the SpecFlow source code, especially the [FeatureTests](https://github.com/techtalk/SpecFlow/Tests/FeatureTests), can provide practical insights.

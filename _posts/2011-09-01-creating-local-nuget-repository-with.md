@@ -68,7 +68,7 @@ Using this method, you can:
 - Use `Uninstall-Package –RemoveDependencies` to remove your bundle with its dependencies.
 - Create packages that build on top of each other. For example:
   - `SpecFlowWithNUnit` – just SpecFlow and NUnit.
-  - `SpecFlowWithNunitAndShould` – depends on `SpecFlowWithNUnit` and adds Should.
+  - `SpecFlowWithNUnitAndShould` – depends on `SpecFlowWithNUnit` and adds Should.
   - `SpecFlowWithNUnitAndShouldAndMoq` – and so on.
 
 You can also manage versions of dependencies by simply not specifying version numbers in the NuGet Package Explorer.

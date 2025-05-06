@@ -16,15 +16,15 @@ Since I first encountered [Specification by Example](http://specificationbyexamp
 
 #### Standing on the Shoulders of Giants
 
-This post reflects my own thoughts and tries to piece together insights from various experts. I owe much to pioneers like [Dan North](http://www.blogger.com/www.dannorth.net), [Eliyahu Goldratt](http://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), and [Gojko Adzic](http://gojko.net/), among others.
+This post reflects my own thoughts and tries to piece together insights from various experts. I owe much to pioneers like [Dan North](http://www.blogger.com/www.dannorth.net), [Elijah Goldratt](http://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), and [Gojko Adzic](http://gojko.net/), among others.
 
 ### Theory of Constraints
 
-Last year, I read the insightful book, [*The Goal* by Eliyahu Goldratt](http://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781). Goldratt’s Theory of Constraints (TOC) asserts that every system has at least one bottleneck that limits its overall performance. Improvements to other areas are less effective if they don't address the bottleneck.
+Last year, I read the insightful book, [*The Goal* by Elijah Goldratt](http://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781). Goldratt’s Theory of Constraints (TOC) asserts that every system has at least one bottleneck that limits its overall performance. Improvements to other areas are less effective if they don't address the bottleneck.
 
 Here’s a simple example:
 
-> Imagine Marcusoft Welded Steelplates, a plant that manufactures specialized steel plates. The plant has several machines: one cuts the plates, another welds parts on, a third paints them, and the final machine finishes the edges. However, the paint machine often struggles with inconsistently shaped plates, leading to waste. To resolve this, you would first optimize the use of the paint machine by ensuring it only receives plates it can handle, and then address the root cause by adjusting the initial cutting and welding processes.
+> Imagine Marcusoft Welded Steel-plates, a plant that manufactures specialized steel plates. The plant has several machines: one cuts the plates, another welds parts on, a third paints them, and the final machine finishes the edges. However, the paint machine often struggles with inconsistently shaped plates, leading to waste. To resolve this, you would first optimize the use of the paint machine by ensuring it only receives plates it can handle, and then address the root cause by adjusting the initial cutting and welding processes.
 
 While this example illustrates a physical system, the principles can be applied to system development as well.
 

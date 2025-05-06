@@ -30,7 +30,7 @@ In programming, scaffolding refers to:
 
 A key difference between these definitions is the "temporary" aspect of physical scaffolding, which is removed once construction is complete. Scaffolded code, however, is intended as a starting point and should be integrated into the application's core.
 
-As [Steven Sanderson](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) notes:
+As [Steven Sandersson](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) notes:
 
 > "Scaffolding” is used by many software technologies to mean “quickly generating a basic outline of your software that you can then edit and customize.”
 

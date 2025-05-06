@@ -37,7 +37,7 @@ On with tasks at hand.
 
 ### Updating the specs for the Homepage
 
-The current scenario lacks a little bit of information. When you navigate to the homepage of the application, you should not only see the top three favorited Kanban boards, there should also be a list of the newest additions. The simplest way to do that is simply to augment the current scenario with a new Then-statement. Like this:
+The current scenario lacks a little bit of information. When you navigate to the homepage of the application, you should not only see the top three favorite Kanban boards, there should also be a list of the newest additions. The simplest way to do that is simply to augment the current scenario with a new Then-statement. Like this:
 
 ![updated scenario](/img/updated-scenario_thumb.jpg)
 
@@ -77,7 +77,7 @@ Here is the feature file for the acceptance test:
 
 I started to implement the steps for this scenario – which failed with an inconclusive status as expected. I created a step definitions class for the home page, but expect that other pages will require their own classes.
 
-For browser automation, I’m using [WatIn](http://watin.sourceforge.net/). It’s not available on NuGet, so I had to download and add it manually. I also used [Steven Sanderson's browser wrapper](https://github.com/SteveSanderson/GuestbookDemo/blob/master/Guestbook.Spec/Steps/Infrastructure/WebBrowser.cs).
+For browser automation, I’m using [WatIn](http://watin.sourceforge.net/). It’s not available on NuGet, so I had to download and add it manually. I also used [Steven Sandersson browser wrapper](https://github.com/SteveSanderson/GuestbookDemo/blob/master/Guestbook.Spec/Steps/Infrastructure/WebBrowser.cs).
 
 Here’s the step definition for the first implemented step:
 

@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: Error “The provider did not return a ProviderManifestToken string” with SQL Compact Edition
@@ -20,7 +19,7 @@ The site was using Entity Framework Code first with [SQL CE as described here](h
 
 ```xml
 <connectionStrings>
-  <add name="[Name from you dbcontext class]" connectionString="DataSource=|DataDirectory|AnyName.sdf" providerName="System.Data.SqlServerCe.4.0"/>
+  <add name="[Name from you dbContext class]" connectionString="DataSource=|DataDirectory|AnyName.sdf" providerName="System.Data.SqlServerCe.4.0"/>
 </connectionStrings>
 ```
 

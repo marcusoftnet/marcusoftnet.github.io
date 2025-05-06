@@ -15,7 +15,7 @@ Today I plan to finish up the last part of the prioritizing of Product Backlog I
 
 Let’s go!
 
-Whooa – I ran into some [problems with routing](https://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html). Some problems that took me about two sessions (read: hours) to solve. To not bore you with details or meaningless posts of me scratching my head, I’ll sum it up in this post.
+Whoa – I ran into some [problems with routing](https://www.marcusoft.net/2009/03/aspnet-mvc-parameters-dictionary.html). Some problems that took me about two sessions (read: hours) to solve. To not bore you with details or meaningless posts of me scratching my head, I’ll sum it up in this post.
 
 Here is the layout of the “problem": I have an Action-method with two parameters:
 

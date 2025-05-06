@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7342434330790395493
 blogger_orig_url: https://www.marcusoft.net/2009/02/great-generic-repository-patter.html
 ---
 
-
 I have [pointed here](http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/10/08/the-repository-pattern.aspx) several times before – but it’s so nice.
 
 It’s an [implementation](http://blogs.hibernatingrhinos.com/nhibernate/archive/2008/10/08/the-repository-pattern.aspx) of the [Repository Pattern](http://martinfowler.com/eaaCatalog/repository.html) using generics, that will minimize your code in a very nice way. I am sure that the FindAll can be refined into something very nice with [LINQ](http://msdn.microsoft.com/en-us/library/bb308959.aspx), that allows you to send a specification criteria or so.

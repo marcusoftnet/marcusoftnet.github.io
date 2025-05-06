@@ -26,7 +26,7 @@ Please allow me to elaborate on something that I have been thinking about for a 
 
 I often get the feeling that I need to sell things like specification by example, [TDD](http://en.wikipedia.org/wiki/Test-driven_development), pair programming, Scrum, or other agile practices to the business. Why is that? Why hasn’t it—during the [10 years that agile has existed](http://10yearsagile.org/)—come from the business side? It’s always technology-driven.
 
-It might have to do with the fact that all the original signees of the [Agile Manifesto](http://agilemanifesto.org/) (as far as I know) are techies…
+It might have to do with the fact that all the original signee's of the [Agile Manifesto](http://agilemanifesto.org/) (as far as I know) are techies…
 
 It’s not a big problem per se, but it’s getting slow to always push the way we work. Often, in big organizations, I’m met with a head-tapping “Yeah, you do that… development guys, if you want to work in short sprints—go ahead” and then 5 years later the other parts of the development process (requirements, test, deployment) wake up and tag along.
 
@@ -48,7 +48,7 @@ All the background needed is brought to a meeting in which a feature is discusse
 
 ### Hey? What About the Customer?
 
-Any true [agilista](http://www.urbandictionary.com/define.php?term=Agilista) or BDD practitioner has now stopped reading. Where’s the customer in that picture? Why not talk to her directly?
+Any true [agilist](http://www.urbandictionary.com/define.php?term=Agilista) or BDD practitioner has now stopped reading. Where’s the customer in that picture? Why not talk to her directly?
 
 Well—in my (humble) opinion, big organizations seldom involve the user or customer in the requirements process. Or even before the system is built. They are sometimes involved in the testing, but I haven’t seen a user in years. I envy the people who have direct contact with them and can get firsthand information, but I haven’t.
 
@@ -92,7 +92,7 @@ There are different approaches to do this; [user story mapping](http://www.agile
 
 ### SpecLog
 
-... until now! SpecLog ([www.speclog.org](http://www.speclog.org)) aims to bridge this gap—and focus on the early stages of a user story. Long before it’s even a user story, actually. The tool is still in the early phases, but I see a lot of stuff that I like already. For starters—it’s good looking:
+... until now! SpecLog ([www.SpecLog.org](http://www.speclog.org)) aims to bridge this gap—and focus on the early stages of a user story. Long before it’s even a user story, actually. The tool is still in the early phases, but I see a lot of stuff that I like already. For starters—it’s good looking:
 
 ![Example workspace in SpecLog](/img/example%2520workspace%2520in%2520speclog_thumb.jpg)
 
