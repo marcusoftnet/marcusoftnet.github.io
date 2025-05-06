@@ -73,7 +73,7 @@ pause
 
 Lo and behold; it actually produces the nice report we wanted:
 
-![examplereport](/img/examplereport.png)
+![Example report](/img/examplereport.png)
 
 ### Putting it all together
 
