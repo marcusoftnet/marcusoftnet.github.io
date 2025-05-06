@@ -103,7 +103,7 @@ That question above helps us to focus on completing work, faster, in some subtle
 
 The question is also a great conversation starter since we have to talk about what’s left before the work item is complete and how we should tackle that today. What can we split, what can we share, are there things that we can leave for now and other discussions quickly starts around the board. The focus is shifted from the people in the team and what they do and have done, to the work and how to complete it.
 
-There’s no reporting of what *you* did yesterday, what *you’re* going to do today or if there’s any hinderance for *your* goal. *We*are focusing on finishing these three items as fast as possible as a *team.*
+There’s no reporting of what *you* did yesterday, what *you’re* going to do today or if there’s any hindrance for *your* goal. *We*are focusing on finishing these three items as fast as possible as a *team.*
 
 **Each team member is given a lot of freedom, since the question to each and everyone translates to: “Can I help us complete any work today?”. If not – find something else that you’ll think will help us in the future. You have the freedom to make that decision yourself – we trust you to do something useful.  The only constraint is that you cannot start work that you cannot drop, pretty quickly, if we need you to work on our Priority 1 items.
 
@@ -111,7 +111,7 @@ Let’s take an example: let’s say that the only thing that’s left before an
 
 - decide to start work on some of the Priority 2 items, so that they will be finished quicker when we start work on them later.
 - Or you might start to examine one of our dragons so that we start to learn about the stuff that scares us for the future.
-- Or you might build tools, automations etc that helps us to move faster as a team.
+- Or you might build tools, automation etc that helps us to move faster as a team.
 - Or you might sit down and learn some CSS so that you can start help out in design work in the future.
 
 Again: you have the freedom to do what you think is best for us as a team. As long as you can drop that and come to our assistance to finish the priority 1 work when we need your competence.

@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2013/08/codebetter-new-home-for-part
 
 I started this blog about 8 years ago. It now contains 830-ish posts (this 831, I think). I have also just passed 20,000 tweets:
 
-> With my 20,000 tweets, I wanted to say a big "Thank you" to all you tweeps that I've learned from so much. And a shout-out to [@MikaelOstberg](https://twitter.com/MikaelOstberg) — Marcus Hammarberg (@marcusoftnet) [August 8, 2013](https://twitter.com/marcusoftnet/statuses/365403406258536448)
+> With my 20,000 tweets, I wanted to say a big "Thank you" to all you tweeps that I've learned from so much. And a shout-out to [Mikael Östberg](https://twitter.com/MikaelOstberg) — Marcus Hammarberg (@marcusoftnet) [August 8, 2013](https://twitter.com/marcusoftnet/statuses/365403406258536448)
 
 During this time, I have not drawn too much attention to myself, in my opinion, and by no means have become famous or well-known.
 
@@ -23,7 +23,7 @@ But some truly awesome things have happened during the last years that are direc
 
 A few things that stand out for me are:
 
-- Got offered to write [Kanban in Action](http://bit.ly/theKanbanBook) (with [@joakimsunden](http://twitter.com/joakimsunden))
+- Got offered to write [Kanban in Action](http://bit.ly/theKanbanBook) (with [Joakim Sunden](http://twitter.com/joakimsunden))
 - Got a couple of truly amazing gigs - way over my head. And pulled them off in some cases
 - Have spoken at conferences ([ÖreDev](http://oredev.org/2013) and [JFokus](http://www.jfokus.se/) for example) and at numerous
 - Spoke at [Skillsmatter CukeUp](http://skillsmatter.com/podcast/agile-testing/cuke-envy-a-dot-net-programmers-attempt-to-catch-up)

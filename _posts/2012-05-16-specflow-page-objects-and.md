@@ -133,7 +133,7 @@ Everything is up and running!
 
 ## Page objects and wrappers
 
-One of the problems with UI tests is that they are brittle. The UI is changing and finding controls on the page can be tricky sometimes. In order to handle that problem a bit and buffer the problem you can create a Wrapper around the page. I have [described this common pattern here](https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). For a real indepth look on this pattern in action [check this excellent screen cast](http://skillsmatter.com/podcast/agile-scrum/bdd-as-its-meant-to-be-done) by [Matt Wynnne](http://blog.mattwynne.net/)
+One of the problems with UI tests is that they are brittle. The UI is changing and finding controls on the page can be tricky sometimes. In order to handle that problem a bit and buffer the problem you can create a Wrapper around the page. I have [described this common pattern here](https://www.marcusoft.net/2011/04/clean-up-your-stepsuse-page-objects-in.html). For a real in depth look on this pattern in action [check this excellent screen cast](http://skillsmatter.com/podcast/agile-scrum/bdd-as-its-meant-to-be-done) by [Matt Wynne](http://blog.mattwynne.net/)
 
 ### PageWrapperBase
 
@@ -178,7 +178,7 @@ Let’s follow a step from feature file all the way down to the automation as a 
 2. SpecFlow calls into the step definition marked with the “\[Given(@”I am on the homepage”)\]”. That method is defined on the Steps-class
 3. The step definition contains of a single line; “_teamListingPageWrapper.Visit();”
     1. _teamListingPageWrapper is a private variable in the Steps-class
-4. The Visit()-method is definied on the PageWrapperBase class that simply use the Browser instance to Open the URL for the page; `Browser.Open(pageURL);`
+4. The Visit()-method is defined on the PageWrapperBase class that simply use the Browser instance to Open the URL for the page; `Browser.Open(pageURL);`
     1. The pageURL is put together from the prefix found in the app.config and the relative URL for the page we’re wrapping (“/” in this case)
 5. If that works out the scenario continues on the next step: “Then a link for Create New team should be present on the page”
 6. SpecFlow again calls into the right step definition

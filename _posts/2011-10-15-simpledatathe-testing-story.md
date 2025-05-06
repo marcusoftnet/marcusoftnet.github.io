@@ -120,7 +120,7 @@ public void Insert_should_insert_new_entry()
     dynamic newUser = new ExpandoObject();
     newUser.Id = 40;
     newUser.Email = "newemail@marcusoft.net";
-    newUser.Password = "newpassword";
+    newUser.Password = "new password";
 
     // Act
     db.Users.Insert(newUser);

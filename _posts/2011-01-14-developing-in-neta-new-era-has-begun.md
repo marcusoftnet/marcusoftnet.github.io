@@ -55,7 +55,7 @@ OK, let’s go. Today I want to simply set up the environment and get my first s
 5. I right-clicked the Specs project and chose “Add library package reference ...” (Yeah, I like a GUI over a console when learning). I searched for and added the SpecFlow 1.4 to my project. I’m not happy with getting 1.4 instead of 1.5, which is the most current, but OK. Please note that you need to [install SpecFlow](http://www.specflow.org/downloads/installer.aspx) to get the tooling support. This only installs the reference to SpecFlow and NUnit.
 6. That created a “packages” folder at my solution root. “Packages” is the new “lib” then. Ok – I’ll live with that. Also, I got a “packages.config” in my Specs folder – that contains a list of my current projects. I didn’t get NUnit, which is the default framework for SpecFlow. Hmmm – let’s see how this plays out.
 7. I now created a “Features” folder and created my first feature that is about navigating to the home page of the Kanban-boards site.
-8. I ran the tests aaaand.... Boom! Lots of NUnit errors at compile time. Just as I thought.
+8. I ran the tests and.... Boom! Lots of NUnit errors at compile time. Just as I thought.
 9. OK – I’ll add NUnit (right-click Specs project -> “Add library package reference ...” -> NUnit). Apparently, 2.5.7 is the most current version, but who is counting – I’ll use the update feature of NuGet later if I want to.
 10. Recompile. Works fine.
 11. Ran tests – Inconclusive (No step definition found).

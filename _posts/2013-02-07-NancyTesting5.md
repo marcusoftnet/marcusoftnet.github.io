@@ -11,14 +11,13 @@ tags:
   - C#
   - SpecFlow
 modified_time: 2014-06-21T00:09:55.466Z
-thumbnail: /img/Screen+Shot+2013-02-07+at+13.24.53+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3220746848691426022
 blogger_orig_url: https://www.marcusoft.net/2013/02/NancyTesting5.html
 ---
 
 ![Nancy Logo](http://nancyfx.org/images/logo.png)
 
-When I showed the code from the [last post](https://www.marcusoft.net/2013/02/NancyTesting4.html) to a colleague ([@HugoHaggmark](http://www.twitter.com/HugoHaggmark)), he remarked: Nice - but that's no unit test. And he's absolutely right.
+When I showed the code from the [last post](https://www.marcusoft.net/2013/02/NancyTesting4.html) to a colleague ([Hugo Häggmark](http://www.twitter.com/HugoHaggmark)), he remarked: Nice - but that's no unit test. And he's absolutely right.
 
 A unit test should test a unit. The tests in the last post, and the test that Nancy.Testing allows us to easily write, flexes the whole stack of our application. In memory (which is super cool) but the full stack. That's no unit test.
 
@@ -89,7 +88,7 @@ Let's see how I've stitched this together. Mind you - this is my take on it. The
 
 For our example we will take a look at the behavior around creating new fairy tale figures. Here's my feature:
 
-```
+```gherkin
 Feature: Creating a fairy tale figure
 
   In order to expand the world of fairy tales
@@ -113,7 +112,7 @@ Feature: Creating a fairy tale figure
 
 As you can see, there's just a little introduction at the top, stating the reason for this functionality. What then follows are two distinct scenarios with concrete values. In the first one, we're focusing on creating a fairy tale figure with no hangarounds. Sad one.
 
-In the latter, we create another figure (note that we don't care about the name and hence don't use one) and make sure that the hangaround gets registered and is as evil as their master.
+In the latter, we create another figure (note that we don't care about the name and hence don't use one) and make sure that the hang-around gets registered and is as evil as their master.
 
 Before we can take a look at the step definitions there's a little infrastructure you should know about:
 

@@ -41,8 +41,8 @@ This is my description of what happens to me as a patient from when I enter the 
 6. We then wait in the waiting room.
 7. After a while we get called and get to meet a doctor, that examines the kids more thoroughly and decide on some treatments. I suspect that you can often be sent home from here with a recipe, but let's stay on it for a little while more.
 8. A treatment is decided and we are sent to the waiting room or, if it's not that busy we can wait in the examining room.
-9. After a while a nurse comes and do the treament or take some samples.
-10. We then wait for the treament to take effect  or the samples to be analyzed
+9. After a while a nurse comes and do the treatment or take some samples.
+10. We then wait for the treatment to take effect  or the samples to be analyzed
 11. We then get to meet the doctor again. This is basically point 7 and sometimes points 7-10 is repeated.
 12. Finally it's decided on if we can go home or need to stay over and have more check-ups in the morning.
 13. We leave the ER
@@ -65,13 +65,13 @@ Some comments on the board:
 - The column-names, number of columns and how you move stuff around is merely my suggestions: change as you see fit. I would love to help you (marcusoftnet at gmail).
 - Not that the order of handling should be the order the stickies are sitting in columns. The top one is the next up and the last one in the column is last.
 - You're of course allowed to reorder as need see fit. Nothing changes there. This is merely showing what is going on.
-- In some cases the stickies will travel "backwards". For example when a patient have been treated another examination might be in order, to see how the treatment went. This is perfectly ok, just move the stickie into the right column and right priority order. We see an example of this on my example board, in the examination column patient 24 is back waiting to be examined.
+- In some cases the stickies will travel "backwards". For example when a patient have been treated another examination might be in order, to see how the treatment went. This is perfectly ok, just move the sticky into the right column and right priority order. We see an example of this on my example board, in the examination column patient 24 is back waiting to be examined.
 - In the same manner the patient can be sent home if they get well (or sent to a another department of the hospital). Just move the sticky to the "Left ER"-column and we're done.
 - You don't need to show anything about the patient except the number on the board. There's nothing revealed about the condition or who he or she is.
 
 ### Conclusion and ideas
 
-For me as a patient (or parent to one of your patients) this would add massives amount of value: I would see what's happening and that something is actually moving at all. I suspect that no-one would object being side-stepped for another, more urgent case. As long as you show it. Right now that's just more waiting and I knew nothing about what happend.
+For me as a patient (or parent to one of your patients) this would add massive amount of value: I would see what's happening and that something is actually moving at all. I suspect that no-one would object being side-stepped for another, more urgent case. As long as you show it. Right now that's just more waiting and I knew nothing about what happened.
 
 Here are some extension and augmentations that you could do, still without changing anything about how you work, the order in which you do stuff etc. :
 

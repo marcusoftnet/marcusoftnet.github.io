@@ -72,7 +72,7 @@ You can read more about this kind of ideas in the excellent book [Pretotyping](h
 As for the checkout-functionality we could have handled that manually. You know, send an email (yes, as simple as [mailto](http://en.wikipedia.org/wiki/Mailto)) and have a couple of guys managing it on the backend. It would have been messy, but it could be in place in a day or two probably.
 *And then the feedback would have started to come to us.*
 
-We would now, from the eyes of the public (and others in the company), have a working cart. Not fully featured and sure not fully implemented, since we still are faking it. But now we could start filling the functionality out with real code. And doing so where the manual management hurted the most first.
+We would now, from the eyes of the public (and others in the company), have a working cart. Not fully featured and sure not fully implemented, since we still are faking it. But now we could start filling the functionality out with real code. And doing so where the manual management hurt the most first.
 
 [![Software features and how they are used](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)](http://codebetter.com/marcushammarberg/files/2014/01/features-used.jpg)Picture from <http://pragprog.com/magazines/2011-02/way-of-the-agile-warrior>
 

@@ -22,7 +22,7 @@ And of course, this is not my own thoughts – I’ve picked up some tricks here
 
 As everything in Scrum I plan sprints as a time box. That is I let the time be fixed and adjust the content accordingly. Most often I also fix the people and their percentage in the sprint. So in this triangle the features are the one thing that have to give when things doesn’t plan out:
 
-![timeboxing](/img/timeboxing_thumb%2525255B1%2525255D.png)
+![time boxing](/img/timeboxing_thumb%2525255B1%2525255D.png)
 
 Ok – nothing new there. As probably in the rest of the post as well… : )
 
@@ -49,7 +49,7 @@ I write the start and end date on a white board. And while I’m at it we calcul
 
 By doing this you can now also create the X-axis of your burndown chart, by simply plotting out the number of days and setting dates beneath. By doing so you also get a feeling of progress that is quite nice; “we’re getting somewhere people!”
 
-![xaxis burndown](/img/xaxis%25252520burndown_thumb%2525255B85%2525255D.png)
+![x-axis burndown](/img/xaxis%25252520burndown_thumb%2525255B85%2525255D.png)
 
 ### Who are with me?
 
@@ -67,7 +67,7 @@ Here we have a discussion in the team on what is affecting our focus factor this
 
 I never allow teams to set anything above 80% since I think that is improbable that you can focus at the task at hand to anything more than that.
 
-![vecolicty](/img/vecolicty_thumb%2525255B1%2525255D.png)
+![velocity](/img/vecolicty_thumb%2525255B1%2525255D.png)
 
 You could ask why we write down the “Optimal hours in sprint” but I have found it a useful exercise to see how much we “lose” to the other stuff. It have even happened that the team has done something about that to get more time to the sprint.
 
@@ -75,13 +75,13 @@ So now we know how much we *could* take on for this sprint. But maybe we shouldn
 
 ### What should we do?
 
-We can now turn our attention to WHAT we should during the sprint. Now the prioritized product backlog becomes very important to the team. This is also a part where the product owner is indispensible.
+We can now turn our attention to WHAT we should during the sprint. Now the prioritized product backlog becomes very important to the team. This is also a part where the product owner is indispensable.
 
 The WHEN and WHO part usually doesn’t take very long after a couple of sprints. Maybe 15 minutes with a prepared excel spread sheet ([attached](http://dl.dropbox.com/u/2408484/SprintPlanningTemplate.xlsx)). But now we need the product owner present to clarify and agree on things that we discuss.
 
 #### What is done?
 
-Firstly the team and product owner needs to agree on a definition of done. What does DONE mean for this team (in this sprint even). I usually write this down on the whiteboard or draw peoples attention to a flipchart paper that hangs from the Scrum board. Here’s one example:
+Firstly the team and product owner needs to agree on a definition of done. What does DONE mean for this team (in this sprint even). I usually write this down on the whiteboard or draw peoples attention to a flip-chart paper that hangs from the Scrum board. Here’s one example:
 
 - The demo will be in the test environment
 - The code will be coded and reviewed

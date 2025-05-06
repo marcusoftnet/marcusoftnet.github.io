@@ -76,7 +76,7 @@ Some additional practices that I’ve used that have proven helpful some times a
 - Do this exercise in small groups and compare results. “Divide and merge” I think this is called and that’s a great way to both generate a lot of insights but also get a conversation started.
 - Do this exercise in smaller groups and average out the result. This could be useful but should not be done without a discussion. Big discrepancies in your ranking probably show on different view on what the item really is and you better clear that out.
 - Weight the aspects with a factor. In this way you can show how important you think that this aspect is to the overall result. If “Time to market” is of the essence you can give this a high factor, and have the other aspects ranked lower. This can be done by writing a factor above each column that you multiply the values by; the entire formula becomes ((value *factor)* (value *factor)* (…)).
-- Take different aspects into consideration at different times. If you let your list live for a longer period of time you might not consider all the aspects all the time. I’ve just used this once and rather just recreate the list from the begining.
+- Take different aspects into consideration at different times. If you let your list live for a longer period of time you might not consider all the aspects all the time. I’ve just used this once and rather just recreate the list from the beginning.
 
 ## My latest encounter
 

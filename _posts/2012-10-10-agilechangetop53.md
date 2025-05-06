@@ -30,16 +30,19 @@ The guys that are going to live in this environment - they are the ones best equ
 This goes even when they ask for it, I would say. I have been asked to give teams tools so many times.
 
 > Just tell us what to do
-
+>
 > How do people normally go about this?
 
 Nothing wrong with stealing from others but the main thing here is to create a culture of ever improving, ever learning, and ever changing. In our efforts to get something that works, out there, fast we do some really stupid things. Just looking at tooling and not looking at the thoughts behind this is one of them. Stupid stuff.
 
 Here's a story from a world that you might not be too familiar with that I often tell to explain this:
 I'm a member of the Salvation Army, a Christian church. One of the more successful Christian churches of all times is probably the [Willow Creek Community Church](http://www.willowcreek.org/), founded and led by [Bill Hybels](http://en.wikipedia.org/wiki/Bill_Hybels). They went from just four members to over 20,000 members, and counting. Needless to say, they were the role model and inspiration for many other churches all over the world.
+
 It was quite common for people from other congregations to visit the Willow Creek Community Church to see what and how they managed to be so successful.
-After one meeting Reverend Bill Hybles saw such a group, but they were acting strange. They crawled around on the floor way in the back of the church. Bill went down there and asked what they did:
+
+After one meeting Reverend Bill Hybels saw such a group, but they were acting strange. They crawled around on the floor way in the back of the church. Bill went down there and asked what they did:
 "We are so impressed with what you have accomplished! We want to copy that. We want to be as successful as you."
+
 Bill answered: "That's all good but what are you doing here on the floor?"
 "Well, right now we are measuring the distance from the back wall to the last bench. We want to build our church exactly like yours, to be successful like you."
 

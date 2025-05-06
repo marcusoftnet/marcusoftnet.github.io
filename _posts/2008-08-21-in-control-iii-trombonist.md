@@ -12,20 +12,12 @@ blogger_orig_url: https://www.marcusoft.net/2008/08/in-control-iii-trombonist.ht
 ---
 
 
-This
-is not for the faint hearted, but well worth seeing.
+This is not for the faint hearted, but well worth seeing.
 
-Its a clip from a recording session of the film music to the movie
-Hellboy. And the sounds these dudes produces are just ... well scary.
+Its a clip from a recording session of the film music to the movie Hellboy. And the sounds these dudes produces are just ... well scary.
 
-For any non-brass players I can tell you that to produce one of those
-"bursts" is hard. Really hard. To do 15 or so in a row is just
-amazing.
+For any non-brass players I can tell you that to produce one of those "bursts" is hard. Really hard. To do 15 or so in a row is just amazing.
 
-And now for something completely different. The best trombone player
-(not counting the bass trombone dudes above) in my opinion is Håkan
-Björkman. Here is a clip of him doing a cadenza of the Leopold Mozart's
-Alto-trombone concerto. Very different - but still amazing.
+And now for something completely different. The best trombone player (not counting the bass trombone dudes above) in my opinion is Håkan Björkman. Here is a clip of him doing a cadenza of the Leopold Mozart's Alto-trombone concerto. Very different - but still amazing.
 
-Yeah - this is also something that shouldn't be possible to accomplish.
-I have heared it live at the Stockholm Opera once.
+Yeah - this is also something that shouldn't be possible to accomplish. I have heard it live at the Stockholm Opera once.

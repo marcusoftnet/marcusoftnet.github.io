@@ -34,7 +34,7 @@ From [http://loubega33.wordpress.com/](http://loubega33.wordpress.com/)
 
 After stating a few of those I often feel a bit stress and short of breath myself. Sometimes I stop and think, right in the middle of presentations sometimes; is this really correct? Should I come out like the guy talking about faster, faster, faster? Isn't this exactly what the Ford-dudes talked about in the early years of this century?
 
-All of this is summed up with an excellent question, from my colleague and friend [@anderslowenborg](https://twitter.com/anderslowenborg):
+All of this is summed up with an excellent question, from my colleague and friend [Anders Löwenborg](https://twitter.com/anderslowenborg):
 
 ### Why does it have to go so fast all the time?
 

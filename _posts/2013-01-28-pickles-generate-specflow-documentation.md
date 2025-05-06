@@ -29,7 +29,7 @@ There are other tools like this such as [Relish](https://www.relishapp.com/) and
 
 [Pickles supports 4 formats](https://github.com/picklesdoc/pickles/wiki/ArgumentsDocumentationFormat) (HTML, Word, DITA, and JSON) with HTML being the most common one and also the default value for the runners. I should tell you that a new version of the HTML site is on the way. The one that's generated now is static and doesn't allow search and stuff. The JSON format (one of my small contributions) was thought of as being the foundation for a JavaScript-based site. The new HTML site looks a lot like what we dreamt of then. It will be great!
 
-The simplest way to get hold of Pickles is from [NuGet](http://nuget.org/packages/pickles). This will download all the runners (MSBuild, PowerShell, Nant, and Console) and, in fact, allow you to run Pickles directly from the NuGet console (package manager I think it's called).
+The simplest way to get hold of Pickles is from [NuGet](http://nuget.org/packages/pickles). This will download all the runners (MSBuild, PowerShell, NAnt, and Console) and, in fact, allow you to run Pickles directly from the NuGet console (package manager I think it's called).
 
 This can be a good start but pretty soon you'll need to start using this in a build script. To be able to demo that easily I've created a little bundle with all the [Pickles files in one zip](https://dl.dropbox.com/u/2408484/picklesLab.zip).
 
@@ -117,7 +117,7 @@ Let's go through that one line by line too. You'll recognize the parameter names
 
 ### Summary
 
-There we go - a helper for you to call Pickles from MSBuild and PowerShell. Remember that you can call it from [Nant and as a console application](https://github.com/picklesdoc/pickles/wiki) too. It works much the same and is easy to figure out how to get to work from these samples.
+There we go - a helper for you to call Pickles from MSBuild and PowerShell. Remember that you can call it from [NAnt and as a console application](https://github.com/picklesdoc/pickles/wiki) too. It works much the same and is easy to figure out how to get to work from these samples.
 
 Pickles will greatly enhance how the non-developers on your team can read and access the specification. You want them to read, comment, and be a part of daily work with the specs. Don't let developer-centric tools stop you from doing that.
 

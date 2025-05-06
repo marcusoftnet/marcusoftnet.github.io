@@ -18,7 +18,7 @@ blogger_orig_url: https://www.marcusoft.net/2013/01/NancyTesting1.html
 
 For quite some time, I've been a fan and proponent of a .NET web framework called [Nancy](http://www.nancyfx.org/). She describes herself as a "a lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono," and she looks like the picture on the side.
 
-There's much to admire about Nancy (a working web app in a tweet is really cool) and the code and features are pure quality from start to finish, much to the work that [@theCodeJunkie](http://thecodejunkie/) (Andreas Håkansson) and [@grumpydev](https://twitter.com/Grumpydev) (Steven Robbins) is putting in, with the help of a growing and engaged community.
+There's much to admire about Nancy (a working web app in a tweet is really cool) and the code and features are pure quality from start to finish, much to the work that [@theCodeJunkie](http://thecodejunkie/) (Andreas Håkansson) and [Grumpy Dev](https://twitter.com/Grumpydev) (Steven Robbins) is putting in, with the help of a growing and engaged community.
 
 The thing that really blew me away when I first saw it was the testing abilities of Nancy. She's built for testing from the word Go, and that gives us some nice features to play with.
 

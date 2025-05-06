@@ -31,7 +31,7 @@ In the excellent [Specification by example book](http://manning.com/adzic/), [Go
 
 It’s not every possible way that the user story can be played out… It’s key examples to help us collaboratively understand the story better.
 
-So back to Hugos questions; should I add scenarios for bugs under the specification? No probably not – is my answer. The specification will, over time, be cluttered with a lot of scenarios and the nice idea of a user story with examples that gives clarifying examples is lost.
+So back to Hugo's questions; should I add scenarios for bugs under the specification? No probably not – is my answer. The specification will, over time, be cluttered with a lot of scenarios and the nice idea of a user story with examples that gives clarifying examples is lost.
 
 ### So no bug scenarios then?
 

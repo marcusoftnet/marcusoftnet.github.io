@@ -48,7 +48,7 @@ Okay, okay … I’m getting lost here. But I think the Shu Ha Ri model explains
 
 Our industry loves and craves tools, guidelines, and best practices. We long for a short, sweet description that says, “Do this, and your software development project will succeed.” A [silver bullet](http://en.wikipedia.org/wiki/Silver_bullet) – even though [Brooks’ 1986 paper](http://en.wikipedia.org/wiki/No_Silver_Bullet) told us no such thing exists.
 
-We know this, don’t we? We’re just hoping… Oh, we hope sooo much. Like people still searching for a diet (only bananas, low carb high fat, pills, TV-shop), when we know that the answer is to eat less and work out more. It works every time. But we’re still hoping – maybe this blue pill will do the trick.
+We know this, don’t we? We’re just hoping… Oh, we hope soo much. Like people still searching for a diet (only bananas, low carbon-high fat, pills, TV-shop), when we know that the answer is to eat less and work out more. It works every time. But we’re still hoping – maybe this blue pill will do the trick.
 
 This longing for a quick fix explains the failure of many software methodologies and processes. For instance, [RUP](http://en.wikipedia.org/wiki/IBM_Rational_Unified_Process) was not intended to be used as many people used it. Nothing in RUP said to have year-long iterations. It explicitly mentioned that documentation templates were just that – templates to be modified. Yet we used all of them and all the headings, just to be sure.
 

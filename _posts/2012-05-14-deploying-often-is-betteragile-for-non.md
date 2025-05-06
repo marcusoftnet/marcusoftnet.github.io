@@ -50,7 +50,7 @@ I used this insight to explain to the insurance company how deploying frequently
 
 Their reaction?
 
-> "Aaaah – their production environment was never stable, then."
+> "Aha – their production environment was never stable, then."
 
 While it’s true that the online poker site's environment wasn’t perfectly stable, their goal was to deliver working software consistently, not to achieve absolute stability. The key takeaway is that frequent deployments can lead to a more agile, responsive development process.
 

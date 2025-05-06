@@ -31,7 +31,7 @@ We often talk about trust in agile contexts and it is important. It's even one o
 
 But it also mean that we foster a culture of team work and autonomy, in the sense that the team take responsibility for their own work.
 
-In order to get there the organization needs to trust the individuals to do their best. The individual in turn need to trust not only the other members of the team but also the rest of the organization to do their part, not backstab each other and to put the common good before themselves.
+In order to get there the organization needs to trust the individuals to do their best. The individual in turn need to trust not only the other members of the team but also the rest of the organization to do their part, not back-stab each other and to put the common good before themselves.
 
 There's a lot of trust involved in order for this to click.
 

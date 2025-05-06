@@ -20,7 +20,7 @@ Since the first time I learned [TDD](http://en.wikipedia.org/wiki/Test-driven_de
 
 I got the opportunity to record the whole session and you can watch it here (beware it's long!):
 
-[Watch the recording](#)
+[Watch the recording](https://www.youtube.com/watch?v=Ont8keNr08Y)
 
 The [code can be found here](https://github.com/marcusoftnet/TDDForKids.git).
 
@@ -28,9 +28,9 @@ The things that we discussed during the session were, as I said, both interestin
 
 - An early question in the open question section: What computer do you prefer to code on?
   - Me: Mac.
-  - They: YAAAAAH!
+  - They: YES!
   - Me: ???
-  - **Takeaway:** Ehhh - well Apple market is strong with these ones...
+  - **Takeaway:** Eeeh - well Apple market is strong with these ones...
 - After the first two tests, a guy called out that the code was duplicated and demanded we did something about that. Impressive indeed. I introduced [Refactoring](http://en.wikipedia.org/wiki/Code_refactoring) as a concept and moved some code to a separate method. They all agreed that it was a great idea.
   - **Takeaway:** Remove duplication - that's a great start on your journey to [clean code](http://www.cleancoders.com/).
 - Tristessa, their teacher, asked them to reflect where this would fit in a manufacturing cycle this would fit (Design, Develop, Test, etc). From that discussion they, pretty much on their own, figured out that tests like these would actually make up the specification.

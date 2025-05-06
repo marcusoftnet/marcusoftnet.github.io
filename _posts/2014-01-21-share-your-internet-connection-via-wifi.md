@@ -8,7 +8,6 @@ tags:
   - Tools
   - Life of a consultant
 modified_time: 2014-10-05T12:18:39.121Z
-thumbnail: /img/network+configuration+for+wifi+hotspot.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-70385268225734244
 blogger_orig_url: https://www.marcusoft.net/2014/01/share-your-internet-connection-via-wifi.html
 ---
@@ -59,6 +58,7 @@ The gotcha here was that the first time I did this, the internet access didn't s
 ### Troubleshooting
 
 Thanks to [Shirai](https://disqus.com/home/user/disqus_8bpw1NO5Db) for this tip: if your laptop cannot create the hotspot:
+
 - Open Network and Sharing Center.
 - Change Adapter Settings.
 - Right-click on your WiFi Adapter.

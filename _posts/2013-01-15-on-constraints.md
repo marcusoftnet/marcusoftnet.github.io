@@ -28,9 +28,9 @@ They had to **change** the way they worked in order to be able to flow value thi
 
 Toyota could also have resigned from the fact that they couldn't do that. But they didn't. No instead they went: "So... no warehouse, he says. Well, that means that we have to change how we do stuff around here to accommodate for that little fact..."
 
-### Agile Rollouts
+### Agile roll-outs
 
-I dread the "rollout" in the heading above and also the effect it will have on any agilistas out there. But I have been involved in quite a few "rollouts" in my career. That is: implement agile in an organization.
+I dread the "rollout" in the heading above and also the effect it will have on any agilistas out there. But I have been involved in quite a few "roll-outs" in my career. That is: implement agile in an organization.
 
 They seldom work. Why? There's no big constraint forcing the organization to move. I wrote about this before and called the [constraint a "or else"-reason](https://www.marcusoft.net/2012/10/agilechangetop51.html).
 
@@ -61,7 +61,7 @@ It all started with the self-imposed constraint of immutability. In order to cop
 
 When I went to university, we had a course in object oriented programming. It was basically a 4 week hand-in programming task: we were to create a game and got the requirements the first day. As we went out of the room, where the professor gave us the requirements he called out: "Oh that's right. I almost forgot: I will be changing some foundational part of the requirement after 2 weeks. Now go."
 
-So we now had a **constraint:** we knew that something was about to change, but now what. We had to handle that constraint in some way. Every line of code we wrote was scrutinized and challenged for replaceability (which is the [trademark of good agile architectures](http://video.javazone.no/talk/49367318) by the way).
+So we now had a **constraint:** we knew that something was about to change, but now what. We had to handle that constraint in some way. Every line of code we wrote was scrutinized and challenged for replace-ability (which is the [trademark of good agile architectures](http://video.javazone.no/talk/49367318) by the way).
 
 ### Time boxes and WIP Limits
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lean UX with effect map - from HeltSonika
+title: Lean UX with effect map - from Helt Sonika
 date: 2013-06-17T19:51:00.004Z
 author: Marcus Hammarberg
 tags:
@@ -111,7 +111,7 @@ There! Now we have summed up this project's core as a hypothesis. The hypothesis
 
 In the last step, we define the MVP (or the experiment) itself, in order to start building. This can be done in different ways and in levels. The question is what is the smallest thing we can build to validate the hypothesis? In the example with the DIY-service, we can imagine a lot of different experiments. We would build an old-fashioned interactive prototype that we test on the target audience, but that doesn't deliver business value in a continuous fashion. The question, also, is if that really would be enough to validate the hypothesis? Let's instead go for implementing a first version of the service that lets amateurs pay for graphical descriptions for home fixing.
 
-How to define the MVP is contextual. I like to start off from a number of scenarios that the service will support (step-by-step: how would the DIY'er get to the instruction?), draw wireframes on how the service would work based on those. Jeff Patton's story maps is an excellent way to interconnect the user scenarios with User stories and prioritize among those. Here are some example scenarios:
+How to define the MVP is contextual. I like to start off from a number of scenarios that the service will support (step-by-step: how would the DIY'er get to the instruction?), draw wireframe on how the service would work based on those. Jeff Patton's story maps is an excellent way to interconnect the user scenarios with User stories and prioritize among those. Here are some example scenarios:
 
 - The DIY'er downloads and pays for the DIY'er application.
 - The next thing the DIY'er is about to install is a newly bought washing machine.

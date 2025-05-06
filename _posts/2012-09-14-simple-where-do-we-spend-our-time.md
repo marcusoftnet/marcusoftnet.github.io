@@ -8,7 +8,6 @@ tags:
   - Kanban
   - Agile
 modified_time: 2012-10-05T08:31:36.272Z
-thumbnail: /img/work+item+types.JPG
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5159452538413844762
 blogger_orig_url: https://www.marcusoft.net/2012/09/simple-where-do-we-spend-our-time.html
 ---
@@ -46,7 +45,7 @@ See right there? That's what I mean; But who do we KNOW that guys? Let's gather 
 
 ### The solution - simple and lightweight
 
-This team is really working me hard. Every suggestion I come up with is met with healthy amounts of scepsis and their asking me for good motivations all the time. Thanks team.
+This team is really working me hard. Every suggestion I come up with is met with healthy amounts of skepsis and their asking me for good motivations all the time. Thanks team.
 
 So we agreed that we wanted something really lightweight but also really enough that it gave us real data to work from. We devised two visualizations that helped us with this:
 
@@ -62,11 +61,11 @@ To follow up we did a small board on the side (with a HORRIBLE background color,
 
 ![time spent tracker](/img/time+spent+tracker.JPG)
 
-Yes, we're tracking days that was mostly spent in meetings too, on the yellow stickies (some people have a hard time making out the color, hence the Swedish word for yellow, GUL, written on them). Somedays are swallowed up in meetings, which you can see.
+Yes, we're tracking days that was mostly spent in meetings too, on the yellow stickies (some people have a hard time making out the color, hence the Swedish word for yellow, GUL, written on them). Some days are swallowed up in meetings, which you can see.
 
 **UPDATE:** We started to track the trends updating them weekly. Here is how it's spread for the first couple of weeks:
 
-![bild](</img/bild+(2).JPG>)
+![Picture](</img/bild+(2).JPG>)
 
 It's a rolling buffer just showing the last week. We take photos of it a little now and then to get an overview. So here you can see that during the last week the distribution was a bit different than before.
 

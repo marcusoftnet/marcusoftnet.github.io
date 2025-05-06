@@ -43,7 +43,7 @@ Scenario: Subtracting two numbers
 
 “That was a lot of new step definitions… and very similar to the ones we have. I’ll just implement these as they stand.” Marcus right-clicks the scenario and chooses "Generate Step Definitions." This opens the following dialog box:
 
-![Screen Shot 2012-08-09 at 20.53.30](/img/Screen%252520Shot%2525202012-08-09%252520at%25252020.53.30_thumb%25255B1%25255D.png)
+![Screen Shot 1](/img/Screen%252520Shot%2525202012-08-09%252520at%25252020.53.30_thumb%25255B1%25255D.png)
 
 Marcus opts for Pascal-cased methods without regular expressions…  “Just as I started to pick that up…” he thinks but is also happy that the option exists.
 
@@ -53,7 +53,7 @@ The implementation of the step definitions and the subsequent production code go
 
 Looking back over his work, one final thing strikes him… “Look, all the variables are *italics* and grey, nice! Huh – haven’t seen that before.”
 
-![Screen Shot 2012-08-09 at 21.07.17](/img/Screen%252520Shot%2525202012-08-09%252520at%25252021.07.17_thumb.png?imgmax=800)
+![Screen Shot 2](/img/Screen%252520Shot%2525202012-08-09%252520at%25252021.07.17_thumb.png?imgmax=800)
 
 “I’m sure happy that I have such a great tool to help me out. It makes my work both easy and fun.”
 

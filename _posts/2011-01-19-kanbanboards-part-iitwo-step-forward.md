@@ -54,7 +54,7 @@ So I created a Steps folder and added the suggested code to a HomeSteps class. I
 
 My plan is to not go against the GUI this time. Partly because the outside-in experience is a bit clearer when you skip the GUI, but also since I’ve already demonstrated that in [another blog post](www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html).
 
-### Specing out the first step
+### Spec-ing out the first step
 
 OK – the first steps say that some “Kanbanboards” are needed. So the first order of business is to create them. I’ll use the Assist-namespace of SpecFlow to get help to turn the [SpecFlow Table into a list of objects](http://www.youtube.com/watch?v=Dsk0EE43Tg4). This led me to specify the initial layout of the Domain object KanbanBoard.
 
@@ -66,7 +66,7 @@ And for those wondering I moved the KanbanBoard class into the model directory o
 
 ### Strategy thinking
 
-But that doesn’t really cut it. We need to stick them somewhere. Later on we want to pull these from a repository, right? Right! The background step sets up 4 Kanban boards but in the Then-step only the top 3 favorited should be returned as “Top Kanban boards”. Hmm – so we need to stick a fake database into the repository in order to mock it out.
+But that doesn’t really cut it. We need to stick them somewhere. Later on we want to pull these from a repository, right? Right! The background step sets up 4 Kanban boards but in the Then-step only the top 3 favorite should be returned as “Top Kanban boards”. Hmm – so we need to stick a fake database into the repository in order to mock it out.
 
 Here’s my plan; I was thinking on using [EF Code First](http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx) which defines the database context as a class inheriting from DbContext and exposing DbSet’s to write queries against. So maybe that DbContext could be a dependency to my repository and I can mock it when doing unit tests.
 
@@ -150,7 +150,7 @@ OK – that in turn led me to a lot of refactorings:
 
 There – now I can update the Given-step from way back to hold a mocked repository that returns the given KanbanBoards. Here is the implementation:
 
-![given with mocked dbcontext](/img/given%2520with%2520mocked%2520dbcontext_thumb.jpg)
+![given with mocked dbContext](/img/given%2520with%2520mocked%2520dbcontext_thumb.jpg)
 
 Nice! The background step is now Green and refactored properly. Now we can get on with the next steps.
 
@@ -162,7 +162,7 @@ Here is the When step definition I wrote:
 
 ![when implementation](/img/when%2520implementation_thumb.jpg)
 
-Aaaand it was around this time that I realized that I was going about this the wrong way.
+And it was around this time that I realized that I was going about this the wrong way.
 
 ### Step back, breathe, and reconsider
 
@@ -192,7 +192,7 @@ Let me just add that for the Then-part there is an excellent [table Comparison h
 
 Finally, the Index-method and constructor of the Kanban controller now look like this.
 
-![kanbancontroller](/img/kanbancontroller_thumb.jpg)
+![kanban controller](/img/kanbancontroller_thumb.jpg)
 
 ### Reflection
 

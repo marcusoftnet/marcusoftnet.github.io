@@ -19,7 +19,7 @@ But lately I've come across a situation that have got me to think about the othe
 
 If you read my blog before you know I'm a sucker for stories and let me illustrate my point with two stories.
 
-### Only workshopping
+### Only workshop-ing
 
 ![Image](http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg?w=122&amp;h=150)
 
@@ -45,7 +45,7 @@ One day a tester came over to me and said:
 
 > I love the pickles-site, it's so easy to read and search. But when I browsed through it I saw some cases that were missing and an error. Can I update those specifications through the Pickles-site?
 
-(No you can't. Pickles is a read-only-generated documentation, for a good reason. You want the text in the scenario to be tied with the version that implements them. Sidenote)
+(No you can't. Pickles is a read-only-generated documentation, for a good reason. You want the text in the scenario to be tied with the version that implements them.)
 
 Now... this was strange. How could it be errors in there? Well as it turns out the practices of writing and maintaining the automation of the specifications had been abandoned a year ago. It was too cumbersome and "took too much time". Besides "the automation was too brittle and was a hassle to maintain".
 

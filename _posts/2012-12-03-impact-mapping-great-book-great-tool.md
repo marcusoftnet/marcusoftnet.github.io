@@ -21,7 +21,7 @@ In this post, I'll write down some thoughts after reading the book from cover to
 
 ### What is it?
 
-Impact mapping is described to great effect at the official site; [www.impactmapping.org](http://www.impactmapping.org/). So here, I'll present my own journey up to Impact mapping. This is by no means the journey everyone has done but it helps me to place it in the right place.
+Impact mapping is described to great effect at the official site; [www.impactMapping.org](http://www.impactmapping.org/). So here, I'll present my own journey up to Impact mapping. This is by no means the journey everyone has done but it helps me to place it in the right place.
 
 I started my agile journey doing [TDD](http://en.wikipedia.org/wiki/Test-driven_development). That was a great improvement for the quality and stability of my code but pretty soon I found myself asking; so what happens before this? How do I know where to begin? Or stop for that matter? Am I even doing the right thing?
 

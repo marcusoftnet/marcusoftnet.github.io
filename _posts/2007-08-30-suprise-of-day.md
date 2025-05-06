@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suprise of the day?
+title: Surprise of the day?
 date: 2007-08-30T15:14:00.000Z
 author: Marcus Hammarberg
 tags:

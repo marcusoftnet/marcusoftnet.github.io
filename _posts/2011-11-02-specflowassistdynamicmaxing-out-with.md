@@ -23,15 +23,14 @@ This is the third and final post on SpecFlow.Assist.Dynamic. Again this is not t
 
 ### SpecFlow and Simple.Data
 
-First you should check out Darren Cauthons <a href="http://darrencauthon.posterous.com/61641417"
+First you should check out Darren Cauthon's <a href="http://darrencauthon.posterous.com/61641417"
 target="_blank">post</a> on using SpecFlow and simple data together. It shows the great use of a lightweight, simple data access framework in SpecFlow.
 
 As I said in my earlier post test data management is something that you often have to handle in your scenarios. `Simple.Data` is more than up to the job.
 
 ### SpecFlow.Assist.Dynamic and Simple.Data
 
-So I thought I’ll take Darrens example from the post and rewrite it
-using SpecFlow.Assist.Dynamic.
+So I thought I’ll take Darren's example from the post and rewrite it using SpecFlow.Assist.Dynamic.
 
 Here is the feature Darren is using, updated to be a bit more readable for a non-technical person (spaces in headers):
 

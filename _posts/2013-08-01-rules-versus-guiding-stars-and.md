@@ -25,7 +25,7 @@ In this post, I'll examine that a bit closer and see if that mentality has room 
 Mr. Lagerbäck has a great point here in my opinion. If you lead with rules and regulations, you must have some sort of consequence for not following those rules; otherwise, the rules have no meaning. Mr. Lagerbäck mentioned that in his radio program, recalling an episode from a 2006 training camp:
 
 > One of the few rules that the Swedish National team has is that you should be at the hotel by 11:00 PM the day before a game. A reasonable rule, I think. However, in 2006, three of the biggest stars of the team (Zlatan Ibrahimovic, Olof Mellberg, and Christian Wilhelmsson) stayed out later than that.
-
+>
 > A rule was broken, and now the consequences had to be met. There was not much to talk about really since the rule was clear: the three players were sent home. One of the hardest decisions in Lars Lagerbäck's career.
 
 What if this had not been a rule, but rather a guiding star like: "in order to be in the best possible shape for the games we play, we strive to be in bed at a reasonable hour the day before the game." The player would still have gone out, and that would have been bad, but the discussions that followed would have been much easier to hold, interesting, and most importantly, consequences were not on the table.

@@ -87,4 +87,4 @@ These policies were probably implicit. Or they might have been written on the wa
 
 ### Conclusion
 
-What are you optimizing for? Do you know your team's prioritizations? Do you know when to break them? Do you know why? Can you make these policies more explicit to help your team?
+What are you optimizing for? Do you know your team's prioritization? Do you know when to break them? Do you know why? Can you make these policies more explicit to help your team?

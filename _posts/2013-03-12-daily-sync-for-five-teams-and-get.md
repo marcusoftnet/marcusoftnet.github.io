@@ -8,7 +8,6 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2013-03-12T08:00:05.592Z
-thumbnail: /img/Screen+Shot+2013-03-11+at+15.46.00+.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2889868856905036157
 blogger_orig_url: https://www.marcusoft.net/2013/03/daily-sync-for-five-teams-and-get.html
 ---

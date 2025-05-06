@@ -10,7 +10,6 @@ tags:
   - Agile
   - ContinuousDelivery
 modified_time: 2013-05-24T13:24:02.770Z
-thumbnail: /img/4137841698_44ee6db32c_m.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
 blogger_orig_url: https://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html
 ---
@@ -47,7 +46,7 @@ If only two people of the mob come in one day, and they are both developers, wil
 
 "Why?" you ask. Well, because they care about the product. Or at least they should care about the product. That's why they show up to the mob each day, right? Building this awesome thing that eventually will change the world.
 
-The only downside is that you cannot tell someone to care. "Now you listen to me; care about this timesheet software. Do it. Now!" It simply doesn't work that way.
+The only downside is that you cannot tell someone to care. "Now you listen to me; care about this time-sheet software. Do it. Now!" It simply doesn't work that way.
 
 Interestingly enough, it's much easier to say: "Make sure that the database is up to date", "You're in charge of quality for this product", "When something enters this area of the table you shall move it over there. As fast as possible".
 

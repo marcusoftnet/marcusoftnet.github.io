@@ -53,4 +53,4 @@ Here's a short excerpt from the introduction:
 
 ### How are you going to do it?
 
-We're going try an open process to how to write this book by documenting the patterns on a blog ([www.kanbaninactionbook.com](http://www.kanbaninactionbook.com/)) as we write them. We hope to get feedback and suggestions for alterations and that new patterns
+We're going try an open process to how to write this book by documenting the patterns on a blog ([Kanban In Action](http://www.kanbaninactionbook.com/)) as we write them. We hope to get feedback and suggestions for alterations and that new patterns

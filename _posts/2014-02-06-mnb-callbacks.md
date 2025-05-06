@@ -34,15 +34,23 @@ Callbacks are pretty easy on the concept level; a function does something and th
 ```javascript
 function doSomething(p, callback) {
     // .. do stuff
-    callback();
+    callback("Done");
 }
+```
+
+Calling this function will look something like this:
+
+```javascript
+doSomething(123, function (res) {
+  console.log(res);
+});
 ```
 
 Quite simply (eh ... not really the first time I saw this but anyway) `doSomething` will execute using `123` as the `p` parameter. It will finally call the callback function and hence execute my little anonymous function that does the `console.log`.
 
 It took some time to wrap my head around this. And Yes, I know that promises are the new kid on the block, but I haven't come there yet.
 
-The first time it really clicked for me was actually when I started to write my code in another way. It was since I messed up the parentheses, curlys, and semicolons a lot. So I write (most often) my function calls in this sequence, which helped me realize that the function is just another parameter. It also saved me from a lot of [JSLint](http://www.jslint.com/) errors.
+The first time it really clicked for me was actually when I started to write my code in another way. It was since I messed up the parentheses, curly braces, and semicolons a lot. So I write (most often) my function calls in this sequence, which helped me realize that the function is just another parameter. It also saved me from a lot of [JSLint](http://www.jslint.com/) errors.
 
 After a while, this way of writing will get boring and tedious so I will stop. Right now it helps me understand the structure so I'll keep doing this.
 

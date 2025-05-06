@@ -28,7 +28,7 @@ With the power of [NuGet](http://www.nuget.org/), it’s super-easy to install S
 Install-Package SpecFlow.Assist.Dynamic
 ```
 
-(Sidenote: Ha! It’s good to try out your own stuff. I found a bug in version 0.2 on NuGet and fixed it with version 0.2.1.)
+(Side note: Ha! It’s good to try out your own stuff. I found a bug in version 0.2 on NuGet and fixed it with version 0.2.1.)
 
 This command will also pull down the latest version of [SpecFlow](http://www.specflow.org) and other dependencies needed.
 
@@ -53,7 +53,7 @@ For example, for this Given step:
 Scenario: Searching for books
     Given the following books in the system
         | Title         | Author            | ISBN       |
-        | The Goal      | Eliah Goldratt    | 123345678  |
+        | The Goal      | Elijah Goldratt    | 123345678  |
         | Stick         | Ted and Dan Heath | 9955663322 |
         | The Good book | God et. al        | 1          |
 ```
@@ -140,13 +140,13 @@ If we expand my example into a fully-fledged feature, we get this:
 Scenario: Searching for books
     Given the following books in the system
         | Title         | Author            | ISBN Number |
-        | The Goal      | Eliah Goldratt    | 123345678   |
+        | The Goal      | Elijah Goldratt    | 123345678   |
         | Stick         | Ted and Dan Heath | 9955663322  |
         | The Good book | God et. al        | 1           |
     When I search for Titles containing 'Goal'
     Then the results should show the following books
         | Title         | Author            | ISBN Number |
-        | The Goal      | Eliah Goldratt    | 123345678   |
+        | The Goal      | Elijah Goldratt    | 123345678   |
 ```
 
 You can write the following steps:
@@ -199,7 +199,4 @@ I have shown you how I use these helpers. Please note that they are inspired by 
 
 I hope you find this helpful. Please let me know if I can improve.
 
-In the [next post](https://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html), I’ll show a final thing that marries this with [Simple.Data](<https://github.com/markrendle/S>
-
-imple.Data). See you then.
-```
+In the [next post](https://www.marcusoft.net/2011/11/specflowassistdynamicmaxing-out-with.html), I’ll show a final thing that marries this with [Simple.Data](https://github.com/markrendle/Simple.Data). See you then.

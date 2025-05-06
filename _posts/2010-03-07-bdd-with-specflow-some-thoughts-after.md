@@ -18,7 +18,7 @@ I wanted to take some time to put down my thoughts and findings about the framew
 
 #### BDD – behavior driven design
 
-I don’t want to go into [explaining BDD](http://dannorth.net/introducing-bdd) since it's been done [several](http://blog.wekeroad.com/2009/09/21/make-bdd-your-bff-2) [times before](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/) (I can really recommend the last Steven Sanderson post – excellent!) in a much better ways than I could ever do. Go on and read them if you want – I’ll wait right here.
+I don’t want to go into [explaining BDD](http://dannorth.net/introducing-bdd) since it's been done [several](http://blog.wekeroad.com/2009/09/21/make-bdd-your-bff-2) [times before](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/) (I can really recommend the last Steven Sandersson post – excellent!) in a much better ways than I could ever do. Go on and read them if you want – I’ll wait right here.
 
 But I can share some aha-moments and experiences that has surfaced for me when preparing and doing the workshop.
 
@@ -40,7 +40,7 @@ Starting from the acceptance criteria's or scenarios I was amazed how a design w
 
 [SpecFlow is supporting Gherkin 100 %](http://www.specflow.org/specflow/feature-syntax.aspx). [Gherkin](http://wiki.github.com/aslakhellesoy/cucumber/gherkin) is the language that is used in the Ruby BDD framework [Cucumber](http://cukes.info/). And SpecFlow is a great way to use standard Cucumber/Gherkin BDD-style on the .NET platform. That mean that you can read and understand any Cucumber literature be if for the Ruby, Java or the .NET platform.
 
-Gherkin is a DSL (Domain Specfic Language) for writing user stories and scenarios, with the well know trio of: [Given/When/Then](http://wiki.github.com/aslakhellesoy/cucumber/given-when-then). And as it is a formal language it has it’s own best practices and trick that you’ll need to pick up before being productive. Here is a great article series that take you from basic to advanced:
+Gherkin is a DSL (Domain Specific Language) for writing user stories and scenarios, with the well know trio of: [Given/When/Then](http://wiki.github.com/aslakhellesoy/cucumber/given-when-then). And as it is a formal language it has it’s own best practices and trick that you’ll need to pick up before being productive. Here is a great article series that take you from basic to advanced:
 
 - [Basic syntax and usage](http://www.engineyard.com/blog/2009/cucumber-introduction/)
 - [A bit more advanced features](http://www.engineyard.com/blog/2009/cucumber-more-advanced/)

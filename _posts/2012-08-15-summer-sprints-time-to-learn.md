@@ -36,7 +36,7 @@ The first, obvious question, was how long the sprints people had during the summ
 I like this approach because of the flexibility - but it has some problems to it.
 
 - Who decides? The big problem with an extended period of time of people being away is that you don't have the "right" people to ask questions. If you're stuck - you are really stuck. So you need to be careful what to pick. Picking the wrong stories leads to a lot of stories being "almost done" - an agilist's worst nightmare.
-- Sooo ... what can WE do? You may find yourself in a situation where it's just 2 database guys at the office on a week. And the top 10 priority stories have to do with front-end stuff. This can either be solved by dodging the things you cannot do (breaking the priority order) or start learning (yes, even though it goes slower).
+- Soo ... what can WE do? You may find yourself in a situation where it's just 2 database guys at the office on a week. And the top 10 priority stories have to do with front-end stuff. This can either be solved by dodging the things you cannot do (breaking the priority order) or start learning (yes, even though it goes slower).
 
 **What vacation? We run as normal here.** Some teams just adjust to the fact that they are fewer people and run as normal with 3-4 week sprints. That's perfectly fine but has some intrinsic problems to it. People we need to ask are not present. When we get blocked it's hard to unblock since the needed people are not present. Also planning and acceptance are subject to problems due to people being absent.
 

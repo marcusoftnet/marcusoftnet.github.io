@@ -46,7 +46,7 @@ There’s  more to tell and subtleties to mob programming but that’s better to
 
 At this point you probably have a lot of questions and some of you, like I did the first time I learned about it, grew angry and said: that’s simply not [efficient](http://www.dailyblogtips.com/effective-vs-efficient-difference/)!
 
-Let’s answer that argument in two steps. Not it’s not efficient… if you’re into the business of having maximzing the number of keystrokes per developer. But if you’re into delivering fully working features with the shortest possible lead time, well then there’s actually no quicker way.
+Let’s answer that argument in two steps. Not it’s not efficient… if you’re into the business of having maximizing the number of keystrokes per developer. But if you’re into delivering fully working features with the shortest possible lead time, well then there’s actually no quicker way.
 
 ### Lead times
 

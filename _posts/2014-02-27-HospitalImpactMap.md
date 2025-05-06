@@ -89,7 +89,7 @@ Yeah, it was a bit messy. And I've had this experience quite often when I create
 - Remember when you start to draw that it will be big and detailed in the end
 - Move the What's to a separate paper or board when you start to talk about it.
 - When you document it. Use something simple, like a phone (these photos are taken with my iPhone 5) and take both overview and detailed pictures.
-- Although there are awesome tools out there (looking at you [MindMup](http://www.mindmup.com/)) there's really nothing beating standing together in front of a whiteboard. The tactileness and directness is something else. I, for one, like it more.
+- Although there are awesome tools out there (looking at you [MindMup](http://www.mindmup.com/)) there's really nothing beating standing together in front of a whiteboard. The tacitness and directness is something else. I, for one, like it more.
 - That said: do consider moving to a tool after the initial workshop. As documentation for example. Search, navigation, and a lot of other features are very helpful to find stuff in your model.
 
 ![Details](/img/bungsu_impactmap_2.jpg)

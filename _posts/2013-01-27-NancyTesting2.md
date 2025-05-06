@@ -41,7 +41,7 @@ Or ... it can be a lambda. Like this:
 
 Pardon the funky formatting, but I think that requires some explanation.
 
-- On line 3 we're using a variable called "with". Hovering over that parameter we see that it's of (hold on to your hat...): ConfigurableBootstrapper.ConfigurableBoostrapperConfigurator. It's a class that implements the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern), which makes it excellent to use for building the executing context of our testing browser.
+- On line 3 we're using a variable called "with". Hovering over that parameter we see that it's of (hold on to your hat...): ConfigurableBootstrapper.ConfigurableBootstrapperConfigurator. It's a class that implements the [builder pattern](http://en.wikipedia.org/wiki/Builder_pattern), which makes it excellent to use for building the executing context of our testing browser.
 - On line 4 we are then using the Configurator to tell the browser to just load the module called ConfigBootTestModule
 
 It takes some getting used to but my suspicion is that users of Nancy already use lambdas quite a lot and it doesn't scare them. The whole routing feature is built around lambdas, for example.
@@ -63,12 +63,12 @@ Go to the repository to see other [ways to call Module(s)](https://github.com/ma
 
 ### Dependencies
 
-The next thing that I think most people would want to use is the Dependecy and Dependecies methods. With these, you can supply fake implementations for any Dependency that a Module has. Yes - without flexing any IoC container (other than [TinyIoC](https://github.com/grumpydev/TinyIoC) that's built into Nancy and that you almost cannot see).
+The next thing that I think most people would want to use is the Dependency and Dependencies methods. With these, you can supply fake implementations for any Dependency that a Module has. Yes - without flexing any IoC container (other than [TinyIoC](https://github.com/grumpydev/TinyIoC) that's built into Nancy and that you almost cannot see).
 Let's see the Dependency-method in action:
 As you can see it's merely a question of supplying the class as a type parameter, but there are a number of ways to call the Dependency method. [Look here](https://github.com/marcusoftnet/DiscoveringNancyThroughTests/blob/master/DiscoverNancy.Tests/DiscoverNancy.Tests/ConfigurableBoostrapper_Dependency.cs) to see more of them in action.
 
 Finally, if your module has more than one dependency you can register them all at once with the Dependencies-method. With this method, you can supply more than one Dependency.
-This method also has a [lot of overloads, see here](https://github.com/marcusoftnet/DiscoveringNancyThroughTests/blob/master/DiscoverNancy.Tests/DiscoverNancy.Tests/ConfigurableBootstraper_Dependecies.cs). In one of them, me and [@grumpydev](http://twitter.com/grumpydev) found a bug here, where I plan to do my first contribution to the source of Nancy. I've annotated the source to show the workaround.
+This method also has a [lot of overloads, see here](https://github.com/marcusoftnet/DiscoveringNancyThroughTests/blob/master/DiscoverNancy.Tests/DiscoverNancy.Tests/ConfigurableBootstraper_Dependecies.cs). In one of them, me and [Grumpy Dev](http://twitter.com/grumpydev) found a bug here, where I plan to do my first contribution to the source of Nancy. I've annotated the source to show the workaround.
 
 ### AutoRegistration
 

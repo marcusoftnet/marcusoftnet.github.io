@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2012/05/agile-is-good-for-business-p
 
 This post need to start with an disclaimer;
 
-> I write this since I have run into several people to which these thoughts are new and confusing. If you are an agilista you will not find anything new or exciting here.
+> I write this since I have run into several people to which these thoughts are new and confusing. If you are an agilist you will not find anything new or exciting here.
 
 Really... there's nothing new to see here. Go away you scrum-lovers - this is not aiming for you.
 
@@ -23,7 +23,7 @@ I recently have introduced agile in a large company and tried to do it through t
 
 The fact that we still have to explain this to the business is troubling in itself but that a whole other story.
 
-In this post I'm going to take a look at timeboxing and why that actually not only is the best out of three bad choice but also can give you an advantage.
+In this post I'm going to take a look at time boxing and why that actually not only is the best out of three bad choice but also can give you an advantage.
 
 ### Time boxing
 

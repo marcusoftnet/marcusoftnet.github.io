@@ -16,7 +16,7 @@ This is the final post in my series on the problem that a lot of people sees mee
 
 In these blog posts ([I](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) and [II](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html)) I have applied [the Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to the problem on how to make meetings better and more interesting to attend.
 
-In the previous two posts we've talked about reasoning with the Rider (our logical side) and tried to get the Elephant (our lazy, subconsious part) over to our side. In this post we're trying to smooth the path that they are walking down to make the change journey even easier to take.
+In the previous two posts we've talked about reasoning with the Rider (our logical side) and tried to get the Elephant (our lazy, subconscious part) over to our side. In this post we're trying to smooth the path that they are walking down to make the change journey even easier to take.
 
 Let's go!
 
@@ -54,7 +54,7 @@ Another great tip here is to stand up for short meetings. Yes - I said; stand up
 
 Start tracking the quality of each meeting with a simple ROTI (Return On Time Invested)the way out of the room. Supply templates for doing so and post them on the doors for example. This will have a two-folded effect;
 
-1. You, as an organiser, will start to see trends and get some data to improve upon. If you collect them and analyze them you can start to see company trends
+1. You, as an organizer, will start to see trends and get some data to improve upon. If you collect them and analyze them you can start to see company trends
 2. Everybody knows that we will do a ROTI of the meeting quality after each meeting. This will put a little pressure on us to do a good meeting. Nothing to threaten people with but just making sure that we think.
 
 Try to find simple stuff that helps us getting into the motion of just

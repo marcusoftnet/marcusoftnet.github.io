@@ -7,7 +7,6 @@ tags:
   - Life of a consultant
   - Agile
 modified_time: 2012-09-24T09:05:51.476Z
-thumbnail: /img/elephant+and+rider.jpg
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5909486746489253527
 blogger_orig_url: https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html
 ---
@@ -42,13 +41,13 @@ This post talks about directing the rider - read on about [Motivating the elepha
 
 One very effective and simple way to get change is to follow the bright spots. What works? Who has got this down? Where is the best place to see the change implemented today?
 
-![The Baseball Travellers](/img/bowl-of-rice.jpg)
+![The Baseball Travelers](/img/bowl-of-rice.jpg)
 
 In the Switch book a story around this is about a doctor trying to help poor peasants to overcome starvation and save children that died from not having enough to eat. What he simply did was to see what the mothers did for the kids that actually survived - because those existed. They did simple things differently (for example feeding the kids 4 times a day instead of 2 (same amount of food in total) or adding other vegetables instead of rice every now and then).
 
 The guy trying to help them out simple pointed to this and thought this behavior to the other mother with a great effect as a result.
 
-In our case we could ask ourselves; which meetings are great? (yes, now you all sadly said NONE together but I don't think it's true), when was the last time you felt that you had attended a great meeting? What happend then?
+In our case we could ask ourselves; which meetings are great? (yes, now you all sadly said NONE together but I don't think it's true), when was the last time you felt that you had attended a great meeting? What happened then?
 
 For me personal it's quite simple things;
 
@@ -85,7 +84,7 @@ For simple rules I would go with for example these (some [ideas borrowed from he
 - Offer each other the **Focus** gift - when we're in this short meeting (it is short, right?) we are focused. Put away computers and phones on a table at the door. This will also send a signal about you being really serious about the focus.
 - Before you leave make sure that **Actions** are clear and with an owner and a due date.
 
-**UPDATE:** ~~Don't try to make an abbreviation of that ... I tried and dislocated my tongue trying to say it out loud...~~ Thanks to the excellent [@chibbeu (Christer Unestrand)](https://twitter.com/chibbeu) there's now an excellent abbreviation for this. FAT I/O - make sure that your meetings are using it! I'm here by claiming rights to that abbreviation FAT I/O (tm).
+**UPDATE:** ~~Don't try to make an abbreviation of that ... I tried and dislocated my tongue trying to say it out loud...~~ Thanks to the excellent [Christer Unestrand](https://twitter.com/chibbeu) there's now an excellent abbreviation for this. FAT I/O - make sure that your meetings are using it! I'm here by claiming rights to that abbreviation FAT I/O (tm).
 
 Seriously - try to have a few simple rules that everybody can follow. Post them everywhere. And teach them to everyone. So that people that are conducting bad meetings are reminded by the attendees on how to do it better.
 

@@ -23,7 +23,7 @@ This was a temptation that I couldn't resist... I thought I'll drop the answer i
 
 "Dear anonymous colleague,
 
-Firstly [that article](http://devblog.cloudreach.co.uk/2012/05/behavior-driven-development-in-net.html) talks a lot about tools ([SpecFlow](http://specflow.org/), [NUnit](http://www.nunit.org/) and [White](http://white.codeplex.com/) in this case) and they are all great tools and I think he sketchs out a good process as well. But here's the thing - BDD is not about tools!
+Firstly [that article](http://devblog.cloudreach.co.uk/2012/05/behavior-driven-development-in-net.html) talks a lot about tools ([SpecFlow](http://specflow.org/), [NUnit](http://www.nunit.org/) and [White](http://white.codeplex.com/) in this case) and they are all great tools and I think he sketch out a good process as well. But here's the thing - BDD is not about tools!
 
 I'll say that last part again; **BDD is a communication tool and is not about the tools**.
 
@@ -42,7 +42,7 @@ Reminds me of a story when I got the documentation for a system I was going to c
 
 And it was great. I'd say that 97% of it was right. Problem was that I didn't knew which 3% that was wrong... So it was not much use to me.
 
-To sum up - yes that article is a describes a way to do BDD - but thats only the first section. The resti is about tools. And they don't matter as much. BDD is about talking to each other - which is best done without tools.
+To sum up - yes that article is a describes a way to do BDD - but thats only the first section. The rest is about tools. And they don't matter as much. BDD is about talking to each other - which is best done without tools.
 
 Read more (and better probably) here: [http://dannorth.net/introducing-bdd/](http://dannorth.net/introducing-bdd/), [http://dannorth.net/whats-in-a-story/](http://dannorth.net/whats-in-a-story/).
 
