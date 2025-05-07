@@ -3,8 +3,9 @@ layout: page
 permalink: /about/
 title: About
 description: Marcus - a little bit about me
-header-img: img/about-bg.jpg
 ---
+
+![Me](img/about-bg.jpg)
 
 ## Normal short intro
 
