@@ -5,7 +5,7 @@ title: About
 description: Marcus - a little bit about me
 ---
 
-![Me](img/about-bg.jpg)
+![A picture of me](/img/about-bg-2.jpg)
 
 ## Normal short intro
 
