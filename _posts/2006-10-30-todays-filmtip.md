@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filmtip of today
+title: Film tip of today
 date: 2006-10-30T13:09:00.002Z
 author: Marcus Hammarberg
 tags:

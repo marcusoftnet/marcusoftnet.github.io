@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More about generic webservces
+title: More about generic web services
 date: 2006-11-14T07:09:00.000Z
 author: Marcus Hammarberg
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No phoneeating today
+title: No phone eating today
 date: 2006-10-26T05:58:00.000Z
 author: Marcus Hammarberg
 tags:
@@ -10,9 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5584500292819595519
 blogger_orig_url: https://www.marcusoft.net/2006/10/no-phone-eating-today.html
 ---
 
-The test
-were not done by the end of yesterday, which leads to that my trusted
-mobile still is safe.
+The test were not done by the end of yesterday, which leads to that my trusted mobile still is safe.
 
-From now on I will be more careful on what to bet on. Maybe smaller,
-easier to swallow things.
+From now on I will be more careful on what to bet on. Maybe smaller, easier to swallow things.

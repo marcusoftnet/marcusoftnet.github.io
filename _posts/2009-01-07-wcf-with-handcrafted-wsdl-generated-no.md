@@ -15,7 +15,7 @@ This problem has haunted us for the good part of the autumn and winter.
 
 Early on in our design process, we chose to create the WSDL for our services by hand. This decision was mainly due to the need to express details in XSD that WCF attributes don't support, such as string length.
 
-We were also using the [ErrorHandlerAttribute](http://www.idesign.net/idesign/DesktopDefault.aspx?tabindex=5&amp;tabid=11#Faults) from the excellent book ["Programming WCF Services"](http://www.amazon.co.uk/Programming-WCF-Services-Juval-Lowy/dp/0596526997) by [Juwal Löwy](http://www.oreillynet.com/pub/au/741).
+We were also using the [ErrorHandlerAttribute](http://www.idesign.net/idesign/DesktopDefault.aspx?tabindex=5&amp;tabid=11#Faults) from the excellent book ["Programming WCF Services"](http://www.amazon.co.uk/Programming-WCF-Services-Juval-Lowy/dp/0596526997) by [Juval Löwy](http://www.oreillynet.com/pub/au/741).
 
 What we observed was that, even though we had created the WSDL for handling faults and their details correctly, we didn't get the fault details over to the client (i.e., the `T` of `FaultException<T>`). We checked the WSDL and the generated client proxy (and its WSDL) file over and over, line by line, but just couldn't find the issue.
 

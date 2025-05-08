@@ -9,6 +9,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-30674332112376753
 blogger_orig_url: https://www.marcusoft.net/2008/12/cheat-sheet-for-resharper-40.html
 ---
 
-Found [this paper](http://www.jetbrains.com/resharper/docs/ReSharper40DefaultKeymap.pdf) with the (default) keymapping for Resharper. Here is also some demos etc.
+Found [this paper](http://www.jetbrains.com/resharper/docs/ReSharper40DefaultKeymap.pdf) with the (default) key mapping for Resharper. Here is also some demos etc.
 
 Finally, there is an update to ReSharper to 4.1 - hopefully, it will solve my [stability problems](https://www.marcusoft.net/2008/10/resharper-crashes.html). I'll keep you posted...

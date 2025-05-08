@@ -11,8 +11,6 @@ blogger_orig_url: https://www.marcusoft.net/2008/12/abbe-december-update.html
 ---
 
 
-I know that a lot of people has been wondering why no new pictures of
-Abbe has been on display here for a while. Well - a too busy autumn may
-be one reason. Anywho - here you go...
+I know that a lot of people has been wondering why no new pictures of Abbe has been on display here for a while. Well - a too busy autumn may be one reason. Any-who - here you go...
 
 Almost forgot - he said a very loud and clear "PAPPA" last week!

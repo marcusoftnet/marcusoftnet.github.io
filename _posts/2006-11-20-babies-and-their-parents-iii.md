@@ -12,12 +12,6 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/babies-and-their-parents-iii
 
 OK - I was wrong, a bit at least.
 
-Met my friends and their new daugther last Friday -and it's a completely
-new life for them. Especially for the father. I was great to see
-though - a lot of love in the air. So - the "still being us"-thing will
-probably fade for a while but I am sure that it will come back and that
-they will watch sopranos late at night even though the baby needs to
-sleep.
+Met my friends and their new daughter last Friday -and it's a completely new life for them. Especially for the father. I was great to see though - a lot of love in the air. So - the "still being us"-thing will probably fade for a while but I am sure that it will come back and that they will watch sopranos late at night even though the baby needs to sleep.
 
-But they will never fall into the super-parents-trap! I am sure of that
-at least.
+But they will never fall into the super-parents-trap! I am sure of that at least.

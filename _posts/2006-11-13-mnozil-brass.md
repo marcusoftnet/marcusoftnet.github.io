@@ -14,6 +14,6 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/mnozil-brass.html
 
 Just a short notice....
 
-Went to a marvelous concert last night with [Mnzoil Brass](http://www.mnozilbrass.at/). Great, great stuff! This is a really good example on how to do something very well and then adding humor to it. Magic!
+Went to a marvelous concert last night with [Mnozil Brass](http://www.mnozilbrass.at/). Great, great stuff! This is a really good example on how to do something very well and then adding humor to it. Magic!
 
 If they are in the same part of the world as you - don't miss it!

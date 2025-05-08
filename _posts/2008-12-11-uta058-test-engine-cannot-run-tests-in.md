@@ -26,5 +26,5 @@ However, the [great description](http://blogs.msdn.com/charles_sterling/archive/
 To make a long story short, this command solved the problem on our build machine. Good enough for us:
 
 ```bash
-caspol -machine -addgroup 1 -url \\[machine\]\Drops\* FullTrust -name FileW
+caspol -machine -addGroup 1 -url \\[machine\]\Drops\* FullTrust -name FileW
 ```
