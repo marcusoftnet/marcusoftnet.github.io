@@ -33,7 +33,7 @@ And here is how to call [Sandcastle](http://www.codeplex.com/Sandcastle) in MsBu
 <PropertyGroup>
     <!-- Sandcastle parameters -->
     <SandCastleExePath>C:\Program Files\EWSoftware\Sandcastle Help File Builder\SandcastleBuilderConsole.exe</SandCastleExePath>
-    <SandCastleOuputLocation>$(DropLocation)\SystemDokumentation\Tjanster\</SandCastleOuputLocation>
+    <SandCastleOuputLocation>$(DropLocation)\SystemDocumentation\Tjanster\</SandCastleOuputLocation>
     <SandCastleWorkingDir>$(CurrentSolutionRoot)\SandCastleWorkingDir\</SandCastleWorkingDir>
     <SandCastleResponseFile>$(CurrentSolutionRoot)\Solution Items\Documentation\SystemName.SandCastleSettings.txt</SandCastleResponseFile>
 </PropertyGroup>
