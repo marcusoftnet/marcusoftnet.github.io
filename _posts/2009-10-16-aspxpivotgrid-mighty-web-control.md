@@ -1,6 +1,3 @@
-Here's a revised version of your post:
-
-```markdown
 ---
 layout: post
 title: ASPxPivotGrid – A Mighty Web Control

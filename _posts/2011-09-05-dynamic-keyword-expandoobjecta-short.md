@@ -1,4 +1,3 @@
-````markdown
 ---
 layout: post
 title: The dynamic keyword, ExpandoObject–a short intro for me
@@ -31,7 +30,6 @@ Ok, but what useful is that? I mean you _could_ write this, you probably shouldn
 dynamic s = "Marcus again";
 Assert.AreEqual(s.Length, 12);
 ```
-````
 
 We now have a “dynamic” string. So the “s.Length” part compiles fine, but that’s actually just because the compile time checking is disabled. If I had written “s.StringLength” instead – that would also compile, but fail in runtime – since the string-class doesn’t implement a “StringLength” property.
 
