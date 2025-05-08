@@ -12,7 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2359394735398966764
 blogger_orig_url: https://www.marcusoft.net/2009/04/debating-hero.html
 ---
 
-Today I did something that I never dared before—I posted a comment on an article I read in [ComputerSweden](http://computersweden.idg.se/). Nothing scary there, but the article was written by one of the IT heroes of Sweden, [Ivar Jacobsson](http://www.ivarjacobson.com/). He invented RUP and has been a busy debater and writer.
+Today I did something that I never dared before—I posted a comment on an article I read in [ComputerSweden](http://computersweden.idg.se/). Nothing scary there, but the article was written by one of the IT heroes of Sweden, [Ivar Jacobson](http://www.ivarjacobson.com/). He invented RUP and has been a busy debater and writer.
 
 His column was about Scrum and how it's "coming apart" (my translation). You can [read it here](http://computersweden.idg.se/2.2683/1.222111/det-knakar-rejalt-i-scrums-fogar) (in Swedish).
 

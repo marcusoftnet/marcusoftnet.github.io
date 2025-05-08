@@ -24,4 +24,5 @@ Elin is working nights right now, which means she has a lot of free time during 
 So that’s my agenda for the next six months: daddy-free! See you!
 
 **P.S.**
+
 I’ve just bought [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) and [Patterns of Enterprise Architecture](http://www.amazon.com/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420) - so I’ll be reading those. I also plan to start a little hobby project to explore [DDD](http://en.wikipedia.org/wiki/DDD), [TDD](http://en.wikipedia.org/wiki/Test-driven_development), and [ASP.NET MVC](http://www.asp.net/mvc/). I’ll update you on that if I follow through.

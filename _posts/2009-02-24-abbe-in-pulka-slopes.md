@@ -14,7 +14,7 @@ Winter has “struck” Stockholm and we have lots of snow. And knowing the Stoc
 
 So we hurried out and bought Abbe his first pulka (kind of small sledge) and went to the slopes of [Kronobergsparken](http://www.hitta.se/LargeMap.aspx?var=Kronobergsparken).
 
-We thought that it was loads of fun. Elin and Abbe swished down the slopes. I got a few runs myself (for myself also ;) and the memories all came back. Running up the slope with the pulka in a string behind you. Getting cold after the first run… Ahhh the memories.
+We thought that it was loads of fun. Elin and Abbe swished down the slopes. I got a few runs myself (for myself also ;) and the memories all came back. Running up the slope with the pulka in a string behind you. Getting cold after the first run… Ahh the memories.
 
 ![Abbe pulka](/img/abbepulka.jpg)
 

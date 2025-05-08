@@ -15,8 +15,9 @@ Right now you can follow the Norwegian Championships in Brass Band live on [nrk.
 [Here](http://www.4barsrest.com/news/detail.asp?id=9359) is the order of play.
 
 My tip for the whole thing is:
-1. Eikanger Bjorsvik (Go Patrik!) – Draw 3
-2. Stavanger – Draw 9
-3. Manger – Draw 1 (I missed that)
+
+1. Eikanger Bjørsvik (Go Patrik!) – Draw 3
+1. Stavanger – Draw 9
+1. Manger – Draw 1 (I missed that)
 
 Dark horse: Oslo Brass Band

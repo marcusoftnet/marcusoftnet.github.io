@@ -24,6 +24,6 @@ It’s not done and still has a bit to go, but I really like it.
 Check it out. Here are some introduction videos:
 
 - [Introduction to S#arp Architecture](http://dimecasts.net/Casts/CastDetails/75)
-- [Validation, Design Decisions and Automapping](http://dimecasts.net/Casts/CastDetails/97)
+- [Validation, Design Decisions and AutoMapping](http://dimecasts.net/Casts/CastDetails/97)
 - [Modify the T4 templates used by Sharp Architecture](http://dimecasts.net/Casts/CastDetails/102)
 - [Testing MVC Routes](http://dimecasts.net/Casts/CastDetails/107)

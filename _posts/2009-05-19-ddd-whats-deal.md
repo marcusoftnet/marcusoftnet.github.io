@@ -14,7 +14,7 @@ After doing [DDD](http://en.wikipedia.org/wiki/Domain-driven_design) (on a very 
 
 So here is my take on what the deal with DDD is (I hope that it will change over time but here is how I see it today):
 
-I think first that the whole idea of DDD can be divided into two aspects (actually [Jocke](http://blog.avegagroup.se/JoakimSunden/default.aspx) pointed me in this way but I like it):
+I think first that the whole idea of DDD can be divided into two aspects (actually [Joakim](http://blog.avegagroup.se/JoakimSunden/default.aspx) pointed me in this way but I like it):
 
 - First code - a bunch of design patterns that help you produce great object-oriented, testable software.
 - Then the implications on the way you can do software projects.

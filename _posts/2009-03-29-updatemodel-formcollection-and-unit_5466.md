@@ -78,7 +78,7 @@ private static FormCollection CreateProductTestFormCollection()
     FormCollection form = new FormCollection();
     form.Add("Product.Name", TESTFORM_NAME);
     form.Add("Product.Description", TESTFORM_DESCRIPTION);
-    form.Add("SelectedOwnerID", TestData.TEST_PRODUCTOWNER_ID2.ToString());
+    form.Add("SelectedOwnerID", TestData.TEST_PRODUCT_OWNER_ID2.ToString());
 
     return form;
 }

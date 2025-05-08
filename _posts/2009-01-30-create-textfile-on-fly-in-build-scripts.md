@@ -28,7 +28,8 @@ I remembered there was an [MSBuild community task](http://msbuildtasks.tigris.or
 <WriteLinesToFile
   File="$(PublishWebSitePath)\Database\Installera_$(DeployEnv)_version_$(BuildVersion).bat"
   Lines="@(CmdLine)"
-  Overwrite="true"/>
+  Overwrite="true"
+/>
 ```
 
 This script will prompt the user for a password so that it doesn't need to be hard-coded into the script.
