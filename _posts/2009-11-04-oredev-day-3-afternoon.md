@@ -23,7 +23,7 @@ Dan North delivered an insightful talk on not blindly pursuing efficiency, empha
 Stephen Bohlen, known for his rapid presentation style, discussed various add-ons for NHibernate. Here are some highlights:
 
 - [Rhino Tools](http://sourceforge.net/projects/rhino-tools/)
-- [uNhAddins](http://code.google.com/p/unhaddins/)
+- [uNhAddIns](http://code.google.com/p/unhaddins/)
 - [NHibernate Validator](http://www.codinginstinct.com/2008/05/nhibernate-validator.html), including a [fluent interface](http://brendanjerwin.github.com/2009/03/11/using-nhibernate-validator-with-fluent-nhibernate.html)
 - [NHLambdaExtensions](http://code.google.com/p/nhlambdaextensions/)
 - [NHibernate Burrow](http://sourceforge.net/projects/nhcontrib/develop) for business transactions without hitting the database

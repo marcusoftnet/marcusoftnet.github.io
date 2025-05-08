@@ -19,9 +19,9 @@ Dan had promised a critical look at Scrum, and he delivered. Here are some key t
 
 - *“A manager in a crappy system with a certificate is still a manager in a crappy system.”*
 - *“Certified$crumMa$ter :)”*
-- Refer to the [Satir Change Model](http://www.stevenmsmith.com/my-articles/article/the-satir-change-model.html) to understand people’s resistance to change.
+- Refer to the [SATIR Change Model](http://www.stevenmsmith.com/my-articles/article/the-satir-change-model.html) to understand people’s resistance to change.
 - Consider the [Dreyfus Model](http://blog.bruceabernethy.com/post/The-Dreyfus-Model-of-Skills-Acquisition.aspx) for skill acquisition stages.
-- Ken Schweiber’s assertion: *“75% of uncoached Scrum projects will fail.”*
+- Ken Schweiber’s assertion: *“75% of un-coached Scrum projects will fail.”*
 - Implement continuous integration and automated tests to reveal and address underlying issues.
 - Use assumption tests to document assumptions on legacy code.
 - Embrace [Deliberate Discovery](http://business-advice.vugg.net/search/Deliberate%20Discovery) in domain understanding, architecture, and team dynamics.

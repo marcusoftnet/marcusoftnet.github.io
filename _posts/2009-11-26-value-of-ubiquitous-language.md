@@ -34,4 +34,4 @@ For more insights on the value of a ubiquitous language, consider these resource
 - [A formal definition from Domain Driven Design](http://domaindrivendesign.org/node/132)
 - [A comprehensive read on ubiquitous language](http://fragmental.tw/2009/08/21/ubiquitous-language-tiny-types-and-responsibility/)
 
-Thanks to Oscar and Jocke for the stimulating discussion on this topic.
+Thanks to Oscar and Joakim for the stimulating discussion on this topic.

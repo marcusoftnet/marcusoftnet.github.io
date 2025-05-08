@@ -17,7 +17,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-4-morning.html
 
 We kicked off the day with an intriguing keynote on the driving forces behind design, focusing particularly on the latter two "D"s in various [xDD](https://en.wikipedia.org/wiki/Software_development_methodologies) methodologies (such as TDD, BDD, etc.). The talk started with a fascinating historical overview, showcasing how our industry is still relatively young, with many pioneers still active.
 
-Rebecca Wirfs-Brock discussed Responsibility-Driven Design (RDD) and compared it with other development techniques like [TDD](https://en.wikipedia.org/wiki/Test-driven_development), [BDD](https://en.wikipedia.org/wiki/Behavior_Driven_Development), [FDD](https://en.wikipedia.org/wiki/Feature_Driven_Development), and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). Her insights into these patterns and their evolution were thought-provoking.
+Rebecca Whirfs-Brock discussed Responsibility-Driven Design (RDD) and compared it with other development techniques like [TDD](https://en.wikipedia.org/wiki/Test-driven_development), [BDD](https://en.wikipedia.org/wiki/Behavior_Driven_Development), [FDD](https://en.wikipedia.org/wiki/Feature_Driven_Development), and [DDD](https://en.wikipedia.org/wiki/Domain-driven_design). Her insights into these patterns and their evolution were thought-provoking.
 
 ### Making the Sausage
 

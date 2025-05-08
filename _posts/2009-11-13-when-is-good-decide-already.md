@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/11/when-is-good-decide-already.
 
 Over the past month, I've been involved in numerous meeting scheduling activities. The process always seems to involve a lot of back-and-forth with dates before finally settling on one.
 
-If you’ve read *[Lean Software Development](https://www.amazon.com/Lean-Software-Development-Integrated-Principles/dp/097778030X)* by the [Poppendiecks](http://www.poppendieck.com/), you’re familiar with the concept of [Set-based Problem Solving](http://www.targetedconvergence.com/setbasedthinking.html).
+If you’ve read *[Lean Software Development](https://www.amazon.com/Lean-Software-Development-Integrated-Principles/dp/097778030X)* by the [Poppendieck](http://www.poppendieck.com/), you’re familiar with the concept of [Set-based Problem Solving](http://www.targetedconvergence.com/setbasedthinking.html).
 
 The website *[WhenIsGood](http://whenisgood.net/)* utilizes this approach to simplify the process of finding a mutually convenient meeting time. It’s a straightforward, low-impact tool that can help streamline scheduling. You can check out their [introduction video](http://whenisgood.net/Videos) to see how it works.
 

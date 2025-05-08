@@ -11,11 +11,8 @@ blogger_orig_url: https://www.marcusoft.net/2009/10/delete-key-in-parallels-desk
 ---
 
 
-OK – this might well be one of the shortest thing I’ve written but it’s
-sooo annoying.
+OK – this might well be one of the shortest thing I’ve written but it’s soo annoying.
 
-If you want to do DELETE (hitting the Delete-key) in the Windows OS
-running in Parallels, go \[fn\]-\[\<-\] (function and backspace) on your
-Mac Keyboard.
+If you want to do DELETE (hitting the Delete-key) in the Windows OS running in Parallels, go `[fn]-[<-]` (function and backspace) on your Mac Keyboard.
 
-Ahhh – so nice to get that out of my system.
+Ahh – so nice to get that out of my system.
