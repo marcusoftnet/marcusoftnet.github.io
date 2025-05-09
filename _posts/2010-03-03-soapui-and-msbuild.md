@@ -21,7 +21,7 @@ target="_blank">MSBuild targets to call SOAPUi</a> from a build
 script.
 I am about to try it out… I’ll get back to you if I run into problems.
 
-**UPDATED**
+**[UPDATED]**
 Yup - it worked! Great! Thanks Todd.
 
 Still have some issues in that the [switch

@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/06/resharper-and-messed-up-inte
 
 Let me at the start of the post first say that I love [ReSharper](http://www.jetbrains.com/resharper/index.html). It is by far the best refactoring support that can be found for VB.NET. I haven't yet used it for C# but are told but [esteemed colleague](http://blogg.joakimsunden.se/) that it rocks.
 
-But... (there is always a but isn't it?) it [messes up the Intellisense in my Visual Studio](https://www.marcusoft.net/2008/05/visual-studio-2008-intellisense-not.html). The same colleague (kudos to Jocke) tipped me on how to solve it and here it is;
+But... (there is always a but isn't it?) it [messes up the Intellisense in my Visual Studio](https://www.marcusoft.net/2008/05/visual-studio-2008-intellisense-not.html). The same colleague (kudos to Joakim) tipped me on how to solve it and here it is;
 
 Open the options for ReSharper and choose `Intellisense->General->Use Visual Studio`. This will not give you as much support for "Smart Completion" but I'll take that over missing Intellisense everyday in the week, and twice on Sundays.
 

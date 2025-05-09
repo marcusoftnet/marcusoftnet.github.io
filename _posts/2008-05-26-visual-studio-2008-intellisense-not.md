@@ -16,6 +16,6 @@ Just now the Intellisense stopped working in Visual Studio 2008. Scared me a lot
 
 But Richard Fennell had the solution and that helped me to evade that situation. Here is the solution: <http://blogs.blackmarble.co.uk/blogs/rfennell/archive/2007/12/01/intellisense-not-working-in-visual-studio-2008.aspx>
 
-**UPDATED**
+**[UPDATED]**
 
 As it turns out this was only part of the solution. The real problem was the integration with ReSharper - [here is how to solve it.](https://www.marcusoft.net/2008/06/resharper-and-messed-up-intellisense.html)

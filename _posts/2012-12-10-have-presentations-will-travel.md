@@ -20,7 +20,7 @@ I have a couple of slow weeks before my next assignment starts for real, so as a
 
 Please contact me on marcusoftnet at gmail or <a href="http://www.twitter.com/marcusoftnet" target="_blank">@marcusoftnet</a> if you are interested in hearing any of the presentations below. No charge (saved any travel costs outside Stockholm... and the obligatory cup of strong, black coffee) and no strings attached.
 
-**UPDATED** I have now booked my calendar to a suitable level (almost full). The response on this post was just overwhelming and I got 7 different gigs including a whole day at one company and a contact in Brasil (!). Might do this again. Longing to be bored again.
+**[UPDATED]** I have now booked my calendar to a suitable level (almost full). The response on this post was just overwhelming and I got 7 different gigs including a whole day at one company and a contact in Brasil (!). Might do this again. Longing to be bored again.
 
 These are the presentations that I can give with an hours notice:
 

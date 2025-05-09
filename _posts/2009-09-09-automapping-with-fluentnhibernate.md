@@ -24,6 +24,6 @@ I've put together an updated example inspired by Ayende's post, including a feat
 
 [Here is the most important part of the code](http://pastie.org/610731).
 
-**UPDATED** [Here is the complete sample](http://dl.getdropbox.com/u/2408484/Marcusoft.FluentAutomapper.zip).
+**[UPDATED]** [Here is the complete sample](http://dl.getdropbox.com/u/2408484/Marcusoft.FluentAutomapper.zip).
 
 Did I mention that I LOVE Fluent NHibernate? Well, I do!

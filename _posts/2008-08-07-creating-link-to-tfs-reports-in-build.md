@@ -36,7 +36,7 @@ Here is my target:
 
 ```xml
 <!-- Target that creates a link to the builds report -->
-<Target Name="SkapaLankTillByggRapporten">
+<Target Name="CreateLinkToTheBuildReport">
   <BuildStep TeamFoundationServerUrl="$(TeamFoundationServerUrl)"
       BuildUri="$(BuildUri)"
       Name="CreateLinkFileToBuildReport"

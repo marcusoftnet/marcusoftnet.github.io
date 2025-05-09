@@ -16,7 +16,7 @@ I ran into some problems with an Action Controller method that accepted a `FormC
 
 Here is a skeleton implementation of the method:
 
-**UPDATED**
+**[UPDATED]**
 Some insightful [comments](https://www.blogger.com/comment.g?blogID=36533086&postID=1434916614193180165) by [Steve](http://openid.rowanbeach.com/steve) made me do some changes to this code. I have now updated it. The tip had to do with if the ValueProvider should be set on the Controller in the test or in the actual Action method. I finally opted for the latter and changed it into this (significant code in **bold**).
 
 ```csharp
@@ -52,7 +52,7 @@ This works great, but when I call this from my unit test, the values of my form 
 
 So what that means is that, in the unit test case, you need to set the `ValueProvider` for the controller you’re testing to the test form collection you’re sending to the method. Otherwise, the Action Controller method will check the `Request` property, which will be empty in the test case. Not obvious maybe, but understandable when you think about it.
 
-**UPDATED**
+**[UPDATED]**
 Just to be sure – note that the Action method is using an overloaded version of `UpdateModel` that makes sure that the sent-in form is used. I haven’t used the recommendation from the link above since I think it’s less readable/understandable. The main point is still valid though.
 
 Here is a short sample that tests the action method above:

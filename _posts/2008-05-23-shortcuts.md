@@ -16,7 +16,7 @@ Anyone who has worked with me know that I love shortcuts (that is keyboard short
 
 Here is a list of some of them - I haven't seen some them before and other ones are loved friends of mine: <http://www.dev102.com/2008/05/06/11-more-visual-studio-shortcuts-you-should-know/>
 
-**UPDATED** That short-cut site contained some other really useful stuff also:
+**[UPDATED]** That short-cut site contained some other really useful stuff also:
 
 - <http://www.dev102.com/2008/05/09/6-useful-visual-studio-tweaks-you-need-to-know/>
 - <http://www.dev102.com/2008/04/17/10-visual-studio-shortcuts-you-must-know/>

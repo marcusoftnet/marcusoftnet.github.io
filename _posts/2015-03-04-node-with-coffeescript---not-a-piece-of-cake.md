@@ -161,7 +161,7 @@ In order to run Node code we first need to compile it. And then run the compiled
 }
 ```
 
-**UPDATED**
+**[UPDATED]**
 If you haven't seen it before the ampersand ```&``` at the end of the first part of the command, is a UNIX way of starting a command in a separate process, in the background.
 Also the ```;``` is separating two commands, running them in sequence; first the coffee-compilation-watcher and then the start-our-application command. You can also chain commands with ```&&``` but then the execution will stop if one of the command should fail.
 Thank Ania for pointing that out to me.

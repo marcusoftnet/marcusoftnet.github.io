@@ -24,7 +24,7 @@ OK – what were my learning goals and where have they taken me?
 
 The main purpose was to look into Domain Driven Design. I feel that I have got a nice grasp around that subject – and I most certainly want to learn more. I’ll write a separate post about my thoughts on DDD and its implications on your project.
 
-**UPDATED**
+**[UPDATED]**
 
 [Here is my post on DDD](https://www.marcusoft.net/2009/05/ddd-whats-deal.html)
 

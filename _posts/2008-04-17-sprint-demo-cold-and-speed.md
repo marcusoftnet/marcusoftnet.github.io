@@ -24,6 +24,6 @@ The night at the shelter was quite quiet (:)) for me. I got to go to bed
 at around 2345 and woke up 7 hours later without a single disturbance,
 part from a soar throat. A very small contribution from me.
 
-**UPDATED**
+**[UPDATED]**
 The demo was a success! The product owner said that she wanted to do
 "the wave", which was quite a good reception, don't you think.

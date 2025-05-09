@@ -43,7 +43,7 @@ The final step is synchronizing my mobile (an HTC Touch Dual) with Google. This 
 
 Might not go mobile just yet…
 
-**UPDATED**
+**[UPDATED]**
 
 I eventually got it to work, but for now, I am only synchronizing the calendar with my mobile. The emails would just stress me out. And the contacts are fine living separate lives for now.
 

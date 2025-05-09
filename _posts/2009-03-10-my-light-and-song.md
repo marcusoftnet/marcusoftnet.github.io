@@ -19,7 +19,7 @@ I have actually never heard it played (actually [Patrik Randefalk](http://www.yo
 
 I’ll try to post a recording here… after March 25.
 
-**UPDATED** This is so sick! [This book](http://books.google.com/books?id=y7UWPZNqmXYC&printsec=frontcover&dq=%22my+light+and+song%22&source=gbs_summary_s&cad=0) contains all music (kinda) that is available for euphonium. And who has recorded it! Including a reference to recordings by [my father](http://books.google.com/books?id=y7UWPZNqmXYC&pg=PA576&vq=hammarberg&dq=%22my+light+and+song%22&source=gbs_search_s&cad=0).
+**[UPDATED]** This is so sick! [This book](http://books.google.com/books?id=y7UWPZNqmXYC&printsec=frontcover&dq=%22my+light+and+song%22&source=gbs_summary_s&cad=0) contains all music (kinda) that is available for euphonium. And who has recorded it! Including a reference to recordings by [my father](http://books.google.com/books?id=y7UWPZNqmXYC&pg=PA576&vq=hammarberg&dq=%22my+light+and+song%22&source=gbs_search_s&cad=0).
 
 And [*My Light and Song*](http://books.google.com/books?id=y7UWPZNqmXYC&pg=PA128&vq=my+light+and+song&dq=%22my+light+and+song%22&source=gbs_search_s&cad=0) is recorded. By a Mr. John Butler.
 
