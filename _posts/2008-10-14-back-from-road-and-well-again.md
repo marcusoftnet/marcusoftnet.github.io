@@ -4,7 +4,7 @@ title: Back from the road and well again
 date: 2008-10-14T16:04:00.001Z
 author: Marcus Hammarberg
 tags:
-  - Brass band
+  - Brass Band
   - Euphonium
   - Marcus private
 modified_time: 2008-10-14T16:04:13.877Z

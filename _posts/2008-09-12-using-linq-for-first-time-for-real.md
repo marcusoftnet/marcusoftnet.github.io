@@ -21,7 +21,7 @@ I ran into a situation where my function received a parameter, lista, that was G
 LINQ to the fore! A LINQ-query could actually help us to produce the arrays we need. Here is my code:
 
 ```vb
-public sub CallStoredProc(byval lista as List(Of MyObject))
+public sub CallStoredProc(ByVal lista as List(Of MyObject))
    Dim ids = From obj in lista Select obj.ID
 end sub
 ```
