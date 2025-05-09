@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7932047045806437130
 blogger_orig_url: https://www.marcusoft.net/2008/09/vasaband-full-speed-ahead.html
 ---
 
-
 The band I am playing in - the [Vasa band](http://www.vasaband.com/) - is right now in a great form, great spirit and on full speed ahead;
 
 - Last Sunday we did a concert in [Sundbyberg](http://www.hitta.se/LargeMap.aspx?var=Sundbyberg) - first for the season. It went very well and was good received.

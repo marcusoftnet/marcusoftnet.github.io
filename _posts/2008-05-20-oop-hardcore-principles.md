@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7173161767256013223
 blogger_orig_url: https://www.marcusoft.net/2008/05/oop-hardcore-principles.html
 ---
 
-
 Here
 is a short list of good practices that caused quite a stir in the
 designer community at [Avega](http://www.avega.se/).

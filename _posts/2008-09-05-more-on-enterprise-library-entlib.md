@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6357478391735284163
 blogger_orig_url: https://www.marcusoft.net/2008/09/more-on-enterprise-library-entlib.html
 ---
 
-
 The [last
 time](https://www.marcusoft.net/2008/08/enterprise-library-oracletypes-and.html)
 I wrote about this I was a bit too fast to get all the intricate details

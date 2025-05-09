@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8870376295653513270
 blogger_orig_url: https://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html
 ---
 
-
 Here is a short snippet that saves me a lot of time. It simply creates a
 test method with the correct attributes and stuff. Simply but useful –
 and now you don’t have to write it.

@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5375736326531326102
 blogger_orig_url: https://www.marcusoft.net/2011/11/bdd-and-technical-scenarios.html
 ---
 
-
 I got a question from Sham (Shamresh Khan) that I thought was interesting and also common. So I thought I post my answer here in the public and maybe we all can learn a bit.
 
 Sham’s question was something like this:

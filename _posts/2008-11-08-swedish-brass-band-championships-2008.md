@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-9150872395489673345
 blogger_orig_url: https://www.marcusoft.net/2008/11/swedish-brass-band-championships-2008.html
 ---
 
-
 OK - it's so late for this. They have probably started soon. But here is
 my predictions for the Swedish Brass Band championships:
 

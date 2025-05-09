@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4465697743984495476
 blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-hour-4-or-so.html
 ---
 
-
 OK – I have been doing some thinking and model crunching and found out
 that still is chewing of to much. There was no really good starting
 point for me. Finally it struck me: The product manages one or more

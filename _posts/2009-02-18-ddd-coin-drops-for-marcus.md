@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6314861110076624802
 blogger_orig_url: https://www.marcusoft.net/2009/02/ddd-coin-drops-for-marcus.html
 ---
 
-
 I have now tried to grasp the DDD-concept without fully “getting it”. I
 must confess that I have thought: “What is the deal with this… I have
 done it before”.

@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4796152958013813373
 blogger_orig_url: https://www.marcusoft.net/2009/02/sync-issues-my-contact-are-back.html
 ---
 
-
 With a little help from <a
 href="http://www.microsoft.com/windows/windows-vista/features/sync-center.aspx"
 target="_blank">Windows Sync Center</a> and my own stupidity all my

@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6471968641873307367
 blogger_orig_url: https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html
 ---
 
-
 Last week I attended the premier agile conference in Sweden,
 <a href="http://agilasverige.se/" target="_blank">Agila Sverige</a>. In
 one of the <a href="http://en.wikipedia.org/wiki/Open-space_technology"

@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6302245462694710313
 blogger_orig_url: https://www.marcusoft.net/2007/10/david-childs-and-hot-canary.html
 ---
 
-
 A
 few weeks back the British National Brass Band Championship took place
 with Grimethorpe as winners for the second

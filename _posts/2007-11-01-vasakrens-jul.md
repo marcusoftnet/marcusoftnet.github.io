@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1270932617481449258
 blogger_orig_url: https://www.marcusoft.net/2007/11/vasakrens-jul.html
 ---
 
-
 My corps, the Vasa corps of the Salvation Army, is gifted with many very good musical talents. For example Vasa Gospel, Vasa's Granater (youth gospel) and the VasaBand.
 
 Each year we get together and perform a Christmas concert. This year i am in a group that put that concert together. It will be on [Nybrokajen 11](http://www.nybrokajen11.rikskonserter.se/) and will include the mentioned groups and also some guests, for example [Karl-Magnus Fredriksson](http://www.musiken.nu/).

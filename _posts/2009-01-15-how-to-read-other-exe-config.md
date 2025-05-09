@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6709170915116823756
 blogger_orig_url: https://www.marcusoft.net/2009/01/how-to-read-other-exe-config.html
 ---
 
-
 When we're doing integration tests we need to find some settings from
 the exe (yes, we're batching some stuff - I am sorry ;)) that we are
 testing.

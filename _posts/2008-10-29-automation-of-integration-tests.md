@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5393877567027229759
 blogger_orig_url: https://www.marcusoft.net/2008/10/automation-of-integration-tests.html
 ---
 
-
 In my current project we have reached a very good code coverage percent
 (98,7 %, yes we are proud) - but we are aspiring to take it a step
 further.

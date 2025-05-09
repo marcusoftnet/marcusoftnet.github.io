@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5630707529371928573
 blogger_orig_url: https://www.marcusoft.net/2007/10/teamplain-rocks.html
 ---
 
-
 Just some short lines of praise to an excellent web GUI to
 access TFS (Team Foundation Server) - [Team
 plain](http://www.teamplain.com/).

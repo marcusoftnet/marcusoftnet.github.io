@@ -16,7 +16,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1759927773062858386
 blogger_orig_url: https://www.marcusoft.net/2009/01/what-to-do-now-sprint-planner-helper.html
 ---
 
-
 I'm free!!! So what do I do now. I have been talking to my colleagues
 that now that don't have to do boring work with them ;) I need another
 project in order to stay in touch with the IT-business.

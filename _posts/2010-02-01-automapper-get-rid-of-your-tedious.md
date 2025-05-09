@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6026107355969873960
 blogger_orig_url: https://www.marcusoft.net/2010/02/automapper-get-rid-of-your-tedious.html
 ---
 
-
 One thing that I really love being on a contract is that you’re almost
 immediately is forced to find solutions, whereas on a leisure project
 you rather do something else…

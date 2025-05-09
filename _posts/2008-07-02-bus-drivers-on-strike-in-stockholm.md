@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2606069275646993791
 blogger_orig_url: https://www.marcusoft.net/2008/07/bus-drivers-on-strike-in-stockholm.html
 ---
 
-
 This spring there has been strikes for some groups of workers who
 actually might need it; nurses for example. And right now, in the
 beginning of the vacation times, the bus drivers of Stockholm has gone

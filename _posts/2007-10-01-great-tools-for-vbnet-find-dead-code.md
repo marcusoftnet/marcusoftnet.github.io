@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4489020454513942304
 blogger_orig_url: https://www.marcusoft.net/2007/10/great-tools-for-vbnet-find-dead-code.html
 ---
 
-
 OK - as you all well know Microsoft doesn't put as much effort into
 Visual Studio for VB.NET-developers as for C#-ditto. I
 don't know why - but can only speculate that they don't won't that

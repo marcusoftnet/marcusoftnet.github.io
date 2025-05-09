@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2934759246035657334
 blogger_orig_url: https://www.marcusoft.net/2007/01/tuba-circus-dont-try-this-at-home.html
 ---
 
-
 OK - found this on a site and it just blew my mind!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0qIL2ie-VE?si=xHC9xRcz38RNE305" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

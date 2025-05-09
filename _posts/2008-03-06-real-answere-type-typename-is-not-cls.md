@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8327565985541635680
 blogger_orig_url: https://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html
 ---
 
-
 The [previous post](https://www.marcusoft.net/2008/03/type-typename-is-not-cls-compliant.html) about CLS-compliant classes is right in a way but the real answer lies in that when you create a test project with Visual Studio, the created Assembly is marked as CLS-compliant.
 
 This is done in the AssemblyInfo.vb (or .cs depending on your choice). I am not quite sure on why this is done but can imagine that it has to do with that the test project wants to be open for calls on all lot of different classes and components.

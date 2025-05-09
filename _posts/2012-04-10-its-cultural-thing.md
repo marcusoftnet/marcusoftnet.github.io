@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6354054253980436752
 blogger_orig_url: https://www.marcusoft.net/2012/04/its-cultural-thing.html
 ---
 
-
 Lately I’ve been coming back again and again the importance of culture in an organization, group or company. It’s the thing that binds you together and with a strong culture in place you can get a very fast moving, quick acting organization without being afraid of the people in it straying away from the important stuff.
 
 This topic has been nagging me for a very long time, a few years to be exact. I come back to it again and again in my reasoning and argumentation (probably sounding like an old record that got stuck to some people). But that just because I think it’s super important – it’s the soul of your company if you will. The spirit of a otherwise lifeless entity.

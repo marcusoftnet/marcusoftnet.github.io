@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4995703484218570116
 blogger_orig_url: https://www.marcusoft.net/2008/08/who-called-me.html
 ---
 
-
 [Here](http://www.codeproject.com/KB/dotnet/MethodName.aspx) is a
 cool little code snippet with done with reflection that actually is
 quite handy. Especially in a logging situation.

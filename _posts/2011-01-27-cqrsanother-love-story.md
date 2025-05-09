@@ -15,7 +15,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7262514878258726848
 blogger_orig_url: https://www.marcusoft.net/2011/01/cqrsanother-love-story.html
 ---
 
-
 People who know me also know that I easily get all ga-ga, fall in love
 in or simply get very excited over thing that I like. Actually the other
 day I thought for myself that I right now talk a lot about

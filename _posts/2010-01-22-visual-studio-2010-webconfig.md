@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5234814501701697946
 blogger_orig_url: https://www.marcusoft.net/2010/01/visual-studio-2010-webconfig.html
 ---
 
-
 I happened to run into a feature I didn’t know of… Visual Studio 2010
 (beta still… soon RC) includes a function for managing different
 .config-files for different environments. And support for transforming

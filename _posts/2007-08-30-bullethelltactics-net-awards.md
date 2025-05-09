@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-271606326206805595
 blogger_orig_url: https://www.marcusoft.net/2007/08/bullethelltactics-net-awards.html
 ---
 
-
 A
 friend and colleague (and current project
 member, actually) has created a game on the XNA platform. The game has been

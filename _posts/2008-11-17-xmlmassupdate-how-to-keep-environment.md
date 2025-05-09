@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8864576940672244780
 blogger_orig_url: https://www.marcusoft.net/2008/11/xmlmassupdate-how-to-keep-environment.html
 ---
 
-
 Another great finding in MSBuild for me recently is the use of the
 XMLMassUpdate task of [MSBuild Community
 Tasks](http://msbuildtasks.tigris.org/ "MSBuild Community Tasks").

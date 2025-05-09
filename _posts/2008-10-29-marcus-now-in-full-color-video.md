@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7430660714436939699
 blogger_orig_url: https://www.marcusoft.net/2008/10/marcus-now-in-full-color-video.html
 ---
 
-
 I had a quite strange experience today. I did a presentation about unit
 testing for another project. Nothing strange there. But the thing was
 recorded (via [LiveMeeting](http://office.microsoft.com/livemeeting),

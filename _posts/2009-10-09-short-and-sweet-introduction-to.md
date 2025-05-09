@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5532432382492939392
 blogger_orig_url: https://www.marcusoft.net/2009/10/short-and-sweet-introduction-to.html
 ---
 
-
 OK – I am already sold on this concept and most experienced developers
 probably are but here is a great (and short) <a
 href="http://blog.wekeroad.com/smackdown/200-page-manual-on-inversion-of-control-plus-or-minus-199/"

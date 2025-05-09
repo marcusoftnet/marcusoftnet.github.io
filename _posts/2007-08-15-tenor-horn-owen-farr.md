@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7045473909901277221
 blogger_orig_url: https://www.marcusoft.net/2007/08/tenor-horn-owen-farr.html
 ---
 
-
 In the
 brass band one of the most neglected instrument is the tenor horn. It's
 however very important for the sound of the band to have good horn

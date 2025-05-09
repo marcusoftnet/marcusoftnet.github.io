@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5162957904102866577
 blogger_orig_url: https://www.marcusoft.net/2006/11/vasagospel.html
 ---
 
-
 I
 listened to [Vasa Gospel](http://www.vasagospel.com/), and their CD
 Precious Lord on the way in.

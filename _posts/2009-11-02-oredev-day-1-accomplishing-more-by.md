@@ -13,8 +13,6 @@ blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-1-accomplishing-m
 ---
 
 
-
-
 I am at my first conference since 2000. My good times flies, then it was
 .NET launch and I was very envious of the people getting to try it out
 since I was stuck in a never ending VB6 Com+ assignment. Well, here we

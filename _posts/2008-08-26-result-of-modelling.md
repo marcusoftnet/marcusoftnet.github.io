@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-283190649080234589
 blogger_orig_url: https://www.marcusoft.net/2008/08/result-of-modelling.html
 ---
 
-
 I'll keep
 it short - sprint demo coming up...
 

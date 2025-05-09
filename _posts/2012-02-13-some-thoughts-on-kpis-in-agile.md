@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5306069240380609300
 blogger_orig_url: https://www.marcusoft.net/2012/02/some-thoughts-on-kpis-in-agile.html
 ---
 
-
 At my current client I have been asked to suggest some
 <a href="http://en.wikipedia.org/wiki/Performance_indicator"
 target="_blank">KPI’s</a> (that’s Key Performance Indicators for us

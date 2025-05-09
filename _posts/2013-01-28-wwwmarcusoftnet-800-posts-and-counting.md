@@ -12,8 +12,6 @@ blogger_orig_url: https://www.marcusoft.net/2013/01/wwwmarcusoftnet-800-posts-an
 ---
 
 
-
-
 I've just published my <a
 href="https://www.marcusoft.net/2013/01/pickles-generate-specflow-documentation.html"
 target="_blank">800th post</a>!

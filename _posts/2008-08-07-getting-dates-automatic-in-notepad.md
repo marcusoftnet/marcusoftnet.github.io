@@ -11,8 +11,6 @@ blogger_orig_url: https://www.marcusoft.net/2008/08/getting-dates-automatic-in-n
 ---
 
 
-
-
 Just passed [this
 "trick"](http://blogs.msdn.com/ddysart/archive/2006/07/06/658295.aspx).
 You'd think that everything that there is in notepad was known...

@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7160354428266020593
 blogger_orig_url: https://www.marcusoft.net/2008/11/leave-my-wifi-card-alone-please.html
 ---
 
-
 I have a Dell Precision M70 (yes - its old now but it was great when I
 got it, alright). Since I reinstalled the operating system I have
 experienced that the operating system is shutting down my wireless

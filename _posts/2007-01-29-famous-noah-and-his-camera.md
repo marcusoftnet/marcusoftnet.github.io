@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2135515240146173110
 blogger_orig_url: https://www.marcusoft.net/2007/01/famous-noah-and-his-camera.html
 ---
 
-
 If
 you ever have six or more years over then this could be something to
 spend them on.

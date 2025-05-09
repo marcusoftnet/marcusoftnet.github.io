@@ -14,7 +14,6 @@ blogger_orig_url: >-
   https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_1663.html
 ---
 
-
 This is the last post in my series on how to motivate developers to write test for their code. Please read the first two posts to get some context (<a href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html" target="_blank">part 1</a> and <a href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html" target="_blank">part 2</a>).
 
 This post talks about the last part of the Switch Framework – Shape the path. This is all about making the change easier by helping our rider and elephant to get a smooth path to walk on as they change.

@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6661326606084940078
 blogger_orig_url: https://www.marcusoft.net/2010/03/status-of-workitems-where-to-keep-it.html
 ---
 
-
 This is a question that arises very soon or sometime even before you start doing work with a board; Scrum, Kanban or Scrum-but.
 
 Where should the status be? Or more often – “let’s use TFS” (and keep the work items in TFS/SharePoint/Excel and then make copies of them to use on the wall).

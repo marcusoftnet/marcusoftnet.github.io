@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8342509319035989584
 blogger_orig_url: https://www.marcusoft.net/2008/03/tag-in-firefox.html
 ---
 
-
 I've been rightly informed, by several people that my postings with
 code in it messes up my complete site when viewed on Firefox.
 

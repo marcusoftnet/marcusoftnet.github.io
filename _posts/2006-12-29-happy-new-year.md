@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2176198937841522577
 blogger_orig_url: https://www.marcusoft.net/2006/12/happy-new-year.html
 ---
 
-
 Soooo... here we are at the end of 2006 - one of the best years ever for my part:
 
 - I got married to Elin - the best thing ever.

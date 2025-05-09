@@ -14,8 +14,6 @@ blogger_orig_url: https://www.marcusoft.net/2014/10/todo-add-tests.html
 ---
 
 
-
-
 I added this line in a
 <a href="https://github.com/marcusoftnet/Kwitansi/blob/master/README"
 target="_blank">README file</a> for one application I'm writing now.

@@ -13,7 +13,6 @@ blogger_orig_url: >-
   https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers_04.html
 ---
 
-
 This is the second part (<a
 href="https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html"
 target="_blank">read the first part</a>) of my trying to get inspiration

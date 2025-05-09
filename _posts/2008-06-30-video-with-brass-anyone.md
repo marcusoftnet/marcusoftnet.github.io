@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7617617114217246399
 blogger_orig_url: https://www.marcusoft.net/2008/06/video-with-brass-anyone.html
 ---
 
-
 Found
 this page <http://www.themusicpage.com/> that streams a lot of different
 contests and performances from brass brand all over the world - seems to

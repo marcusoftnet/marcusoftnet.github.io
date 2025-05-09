@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3453668134450807618
 blogger_orig_url: https://www.marcusoft.net/2007/01/finally-gaming-for-non-math-freaks.html
 ---
 
-
 Microsoft has just released a game-development studio which looks
 very nice. And finally even I has do some game-development. A real cool
 feature (except the real easy programming model) is that the games that

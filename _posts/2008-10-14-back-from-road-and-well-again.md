@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3239158553466281381
 blogger_orig_url: https://www.marcusoft.net/2008/10/back-from-road-and-well-again.html
 ---
 
-
 The last week marked a significant step in this year for the [Vasa
 Band](http://www.vasaband.se/). We released our brand new CD Priority
 (as I wrote about

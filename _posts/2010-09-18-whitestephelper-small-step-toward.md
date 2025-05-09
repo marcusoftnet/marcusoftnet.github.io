@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5718687913603168178
 blogger_orig_url: https://www.marcusoft.net/2010/09/whitestephelper-small-step-toward.html
 ---
 
-
 I have been using <a href="http://white.codeplex.com" target="_blank">White</a> in our project for a couple of days now and it’s looking good I must say. I use White in conjunction with <a href="http://www.specflow.org" target="_blank">SpecFlow</a> to get our specifications in an executable format (that still makes me smile everything I think of it…)
 
 What I soon realized was that much of the White-automating could be pushed to a base class… That is much of the stuff that we’re using and the way we’ll like to do stuff can be pushed downwards.

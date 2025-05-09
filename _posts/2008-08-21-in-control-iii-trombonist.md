@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2960134539198474093
 blogger_orig_url: https://www.marcusoft.net/2008/08/in-control-iii-trombonist.html
 ---
 
-
 This is not for the faint hearted, but well worth seeing.
 
 Its a clip from a recording session of the film music to the movie Hellboy. And the sounds these dudes produces are just ... well scary.

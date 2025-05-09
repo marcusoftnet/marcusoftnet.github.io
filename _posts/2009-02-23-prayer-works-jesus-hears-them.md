@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4166080631954390990
 blogger_orig_url: https://www.marcusoft.net/2009/02/prayer-works-jesus-hears-them.html
 ---
 
-
 I have this last week got two very real answers to my and other peoples
 prayers.
 

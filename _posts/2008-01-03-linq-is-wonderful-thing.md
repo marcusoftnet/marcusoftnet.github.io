@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5180147095034202263
 blogger_orig_url: https://www.marcusoft.net/2008/01/linq-is-wonderful-thing.html
 ---
 
-
 I have
 been playing around a little bit with LINQ. I think they are onto
 something here. I really like it - especially the way that LINQ stays

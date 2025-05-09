@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4688841574313889720
 blogger_orig_url: https://www.marcusoft.net/2007/03/traffic-in-russia.html
 ---
 
-
 If you ever
 are in Russia... in St Petersburg... please take the
 bus. This is one of the crossings in the town.

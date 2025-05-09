@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-215032983026844550
 blogger_orig_url: https://www.marcusoft.net/2014/07/talking-with-woody-and-some-thoughts-i.html
 ---
 
-
 Yesterday I had the good fortune to have a chat with <a href="https://twitter.com/WoodyZuill" target="_blank">Woody Zuill</a> over Skype. I was a really nice hour that just flew by, where we exchanged stories, ideas and had a few laughs.
 
 Let me, as a side note, just say that I love that; just exchanging stories with people. I **always** learn new stuff and quite often stories from my own experience pop back into my memory. This is the best part of conferences - meeting, interacting with others. That's what I miss the most, being a little sidestepped here in Indonesia. Praise the Lord for Skype and Twitter... ah well for the Internet too (although I'm not entirely sure He had any hands-on action on either of those inventions).

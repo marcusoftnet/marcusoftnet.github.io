@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3673529195688051591
 blogger_orig_url: https://www.marcusoft.net/2007/10/last-sprint-demo-of-project.html
 ---
 
-
 Tomorrow we have the last demo of the project. It feels great when you
 think of what we have accomplished in this short while:
 

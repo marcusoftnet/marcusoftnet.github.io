@@ -12,7 +12,6 @@ tags:
  - Salvation Army
 ---
 
-
 My main task here in Indonesia is to help our hospital to work out good strategic plans. It's a very interesting task since long-term strategies seems to not be very prominent in the Indonesia culture.
 
 There's also a translation issue about the word itself, Misi (mission), apparently have a different meaning for Indonesians that I use it. In this presentation I clarify how I use the word: as the reason for an organization to exists - our purpose.

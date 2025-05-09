@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8741078323839573558
 blogger_orig_url: https://www.marcusoft.net/2010/02/vbnet-considered-harmful.html
 ---
 
-
 I have once again been forced into using VB.NET which I am <a href="https://www.marcusoft.net/2007/03/vbnet-or-c.html" target="_blank">not very fond of</a>.
 
 My points up to now has been that the language in itself is not that bad. But the support (refactoring etc.) in Visual Studio is much worse than for C#. Also, there is a culture in the VB.NET community (as I understand) to hide complex stuff from your user. So for example you cannot see the references you have in your project until you hit “Show all files”. Another example for the sub-par support you get when using VB.NET.

@@ -11,7 +11,6 @@ thumbnail: /img/roti.png
 blogger_id: tag:blogger.com,1999:blog-36533086.post-496174853263675189
 ---
 
-
 This is the final post in my series on the problem that a lot of people sees meetings as not being real work. I think this has to do with the meetings being bad and badly conducted. So we need to improve on the quality of the meetings to make them more interesting feel worthwhile.
 
 In these blog posts ([I](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings.html) and [II](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html)) I have applied [the Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to the problem on how to make meetings better and more interesting to attend.

@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7719377498554246453
 blogger_orig_url: https://www.marcusoft.net/2007/02/mecka-for-brass-bandits.html
 ---
 
-
 Found
 an article about the most famous band room in the brass band movement.
 You'll find it here <http://4barsrest.com/articles/2006/art665.asp>

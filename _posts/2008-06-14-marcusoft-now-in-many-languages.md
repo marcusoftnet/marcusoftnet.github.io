@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-865799208095524726
 blogger_orig_url: https://www.marcusoft.net/2008/06/marcusoft-now-in-many-languages.html
 ---
 
-
 Today I found a nice little [tool from
 Google](http://translate.google.com/translate_tools) that helps readers
 of this blog to understand the content of it in a better way.

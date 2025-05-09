@@ -14,8 +14,6 @@ blogger_orig_url: https://www.marcusoft.net/2014/05/mongodb-and-10309-unable-to-
 ---
 
 
-
-
 Ok, this was about to drive me crazy, and it seems like a lot of people
 <a
 href="https://www.google.com/search?q=10309+Unable+to+create%2Fopen+lock+file%3A+%2Fdata%2Fdb%2Fmongod.lock+errno%3A13+Permission+denied+Is+a+mongod+instance+already+running%3F%2C+terminating&amp;oq=10309+Unable+to+create%2Fopen+lock+file%3A+%2Fdata%2Fdb%2Fmongod.lock+errno%3A13+Permission+denied+Is+a+mongod+instance+already+running%3F%2C+terminating&amp;aqs=chrome..69i57.727j0j4&amp;sourceid=chrome&amp;es_sm=122&amp;ie=UTF-8" target="_blank">have run into the same problem</a> but sometimes my Mongo installation dies on me with an error like this:

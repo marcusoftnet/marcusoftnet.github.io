@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-340756781042224307
 blogger_orig_url: https://www.marcusoft.net/2010/03/short-and-sweet-introduction-to-restful.html
 ---
 
-
 I have heard a lot about
 <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer"
 target="_blank">REST</a> and RESTful services but never have had the

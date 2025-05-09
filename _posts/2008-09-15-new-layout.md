@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1422752204414097530
 blogger_orig_url: https://www.marcusoft.net/2008/09/new-layout.html
 ---
 
-
 It's been a while since I've updated the layout of the blog - but now it's been done!  
 
 The theme is a bit more autumn than the previous one - may not cling to this one for as long.

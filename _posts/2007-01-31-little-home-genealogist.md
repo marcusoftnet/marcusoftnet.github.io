@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5373722382482052424
 blogger_orig_url: https://www.marcusoft.net/2007/01/little-home-genealogist.html
 ---
 
-
 Found
 a great site about genealogy.
 [http://www.geni.com](http://www.geni.com/)

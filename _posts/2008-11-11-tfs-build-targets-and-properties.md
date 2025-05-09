@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6662911047123782891
 blogger_orig_url: https://www.marcusoft.net/2008/11/tfs-build-targets-and-properties.html
 ---
 
-
 For some time now people has been turning to me at my customer for
 answerers regarding [TFS
 Build](http://msdn.microsoft.com/en-us/library/ms181710(VS.80).aspx). I

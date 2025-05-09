@@ -12,6 +12,5 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2854379912221414993
 blogger_orig_url: https://www.marcusoft.net/2008/11/great-site-for-msbuild-recipes.html
 ---
 
-
 Here is a cool site with [MSBuild Recipes](http://tfsbuild.com/). I
 might post to it from now on. Sharing is knowing.

@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6079851253242287882
 blogger_orig_url: https://www.marcusoft.net/2008/09/full-speed-and-free.html
 ---
 
-
 My situation right now is quite strange for me. The project I am
 involved in at work is really running full speed ahead - with my largest
 Scrum-team so far, 9 people - and at the same time I have some days a

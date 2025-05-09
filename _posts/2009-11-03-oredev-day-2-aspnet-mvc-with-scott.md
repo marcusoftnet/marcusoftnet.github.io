@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-472327445991958099
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-2-aspnet-mvc-with-scott.html
 ---
 
-
 Now we're getting into the "real stuff" or rather IT-related stuff.
 
 I am now attending a session with [Scott Allen](http://odetocode.com/blogs/scott/), who is a great guy by the way, on [ASP.NET MVC](http://www.asp.net/mVC/). As readers of this blog know I love this framework already since it got me back on understanding web development again.

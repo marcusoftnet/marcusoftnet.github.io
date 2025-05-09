@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6320403738094471320
 blogger_orig_url: https://www.marcusoft.net/2007/11/sandcastle-in-build-scripts.html
 ---
 
-
 I
 found this article, via a tip from a colleague, on how to use
 Sandcastle (Microsoft's new documentation

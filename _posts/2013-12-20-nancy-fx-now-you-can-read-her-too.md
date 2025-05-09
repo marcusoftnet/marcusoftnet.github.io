@@ -16,8 +16,6 @@ blogger_orig_url: https://www.marcusoft.net/2013/12/nancy-fx-now-you-can-read-he
 ---
 
 
-
-
 I fell in love with
 <a href="http://www.nancyfx.org/" target="_blank">Nancy</a> at first
 sight; so slick, minimalistic, testable and understandable, powerful and

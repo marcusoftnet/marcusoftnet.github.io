@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1877650632727020736
 blogger_orig_url: https://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html
 ---
 
-
 I’m rereading a great book – <a href="http://www.heathbrothers.com/switch/" target="_blank">Switch by the Heath Brothers</a> and it inspires me. The last time I read this book it inspired me <a href="https://www.marcusoft.net/2010/10/no-more-bugs-thought-experiment.html" target="_blank">to write a post</a> and it’s happening again.
 
 The book is about change, how to accomplish change and especially in situations where you are not in power or control. In short – how to talk to and influence others to understand the need for change and follow through on it.

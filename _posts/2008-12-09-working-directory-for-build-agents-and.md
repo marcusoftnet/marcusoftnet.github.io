@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8089000883201304042
 blogger_orig_url: https://www.marcusoft.net/2008/12/working-directory-for-build-agents-and.html
 ---
 
-
 We have been chasing a strange problem for a few days now. The scenario
 is as follows;
 

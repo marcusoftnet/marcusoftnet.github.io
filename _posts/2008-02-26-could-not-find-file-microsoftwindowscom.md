@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-336550589709812727
 blogger_orig_url: https://www.marcusoft.net/2008/02/could-not-find-file-microsoftwindowscom.html
 ---
 
-
 We have encountered a quite annoying bug when creating a test project that references a Windows application. The Windows application have been deployed via ClickOnce and that when the test project stopped compiling.
 
 In the test project we got the "Could not find file 'Microsoft.Windows.CommonLanguageRuntime'" error message on compilation.

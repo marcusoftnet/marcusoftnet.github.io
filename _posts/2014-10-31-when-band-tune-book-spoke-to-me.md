@@ -13,8 +13,6 @@ blogger_orig_url: https://www.marcusoft.net/2014/10/when-band-tune-book-spoke-to
 ---
 
 
-
-
 We break for something different. This is not my normal IT/agile/lean post. It's about God and his care for me
 
 Happy that you continued to read.

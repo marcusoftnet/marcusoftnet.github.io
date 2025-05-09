@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6063345379372657279
 blogger_orig_url: https://www.marcusoft.net/2009/01/aspnet-mvc-storefront.html
 ---
 
-
 I have been watching the first three in [this
 series](http://www.asp.net/learn/mvc-videos/#MVCStorefrontStarterKit)
 and not only are they a great introduction to [ASP.NET

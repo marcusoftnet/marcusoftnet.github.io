@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8286682178645630
 blogger_orig_url: https://www.marcusoft.net/2008/09/how-to-pass-and-receive-associative.html
 ---
 
-
 "How to pass and receive associative arrays with ODP.NET" - that
 question is sure to have to annoyed a lot of programmers. We have really
 pulled our hair over this problem and when you search for it on the net

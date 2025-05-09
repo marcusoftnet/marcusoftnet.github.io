@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6751370494112070271
 blogger_orig_url: https://www.marcusoft.net/2008/04/required-file-with-ialink3-could-not-be.html
 ---
 
-
 OK - a bit irritating but the first time I tried to compile ... well
 anything (a console-application in this case) on my newly installed
 Visual Studio 2008 on Vista - I got this error:

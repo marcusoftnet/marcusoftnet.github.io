@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1798314656243096071
 blogger_orig_url: https://www.marcusoft.net/2011/09/kanban-inzg-avega-group.html
 ---
 
-
 This is the third post in a short series on how <a href="http://twitter.com/#!/morgsterious" target="_blank">Morgan</a> and me went about to introduce Kanban and some Lean thinking to two support teams of the <a href="http://www.avegagroup.se" target="_blank">Avega Group</a> office. You can read <a href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group.html" target="_blank">post 1</a> and <a href="https://www.marcusoft.net/2011/09/kanban-inizing-avega-group_19.html" target="_blank">post 2</a> before this to get the complete picture.
 
 With this post I wanted to do some reflections on how the introduction of Kanban took hold for the teams and also what Morgan and me learned in the process. We are used to do this for IT-projects and teams working with system development or maintenance.

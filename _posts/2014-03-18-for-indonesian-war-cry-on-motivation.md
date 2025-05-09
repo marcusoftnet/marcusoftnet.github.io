@@ -13,8 +13,6 @@ blogger_orig_url: https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-mo
 ---
 
 
-
-
 DISCLAIMER for frequent readers of this blog:
 I now work for
 <a href="https://www.marcusoft.net/2013/06/moving-to-indonesia.html"

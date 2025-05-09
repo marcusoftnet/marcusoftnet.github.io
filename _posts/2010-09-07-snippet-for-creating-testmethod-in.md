@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-8686879862246797209
 blogger_orig_url: https://www.marcusoft.net/2010/09/snippet-for-creating-testmethod-in.html
 ---
 
-
 I've already posted this [snippet in C#](https://www.marcusoft.net/2009/02/snippet-for-creating-testmethod-in-c.html), but as I from time to time need it in VB.NET I'll post that too. Here you go:
 
 ```xml

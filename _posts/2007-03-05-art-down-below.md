@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5384804617305238217
 blogger_orig_url: https://www.marcusoft.net/2007/03/art-down-below.html
 ---
 
-
 Found this site <http://www.istadensspar.se/>.
 
 Apparently this is a guy that used to drive a subway train in Stockholm

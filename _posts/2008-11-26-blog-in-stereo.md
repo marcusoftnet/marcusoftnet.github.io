@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3908941120985289189
 blogger_orig_url: https://www.marcusoft.net/2008/11/blog-in-stereo.html
 ---
 
-
 As I [told you a while
 ago](https://www.marcusoft.net/2008/11/blogging-in-two-places-avega-group-blog.html)
 I am since a while back blogging for [Avega

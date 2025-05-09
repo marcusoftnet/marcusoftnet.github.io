@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-116168806472327241
 blogger_orig_url: https://www.marcusoft.net/2006/10/marcus-on-net.html
 ---
 
-
 This is my first ever publication on the Internet.
 
 I am not sure yet what to put down here but I hope that it will be meaningful, for me if not for any other.

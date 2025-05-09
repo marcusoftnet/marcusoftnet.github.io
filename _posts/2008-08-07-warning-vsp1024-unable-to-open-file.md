@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6393301215503286885
 blogger_orig_url: https://www.marcusoft.net/2008/08/warning-vsp1024-unable-to-open-file.html
 ---
 
-
 This warning occurs when doing testing with MSTest and running the test under code coverage. It is related to the warning "warning VSP2013: Instrumenting this image requires it to run as a 32-bit process. The CLR header flags have been updated to reflect this."
 
 and has confused me a lot. Especially since, when running the tests in a build script, the warning seems to come and go.

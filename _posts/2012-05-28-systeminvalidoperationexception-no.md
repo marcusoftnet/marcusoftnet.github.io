@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2846331516279827243
 blogger_orig_url: https://www.marcusoft.net/2012/05/systeminvalidoperationexception-no.html
 ---
 
-
 We’ve run into a little issue with <a href="http://fluent.stirno.com/blog/" target="_blank">FluentAutomation</a> and using MsTest at my current client. I’ve <a href="https://www.marcusoft.net/2012/05/specflow-page-objects-and.html" target="_blank">blogged about the setup before</a> but then I used <a href="http://www.nunit.org/" target="_blank">NUnit</a> and everything worked just fine. With MsTest… we had some problems. The first was an exception that was thrown to us like above:
 
 ```text

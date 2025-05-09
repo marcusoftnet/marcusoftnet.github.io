@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3718682898700130985
 blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-hour-2.html
 ---
 
-
 OK - if you want to do DDD then you better start out with the Domain Model. So today I created a Class Diagram for my domain. I also try to follow the Extreme OOP rules and TDD (whoa - my head will explode) and use them to guide me through the process.
 
 OK - that was quite exciting. I am not done yet - but I got a first domain-model up and running and started to mass produce unit tests.

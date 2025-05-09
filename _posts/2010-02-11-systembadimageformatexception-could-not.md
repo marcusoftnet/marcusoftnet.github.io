@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3325711529846229433
 blogger_orig_url: https://www.marcusoft.net/2010/02/systembadimageformatexception-could-not.html
 ---
 
-
 I ran into this problem when I tried to re-open a <a href="https://www.marcusoft.net/2009/09/automapping-with-fluentnhibernate.html" target="_blank">solution I did a while back</a> when labbing with Fluent <a href="https://www.hibernate.org/343.html" target="_blank">NHibernate</a> and SQLite.
 
 Behind the cryptic error message lies and easy solution; I was running the 32-bit version of the SQLite-driver and runtime. That' doesn’t fly on my Windows 7 64-bit machine.

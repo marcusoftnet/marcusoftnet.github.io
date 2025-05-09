@@ -10,7 +10,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5087828319830246734
 blogger_orig_url: https://www.marcusoft.net/2006/11/cd-from-eikanger-bjrsvik.html
 ---
 
-
 I
 bought the CD [Twenty supreme
 years](http://www.4barsrest.com/shopping/cd_detail.asp?id=586) by

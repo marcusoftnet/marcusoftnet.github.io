@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6832974975942400336
 blogger_orig_url: https://www.marcusoft.net/2008/09/postsharp-new-aspect-on-coding.html
 ---
 
-
 Yesterday I went to an lecture at [Avega](http://www.avega.se/) by [Gael Fraiteur.](http://gael.fraiteur.net/) who has built the [Aspect Oriented](http://en.wikipedia.org/wiki/Aspect-oriented_programming) framework [PostSharp](http://www.postsharp.org/).
 
 This was right up my ally and quite frankly the AOP way of doing things is something I have strived for but never knew how.

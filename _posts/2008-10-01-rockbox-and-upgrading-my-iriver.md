@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5877411300635892001
 blogger_orig_url: https://www.marcusoft.net/2008/10/rockbox-and-upgrading-my-iriver.html
 ---
 
-
 I own a, now, quite old MP3 player called [IRiver
 H320](http://tbn0.google.com/images?q=tbn:50tN7Jbthhm7UM:http://lingon.files.wordpress.com/2006/07/00114893.jpg).
 And even though I am often heckled by IPod-owners I still love it. It

@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5097803901544413921
 blogger_orig_url: https://www.marcusoft.net/2008/02/doing-scrum-in-tfs.html
 ---
 
-
 I am starting off a new project next week and we are going to run it as a SCRUM project (of course, there is no other way now is there :)) .
 
 Since our team is highly distributed we'll need some sort of support to keep the SCRUM-heartbeat going. Let right now say that having distributed team is not a choice of anyone in the project, that just how it is and we'll have to live with it.

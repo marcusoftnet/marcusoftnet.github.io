@@ -13,8 +13,6 @@ blogger_orig_url: https://www.marcusoft.net/2013/09/uncertainty-living-on-other-
 ---
 
 
-
-
 I'm a big proponent of trying to live with and take embrace of
 uncertainty when you can. I've been saying "It's just how things are -
 try to cope with it instead of fighting it". Inspired by Dan North and

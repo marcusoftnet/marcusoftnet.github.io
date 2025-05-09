@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-2642592786103386391
 blogger_orig_url: https://www.marcusoft.net/2008/12/about-this-blog.html
 ---
 
-
 Lately I have been asked the question why I have this blog, several times actually. I honestly thought that I wrote that in [the first posting I did](https://www.marcusoft.net/2006/10/marcus-on-net.html), but it was very short. Not even when I change into [www.marcusoft.net](https://www.marcusoft.net) I [wrote something](https://www.marcusoft.net/2007/08/new-url-httpwwwmarcusoftnet.html) about it.
 
 But the reason for the blog is, and has always been this simple: I write about things that interest me and when they catches my attention. For several years I did notes in different kind of notebooks at different customers. Always forgot them when I left. So now I have them in one place. I often link to the blog for solutions to problems I have and solve.

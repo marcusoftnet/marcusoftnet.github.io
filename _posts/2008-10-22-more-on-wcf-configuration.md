@@ -12,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3177796519915879546
 blogger_orig_url: https://www.marcusoft.net/2008/10/more-on-wcf-configuration.html
 ---
 
-
 In my [last
 post](https://www.marcusoft.net/2008/10/configuration-of-wcf-binding.html)
 I mentioned the great WCF service/client configuration editor that ships

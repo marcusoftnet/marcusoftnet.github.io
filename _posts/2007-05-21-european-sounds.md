@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-466119577858273659
 blogger_orig_url: https://www.marcusoft.net/2007/05/european-sounds.html
 ---
 
-
 My favorite radio show - the [Listen to the
 Band](http://www.bbc.co.uk/radio/aod/networks/radio2/aod.shtml?radio2/listenband) -
 show from the BBC Radio 2 has done a retrospective show of the

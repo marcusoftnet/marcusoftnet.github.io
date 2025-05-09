@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6581267679866109238
 blogger_orig_url: https://www.marcusoft.net/2008/05/sprint-demo-again.html
 ---
 
-
 OK, it's
 that time of the sprint, as we say... This sprint has been a bit special
 since we not have hade access to all team members during the whole
