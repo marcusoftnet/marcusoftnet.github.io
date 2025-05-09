@@ -13,8 +13,19 @@ This script will use the words that you have added to your VS Code settings file
 
     ```bash
     # Output in the console
-    sh scripts/check-spelling.sh _posts
+    bash scripts/check-spelling.sh _posts
 
     # Output result to a file
-    sh scripts/check-spelling.sh _posts > spelling-results.txt 2>&1
+    bash scripts/check-spelling.sh _posts > spelling-results.txt 2>&1
+    ```
+
+* [`markdown-lint`](/scripts/markdown-lint.sh) - this tool runs linting on all markdown files in a directory passed as argument. It uses the configuration file `./.markdownlint.json` to respect the same rules as used when posts are written one by one. You can pass `--fix` to automatically clean up simple problems.
+
+    ```bash
+    # Output in the console
+    bash scripts/markdown-lint.sh _posts
+    bash scripts/markdown-lint.sh _posts --fix
+
+    # Output result to a file
+    bash scripts/markdown-lint.sh _posts > linting-results.txt 2>&1
     ```
