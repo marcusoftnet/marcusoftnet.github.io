@@ -64,7 +64,7 @@ Ok with that in place the averages are pretty easy to do.
 
 The average lead time is very simple to calculate:
 
-```
+```text
 =Average(E2:E)
 ```
 
@@ -111,7 +111,7 @@ Bom! Done!
 Now I can easily answer the question;
 
 > What is the average of items we estimated to S?
-
+>
 > 9.4 days, sir!
 
 ## Median

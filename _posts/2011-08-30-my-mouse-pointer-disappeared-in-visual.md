@@ -23,9 +23,9 @@ After some digging, I found a solution in an old [discussion](http://weblogs.asp
 3. **Go to Personalization**
 4. **Click on Change Mouse Pointers**
 
-This will open the Mouse Properties window:
+    This will open the Mouse Properties window:
 
-![Mouse Color Scheme](/img/mouse%25252520color%25252520scheme_thumb%2525255B2%2525255D.jpg)
+    ![Mouse Color Scheme](/img/mouse%25252520color%25252520scheme_thumb%2525255B2%2525255D.jpg)
 
 5. **Select the Scheme called "Windows Black"**
 

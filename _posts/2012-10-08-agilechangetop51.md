@@ -42,7 +42,7 @@ If you don't have a reason like that to change, the change journey will be MUCH 
 Finally, and this is a bit threatening and I don't like it, but I think that you need an "or else"-reason. Like:
 
 > We need to be able to move much faster or else our competitors will pass us within a year.
-
+>
 > If Acme Inc enters our market they will pass us within 3 months
 
 These are good reasons for change. And when you have a reason like this in place you can trust that everybody understands and is willing to make a long-lasting change. It's turning the reasoning on its head:

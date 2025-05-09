@@ -60,7 +60,7 @@ The second time (you guessed it), we asked them to write column by column, finis
 
 ![IMG_1337](/img/IMG_1337_thumb.jpg)
 
-###### Findings
+##### Findings
 
 This game was a real eye-opener for the group (although one pair did the exercises in the reversed order.
 

@@ -53,11 +53,11 @@ Imagine that you were asked to create a dinner for 50 people. 3 courses, all new
 If you ran a catering business - how would you tackle this? Yeah - you would say a sum that is higher than you think, to cover up for the risk you're taking.
 
 > Short side-story; I was in a project that ran way under budget and we held a retrospective to find out why. So the business people said; how could you be so fast this time?
-
+>
 > IT-person; well ... you know ... when you ask us for a fixed date, fixed scope, fixed cost estimate we always take our estimates times 3.
-
+>
 > This made the business people laugh through their nose. When they had calmed down they managed to explain why;
-
+>
 > Business person; You see... we don't trust your estimates. So we take them times 3.
 
 The thing about that story is that not only was it stupid to take times 3 times 3. No that they actually took the time to do that exercise at all.
@@ -78,9 +78,9 @@ For extra credits - let the team themselves pick from the (prioritized) list wha
 This is based on the thinking behind [Littles Law](http://en.wikipedia.org/wiki/Little's_law), which put simply says that the more items you are doing at the same time the longer each items will take. So for example:
 
 > If we're doing 12 items at the same time and finish 12 item each week, the time take for each item is.... 1 week.
-
+>
 > By simply doing 6 items at the time. Still working the same and completing 12 items each week; time taken per item is 1/2 week.
-
+>
 > But if we do more stuff; 24 items that is pushed out to do. Still working finishing 12 items / week that will make the time taken per item to go up to 2 weeks.
 
 So the fewer items we're working with the faster each item flows through the system. You and your team can achieve this by letting the team draw new work to themselves when they have capacity.

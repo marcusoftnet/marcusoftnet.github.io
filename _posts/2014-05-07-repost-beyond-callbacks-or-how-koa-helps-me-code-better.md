@@ -151,8 +151,12 @@ Ok, now that you have an updated version of Node on your system there’s one fi
 
 Let’s say that we had the code from my example above in a file called generatorDemo.js. We would then start the program like this; “_node –harmony generatorDemo.js_“. For me, the best way of remembering to do this is to put it into my package.json file, under the scripts-tag as the “_start_” script;
 
-```
- “scripts” : { “start” : “node –harmony app.js” }
+```json
+{
+  "scripts" : {
+    "start" : "node –harmony app.js"
+  }
+}
 ```
 
 This will then allow me to start the application, like I always do, with “npm start”. If you want to learn more I’ve written about [package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) and [npm](https://www.marcusoft.net/2014/02/mnb-npm.html).

@@ -14,7 +14,8 @@ One of the things that first made [kanban](http://bit.ly/theKanbanBook) known an
 Many kanban boards have an emergency lane. However often I see it abused (or being feared to be abused) and hence it will not be as useful as it could be. It's a really great tool, both for "product owners" and the team alike. In this post I wanted to share some policies that I've found useful to manage emergency-lanes (or equivalent).
 
 <!-- excerpt-end -->
-# Emergency lanes
+
+## Emergency lanes
 
 The rationale behind having a emergency lane is that sometimes works comes in that is truly is an emergency and it then feels a bit strange to put it a Todo-column and wait until it's time for it.
 

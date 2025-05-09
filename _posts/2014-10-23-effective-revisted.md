@@ -90,9 +90,9 @@ I'm no pastor. And I don't for a second think that I know more about their very 
 But this is a nice way to reason about this question that I've used for myself when I was asked the same kind of question about the role of an agile coach:
 
 > If we didn't have a pastor here, how would you notice the difference?
-
+>
 > If the team didn't have an agile coach, how would that change the team? What would be better? What would be worse?
-
+>
 > As a parent, what kind of outcomes am I looking for in my kids that my parenting has given them?
 
 I'll leave that as an exercise for you to think about. When I come up with something worth writing, I'll come back to you.

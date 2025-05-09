@@ -25,7 +25,7 @@ This is very much like before, see my [previous post on the subject](https://www
 
 You might need to up/down-grade the version of Node that you are using. I like the [nvm](https://github.com/creationix/nvm) tool for this. Once install you can get the version of Node that AWS Lambda supports with:
 
-```
+```bash
 nvm install v4.3.2
 ```
 
@@ -78,7 +78,7 @@ Notice that we don't give our lambda function a name. That is picked up from the
 
 Let's run it now: `npm run create` and a few seconds later you'll see a nice little output stating that you have a new application in AWS. Here's the output, let's look a little closer:
 
-```
+```json
 {
   "lambda": {
     "role": "helloworld12-executor",
@@ -139,8 +139,10 @@ Reloading the URL proves that our function is updated.
 
 Testing this simple little function is probably easiest to do just with curl. Here's test script that I used:
 
-```
-"test" : "curl https://7f0k8elirh.execute-api.us-west-2.amazonaws.com/latest/hello/marcus"
+```json
+{
+  "test" : "curl https://7f0k8elirh.execute-api.us-west-2.amazonaws.com/latest/hello/marcus"
+}
 ```
 
 Now I can run a quick smoke-test by just going `npm t` .

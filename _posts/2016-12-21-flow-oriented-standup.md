@@ -93,7 +93,7 @@ I don't care how many things are going on, or how many percent done we are. What
 
 Speaking of Done. I hear more and more of the teams I'm working with skipping that column altogether. There's no Done. Our feature is in Production, being used by users, sure but that doesn't mean that it's Done, now do it.
 
-At the very least we should check if the reason (maybe even with a metric) we built this thing in the first place was fulfilled. If you're using [Lean Startup]() ideas you may have done an _experiment_ to (dis)prove a _hypothesis_. The experiment most probably is not _Done_ until you have run the feature for awhile. And the outcome of the experiment is some kind of learning that in turn might render new features.
+At the very least we should check if the reason (maybe even with a metric) we built this thing in the first place was fulfilled. If you're using [Lean Startup](https://theleanstartup.com/) ideas you may have done an _experiment_ to (dis)prove a _hypothesis_. The experiment most probably is not _Done_ until you have run the feature for awhile. And the outcome of the experiment is some kind of learning that in turn might render new features.
 
 Some of my teams have a column for "Evaluate" or "Learn". And I've see sections on the board (or screens) for metrics that we are gathering to learn. I'm hoping to soon see another list at the end "What we learned from feature X being deployed"
 

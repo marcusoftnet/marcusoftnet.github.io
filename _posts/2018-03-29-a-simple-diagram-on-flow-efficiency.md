@@ -40,7 +40,7 @@ But you and I can deep dive a bit more.
 
 The comparison between work time and waiting time is called **flow efficiency** and tracks how much of the total lead time is actually work. There's a [great post by Julia Wester](http://www.everydaykanban.com/2016/09/25/flow-efficiency/) that describes this in detail. It's super simple to calculate:
 
-```
+```text
 flow efficiency = work time / (work time + waiting time)
 ```
 
@@ -56,7 +56,7 @@ Simply just decorate the diagram with the names of the process-stages (in some c
 
 Now we can easily calculate the flow efficiency:
 
-```
+```text
 Work Dep 1: 12 h
 Wait: 2 weeks á 40 h = 80 h
 Work Dep 2: 1 day * 8 h = 8 h

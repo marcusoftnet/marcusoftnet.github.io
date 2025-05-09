@@ -111,11 +111,11 @@ It just needs to contain enough information so that we know what to talk about. 
 ## Summary
 
 > Business impacts are heavy on the WHY and light on the HOW
-
+>
 > Focusing on impacts implies focusing on opportunities and unrealized improvement opportunities. It is, at its core, positive.
-
+>
 > Focusing on impacts opens up discussions for experimenting and trying different ways to the goal.
-
+>
 > By focusing on impacts we don't need to remember many details - they will come back to us, in the right context, as we discuss how to reach the goal. I promise.
 
 Stop working with backlog - start working with impacts. You will be happier, your work will be more flexible and engaging. And there will be dancing unicorns all around you.

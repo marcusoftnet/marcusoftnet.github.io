@@ -42,7 +42,7 @@ I go through a couple of Vision statements for inspiration and to learn a little
 
 ## Teal organizations - a parenthesis
 
-Interesting enough, as a parenthesis - I don't mention this in the presentation, [teal organizations]() don't use vision statements. For them the Mission statement is the most important thing. The vision is up to each group or individual to come up with. As long as everyone knows WHY the organization exists we will reach our goals, is their reasoning.
+Interesting enough, as a parenthesis - I don't mention this in the presentation, [teal organizations](https://en.wikipedia.org/wiki/Teal_organisation) don't use vision statements. For them the Mission statement is the most important thing. The vision is up to each group or individual to come up with. As long as everyone knows WHY the organization exists we will reach our goals, is their reasoning.
 
 More traditional organizations, follow the same reasoning but on the strategic plan level. Meaning that the Mission and Vision are decided and considered very
 

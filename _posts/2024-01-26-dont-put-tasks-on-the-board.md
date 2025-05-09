@@ -82,7 +82,7 @@ It’s not important that everyone has something to do – as long as value keep
 If we have a lot of tasks on the board, it will get really hard for people around our team to understand what is going on.
 
 > How is that report story coming along?
-
+>
 > Great – we have updated both the API and the database index.
 
 Instead, we want to talk about the progress of the story itself. Here I think much of the lure of breaking down into tasks stems from. Because then we can say things like 12/25 tasks are completed. In tools like JIRA, this happens automatically.

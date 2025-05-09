@@ -15,7 +15,7 @@ After my [refactoring yesterday](https://www.marcusoft.net/2009/03/sprint-planne
 
 So that’s what I’ll do today. [TDD](http://en.wikipedia.org/wiki/Test-driven_development) through a function that swaps priority points for a product backlog item and the item before (prioritize up) or after (prioritize down) it.
 
-*Coding in progress*
+## Coding in progress
 
 That really was an old-time programming problem. Fun! But now I have TDD’ed a priority swap algorithm. That was all I managed to get through today. Some progress, I think.
 

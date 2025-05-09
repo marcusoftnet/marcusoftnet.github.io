@@ -22,19 +22,19 @@ I don't have a solution for this, but I needed to write my thoughts down to flus
 The problem is best summed up in a couple of statements, they go something like this:
 
 > The "management" doesn't know how things actually are.
-
+>
 > I would not have done that / I would not have done it like this. Idiotic!
-
+>
 > I've never heard about this before. It's not properly communicated!
 
 You recognize this? Or maybe you've been "management" and then said (I've been here too):
 
 > Why don't they get this? It's totally aligned with our strategy Y.
-
+>
 > Just do it already. We don't have time to involve everyone in every decision
-
+>
 > They don't have the large picture
-
+>
 > We have already communicated that - many times over. I don't understand how we could be clearer
 
 I have seen this happen many times. In fact, as I wrote, I've never seen this **not** happen.

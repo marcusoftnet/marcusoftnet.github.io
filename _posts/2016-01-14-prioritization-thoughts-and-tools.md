@@ -114,10 +114,10 @@ Now create a table with all the suggested features that you are as rows, and lis
 
 | Feature   | # users increase | quick to implement |
 | --------- | ---------------- | ------------------ |
-| Feature 1 |                  |
-| Feature 2 |                  |
-| Feature 3 |                  |
-| Feature 4 |                  |
+| Feature 1 |                  |                    |
+| Feature 2 |                  |                    |
+| Feature 3 |                  |                    |
+| Feature 4 |                  |                    |
 
 Now go through feature by feature ranking it solely on one criteria, for example "Will increase the number of users". I normally rate it 1-5, where larger is better. So, if Feature 1 will increase the number of users a lot it gets a 5.
 

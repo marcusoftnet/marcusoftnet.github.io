@@ -60,13 +60,13 @@ When we had done that we started to have a conversation about where this would l
 
 > **Transparency** - We believe that we should seek more and more transparency. It fosters a good and open culture of collaboration and openness. In a transparent setting its easier to get help, easier to share information and harder to hide and do bad things.
 > Ultimately this leads to trust being built up and shared among the members of the organization. We trust each other to do good and I, as member of the organization, knows that everything I do will be visible for everyone else in the organization.
-
+>
 > **Service minded** - Yayasan without clinics and hospitals are truly useless.
 > A hospital or clinic could get by without the hospital.
 > We, the Yayasan, want to provide you with added-value, for being a Salvation Army clinic or hospital
 >
 > The mission for us is: "to make the clinics and hospitals in the Yayasan great" and everything we do is guided by the question: "Does this make the clinic or hospital better?"
-
+>
 > **Humble -**We think that you know best what works best in your context, at your clinic or hospital. We can help you if you need us, but will try to shy away from forcing you to do something. We don't want to be a police force but rather be someone that helps and challenge you to become better (than you thought you could be...). We want to be less law enforcer and more coach.
 
 I can already see how getting these keywords down and trying to live by them have helped us to improve and develop our focus.

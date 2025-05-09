@@ -22,12 +22,12 @@ For my Sprint domain, I have a list of `SprintItems`, each with a list of `Actio
 
 I’m not entirely sure if this aligns perfectly with [Domain-Driven Design (DDD)](http://en.wikipedia.org/wiki/Domain-driven_design), but it’s a starting point. My modeling is done in PowerPoint, and you can check it out in the [modeling.pptx file](http://sprintplannerhelper.codeplex.com/) on the CodePlex project page.
 
-**PowerPointing in progress**
+## PowerPointing in progress
 
 ![Aggregates](/img/sprintplanner_aggregates.jpg)
 
 Now that the planning is done, I’ve moved on to creating repositories for these aggregates. This mainly involves setting up inheritance and writing simple tests.
 
-**Coding in progress**
+## Coding in progress
 
 The coding and testing took some time, but I’ve got the tests in place now. Everything is set up to start working on the UI for the sprint part of my domain. Looking forward to making some real progress here!

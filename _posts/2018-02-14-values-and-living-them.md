@@ -56,18 +56,18 @@ I have the awesome opportunity to work for [Spotify](https://www.spotify.com/) r
 
 Nothing of this has happened in reality. These musings are just my own for this post, I'm just trying out a theory using the awesome values of Spotify as an example. For example, I don't know an Anna at the company. Disclaimer over. But true.
 
-#### **We're innovative!**
+### **We're innovative!**
 
 The first phrase is absolute key for Spotify and focuses on always thinking innovative.  Let's use it in a sentence:
 
 > Anna was very **innovative** during the hack week last month. Her hack failed but we learned a great deal from her sharing what made it fail. Great work, Anna!
-
+>
 > Anna - I would never have thought of trying Node as a backend service for our data volumes! Nice **innovation**!
 
 Yes! That is what we want to see. It works. Let's [see it fail too](http://www.sustainabletdd.com/2012/03/importance-of-test-failure.html)
 
 > Marcus helped us being **innovative** yesterday when he shut down 3 of 4 ideas for hacks as 'not feasible'
-
+>
 > When Marcus made it very clear that failure is not an option - well I tell ya… that really trigged my **innovation** spirit!
 
 Well… that's not innovative. And it shows clearly.
@@ -85,7 +85,7 @@ Perfect! Lovely collaborative spirit!
 And what about the opposite - would we spot it.
 
 > Great **collaboration** yesterday, Marcus. That you sit in an isolated part of the office for hours upon end really helps us be more than individuals.
-
+>
 > "I don't care you do it - just do it. I tell. You do." Those sentences in the email to all of us really put us into **collaboration** mode, Marcus. Thanks.
 
 No no no… that is not right. Good. It fails as expected.
@@ -113,7 +113,7 @@ Oh my God - what's his problem?! Opposite of what we wanted. Let's leave this an
 Here Spotify talks about their passion is the thing that drives them, the makes them bold and wanting to take big bets.
 
 > Anna is so **passionate**. She just lights up when you talk about the content distribution version 3.6. It's contagious!
-
+>
 > Thanks Anna for your **passion**! That was a bold bet we took, but you made us all believe in it.
 
 Yes! Great stuff, Anna! I see many Anna's across the company and now it starts to make sense what passionate means.
@@ -133,7 +133,7 @@ Spotify talks a lot about having fun at work. And they really live up to this in
 And Marcus, what is he up to?
 
 > Very **playful** spirit, voting for no decorations in public facing areas. Our professional appearance is more important. True!
-
+>
 > Yes! Keeping the sound in the office to a minimum is very important. Not sudden burst of music and **playful**ness. Unless it is in the designated areas and times. Good point, Marcus. I'll add it to the PM and we will circulate it for maximum compliance across the company.
 
 Well… he is not just following our values now, is he? Is he working for another company? With other values? Or does we just not share the definition of playful?

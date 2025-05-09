@@ -47,7 +47,7 @@ For years I thought about this law as something bad, and something that we shoul
 He said something else, more on that later, but that is the thing that got me thinking. Because Mr. Conway observed a law. In the scientific sense. It will happen. We can choose to fight it (for the rest of our existence) and I've seen many organizations do precisely that. In these organizations you will hear comments like;
 
 > Everything is slowed down due to our dependencies
-
+>
 > We can't get anything done by ourselves, we depend on A, B and sometimes C & D too
 
 And [my favorite](https://www.marcusoft.net/2016/04/what-are-you-optimized-for-then.html):

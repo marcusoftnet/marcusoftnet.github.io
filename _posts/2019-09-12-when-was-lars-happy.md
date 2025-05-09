@@ -99,7 +99,7 @@ That is also why we are constantly looking to improve and find a faster flow so 
 ## Conclusion
 
 > When was Lars happy?
-
+>
 > When he could drive the car.
 
 I think it is a useful starting point for any discussion about improving the flow of value in any process. Measuring our the time our work takes (flow time) is great but the perspective of need met could be lost. That time is from "Could you please" until "Thank you very much" (Lead time).

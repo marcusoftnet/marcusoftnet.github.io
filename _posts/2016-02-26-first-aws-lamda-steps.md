@@ -25,19 +25,19 @@ I have to say, after just a day or two of working with Claudia, that it's a smoo
 
 The command line interface is intuitive and the documentation is easy to follow. Don't miss the high paced [introduction movie](https://vimeo.com/156232471) for a whirlwind tour of the most basic features.
 
-Also, luckily for us it's just a <code>npm</code> package that we can install, but don't do that just yet...
+Also, luckily for us it's just a `npm` package that we can install, but don't do that just yet...
 
 ## Setting up your environment
 
 AWS Lambda, for some reason, runs on an ancient version of Node. 0.10.36, released in January 2015.
 
-Ok, that's a small thing to fix by using the [nvm tool](https://www.npmjs.com/package/nvm). Install this tool (<code>curl http://nvm-latest.herokuapp.com | bash</code>, for example) and then run the following command
+Ok, that's a small thing to fix by using the [nvm tool](https://www.npmjs.com/package/nvm). Install this tool (`curl http://nvm-latest.herokuapp.com | bash`, for example) and then run the following command
 
 ```bash
 nvm install v0.10.36
 ```
 
-Great - now you can easily switch (<code>nvm use v0.10.36</code>) to this version of Node when you want to do Lambda development.
+Great - now you can easily switch (`nvm use v0.10.36`) to this version of Node when you want to do Lambda development.
 
 ## Setting up AWS
 
@@ -45,14 +45,14 @@ You need an account for AWS of course. It's free to get started, just head over 
 
 Ok, great! Now set up a file with your [AWS credentials](https://console.aws.amazon.com/iam/home#security_credential) so that you don't have to write them over and over when you deploy your functions.
 
-Create a credentials files in the <code>.aws</code> directory of your root, like this:
+Create a credentials files in the `.aws` directory of your root, like this:
 
 ```bash
 mkdir ~/.aws
 touch ~/.aws/credentials
 ```
 
-Open that file in your favorite editor (<code>sublime ~/.aws/credentials</code> for example) and add the following structure, using [your credentials](https://console.aws.amazon.com/iam/home#security_credential) of course:
+Open that file in your favorite editor (`sublime ~/.aws/credentials` for example) and add the following structure, using [your credentials](https://console.aws.amazon.com/iam/home#security_credential) of course:
 
 ```text
 [default]
@@ -62,7 +62,7 @@ aws_secret_access_key = <AS IF I'D TELL YOU ABOUT THESE>
 
 ## Install Claudia
 
-Now we can install Claudia with the familiar command <code>npm install claudia -g</code>.
+Now we can install Claudia with the familiar command `npm install claudia -g`.
 
 We are ready to code!
 
@@ -89,13 +89,13 @@ npm install claudia-api-builder -S
 
 ## Ensure that our code gets deployed
 
-Now open the <code>package.json</code> file and add a new <code>files</code> property with all your <code>*.js</code> files. Like this:
+Now open the `package.json` file and add a new `files` property with all your `*.js` files. Like this:
 
 ```bash
 "files" : ["*.js"],
 ```
 
-This ensures that the code we write (in <code>.js</code> files at least) gets deployed.
+This ensures that the code we write (in `.js` files at least) gets deployed.
 
 ## Write a simple API
 
@@ -114,15 +114,15 @@ api.get("/hello/{name}", function (request) {
 module.exports = api;
 ```
 
-Quite simply this creates little api for us that will respond to GET request to <code>/hello</code>. We also expect another part of the URL that is the <code>{name}</code> to say hello to. This will be parsed using the <code>request.pathParams.name</code>-property.
+Quite simply this creates little api for us that will respond to GET request to `/hello`. We also expect another part of the URL that is the `{name}` to say hello to. This will be parsed using the `request.pathParams.name`-property.
 
 At the end we simply return a string with the greeting. Simple stuff and a lot like [KoaJs](http://app.pluralsight.com/courses/javascript-koa-introduction), saved the cool generator stuff.
 
 ## Create it in the cloud
 
-It's now time to use Claudia for to do some boring setup stuff for us. You can read about the <code>claudia</code> command by <code>claudia --help</code>.
+It's now time to use Claudia for to do some boring setup stuff for us. You can read about the `claudia` command by `claudia --help`.
 
-We are now going to use <code>claudia create</code>, which will create a new lambda function for us, as well as creating an API in the ApiGateway.
+We are now going to use `claudia create`, which will create a new lambda function for us, as well as creating an API in the ApiGateway.
 
 Here's the command in full, I'll go through the parts below:
 
@@ -130,11 +130,11 @@ Here's the command in full, I'll go through the parts below:
 claudia create --name aLittleGreeter --region us-west-2 --api-module index
 ```
 
-* The <code>--name</code> is the name that you will use to identify the API and the Lambda with. You'll see it all over the place as roles are prefixed etc.
-* <code>--region</code> is the region where you will deploy your stuff to. [This page](http://docs.aws.amazon.com/general/latest/gr/rande.html) shows which services are available in which region
-* <code>--api-module</code> is the name of the module that contains our api. In our case it's the <code>index.js</code> file.
+* The `--name` is the name that you will use to identify the API and the Lambda with. You'll see it all over the place as roles are prefixed etc.
+* `--region` is the region where you will deploy your stuff to. [This page](http://docs.aws.amazon.com/general/latest/gr/rande.html) shows which services are available in which region
+* `--api-module` is the name of the module that contains our api. In our case it's the `index.js` file.
 
-I often put this into my <code>package.json</code> file under the <code>scripts</code> node:
+I often put this into my `package.json` file under the `scripts` node:
 
 ```json
 "scripts": {
@@ -142,11 +142,11 @@ I often put this into my <code>package.json</code> file under the <code>scripts<
 },
 ```
 
-which means that users of my code can create the lambda using <code>npm run claudia:create</code>
+which means that users of my code can create the lambda using `npm run claudia:create`
 
-Run that command now and wait until <code>claudia</code> finish her magic.
+Run that command now and wait until `claudia` finish her magic.
 
-If everything went well, you'll see some nice output from <code>claudia</code> that ends like this:
+If everything went well, you'll see some nice output from `claudia` that ends like this:
 
 ```bash
 {
@@ -162,21 +162,21 @@ If everything went well, you'll see some nice output from <code>claudia</code> t
 }
 ```
 
-This is the content of the <code>claudia.json</code> that <code>claudia</code> created, which means that your service is created and waiting for you to access it.
+This is the content of the `claudia.json` that `claudia` created, which means that your service is created and waiting for you to access it.
 
 ## Running the lambda
 
-Now that we are going to run this function in the cloud we will also start to realize how much work <code>claudia</code> made for us behind the scenes.
+Now that we are going to run this function in the cloud we will also start to realize how much work `claudia` made for us behind the scenes.
 
-First open up the [AWS Console](https://console.aws.amazon.com/) (yes that screen is scary. Look away!) and go to the [API Gateway](https://console.aws.amazon.com/apigateway/home). Here's you'll find the first thing <code>claudia</code> did: created a API endpoint for us.
+First open up the [AWS Console](https://console.aws.amazon.com/) (yes that screen is scary. Look away!) and go to the [API Gateway](https://console.aws.amazon.com/apigateway/home). Here's you'll find the first thing `claudia` did: created a API endpoint for us.
 
-Click the "aLittleGreeter" link of your API and browse around a bit if you want. Or just click the <code>Resources</code> menu and select <code>Stages</code>. This is the next thing <code>claudia</code> did: created a stage called <code>latests</code> which is the endpoint where the latest version of your function will be.
+Click the "aLittleGreeter" link of your API and browse around a bit if you want. Or just click the `Resources` menu and select `Stages`. This is the next thing `claudia` did: created a stage called `latests` which is the endpoint where the latest version of your function will be.
 
-Click the "latests" link and you'll can see a URL to your function: <code>https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest</code> for example.
+Click the "latests" link and you'll can see a URL to your function: `https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest` for example.
 
-By accessing this URL we can call our function. Remember that our API responds to HTTP GET (<code>api.get</code>) and that we expect the URL to end in <code>"/hello/{name}"</code>.
+By accessing this URL we can call our function. Remember that our API responds to HTTP GET (`api.get`) and that we expect the URL to end in `"/hello/{name}"`.
 
-Copy the URL and paste it in a browser (which issues GETs) and append <code>/hello/Marcus</code> (or your name if you want). The full URL for me is: <code>https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest/hello/Marcus</code>.
+Copy the URL and paste it in a browser (which issues GETs) and append `/hello/Marcus` (or your name if you want). The full URL for me is: `https://mu2ptzrnc2.execute-api.us-west-2.amazonaws.com/latest/hello/Marcus`.
 
 If everything worked as planned you should see an epic message on the screen. You now have a little lambda in the cloud. Scaling to whatever traffic you send to it!
 
@@ -196,7 +196,7 @@ Here's a few things that confused me when I got this simple example up and runni
 
 ### Create and update
 
-If you are anything like me; you probably messed up somewhere in there. This means that you want to deploy again and hence run <code>npm run claudia:deploy</code> again.
+If you are anything like me; you probably messed up somewhere in there. This means that you want to deploy again and hence run `npm run claudia:deploy` again.
 
 [Wah-wah-wah](http://www.sadtrombone.com/?autoplay=true).
 
@@ -206,24 +206,24 @@ This fails, probably with something like:
 Role with name aLittleGreeter-executor already exists.
 ```
 
-Because <code>claudia create</code> is for the first time only. Cleaning up after a creation is, [for now](), not supported by <code>claudia</code>. Doing it manually requires:
+Because `claudia create` is for the first time only. Cleaning up after a creation is, for now, not supported by `claudia`. Doing it manually requires:
 
 * Removing the [IAM Role](https://console.aws.amazon.com/iam)
 * Removing the [API Gateway](https://console.aws.amazon.com/apigateway)
 * Removing the [Lambda function](https://console.aws.amazon.com/lambda)
 
-What you'd want to do instead of <code>create</code> this again is to <code>claudia update</code>. That's the whole command since <code>claudia</code> will use the <code>claudia.json</code> file the creation step created.
+What you'd want to do instead of `create` this again is to `claudia update`. That's the whole command since `claudia` will use the `claudia.json` file the creation step created.
 
-I created a <code>package.json</code> script for it too:
+I created a `package.json` script for it too:
 
 ```json
-    "scripts": {
-        "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index",
-        "claudia:update" : "claudia update"
-    }
+"scripts": {
+  "claudia:create" : "claudia create --name aLittleGreeter --region us-west-2 --api-module index",
+  "claudia:update" : "claudia update"
+}
 ```
 
-Now when you change your code you can simply push the new version with <code>npm run claudia:deploy</code>
+Now when you change your code you can simply push the new version with `npm run claudia:deploy`
 
 ### "Missing authentication token"
 
@@ -231,11 +231,11 @@ Another error that I spent some time trying to understand was this:
 
 ```json
 {
-    message: "Missing Authentication Token"
+  "message": "Missing Authentication Token"
 }
 ```
 
-This happens if you use a faulty URL, for example forget to add the <code>/hello/marcus</code> part in the end.
+This happens if you use a faulty URL, for example forget to add the `/hello/marcus` part in the end.
 
 What AWS is trying to say is that there is no endpoint at the URL. It just does it badly.
 

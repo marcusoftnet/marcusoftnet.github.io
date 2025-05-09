@@ -84,7 +84,7 @@ The first lines set up my database connection strings, and use the MONGOHQ_URL i
 
 . I can then use my configuration object when I create my database object (in this case using [Monk](https://www.marcusoft.net/2014/02/mnb-monk.html)) like this:
 
-```
+```javascript
 var config = require('../config')();
 var monk = require('monk');
 var wrap = require('co-monk');

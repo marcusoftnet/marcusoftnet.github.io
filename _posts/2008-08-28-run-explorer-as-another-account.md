@@ -13,23 +13,17 @@ blogger_orig_url: https://www.marcusoft.net/2008/08/run-explorer-as-another-acco
 
 Here is a thing that is really annoying, and the solution.
 
-When you're not allowed administrative rights on your computer with your
-standard account you often need to run certain programs under another
-account. This works fine, with a simple right click and choosing Run
-As... ([even for
-MSI-files](https://www.marcusoft.net/2008/08/run-as-for-msi-files.html)).
+When you're not allowed administrative rights on your computer with your standard account you often need to run certain programs under another account. This works fine, with a simple right click and choosing Run As... ([even for MSI-files](https://www.marcusoft.net/2008/08/run-as-for-msi-files.html)).
 
-But for some reason the Explorer.exe cannot be started this way. This is
-how to make it work:
+But for some reason the Explorer.exe cannot be started this way. This is how to make it work:
 
 - Create a .bat-file on your desktop (or where you want it)
-
 - Enter the following line into it:
-       runas /user:[your domain][your account] "C:\Program Files\Internet Explorer\iexplore.exe"
+
+    ```bat
+    runas /user:[your domain][your account] "C:\Program Files\Internet Explorer\iexplore.exe"
+    ```
 
 - Save the bat-file
-
-- Double-click the bat-file and provide the password for your account
-    when asked
-
-- This will start Internet Explorer. Enter C:\\ as the URL
+- Double-click the bat-file and provide the password for your account when asked
+- This will start Internet Explorer. Enter `C:\\` as the URL

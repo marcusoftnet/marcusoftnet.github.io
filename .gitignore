@@ -11,3 +11,4 @@ package.json
 *.gemspec
 .jekyll-cache
 spelling-results.txt
+linting-results.txt

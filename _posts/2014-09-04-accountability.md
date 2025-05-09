@@ -31,7 +31,7 @@ If I get the opportunity I'd often talk about Trust and Transparency. At least b
 I find it very hard to demand Accountability if you haven't given Trust first. And in giving Trust you have to give Authority too. [Give Trust without Authority is not Trust at all](https://www.marcusoft.net/2012/11/unearned-trust.html). I don't know what it's called but it's not Trust. Because with Trust comes a part belief and "taking a chance" on a unknown outcome:
 
 > "I trust you to handle this situation."
-
+>
 > "You handle this project - I know and trust that it will be great if you take care of it."
 
 If you add "but all decisions comes from me" at the end of those statements I you have not only slowed down the process considerably but also lied. You haven't given trust at all.

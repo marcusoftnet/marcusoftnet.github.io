@@ -74,9 +74,9 @@ Oh, forgot about that... Well, the problem I have seen a lot is that people and 
 So we write very lofty statements, with big fluffy words like "holistic", "empower", "best within selected areas", "leading", and "famous". Often when I don't understand or if I question if what we do really fits into the vision the answer is (had this experience with many clients):
 
 > "Well, you could say that holistic means..."
-
+>
 > "Best really means that we are ..."
-
+>
 > "The intention of leading was more like ..."
 
 This is playing the victim blame game a bit. If it was your intention - why not write that then? How am I supposed to understand what you *mean* when your vision said something that was so lofty that I didn't get it the first time around?

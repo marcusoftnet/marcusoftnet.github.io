@@ -122,7 +122,7 @@ For example; let's try to answer how long it will take us to empty the backlog i
 
 In order to do that we are going to use the calculations about [throughput that we did before](https://www.marcusoft.net/2019/01/kanbanstats-iii-throughput.html) and the average number of items, we complete per week. We can get that by doing the average of the "Completed per week"-column on the "Throughput calculations sheet"
 
-```
+```text
 =H2/AVERAGE('Throughput calculations'!I:I)
 ```
 

@@ -43,7 +43,7 @@ However, there's a problem here because you cannot enter a formula into the Crit
 
 But you can hack this. I created a new list in Column A of the [summary sheet](https://docs.google.com/spreadsheets/d/1h3_WRE2cgLy-8X4gm_DGE6NvYLfl7fbaip_SGVFMv3k/edit#gid=1544983361), containing all the unique values for Category. This can be accomplished by the following formula:
 
-```
+```text
 =UNIQUE({'Urgent Disaster'!B2:B;'Great things'!B2:B;'Could be improved'!B2:B;'General questions'!B2:B})
 ```
 
@@ -94,7 +94,7 @@ SELECT A WHERE B > 14
 
 Since we have concatenated a few sheets, the concept of column names will not be stable. In one sheet the data we are interested might be located in other columns, right? In our, well-structured workbook it is not, but imagine that the range we made looked like this:
 
-```
+```text
 {'Urgent Disaster'!A:D; 'Great things'!B:E;'Could be improved'!C:F;'General questions'!D:G}
 ```
 
@@ -134,7 +134,7 @@ We basically just create a string with the value in `C2` the `&`-sign
 
 Finally - put it all together in one big `QUERY`- formula. You can do it! Like this:
 
-```
+```text
 =QUERY({'Urgent Disaster'!A:D; 'Great things'!A:D;'Could be improved'!A:D;'General questions'!A:D}, "SELECT Col4, Col2,Col1,Col3 WHERE Col2='"&C2&"'")
 ```
 

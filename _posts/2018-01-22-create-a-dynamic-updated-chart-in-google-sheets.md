@@ -140,7 +140,7 @@ Now let's do the same thing to count the 1-2, 3-4 and 5-6 values. This is not as
 
 Enter `CountIfs` that does precisely that. Here's an example formula, to count 1-2 for a certain team:
 
-```
+```text
 =CountIfs('Form Responses'!C:C,"<=2", 'Form Responses'!B:B, $J$18)
 ```
 

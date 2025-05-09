@@ -65,7 +65,7 @@ No... time will tell. But in my strive to reach a goal I set up, I have probably
 
 ## Conclusion
 
-I rather fail to reach "my" goal in change "them", and [move]() them a little bit in the right direction (or even just give "them a new idea") - than to succeed to implement "my" goal... taking "them" to a place where they shouldn't be.
+I rather fail to reach "my" goal in change "them", and [move](https://www.marcusoft.net/2014/09/itmoved.html) them a little bit in the right direction (or even just give "them a new idea") - than to succeed to implement "my" goal... taking "them" to a place where they shouldn't be.
 
 Ha! Easy! <br>
 Now I just have to remember this next time frustration kicks in. And don't be sad when I fail.

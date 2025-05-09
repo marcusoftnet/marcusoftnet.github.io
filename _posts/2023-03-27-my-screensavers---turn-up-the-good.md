@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
 ---
 
-One person that has had a great influence on me over the last 10 years or so is [Woody Zuill](). I've learned, benefitted, and become a proponent of many of his ideas; mob programming, no estimates, and his general view on life.
+One person that has had a great influence on me over the last 10 years or so is [Woody Zuill](https://woodyzuill.com/). I've learned, benefitted, and become a proponent of many of his ideas; mob programming, no estimates, and his general view on life.
 
 One of the things that Woody once told me stuck with me hard enough to have it as one of my daily reminders. It's great and will change your outlook on life.
 

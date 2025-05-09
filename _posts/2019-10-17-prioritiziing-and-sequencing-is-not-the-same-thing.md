@@ -19,9 +19,9 @@ Being nudged to do this prioritization is a Good Thing (TM) if you let it. It st
 Ok but inevitable very soon we enter into the land of prioritization, and before long you will hear the laments;
 
 > Prioritizing is hard
-
+>
 > Who does the prioritization here?
-
+>
 > We need to get better in prioritizing, that is the only problem we have really?
 
 I think there's a misconception at the core of what prioritizing means (or at least how it is used). In this post, I wanted to clarify one distinction

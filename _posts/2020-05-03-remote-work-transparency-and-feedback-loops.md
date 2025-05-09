@@ -23,7 +23,7 @@ Disclaimer; everything I write is drawn from my own experience and telling my si
 Have you ever written a question to someone in chat and then got stuck waiting for the answer? Let's take two concrete, but made-up, examples:
 
 > What do you think about the documentation update I finished yesterday?
-
+>
 > What are the latest sales numbers?
 
 or

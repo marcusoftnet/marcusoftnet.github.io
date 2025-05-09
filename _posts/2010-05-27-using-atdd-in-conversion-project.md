@@ -51,7 +51,7 @@ Given this setup you can write your the steps that the specifications are execut
 
 My specifications would then look something like this
 
-```
+```gherkin
 Given I’ve entered customer number 12345567
 When I choose Open Customer
 Then I should see the following information on the screen:

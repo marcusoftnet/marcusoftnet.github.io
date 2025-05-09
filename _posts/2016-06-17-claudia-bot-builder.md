@@ -91,11 +91,11 @@ Note that the region may have to be tweaked to suite the place where you have yo
 
 I've move this into a script in the `package.json` together with the update command we will use later:
 
-```
+```json
 "scripts": {
-    "create": "claudia create --region us-east-1 --api-module bot",
-    "deploy" : "claudia update"
- }
+  "create": "claudia create --region us-east-1 --api-module bot",
+  "deploy" : "claudia update"
+}
 ```
 
 Which means that I can `npm run create` at the prompt now. Do that and Claudia goes off and does her thing. Look at that new and fancy status reports…

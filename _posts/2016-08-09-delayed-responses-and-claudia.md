@@ -29,9 +29,13 @@ git clone https://github.com/marcusoftnet/pingu.git && cd pingu && git checkout 
 
 Also, we will use the 1.6.0 version of [Claudia](http://npmjs.org/package/claudia) for this so be sure to update your installation:
 
-```
+```bash
 npm install claudia -g
+```
+
 or
+
+```bash
 npm upgrade claudia -g
 ```
 

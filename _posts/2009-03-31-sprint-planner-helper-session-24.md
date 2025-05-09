@@ -16,7 +16,7 @@ I have a few things left (such as editing product backlog items) surrounding the
 
 The third item of my user stories is a biggie and it concerns Sprints – the main object of my domain model.
 
-> 3. As a user, I can create a sprint that represents a sprint in which some items of the product backlog are to be realized.
+> As a user, I can create a sprint that represents a sprint in which some items of the product backlog are to be realized.
 >
 > The sprint has a goal description and a start, stop, and demo date, and the team members with availability (in %), absent hours, and focus factor (in %).
 >

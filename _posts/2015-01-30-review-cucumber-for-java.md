@@ -152,5 +152,3 @@ This chapter contains a lot
 ## Appendix installing Java
 
 Boy, that was dense! I’m no Java user and don’t think I want to be either. I understand the reasons behind having small JARs but it makes a hard thing to stitch together for first time users, I reckon.
-
-# Review

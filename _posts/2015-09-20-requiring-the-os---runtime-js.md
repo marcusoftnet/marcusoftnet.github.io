@@ -134,9 +134,7 @@ The entire scripts-node of my `package.json` now looks like this:
 
 Fingers crossed.
 
-Ah well... actually - I've done that before. I know it fails. For some reason Koa needs [bluebird]() to run on the `runtimejs` operating system. Don't really know why. Install it with `npm install bluebird --save` for better WOW-factor in
-
- the demo.
+Ah well... actually - I've done that before. I know it fails. For some reason Koa needs [bluebird](http://bluebirdjs.com/docs/getting-started.html) to run on the `runtimejs` operating system. Don't really know why. Install it with `npm install bluebird --save` for better WOW-factor in the demo.
 
 ## Try it
 

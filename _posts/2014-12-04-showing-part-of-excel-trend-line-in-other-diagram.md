@@ -47,7 +47,7 @@ That didn't really tell me much but then I found a [blog post](http://www.excelt
 
 Let's dive into math for a while. Don't be scared. It will all come back to you. If I could do this so can you. The linear trend line, that we are using, has a pretty simple equation:
 
-```
+```text
 y = m * x + b
 m = SLOPE(y, x)
 b = INTERCEPT(y, x)
@@ -64,7 +64,7 @@ This means that we now have the data we need to create a trend line of our own, 
 
 On the monthly sheets (December for example) we now created a new column for our trend line and feed our dates into the equation above. Something like this:
 
-```
+```text
 =('Base-data'!B6 * A2) + 'Base-data'!B7
 ```
 
