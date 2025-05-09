@@ -3,7 +3,10 @@ layout: post
 title: Cheat-sheet for Resharper 4.0
 date: 2008-12-15T07:49:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - Tools
+  - .NET
 modified_time: 2008-12-15T07:53:28.339Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-30674332112376753
 blogger_orig_url: https://www.marcusoft.net/2008/12/cheat-sheet-for-resharper-40.html

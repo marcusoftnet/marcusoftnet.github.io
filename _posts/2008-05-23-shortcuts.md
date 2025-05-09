@@ -3,7 +3,10 @@ layout: post
 title: Shortcuts
 date: 2008-05-23T09:17:00.004Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - Tools
+  - .NET
 modified_time: 2010-12-14T15:20:33.277Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8412792532818677787
 blogger_orig_url: https://www.marcusoft.net/2008/05/shortcuts.html

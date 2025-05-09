@@ -3,7 +3,10 @@ layout: post
 title: Back from the road and well again
 date: 2008-10-14T16:04:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Brass band
+  - Euphonium
+  - Marcus private
 modified_time: 2008-10-14T16:04:13.877Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3239158553466281381
 blogger_orig_url: https://www.marcusoft.net/2008/10/back-from-road-and-well-again.html

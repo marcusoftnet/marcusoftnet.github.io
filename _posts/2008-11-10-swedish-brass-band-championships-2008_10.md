@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/11/swedish-brass-band-champions
 
 The Swedish brass band movement has a new champion... The king is dead - long live the king!
 
-[Stockholm Brass Band](http://www.stockholmbrass.se/) is the new Swedish Brass band champions. And that's a real chocker for most of us. [WindCorp Brass Band](http://www.windcorpbrassband.se/) has been leagues before Stockholm when I've heard them but somehow the managed to nick the title from [WindCorp](http://www.windcorpbrassband.se/).
+[Stockholm Brass Band](http://www.stockholmbrass.se/) is the new Swedish Brass band champions. And that's a real shocker for most of us. [WindCorp Brass Band](http://www.windcorpbrassband.se/) has been leagues before Stockholm when I've heard them but somehow the managed to nick the title from [WindCorp](http://www.windcorpbrassband.se/).
 
 Don't get me wrong - [Stockholm](http://www.stockholmbrass.se/) is a great band with some truly amazing players (like [Håkan Björkman](http://www.youtube.com/watch?v=gmJHK_y3NF4) for example). But [WindCorp](http://www.windcorpbrassband.se/) has loads of experience from many, many brass band competitions - something that there is not an abundance of in Stockholm.
 

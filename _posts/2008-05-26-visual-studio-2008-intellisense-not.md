@@ -3,7 +3,10 @@ layout: post
 title: Visual Studio 2008 Intellisense not working - and the fix
 date: 2008-05-26T10:33:00.004Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - Tools
+  - .NET
 modified_time: 2010-12-14T15:21:03.997Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3920776313334347485
 blogger_orig_url: https://www.marcusoft.net/2008/05/visual-studio-2008-intellisense-not.html

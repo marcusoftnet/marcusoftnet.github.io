@@ -3,7 +3,10 @@ layout: post
 title: A little lesson about document database modelling
 date: 2014-03-03T07:00:00.000Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - Life of a consultant
+  - Agile
 modified_time: 2014-03-03T08:11:20.066Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-3446493776187439494
 blogger_orig_url: https://www.marcusoft.net/2014/03/a-little-something-about-document.html

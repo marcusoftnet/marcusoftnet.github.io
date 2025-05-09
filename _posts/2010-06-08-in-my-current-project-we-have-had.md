@@ -3,7 +3,10 @@ layout: post
 title: Rewrite project - requirements SWAT team
 date: 2010-06-07T18:24:00.000Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Agile
+  - Life of a consultant
+  - .NET
 modified_time: 2010-06-07T18:24:36.783Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4488488677051332532
 blogger_orig_url: https://www.marcusoft.net/2010/06/in-my-current-project-we-have-had.html

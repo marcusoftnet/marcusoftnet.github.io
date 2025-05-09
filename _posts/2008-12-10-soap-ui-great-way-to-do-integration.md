@@ -3,7 +3,11 @@ layout: post
 title: SOAP UI - a great way to do integration tests for services
 date: 2008-12-10T14:39:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - WCF
+  - SOA
+  - .NET
 modified_time: 2008-12-10T14:39:30.545Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1551771198832030366
 blogger_orig_url: https://www.marcusoft.net/2008/12/soap-ui-great-way-to-do-integration.html

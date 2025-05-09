@@ -3,7 +3,9 @@ layout: post
 title: More on Enterprise Library (EntLib), ODP.NET and type mapping
 date: 2008-09-04T18:08:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Programming
+  - .NET
 modified_time: 2008-09-04T18:08:58.121Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6357478391735284163
 blogger_orig_url: https://www.marcusoft.net/2008/09/more-on-enterprise-library-entlib.html

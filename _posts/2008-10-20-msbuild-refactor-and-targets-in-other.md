@@ -10,13 +10,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3420428001447646419
 blogger_orig_url: https://www.marcusoft.net/2008/10/msbuild-refactor-and-targets-in-other.html
 ---
 
-I found a very niffty little feature of MSBuild, that is really helpful when it comes to structuring your build file.
+I found a very nifty little feature of MSBuild, that is really helpful when it comes to structuring your build file.
 
 In MSBuild the "sub-routines" are called targets and works just like expected, that is you can call the targets and invoke them in the order you like. BUT, there are no way of sending parameters to them - which at first are very hard to understand.
 
 From [this article](http://dotnet.sys-con.com/node/253420) I learned how to do it. And it's not to hard. But it's a bit of a hack... in my opinion.
 
-Actually it's easier to describe it as it's intended from the outset, to call targets in other files. Imagine that you create a MSBuild-file called DeployScript.proj with a target called DeployIt. In order to deploy to different environments we use some variables that instructs MSBuild to deploy to different paths for example. Like the $(PublishWebSitePath) in the example below:
+Actually it's easier to describe it as it's intended from the outset, to call targets in other files. Imagine that you create a MSBuild-file called DeployScript.proj with a target called DeployIt. In order to deploy to different environments we use some variables that instructs MSBuild to deploy to different paths for example. Like the `$(PublishWebSitePath)` in the example below:
 
 ```xml
 <RemoveDir

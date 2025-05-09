@@ -3,7 +3,10 @@ layout: post
 title: UTA058 The test engine cannot run tests in the assembly for our integration test
 date: 2008-12-11T13:35:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Testing
+  - Tools
+  - .NET
 modified_time: 2008-12-11T13:35:07.107Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5921990269670504569
 blogger_orig_url: https://www.marcusoft.net/2008/12/uta058-test-engine-cannot-run-tests-in.html

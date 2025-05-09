@@ -3,7 +3,11 @@ layout: post
 title: Presentations follow up
 date: 2008-05-29T05:30:00.001Z
 author: Marcus Hammarberg
-tags: null
+tags:
+  - Life of a consultant
+  - Agile
+  - Lean
+  - Euphonium
 modified_time: 2008-05-29T05:30:13.864Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5439936308992650437
 blogger_orig_url: https://www.marcusoft.net/2008/05/presentations-follow-up.html
