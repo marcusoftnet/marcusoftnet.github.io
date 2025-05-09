@@ -31,7 +31,7 @@ The chapters are written in .doc format (for some reason), but I remembered that
 
 1. I saved the file as .docx.
 2. Then I renamed the file to .zip and extracted the archive to a folder.
-3. Lo and behold; in the \[Name of your Word document\]/word/media-folder, all the images were listed, in the order they appeared in the document.
+3. Lo and behold; in the [Name of your Word document]/word/media-folder, all the images were listed, in the order they appeared in the document.
 
 The only downside, if you could call it that, was that the files were named: image1.png, image2.png, etc. That was the next task:
 
@@ -39,7 +39,7 @@ The only downside, if you could call it that, was that the files were named: ima
 
 I now had all the files from all the documents, in separate folders. That amounted to about 300 pictures. Yeah - *Kanban in Action* is graphic-heavy!
 
-Renaming 300 pictures by hand was out of the question. Remember, they wanted each file to be named \[chapter number\]\_\[sequence number in chapter\].png. So, I found [this awesome video](http://answers.oreilly.com/topic/2619-renaming-multiple-files-in-mac-os-x/) that shows how to do that with Automator.
+Renaming 300 pictures by hand was out of the question. Remember, they wanted each file to be named [chapter number]\_[sequence number in chapter].png. So, I found [this awesome video](http://answers.oreilly.com/topic/2619-renaming-multiple-files-in-mac-os-x/) that shows how to do that with Automator.
 
 Here are the steps I followed:
 

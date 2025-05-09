@@ -43,9 +43,9 @@ What this means is that the real benefit from using the agile methodology of BDD
 
 So that leads us to the features. What are those? What do they represent? And who writes them? A feature is a behavior in the system that some person (or role) benefits from (see [Introducing BDD by Dan North](http://blog.dannorth.net/introducing-bdd/)). Often they are written in the form of [user stories](http://en.wikipedia.org/wiki/User_story) since that practice and form capture the three elements in a very concise format:
 
-> **As a** \[X\]
-> **I want** \[Y\]
-> **so that** \[Z\]
+> **As a** [X]
+> **I want** [Y]
+> **so that** [Z]
 
 Who writes the stories then? It’s easy to think that this is a business/requirement thing. But as a [great answer](http://groups.google.com/group/behaviordrivendevelopment/msg/e8b983ae5b433b99) to [my question](http://groups.google.com/group/behaviordrivendevelopment/browse_thread/thread/c75ec1255a34a5a6/e8b983ae5b433b99?#e8b983ae5b433b99?), [great authoritative resources](http://cuke4ninja.com/sec_collaborative_feature_files.html), and even [links off old post of mine](http://blog.jonasbandi.net/2010/05/bdd-antipattern-business-readable-but.html) show, that misses the point of BDD. You want to write the features and their scenarios together as I wrote above.
 

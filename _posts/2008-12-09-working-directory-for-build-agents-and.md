@@ -19,8 +19,8 @@ on a new server. In our TFS Source control we had two branches with a
 build definition for each. Finally we set up a Build Agent for the new
 server via Visual Studio Team System.
 
-But the builds failed! With error message "The path \[path\] is already
-mapped in workspace \[workspace\]"
+But the builds failed! With error message "The path [path] is already
+mapped in workspace [workspace]"
 
 We didn't get why until we checked a property on the build agent;
 Working Directory. This can be set by right-clicking on the

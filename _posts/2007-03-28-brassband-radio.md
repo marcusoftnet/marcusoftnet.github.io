@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brassband radio
+title: Brass band radio
 date: 2007-03-28T05:40:00.000Z
 author: Marcus Hammarberg
 tags:

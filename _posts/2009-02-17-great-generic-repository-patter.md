@@ -38,7 +38,7 @@ namespace Marcusoft.SprintPlannerHelper.Repositories
     protected readonly Dictionary<Guid, T> dictionary = new  Dictionary<Guid, T>();
     public T GetById(Guid id)
     {
-      return dictionary\[id\];
+      return dictionary[id];
     }
     public IList<T> FindAll()
     {

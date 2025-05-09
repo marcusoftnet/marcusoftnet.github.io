@@ -12,11 +12,6 @@ blogger_orig_url: https://www.marcusoft.net/2007/03/art-down-below.html
 
 Found this site <http://www.istadensspar.se/>.
 
-Apparently this is a guy that used to drive a subway train in Stockholm
-underground who got tired of getting the same question all of the time;
-"what does it look like in the tunnels?". So he brought his camera and
-took some pretty amazing pictures.
+Apparently this is a guy that used to drive a subway train in Stockholm underground who got tired of getting the same question all of the time; "what does it look like in the tunnels?". So he brought his camera and took some pretty amazing pictures.
 
-The pictures on the site is just a small selection of the pictures in
-the book but very very nice. The book will probably be bought and placed
-on a future coffetable...
+The pictures on the site is just a small selection of the pictures in the book but very very nice. The book will probably be bought and placed on a future coffee table...

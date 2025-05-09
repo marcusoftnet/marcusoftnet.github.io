@@ -22,6 +22,6 @@ blog-writer program. It also seems to work great.
 
 Let's post and see
 
-**\[UPDATE... five seconds later\]**
+**[UPDATE... five seconds later]**
 
 Oh yeah - it works ;)

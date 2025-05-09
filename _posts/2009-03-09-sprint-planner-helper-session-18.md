@@ -21,7 +21,7 @@ So I’ll introduce some methods to move them in the product backlog list. And s
 
 Let’s write some lovely simple tests and see where it takes me.
 
-\[tap, tap, tap… Marcus is typing\]
+[tap, tap, tap… Marcus is typing]
 
 Oh my god – this was really opening a can of worms. I have to rework the product backlog class from a `List<ProductBacklogItem>` to a class of its own. This is also to follow [Extreme OOP](http://milano-xpug.pbwiki.com/f/10080616-extreme-oop.pdf) rule #8 – Use first-class collections, so it feels quite alright. Took me about 40 minutes to figure out though, my tests broke down…
 

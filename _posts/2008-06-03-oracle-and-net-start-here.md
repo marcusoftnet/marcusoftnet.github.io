@@ -31,5 +31,5 @@ Here are some starters that I've found useful as introductions:
 
 My... that was not a very long list. I promise to update it as I read...
 
-**\[UPDATED\]
+**[UPDATED]
 **The list is a bit longer now... Still not impressive though

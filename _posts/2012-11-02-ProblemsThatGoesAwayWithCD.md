@@ -41,7 +41,7 @@ When faced with hard stuff I like to flip the coin and see a world where the pro
 
 What got Toyota to think differently about optimizing for flow and minimizing WIP in a time when everybody else went for mass production and optimizing for resource allocation? Probably the fact that they were bombed to pieces. They didn't have any stocks, nor money to keep one. They could only build cars for the people that ordered them and hence needed them to flow fast from order to the finished product. It didn't for starters but that was what they needed to do.
 
-So they flipped the way they thought about the problem: we need to be here \[future idealized state\]. How do we get there? Let's try some different experiments to see if we get closer or further away from that.
+So they flipped the way they thought about the problem: we need to be here [future idealized state]. How do we get there? Let's try some different experiments to see if we get closer or further away from that.
 
 Ok - off on a tangent here. But the idea to think about an ideal future and see how wonderful everything would be there, to then try to get there.
 

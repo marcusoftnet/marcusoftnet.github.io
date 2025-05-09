@@ -101,7 +101,7 @@ We simply don't know where we will end up. Trying to improve will lead us down p
 
 ### How can I start?
 
-Oh my... this post became longer than initially intended. But let me wrap by trying to answer the obvious question; what can I do? I have no power. My boss, my client, my \[imposing title that you cannot challenge here\] simply will not listen.
+Oh my... this post became longer than initially intended. But let me wrap by trying to answer the obvious question; what can I do? I have no power. My boss, my client, my [imposing title that you cannot challenge here] simply will not listen.
 
 I have devised a training plan for you (and me) to get us. They are both very simple but will take you far:
 

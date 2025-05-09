@@ -16,7 +16,7 @@ I’ll focus on this before the actual adding is fleshed out. This is because th
 
 Also, I will keep the GUI very simple. If I do the [MVC](http://en.wikipedia.org/wiki/Model-view-controller) right, it will be easy for anyone who knows this.
 
-\[Wait one hour – Marcus is coding :)\]
+[Wait one hour – Marcus is coding :)]
 
 I actually got a product added today! And the more I work with TDD, DDD, and ASP.NET MVC, the more right it feels. [Read this](https://www.marcusoft.net/2009/02/why-ddd-rocks-marcusoftnet-version.html) and you’ll see what I mean.
 

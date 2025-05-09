@@ -21,7 +21,7 @@ In this blog post, I want to show you two things: how to generate MsTests from y
 
 With this step, you can generate the tests from your scenarios. SpecFlow.exe picks up your [configuration](https://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. Using the “help” command of SpecFlow.exe, “specflow help generateAll produces this help:
 
-> Generate tests from all feature files in a project usage: specflow generateAll projectFile \[/force\] \[/verbose\] projectFile  Visual Studio Project File containing features
+> Generate tests from all feature files in a project usage: specflow generateAll projectFile [/force] [/verbose] projectFile  Visual Studio Project File containing features
 
 I put together a .bat file that does this. (Note that I’m on a 64-bit machine and had to use some funky DOS shortcuts to get there. There's no simple way to be [architecture agnostic](http://marsbox.com/blog/howtos/batch-file-programfiles-x86-parenthesis-anomaly/) I’m afraid). Here is my file:
 

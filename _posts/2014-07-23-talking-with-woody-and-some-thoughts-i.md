@@ -46,7 +46,7 @@ For some, me included, looking beyond our current ways and practices is very har
 
 I could go on and on but I've probably bored you already. You probably are much better to assimilate new ideas. Two things that I'm proud of myself for: I'm faster to go from "WHAT?!" to "ok, this might be something" nowadays - and I recognize many of the things that I say about new ideas, as things that people say to me when I introduce them.
 
-I think that one of the biggest reasons that \#noEstimates is so sensitive is that we're trying to change one piece that we find so fundamental in how we do work that it's a given. It's how it's done - how else could we \[fill in your reason here\].
+I think that one of the biggest reasons that \#noEstimates is so sensitive is that we're trying to change one piece that we find so fundamental in how we do work that it's a given. It's how it's done - how else could we [fill in your reason here].
 
 Which brings me to 3.
 

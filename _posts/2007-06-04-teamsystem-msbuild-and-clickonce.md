@@ -28,7 +28,7 @@ First I created an `itemGroup` (called ClickOnceProjects) with parameters for th
 ```xml
 <ItemGroup>
   <ClickOnceProjects Include="$(SolutionRoot)\$(ProjectNamespace).UI.Win\$(ProjectNamespace).UI.Win.vbproj">
-    <ProjectPublishProperties>InstallUrl=\\[servername]\Install\</ProjectPublishProperties>
+    <ProjectPublishProperties>InstallUrl=\[servername]\Install\</ProjectPublishProperties>
     <PublishDirectoryName>$(ProjectNamespace).UI.Win.publish</PublishDirectoryName>
     <DeploymentFolderClient>$(ClickOnceDropLocation)</DeploymentFolderClient>
     <ExecutableName>App.exe</ExecutableName>

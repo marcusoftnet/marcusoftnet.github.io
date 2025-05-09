@@ -31,7 +31,7 @@ We can now call the targets of the DeployScript.proj-file from another file, wit
 <MSBuild
   Projects="DeployScript.proj"
   Targets="DeployIt"
-  Properties="PublishWebSitePath=\\[server]\[share]"
+  Properties="PublishWebSitePath=\[server][share]"
 />
 ```
 

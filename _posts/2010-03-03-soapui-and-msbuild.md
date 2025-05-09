@@ -29,7 +29,7 @@ Still have some issues in that the [switch
 will override all the endpoints in the SOAPUi project... But I'm on
 it...
 
-**\[UPDATED AGAIN\]**
+**[UPDATED AGAIN]**
 
 <a
 href="https://www.marcusoft.net/2010/03/changing-endpoint-from-command-line.html"

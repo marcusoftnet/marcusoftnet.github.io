@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2007/04/easter-in-archipelago.html
 
 I spent the weekend in the archipelago of Gothenburg. It was great! Brilliant sunshine for one and a half day and then ... games inside for the rest of the weekend.
 
-I am a bit worried though, after the gaming session, that my relatives might not like me as much. I didn't swept the floor with them but I won the prematch-battering (you know, I talked the most about my own abilities etc.) :)
+I am a bit worried though, after the gaming session, that my relatives might not like me as much. I didn't swept the floor with them but I won the pre-match-bantering (you know, I talked the most about my own abilities etc.) :)
 
 Also we had a small scissors adventure as the before, during and after series shows above... I'll add some more pictures later in the week.
 

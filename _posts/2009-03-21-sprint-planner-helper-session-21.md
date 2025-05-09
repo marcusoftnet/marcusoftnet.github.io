@@ -34,7 +34,7 @@ public interface IRepository<T> where T : IBaseEntity
 
 And then I’ll face the consequences of that… I expect loads of tests and code to fix.
 
-\[Coding, coding, coding…\]
+[Coding, coding, coding…]
 
 The first thing I needed to do was to move the fakes from the Repository project into the Test project where they belong (again, a tip from the sample chapter). OK – that made me re-invent the InMemory Repository. But when I was done, the code quality was much better. [Clean code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)!
 

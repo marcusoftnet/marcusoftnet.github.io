@@ -33,7 +33,7 @@ A hashtag (e.g., #avegaConference) categorizes your tweet and makes it discovera
 
 Popular tags can be tracked using services like [Trendistic](http://trendistic.indextank.com/), which helps you stay updated on trending topics. For example, during the Egyptian revolution, the tag #tahrir was widely used.
 
-#### @\[Twitter Username\]
+#### @[Twitter Username]
 
 Mentioning a user involves placing an @ symbol before their username (e.g., [@marcusoftnet](http://twitter.com/marcusoftnet)). This can notify the user and allows for direct interaction:
 

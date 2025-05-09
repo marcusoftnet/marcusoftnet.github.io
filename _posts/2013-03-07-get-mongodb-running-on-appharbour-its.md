@@ -28,7 +28,7 @@ key="MONGOHQ_URL"
 value="mongodb://localhost/DotVoter"
 ```
 
-That MONGOHQ_URL is a special name that the MongoDB add-on looks for at deploy time. It's replaced with your configuration variable (see AppHarbor -> \[Your application\] -> Configuration Variables) that is created for you when you add the MongoDB add on.
+That MONGOHQ_URL is a special name that the MongoDB add-on looks for at deploy time. It's replaced with your configuration variable (see AppHarbor -> [Your application] -> Configuration Variables) that is created for you when you add the MongoDB add on.
 
 You can then read that value as simple as this:
 

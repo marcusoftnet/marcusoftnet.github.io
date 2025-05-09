@@ -175,7 +175,7 @@ All of those steps will hit the same step definition HomePage().
 Let’s follow a step from feature file all the way down to the automation as a final exercise. Note that here have translated the feature content to English as it’s Swedish in my sample:
 
 1. The step “Given I am on the homepage” gets run as part of the scenario
-2. SpecFlow calls into the step definition marked with the “\[Given(@”I am on the homepage”)\]”. That method is defined on the Steps-class
+2. SpecFlow calls into the step definition marked with the “[Given(@”I am on the homepage”)]”. That method is defined on the Steps-class
 3. The step definition contains of a single line; “_teamListingPageWrapper.Visit();”
     1. _teamListingPageWrapper is a private variable in the Steps-class
 4. The Visit()-method is defined on the PageWrapperBase class that simply use the Browser instance to Open the URL for the page; `Browser.Open(pageURL);`

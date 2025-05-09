@@ -21,7 +21,7 @@ I think i finally found a solution to a very annoying problem. As always the sol
 However - some colleagues of mine showed me the possibility to start several projects at once when debugging. Right-click the solution in Visual Studio 2005 and choose properties. Then go `Common Properties -> Startup projects`. Here you can choose which projects to start when you debug your solution. Select to start the web service (s) and any other
 projects (the client for example) under Multiple Start up projects as shown below:
 
-Here's the problem; in many modern system architectures there are at least one webservice involved, sometimes more than one that call each other in sequence. When such a system is debugged in Visual Studio it now-a-days works very fine.
+Here's the problem; in many modern system architectures there are at least one web service involved, sometimes more than one that call each other in sequence. When such a system is debugged in Visual Studio it now-a-days works very fine.
 
 But... if you have a long running debugging session (like, for example, yesterday when i demonstrated some features for my team) the debugging fails all of a sudden with a time-problem. The error description doesn't point you to anything good either.
 

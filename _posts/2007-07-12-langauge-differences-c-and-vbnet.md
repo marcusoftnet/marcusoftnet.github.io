@@ -18,6 +18,6 @@ quite good and it can be nice to have one stop for all your questions:
 
 <http://www.codeproject.com/dotnet/vbnet_c__difference.asp>
 
-If it fails for any reason try "\[keyword in C#\]
+If it fails for any reason try "[keyword in C#]
 vb.net" in Google.com. First hit will tell
 you the answer, never fails.

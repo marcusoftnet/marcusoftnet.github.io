@@ -55,8 +55,8 @@ was equally likely that we got a letter the next day stating:
 - All clear - please start moving
 - "We haven't even started to work with your matter, because you
     filled the forms out with a black pen instead of a blue."
-- "Mr Who? We haven't even heard of you?" \[papers gone in other
-    words\]
+- "Mr Who? We haven't even heard of you?" [papers gone in other
+    words]
 
 We were in a Schrödinger cat situation where both these (and every other
 possibility) was equally likely. This drove people around us (and us)

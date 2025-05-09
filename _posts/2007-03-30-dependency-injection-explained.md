@@ -31,7 +31,7 @@ public class SalesController {
 }
 ```
 
-This means that the SalesController is dependent to ItemInventory. Thatis not that good since:
+This means that the SalesController is dependent to ItemInventory. That is not that good since:
 
 - if you want to exchange ItemInventory for another implementation it will have major impact on SalesController
 - the SalesController is quite hard to test, which in turn has to do with it being hard to isolate, or simpler you can't mock-up ItemInventory in a easy way

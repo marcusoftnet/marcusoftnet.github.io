@@ -60,7 +60,7 @@ Or closer to the topic at hand:
 
 > Waste in the system should at least be investigated. Maybe there's problems that are hindering us, maybe not. Better check it out.
 
-So the next time someone says; "I heard that Marcus said that estimating/standup meetings/\[your favorite long held practice here\]" you can reason with that stubborn consultant.
+So the next time someone says; "I heard that Marcus said that estimating/standup meetings/[your favorite long held practice here]" you can reason with that stubborn consultant.
 
 - Yes, but we get better flow from this (as the case of standup, due to information sharing)
 - Yes, but our system is producing value faster (as might be the case of estimates... who knows)

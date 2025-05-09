@@ -25,7 +25,7 @@ how to make it work:
 - Create a .bat-file on your desktop (or where you want it)
 
 - Enter the following line into it:
-       runas /user:[your domain]\[your account] "C:\Program Files\Internet Explorer\iexplore.exe"
+       runas /user:[your domain][your account] "C:\Program Files\Internet Explorer\iexplore.exe"
 
 - Save the bat-file
 

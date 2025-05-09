@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futureforce of VasaCorps
+title: Future force of VasaCorps
 date: 2007-01-10T06:34:00.000Z
 author: Marcus Hammarberg
 tags:
