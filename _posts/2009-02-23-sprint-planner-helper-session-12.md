@@ -28,4 +28,3 @@ ASP.NET MVC integrates smoothly with Visual Studio 2008, which is incredibly hel
 This integration made me realize that the list of products might be better suited on its own view rather than being directly on the homepage. This means more work, but it’s all part of the learning process.
 
 I was quite pleased when I managed to produce this non-working form. Time for some rest!
-

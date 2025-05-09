@@ -55,7 +55,7 @@ do
 done
 ```
 
-Save that in a file called `sh verifyAllRepos.sh ` and then run with `sh verifyAllRepos.sh ` and you'd get a very unsurprising listing of those directories... Not too exciting, but a good start.
+Save that in a file called `sh verifyAllRepos.sh` and then run with `sh verifyAllRepos.sh` and you'd get a very unsurprising listing of those directories... Not too exciting, but a good start.
 
 Not to make this blog post too long I have excluded the part where I `git clone` all repositories I'm interested in. Not to brag but it's using the GitHub API and filters ... bah, I'm gonna brag. Here's the curl command:
 
@@ -80,7 +80,7 @@ We can [use the `test` command to check if a file is NOT present](https://linuxi
 ```bash
 # as above
 for dir in "${dirs[@]}"
- 	echo "$dir"
+  echo "$dir"
 
   SCRIPT=$dir/saltVerify.sh
   if ! test -f "$SCRIPT" ; then
@@ -129,7 +129,7 @@ But that's for later, now we just want to run the script and get the exit code a
 Here's those lines, inside the for-loop, after the check that the script exists:
 
 ```bash
-	SCRIPT_OUTPUT=$(sh $SCRIPT)
+ SCRIPT_OUTPUT=$(sh $SCRIPT)
   SCRIPT_EXITCODE=$?
   if [[ $SCRIPT_OUTPUT == 1 ]]; then
     echo "  Verification FAILED"

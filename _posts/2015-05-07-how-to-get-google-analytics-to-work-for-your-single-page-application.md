@@ -20,6 +20,7 @@ What I write about below only requires jQuery, and that's mostly for convenience
 As with most things I learn, it's based on others' knowledge that I tweak. In this case, I found a [GREAT article](https://mjau-mjau.com/blog/ajax-universal-analytics/) that contained much of the information I needed but didn't take me all the way. Go ahead and read it now!
 
 ## Infrastructure
+
 The first thing we did, based on the article above, was to create a custom JavaScript function for Google Analytics tracking. Here is where we ended up:
 
 ```javascript

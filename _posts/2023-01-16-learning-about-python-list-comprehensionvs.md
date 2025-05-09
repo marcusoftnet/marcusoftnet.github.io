@@ -125,4 +125,3 @@ print(results)
 ## Summary
 
 Using List comprehensions in Python makes your code much smaller and more effective. But it can get some getting used to read them. I think we will be friends.
-

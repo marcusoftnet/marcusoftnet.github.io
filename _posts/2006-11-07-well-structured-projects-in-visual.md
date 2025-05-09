@@ -13,7 +13,6 @@ blogger_orig_url: https://www.marcusoft.net/2006/11/well-structured-projects-in-
 
 [![Project Structure Example 2](/img/project2.jpg)
 
-
 [![Project Structure Example 1](/img/project1.jpg)
 
 This might be an obvious thing for some, but I have missed its full potential for a while. And thank you, Stefan, for pointing it out to me.

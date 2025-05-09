@@ -48,4 +48,3 @@ The idea is that this series of presentations should make sense going through fr
 1. I hate meetings. Because most of them are bad. But they are inevitable in most companies. In the final installation of this series I give some suggestions on how to run [effective meetings](/2015/08/ca-minutes-on-effective-meetings.html).
 
 I hope you find them interesting and entertaining. That was my goal anyway.
-

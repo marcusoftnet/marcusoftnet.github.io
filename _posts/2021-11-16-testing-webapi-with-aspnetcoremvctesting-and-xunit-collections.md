@@ -56,7 +56,7 @@ public class SeedDatabase
     Console.WriteLine("### Adding products to the empty database");
 
     context.Products.AddRange(
-    	// list of products here...
+     // list of products here...
     );
  }
 
@@ -197,7 +197,7 @@ It's quite a lot going on in these lines of code. Let's go through them slowly.
 
       // arrange
       var products = JsonConvert.DeserializeObject<List<Product>>(
-        			await response.Content.ReadAsStringAsync());
+           await response.Content.ReadAsStringAsync());
       products.Should().HaveCount(6);
     }
     ```

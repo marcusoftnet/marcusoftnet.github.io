@@ -42,19 +42,13 @@ Prioritization, for me, is mostly about deciding what we should say No to. What 
 
 >the action or process of deciding the relative importance or urgency of a thing or thing
 
-
-
 Prioritization has to do with the relative value, for some value of the things we are doing.
-
-
 
 Sequencing, on the other hand, has to do with which order of things. This order might be, for example, the order that we will DO things in - aka planning. It might have to do with the **value** of the things we are doing. But, not seldom, we might decide to do things in a very different order than that what is most valuable; there might be dependencies to others, missing resources and even political reasons to do things in another order.
 
 **Narrator**; *Marcus was not far off:*
 
 > arrange in a particular order.
-
-
 
 I've found great value in keeping these two topics separate when we discuss priority and sequencing. By doing this we both get simple questions to discuss for both aspects, but also a more honest discussion about not doing the most valuable thing first.
 

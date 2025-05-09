@@ -30,6 +30,7 @@ Let me describe what I mean.
 <!-- excerpt-end -->
 
 ## What is the goal of my work here?
+
 Being in my role I am often "responsible for the teams" and ensuring a "good progress in their work". Well that in itself is no goal? There's a reason we are here right?
 
 It's simple, I think. I'll rip it from the [agile manifesto](http://agilemanifesto.org/):
@@ -56,6 +57,7 @@ Short lead times from idea to production generally means that we have a smooth p
 If quality is bad or people don't enjoy work it generally reflect badly on these two metrics two; creating rework or a slow / uneven flow.
 
 ## Ah - you're a [insert favorite framework role here]?
+
 Yes, maybe the above is part of what an *agile coach* does. Or the *scrum master*. Or maybe even the *development manager*. But I never seen that responsibilities spelled out for any of these roles.
 
 It's often a shared responsibility (and it still should be of course) that is implicitly understood to be important by everyone. Maybe one could try to make it the explicit responsibility for one person.
@@ -63,6 +65,7 @@ It's often a shared responsibility (and it still should be of course) that is im
 My authority would also be more explicit and easier to understand than it is as a *coach*. As a flow manager I can have opinions and request about our work that could help it flow better. As a coach this is not really explicit, I've noticed. Why should a product owner listen to me as a coach? They should. They could - but it's not required.
 
 ## Summary
+
 I think I could be a flow manager.
 
 <blockquote>Hi, I'm Marcus. I'm the flow manager here! I'm responsible for a good flow of ideas to working software</blockquote>

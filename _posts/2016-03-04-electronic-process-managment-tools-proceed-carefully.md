@@ -23,6 +23,7 @@ Also this is my experience - your mileage may vary.
 <!-- excerpt-end -->
 
 ## Glimpses of misuse
+
 As I have done for a few posts; let me give a few glimpses of situations when I felt that JIRA (in this case, could be any electronic tool like that) has actually not only slowed us down but been harmful.[^1]
 
 ## Epic, label - who cares?

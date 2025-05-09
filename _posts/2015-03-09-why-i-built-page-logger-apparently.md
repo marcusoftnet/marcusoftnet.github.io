@@ -24,7 +24,7 @@ I opted for Node.js, leveraging the Koa framework. The application essentially c
 1. An HTTP-accessible API for posting page views.
 2. A simple site for viewing the collected data.
 
-The site, although straightforward, provided a great opportunity to explore chart.js, a powerful visualization tool. 
+The site, although straightforward, provided a great opportunity to explore chart.js, a powerful visualization tool.
 
 ### The API
 

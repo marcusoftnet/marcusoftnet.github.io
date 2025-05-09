@@ -138,7 +138,7 @@ Same as above, but use the data from `J1:L1000`.
 * Select a Scatter chart.
 * Add a Polynomial trend line for the lead time in days series.
 
-- Make any additional adjustments.
+* Make any additional adjustments.
 
 ## Conclusion
 

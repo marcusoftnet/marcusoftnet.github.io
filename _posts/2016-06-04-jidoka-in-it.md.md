@@ -66,7 +66,6 @@ Goes without saying that only slack is of course not good, but with a little sla
 >
 > [Woody Zuill](https://twitter.com/woodyzuill)
 
-
 ## How did you implement it, then?
 
 When I had the discussion I mentioned in the beginning, with my coworker I saw an opportunity to implement the flags from the Toyota loom for real. And we did. And it helped us. A little at least.
@@ -87,7 +86,6 @@ We are running 4-5 teams with ca 40 people in total in one big area. I wrote an 
 
 4. If you can't do that either, you now have slack time; do something that you think can help us work smoother in the future. Make sure that you don't take on too much work - so that you can't go back to your original task once you are unstuck.
    This means that we use the slack to innovate and improve rather than to see it as something bad. In this step you can of course consider to take on new work, in accordance to any agreed on policies, but I'd rather use slack for innovation.
-
 
 (This list was heavily inspired by [David Joyce](https://leanandkanban.wordpress.com/about/) and we have a section (7.4) on it in [Kanban In Action](http://bit.ly/theKanbanBook))
 

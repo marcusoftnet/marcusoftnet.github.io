@@ -30,8 +30,6 @@ I started to ask a question to people I discussed this with:
 
 > Imagine if the company, instead of creating a project in the organization, would have create a new company to solve this problem. First and only employee the current project manager. One goal build the best product you can! Here's your budget for a year.
 
-
-
 >
 > Would she had created the organization we now are in?
 

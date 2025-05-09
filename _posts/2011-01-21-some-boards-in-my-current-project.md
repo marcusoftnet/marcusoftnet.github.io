@@ -102,4 +102,3 @@ With all of this in place, we are now able to get a comprehensive view of how th
 My personal view is that these visualizations are helpful. They really help me as a coach and project manager to understand the state of the project quickly. I hope that this post gives you some ideas for your projects and how you might be able to make your project’s status more visual and easier to follow.
 
 Feel free to comment and ask questions!
-

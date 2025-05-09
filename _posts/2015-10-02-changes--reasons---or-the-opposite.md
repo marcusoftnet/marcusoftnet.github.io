@@ -38,6 +38,7 @@ It's sending a feeling of me being helpless. The decision is made. There's no re
 Also - with no reason; how can I make you, the decision maker, happy? If I knew the reason maybe I can change my ways to better fulfill the goal. But now you give me no choice but to just follow orders.
 
 ## Confession time - and conclusion
+
 I've made decisions like that. Over the heads of people. With best intentions, but without a (well communicated, understood and compelling) reason.
 
 I will never do that again. Because being in the receiving end of it is horrible, painful and makes me feel belittled and used.
@@ -71,5 +72,3 @@ I have an idea on how to solve that, but I wanted to check in with you first. Ho
 To be quite honest, the last one begs the question; Why would we benefit from that, but once you opened the Why-jar ... "there's Why's all the way down".
 
 The first Why is the hardest to ask.
-
-

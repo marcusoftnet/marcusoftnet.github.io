@@ -84,7 +84,7 @@ Here are the commands I ran to get started:
 
 7. By running `npm t` I linted and ran the first test
 
-8. I created a `.gitignore` from the excellent https://www.gitignore.io/
+8. I created a `.gitignore` from the excellent <https://www.gitignore.io/>
 
 9. Finally, I initialized git and made a first commit `git init` initial commit
 
@@ -182,9 +182,9 @@ module.exports.single = (number) => {
 
 - Ah well...
 
-* No production code changed... Hence I returned a constant of `1`.
+- No production code changed... Hence I returned a constant of `1`.
   - And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
-* Lost documentation (i.e. this blog post) too. This was the point where I decided to move the documentation from ReadMe.md in the repository to a separate blog post.
+- Lost documentation (i.e. this blog post) too. This was the point where I decided to move the documentation from ReadMe.md in the repository to a separate blog post.
 
 ### Second test run - second try
 

@@ -174,7 +174,7 @@ it("returns JSON for existing user", async () => {
 });
 ```
 
-Since the database is empty `beforeEach` test we better put some data in there for our API to retrieve. Again we use the monk `users` collection and the `insert` function. That function returns the created user, making the whole line: ` const user = await users.insert(testUser)`
+Since the database is empty `beforeEach` test we better put some data in there for our API to retrieve. Again we use the monk `users` collection and the `insert` function. That function returns the created user, making the whole line: `const user = await users.insert(testUser)`
 
 Now we can issue the request by chaining function calls together:
 
@@ -182,7 +182,7 @@ Now we can issue the request by chaining function calls together:
 2. We also tell supertest that we expect json back, by setting that header. Koa automatically returns JSON if the body is an object
 3. Our expectations starts by checking that we got json back
 4. We then use some simple regular expressions to inspect the returned result for the name part
-5. We can also (thrown in here for demonstration) check the result object itself, by getting it as a parameter to our expect function: ` .expect(res => res.body.city.should.equal('Stockholm, Sweden'))`
+5. We can also (thrown in here for demonstration) check the result object itself, by getting it as a parameter to our expect function: `.expect(res => res.body.city.should.equal('Stockholm, Sweden'))`
 6. We check that the status code is correct
 7. Finally I use my little utility that checks for errors in the `.end()`.
    I have to admit that I don't fully understand why I have to do this. I'm thinking it's because we are using an async test and hence doesn't call any `done` functional, which is mochas old way of running asynchronous tests.

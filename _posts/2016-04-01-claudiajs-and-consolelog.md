@@ -23,7 +23,7 @@ As our example let's use one of the [example projects](https://github.com/claudi
 
 Create a new directory (called `hello-world` for example) and in it do a `npm init` and click through the wizard.
 
-There's only one development dependency for this simple application, Claudia itself. Install it with `npm install claudia --save-dev`. 
+There's only one development dependency for this simple application, Claudia itself. Install it with `npm install claudia --save-dev`.
 
 Now create a `main.js` with the following content:
 
@@ -49,27 +49,29 @@ Finally let's add a few scripts to our `package.json` to make our life simple:
 
 (You might want to change `--region` to something that suits you if you want)
 
-Finally make sure to add the `main.js` file to the `files` property of `package.json` so that it gets pushed to AWS: 
+Finally make sure to add the `main.js` file to the `files` property of `package.json` so that it gets pushed to AWS:
 
     "files": [
         "main.js"
       ]
 
-Now we can create the AWS Lambda with `npm run create` and then do subsequent deploys with `npm run deploy`. 
+Now we can create the AWS Lambda with `npm run create` and then do subsequent deploys with `npm run deploy`.
 
-Do a `npm run create` now to create your application. 
+Do a `npm run create` now to create your application.
 
 ## Testing it out
-Did you see the little `test` script in the `package.json`? That's a really cool way to test run our application. 
 
-Test the application by running `npm t` (a shortcut for `npm test` which is a shortcut for `npm run test`) to test our application. 
+Did you see the little `test` script in the `package.json`? That's a really cool way to test run our application.
+
+Test the application by running `npm t` (a shortcut for `npm test` which is a shortcut for `npm run test`) to test our application.
 
 If everything went well this would print out a nice little message about our AWS Lambda function being called and the response being:
 
     {"StatusCode":200,"Payload":"\"hello world\""}
 
 ## See the log
-Ok, but what about the log? That was, of course, not printed in our console. That happened on the ... eh.... server? In our server-less architecture? 
+
+Ok, but what about the log? That was, of course, not printed in our console. That happened on the ... eh.... server? In our server-less architecture?
 
 Well Claudia has, behind the scenes, done some nice configuration for you so that your log message ends up in something called [CloudWatch](https://console.aws.amazon.com/cloudwatch/home?region=us-east-1).
 
@@ -80,4 +82,5 @@ In that list you should see a entry for `/aws/lambda/hello-world`. Click it and 
 Presto! That's where you log ends up for the $LATEST staging (that Claudia also creates for you per default).
 
 ## Summary
+
 A `console.log` statement in AWS Lambda do not really have a server whose console to log to... But using Claudia for your deployment will automatically hook your log statements into the CloudWatch utility of AWS.

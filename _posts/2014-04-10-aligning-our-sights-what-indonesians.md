@@ -78,7 +78,7 @@ I think that would make us more aligned on why we are really here. In Gothenburg
 
 One way of doing this is to use the "value words" as we tell the stories. This great tip comes from [Turn the Ship around](http://davidmarquet.com/books/turn-the-ship-around/overview/), that I highly recommend.
 
-It doesn't have to be long either; "yesterday when we did the rollout I saw that Carl displayed *boldness* ...", "when I think about transparency I think about the time when we ..." or "What if we could show _professionalism_ towards our customers today by ...".
+It doesn't have to be long either; "yesterday when we did the rollout I saw that Carl displayed *boldness* ...", "when I think about transparency I think about the time when we ..." or "What if we could show *professionalism* towards our customers today by ...".
 
 ### Final words
 

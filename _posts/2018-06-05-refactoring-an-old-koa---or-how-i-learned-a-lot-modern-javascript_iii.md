@@ -259,4 +259,3 @@ Tests are passing - remove the entire `test`-directory and the only file (`testH
 ### Summary
 
 Time to end this post here. We have cleaned up the test considerably and learned a great deal about asynchronous code in ES6 using async and await. In [the next post](https://www.marcusoft.net/2018/06/refactoring-an-old-koa-or-how-i-learned-a-lot-modern-javascript_iv.html) we will do the same to the system under test; `userRoutes.js` and `app.js` and see where it takes us.
-

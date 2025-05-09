@@ -15,6 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/09/powerpoint-online-280-slides
 I recently discovered a great tool for creating, editing, and presenting slideshows online: [280slides.com](http://280slides.com). It's a free platform that offers a lot of functionality.
 
 With 280 Slides, you can:
+
 - Create and edit presentations directly in your browser
 - Upload presentations in PowerPoint format
 - Save your presentations "in the cloud"

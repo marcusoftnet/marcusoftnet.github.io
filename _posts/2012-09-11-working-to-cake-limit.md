@@ -41,8 +41,9 @@ When I first saw this, I thought it was a prank of some sort, so I asked the tea
 For metrics, I always start out with some really simple ones. It's easier to introduce metrics than it is to remove them, so be careful.
 
 **Lead time per size group** - as you put the item on the board, classify them into Small, Medium, or Large and write a date on the sticky. As you take it off, note the date in an Excel-sheet. You now have the lead time for that work item and can start tracking trends per work group. Pretty soon you can start making predictions for how long different kinds of work will take:
-  - A small task takes between 3-4 days.
-  - A medium task has during the last 3 months taken around 5.7 days, with 2 outliers off by mostly 10 days.
+
+- A small task takes between 3-4 days.
+- A medium task has during the last 3 months taken around 5.7 days, with 2 outliers off by mostly 10 days.
 
 Things like that. Pretty cool, huh? Stakeholders often value predictability over speed in my experience.
 

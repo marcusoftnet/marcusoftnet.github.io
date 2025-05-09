@@ -13,7 +13,7 @@ tags:
 
 ![User Story Mapping Example](http://jpattonassociates.com/wp-content/uploads/2015/01/StoryMapping.png)
 
-While this tool is excellent, one aspect I always struggle with is the incremental fleshing out of details. 
+While this tool is excellent, one aspect I always struggle with is the incremental fleshing out of details.
 
 I'd like to share an experience when we applied user story mapping to a non-IT situation, shedding light on what incremental truly means.
 
@@ -23,13 +23,13 @@ Earlier this year, my family and I relocated to a new apartment. Planning the mo
 
 We had the unique advantage of having access to the new apartment two months before vacating the old one. Ample time for the move, right?
 
-We began by listing the rooms in the new apartment at the steps level, akin to features in a software setting. 
+We began by listing the rooms in the new apartment at the steps level, akin to features in a software setting.
 
 Our user story map depicted rooms at the top, with detailed lists of items for each room below. For instance, the boys' room needed to accommodate many boxes of toys, beds, and wardrobes.
 
 While this provided visibility, it didn't facilitate move planning. The multitude of tasks left us worried about overlooking critical details amidst the chaos of moving.
 
-Reflecting on the essence of user story mapping, particularly its planning phase, sparked an insight. By segmenting the detailed items into incremental versions of finished rooms, we could plan more effectively. 
+Reflecting on the essence of user story mapping, particularly its planning phase, sparked an insight. By segmenting the detailed items into incremental versions of finished rooms, we could plan more effectively.
 
 We devised three incremental releases, each with increasing completeness:
 

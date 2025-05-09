@@ -34,6 +34,7 @@ Aha! That's me. And sadly, many teams that have had the misfortune of being subj
 If Ben and Tom (hey wait a minute here... are these the guys behind the ice cream?) could fix that - I'd be over the moon of joy.
 
 ## Structure
+
 The structure of the book follows the same as the other in the great [50 Quick Ideas](http://fiftyquickideas.com/) series. It consists of 50 (who knew?) short tip, thought provoking ideas, principles that will help you doing retrospectives more effective.
 
 These ideas are sorted into 6 categories: Preparing for retrospectives, Providing a clear focus, adapting the environment, facilitating sessions, re-engineering retrospectives and improving outcomes. Each filled with battle-hardened experience and advices.
@@ -47,9 +48,11 @@ The second section of each tip is a **Key Benefits** that paints a lovely postca
 Finally there's a **How to make it work** that gives concrete and practical tips on how to get this particular practice to work. We're talking "down to the color of pen and post-it note"-level in some occasions, but other just sets your mind in a thinking zone.
 
 ## What not to do
+
 Do not read this book from cover to cover and expect to remember it all. You can, as I did, read it just to get an overview, but I think the real gain comes when you keep this close by and start to reflect on your problems. Then this book can become a vitamin injection to revitalize your retrospectives or the entire framework of improvements that you work within.
 
 ## Highlights
+
 I particularly like the last two sections; Re-engineering retrospectives and Improving outcomes. I think this is where I most often fail.
 
 Because of course we should retrospect the retrospectives.[^1] They need changing, improving and tweak too. For example, why do them every other week? How about after 10 finished items? Or after each reported bug? Or what have you.
@@ -59,11 +62,11 @@ The second part is about the Improving outcomes. I love that focus. All too ofte
 The last section (Improving outcomes) gives us a couple of tools and ideas to see if the work we put into doing retrospectives actually gives us any improvements or not. In this section the authors starts to talk about goal-oriented experiments and I can relate to the effectiveness of that kind of thinking. A lot of great stuff in there!
 
 ## Summary
+
 I recommend any team interested in improving and improving their retrospective to own a couple of [50 Quick Ideas to improve your retrospectives](http://www.amazon.com/Fifty-Quick-Ideas-Improve-Retrospectives-ebook/dp/B017A5HZWS/).
 
 Especially if you, like me, have a bad relationship with retrospectives. There's a lot of great, inspiring and useful stuff in here.
 
 Thank you for a great book!
-
 
  [^1]: Just don't retrospect the retrospection of the retrospectives. You will never get out of there....

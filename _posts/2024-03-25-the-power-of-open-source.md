@@ -65,7 +65,7 @@ Last week I happened to click a link in my bio and ended up on the [NuGet page f
 
 ![SpecFlow.Assist.Dynamic stats](/img/specflow.assist.dynamic.stats.png)
 
-The tool has been downloaded 4.1 million (?!) times in total. Not only that - there are [blog posts](https://medium.com/capgemini-microsoft-team/specflow-a-few-tips-n-tricks-part-2-f1bad5fa4260) and [videos](https://www.youtube.com/watch?v=SjEbPftoMO0 describing how to use it). People are using, and getting value from my little tool - years after I stopped caring much about it.
+The tool has been downloaded 4.1 million (?!) times in total. Not only that - there are [blog posts](https://medium.com/capgemini-microsoft-team/specflow-a-few-tips-n-tricks-part-2-f1bad5fa4260) and [videos](<https://www.youtube.com/watch?v=SjEbPftoMO0> describing how to use it). People are using, and getting value from my little tool - years after I stopped caring much about it.
 
 SpecFlow has truly grown and become a company that promotes BDD and not only SpecFlow itself.
 

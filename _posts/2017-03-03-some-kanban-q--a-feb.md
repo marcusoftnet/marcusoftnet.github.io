@@ -39,7 +39,7 @@ For example, it's not uncommon for Toyota to first send Lean sansei's to their s
 
 But that is the long-long term perspective. For starters, a strong emphasizes on transparency and continuous improvements of the relationship, through regular improvement workshops could be a great start.
 
-### From the internal team perspective, I imagine that one of your team members might be working on more than one project ...
+### From the internal team perspective, I imagine that one of your team members might be working on more than one project
 
 That was too long to be a heading. The whole question is:
 

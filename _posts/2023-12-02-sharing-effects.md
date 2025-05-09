@@ -28,7 +28,7 @@ Secondly the people that I got to work with there reads like an #agile #lean #ka
 
 We did things together; played lean games, presented, bounced ideas of each other and wrote articles and blog posts. It was the best school I've ever been in. I was "worst in the band", as it's known - but I learned a lot.
 
-What an amazing opportunity and fortune to be in that context. I had done nothing to deserve that. But I did one thing - I shared. I wrote blog posts (https://www.marcusoft.net has been going since 2006), I presented, listen to others and talked. Now, sometimes that was driven by an urge to learn more - but I also did share a lot. It was my way to document for myself, but I shared my thoughts with other. I did that part.
+What an amazing opportunity and fortune to be in that context. I had done nothing to deserve that. But I did one thing - I shared. I wrote blog posts (<https://www.marcusoft.net> has been going since 2006), I presented, listen to others and talked. Now, sometimes that was driven by an urge to learn more - but I also did share a lot. It was my way to document for myself, but I shared my thoughts with other. I did that part.
 
 That people that I didn't even meet until many years later got use from that now and then made great things of it... Blows my mind.
 

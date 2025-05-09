@@ -86,5 +86,5 @@ The work in the team is **super boring.** You are only using a fraction of their
 >I'm used to people coming to me with problems - not solutions
 
 ## Summary
-Quite simple: wait with putting features in the backlog as long as possible. Features (or the **WHAT** part of an impact map) are just means to reach a goal - not the goal.
 
+Quite simple: wait with putting features in the backlog as long as possible. Features (or the **WHAT** part of an impact map) are just means to reach a goal - not the goal.

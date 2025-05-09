@@ -54,6 +54,7 @@ A small little autonomous organization where decisions can happen very quickly (
 Obviously, they reached out, using third-party services and facilities for many things. They were not isolated.
 
 ## Summary
+
 Being autonomous means that you have the power to govern yourself. It doesn't mean that you should isolate yourself and refrain from contacts, help from others.
 
 However, once we have these contacts, help, and interactions, we should take great care to preserve our autonomy.

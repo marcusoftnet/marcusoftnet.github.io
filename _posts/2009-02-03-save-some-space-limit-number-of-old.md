@@ -14,5 +14,4 @@ Found an option that really saves some space for TDD:ers in Visual Studio. The t
 
 Go to **Tools** → **Options** → **Test Tools** → **Test Execution**.
 
-
 When you first exceed that number, you'll be warned that folders will be deleted - thank you very much!

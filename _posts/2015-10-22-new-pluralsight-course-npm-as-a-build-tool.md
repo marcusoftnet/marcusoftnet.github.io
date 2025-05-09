@@ -26,29 +26,29 @@ In the course I dive much deeper and the topics discussed are:
 
 * Initializing package.json with npm
 * Running and writing scripts with npm and package.json
-    * Writing custom scripts
-    * Short cuts for common scripts
+  * Writing custom scripts
+  * Short cuts for common scripts
 * Pre and post hooks for scripts, [see this](https://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html)
-    * Hooks for custom scripts
+  * Hooks for custom scripts
 * Scripts useful for development, supporting tasks as:
-    * Compile Coffee-Script
-    * Compile TypeScript
-    * Refactoring
-    * Less Compilation
-    * Bundling with Browserify
-    * Minifying with Uglify
+  * Compile Coffee-Script
+  * Compile TypeScript
+  * Refactoring
+  * Less Compilation
+  * Bundling with Browserify
+  * Minifying with Uglify
 * Watching folders and files and trigger on change:
-    * Server Side Watching
-    * Watching the Unwatchable
-    * Using Nodemon
-    * Client Side Watching
-    * Live Reloading of Browser
+  * Server Side Watching
+  * Watching the Unwatchable
+  * Using Nodemon
+  * Client Side Watching
+  * Live Reloading of Browser
 * Versioning and deploying with npm, [see this](https://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html)
-    * Incrementing Version Number
-    * Versioning Code in git
-    * Push Code to Repository
-    * Deploy the Application
-    * Launch the Application
+  * Incrementing Version Number
+  * Versioning Code in git
+  * Push Code to Repository
+  * Deploy the Application
+  * Launch the Application
 * Other useful tricks with npm
 
 I think this is by far the best course I've made for PluralSight (my third) and I also think the topic is interesting and useful for most any Node / Front-end developer or team. It's simpler than Grunt/Gulp, quite simply.
