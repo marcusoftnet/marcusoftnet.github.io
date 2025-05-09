@@ -23,7 +23,7 @@ So - now to my build script. What we wanted to do was fairly simple (we thought)
 
 This is how I did it:
 
-First I created an `itemgroup` (called ClickOnceProjects) with parameters for the ClickOnce-deployment. This item group could be repeted for all projects that is to be published with ClickOnce.
+First I created an `itemGroup` (called ClickOnceProjects) with parameters for the ClickOnce-deployment. This item group could be repeated for all projects that is to be published with ClickOnce.
 
 ```xml
 <ItemGroup>

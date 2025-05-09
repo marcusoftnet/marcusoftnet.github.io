@@ -15,6 +15,6 @@ Last week [Miriam](https://www.marcusoft.net/2007/08/morning-devotional-by-frien
 
 Again she did it with a most visible easy and some very interesting thoughts. "God is bothering me..." who'll ever knew that that would be the theme for one of those shows.
 
-Well - if you missed it, it's about ten minutes of sharp-edge thinking. And you can [see it again here](http://www.svt.se/svt/jsp/Crosslink.jsp?d=69758) Se programmen I SVT Play and choose the 15 sept show).
+Well - if you missed it, it's about ten minutes of sharp-edge thinking. And you can [see it again here](http://www.svt.se/svt/jsp/Crosslink.jsp?d=69758) See the program I SVT Play and choose the 15 sept show).
 
 Way to go Miriam - you are honoring our prayer group on your mission trip to Norrland ;)

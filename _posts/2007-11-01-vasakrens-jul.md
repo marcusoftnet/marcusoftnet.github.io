@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VasaKårens Jul
+title: Vasakåren's Jul
 date: 2007-11-01T08:33:00.000Z
 author: Marcus Hammarberg
 tags:

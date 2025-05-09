@@ -17,7 +17,7 @@ Since Sunday all of the key players and the conductor has left the band in a sin
 
 - [David King](http://www.4barsrest.com/news/detail.asp?id=4638) -conductor and primus motor for the band since 13 years
 - [Sheona White](http://www.4barsrest.com/news/detail.asp?id=4643) - solo horn
-- [Steven Walsh](http://www.4barsrest.com/news/detail.asp?id=4656) - solo euphonium, who by the way made the gutsiest move in the business by stepping up to take up the solo euphonium chair after Morgan Griffiths. Respect!
+- [Steven Walsh](http://www.4barsrest.com/news/detail.asp?id=4656) - solo euphonium, who by the way made the gutsiest move in the business by stepping up to take up the solo euphonium chair after Morgan Griffith. Respect!
 - [Stuart Linguard](http://www.4barsrest.com/news/detail.asp?id=4662) - principal cornet
 
 I can't imaging how the band has planned to cope with these problems but I hope they do! YBS stands for a quality above the rest and probably have improved the brass band movement as a whole with their performances. I, for one, has listen to some recordings of test pieces over a hundred times (yes, I am a nerd...)

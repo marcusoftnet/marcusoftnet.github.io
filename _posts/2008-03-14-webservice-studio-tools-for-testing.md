@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebService studio - Tools for testing webservices
+title: WebService studio - Tools for testing web services
 date: 2008-03-14T14:19:00.005Z
 author: Marcus Hammarberg
 tags:

@@ -27,6 +27,6 @@ For some reason the connection to Source Control is included in the proj-files a
 
 1. Open the solution in Visual Studio
 2. Select the solution file
-3. Do File-\>Source control-\>Change Source Control.
+3. Do File -> Source control -> Change Source Control.
 4. Open the dialog box choose Unbind for all the projects
 5. Now you can choose Add solution to Source control again according to the steps above

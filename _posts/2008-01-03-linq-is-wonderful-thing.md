@@ -20,12 +20,6 @@ so far...).
 Here are some really good introduction videos to LINQ over SQL:
 <http://www.asp.net/learn/linq-videos/>
 
-My only concern is how this will work in a fully fledge architecture...
-That is when the code is not sitting on the database directly.
-Fascinating how Microsoft always starts out in that corner, when most
-architectures are more complex than that. Why not putting together an
-example of an architecture using LINQ.
+My only concern is how this will work in a fully fledge architecture... That is when the code is not sitting on the database directly. Fascinating how Microsoft always starts out in that corner, when most architectures are more complex than that. Why not putting together an example of an architecture using LINQ.
 
-Finally - after testdriving Visual Studio 2008 the review can be only
-one: Microsoft has improved on the already best development environment.
-I love it!
+Finally - after test driving Visual Studio 2008 the review can be only one: Microsoft has improved on the already best development environment. I love it!

@@ -45,7 +45,7 @@ Find my short version below
 3. Include the right namespace declarations and other things that you
    want in all your, for example comments, regions etc.
 4. Save the file
-5. Choose File-\>Export Template
+5. Choose File -> Export Template
 6. Go Item template and go through the rest of the wizard
 7. Distribute the created zip-file in your project. Your project
    members need to put it in their Document and Settings\Visual Studio

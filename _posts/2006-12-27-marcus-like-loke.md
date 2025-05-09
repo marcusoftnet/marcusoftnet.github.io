@@ -14,4 +14,4 @@ blogger_orig_url: https://www.marcusoft.net/2006/12/marcus-like-loke.html
 
 Just got hold of an recording of Loke Nyberg - a Swedish singer. This is really, really good - a new look on the "visa"-genre.
 
-Here is his website [lokeloke.se](http://www.lokeloke.se/). If you get a possibility to get hold of a recording - go ahead. I guarantee some great moments. If you speak Swedish.
+Here is his website [lokeLoke.se](http://www.lokeloke.se/). If you get a possibility to get hold of a recording - go ahead. I guarantee some great moments. If you speak Swedish.

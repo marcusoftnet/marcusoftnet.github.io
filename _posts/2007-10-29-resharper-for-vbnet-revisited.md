@@ -11,12 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6776151297451892784
 blogger_orig_url: https://www.marcusoft.net/2007/10/resharper-for-vbnet-revisited.html
 ---
 
-Ok -
-i'll give
-Resharper
-another try - thanks to Ilya Ryzhenkov who encouraged
-me to try again. In all honesty the crasches I experienced were all in a
-build script-file, XML-syntax.
+Ok - I'll give Resharper another try - thanks to Ilya Ryzhenkov who encouraged me to try again. In all honesty the crashes I experienced were all in a build script-file, XML-syntax.
 
-So i'll
-have to try it with pure VB.NET-code I expect... Here we go.
+So I'll have to try it with pure VB.NET-code I expect... Here we go.

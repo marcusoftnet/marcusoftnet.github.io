@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oooh - thoose sweet zomibes (?)
+title: Ooh - those sweet zombies (?)
 date: 2007-05-09T05:31:00.000Z
 author: Marcus Hammarberg
 tags:

@@ -52,7 +52,7 @@ run MSTest. That part is only run when a new deploy is made.
 
 Quite easy and maybe not the most beautiful solution ... but it works.
 
-**\[UPDATE\]**
+**[UPDATE]**
 
 See <a
 href="https://www.marcusoft.net/2008/10/how-to-run-mstest-with-publish.html"

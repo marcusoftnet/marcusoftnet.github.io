@@ -20,7 +20,7 @@ href="http://www.tipandtrick.net/2008/how-open-command-prompt-as-administrator-o
 target="_blank">here</a>. That article talks about how to run the
 command prompt in an elevated mode and my favorite trick is to:
 
-- type CMD in Start-\>Run...
+- type CMD in Start -> Run...
 - hit CTRL+SHIFT+ENTER - which is the shortcut to run things as
     administrator
 - Viola! - you're running as admin ;)

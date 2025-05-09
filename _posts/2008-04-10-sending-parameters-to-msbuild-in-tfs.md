@@ -21,7 +21,7 @@ The solution to this is of course to send and handle parameter in your build scr
 
 ## Parameters in MSBuild-scripts
 
-A MSBuild-script can be started without the assistance of the TFS, of course. For example on the commandline (msbuild.exe). And besides the actual .proj-file the msbuild-enginge is going to run through you can send a lot (and I mean a lot) of switches and stuff.
+A MSBuild-script can be started without the assistance of the TFS, of course. For example on the commandline (msbuild.exe). And besides the actual .proj-file the msbuild-engine is going to run through you can send a lot (and I mean a lot) of switches and stuff.
 
 One of them is /p which is a list of parameters (separated by commas) that the script can act on. The parameter becomes a standard property in the build script. So if the build script is started like this:
 

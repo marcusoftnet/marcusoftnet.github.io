@@ -26,5 +26,5 @@ solution is to in the .testrunconfig-file for the test configure
 DeploymentItems that points to any additional reference you need for
 your test to run.
 
-Via the Test-\>Edit Test Run Configuration-menu item you can easily add
+Via the Test -> Edit Test Run Configuration-menu item you can easily add
 files and folders.

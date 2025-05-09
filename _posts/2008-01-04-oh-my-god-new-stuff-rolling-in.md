@@ -12,8 +12,6 @@ blogger_orig_url: https://www.marcusoft.net/2008/01/oh-my-god-new-stuff-rolling-
 
 There are so many new things in the making right now....
 
-Here are the .NET 3.5 Extenstions on there way - some nice stuff in
-there:
-<http://weblogs.asp.net/scottgu/archive/2007/12/09/asp-net-3-5-extensions-ctp-preview-released.aspx>
+Here are the .NET 3.5 Extensions on there way - some nice stuff in there: <http://weblogs.asp.net/scottgu/archive/2007/12/09/asp-net-3-5-extensions-ctp-preview-released.aspx>
 
 Note the videos on the bottom.

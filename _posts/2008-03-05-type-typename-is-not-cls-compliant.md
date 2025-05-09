@@ -11,26 +11,15 @@ blogger_orig_url: https://www.marcusoft.net/2008/03/type-typename-is-not-cls-com
 ---
 
 OK - here is a strange one...
-\[UPDATE ON THIS POST - SEE
-<https://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html>\]
 
-We are using dependency injection to be able to inject mocked version of
-classes that the class we're testing is using.... (oh, my god - requires
-another blog-post I think... I'll get back).
+**[UPDATE ON THIS POST - SEE <https://www.marcusoft.net/2008/03/real-answere-type-typename-is-not-cls.html>]**
 
-So the first thing we did was to extract interfaces for all the methods
-the implementation is using. So far so good.
+We are using dependency injection to be able to inject mocked version of classes that the class we're testing is using.... (oh, my god - requires another blog-post I think... I'll get back).
 
-But when I mocked the implement ion of the interface we got a quite
-strange warning:
+So the first thing we did was to extract interfaces for all the methods the implementation is using. So far so good.
+
+But when I mocked the implement ion of the interface we got a quite strange warning:
 
 Type 'KodBenamning' is not CLS-compliant.
 
-Apparently this occurs when a type is referenced by an interface (as
-parameter or return type) AND the type is not marked with
-
-CLSCompliant(true)
-
-which, by the way is NOT default, of course.... So - the solution is to
-mark all your classes used by interface with CLSCompliant(true) and it
-will work...
+Apparently this occurs when a type is referenced by an interface (as parameter or return type) AND the type is not marked with CLSCompliant(true) which, by the way is NOT default, of course.... So - the solution is to mark all your classes used by interface with CLSCompliant(true) and it will work...

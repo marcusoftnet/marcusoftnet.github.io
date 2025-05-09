@@ -29,5 +29,5 @@ it will be received. [The last
 time](https://www.marcusoft.net/2008/04/sprint-demo-cold-and-speed.html)
 was such a success that we have a lot to live up to.
 
-**\[UPDATE\]**
+**[UPDATE]**
 OK - the demo went very fine. Another success!

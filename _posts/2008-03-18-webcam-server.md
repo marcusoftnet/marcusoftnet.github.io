@@ -12,17 +12,10 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-209759608610930719
 blogger_orig_url: https://www.marcusoft.net/2008/03/webcam-server.html
 ---
 
-We are planning to setup a web camera to view the Scrum Board. This
-has to do with the team being highly distributed (200 km
-apart) and us still wanting to maintain some sort of contact.
+We are planning to setup a web camera to view the Scrum Board. This has to do with the team being highly distributed (200 km apart) and us still wanting to maintain some sort of contact.
 
-However - I am lacking a lot in understanding and interest in hardware
-stuff as for example web cameras. So it took me quite some time to find
-a good server. But now I have: [YawCam](http://www.snapfiles.com/get/yawcam.html)
+However - I am lacking a lot in understanding and interest in hardware stuff as for example web cameras. So it took me quite some time to find a good server. But now I have: [YawCam](http://www.snapfiles.com/get/yawcam.html)
 
-It has all I wanted; you can stream video, it is easy to administrate
-and you can do minor modification to the output/quality and such stuff.
-And yeah - it's free also ;)
+It has all I wanted; you can stream video, it is easy to administrate and you can do minor modification to the output/quality and such stuff. And yeah - it's free also ;)
 
-Get one now! Thank you [Magnus Lundvall](http://www.snapfiles.com/publishers/magnus-lundvall/index.html "Visit the website of the publisher")
-who created it. Great app!
+Get one now! Thank you [Magnus Lundvall](http://www.snapfiles.com/publishers/magnus-lundvall/index.html) Visit the website of the publisher who created it. Great app!

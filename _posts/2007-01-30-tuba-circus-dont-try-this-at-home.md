@@ -16,6 +16,6 @@ OK - found this on a site and it just blew my mind!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U0qIL2ie-VE?si=xHC9xRcz38RNE305" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I've actually heard that piece with [Øystein Baadsvik](http://www.baadsvik.com/) before but it still amazing.
+I've actually heard that piece with [Öystein Baadsvik](http://www.baadsvik.com/) before but it still amazing.
 
-For all non-brass players - this is more or less impossible stuff. Imagine a footballer doing a tripple-salkov and kicking a basketball into the top corner of a goal from 200 meters - and you are close in how hard this is.
+For all non-brass players - this is more or less impossible stuff. Imagine a footballer doing a triple back-flip and kicking a basketball into the top corner of a goal from 200 meters - and you are close in how hard this is.

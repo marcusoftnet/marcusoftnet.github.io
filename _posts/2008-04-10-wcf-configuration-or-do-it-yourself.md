@@ -14,7 +14,7 @@ Configuration of WCF-services is a vast area... anyone who looked into the subje
 
 When I tried my first services I was "tricked" into choosing one of the pre-manufactured project templates that Microsoft ships with Visual Studio 2008. This was bad decision. The number of configuration properties and stuff generated for me was so great that I didn't understand the true important stuff that I needed to know.
 
-However, this Tuesday we had a interesting visitor at [Avega](http://www.avega.se/) - [Christan Weyer](http://blogs.thinktecture.com/cweyer/). He gave an introduction on WCF. From that lecture I got so much more than from what the templates showed me.
+However, this Tuesday we had a interesting visitor at [Avega](http://www.avega.se/) - [Christian Weyer](http://blogs.thinktecture.com/cweyer/). He gave an introduction on WCF. From that lecture I got so much more than from what the templates showed me.
 
 So this is what you really need to configure on your service:
 

@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2008/03/short-conchango-scrum-tfs-te
 
 I have been quite [frustrated](https://www.marcusoft.net/2008/03/conchango-burndown-char-not-showing.html) with the [Conchango Scrum TFS Template](http://scrumforteamsystem.com/).
 
-And not so much because the template is no good - its just that I can'tget up and running to be able to validate if the template is any good. The reason for this is the lack of introduction documentation. There are some pages on their site, but it doesn't show me any good ways on how to get started.
+And not so much because the template is no good - its just that I can't get up and running to be able to validate if the template is any good. The reason for this is the lack of introduction documentation. There are some pages on their site, but it doesn't show me any good ways on how to get started.
 
 Now after my [last post](https://www.marcusoft.net/2008/03/conchango-burndown-char-not-showing.html) I've got a suggestion to mail the Conchango-guys and they actually got back to me pretty fast. And from them I got another lead to one of their forum (that you of course have to register to see, excuse my stupidity).
 
@@ -27,7 +27,7 @@ OK - so how do you get started then. This is by the way ripped from the [excelle
 1. **Set up your sprint**. Sprints need to have a start and end date before they can be reported on. *Marcus comment* Here you'll need to ponder how to use areas and iterations, since sprints are completely based on them
 2. **Create your Environments and Teams.** You can do this from the project portal (right click on the project name in Team Explorer) and it only needs to be done once per project.
 3. **Create your user stories.** Define a list of product backlog items (PBI). Don't forget to assign the iteration path, this links PBIs to sprints.
-4. **Create your sprint backlog tasks** Using the "Add related item" menu option from the PBI context menu sets up the links automatically. Otherwise you can set PBI -\> SBI relations in the links tab.
+4. **Create your sprint backlog tasks** Using the "Add related item" menu option from the PBI context menu sets up the links automatically. Otherwise you can set PBI  ->  SBI relations in the links tab.
 5. **Burn-down your backlog.** As work is completed and progress is made, mark the changes on the SBIs. Reducing the work remaining figures as needed.
 
 This was all that I needed.... Why couldn't a short list like this be included in the documentation from the outset? Well now it's here instead.

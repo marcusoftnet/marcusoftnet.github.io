@@ -27,7 +27,7 @@ And here are, based on [this article](http://blogs.msdn.com/buckh/archive/2007/0
 3. Reference the msbuild task in your build file (.proj)
 
     ```xml
-    <usingtask
+    <usingTask
       assemblyfile="$(SolutionRoot)\SolutionItems\Tools\RidoTasks.dll"
       taskname="RidoTasks.trx2html"
     >

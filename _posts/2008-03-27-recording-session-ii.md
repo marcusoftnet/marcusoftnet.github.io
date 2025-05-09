@@ -12,15 +12,11 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6552408940114082155
 blogger_orig_url: https://www.marcusoft.net/2008/03/recording-session-ii.html
 ---
 
-Yesterday
-evening was the last rehearsal before the second and last recording
-session with my band, the Vasa Band.
+Yesterday evening was the last rehearsal before the second and last recording session with my band, the Vasa Band.
 
-We are really in a flow right now; we feel blessed and that God is with
-us in our efforts and the playing standard is on very high level.
+We are really in a flow right now; we feel blessed and that God is with us in our efforts and the playing standard is on very high level.
 
-I am really looking forward to the weekend which will be great fun and a
-lot of hard work. The pieces we are going to record are:
+I am really looking forward to the weekend which will be great fun and a lot of hard work. The pieces we are going to record are:
 
 - I Surrender All - a cornet solo by Andreas Holmlund
 - Priority - a "major" piece by Anders Beijer

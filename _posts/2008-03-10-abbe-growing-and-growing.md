@@ -12,6 +12,6 @@ blogger_orig_url: https://www.marcusoft.net/2008/03/abbe-growing-and-growing.htm
 
 Albert (or Abbe for short) is growing and in equal parts impressing and driving us mad.
 
-This morning we've got the first ever laugh (a very short burst of hehehe) which was very rewarding. We're not quite sure on what we did to make him laugh but he has been in a excellent mood all weekend, so we'll keep trying sounds and sights and see if the laugh can be lured out of him again.
+This morning we've got the first ever laugh (a very short burst of hehe) which was very rewarding. We're not quite sure on what we did to make him laugh but he has been in a excellent mood all weekend, so we'll keep trying sounds and sights and see if the laugh can be lured out of him again.
 
 Above are some recent photos. I haven't been able to catch a smile yet - but I am looking... watch this space
