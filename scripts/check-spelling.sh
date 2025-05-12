@@ -42,7 +42,17 @@ echo "Created temporary cspell config at $TEMP_CONFIG"
 
 # Run cspell on the target folder
 npx --yes cspell --config "$TEMP_CONFIG" "$TARGET_FOLDER/**/*"
+SPELL_STATUS=$?
 
 # Clean up
 rm "$TEMP_CONFIG"
 echo "Temporary config deleted."
+
+# Report and exit with the spell check status
+if [ $SPELL_STATUS -ne 0 ]; then
+  echo "❌ Spelling check failed."
+else
+  echo "✅ No spelling issues found."
+fi
+
+exit $SPELL_STATUS

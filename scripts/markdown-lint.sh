@@ -14,4 +14,12 @@ echo "Linting Markdown files in directory: $TARGET_DIR"
 
 npx --yes markdownlint-cli --config ./.markdownlint.json $TARGET_DIR $FIX_FLAG
 
-echo "Done."
+STATUS=$?
+
+if [ $STATUS -ne 0 ]; then
+  echo "❌ Markdown linting failed."
+else
+  echo "✅ No markdown linting issues found."
+fi
+
+exit $STATUS
