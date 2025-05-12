@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 
 # Run spelling check
-echo "Running spell checker..."
 bash ./scripts/check-spelling.sh _posts
 SPELL_STATUS=$?
 
 # Run markdown lint
-echo "Running markdown linting..."
 bash ./scripts/markdown-lint.sh _posts --fix
 LINT_STATUS=$?
 
