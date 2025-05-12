@@ -10,7 +10,7 @@ fi
 TARGET_DIR="$1"
 FIX_FLAG="$2"
 
-echo "Linting Markdown files in directory: $TARGET_DIR"
+# echo "Linting Markdown files in directory: $TARGET_DIR"
 
 npx --yes markdownlint-cli --config ./.markdownlint.json $TARGET_DIR $FIX_FLAG
 
