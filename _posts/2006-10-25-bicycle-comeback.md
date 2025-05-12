@@ -9,7 +9,6 @@ modified_time: 2006-10-26T05:53:23.766Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-116172125231863820
 blogger_orig_url: https://www.marcusoft.net/2006/10/bicycle-comeback.html
 ---
-#
 
 Today when I bicycled to work it was, as always in Sweden this season, dark. So in order to see anything I switched on my headlight on the bike.
 
