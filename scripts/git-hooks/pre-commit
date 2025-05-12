@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Run spelling check
+echo "Running spell check..."
+bash ./scripts/check-spelling.sh _posts
+SPELL_STATUS=$?
+
+# Run markdown lint
+echo "Running markdown lint..."
+bash ./scripts/markdown-lint.sh _posts --fix
+LINT_STATUS=$?
+
+# Check results
+if [ $SPELL_STATUS -ne 0 ] || [ $LINT_STATUS -ne 0 ]; then
+  echo "Pre-commit checks failed."
+  [ $SPELL_STATUS -ne 0 ] && echo "❌ Spelling check failed"
+  [ $LINT_STATUS -ne 0 ] && echo "❌ Markdown linting failed"
+  exit 1
+fi
+
+echo "✅ Pre-commit checks passed."
+exit 0
