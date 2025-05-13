@@ -18,7 +18,7 @@ No - rather I would like to check for problems every time I make a change. Prefe
 
 Turns out - there's a built-in Git-tool for that.
 
-Let me show you how I did that.
+Let me show you how I put these things together to make a guarded check-in that don't allow spelling or linting errors to be committed into the repository.
 
 <!-- excerpt-end -->
 
