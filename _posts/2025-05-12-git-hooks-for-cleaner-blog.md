@@ -110,6 +110,17 @@ Now you need to make the script executable in the `.git/hooks/` directory.
 chmod +x scripts/git-hooks/pre-commit
 ```
 
-And then try to do a commit, to see the linting and spell-checker run. If it fails the commit is not added, and once the checks pass without errors your commit is made.
+## Do
+
+And then I did a commit, to see the linting and spell-checker run. If it fails the commit is not added, and once the checks pass without errors your commit is made.
+
+```bash
+git add -A && git commit -m "Fixes a weird sentence"
+✅ No spelling issues found.
+✅ No markdown linting issues found.
+✅ All pre-commit checks passed.
+[main cc942bf] Fixes a weird sentence
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+```
 
 Beautiful.
