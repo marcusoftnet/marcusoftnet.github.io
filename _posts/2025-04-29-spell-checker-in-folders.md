@@ -85,3 +85,70 @@ The complete script is [found here](https://github.com/marcusoftnet/marcusoftnet
 Now I just have to fix the 3261 spelling errors, before I start to look into the markdown linting rules in the same thing.
 
 (No there's no working `--fix` flag for the `cspell` cli tool installed with `npx`.)
+
+## Update
+
+After I wrote this script I also wrote a script for markdown linting. And then I realized that I wanted to run this before each commit to the report. You can read [about that here](https://www.marcusoft.net/2025/05/git-hooks-for-cleaner-blog.html).
+
+To get the pre-commit-checks to work I had to update the script to return an error code. This made the complete script look like this:
+
+```bash
+#!/bin/bash
+
+set -e
+
+# Check if a folder argument is passed
+if [ -z "$1" ]; then
+  echo "Usage: $0 <folder>"
+  exit 1
+fi
+
+TARGET_FOLDER="$1"
+
+# Check folder exists
+if [ ! -d "$TARGET_FOLDER" ]; then
+  echo "Error: Folder '$TARGET_FOLDER' not found."
+  exit 1
+fi
+
+# Path to VS Code user settings
+VSCODE_SETTINGS="$HOME/Library/Application Support/Code/User/settings.json"
+if [ ! -f "$VSCODE_SETTINGS" ]; then
+  echo "VS Code settings.json not found at $VSCODE_SETTINGS"
+  exit 1
+fi
+
+# Extract cSpell.userWords using jq
+USER_WORDS=$(grep -vE '^\s*//' "$VSCODE_SETTINGS" | jq '.["cSpell.userWords"] // []')
+if [ "$USER_WORDS" == "null" ]; then
+  USER_WORDS="[]"
+fi
+
+# Create temporary cspell config
+TEMP_CONFIG="$(mktemp).json"
+cat > "$TEMP_CONFIG" <<EOF
+{
+  "version": "0.2",
+  "language": "en",
+  "words": $USER_WORDS
+}
+EOF
+# echo "Created temporary cspell config at $TEMP_CONFIG"
+
+# Run cspell on the target folder
+npx --yes cspell --quiet --config "$TEMP_CONFIG" "$TARGET_FOLDER/**/*"
+SPELL_STATUS=$?
+
+# Clean up
+rm "$TEMP_CONFIG"
+# echo "Temporary config deleted."
+
+# Report and exit with the spell check status
+if [ $SPELL_STATUS -ne 0 ]; then
+  echo "❌ Spelling check failed."
+else
+  echo "✅ No spelling issues found."
+fi
+
+exit $SPELL_STATUS
+```

@@ -41,7 +41,7 @@ EOF
 # echo "Created temporary cspell config at $TEMP_CONFIG"
 
 # Run cspell on the target folder
-npx --yes cspell --config "$TEMP_CONFIG" "$TARGET_FOLDER/**/*"
+npx --yes cspell --quiet --config "$TEMP_CONFIG" "$TARGET_FOLDER/**/*"
 SPELL_STATUS=$?
 
 # Clean up

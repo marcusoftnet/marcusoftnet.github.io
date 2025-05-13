@@ -110,7 +110,7 @@ Now you need to make the script executable in the `.git/hooks/` directory.
 chmod +x scripts/git-hooks/pre-commit
 ```
 
-## Do
+## Try it out
 
 And then I did a commit, to see the linting and spell-checker run. If it fails the commit is not added, and once the checks pass without errors your commit is made.
 
