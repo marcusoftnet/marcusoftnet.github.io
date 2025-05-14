@@ -73,6 +73,6 @@ If you think we have missed any major things please let me know. If you think of
 
 ### Will you still be around?
 
-You can reach me on <a href="http://twitter.com/marcusofnet" target="_blank">@marcusoftnet</a> on twitter, marcusoftnet as my gmail account too and marcusHammarberg at Skype.
+You can reach me on `@marcusoftnet` on social media, marcusoftnet as my gmail account too and marcusHammarberg at Skype.
 
 We're hoping to set up another blog with photos and stuff as we land. Now I need to plan, pack and finish the book.

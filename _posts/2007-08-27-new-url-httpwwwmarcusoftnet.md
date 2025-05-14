@@ -7,7 +7,6 @@ tags:
   - Marcus private
 modified_time: 2007-08-27T11:13:53.226Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7792379857910441375
-blogger_orig_url: https://www.marcusoft.net/2007/08/new-url-httpwwwmarcusoftnet.html
 ---
 
 I've just registered, what I think is a quite good domain name: <https://www.marcusoft.net/>. And the blog is now found under that name.

@@ -39,6 +39,6 @@ But sadly that doesn't work for me:
 I need feedback to survive. Good or bad. I want to be better or at least hear that something that I've done is good.
 I wont lie; I prefer positive feedback. Because it makes me feel good and I want to be a *good boy*, I blame that on Luther! But I like things that I can improve from too.
 
-Probably that's one of the reasons I [tweet](http://twitter.com/marcusoftnet), keep most of my [code open](http://github.com/marcusofnet) and [blog](/). It's a great way to get fast feedback.
+Probably that's one of the reasons I [tweet](http://twitter.com/marcusoftnet), keep most of my [code open](http://github.com/marcusoftnet) and [this blog](/). It's a great way to get fast feedback.
 
 My way out of the depression and downward spiral was to seek other ways and situations where I get feedback; volunteering to do courses, taking speakers gig, [this series](<https://www.marcusoft.net/tags/#Things> I say often) of blog posts etc.
