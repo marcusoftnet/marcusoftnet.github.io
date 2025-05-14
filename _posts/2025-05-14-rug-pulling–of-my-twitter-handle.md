@@ -23,3 +23,7 @@ It's a scam all of it. Don't belive a thing x.com/marcusoftnet is saying. It's n
 I have reported it to Twitter as an impersonation, reported the account and will report the thing to the police.
 
 My employer has been nothing but supportive and helpful, loads of colleagues reaching out and giving virtual and physical support.
+
+## Update
+
+The account is now closed, the crypto has tanked (losing the scammer $10.000) and I have reported the account to Police.
