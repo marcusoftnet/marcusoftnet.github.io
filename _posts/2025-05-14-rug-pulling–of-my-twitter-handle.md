@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Twitter rug-pulling of my twitter handle"
+title: "Twitter rug-pulling using my twitter handle"
 author: "Marcus Hammarberg"
 date: 2025-05-14 04:00:00
 tags:
