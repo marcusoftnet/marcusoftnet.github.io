@@ -3,7 +3,6 @@ layout: page
 title: Contact me
 permalink: /contact/
 description: How may I help you?
-header-img: img/contact-bg.jpg
 ---
 
 [@marcusoftnet](<https://bsky.app/profile/marcusoftnet.bsky.social>)

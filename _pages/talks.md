@@ -3,7 +3,6 @@ layout: page
 permalink: /talks/
 title: Talks and workshops
 description: Some of my talks and workshops
-header-img: img/about-bg.jpg
 ---
 
 I have done quite a few different talks and workshops during my career and here are a few that have proven popular and appreciated.
