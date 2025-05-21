@@ -20,7 +20,7 @@ However, I've always been tempted to introduce some curve balls and changes duri
 
 The game involves completing three columns with letters and numbers as quickly as possible. In the first round, the columns are completed row-by-row, resulting in longer lead times due to frequent pen switches. Here are my results:
 
-![Original game result](/img/originalrun.png)
+![Original game result](/img/orignalrun.png)
 
 I completed the task in 1 minute and 16 seconds, with the first project taking 1.12 seconds. Subsequent rounds saw significant improvements in lead time.
 
