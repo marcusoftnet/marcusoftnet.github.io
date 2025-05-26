@@ -14,9 +14,11 @@ Don't trust a word they are saying. It's a scam. I deleted that account a year a
 
 They are stealing content from my LinkedIn to make it look more like me. With this content and over the course of a few months they have created a trustworthy profile and accumulated a few thousand followers.
 
-Then they launched a crypto-currency with my employers name. So ... yeah... that's one way to introduce yourself at a new company. (More on that below)
+Then they launched a crypto-currency with my employers name. So ... yeah... that's one way to introduce yourself as a newly employed person at a company. (More on that below)
 
-I got informed about this while getting a few emails asking if the currency is legit. It's not. This stunt is referred to as rug-pulling (pump-and-dump); build up trust, get investors and then exit directly.
+<!-- excerpt-end -->
+
+I got informed about this while getting a few emails asking if the currency is legit. It's not. This stunt is referred to as rug-pulling (or pump-and-dump); build up trust, get investors and then exit directly.
 
 It's a scam all of it. Don't belive a thing x.com/marcusoftnet is saying. It's not me.
 
