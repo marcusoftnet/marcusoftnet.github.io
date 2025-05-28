@@ -7,7 +7,6 @@ tags:
  - Agile
  - DevOps
  - TDD
- - MobProgramming
 ---
 
 I read this [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7282512910428344323/) with great interest (even though it's the first time I heard about [ASPICE](https://www.aptiv.com/en/insights/article/what-is-aspice)).

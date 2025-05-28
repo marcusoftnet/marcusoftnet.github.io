@@ -4,7 +4,7 @@ title: Marcus Node Bits - Ok then, Mongoose is pretty sweet
 date: 2014-03-05T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - Tools
   - Agile

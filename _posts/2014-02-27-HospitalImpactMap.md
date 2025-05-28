@@ -4,7 +4,7 @@ title: Impact Mapping - now helping Indonesian Hospitals
 date: 2014-02-27T07:39:00.002Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Tools
   - Lean
   - Agile

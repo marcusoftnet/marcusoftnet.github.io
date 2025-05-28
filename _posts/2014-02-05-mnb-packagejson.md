@@ -4,7 +4,7 @@ title: Marcus Node Bits - Package.json is a mighty tool
 date: 2014-02-05T13:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.527Z

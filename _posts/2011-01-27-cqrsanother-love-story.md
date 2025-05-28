@@ -4,7 +4,6 @@ title: CQRS–another love story
 date: 2011-01-27T08:27:00.001Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
   - BDD
   - .NET
   - ÖreDev

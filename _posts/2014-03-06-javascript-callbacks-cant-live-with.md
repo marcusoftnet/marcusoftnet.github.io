@@ -4,7 +4,7 @@ title: Javascript callbacks - cannot live with them cannot live without them... 
 date: 2014-03-06T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.519Z

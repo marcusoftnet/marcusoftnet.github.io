@@ -4,7 +4,7 @@ title: Marcus Node Bits - Doing stuff in the terminal is not scary at all
 date: 2014-02-05T07:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - Life of a consultant
   - Agile

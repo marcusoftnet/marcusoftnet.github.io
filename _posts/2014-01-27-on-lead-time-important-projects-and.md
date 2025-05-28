@@ -4,7 +4,6 @@ title: On Lead Time and Important Projects
 date: 2014-01-27
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
   - Lean
   - Agile
   - Indonesia

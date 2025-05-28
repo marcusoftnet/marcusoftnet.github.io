@@ -4,7 +4,7 @@ title: Marcus Node Bits - supertest is a nice way to test an API
 date: 2014-02-07T14:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - BDD
   - Tools

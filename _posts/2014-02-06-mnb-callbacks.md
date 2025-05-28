@@ -4,7 +4,7 @@ title: Marcus Node Bits - Callback function is cool stuff, and I even know how t
 date: 2014-02-06T10:50:00.000Z
 author: Marcus Hammarberg
 tags:
-  - MobProgramming
+  - Node
   - Javascript
   - Tools
 modified_time: 2014-06-02T08:56:52.533Z
