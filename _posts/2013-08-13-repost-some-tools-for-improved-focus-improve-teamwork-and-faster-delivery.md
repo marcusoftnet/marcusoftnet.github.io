@@ -8,7 +8,7 @@ tags:
  - Lean
  - Scrum
  - Tools
- - CodeBetter
+ - CodeBetter re-posts
  - Life of a consultant
 ---
 

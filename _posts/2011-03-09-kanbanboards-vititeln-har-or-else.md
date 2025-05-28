@@ -8,7 +8,7 @@ tags:
   - Tools
   - .NET
   - ASP.NET MVC
-  - KanbanBoards
+  - The KanbanBoards Project
 modified_time: 2011-03-08T19:03:13.839Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1325740255107798275
 blogger_orig_url: https://www.marcusoft.net/2011/02/kanbanboards-vititeln-har-or-else.html

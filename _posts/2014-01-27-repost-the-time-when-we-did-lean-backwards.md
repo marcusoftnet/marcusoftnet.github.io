@@ -7,7 +7,7 @@ tags:
  - Lean
  - Agile
  - Life of a consultant
- - CodeBetter
+ - CodeBetter re-posts
 ---
 
 ### REPOST FROM CODEBETTER
