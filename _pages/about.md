@@ -27,14 +27,14 @@ The underlying theme of it all is [agile](http://www.agilemanifesto.org) lean an
 
 ### Why this blog?
 
-This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everthing I learned in my head and started to write it down instead.
+This blog started with me loosing three notebook (paper versions) in two weeks. I grew tired of trying to remember everything I learned in my head and started to write it down instead.
 
 During the years I learned so much by sharing and soon I picked up the theme for the blog: "sharing is learning". Just the other day I got some evidence that I might be on the right track too:
 
 > We Learn . . .10% of what we read, 20% of what we hear, 30% of what we see, 50% of what we see and hear, 70% of what we discuss, 80% of what we experience, 95% of what we teach others
 William Glassner
 
-So ... it might be for my selfish learning purposes I write this. Anyway I'm very happpy to share this with you... to learn more ... to share more ... to learn more ... to
+So ... it might be for my selfish learning purposes I write this. Anyway I'm very happy to share this with you... to learn more ... to share more ... to learn more ... to
 
 #### My family
 
@@ -110,7 +110,7 @@ Most slides for my talks can be found on my [Slide Share page](www.slideshare.ne
 I have been into Open source on the .NET platform for quite some time. The main projects I've been into are:
 
 * [NancyFx](http://www.nancyfx.org) Nancy is the super-duper-happy-path library to small and awesome web applications using .NET. I absolutely love this framework and have committed small things to this. Very proud to be on the [list of committers](http://nancyfx.org/contribs.html).
-* [SpecFlow](http://www.specflow.org) SpecFlow is a great way to write specifications in english (using Cucumber) that then is translated to testing code of your choice. I’ve written a lot of blogposts about SpecFlow over the years and contributed the first version of the SpecFlow intellisense.
+* [SpecFlow](http://www.specflow.org) SpecFlow is a great way to write specifications in english (using Cucumber) that then is translated to testing code of your choice. I’ve written a lot of blog posts about SpecFlow over the years and contributed the first version of the SpecFlow intellisense.
 * [Simple.Data](https://github.com/markrendle/Simple.Data) I have commit code and written some [documentation](http://simplefx.org/simpledata/docs/pages/Test/Basics.htm) around this awesome data access framework.
 * [Pickles](http://www.picklesdoc.com/#!index.md) lets you generate a nice documentation from your SpecFlow specifications
 

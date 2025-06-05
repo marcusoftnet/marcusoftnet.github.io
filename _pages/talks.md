@@ -102,8 +102,8 @@ This session is very practical but ties back to the theories behind kanban, lean
 
 The session can be run in several different modes:
 
-- As a pure presentation where I pick my own favourites (most boring)
-- As an interactive big room presentation where audience votes for the items they like the most (require access to www.heroku.comm, interactive and interest-driven)
+- As a pure presentation where I pick my own favorites (most boring)
+- As an interactive big room presentation where audience votes for the items they like the most (require access to <www.heroku.com>, interactive and interest-driven)
 - As a master class where I coach one team around their board and other people listen in / watches us go through some of the items on the list that the team likes the best. (great for that one team and might be the things that the others doesn't really want to see)
 
 ### Outcomes
@@ -136,7 +136,7 @@ Come with an open mind and any kind of process - leave with practical tips, know
 - Overview of how kanban can help you improve your process to more effectively deliver value
 - Knowing the foundational principles of kanban and how they can help
 - Practical knowledge of how to build and manage boards for teams
-- Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organise that
+- Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organize that
 - Inspiration to go on and start your improvement journey - from now until better than you ever imagined!
 
 ### Audience
@@ -158,7 +158,7 @@ I have gathered a few of the practices that I've come to appreciate and got grea
 - Overview of how kanban can help you improve your process to more effectively deliver value
 - Knowing the foundational principles of kanban and how they can help
 - Practical knowledge of how to build and manage boards for teams
-- Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organise that
+- Practical knowledge in how to handle up/downstream processes such as ideas etc. And how to organize that
 
 ### Audience
 
@@ -176,7 +176,7 @@ Serverless is the new superpower in IT. In this talk, we will take a look at why
 
 - Understanding of what serverless is
 - Understanding of how it can help us to move faster
-- An orientation of the AWS platform, 10000 feets
+- An orientation of the AWS platform, 10000 feet-level
 - Some demos with [Claudia Js](http://claudiajs.com)
 
 ### Audience

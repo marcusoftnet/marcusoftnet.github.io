@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # Run spelling check
-bash ./scripts/check-spelling.sh _posts
+bash ./scripts/check-spelling.sh _posts && bash ./scripts/check-spelling.sh _pages
 SPELL_STATUS=$?
 
 # Run markdown lint
-bash ./scripts/markdown-lint.sh _posts --fix
+bash ./scripts/markdown-lint.sh _posts --fix && bash ./scripts/markdown-lint.sh _pages --fix
 LINT_STATUS=$?
 
 # Check results
