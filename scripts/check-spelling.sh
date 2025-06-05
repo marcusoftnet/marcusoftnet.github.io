@@ -52,7 +52,7 @@ rm "$TEMP_CONFIG"
 if [ $SPELL_STATUS -ne 0 ]; then
   echo "❌ Spelling check failed."
 else
-  echo "✅ No spelling issues found in $TARGET_FOLDER."
+  echo "✅ No spelling issues found in '$TARGET_FOLDER'."
 fi
 
 exit $SPELL_STATUS
