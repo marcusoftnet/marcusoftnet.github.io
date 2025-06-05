@@ -19,7 +19,7 @@ STATUS=$?
 if [ $STATUS -ne 0 ]; then
   echo "❌ Markdown linting failed."
 else
-  echo "✅ No markdown linting issues found."
+  echo "✅ No markdown linting issues found in $TARGET_FOLDER."
 fi
 
 exit $STATUS

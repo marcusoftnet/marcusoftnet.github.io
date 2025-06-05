@@ -5,7 +5,7 @@ bash ./scripts/check-spelling.sh _posts && bash ./scripts/check-spelling.sh _pag
 SPELL_STATUS=$?
 
 # Run markdown lint
-bash ./scripts/markdown-lint.sh _posts --fix && bash ./scripts/markdown-lint.sh _pages --fix
+bash ./scripts/markdown_lint.sh _posts --fix && bash ./scripts/markdown_lint.sh _pages --fix
 LINT_STATUS=$?
 
 # Check results
