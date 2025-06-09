@@ -29,3 +29,5 @@ This script will use the words that you have added to your VS Code settings file
     # Output result to a file
     bash scripts/markdown-lint.sh _posts > linting-results.txt 2>&1
     ```
+
+* [`create_wordcloud_all`](/scripts/create_wordcloud_all.sh) - creates JSON files with word-cloud data in to `/data/wc/` by calling [`create_wordcloud_year.sh`](/scripts/create_wordcloud_year.sh).

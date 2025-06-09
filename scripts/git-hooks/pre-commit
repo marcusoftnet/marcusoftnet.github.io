@@ -17,4 +17,8 @@ if [ $SPELL_STATUS -ne 0 ] || [ $LINT_STATUS -ne 0 ]; then
 fi
 
 echo "✅ All pre-commit checks passed."
+
+echo "Generating word clouds..."
+bash ./scripts/create_wordcloud_all.sh data/exclude-words.json
+
 exit 0

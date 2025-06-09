@@ -8,6 +8,10 @@ description: Word cloud visualization of blog posts by year.
 
 <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
 <style>
+  body {
+    text-align: center;
+    padding: 2em;
+  }
   canvas {
     border: 1px solid #ccc;
     background: #fff;
