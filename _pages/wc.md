@@ -29,11 +29,6 @@ description: Word cloud visualization of blog posts by year.
   <label for="yearSelect">Select a year:</label>
   <select id="yearSelect">
     <option value="">-- Choose Year --</option>
-    <option value="2024">2024</option>
-    <option value="2023">2023</option>
-    <option value="2022">2022</option>
-    <option value="2021">2021</option>
-    <option value="2006">2006</option>
   </select>
 </div>
 
@@ -42,6 +37,15 @@ description: Word cloud visualization of blog posts by year.
 <script>
   const canvas = document.getElementById('wordcloud');
   const yearSelect = document.getElementById('yearSelect');
+
+  document.addEventListener("DOMContentLoaded", () => {
+    const yearSelector = document.getElementById("yearSelect");
+
+    const endYear = new Date().getFullYear();
+    for(let year = 2006; year <= endYear; year++) {
+      studentSelect.append(new Option(""+year, ""+year, true, true));
+    }
+  });
 
   yearSelect.addEventListener('change', () => {
     const year = yearSelect.value;
