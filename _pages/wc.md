@@ -37,12 +37,11 @@ description: Word cloud visualization of blog posts by year.
   const yearSelect = document.getElementById('yearSelect');
 
   document.addEventListener("DOMContentLoaded", () => {
-    const yearSelector = document.getElementById("yearSelect");
-
     const endYear = new Date().getFullYear();
     for(let year = 2006; year <= endYear; year++) {
       yearSelect.append(new Option(""+year, ""+year, true, true));
     }
+    yearSelect.selectedIndex = 0;
   });
 
   yearSelect.addEventListener('change', () => {
