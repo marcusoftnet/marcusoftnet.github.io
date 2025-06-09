@@ -23,8 +23,6 @@ description: Word cloud visualization of blog posts by year.
   }
 </style>
 
-## Blog Word Cloud by Year
-
 <div id="controls">
   <label for="yearSelect">Select a year:</label>
   <select id="yearSelect">
