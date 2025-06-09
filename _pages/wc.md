@@ -56,9 +56,9 @@ description: Word cloud visualization of blog posts by year.
       .then(words => {
         WordCloud(canvas, {
           list: words,
-          gridSize: Math.round(16 * $('#canvas').width() / 1024),
+          gridSize: Math.round(16 * canvas.width() / 1024),
           weightFactor: function (size) {
-            return Math.pow(size, 2.3) * $('#canvas').width() / 1024;
+            return Math.pow(size, 2.3) * canvas.width() / 1024;
           },
           fontFamily: 'Arial',
           color: 'random-dark',
