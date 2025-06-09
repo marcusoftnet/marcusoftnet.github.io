@@ -33,6 +33,7 @@ description: Word cloud visualization of blog posts by year.
     <option value="2023">2023</option>
     <option value="2022">2022</option>
     <option value="2021">2021</option>
+    <option value="2006">2006</option>
   </select>
 </div>
 
