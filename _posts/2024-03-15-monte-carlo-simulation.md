@@ -96,7 +96,7 @@ That's a pretty good outcome from just tracking start and stop dates.
 
 That was pretty simple to do, but pretty useful. The natural question to follow up with is then "How long will it take to complete all of it?", or "We have 100 user stories in the upcoming release - when is that done?".
 
-It's easy to fall into the trap of just multiplying the flow time with the number of items and say "Since the flow time was 8 days and the backlog has 100 items it will take 100 days, with 50% certainty". But that will give the wrong answer, instead, we need to look at the *throughput* of the system - how many things are completed each day.
+It's easy to fall into the trap of just multiplying the flow time with the number of items and say "Since the flow time was 8 days, with 50% certain, and the backlog has 100 items it will take 8 x 100 = 800 days, with 50% certainty". But that will give the wrong answer, instead, we need to look at the *throughput* of the system - how many things are completed each day.
 
 Luckily that can also obtained from the same two dates as before. We simply count the number of items that were completed every day.
 
