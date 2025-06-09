@@ -42,7 +42,7 @@ description: Word cloud visualization of blog posts by year.
     const year = yearSelect.value;
     if (!year) return;
 
-    fetch(`data/wordcloud-${year}.json`)
+    fetch(`/data/wc/wordcloud-${year}.json`)
       .then(res => {
         if (!res.ok) throw new Error("Failed to load word list");
         return res.json();
