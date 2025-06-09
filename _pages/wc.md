@@ -32,7 +32,7 @@ description: Word cloud visualization of blog posts by year.
   </select>
 </div>
 
-<canvas id="wordcloud" width="800" height="600"></canvas>
+<canvas id="wordcloud" width="100%" height="100%"></canvas>
 
 <script>
   const canvas = document.getElementById('wordcloud');
@@ -43,7 +43,7 @@ description: Word cloud visualization of blog posts by year.
 
     const endYear = new Date().getFullYear();
     for(let year = 2006; year <= endYear; year++) {
-      studentSelect.append(new Option(""+year, ""+year, true, true));
+      yearSelect.append(new Option(""+year, ""+year, true, true));
     }
   });
 
