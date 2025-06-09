@@ -18,7 +18,4 @@ fi
 
 echo "✅ All pre-commit checks passed."
 
-echo "Generating word clouds..."
-rm -f ./data/wc/wordcloud-*.json
-bash ./scripts/create_wordcloud_all.sh ./data/wc/exclude-words.json
 exit 0
