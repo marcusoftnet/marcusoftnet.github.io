@@ -30,7 +30,7 @@ description: Word cloud visualization of blog posts by year.
   </select>
 </div>
 
-<canvas id="wordcloud" width="2340" height="1520"></canvas>
+<canvas id="wordcloud" width="1170" height="760"></canvas>
 
 <script>
   const canvas = document.getElementById('wordcloud');
@@ -56,9 +56,9 @@ description: Word cloud visualization of blog posts by year.
       .then(words => {
         WordCloud(canvas, {
           list: words,
-          gridSize: Math.round(16 * canvas.width() / 1024),
+          gridSize: Math.round(16 * canvas.width / 1024),
           weightFactor: function (size) {
-            return Math.pow(size, 2.3) * canvas.width() / 1024;
+            return Math.pow(size, 2.3) * canvas.width / 1024;
           },
           fontFamily: 'Arial',
           color: 'random-dark',
