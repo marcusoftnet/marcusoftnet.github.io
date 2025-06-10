@@ -12,3 +12,4 @@ package.json
 .jekyll-cache
 spelling-results.txt
 linting-results.txt
+word_freq.txt
