@@ -41,7 +41,6 @@ curl -sSL https://dot.net/v1/dotnet-install.sh | bash -s -- \
 
 These commands will download the script and then execute it with `bash`. But that's a bit chatty, lets make it tighter with some variables:
 
-
 ```bash
 #!/bin/bash
 INSTALL_DIR="$HOME/.dotnet"
@@ -60,8 +59,6 @@ done
 ```
 
 In fact, let's create a function for the installation-part, which will make overall structure a bit more readable:
-
-
 
 ```bash
 #!/bin/bash
