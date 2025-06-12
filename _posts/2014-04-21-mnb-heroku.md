@@ -10,7 +10,7 @@ tags:
   - Koa
   - Lean
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2014-05-29T12:22:24.020Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6218298441525731501
 blogger_orig_url: https://www.marcusoft.net/2014/04/mnb-heroku.html

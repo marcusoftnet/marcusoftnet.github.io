@@ -9,7 +9,7 @@ tags:
   - Tools
   - Koa
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2014-06-19T13:11:11.132Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-6635224330936661017
 blogger_orig_url: https://www.marcusoft.net/2014/06/koajs-making-make-file-test-push-and.html

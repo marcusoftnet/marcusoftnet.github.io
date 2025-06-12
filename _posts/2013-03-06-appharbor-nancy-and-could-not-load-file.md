@@ -8,7 +8,7 @@ tags:
   - Nancy
   - Tools
   - .NET
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2013-03-06T10:35:19.266Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2452370248443791950
 blogger_orig_url: https://www.marcusoft.net/2013/03/appharbor-nancy-and-could-not-load-file.html

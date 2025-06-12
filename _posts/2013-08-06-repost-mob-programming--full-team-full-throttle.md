@@ -8,7 +8,7 @@ tags:
  - Lean
  - Tools
  - CodeBetter re-posts
- - MobProgramming
+ - Mob programming
 ---
 
 ### REPOST FROM CODEBETTER

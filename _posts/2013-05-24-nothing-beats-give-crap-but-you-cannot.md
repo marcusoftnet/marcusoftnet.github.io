@@ -8,7 +8,7 @@ tags:
   - Life of a consultant
   - Kanban
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2013-05-24T13:24:02.770Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2774034533378382900
 blogger_orig_url: https://www.marcusoft.net/2013/05/nothing-beats-give-crap-but-you-cannot.html

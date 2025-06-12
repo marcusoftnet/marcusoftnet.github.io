@@ -7,7 +7,7 @@ tags:
   - BDD
   - .NET
   - ASP.NET MVC
-  - The KanbanBoards Project
+  - Kanban-boards Project
   - SpecFlow
 modified_time: 2011-02-05T20:11:06.427Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8417148080028689205

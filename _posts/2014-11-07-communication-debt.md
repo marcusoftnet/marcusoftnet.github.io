@@ -6,7 +6,7 @@ author: Marcus Hammarberg
 tags:
   - Tools
   - Life of a consultant
-  - The KanbanBoards Project
+  - Kanban-boards Project
   - Agile
   - Salvation Army
   - Indonesia

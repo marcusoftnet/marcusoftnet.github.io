@@ -7,7 +7,7 @@ tags:
   - Nancy
   - Tools
   - .NET
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2013-03-07T08:32:05.227Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2488664060079678455
 blogger_orig_url: https://www.marcusoft.net/2013/03/get-mongodb-running-on-appharbour-its.html

@@ -7,7 +7,7 @@ tags:
   - Tools
   - Life of a consultant
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2012-12-03T08:00:02.636Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-7066734482832063838
 blogger_orig_url: https://www.marcusoft.net/2012/12/impact-mapping-great-book-great-tool.html

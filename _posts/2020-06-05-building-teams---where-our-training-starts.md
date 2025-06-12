@@ -6,7 +6,7 @@ date: 2020-06-05 08:55:00
 tags:
  - Agile
  - Lean
- - MobProgramming
+ - Mob programming
 ---
 
 At [School of Applied Technology](https://salt.dev/), our accelerated career program is running in small teams, using [Mob Programming](https://www.marcusoft.net/2013/08/repost-mob-programming-full-team-full-throttle.html). We have found that this gives us the most and best learning in a short amount of time. In this setup the tight group that you are in becomes both your best teachers but also, from time to time, you will be the teacher others in the group.

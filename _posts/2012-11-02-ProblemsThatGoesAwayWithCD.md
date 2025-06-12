@@ -5,7 +5,7 @@ date: 2012-11-02T10:37:00.000Z
 author: Marcus Hammarberg
 tags:
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2012-11-02T10:37:35.910Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-2349708152375787890
 blogger_orig_url: https://www.marcusoft.net/2012/11/ProblemsThatGoesAwayWithCD.html

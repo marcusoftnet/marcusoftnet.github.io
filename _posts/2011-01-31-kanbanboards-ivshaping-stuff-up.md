@@ -7,7 +7,7 @@ tags:
   - BDD
   - .NET
   - ASP.NET MVC
-  - The KanbanBoards Project
+  - Kanban-boards Project
 modified_time: 2011-01-30T20:55:55.120Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-5936748023655640119
 blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-ivshaping-stuff-up.html

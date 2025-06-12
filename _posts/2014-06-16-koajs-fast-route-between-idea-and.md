@@ -8,7 +8,7 @@ tags:
   - Koa
   - Lean
   - Agile
-  - ContinuousDelivery
+  - Continuous delivery
 modified_time: 2014-06-20T07:44:31.696Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-4479719224435985617
 blogger_orig_url: https://www.marcusoft.net/2014/06/koajs-fast-route-between-idea-and.html
