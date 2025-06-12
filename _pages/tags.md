@@ -35,7 +35,7 @@ title: Tags
 
     <div class="archive-group">
       <h3 id="{{ tag_name | slugify }}" class="category-head">
-        {{ tag_name }} <span class="tag-count">({{ tag_size }})</span>
+        {{ tag_name }} ({{ tag_size }})
       </h3>
       <ul class="post-list">
         {% for post in tag_posts reversed %}
