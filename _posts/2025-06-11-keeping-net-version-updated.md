@@ -243,6 +243,19 @@ for CHANNEL in "${CHANNELS[@]}"; do
 done
 ```
 
+And with that in place it will look amazing during a day when new versions are released:
+
+```bash
+🧹 Checking for SDKs with major version 6 to clean up (except 6.0.428)...
+🗑 Removing 6.0.427
+⬇️ Installing 6.0 SDK (6.0.428)...
+✅ Installed new .NET 6.0 SDK (6.0.428).
+🧹 Checking for SDKs with major version 9 to clean up (except 9.0.301)...
+🗑 Removing 9.0.300
+⬇️ Installing 9.0 SDK (9.0.301)...
+✅ Installed new .NET 9.0 SDK (9.0.301).
+```
+
 ## Using as part of my dotfiles
 
 I have all my Mac configuration in a [dotfiles](https://github.com/marcusoftnet/dotfiles) directory. I've based that repository from others [developers greater than me](https://github.com/holman/dotfiles). And for that I'm grateful, because it gave me some tools and conventions that makes it very easy to keep my computer up-date.
