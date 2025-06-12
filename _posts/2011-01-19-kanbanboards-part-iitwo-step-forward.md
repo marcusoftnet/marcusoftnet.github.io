@@ -7,7 +7,7 @@ tags:
   - BDD
   - .NET
   - ASP.NET MVC
-  - Kanban-boards Project
+  - Kanban-boards project
 modified_time: 2011-01-18T23:12:04.743Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-1192963568942273739
 blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
