@@ -2,18 +2,21 @@
 ---
 
 //
-// IMPORTS
+// IMPORTS (all @use must be at the very top)
 //
 
-@import "reset";
-@import "variables";
-// Syntax highlighting @import is at the bottom of this file
+@use "../_sass/_reset";
+@use "../_sass/_variables" as *;
+@use "../_sass/_darcula";
+@use "../_sass/_svg-icons";
+// Syntax highlighting partial is still commented out
+//@use "../_sass/_highlights";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /**************/
 /* BASE RULES */
 /**************/
-
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {
   font-size: 100%;
@@ -459,13 +462,13 @@ footer {
 }
 
 body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
+  background: linear-gradient(to right, #ffffff 0, #2196F3 33%, #E91E63 66%, #000 100%);
+    width: 100%;
+    height: 5px;
+    top: 0;
+    position: absolute;
+    left: 0;
+    content: '';
 }
 
 #bar {
@@ -860,7 +863,9 @@ Modules - reusable parts of our design
     margin-left: -30px;
     /* Force Hardware Acceleration in WebKit */
     -webkit-transform: translateZ(0);
+    transform: translateZ(0);
     -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
   }
   .cssanimations .cd-timeline-img.is-hidden {
     visibility: hidden;
@@ -1174,6 +1179,4 @@ Modules - reusable parts of our design
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
-@import "darcula";
-@import "svg-icons";
+//@use "../_sass/_highlights";

@@ -1,17 +1,21 @@
 #!/bin/bash
+set -euo pipefail
 
-# Check if the path argument is provided
-if [ $# -eq 0 ]; then
-    echo "Usage: $0 <path_to_directory>"
-    exit 1
+IMAGE_NAME=jekyll-blog-local
+
+# Build the Docker image from scripts directory
+SCRIPT_DIR="$(dirname "$0")"
+PROJECT_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$PROJECT_ROOT"
+
+docker build -f scripts/Dockerfile -t $IMAGE_NAME --build-arg GEMFILE_DIR=scripts .
+
+docker run --rm -v "$PROJECT_ROOT":/srv/jekyll -v "$PROJECT_ROOT/_site":/srv/jekyll/_site $IMAGE_NAME jekyll build
+
+echo "✅ Jekyll site built in ./_site"
+
+read -p "Do you want to serve the site locally? (y/n): " answer
+if [[ "$answer" =~ ^[Yy]$ ]]; then
+  docker run --rm -p 4000:4000 $IMAGE_NAME
 fi
-
-# Validate if the directory exists
-if [ ! -d "$1" ]; then
-    echo "Error: Directory not found: $1"
-    exit 1
-fi
-
-# Run the Docker command
-docker build -t marcusoftnet .
-docker run --rm --volume="$1:/usr/src/app" -it marcusoftnet jekyll build
