@@ -31,7 +31,7 @@ Note here that so far nothing is controversial. Everyone in the room (and in mos
 
 ## The story continues
 
-But then it happens.
+But then it happens. The assembly manager says:
 
 > We can't do that here. Our cable product is a component of an automobile safety system and because of that each time we change over to assembling a different cable we have to fill out lot-traceability work.
 
@@ -53,9 +53,9 @@ Here's what the author think that a Toyota Plant manager would have responded to
 
 > You are correct that the extra paperwork and the first-piece inspection requirements are the obstacles for achieving a smaller lot size. Thank you for pointing that out
 
-Beautiful start of a coaching conversation. The problem is noticed and he gets a Thank you for finding it. Love it!
+Beautiful start of a coaching conversation. The problem is noticed and he gets a "Thank you" for finding it. Love it!
 
-> However, the fact that we want to reduce the lot sizes is not optional no open for discussing, because it moves us closer to our vision of a one-by-one flow.
+> However, the fact that we want to reduce the lot sizes is not optional nor open for discussing, because it moves us closer to our vision of a one-by-one flow.
 
 Now this is very interesting. Notice how this made-up-manager, schooled in Toyota thinking refers back to the overarching vision of the company; one-by-one flow. This is the reason we are talking about this problem in the first place. In fact, it's the only reason we **see** this problem, since in larger batch sizes we would probably not even notice it.
 
@@ -105,8 +105,8 @@ One time I've lean implemented fast and smooth was in [RS Bungsu, the Indonesian
 
 * were virtually bankrupt
 * a collapsed roof over 60% of the hospital area
-* not valid permit
-* no support from mother organization, that wanted to sell the hospital
+* not valid permit to operate a hospital
+* no support from mother-organization, that wanted to sell the hospital
 
 They were ready to challenge everything they did and do something different. We turned that hospital around in about 1,5 year into becoming profitable, renovated, certified and using a hypothesis driven business model.
 
