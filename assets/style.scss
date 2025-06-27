@@ -7,7 +7,6 @@
 //
 
 @use "../_sass/_reset";
-@use "../_sass/_variables" as vars;
 @use "../_sass/_darcula";
 @use "../_sass/_svg-icons";
 // Syntax highlighting partial is still commented out
@@ -15,6 +14,32 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+//
+// VARIABLES
+//
+
+// Colors
+$blue: #4183C4;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
 /**************/
 /* BASE RULES */
 /**************/
@@ -43,7 +68,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: vars.$darkerGray;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -181,11 +206,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: vars.$blue;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: vars.$blue;
+    color: $blue;
   }
 }
 
@@ -266,17 +291,17 @@ p > img {
 }
 
 .date {
-  color: vars.$gray;
+  color: $gray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: vars.$black;
-    background: vars.$lightGray;
+  color: $black;
+    background: $lightGray;
 }
 ::selection {
-  color: vars.$black;
-    background: vars.$lightGray;
+  color: $black;
+    background: $lightGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -305,7 +330,7 @@ p > img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid vars.$lightGray;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -344,9 +369,9 @@ p > img {
 
 .site-name {
   margin: 0;
-  color: vars.$darkGray;
+  color: $darkGray;
   cursor: pointer;
-  font-family: vars.$helveticaNeue;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -359,7 +384,7 @@ p > img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: vars.$gray;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
@@ -370,7 +395,7 @@ p > img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: vars.$helveticaNeue;
+  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
@@ -382,14 +407,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: vars.$darkGray;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: vars.$blue;
+      color: $blue;
     }
   }
 }
@@ -400,7 +425,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid vars.$lightGray;
+  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -413,7 +438,7 @@ nav {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: vars.$gray;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
     background-color: #ede1ff;
@@ -423,7 +448,7 @@ nav {
     margin: 1.8em .8em;
     /*border-left: 2px solid $gray;*/
     padding: 0.1em 1em;
-    color: vars.$gray;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
     background-color: #ddffb5;;
@@ -453,7 +478,7 @@ nav {
   bottom: 0;
   width: 100%;
   height: 89px;
-  background-color: vars.$lightGray;
+  background-color: $lightGray;
 }
 
 footer {
