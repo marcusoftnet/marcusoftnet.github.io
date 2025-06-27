@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Do something - how Just getting going is better than thinking"
+title: "Do something - how Just get going is better than thinking"
 author: "Marcus Hammarberg"
 date: 2025-06-12 04:00:00
 tags:
