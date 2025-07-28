@@ -19,19 +19,11 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/img/favicon-32x32.png">
     {% include analytics_head.html %}
 
+    <script src="{{ site.baseurl }}/assets/collapsable-code-blocks.js"></script>
     <script>
       document.addEventListener("DOMContentLoaded", function () {
-        var headers = document.querySelectorAll(".category-head");
-        headers.forEach(function (header) {
-          header.addEventListener("click", function () {
-            var nextElement = header.parentElement.querySelector(".archive-items");
-            if (nextElement.style.display === "block") {
-              nextElement.style.display = "none";
-            } else {
-              nextElement.style.display = "block";
-            }
-          });
-        });
+        createArchiveLink();
+        createSummaryWrapper();
       });
     </script>
   </head>

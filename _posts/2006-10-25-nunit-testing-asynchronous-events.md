@@ -21,8 +21,7 @@ So the simple solution to the problem was to simply wait for the event to fire a
 
 The event handling delegate sets the method variables to the return values from the event and finally switch the `EventHandled` - to true so that the assertions can be run.
 
-Here's the code for a
-example:
+Here's the code for an example:
 
 ```c#
 [Test(Description = "Demo Async call")]
