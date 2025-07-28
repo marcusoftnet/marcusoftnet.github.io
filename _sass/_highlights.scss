@@ -84,23 +84,3 @@ code {
 .highlight .vg { color: #268BD2 } /* Name.Variable.Global */
 .highlight .vi { color: #268BD2 } /* Name.Variable.Instance */
 .highlight .il { color: #2AA198 } /* Literal.Number.Integer.Long */
-
-
-// Collapsable code blocks
-.collapsible-code summary {
-  cursor: pointer;
-  font-weight: bold;
-  margin-bottom: 5px;
-  background: #222;
-  color: #fff;
-  padding: 4px 8px;
-  border-radius: 4px;
-}
-
-.collapsible-code[open] summary {
-  background: #444;
-}
-
-.collapsible-code pre {
-  margin-top: 0;
-}

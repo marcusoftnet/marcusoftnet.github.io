@@ -1201,6 +1201,24 @@ Modules - reusable parts of our design
   }
 }
 
+// Collapsable code blocks
+.collapsible-code summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 5px;
+  background: #222;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.collapsible-code[open] summary {
+  background: #444;
+}
+
+.collapsible-code pre {
+  margin-top: 0;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
