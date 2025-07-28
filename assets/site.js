@@ -12,7 +12,7 @@ function createArchiveLink() {
   });
 }
 
-function createSummaryWrapper() {
+function createCollapsableCode() {
   document.querySelectorAll('pre > code').forEach(function (codeBlock) {
     var codeText = codeBlock.textContent || "";
     var lineCount = codeText.split('\n').length;
