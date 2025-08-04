@@ -12,7 +12,10 @@ Just back from a four-week vacation (out of the [5 weeks mandated by law in Swed
 
 We ended up in a cabin out in the archipelago that had spotty network access, only landline TV and our kids were at camps or with friends. Yes, we went directly into retirement. We set the clock to remind us about the TV-show that started 21.30.
 
-What I noticed was how twitchy my fingers got, after just a few hours. I kept on picking up the phone, checking news or LinkedIn. When I went walking the dog, I kept trying to get some pod or music playing. Even at the beach reading a book, I also found myself trying to add some background music. When watching the show I desperately tried to also show something on YouTube or play a game etc.
+**[UPDATE]**
+I totally forgot but a technical glitch happened that took away data traffic from my phone for about 4 days. That ... reset ... was very blissful and totally helped me make this transition and look at things differently.
+
+What I noticed was how twitchy my fingers got, after just a few hours. I kept on picking up the phone, trying to check news or LinkedIn. When I went walking the dog, I kept trying to get some pod or music playing. Even at the beach reading a book, I also found myself trying to add some background music. When watching the show I desperately tried to also show something on YouTube or play a game etc.
 
 It didn't take me too long to just stop in my track and just go "What am I doing? Why all of these inputs?".
 
