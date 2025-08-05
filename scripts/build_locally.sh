@@ -20,5 +20,6 @@ echo "✅ Jekyll site built in ./_site"
 
 read -p "Do you want to serve the site locally? (y/n): " answer
 if [[ "$answer" =~ ^[Yy]$ ]]; then
+  open "http://localhost:4000" &
   docker run --rm -p 4000:4000 $IMAGE_NAME
 fi
