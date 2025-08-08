@@ -10,7 +10,7 @@ tags:
 - Lean
 ---
 
-I've been writing some code this week. Well, I do most weeks, but this week I teamed up with some folks here at work. It was great fun — and actually pretty useful.
+I've been writing some code this week. Well, I do most weeks, but this week I teamed up with some folks here at work. It was great fun — and actually did something pretty useful.
 
 What struck me, though, were the blockages in the process. Some of them was even built-in. That kind of slowness was frustrating, and I think it could have been avoided.
 
