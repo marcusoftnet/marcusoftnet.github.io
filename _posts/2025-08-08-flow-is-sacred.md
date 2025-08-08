@@ -12,7 +12,7 @@ tags:
 
 I've been writing some code this week. Well, I do most weeks, but this week I teamed up with some folks here at work. It was great fun — and actually pretty useful.
 
-What struck me, though, were the blockages in the process. Some of them felt even built-in. That kind of slowness was frustrating, and I think it could have been avoided.
+What struck me, though, were the blockages in the process. Some of them was even built-in. That kind of slowness was frustrating, and I think it could have been avoided.
 
 I was lucky to work alongside [Lars Albertsson](https://www.linkedin.com/in/larsalbertsson/), learning from his vast experience at a few of the top software companies in the world. One phrase Lars kept repeating stuck with me as we set up and refined processes at [Scling](https://www.scling.com/):
 
@@ -38,9 +38,9 @@ There are other ways to tackle this — mob or pair programming means your code 
 
 Yes, yes — I hear you. *“In our industry, standards say we must...”* or *“That won’t work because...”* or *“We’re not allowed to...”*
 
-But seriously — what is your flow worth? What’s the cost of me (and my two reviewers, from two different departments — I’ve been there) waiting, blocked from moving forward? Very likely I’ll start something else, jump through hoops to keep busy (double repositories or `git worktree`, anyone?), making things more complicated and slowing flow even more.
+But seriously — what is your flow worth? What’s the cost of me (and my two reviewers, from two different departments. Oh yes — I’ve worked there too...) waiting, blocked from moving forward? Very likely I’ll start something else, jump through hoops to keep busy (double repositories or `git worktree`, anyone?), making things more complicated and slowing flow even more.
 
-It’s simpler to start with a straightforward mantra: *Flow is sacred.* Let everything else bend to that, and improve your process accordingly.
+It’s simpler to start with a straightforward mantra: *Flow is sacred.* Let everything else subordinate to that decision, and improve your process accordingly.
 
 Most processes involving multiple people spend most of their time waiting (in my experience). This is [a separate blog post I wrote](https://www.marcusoft.net/2018/03/a-simple-diagram-on-flow-efficiency.html) — I’ll just steal the image here.
 
@@ -60,10 +60,6 @@ Here are a few things I’ve found helpful to keep flow sacred in your work:
 
 - **Communicate proactively.** If something does block flow, make sure the team knows quickly so it gets fixed without unnecessary delays.
 
-- **Challenge your process often.** Ask yourself and your team: *Is this step helping flow, or hurting it?* If it hurts, what can we do differently?
+- **Challenge your process often.** Ask yourself and your team: *Is this step helping flow, or hurting it?* If it hurts, what can we do differently? Perfect theme for a quick retrospective; where are we waiting the most?
 
 Flow is not just a buzzword or a fancy Lean concept — it’s the lifeblood of productive, happy teams and satisfied users. Protect it like the sacred thing it is.
-
----
-
-What do you think? Should I help you polish this section more, or perhaps add a short story or example from your experience to illustrate any of these points?
