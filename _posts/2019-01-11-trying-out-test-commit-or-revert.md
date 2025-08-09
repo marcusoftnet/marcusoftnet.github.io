@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trying out test commit or revert"
+title: "Trying out TCR (test commit or revert)"
 author: "Marcus Hammarberg"
 date: 2019-01-11 14:32:45
 tags:
@@ -84,7 +84,7 @@ Here are the commands I ran to get started:
 
 7. By running `npm t` I linted and ran the first test
 
-8. I created a `.gitignore` from the excellent <https://www.gitignore.io/>
+8. I created a `.gitignore` from the excellent <https://www.gitignore.io/> using `npx gitignore node`
 
 9. Finally, I initialized git and made a first commit `git init` initial commit
 
@@ -116,7 +116,7 @@ First, the `tcr` script will run the tests and if it works it will continue to t
 
 You can think about it like this:
 
-```javascript
+```bash
 (npm test && npm run commit) || npm run revert
 ```
 
@@ -127,6 +127,8 @@ Anyway, I can now do the workflow by executing `npm run tcr`. Nice!
 ## The test runs
 
 The following sections describe the tests runs that I did to complete the kata. For each test run I will describe the test and production code I wrote, how I felt before I ran `npm run tcr` and ... yes, what happened.
+
+I did not enable auto-run of this command on every save. This is of course possible, but I think it take some of the thoughtfulness out of the process and just make it stressful. TCR is about, and forces you to, thinking carefully about the next step - not going fast.
 
 ### First test run
 
@@ -180,7 +182,7 @@ module.exports.single = (number) => {
 
 **Result**:
 
-- Ah well...
+- Ah well...It failed and my changes was gone.
 
 - No production code changed... Hence I returned a constant of `1`.
   - And I even thought that `I didn't change any production code to get this to work... hmmm... this feels strange`
