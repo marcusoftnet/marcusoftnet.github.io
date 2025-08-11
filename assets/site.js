@@ -16,7 +16,7 @@ function createCollapsableCode() {
   document.querySelectorAll('pre > code').forEach(function (codeBlock) {
     var codeText = codeBlock.textContent || "";
     var lineCount = codeText.split('\n').length;
-    if (lineCount <= 2) return;
+    if (lineCount <= 5) return;
 
     // Create details/summary wrapper
     var details = document.createElement('details');
