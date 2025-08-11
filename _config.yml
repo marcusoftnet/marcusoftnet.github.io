@@ -32,7 +32,8 @@ footer-links:
 disqus: marcusoftnet
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-873081-1
+# google_analytics: UA-873081-1
+google_analytics_ga4: G-X2V19ZT6X2
 
 
 permalink: /:year/:month/:title.html
