@@ -30,4 +30,8 @@ This script will use the words that you have added to your VS Code settings file
     bash scripts/markdown-lint.sh _posts > linting-results.txt 2>&1
     ```
 
-* [`create_wordcloud_all`](/scripts/create_wordcloud_all.sh) - creates JSON files with word-cloud data in to `/data/wc/` by calling [`create_wordcloud_year.sh`](/scripts/create_wordcloud_year.sh).
+* [`create_wordcloud_all`](/scripts/create_wordcloud_all.sh) - creates JSON files with word-cloud data in to `/data/wc/` by calling [`create_wordcloud_year.sh`](/scripts/create_wordcloud_year.sh). It will exclude common words defined in `./data/wc/exclude.json`. It will not be run automatically so should be run locally and then committed to git.
+
+    ```bash
+    bash scripts/create_wordcloud_all.sh
+    ```

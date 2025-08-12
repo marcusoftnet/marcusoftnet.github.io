@@ -2,8 +2,11 @@
 
 set -euo pipefail
 
-EXCLUDE_FILE="$1"
+EXCLUDE_FILE="./data/wc/exclude.json"
 CURRENT_YEAR=$(date +"%Y")
+
+echo "Generating word clouds for all years from 2006 to $CURRENT_YEAR..."
+echo "Excluding words from $EXCLUDE_FILE..."
 
 rm -f ./data/wc/wordcloud-*.json
 

@@ -31,6 +31,6 @@ echo "$WORDS" | \
     sed '$ s/,$//' | \
     awk 'BEGIN { print "[" } { print } END { print "]" }' > "$OUTPUT_FILE"
 
-echo "✅ Word cloud data saved to $OUTPUT_FILE"
+echo "  ✅ Word cloud data saved to $OUTPUT_FILE"
 
 exit 0
