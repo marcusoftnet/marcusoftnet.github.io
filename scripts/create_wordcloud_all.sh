@@ -20,11 +20,10 @@ echo "✅ All yearly word clouds generated."
 echo "Combining all word clouds into a single file..."
 jq -c -s --slurpfile stopwords ./data/wc/exclude.json '
   [ .[][]                                 # flatten all arrays from all files
-    | select(. as $pair | ($stopwords[0] | index($pair[0])) | not) # filter out stopwords
+    | select(. as $pair | ($stopwords[0] | index($pair[0])) | not) # filter out stop words
   ]
   | sort_by(.[1]) | reverse               # sort by count descending
   | .[0:300]                              # take top 300 words
 ' ./data/wc/wordcloud-*.json > ./data/wc/wordcloud-all.json
 
-jq -s '[.[][]]' ./data/wc/wordcloud-*.json > ./data/wc/wordcloud-all.json
 echo "✅ All combine word cloud generated."
