@@ -29,10 +29,15 @@ description: Word cloud visualization of blog posts by year.
   const yearSelect = document.getElementById('yearSelect');
 
   document.addEventListener("DOMContentLoaded", () => {
+    // add option for the combination
+    yearSelect.append(new Option("all", "all", true, true));
+
+    // add option for all years
     const endYear = new Date().getFullYear();
     for(let year = endYear; year >= 2006; year--) {
       yearSelect.append(new Option(""+year, ""+year, true, true));
     }
+
     yearSelect.selectedIndex = 1;
     yearSelect.dispatchEvent(new Event('change', { bubbles: true }));
   });
