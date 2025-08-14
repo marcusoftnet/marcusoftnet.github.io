@@ -10,7 +10,7 @@ tags:
  - Indonesia
 ---
 
-About six months ago I got home from the adventure of our life time in Indonesia. At the time I was actually feeling very underwhelmed and that we've failed in our work there.
+About six months ago I got home, from the adventure of our life time in Indonesia. At the time I was actually feeling very underwhelmed and that we've failed in our work there.
 
 But the more I think about it and the more I [speak and write](https://www.marcusoft.net/tags/#Indonesia) about our experiences there, and especially the mind blowing transformation we led in Rumah Sakit Bungsu - the more I realize that this is an once in a life time thing that have happened.
 

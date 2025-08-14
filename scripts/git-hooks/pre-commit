@@ -16,6 +16,8 @@ if [ $SPELL_STATUS -ne 0 ] || [ $LINT_STATUS -ne 0 ]; then
   exit 1
 fi
 
+bash ./scripts/create_wordcloud_precommit.sh
+
 echo "✅ All pre-commit checks passed."
 
-exit 0
+exit 1
