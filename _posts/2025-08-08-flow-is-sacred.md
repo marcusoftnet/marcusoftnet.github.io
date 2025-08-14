@@ -16,7 +16,7 @@ What struck me, though, were the blockages in the process. Some of them was even
 
 I was lucky to work alongside [Lars Albertsson](https://www.linkedin.com/in/larsalbertsson/), learning from his vast experience at a few of the top software companies in the world. One phrase Lars kept repeating stuck with me as we set up and refined processes at [Scling](https://www.scling.com/):
 
-> Flow is sacred — don't disturb the flow.
+> Flow is sacred. Do not disturb the flow.
 
 This simple mantra carries profound implications. Not just for you.
 
