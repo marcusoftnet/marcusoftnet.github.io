@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-
 repo_root=$(git rev-parse --show-toplevel)
 YEARS=$(git diff --cached --name-only \
     | grep '^_posts/' \
