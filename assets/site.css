@@ -432,3 +432,63 @@ article.page img[alt]::after {
     color: #aaa;
   }
 }
+/* Tables in posts & pages */
+.post table,
+article.page table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+  font-size: 0.95rem;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  /* rounds corner of table */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.post th,
+article.page th,
+.post td,
+article.page td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.post th,
+article.page th {
+  background: #f5f5f5;
+  font-weight: 600;
+}
+
+.post tr:nth-child(even) td,
+article.page tr:nth-child(even) td {
+  background: #fafafa;
+}
+
+/* Dark mode tables */
+@media (prefers-color-scheme: dark) {
+
+  .post table,
+  article.page table {
+    background: #1e1e1e;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+  }
+
+  .post th,
+  article.page th {
+    background: #2a2a2a;
+    color: #f5f5f5;
+  }
+
+  .post td,
+  article.page td {
+    border-bottom: 1px solid #333;
+    color: #ddd;
+  }
+
+  .post tr:nth-child(even) td,
+  article.page tr:nth-child(even) td {
+    background: #262626;
+  }
+}
