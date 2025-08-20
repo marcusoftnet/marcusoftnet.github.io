@@ -254,3 +254,181 @@ a:hover {
       color: #ccc;
   }
 }
+/* Page layout */
+header.cd-container {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 2rem 1rem;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+/* subtle dark overlay on top of header image */
+header.cd-container::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 0;
+}
+
+header.cd-container h1 {
+  position: relative;
+  z-index: 1;
+  font-family: "Poppins", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin: 0;
+  color: #fff;
+}
+
+/* Page article wrapper */
+article.page {
+  background: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+
+article.page .entry {
+  font-size: 1.05rem;
+  color: #333;
+  line-height: 1.75;
+}
+
+/* Dark mode for page layout */
+@media (prefers-color-scheme: dark) {
+  article.page {
+    background: #1e1e1e;
+    color: #ddd;
+  }
+
+  article.page .entry {
+    color: #ddd;
+  }
+
+  header.cd-container::before {
+    background: rgba(0, 0, 0, 0.55);
+  }
+}
+/* General heading styles for post & page content */
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6,
+article.page h1,
+article.page h2,
+article.page h3,
+article.page h4,
+article.page h5,
+article.page h6 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin: 2rem 0 1rem;
+  line-height: 1.3;
+  color: #111;
+}
+
+/* Different sizes for hierarchy */
+.post h1,
+article.page h1 {
+  font-size: 2rem;
+}
+
+.post h2,
+article.page h2 {
+  font-size: 1.6rem;
+}
+
+.post h3,
+article.page h3 {
+  font-size: 1.3rem;
+}
+
+.post h4,
+article.page h4 {
+  font-size: 1.1rem;
+}
+
+.post h5,
+article.page h5 {
+  font-size: 1rem;
+}
+
+.post h6,
+article.page h6 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+}
+
+/* Dark mode headings */
+@media (prefers-color-scheme: dark) {
+
+  .post h1,
+  .post h2,
+  .post h3,
+  .post h4,
+  .post h5,
+  .post h6,
+  article.page h1,
+  article.page h2,
+  article.page h3,
+  article.page h4,
+  article.page h5,
+  article.page h6 {
+    color: #f5f5f5;
+  }
+
+  .post h6,
+  article.page h6 {
+    color: #aaa;
+  }
+}
+
+/* Images inside posts & pages */
+.post img,
+article.page img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 2rem auto;
+  /* center with spacing */
+  border-radius: 8px;
+  /* soft corners */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Optional: caption style if you use alt text as visible text later */
+.post img[alt]::after,
+article.page img[alt]::after {
+  content: attr(alt);
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* Dark mode tweaks */
+@media (prefers-color-scheme: dark) {
+
+  .post img,
+  article.page img {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+  }
+
+  .post img[alt]::after,
+  article.page img[alt]::after {
+    color: #aaa;
+  }
+}
