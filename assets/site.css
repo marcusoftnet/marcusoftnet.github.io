@@ -254,25 +254,26 @@ a:hover {
       color: #ccc;
   }
 }
-/* Page layout */
 header.cd-container {
   position: relative;
   background-size: cover;
   background-position: center;
   padding: 2rem 1rem;
+  /* smaller padding */
   text-align: center;
   color: #fff;
-  border-radius: 10px;
-  margin-bottom: 2rem;
+  border-radius: 8px;
+    margin: 1.5rem 0 2rem;
+    /* less spacing */
   overflow: hidden;
 }
 
-/* subtle dark overlay on top of header image */
 header.cd-container::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.45);
+  background: rgba(0, 0, 0, 0.25);
+    /* lighter overlay */
   z-index: 0;
 }
 
@@ -280,7 +281,8 @@ header.cd-container h1 {
   position: relative;
   z-index: 1;
   font-family: "Poppins", sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.8rem;
+    /* smaller heading */
   font-weight: 600;
   margin: 0;
   color: #fff;
@@ -491,4 +493,101 @@ article.page tr:nth-child(even) td {
   article.page tr:nth-child(even) td {
     background: #262626;
   }
+}
+/* -------------------- */
+/* Search Page Styling  */
+/* -------------------- */
+#search-container {
+  max-width: 700px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid var(--border-color, #ddd);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#search-input:focus {
+  border-color: var(--accent-color, #0077cc);
+  box-shadow: 0 0 0 3px rgba(0, 119, 204, 0.2);
+}
+
+#results-container {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+#results-container li,
+#results-container div {
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--border-color, #e0e0e0);
+  border-radius: 8px;
+  margin: 0.75rem 0;
+  padding: 1rem;
+  text-align: left;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  transition: transform 0.1s ease-in-out;
+}
+
+#results-container li:hover,
+#results-container div:hover {
+  transform: translateY(-2px);
+}
+
+#results-container a {
+  color: var(--accent-color, #0077cc);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#results-container span {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  color: var(--text-muted, #666);
+}
+
+/* -------------------- */
+/* Wordcloud Page Styling */
+/* -------------------- */
+#controls {
+  margin: 2rem auto 1.5rem;
+  text-align: center;
+}
+
+#controls label {
+  font-weight: 600;
+  margin-right: 0.5rem;
+  color: var(--text-color, #333);
+}
+
+#controls select {
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color, #ddd);
+  background: var(--card-bg, #fff);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#controls select:focus {
+  border-color: var(--accent-color, #0077cc);
+  box-shadow: 0 0 0 3px rgba(0, 119, 204, 0.2);
+  outline: none;
+}
+
+#wordcloud {
+  margin: 2rem auto;
+  max-width: 100%;
+  overflow-x: auto;
+  text-align: center;
 }
