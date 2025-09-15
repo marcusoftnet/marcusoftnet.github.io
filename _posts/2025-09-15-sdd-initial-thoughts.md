@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Specification-Driven Development (SDD) - some initial thoughts"
+author: "Marcus Hammarberg"
+date: 2025-06-12 04:00:00
+tags:
+- Programming
+- AI
+---
+
+The new craze in AI world is called Specification-Driven Development (SDD) and pioneered by [GitHub SpecKit](https://github.com/github/spec-kit/) and probably other that I haven't heard about yet.
+
+It tries to solve the thing that many of us found troublesome with VibeCoding [Dave Farley breaks this down here](https://youtu.be/1A6uPztchXk) and instruct the AI on a lower level, taking more control of the details.
+
+And it's [quite impressive](https://youtu.be/em3vIT9aUsg), from what I've seen. Especially considering that it has a good `what about existing code` but it misses the mark on two fundamental assumptions I think.
+
+With the risk of this post being out-dated before the end of the day, and me being branded `Old guy that just don't get it` - let me offer my thoughts on these two assumptions.
+
+<!-- excerpt-end -->
+
+Before I start - no of this conclusion came from my feeble mind. I'm standing on the shoulder of gigants and I'll point them out for you, as we go..
+
+## The wrong history jump
+
+Programming has come a ridiculously long way in a ridiculously short time.
+
+Back in the 1940s, if you wanted a computer to “do something,” you didn’t write anything at all. You wired it up. Machines like ENIAC were programmed by literally rearranging cables and flipping switches for each problem you wanted to solve. Glamorous, right?
+
+Then came the idea of the stored program — instead of rewiring the machine physically, you could feed it instructions, encoded as ones and zeroes. At first this meant punched cards and paper tape. Not exactly ergonomic, but at least you didn’t need a soldering iron just to update a calculation.
+
+Next step up was assembly language. Instead of memorizing binary opcodes, you could write ADD R1, R2 and let an assembler turn that into the 0s and 1s for you. Still one-to-one with the hardware, but a huge quality-of-life improvement.
+
+And then along came high-level programming languages — Fortran, C, C++, Java, C#, and so on. Another massive leap. Now we didn’t need to think about registers or jump statements at all. We wrote source code, a compiler translated it, and voilà: binary executables. Later came fancy tricks like Just-In-Time compilation, where the machine could even generate optimized code at runtime. Magic.
+
+If you look at this progression, it’s tempting to think: Ah, I see the pattern. Each generation hides more of the boring details. AI is just the next level on the abstraction ladder! You type a prompt, the model spits out code. Problem solved, right?
+
+Well… not so fast.
+
+Every single one of those historical jumps had one thing in common: they made programming more reliable and more deterministic. Assembly always maps the same way to machine code. Compilers are boringly predictable (thank goodness). JIT may be sophisticated, but it’s still deterministic. Write the same line of code, you get the same behavior tomorrow, next week, ten years from now.
+
+Large Language Models don’t do that. They don’t compile; they infer. Same prompt, different day? You might get the same result — or not. That’s convenience, not determinism. Which means this isn’t “the next step on the ladder.” It’s something entirely different.
+
+In the words of Birgitta Böckeler, Distinguished Engineer and AI-assisted delivery expert at Thoughtworks, in this [blog post](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html):
+
+> LLMs are NOT compilers, interpreters, transpilers or assemblers of natural language, they are inferrers. A compiler takes a structured input and produces a repeatable, predictable output. LLMs do not do that.
+
+Each previous historical jump increased reliability, repeatability, and abstraction. AI (LLMs) instead increase convenience but not determinism.
+
+## [I still care about the code](https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html)
+
+The title of this section is great blog post of Birgitta that is well worth reading.
+
+What the blog post says (you read it first, didn't you?) is that since the code is the thing that gets executed it will also be the absolute truth of what the program does.
+
+I remember sitting next to the COBOL programmer, Torbjörn, at a big insurance company that frequently got visits from the actuaries of the company. They want to check how the premiums and fees were calculated. They showed him models, advanced (!) excel sheets, commercial sheets of information showed to customers. Torbjörn nodded and said:
+
+> That's cute, but let me show you how it *actually* works.
+
+And brought up a batch program in COBOL.
+
+Also, to take Birgitta's example from the post, imagine that you got called up in the middle of the night to fix some code that you never seen before. Not only that - some code that was generated by an AI using a prompt.
+
+According to the first core principle of SDD you will change the prompt and regenerate the application to fix the bug. Feel better?
+
+In the [core principles of SDD](https://github.com/github/spec-kit/blob/main/spec-driven.md#core-principles) it's stated:
+
+> Specifications as the Lingua Franca: The specification becomes the primary artifact. Code becomes its expression in a particular language and framework. Maintaining software means evolving specifications.
+
+This means that the **spec** - not the code is the important thing. In the long run: we don't check in the code. We check in the prompt that created the code.
+
+Danger! Until our computers execute the prompt this is a dangerous path to go down.
+
+But wait! I hear an objection from the back of the room:
+
+> Isn't this exactly the same as the high-level code not being executed, it actually is the machine-code JIT:ted into binaries.
+
+No, because:
+
+## Natural language just doesn’t cut it
+
+Natural language like what I'm trying to write here is vague and open for interpretation. It is wonderful for intent, but terrible for precision.
+
+For precise things we have invented other languages and expressions like diagrams or code. Here we can describe exactly how we want the computer to operate, but on a higher level than assembler or 0 or 1.
+
+It's very well defined what will happen if I write `for(var i=0;i<10;i++) { console.log(i); }`. This will *always* produce the same thing.
+
+This is not what generative AI models are for. The exact same prompt run twice is *not* guaranteed to produce the same result.
+
+All software engineering efforts I've been involved this approach would not suffice. We want precise ways to express how we want the system to behave. Natural language is just not precise enough to do that.
+
+We could force (Birgitta uses the word `straightjacket`) the model to be more precise, but then we have just invented a programming language for generating code from.
+
+## What to do then, wise-ass?
+
+The problem we are facing is in fact one that we have had before; how do we make sure that everyone understands the same thing before we start?
+
+When it comes to code the best tool I've used is Specification By Example (aka Behaviors Driven Development, BDD). It helps us to describe WHAT (and WHY) we need a feature, before we talk about HOW.
+
+It can be expressed in code using a DSL (Domain Specific Language - for example code that is written to use to automate our application with), or using Gherkin which also is natural language but a bit more structured and concrete that just writing plain text.
+
+```gherkin
+Scenario Outline: eating
+  Given there are <start> cucumbers
+  When I eat <eat> cucumbers
+  Then I should have <left> cucumbers
+
+  Examples:
+    | start | eat | left |
+    |    12 |   5 |    7 |
+    |    20 |   5 |   15 |
+```
+
+However, the scenario above is just a steering tool, to ensure that humans (and AIs) understand the thing in the same way. We can add more concrete examples, to show edge cases and variants.
+
+Using these structured examples (in code or Gherkin) we can then ensure that the code is doing the right thing.
+
+Every real abstraction that’s stuck in programming history has made things more reliable. If SDD turns out to do the opposite, we should be very careful before we confuse prompts with programs.
