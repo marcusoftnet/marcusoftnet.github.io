@@ -373,6 +373,18 @@ article.page h6 {
   color: #111;
 }
 
+/* Add more space between sections and paragraphs */
+section,
+article,
+.post,
+article.page {
+  margin-bottom: 2.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+}
 /* Different sizes for hierarchy */
 .post h1,
 article.page h1 {
