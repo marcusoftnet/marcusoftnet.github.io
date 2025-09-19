@@ -656,3 +656,52 @@ article.page tr:nth-child(even) td {
   overflow-x: auto;
   text-align: center;
 }
+
+/* -----------------------------------
+   List Styling
+----------------------------------- */
+.post ul,
+article.page ul {
+  list-style: none;
+  /* remove default dots */
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.post ul li,
+article.page ul li {
+  position: relative;
+  padding-left: 1.2rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+  color: var(--color-text);
+}
+
+/* custom bullet marker */
+.post ul li::before,
+article.page ul li::before {
+  content: "•";
+  /* could also try "–" or "→" */
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--color-text);
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1;
+}
+
+/* Ordered lists */
+.post ol,
+article.page ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.post ol li,
+article.page ol li {
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+  color: var(--color-text);
+}
