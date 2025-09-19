@@ -680,8 +680,7 @@ article.page ul li {
 /* custom bullet marker */
 .post ul li::before,
 article.page ul li::before {
-  content: "•";
-  /* could also try "–" or "→" */
+  content: "-";
   position: absolute;
   left: 0;
   top: 0;
