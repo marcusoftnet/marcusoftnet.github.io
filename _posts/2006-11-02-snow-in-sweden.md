@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5644087848201059915
 blogger_orig_url: https://www.marcusoft.net/2006/11/snow-in-sweden.html
 ---
 
-![Snow at Thorildsplan](/img/0/thorildsplan445.jpg)
+![Snow at Thorildsplan](/img/thorildsplan445.jpg)
 
 Today, and most of all yesterday, was the first snowstorm of the winter in the Stockholm area.
 
