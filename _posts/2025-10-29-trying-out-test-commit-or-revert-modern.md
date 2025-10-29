@@ -2,7 +2,7 @@
 layout: post
 title: "Trying out TCR (test commit or revert) - updated"
 author: "Marcus Hammarberg"
-date: 2025-10-29 14:32:45
+date: 2025-10-29 04:00:00
 tags:
   - Javascript
   - Typescript
