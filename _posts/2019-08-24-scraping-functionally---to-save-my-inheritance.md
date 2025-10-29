@@ -59,8 +59,8 @@ mkdir abbesaysscraper && cd abbesaysscraper
 npm init -y
 npx gitignore node
 git init .
-npm I axios cheerio
-npm I -D standard
+npm i axios cheerio
+npm i -D standard
 touch index.js
 ```
 

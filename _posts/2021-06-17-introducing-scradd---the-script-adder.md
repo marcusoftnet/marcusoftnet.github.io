@@ -20,7 +20,7 @@ Let’s say that you are writing a tutorial on how to test next apps. You want t
 npx create-next-app demo
 cd demo
 npx scradd . test "mocha . -R dot -w"
-npm I -D mocha
+npm i -D mocha
 ```
 
 I don't expect this tool to be widely used and spread but I was pretty fun to write it - the testing was particularly tricky to get working.

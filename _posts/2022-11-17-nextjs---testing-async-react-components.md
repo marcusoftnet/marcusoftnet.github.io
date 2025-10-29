@@ -165,7 +165,7 @@ But, as I wrote in the beginning, this is nothing that Next package up for us.
 In order make this happen there are a few things we need to install and configure. Run these commands and I'll describe what happened below:
 
 ```bash
-npm I -D @testing-library/react jest @testing-library/jest-dom ts-node jest-environment-jsdom
+npm i -D @testing-library/react jest @testing-library/jest-dom ts-node jest-environment-jsdom
 
 npx -y scradd . "test" "jest"
 npx -y scradd . "test:watch" "npm t -- --watch"
@@ -295,7 +295,7 @@ We now have two, quite similar, options. We can supply a _real_ fetch for the `j
 Run this:
 
 ```bash
-npm I -D jest-fetch-mock
+npm i -D jest-fetch-mock
 ```
 
 That is a tool that makes mocking of `fetch` easy. Update the test to this:
@@ -343,7 +343,7 @@ Ok - lots of code here, but it's mainly just me setting up the fake data `luke` 
 
 Other than that - it now works and we can test our `async` server component using a fake `fetch`.
 
-Oh - you could use a _real_ fetch too, I presume., if you wanted, by supplying your component a real implementation, like [`node-fetch`](https://www.npmjs.com/package/node-fetch) (install with `npm I -D node-fetch`).
+Oh - you could use a _real_ fetch too, I presume., if you wanted, by supplying your component a real implementation, like [`node-fetch`](https://www.npmjs.com/package/node-fetch) (install with `npm i -D node-fetch`).
 
 I haven't played around with this, since I'm not a fan of having my unit and integration tests depend on APIs. That's what end-to-end tests are for. But I'm quite sure you could make this work.
 

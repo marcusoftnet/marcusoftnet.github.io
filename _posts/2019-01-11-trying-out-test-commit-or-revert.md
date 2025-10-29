@@ -11,6 +11,8 @@ tags:
 
 I stumbled over a new concept the other day. As it was conceived by Kent Beck, that inspired and thought me a lot in the past, I got interesting.
 
+I have [updated this to modern tools here](2025-10-29-trying-out-test-commit-or-revert-modern.md)
+
 **[UPDATED]**
 
 I read Kent's blog post a bit too fast and missed that this idea was actually proposed by [Oddmund Strømmer](https://twitter.com/jraregris). Very sorry that I missed that in my writeup, Oddmund. Thanks for correcting me, [Raquel](https://rachelcarmena.github.io/2018/11/13/test-driven-programming-workflows.html).
@@ -48,14 +50,10 @@ You can find [my code here](https://github.com/marcusoftnet/fizzbuzz-tcr)
 Here are the commands I ran to get started:
 
 1. `mkdir fizzbuzz-tcr && cd fizzbuzz-tcr` to create the directory and jump into it
-
-2. `npm init -y` to create an empty `package.json` file
-
-3. `npm I -D mocha chai standard` to install the tools I need
-
-4. `touch index.js index.test.js` to setup the two files we will work in
-
-5. I wrote scripts for test, lint and pretest
+1. `npm init -y` to create an empty `package.json` file
+1. `npm i -D mocha chai standard` to install the tools I need
+1. `touch index.js index.test.js` to setup the two files we will work in
+1. I wrote scripts for test, lint and pretest
 
    ```json
    "scripts": {
@@ -66,10 +64,9 @@ Here are the commands I ran to get started:
    ```
 
    1. I'm linting my code with [standard js](https://standardjs.com/)
-   2. The testing is done using [mocha](https://mochajs.org/)
-   3. And the `pretest` script is automatically running the linting before the tests are executed
-
-6. I then wrote the first test to check that my infrastructure worked. In the `index.text.js`:
+   1. The testing is done using [mocha](https://mochajs.org/)
+   1. And the `pretest` script is automatically running the linting before the tests are executed
+1. I then wrote the first test to check that my infrastructure worked. In the `index.text.js`:
 
    ```javascript
    /* global describe, it */
@@ -82,11 +79,9 @@ Here are the commands I ran to get started:
    });
    ```
 
-7. By running `npm t` I linted and ran the first test
-
-8. I created a `.gitignore` from the excellent <https://www.gitignore.io/> using `npx gitignore node`
-
-9. Finally, I initialized git and made a first commit `git init` initial commit
+1. By running `npm t` I linted and ran the first test
+1. I created a `.gitignore` from the excellent <https://www.gitignore.io/> using `npx gitignore node`
+1. Finally, I initialized git and made a first commit `git init` initial commit
 
 ## Setting up TCR workflow in package.json
 
