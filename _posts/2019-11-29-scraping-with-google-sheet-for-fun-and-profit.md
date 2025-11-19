@@ -45,12 +45,12 @@ And those links worked well too.
 
 I now created a Google Sheet with Keywords in column A and Location Column B.
 
-| Keywords | City      |
-| --------- | --------- |
-| angular   | stockholm |
-| vue       | stockholm |
-| node php  | stockholm |
-| react     | stockholm |
+| Keywords | City |
+| :---- | :---- |
+| angular | stockholm |
+| vue | stockholm |
+| node php | stockholm |
+| react | stockholm |
 
 Then it was pretty easy to concatenate the parameters into the URLs above, using the [HYPERLINK-function](https://support.google.com/docs/answer/3093313?hl=en), which I placed in the C-column:
 
@@ -91,11 +91,11 @@ There's a little bit of string parsing to be done, to get the number from the st
 
 Here's the entire table
 
-| Key words  | City      | URL                                                 | Result                 | Hits |
-| ---------- | --------- | --------------------------------------------------- | ---------------------- | ---- |
-| angular    | stockholm | <https://se.indeed.com/jobb?q=angular&l=stockholm>    | Sida 1 av 357 resultat | 357  |
-| vue        | stockholm | <https://se.indeed.com/jobb?q=vue&l=stockholm>        | Sida 1 av 123 resultat | 123  |
-| serverless | stockholm | <https://se.indeed.com/jobb?q=serverless&l=stockholm> | Sida 1 av 66 resultat  | 66   |
+| Key words | City | URL | Result | Hits |
+| :--- | :--- | :--- | :--- | :--- |
+| angular | stockholm | <https://se.indeed.com/jobb?q=angular&l=stockholm> | Sida 1 av 357 resultat | 357 |
+| vue | stockholm | <https://se.indeed.com/jobb?q=vue&l=stockholm> | Sida 1 av 123 resultat | 123 |
+| serverless | stockholm | <https://se.indeed.com/jobb?q=serverless&l=stockholm> | Sida 1 av 66 resultat | 66 |
 
 ## Amazing things happen
 

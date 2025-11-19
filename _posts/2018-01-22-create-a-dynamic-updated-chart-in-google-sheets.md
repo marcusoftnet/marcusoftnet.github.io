@@ -22,13 +22,13 @@ Also, there's a nice basic summary of the responses, that for the most part is e
 
 The data that I collected looks like this:
 
-| Team   | Question 1 | Question 2 | Question 3 |
+| Team | Question 1 | Question 2 | Question 3 |
 | ------ | ---------- | ---------- | ---------- |
-| Team 1 | 1          | 6          | 1          |
-| Team 2 | 3          | 3          | 3          |
-| Team 1 | 2          | 4          | 4          |
-| Team 3 | 4          | 2          | 6          |
-| Team 1 | 6          | 3          | 6          |
+| Team 1 | 1 | 6 | 1 |
+| Team 2 | 3 | 3 | 3 |
+| Team 1 | 2 | 4 | 4 |
+| Team 3 | 4 | 2 | 6 |
+| Team 1 | 6 | 3 | 6 |
 
 Meaning; there are a couple of scale-questions (1-6) and one question for which team you are in. The obvious question for this data is of course:
 
@@ -44,12 +44,12 @@ All the data from a survey ends up in a Google Sheet called ["Form Responses"](h
 
 After that I just added a new ["Stats"-sheet](https://docs.google.com/spreadsheets/d/1aSel__vOK1u3Njsl9_SMKLlIRETY1RXo5V1vtYf_KJ4/edit#gid=51274800) where we will make our calculation. To start with I made something really simple; just the average for each question. That is two columns that looks like this:
 
-| Value                | Average                        |
+| Value | Average |
 | -------------------- | ------------------------------ |
 | ='Form Responses'!C1 | =Average('Form Responses'!C:C) |
 | ='Form Responses'!D1 | =Average('Form Responses'!D:D) |
 | ='Form Responses'!E1 | =Average('Form Responses'!E:E) |
-| Totals               | =AVERAGE(B3:B5)                |
+| Totals | =AVERAGE(B3:B5) |
 
 Nothing fancy at all here. Just getting started.
 
@@ -66,7 +66,7 @@ All though the Responses feature of Google Forms has a nice auto-summary, I want
 
 In order to do this we need to use another function; `CountIf`, that counts the number of rows that matches a criteria. Here's an example row to get these values:
 
-| Value      | 1-2                                  | 3-4                                    | 5-6                                 | Total     |
+| Value | 1-2 | 3-4 | 5-6 | Total |
 | ---------- | ------------------------------------ | -------------------------------------- | ----------------------------------- | --------- |
 | Question 1 | =CountIf('Form Responses'!C:C,"<=2") | =CountIf('Form Responses'!C:C,">2")-G3 | =CountIf('Form Responses'!C:C,">4") | =C3+E3+G3 |
 
@@ -84,9 +84,9 @@ Let's make a diagram out of that to show our result.
 * Select the data you want to include by holding down CTRL/CMD and selecting the data. This way you can select data that is not next to each other. For my sheet, I selected `A1:A5,C1:C5,E1:E5,G1:G5`
 * Click the button for Insert Chart (or in the menu Insert => Chart)
 * Do some formatting of the labels, legend etc.
-  * I removed the Horizontal axis title
-  * Put the Legend on the bottom
-  * And updated the Title of the Chart to `Spread of values - all teams`
+* I removed the Horizontal axis title
+* Put the Legend on the bottom
+* And updated the Title of the Chart to `Spread of values - all teams`
 
 This gave me a nice graph that looks like this and is a good start.
 
@@ -103,11 +103,11 @@ Now, the whole idea was that we could slice this per team. In order to do this, 
 I then added a new cell with a drop-down-box for the teams. This is easily done with a feature called data validation:
 
 * Click the cell you want the data in, in my case `J18`
-  * I added a heading at `J17` : "Team"
+* I added a heading at `J17` : "Team"
 * Click the menu Data and then Data validation
-  * Select Criteria "List from a range"
-  * Enter the column with the Teams, in my case `'Form Responses'!B:B`
-  * Click OK to create a drop-down list of the team names
+* Select Criteria "List from a range"
+* Enter the column with the Teams, in my case `'Form Responses'!B:B`
+* Click OK to create a drop-down list of the team names
 
 A nice little trick here is to ensure that you start from the second row in the range because the first row probably contains the title of the question (`Team`) in this case. You can easily do that by giving the range `'Form Responses'!B2:B`.
 
@@ -119,15 +119,15 @@ Ok that was nice but let's use the value that the user selected in a formula. Le
 
 Here's an example row:
 
-| Value                | Average                                  |
-| -------------------- | ---------------------------------------- |
+| Value | Average |
+| :--- | :--- |
 | ='Form Responses'!C1 | =AverageIf('Form Responses'!B:B, $J$18,'Form Responses'!C:C) |
 
 Let's dissect the `AverageIf` formula a bit:
 
 * The first part (`'Form Responses'!B:B`) is the range we are going to evaluate our criteria again. "If *these* rows matches"
 * The second part (`$J$18`) is the criteria itself. In this case just: "Same value that is in J18"
-  * The `$`-signs is just a way to make sure that it's always `J18` even when you copy the formula to another cell
+* The `$`-signs is just a way to make sure that it's always `J18` even when you copy the formula to another cell
 * The final part (`'Form Responses'!C:C`) is the values to run average on.
 
 The whole thing could be read like:
@@ -172,11 +172,11 @@ Let's, **finally**, use all of this for something useful. Let's create a graph s
 
 * As before, this requires some tricky selection using the CTRL/CMD key and selecting the `A16:A20,C16:C20,E16:E20,G16:G20` values.
 * The rest is the same as before:
-  * Click the button for Insert Chart (or in the menu Insert => Chart)
-  * Do some formatting of the labels, legend etc.
-    * I removed the Horizontal axis title
-    * Put the Legend on the bottom
-    * And updated the Title of the Chart to `Spread of values - selected team`
+* Click the button for Insert Chart (or in the menu Insert => Chart)
+* Do some formatting of the labels, legend etc.
+* I removed the Horizontal axis title
+* Put the Legend on the bottom
+* And updated the Title of the Chart to `Spread of values - selected team`
 
 Now the user can change team in the `J18`-dropdown box and see the graph update itself. Like a nice little reporting tool. Here's how the graph looks for me:
 

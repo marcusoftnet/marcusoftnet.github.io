@@ -4,15 +4,15 @@ title: I am telling you for the last time - Marcus style
 date: 2013-11-20T14:00:00.000Z
 author: Marcus Hammarberg
 tags:
-  - BDD
-  - Lean
-  - Life of a consultant
-  - Specification by example
-  - Kanban
-  - Scrum
-  - Agile
-  - C#
-  - SpecFlow
+ - BDD
+ - Lean
+ - Life of a consultant
+ - Specification by example
+ - Kanban
+ - Scrum
+ - Agile
+ - C#
+ - SpecFlow
 modified_time: 2013-12-10T14:10:52.306Z
 blogger_id: tag:blogger.com,1999:blog-36533086.post-8456584150489726017
 blogger_orig_url: https://www.marcusoft.net/2013/11/ImTellingYou.html
@@ -40,18 +40,18 @@ The idea is that we run a one hour lecture during lunch, just like the ordinary 
 
 Here is the program for the week in question.
 
-| Time         | Heading                                       | Abstract                                                                                                                                                                                           |
-|--------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Monday 25/11 | [Kanban In Action](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/kanban-inactionshort), [Recording](http://www.youtube.com/watch?v=ufCa1VlItLA)                                                                   |
-|              |                                               | This presentation introduces you to the principles of kanban and lean and how to apply them in practice. You can start using kanban as you leave!                                                  |
-| Tuesday 26/11| [What is Lean?](http://aptitud.eventbrite.com/)   | (No slides, no recording - it was a workshop)                                                                                                                                                     |
-|              |                                               | Have you heard about Lean (and agile) but don’t know what it means, or what you can do about it? In this presentation you’ll get answer to all of the answers you didn’t dare to ask anywhere else. |
-| Wednesday 27/11 | [Specification by example](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/specification-byexample), [Recording](http://www.youtube.com/watch?v=OLdCV062lGs)                                                                   |
-|              |                                               | Specification by example is the missing step for most development teams. It will help you to communicate better with your business stakeholders making sure that you build the right thing. As a interesting and rewarding side effect you can get regression tests for free. Oh yeah - and a documentation that is always up-to-date. This presentation introduces you to the basic concepts and gives you help to get started |
-| Thursday 27/11| [SpecFlow – a whirlwind tour](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/spec-flowandcukeenvy), [Recording](http://www.youtube.com/watch?v=0j7RaGqVIyk)                                                               |
-|              |                                               | Specification by example is not about technology - it's about communication. This presentation however is all about the technology. I'll show you some common tools and also some coding techniques that will help you avoid problems in keeping your test-code working as the system grow |
-| Friday 28/11 | [User stories - how to get the most out of them](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/user-stories-an-introduction), [Recording](http://www.youtube.com/watch?v=BmmDMuZ0fcE)                                                         |
-|              |                                               | User stories is the de facto standard to handle requirements in agile projects. But what are they really? And how do I do estimation with them? Or planning for that matter? Is there any special tricks or pitfalls that I should know of? In this presentation I'll share my experience with working with user stories - good and bad. |
+| Time | Heading | Abstract |
+| :--- | :--- | :--- |
+| Monday 25/11 | [Kanban In Action](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/kanban-inactionshort), [Recording](http://www.youtube.com/watch?v=ufCa1VlItLA) |
+| | | This presentation introduces you to the principles of kanban and lean and how to apply them in practice. You can start using kanban as you leave! |
+| Tuesday 26/11 | [What is Lean?](http://aptitud.eventbrite.com/) | (No slides, no recording - it was a workshop) |
+| | | Have you heard about Lean (and agile) but don’t know what it means, or what you can do about it? In this presentation you’ll get answer to all of the answers you didn’t dare to ask anywhere else. |
+| Wednesday 27/11 | [Specification by example](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/specification-byexample), [Recording](http://www.youtube.com/watch?v=OLdCV062lGs) |
+| | | Specification by example is the missing step for most development teams. It will help you to communicate better with your business stakeholders making sure that you build the right thing. As a interesting and rewarding side effect you can get regression tests for free. Oh yeah - and a documentation that is always up-to-date. This presentation introduces you to the basic concepts and gives you help to get started |
+| Thursday 27/11 | [SpecFlow – a whirlwind tour](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/spec-flowandcukeenvy), [Recording](http://www.youtube.com/watch?v=0j7RaGqVIyk) |
+| | | Specification by example is not about technology - it's about communication. This presentation however is all about the technology. I'll show you some common tools and also some coding techniques that will help you avoid problems in keeping your test-code working as the system grow |
+| Friday 28/11 | [User stories - how to get the most out of them](http://aptitud.eventbrite.com/) | [Slides](http://www.slideshare.net/marcusoftnet/user-stories-an-introduction), [Recording](http://www.youtube.com/watch?v=BmmDMuZ0fcE) |
+| | | User stories is the de facto standard to handle requirements in agile projects. But what are they really? And how do I do estimation with them? Or planning for that matter? Is there any special tricks or pitfalls that I should know of? In this presentation I'll share my experience with working with user stories - good and bad. |
 
 I've shortened some of the presentations up quite a bit (from 3-4 hours to 1 hour in some cases) so be prepared for speed...
 

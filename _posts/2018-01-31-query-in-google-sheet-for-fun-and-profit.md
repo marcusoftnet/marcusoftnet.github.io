@@ -100,9 +100,9 @@ Since we have concatenated a few sheets, the concept of column names will not be
 
 The format of the dataset will be something like
 
-| Col1                                     | Col2                                     | Col3                                     | Col4                                     |
-| :--------------------------------------- | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| `'Urgent Disaster'!A`s +  `'Great things'!B`s +  `'Could be improved'!C`s +  `'General questions'!D`s | `'Urgent Disaster'!B`s +  `'Great things'!C`s +  `'Could be improved'!D`s +  `'General questions'!E`s | `'Urgent Disaster'!C`s +  `'Great things'!D`s +  `'Could be improved'!E`s +  `'General questions'!F`s | `'Urgent Disaster'!D`s +  `'Great things'!E`s +  `'Could be improved'!F`s +  `'General questions'!G`s |
+| Col1 | Col2 | Col3 | Col4 |
+| :--- | :--- | :--- | :--- |
+| `'Urgent Disaster'!A`s + `'Great things'!B`s + `'Could be improved'!C`s + `'General questions'!D`s | `'Urgent Disaster'!B`s + `'Great things'!C`s + `'Could be improved'!D`s + `'General questions'!E`s | `'Urgent Disaster'!C`s + `'Great things'!D`s + `'Could be improved'!E`s + `'General questions'!F`s | `'Urgent Disaster'!D`s + `'Great things'!E`s + `'Could be improved'!F`s + `'General questions'!G`s |
 
 Selecting column `A` now would be strange at. We want to select the first column in the data set we have constructed with this concatenation. We can use this knowledge to shape differently shaped data into one common structure.
 

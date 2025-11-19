@@ -226,7 +226,7 @@ That was very cool! I love me some JavaScript. But let's put the `MonteCarloSimu
 I'm going to put the simulation parameters in some cells in the sheet to be able to rerun it as needed:
 
 | Row | D                      | E          |
-|:--  |:--                     | :--        |
+| :-- | :--                    | :--        |
 | 1   | Monte Carlo Parameters |            |
 | 2   | Backlog size           | 100        |
 | 3   | Start date             | 2023-03-14 |

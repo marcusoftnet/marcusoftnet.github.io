@@ -200,7 +200,7 @@ We will use server-side events for this, and declaratively tell our cell what to
 When Game of Life is used as a kata this is one of the crux, we need to figure out how to calculate the neighbors. Using our grid coordinates, we can express our neighbors like this:
 
 | | | |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | `(X-1), (Y-1)` | `(X-1), Y` | `(X-1), (Y+1)` |
 | `(X), (Y-1)` | **OUR CELL** | `(X), (Y+1)` |
 | `(X+1), (Y-1)` | `(X+1), Y` | `(X+1), (Y+1)` |
@@ -208,7 +208,7 @@ When Game of Life is used as a kata this is one of the crux, we need to figure o
 For example, if our cell is at `(4, 4)` then the neighbors are:
 
 | | | |
-|:---:|:---:|:---:|
+| :---: | :---: | :---: |
 | `3, 3` | `3, Y` | `3, 5` |
 | `4, 3` | **4, 4** | `4, 5` |
 | `5, 3` | `5, 4` | `5, 5` |

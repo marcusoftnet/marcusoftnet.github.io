@@ -146,7 +146,7 @@ var result = template.Render(new { FullName = "World" }); // => "Hello !"
 I haven't got all of it but
 
 | C# Property                  | Scriban      |  Variable Template |  Result             |
-|:---                          |:---          |:---                |:---                 |
+| :---                          | :---          | :---                | :---                 |
 | `new { FullName = "World" }` | `fullName` | `{{ fullName }}`     | `✅ "Hello World!"` |
 | `new { Fullname = "World" }` | `fullname` | `{{ fullname }}`     | `✅ "Hello World!"` |
 | `new { FullName = "World" }` | `fullName` | `{{ FullName }}`     | `❌ "Hello !"`      |

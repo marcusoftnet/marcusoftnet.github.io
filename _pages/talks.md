@@ -9,17 +9,17 @@ I have done quite a few different talks and workshops during my career and here 
 
 ## Summary
 
-| Title                                                        | Type                                                         | Length    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
-| [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and lean saving a hospital in Indonesia | 1 hour    |
+| Title | Type | Length |
+| :--- | :--- | :--- |
+| [The Bungsu Story](#the-bungsu-story---inspirational-presentation) | Inspirational presentation how agile and lean saving a hospital in Indonesia | 1 hour |
 | [Kanban in Action - a kanban introduction](#kanban-in-action---a-kanban-introduction) | This is an inspirational and educational presentation on how kanban can help you and your team to be even better | 1-2 hours |
 | [Agile - principles over practices](#agile---principles-over-practices) | I've found that many teams and organizations are doing agile practices but don't get much out of it, because we don't fully understand the principles it's built on. This presentation dives into the principles behind agile (and lean) | 1-2 hours |
 | [Kanban in Action - improve my kanban board](#kanban-in-action---improve-my-kanban-board) | In this talk, we examine numerous ways that your board can be changed and improved to help you and improve your work | 1-2 hours |
-| [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours   |
+| [Kanban in Action - process improvements now! And forever!](#kanban-in-action---process-improvements-now-and-forever) | This is a workshop where we not only learn the basics of kanban and lean but also start to build out a board that we can start using tomorrow and then forevermore | 3 hours |
 | [Kanban in Action - upstream work](#kanban-in-action---upstream-work) | In this workshop, we examine the earlier phases of development and see how lean principles and kanban can help us to improve flow. | 2-3 hours |
 | [Impact mapping - a hands-on introduction](#impact-mapping---a-hands-on-introduction) | Impact mapping is a great tool that covers a missing part for many teams; knowing WHY we are doing something. This is a workshop where we get to know more about impact mapping and get our hands dirty using it. | 1-3 hours |
 | [User story mapping - a hands-on introduction](#user-story-mapping---a-hands-on-introduction) | User story maps helps team to create and slice user stories into small increments of a value. This is a workshop where we get to know more about user story mapping and get our hands dirty using it. | 1-3 hours |
-| [Mob programming - a hands-on introduction](#mob-programming---a-hands-on-introduction) | [Mob programming](https://www.marcusoft.net/tags/#mobprogramming) is a power way of developing together as a team, and is the most effective way I have seen to create great software. This is a workshop where we get to know more about impact mapping and get our hands dirty using it.| 1-3 hours |
+| [Mob programming - a hands-on introduction](#mob-programming---a-hands-on-introduction) | [Mob programming](https://www.marcusoft.net/tags/#mobprogramming) is a power way of developing together as a team, and is the most effective way I have seen to create great software. This is a workshop where we get to know more about impact mapping and get our hands dirty using it. | 1-3 hours |
 
 ## The Bungsu Story - inspirational presentation
 

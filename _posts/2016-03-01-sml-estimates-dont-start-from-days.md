@@ -29,11 +29,11 @@ Quite simply: don't estimate the size - base it off data instead. It requires a 
 One of the simplest exercises I know about estimating in S, M, and L is an exercise we in [Kanban in Action](http://bit.ly/theKanbanBook) called "a line of cards". It's quick, simple, and good enough. Here's what you do:
 
 1. Pick an item from your backlog and write it on a sticky and place it in the middle of a table
-2. Pick another and ask the team: "Is this bigger or smaller?"
+1. Pick another and ask the team: "Is this bigger or smaller?"
     1. if bigger put it above
-    2. if smaller put below
-3. Take another item and ask the same question, placing it in the correct spot in the line; below things that it's smaller than - above stuff it's bigger than
-4. Continue until you run out of cards or when it feels suitable (for example next release or sprint)
+    1. if smaller put below
+1. Take another item and ask the same question, placing it in the correct spot in the line; below things that it's smaller than - above stuff it's bigger than
+1. Continue until you run out of cards or when it feels suitable (for example next release or sprint)
 
 Now you have a long line of cards ordered by their relative size. The biggest is on top, the smallest at the bottom. Now go through the line and call the bottom third Small, the middle part Medium, and the top third Large.
 
@@ -43,14 +43,14 @@ The second part is super simple, when you start to work with the item (when you 
 
 Pretty soon you will have some data like this:
 
-| Size  | Start date | End date | Lead time |
-| :---------:  | :---------------------: | :------------: | :---------: |
-| S |  2016-01-04 |  2016-01-05 | 1 |
-| M |  2016-01-08 |  2016-01-10 | 2 |
-| S |  2016-01-05 |  2016-01-08 | 3 |
-| S |  2016-01-02 |  2016-01-04 | 2 |
-| M |  2016-01-05 |  2016-01-09 | 4 |
-| L |  2016-01-01 |  2016-02-01 | 31 |
+| Size | Start date | End date | Lead time |
+| :---: | :---: | :---: | :---: |
+| S | 2016-01-04 | 2016-01-05 | 1 |
+| M | 2016-01-08 | 2016-01-10 | 2 |
+| S | 2016-01-05 | 2016-01-08 | 3 |
+| S | 2016-01-02 | 2016-01-04 | 2 |
+| M | 2016-01-05 | 2016-01-09 | 4 |
+| L | 2016-01-01 | 2016-02-01 | 31 |
 
 ## Data-based prognosis
 

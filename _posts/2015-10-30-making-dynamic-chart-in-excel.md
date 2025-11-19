@@ -34,13 +34,13 @@ My Excel sheet can be be [downloaded here](/img/dynamicchart.xlsx).
 
 Here's some example data for you if you want to build it yourself:
 
-| Date       | Patients per day |
-|:----------:|:----------------:|
-| 01/10/2015 | 23               |
-| 02/10/2015 | 21               |
-| 03/10/2015 | 19               |
-| ...        | ...              |
-| 31/10/2015 | 50               |
+| Date | Patients per day |
+| :----------: | :----------------: |
+| 01/10/2015 | 23 |
+| 02/10/2015 | 21 |
+| 03/10/2015 | 19 |
+| ... | ... |
+| 31/10/2015 | 50 |
 
 Also, imagine that this now contains the data for the last 2 years and you'll see the use of this entire exercise better.
 
@@ -49,8 +49,8 @@ Also, imagine that this now contains the data for the last 2 years and you'll se
 To make this really dynamic let's be fancy from the outset and define the number of days our window should be in another cell, in cell `F2` for example:
 
 | Latest days to show |
-|:-------------------:|
-| 15                  |
+| :---: |
+| 15 |
 
 This will be cool to play with in a little while, I promise.
 

@@ -8,7 +8,7 @@ tags:
   - Agile
 ---
 
-A long time ago I stumbled over the motto of [Bob Bemer](2024-02-13-sender-is-also-responsible.md) and it is both cool, nerdy, and useful
+A long time ago I stumbled over the motto of [Bob Bemer](https://www.marcusoft.net/2023/03/screensavers-do-something-small-useful-now.html) and it is both cool, nerdy, and useful
 
 ```text
 ((((DO SOMETHING!) SMALL) USEFUL) NOW!)
@@ -20,7 +20,7 @@ I even have a screensaver picture that you can [download here](https://www.marcu
 
 <!-- excerpt-end -->
 
-### Bob Bemer
+## Bob Bemer
 
 First a few words about Bob Bemer who seems to have been a pretty amazing guy, that very few have mentioned.
 
@@ -28,7 +28,7 @@ Born in 1920 he was at his peak when programming and computing really took off a
 
 Yes. ASCII. The man invented text, friends. Sit down and listen.
 
-#### About the motto
+### About the motto
 
 The motto is brilliant in how it is written and what it means. It's a kind of [LISP](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>), as far as I understand:
 
@@ -46,7 +46,7 @@ _`DO SOMETHING, SMALL, USEFUL`_ - it's good that the thing that we are doing is 
 
 - `DO SOMETHING, SMALL, USEFUL, NOW` - in the end, Mr Bemer tells us to get going. `NOW` - don't wait, just `DO`
 
-#### A story
+### A story
 
 Where I'm working right now we have a large legacy code base. Building it takes a very long time, 2 hours ca, and many of the parts that we are building are a bit scary to touch so we have just let it be and live with the fact that the build takes that long.
 
@@ -95,4 +95,17 @@ To conclude our journey is just one simple example of what can happen if we let 
 
 ```text
 ((((DO SOMETHING!) SMALL) USEFUL) NOW!)
+```
+
+## PS
+
+What was that? Yes, yes. Of course you can get it as JavaScript, if you'd wanted:
+
+```javascript
+const DO_SOMETHING = (s) => `DO SOMETHING ${s}`;
+const SMALL = (s) => `SMALL ${s}`;
+const USEFUL = (s) => `USEFUL ${s}`;
+const NOW = () => `NOW`;
+
+console.log(DO_SOMETHING(SMALL(USEFUL(NOW()))));
 ```

@@ -2,5 +2,7 @@
     "MD033": false,
     "MD013": false,
     "MD024": false,
-    "MD059": false
+    "MD059": false,
+    "MD001": false,
+    "MDO60": { "style": "compact" }
 }

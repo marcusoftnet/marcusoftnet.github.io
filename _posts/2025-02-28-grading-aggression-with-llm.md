@@ -163,7 +163,7 @@ The summary tables looked like this
 ### Gemini
 
 | Person | Aggression | Irony | Willingness to Cooperate |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Person 1 | Moderate | Low | Moderate |
 | Person 2 | Low to Moderate | Low | Moderate |
 | Person 3 | High | Moderate | Low |

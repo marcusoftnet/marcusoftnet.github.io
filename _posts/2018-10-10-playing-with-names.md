@@ -4,9 +4,9 @@ title: "Playing with names"
 author: "Marcus Hammarberg"
 date: 2018-10-10 17:45:48
 tags:
-  - Agile
-  - Kanban
-  - Lean
+ - Agile
+ - Kanban
+ - Lean
 ---
 
 At my current client, we are trying to make a change to focus more on [flow than on resource utilization](https://www.marcusoft.net/2018/05/thinking-in-flow-some-recent-thoughts.html). This is harder than it sounds because much of the current ways of working, structures, roles and rewards are built to support another mindset.
@@ -67,9 +67,9 @@ Below is me playing this game on myself. What did you come up with?
 
 | You cannot use \_\_\_\_ | This sentence | would then become this: |
 | --- | --- | --- |
-| Maintenance | There! The development project is over now - it's now handed over to _maintenance_ | There! We have done features and improvement for a while, and will continue to do some more features and improvements  |
-| Testing | I hope they don't find a lot of bugs in _testing_. The timeline is tight!  | I hope we find a lot of bugs early, before working in _working with code_. The timeline is tight |
-| The Business  | _The Business_ has called a meeting - They have decided new directions for how the product will be developed. I wonder what it can be? | We have a workshop later to decide on the future for the product. Exciting! I have a few ideas since the last couple of tests I wrote. |
+| Maintenance | There! The development project is over now - it's now handed over to _maintenance_ | There! We have done features and improvement for a while, and will continue to do some more features and improvements |
+| Testing | I hope they don't find a lot of bugs in _testing_. The timeline is tight! | I hope we find a lot of bugs early, before working in _working with code_. The timeline is tight |
+| The Business | _The Business_ has called a meeting - They have decided new directions for how the product will be developed. I wonder what it can be? | We have a workshop later to decide on the future for the product. Exciting! I have a few ideas since the last couple of tests I wrote. |
 | Ops | Oh Lord... I need this out now - but _the ops guys_ (or _the devops ladies_) are busy. Doh! | Oh Lord ... I need this out now. Better get going writing a deployment script myself, I guess. We are all _Devops_ now. |
 
 There are so many things that cast a light on the strange practice to divide our work up in phases, and even more so roles connected to that phase. I think it's a left-over from the Taylor-ism-era where each task was reduced down to it's smallest parts and then we had people executing that single task as fast as possible.
