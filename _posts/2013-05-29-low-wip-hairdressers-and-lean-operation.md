@@ -35,7 +35,7 @@ Of course, someone objected. His choice of words was very interesting:
 
 He was right and wrong at the same time.
 
-### Flow Efficiency Versus Resource Utilization
+## Flow Efficiency Versus Resource Utilization
 
 ![This is lean](/img/Screen+Shot+2013-05-29+at+10.13.46+.png)
 
@@ -47,7 +47,7 @@ Because with a team doing mob programming, you would have great flow efficiency.
 
 And herein lies the crux of the matter: Lean is a strategy that helps us find a good balance between the two axes in our diagram. Lean does that by focusing on flow efficiency first and then resource efficiency.
 
-### Firemen, Mob Programmers, and Hairdressers
+## Firemen, Mob Programmers, and Hairdressers
 
 What does that mean in practice then? Well, if it was as easy as to always maximize only flow, then we could just let the whole company do one single thing. But we don't do that. Because that would mean that a large percentage of the company would not do anything productive. On the other hand, the moment we needed anyone to help the work to flow, they would have time ready since they're just waiting around.
 

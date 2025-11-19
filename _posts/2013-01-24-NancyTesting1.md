@@ -32,7 +32,7 @@ I thought I'd devote a couple of posts to the testing abilities of Nancy; here's
 
 The underlying idea here is to get to know Nancy better, through tests. Join me if you want. The speed of the blog posts will be much dependent on how the book writing goes (Kanban In Action...). At the time of writing, I have the first two posts prepared, and the rest in my head.
 
-### Why is Nancy easy to test?
+## Why is Nancy easy to test?
 
 Nancy is a web framework built from the ground up, which means that it has no dependencies on System.Web or any of the web-stuff in the .NET framework. Those parts have been notoriously hard to test (mocking the complete Request-object is a nightmare that still haunts many of us).
 
@@ -54,7 +54,7 @@ Moreover - this will actually test **everything**, the complete Nancy-stack. Wit
 As you can see from that example we can supply a fully populated Request-object, with all the context we need for our Request (headers, options, body you name it).
 Executing that request (with the Get-method in this case to perform a HTTP-GET) returns a Response-object. That response contains the generated view from the Nancy-module, meaning that it's been through the complete Nancy-stack, except that it haven't gone through the network, hit any web servers etc. And still you can access and search the generated view with [CSS Selectors](http://www.w3.org/TR/CSS2/selector.html) as you would normally do in a web automation tool. It's web automation with the web part ripped out - some people call this a [headless browser](http://blog.arhg.net/2009/10/what-is-headless-browser.html).
 
-#### Contrasting with ASP.NET MVC options
+## Contrasting with ASP.NET MVC options
 
 If you were to test the same thing with an ASP.NET MVC application you are faced with two options:
 

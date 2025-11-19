@@ -40,7 +40,7 @@ I also added one more property per day: completion in 15%. I use this to indicat
 
 With that in hand, I was ready to create some reporting
 
-### Simple reporting
+## Simple reporting
 
 The most simple thing I could do was to add a report for how all of these numbers add up. This was things like a circle diagram showing how far I've come
 

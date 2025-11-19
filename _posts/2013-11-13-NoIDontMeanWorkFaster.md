@@ -36,7 +36,7 @@ After stating a few of those I often feel a bit stress and short of breath mysel
 
 All of this is summed up with an excellent question, from my colleague and friend [Anders Löwenborg](https://twitter.com/anderslowenborg):
 
-### Why does it have to go so fast all the time?
+## Why does it have to go so fast all the time?
 
 After really thinking long and hard about this I have come to realize that it really *should* flow faster, as fast as possible in fact. But not faster... let's come back to that last part and instead try to answer the question in the heading of this section.
 
@@ -47,7 +47,7 @@ There's many reasons to strive to a faster flow, faster process but here are a f
 - with a **faster turnaround of features**, we will build trust with our stakeholders. If we can put a little something into production every day, I guarantee that you will see less and less demands for estimates, plans and [(the wrong kind of) commitments](https://www.marcusoft.net/2013/09/commitment-can-only-emerge-it-can-be.html).
 - completing (smaller) stuff often is more fun and more engaging. You, and your team, will feel more in control over your destiny and that what you're doing is important.
 
-### As fast as possible - but not faster
+## As fast as possible - but not faster
 
 Ok - so we want to move fast. Yes... but not too fast. One way to go faster is to be sloppy and skip stuff that takes time, testing for example. But that's not what I'm talking about.
 

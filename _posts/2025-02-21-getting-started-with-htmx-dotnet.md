@@ -79,7 +79,7 @@ Now run it with `dotnet watch run` (or `dotnet run` if you don't want to have wa
 
 This returns JSON. Yes - JSON. .NET Minimal APIs uses a lot of conventions over configuration to make it minimal. Automatically returning JSON for objects is one example.
 
-### Static content
+## Static content
 
 Let's add the ability to serve static content, such as CSS and a favicon. Add the following line to the `Program.cs`:
 

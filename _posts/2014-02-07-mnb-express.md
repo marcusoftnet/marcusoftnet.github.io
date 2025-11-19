@@ -56,7 +56,7 @@ app.listen(3000);
 
 This little application just responds with "Hello World" when you access it on [http://localhost:3000](http://localhost:3000/).
 
-### Understanding Express
+## Understanding Express
 
 The API for Express is very easy and, in fact, there are just a couple of basic things that you need to know in order to start coding up an API. Things are considerably easier when we're just dishing out JSON rather than creating a complete site.
 
@@ -102,13 +102,13 @@ You return data via the response-object that is passed to the callback function 
 
 When you send JSON back, there's a special method for that. The content-type will automatically be set to "application/json" for you when using this method as a nice little service to you.
 
-### Middleware
+## Middleware
 
 At the heart of Express is the Connect middleware. For the most part, you don't need to care about Connect since it's nicely exposed as a couple of functions, but it's really how Express is stitched together.
 
 We have already seen the `bodyParser()` in action, and here are a few others that I found useful:
 
-#### basicAuth
+### basicAuth
 
 `basicAuth()` - sets up basic authentication for your site. As always, basic is sending the username and password in clear text, so beware.
 

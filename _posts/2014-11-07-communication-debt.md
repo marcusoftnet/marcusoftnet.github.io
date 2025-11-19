@@ -34,13 +34,13 @@ Because it's the same thing with communication and interaction. The longer we wa
 
 The only thing that can pay off the communication debt is to meet again. Then we can clear out any misunderstandings and sync up, hopefully making sure that we're talking about the same thing.
 
-### The Bad News
+## The Bad News
 
 Communication debt starts ticking the second we part. You meet someone else and get new information. I start to think for myself. I talk to my group, you talk to yours. Things happen. We form our separate opinions.
 
 Now imagine that this went on for 1 day, 10 days, 1 month, 6 months... and that's when we end up in strange situations like "she doesn't want to talk with me" or "I simply don't understand them".
 
-### The Good News
+## The Good News
 
 We can do something about this. And it's simple too. We control the dial to this problem; namely, we decide how often we meet.
 

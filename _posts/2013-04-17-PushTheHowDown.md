@@ -24,7 +24,7 @@ The biggest thing that stuck in my mind was: push HOW down. He has been talking 
 
 The main point is this; specification by example is way to clarify how the system should *behave* by using concrete examples. This can be done before any code is implemented and can clear out a lot of misunderstandings and misconceptions that have you go back and forth later in the process. Cucumber / SpecFlow can then be used to execute these scenarios, written in natural language, against code that flex your system to verify that the system *behaves* as expected.
 
-### What do you mean HOW?
+## What do you mean HOW?
 
 So far so good. However it's a very common pit fall to start to write your scenarios in script-form that rather shows you how the system should be operated rather it's behavior. So you end up with scenarios like this:
 
@@ -48,7 +48,7 @@ The second version is better because:
 
 But the second version doesn't say anything about HOW the system or even the automation is done. That's just what we wanted but where did the HOW go then?
 
-### Pushing HOW down
+## Pushing HOW down
 
 Well - we pushed it down. Further than you think too. As you probably well aware of each line in our scenario maps to a step definition. This is the code that Cucumber / SpecFlow calls when the scenario is executed. A SpecFlow feature looks something like this:
 

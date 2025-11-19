@@ -31,7 +31,7 @@ time the turn has come to the elephant in the kitchen. The emotions and
 things that we cannot control by pure will power – it’s time to see if
 we can Motivate the Elephant.
 
-### Motivate the Elephant
+## Motivate the Elephant
 
 The elephant is lazy; he doesn’t want to write more code than necessary
 or write stuff that probably somebody else will find anyway. Also the
@@ -42,7 +42,7 @@ the job for a long time.
 
 Why should he care about testing?
 
-#### Find the feeling
+### Find the feeling
 
 In this part the Heath brothers talk about making people feel things
 instead of just understanding them. I have been using a lot of games and

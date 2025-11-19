@@ -36,7 +36,7 @@ service cloud.firestore {
 }
 ```
 
-### Configuration application
+## Configuration application
 
 We will use the firebase SDK to access Firestore, so install it with `npm i firebase`.
 

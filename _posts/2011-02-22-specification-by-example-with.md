@@ -20,7 +20,7 @@ It’s the workflow or process that is the “problem.” How do we organize the
 
 This post examines a new tool to support the early stages of the lifetime of a user story with scenarios—the foundation in a specification by example process. The tool is called [SpecLog](http://speclog.org/) from [TechTalk](http://www.techtalk.at/) (as [SpecFlow](http://www.specflow.org) is). It looks promising—very promising indeed.
 
-### Reflection
+## Reflection
 
 Please allow me to elaborate on something that I have been thinking about for a while. If you don’t want to, please skip ahead to the next heading. It’s probably just me…
 

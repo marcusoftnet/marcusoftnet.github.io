@@ -23,7 +23,7 @@ From time to time I find myself in the position where I ask “stupid” questio
 
 So on to my suggestions. How do I manage BDD features in my project (using Team Foundation Server (TFS))?
 
-### Managing
+## Managing
 
 What is the deal with this? As I introduce the concept of [Specification by Example](http://specificationbyexample.com/) to business people, they always ask me about these things:
 

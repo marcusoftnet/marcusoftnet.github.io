@@ -19,7 +19,7 @@ So instead I'll write about a couple of things that I've experienced and thought
 
 Let me first state that not everything in this article is based from experience from this one client. If you read this and work there; not all of this happened at your place. Know this - it's the same at a lot of places where I've coached.
 
-### You need a WHY
+## You need a WHY
 
 An agile roll out in the whole organization is a big change. It's a change of the business strategy. It will affect a lot of people. It will affect the way they work, the name and meaning of their roles.
 

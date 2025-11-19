@@ -27,7 +27,7 @@ First, let me restate that the things we're diving into now are bleeding-edge st
 
 I have learned LOADS from this [awesome article](http://tobyho.com/2013/06/16/what-are-generators/) by [Toby Ho](https://twitter.com/airportyh). Here I'm just writing down how I understood it. All credit for any good stuff here goes to Toby. Any crap is probably from me.
 
-### What is yield?
+## What is yield?
 
 Now, on to the war... The first concept that tripped me a bit was `yield`. I have not thought much about nor used `yield` in my mother-tongue, C#, that have had them for quite some time. Quite simple it can be described with the following code:
 
@@ -47,7 +47,7 @@ But when I [understood that](http://tobyho.com/2013/06/16/what-are-generators/):
 
 I was intrigued to say the least. Could this be used instead of [callbacks](https://www.marcusoft.net/2014/03/javascript-callbacks-cant-live-with.html) when doing non-blocking, asynchronous code? But how? Let's press on and see if that is the case.
 
-### Aha, but what are generators then?
+## Aha, but what are generators then?
 
 Ok, but how can I use this then? Or in other words; how can I call this loop? Let's wrap that loop in a function. Like this:
 

@@ -18,7 +18,7 @@ In this post I'll describe how to "write" a little task that moves files from on
 
 Ok - here we go:
 
-### Automating moving files
+## Automating moving files
 
 ![The trigger happy Automator robot](/img/Screen+Shot+2013-08-19+at+14.41.50+.png)
 
@@ -26,7 +26,7 @@ Open Automator - I still have a problem with that cute robot holding a bazooka. 
 
 You are now greeted with a big dialog that asks you to pick a "Type for your document". This is a question that at least I didn't know how to answer but you could go with Workflow or Application - both will work for our objectives. I picked Workflow.
 
-#### Find the files
+## Find the files
 
 Now search for a couple of Actions in the search box. First we need to find the finder items that we want to move ("Find Finder Items" is the name of that action).  Double-click that action and it will appear in the area to the right.
 
@@ -34,7 +34,7 @@ Now you can configure where the Find Finder Items action is going to look and ba
 
 **Watch out!** I had some trouble to get the [Find Finder Items action to work](http://www.nickshubin.com/articles/mac/find_finder_item.html). In the end I had to re-index my [search index for spotlight](http://support.apple.com/kb/ht2409).
 
-#### Move the files
+### Move the files
 
 To move the files we need another action called: "Move Finder Items". Search for it and double-click it. You can then configure where you want the files moved to. "Which files?", you might wonder. Well the files that you've sent to the action. It's selected with the Find Finder items.
 

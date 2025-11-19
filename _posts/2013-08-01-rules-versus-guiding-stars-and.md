@@ -37,7 +37,7 @@ What if this had not been a rule, but rather a guiding star like: "in order to b
 
 There could still be consequences, of course, but that would then come out of a discussion with the players, maybe even as suggestions from them.
 
-### Software development
+## Software development
 
 I've never in my life written this much, or even thought this much, about soccer before. Let's get back to software development. What are the rules in our business? How can we apply this thinking in the software development process?
 

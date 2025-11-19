@@ -18,7 +18,7 @@ For quite some time I have pondered constraints. They fascinate me quite a lot. 
 
 In reality, this post is just a couple of examples of self-imposed constraints and what good they can have.
 
-### Toyota and TPS
+## Toyota and TPS
 
 First let's stop, again, at Toyota. Why did they invent [TPS (Toyota Production System)](http://en.wikipedia.org/wiki/Toyota_Production_System)? What drove them there? It's a quest that they've been on since the 50s and never will be done with.
 

@@ -15,7 +15,7 @@ Right away – this blog post is mostly for me. I have not been dabbling enough 
 
 So, if you care to read this… please be gentle with your comments. I love to see them and learn that I was wrong – I’m most certainly am.
 
-#### dynamic keyword
+## dynamic keyword
 
 Since .NET 4.0 we have a new keyword – [dynamic](http://msdn.microsoft.com/en-us/library/dd264741.aspx). If you read the [MSDN](http://msdn.microsoft.com/) documentation you’ll learn that:
 
@@ -37,7 +37,7 @@ Eeeh – so it’s a way to bypass the compiler and mess up?
 
 I must admit that up to recently I hadn’t tried the dynamic keyword out and hence my thinking about it was here somewhere.
 
-#### ExpandoObject using dynamic to add stuff at runtime
+### ExpandoObject using dynamic to add stuff at runtime
 
 The first many of us (me that is) hear about is the mystically named [ExpandoObject](http://msdn.microsoft.com/en-us/library/system.dynamic.expandoobject.aspx). You can add property or method you like to the ExpandoObject – and it just works. So, yes it’s a bit mystical. Let’s see it in action:
 

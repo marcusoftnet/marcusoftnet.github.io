@@ -47,7 +47,7 @@ Although I felt like citing Fletch:
 
 Instead, we started another discussion and moved on.
 
-### A little help from my friends
+## A little help from my friends
 
 But as I got home, I could not let that incident go. Because in my heart I still feel that it's better to do smaller stuff than bigger. *Even though* they might not produce customer value, I propose that doing small increments of functionality would be better.
 
@@ -65,7 +65,7 @@ With this picture, the authors of This is Lean want to explain that Lean is a *b
 
 Ok - the key word here is *strategy*. A strategy is not a given. Something we *know* will happen. It's a plan - we don't *know* that it will work the best. We *believe* that, but it's still just one strategy out of many. Lean's strategy is to focus firstly on flow and then on resource efficiency.
 
-### Eeeh? Come again? What does that mean?
+## Eeeh? Come again? What does that mean?
 
 What Håkan meant with his comment was simply; starting by focusing on getting small things to flow faster has proven an easier way to come closer to nirvana. At least over trying to produce bigger, full-featured things firstly and then get that process to go faster and faster.
 

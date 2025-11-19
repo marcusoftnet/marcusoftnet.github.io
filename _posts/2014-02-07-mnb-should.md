@@ -48,7 +48,7 @@ And you're ready to use the should assertions in your test code. Oh well you nee
 var should = require("should");
 ```
 
-### The assertions
+## The assertions
 
 [Should](https://github.com/visionmedia/should.js) makes heavy use of the Javascript dynamic features and slabs on extension functions to the objects you are testing. This means that you write your assertions after the thing you assert which gives for a very read-it-out-loud syntax. Like this:
 
@@ -68,11 +68,11 @@ user.should.be.an.instanceOf(Object).and.have.property('name', 'tj');
 
 I have only used `not` so far, but I could see that some of the others might be useful.
 
-### The trip ups
+## The trip ups
 
 There are a few problems that I keep running into. It’s not very flattering for my intelligence that I keep doing it over and over, but I thought I’d write it down so that at least I know how to fix it the next time.
 
-#### Assert for null and undefined
+### Assert for null and undefined
 
 If you’re checking that something is null or not, you’re at a bit of a loss, since should cannot attach any extension methods to null (since that’s no object I presume). In these cases you need to write the should as a standalone, global method. Here’s an example:
 

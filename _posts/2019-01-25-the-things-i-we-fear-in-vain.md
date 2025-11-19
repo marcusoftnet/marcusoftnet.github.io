@@ -13,7 +13,7 @@ Although I often preach about embracing uncertainty and sometimes get comments a
 
 But sometimes, in rare moments of clarity, I have the opportunity to stop and reflect over the what I am worried about. It just about always brings me to the realization that I worry in vain.
 
-Let me share three things in particular, that I have worried about lately. That gave me nothing but more worry.  
+Let me share three things in particular, that I have worried about lately. That gave me nothing but more worry.
 
 <!-- excerpt-end -->
 

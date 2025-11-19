@@ -25,7 +25,7 @@ I got his permission to respond here on the blog. It's a response and not an (an
 
 <!-- excerpt-end -->
 
-### The disclaimers
+## The disclaimers
 
 Well obviously there will be a lot of things that I don't know about this context, so the answer will be given from the perspective of me only knowing what I understood from the tweet.
 

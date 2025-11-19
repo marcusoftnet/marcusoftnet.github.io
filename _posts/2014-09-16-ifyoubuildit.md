@@ -26,7 +26,7 @@ Have you experienced that? I have. Often. Very often, in fact. But not always. I
 
 (The reference in the title is, of course, from [Field of Dreams with Kevin Costner](https://www.marcusoft.net/2014/09/simplerQuestion.html))
 
-### Make it Visual
+## Make it Visual
 
 The first thing is pretty obvious ... and not. If you want people to notice, understand, and act on important information - make it visual.
 
@@ -36,7 +36,7 @@ An excel list is much harder to digest and interpret than a board with cards in 
 
 Consider the picture, from [our book](http://www.amazon.com/Kanban-Action-Marcus-Hammarberg/dp/1617291056/), next to this paragraph. Consider the amount of status, problems, and information that this picture tells you. And we have not even written what the cards are about, they are just empty.
 
-### Make it In Your Face
+## Make it In Your Face
 
 ![In Your Face](/img/206413799_7c68420938_z.jpg)
 *By [Arthur](https://www.flickr.com/photos/nycarthur), used under [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/2.0/)*

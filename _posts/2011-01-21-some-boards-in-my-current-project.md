@@ -19,7 +19,7 @@ It’s quite a big project with about 25-40 members (depending on which phase it
 
 This post will be a long one. But with a lot of pictures so I hope you won't be bored .
 
-### Project status board
+## Project status board
 
 In order to easily and effortlessly communicate the status of the complete project, we have created a board on the project level that captures the status for each team. This is our first try to do this:
 

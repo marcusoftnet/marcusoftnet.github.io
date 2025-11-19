@@ -17,7 +17,7 @@ One of the open spaces I participated in focused on [Pair Programming](http://en
 
 Here is a recap of some of the insightful points from that session:
 
-### Good Ideas
+## Good Ideas
 
 - **Switch the keyboard often:** One developer writes the test and another handles the implementation, or use a [Pomodoro](https://www.marcusoft.net/2009/08/pomodoro-being-agile-and-focused-on.html) timer for ten-minute intervals.
 - **Switch partners frequently:** For example, once a day.

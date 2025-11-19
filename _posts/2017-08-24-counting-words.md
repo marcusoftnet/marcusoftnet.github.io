@@ -17,7 +17,7 @@ In this post I will try to explain how the script that counts all the words in a
 
 <!-- excerpt-end -->
 
-### The script
+## The script
 
 Here's the script:
 

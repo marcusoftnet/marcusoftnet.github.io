@@ -17,7 +17,7 @@ I’m excited to share a new NuGet package I’ve been working on: [SpecFlow.Ass
 
 In this post, I’ll cover what SpecFlow.Assist.Dynamic is, the problem it solves, and how it was developed. Future posts will delve into its usage and how it integrates with [Simple.Data](https://github.com/markrendle/Simple.Data) to enhance the testing experience.
 
-### The Problem
+## The Problem
 
 One of the common issues with SpecFlow is the need to create simple data transfer classes just to move data around in your step definitions. For example, consider the following Gherkin step:
 

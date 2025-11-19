@@ -42,11 +42,11 @@ See! Immense progress has been made. This team has really achieved something.
 
 Maybe. But stop for a while and think about all those great things you did the last 4 months. If we were another 4 months into the future more great stuff like that has happened. Imagine that beautiful place we are in? After all those improvements, that we still are to make, has happened. It must be something amazing, don't you think? No manual testing, blazingly fast build and releases on an hourly basis. I can only guess.
 
-### Conclusion
+## Conclusion
 
 By appreciating our journey to now, extrapolating it into the future a positive feeling of progress can be created. One that, when I tried it, always is greater than our challenges right here and now.
 
-### Disclaimers
+## Disclaimers
 
 Yes, by all means, there are problems to solve. And we should not close our eyes to them. But in most cases where I've found this technique useful, the opposite is true; we drown in a sea of problems, losing the will or power to see any good things. The list of problems become more work that we need to check off. The only sense of accomplishment is that we have crossed them out.
 

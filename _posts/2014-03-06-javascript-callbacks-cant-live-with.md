@@ -42,7 +42,7 @@ The it-function contains our assertions and is then finished by calling `done()`
 
 - The done-function is used to signal the end of our test.
 
-### How not to Node
+## How not to Node
 
 Now to the problem that I've run into more times than I care think about. Let's say that I want to return something from my function. Like this API that I started out doing a couple of days back:
 
@@ -52,7 +52,7 @@ Now to the problem that I've run into more times than I care think about. Let's 
 
 That's just wrong. It's not the Node way and you'll get into trouble if you try to pursue that path. So let's do that and see what happens. In my case I used Mongoose to access the database, hence building a data access layer. But since everything in Node is non-blocking you'll likely run into similar problems no matter what you try.
 
-### How to Node
+## How to Node
 
 That's not how you should do it. It's wrong on the API level already. Instead it looks something like this:
 

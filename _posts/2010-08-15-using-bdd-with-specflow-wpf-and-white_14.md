@@ -16,7 +16,7 @@ blogger_orig_url: https://www.marcusoft.net/2010/08/using-bdd-with-specflow-wpf-
 
 It’s been a while since I blogged. [Twitter](http://twitter.com/marcusoftnet) is taking over. I compensate that with a major blog post.
 
-#### Background
+## Background
 
 I written about the project I’m in right now a [couple](https://www.marcusoft.net/2010/05/using-atdd-in-conversion-project.html) of times before and to make a long story short; we don’t have any requirements! We only have the existing application which we are to “convert” from VB6 to VB.NET. 1:1 is the mantra – which is to be understood as: functional the same.
 
@@ -26,9 +26,9 @@ To not let this post grow totally out of control, I leave the description for th
 
 To put my money where my mouth is and show them how it should be accomplished. This blog post is that description.
 
-#### Solution and tools
+### Solution and tools
 
-##### SpecFlow
+#### SpecFlow
 
 The best [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development)-tool I’ve seen for the .NET platform is [SpecFlow](http://www.specflow.org/). It’s a very active open source project that gets more and more attention in the community.
 

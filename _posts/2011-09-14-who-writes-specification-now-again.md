@@ -19,7 +19,7 @@ A common question that often comes up is:
 
 The underlying intent behind this question seems to touch on issues of ownership and collaboration. Drawing from my experience in a recent project and insights from [Gojko Adzic’s book](http://gojko.net), I’d like to share my perspective on this.
 
-### Key Process Patterns
+## Key Process Patterns
 
 Gojko Adzic outlines seven "key process patterns" in his book on Specification by Example. These patterns are essential practices that contribute to successful implementations of Specification by Example:
 

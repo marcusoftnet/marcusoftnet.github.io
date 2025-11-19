@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4549561414632747159
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-4-morning.html
 ---
 
-### Keynote: What Drives Design?
+## Keynote: What Drives Design?
 
 We kicked off the day with an intriguing keynote on the driving forces behind design, focusing particularly on the latter two "D"s in various [xDD](https://en.wikipedia.org/wiki/Software_development_methodologies) methodologies (such as TDD, BDD, etc.). The talk started with a fascinating historical overview, showcasing how our industry is still relatively young, with many pioneers still active.
 

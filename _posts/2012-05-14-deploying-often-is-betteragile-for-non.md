@@ -56,6 +56,6 @@ While it’s true that the online poker site's environment wasn’t perfectly st
 
 Of course, transitioning to such a model takes time. The poker site had been working on their continuous deployment for two years. However, the journey itself brings significant benefits, such as reducing dependencies and automating manual processes.
 
-#### Conclusion
+## Conclusion
 
 I firmly believe that smaller, more frequent deployments are better than large, infrequent ones. Many organizations are not set up to support this, as noted in [Conway's Law](http://en.wikipedia.org/wiki/Conway's_law), but striving for smaller releases is always a worthwhile endeavor.

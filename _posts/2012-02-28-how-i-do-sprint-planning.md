@@ -18,7 +18,7 @@ I will probably upset some people as well… and might even get some feedback th
 
 And of course, this is not my own thoughts – I’ve picked up some tricks here and there over the years and probably forgot about as many. Thanks everybody that I’ve learned from, especially [Öystein Stave](http://se.linkedin.com/in/stave) who helped me find my lost excel-sheet that we created together a long time ago.
 
-### Time boxing and the three constraints
+## Time boxing and the three constraints
 
 As everything in Scrum I plan sprints as a time box. That is I let the time be fixed and adjust the content accordingly. Most often I also fix the people and their percentage in the sprint. So in this triangle the features are the one thing that have to give when things doesn’t plan out:
 

@@ -20,13 +20,13 @@ A variant of the question is; “we are a distributed team – can we still use 
 
 Well of course there is not a yes or no answer to that but here is my take on it:
 
-#### Low tech rules
+## Low tech rules
 
 First I think that no electronic system will ever beat the flexibility, simplicity and agileness of a board. <a href="https://www.marcusoft.net/2010/03/practical-kanban-some-kanban-boards-in.html" target="_blank">See this for some examples</a>. There are <a href="http://agilezen.com/" target="_blank">some</a> that <a href="https://www.marcusoft.net/2009/08/task-board-for-team-system-finally.html" target="_blank">have come close</a> but a low tech board communicates so much information with the added flexibility to move things around very easy.
 
 Also using a board promotes face-to-face communication which is always good. I have been in teams where the status of the electronic system should be updated before the daily standup – what use is the meeting then?
 
-#### Master data problem
+### Master data problem
 
 Secondly this problem is a <a href="http://en.wikipedia.org/wiki/Master_Data_Management" target="_blank">master-data problem</a>; who is the master of the status?
 

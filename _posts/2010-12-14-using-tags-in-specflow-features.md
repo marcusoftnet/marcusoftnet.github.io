@@ -16,7 +16,7 @@ Since I first read about [Cucumber](https://github.com/aslakhellesoy/cucumber/wi
 
 OK – but when I got around to trying it in [SpecFlow](http://www.specflow.org/), I was a bit disappointed to learn that only `@ignore` was supported… Or was it?
 
-### `@ignore`
+## `@ignore`
 
 `@ignore` is the only tag supported by default and is translated to `IGNORE` in your test framework of choice (for example, [Ignore in NUnit](http://www.nunit.org/index.php) or [MsTest](http://msdn.microsoft.com/en-us/library/ms182457(v=vs.80).aspx#UsingIgnoreAttribute)). This can be used to disable features and/or scenarios that are not ready to be run yet.
 

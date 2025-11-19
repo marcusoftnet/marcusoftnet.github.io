@@ -59,7 +59,7 @@ You both look up to the ever smiling sansei:
 
 > That is right. Fix those problems and we get an even faster, even smoother flow. We're getting closer to our vision of one piece continuous flow. I know you will make it. Let me know how I can help.
 
-### Comment on car mounting guy
+## Comment on car mounting guy
 
 They use the WIP limit to provoke new problems to appear. Ah, that's a bad word, problems. To expose new unrealized improvement opportunities for further improvements in their flow.
 

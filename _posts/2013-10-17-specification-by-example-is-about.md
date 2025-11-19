@@ -19,7 +19,7 @@ But lately I've come across a situation that have got me to think about the othe
 
 If you read my blog before you know I'm a sucker for stories and let me illustrate my point with two stories.
 
-### Only workshop-ing
+## Only workshop-ing
 
 ![Image](http://spotifypresscom.files.wordpress.com/2013/01/spotify-logo-primary-vertical-light-background-rgb.jpg?w=122&amp;h=150)
 
@@ -35,7 +35,7 @@ A couple of days later I checked in with the team again and asked them: "Could y
 
 They simply didn't *need* the automation part for their work. And since it probably shouldn't last for that long in production the specifications was short lived.
 
-### The whole shabang, and a bunch of rotten specs
+## The whole shabang, and a bunch of rotten specs
 
 ![Image](http://specificationbyexample.com/images/sbe-cover-150.jpg)
 

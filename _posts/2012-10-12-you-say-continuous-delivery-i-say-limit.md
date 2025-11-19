@@ -23,7 +23,7 @@ This can seem like a very daunting task to take on but if you think
 about it, it only has to do with us taking on to much work in process.
 In this blog post I'll elaborate on some thoughts around that.
 
-### Continuous delivery is not hard at all
+## Continuous delivery is not hard at all
 
 This little conversation took place the other day when I explained
 continuous delivery for a colleague:

@@ -19,7 +19,7 @@ This is the last post on my top 5 ways of making sure that your agile change ini
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
 5. [Use visualized data to improve (this post)](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
-### 5 - Use visualized data to improve
+## 5 - Use visualized data to improve
 
 If there's one thing that I've seen teams really get an aha-experience from, it's visualizing. Simple stuff - just putting your work items on a board, having to talk about how your process actually is laid out or putting a little picture of yourself on every item you're currently working on. Things like that.
 

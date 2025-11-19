@@ -28,7 +28,7 @@ Why did anyone come up with the preposterous idea of using wheels instead of the
 
 Who knows? Someone probably tried square wheels for a while. "I think square wheels will be better than animal hides!" He put them on. And part of the turn of the wheel was easier... but not really. And then someone suggested a round one... Ah, not really maybe - but you see where I'm going with this reasoning I think. They experimented. They saw if it was better (moving stuff faster and easier) or not. If it was better they improved it some more. If not they tried something else.
 
-### Lean and Agile
+## Lean and Agile
 
 Why did Toyota come up with [Toyota Production System](http://en.wikipedia.org/wiki/Toyota_Production_System) (roughly what we Westerners call lean)? Because they were smarter? Because they had someone there to point the way? Because they had a tradition of improvements, etc. (oh, well maybe that in fact...).
 
@@ -62,7 +62,7 @@ loudly, after each of these practices that today are mainstream. Do it as a homa
 - Agile practices
 - Agile practices that only you do in your context that have improved your effectiveness
 
-### More examples?
+## More examples?
 
 I could go on and on. (Please continue to pay tribute to the unsung heroes pioneering respective fields...)
 

@@ -26,7 +26,7 @@ And before I write a word more: this was not my doing. It was the amazing instru
 
 ## Tooling
 
-### Slack - Communication across mobs
+## Slack - Communication across mobs
 
 We were already using Slack for all written communication in the course and we didn't change that during this week. `Shrink the change` is a great tip for sticky change that I picked up in the [amazing book Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) and keeping Slack around was a good example for that.
 
@@ -103,26 +103,26 @@ There's a lot written about [remote mob programming in this book](https://www.re
 I'll let them show how it works:
 
 ```bash
-# simon begins the mob session as driver
+## simon begins the mob session as driver
 simon$ mob start 10
-# WORK
-# after 10 minutes...
+## WORK
+## after 10 minutes...
 simon$ mob next
-# carola takes over as the second driver
+## carola takes over as the second driver
 carola$ mob start 10
-# WORK
-# after 10 minutes...
+## WORK
+## after 10 minutes...
 carola$ mob next
 simon$ mob start 10
-# WORK
-# After 6 minutes the work is done.
+## WORK
+## After 6 minutes the work is done.
 simon$ mob done
 simon$ git commit --message "describe what the mob session was all about"
 ```
 
 That works nicely but in all honestly, none of our mob felt the need for it.
 
-#### Visual Studio Code Live Share
+### Visual Studio Code Live Share
 
 This [add-on to Visual Studio Code is quite amazing](https://visualstudio.microsoft.com/services/live-share/) and allows you to share your Visual Studio Code window with other easily. You can even expose ports on your server to others so that you can view running sites etc.
 

@@ -44,7 +44,7 @@ It's the last lane of our board. We have two other lanes for other things we nee
 
 ![Improvement Lane](/img/improvment_lane.jpg)
 
-### Explanation
+## Explanation
 
 - **What:** We write what we are trying to change. We only do one improvement at a time and try to finish it within 2-3 days. If not, we break it down further.
 - **Why:** The rationale for the change. Why did we think this was a good idea?

@@ -31,7 +31,7 @@ My game plan was pretty easy:
 3. Loop over all the repositories and add the `LICENSE` file to each of them
 4. Add and commit to git and then push to the remote repository
 
-### Create a static license file
+## Create a static license file
 
 I went to [Choose A License](https://choosealicense.com) , picked an [appropriate license](https://choosealicense.com/licenses/mit/) and create a file out of that text. I ensured to update it with our company name.
 

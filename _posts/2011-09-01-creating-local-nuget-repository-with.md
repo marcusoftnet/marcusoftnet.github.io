@@ -17,7 +17,7 @@ Sometimes, you need to install several packages into a project. For example, whe
 
 If you want a package that includes your or your company’s preferences, and is not necessarily suitable for publishing to NuGet.org, here’s how to create a local package with dependencies only.
 
-### Strategy
+## Strategy
 
 Our approach is to create a package that contains only dependencies—no code—and store it in a local NuGet Repository.
 

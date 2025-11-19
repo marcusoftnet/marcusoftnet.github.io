@@ -17,7 +17,7 @@ The last couple of days I've run into a lot of expressions, true-isms and proble
 
 Yes, I know that it first feels a bit scary and unachievable, but in this blog post I'll try to show you a couple of things that make that strive worthwhile. I think.
 
-### Continuous Delivery?
+## Continuous Delivery?
 
 ![Continuous Delivery](http://www.industriallogic.com/wp-content/uploads/2011/04/continuousDelivery_big_None.jpg)
 

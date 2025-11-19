@@ -19,13 +19,13 @@ In this post I will instead acknowledge the fact that we are going to automate a
 
 In this post, I will examine those different approaches and suggest one way that I’ve found very useful to further handle the brittleness of a webpage.
 
-#### What was the problem now again?
+## What was the problem now again?
 
 The problem with testing against a web page is that those tests tend to be brittle. This has to do with the web page (or other GUI for that matter) being one of the parts of a system that changes a lot. There are ways to [cushion the blow from that a bit](https://www.marcusoft.net/2012/05/specflow-page-objects-and.html), but it’s still a reality that we have to live with.
 
 In this post, when I write automation code I mean the code that actually automates the browser, however well encapsulated and well-structured it might be. Somewhere you still have to hit the web page and find the control.
 
-#### Using position and order
+### Using position and order
 
 Both of these are not a very good idea. This means that you need to change the automation code if a new element is added in the hierarchy of elements, or even if it’s displayed in another place. We don’t want that – we can do better!
 

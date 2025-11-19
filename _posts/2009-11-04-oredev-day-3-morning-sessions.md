@@ -12,13 +12,13 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-6851193783892192301
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-3-morning-sessions.html
 ---
 
-##### Accomplishing More by Doing Less
+## Accomplishing More by Doing Less
 
 The day began with a keynote by Marc Lesser on “Accomplishing More by Doing Less.” This session revisited some concepts from Monday’s talk, offering a clearer and more concise understanding. It was a valuable refresher.
 
 A standout quote was: *“Find the One who is not busy”—whether that’s in yourself, a higher power, or something else that resonates with you.*
 
-##### Scrum – Why It’s So Hard to Implement
+### Scrum – Why It’s So Hard to Implement
 
 Jens Ödegaard’s talk addressed the challenges of implementing Scrum. It was reassuring to see that my struggles were not unique. Key takeaways included:
 
@@ -32,7 +32,7 @@ Jens Ödegaard’s talk addressed the challenges of implementing Scrum. It was r
 
 The presentation’s conclusion was much stronger than the beginning, which covered basic concepts. I would have liked more depth on the practical aspects.
 
-##### eXtreme Programming in Practice
+#### eXtreme Programming in Practice
 
 Neal Ford delivered a compelling session on eXtreme Programming (XP). Highlights included:
 

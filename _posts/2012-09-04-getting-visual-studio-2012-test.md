@@ -33,7 +33,7 @@ That's quite easy. You go to Tools -> Extensions and Updates and search the Visu
 
 When that is installed I was again happy to see that Visual Studio picks up my SpecFlow specifications and I can run them from the test explorer.
 
-### But wait, there is more
+## But wait, there is more
 
 When I started to use the Test Explorer I found a couple of nuggets in there too, for us SpecFlow-users:
 

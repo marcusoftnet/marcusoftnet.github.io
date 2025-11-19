@@ -22,7 +22,7 @@ After spending a couple of hours with Albert, I started to recognize the persona
 
 I think this is a really good exercise, and in this short post, I'll show you a couple of things that I noticed and that were very eye-opening for me.
 
-### How to Run This Exercise
+## How to Run This Exercise
 
 The whole thing is quite simple. Get a Lego model that you and a kid you have close to. I did this with my own kids, but you can "borrow" one. Just ask permission or it all ends up strange and a bit criminal :). Below I named my son "the kid".
 
@@ -32,7 +32,7 @@ Now, the most important part, is that you afterwards reflect on your behavior. W
 
 What felt good? What felt bad? When did you have the most fun? When did you see progress in how the kid acted and understood? What did you say to reach that point? And other questions like that.
 
-### My Reflections
+## My Reflections
 
 ![Building Lego](/img/2014-06-23+09.43.19.jpg)
 

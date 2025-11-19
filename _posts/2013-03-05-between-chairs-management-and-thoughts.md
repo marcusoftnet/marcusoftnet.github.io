@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2013/03/between-chairs-management-an
 
 At my current client, we have split our teams into five smaller (8 people) teams. [I wrote about that process before](https://www.marcusoft.net/2013/01/team-marketplace-how-we-splitted-big-40.html), if you want to read about that. One of the big concerns that people have had after the split is how we make sure that we don't miss stuff that "falls between the chairs" for these teams. I think that's an overstated problem, but we sat down together and, as always with [great people that care](http://gojko.net/2013/02/13/the-february-revolution/), a good solution came out. This post shows our findings, and I'll try to unfold my thinking on why I thought the problem is overstated as well. Since we're now brushing on business-critical strategies, I need to keep this post fairly general. I'll try my best to make it understandable.
 
-### The Problem
+## The Problem
 
 My client now has five different teams that have separate backlogs and work towards realizing strategically important initiatives for the company. The teams are working on main features of the site, such as Search, User Management, and Product.
 
@@ -25,7 +25,7 @@ The problem up to now is that the people who come up with these suggestions don'
 
 We stand the risk of ending up in a place where we are only doing "miscellaneous" stuff, and the teams are at risk of jumping from task to task. This defeats the purpose of the teams, which were created to be able to work on big chunks from their backlog without being disturbed by minor items. Still, people out there need help...
 
-### The Solution
+## The Solution
 
 ![Between the chairs](/img/between+the+chairs.JPG)
 

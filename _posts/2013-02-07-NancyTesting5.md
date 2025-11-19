@@ -33,7 +33,7 @@ As the tradition calls - let's look in wonder at Nancy's silhouette. If you came
 
 In this post I'll introduce you, short - very short, to [Specification by example](http://www.specificationbyexample.com/) and [SpecFlow](http://www.specflow.org/) and some practices that make automating your application ... bearable.
 
-### Specification by example and SpecFlow
+## Specification by example and SpecFlow
 
 [Specification by example](http://www.specificationbyexample.com/) is a way to analyze how your application should behave, by posing concrete examples. You do this together with the business or client in order to understand what they need. By doing so, you can come up with a solution that is more in line with what they have envisioned. You're increasing the possibility that you are building the thing **right**.
 
@@ -60,7 +60,7 @@ Summing up, this simply means that each row, or step, in your .feature-files, th
 
 SpecFlow has excellent support in Visual Studio and is completely free.
 
-### Maintainable test code and Page wrappers
+## Maintainable test code and Page wrappers
 
 When I first heard about specification by example I, like many others, wanted to automate as much as possible. And that's a good idea - surely you'd want your specifications to be run against as big a part of the system as you possibly can.
 

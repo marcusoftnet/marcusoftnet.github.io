@@ -19,13 +19,13 @@ This week started a bit late due to a public holiday, the Hindu new years celebr
 
 [Last week](https://www.marcusoft.net/2014/03/team-yayasan-week-4-throughput-and-lead.html) we were a bit confused about the lead times and throughput. Sure enough this week we did some more items, due to the ketchup-effect of doing to big items. We are continuing to track both the lead time per size (S, M and L) and the number of items (or each size) that we are completing per week. It's still a little too little data to draw any conclusions but we are confident that with this data tracked we will soon start to understand our work.
 
-### Retrospectives
+## Retrospectives
 
 Today I told the team that the little sessions where we stop and think how we can improve are called retrospective. They all went: OK, who cares? which was exactly what I suspected and wanted. The name and format really doesn't matter. That you do [stop up and reflect on how you can improve regularly does matter!](http://zuill.us/WoodyZuill/2014/03/31/to-me-this-is-agile/)
 
 The retrospective today, 2 days delayed due to Hindu public holiday and not all people being office, was particular interesting. We rather have everyone there than do it on a certain date. But we hold a improvement meeting every week.
 
-### The Todo-stage
+## The Todo-stage
 
 This weekend we had a meeting we all the leaders of our customers, the directors of the hospitals. From that meeting came a flood of small tasks that we needed to address; write PMs, check on status for projects, help people start using tools etc. etc. So we saw a need to do something about our board structure.
 

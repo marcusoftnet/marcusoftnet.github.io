@@ -19,13 +19,13 @@ I recently had a wake-up call when I realized that some of my fundamental though
 
 My ideas aren't groundbreaking; they simply prioritize producing value for someone, often referred to as "the customer." This customer could be anyone benefiting from our work, including ourselves. Value isn't solely monetary; it encompasses any positive impact, even personal well-being.
 
-### Why Are We Here?
+## Why Are We Here?
 
 For me, the question of purpose underpins everything we do. Though we may have various reasons for being in a workplace, the primary goal is to produce value. This aligns with the Salvation Army's ethos: "Others!" We're here to serve someone, whether external customers or colleagues.
 
 Understanding value is crucial. It's not just about profit but encompasses any benefit our actions yield. Reflecting on how our work impacts the customer and striving for improvement is essential.
 
-### Small and Fast
+## Small and Fast
 
 I advocate for delivering value swiftly and incrementally. Small, frequent deliveries enhance learning and build trust with customers. Progress, even in modest increments, demonstrates commitment and keeps momentum.
 

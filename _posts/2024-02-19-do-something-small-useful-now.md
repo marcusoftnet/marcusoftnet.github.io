@@ -28,7 +28,7 @@ Born in 1920 he was at his peak when programming and computing really took off a
 
 Yes. ASCII. The man invented text, friends. Sit down and listen.
 
-### About the motto
+## About the motto
 
 The motto is brilliant in how it is written and what it means. It's a kind of [LISP](<https://en.wikipedia.org/wiki/Lisp_(programming_language)>), as far as I understand:
 

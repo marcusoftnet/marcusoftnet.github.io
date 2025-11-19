@@ -16,9 +16,9 @@ This is the third post in a short series on how <a href="http://twitter.com/#!/m
 
 With this post I wanted to do some reflections on how the introduction of Kanban took hold for the teams and also what Morgan and me learned in the process. We are used to do this for IT-projects and teams working with system development or maintenance.
 
-#### Reflection on the result for the teams
+## Reflection on the result for the teams
 
-##### First week
+### First week
 
 The immediate and positive responses from the group was reactions like:
 
@@ -40,7 +40,7 @@ One of the more interesting signs of that was that they spontaneously started to
 
 Also it was great to see them starting to collect statistics for what had been completed each day. One team left that on the board to “feel good about themselves” and then put it into a binder for later processing. We have suggested a simple <a href="http://en.wikipedia.org/wiki/Control_chart" target="_blank">SPC diagram</a> for starters to track progress and deviations.
 
-##### Second week
+#### Second week
 
 The second week the focus has not been great. We tried to urge both teams to do a retrospective on how to improve their process and work but that was down-prioritized. To which Morgan said (love this): “If you gained 25% effectiveness – why not re-invest 5% of that time in improving your further work”
 

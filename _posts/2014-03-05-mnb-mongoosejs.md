@@ -63,7 +63,7 @@ The callback checks for errors and returns success or failure via two methods I 
 
 That's quite a lot of code you say. The good news, I respond, is that the model only needs to be declared once. And the rest of the operations you need (finding, updating, removing, etc.) look very similar indeed.
 
-### Testing Mongoose
+## Testing Mongoose
 
 Testing Mongoose is pretty straightforward. If you can live with "integration"-tests that is. As I'm a recently converted C# developer doing JavaScript mostly now I find myself searching for concepts and implementations that I maybe shouldn't be looking for.
 
@@ -79,7 +79,7 @@ Hitting the database with Mongo and Mongoose is really, really fast. Mocha is re
 
 However that means cleaning stuff up before and after your tests, since you cannot guarantee the order the tests are run in. Here's an example test of adding a post.
 
-### ORM or Data Access framework?
+## ORM or Data Access framework?
 
 Ok, so why did I dismiss this awesome framework the first time around? Because I didn't even think about an ORM, I just wanted data access. For a number of years I've just used very [simple tools](https://github.com/markrendle/Simple.Data) and shied away from the complex as much as I could. When I saw that I needed to create a model, and that Mongoose hid all things Mongo from me... I was a bit hesitant.
 

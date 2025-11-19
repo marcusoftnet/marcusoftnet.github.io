@@ -56,7 +56,7 @@ For example, asking if everyone has something to do, in your daily standup, is n
 
 Speaking of examples - here are two examples that I often come back to when I talk about this.
 
-### Example 1 - Waiting
+## Example 1 - Waiting
 
 I once visited a team that had a really bad reputation for being slow. It was a support team, and they "took forever to get something done." The first thing we did was to visualize their process and added their current work item into the different stages of their workflow.
 
@@ -80,7 +80,7 @@ Sadly, I have no solutions for you here. Your knowledge about your process is mu
 
 How about going over to the guy that you are waiting for when you're done and ask how you two together can take this to the next step? Or tell him that you are now finished with "Do stuff 1" and that he can call you back when you can continue with "Do stuff 2"? Maybe you could do what's done in "Wait for others" yourself for certain work items?
 
-### Example 2 - Toyota
+## Example 2 - Toyota
 
 One of the things that really fascinates me about Toyota is their vision (something like "future of mobility, enriching lives around the world") and that they aim to accomplish that through focusing on one-piece-continuous-flow. That is just mind-blowing to me. Toyota's vision is **not** to sell X million cars. It's to have a smooth flow in their process.
 

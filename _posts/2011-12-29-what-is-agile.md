@@ -32,7 +32,7 @@ So, I dodged that presentation.
 
 But the question lingered, bothering me like a knitted Christmas stocking from grandma. Later in the autumn (or rather winter), I got another opportunity, and this time I took the chance to sort my thoughts on the matter. In this post, I’ll share my reflections. Yes, sorry for the long post – it’s essentially a 45-minute presentation, now in writing.
 
-### Shu Ha Ri
+## Shu Ha Ri
 
 I read an excellent book called [Coaching Agile Teams by Lyssa Adkins](http://www.coachingagileteams.com/), which introduced me to the martial arts concept of [Shu Ha Ri](http://en.wikipedia.org/wiki/Shuhari). This concept describes the phases of learning new skills:
 

@@ -32,13 +32,13 @@ Kanban allows us to always say "Yes." By doing less simultaneously, each item co
 
 WIP limits focus on discussion triggers, enhancing flow and preventing overload.
 
-### Limit WIP doesn't mean less work done
+## Limit WIP doesn't mean less work done
 
 Limiting WIP sets a cap on simultaneous work, not total output. It helps work flow faster and manage more items concurrently.
 
 Externally, stakeholders prioritize features and quality, not WIP limits. They want results quickly and reliably.
 
-### Conclusion
+## Conclusion
 
 WIP limits aren't strict rules; they spark discussions and improve workflow.
 

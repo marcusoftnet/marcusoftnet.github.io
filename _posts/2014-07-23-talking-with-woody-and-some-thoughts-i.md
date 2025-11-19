@@ -19,9 +19,9 @@ Let me, as a side note, just say that I love that; just exchanging stories with 
 
 I just thought I summarize some of the things that I took away with me from our conversation.
 
-### It was never about the estimates, really
+## It was never about the estimates, really
 
-#### Tell me what you want, what you really really want! I wanna wanna wanna ... an estimate?
+## Tell me what you want, what you really really want! I wanna wanna wanna ... an estimate?
 
 Woody is the man behind <a href="http://zuill.us/WoodyZuill/category/estimating/" target="_blank">#NoEstimates</a> among other things. This has proven a **highly** controversial topic and I have from time to time refrained from talking about it... out of fear or at least tiredness of being bashed about this on Twitter and elsewhere.
 
@@ -29,7 +29,7 @@ A few things to note about \#NoEstimates, only speaking from my own experience, 
 
 I never heard about a customer, you know the guy who are paying our bills, thanking anyone for the awesome estimate. We (think we) need them to do our work, but that also mean that we can change that. Since it's nothing that the customer wants we could do less of that and more of the things that the customer do wants.
 
-#### Processes are always only best so far
+### Processes are always only best so far
 
 Secondly, this goes for *anything* we do. The customer doesn't want requirements, plans, standup, tests or even the code. The customer wants a problem solved. All the things we are doing to solve the problem for the customer is just "best so far" and we should change it as soon as we are creative enough to look outside our current understanding.
 

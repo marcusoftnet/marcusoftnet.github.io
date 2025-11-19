@@ -12,7 +12,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-sessio
 
 You could call the last session my first “sprint demo.” What happened was that I could finally see where this was going. As the Product Owner, I was not happy – I couldn’t even yell at the team (also me) because the result was quite poor.
 
-### What Went Wrong
+## What Went Wrong
 
 Firstly, I was not happy that certain actions were only available to specific roles (e.g., “As Product Owner,” “As Scrum Master”). I want the Sprint Planner Helper to be open and useful without hindering you with role checks.
 

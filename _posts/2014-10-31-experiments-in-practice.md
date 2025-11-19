@@ -85,6 +85,6 @@ I wrote "No significant increase in customers" in "What is failure"-column I cre
 - Me: "Who is nervous?"
 - Them: "Not me - it's just an experiment!"
 
-#### Summary
+## Summary
 
 I will keep you posted on the progress, but I can tell you that this totally changed the way we saw this "project". It's just an experiment. We can afford to be wrong.

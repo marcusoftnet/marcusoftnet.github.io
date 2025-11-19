@@ -27,7 +27,7 @@ Man – that looked long! But most of them are small. Just imaging how much bett
 
 Here we go.
 
-### Remove unused stuff
+## Remove unused stuff
 
 OK – I love the [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/scaffold-your-aspnet-mvc-3-project-with-the-mvcscaffolding-package/) ideas but, as I [wrote here](https://www.marcusoft.net/2011/01/tdd-and-scaffolding.html), I’m having some trouble with the code it’s generating. In this case – I’m not even sure that I will need all the views and controller methods. Maybe I would have been better off by just generating the repository.
 

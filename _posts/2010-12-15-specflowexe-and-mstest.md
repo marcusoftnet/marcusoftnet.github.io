@@ -17,7 +17,7 @@ With your [SpecFlow](http://www.specflow.org/) installation comes SpecFlow.exe, 
 
 In this blog post, I want to show you two things: how to generate MsTests from your .feature files and how to create a report from the generated results. Finally, I'll show you how to put the two together and link it up to a nice "External tool" button in Visual Studio. Here we go:
 
-### Generate MsTests from your .feature file
+## Generate MsTests from your .feature file
 
 With this step, you can generate the tests from your scenarios. SpecFlow.exe picks up your [configuration](https://www.marcusoft.net/2010/12/appconfig-for-mstest-and-specflow.html) and generates the test in your test framework of choice. Using the “help” command of SpecFlow.exe, “specflow help generateAll produces this help:
 

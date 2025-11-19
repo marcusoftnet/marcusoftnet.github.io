@@ -19,13 +19,13 @@ By using [Koa's own examples](https://github.com/koajs/examples/) I will show yo
 
 <!-- excerpt-end -->
 
-### Middleware
+## Middleware
 
 The first thing to understand is that Koa is very modular. "Ok, got it", you think. "No", I answer, "**very** modular! The bits are tiny." So a Koa application is to a large extent made up by middleware you include, that is not included per default. The list of [middleware is quite staggering](https://github.com/koajs/koa/wiki) and will quite some time to learn and take in. Luckily you don't have to learn all of them, and they are so tiny that they one-by-one is not a problem.
 
 You should also check out the [co-project](https://github.com/visionmedia/co) that provide generator/yield style access to a [VAST amount of features and scenarios](https://github.com/visionmedia/co/wiki). [Co-monk](https://github.com/visionmedia/co-monk) is just one example, that we saw in the [last post](https://www.marcusoft.net/2014/03/koaGenYield.html) and will meet again later in this post.
 
-### Examples
+## Examples
 
 I wanted to take a look at some of the [examples Koa Js](https://github.com/koajs/examples/) provides and make some comments. [Clone the repository](https://www.marcusoft.net/2014/02/mnb-git.html) and follow along. My plan is that these examples will prove useful for me and you as we start to build real things.
 
@@ -33,7 +33,7 @@ Yes, I have copied the example files out to separate gists. This is because I do
 
 There's [one package.json](https://www.marcusoft.net/2014/02/mnb-packagejson.html) for all the examples, which is awesome because that means that we can do `npm install` in the root and get all the examples. All examples must be run with the `node --harmony` flag, [as described earlier](https://www.marcusoft.net/2014/03/koaintro.html).
 
-#### Blog
+### Blog
 
 The first example that I recommend that you look at is the /blog example. Head into that directory and fire the site up (with `node --harmony index.js` or better yet `nodemon --harmony index.js`). Most of the action goes on in the single index.js file:
 

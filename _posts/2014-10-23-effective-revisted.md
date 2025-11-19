@@ -45,13 +45,13 @@ Very few would say:
 
 For a deeper treatment about the differences, see this [post by Staffan Nöteberg](http://blog.staffannoteberg.com/2014/06/12/efficiency-productivity-and-effectiveness/).
 
-### You're a Running Expert Now? What Does This Have to Do with Us?
+## You're a Running Expert Now? What Does This Have to Do with Us?
 
 In many organizations, we are not in agreement about the goal—the vision that I've blogged about recently. And many organizations are trying to optimize our efficiency.
 
 Let me give you a couple of examples:
 
-### IT Development at an Insurance Company
+## IT Development at an Insurance Company
 
 ![Programmer ink](/img/computer_programmer__ink_by_doctormo-d5q4fm1.png)
 
@@ -59,7 +59,7 @@ At one big company I was consulting at, the time from idea for a new software fe
 
 In fact, a lot of the time was waiting time, decided on beforehand by schedules because we only deploy 4 times a year. It's right there. In our IT policy.
 
-#### What Is the Goal in This Case?
+### What Is the Goal in This Case?
 
 Software exists to solve a problem for a user. Until it's used, software is truly useless, to use the wise words of [Woody Zuill](http://zuill.us/WoodyZuill/2012/09/16/agile-maxims-presentation-at-agile-open-socal-2012/), and the [agile manifesto principles](http://agilemanifesto.org/principles.html). The goal is to have the software used by users. To become "more effective" would mean to give the users more usable code faster.
 

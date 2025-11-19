@@ -12,7 +12,7 @@ thumbnail: /img/Screen+shot+2010-10-15+at+12.34.49.png
 
 Marcus Hammarberg embarks on an exploration of outside-in development with SpecFlow and ASP.NET MVC. In this narrative, he shares his journey from initial project setup to the implementation of specifications-driven code.
 
-### Setting the Stage
+## Setting the Stage
 
 Excited about the opportunity to apply outside-in development practices to a real project, Marcus enters the office, ready to tackle the challenge. His project manager, Tobias, assigns him a task to extract tasks from the database to kickstart their learning journey.
 

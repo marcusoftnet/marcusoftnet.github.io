@@ -29,7 +29,7 @@ All these questions and the feeling of "why, on the earth did they call me?" was
 
 So I'm going to write a book!
 
-### Now what?
+## Now what?
 
 Two thoughts now came over me; firstly the [impostor syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome) - who am I? People who are very knowledgeable about Kanban will read this and critique it.... Secondly - given what I talked with Mike about if I just wrote down the things that me and [Joakim Sundén](http://www.joakimsunden.com) have been presenting numerous times it will be the book right there.
 

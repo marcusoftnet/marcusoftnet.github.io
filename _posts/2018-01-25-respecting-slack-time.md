@@ -23,7 +23,7 @@ Slack, in this context, is the time you get when you actually don't have anythin
 * You arrived at the bus stop just to see the bus leave. Time to wait.
 * The work that you were going to together with your coworker cannot start until she arrives.
 
-### Blocked work and slack
+## Blocked work and slack
 
 Sometimes slack happens due to the way our work works. For example when your work is blocked by others. Let's say that you have a policy of a limit of the number of items you are working on simultaneously (I *hope* you do. If not try it - it will help you). 2 items. No more.
 

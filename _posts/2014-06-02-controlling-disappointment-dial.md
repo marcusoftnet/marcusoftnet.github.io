@@ -33,7 +33,7 @@ Here’s what I said to Albert:
 
 I think he got that. It looked like it anyway. I guarantee that he is smarter than me, but I still have the upper hand intellectually. I’m not sure this particular lesson will stick though.
 
-### Nice story – what does this have to do with us?
+## Nice story – what does this have to do with us?
 
 Ok, ok… fair question. The [future is uncertain](http://www.agilord.com/en/radar/2012/09/dan-north-embracing-uncertainty/). Suck it up. The only thing that we really know is that something that we haven’t thought of will happen, some time in the future. Or as Dan said it in the talk above:
 

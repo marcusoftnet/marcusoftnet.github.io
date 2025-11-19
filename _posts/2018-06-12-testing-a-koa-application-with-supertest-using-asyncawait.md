@@ -23,7 +23,7 @@ To do this we will have to await the call to mongo using monk, then do the reque
 
 I started with a simple `setTimeout` but thought I would something a little bit more real.
 
-### Setup
+## Setup
 
 Create a new directory, I called mine `koasupertestasync` . Enter the directory and set up a `package.json` file using `npm init -y`.
 

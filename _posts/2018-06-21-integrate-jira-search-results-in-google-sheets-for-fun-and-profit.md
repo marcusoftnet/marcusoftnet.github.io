@@ -54,7 +54,7 @@ Resolution is not empty and labels in (roar-subzero-tech)
 
 As I understand more about how we report issues in JIRA.
 
-### With data from other filters
+## With data from other filters
 
 Now considering a case where you have many teams in an organizations; `roar-subzero, roar-counters, roar-reporters, roar-core`, to make a few up. What if I want to see all the resolved tech-items for all of these, but they have different definitions for what a tech item is?
 

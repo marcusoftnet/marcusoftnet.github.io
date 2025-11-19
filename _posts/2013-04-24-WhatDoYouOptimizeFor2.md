@@ -16,13 +16,13 @@ In my [last post](https://www.marcusoft.net/2013/04/WhatDoYouOptimizeFor.html), 
 
 The post received unexpected attention, prompting questions that led me to reflect further. Here are some thoughts and answers to recent discussions:
 
-### Mindset vs Practice
+## Mindset vs Practice
 
 My initial post didn't emphasize the mindset aspect. Coding for change means anticipating future modifications and making them easy. It shifts how we approach coding, focusing on simplicity and adaptability.
 
 Consider a thought experiment: imposing a constraint to rewrite code every few months. How would this change design, coding, testing, and documentation practices? While impractical, it prompts valuable reflections on code flexibility.
 
-### "WHAT WAS CHANGED IN THE GAME SPECIFICATION???"
+## "WHAT WAS CHANGED IN THE GAME SPECIFICATION???"
 
 A question from Reddit referred to a game development scenario where we introduced a new player feature. We adapted our code to accommodate this unexpected change, leveraging existing infrastructure and generic constructs.
 

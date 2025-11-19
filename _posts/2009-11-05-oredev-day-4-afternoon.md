@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-4-afternoon.html
 
 I’m still feeling a bit exhausted from Dan North's previous talk, but now it’s time for some more down-to-earth coding topics.
 
-### Putting the M of ASP.NET MVC with Scott Allen
+## Putting the M of ASP.NET MVC with Scott Allen
 
 [Scott Allen](http://odetocode.com) started by discussing the role of the model in ASP.NET MVC and its intended audience:
 

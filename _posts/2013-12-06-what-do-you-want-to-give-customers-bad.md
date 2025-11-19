@@ -45,7 +45,7 @@ So when we eventually got the visa the immediate reaction was actually "Well... 
 
 Summing up; setting up your process in a Big Bang fashion bootstrap yourself for a series of bad news that eventually will disappoint the customer.
 
-### Another way?
+## Another way?
 
 There must be another way... This cannot be the best we found so far. Sadly, as far as visa-approving-processes goes, I have not a clue on how to improve this. I do know that putting your customer and her needs first, aim to improve and <a href="https://www.marcusoft.net/2013/10/YesITalkAboutChange.html" target="_blank">CHANGE</a> your process is a great way to get started.
 

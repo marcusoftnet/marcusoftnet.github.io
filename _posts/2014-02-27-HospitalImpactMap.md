@@ -25,7 +25,7 @@ I'm now starting to change my mind. Of course, I cannot talk [TDD](https://www.m
 
 In this post I'll describe how we used three (Root cause analysis, Impact mapping, and Limit WIP) of the tools that I've picked up during the latest years to help a struggling hospital director to get a solid understanding and a plan for how to proceed.
 
-### Introduction
+## Introduction
 
 The hospital director is a very young (28?) woman doctor who was promoted because "we had no one else". She has no management training and was given a hospital that is in terrible condition, with a lack of motivation among the staff, and a bleak economical future to say the least.
 
@@ -39,7 +39,7 @@ Yet.
 
 I just wanted to show how we applied the ideas with these tools in a very different domain from what it was first intended for.
 
-### Root cause analysis
+## Root cause analysis
 
 So, where do we start? At first, I thought that was a really hard question to answer. There were so many problems. But then I came to think about [Root Cause Analysis](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000) and how that from time to time have led me to see how problems are related to each other.
 

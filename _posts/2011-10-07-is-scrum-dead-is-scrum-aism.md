@@ -20,7 +20,7 @@ After that short side note, let’s get back to the real thing. After I read the
 
 The rest of this blog post are inspired by Morgan and written by me. Any strange stuff and faults are just my own and any great stuff is probably Morgan.
 
-### It’s Scrum ™ or it’s not
+## It’s Scrum ™ or it’s not
 
 The conclusion section of the Scrum Guide 2011 states (my highlighting):
 

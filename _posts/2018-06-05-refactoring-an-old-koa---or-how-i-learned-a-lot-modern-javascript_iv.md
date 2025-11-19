@@ -25,7 +25,7 @@ In the last post we made significant progress and now have some very modern and 
 
 Keep the test running by doing `npm t` . I notice that sometimes when we rename files or move them mocha can crash so keep your eye out for that and restart the tests if that happens.
 
-### Async / await for our code
+## Async / await for our code
 
 Let's do the same trick as we did for our tests and move from generators and `yield` to `async` and `await`. They are supposed to accomplish the same thing; help us to write asynchronous in a synchronous flow.
 
@@ -49,7 +49,7 @@ const get = async (id) => {
 };
 ```
 
-### This, always this "this"
+## This, always this "this"
 
 Those two `this`-statements that we have in there are bothering me. I want them out - because what `this` do they refer to really, let's make the code more pure functional and take it out…
 

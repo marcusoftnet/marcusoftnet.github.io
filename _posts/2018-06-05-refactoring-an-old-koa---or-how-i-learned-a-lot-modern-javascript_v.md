@@ -31,13 +31,13 @@ We'll tackle this in the same manner:
 
 At least that is the plan. I will only highlight any differences or now problems I ran into as I don't want to repeat what I've already written in the previous blog posts in the series. Hope that is ok with you.
 
-### Get tests to run
+## Get tests to run
 
 The first thing I need to do is to `cd` my way all the way to the top of the application. And I realized that I haven't installed the dependencies for this application, but that is helped with `npm i`.
 
 The first test run (`npm t` ) of course fail in the same manner as before, regarding the `—harmony` flags.
 
-#### Fixing local dependencies
+## Fixing local dependencies
 
 But then the interesting stuff started. Because this application uses local reference in the `package.json` file like this: `"AddressAPI": "file:./apis/address"`
 
@@ -56,7 +56,7 @@ Luckily this is not hard, although boring to fix:
 
 Rerun the tests and we can build our app. Great!
 
-#### Fix failing tests
+### Fix failing tests
 
 The tests are failing due to [some funky yield-issue](https://stackoverflow.com/questions/30457200/when-should-i-use-yield-and-when-yield-with-koa-js). Knowing that I will update this soon anyway I'm going to update all the packages to the latest version:
 

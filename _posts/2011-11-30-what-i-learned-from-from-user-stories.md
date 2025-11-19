@@ -16,7 +16,7 @@ I've just returned home from a course, marking my first training in over a year.
 
 Though it's impossible to capture all the insights from two days of learning, I want to highlight the key takeaways and main points that stood out for me. As someone well-versed in BDD and Specification by Example, my goal was to gain practical tips on managing the early stages of specification, focusing more on the practicalities than the theoretical aspects.
 
-### Communicating with Examples
+## Communicating with Examples
 
 We began with a simulation of a Black Jack game to explore the pitfalls of traditional testing approaches. Our group fell into common traps: poor communication, lack of customer involvement, and a focus on implementation details rather than business value. We quickly realized that traditional methods could lead to misunderstandings and inefficiencies.
 

@@ -129,7 +129,7 @@ IMPORTRANGE gives us a range. And QUERY operates on a range. And now we know how
         IMPORTRANGE(URL1, "TestDataAggregation!B2:O38");
         IMPORTRANGE(URL2, "TestDataAggregation!B2:O43");
         IMPORTRANGE(URL3, "TestDataAggregation!B2:O41")
-    }, 
+    },
     "SELECT Col1 WHERE Col1 <> 'Mob average' AND Col1 <> 'Mob Average'"
 )
 ```
@@ -145,7 +145,7 @@ I've formatted this for readability (pro tip: this can be entered like this usin
     * Since IMPORTRANGE might get its data from different named columns we need to use the `Col1, Col2, Col3` syntax. This is highlighting the only drawback I've noticed with the QUERY-function; reordering the columns will mess up queries.
     * I then filter out all rows where `Col1` (where the name of the developer or the string 'Mob Average' is stored) is `'Mob average'` or `Mob Average`... Spelling and casing - gets me every time.
 
-And that is a wrap - we now get the data from 3 different sheets combined into one big range.  
+And that is a wrap - we now get the data from 3 different sheets combined into one big range.
 
 ## Calculating and charting the entire population
 

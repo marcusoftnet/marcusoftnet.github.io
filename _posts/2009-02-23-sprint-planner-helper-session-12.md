@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-sessio
 
 Today, I started off with some refactoring of the code from yesterday. The ASPX page had some pretty ugly code that I've now cleaned up by adding properties to the domain model.
 
-### Progress on Product and Backlog Functionality
+## Progress on Product and Backlog Functionality
 
 I began working on adding functionality for the Product and the product backlog. This immediately led to some trouble as I realized I needed a list of product owners to populate the form. This meant more test data and repositories were needed.
 

@@ -19,7 +19,7 @@ But tests against the GUI can be brittle, that part of the application is the on
 
 This post is about using the Page Object pattern that can help you handle this brittleness as well as structuring your test code in a nice, maintainable way. That in turn will help us to place code in the right place – which I like. Some guidelines, if you like.
 
-### Inspiration
+## Inspiration
 
 I have of course not invented this by myself, but rather been inspired by thoughts from the Ruby on Rails community. Actually (as a side note), during the last year I have learned a LOT from reading, watching, and looking towards the Rails community. Those guys are way ahead of us (in the .NET community) and we can learn much by “stealing” from them.
 

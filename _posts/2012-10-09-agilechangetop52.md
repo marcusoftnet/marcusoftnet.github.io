@@ -21,7 +21,7 @@ This is the list - in order of importance:
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
 5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
-### 2 - Sit Together
+## 2 - Sit Together
 
 Now that I've got your attention from the last scary post... We turn to a much much simpler thing. But it's still super-important, entering number 2 on my top 5 change tricks.
 

@@ -12,11 +12,11 @@ tags:
  - Life of a consultant
 ---
 
-### RE-POST FROM CODEBETTER
+## RE-POST FROM CODEBETTER
 
 I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving [my post from there](http://codebetter.com/marcushammarberg/2013/08/13/some-tools-for-improved-focus-improve-teamwork-and-faster-delivery/), here to my site.
 
-### Original post
+## Original post
 
 At one of the teams I’m coaching right now at [Tradera](http://www.tradera.se/) (Swedish Ebay-branch) we are experimenting with increasing our focus on delivering completed work. We have had a big goal (technical upgrade of the complete site in a very short time) and there’s been some challenges to get the focus and team working together, towards this goal.  Which has led us to try to experiment with some new practices and visualizations (board and backlog etc) and is summed up with a new question that we ask ourselves at our daily standups (you’ll find it under the Daily Standup heading if you’re in a hurry :)).
 

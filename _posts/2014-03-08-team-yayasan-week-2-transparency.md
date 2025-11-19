@@ -21,7 +21,7 @@ Speaking of that, I got a comment about being this transparent with our work and
 
 The last blog post got attention and that scared us at first. Dare we write what's really happening? Yes - this will be our experiences, as they happen. It's just us. But I think and hope that it will be interesting to follow.
 
-### Team Yayasan
+## Team Yayasan
 
 We left the board as it was on the Friday and started the week by reminding ourselves about what we talked about on the retrospective:
 
@@ -71,7 +71,7 @@ And to my joy and surprise one of the team members said, without missing a beat:
 
 Told you this was an awesome team!
 
-### Transparency and culture
+## Transparency and culture
 
 I cannot pass this week without mentioning something about culture and how we hit some walls during the week. We, Team Yayasan, have Transparency as our guiding star and try to strive for more transparency (within the Salvation Army I might add, we're not exposing ourselves outwards... oh well this blog maybe then). This is news and very scary to a lot of people around us.
 

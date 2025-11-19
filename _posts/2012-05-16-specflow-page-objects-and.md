@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2012/05/specflow-page-objects-and.ht
 
 I’ve been putting together a sample for my client on how to automate against a web page. The purpose is to show how the tools are used and give a starting ground for training and elaboration. When I was done I realized that this could be useful for many – so here is my story on how I set this up, problems I’ve ran into and solutions to them and [the code](https://github.com/marcusoftnet/SpecFlowAndFluentAutomation). Please join me on the journey!
 
-### Why test against the UI now again?
+## Why test against the UI now again?
 
 The first thing to notice that testing against the UI is not the best thing you can do. There’s an excellent [article on that by Gojko Adzic here](http://gojko.net/2010/04/13/how-to-implement-ui-testing-without-shooting-yourself-in-the-foot-2/). But sometime you don’t have much choice, the application may not be in shape for writing tests against a level under the UI, or you don’t have access in (or knowledge about) the code base. In these cases UI testing can be thought of as black box testing, you don’t need to know the internals of the application, and can be useful. The pros of testing against the UI are (IMHO):
 

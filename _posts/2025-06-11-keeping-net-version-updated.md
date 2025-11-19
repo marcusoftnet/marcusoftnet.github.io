@@ -68,14 +68,14 @@ ARCH="arm64"
 SCRIPT_URL="https://dot.net/v1/dotnet-install.sh"
 CHANNELS=("6.0" "8.0" "9.0")
 
-# Add to path for script execution
+## Add to path for script execution
 export DOTNET_ROOT="$INSTALL_DIR"
 export PATH="$DOTNET_ROOT:$PATH"
 
-# Create install dir if needed
+## Create install dir if needed
 mkdir -p "$INSTALL_DIR"
 
-# Function: install latest SDK from a channel
+## Function: install latest SDK from a channel
 install_dotnet_channel() {
   local CHANNEL=$1
 
@@ -90,7 +90,7 @@ install_dotnet_channel() {
   echo "✅ Installed new .NET $CHANNEL SDK ($LATEST_VERSION)."
 }
 
-# Main loop
+## Main loop
 for CHANNEL in "${CHANNELS[@]}"; do
   install_dotnet_channel "$CHANNEL"
 done
@@ -180,20 +180,20 @@ ARCH="arm64"
 SCRIPT_URL="https://dot.net/v1/dotnet-install.sh"
 CHANNELS=("6.0" "8.0" "9.0")
 
-# Add to path for script execution
+## Add to path for script execution
 export DOTNET_ROOT="$INSTALL_DIR"
 export PATH="$DOTNET_ROOT:$PATH"
 
-# Create install dir if needed
+## Create install dir if needed
 mkdir -p "$INSTALL_DIR"
 
-# Function: get latest version from a channel using dry-run
+## Function: get latest version from a channel using dry-run
 get_latest_version() {
   local CHANNEL=$1
   curl -sSL "$SCRIPT_URL" | bash -s -- --channel "$CHANNEL" --dry-run --install-dir "$INSTALL_DIR" --arch "$ARCH" 2>/dev/null | grep -oE '[0-9]+\.[0-9]+\.[0-9]+' | head -n 1
 }
 
-# Function: remove older SDKs from same major version
+## Function: remove older SDKs from same major version
 remove_old_versions() {
   local VERSION=$1
   local MAJOR=$(echo "$VERSION" | cut -d. -f1)
@@ -213,7 +213,7 @@ remove_old_versions() {
   done
 }
 
-# Function: install latest SDK from a channel
+## Function: install latest SDK from a channel
 install_dotnet_channel() {
   local CHANNEL=$1
   local LATEST_VERSION=$(get_latest_version "$CHANNEL")
@@ -237,7 +237,7 @@ install_dotnet_channel() {
   fi
 }
 
-# Main loop
+## Main loop
 for CHANNEL in "${CHANNELS[@]}"; do
   install_dotnet_channel "$CHANNEL"
 done

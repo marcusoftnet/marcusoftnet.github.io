@@ -22,7 +22,7 @@ Dotfiles, denoted by filenames starting with '.', typically contain system and t
 
 For the bootcamp, where many students were new to programming or the platform, utilizing dotfiles provided a standardized and efficient setup process. Moreover, since all students were using identical systems (MacBook Pros), dotfiles proved to be a convenient delivery mechanism, enabling rapid configuration with tools like [HomeBrew](https://brew.sh/).
 
-### Tool Highlights
+## Tool Highlights
 
 Take a glance at [this file](https://github.com/saltsthlm/jsfullstackdev-dotfiles/blob/master/Brewfile) for a comprehensive list of tools installed. Some notable ones include:
 

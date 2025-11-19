@@ -22,7 +22,7 @@ Have no fear! [Mr. Rendle](http://twitter.com/#!/markrendle) has set us up with 
 
 In this blog post, I want to show you a couple of ways to write unit tests that don’t hit the database but still use Simple.Data.
 
-### Using the XmlMockAdapter
+## Using the XmlMockAdapter
 
 When you install Simple.Data via [NuGet](http://www.nuget.org/), you might be surprised to find a lot of packages there. There's one for each adapter (supporting 7 different databases and counting), a core package, a sample, and our friend [Simple.Data.Mocking](http://nuget.org/List/Packages/Simple.Data.Mocking). This package installs, according to the description, XML-based mocking for the Simple.Data data access library.
 

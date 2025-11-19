@@ -19,7 +19,7 @@ Being part of this group for a few days made me notice a few rituals and practic
 
 Below I will list a few practices and rituals that we did. First I had an idea of writing something about how to translate this into practices for my "home" industry, IT. But I decided against that. Because I wanted to give you the opportunity to find ways.
 
-### Warming up. Together
+## Warming up. Together
 
 The first thing I noticed and was immediately impressed by was that the section I was in (3 trombones plus me on euphonium) had a common warm-up session the first thing we did in the morning.
 
@@ -33,7 +33,7 @@ I especially love that last part where we, after being properly warmed up, made 
 
 It sounds very sententious but it's really just what happens when you play music together and listen for each other.
 
-### Coming prepared to work
+## Coming prepared to work
 
 One thing that I found very different from other jobs I had was that I had to put in quite a lot of practice on my part of the pieces before we even started rehearsing as a group.
 

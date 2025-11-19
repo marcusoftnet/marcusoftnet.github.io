@@ -17,11 +17,11 @@ I was happy to do that and my "fee" was that I can publish the questions and my 
 
 <!-- excerpt-end -->
 
-### When applying this process how did you educate your customers?
+## When applying this process how did you educate your customers?
 
 If you with customers mean the people downstream from us, receiving the value of our work, I often recommend transparency and small steps. One of the best things with kanban is the first principle of "Start where you are". That means that for starters with don't change a thing - we just make our process more visualized or transparent. This, in turn, would create an open atmosphere and show what is going on.
 
-### What were their main objections, how did you overcome them?
+## What were their main objections, how did you overcome them?
 
 The most common objection is that people downstream from us are not ready to receive smaller batches of work more frequently. For example, they might have release schedules of their own to adjust to.
 

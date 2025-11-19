@@ -22,7 +22,7 @@ blogger_orig_url: https://www.marcusoft.net/2014/10/vision-statements.html
 
 I'm working with vision statements and strategic planning right now. Man, this is an area that is really misunderstood and misused, I think. Also, and that's what this post is about, I think it's deliberately this way in order to get some wiggle room. I don't understand that. We'll get there.
 
-### Definitions
+## Definitions
 
 As always, I've learned a great deal while diving into this area again and here are the definitions that we are using and that I think are clarifying:
 
@@ -31,7 +31,7 @@ As always, I've learned a great deal while diving into this area again and here 
 - **Strategic plan** - How will we get from *where we are today* to the vision?
 - **Business plan** - What kind of actions and resources will our strategic plan require from us? When or in which order are we planning to do the actions?
 
-### What is this good for?
+## What is this good for?
 
 Guidance. If you read this blog you know that I'm not specifically into detail planning. I don't think it's feasible. For one simple reason; the future is unknown. It's really the only thing that we know about it - it will not be exactly how we planned it.
 

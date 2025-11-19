@@ -16,7 +16,7 @@ This is the second post in a series detailing how we assisted some teams at the 
 
 In this post, we'll cover the initial implementation of Kanban boards for the teams and the early reactions to this new workflow system.
 
-#### Setting Up the Kanban Boards
+## Setting Up the Kanban Boards
 
 Together with the teams, we created simple Kanban boards tailored to their needs. We stressed that these boards were not final and should evolve over time. Here’s what we set up:
 
@@ -27,7 +27,7 @@ Together with the teams, we created simple Kanban boards tailored to their needs
 
 With this setup, we let the teams take charge.
 
-#### First Steps and Initial Reactions
+### First Steps and Initial Reactions
 
 The next morning, we observed the following:
 

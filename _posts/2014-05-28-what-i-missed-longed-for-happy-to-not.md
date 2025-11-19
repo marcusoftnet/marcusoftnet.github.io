@@ -24,7 +24,7 @@ After about 5 days I forgot all about it and since then it just been a joy. I re
 
 In this post I will just list the things I have missed, not missed and the reasons for me taking it up again...
 
-### Missed
+## Missed
 
 I missed the quick check ins or possibilities to ask people questions, like "Hey <a href="http://twitter.com/gblock" target="_blank">@gblock</a>, does <a href="http://scriptcs.net/" target="_blank">ScriptCS</a> supports dynamic yet?"
 
@@ -33,7 +33,7 @@ around agile? Have <a href="http://www.koajs.com/" target="_blank">Koa</a> picke
 
 Mostly I've missed talking to people. How is Hugo doing? Did Emma succeed with her plans? Have Tobbe delivered that speech he was working with? Things like that. I missed talking with people.
 
-### Not missed
+## Not missed
 
 I don't miss the stress about checking my twitter stream. I have now decided to do that 3 times a day. 20 minutes max when I get into the office, after lunch and when I get home. I will not install any apps to check social media for me, but will have to go through the "hassle" of opening a browser.
 

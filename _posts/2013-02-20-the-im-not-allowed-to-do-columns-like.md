@@ -40,7 +40,7 @@ This is a mega-change! Most (big) organizations, I have worked with, have a hard
 
 Finally: the columns on a board reflect your process. It's not the people, or at least don't have to be. You could have a cross-functional team pick the item up in the Inbox and then take it through Analytics, System design, Developing, Test, Integration test, Acceptance test and all the way to Production. If you wanted to. Our maybe some parts of that process are done by one role in the team and some by other roles. It's up to you.
 
-### What to do then?
+## What to do then?
 
 Here's my suggestion: *change as little as possible*. Make the board (or whatever you use) reflect **your** workflow. This is a tool for you. Make it work for you not against you. You never heard a carpenter say:
 

@@ -19,7 +19,7 @@ I have now been in Indonesia for about 4 months. There's so many new impressions
 
 In this post I'm planning to tell you a couple of short stories and episodes, to then try to see what this could look like in my "normal", more western culture. I hope it will be interesting and useful.
 
-### Gothenburg Brass Band
+## Gothenburg Brass Band
 
 I had the great privilege to play in the top brass band in Sweden for about 2 years. The height of my musical "career". This was an amateur group in such regard that everyone played in the band on the spare time and nobody got paid. Many of the members were professional musicians (and there we were 4 people who just tried to keep up...) which meant that the standard was super high. Great great fun.
 
@@ -35,7 +35,7 @@ I especially remember before a big concert in New Zealand, 2005. We had 30 min o
 
 Their reasoning was; "there's no real reason doing the hard stuff when we haven't aligned on the simple things, the basics first".
 
-### Indonesian morning gatherings
+## Indonesian morning gatherings
 
 I now work in Indonesia - that's a big change. I also work for the Salvation Army - that's another big change. Every morning we gather the entire office (80 people circa) for a morning prayer. (Stay with me atheist friends, there's nothing particular Christian about this post). The program is simple;
 

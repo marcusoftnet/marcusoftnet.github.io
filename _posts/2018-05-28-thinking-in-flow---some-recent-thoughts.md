@@ -15,7 +15,7 @@ In this post, I'd like to share some recent reflections that have been occupying
 
 <!-- excerpt-end -->
 
-### What Drives Flow?
+## What Drives Flow?
 
 ![Donkey carrying a cart in the air](/img/donkey-in-air-cart.jpg)
 
@@ -45,7 +45,7 @@ What catalyzes this shift? It's evident when examining the picture:
 
 By imposing a work-in-process limit, we instigate a cascade of inquiries focused on enhancing the flow of value.
 
-### The Virtue of Completion
+## The Virtue of Completion
 
 In "Kanban In Action," we champion one of my favorite mantras:
 

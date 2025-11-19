@@ -32,7 +32,7 @@ I shared what I learned from <a href="https://djaa.com/" target="_blank">David J
 
 And I forcefully answered: "Oh yeah?! But a......eeeh..... yeah, you are correct. Sir."
 
-### What's a little waste really?
+## What's a little waste really?
 
 Because it's true. Standup is not directly adding value.
 
@@ -48,7 +48,7 @@ What this means is that we're first of all focusing on getting value - being eff
 
 Many Lean initiatives goes the other way; eliminate the waste to get better flow to get value.
 
-### What is waste elimination good for then?
+## What is waste elimination good for then?
 
 I think it's important to understand that waste elimination is just a tool to make our process more efficient. But it's not a goal in itself to eliminate waste. The goal is to increase the value that the system is producing.
 

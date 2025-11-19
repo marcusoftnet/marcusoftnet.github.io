@@ -26,7 +26,7 @@ The first strategy has a name that doesn't really roll of the tongue that easy; 
 
 It's easiest to show you with an example; let's update the counters as part as showing the list.
 
-### Get the counters
+## Get the counters
 
 First - let's write a function that makes the counting. I flexed my functional brain and created the following function that will do just that, but using `.map` and `.reduce` (and also looping through the list only once):
 

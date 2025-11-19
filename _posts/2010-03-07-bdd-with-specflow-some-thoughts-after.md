@@ -16,13 +16,13 @@ Last Thursday I facilitated a [Elevate](http://blog.avegagroup.se/elevate/)-work
 
 I wanted to take some time to put down my thoughts and findings about the framework, BDD in general and some other stuff I have ran into.
 
-#### BDD – behavior driven design
+## BDD – behavior driven design
 
 I don’t want to go into [explaining BDD](http://dannorth.net/introducing-bdd) since it's been done [several](http://blog.wekeroad.com/2009/09/21/make-bdd-your-bff-2) [times before](http://blog.stevensanderson.com/2010/03/03/behavior-driven-development-bdd-with-specflow-and-aspnet-mvc/) (I can really recommend the last Steven Sandersson post – excellent!) in a much better ways than I could ever do. Go on and read them if you want – I’ll wait right here.
 
 But I can share some aha-moments and experiences that has surfaced for me when preparing and doing the workshop.
 
-##### It’s not in the tool
+### It’s not in the tool
 
 First, as a colleague told me yesterday: “It’s not in the tool”. First and foremost I think that BDD is a great way to discus and formalize the requirements together with your customer. I know that [Gojko Adzic](http://gojko.net/) has formalized this into [workshops](http://gojko.net/2010/03/03/acceptance-testing-best-practices/) where you flesh out the acceptance criteria together and I really like that idea.
 
@@ -30,7 +30,7 @@ That promotes an [ubiquitous language](http://domaindrivendesign.org/node/132) a
 
 A great way to get hold of behavior is to ask for example scenarios. These fit very well as the scenarios we’re writing when doing our features and scenarios in BDD. That is so much clearer and crisper than sending documents back and forth.
 
-##### Implementing outside in
+#### Implementing outside in
 
 Finally when it comes down to implementing the scenarios you get a nice outside-in approach to your testing. Of course this was where I started. Being a programmer I was eager to see how to use this to write code. And as [you might know](https://www.marcusoft.net/2010/02/specflow-bdd-net-style.html) that was where I started glancing on SpecFlow and BDD.
 

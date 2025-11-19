@@ -23,14 +23,14 @@ I started with a normal PC Lenovo (2.5 Ghz, 4 Gb ram) with a 64-bits Windows 8.1
 This post is pretty scary very very long but the installation is quick. Downloading Ubuntu and installing it it what's takes the most time. With a good internet connection (that I do NOT have), you should be able to complete all of this in under 1 hour.
 Here we go.
 
-### Downloading downloading downloading
+## Downloading downloading downloading
 
 This section will contain a lot of waiting. I've put in some information for you to read in the meanwhile. Here it is in short form;
 
 - Download VirtualBox
 - Download Ubuntu installation media
 
-#### VirtualBox
+## VirtualBox
 
 First we need to get VirtualBox itself. Download the correct version for your host operating system from here.
 
@@ -40,7 +40,7 @@ Your physical computer, aka the host environment, is where you will run VirtualB
 
 Also way down at end of the downloads page there's a link to a set of prebuilt images. Virtual computers that you can download. I had some problems to get that to work. And downloading them on my **slow** network took forever.
 
-#### Ubuntu install media
+### Ubuntu install media
 
 Let's download Ubuntu installation media. We want the desktop version (although the server version would probably do just fine too). There's some helpful advice on the Ubuntu download page too, as seen on the right.
 

@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2010/11/should-substitutetwo-new-gre
 
 Recently, I discovered two fantastic frameworks that have significantly improved my test code: `Should` and `NSubstitute`.
 
-### Should I? Yes – You Should
+## Should I? Yes – You Should
 
 First up is [Should](http://should.codeplex.com/), an assertion framework that enhances the readability and ease of writing assertions. Here’s an example showcasing its capabilities:
 

@@ -21,7 +21,7 @@ This is the list - in order of importance:
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html) (this post)
 5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
-### 4 - Support the initiative
+## 4 - Support the initiative
 
 This should be a no-brainer but once you see it in action it's seldom handled correctly.
 

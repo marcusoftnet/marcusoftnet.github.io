@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-3732020210808748696
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-3-afternoon.html
 ---
 
-### The Fallacy of Efficiency
+## The Fallacy of Efficiency
 
 Dan North delivered an insightful talk on not blindly pursuing efficiency, emphasizing the difference between efficiency (effort expended) and effectiveness (outcomes achieved). His presentation was full of valuable insights and thought-provoking ideas. I hope to share the slides here soon, as it's challenging to summarize his points adequately. Dan North is definitely worth checking out—he's both brilliant and entertaining.
 

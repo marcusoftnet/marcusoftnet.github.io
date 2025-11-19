@@ -26,7 +26,7 @@ I’m using a 64-bit system, so your path may not contain the (x86) part.
 
 Here, you’ll find several zip archives containing the templates. You can modify the EventDefinition, StepDefinition, and (maybe most commonly) the Feature template. All the structure is the same, so you can follow it in the same manner as described below.
 
-### How to Modify the Feature Template
+## How to Modify the Feature Template
 
 1. **Make a copy** of the current template (`SpecFlowFeature.zip`) to be safe.
 2. **Extract** the file in `SpecFlowFeature.zip` to a new folder.

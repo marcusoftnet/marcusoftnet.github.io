@@ -22,7 +22,7 @@ But. Now. I've. Found. A. Solution.
 
 ## More problem
 
-### React-Scripts and Jest
+## React-Scripts and Jest
 
 When you use `create-react-app` it includes some special scripts that encapsulate much of the normal activities, such as starting a development server and running tests. This is done through the `react-scripts` package. For the `react-script test` it is internally calling [Jest](https://jestjs.io/).
 

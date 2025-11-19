@@ -35,14 +35,14 @@ The first thing that I've found immensely useful in scripting things is to make 
 And - make sure that the user ends up in the same directory as they started in. For this I used the following little hack:
 
 ```bash
-# early in the script
-# Store the current directory
+## early in the script
+## Store the current directory
 cwd=$(pwd)
 
 ## DO LOADS OF WORK
 
 ## late in the script
-# Go back to where we were
+## Go back to where we were
 cd $cwd
 ```
 

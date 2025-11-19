@@ -22,7 +22,7 @@ This Sunday I wanted to deploy the first version of it. To [Heroku](http://www.h
 
 For the most part I was impressed over the smoothness and "it just works"-factor throughout the deployment of my application. This [article is a great starting point](https://devcenter.heroku.com/articles/getting-started-with-nodejs) for NodeJs applications and I suggest you read it before you start.
 
-### Setting up Heroku
+## Setting up Heroku
 
 First you of course need to sign up with [Heroku](http://www.heroku.com/), so go ahead and create an account there if you haven't already.
 Locally you need something called the [Heroku tool belt](https://toolbelt.heroku.com/). It's an easy install from their site and then you can read this to get started. The tool belt is basically just a bunch of command line commands that are really powerful.
@@ -37,7 +37,7 @@ The last point was also my first gist. I'll soon come back to it. But I need to 
 
 - `git push heroku [branch]` - remember above where we created the application. This also sets up a [git remote](http://gitref.org/remotes/) for you, aptly named heroku. This is awesome because it means that we can move code to Heroku by a normal git push. If you're new to [git](https://www.marcusoft.net/2014/02/mnb-git.html), have a look here.
 
-#### Error: git push heroku master -> Permission denied (publickey)
+## Error: git push heroku master -> Permission denied (publickey)
 
 I was happy. Everything had gone so great. I had installed and run the Heroku tool belt command. They all worked like a charm. I even started to think that I knew what I was doing. Then I pushed to Heroku for the first time:
 
@@ -50,7 +50,7 @@ Please make sure you have the correct access rights
 
 This was strange. I had ssh-keys in place (if you have not, [read this article](https://devcenter.heroku.com/articles/keys)) since I was using GitHub that used ssh-keys too. But apparently Heroku wanted them to be in special files called "id_rsa" and "id_rsa.pub". I didn't have them. I had GitHub and GitHub.pub. Thank you [StackOverflow](http://stackoverflow.com/questions/17626944/heroku-permission-denied-publickey-fatal-could-not-read-from-remote-reposito).
 
-#### package.json and the engine-node
+### package.json and the engine-node
 
 Oh yeah... almost forgot. I'm of course using [KoaJs](https://www.marcusoft.net/2014/03/koaintro.html) for the app. I got tired of writing nested functions... As you remember Koa needs a version of Node that is later than the current version. You need to tell Heroku that you're planning to use another version of node also, otherwise it will use the latest stable version.
 

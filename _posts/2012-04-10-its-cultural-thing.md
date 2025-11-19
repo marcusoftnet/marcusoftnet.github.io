@@ -18,7 +18,7 @@ This topic has been nagging me for a very long time, a few years to be exact. I 
 
 This blog post is probably just scratching the surface of book length material. Bare with me – I need to get this out now.
 
-### US Marines
+## US Marines
 
 A few weeks a ago I read <a href="http://www.amazon.com/Corps-Business-Management-Principles-Marines/dp/0066619785" target="_blank">Corps Business</a> that is a book about the management principles of the US Marines. I must say that I had my doubts going in. US Marines? Management by screaming and asking people to “drop down and give me 20”?
 

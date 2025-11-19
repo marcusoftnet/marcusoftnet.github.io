@@ -24,7 +24,7 @@ That sounded super scary and challenging, so I naturally accepted. I learned a l
 
 <!-- excerpt-end -->
 
-### Masterclasses as teaching method
+## Masterclasses as teaching method
 
 First of all, I think that approach of helping/coaching an individual or team on stage in front of others works really well as a teaching method.
 
@@ -36,7 +36,7 @@ Without me saying a word about it they naturally understood that the practices I
 
 It's solving my pet hate; focusing on best practices. We don't need the cargo cult of blindly copying a practice that was best in one company, in one context at one time (which is all a best practice is). We can, however, learn a principle through an example.
 
-### Teach principles — exemplify with practices
+## Teach principles — exemplify with practices
 
 Yes, exactly what I said in the paragraph above. I'm very much into teaching principles over practices but in a practice first approach. This creates a problem for me since it's so easy to focus on practices.
 

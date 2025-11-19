@@ -19,7 +19,7 @@ But I also feel "hungry" for work, especially to put my newly acquired skills an
 
 During my leave, I’ve done some reading. I’m proud of reaching many of the goals I set for myself on the [last day of working](https://www.marcusoft.net/2009/01/last-day-new-chapter.html). Here’s a short review of the books I read:
 
-### Clean Code by Robert “Uncle Bob” Martin
+## Clean Code by Robert “Uncle Bob” Martin
 
 [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) was both really good and a bit annoying. It’s a classic with loads of great tips on how to identify bad code ("smells," as Uncle Bob calls them) and what to do about it. There are also some excellent examples.
 

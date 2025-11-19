@@ -21,7 +21,7 @@ I saw the power and simplicity (duh!) in Simple.Data by using dynamics. And I st
 
 This is the third and final post on SpecFlow.Assist.Dynamic. Again this is not the formal documentation. It can be found <a href="https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki" target="_blank">here</a>. These are just my personal preferences and thoughts on how to use it. This time with `Simple.Data`. And it won’t be long.
 
-### SpecFlow and Simple.Data
+## SpecFlow and Simple.Data
 
 First you should check out Darren Cauthon's <a href="http://darrencauthon.posterous.com/61641417"
 target="_blank">post</a> on using SpecFlow and simple data together. It shows the great use of a lightweight, simple data access framework in SpecFlow.

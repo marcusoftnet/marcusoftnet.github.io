@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2013/06/moving-to-indonesia.html
 
 Well the title really says it all, but there's big changes coming for me and my family this autumn. We're moving to [Bandung, Indonesia](https://maps.google.com/maps?q=Bandung,+West+Java,+Indonesia&hl=en&sll=37.0625,-95.677068&sspn=47.215051,92.724609&oq=Bandung,+Indonesia&t=h&hnear=Bandung,+West+Java,+Indonesia&z=12&iwloc=A) to work at a hospital for the [Salvation Army](http://www.salvationarmy.org/) there. That statement may cause some questions to arise in your head. Let me see if I can foresee them?
 
-### Why?
+## Why?
 
 There's three big answers to that question and they come in chronological order. On my first date with Elin (8 years ago now, my wife since 6 years) she told me that she wanted to work abroad. In a "developing country". That's her life long dream and the reason she's decided to become a nurse in the first place. Now the opportunity has come to fulfill that dream - and I get to be part of it!
 
@@ -27,7 +27,7 @@ Finally: take a look around yourself and everything that most of us have. We own
 
 So... I'll do this for God and Elin. And the Salvation Army. And me - it's probably the adventure of an lifetime.
 
-### When?
+## When?
 
 Soon. September actually. After about 4 years of applications and holding back due to newborns, kid diseases and bad timing the time has now come. The final decision was made this Thursday and they want us to come as soon as we can. With visas, vaccinations and fixing stuff with the apartment and work and other things that'll be in september.  
 

@@ -42,7 +42,7 @@ But there’s a much easier way! When you install FluentAutomation via NuGet all
 
 So we simply checked the Enable deployment checkbox and it worked!
 
-#### Summary
+### Summary
 
 Bah – that was way to long winding. Here’s the short version on how to get MsTest to work with FluentAutomation. From scratch:
 

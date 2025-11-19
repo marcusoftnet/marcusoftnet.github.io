@@ -15,7 +15,7 @@ Right now I’m doing a lot of education and presentations. I find that the does
 
 There’s a lot of buzz around <a href="http://www.kanban101.com/" target="_blank">Kanban</a> as you sure know and one way you really see that is that a lot of teams are taking up Kanban… and sadly misuse it. Just as with many other methodologies I think that people interpret what they think is correct without really taking the time to learn the theory behind it. I have a hunch that we will hear about Kan-but in the near future. This is both sad and very strange as well; Kanban in itself is really super simple. In fact you could sum it up as <a href="http://www.kanban101.com/about-kanban101/" target="_blank">Janice Linden-Reed</a> does on the excellent [www.Kanban101.com](http://www.kanban101.com/) site: <img alt="stickies" src="http://www.kanban101.com.php5-7.dfw1-1.websitetestlink.com/wordpress/wp-content/uploads/2009/12/stickies1b.png" style="display: block; float: none; margin-left: auto; margin-right: auto;" /> Yes – in fact those simple rules are a good summation of the basics of Kanban. And still there are, quite a few, implementation that doesn’t do all of these. The most common mistake I’ve seen is **not limiting WIP**.
 
-### What is WIP?
+## What is WIP?
 
 WIP or Work in Process (the term I prefer) simply means the amount of work you and your team does at the same time. It’s a core concept of Lean and Kanban and you want to limit the amount of work that is in progress at the same time.
 

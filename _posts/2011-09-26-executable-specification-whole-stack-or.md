@@ -20,7 +20,7 @@ Many of us first got exposed to BDD tests through web applications and the way t
 
 On the "other" side we try to go through the whole stack and go through all the of the application and hit the database as it's supposed to be used by the application. And that's when it strikes us - this thing with test-data is really hard. And a bit slow also.
 
-#### Through the GUI
+## Through the GUI
 
 Up to this summer I was all for the whole-stack approach since if you don’t let your acceptance test run through the whole stack you might leave stuff out. Just imagine how much of a web application today that is made up by JavaScript for example, that would get tested if you didn’t test your views. Or for mocked data-access you wouldn’t really know if that integration actually worked until you tested it manually.
 
@@ -30,7 +30,7 @@ I liked that approach very much. In my last project we ran in to major problems 
 
 So if you don’t have to – don’t go through the GUI.
 
-#### Mind your language
+### Mind your language
 
 Please note that even if you test through the GUI you should not write the test in terms of the GUI. Don’t write test scripts (“Click this”, “Fill out those”, “Choose that” etc.) but rather what focus on the behavior of the system ("Given I am logged in”, “When I add an item to the shopping cart”)
 

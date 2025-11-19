@@ -37,7 +37,7 @@ Co is a neat little library that lets you ["write non-blocking code in a nice-is
 
 Here we can see that the code, from our failing example is wrapped in a generator function (note the asterisk). This (anonymous) generator function is then passed to the [co](https://www.npmjs.org/package/co)-library constructor function. Finally we also invoke the function that co-returns, right away, hence the "})(); on line 20.
 
-### Summary and hat tipping
+## Summary and hat tipping
 
 I would not have grasped this [without this awesome article](http://zef.me/6096/callback-free-harmonious-node-js) by [Zef](https://twitter.com/zef). Not only did he write that article but he also helped me when I [reached out to him on Twitter](https://twitter.com/marcusoftnet/statuses/454620650410237952). Thank you mr Zef, my hat is tipped towards you. Loudly (?)
 

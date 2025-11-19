@@ -43,7 +43,7 @@ And then add MsTest with a reference. Finally I save the scenario file which tri
 
 Sadly the test don’t run because I forgot the fact that in order to get MsTest to run the project they reside in need to be a test project but you get what I mean. Try to switch to xUnit or MbUnit for example.
 
-### Conclusion
+## Conclusion
 
 So to sum up – the test runner in SpecFlow is not very important. It’s just the auto generated stuff. Your steps, SpecFlow attributes etc. will still be the same; it’s just being called by a different test runner.
 

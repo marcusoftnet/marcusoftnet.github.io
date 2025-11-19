@@ -24,7 +24,7 @@ The keyword in the message is Accountability. I have a bit of a hard time with t
 
 > Accountability - the quality or state of being accountable; especially: an obligation or willingness to accept responsibility or to account for one's actions ([Merriam-Webster](http://www.merriam-webster.com/))
 
-### Trust and Authority
+## Trust and Authority
 
 If I get the opportunity I'd often talk about Trust and Transparency. At least before Accountability.
 
@@ -40,7 +40,7 @@ There's a saying in Swedish to describe a bad job situation: "I got all the resp
 
 But if you believe in the person to do good and Trust them you have now only speed up the decision process but also empowered them to step up to the challenge. Most people I've met step up to such challenges (or turn them down in the first place). The take on the Accountability and try to do their best with the Trust given to them.
 
-### Accountability and Transparency
+## Accountability and Transparency
 
 What about Accountability then? Yes, I think it's important of course and it might be the formal part of who's actually doing what. "Who are accountable for this project?" This needs to be decided and know in order to have organizational clarity. But I also think that there's another mechanism that we can implement, much easier, that will make Accountability happen automatic, more or less; Transparency.
 

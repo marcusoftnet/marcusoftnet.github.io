@@ -37,7 +37,7 @@ There's a lot of trust involved in order for this to click.
 
 Now, often when we talk about trust as something that we should earn. "You have to earn trust here", "... and then when we know we can trust you can act a little more freely". I've even have had free roles (yah!) that we decided we only could bestow on people that had been in the company for some time (yah?.... or wait a second here?). This is not really trust to me. That's more like perks that you have earned for "long and faithful service". That's good too but that's not trust.
 
-### Risk
+## Risk
 
 To trust someone implies a little risk taking. Since you don't really know how the guy, <a href="http://www.youtube.com/watch?v=o_Zub4RMfIo" target="_blank">who's CV you just read</a>, really will deliver what's promised. You have to trust her on doing that. You risk being wrong.
 

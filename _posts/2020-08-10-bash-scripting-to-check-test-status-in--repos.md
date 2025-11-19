@@ -78,7 +78,7 @@ The next step is the protection step. Because for quite some time not all reposi
 We can [use the `test` command to check if a file is NOT present](https://linuxize.com/post/bash-check-if-file-exists/#check-if-file-does-not-exist), or be even bash-ier and use the `[[ ]]` syntax that I barely understand. Let's go with the first variant that I do understand:
 
 ```bash
-# as above
+## as above
 for dir in "${dirs[@]}"
   echo "$dir"
 
@@ -97,7 +97,7 @@ But we forgot something if there's no script we want to break out of this iterat
 
 Perfect!
 
-### Get the result and exit code from the scripts
+## Get the result and exit code from the scripts
 
 The next step is to execute the script, once we know that it exists. But there's a twist - we want to capture the output AND the script result into variables so that we 1) can continue to process the main-script even though one of the `saltVerify.sh` fails and 2) want to do some nice presenting.
 

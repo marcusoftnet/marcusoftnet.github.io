@@ -22,7 +22,7 @@ In doing so, we had to sharpen our arguments and think a bit differently. They a
 
 This has just started, but I thought I’d try to blog about the experience here.
 
-#### The teams and some background
+## The teams and some background
 
 The teams we approached were the Support team and the Marketing team. The support team is a small team (3 persons) that handles a lot of the short-term activities that make an office work. But they are also involved in some bigger projects such as an upcoming conference for the whole Avega Group (350 people), and getting activities there to work. Typical tasks include managing travel arrangements, answering phone calls and the door, booking events for [Elevate](http://www.avegagroup.se/Elevate), and even refurnishing the office.
 
@@ -30,7 +30,7 @@ The marketing group is also a small team with 3 persons. Their work is made up o
 
 Both teams deliver with great quality and are very accessible to anyone who needs them.
 
-#### Humble approach
+### Humble approach
 
 First and foremost, we needed to check with them if they also saw that they had problems. I had picked up some indices that they were under a lot of stress and I knew that they (both teams) handled LOADS of simultaneous work. Up to 30 small and large projects are sometimes in progress. I saw them listing it on the whiteboard, then items are delegated, and then removed from the whiteboard.
 

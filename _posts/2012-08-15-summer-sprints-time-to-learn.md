@@ -25,7 +25,7 @@ Even if you don't have 7 weeks vacation in your country you may find the reasoni
 
 At the last [Lean Coffee](http://sumpanleancoffee.wordpress.com/) I attended I asked the question about what people do during the summer when working with agile; How do you manage your summer sprints? The discussion wandered off (I'll get back to that) but we started with some practical stuff.
 
-### Sprint length
+## Sprint length
 
 The first, obvious question, was how long the sprints people had during the summer. Here's a couple of possible solutions:
 

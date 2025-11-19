@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/11/value-of-ubiquitous-language
 
 The concept of a **ubiquitous language**—a common domain model—can be interpreted differently depending on the context. Here's how I see it:
 
-### For the Entire Business
+## For the Entire Business
 
 An all-encompassing ubiquitous language for an entire business often seems impractical. Different contexts and departments may define the same entities (e.g., "customer") differently. For a deeper discussion on this, check out:
 

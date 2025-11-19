@@ -20,7 +20,7 @@ Often this particular fear manifests itself by very long lists of work not done,
 
 And yes - they are all important. Prioritized but important.
 
-### We don't want to lose it
+## We don't want to lose it
 
 Often when I ask about why we should keep it there, the answer is something along the lines:
 

@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-5907964016203666193
 blogger_orig_url: https://www.marcusoft.net/2011/01/developing-in-neta-new-era-has-begun.html
 ---
 
-### News
+## News
 
 The other day I just realized how much has changed in the way we develop code nowadays. Well, it might just be me, but there have certainly been some major changes in the .NET development arena.
 

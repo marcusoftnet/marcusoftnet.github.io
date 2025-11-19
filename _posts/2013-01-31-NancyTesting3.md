@@ -27,7 +27,7 @@ The other posts can be found here:
 
 By now you're probably just looking for the code so let's dive right in.
 
-### Browser
+## Browser
 
 The Browser object is the one that you use to issue requests to the site you're testing. Most of the Browser configuration is done through the [ConfigurableBootstrapper](https://www.marcusoft.net/2013/01/NancyTesting2.html) and let's not go over that again.
 
@@ -49,7 +49,7 @@ You can also send JSON directly in the body. Very conveniently, Nancy.Testing al
 
 Let's now go to the other side of the request and take a closer look at the Response-object and see the help that Nancy.Testing gives us there. It's plenty!
 
-### Response
+## Response
 
 There's loads of interesting stuff on the response object. First you can, of course, access all the properties and assert that expected data was returned. Here's a couple of examples:
 

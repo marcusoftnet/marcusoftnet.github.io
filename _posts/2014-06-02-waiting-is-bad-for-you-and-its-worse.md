@@ -40,7 +40,7 @@ Maybe the numbers should be adjusted a bit but, the principle holds. The longer 
 
 The work will actually increase just by us waiting and doing nothing.
 
-### Summing up
+## Summing up
 
 If you’re into agile and lean this is of course not new, in fact you could say that it’s common sense to, but in fact *the longer you wait the more work you create*. Waiting creates extra work, if you like that better.
 
@@ -61,7 +61,7 @@ If I already to was ready to clean, because I always had the gear ready and alwa
 
 If the task is super small we might think about see if we can bunch it together until is *worth* doing taking the coordination costs into consideration.
 
-### Stupid question
+## Stupid question
 
 > “Forgive me, if I ask a stupid question, but how do I know what a suitable size is for my specific task X, Mr. post writer, sir?”
 

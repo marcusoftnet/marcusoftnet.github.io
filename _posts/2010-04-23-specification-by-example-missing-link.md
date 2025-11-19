@@ -16,11 +16,11 @@ blogger_orig_url: https://www.marcusoft.net/2010/04/specification-by-example-mis
 
 I’ve been thinking. That statement alone will be sure to put fear in the heart of a lot of you… But if you have continued on this far, here we go.
 
-#### Learning programming stuff
+## Learning programming stuff
 
 During the last year or so I have been reading a lot. I have read stuff [on XP](http://jamesshore.com/Agile-Book/), on [good design](https://www.marcusoft.net/2009/07/parental-leave-reading.html) [DDD](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) and [TDD](https://www.marcusoft.net/2009/09/reference-work-3-tdd-by-example.html). This reading has affected me and my coding style way much more than I first thought. I simply cannot write code anymore without the test first, interface first, thinking of SOLID etc..
 
-#### Learning lean stuff
+### Learning lean stuff
 
 At the same time I have change role at [Avega](http://www.avegagroup.se). I am now an AvegaCoach. This means that my time is divided between my regular (often coaching) assignments with customers and Avega and [Elevate](http://blog.avegagroup.se/elevate/). Since my fellow AvegaCoaches ([Joakim](http://blog.avegagroup.se/JoakimSunden/default.aspx) and [Christophe](http://blog.avegagroup.se/ChristopheAchouiantz/default.aspx)) and me are interested in agile and lean stuff we have focused our joint efforts on that.
 

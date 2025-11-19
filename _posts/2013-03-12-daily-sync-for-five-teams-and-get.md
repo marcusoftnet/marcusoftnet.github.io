@@ -18,7 +18,7 @@ I can tell you that without great people that care - this would have been a lot 
 
 In this post, I thought I'll describe a particular part of that process that I have had problems getting to work many times; the daily team sync, [Scrum of Scrum](http://www.scrumalliance.org/articles/46-advice-on-conducting-the-scrum-of-scrums-meeting), or Syncro whatever you call it. We call it Daily Sync.
 
-### The problem
+## The problem
 
 It's really quite simple really; you have several teams and you want some sort of synchronization between them, share information, or just know what the others are up to. In our case, we even had one big team before, where everybody met every morning. The feeling of us knowing exactly what was going on in every part of the system was very clear and present. But did we really know everything?
 
@@ -32,7 +32,7 @@ If the Daily Sync is going to be interesting, you need to talk about things that
 
 Speaking of that - **when** should the meeting be? It can be before or after the daily standups in the teams, both options viable but giving us different advantages. Before meant that we could decide stuff in the Daily Sync and propagate that back to the teams, but we had a hard time knowing the current status of the teams. If instead the teams have had their daily before the Daily Sync, we would have current team statuses, but it's harder to send information from Daily Sync that stands the risk to become just a status meeting.  
 
-### The reason
+## The reason
 
 We went back to the root of the Daily Sync - what's the reason to have such a meeting. The information about the team status is out there, in each team, on their boards and the walls surrounding them. If not - that's something we need and want to know that it's missing.
 

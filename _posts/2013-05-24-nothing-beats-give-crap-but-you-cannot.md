@@ -24,7 +24,7 @@ I'm not sure a team would benefit from mob programming all the time, but the con
 
 No, I didn't say "work this way" (neither [walk this way](http://www.youtube.com/watch?v=4B_UYYPb-Gk), btw). I said: What if... we worked this way? What would happen?
 
-### How would our work flow?
+## How would our work flow?
 
 What would happen with the flow of our work if everyone in the team worked together? Firstly, how many items would "be on the board"? Yes, one single item would be worked on at the same time.
 
@@ -36,13 +36,13 @@ Please note that there will be a lot of slack for many people. Slack as in not e
 
 The fire department has a lot of slack. They are not putting out fires all the time. They're just sitting around waiting... no, wait a minute. They're not doing that; they train, maintain their equipment, and keep fit. But they stop doing that the moment there's a fire. We pay them for not producing "value" (as in putting out fires) and just sitting around waiting to do work. This is because we don't want to risk them being busy when we need them.
 
-### What would happen with roles?
+## What would happen with roles?
 
 If everyone was working in a mob... there would still be specialists, of course. I'm the one that's best at doing database work, I have tested stuff like this before, I have coded in JavaScript before. Even I'm the customer. But since we're sitting in a group that works towards a common goal, those roles will not be that important. In fact, we probably want to smooth the roles out. Why, indeed, are you the only one that knows how to test this? Isn't that a risk?
 
 If only two people of the mob come in one day, and they are both developers, will they not work with testing? Will they not decide how a feature should work? Would they just give up if database work needs to be done? No—since the work (the one thing they are working on) needs to move forward. They would do the work that is needed.
 
-#### Care deeply about this. Now
+### Care deeply about this. Now
 
 "Why?" you ask. Well, because they care about the product. Or at least they should care about the product. That's why they show up to the mob each day, right? Building this awesome thing that eventually will change the world.
 

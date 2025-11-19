@@ -30,7 +30,7 @@ As a programmer there's a little trick that you can use to get by this problem: 
 
 In the morning when you come back you run all the tests and this test is failing, pointing you right into the place where you left of and you get into the working mode again. It's a lovely practice, even though it feels a bit backwards at first.
 
-### But I'm not programming (anymore)
+## But I'm not programming (anymore)
 
 It was at this point in the podcast that I got the programmer blues. I miss that feeling of knowing what is next.
 

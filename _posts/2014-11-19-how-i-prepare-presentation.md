@@ -22,7 +22,7 @@ Some people have asked me how I create presentations and I thought that it could
 
 I don't consider myself an expert on design ... hahaha (sorry could not keep a straight face... ok - once again...) on design of slides nor do I have deep communication education. I have failed a lot though and I really enjoy doing presentation. Below works for me - your milage may vary.
 
-### Strategy - introduction
+## Strategy - introduction
 
 I've come to notice that I work on my presentation in a number of iterations. In true lean fashion I try to produce something that would be possible to deliver as a presentation at the end of each iteration, each iteration producing something more and more polished.
 
@@ -30,7 +30,7 @@ This has another advantage I've noticed - I takes much less effort to learn once
 
 Here's my rough process, sometimes I do more than one thing at the time and sometimes I skip steps. I has to do with how much time I've got.
 
-### Thinking
+## Thinking
 
 Once I have a talk coming up I usually know just the title or the theme for the talk. In this case I also had an abstract, but that's seldom the case. Let's pretend we just had a title: Kanban in Action". Often I have a time constraint too. This is a 2 hour talk, 45 min or workshop or 10 min talk.
 

@@ -15,7 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-7581226974756991164
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-5-keynote-and-morning.html
 ---
 
-### Information Overload and Managing Flow
+## Information Overload and Managing Flow
 
 The final day of ÖreDev started with a keynote by [Scott Hanselman](http://www.hanselman.com/blog/), one of my "heroes." His talks are always insightful and humorous. Here are some key takeaways from his session:
 

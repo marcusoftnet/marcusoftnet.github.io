@@ -13,7 +13,7 @@ blogger_orig_url: https://www.marcusoft.net/2009/02/sprint-planner-helper-sessio
 
 It’s been a while since I last worked on the project. Abbe has been quite sickly, and I haven’t had much time. No worries – it's all a hobby. 😉
 
-### Progress Update
+## Progress Update
 
 Since my last update (which was only 2 x 15-minute sessions), I’ve managed to produce a list of Products on my webpage with a new layout:
 

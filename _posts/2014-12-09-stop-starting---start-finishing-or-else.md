@@ -54,7 +54,7 @@ Our approach to handle this is twofold:
 
   - The renovation of this room is completed when one patient has used it again after the renovation.
 
-### Summary
+## Summary
 
 Let's not lie to ourselves about the status of our work. It's a tool for us and it's not working properly if it doesn't operate on reality.
 

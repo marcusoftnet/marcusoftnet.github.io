@@ -50,7 +50,7 @@ Finally, saying No (which by many is hailed as key product owner skill, I includ
 
 Worse - if the product owner or team doesn't say anything, we have silently accepted that we will work on the item. And the stakeholder now leaves prioritizing up to the team members in their daily work.
 
-### Going to pull
+## Going to pull
 
 In this particular company, where the story takes place, anyone can create issues in a company-wide accessible issue tracker. This is great since it's very open and transparent system. The problem is that items land on different teams backlogs without prior notice.
 

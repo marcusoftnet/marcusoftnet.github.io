@@ -21,7 +21,7 @@ However ... I miss some visualizations on my waiting progress. Last time I was t
 
 In this blog post I wanted to share my thoughts, from a pure client perspective. I known nothing about the inner workings and process at the ER, other than having been there about 15 times the last 2 years.
 
-### What are we solving here?
+## What are we solving here?
 
 In true [kanban](<http://en.wikipedia.org/wiki/Kanban_(development)#The_Kanban_method>) fashion, the visualization doesn't impose any change at all. It's just visualize the current workflow. For me as a patient this would provide invaluable information since that's about the only thing I think about when in the ER: when is it my turn? How many are before me?
 
@@ -29,7 +29,7 @@ These are the problems I want to focus on... for now. If I get excited I might s
 
 The focus is instead: visualizing the flow of the patient during the whole time he or she is in the ER, in order to provide information for the patients so that they know where they are in the process.
 
-### The current process
+## The current process
 
 This is my description of what happens to me as a patient from when I enter the ER to I leave it:
 

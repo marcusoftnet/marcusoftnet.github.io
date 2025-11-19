@@ -17,7 +17,7 @@ I have a new coaching assignment at [Tradera](http://www.tradera.com/), which is
 
 I was thrown right in at the deep end as they were about to reorganize their big team (30-40 people) into 5 smaller teams with particular features to look after. The first thing they wanted help with was some input around HOW to go about organizing this. And make no mistake - they were well on their way doing this in an excellent way already. I merely supplied some confirmation and ideas. The good thing about working with great clients :)
 
-### The Challenge
+## The Challenge
 
 So our challenge was to do this re-organization without people feeling that we decided for them. We wanted everyone to work where they wanted - not where they had to, according to "our" opinion. Each team had (what is normally called) a Product Owner and maybe one or two Business Analysts assigned already. The people we wanted to distribute were mainly technical people such as developers and testers.
 

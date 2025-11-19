@@ -25,7 +25,7 @@ And finally show that the whole thing works using an acceptance test that verifi
 
 Let’s go.
 
-### Feedback and updates
+## Feedback and updates
 
 I got some great feedback from some people, foremost [Darren Cauthon](http://www.cauthon.com), that I’ve already implemented. That cleaned up my code a lot. Sadly I also messed up a lot when I tried to merge the code into my master. But after some manual hacking I think I’m back on track.
 

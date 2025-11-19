@@ -36,13 +36,13 @@ And I then added a click-handler like this:
 
 And it blew up, with a very nice, but ultimately not helpful error message:
 
-### Error: No router instance found. you should only use "next/router" inside the client side of your app
+## Error: No router instance found. you should only use "next/router" inside the client side of your app
 
 So this [error even has an page](https://nextjs.org/docs/messages/no-router-instance) on the Next.JS site and it's helpfully trying to tell me that I'm using the `router` on the server-side. It also sent me down the wrong route (hehe sorry) to try to create the routing in the `useEffect` hook.
 
 When in fact the solution was much easier
 
-### The solution - declare the function. Don't call it
+## The solution - declare the function. Don't call it
 
 As I've written the function now, the `router.push('/')`will be called on server-side rendering, since I'm invoking the `router.push` But that's not what I want. I want it to be called when the user clicks. This should be done like this:
 

@@ -22,7 +22,7 @@ I got some valuable feedback from my colleague [Joakim Sunden](http://www.joakim
 
 On with the show!
 
-### New functionality – new scenario
+## New functionality – new scenario
 
 As I always I start off with a new specification and the following scenario:
 

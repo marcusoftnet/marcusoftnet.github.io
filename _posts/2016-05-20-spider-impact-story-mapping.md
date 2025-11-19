@@ -48,7 +48,7 @@ But, there's a time stated in there as well. *When* in the future? This is one o
 
 Powerful, no-nonsense stuff.
 
-### How we did it
+## How we did it
 
 Well… under this heading this we were "lucky" in that the vision was already stated when we started our work. We were indeed lucky as it was a really good vision fulfilling many of the attributes I often lack.
 

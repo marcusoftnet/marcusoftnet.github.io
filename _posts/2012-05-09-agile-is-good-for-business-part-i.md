@@ -25,7 +25,7 @@ The fact that we still have to explain this to the business is troubling in itse
 
 In this post I'm going to take a look at time boxing and why that actually not only is the best out of three bad choice but also can give you an advantage.
 
-### Time boxing
+## Time boxing
 
 Time boxing is a fundamental thing to many agile methods but foremost Scrum. The idea starts out in the fact that there are always more to do than we have time and resources for. So we need to balance these 3 artifacts against each other; time, resources (people, money etc - in essence costs) and features. In reality there's also quality but we seldom want to take a chance with that dimensions, since bad quality has a nasty way of coming back and biting us later. So often you just talk about Time, Cost and Features.
 

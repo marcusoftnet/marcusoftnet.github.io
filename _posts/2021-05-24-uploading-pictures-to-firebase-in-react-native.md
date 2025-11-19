@@ -17,7 +17,7 @@ So I took the original code and refactored it a tiny bit for better readability.
 
 <!-- excerpt-end -->
 
-### Setup
+## Setup
 
 The setup was plain and simple by just going:
 
@@ -55,7 +55,7 @@ expo install firebase
 
 I also added some stuff to protect my API keys, using `dotenv` but it is not important for this blog post. Also, I don't have to use that... I've heard - don't trust it.
 
-### Setting up the initial UI
+## Setting up the initial UI
 
 The initial UI is very simple - just a button to Choose an image:
 

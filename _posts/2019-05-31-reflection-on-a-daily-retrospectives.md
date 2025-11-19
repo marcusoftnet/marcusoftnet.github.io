@@ -16,7 +16,7 @@ Obviously, that cannot be done. But we do it anyway. And we succeed - we get rav
 
 There are a few ingredients to the successes; people being highly motivated (I can write books about that) and mob programming are two of them.
 
-But in this post, I wanted to write about something that I think stood out for me after observing 3 classes in a row now. And it's something that you can do and get a lot out of too.  
+But in this post, I wanted to write about something that I think stood out for me after observing 3 classes in a row now. And it's something that you can do and get a lot out of too.
 
 <!-- excerpt-end -->
 
@@ -59,4 +59,4 @@ We are not looking to make any big changes, but rather just ["Turn up the good"]
 
 By nudging (pretty hard, I have to say) our teams to do daily retrospectives we are emphasizing and creating reflection on a daily basis. This turns their newly acquired experience into knowledge, in small, frequent and fast steps.
 
-It's proven very valuable to the learning for the </salt> students that, through this, learn faster and the learning stick better.  
+It's proven very valuable to the learning for the </salt> students that, through this, learn faster and the learning stick better.

@@ -18,7 +18,7 @@ What I soon realized was that much of the White-automating could be pushed to a 
 
 However – I think that the result is pretty generic and can be used outside our project. So if you need it you can have it.
 
-### Well known names
+## Well known names
 
 The first thing that we’ve thought about was the fact that most user doesn’t refer to the items in the GUI by the programming name (“So I clicked the btnSearch2-button”, doesn’t sound like an end user, huh?). No, they rather speak about the elements in some more loosely terms such as “the search button”, “the name text field” etc. The well known names of the UI-elements if you will
 

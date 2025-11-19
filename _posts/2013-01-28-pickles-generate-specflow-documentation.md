@@ -21,7 +21,7 @@ Make no mistake here: the .feature-file is the master and original. That's how i
 
 In this blog post, I'll show you two easy ways to include the generation of an HTML site from your features with [Pickles](https://github.com/picklesdoc/pickles): via PowerShell and via MSBuild. Let's start with the latter since I know that one best.
 
-### Pickles and How to Get It
+## Pickles and How to Get It
 
 Pickles describes itself as: "Pickles is an open-source living documentation generator that works on feature files written in the Gherkin language, popularized in tools like Cucumber and SpecFlow." It's run by [Jeffrey Cameron](https://github.com/x97mdr) and has a thriving community. I've done some small commits but love the tool and "sell" it to almost every client doing specification by example.
 
@@ -102,7 +102,7 @@ A lot of build scripts are executed using PowerShell scripts and you can call Pi
 To call into Pickles you can do the following:
 
 ```powershell
-# Import module
+## Import module
 Import-Module .\pickles\Pickle-Features.psm1
 
 ## Run Pickles

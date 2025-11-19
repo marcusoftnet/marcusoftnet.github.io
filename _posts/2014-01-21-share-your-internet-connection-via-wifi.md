@@ -22,7 +22,7 @@ After a few frustrating moments, I found a solution that works, although it's no
 
 There's a post that [describes this approach in great detail](http://techotv.com/windows-8-internet-sharing-wifi-hotspot-wireless-ad-hoc/), so this is the short version plus my gotchas.
 
-### Creating the Hosted Network
+## Creating the Hosted Network
 
 First, create a .bat file with the following content:
 
@@ -37,7 +37,7 @@ Oh yeah, remember to turn the WiFi on as well. If not, you'll see a decent error
 
 > The wireless local area network interface is powered down and doesn't support the requested operation.
 
-### Enabling Internet Access
+## Enabling Internet Access
 
 Creating the network was the easy part. Now we need to let the hosted network use the internet. At this stage, it doesn't have internet access—it's just another network adapter, probably named "Network connection 24" or something.
 

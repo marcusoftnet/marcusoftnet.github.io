@@ -25,7 +25,7 @@ Since *Kanban In Action* now spans 13 chapters in different .doc files, I immedi
 
 This post details how I tackled the problem. It took me about 2 hours in total.
 
-### Export all files in a Word document
+## Export all files in a Word document
 
 The chapters are written in .doc format (for some reason), but I remembered that the newer format .docx is essentially just a [zip-file](http://en.wikipedia.org/wiki/Zip_(file_format)). Maybe, just maybe, that could help me.
 

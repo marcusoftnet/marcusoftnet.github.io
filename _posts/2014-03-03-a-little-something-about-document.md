@@ -45,6 +45,6 @@ Instead this is just a function/index on the Post. Loop through the hashtags of 
 
 The "trick" can be found on line 7 (`.find({hashtags : hashtag})`) which is Mongoose speak for: "find all the documents that have the hashtag in the `hashtags` array.
 
-### Summary
+## Summary
 
 I'm still learning document databases and have not yet harness the full power of them. I have a little feel that document database is to relational databases what <a href="http://www.manning.com/petricek/" target="_blank">functional programming</a> is to object orientation. That is could can write the code in the same way as you did, but then you're missing out on the whole idea.

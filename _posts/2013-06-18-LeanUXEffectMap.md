@@ -19,7 +19,7 @@ I ran across a [great post](http://heltsonika.wordpress.com/2012/10/11/lean-ux-m
 
 An IT project often starts with an idea about how business impact can be created. Someone has invented a new way to make money or streamline their business to save money. But IT projects are expensive, and nobody knows if the idea will fly or not. The person that came up with the idea thinks that there's a customer base that will use the perceived product. There's a big risk in investing 10 million in realizing the idea. And how will the ideas be realized? A new Intranet can look and work in a myriad of ways.
 
-### One (of many) problems with traditional user-centric work
+## One (of many) problems with traditional user-centric work
 
 If you have come a bit further, you might work user-centric in a traditional way (like waterfall or agile - but only in the development phase) and think that you have solved this problem. Instead of "guessing" who the user groups are and what they need, we head out and collect information about the current situation by doing interviews, observations, and data analysis. When this is done, we create design specifications that are tested out on the target audience and then handed over to the developer who implements it.
 

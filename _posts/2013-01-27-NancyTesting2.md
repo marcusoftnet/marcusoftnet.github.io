@@ -31,7 +31,7 @@ There's a [wiki-post on testing on the Nancy Github wiki](https://github.com/Nan
 
 Let's get to it - there's a lot of code to get through.
 
-### The Configurator and how we use it
+## The Configurator and how we use it
 
 To call into a Nancy module from a test, the creators have given us the Nancy.Testing.Browser class, as we said the last time. This class helps us to create our HTTP requests and call them.
 
@@ -51,7 +51,7 @@ For us it means that we get a very crisp syntax to express how we want the envir
 The rest of this post dwells on some of the capabilities of the Configurator and what we can use these capabilities for. I will not cover everything, since that would be a very boring blog post and some of the things you can swap out are beyond me why you would...
 There's loads of code in here, but I reckon that's just what you wanted.
 
-### Module
+## Module
 
 The first and most obvious use for the ConfigurableBootstrapper is to tell it to load the (Nancy)-Module your testing. Well actually if you use the normal DefaultNancyBootstrapper it will load all the modules in all referenced assemblies - that's the [Super Duper Happy Path](https://github.com/NancyFx/Nancy#the-super-duper-happy-path) in action right there :).
 Here's an example of that

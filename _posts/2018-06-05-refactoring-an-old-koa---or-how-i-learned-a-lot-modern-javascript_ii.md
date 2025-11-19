@@ -44,7 +44,7 @@ The first script will run the linting for you, and probably make you cry… it's
 
 Rerun the tests `npm t` to see that we still are good. Ha! It's already run. Good thing we put it in watch mode (using the `-w` flag) to have it run all the time.
 
-### Refactor the app
+## Refactor the app
 
 Now open the `app.js` file and let's fix a few things that standard does take care of for us:
 

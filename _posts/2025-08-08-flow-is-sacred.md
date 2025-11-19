@@ -46,7 +46,7 @@ Most processes involving multiple people spend most of their time waiting (in my
 
 ![Most of the time in a process is waiting time](/img/flowefficiency_2.jpg)
 
-### How to Protect Your Flow
+## How to Protect Your Flow
 
 We can often do way more about these waiting times than we think. Let’s do it!
 

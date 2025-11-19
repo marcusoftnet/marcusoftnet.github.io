@@ -11,7 +11,7 @@ tags:
   - CodeBetter re-posts
 ---
 
-### REPOST FROM CODEBETTER
+## REPOST FROM CODEBETTER
 
 I noticed that [CodeBetter](http://codebetter.com/marcushammarberg/) is slowing down. Maybe dying. I'm preserving my post from there here.
 

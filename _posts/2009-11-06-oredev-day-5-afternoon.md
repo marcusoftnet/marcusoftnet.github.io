@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-4220626301381760466
 blogger_orig_url: https://www.marcusoft.net/2009/11/oredev-day-5-afternoon.html
 ---
 
-### Cucumber
+## Cucumber
 
 This session was quite interesting, especially given my enthusiasm for [Cucumber](http://cukes.info). The presenter, Aslak Hellesøy, had an unusual prop—a blender on his desk—which added a quirky touch to the talk.
 

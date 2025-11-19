@@ -23,7 +23,7 @@ I've decided to try to use ideas from lean, agile and other inspirations I've pi
 
 I will blog about our experiences and tribulations here to remember it all. This is the first post, and it's a bit long, but I need to set a proper context. I'll keep it shorter later.
 
-### Background
+## Background
 
 You probably wonder about "Yayasan" and what that means, so I thought I'd give a short introduction to what's happening here and what we are supposed to do.
 
@@ -46,7 +46,7 @@ I go for the second one for now. Feels less scary and also I get my orders and a
 
 But what we do in the Yayasan Ops office (my nickname) I have control over and could hence get starting Lean and Agile techniques without anyone saying anything.
 
-### Preparations
+## Preparations
 
 After being here for about 3 months now I have spent a lot of time trying to puzzle things together; "where's that document", "who decided that", "haven't you got my email?" I think that has to do with organizations here being set up for control and review to great part. There's not much transparency and hence people-dependent to a great deal.
 

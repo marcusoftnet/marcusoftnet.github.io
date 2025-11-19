@@ -36,7 +36,7 @@ In all honesty, I've stopped here in most cases when presenting this because mos
 
 But you and I can deep dive a bit more.
 
-### Flow efficiency
+## Flow efficiency
 
 The comparison between work time and waiting time is called **flow efficiency** and tracks how much of the total lead time is actually work. There's a [great post by Julia Wester](http://www.everydaykanban.com/2016/09/25/flow-efficiency/) that describes this in detail. It's super simple to calculate:
 

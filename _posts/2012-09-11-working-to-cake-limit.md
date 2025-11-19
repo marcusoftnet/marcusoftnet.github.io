@@ -36,7 +36,7 @@ When I first saw this, I thought it was a prank of some sort, so I asked the tea
 
 "But, that is not a really important metric now is it?" There's now despair in your voice. No, not really. It's just for the team celebration, mind you. Just to get what's called a nice cadence in our work. To avoid the monotony of just working off the backlog.
 
-### Simple Metrics
+## Simple Metrics
 
 For metrics, I always start out with some really simple ones. It's easier to introduce metrics than it is to remove them, so be careful.
 

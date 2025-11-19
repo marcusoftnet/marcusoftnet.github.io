@@ -23,7 +23,7 @@ Meetings are a great way of communicating a lot of information. Face-to-face is 
 
 Readers of this blog know that I love the [Switch book by the Heath brothers](http://www.heathbrothers.com/switch/) and it's pragmatic approach to accomplish change. I've already tried to apply the thinking in their [Switch Framework](http://www.heathbrothers.com/resources/download/switch-framework.pdf) to [Broken builds being ignored](https://www.marcusoft.net/2011/12/applying-switch-framework-to-broken.html) and [Developers don't want to test](https://www.marcusoft.net/2012/05/applying-switch-framework-to-developers.html). I thought that this could be a good fit; Applying the Switch framework to Meetings are not work.
 
-### Switch framework
+## Switch framework
 
 You'll need some introduction to the framework. Please (really do - it'll change your life) [read the book](http://www.heathbrothers.com/switch/) to get the full picture
 

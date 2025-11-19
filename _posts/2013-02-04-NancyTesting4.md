@@ -27,7 +27,7 @@ The other posts in the series can be found here:
 
 Let's dive right in a say hello to Simple.Data, if you haven't met him already.
 
-### Simple.Data
+## Simple.Data
 
 [Simple.Data](http://simple.data/) is a micro-orm. Or as [Mark Rendle](http://blog.markrendle.net/) says: It's an ORM without any Objects, there's no Mapping going on and it works against non-Relational databases as well. Simple.Data relies, just as Nancy, a lot on dynamics and allow you to write data access as simple as:
 
@@ -37,7 +37,7 @@ As expected this code opens a connection to the database (as configured in your 
 
 Simple right? Oh yeah - it's all in the name.  
 
-### Simple.Data.Testing
+## Simple.Data.Testing
 
 Another likeness with Nancy is that Simple.Data have testing as a first class citizen. There's some truly great test-support that you can [read more about in the excellent docs](http://simplefx.org/simpledata/docs/). Here's how some test-code that shows what I mean.
 

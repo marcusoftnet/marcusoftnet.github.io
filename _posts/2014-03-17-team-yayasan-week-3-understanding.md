@@ -22,7 +22,7 @@ Going into this week we decided two things to improve:
 
 One of those were very successful and one was not...
 
-### Sloppy board management
+## Sloppy board management
 
 I have coached more than 40 different agile teams using boards like ours (btw here's the state on this morning). Many of them have not used a board before and there's one recurring pattern I see with these teams. And with Team Yayasan as well, that I'm now a team member in. After about 2-5 weeks we start to get sloppy; we don't put things we work on up on the board, we don't follow the WIP limits, we stop seeking cooperation and generally are sloppy about keeping the board up to date and following the policies we had discussed.
 
@@ -45,7 +45,7 @@ So we have now (on this short retrospective we had this morning) decided to try 
 
 It's very important to remember that these rules were created by us, for us. No one has told us to set these up. If we break them... we're letting ourselves down. This is one of the things I very often have to repeat to teams starting with Kanban.
 
-### We don't get our reports in time
+## We don't get our reports in time
 
 Now to something very much more interesting and fun. And rewarding too. We had a problem that we had to nag and remind our hospitals to get their reports to us in. This week we completed the finance reporting for last year. And right now, we are 76 days (yeah, nothing for this year) for the current finance reporting.
 

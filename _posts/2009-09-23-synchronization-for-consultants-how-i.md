@@ -21,11 +21,11 @@ Lastly, I have a private Gmail account for personal stuff.
 
 So, I have three synchronization issues: mail, contacts, and calendar items. Here’s how I’m handling them right now. I hope a better solution will present itself later.
 
-#### Contacts
+## Contacts
 
 I keep all my contacts in [Google Contacts](http://www.google.com/contacts). I then synchronize them with [Mac Address Book](http://support.apple.com/kb/HT2486) and my phone using [Google Mobile Sync](http://www.google.com/support/mobile/bin/answer.py?hl=en&answer=138636).
 
-#### Mail
+### Mail
 
 The excellent [Apple Mail](http://support.apple.com/kb/HT2500) can handle multiple inboxes from several Exchange servers if you use IMAP Exchange. I do that, and it consolidates all my mail into one tool. The top-level inbox in Apple Mail shows all inboxes, which works like a charm.
 

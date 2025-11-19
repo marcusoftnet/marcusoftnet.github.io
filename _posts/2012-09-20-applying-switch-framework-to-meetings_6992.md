@@ -19,7 +19,7 @@ In the previous two posts we've talked about reasoning with the Rider (our logic
 
 Let's go!
 
-### Tweak the environment
+## Tweak the environment
 
 The reasoning under this heading is that if you change the situation, the context we act in the change in the behavior will follow. For example - if you have a system for queuing up calls in a call center ... a lot of calls will be in queue. To get quicker response time, throw the system out and have direct access. A bit brutal example but you get what I'm aiming at.
 
@@ -29,7 +29,7 @@ For starters if you go to all meetings there's no wonder that you're attending a
 
 State, loud and clear, that it's ok to decline invitations if you have other, more important stuff to do. Push the responsibility out to each individual. "You are responsible for your own time. You own what you do with it each day".
 
-#### Attendee creep
+### Attendee creep
 
 ![Attendee creep](https://files.nyu.edu/kmg357/public/pictures/others/creep.jpg)
 

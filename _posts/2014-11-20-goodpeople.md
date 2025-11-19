@@ -27,7 +27,7 @@ It's not only sad - it's also true. Sadly. (Oh wow - that was an recursive sente
 
 Let me try to clarify what I mean and what I've seen to support it.
 
-### Story 1
+## Story 1
 
 I consulted at a big Swedish insurance company for a couple of years. I was part of a team rebuilding one of their key applications (in VB.NET). Great guys and a team that I often think back of. One of the guys in the team was the maintenance person for this application. His group consisted of 4 people that supported ca 40 applications.
 
@@ -39,7 +39,7 @@ Basically the **bad system** was hindering these **good people** from doing th
 
 Good persons defeated the bad system.
 
-### Story 2
+## Story 2
 
 I have only worked for governments once in my life, the Stockholm City Council. All configuring of any computer was done by a third-party company. And they were swamped with work.
 

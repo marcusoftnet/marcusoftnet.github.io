@@ -23,7 +23,7 @@ It will never be the same thing as actually be there. But we're getting close. A
 - Being able to have great standups where it feels like he's in the room
 - Being able to chat and take a cup of coffee with him.
 
-### See and read stuff on the board
+## See and read stuff on the board
 
 This was the first thing we started with and I think most team does. Let me give you some helpful tips or rather things that we've tried already:
 
@@ -46,7 +46,7 @@ We created a Google account for these upload and hooked him (her?) up to <a hre
 
 Pretty simple and works just fine.
 
-#### Problems
+### Problems
 
 - The Olympus VH-210 needed to be REALLY close to the WiFi-router to work. About 1,5 meters in fact. Got **excellent** support from the Eye-Fi guys trying to track this down.
 - The progress of the upload is really hard to track. Right now we just leave the camera there for 10 minutes and then check Picasa for new files.

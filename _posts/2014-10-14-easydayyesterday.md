@@ -31,7 +31,7 @@ In the daily morning meeting the day after (today) we saw that people were tired
 
 In this post I wanted to describe why this is true for everyone embarking on continuous improvements and why this is not a problem, but rather a message of hope. Under one condition...
 
-### What does "The only easy day was yesterday" mean?
+## What does "The only easy day was yesterday" mean?
 
 ![Hell week](/img/hellweek.jpg)
 
@@ -45,7 +45,7 @@ It's simple; they want only the best. Best in this case means the people that ca
 
 The trainers want people to fail because they only need the few that can take this. [90% drop out rate is not uncommon](http://www.military.com/Content/MoreContent1?file=AS_specops). And that's a good thing.
 
-### What does it mean to us?
+## What does it mean to us?
 
 Let's leave the military elite and bring this back to us again. Or my client from above as an example. What does "The only easy day was yesterday" mean to us? That's not very hopeful at all... Will things always get worse, harder, tougher? Can I please change company?
 

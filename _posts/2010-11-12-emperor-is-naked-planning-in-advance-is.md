@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2010/11/emperor-is-naked-planning-in
 
 This is a well-known truth for all practicing agile methods.
 
-### Introduction
+## Introduction
 
 I'm currently working on a migration project with a fantastic team—possibly the best I've ever worked with. We're converting a large VB6 application to VB.NET and WPF. Due to various reasons, we decided to do this in two phases:
 

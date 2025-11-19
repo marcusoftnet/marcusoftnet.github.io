@@ -18,7 +18,7 @@ When I came here, I hoped (or maybe bet) that my knowledge of Lean and Agile wou
 
 Yes, I wrote "important" projects. It really stumped me at first. But then I realized that I've been in many important, urgent projects with long lead times, even in another industry and world. I have two examples from my current situation in very different scales, both involving different numbers of people. They are concrete examples, and you can probably relate them to your context and situation quite easily.
 
-### The Projects
+## The Projects
 
 - The first project is about clearing out the final details on how two organizations should be separated. There are many discussions, decisions, and meetings to be had, involving many people (4 teams of 6-8 people each).
 - The second project is much smaller: we (4-5 of us) need to clear up some misunderstandings around a project run at one of our hospitals for the mother organization of the Salvation Army, so that they know where and why we spend our funds this way.
@@ -43,7 +43,7 @@ Me too.
 
 So how do projects like these look then?
 
-### How We Work
+## How We Work
 
 What ends up happening is not very hard to figure out:
 

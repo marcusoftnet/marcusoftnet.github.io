@@ -30,7 +30,7 @@ Secondly (related to the first); **get good at using the email tool** and help o
 
 Thirdly (and most important): there's a **symbolic value in sharing the information with everyone**. We *trust* each other to let everyone in on all the things. We *trust* each other to act wisely with that information. We believe that more minds are better than fewer and strive to become more and more transparent with our information.
 
-### Summary
+## Summary
 
 The main idea here is not that everyone knows everything all the time, but you *already* have that information at your finger tips. You can just find it in your email. It's already there!
 

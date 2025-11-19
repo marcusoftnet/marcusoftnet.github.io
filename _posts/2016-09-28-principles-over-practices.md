@@ -29,7 +29,7 @@ Before I started in that end and often ended up in another - but nowadays I just
 
 > Scrum is not the goal. It's much more important that you understand the principles behind it and then you can tweak whatever practice you like to suit your need.
 
-### Creativity
+## Creativity
 
 Principles are more powerful since they unlock the creativity and innovation within an organization and also every individual. If you teach someone a practice (without or little focus on principles) their perception of reality and even language will be formed by that practice.
 

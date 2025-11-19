@@ -56,7 +56,7 @@ I have the awesome opportunity to work for [Spotify](https://www.spotify.com/) r
 
 Nothing of this has happened in reality. These musings are just my own for this post, I'm just trying out a theory using the awesome values of Spotify as an example. For example, I don't know an Anna at the company. Disclaimer over. But true.
 
-### **We're innovative!**
+## **We're innovative!**
 
 The first phrase is absolute key for Spotify and focuses on always thinking innovative.  Let's use it in a sentence:
 
@@ -72,7 +72,7 @@ Yes! That is what we want to see. It works. Let's [see it fail too](http://www.s
 
 Well… that's not innovative. And it shows clearly.
 
-#### We're collaborative
+### We're collaborative
 
 One of the things that stand out on day one when you get to the Spotify organization is how much they are helping each other. I've [blogged about that before](https://www.marcusoft.net/2017/01/kindness.html) without revealing the company name (psst - all Spotify for the good stuff).
 

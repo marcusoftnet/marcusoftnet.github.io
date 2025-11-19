@@ -22,11 +22,11 @@ I thought I would apply the reasoning in the framework to a real life situation 
 
 So this is, like many post on this blog, a learning experience for me and I’m sharing it with you. Please supply any feedback to me. I would love to hear your thoughts on the matter.
 
-### The Problem – Broken build indifference
+## The Problem – Broken build indifference
 
 To have <a href="http://en.wikipedia.org/wiki/Continuous_integration" target="_blank">continuous integration (CI)</a> for your source control nowadays is almost mandatory. But if I think back it was a very novel thing for many developers just a few years back.
 
-#### CI
+### CI
 
 In short CI means that you have an automated way to get the latest source code, compile it, run unit test and integration tests (if present) and then deploy it to an environment for testing. You should run this as often you can, at least daily but it’s not uncommon to do a full build on each check-in.
 

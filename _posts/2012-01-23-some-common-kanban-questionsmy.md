@@ -20,7 +20,7 @@ I of course answered but also felt the questions was not only good, they were al
 
 So important to note is that Kanban as methodology doesn’t answer any of these questions. It’s up to you.
 
-### How do you highlight new activities on the board?
+## How do you highlight new activities on the board?
 
 Anna also said; we don’t want them to get mixed up with the ones we already have there. I suspect that she was talking about the work items that might get prioritized over already committed work.
 

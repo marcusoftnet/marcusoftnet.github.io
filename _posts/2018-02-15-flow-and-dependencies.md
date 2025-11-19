@@ -21,7 +21,7 @@ In this post, I will offer a few thoughts on how to handle this type of situatio
 
 <!-- excerpt-end -->
 
-### You say 'problem' - I say 'unrealized improvement'
+## You say 'problem' - I say 'unrealized improvement'
 
 First of all - finding something that hinders flow is the reason focusing on flow is awesome. Because that is not a problem we see, it is an unrealized improvement opportunity. If we fix this, we actually improve the flow of the system. We will deliver faster, learn faster and have opportunities to make decisions more frequently (psst - that is called agility).
 
@@ -29,7 +29,7 @@ If you never find things that hinder your flow … then you are working with too
 
 Ok - it's a Good Thing (TM) - but what is it? What are these dependencies that you are talking about?
 
-### An example, if you please
+## An example, if you please
 
 Examples are a great way of clarifying thoughts and reasoning (I'll get back to that soon) so let's take one.
 

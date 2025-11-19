@@ -13,7 +13,7 @@ blogger_id: tag:blogger.com,1999:blog-36533086.post-1192963568942273739
 blogger_orig_url: https://www.marcusoft.net/2011/01/kanbanboards-part-iitwo-step-forward.html
 ---
 
-### Disclaimers and introduction
+## Disclaimers and introduction
 
 I am now the [father of three kids](https://www.marcusoft.net/2010/03/arvid-and-gustav.html). They are my number one priority. This project will come second. I'm doing the project for myself mostly, but I'm very humbled by the fact that several people already have shown interest in my undertakings.
 

@@ -24,7 +24,7 @@ To be a little more serious, I think that collecting data and then doing small e
 
 In this post, I'll show you how we did a small data gathering that didn't feel like data gathering at all.
 
-### Why Not Feel Like Data Gathering?
+## Why Not Feel Like Data Gathering?
 
 Every time I have introduced the idea of starting to measure how we're doing in lead time, throughput, or whatever have you - the first reaction is always a shudder. "No!? Why? We don't need to show that. We know how we're doing, right?"
 

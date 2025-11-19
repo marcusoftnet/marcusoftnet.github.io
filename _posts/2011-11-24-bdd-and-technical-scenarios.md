@@ -22,7 +22,7 @@ Sham’s question was something like this:
 > exist under the user story or am I wrong here? Maybe all tests should
 > be visible under a user story?
 
-#### TDD and BDD
+## TDD and BDD
 
 This is really one of the things we struggle with when coming from using TDD for a while and then starting doing BDD. In my opinion BDD is more than anything a communication tool that helps all parts of the development team to communicate and understand what is to be built – to build the right thing.
 
@@ -30,7 +30,7 @@ By using concrete scenarios and using in plain text we ensure that everybody can
 
 That we get a way to test our system (end to end), and in that way can handle regression testing in a very nice way, is just a side effect. A VERY nice one but still just a side effect. Just like in TDD the main benefit not really is the tests but rather the possibility to take baby steps and produce well designed code.
 
-#### What to do?
+### What to do?
 
 So after that long introduction… If you have technical stories or scenarios that your stakeholder cannot understand, I think you have a couple of possibilities:
 

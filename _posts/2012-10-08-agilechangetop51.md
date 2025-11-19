@@ -23,7 +23,7 @@ In this post, I wanted to quickly write down some ways of making sure that your 
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
 5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
-### 1 - Get a great "or else"-reason to change
+## 1 - Get a great "or else"-reason to change
 
 This is where most change initiatives fail, I would think. In order to change people, you need to give them a really good reason. In the Lean world, people often talk about a [sense of urgency](http://globalliteracy.org/content/kotters-8-step-change-model). You can sum this up with the following reasoning:
 

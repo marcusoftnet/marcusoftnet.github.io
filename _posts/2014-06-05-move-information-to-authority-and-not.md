@@ -47,7 +47,7 @@ Also, there’s a higher chance of lack of other things such as commitment, owne
 
 So, if we were to try the idea and advice of Captain Marquet and “move the authority to the information”. What differences will that make?
 
-### Cheaper
+## Cheaper
 
 ![Pennies](/img/pennies.jpg)
 

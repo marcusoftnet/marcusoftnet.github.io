@@ -60,7 +60,7 @@ Track start and stop date per item, calculate 50 and the 85 percentiles, create 
 
 The book is packed with nuggets (nudges?) of management gold like "[Move the authority to where the information is](https://www.marcusoft.net/2014/06/move-information-to-authority-and-not.html)", for example. I keep coming back to this inspiring story over and over again. Sadly I lost my copy, but it lives in my mind forever. This
 
-### Moved out
+## Moved out
 
 In this section, I've moved the near misses as I moved them out. These books are still awesome but don't fit my list due to the awesomeness of other books.
 
@@ -68,7 +68,7 @@ In this section, I've moved the near misses as I moved them out. These books are
 
 What I particularly love about this book is that you could basically give it to anyone in your organization and know that they would read it (!), get it and be inspired by it. No particular prerequisite knowledge is required. This ranks very high on my recommendation hit list.
 
-### My books
+## My books
 
 Yes, of course, I need to get this out of the way. I've written two books and I'm immensely proud of them both, but they are not on the list.
 

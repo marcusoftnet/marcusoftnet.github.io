@@ -23,7 +23,7 @@ Here are all the posts in the series
 
 We have done some progress cleaning up and linting our code.
 
-### Moving to async over generators - tests
+## Moving to async over generators - tests
 
 This is pretty good, but not there yet. There's a major thing bugging me and here is where we need to start untangle it.
 

@@ -45,7 +45,7 @@ There's nothing wrong with the structure of today, other than it looks a bit lik
 
 What if we just move that to an endpoint on the server? I was surprised that change did not only clean up `main.ejs` but also actually helped me refine and clarify each view.
 
-### Nav-bar
+## Nav-bar
 
 The `<nav>` can be improved by adding a `hx-trigger="load"` which means that we will call to an endpoint when its first loaded:
 
@@ -82,7 +82,7 @@ Now, when the `<nav hx-get="/nav" hx-trigger="load">` fires we will `HTTP GET /n
 
 Each part is easy to understand and reason about. The `nav` bar too, which is now tiny.
 
-### `<main>` - the home of the app
+## `<main>` - the home of the app
 
 Let's make a similar change to the `<main>` element:
 

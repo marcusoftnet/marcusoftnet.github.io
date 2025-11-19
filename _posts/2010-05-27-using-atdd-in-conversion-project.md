@@ -15,7 +15,7 @@ blogger_orig_url: https://www.marcusoft.net/2010/05/using-atdd-in-conversion-pro
 
 I have been involved in a lot of conversion project. More specific it has been converting legacy VB6 applications to .NET applications. I’m not sure why or how but I have found myself in many project like this.
 
-#### Common scenarios in conversion project
+## Common scenarios in conversion project
 
 Very often these project has an ideal picture that “it’s just a conversion”. “This is 1 to 1 project” is a very common phrase in many of the projects I have been involved in. That can be understood as: “just convert it in the new language – with the exact same features”. I have even been asked to do bug conversion – that is to also convert any bugs I find into the new language.
 
@@ -27,7 +27,7 @@ So – as a developer you are asked to do conversion with no requirements except
 
 The tester also have a hard time. Since there of course cannot be a one-to-one-conversion (features change in languages, a rewrite change the behavior of the code etc) and there is not requirement, you have to test case by case with only the old application as verification.
 
-#### ATDD to the rescue?
+### ATDD to the rescue?
 
 As readers of this blog know, I have lately snowed in on [agile testing](https://www.marcusoft.net/2008/11/agile-testing-how-we-get-it-to-work.html) (or [agile acceptance testing](https://www.marcusoft.net/2010/03/bdd-with-specflow-some-thoughts-after.html), or [specification by example](https://www.marcusoft.net/2010/04/specification-by-example-missing-link.html), or [BDD](https://www.marcusoft.net/search/label/BDD)). Using this kind of specification by example will give you the most when collaborating on them with your customer, I know. But in many cases, in conversion projects like above that is simple not possible.
 

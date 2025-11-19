@@ -21,7 +21,7 @@ This is the list - in order of importance:
 4. [Support the initiative](https://www.marcusoft.net/2012/10/agilechangetop54.html)
 5. [Use visualized data to improve](https://www.marcusoft.net/2012/10/agilechangetop55.html)
 
-### 3 - Let Them Change How They Work
+## 3 - Let Them Change How They Work
 
 You need to open up and let go of the wheel. An agile transformation is, if anything, a culture shift. Towards autonomy and away from top-level steering. This should go into the agile transformation too. In effect, this means, in the words of all agile coaches, to **take it to the team**.
 

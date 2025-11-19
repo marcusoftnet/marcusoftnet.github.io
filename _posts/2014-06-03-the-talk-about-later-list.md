@@ -48,7 +48,7 @@ Of course I don’t say that, but this is exactly what 14 year old Marcus (and 8
 
 In this situation it’s easy to get angry (and I sure have been a number of times), but I have now come up with another, more structured way to handle this. And it has pointed to an interesting fact about these comments.
 
-### Meet them
+## Meet them
 
 ![Stop and listen](/img/stoplisten_thumb.jpg)
 
@@ -56,7 +56,7 @@ Most important is to meet people in this need to air their disappointment. I oft
 
 > Thank you for your comment. But right now we don’t have time to talk about this.
 
-### Handle them
+## Handle them
 
 ![Blackboard](/img/Blackboard_thumb.jpg)
 

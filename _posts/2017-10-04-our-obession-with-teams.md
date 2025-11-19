@@ -52,7 +52,7 @@ And in the [business dictionary](http://www.businessdictionary.com/definition/te
 
 Yay! I was not to far off in my simplistic definition. The defining trait is that we are a team to do tasks, achieving goals and share rewards **together**.
 
-### Number one team
+## Number one team
 
 There's also a term being used more and more from the excellent [Five Dysfunctions of a team](https://www.marcusoft.net/2016/02/5-dysfunctions-of-a-team-exercise.html) book: *your number one team*. To my understanding this represent my home team. A group of people where I feel safe (physiologically) to share my ups and downs. I go to this group for support in hard decisions. The team has a united front behind which we support each other.
 

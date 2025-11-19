@@ -24,13 +24,13 @@ This was a real challenge since I don't know (nor want to learn) any <a href="ht
 
 This post describes my journey.
 
-### Getting a virtual windows installation in place
+## Getting a virtual windows installation in place
 
 I use OS X and <a href="http://www.virtualbox.org/" target="_blank">VirtualBox</a> to run virtual instances of windows. Creating a virtual image is simple enough in VirtualBox and then you can attach an .iso-file with the Windows installation.
 
 The Windows 8.1 installation was pretty fast and within 30-40 minutes I had a bare-bones Windows installation in place.
 
-### Getting my stuff in place - local version
+## Getting my stuff in place - local version
 
 One of the really cool things about Chocolatey is that you can install it directly from the prompt (that's cmd-prompt, no powershell stuff) with a command you just copy from <a href="http://chocolatey.org/" target="_blank">their homepage</a>:
 

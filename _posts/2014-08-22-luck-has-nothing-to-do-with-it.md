@@ -19,7 +19,7 @@ Now, I don't think luck has anything to do with it (no - this is not a post abou
 
 I'll share a few stories and then some thoughts in this post.
 
-### Example 1 - Clarinet players
+## Example 1 - Clarinet players
 
 I had the good fortune to do my military service in the [Royal Swedish Army Band](http://www.forsvarsmakten.se/sv/organisation/livgardet/forsvarsmusiken/armens-musikkar/) (1992 version) and playing there had a great influence on my musical life. I also got to meet some amazing musicians and some of them went on to great heights.
 
@@ -39,7 +39,7 @@ So I asked him:
 
 No, he wasn't. He was an awesome player. He practiced since forever. And kept practicing. That gave him margins. Luck had nothing to do with it.
 
-### Example 2 - Company X
+## Example 2 - Company X
 
 I have been working with an organization lately that was missing a vital permit. They were super late with their application. They official authorities promised to handle things as fast as possible, since they really needed that permit.
 

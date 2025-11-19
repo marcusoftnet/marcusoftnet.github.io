@@ -20,7 +20,7 @@ In this post, I’ll show you some ways I use the dynamic features and some tric
 
 Again – this is not the documentation for SpecFlow.Assist.Dynamic – [that can be found here](https://github.com/marcusoftnet/SpecFlow.Assist.Dynamic/wiki).
 
-### Installation
+## Installation
 
 With the power of [NuGet](http://www.nuget.org/), it’s super-easy to install SpecFlow.Assist.Dynamic by simply running:
 

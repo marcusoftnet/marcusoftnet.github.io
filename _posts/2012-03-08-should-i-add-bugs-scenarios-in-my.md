@@ -19,7 +19,7 @@ I got a very interesting and I think common question from Hugo that I thought I�
 
 The reason for adding bugs in the same .feature file as the specification itself is of course compelling; over time you would get a long list of every change ever made to the specification. Every bug we’ve fixed and it’s always up-to-date and automatically verified against the system. Nice…. but are there some drawbacks?
 
-### Bug scenarios – yes please
+## Bug scenarios – yes please
 
 Firstly let’s agree on that creating [Cucumber](https://github.com/aslakhellesoy/cucumber/wiki/) style scenarios for bugs that occurs is a very good thing indeed. It’s a nice little work item and it automatically sorts the “I cannot reproduce”-problem. Also when the scenario is complete you have nice regression for bugs that you have fixed.
 I also recommend this a good starting point for people who haven’t done test automation before. Start by automating a bug or two making sure that they don’t come back once you have fixed them.

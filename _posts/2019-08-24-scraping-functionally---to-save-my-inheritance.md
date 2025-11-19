@@ -19,7 +19,7 @@ I'm getting ahead of me - first we need to get the data. This post describes how
 
 <!-- excerpt-end -->
 
-### Task, scope, and approach
+## Task, scope, and approach
 
 I plan to get the data from the web page - a process known as [web scraping](https://en.wikipedia.org/wiki/Web_scraping).
 
@@ -27,7 +27,7 @@ My goal is to get all the quotes with its metadata (date, name of kid, text and 
 
 Finally, I want to try to do this in as much functional programming style as possible. And use `async/await` as much as possible as I think it makes asynchronous programming much more readable.
 
-### But why not just get the data from the provider?
+## But why not just get the data from the provider?
 
 There are many other ways of doing this, of course, and you might feel like this:
 

@@ -18,7 +18,7 @@ Ok – one of the things I have been doing in the Pickles project is to create [
 
 I learned a great deal about PowerShell and NuGet when I put that NuGet package together and since it was quite some time since I blogged I thought I’ll write down my experiences. This post is a about the NuGet package. The goal of my package is to NOT add any references to any projects. I just want it to drop some assemblies as tools and then use the [“Import-Module”](http://technet.microsoft.com/en-us/library/dd819454.aspx) PowerShell command to make the commandlet I’ve written available to the Package Manager Console.
 
-### NuSpec
+## NuSpec
 
 [NuSpec is a file format](http://docs.nuget.org/docs/reference/nuspec-reference) in which you specify how your package should be built. It’s actually not necessary in most cases since NuGet can package a Visual Studio project file straight off. But if you want more fine-grained control over how the package is created then you might want to create the NuSpec-file by hand.
 

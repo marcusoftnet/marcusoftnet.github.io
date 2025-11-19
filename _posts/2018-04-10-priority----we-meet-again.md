@@ -56,7 +56,7 @@ Both of these problems are easily fixed though:
    2. We have just not thought about the **outcome** of our work, just the activities or the output. "Improve process x" is a good example. Why? How much? How can an improvement be seen? What is it now? What is reasonable to achieve, within how long time box?
    3. As you saw from the last question these two approaches of making this type of work more concrete and actionable. And hence easier to prioritize.
 
-### Conclusion
+## Conclusion
 
 I would recommend you to always refrain from adding a Priority 0-category, and instead take that opportunity to learn about the consequences of re-prioritizing. Adding something at Priority 1 means that all the other things need to move down a notch.
 

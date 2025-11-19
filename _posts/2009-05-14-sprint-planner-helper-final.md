@@ -20,7 +20,7 @@ Secondly – the main reason and purpose of the project was to learn, not to pro
 
 OK – what were my learning goals and where have they taken me?
 
-#### [DDD](http://en.wikipedia.org/wiki/Domain-driven_design)
+## [DDD](http://en.wikipedia.org/wiki/Domain-driven_design)
 
 The main purpose was to look into Domain Driven Design. I feel that I have got a nice grasp around that subject – and I most certainly want to learn more. I’ll write a separate post about my thoughts on DDD and its implications on your project.
 
@@ -28,7 +28,7 @@ The main purpose was to look into Domain Driven Design. I feel that I have got a
 
 [Here is my post on DDD](https://www.marcusoft.net/2009/05/ddd-whats-deal.html)
 
-#### [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
+### [TDD](http://en.wikipedia.org/wiki/Test-driven_development)
 
 When I started the Sprint Planner Helper project, I liked tests. Now they are a part of the way I code. Over and over again you are struck by the fact that doing test first actually improves your code quality and helps you find flaws in your code early. I like that. Might be a post on these findings also.
 

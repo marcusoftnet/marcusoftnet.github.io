@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2010/10/no-more-bugs-thought-experim
 
 I’m reading the excellent <a href="http://heathbrothers.com/switch/" target="_blank">Switch: How to Change Things When Change Is Hard</a>. And in it I stumbled on a interesting story, and when I started to think about how it could be applied in the Software development world I really got excited. But all in due time. Here is the story, in my shortened and simplified form (be sure to buy the book):
 
-### BP
+## BP
 
 The example is taken from a chapter (4) called Point to the destination that talks about good ways to show people where the goal is. Surrounding this example they are talking about sending a postcard from the future; Hey, look how warm and wonderful everything is here in the future when we have changed all that stuff
 

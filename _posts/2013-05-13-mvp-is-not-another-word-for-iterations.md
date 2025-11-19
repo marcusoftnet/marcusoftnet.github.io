@@ -13,13 +13,13 @@ blogger_orig_url: https://www.marcusoft.net/2013/05/mvp-is-not-another-word-for-
 
 In recent years, the [Lean Startup movement](http://theleanstartup.com/principles) has gained significant traction. It offers a compelling framework for rapidly validating startup ideas. However, like many concepts, it's often misinterpreted and misapplied. In this post, I'll share some reflections on the concept of Minimal Viable Product (MVP) and its relationship to learning.
 
-### MVP
+## MVP
 
 At the core of Lean startup methodology lies the scientific method, emphasizing experimentation and learning. The MVP, or Minimal Viable Product, serves as a vehicle for conducting these experiments. It's not merely a delivery package but a tool for validating hypotheses and gathering insights from customers.
 
 ![Lean Startup Feedback Loop](http://lean.st/images/startup-feedback-loop1.png?1315940898)
 
-### User Stories, MMFs, Themes, and Epics
+## User Stories, MMFs, Themes, and Epics
 
 It's essential to distinguish between MVPs and other project artifacts like user stories, epics, themes, and MMFs (Minimal Marketable Features). While these terms often overlap, they serve different purposes and represent different levels of granularity in project planning and execution.
 

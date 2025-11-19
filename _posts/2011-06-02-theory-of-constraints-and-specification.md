@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2011/06/theory-of-constraints-and-sp
 
 Following up on my previous post about [Specification by Example](http://specificationbyexample.com/) and [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_Constraints), I’ve received insightful feedback from colleagues, particularly Håkan Forss, whom I greatly respect.
 
-### The Five Focusing Steps
+## The Five Focusing Steps
 
 Håkan pointed out some valuable perspectives on the Theory of Constraints' [five focusing steps](http://en.wikipedia.org/wiki/Theory_of_Constraints#The_five_focusing_steps):
 
@@ -24,7 +24,7 @@ Håkan pointed out some valuable perspectives on the Theory of Constraints' [fiv
 4. **Elevate the Constraint**
 5. **If the Constraint Moves, Return to Step 1**
 
-#### **Assuming the Goal of the Organization**
+### **Assuming the Goal of the Organization**
 
 The first step is to articulate the goal. In system development, this might be phrased as:
 

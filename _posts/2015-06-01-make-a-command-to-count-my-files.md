@@ -23,7 +23,7 @@ First I found a nice little combination of commands that did exactly that:
 
 <code>ls -1 | wc -l</code>
 
-Yeah, exactly. That doesn't look to hard. And yes - I would never remember that either. My memory is excellent but very short.  
+Yeah, exactly. That doesn't look to hard. And yes - I would never remember that either. My memory is excellent but very short.
 
 ## Remember it
 
@@ -76,7 +76,7 @@ As everything Linux the commands are terse and super powerful, but basically the
 Put that into your <code>~/.bashrc</code>, save it and restart your Terminal. And now you can go:
 
 ```bash
-marcus$ count 
+marcus$ count
       13
 marcus$ count Projects/blog/marcusoftnet.github.io/_posts/
      977

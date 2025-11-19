@@ -18,7 +18,7 @@ After my latest [post-of-admitting-failures](https://www.marcusoft.net/2011/01/k
 
 I actually write these posts as I code along. It’s forward only mode in other words... Almost.
 
-### Comments
+## Comments
 
 One of the nicest things that happened as a result from the last post was that [Darren Cauthon](https://github.com/darrencauthon) gave me some [insightful comments and patches](https://github.com/marcusoftnet/KanbanBoards/pull/1) to go with them. This “social coding” that is going on, on [www.github.com](http://www.github.com) (a.k.a. programmers Facebook) is really, really cool.
 

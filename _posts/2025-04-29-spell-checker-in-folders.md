@@ -97,7 +97,7 @@ To get the pre-commit-checks to work I had to update the script to return an err
 
 set -e
 
-# Check if a folder argument is passed
+## Check if a folder argument is passed
 if [ -z "$1" ]; then
   echo "Usage: $0 <folder>"
   exit 1
@@ -105,26 +105,26 @@ fi
 
 TARGET_FOLDER="$1"
 
-# Check folder exists
+## Check folder exists
 if [ ! -d "$TARGET_FOLDER" ]; then
   echo "Error: Folder '$TARGET_FOLDER' not found."
   exit 1
 fi
 
-# Path to VS Code user settings
+## Path to VS Code user settings
 VSCODE_SETTINGS="$HOME/Library/Application Support/Code/User/settings.json"
 if [ ! -f "$VSCODE_SETTINGS" ]; then
   echo "VS Code settings.json not found at $VSCODE_SETTINGS"
   exit 1
 fi
 
-# Extract cSpell.userWords using jq
+## Extract cSpell.userWords using jq
 USER_WORDS=$(grep -vE '^\s*//' "$VSCODE_SETTINGS" | jq '.["cSpell.userWords"] // []')
 if [ "$USER_WORDS" == "null" ]; then
   USER_WORDS="[]"
 fi
 
-# Create temporary cspell config
+## Create temporary cspell config
 TEMP_CONFIG="$(mktemp).json"
 cat > "$TEMP_CONFIG" <<EOF
 {
@@ -133,17 +133,17 @@ cat > "$TEMP_CONFIG" <<EOF
   "words": $USER_WORDS
 }
 EOF
-# echo "Created temporary cspell config at $TEMP_CONFIG"
+## echo "Created temporary cspell config at $TEMP_CONFIG"
 
-# Run cspell on the target folder
+## Run cspell on the target folder
 npx --yes cspell --quiet --config "$TEMP_CONFIG" "$TARGET_FOLDER/**/*"
 SPELL_STATUS=$?
 
-# Clean up
+## Clean up
 rm "$TEMP_CONFIG"
-# echo "Temporary config deleted."
+## echo "Temporary config deleted."
 
-# Report and exit with the spell check status
+## Report and exit with the spell check status
 if [ $SPELL_STATUS -ne 0 ]; then
   echo "❌ Spelling check failed."
 else

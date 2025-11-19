@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2011/07/bdd-on-net-framework-and-whe
 
 I recently received an insightful email from Jose Samonte asking for resources on [Behavior-Driven Development (BDD)](http://en.wikipedia.org/wiki/Behavior_Driven_Development) and where to start learning about it. Given the depth of my own journey with BDD, I thought I'd share my experiences and recommendations publicly.
 
-### Start Here
+## Start Here
 
 My introduction to BDD began with a blog post by [Dan North](http://dannorth.net): [Introducing BDD](http://dannorth.net/introducing-bdd). This post provides a solid foundation on the origins and principles of BDD. For further reading, Dan’s article [“What’s in a Story”](http://dannorth.net/whats-in-a-story) is also highly recommended as it delves into the concept of user stories in BDD.
 

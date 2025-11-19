@@ -23,7 +23,7 @@ autonomy in action.
 In this blog post I'll contrast the two models of management and see if
 there's any similarities with our normal working conditions.
 
-### Command and control
+## Command and control
 
 Imagine the whole school going to a boring outing, probably to a place
 the have been to many times before. To learn stuff that they are

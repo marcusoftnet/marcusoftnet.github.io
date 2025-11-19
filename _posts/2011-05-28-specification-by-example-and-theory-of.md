@@ -14,7 +14,7 @@ blogger_orig_url: https://www.marcusoft.net/2011/05/specification-by-example-and
 
 Since I first encountered [Specification by Example](http://specificationbyexample.com/) (or [BDD](http://en.wikipedia.org/wiki/Behavior_Driven_Development) as it’s also known), I felt it had a natural alignment with Lean thinking and related theories. Today, I want to explore how the [Theory of Constraints](http://en.wikipedia.org/wiki/Theory_of_Constraints) can be applied through Specification by Example to enhance the system development process.
 
-#### Standing on the Shoulders of Giants
+## Standing on the Shoulders of Giants
 
 This post reflects my own thoughts and tries to piece together insights from various experts. I owe much to pioneers like [Dan North](http://www.blogger.com/www.dannorth.net), [Elijah Goldratt](http://en.wikipedia.org/wiki/Eliyahu_M._Goldratt), and [Gojko Adzic](http://gojko.net/), among others.
 

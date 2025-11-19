@@ -36,7 +36,7 @@ The number of times I have felt like I'm just complaining and never bringing goo
 
 Just because there's a better tomorrow doesn't mean today sucks.
 
-### Two things: listen and context
+## Two things: listen and context
 
 ![Listen](/img/168602577_61ff98fdff_z.jpg)
 

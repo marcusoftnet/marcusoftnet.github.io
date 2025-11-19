@@ -42,7 +42,7 @@ As a consequence we ended up with a very modular system that was easy to change 
 
 We had optimized for change. Because professor Davidson told us it was coming.
 
-### And again
+## And again
 
 Let me tell you a story: this a story about a system that is developed about 25 years ago. It is a business critical system in a big Swedish company. When I say business critical I mean the products handled in it constitute about 80% of the company revenue.
 
@@ -58,7 +58,7 @@ Everything around the setup for this system was to handle risk and changes by ai
 
 They system was optimized for stability. Let me also underline that I don't think lesser of the people in the second story. They are great people but they were thrown into a system that was optimized for stability. That's very risky.
 
-### Conclusion
+## Conclusion
 
 These two stories got me thinking.
 

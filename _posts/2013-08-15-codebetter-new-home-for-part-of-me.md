@@ -33,7 +33,7 @@ In some of the cases above, I'm still convinced that they've got the wrong perso
 
 I'm very humbled by all of this, and looking back, I truly cannot comprehend how lucky I've been.
 
-### CodeBetter
+## CodeBetter
 
 If you look carefully on the list above, you see CodeBetter in the list. Right out of the blue, I got contacted with the following question:
 

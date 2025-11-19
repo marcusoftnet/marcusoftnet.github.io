@@ -19,7 +19,7 @@ I've just got my copy of the [Impact Mapping](http://impactmapping.org/book.php)
 
 In this post, I'll write down some thoughts after reading the book from cover to cover. I wanted to do this on Amazon but sadly I cannot since they only accept reviews from people who bought the book directly from them. Well, this will have to do instead then. I'll hint right now that this would be a 5-star review (to add to the 9 other 5-star reviews that are already on Amazon).
 
-### What is it?
+## What is it?
 
 Impact mapping is described to great effect at the official site; [www.impactMapping.org](http://www.impactmapping.org/). So here, I'll present my own journey up to Impact mapping. This is by no means the journey everyone has done but it helps me to place it in the right place.
 

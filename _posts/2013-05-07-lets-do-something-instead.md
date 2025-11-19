@@ -18,7 +18,7 @@ But sometimes I think we think too much (cannot wait for the reaction to  that c
 
 Let me give you a few ... well examples and ideas that have formed my thinking around this.
 
-### Getting to know new people
+## Getting to know new people
 
 ![From http://redstarresume.wordpress.com](http://redstarresume.files.wordpress.com/2011/08/09571bg.gif)
 
@@ -43,7 +43,7 @@ So if I ever got the opportunity to hire people for my own money I would take 
 
 It's probably a bit more expensive but well worth it in the long run.
 
-### Team and potential problems
+## Team and potential problems
 
 I've been involved in putting new teams together at lot, merging and splitting old groups. Inevitable a discussion takes place as the new team is forming up around; what will we do now, will our "old" backlog be considered, who will take care of X, who's calling the shots in the new team etc.
 

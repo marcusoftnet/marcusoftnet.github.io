@@ -49,7 +49,7 @@ Instead of talking about incomes and expenditures, prognosis and budget, debts, 
 
 > How many customers do we need to have each day to do well?
 
-### Visualization
+## Visualization
 
 ![Board](/img/board.png)
 
@@ -85,7 +85,7 @@ We have made some big simplifications, for example:
 
 This is intentional since we just want to create quick awareness for everyone. The details can be shown on request.
 
-### Initial Reflections
+## Initial Reflections
 
 Even though it took about a week of discussions and preparations to get this in front of everyone, I could almost *hear* the light bulbs turn on as it was presented to the staff. Already after the first time, we had some new ideas.
 

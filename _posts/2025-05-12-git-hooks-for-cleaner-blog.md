@@ -29,7 +29,7 @@ The markdown linting is another script that I put in the `scripts` folder of [th
 ```bash
 #!/bin/bash
 
-# Usage: bash lint-all.sh _posts
+## Usage: bash lint-all.sh _posts
 
 if [ -z "$1" ]; then
   echo "Usage: $0 <directory>"
@@ -39,7 +39,7 @@ fi
 TARGET_DIR="$1"
 FIX_FLAG="$2"
 
-# echo "Linting Markdown files in directory: $TARGET_DIR"
+## echo "Linting Markdown files in directory: $TARGET_DIR"
 
 npx --yes markdownlint-cli --config ./.markdownlint.json $TARGET_DIR $FIX_FLAG
 
@@ -69,15 +69,15 @@ This can be accomplished with the following script:
 ```bash
 #!/usr/bin/env bash
 
-# Run spelling check
+## Run spelling check
 bash ./scripts/check-spelling.sh _posts
 SPELL_STATUS=$?
 
-# Run markdown lint
+## Run markdown lint
 bash ./scripts/markdown-lint.sh _posts --fix
 LINT_STATUS=$?
 
-# Check results
+## Check results
 if [ $SPELL_STATUS -ne 0 ] || [ $LINT_STATUS -ne 0 ]; then
   echo "Pre-commit checks failed."
   [ $SPELL_STATUS -ne 0 ] && echo "❌ Spelling check failed"

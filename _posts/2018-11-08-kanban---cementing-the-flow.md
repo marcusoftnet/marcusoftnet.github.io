@@ -59,7 +59,7 @@ But in essence:
 
 > Kanban is a method that helps you improve processes.
 
-### What is kanban for, really?
+## What is kanban for, really?
 
 Ok, what good is that then? How will this help me?, you might ask.
 

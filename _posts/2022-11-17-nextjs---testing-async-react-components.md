@@ -64,7 +64,7 @@ npm run dev
 
 (A very cool Next.JS 13 is that it automatically creates a root layout for you, when you access pages missing the. Note the `./app/layout.tsx` file created)
 
-### Writing a component worth testing
+## Writing a component worth testing
 
 Let's write a non-trivial component that we can use for test. But we will make it work as ~~God~~Next.Js 13 intended - a server component using `async`.
 

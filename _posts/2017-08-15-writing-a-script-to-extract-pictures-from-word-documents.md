@@ -15,7 +15,7 @@ The problem is easy enough to describe: I wanted to extract all the images from 
 
 <!-- excerpt-end -->
 
-### TL;DR - just the script
+## TL;DR - just the script
 
 Here's the bash script that I ended up with
 

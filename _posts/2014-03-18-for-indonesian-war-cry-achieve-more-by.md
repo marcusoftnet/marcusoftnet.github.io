@@ -18,7 +18,7 @@ So if you don't want to read this, please stop now. I'll soon come back to my no
 
 Here is the second of two short articles that I've written for the Indonesian War Cry. [You can read the first here.](https://www.marcusoft.net/2014/03/for-indonesian-war-cry-on-motivation.html) This article is about Achieving more by doing less. I hope you like it.
 
-### Achieving more by doing less
+## Achieving more by doing less
 
 In my [last article](http://achieve/) I talked about motivation and what motivates me. To sum it up it's Jesus loves to me that wants me to be the best I can be. To do the MOST good.
 

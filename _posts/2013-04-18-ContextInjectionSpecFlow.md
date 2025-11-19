@@ -33,7 +33,7 @@ Here you can see that the WithdrawSteps (in the WithdrawSteps.cs file at the bot
 
 You could of course resolve other stuff with this approach as well; reference data, test data class etc. but I think it really shines when it comes to stich your testing infrastructure together.
 
-### Going advanced
+## Going advanced
 
 I told you above about the default, resolve-parameter-less-constructor-objects features of the context injection inversion of control container. There's an advanced version to this as well... Advanced, by the way, it contains 2 methods for registering types (`RegisterInstanceAs(new Foo(), typeof (IFoo))` and `RegisterTypeAs()`) and a single method for resolving.
 
@@ -43,6 +43,6 @@ To use it you could write a [`BeforeScenario`](https://www.marcusoft.net/2010/12
 
 This is great if you need to resolve objects that don't have parameterless constructors and you can also utilize this approach if you have objects that you just want one of. One example that springs to mind is a WebDriver object. This is often expensive and resource intensive to create and you often just need one active per scenario.
 
-### Wrap up
+## Wrap up
 
 The Context Injection feature of SpecFlow is not very well known and using it is rare in the implementations I've seen. That's a pity since it can clean up your testing infrastructure quite a bit. And you should. Testing code is also code - it deserves your love too.

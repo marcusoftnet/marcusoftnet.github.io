@@ -22,7 +22,7 @@ of the KPI’s that I hear is being used.
 Let’s read up on them first and then I’ll talk about the one I suggested
 and why.
 
-### What is a KPI anyway?
+## What is a KPI anyway?
 
 From the <a href="http://en.wikipedia.org/wiki/Performance_indicator"
 target="_blank">Wikipedia page</a> we learn that it’s a “type of

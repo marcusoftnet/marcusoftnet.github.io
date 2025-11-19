@@ -22,11 +22,11 @@ I almost always have those kinds of revelations after coaching gigs. Sometimes d
 
 The story I'm about to tell you is of such an episode. It's from my, by far, biggest agile (brrrr...) roll-out task. To me, it all ended in a big meh, but I know that some people there were happier when I left and I supposed that meant something.
 
-#### DISCLAIMER
+## DISCLAIMER
 
 Below when I write "I" we actually were a complete team. If I got these aha-moments earlier I could have helped us all to act differently and hence get a better output. But I didn't. It came now. No shadow should fall on my co-workers. If shadows are to fall :)
 
-### What I Did
+## What I Did
 
 I was brought in to help the banking part of a big insurance company to apply agile in their IT development cycle. We're talking 150-200 persons involved, 5 development teams and 3 business teams (did I smell something just here?) and quite a few other functions around them such as deployment, maintenance, etc.
 
