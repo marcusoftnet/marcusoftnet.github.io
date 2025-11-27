@@ -2,7 +2,7 @@
 layout: post
 title: "Some thoughts on lead time in the age of AI"
 author: "Marcus Hammarberg"
-date: 2025-10-29 04:00:00
+date: 2025-11-27 04:00:00
 tags:
   - Lean
   - Flow
