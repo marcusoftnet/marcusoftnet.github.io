@@ -50,7 +50,6 @@ I decided to implement an Adapter with a shared interface. Like this, for exampl
 ```typescript
 export type DatabaseProviderName = "sqlite" | "postgres";
 
-
 export interface DbAdapter {
   query<T = unknown>(sql: string, params?: unknown[]): Promise<T[]>;
   queryOne<T = unknown>(sql: string, params?: unknown[]): Promise<T | null>;
@@ -85,13 +84,8 @@ export class SqliteAdapter implements DbAdapter {
   // Initialization helpers
   // removed for brevity
   // ------------------------
-  private ensureDatabaseDirectory() {
-    // code
-  }
-
-  private ensureSchema() {
-    // more code
-  }
+  private ensureDatabaseDirectory() { /*...*/ }
+  private ensureSchema()  { /*...*/ }
 
   // ------------------------
   // DbAdapter implementation
