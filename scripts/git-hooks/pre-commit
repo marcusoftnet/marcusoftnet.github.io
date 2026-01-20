@@ -16,7 +16,7 @@ if [ $SPELL_STATUS -ne 0 ] || [ $LINT_STATUS -ne 0 ]; then
   exit 1
 fi
 
-# Regenerate wordclouds, if needed
+# Regenerate word clouds, if needed
 bash ./scripts/create_wordcloud_precommit.sh
 
 # Stage the regenerated wordcloud files for commit
