@@ -13,7 +13,7 @@ This is a post that could end up causing me problems—or at least being flagged
 
 `I've started going naked to meetings!`
 
-To clarify a bit, I've started to go _device_ naked to meetings. In other words - I try, hard, to not bring my devices to meetings.
+To clarify a bit, I've started to go _device_ naked to meetings. In other words - I try, hard, to not bring any of my devices to meetings. If possible. It is hard work being device naked, I can tell you.
 
 Any other interpretation would render disgust and probably me without a job. The social code in Sweden doesn't really allow for your dirty thoughts, dear reader.
 

@@ -19,6 +19,9 @@ fi
 # Regenerate wordclouds, if needed
 bash ./scripts/create_wordcloud_precommit.sh
 
+# Stage the regenerated wordcloud files for commit
+git add data/wc/wordcloud-*.json
+
 echo "✅ All pre-commit checks passed."
 
 exit 0
