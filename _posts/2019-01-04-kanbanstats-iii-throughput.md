@@ -29,7 +29,7 @@ With the data, we have this is pretty easy to get hold of.
 
 Like before, the goal is to not touch the "Raw data"-tab so that our exported data can be updated in that one place and the rest will be calculated and derived from that tab.
 
-Therefore, let's create a new tab "Throughput calculations" and do all our calculations in there.
+therefore, let's create a new tab "Throughput calculations" and do all our calculations in there.
 
 In the end, we will move the charts we create to the "Dashboard"-tab as before.
 

@@ -44,7 +44,7 @@ The bad part with this approach is that it [doesn't work](https://www.marcusoft.
 
 Just about all the things that we want out of a process for *developing* something. Fast feedback and the possibility to change frequently and fast.
 
-Therefore many companies nowadays create *cross* functional teams, with responsibilities for the effect of the outcome of their work. Often they are responsible for a business capability such as order fulfillment or search or something similar. Work then can be completed within the bounds of one such team. If not we change the work to fit that structure, by breaking it down.
+therefore many companies nowadays create *cross* functional teams, with responsibilities for the effect of the outcome of their work. Often they are responsible for a business capability such as order fulfillment or search or something similar. Work then can be completed within the bounds of one such team. If not we change the work to fit that structure, by breaking it down.
 
 ![Cross-Functional Team](/img/CrossFunctionalTeam.png)
 

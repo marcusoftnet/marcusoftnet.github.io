@@ -42,7 +42,7 @@ I've learned, the hard way, that writing any kind of code requires ~a few~ many 
 
 For that reason I set myself up in away that support this iteration. For that reason I clean up the output folder in the first set, like this: `rm -rf zips`.
 
-The actual algorithm builds on the fact that Word documents (.docx format) are actually zip files. My first step is therefor to copy them to my *working* directory `zips` with the command `cp docs/*.docx zips`
+The actual algorithm builds on the fact that Word documents (.docx format) are actually zip files. My first step is therefore to copy them to my *working* directory `zips` with the command `cp docs/*.docx zips`
 
 Once the documents are in the working directory I need to change the extension of each file, from `.docx` to `.zip`. I found no easy way to do this with a single command, but rather ended up iterating over them.
 

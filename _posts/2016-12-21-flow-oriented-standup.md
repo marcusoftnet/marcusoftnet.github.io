@@ -82,7 +82,7 @@ I often muse over how many (big) projects are reporting progress:
 
 Especially that last one is troublesome I think. Many projects run into the green-green-green-red reporting problems. Why? Because the last 10% of the time is where 80% of the work needs to happen. Maybe. Or more. Or less. In short - we don't know what we haven't completed yet.
 
-Therefore I tweeted this the other day:
+therefore I tweeted this the other day:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t ask &quot;how much is done&quot;. <br>Ask &quot;what can I use in production now?&quot; <a href="https://twitter.com/hashtag/workingSoftware?src=hash">#workingSoftware</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/lean?src=hash">#lean</a></p>&mdash; Marcus Hammarberg (@marcusoftnet) <a href="https://twitter.com/marcusoftnet/status/809726873467027456">December 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

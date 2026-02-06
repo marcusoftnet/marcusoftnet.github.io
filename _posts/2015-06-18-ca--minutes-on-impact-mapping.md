@@ -30,7 +30,7 @@ Please read the reason and ideas behind the [entire series in the first post](/2
 
 <!-- excerpt-end -->
 
-In this presentation I try to be very practical, as opposed on the previous three where I've been more abstract and high flying. Therefor I start of right away with and example where we create a impact map.
+In this presentation I try to be very practical, as opposed on the previous three where I've been more abstract and high flying. therefore I start of right away with and example where we create a impact map.
 
 After that it's easier to describe what a impact map is, why it works so great and the theories behind it. For me it's summed up in three words:
 

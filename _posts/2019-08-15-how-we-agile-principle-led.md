@@ -128,7 +128,7 @@ But where possible we have created teams that have an area, a couple of discrete
 
 ### Why
 
-We wanted the teams to be as autonomous as possible, which for starters means that we want the people needed to make decisions in the team. Therefore there are business people (what are the IT-people, btw? Not-business? Ah, I'll leave that to another blog post) in each team.
+We wanted the teams to be as autonomous as possible, which for starters means that we want the people needed to make decisions in the team. therefore there are business people (what are the IT-people, btw? Not-business? Ah, I'll leave that to another blog post) in each team.
 
 Where we succeed with this we see fast-moving teams that continuously make changes in their plans to reach the effects and values. We also notice a great understanding across the chasm between IT and business; where the sales representative is speaking passionately about the need for technical debt clean up and the developer has deep understanding in the inner workings of our most complicated financial instruments sales stats.
 

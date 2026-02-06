@@ -73,7 +73,7 @@ The other thing that made me take a good stare at myself was that I was lining u
 - “so every other programmer will just sit around doing nothing?”
 - “do you have any studies that shows that this is superior?”
 
-These are questions that I haven’t been able to answer and therefor have asked stakeholders to put trust us in. Now that I’m introduced to a new concept I’m questioning it in the same way. Where’s the trust now? Where’s my sense of “try it”? Shame on me.
+These are questions that I haven’t been able to answer and therefore have asked stakeholders to put trust us in. Now that I’m introduced to a new concept I’m questioning it in the same way. Where’s the trust now? Where’s my sense of “try it”? Shame on me.
 
 Finally I’ve seen mob programming in action, tried it a couple of times and *knows* that it works. One of those episodes was at my current client. One team had started to work on a major change in the domain model. I’m talking real foundational stuff – like introducing the concept of a Product into a domain that was really around products but didn’t have that concept in place today. That kind of changes thats referred to as “heart surgery”.
 

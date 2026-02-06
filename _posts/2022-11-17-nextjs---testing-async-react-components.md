@@ -14,7 +14,7 @@ But what they still are lacking, and for the life of me I cannot understand why,
 
 This caused me and the group I was teaching considerable head-ache - especially when we tried to test the [server-side `async` components](https://nextjs.org/docs/advanced-features/react-18/server-components) that Next.JS is plugging hard.
 
-Therefor I have two goals with this post:
+therefore I have two goals with this post:
 
 1. Help me (and you?) to easily get started with testing
 2. Show a way to test `async` server components

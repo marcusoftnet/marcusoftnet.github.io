@@ -79,7 +79,7 @@ If you read my [previous article](https://www.marcusoft.net/2014/03/for-indonesi
 
 What in our life could we stop doing, simply because it's not valuable? Which of your "pens" could you put down?
 
-- Worries? [Matt 6:34](http://www.biblegateway.com/passage/?search=matthew+6%3A34&amp;version=NIV) - Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+- Worries? [Matt 6:34](http://www.biblegateway.com/passage/?search=matthew+6%3A34&amp;version=NIV) - therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 - Money? [Matt 6:19-21](http://www.biblegateway.com/passage/?search=Matt+6%3A19-21&amp;version=NIV) - Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. For where your treasure is, there your heart will be also.
 - Gossip? [Proverbs 26:20](http://www.biblegateway.com/passage/?search=Proverbs+26%3A20&amp;version=NIV) - Without wood a fire goes out; without a gossip a quarrel dies down.
 - My own importance or position? [Matt 6:5](http://www.biblegateway.com/passage/?search=Matt+6%3A5&amp;version=NIV) - And when you pray, do not be like the hypocrites, for they love to pray standing in the synagogues and on the street corners to be seen by others. Truly I tell you, they have received their reward in full.

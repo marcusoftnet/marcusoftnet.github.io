@@ -26,7 +26,7 @@ Blocked items are an exception to how we want work to flow. [Waiting should not 
 
 In a retrospective, we invite criticism, improvement suggestions ([yes - changes](https://www.marcusoft.net/2013/10/YesITalkAboutChange.html)), and bringing up celebrations and problems. Allowing this to happen and taking responsibility for trying to make it better is a way to build a team.
 
-Therefore be thoughtful of if/or when inviting outside people into your retrospectives - it's a safe space for the team to improve the team. It forms the team together into a well-functioning group that trusts each other and works together toward a goal, i.e. a team.
+therefore be thoughtful of if/or when inviting outside people into your retrospectives - it's a safe space for the team to improve the team. It forms the team together into a well-functioning group that trusts each other and works together toward a goal, i.e. a team.
 
 ## One improvement is enough
 

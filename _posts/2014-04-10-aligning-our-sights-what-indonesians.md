@@ -46,7 +46,7 @@ I now work in Indonesia - that's a big change. I also work for the Salvation Arm
 
 Typically the whole thing is over in about 12 minutes. Sometimes... when we need to align more, maybe... it can take up to 30 minutes. I've come to value these gatherings immensely.
 
-For a long time I thought that this was a Salvation Army / church thing. It feels "churchy", does it not. Therefor I was very surprised when I started to walk my kids to school (when their school started) to see other workplaces doing the same thing:
+For a long time I thought that this was a Salvation Army / church thing. It feels "churchy", does it not. therefore I was very surprised when I started to walk my kids to school (when their school started) to see other workplaces doing the same thing:
 
 - The military police office gathers every morning
 - The local bank branch gathers on their court yard

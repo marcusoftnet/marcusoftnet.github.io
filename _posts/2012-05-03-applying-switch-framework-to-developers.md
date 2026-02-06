@@ -58,7 +58,7 @@ the work you are doing. In an agile setting you instead want to test and
 complete the work as far as possible as soon as possible. And get fast
 feedback on when you are breaking things that used to work.
 
-Therefore a lot of agile practices focus on automated testing, for
+therefore a lot of agile practices focus on automated testing, for
 example <a href="http://en.wikipedia.org/wiki/Test-driven_development"
 target="_blank">TDD</a>, <a
 href="http://www.slideshare.net/nashjain/acceptance-test-driven-development-350264"

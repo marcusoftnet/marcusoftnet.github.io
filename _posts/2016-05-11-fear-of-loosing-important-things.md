@@ -44,7 +44,7 @@ I have a little question that I ask people to show that requirements rot, and to
 
 > If I write a requirement on a paper here and put it on this table. Would you want to start implementing it in 1 year without changing or looking at it? 6 months? 3 months?
 
-The most common answer is around 1-3 months depending on the requirement. Because (most) everyone realizes that requirements rot. Therefore, we want to write as little as possible (just as with code, by the way) to remember the conversations we had, **and** we want to do that as close as possible to the implementation of the feature.
+The most common answer is around 1-3 months depending on the requirement. Because (most) everyone realizes that requirements rot. therefore, we want to write as little as possible (just as with code, by the way) to remember the conversations we had, **and** we want to do that as close as possible to the implementation of the feature.
 
 But that requires that you know your goals and strategies for getting there.
 

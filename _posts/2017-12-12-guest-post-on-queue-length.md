@@ -23,7 +23,7 @@ When I got the request to write the post I accepted and then [Alexander](https:/
 
 Now, to be even more "rude", writing this post is not the most important thing for me. However, the thought of adding it to my queue of work that I "need to do some time in the future" was not compelling to me.
 
-Therefore I decided on a topic that I could write more or less by heart and then time boxed one hour to write the post. And then just went to work.
+therefore I decided on a topic that I could write more or less by heart and then time boxed one hour to write the post. And then just went to work.
 
 One hour later the post was done, I sent it over to Alexander and noted the work as Done in my mind. Done. Gone. Over. More room for other work, without making long lists of work.
 

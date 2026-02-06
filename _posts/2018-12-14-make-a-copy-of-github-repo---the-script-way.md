@@ -21,7 +21,7 @@ At Salt we have all our code, exercises and test checked in at GitHub. A normal 
 
 This becomes messy as we are running several courses per year and need to keep the different courses separated.
 
-We have, therefor, created a template repository and then make need to make a copy of this template repository for the current course. So we might have a repository called `salt-jsfs-reactstarter` and want a copy, mostly just the master branch, called `salt-jsfs-reactstarter-vt19`, for example.
+We have, therefore, created a template repository and then make need to make a copy of this template repository for the current course. So we might have a repository called `salt-jsfs-reactstarter` and want a copy, mostly just the master branch, called `salt-jsfs-reactstarter-vt19`, for example.
 
 ## What we need to do
 

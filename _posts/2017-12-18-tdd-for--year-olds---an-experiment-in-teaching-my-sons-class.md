@@ -30,7 +30,7 @@ I then used my advantage of having an inside person, my son, readily available. 
 * Secondly I realize that typing is a real pain for kids. It took Albert ca 10 seconds to find certain keys, every time. Not surprisingly but that would not fly in the class as I had only 1 hour to spare
 * Thirdly - I lost Albert about 10 minutes in as I hadn't installed the right tools ([Mocha](https://mochajs.org/) for example), created files and was fiddling around trying to get the tool up.
 
-Therefore I spent about 2 hours setting my project up in a state that was a good starting point:
+therefore I spent about 2 hours setting my project up in a state that was a good starting point:
 
 * Had all necessary files created (the test file and the production code)
 * Had a command for continuously running tests, in the `package.json`-file `mocha *.js --watch -R list`)

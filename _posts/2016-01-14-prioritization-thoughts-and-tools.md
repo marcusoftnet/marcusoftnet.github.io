@@ -15,7 +15,7 @@ The end of the first email from my "new"[^1] could not have been more direct and
 
 This is one of the hardest things you encounter in a project or any organization, and now I was going to do it as the first impression.
 
-Therefor I thought that I could list a couple of thoughts and tools that have helped me through the years. Just to revise them for myself at least. You can peak if you want.
+therefore I thought that I could list a couple of thoughts and tools that have helped me through the years. Just to revise them for myself at least. You can peak if you want.
 
 There's high and low stuff here. Some of it might not be suitable for the kind of prioritization that you're doing. Your mileage may vary.
 
@@ -29,7 +29,7 @@ First some thoughts and general ideas that I've found invaluable when doing exer
 
 Much of the work that needs to be done around prioritization is actually sharing understanding and learning. This one good example of the [deliberate discovery](http://dannorth.net/2010/08/30/introducing-deliberate-discovery/) that Dan North talks about.
 
-Therefor, to maximize learning and understanding, it's important to have the relevant people in the room. It means that we will not only have to have Product Owner, Business Analysts (or end users if you can get hold of them) and sponsors, but also the people that will build, test, deploy and maintain this.
+therefore, to maximize learning and understanding, it's important to have the relevant people in the room. It means that we will not only have to have Product Owner, Business Analysts (or end users if you can get hold of them) and sponsors, but also the people that will build, test, deploy and maintain this.
 
 I've seen "the most important thing" become less important as information is revealed about the impact in testing many times for example. Or in the other areas for that matter.
 

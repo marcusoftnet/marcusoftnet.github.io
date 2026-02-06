@@ -148,7 +148,7 @@ Thank you Zimri!
 
 That was just about all the tools that we put in place, in just under a few hours and the mobs then used during the week. But no tool is very useful until you use it - until then it is truly unusable.
 
-Therefore it was amazing to listen in to the demos (done in Discord of course and worked amazingly) where the mobs shared their findings and discovered practices with each other. I just wanted to share a few highlights here.
+therefore it was amazing to listen in to the demos (done in Discord of course and worked amazingly) where the mobs shared their findings and discovered practices with each other. I just wanted to share a few highlights here.
 
 But what I thought about during the entire week was that the concept of [enabling constraints](https://cognitive-edge.com/blog/freedom-through-constraints/) which means that by putting in something that constraint us and the way that we work we are enabling novel and better practices to emerge. We saw a ton of those yesterday. Here are a few:
 

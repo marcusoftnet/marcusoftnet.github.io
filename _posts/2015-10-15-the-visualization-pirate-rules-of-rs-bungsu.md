@@ -63,7 +63,7 @@ Showing the data is not enough, the data has to be simple enough that everyone u
 
 For example in our hospital we have shown how the hospital is doing financially. This is abstract and pretty uninteresting information for most staff, actually. We also noticed this since at one point in time the hospital was *really* struggling and still no one reacted. There were yawns, looking at the phones etc. when the *catastrophic* data was revealed.
 
-Therefore I tried an idea; by using average prices per patients and the data for our costs per month we converted this data in to "Target in number of patients served per day".
+therefore I tried an idea; by using average prices per patients and the data for our costs per month we converted this data in to "Target in number of patients served per day".
 
 To my surprise this didn't have a great effect either. Most people still seemed uninterested even though our target was 134 and we were averaging 74 patients served per day. Just above 50% of our target. Really bad in other words
 
@@ -83,7 +83,7 @@ And then I said to everyone:
 
 BOM! I've never seen a more collective jaw-drop in my life. Everyone got that.
 
-Therefore we from then strive to make the visualizations of our metric in a way that is easy to understand for everyone. Our target is that everyone in the hospital should be able to tell us what the data is about and how we are doing.
+therefore we from then strive to make the visualizations of our metric in a way that is easy to understand for everyone. Our target is that everyone in the hospital should be able to tell us what the data is about and how we are doing.
 
 ## Focus on learning and trends
 

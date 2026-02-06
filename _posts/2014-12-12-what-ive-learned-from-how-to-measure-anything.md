@@ -30,7 +30,7 @@ The first thing found profound is that even intangible things can be measure. Th
 > Anything can be measured
 
 (Not saying that everything should though...)
-But quite often I've ran into situations and people that says that "our services provides a value that cannot really be seen or measured". I was therefor happy to see that Mr Hubbard list such a situation too in the second chapter, in a sidebar on the Mitre Information Infrastructure (MII) whose CIO said
+But quite often I've ran into situations and people that says that "our services provides a value that cannot really be seen or measured". I was therefore happy to see that Mr Hubbard list such a situation too in the second chapter, in a sidebar on the Mitre Information Infrastructure (MII) whose CIO said
 
 > Our most important gain can't be as easily measured - the quality and innovation in our solutions that becomes realizable when you have all this information at your fingertips
 
