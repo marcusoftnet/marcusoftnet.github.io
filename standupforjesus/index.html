@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stå upp, stå upp för Jesus</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: system-ui, sans-serif;
+    background: #1a1a2e;
+    color: #eee;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  h1 { font-size: 1.8rem; font-weight: 500; letter-spacing: 0.05em; opacity: 0.9; }
+  .img-wrap {
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.5);
+    width: min(80vw, 500px);
+    max-height: calc(100vh - 10rem);
+    max-height: calc(100dvh - 10rem);
+  }
+  #img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(40px);
+    scale: 1.08;
+  }
+  #img.playing {
+    filter: blur(0px);
+    scale: 1;
+    transition: filter var(--dur) linear, scale var(--dur) linear;
+  }
+  .controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    max-width: min(90vw, 600px);
+  }
+  #progress-wrap {
+    width: 100%;
+    height: 4px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  #progress-bar {
+    height: 100%;
+    width: 0%;
+    background: #7c6fff;
+    transition: width 1s linear;
+    border-radius: 2px;
+  }
+  button {
+    padding: 10px 32px;
+    border-radius: 999px;
+    border: none;
+    background: #7c6fff;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: transform 0.1s, background 0.2s;
+  }
+  button:hover { background: #6a5cee; }
+  button:active { transform: scale(0.97); }
+  #status { font-size: 13px; opacity: 0.5; min-height: 18px; }
+</style>
+</head>
+<body>
+
+<h1>Stå upp, stå upp för Jesus</h1>
+
+<div class="img-wrap">
+  <img id="img" src="./1.jpg" />
+</div>
+
+<div class="controls">
+  <div id="progress-wrap"><div id="progress-bar"></div></div>
+  <span id="status"></span>
+
+
+  <div class="row" style="display:flex;gap:12px;">
+    <button id="btn" onclick="toggle()">Start</button>
+    <button id="nextBtn" onclick="nextPicture()">Next picture</button>
+  </div>
+</div>
+
+<script>
+  let playing = false, timer, elapsed = 0;
+  let currentPic = 1;
+  const totalPics = 5;
+  const img = document.getElementById('img');
+  const btn = document.getElementById('btn');
+  const status = document.getElementById('status');
+  const bar = document.getElementById('progress-bar');
+
+  const dur = 10;
+  const blr = 40;
+
+  function loadPicture() {
+    img.src = './' + currentPic + '.jpg';
+  }
+
+  function toggle() {
+    playing ? reset() : play();
+  }
+
+  function play() {
+    playing = true;
+    elapsed = 0;
+    btn.textContent = 'Reset';
+    img.style.setProperty('--dur', dur + 's');
+    img.style.transition = 'none';
+    img.style.filter = 'blur(' + blr + 'px)';
+    img.style.scale = '1.08';
+    bar.style.transition = 'none';
+    bar.style.width = '0%';
+    status.textContent = '0 / ' + dur + 's';
+
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      img.style.transition = '';
+      img.style.filter = '';
+      img.style.scale = '';
+      img.classList.add('playing');
+      bar.style.transition = 'width ' + dur + 's linear';
+      bar.style.width = '100%';
+    }));
+
+    timer = setInterval(() => {
+      elapsed++;
+      status.textContent = elapsed + ' / ' + dur + 's';
+      if (elapsed >= dur) {
+        clearInterval(timer);
+        status.textContent = 'Revealed!';
+      }
+    }, 1000);
+  }
+
+  function reset() {
+    playing = false;
+    clearInterval(timer);
+    btn.textContent = 'Start';
+    status.textContent = '';
+    img.classList.remove('playing');
+    img.style.transition = 'none';
+    img.style.filter = '';
+    img.style.scale = '';
+    bar.style.transition = 'none';
+    bar.style.width = '0%';
+    requestAnimationFrame(() => {
+      img.style.transition = '';
+    });
+  }
+
+  function nextPicture() {
+    currentPic = currentPic < totalPics ? currentPic + 1 : 1;
+    reset();
+    loadPicture();
+  }
+
+  loadPicture();
+
+</script>
+</body>
+</html>
