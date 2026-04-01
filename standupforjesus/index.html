@@ -38,7 +38,7 @@
   #img.playing {
     filter: blur(0px);
     scale: 1;
-    transition: filter var(--dur) linear, scale var(--dur) linear;
+    transition: filter var(--dur) ease-in, scale var(--dur) linear;
   }
   .controls {
     display: flex;
@@ -91,7 +91,7 @@
   <span id="status"></span>
 
 
-  <div class="row" style="display:flex;gap:12px;">
+  <div style="display:flex;gap:12px;">
     <button id="btn" onclick="toggle()">Start</button>
     <button id="nextBtn" onclick="nextPicture()">Next picture</button>
   </div>
