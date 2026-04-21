@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three worrying, flow-obstructing trends in the wake of the AI hype"
+title: "4 flow-obstructing trends in the wake of the AI hype"
 author: "Marcus Hammarberg"
 date: 2026-04-21 04:00:00
 tags:
@@ -20,6 +20,7 @@ The trends are:
 - hailing context switching as Good stuff (tm)
 - we're only doing high-level thinking - no easy tasks left
 - pressure to produce faster
+- typing is not, and have never been, the constraint
 
 <!-- excerpt-end -->
 
@@ -102,7 +103,7 @@ I was thinking; did we solve more problems for our users? Did we earn more money
 
 Right now, reusing VERY old diagram here, AI is making a HUGE difference in one or more (all?) parts of the things that typically are not the bottleneck slowing production down.
 
-### Typing is not the constraint in product development
+## Typing is not the constraint in product development
 
 Typing has never been the constraint. Let's use [Liz Keogh's](https://lizkeogh.com/) old thinking experiment to illustrate this:
 
@@ -136,4 +137,3 @@ What I do know though:
 In the end I think that, we as an industry right now, have got an amazing tool that will forever change how we develop products (and do many other things too). But we are viewing it with the same focus at productivity, cost-reduction and efficiency gain that we did before this paradigm shift.
 
 This leads us wrong; instead lets think about how we can optimize the entire value chain and create real value. Who knows, maybe the bottleneck in our process cannot be solved with faster output?
-
