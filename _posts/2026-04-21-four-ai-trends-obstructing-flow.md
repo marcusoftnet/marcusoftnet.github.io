@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 flow-obstructing trends in the wake of the AI hype"
+title: "Four flow-obstructing trends in the wake of the AI hype"
 author: "Marcus Hammarberg"
 date: 2026-04-21 04:00:00
 tags:
@@ -13,14 +13,14 @@ tags:
 
 I have been using an agentic workflow for most of my work these last couple of months. Especially, but not exclusively when it comes to coding. Being all about the effectiveness in software development I have also read, viewed and listened A LOT to what is going on in the larger AI world.
 
-There are 3 trends that worry me. I don't think there's value in following these trends, and I think that humans will suffer in the short and long run. Finally I think we are, once again, mixing up effectiveness with efficiency, usefulness with busyness or [valuable work](/2024/03/value-and-valueable.html) with productivity.
+There are 4 trends that worry me. I don't think there's value in following these trends, and I think that humans will suffer in the short and long run. Finally I think we are, once again, mixing up effectiveness with efficiency, usefulness with busyness or [valuable work](/2024/03/value-and-valueable.html) with productivity.
 
 The trends are:
 
 - hailing context switching as Good stuff (tm)
 - we're only doing high-level thinking - no easy tasks left
 - pressure to produce faster
-- typing is not, and have never been, the constraint
+- typing is not, and has never been, the constraint
 
 <!-- excerpt-end -->
 
@@ -103,6 +103,8 @@ I was thinking; did we solve more problems for our users? Did we earn more money
 
 Right now, reusing VERY old diagram here, AI is making a HUGE difference in one or more (all?) parts of the things that typically are not the bottleneck slowing production down.
 
+But, as my crude diagram shows, the AI speed-up is not really helping much on the total lead time.
+
 ## Typing is not the constraint in product development
 
 Typing has never been the constraint. Let's use [Liz Keogh's](https://lizkeogh.com/) old thinking experiment to illustrate this:
@@ -120,6 +122,8 @@ In development (Vis-à-vis manufacturing) learning is the bottleneck.
 If you don't believe me think about if the same thing were to happen again. After 6 months everything is gone and you have to redo it again.
 
 How many times do you have to do it again and again for the pure typing, creation part to be the thing that slow you down?
+
+Making typing faster doesn't improve the flow at the bottleneck. Flow won't get better until we shorten the learning loop.
 
 ## What to do instead
 
