@@ -30,6 +30,12 @@ The point is continuity — so the next session can pick up without Marcus havin
 
 ---
 
+## 2026-04-21 — Scaffolded draft: three flow-obstructing AI trends
+
+**What:** created [_draft/2026-04-21-three-ai-trends-obstructing-flow.md](_draft/2026-04-21-three-ai-trends-obstructing-flow.md) — front matter + skeleton with three empty H2s, an intro hook TODO, and a summary stub.
+**Why:** Marcus wants to write about three worrying, flow-obstructing trends showing up in the AI hype wake. Leaving the trends themselves for him to fill — this is his thesis, not mine.
+**Notes:** Tagged `AI`, `Flow`, `Lean`, `Life of a consultant`. Lives in [_draft/](_draft/), not [_posts/](_posts/) — move when ready to publish. Good callback candidates in the draft: [Flow is sacred](_posts/2025-08-08-flow-is-sacred.md) and [AI and lead times](_posts/2025-11-27-ai-and-lead-times.md).
+
 ## 2026-04-21 — Added CLAUDE.md and memory.md
 
 **What:** set up repo-level guidance for Claude sessions on this blog.
