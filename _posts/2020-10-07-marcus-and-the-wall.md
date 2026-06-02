@@ -13,7 +13,7 @@ I have come down with the fatigue syndrome and a depression to follow. This is s
 
 It’s now in its fifth week and I’m going to take some kind of program at a clinic that is geared only to handle this type of problems.
 
-I’ve gone mostly of grid. First three weeks was just me crying and sleeping, so I was not much use to anyone anyway. I’ll be keeping it like that (off-grid) for the foreseeable future until I know what I manage.
+I’ve gone mostly off-grid. First three weeks was just me crying and sleeping, so I was not much use to anyone anyway. I’ll be keeping it like that (off-grid) for the foreseeable future until I know what I manage.
 
 Lots of confusing feelings right now where I’ve lost all my confidence and self worth while at the same time feel very tired. Right now a single telephone call is enough for me to need a nap, I sleep at least twice a day and then throughout the night, I'm sad and can't see my future... In short - I'm not feeling well.
 
