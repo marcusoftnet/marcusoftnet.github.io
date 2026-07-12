@@ -23,6 +23,8 @@ I am amazingly grateful, surprised and happy to be so privileged to actually aff
 
 But I know, [from hard earned, stressful experience](2025-03-31-looking-for-job.md) that it's not as easy being funny when your job is on the line. I stuck with my "fun" profile throughout that job seeking time, but I would lie if I said that I didn't have doubts about it.
 
+<!-- excerpt-end -->
+
 ## The soccer version
 
 Now, with that seriousness out of the way. Here's my current version
