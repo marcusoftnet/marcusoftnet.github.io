@@ -112,12 +112,12 @@ The idea is that you list a number of criteria that is important for you decisio
 
 Now create a table with all the suggested features that you are as rows, and list the criteria as columns. Like this:
 
-| Feature   | # users increase | quick to implement |
+| Feature | # users increase | quick to implement |
 | --------- | ---------------- | ------------------ |
-| Feature 1 |                  |                    |
-| Feature 2 |                  |                    |
-| Feature 3 |                  |                    |
-| Feature 4 |                  |                    |
+| Feature 1 | | |
+| Feature 2 | | |
+| Feature 3 | | |
+| Feature 4 | | |
 
 Now go through feature by feature ranking it solely on one criteria, for example "Will increase the number of users". I normally rate it 1-5, where larger is better. So, if Feature 1 will increase the number of users a lot it gets a 5.
 
@@ -127,12 +127,12 @@ Continue in the same manner with all the criteria for all the features.
 
 Finally add another column called "Score" or something and simply multiply the values from each column. Like this:
 
-| Feature   | # users increase | quick to implement | Result /Score |
+| Feature | # users increase | quick to implement | Result /Score |
 | --------- | :--------------: | :----------------: | :-----------: |
-| Feature 1 |        4         |         1          |       4       |
-| Feature 2 |        3         |         3          |       9       |
-| Feature 3 |        5         |         2          |      10       |
-| Feature 4 |        4         |         3          |      12       |
+| Feature 1 | 4 | 1 | 4 |
+| Feature 2 | 3 | 3 | 9 |
+| Feature 3 | 5 | 2 | 10 |
+| Feature 4 | 4 | 3 | 12 |
 
 It will now be easy to find a "winner".
 

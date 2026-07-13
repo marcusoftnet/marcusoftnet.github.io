@@ -45,12 +45,12 @@ In our export, the column names do not list and that is often the case I've foun
 
 | Status (`A`-column) | Column on board (`B`-column) |
 | ------------------- | ---------------------------- |
-| Closed              | 4 - Done                     |
-| Active              | 2 - Dev                      |
-| Resolved            | 3 - Test                     |
-| Development         | 2 - Dev                      |
-| Testing             | 3 - Test                     |
-| New                 | 1 - Backlog                  |
+| Closed | 4 - Done |
+| Active | 2 - Dev |
+| Resolved | 3 - Test |
+| Development | 2 - Dev |
+| Testing | 3 - Test |
+| New | 1 - Backlog |
 
 A nice little mapping table.
 

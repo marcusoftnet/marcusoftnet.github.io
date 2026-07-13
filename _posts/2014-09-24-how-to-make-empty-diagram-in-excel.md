@@ -34,10 +34,10 @@ DISCLAIMER: I'm no Excel-guru. This was a pretty fast way, once I found it, to g
 2. Add data like this:
 
    | Date | Number of Customers | Threshold 1 | Threshold 2 |
-   |------|---------------------|-------------|-------------|
-   | 1    | 45                  | 100         | 200         |
-   | 2    | 145                 | 100         | 200         |
-   | 3    | 80                  | 100         | 200         |
+   | ------ | --------------------- | ------------- | ------------- |
+   | 1 | 45 | 100 | 200 |
+   | 2 | 145 | 100 | 200 |
+   | 3 | 80 | 100 | 200 |
 
    Keep doing the "dates" until date 31. The data in the columns will determine the height of the Y-axis. The 200 in Threshold 2 will make sure the Y-axis goes to 200.
 

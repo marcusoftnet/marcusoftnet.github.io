@@ -37,11 +37,11 @@ Open a [Google Sheet](https://docs.google.com/spreadsheets/d/1UhVyXfW8pfQI_48kwr
 
 Here's some example data:
 
-| ID       |  Status |  Created Date |  Resolved Date |
-| :---     |  :---   | :---          | :---           |
-| ABC-1234 |  Closed | 2018-07-02    | 2018-07-02     |
-| ABC-1235 |  Closed | 2018-07-02    | 2018-07-02     |
-| ABC-1236 |  Closed | 2018-06-29    | 2018-07-02     |
+| ID | Status | Created Date | Resolved Date |
+| :--- | :--- | :--- | :--- |
+| ABC-1234 | Closed | 2018-07-02 | 2018-07-02 |
+| ABC-1235 | Closed | 2018-07-02 | 2018-07-02 |
+| ABC-1236 | Closed | 2018-06-29 | 2018-07-02 |
 
 I've included `ID` and `Status` here, but that is not needed to do the calculations we are going to do
 
@@ -69,9 +69,9 @@ Fill the entire column with this formula, calculating the Flow time in days for 
 
 Now we want to calculate the Median (50%), 80%-percentile and 95%-percentiles for this data. This will be used as our prognosis data. Add these formulas in the F, G and H columns
 
-| F                       |  G                      |  H                       |
-| :---                    | :---                    | :---                     |
-| Median                  | 80-percentile           | 95-percentile            |
+| F | G | H |
+| :--- | :--- | :--- |
+| Median | 80-percentile | 95-percentile |
 | `=PERCENTILE(E:E, 0.5)` | `=PERCENTILE(E:E, 0.8)` | `=PERCENTILE(E:E, 0.95)` |
 
 Now fill all of those columns too, and calculate the percentiles for each row. You could also copy the value from F2, G2, and H2 if you want to improve the performance.
@@ -225,12 +225,12 @@ That was very cool! I love me some JavaScript. But let's put the `MonteCarloSimu
 
 I'm going to put the simulation parameters in some cells in the sheet to be able to rerun it as needed:
 
-| Row | D                      | E          |
-| :-- | :--                    | :--        |
-| 1   | Monte Carlo Parameters |            |
-| 2   | Backlog size           | 100        |
-| 3   | Start date             | 2023-03-14 |
-| 4   | Number of iterations   | 100000     |
+| Row | D | E |
+| :-- | :-- | :-- |
+| 1 | Monte Carlo Parameters | |
+| 2 | Backlog size | 100 |
+| 3 | Start date | 2023-03-14 |
+| 4 | Number of iterations | 100000 |
 
 Now I can use my function, remembering that the output will be as many rows as in E4
 
@@ -252,12 +252,12 @@ For this, we need to calculate the percentiles for this data, which is a little 
 
 That makes our job pretty easy - we just count the number of values and multiply it with `0.5` (for 50%, for 80% we use `0.8` etc.). Here are my calculations:
 
-| Row | D                      | E                          |
-| :-- | :--                    | :--                        |
-| 6   | Number of values       | `=(COUNT(H:H))`            |
-| 7   | 50 percentile          | `=INDEX(G:G, $E$6 * 0.5)`  |
-| 8   | 80 percentile          | `=INDEX(G:G, $E$6 * 0.8)`  |
-| 9   | 95 percentile          | `=INDEX(G:G, $E$6 * 0.95)` |
+| Row | D | E |
+| :-- | :-- | :-- |
+| 6 | Number of values | `=(COUNT(H:H))` |
+| 7 | 50 percentile | `=INDEX(G:G, $E$6 * 0.5)` |
+| 8 | 80 percentile | `=INDEX(G:G, $E$6 * 0.8)` |
+| 9 | 95 percentile | `=INDEX(G:G, $E$6 * 0.95)` |
 
 Now we can answer the initial question like this:
 

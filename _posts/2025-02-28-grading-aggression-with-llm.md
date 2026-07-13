@@ -171,10 +171,10 @@ The summary tables looked like this
 ### Chat GPT
 
 | **Speaker** | **Aggression** | **Irony** | **Willingness to Cooperate** |
-|-------------|----------------|-----------|------------------------------|
-| PERSON 1    | 6/10           | 5/10      | 5/10                         |
-| PERSON 2    | 4/10           | 2/10      | 3/10                         |
-| PERSON 3    | 8/10           | 5/10      | 2/10                         |
+| ------------- | ---------------- | ----------- | ------------------------------ |
+| PERSON 1 | 6/10 | 5/10 | 5/10 |
+| PERSON 2 | 4/10 | 2/10 | 3/10 |
+| PERSON 3 | 8/10 | 5/10 | 2/10 |
 
 These scores reflect an evaluation based on the tone and approach each person displayed in the transcript.
 

@@ -60,29 +60,29 @@ Here's the thing, I do know, how far I've come right now. And after each day I w
 
 For example, here's the data for my first couple of sessions:
 
-| Date       | Completion % |
+| Date | Completion % |
 | ---------- | ------------ |
-| 2021-09-10 | 15%          |
-| 2021-09-13 | 24%          |
-| 2021-09-14 | 25%          |
-| 2021-09-16 | 27%          |
-| 2021-09-18 | 27%          |
-| 2021-09-22 | 33%          |
-| 2021-09-26 | 46%          |
+| 2021-09-10 | 15% |
+| 2021-09-13 | 24% |
+| 2021-09-14 | 25% |
+| 2021-09-16 | 27% |
+| 2021-09-18 | 27% |
+| 2021-09-22 | 33% |
+| 2021-09-26 | 46% |
 
 Now, what if I could create a prognosis based on that data.
 
 I first calculated how far I came per day in each session:
 
-| Date       | Completion % | Days | Gain in % | Gain in % per day |
+| Date | Completion % | Days | Gain in % | Gain in % per day |
 | ---------- | ------------ | ---- | --------- | ----------------- |
-| 2021-09-10 | 15%          |      |           |                   |
-| 2021-09-13 | 24%          | 4    | 9%        | 2.25%             |
-| 2021-09-14 | 25%          | 2    | 1%        | 0.50%             |
-| 2021-09-16 | 27%          | 3    | 2%        | 0.67%             |
-| 2021-09-18 | 27%          | 3    | 0%        | 0.00%             |
-| 2021-09-22 | 33%          | 5    | 6%        | 1.20%             |
-| 2021-09-26 | 46%          | 5    | 13%       | 2.60%             |
+| 2021-09-10 | 15% | | | |
+| 2021-09-13 | 24% | 4 | 9% | 2.25% |
+| 2021-09-14 | 25% | 2 | 1% | 0.50% |
+| 2021-09-16 | 27% | 3 | 2% | 0.67% |
+| 2021-09-18 | 27% | 3 | 0% | 0.00% |
+| 2021-09-22 | 33% | 5 | 6% | 1.20% |
+| 2021-09-26 | 46% | 5 | 13% | 2.60% |
 
 It was some simple Google Sheet calculations, required, to calculate those 3 columns:
 
@@ -105,7 +105,7 @@ I'm gonna use `PERCENTILE` for that and call the lowest 25% my worst case, 50% m
 
 | Projection - Bottom 25% gain / day (G) | Projection - Median gain / day (H) | Projection - Best 75% / day (I) |
 | -------------------------------------- | ---------------------------------- | ------------------------------- |
-| 0.54%                                  | 0.93%                              | 1.99%                           |
+| 0.54% | 0.93% | 1.99% |
 
 The formula uses the `Gain in % per day` column like this
 
@@ -122,11 +122,11 @@ Best case
 
 I then create a long list of dates, going from the first time I worked on the project and 6 months into the future. For each date I added four columns like below, and incremented the 3 first with the values I calculated with the percentiles above:
 
-| Date (L)   | Worst case (M) | Probable (N) | Best case (O) | Actual (P) |
+| Date (L) | Worst case (M) | Probable (N) | Best case (O) | Actual (P) |
 | ---------- | -------------- | ------------ | ------------- | ---------- |
-| 2021-09-10 | 15.0%          | 15.0%        | 15.0%         | 15.0%      |
-| 2021-09-11 | 15.5%          | 15.9%        | 17.0%         | 15.0%      |
-| 2021-09-12 | 16.1%          | 16.9%        | 19.0%         | 15.0%      |
+| 2021-09-10 | 15.0% | 15.0% | 15.0% | 15.0% |
+| 2021-09-11 | 15.5% | 15.9% | 17.0% | 15.0% |
+| 2021-09-12 | 16.1% | 16.9% | 19.0% | 15.0% |
 
 (I also started at 15% as I didn't have any data before that)
 
@@ -163,10 +163,10 @@ The projections are based on the data that I have created so far and hence this 
 
 For example, let's say that I get two days worth of working this week (at the time of writing) and I get a few percent done each day:
 
-| Date       | Completion % | Days | Gain in % | Gain in % per day |
+| Date | Completion % | Days | Gain in % | Gain in % per day |
 | ---------- | ------------ | ---- | --------- | ----------------- |
-| 2021-10-14 | 48%          | 19   | 2%        | 0.11%             |
-| 2021-10-15 | 49%          | 2    | 1%        | 0.50%             |
+| 2021-10-14 | 48% | 19 | 2% | 0.11% |
+| 2021-10-15 | 49% | 2 | 1% | 0.50% |
 
 That will make both the actual line and the projections change into this...
 

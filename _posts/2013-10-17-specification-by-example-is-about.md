@@ -72,9 +72,9 @@ In [his book](http://manning.com/adzic/) [Gojko Adzic](http://gojko.net/) talks 
 Let's take an example business rule: "if you buy three books, or more, shipping is free". If you had your tester hat on which cases (for the number of books) would you try?
 
 | Number of books | Free shipping? |
-|-----------------|----------------|
-| 2               | No             |
-| 3               | Yes            |
+| ----------------- | ---------------- |
+| 2 | No |
+| 3 | Yes |
 
 There's a difference in focus here. And by all means we might have to do all the other tests as well but they don't teach us more about the business rule in play.
 
