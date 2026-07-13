@@ -13,8 +13,9 @@ Guidance for Claude when working in this repo. Keep it tight — update as conve
 - [_pages/](_pages/) — static pages (about, contact, archive, tags, talks, search, wordcloud)
 - [_layouts/](_layouts/), [_includes/](_includes/) — Jekyll templates
 - [assets/](assets/), [img/](img/), [fonts/](fonts/) — site assets; post images go in [img/](img/)
-- [scripts/](scripts/) — tooling (spellcheck, lint, scaffolding, wordcloud). See [README.md](README.md) for usage.
-- [.scripts/](.scripts/) — lower-level helpers (heading fixers)
+- [apps/](apps/), [lotion/](lotion/) — standalone hand-written HTML/JS mini-apps and games (ravens, practicebuddy, standupforjesus), served as-is at `/apps/` etc. Not Jekyll posts — don't apply post conventions here.
+- [scripts/](scripts/) — tooling (spellcheck, lint, scaffolding, wordcloud, local Docker build). See [README.md](README.md) for usage.
+- [.scripts/](.scripts/) — heading-fixer helpers. Currently empty stubs (0 bytes) — nothing to run here yet.
 - [data/](data/) — generated data (wordclouds)
 - [_config.yml](_config.yml) — Jekyll config. Permalink format: `/:year/:month/:title.html`.
 - [.markdownlint.json](.markdownlint.json) — linting rules (MD013, MD024, MD033, MD059 disabled)
@@ -83,7 +84,7 @@ Do NOT write in a flat, AI-polished voice. Do NOT use emojis unless Marcus has u
 ## Commands
 
 ```bash
-# Build locally
+# Build locally (requires Docker — builds a Jekyll image and serves at http://localhost:4000)
 bash scripts/build_locally.sh
 
 # Spellcheck
