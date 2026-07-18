@@ -114,3 +114,9 @@ Who knows? That our AI agents creates more output might not (always) be related 
 This was a first post on flow in the AI age. I'm using this a lot to summarize thoughts that I've had in my head for quite some time. I hope you found it useful.
 
 In my next post I will talk about why your agents are exactly the robots from The Goal, and why that comparison breaks in the one place that matters most. And how that will tie back to throughput.
+
+## In short
+
+Throughput for manufacturing is the rate at which a system generates money through sales (not just production). For digital product development I propose throughput can only be measured when _someone's need was met_ - making _impact_, or at the very least when the change we made is _used by users_ (i.e. _outcome_).
+
+That is the scope that we should measure to ensure that we capture all of the process that produce value.

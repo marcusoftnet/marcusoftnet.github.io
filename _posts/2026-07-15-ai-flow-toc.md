@@ -95,7 +95,7 @@ The five focusing steps are, [straight out of Wikipedia](https://en.wikipedia.or
 
 If there was no bottleneck then software development features would be in production the moment you thought of them. It might feel like that with an AI, but it is not like that. Why? Because there's a bottleneck in the system.
 
-We have often claimed that coding is not the bottleneck, and before AI it was easy to think so. It might even have been the bottleneck in some regards, but I would bet that was rarely the case.
+We have often claimed that coding is _not_ the bottleneck, but before AI it was easy to think so. Coding might even have been the bottleneck in some regards, but I would bet that was rarely the case.
 
 Yearly releases (yes - I worked in that org, less than 2 years ago), 22 layers of decisions before developers wrote code (worked there too, 6 years ago) or just the simple "no releases on Fridays" are examples of process that place the bottleneck somewhere else than in writing the code.
 
@@ -162,3 +162,9 @@ Track the lead time of the entire process and the throughput of the _outcome_ to
 Subordinate agent pace to the human constraint, not the reverse. Just because agents _can_ do a lot of work doesn't mean we get more things done. Remember the robots.
 
 Protect the constraint, and point AI _at_ the constraint to elevate it - not at the part that was never slow in the first place.
+
+## In short
+
+In the age of AI writing our code (and designs and docs ... doing "the work") I think the digital product development process bottleneck is human decisions, verification and taste. This is not bad per se, but needs to be managed properly, to sustainably produce value at a predictable and stable rate. Just producing more and having more agents at work will cause drain and the opposite of flow for the human at the bottleneck.
+
+This is good news, first the decisions is in our hands, secondly it will lead to a more human and reasonable work load. Finally this approach is focusing more more value and quality which is much more engaging than focusing on savings and efficiency.
