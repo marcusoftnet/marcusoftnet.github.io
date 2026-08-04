@@ -24,6 +24,16 @@
   padding: 7px 7px 7px 10px;
   overflow: auto;
   font-size: 95%;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.02) 0px,
+    rgba(255, 255, 255, 0.02) 1.55em,
+    transparent 1.55em,
+    transparent 3.1em
+  );
 }
 
 code {
