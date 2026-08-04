@@ -9,7 +9,7 @@ tags:
   - AI
 ---
 
-I've now written a few posts on AI and how it changes the flow of value, looking at it using my Theory of Constraints glasses, you can find them here, if you want:
+I've written a few posts on AI and how it changes the flow of value, looking at it using my Theory of Constraints glasses, you can find them here, if you want:
 
 - [What is throughput in our domain](https://www.marcusoft.net/2026/07/ai-flow-throughput.html)
 - [Theory of constrains in an AI world](https://www.marcusoft.net/2026/07/ai-flow-toc.html)
