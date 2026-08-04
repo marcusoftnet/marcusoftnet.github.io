@@ -24,12 +24,10 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-
-      - name: Install Jekyll
-        run: gem install jekyll
+          bundler-cache: true
 
       - name: Build with Jekyll
-        run: jekyll build
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
