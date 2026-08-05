@@ -17,6 +17,8 @@ We are focusing a lot on the things that [rubs me the wrong way](https://www.mar
 
 I realized that I hadn't thought this through properly and decided to write a few post on it. This is one on what throughput really means. I'll link the others here as I write them.
 
+![Lorries and agents](/img/agent_lorries.png)
+
 <!-- excerpt-end -->
 
 Throughput is one of my goto flow-metrics; lead-time, work in process and flow efficiency are the others. I like it because it's so easy to grasp. Deceptively simple, as it turns out.

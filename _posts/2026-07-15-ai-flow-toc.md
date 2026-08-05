@@ -21,6 +21,8 @@ I thought about this some more and then realized that we, in the product develop
 
 I wanted to write a bit about that, [theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) and [The Goal](https://www.marcusoft.net/2014/12/what-is-the-goal.html)
 
+![AI robots writing code](/img/ai_robots.png)
+
 <!-- excerpt-end -->
 
 ## Productivity, robots and the goal
