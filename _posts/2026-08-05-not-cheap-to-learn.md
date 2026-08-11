@@ -15,6 +15,8 @@ Let's not forget that. Let's bring a value-obsessed, outcome measured and impact
 
 I've written a few posts now on flow in the age of AI and to be honest, the other posts have been a setup to this post that is like the main idea (or itch I needed to scratch). Let me bring you up to speed with a short summary of the concepts so that you don't have to read all of the posts, and provide links back to them.
 
+![Learning is still not cheap](/img/learning_still_not_cheap.png)
+
 <!-- excerpt-end -->
 
 ## Setting the stage
