@@ -15,7 +15,6 @@ I've written a few posts on AI and how it changes the flow of value, looking at 
 
 But are we really moving up in the value chain or is it actually deskilling and we end up baby-sitting an AI robot?
 
-
 You can find them here, if you want:
 
 - [What is throughput in our domain](https://www.marcusoft.net/2026/07/ai-flow-throughput.html)
