@@ -9,6 +9,8 @@ tags:
   - AI
 ---
 
+![AI robots writing code](/img/ai_robots.png)
+
 AI is arguably one of the biggest paradigm shifts in the digital product development industry ever. Even if it stopped right now with Fable 5, we still would have changed so much that the before feel like a distant past. `Writing the code by hand? Please...`
 
 A discussion with a friend, that works in manufacturing industry, made me reflect over this paradigm shift. It reminds me a lot about the advent of industrial robots in the manufacturing industry. This was 1970-80 circa and these robots was also perceived as something that would make "ALL WORKERS REDUNDANT" and visions of fully automated factories was envisioned.
@@ -20,8 +22,6 @@ Hold on to that analogy, because it's going to be very useful - right up until t
 I thought about this some more and then realized that we, in the product development industry, are right now making a lot of the initial mistakes and dream about futures that the tool might now deliver on.
 
 I wanted to write a bit about that, [theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints) and [The Goal](https://www.marcusoft.net/2014/12/what-is-the-goal.html)
-
-![AI robots writing code](/img/ai_robots.png)
 
 <!-- excerpt-end -->
 

@@ -9,6 +9,8 @@ tags:
   - AI
 ---
 
+![Lorries and agents](/img/agent_lorries.png)
+
 The world of digital product development has changed forever with the advent of AI models like Opus (that was the first to make me realize this). In fact, many other industries have also changed, but I'm going to stick with what I know.
 
 And ever since I started to realize that code will be written by agents that instruct I immediately got a sense that we (the industry) are making age-old mistakes that we and other industries have made, fixed and now comes back to.
@@ -17,7 +19,6 @@ We are focusing a lot on the things that [rubs me the wrong way](https://www.mar
 
 I realized that I hadn't thought this through properly and decided to write a few post on it. This is one on what throughput really means. I'll link the others here as I write them.
 
-![Lorries and agents](/img/agent_lorries.png)
 
 <!-- excerpt-end -->
 

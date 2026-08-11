@@ -9,13 +9,14 @@ tags:
   - AI
 ---
 
+![Learning is still not cheap](/img/learning_still_not_cheap.png)
+
 Since I started to see people use AI to build digital products something has always rubbed me the wrong way. It is like we are forgetting value, outcomes or impact and just keep clapping for the output. [Token-maxing is real](https://www.viberank.app/) and I often have a hard time reaching through to people with this message, just because we are so happy that we close more (and bigger) pull requests.
 
 Let's not forget that. Let's bring a value-obsessed, outcome measured and impact focused way of working back. Right now we are wasting the human capacity on keeping the agents busy.
 
 I've written a few posts now on flow in the age of AI and to be honest, the other posts have been a setup to this post that is like the main idea (or itch I needed to scratch). Let me bring you up to speed with a short summary of the concepts so that you don't have to read all of the posts, and provide links back to them.
 
-![Learning is still not cheap](/img/learning_still_not_cheap.png)
 
 <!-- excerpt-end -->
 

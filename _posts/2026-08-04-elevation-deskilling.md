@@ -9,17 +9,20 @@ tags:
   - AI
 ---
 
-I've written a few posts on AI and how it changes the flow of value, looking at it using my Theory of Constraints glasses, you can find them here, if you want:
+![Elevation or deskilling](/img/elevation_deskilling.png)
+
+I've written a few posts on AI and how it changes the flow of value, looking at it using my Theory of Constraints glasses.
+
+But are we really moving up in the value chain or is it actually deskilling and we end up baby-sitting an AI robot?
+
+
+You can find them here, if you want:
 
 - [What is throughput in our domain](https://www.marcusoft.net/2026/07/ai-flow-throughput.html)
 - [Theory of constrains in an AI world](https://www.marcusoft.net/2026/07/ai-flow-toc.html)
 - [AI as robots - haven't I been here before?](https://www.marcusoft.net/2026/08/ai-robots.html)
 
 But I had a few more things that I wanted to get out of my system. The first is the fact that with automation, such as robots, the workers moved up in the value chain. This is happening again now, as AI is being used to do much of the writing, creation and generation.
-
-But are we really moving up in the value chain or is it actually deskilling and we end up baby-sitting an AI robot?
-
-![Elevation or deskilling](/img/elevation_deskilling.png)
 
 <!-- excerpt-end -->
 
