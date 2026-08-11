@@ -19,6 +19,8 @@ But I had a few more things that I wanted to get out of my system. The first is 
 
 But are we really moving up in the value chain or is it actually deskilling and we end up baby-sitting an AI robot?
 
+![Elevation or deskilling](/img/elevation_deskilling.png)
+
 <!-- excerpt-end -->
 
 ## Moving up the stream
