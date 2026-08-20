@@ -26,7 +26,7 @@ I shared that and in doing so probably contributed to the feeling of overwhelmin
 
 I don't know if I am that positive really, but I'm old. I've been 3-4 of these paradigm shifts (the .com boom, the cloud, agile, the tab/spaces wars - I've been around). Even if I've never had a clear plan going into any of these paradigm shifts, I've seen things that works better than others, when it comes to navigating uncertainty.
 
-## Being IN a paradigm shift is scary**
+## Being IN a paradigm shift is scary
 
 Acknowledge that. We don't know what the future holds. Let me say that again; we DO NOT know how this will play out. No one. On the planet. That is scary. It's ok to be scare, worried, annoyed and confused. And it's ok to be kind to people around you that feels like that around you.
 
