@@ -29,6 +29,10 @@ In the end I will need to validate that the functionality works as intended.
 
 I have, like the welder in the 80s, moved up in the value chain and my effort goes into instructing the agent and validating the work that the agent does. I use many automated tools to do so and do some checks manually.
 
+I also realize that there were (are?) probably welders that took great pride in welding well. And that had very particular ways of welding that they like better than others. And that would let a robot do the welding for them in a million years.
+
+And that for some applications that will just be too slow for the production.
+
 ## Punch cards
 
 ![Punch cards](https://upload.wikimedia.org/wikipedia/commons/7/7c/2punchCards-square.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original)
