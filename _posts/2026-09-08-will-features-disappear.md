@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will features disappear"
+title: "Will features disappear?"
 author: "Marcus Hammarberg"
 date: 2026-09-04 04:00:00
 tags:
@@ -15,7 +15,7 @@ I was just in a meeting where we rattled of a few basic features to build on top
 - And by tags, of course
 - Sure, and probably filter by location
 - Wouldn't it be cool if they could see how many other companies in their industry have been involved in the projects in our database?
-- Oh - and then, just for fun; let's put an LLM Chat using an MCP in front of it.
+- Oh - and then, just for fun; let's put an LLM in place so that they can chat with the data, so to speak.
 
 And at this point I just realized that the other features were now redundant. Because with our database hooked up to a LLM Chat that is operating on the data using an MCP server, all those questions would be possible to answer.
 
