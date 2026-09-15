@@ -24,25 +24,25 @@ I wanted to share my response, a bit embroidered, in this post.
 
 The background was that I had just shared some stories from speaking at [Tech Arena](https://techarena.se/) — an event packed with AI stuff. It was a really positive vibe in there, but dear God so many new things, and big changes. My head was spinning.
 
-I shared that and in doing so probably contributed to the feeling of overwhelming and scare (What? You haven’t tried [Ralph Loops](https://paddo.dev/blog/ralph-wiggum-autonomous-loops/), it’s several weeks old?!)
+I shared somethings about that event and in doing so probably contributed to the feeling of overwhelming and scare (What? You haven’t tried [Ralph Loops](https://paddo.dev/blog/ralph-wiggum-autonomous-loops/), it’s several weeks old?!)
 
-I don't know if I am that positive really, but I'm old. I've been 3-4 of these paradigm shifts (the .com boom, the cloud, agile, the tab/spaces wars - I've been around). Even if I've never had a clear plan going into any of these paradigm shifts, I've seen things that works better than others, when it comes to navigating uncertainty.
+I don't know if I am that positive really, but I'm old. I've been 3-4 of these paradigm shifts (the .com boom, the cloud, agile, the tab/spaces wars... I've seen horrible things. I've seen beautiful things.). Even if I've never had a clear plan going into any of these paradigm shifts, I've seen things that works better than others, when it comes to navigating uncertainty.
 
 ## Being IN a paradigm shift is scary
 
 Acknowledge that. We don't know what the future holds. Let me say that again; we DO NOT know how this will play out. No one. On the planet. That is scary. It's ok to be scare, worried, annoyed and confused. And it's ok to be kind to people around you that feels like that around you.
 
-*I'm worried, confused and scared too*. I kinda like refactoring code, will that go away? Is Agile even a thing in the AI-infused future? Or Consulting?
+*I'm worried, confused and scared too*. I kinda like refactoring code, will that go away? Is Agile even a thing in the AI-infused future? Or software developing? Or consulting?
 
 It's scary stuff to think about.
 
 Feeling bad yet? :) Ok - here' comes the comfort-part.
 
-However, in none of these shifts that I have been through - it has never been as bad as the worst I thought. And never as good as the best I thought. Some ideas that I thought was awesome didn't stick. Some tools that sucked did stick (looking at you JIRA). You will learn things that will not become anything good (huh, tabs are better... who knew) - but you have learned in the process. The learning was the thing. Speaking of.
+However, in none of these shifts that I have been through - it has never been as bad as the worst I thought. And never as good as the best I thought. Some ideas that I thought was awesome didn't stick. Some tools that sucked did stick (looking at you JIRA). You will learn things that you didn't particularly like (huh, tabs are better... who knew) - but you have learned in the process. The learning was the thing. Speaking of.
 
 ## Our profession is learning
 
-Both as product developers (in the wider sense of the word), and consultants. The tools, ways, ideas and needs are ever changing. We have chosen to be in school for ever. Welcome!
+For both product developers (in the wider sense of the word), and consultants (that I happen to be) - learning is our job.  The tools, ways, ideas and needs are ever changing. We have chosen to be in school for ever. Welcome!
 
 We need to keep learning in the paradigm shift too. But when you do - learn deeper, reflect and think deeply. Use the tool, but focus on the practice. Do the practice but try to understand the principle behind it.
 
