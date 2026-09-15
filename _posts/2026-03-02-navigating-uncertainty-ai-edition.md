@@ -14,9 +14,11 @@ Yes - I’m talking about AI. But this post will be about some ideas how to navi
 
 Someone asked me a question just as I left the office this Friday. The question was really good and the person showed genuine worry. I’m sure that person was not the only one. At least one more share the feelings. Me.
 
-I wanted to share my response, a bit embroidered, here. The question was basically this, but better formulated:
+The question was basically this, but better formulated:
 
-> *Marcus, how do you stay positive in the light of all potential downsides of AI?*
+> Marcus, how do you stay positive in the light of all potential downsides of AI?
+
+I wanted to share my response, a bit embroidered, in this post.
 
 <!-- excerpt-end -->
 
