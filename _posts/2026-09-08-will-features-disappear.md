@@ -76,6 +76,10 @@ This shows the [Impulsoria](https://en.wikipedia.org/wiki/Impulsoria) that was a
 
 Since we haven't yet invented engines but (apparently) trains - we used the old way of driving machines on the new world. In hindsight that looks stupid and naive, but at the time I'm sure it made sense. (The gearbox for more than one horse had me in stitches)
 
+After I wrote this post, I saw [this video on generative UIs](https://www.youtube.com/watch?v=hCMrEfPG2Yg) and the presenter used a much better analogy in the presentation. Early TV programs was just Radio-shows with a camera. We couldn't envision the future of what TV could be. We understood the future in terms of the current.
+
+![Radio TV](/img/earlytv.png)
+
 I'm thinking that our AI usage is in this stage too.
 
 ## Summary
