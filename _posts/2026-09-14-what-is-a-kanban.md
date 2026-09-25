@@ -15,7 +15,7 @@ In this age of automation and AI I enjoy the simple physical things where I can 
 
 <!-- excerpt-end -->
 
-This post it was created by me about 2 years ago. It's attached to the last sheet of a binder of key fob receipts in our Salvation Army Corps (church).
+This post-it was created by me about 2 years ago. It's attached to the last sheet of a binder of key fob receipts in our Salvation Army Corps (church).
 
 We are about 200 members in the church and many, but not all have a key fob ("blipp" in Swedish) to get into the church when it is locked. I am in charge of setting these people up in the system. Since there was about 100 people that wanted to get a fob I printed a bunch of blank templates and took one out for each receipt I wrote.
 
