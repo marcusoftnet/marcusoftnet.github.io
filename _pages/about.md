@@ -9,7 +9,7 @@ description: Marcus - a little bit about me
 
 ## Normal short intro
 
-Agile coach, Christian, .NET/NodeJs/Scala Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author (with [Joakim Sunden](http://www.joakimsunden.com)) of [Kanban In Action](http://bit.ly/theKanbanBook) and [Salvation: The Bungsu Story](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135). Created a [bootcamp for developers](https://salt.dev/) and now works as a data engineering.
+Agile coach, Christian, .NET/NodeJs/Scala Developer, Euphonium player. Married to Elin and father to Albert, Gustav and Arvid. Lived in Indonesia for a couple of years. Author  of [Kanban In Action](http://bit.ly/theKanbanBook) (with [Joakim Sunden](http://www.joakimsunden.com)) and [Salvation: The Bungsu Story](https://www.amazon.se/-/en/Marcus-Hammarberg/dp/1719485135). Created a [bootcamp for developers](https://salt.dev/) and now works as a data engineering.
 
 ## My CV
 
