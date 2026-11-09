@@ -9,7 +9,7 @@ tags:
  - Tools
 ---
 
-They've done [it again](/2014/12/-quick-ideas-on-user-stories.html). [Gojko Adzic](http://gojko.net), [David Evans](https://twitter.com/davidevans66) and, in this book, [Tom Roden](https://twitter.com/TommRoden) has written another 50 quick ideas book. And this one is equally good as the previous book on user stories. If not even better.
+They've done [it again](https://www.marcusoft.net/2014/12/quick-ideas-on-user-stories.html). [Gojko Adzic](http://gojko.net), [David Evans](https://twitter.com/davidevans66) and, in this book, [Tom Roden](https://twitter.com/TommRoden) has written another 50 quick ideas book. And this one is equally good as the previous book on user stories. If not even better.
 
 From the [looks of it](http://www.50quickideas.com/) there's a whole concept around these quick ideas and, fingers crossed, we can expect much more goodness like this.
 

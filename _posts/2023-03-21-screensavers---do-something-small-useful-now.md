@@ -96,4 +96,4 @@ All of this reasoning comes from me. The motto comes from Bob Bemer. Maybe he me
 
 Here's the picture that I'm using for this screensaver.
 
-![Kindness is better](/img/backgrounds.005.png)
+![Kindness is better](/img/backgrounds.kindness.png)
