@@ -40,4 +40,4 @@ I hinted in the heading that there's a certification around this methodology. Yo
 
 For reference - here is my certificate:
 
-![Certificate](/img/Screen%2BShot%2B2014-10-30%2Bat%2B11.17.33%2B.png)
+![Certificate](/img/Screen_Shot_2014-10-30_at_11.17.33.png)

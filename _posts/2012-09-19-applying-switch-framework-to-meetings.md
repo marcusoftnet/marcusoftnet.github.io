@@ -35,13 +35,11 @@ In order to accomplish change you will have to address both the rider and the el
 
 Under the headings; Direct the rider, Motivate the elephant and Shape the path (they both are heading down) Chip and Dan Heath gives a lot of tips, and stories that help us understand to address both parts of the human psyche when we introduce change. Resulting in a much higher probability of the change to happen and [Stick](http://www.heathbrothers.com/madetostick/).
 
-This post talks about directing the rider - read on about [Motivating the elephant](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) and [Shaping the path](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6053.html) in the other posts in the series.
+This post talks about directing the rider - read on about [Motivating the elephant](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_20.html) and [Shaping the path](https://www.marcusoft.net/2012/09/applying-switch-framework-to-meetings_6992.html) in the other posts in the series.
 
 ### Follow the bright spots
 
 One very effective and simple way to get change is to follow the bright spots. What works? Who has got this down? Where is the best place to see the change implemented today?
-
-![The Baseball Travelers](/img/bowl-of-rice.jpg)
 
 In the Switch book a story around this is about a doctor trying to help poor peasants to overcome starvation and save children that died from not having enough to eat. What he simply did was to see what the mothers did for the kids that actually survived - because those existed. They did simple things differently (for example feeding the kids 4 times a day instead of 2 (same amount of food in total) or adding other vegetables instead of rice every now and then).
 

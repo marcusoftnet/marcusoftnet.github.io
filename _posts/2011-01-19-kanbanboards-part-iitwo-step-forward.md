@@ -50,7 +50,7 @@ public class StepDefinitions
 
 So I created a Steps folder and added the suggested code to a HomeSteps class. I also added the other two step definitions from the suggested code. I left all of steps pending for now. Here is the code:
 
-![initial steps](/img/initial%2520steps_thumb%255B2%255D.jpg)
+![initial steps](/img/intial_steps_thumb.jpg)
 
 My plan is to not go against the GUI this time. Partly because the outside-in experience is a bit clearer when you skip the GUI, but also since I’ve already demonstrated that in [another blog post](www.marcusoft.net/2010/10/story-on-doing-outside-in-development.html).
 

@@ -46,4 +46,4 @@ Instead - Turn up the Good.
 
 Here's the picture that I'm using for this screensaver.
 
-![Turn up the good](/img/backgrounds.004.png)
+![Turn up the good](/img/backgrounds.turnupthegood.png.png)

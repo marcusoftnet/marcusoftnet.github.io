@@ -237,8 +237,6 @@ Well – at least the message is very informative. My domain has changed – my 
 I would like to see if the tool can initialize the database with some data for me. And with a quick search on [mother of all knowledge](http://stackoverflow.com) I found [a
 post](http://stackoverflow.com/questions/4703486/about-code-first-database-evolution-aka-migrations) that describe it very quick to me. Here is my implementation of my DatabaseInitializer:
 
-![Initializer](/img/db%2520initializer_thumb.jpg)'
-
 And now I can simply call that initializer in Application_Start like this:
 
 ![Application start](/img/application_start_thumb.jpg)

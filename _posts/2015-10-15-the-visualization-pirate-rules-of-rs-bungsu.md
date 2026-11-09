@@ -109,7 +109,7 @@ By visualizing a target (often just a simple line) on the board it's much easier
 
 ## Changes often
 
-I've [blogged about this one already](https://www.marcusoft.net/2015/09/indicators-leading-trailing---short-or-long.html) so I'll leave this short. We prefer data that is "too simple" but moves often rather than "very accurate" and updates seldom.
+I've [blogged about this one already](https://www.marcusoft.net/2015/09/indicators-leading-trailing-short-or-long.html) so I'll leave this short. We prefer data that is "too simple" but moves often rather than "very accurate" and updates seldom.
 
 Here's a few examples to clarify what I mean:
 

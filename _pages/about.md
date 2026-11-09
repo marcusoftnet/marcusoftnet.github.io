@@ -90,7 +90,7 @@ I led a team of instructors that successfully trained more than 700 developers d
 
 #### Speaking
 
-I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se), [Agile Singapore](http://2014.agilesingapore.org) and [Yow West](http://www.marcusoft.net/2015/05/yow-west----some-thoughts.html)
+I like to do public speaking. During the years I have spoken at  lot of conferences like [OreDev](http://www.oredev.org), [JFokus](http://www.jfokus.se), [Agile Sweden](http://www.agilasverige.se), [Agile Singapore](http://2014.agilesingapore.org) and [Yow West](http://www.marcusoft.net/2015/05/yow-west-some-thoughts.html)
 
 Most of my talks have been at or for clients of mine. You can catch some of them here:
 

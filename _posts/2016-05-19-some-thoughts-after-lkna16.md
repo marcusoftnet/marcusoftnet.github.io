@@ -50,7 +50,7 @@ If we now only could [organize ourselves around those services](https://www.marc
 
 I told the story about how kanban saved a hospital in Indonesia and you can flip through the slides below:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ix5qhNS0IYA7HD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="/marcusoftnet/how-kanban-saved-a-hospital-in-indonesia-lkna2016" title="How kanban saved a hospital in Indonesia LKNA2016" target="_blank">How kanban saved a hospital in Indonesia LKNA2016</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ix5qhNS0IYA7HD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/slideshow/how-kanban-saved-a-hospital-in-indoneisa-lkna2016/62112543" title="How kanban saved a hospital in Indonesia LKNA2016" target="_blank">How kanban saved a hospital in Indonesia LKNA2016</a> </strong> from <strong><a href="//www.slideshare.net/marcusoftnet" target="_blank">Marcus Hammarberg</a></strong> </div>
 
 I was very happy and proud to do so and the reception was overwhelming. Many people came up to me during the days and thank me not only for the talk but also for the inspiring content. Just what I wanted and needed.
 

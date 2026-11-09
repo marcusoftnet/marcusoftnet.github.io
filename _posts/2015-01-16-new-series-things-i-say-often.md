@@ -17,12 +17,12 @@ I will collect these post under the label [Things I say often](<https://www.marc
 
 I don't have a list made up already, so I'll write things when they pop into my head. Here's first things I that sprung to mind.
 
-- [This is your board - change it](https://www.marcusoft.net/2015/01/this-is-your-board---change-it.html)
+- [This is your board - change it](https://www.marcusoft.net/2015/01/this-is-your-board-change-it.html)
 - [Why?](https://www.marcusoft.net/2015/01/things-i-say-often-why.html)
 - [Improving means changing](https://www.marcusoft.net/2015/01/improving-means-changing.html)
 - [NO! This is how you tear off a post-it](https://www.marcusoft.net/2015/01/this-is-how-you-tear-off-a-post-it.html)
 - [I don't care about efficiency until we know our goal](https://www.marcusoft.net/2015/01/i-dont-care-about-efficiency-until-we-know-our-goal.html)
 - [I run on feedback](https://www.marcusoft.net/2015/01/i-run-on-feedback.html)
-- [Leadership - not management](https://www.marcusoft.net/2015/01/leadership---not-management.html)
+- [Leadership - not management](https://www.marcusoft.net/2015/01/leadership-not-management.html)
 
 I hope you will enjoy this series. I know I will benefit from writing some of these down.

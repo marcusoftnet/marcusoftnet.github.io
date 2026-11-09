@@ -44,7 +44,7 @@ There might be other work that needs to be done before you can write scenarios e
 
 All the background needed is brought to a meeting in which a feature is discussed, and a feature with scenarios (concrete examples of the usage of the feature) is agreed upon. I often use this picture to show people what I mean:
 
-[![Specification workshop](/img/%5%255Bspecws1%255B2%255D_thumb%255B3%255D.jpg)
+![Specification workshop](/img/specws2_thumb.jpg)
 
 ### Hey? What About the Customer?
 

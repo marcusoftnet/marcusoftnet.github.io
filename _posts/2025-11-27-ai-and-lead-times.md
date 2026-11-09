@@ -30,7 +30,7 @@ With that out of the way—let's do some math-y things. There's a metric known a
 
 You might be surprised to know that for most processes (that have not been optimized for flow) the flow efficiency is... 10–15%. Only 48 minutes of actual work is done on something that took 8 hours before it was delivered.
 
-The time from "Could you please" to "Thank you" is known as lead time. It's not until we are done with the entire feature that our [customer is happy](https://www.marcusoft.net/2019/09/when-was-lars-happy).
+The time from "Could you please" to "Thank you" is known as lead time. It's not until we are done with the entire feature that our [customer is happy](https://www.marcusoft.net/2019/09/when-was-lars-happy.html).
 
 ## Improving output – original observation
 

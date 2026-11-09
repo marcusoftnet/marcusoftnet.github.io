@@ -160,7 +160,7 @@ My code is in those gists listed above or [here in a repo](https://github.com/ma
 
 I like Koa Js. I've written a couple of posts about it. Here they will be when they are published:
 
-- [Let's talk about Koa for a while, shall we?](<https://www.marcusoft.net/2014/03/koaintro>
+- [Let's talk about Koa for a while, shall we?](<https://www.marcusoft.net/2014/03/koaintro.html>
 
 .html)
 

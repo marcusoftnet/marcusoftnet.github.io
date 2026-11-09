@@ -13,7 +13,7 @@ The little series I've written on [supertest](https://github.com/visionmedia/sup
 
 But here are the things I've written so far:
 
-* [Splitting API over several files](https://www.marcusoft.net/2015/04/supertest-things-ive-learned---part-i.html)
+* [Splitting API over several files](https://www.marcusoft.net/2015/04/supertest-things-ive-learned-part-i.html)
 * Splitting the API not only the test - this post
 * [Verify in database after ended request](https://www.marcusoft.net/2015/05/supertest-verify-in-database-after-ended-request.html)
 
@@ -127,7 +127,7 @@ Of course you need to <code>npm install koa koa-mount --save</code> too.
 
 I've written blog posts about most of these parts before, so I'll direct you to them for details:
 
-* Line 4 and 17-18 uses a configuration object to externalize the configuration of the application. [See more here](https://www.marcusoft.net/2015/02/config-handling-in-node-and-heroku---with-secrets.html)
+* Line 4 and 17-18 uses a configuration object to externalize the configuration of the application. [See more here](https://www.marcusoft.net/2015/02/config-handling-in-node-and-heroku-with-secrets.html)
 * Line 7 - 11 sets up a small (I say) application that just returns a very simple string, for now. This could of course been done in a separate file too, should it be bigger than this
 * Line 14 is the magic-sauce: here's we use that applications and mounts it under the <code>/</code> path. Read more about [mounting in koa here](https://www.marcusoft.net/2015/04/koa-js-and-the-power-of-mouting.html)
 

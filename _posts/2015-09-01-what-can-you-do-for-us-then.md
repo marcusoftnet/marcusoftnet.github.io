@@ -29,7 +29,7 @@ Also I happened to listen to this great [pod cast for no particular reason](http
 
 Please don't misunderstand me this is not "The defense speech of coaches everywhere".
 
-I think that people that are negative towards coaching often are being coached **at** rather than wanting coaching. I [wrote about this before](https://www.marcusoft.net/2015/08/experiment---dont-change.html) but just restating; People don't dislike change - they dislike being changed.
+I think that people that are negative towards coaching often are being coached **at** rather than wanting coaching. I [wrote about this before](https://www.marcusoft.net/2015/08/experiment-dont-change.html) but just restating; People don't dislike change - they dislike being changed.
 
 This is especially true with coaching I think; People don't dislike coaching - they dislike being coached without asked.
 

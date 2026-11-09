@@ -78,7 +78,7 @@ What I'm realizing with agentic development is that we are not doing the work. W
 
 This, in combination with the [context switching](#context-switching-is-not-good-for-humans) makes for a stressful situation.
 
-Since [flow is sacred](/2025/08/flow-is-sacred.html) and context switching and focus on resource utilization is hurting flow, this is worth paying attention to.
+Since [flow is sacred](/2025/06/flow-is-sacred.html) and context switching and focus on resource utilization is hurting flow, this is worth paying attention to.
 
 ## Pressure to produce
 

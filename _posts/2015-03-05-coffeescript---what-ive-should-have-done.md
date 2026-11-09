@@ -9,7 +9,7 @@ tags:
  - Node
 ---
 
-The blog post I [wrote yesterday](https://www.marcusoft.net/2015/03/node-with-coffeescript---not-a-piece-of-cake.html) was from my experience at the time. I even ended the post with a call out for better ways.
+The blog post I [wrote yesterday](https://www.marcusoft.net/2015/03/node-with-coffeescript-not-a-piece-of-cake.html) was from my experience at the time. I even ended the post with a call out for better ways.
 
 And sure enough, twitter to the rescue:
 
@@ -28,7 +28,7 @@ First of all - nothing I wrote will cause you problems but it's a bit cumbersome
 
 All the things I wrote under the "Initialize project and more" and "Run tests" headings is a ok way to get up and running with CoffeeScript on Node.
 
-Doing that again means that you now have (see the [other post](https://www.marcusoft.net/2015/03/node-with-coffeescript---not-a-piece-of-cake.html) for details):
+Doing that again means that you now have (see the [other post](https://www.marcusoft.net/2015/03/node-with-coffeescript-not-a-piece-of-cake.html) for details):
 
 * Created a CoffeeDemoTheCoffeeWay directory
 * ```git init``` in that directory

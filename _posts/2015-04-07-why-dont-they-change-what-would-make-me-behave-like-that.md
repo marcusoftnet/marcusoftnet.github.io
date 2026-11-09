@@ -11,7 +11,7 @@ tags:
  - Indonesia
 ---
 
-I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](https://www.marcusoft.net/2015/03/a-world-without-why--what-motivates-indonesian-people.html), [twice](https://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.
+I'm starting to realize that the biggest advantage I, personally, will get from my three years in Indonesia is a lot of experience in change management, under some extreme conditions. As I've [blogged about](https://www.marcusoft.net/2015/03/a-world-without-why-what-motivates-indonesian-people.html), [twice](https://www.marcusoft.net/2015/03/motivating-in-a-world-without-why.html), I am now in a culture where questioning is not done. It's not encourage, not praised, not sought for etc. You simply don't do it.
 
 Again please don't read that as I think that they are stupid or ignorant - it's just their culture. There's a lot of strange things going on in our culture too. Just step outside your own box and you'll see it.
 

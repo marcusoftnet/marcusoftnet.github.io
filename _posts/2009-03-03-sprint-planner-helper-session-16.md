@@ -25,7 +25,7 @@ The one thing that is left is to be able to create new backlog items.
 
 My GUI for editing a product right now looks like this:
 
-![edit a product](/img/sprintplanner_editaproduct)
+![edit a product](/img/sprintplanner_editaproduct.jpg)
 
 As I said before, I will not put too much effort into the design of the GUI, but I have noticed that the [MVC-pattern](http://en.wikipedia.org/wiki/Model-view-controller) opens up for GUI-design decisions to be changed later on. I mean – there is a product backlog item create action that can be outputted as a pop-dialog, on its own page, via AJAX/Flash, or …
 

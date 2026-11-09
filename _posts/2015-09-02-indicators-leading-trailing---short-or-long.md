@@ -15,7 +15,7 @@ I've been helping the management team at one of our hospitals to come up with so
 
 <blockquote>How would we know if this hospital is awesome?</blockquote>
 
-We came up with a couple of [balancing scores](https://www.wikiwand.com/en/Balanced_scorecard) that we will take for a spin in our [first experiment round](https://www.marcusoft.net/2015/08/experiment---dont-change.html). The idea is the these values will guide our actions - if we can make things that improve the values (one or more) it's a good thing. In the spirit of balancing scores we are keeping track on more than one to make sure that we're not tilting our efforts toward, say only financial values.
+We came up with a couple of [balancing scores](https://www.wikiwand.com/en/Balanced_scorecard) that we will take for a spin in our [first experiment round](https://www.marcusoft.net/2015/08/experiment-dont-change.html). The idea is the these values will guide our actions - if we can make things that improve the values (one or more) it's a good thing. In the spirit of balancing scores we are keeping track on more than one to make sure that we're not tilting our efforts toward, say only financial values.
 
 Hmmm... need to write some of those ideas down, maybe. Ok - now to the topic of this post:
 

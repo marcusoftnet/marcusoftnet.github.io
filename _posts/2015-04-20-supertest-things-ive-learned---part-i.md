@@ -19,7 +19,7 @@ He specifically asked me to show how to "split test into separate files for big 
 But that sprung a few ideas about things that I've started to use a lot and I thought I'll do a little mini-series here. Here are some posts I have in mind:
 
 * Splitting API over several files - this post
-* [Splitting the API not only the test](/2015/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)
+* [Splitting the API not only the test](/2015/05/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)
 * [Verify in database after ended request](/2015/05/supertest-verify-in-database-after-ended-request.html)
 
 Cliffhanger; the last bullet is still not clear to me... It will be a blast seeing me stumble through that one.
@@ -351,4 +351,4 @@ And round this point I realize that this post is way too long already. I'll move
 
 I've tagged the code in GitHub for this post and you [can find it here](https://github.com/marcusoftnet/UserApiWithTest/tree/v1.1).
 
-It' will be great! [See you there](/2015/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)!
+It' will be great! [See you there](/2015/05/splitting-an-koa-app-into-parts-and-putting-it-together-again.html)!

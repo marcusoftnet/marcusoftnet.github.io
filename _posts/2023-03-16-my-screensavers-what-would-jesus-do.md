@@ -56,4 +56,4 @@ Here's a few examples where I've used this thought:
 
 Here's the picture that I'm using for this screensaver.
 
-![Kindness is better](/img/backgrounds.001.png)
+![Kindness is better](/img/backgrounds.wwjd.png)

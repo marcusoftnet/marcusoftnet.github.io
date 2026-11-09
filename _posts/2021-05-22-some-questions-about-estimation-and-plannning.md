@@ -45,7 +45,7 @@ So, summarize: do plan - but not too much. Make decisions that helps you to move
 
 Ok - now for the second part, which is trickier from a political perspective. Don’t spend a lot of time estimating. Those estimates will be wrong anyway :smile:
 
-Instead take [my advice here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.htm) l ([starting here](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html))  and track good data often.
+Instead take [my advice here](https://www.marcusoft.net/2019/03/kanbanstats-an-average-improvement.html) l ([starting here](https://www.marcusoft.net/2019/01/kanbanstats-simplify-process-stats-get-started.html))  and track good data often.
 
 For the political part I often use this reasoning:
 

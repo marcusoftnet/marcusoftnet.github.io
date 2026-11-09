@@ -92,4 +92,4 @@ The simple answer (see what I did there...) is that created a complex situation,
 
 Here's the background image I use as my screensaver.
 
-![Simple = Good. Complex = Bad](/img/backgrounds.003.png)
+![Simple = Good. Complex = Bad](/img/backgrounds.simplegood.png)

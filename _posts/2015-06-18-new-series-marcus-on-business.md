@@ -17,7 +17,7 @@ Where I currently work there's been a problem with budgets for traveling. And an
 
 What to do? Well, since [I grow bored very fast without anything to do](https://www.marcusoft.net/2015/01/i-run-on-feedback.html) I tried to find a way.
 
-I started a series of presentations about the topic I wanted to talk with "my clients" about, recorded them and uploaded to YouTube. I even made [extra effort to do great subtitles](https://www.marcusoft.net/2015/06/how-to-add-and-translate-captions-for-your-youtube-video-in--minutes.html), in two languages, just to increase the chance that they will understand me.
+I started a series of presentations about the topic I wanted to talk with "my clients" about, recorded them and uploaded to YouTube. I even made [extra effort to do great subtitles](https://www.marcusoft.net/2015/06/how-to-add-and-translate-captions-for-your-youtube-video-in-minutes.html), in two languages, just to increase the chance that they will understand me.
 
 Before anyone tells me; yes - I know that this is maybe the worst possible way of making sure that you get an important message across to someone that needs it. But it's what I can do now.
 

@@ -22,7 +22,7 @@ Use the <code>--limit_posts</code> switch to your <code>jekyll serve</code> comm
 
 ## Longer version
 
-I've written before [my post scaffolder](/2014/12/my-post-scaffolder-for-jeyll) which is a handy little script to get started. The other script I have made is a very simple script for starting my site locally. Here it is:
+I've written before [my post scaffolder](https://www.marcusoft.net/2014/12/my-post-scaffolder-for-jekyll.html) which is a handy little script to get started. The other script I have made is a very simple script for starting my site locally. Here it is:
 
 ```bash
 jekyll serve --watch

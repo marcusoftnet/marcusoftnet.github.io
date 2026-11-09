@@ -109,3 +109,7 @@ const NOW = () => `NOW`;
 
 console.log(DO_SOMETHING(SMALL(USEFUL(NOW()))));
 ```
+
+Here's the picture
+
+![DO_SOMETHING(SMALL(USEFUL(NOW())))](/img/backgrounds.dosomething.png)

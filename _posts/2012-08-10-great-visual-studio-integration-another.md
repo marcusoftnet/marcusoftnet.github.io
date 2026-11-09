@@ -17,13 +17,13 @@ Marcus enters the office. He boots up the computer and opens Visual Studio 2012.
 
 Where was he now again? There was something about the feature file. He opens it and, thanks to the nice color coding of lines, Marcus is reminded of a step that he didn't have a step definition for.
 
-![Screen Shot 2012-08-09 at 21.09.06](/img/Screen%252520Shot%2525202012-08-09%252520at%25252021.09.06_thumb.png)
+![Screen Shot 2012-08-09 at 21.09.06](/img/Screenshot2012-08-09_thumb.png)
 
 “Then the result should be 120”…
 
 "This should not be too hard," he thinks and hits F12 on the step in the .feature file. As always, the helpful dialog opens, providing him with the implementation. And look – it’s now parsing out a regular expression at the right place.
 
-![Screen Shot 2012-08-09 at 20.39.22](/img/Screen%252520Shot%2525202012-08-09%252520at%25252020.39.22_thumb.png)
+![Screen Shot 2012-08-09 at 20.39.22](/img/ScreenShot202012-08-09at2020.39.22_thumb.png)
 
 He simply pastes the implementation into the class file and fills it out with a couple of simple lines.
 
@@ -43,7 +43,7 @@ Scenario: Subtracting two numbers
 
 “That was a lot of new step definitions… and very similar to the ones we have. I’ll just implement these as they stand.” Marcus right-clicks the scenario and chooses "Generate Step Definitions." This opens the following dialog box:
 
-![Screen Shot 1](/img/Screen%252520Shot%2525202012-08-09%252520at%25252020.53.30_thumb%25255B1%25255D.png)
+![Screen Shot 1](/img/Screenshot202012-08-09at2020.53.30_thumb.png)
 
 Marcus opts for Pascal-cased methods without regular expressions…  “Just as I started to pick that up…” he thinks but is also happy that the option exists.
 
@@ -53,7 +53,7 @@ The implementation of the step definitions and the subsequent production code go
 
 Looking back over his work, one final thing strikes him… “Look, all the variables are *italics* and grey, nice! Huh – haven’t seen that before.”
 
-![Screen Shot 2](/img/Screen%252520Shot%2525202012-08-09%252520at%25252021.07.17_thumb.png?imgmax=800)
+![Screen Shot 2](/img/ScreenShot202012-08-09at2021.07.17_thumb.png?imgmax=800)
 
 “I’m sure happy that I have such a great tool to help me out. It makes my work both easy and fun.”
 

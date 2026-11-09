@@ -24,7 +24,7 @@ As I said that I was reminded about many times I've been required to give estima
 
 ## Disclaimer
 
-Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but as you know I'm wiser than that. This is a comment in the [#LessEstimates discussion](https://www.marcusoft.net/2015/05/no-no---more-less.html).
+Yes, this might be considered a comment in the #hashTagThatShallNotBeNamed, but as you know I'm wiser than that. This is a comment in the [#LessEstimates discussion](https://www.marcusoft.net/2015/05/no-no-more-less.html).
 
 ## The story
 

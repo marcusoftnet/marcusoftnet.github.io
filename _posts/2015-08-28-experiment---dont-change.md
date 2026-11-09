@@ -75,7 +75,7 @@ The other day I asked about peoples experiences with [mob programming](http://mo
 
 I did this because I've not heard many people talk about failing in mob programming and I thought that was a bit interesting. More interesting was the answers I got.
 
-I read from the answers that failing in mob programming was mainly about forcing people to take part, against their will. That's a bad idea no matter the practice, as I [wrote about the other day](https://www.marcusoft.net/2015/08/wash-your-hands---make-your-hands-clean.html).
+I read from the answers that failing in mob programming was mainly about forcing people to take part, against their will. That's a bad idea no matter the practice, as I [wrote about the other day](https://www.marcusoft.net/2015/08/wash-your-hands-make-your-hands-clean.html).
 
 This also ties back to people not want to *be changed*.
 
