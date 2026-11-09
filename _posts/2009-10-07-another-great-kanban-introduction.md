@@ -16,6 +16,6 @@ I don’t know if I understood it better this time because I [already knew about
 
 I also loved some details in the presentation—just check the “Your estimated waiting time” boxes in this picture:
 
-![Kanban board](/img/kanban_board%255B1%255D_thumb%255B1%255D.jpg)
+![Kanban board](/img/kanban_board-1_thumb-1.jpg)
 
 Thank you, Jeff.

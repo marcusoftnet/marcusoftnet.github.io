@@ -19,7 +19,7 @@ Quite often when you create a visualized version of your workflow you end up wit
 
 It might look something like this on your board:
 
-![example1](/img/example1_thumb%2525255B66%2525255D.png)
+![example1](/img/example1_thumb-66.png)
 
 For example, you are writing a report and need feedback on the report before you can continue. Sadly, that person (Daphne, let’s call her that) who can give you feedback is sick, so you’ll have to wait until Daphne is back again. You are blocked on this item and cannot complete it. (Coders, exchange the word “report” for “module” and you’ll be able to tag along :smile:). You move the sticky to the waiting column and pull the next one…
 
@@ -27,7 +27,7 @@ This is a bad idea. Waiting-columns are a place where work items go to die. Slow
 
 I have now explained the contents of this blog post to a number of teams, although it’s simple, and thought that I should write it down so that I don’t have to restate it over and over. First, if you move the sticky out of the Doing column, you are losing information about its current status. It’s now not Doing, it’s waiting. For all but the very trivial boards (as above), this is a problem when you are unblocked again. Most boards have, and should have, more columns to more finely describe the stages of your workflow. To do, Analyze, Developing, Testing, Deploying, and Done is another quite trivial example, but a bit better.
 
-![example2](/img/example2_thumb%2525255B114%2525255D.png)
+![example2](/img/example2_thumb-114.png)
 
 For the record, these trivial examples might be useful. The first one is the default for many [Personal Kanban](http://www.personalkanban.com/) boards, and this second example is a great starting point for a software development team. But we should change it as needed.
 
@@ -43,7 +43,7 @@ I’m sure you can come up with more items if you wanted to. Here’s my suggest
 
 The habit that I’ve grown into is to **not** move the work item note but rather put another, waiting note on top. On this little note, I can write the reason for me being blocked and also track the number of days I’ve been waiting. Like this, for example:
 
-![2014-05-12 11.45.04](/img/2014-05-12%2525252011.45.04_thumb.jpg)
+![2014-05-12 11.45.04](/img/2014-05-12-11.45.04_thumb.jpg)
 
 This means that the original work item card is intact with all its attributes to describe it:
 
@@ -58,7 +58,7 @@ There’s nothing really earth-shattering about this, and most teams get here af
 
 Oh yeah, one more thing. I once met a team that was waiting a lot. In fact, if I remember correctly, they had a waiting stage between every doing stage in their workflow. And it was maybe 80-90% of the total time. It looked like this, kind of:
 
-![Long wait](/img/longwait_thumb%2525255B250%2525255D.png)
+![Long wait](/img/longwait_thumb-250.png)
 
 I hope that none of you end up in a state like that. There’s a time and place to stop waiting as well. If you end up waiting for each thing you do, maybe you should do them differently?
 

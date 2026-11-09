@@ -24,7 +24,7 @@ In this post I wanted to share some thoughts on how this is general and what we 
 
 To explain what just happened to the people in the room I drew this diagram on the whiteboard:
 
-![2014-06-02 13.16.14](/img/2014-06-02%2525252013.16.14_thumb%2525255B8%2525255D.jpg)
+![2014-06-02 13.16.14](/img/2014-06-02-13.16.14_thumb-8.jpg)
 
 We talked for awhile and they seem to understand. Heads where nodding and people went “aah”.
 
@@ -32,7 +32,7 @@ We talked for awhile and they seem to understand. Heads where nodding and people
 
 The item on the agenda was about finance reporting. We wanted to have the cash reported daily. It turned out that this was hard for them. We asked Why, of course and they said that they had not reported like this before.
 
-![2014-06-02 13.16.50](/img/2014-06-02%2525252013.16.14_thumb%2525255B8%2525255D.jpg)
+![2014-06-02 13.16.50](/img/2014-06-02-13.16.14_thumb-8.jpg)
 
 That’s when I saw the analogy between these two tasks. I went up to the whiteboard and changed the table into this.
 

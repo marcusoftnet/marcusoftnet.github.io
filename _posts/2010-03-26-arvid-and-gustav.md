@@ -20,7 +20,7 @@ And 11 hours later, they had arrived.
 
 Since then, Gustav (twin 2) has been sick. The short story is that being born too early, his lungs had not developed fully. But he's getting better and is on his way to a full recovery. We’re hoping to be back home with the twins at the beginning of next week.
 
-![Arvid Hammarberg](/img/DSC_2045_thumb%255B2%255D.jpg)
+![Arvid Hammarberg](/img/DSC_2045_thumb-2.jpg)
 
 Arvid (twin 1, born about 30 minutes earlier) is a very calm and peaceful person so far. Gustav has a bit more temper, but they are both quite easy-going. Gustav looks a lot like me, and Arvid is a bit thinner in his looks.
 
@@ -32,6 +32,6 @@ I thought I'd post some pictures of them. Here you go:
 
 ![And more sleeping - now in hats](/img/DSC_2118_thumb.jpg)
 
-![And here with their eyes open](/img/78598342%255B1%255D_thumb.png)
+![And here with their eyes open](/img/78598342-1_thumb.png)
 
 For people reading this blog searching for IT-stuff, I’ll be back on that track soon. Other stuff seems so much more important right now, like children.

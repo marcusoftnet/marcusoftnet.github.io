@@ -60,7 +60,7 @@ OK – the first steps say that some “Kanbanboards” are needed. So the first
 
 Here’s the code (really simple):
 
-![Turning SpecFlow table into a list of KanbanBoards](/img/Turning%2520SpecFlow%2520table%2520into%2520a%2520list%2520of%2520KanbanBoards_thumb.jpg)
+![Turning SpecFlow table into a list of KanbanBoards](/img/Turning-SpecFlow-table-into-a-list-of-KanbanBoards_thumb.jpg)
 
 And for those wondering I moved the KanbanBoard class into the model directory of the Web project when I created it below.
 
@@ -80,7 +80,7 @@ Let’s do that!
 
 I simply created an MVC 3 project using the wizard. No unit-tests since I don’t need them. Yet. I went with Razor as my view engine.
 
-![creating web project](/img/creating%2520web%2520project_thumb.jpg)
+![creating web project](/img/creating-web-project_thumb.jpg)
 
 Choosing "Internet application” above will give me some initial structure. You win some and you lose some with that. I started by removing the Account model, -controller, and -view-stuff since I haven’t seen the need for that yet. I’m planning on using OpenID for authentication later on.
 
@@ -88,7 +88,7 @@ Choosing "Internet application” above will give me some initial structure. You
 
 I can now install MvcScaffolding. Let's get MvcScaffolding (with NuGet of course). When I did that with the Add Library Package Reference dialog I got this error:
 
-![Operation Failed](/img/Operation%2520Failed_thumb.jpg)
+![Operation Failed](/img/Operation-Failed_thumb.jpg)
 
 And reading the [excellent introduction post by Steven Sandersson](http://blog.stevensanderson.com/2011/01/13/mvcscaffolding-standard-usage/) I understand why. This package is all run from the Package Console. So I’ll install it from there too. Makes sense. The command is simply:
 
@@ -108,7 +108,7 @@ Successfully added 'MvcScaffolding 0.8.7' to Web
 
 Bah! I installed it into the wrong project. There is a tricky little drop down in the package management console that tells you which project to install into.
 
-![package console](/img/package%2520console_thumb.jpg)
+![package console](/img/package-console_thumb.jpg)
 
 So I had to learn how to uninstall packages... Simple:
 
@@ -136,7 +136,7 @@ I now have a context created and a repository using that context. Hey – even a
 
 I now wrote a test that shows that a Repository cannot be created without a KanbanBoardsDbContext (the name I used for my DBContext-object). Here is the test (in a new Tests-project):
 
-![test proving that a repository need a context](/img/test%2520proving%2520that%2520a%2520repository%2520need%2520a%2520context_thumb.jpg)
+![test proving that a repository need a context](/img/test-proving-that-a-repository-need-a-context_thumb.jpg)
 
 OK – that in turn led me to a lot of refactorings:
 
@@ -150,7 +150,7 @@ OK – that in turn led me to a lot of refactorings:
 
 There – now I can update the Given-step from way back to hold a mocked repository that returns the given KanbanBoards. Here is the implementation:
 
-![given with mocked dbContext](/img/given%2520with%2520mocked%2520dbcontext_thumb.jpg)
+![given with mocked dbContext](/img/given-with-mocked-dbcontext_thumb.jpg)
 
 Nice! The background step is now Green and refactored properly. Now we can get on with the next steps.
 
@@ -160,7 +160,7 @@ Nice! The background step is now Green and refactored properly. Now we can get o
 
 Here is the When step definition I wrote:
 
-![when implementation](/img/when%2520implementation_thumb.jpg)
+![when implementation](/img/when-implementation_thumb.jpg)
 
 And it was around this time that I realized that I was going about this the wrong way.
 

@@ -33,7 +33,7 @@ A local NuGet repository is simply a folder containing NuGet packages. Here’s 
 2. In Visual Studio, go to Tools → Library Package Manager → Package Manager Settings, and add your folder path to the Package Sources:
 3. Verify everything is set up correctly by going to the Package Manager console and selecting your package source in the drop-down menu:
 
-   ![Choosing Local Package Source](/img/choosing%25252520local%25252520package%25252520source_thumb.jpg)
+   ![Choosing Local Package Source](/img/choosing-local-package-source_thumb.jpg)
 
 ### Create the NuSpec File
 
@@ -41,7 +41,7 @@ Open NuGet Package Explorer and fill out the basic information about your packag
 
 Scroll down to the dependencies section:
 
-   ![Dependencies](/img/dependencies_thumb%2525255B1%2525255D.jpg)
+   ![Dependencies](/img/dependencies_thumb-1.jpg)
 
 Click the big `+` button to add dependencies. Use the search dialog to find the packages you need:
 
@@ -59,7 +59,7 @@ To test your package:
 4. Type `Install-Package` and hit tab to see your local packages.
 5. Select your package and press Enter.
 
-   ![The Magic](/img/the%25252520magic_thumb.jpg)
+   ![The Magic](/img/the-magic_thumb.jpg)
 
 ### Conclusion
 

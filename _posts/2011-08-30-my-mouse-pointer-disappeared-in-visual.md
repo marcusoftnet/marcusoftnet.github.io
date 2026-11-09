@@ -25,7 +25,7 @@ After some digging, I found a solution in an old [discussion](http://weblogs.asp
 
     This will open the Mouse Properties window:
 
-    ![Mouse Color Scheme](/img/mouse%25252520color%25252520scheme_thumb%2525255B2%2525255D.jpg)
+    ![Mouse Color Scheme](/img/mouse-color-scheme_thumb-2.jpg)
 
 5. **Select the Scheme called "Windows Black"**
 

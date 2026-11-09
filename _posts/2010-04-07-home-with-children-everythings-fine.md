@@ -12,16 +12,16 @@ blogger_orig_url: https://www.marcusoft.net/2010/04/home-with-children-everythin
 
 We have now been home for a while and things are settling down over here. Actually, it’s working pretty well so far.
 
-![Gustav and Arvid - in that order](/img/DSC_2212_thumb%255B1%255D.jpg)
+![Gustav and Arvid - in that order](/img/DSC_2212_thumb-1.jpg)
 
 Gustav is much better – he’s completely cured, to be honest. Both Arvid and Gustav are gaining weight and are generally happy, unless you change their diapers...
 
-![Arvid and Gustav - in THAT order](/img/DSC_2190_thumb%255B1%255D.jpg)
+![Arvid and Gustav - in THAT order](/img/DSC_2190_thumb-1.jpg)
 
 Small children sleep a lot, which is nice when you have another one to take care of as well. Albert is very loving towards Arvid and Gustav and enjoys holding them... with us watching closely. He can lose interest very quickly ;)
 
-![Gustav, Albert, and Arvid](/img/DSC_2194_thumb%255B1%255D.jpg)
+![Gustav, Albert, and Arvid](/img/DSC_2194_thumb-1.jpg)
 
 So, all in all – we’re doing just fine. Thanks for all the greetings and congratulations (is that even a word?). We’ll soon come out of our cocoon and see you all in town. But until then, we’ll sleep some more.
 
-![Gustav and Arvid sleeping again](/img/DSC_2215_thumb%255B1%255D.jpg)
+![Gustav and Arvid sleeping again](/img/DSC_2215_thumb-1.jpg)

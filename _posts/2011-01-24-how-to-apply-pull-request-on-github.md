@@ -26,12 +26,12 @@ Here is ONE way to apply a pull request using TortoiseGit. This method may not b
 2. Add the extension `.patch` to the URL and download that file to your disk somewhere.
 3. Right-click the folder with your Git local repository (for example, `C:\Dev\MyProject`) and select **Git Sync...** from TortoiseGit. This opens the sync window:
 
-   ![TortoiseGit Sync Window](/img/tortoise%2520git%2520sync%2520window_thumb.jpg)
+   ![TortoiseGit Sync Window](/img/tortoise-git-sync-window_thumb.jpg)
 
 4. In the window, select **Apply patch**.
 5. Choose **Add** from the next dialog and add the file you saved in step 2:
 
-   ![Add Patch](/img/add%2520patch_thumb.jpg)
+   ![Add Patch](/img/add-patch_thumb.jpg)
 
 6. Choose **Apply**.
 7. Now commit the patch to your master branch.

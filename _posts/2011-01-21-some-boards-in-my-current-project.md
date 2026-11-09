@@ -23,7 +23,7 @@ This post will be a long one. But with a lot of pictures so I hope you won't be 
 
 In order to easily and effortlessly communicate the status of the complete project, we have created a board on the project level that captures the status for each team. This is our first try to do this:
 
-![project status board](/img/project%2520status%2520board_thumb.jpg)
+![project status board](/img/project-status-board_thumb.jpg)
 
 Note that we’ve started quite simply to only show the status, problems, and work in progress for each team. Later on, you probably want to be able to track resources to spot queues and bottlenecks building up easier.
 
@@ -31,7 +31,7 @@ Here are some details on some of the visualizations we’ve used.
 
 ### Status per team
 
-![status per team](/img/status%2520per%2520team_thumb.jpg)
+![status per team](/img/status-per-team_thumb.jpg)
 
 Each team is communicating their status by the use of three visualizations:
 
@@ -48,11 +48,11 @@ We’ve also put up some other stuff to help people to understand the board and 
 
 An easy example of that is the key or legend that shows how the traffic light is to be interpreted:
 
-![legend for the board](/img/legend%2520for%2520the%2520board_thumb.jpg)
+![legend for the board](/img/legend-for-the-board_thumb.jpg)
 
 Here you can see the project overall time schedule, the organization of the project, and other projects at the company that are dependent on us (and deadlines for them):
 
-![project information](/img/project%2520information_thumb.jpg)
+![project information](/img/project-information_thumb.jpg)
 
 We also have all the tools needed to add or change stuff nearby:
 
@@ -85,7 +85,7 @@ And we have a development team that converts a big VB6 client GUI to .NET. They 
 
 The complete backlog is just a couple of items. But they have to be done through the entire system. Here is the backlog (as it looks now):
 
-![dev team backlog](/img/dev%2520team%2520backlog_thumb.jpg)
+![dev team backlog](/img/dev-team-backlog_thumb.jpg)
 
 As you can see, this team is very much an iterative approach. They are also doing things that are visible in many places – the most important to note is that this is a central task that’s not related to a team. Instead, it’s a part of the overall project, which is why it’s shown separately.
 
@@ -93,7 +93,7 @@ As you can see, this team is very much an iterative approach. They are also doin
 
 The development teams have their own Kanban boards for visualizing their work:
 
-![team Kanban board](/img/test%2520team%2520kanbanboard_thumb.jpg)
+![team Kanban board](/img/test-team-kanbanboard_thumb.jpg)
 
 ### Summary
 

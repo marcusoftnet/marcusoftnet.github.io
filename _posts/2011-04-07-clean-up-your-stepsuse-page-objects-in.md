@@ -47,33 +47,33 @@ The complexity in how to talk to the application (web browser, desktop applicati
 
 Say that you have an application handling activities for contractors. To check if an activity with a certain heading is present on a list, for example, could be done with this simple step definition:
 
-![step definition](/img/step%2520defintion_thumb.jpg)
+![step definition](/img/step-defintion_thumb.jpg)
 
 Which can be accomplished by a page object that exposes the following property that implements the functionality to get all values from a certain column in a table:
 
-![getting all values from a certain column](/img/getting%2520all%2520values%2520from%2520a%2520certain%2520column_thumb.jpg)
+![getting all values from a certain column](/img/getting-all-values-from-a-certain-column_thumb.jpg)
 
 Or to take another example, setting data in a form (i.e. filling out forms). You can simply expose properties for each value that you want to fill out from your specification like this (yes I only have setters right now, because my specifications have not had need for anything else... yet...
 
-![properties for field on form](/img/properties%2520for%2520field%2520on%2520form_thumb.jpg)
+![properties for field on form](/img/properties-for-field-on-form_thumb.jpg)
 
 and this is used by the following simple step definition:
 
-![filling out form](/img/filling%2520out%2520form_thumb.jpg)
+![filling out form](/img/filling-out-form_thumb.jpg)
 
 #### Default data
 
 A continuation from the above set stage is the ability to use default data. I have simply exposed a method that fills out the form with default data, like this:
 
-![set default data](/img/set%2520deafult%2520data_thumb.jpg)
+![set default data](/img/set-deafult-data_thumb.jpg)
 
 This is great because now I don’t have to repeat all the default information when my scenario just is managing one field. So for example, if I want to specify how required fields should be handled, I can write the following scenario:
 
-![scenario for required fields](/img/scenario%2520for%2520required%2520fields_thumb.jpg)
+![scenario for required fields](/img/scenario-for-required-fields_thumb.jpg)
 
 with this step definition:
 
-![required fields step definition](/img/required%2520fields%2520step%2520defintion_thumb.jpg)
+![required fields step definition](/img/required-fields-step-defintion_thumb.jpg)
 
 So I only have to worry about the field in question per scenario. This form was quite small, but you can imagine how this can be of great use when you have to fill out several bigger forms in sequence to get to the point you want to test.
 
@@ -85,7 +85,7 @@ Pretty soon you can see that much behavior is common for all pages. And being an
 
 Here, for example, is all that needs to be written for a typical listing screen in my application (listing customers):
 
-![customers page object](/img/customers%2520page%2520object_thumb.jpg)
+![customers page object](/img/customers-page-object_thumb.jpg)
 
 Using my base class correctly, this class just contains stuff that has to do with this specific page:
 
@@ -114,11 +114,11 @@ And that holds in our example as well; keep your step definitions thin and your 
 
 Your step definition (or controller) should just dispatch or control (duh!) the flow of the step. Like this for example:
 
-![required fields step definition](/img/required%2520fields%2520step%2520defintion_thumb.jpg)
+![required fields step definition](/img/required-fields-step-defintion_thumb.jpg)
 
 or this:
 
-![step definition](/img/step%2520defintion_thumb.jpg)
+![step definition](/img/step-defintion_thumb.jpg)
 
 #### Step definition structure and reuse
 

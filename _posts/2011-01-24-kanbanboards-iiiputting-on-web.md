@@ -85,7 +85,7 @@ Here’s the step definition for the first implemented step:
 
 When running this, I encountered the “yellow screen of no Dependency Injection controller set”:
 
-![yellow screen of missing DI container](/img/yellow-screen-of-missing-di-containe%255B2%255D.jpg)
+![yellow screen of missing DI container](/img/yellow-screen-of-missing-di-containe-2.jpg)
 
 I needed a Dependency Injection framework. Luckily, Ninject has an MVC 3 version that I included using NuGet. Here’s how I registered the KanbanRepository:
 

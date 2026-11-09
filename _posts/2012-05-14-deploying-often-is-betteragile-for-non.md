@@ -23,7 +23,7 @@ Let's pause and consider this. If you deploy only four times a year, stakeholder
 
 The stability graph for such a deployment schedule looks like this:
 
-![Deploy seldom](/img/Deploy%25252520seldom_thumb%2525255B3%2525255D.png)
+![Deploy seldom](/img/Deploy-seldom_thumb-3.png)
 
 I was also working with a team from an online poker site in Sweden. During a Kanban course, they shared that they made 386 deployments last year. My jaw dropped. They explained:
 
@@ -46,7 +46,7 @@ Thus, infrequent, large releases can be more costly than frequent, small ones, p
 
 I used this insight to explain to the insurance company how deploying frequently can actually lead to more stability. I compared their stability graph to the one from the online poker site:
 
-![Deploy often](/img/Deploy%25252520often_thumb%2525255B1%2525255D.png)
+![Deploy often](/img/Deploy-often_thumb-1.png)
 
 Their reaction?
 

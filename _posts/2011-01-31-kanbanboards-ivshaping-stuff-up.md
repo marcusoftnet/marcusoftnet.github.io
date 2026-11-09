@@ -33,7 +33,7 @@ OK – I love the [MvcScaffolding](http://blog.stevensanderson.com/2011/01/13/sc
 
 Not use crying over that – I’ll just remove the views and action methods of the controller that I’m not using. So under Views/KanbanBoard I removed all the .cshtml (Razor) files except the Index.cshtml which is the page we’re using.
 
-And then in the KanbanBoardController I removed all the methods save the Index action method. Leaving me with this very slimmed controller: [slimmed controller](/img/slimmed%2520controller_thumb.jpg)
+And then in the KanbanBoardController I removed all the methods save the Index action method. Leaving me with this very slimmed controller: [slimmed controller](/img/slimmed-controller_thumb.jpg)
 
 There – much better. Oops – almost forgot. Better run my specs and tests. There – they run fine. I feel better.
 
@@ -49,9 +49,9 @@ OK – I need help. I’ll leave it like this. It’s better but not even OK I t
 
 Here are the before and after shots:
 
-[before](/img/before_thumb%255B1%255D.jpg)
+[before](/img/before_thumb-1.jpg)
 
-[after](/img/after_thumb%255B3%255D.jpg)
+[after](/img/after_thumb-3.jpg)
 
 ### Shape up the index view and keeping it DRY
 
@@ -59,11 +59,11 @@ I’m not happy with the lists on the index page right now. I want something con
 
 But first – I’m looping over two collections of KanbanBoards, creating the same HTML. That doesn’t feel [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself) at all. So I used the Html.RenderPartial() – method like this:
 
-[using render partial](/img/using%2520renderpartial_thumb%255B1%255D.jpg)
+[using render partial](/img/using-renderpartial_thumb-1.jpg)
 
 And then I created this partial view that just creates a row for one KanbanBoard:
 
-[Kanban board list item](/img/Kanban%2520board%2520list%2520item_thumb.jpg)
+[Kanban board list item](/img/Kanban-board-list-item_thumb.jpg)
 
 OK – that’s ugly, but at least it’s DRY. I’ll get help on that too.
 
@@ -81,19 +81,19 @@ Right now the difference in brittleness (hey, that was a word !?) in the tests, 
 
 Here is my first stab of a page object for my home page, with loads of concepts shamelessly stolen from [Cheezy World](http://www.cheezyworld.com/):
 
-[first page object implementation](/img/first%2520page%2520object%2520implementation_thumb%255B1%255D.jpg)
+[first page object implementation](/img/first-page-object-implementation_thumb-1.jpg)
 
 Well that – felt pretty nice. But I see room for improvement. I created an abstract base-class that encapsulates some stuff that all page objects need. Here’s that class:
 
-[base class for page objects](/img/baseclass%2520for%2520page%2520objects_thumb%255B2%255D.jpg)
+[base class for page objects](/img/baseclass-for-page-objects_thumb-2.jpg)
 
 And that shaped up my HomePage object into this:
 
-[home page object inheriting base class](/img/home%2520page%2520object%2520inheriting%2520baseclass_thumb%255B1%255D.jpg)
+[home page object inheriting base class](/img/home-page-object-inheriting-baseclass_thumb-1.jpg)
 
 And all this together gives some pretty clean step definitions:
 
-[step definitions](/img/step%2520defintion_thumb.jpg)
+[step definitions](/img/step-defintion_thumb.jpg)
 
 ### The read service and CQRS
 

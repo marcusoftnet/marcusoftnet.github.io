@@ -26,7 +26,7 @@ On with the show!
 
 As I always I start off with a new specification and the following scenario:
 
-![create specification with first scenario](/img/create%2520specification%2520with%2520first%2520scenario_thumb.jpg)
+![create specification with first scenario](/img/create-specification-with-first-scenario_thumb.jpg)
 
 Looking at that scenario I’ll know I will run into some problems already, but in the spirit of the series (document you shortcomings and failures I press on. One step definition at the time.
 
@@ -42,7 +42,7 @@ Without knowing if it’s right – here is usually how I work my way through a 
 
 So I generated the step definitions and they now are in the Pending-state. During this process (see above) I did some minor tweaks to the step definitions and the language, into this:
 
-![updated create specification](/img/updated%2520create%2520specification_thumb%255B1%255D.jpg)
+![updated create specification](/img/updated-create-specification_thumb-1.jpg)
 
 So now I can focus on the first step in the background; “Given I am logged in on the site”. Obvious I don’t want to perform the actual login now (planning on using [Open ID for that later](http://www.hanselman.com/blog/TheWeeklySourceCode25OpenIDEdition.aspx)) so I need some way to mock that away.
 
@@ -59,11 +59,11 @@ Sorry – got carried away there. But really I just need an interface that my au
 
 Here is my Given step definition:
 
-![given I am logged into the site](/img/given%2520I%2520am%2520logged%2520into%2520the%2520site_thumb.jpg)
+![given I am logged into the site](/img/given-I-am-logged-into-the-site_thumb.jpg)
 
 Obviously I moved the IAuthenticationService to the Web-project, it’s just there now for clarification. But with that simple step I now have a passing step, and can go on to the next:
 
-![first given passed](/img/first%2520given%2520passed_thumb.jpg)
+![first given passed](/img/first-given-passed_thumb.jpg)
 
 ### To the page
 
@@ -71,22 +71,22 @@ Next up is “When I navigate to to the Create page” which feels like somethin
 
 The current implementation can be cleaned up and then maybe reused. Here is what it looks like now:
 
-![Before navigation](/img/before%2520navigation%2520step%2520definition_thumb.jpg)
+![Before navigation](/img/before-navigation-step-definition_thumb.jpg)
 
 And I tweaked it to be reusable into this:
 
-![Clean kanban controller](/img/cleaned%2520kanbancontroller%2520steps_thumb.jpg)
+![Clean kanban controller](/img/cleaned-kanbancontroller-steps_thumb.jpg)
 
 ... which is a lot more code. It still works (just ran my specs) and it
 makes my next step very easy. Here it is:
 
-[Step defintion](/img/step%2520definition%2520without%2520any%2520create%2520action%2520method_thumb%255B1%255D.jpg)
+[Step defintion](/img/step-definition-without-any-create-action-method_thumb-1.jpg)
 
 Note that the Create method not is implemented... Yet! But a couple of Resharper-commands later and it’s there – I simply return a view from it.
 
 And with that my the next step is working and I got the Then-step for free since, from the previous scenario:
 
-[Previous scenario](/img/then%2520done_thumb.jpg)
+[Previous scenario](/img/then-done_thumb.jpg)
 
 ### Enter some information
 
@@ -94,11 +94,11 @@ OK – time to get to the point; the point where some information is about to be
 
 The step definition looks like this:
 
-![Step defintion](/img/using%2520create%2520instance_thumb.jpg)
+![Step defintion](/img/using-create-instance_thumb.jpg)
 
 And this doesn’t do much right now since the CreateKanbanBoardViewModel doesn’t contain any fields. But I get now errors.. Hmm the CreateInstance method must simply try to add and skip if not present. I add the fields to the class and run again. I added a break point just to be sure – and lo and behold here’s my filled in view model:
 
-![View model](/img/viewmodel%2520filled%2520in_thumb.jpg)
+![View model](/img/viewmodel-filled-in_thumb.jpg)
 
 That part with the BoardImage will need to be reworked but it comes later.
 
@@ -106,15 +106,15 @@ That part with the BoardImage will need to be reworked but it comes later.
 
 I have now filled out the “form” (quoted since I didn’t actually do that, I just filled out the view model and stored it in scenario context). Lets now submit it and see where it takes us.
 
-![Submitting](/img/submitting%2520a%2520filled%2520out%2520viewmodel_thumb.jpg)
+![Submitting](/img/submitting-a-filled-out-viewmodel_thumb.jpg)
 
 Again the method is marked as red since it doesn’t exists. Resharper. Presto – it’s there. Which in turn made me realize that I hadn’t moved the view model class into place. But when all that was done I got the following action method:
 
-![First create post](/img/first%2520create%2520post%2520action%2520method_thumb.jpg)
+![First create post](/img/first-create-post-action-method_thumb.jpg)
 
 Which reminded me on that I better store the Action Result. And that in turn gave me an idea on a improvement. I created a method called LatestActionResult and moved it into the MvcSteps class. Which modified the When-step into this:
 
-![Update when-step](/img/updated%2520when-step_thumb.jpg)
+![Update when-step](/img/updated-when-step_thumb.jpg)
 
 And I kind of like that. It fails because my Create action method on the controller simply returns null right now. That makes this step pass so I’m off to the next.
 
@@ -122,17 +122,17 @@ And I kind of like that. It fails because my Create action method on the control
 
 So now there’s the assertions in/on the Then-steps to take care of. The first (“Then I should be on the MyBoards page”) is quite easy. I simply update the controller method into this:
 
-![View returned](/img/view%2520returned%2520from%2520action%2520method%2520create_thumb.jpg)
+![View returned](/img/view-returned-from-action-method-create_thumb.jpg)
 
 and it works. But doesn’t sit right. Shouldn’t I be redirected to MyBoards which  should pick up my new board from the repository? That feels much more MVC (or [PRG](http://blog.jorritsalverda.nl/2010/03/10maintainable-mvc-post-redirect-get-pattern/)). But now it’s late – I’ll do it tomorrow.
 
 I’m back! Yes – I should definitely change that. So I updated the scenario and step definition into this:
 
-![Redirection](/img/redirection%2520step_thumb%255B1%255D.jpg)
+![Redirection](/img/redirection-step_thumb-1.jpg)
 
 And the with the action method updated to this:
 
-![Redirection action](/img/redirection%2520action%2520controller_thumb.jpg)
+![Redirection action](/img/redirection-action-controller_thumb.jpg)
 
 my spec now has just the last step failing.
 
@@ -151,16 +151,16 @@ Hmmm – this feels a bit to hard. I have probably missed something in the proce
 
 I’ll start with the new method on the read service. It should return a list of boards for a certain user name. Here’s the test:
 
-![Test for get board](/img/test%2520for%2520GetBoardsForUser_thumb.jpg)
+![Test for get board](/img/test-for-GetBoardsForUser_thumb.jpg)
 
 And here the implementation:
 
-![Get Boards](/img/GetBoardsForUser%2520implementation_thumb.jpg)
+![Get Boards](/img/GetBoardsForUser-implementation_thumb.jpg)
 
 And actually – with this in place I can easily write a specification for
 the MyBoards page:
 
-![Scenario for navigating](/img/scenario%2520for%2520navigating%2520my%2520boards_thumb%255B1%255D.jpg)
+![Scenario for navigating](/img/scenario-for-navigating-my-boards_thumb-1.jpg)
 
 Which in turn helped a lot of other things:
 
@@ -168,11 +168,11 @@ Which in turn helped a lot of other things:
 - I realized that I don’t need to store things that are stateless in the ScenarioContext.Current, for example the KanbanBoardController. It can be created when needed
 - I could actually put the services I need in the ScenarioContext.Current when needed (or lazy loading if you like). That shapes up the code a lot, look at the new    CreateController-method:
 
-![Create controller](/img/CreateController%2520with%2520lazy%2520loaded%2520services_thumb.jpg)
+![Create controller](/img/CreateController-with-lazy-loaded-services_thumb.jpg)
 
 And with all that in place I just needed the following two steps:
 
-![Two steps](/img/Screen%2520shot%25202011-02-05%2520at%252012.18.03_thumb.jpg)
+![Two steps](/img/Screen-shot-2011-02-05-at-12.18.03_thumb.jpg)
 
 Please note the [super-slick `CompareToSet<T>`](https://github.com/techtalk/SpecFlow/wiki/SpecFlow-Assist-Helpers) that really simplifies this code. One cool feature is that it only tests the column you put in, like I used above.
 
@@ -180,7 +180,7 @@ Please note the [super-slick `CompareToSet<T>`](https://github.com/techtalk/Spec
 
 And now when I turn back to the Create scenario I see it in another light. I can reuse and shape up the scenario into something a little more concise:
 
-![Create scenario](/img/create%2520sceanario%2520updated%2520and%2520concise_thumb.jpg)
+![Create scenario](/img/create-sceanario-updated-and-concise_thumb.jpg)
 
 Which in turn means that I can reuse the steps. And now when I run it... it fails because I haven’t implemented the actually add in the Create action method. Just as expected. I can now (is allowed?) to write production code.
 
@@ -194,35 +194,35 @@ Yes! I like – lets do it! Eeeh – well that made me pull things apart a littl
 
 Thank God for Resharper! And praise him once again for tests! After that major refactoring I ran my tests again. And they worked. Phew – back on green. Here’s my new solution structure:
 
-![Solution structure](/img/Screen%2520shot%25202011-02-05%2520at%252017.24.11_thumb.jpg)
+![Solution structure](/img/Screen-shot-2011-02-05-at-17.24.11_thumb.jpg)
 
 Next step was simply to remove the CreateKanbanBoardViewModel and face the facts. Where it blew up I replaced it with the AddKanbanBoardCommand. Pretty simple stuff. Lean on the tools – and scarify a for-loop to the Resharper-makers.
 
 Yes – still fails because the Create action isn’t implemented yet. Lets do that now. First we implement a test for the add command handler like this:
 
-![Command handler](/img/Screen%2520shot%25202011-02-05%2520at%252019.40.36_thumb.jpg)
+![Command handler](/img/Screen-shot-2011-02-05-at-19.40.36_thumb.jpg)
 
 And here’s the implementation. (Yes I know that this is a bit messy from a CQRS perspective. I should have done the update with an event and then updated the database with a [de-normalizer](http://blog.fossmo.net/post/The-denormalizer-in-CQRS.aspx), but I couldn’t without bring in a [CQRS framework](http://ncqrs.org/) [of sort](https://github.com/tyronegroves/SimpleCQRS) and I think this blog post is long enough :)):
 
-![Command handler](/img/command%2520handler%2520implementation_thumb.jpg)
+![Command handler](/img/command-handler-implementation_thumb.jpg)
 
 ### Finally
 
 And now, once again, I can turn back to the failing specification and wrap it up with this implementation:
 
-![Create action](/img/create%2520action%2520method%2520implementation_thumb.jpg)
+![Create action](/img/create-action-method-implementation_thumb.jpg)
 
 But that gave me some pondering to do. Now, in my steps, I need to update the list of Kanban boards that the substituted repository returns. Here is the scenario again:
 
-![Create scenario](/img/create%2520sceanario%2520updated%2520and%2520concise_thumb.jpg)
+![Create scenario](/img/create-sceanario-updated-and-concise_thumb.jpg)
 
 So when I get to that last step I need to add the new board to the faked return list. And the only place where I have the data to do so is in the When-step (“When I submit a board with the following information”). So I updated the step definition into this:
 
-![Update then-step](/img/updated%2520Then-step_thumb.jpg)
+![Update then-step](/img/updated-Then-step_thumb.jpg)
 
 Which makes use of the AddBoardToReturn-method in the KanbanBoardRepositorySteps-class. Here it is:
 
-![Add board to return](/img/AddBoardToReturn%2520method_thumb.jpg)
+![Add board to return](/img/AddBoardToReturn-method_thumb.jpg)
 
 Feels like a bit of a cheat but I cannot see another way to do it now.
 
@@ -230,7 +230,7 @@ Feels like a bit of a cheat but I cannot see another way to do it now.
 
 And just when I “just gonna run the tests and be done for today” my acceptance test blew up. I got the following error message:
 
-![Error message](/img/error%2520message%2520for%2520model%2520db%2520conflict_thumb.jpg)
+![Error message](/img/error-message-for-model-db-conflict_thumb.jpg)
 
 Well – at least the message is very informative. My domain has changed – my database hasn’t. In [this post by Scott Gu](http://weblogs.asp.net/scottgu/archive/2011/01/11/vs-2010-sp1-and-sql-ce.aspx) you can read more about it.
 

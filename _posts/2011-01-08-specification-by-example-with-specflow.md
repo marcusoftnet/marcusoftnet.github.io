@@ -50,7 +50,7 @@ But what if a bug is discovered? Well the tester then creates a [bug work item t
 
 This picture shows the complete flow, with suggested use of the different work item types of the MSF Agile template.
 
-![linking work items and features](/img/linking%2520work%2520items%2520and%2520features_thumb%255B10%255D.png)
+![linking work items and features](/img/linking-work-items-and-features_thumb-10.png)
 
 1. User story work items contain the “raw” requirements and links to any documents that are needed to understand the story.
 2. The user story and other background information are used to create a feature file, for example in a sprint planning meeting. The feature will be our executable specification during development and afterwards serve as a regression verification of our system's current state.

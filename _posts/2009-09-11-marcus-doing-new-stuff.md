@@ -15,7 +15,7 @@ Two big things will (or are in the process of) happen this weekend.
 
 The first is that I have gone over to the dark side. Yes, I know, I couldn’t resist anymore. The temptation was too great.
 
-![overview-gallery4-20090608[1]](/img/overview-gallery4-20090608%255B1%255D_thumb%255B3%255D.png)
+![overview-gallery4-20090608[1]](/img/overview-gallery4-20090608-1_thumb-3.png)
 
 I have bought a MacBook Pro. And have just installed it – that process was so smooth. I want to do it again!
 

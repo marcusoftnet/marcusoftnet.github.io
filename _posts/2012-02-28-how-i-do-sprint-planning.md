@@ -22,7 +22,7 @@ And of course, this is not my own thoughts – I’ve picked up some tricks here
 
 As everything in Scrum I plan sprints as a time box. That is I let the time be fixed and adjust the content accordingly. Most often I also fix the people and their percentage in the sprint. So in this triangle the features are the one thing that have to give when things doesn’t plan out:
 
-![time boxing](/img/timeboxing_thumb%2525255B1%2525255D.png)
+![time boxing](/img/timeboxing_thumb-1.png)
 
 Ok – nothing new there. As probably in the rest of the post as well… : )
 
@@ -45,11 +45,11 @@ Given that reasoning we start our meetings by deciding WHEN we should be done? T
 
 I write the start and end date on a white board. And while I’m at it we calculate the number of calendar days between those two dates. Be sure to remember to NOT count holidays and other days when everybody is away.
 
-![time](/img/time_thumb%2525255B1%2525255D.png)
+![time](/img/time_thumb-1.png)
 
 By doing this you can now also create the X-axis of your burndown chart, by simply plotting out the number of days and setting dates beneath. By doing so you also get a feeling of progress that is quite nice; “we’re getting somewhere people!”
 
-![x-axis burndown](/img/xaxis%25252520burndown_thumb%2525255B85%2525255D.png)
+![x-axis burndown](/img/xaxis-burndown_thumb-85.png)
 
 ### Who are with me?
 
@@ -57,7 +57,7 @@ We can now turn to the people-part of the time boxing triangle; WHO are the team
 
 This can simply be done by asking the people in the room how many percent they can put into the project and if they are planning on being away during the sprint. We have a simple template that looks something like this:
 
-![people](/img/people_thumb%2525255B6%2525255D.png)
+![people](/img/people_thumb-6.png)
 
 In the comment section I note down things that might be important to us during the planning. Such as Person 1 only being able to do front-end work. This is just to remind us of not planning more days than 8 days for her.
 
@@ -67,7 +67,7 @@ Here we have a discussion in the team on what is affecting our focus factor this
 
 I never allow teams to set anything above 80% since I think that is improbable that you can focus at the task at hand to anything more than that.
 
-![velocity](/img/vecolicty_thumb%2525255B1%2525255D.png)
+![velocity](/img/vecolicty_thumb-1.png)
 
 You could ask why we write down the “Optimal hours in sprint” but I have found it a useful exercise to see how much we “lose” to the other stuff. It have even happened that the team has done something about that to get more time to the sprint.
 
@@ -110,7 +110,7 @@ Also we tend to do detailed plan for a couple of items more, just in case it run
 
 Armed with that number we can now complete the burn down chart, but simply plotting in the number of hours the team have taken on, on the Y-axis. After that it’s a simple matter of straight writing to get the ideal burn down in place.
 
-![burndown](/img/burndown_thumb%2525255B1%2525255D.png)
+![burndown](/img/burndown_thumb-1.png)
 
 ### Summary
 

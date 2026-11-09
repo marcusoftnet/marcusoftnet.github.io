@@ -15,7 +15,7 @@ I answered a question on Twitter today from a guy who had problems running [Spec
 
 The default test runner is NUnit so first I simply create a new Specs-project and created the following scenario:
 
-![stupid steps in scenario](/img/stupid%2520steps%2520in%2520scenario_thumb.jpg)
+![stupid steps in scenario](/img/stupid-steps-in-scenario_thumb.jpg)
 
 I then Nuget’d SpecFlow, Should and NUnit with these commands:
 
@@ -27,19 +27,19 @@ Install-Package ShouldFluent
 
 And sure enough – when I compile some NUnit code is auto generated for me:
 
-![generated NUnit code](/img/generated%2520nunit%2520code_thumb.jpg)
+![generated NUnit code](/img/generated-nunit-code_thumb.jpg)
 
 Just for good manners I implemented the steps and ran the specification. It worked with these (naïve) steps in place:
 
-![naive steps](/img/naive%2520steps_thumb.jpg)
+![naive steps](/img/naive-steps_thumb.jpg)
 
 If I now change the app.config (added by NuGet install of SpecFlow) and configures it to use MsTest, like this:
 
-![mstest in app.config](/img/mstest%2520in%2520app.config_thumb%255B1%255D.jpg)
+![mstest in app.config](/img/mstest-in-app.config_thumb-1.jpg)
 
 And then add MsTest with a reference. Finally I save the scenario file which triggers the SpecFlow custom command for the file to run and generate the code. I now get the following code generated instead:
 
-![generated mstest code](/img/generated%2520mstest%2520code_thumb.jpg)
+![generated mstest code](/img/generated-mstest-code_thumb.jpg)
 
 Sadly the test don’t run because I forgot the fact that in order to get MsTest to run the project they reside in need to be a test project but you get what I mean. Try to switch to xUnit or MbUnit for example.
 

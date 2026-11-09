@@ -15,4 +15,4 @@ blogger_orig_url: https://www.marcusoft.net/2010/01/branching-guide-for-team-fou
 
 The best part is that you can get this very short and sweet picture of it. Here is the [description of it](http://tfsbranchingguideii.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=20785#DownloadId=52462).
 
-![image_2[1]](/img/image_2%255B1%255D_thumb.png)
+![image_2[1]](/img/image_2-1_thumb.png)

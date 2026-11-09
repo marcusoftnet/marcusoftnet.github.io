@@ -60,7 +60,7 @@ Emoticons and abbreviations add emotion and brevity to tweets:
 
 When replying to a tweet, use the Reply function to keep the conversation organized. This creates a thread so you can follow the conversation chronologically:
 
-![Twitter Reply Chain](/img/twitter%25252520reply%25252520chain_thumb%2525255B4%2525255D.png)
+![Twitter Reply Chain](/img/twitter-reply-chain_thumb-4.png)
 
 #### DM – Direct Message
 

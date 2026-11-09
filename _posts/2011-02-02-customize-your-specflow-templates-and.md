@@ -34,7 +34,7 @@ Here, you’ll find several zip archives containing the templates. You can modif
 4. Now you can **edit** it as much as you want. In our case, we wrote some instructions as comments, converted the text into Swedish (our standard language in `app.config`), and wrote some common background steps.
 5. **Save** the file.
 6. **Create** a new zip archive with just the three files in it. Not the folder – that won’t work. Like this:
-    ![zipping together your template](/img/zipping%2520together%2520your%2520template_thumb.jpg)
+    ![zipping together your template](/img/zipping-together-your-template_thumb.jpg)
 7. And you are done. From **Add New Item** in Visual Studio, you can now use your new template and distribute it to your team members.
 8. A restart of Visual Studio might help in picking up the new template. It doesn’t hurt to restart it.
 
@@ -42,11 +42,11 @@ Here, you’ll find several zip archives containing the templates. You can modif
 
 You can take this a step further. If the `ItemTemplates` folder contains several definitions for a certain template (EventDefinition, StepDefinition, or Feature), they will show up in your **Add New Item** dialog:
 
-![showing 2 feature templates](/img/showing%25202%2520feature%2520templates_thumb.jpg)
+![showing 2 feature templates](/img/showing-2-feature-templates_thumb.jpg)
 
 The only thing is that they have the same name. But that’s what the other file in the zip archive is for. It’s called `SpecFlowFeature.vstemplate` and contains information about your template. Here, I’ve tweaked it to be my Marcus version of a SpecFlow feature:
 
-![template for Marcus feature](/img/vstemplate%2520for%2520Marcus%2520feature_thumb.jpg)
+![template for Marcus feature](/img/vstemplate-for-Marcus-feature_thumb.jpg)
 
 Important elements in this file include:
 
@@ -57,11 +57,11 @@ Important elements in this file include:
 
 With the above information in place and the correct file name of the `.feature` file in the zip archive, you get the following glorious Add New Item dialog:
 
-![marcus version showing up in add new item](/img/marcus%2520version%2520showing%2520up%2520in%2520add%2520new%2520item_thumb.jpg)
+![marcus version showing up in add new item](/img/marcus-version-showing-up-in-add-new-item_thumb.jpg)
 
 When we add it, we see that the Marcus version held nothing much new:
 
-![marcus feature in full swing](/img/marcus%2520feature%2520in%2520full%2520swing_thumb.jpg)
+![marcus feature in full swing](/img/marcus-feature-in-full-swing_thumb.jpg)
 
 ... but I’m sure you get the idea. This can be tweaked to match your project or team exactly (language, default scenarios, background steps).
 

@@ -94,7 +94,7 @@ There are different approaches to do this; [user story mapping](http://www.agile
 
 ... until now! SpecLog ([www.SpecLog.org](http://www.speclog.org)) aims to bridge this gap—and focus on the early stages of a user story. Long before it’s even a user story, actually. The tool is still in the early phases, but I see a lot of stuff that I like already. For starters—it’s good looking:
 
-![Example workspace in SpecLog](/img/example%2520workspace%2520in%2520speclog_thumb.jpg)
+![Example workspace in SpecLog](/img/example-workspace-in-speclog_thumb.jpg)
 
 Just imagine how boring this design could have been (think [TFS Work item editor](http://www.codeguru.com/dbfiles/get_image.php?id=18481&lbl=PART_1,_FIGURE_4_-_WORK_ITEM_PNG&ds=20110207) and you get an idea). This workspace, move-things-freely approach feels great and fosters an atmosphere of creativity, I think. My thoughts go directly to one of the core principles of [Kanban – Visualize work!](http://www.kanban101.com/)
 

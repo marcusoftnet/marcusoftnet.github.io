@@ -18,11 +18,11 @@ OK – after [my last post](https://www.marcusoft.net/2011/01/kanbanboards-iiipu
 
 I’m using Ninject because of the super-slick integration with ASP.NET MVC 3 via [NuGet](http://nuget.org/). It gives me a “correct” and easy to start with solution. The main part in this found in this App_Start static file, that is run before any other code with the Web Activator mechanism:
 
-![ninject dependency resolving in asp.net mvc](/img/ninject%2520dependcy%2520resolving%2520in%2520asp.net%2520mvc_thumb%255B1%255D.jpg)
+![ninject dependency resolving in asp.net mvc](/img/ninject-dependcy-resolving-in-asp.net-mvc_thumb-1.jpg)
 
 And converting that to Unity would be something like this:
 
-![unity dependency resolving in asp.net mvc](/img/unity%2520dependency%2520resolving%2520in%2520asp.net%2520mvc_thumb%255B3%255D.jpg)
+![unity dependency resolving in asp.net mvc](/img/unity-dependency-resolving-in-asp.net-mvc_thumb-3.jpg)
 
 Yup – actually that’s all it’s too it. For a while there I was "worried” that I would have to implement a ServiceLocator (line 22 above). That’s not too hard since just the IDependencyResolver interface that is needed to be implemented (2 methods). But it just so happens that Unity implemented that for me already with the [UnityServiceLocator](http://msdn.microsoft.com/en-us/library/microsoft.practices.unity.unityservicelocator(v=pandp.20).aspx).
 
