@@ -330,7 +330,8 @@ a:hover { color: var(--accent-strong); }
 
 /* ---------- Reading content ---------- */
 .detailed .entry,
-.page .entry {
+.page .entry,
+.posts .entry {
   font-family: var(--font-read);
   font-size: 1.08rem;
   line-height: 1.75;
@@ -410,6 +411,12 @@ a:hover { color: var(--accent-strong); }
   height: auto;
   border-radius: var(--radius-sm);
 }
+/* Tall/portrait images never fill the whole screen. Skipped when the post sets its own width. */
+.entry img:not([width]):not([style*="width"]) {
+  max-height: 70vh;
+  width: auto;
+}
+
 .entry p > img:only-child,
 .entry > img {
   display: block;
