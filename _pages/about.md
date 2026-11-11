@@ -5,7 +5,7 @@ title: About
 description: Marcus - a little bit about me
 ---
 
-![A picture of me](/img/about-bg-2.jpg)
+![Marcus Hammarberg - author of the blog](/img/about-bg-2.jpg)
 
 ## Normal short intro
 
