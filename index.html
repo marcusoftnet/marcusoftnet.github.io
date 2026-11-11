@@ -23,7 +23,12 @@ layout: default
       </p>
       <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
-        {{ post.excerpt | truncatewords:150 }}
+        {% if post.content contains site.excerpt_separator %}
+          {{ post.excerpt }}
+        {% else %}
+          {% comment %}No excerpt marker: excerpt is the whole post. Truncating HTML can cut inside a tag, so use plain text.{% endcomment %}
+          <p>{{ post.excerpt | strip_html | truncatewords: 60 }}</p>
+        {% endif %}
       </div>
       <div class="post-card-footer">
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading <span aria-hidden="true">→</span></a>
