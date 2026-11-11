@@ -1,34 +1,54 @@
 ---
 layout: default
 ---
-
+{% assign words = content | number_of_words %}
 <article class="post detailed">
-  <h1>{{ page.title }}</h1>
-
-  <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | date: "%B %e, %Y" }}</p>
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Updated: {{ page.last_modified_at | date: "%b %-d, %Y" }})</p>
-    {% endif %}
+  <header class="post-header">
+    {% if page.tags.size > 0 %}
     <div class="post-tags">
-      {% for tag in page.tags %}
-        <a href="{{site.baseurl}}/tags/#{{tag|slugize}}">{{tag}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
+      {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}
     </div>
-  </div>
+    {% endif %}
+
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <div class="post-meta">
+      <img src="{{ site.baseurl }}{{ site.avatar }}" alt="" width="40" height="40" />
+      <div>
+        <span class="post-author">{{ page.author | default: site.author_name }}</span>
+        <span class="post-meta-line">
+          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+          · {{ words | divided_by: 230 | plus: 1 }} min read
+          {% if page.last_modified_at %}· Updated {{ page.last_modified_at | date: "%b %-d, %Y" }}{% endif %}
+        </span>
+      </div>
+    </div>
+  </header>
 
   <div class="entry">
     {{ content }}
   </div>
 
-  <div>
-    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
-  </div>
+  <footer class="post-footer">
+    <div class="share">
+      <span>Share</span>
+      <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}%20{{ site.url | append: page.url | url_encode }}" target="_blank" rel="noopener">Bluesky</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url | append: page.url | url_encode }}" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://twitter.com/share?text={{ page.title | url_encode }}&url={{ site.url | append: page.url | url_encode }}" target="_blank" rel="noopener">X / Twitter</a>
+      <a href="https://www.facebook.com/sharer.php?u={{ site.url | append: page.url | url_encode }}" target="_blank" rel="noopener">Facebook</a>
+    </div>
 
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
+    {% if page.previous or page.next %}
+    <nav class="post-nav" aria-label="More posts">
+      {% if page.previous %}
+      <a class="prev" href="{{ site.baseurl }}{{ page.previous.url }}"><small>← Older</small>{{ page.previous.title }}</a>
+      {% else %}<span></span>{% endif %}
+      {% if page.next %}
+      <a class="next" href="{{ site.baseurl }}{{ page.next.url }}"><small>Newer →</small>{{ page.next.title }}</a>
+      {% endif %}
+    </nav>
+    {% endif %}
+  </footer>
 
   {% include disqus.html %}
 </article>

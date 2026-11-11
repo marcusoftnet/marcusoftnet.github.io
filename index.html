@@ -2,48 +2,55 @@
 layout: default
 ---
 
+{% if paginator.page == 1 %}
+<section class="hero">
+  <img src="{{ site.baseurl }}{{ site.avatar }}" alt="Marcus Hammarberg" width="96" height="96" />
+  <div>
+    <p class="hero-kicker">Hi, I'm Marcus</p>
+    <h1 class="hero-title">Learning by sharing since&nbsp;2006.</h1>
+    <p class="hero-text">Notes on agile, lean, flow, programming, AI and the life of a consultant. Twenty years and {{ site.posts.size }} posts in. <a href="{{ site.baseurl }}/about/">More about me →</a></p>
+  </div>
+</section>
+{% endif %}
+
 <div class="posts">
   {% for post in paginator.posts %}
+    {% assign words = post.content | number_of_words %}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
+      <p class="post-eyebrow">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        · {{ words | divided_by: 230 | plus: 1 }} min read
+      </p>
+      <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <div class="entry">
         {{ post.excerpt | truncatewords:150 }}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <div class="post-card-footer">
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Continue reading <span aria-hidden="true">→</span></a>
+        {% if post.tags.size > 0 %}
+        <div class="post-tags">
+          {% for tag in post.tags limit:3 %}<a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}
+        </div>
+        {% endif %}
+      </div>
     </article>
   {% endfor %}
 
-  <!-- pagination -->
   {% if paginator.total_pages > 1 %}
-  <div class="pagination">
+  <nav class="pagination" aria-label="Pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">← Newer</a>
     {% else %}
-      <span>&laquo; Prev</span>
+      <span class="disabled">← Newer</span>
     {% endif %}
 
-    {% for page in (1..3) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
+    <span class="page-count">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older →</a>
     {% else %}
-      <span>Next &raquo;</span>
+      <span class="disabled">Older →</span>
     {% endif %}
-  </div>
+  </nav>
   {% endif %}
 </div>

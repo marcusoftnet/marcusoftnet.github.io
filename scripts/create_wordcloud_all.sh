@@ -22,6 +22,8 @@ jq -c -s --slurpfile stopwords ./data/wc/exclude.json '
   [ .[][]                                 # flatten all arrays from all files
     | select(. as $pair | ($stopwords[0] | index($pair[0])) | not) # filter out stop words
   ]
+  | group_by(.[0])                        # same word from different years...
+  | map([.[0][0], (map(.[1]) | add)])     # ...gets its counts summed
   | sort_by(.[1]) | reverse               # sort by count descending
   | .[0:300]                              # take top 300 words
 ' ./data/wc/wordcloud-*.json > ./data/wc/wordcloud-all.json

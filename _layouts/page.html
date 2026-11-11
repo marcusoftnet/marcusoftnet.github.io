@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<header class="cd-container" style="background-image: url('{{ site.baseurl }}/{{ page.header-img }}')">
-  <h1>{{ page.title }}</h1>
-</header>
-
 <article class="page">
+  <header class="page-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.description %}<p class="page-lede">{{ page.description }}</p>{% endif %}
+  </header>
 
   <div class="entry">
     {{ content }}

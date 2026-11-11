@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>www.marcusoft.net – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.short_title }} – {{ site.description }}</title>
     {% seo title=false %}
     {% include meta.html %}
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=JetBrains+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/reset.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/site.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/code-highlighting.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/svg-icons.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/site.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="author" content="Marcus Hammarberg">
@@ -18,6 +20,7 @@
     <meta name="github:creator" content="marcusoftnet">
     <meta name="keywords"
       content="Marcus Hammarberg, marcusoftnet, Salvation: Bungsu story, Kanban In Action, agile, lean, kanban, software development, programming, HTMx, Node, Express, Salvation Army, life of a consultant, testing, javascript, continuous delivery, specification by example, impact mapping, mob programming, brass band, .NET, REST, API, C#, software">
+    <meta name="color-scheme" content="light dark">
 
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/img/favicon-32x32.png">
     {% include analytics_head.html %}
@@ -32,48 +35,58 @@
   </head>
 
   <body>
-    <div id="bar"></div>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <div class="container">
-              <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+    <a class="skip-link" href="#main">Skip to content</a>
 
-              <div class="site-info">
-                <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-                <p class="site-description">{{ site.description }}</p>
-              </div>
-            </div>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a href="{{ site.baseurl }}/" class="brand">
+          <img src="{{ site.baseurl }}{{ site.avatar }}" alt="" class="brand-avatar" width="36" height="36" />
+          <span class="brand-text">
+            <span class="brand-name">{{ site.short_title }}</span>
+            <span class="brand-tagline">{{ site.description }}</span>
+          </span>
+        </a>
 
-            <nav>
-              <a href="{{ site.baseurl }}/">Blog</a>
-              <a href="{{ site.baseurl }}/talks">Talks</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/contact">Contact</a>
-              <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/archive">Archive</a>
-              <a href="{{ site.baseurl }}/tags">Tags</a>
-              <a href="{{ site.baseurl }}/wc">Word cloud</a>
-            </nav>
-          </header>
+        {% assign nav_url = page.url | remove: 'index.html' %}
+        <nav class="site-nav" aria-label="Main">
+          <a href="{{ site.baseurl }}/"{% if page.layout == 'post' or nav_url == '/' or paginator.page > 1 %} aria-current="page"{% endif %}>Blog</a>
+          <a href="{{ site.baseurl }}/talks/"{% if nav_url contains '/talks' %} aria-current="page"{% endif %}>Talks</a>
+          <a href="{{ site.baseurl }}/about/"{% if nav_url contains '/about' %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ site.baseurl }}/archive/"{% if nav_url contains '/archive' %} aria-current="page"{% endif %}>Archive</a>
+          <a href="{{ site.baseurl }}/tags/"{% if nav_url contains '/tags' %} aria-current="page"{% endif %}>Tags</a>
+          <a href="{{ site.baseurl }}/wc/"{% if nav_url contains '/wc' %} aria-current="page"{% endif %}>Word cloud</a>
+          <a href="{{ site.baseurl }}/contact/"{% if nav_url contains '/contact' %} aria-current="page"{% endif %}>Contact</a>
+          <a href="{{ site.baseurl }}/search/" class="nav-search"{% if nav_url contains '/search' %} aria-current="page"{% endif %} aria-label="Search">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <span>Search</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="site-main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer-inner">
+        <div class="footer-about">
+          <img src="{{ site.baseurl }}{{ site.avatar }}" alt="" width="48" height="48" />
+          <p><strong>{{ site.author_name }}</strong><br>{{ site.description }}.</p>
         </div>
+        <nav class="footer-links" aria-label="Elsewhere">
+          {% assign fl = site.footer-links %}
+          {% if fl.bsky %}<a href="https://bsky.app/profile/{{ fl.bsky }}">Bluesky</a>{% endif %}
+          {% if fl.linkedin %}<a href="https://www.linkedin.com/in/{{ fl.linkedin }}">LinkedIn</a>{% endif %}
+          {% if fl.github %}<a href="https://github.com/{{ fl.github }}">GitHub</a>{% endif %}
+          {% if fl.youtube %}<a href="https://youtube.com/{{ fl.youtube }}">YouTube</a>{% endif %}
+          {% if fl.stackoverflow %}<a href="https://stackoverflow.com/users/{{ fl.stackoverflow }}">Stack Overflow</a>{% endif %}
+          {% if fl.email %}<a href="mailto:{{ fl.email }}">Email</a>{% endif %}
+          {% if fl.rss %}<a href="{{ site.baseurl }}/feed.xml">RSS</a>{% endif %}
+        </nav>
+        <p class="footer-copy">© 2006–{{ site.time | date: '%Y' }} {{ site.author_name }}</p>
       </div>
-
-      <div class="wrapper-main">
-        <main id="main" role="main" class="container">
-          {{ content }}
-        </main>
-      </div>
-
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-          </footer>
-        </div>
-      </div>
-    </div>
+    </footer>
 
     {% include analytics.html %}
   </body>

@@ -7,7 +7,7 @@ description: Word cloud visualization of blog posts by year.
 ---
 
 <script src="https://d3js.org/d3.v7.min.js"></script>
-<script src="https://unpkg.com/d3-cloud/build/d3.layout.cloud.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.7/build/d3.layout.cloud.js"></script>
 <style>
   body {
     text-align: center;
@@ -49,9 +49,14 @@ description: Word cloud visualization of blog posts by year.
     fetch(`/data/wc/wordcloud-${year}.json`)
       .then(response => response.json())
       .then(data => {
-        const words = data.map(([text, size]) => ({
+        // Scale relative to this year's counts, so busy years don't blow up the font size
+        const counts = data.map(([, count]) => count);
+        const fontScale = d3.scaleSqrt()
+          .domain([d3.min(counts), d3.max(counts)])
+          .range([6, 36]);
+        const words = data.map(([text, count]) => ({
           text,
-          size: 10 + size * 0.4 // Adjust scaling as needed
+          size: fontScale(count)
         }));
 
         console.log(`Creating a word cloud for ${words.length} words`);
@@ -76,6 +81,7 @@ description: Word cloud visualization of blog posts by year.
           d3.select("#wordcloud").append("svg")
             .attr("width", 800)
             .attr("height", 400)
+            .attr("viewBox", "0 0 800 400")
             .append("g")
             .attr("transform", "translate(400,200)")
             .selectAll("text")
