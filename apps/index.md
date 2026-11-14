@@ -9,6 +9,12 @@ A collection of small interactive apps and games that I've built, mostly for fun
 
 ---
 
+### [Barnen säger](abbesays/)
+
+Things my kids Albert, Gustav and Arvid said when they were small (in Swedish). Browse, filter by kid, search, or let the dice pick one for you.
+
+---
+
 ### [Ravens](games/ravens/)
 
 A canvas-based shooting game. Ravens fly across the screen and you need to click them before they escape. The smaller the raven, the more points you score. But watch out — let one slip past and it's game over.
@@ -18,12 +24,6 @@ A canvas-based shooting game. Ravens fly across the screen and you need to click
 ### [Practice Buddy](practicebuddy/)
 
 A musician's practice dashboard. Includes a metronome, tuner, volume graph, tuning drift and tempo drift monitors, and a session recorder. Built to help track and improve practice sessions.
-
----
-
-### [Barnen säger](abbesays/)
-
-Things my kids Albert, Gustav and Arvid said when they were small (in Swedish). Browse, filter by kid, search, or let the dice pick one for you.
 
 ---
 

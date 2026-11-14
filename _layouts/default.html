@@ -52,6 +52,7 @@
           <a href="{{ site.baseurl }}/"{% if page.layout == 'post' or nav_url == '/' or paginator.page > 1 %} aria-current="page"{% endif %}>Blog</a>
           <a href="{{ site.baseurl }}/talks/"{% if nav_url contains '/talks' %} aria-current="page"{% endif %}>Talks</a>
           <a href="{{ site.baseurl }}/about/"{% if nav_url contains '/about' %} aria-current="page"{% endif %}>About</a>
+          <a href="{{ site.baseurl }}/apps/"{% if nav_url contains '/apps' %} aria-current="page"{% endif %}>Apps</a>
           <a href="{{ site.baseurl }}/archive/"{% if nav_url contains '/archive' %} aria-current="page"{% endif %}>Archive</a>
           <a href="{{ site.baseurl }}/tags/"{% if nav_url contains '/tags' %} aria-current="page"{% endif %}>Tags</a>
           <a href="{{ site.baseurl }}/wc/"{% if nav_url contains '/wc' %} aria-current="page"{% endif %}>Word cloud</a>
