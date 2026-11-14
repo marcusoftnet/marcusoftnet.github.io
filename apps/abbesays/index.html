@@ -94,23 +94,32 @@
   /* Quote cards */
   .grid { columns: 3 300px; column-gap: 1.1rem; padding-bottom: 4rem; }
   .quote {
-    break-inside: avoid; margin: 0 0 1.1rem; padding: 1.2rem 1.3rem 1rem;
+    break-inside: avoid; margin: 0 0 1.1rem; padding: 1.2em 1.3em 1em; font-size: 1rem;
     background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
     animation: pop .3s ease both;
   }
   @keyframes pop { from { opacity: 0; transform: translateY(6px); } }
   .quote blockquote {
     margin: 0; padding: .1em 0 .1em 1em; border-left: 3px solid var(--c);
-    font-size: 1rem; font-style: italic; color: var(--text); white-space: pre-line;
+    font-size: 1em; font-style: italic; color: var(--text); white-space: pre-line;
   }
   .quote .stage { color: var(--muted); font-size: .9em; }
   .quote .who { font-style: normal; font-weight: 600; color: var(--c); }
-  .quote footer { display: flex; align-items: center; gap: .6rem; margin-top: 1rem; font-size: .78rem; color: var(--muted); }
-  .quote footer .mini { width: 26px; height: 26px; font-size: .75rem; }
+  .quote footer { display: flex; align-items: center; gap: .6em; margin-top: 1em; font-size: .78em; color: var(--muted); }
+  .quote footer .mini { width: 2.6em; height: 2.6em; font-size: 1em; }
   .quote footer b { color: var(--text); font-weight: 600; }
   .quote .link { margin-left: auto; color: var(--muted); font-weight: 600; }
   .quote .link:hover, .quote .link:focus-visible { color: var(--accent); }
   .quote.spotlight { border-color: var(--c); box-shadow: 0 0 0 3px var(--c), var(--shadow); }
+  .grid .quote { cursor: pointer; }
+  .grid .quote:hover { border-color: var(--c); }
+
+  /* Big card on top of everything */
+  #big { border: 0; padding: 0; background: none; width: min(46rem, 100vw - 32px); max-width: none; max-height: calc(100vh - 32px); overflow: visible; }
+  #big::backdrop { background: rgba(20, 19, 18, .55); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
+  #big .quote { margin: 0; font-size: clamp(1.1rem, 3.5vw, 1.6rem); max-height: calc(100vh - 32px); overflow: auto; }
+  #big .close { position: absolute; top: -.6rem; right: -.6rem; z-index: 1; width: 2.2rem; height: 2.2rem; padding: 0; border-radius: 50%; }
+
   mark { background: var(--accent-soft); color: var(--accent-strong); border-radius: 3px; padding: 0 2px; }
   .empty { text-align: center; color: var(--muted); padding: 3rem 0; }
 
@@ -148,6 +157,7 @@
   <div class="count" id="count"></div>
   <div class="grid" id="grid"></div>
 </div>
+<dialog id="big" aria-label="Citat"></dialog>
 
 <script>
 const KIDS = ["Albert", "Gustav", "Arvid"];
@@ -158,7 +168,7 @@ let quotes = [], kid = null;
 // Photo if albert.jpg etc. exists, otherwise the initial.
 const avatar = (name, cls = "") =>
   `<span class="avatar ${cls}" style="--c:var(--${name})">${name[0]}` +
-  `<img src="${name.toLowerCase()}.jpg" alt="" onerror="this.remove()" onload="this.parentNode.firstChild.remove()"></span>`;
+  `<img src="${name.toLowerCase()}.jpg" alt="" onerror="this.remove()" onload="this.previousSibling?.remove()"></span>`;
 
 // "vid en ålder av 9 år, 3 månader och 22 dagar" -> "9 år, 3 mån" + days for sorting
 function age(s) {
@@ -228,8 +238,13 @@ function spotlight(id) {
   document.querySelector(".spotlight")?.classList.remove("spotlight");
   el.classList.add("spotlight");
   el.scrollIntoView({ behavior: "smooth", block: "center" });
+  $("big").innerHTML = `<button class="btn close" aria-label="Stäng">✕</button>` + el.outerHTML.replace(/ id="[^"]*"/, "");
+  if (!$("big").open) $("big").showModal();
 }
-const fromHash = () => spotlight(decodeURIComponent(location.hash.slice(1)));
+const fromHash = () => location.hash ? spotlight(decodeURIComponent(location.hash.slice(1))) : $("big").close();
+// Close on ✕ or backdrop click (Esc is native); drop the hash so the same card can be reopened.
+$("big").addEventListener("click", e => { if (e.target === $("big") || e.target.closest(".close")) $("big").close(); });
+$("big").addEventListener("close", () => location.hash && history.replaceState(null, "", location.pathname + location.search));
 addEventListener("hashchange", fromHash);
 
 $("random").addEventListener("click", () => {
@@ -238,8 +253,13 @@ $("random").addEventListener("click", () => {
   history.replaceState(null, "", "#" + id); // shareable, without filling the back-button history
   spotlight(id);
 });
-// Link icon: follow the link and copy the full URL.
+// Click a card: open it big (via the hash, so it's shareable).
 $("grid").addEventListener("click", e => {
+  const c = e.target.closest(".quote");
+  if (c && !e.target.closest(".link")) location.hash = c.id;
+});
+// Link icon: follow the link and copy the full URL.
+document.addEventListener("click", e => {
   const a = e.target.closest(".link"); if (!a) return;
   navigator.clipboard?.writeText(a.href).then(() => {
     a.textContent = "Kopierad!"; setTimeout(() => a.textContent = "Länk", 1500);
