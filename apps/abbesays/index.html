@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Barnen säger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap">
+<style>
+  /* Tokens copied from the blog's /assets/site.css so it feels the same (light/dark follow the OS). */
+  :root {
+    --font-ui: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --bg: #fbfaf7; --surface: #ffffff; --surface-2: #f3f1ec;
+    --text: #1d1c1a; --text-soft: #3d3b37; --muted: #6f6b64; --line: #e7e3db;
+    --accent: #c2410c; --accent-strong: #9a3412; --accent-soft: #fdeee6;
+    --header-bg: rgba(251, 250, 247, 0.82);
+    --shadow: 0 1px 2px rgba(28, 25, 23, .04), 0 8px 24px rgba(28, 25, 23, .06);
+    --radius: 12px;
+    /* One colour per kid; Albert gets the blog accent. */
+    --Albert: #c2410c; --Gustav: #0f766e; --Arvid: #a16207;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141312; --surface: #1c1b19; --surface-2: #24221f;
+      --text: #ece9e3; --text-soft: #d4d0c8; --muted: #9c978e; --line: #2f2c28;
+      --accent: #fb8c4a; --accent-strong: #fdae7c; --accent-soft: #33221a;
+      --header-bg: rgba(20, 19, 18, 0.8);
+      --shadow: 0 1px 2px rgba(0, 0, 0, .3), 0 8px 24px rgba(0, 0, 0, .35);
+      --Albert: #fb8c4a; --Gustav: #5eead4; --Arvid: #facc15;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { font-size: 18px; -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0; font-family: var(--font-ui); line-height: 1.65; color: var(--text); background: var(--bg);
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection { background: var(--accent); color: #fff; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-strong); }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px; }
+
+  /* Header like the blog's: avatar + name, link back */
+  .site-header { background: var(--header-bg); border-bottom: 1px solid var(--line); }
+  .site-header-inner, .wrap { max-width: 68rem; margin: 0 auto; padding-left: 1.25rem; padding-right: 1.25rem; }
+  .site-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-top: .7rem; padding-bottom: .7rem; }
+  .brand { display: flex; align-items: center; gap: .7rem; color: var(--text); }
+  .brand:hover { color: var(--text); }
+  .brand img { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--line); }
+  .brand-text { display: flex; flex-direction: column; line-height: 1.15; }
+  .brand-name { font-weight: 800; font-size: 1rem; letter-spacing: -.02em; }
+  .brand-tagline { font-size: .72rem; color: var(--muted); }
+  .back { font-size: .82rem; font-weight: 600; }
+
+  /* Hero */
+  .hero { padding: 2.5rem 0 1.5rem; }
+  .hero-kicker { margin: 0; color: var(--accent); font-weight: 600; font-size: .85rem; letter-spacing: .02em; }
+  h1 { margin: .15rem 0 .5rem; font-size: clamp(2rem, 5.5vw, 3rem); line-height: 1.08; font-weight: 800; letter-spacing: -.04em; }
+  .hero-text { margin: 0; color: var(--muted); font-size: .95rem; }
+
+  /* Kid chips */
+  .kids { display: flex; gap: .6rem; flex-wrap: wrap; margin-top: 1.5rem; }
+  .kid {
+    display: inline-flex; align-items: center; gap: .55rem; cursor: pointer; font: inherit; font-size: .9rem; font-weight: 600;
+    color: var(--text); background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+    padding: .3rem .85rem .3rem .3rem; opacity: .5; transition: opacity .15s, border-color .15s;
+  }
+  .kid:hover { opacity: .85; border-color: var(--c); }
+  .kid[aria-pressed="true"] { opacity: 1; }
+  .kid small { color: var(--muted); font-weight: 500; font-size: .75rem; }
+  .avatar {
+    width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; flex-shrink: 0;
+    font-weight: 800; color: var(--surface); background: var(--c); overflow: hidden;
+    box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--c);
+  }
+  .avatar img { width: 100%; height: 100%; object-fit: cover; }
+
+  /* Controls */
+  .controls {
+    position: sticky; top: 0; z-index: 5; display: flex; gap: .6rem; flex-wrap: wrap; padding: .8rem 0;
+    background: var(--header-bg); -webkit-backdrop-filter: saturate(180%) blur(14px); backdrop-filter: saturate(180%) blur(14px);
+    border-bottom: 1px solid var(--line);
+  }
+  input, select, .btn {
+    font: inherit; font-size: .9rem; color: var(--text); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 999px; padding: .55rem 1rem;
+  }
+  input { flex: 1 1 220px; min-width: 0; }
+  input:focus, select:focus { outline: none; border-color: var(--accent); }
+  .btn { cursor: pointer; font-weight: 600; }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .count { color: var(--muted); font-size: .78rem; font-weight: 500; margin: 1rem 0; }
+
+  /* Quote cards */
+  .grid { columns: 3 300px; column-gap: 1.1rem; padding-bottom: 4rem; }
+  .quote {
+    break-inside: avoid; margin: 0 0 1.1rem; padding: 1.2rem 1.3rem 1rem;
+    background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
+    animation: pop .3s ease both;
+  }
+  @keyframes pop { from { opacity: 0; transform: translateY(6px); } }
+  .quote blockquote {
+    margin: 0; padding: .1em 0 .1em 1em; border-left: 3px solid var(--c);
+    font-size: 1rem; font-style: italic; color: var(--text); white-space: pre-line;
+  }
+  .quote .stage { color: var(--muted); font-size: .9em; }
+  .quote .who { font-style: normal; font-weight: 600; color: var(--c); }
+  .quote footer { display: flex; align-items: center; gap: .6rem; margin-top: 1rem; font-size: .78rem; color: var(--muted); }
+  .quote footer .mini { width: 26px; height: 26px; font-size: .75rem; }
+  .quote footer b { color: var(--text); font-weight: 600; }
+  .quote .link { margin-left: auto; color: var(--muted); font-weight: 600; }
+  .quote .link:hover, .quote .link:focus-visible { color: var(--accent); }
+  .quote.spotlight { border-color: var(--c); box-shadow: 0 0 0 3px var(--c), var(--shadow); }
+  mark { background: var(--accent-soft); color: var(--accent-strong); border-radius: 3px; padding: 0 2px; }
+  .empty { text-align: center; color: var(--muted); padding: 3rem 0; }
+
+  @media (max-width: 560px) { .brand-tagline { display: none; } }
+</style>
+</head>
+<body>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="/" class="brand">
+      <img src="/img/avatar.png" alt="" width="36" height="36">
+      <span class="brand-text"><span class="brand-name">marcusoft.net</span><span class="brand-tagline">Learning by sharing since 2006</span></span>
+    </a>
+    <a class="back" href="/apps/">← Apps</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <p class="hero-kicker">Albert, Gustav &amp; Arvid</p>
+    <h1>Barnen säger</h1>
+    <p class="hero-text" id="sub">Saker som sagts genom åren</p>
+    <div class="kids" id="kids"></div>
+  </section>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Sök bland citaten…" aria-label="Sök">
+    <select id="sort" aria-label="Sortering">
+      <option value="desc">Nyast först</option>
+      <option value="asc">Äldst först</option>
+      <option value="age">Yngst först</option>
+    </select>
+    <button class="btn" id="random">Slumpa ett citat</button>
+  </div>
+  <div class="count" id="count"></div>
+  <div class="grid" id="grid"></div>
+</div>
+
+<script>
+const KIDS = ["Albert", "Gustav", "Arvid"];
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+let quotes = [], kid = null;
+
+// Photo if albert.jpg etc. exists, otherwise the initial.
+const avatar = (name, cls = "") =>
+  `<span class="avatar ${cls}" style="--c:var(--${name})">${name[0]}` +
+  `<img src="${name.toLowerCase()}.jpg" alt="" onerror="this.remove()" onload="this.parentNode.firstChild.remove()"></span>`;
+
+// "vid en ålder av 9 år, 3 månader och 22 dagar" -> "9 år, 3 mån" + days for sorting
+function age(s) {
+  const n = k => +(s.match(new RegExp("(\\d+) " + k)) || [0, 0])[1];
+  const y = n("år"), m = n("månad"), d = n("dag");
+  return { label: `${y} år, ${m} mån`, days: y * 365 + m * 30 + d };
+}
+
+// Bracketed text = stage direction; "Name:" at start of a line = speaker.
+function format(text, words) {
+  const speaker = "((?:[A-ZÅÄÖ][a-zåäö]+ ?){1,2}(?:\\[[^\\]]*\\] ?)?):";
+  let h = esc(text)
+    .replace(/^\[([^\]]*)\]/, '<span class="stage">$1</span>\n')            // leading scene-setter
+    .replace(new RegExp("([.!?…)\\]]) ?" + speaker, "g"), "$1\n$2:")       // "…nu? Jag:" -> new line
+    .replace(new RegExp("([a-zåäö])" + speaker, "g"), "$1\n$2:")           // "migElin:" -> new line
+    .replace(/(^|\n)([^\n:<]{1,40}):/g, '$1<span class="who">$2:</span>')
+    .replace(/\[([^\]]*)\]/g, '<span class="stage">[$1]</span>')
+    .replace(/\n+/g, "\n").trim();
+  for (const w of words)
+    h = h.replace(new RegExp(`(?![^<]*>)(${w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi"), "<mark>$1</mark>");
+  return h;
+}
+
+function card(q, words) {
+  return `<article class="quote" id="${q.id}" style="--c:var(--${q.kidName})">
+    <blockquote>${format(q.quoteText, words)}</blockquote>
+    <footer>${avatar(q.kidName, "mini")}<span><b>${esc(q.kidName)}</b> · ${q.age.label} · ${q.quoteDate}</span>
+      <a class="link" href="#${q.id}" title="Kopiera länk till citatet" >Länk</a></footer>
+  </article>`;
+}
+
+function render() {
+  const words = $("q").value.toLowerCase().split(/\s+/).filter(Boolean);
+  const sort = $("sort").value;
+  const list = quotes
+    .filter(q => (!kid || q.kidName === kid) && words.every(w => q.search.includes(w)))
+    .sort((a, b) => sort === "age" ? a.age.days - b.age.days
+      : sort === "asc" ? a.quoteDate.localeCompare(b.quoteDate) : b.quoteDate.localeCompare(a.quoteDate));
+  $("count").textContent = `${list.length} av ${quotes.length} citat`;
+  $("grid").innerHTML = list.map(q => card(q, words)).join("") || `<p class="empty">Inga citat hittades 🤷</p>`;
+}
+
+function renderKids() {
+  $("kids").innerHTML = KIDS.map(k => {
+    const n = quotes.filter(q => q.kidName === k).length;
+    return `<button class="kid" style="--c:var(--${k})" data-kid="${k}" aria-pressed="${!kid || kid === k}">
+      ${avatar(k)}<span>${k}</span><small>${n} citat</small></button>`;
+  }).join("");
+}
+
+$("kids").addEventListener("click", e => {
+  const b = e.target.closest(".kid"); if (!b) return;
+  kid = kid === b.dataset.kid ? null : b.dataset.kid;
+  document.querySelectorAll(".kid").forEach(x => x.setAttribute("aria-pressed", !kid || kid === x.dataset.kid));
+  render();
+});
+$("q").addEventListener("input", render);
+$("sort").addEventListener("change", render);
+// Scroll to and highlight a quote; clears filters if they hide it.
+function spotlight(id) {
+  let el = document.getElementById(id);
+  if (!el && quotes.some(q => q.id === id)) {
+    kid = null; $("q").value = ""; renderKids(); render();
+    el = document.getElementById(id);
+  }
+  if (!el) return;
+  document.querySelector(".spotlight")?.classList.remove("spotlight");
+  el.classList.add("spotlight");
+  el.scrollIntoView({ behavior: "smooth", block: "center" });
+}
+const fromHash = () => spotlight(decodeURIComponent(location.hash.slice(1)));
+addEventListener("hashchange", fromHash);
+
+$("random").addEventListener("click", () => {
+  const cards = $("grid").querySelectorAll(".quote"); if (!cards.length) return;
+  const id = cards[Math.floor(Math.random() * cards.length)].id;
+  history.replaceState(null, "", "#" + id); // shareable, without filling the back-button history
+  spotlight(id);
+});
+// Link icon: follow the link and copy the full URL.
+$("grid").addEventListener("click", e => {
+  const a = e.target.closest(".link"); if (!a) return;
+  navigator.clipboard?.writeText(a.href).then(() => {
+    a.textContent = "Kopierad!"; setTimeout(() => a.textContent = "Länk", 1500);
+  }, () => {});
+});
+
+fetch("allQuotes.json")
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    // Stable, readable id: "albert-2017-05-16", "-2" suffix for a second quote the same day.
+    const seen = {};
+    quotes = data.map(q => {
+      const base = `${q.kidName}-${q.quoteDate}`.toLowerCase(), n = seen[base] = (seen[base] || 0) + 1;
+      return { ...q, id: n > 1 ? `${base}-${n}` : base, age: age(q.ageAtQuote), search: (q.quoteText + " " + q.kidName).toLowerCase() };
+    });
+    const years = quotes.map(q => q.quoteDate.slice(0, 4)).sort();
+    $("sub").textContent = `${quotes.length} saker som sagts ${years[0]}–${years.at(-1)}`;
+    renderKids(); render();
+    if (location.hash) fromHash();
+  })
+  .catch(err => {
+    $("grid").innerHTML = `<p class="empty">Kunde inte läsa allQuotes.json (${esc(String(err))}).<br>
+      Kör <code>python3 -m http.server</code> i mappen och öppna <code>http://localhost:8000</code>.</p>`;
+  });
+</script>
+</body>
+</html>

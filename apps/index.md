@@ -21,6 +21,12 @@ A musician's practice dashboard. Includes a metronome, tuner, volume graph, tuni
 
 ---
 
+### [Barnen säger](abbesays/)
+
+Things my kids Albert, Gustav and Arvid said when they were small (in Swedish). Browse, filter by kid, search, or let the dice pick one for you.
+
+---
+
 ### [Stand Up for Jesus](standupforjesus/)
 
 A picture guessing game (in Swedish: "Sta upp, sta upp for Jesus"). A blurred image is slowly revealed over 10 seconds — try to guess what it is before the picture becomes clear. Cycle through 5 different images.

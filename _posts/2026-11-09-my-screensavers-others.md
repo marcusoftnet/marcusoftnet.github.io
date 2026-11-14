@@ -2,7 +2,7 @@
 layout: post
 title: "My screensavers: Others"
 author: "Marcus Hammarberg"
-date: 2026-11-02 04:00:00
+date: 2026-11-09 04:00:00
 tags:
   - Life of a consultant
   - Leadership
