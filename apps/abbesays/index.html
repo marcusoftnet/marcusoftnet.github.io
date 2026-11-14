@@ -169,12 +169,12 @@ function age(s) {
 
 // Bracketed text = stage direction; "Name:" at start of a line = speaker.
 function format(text, words) {
-  const speaker = "((?:[A-ZÅÄÖ][a-zåäö]+ ?){1,2}(?:\\[[^\\]]*\\] ?)?):";
+  const speaker = "((?:[A-ZÅÄÖ][a-zåäö]+ ?){1,2}(?:\\[[^\\]]*\\] ?)?):(?![a-zåäö])"; // not "Ipad:en"
   let h = esc(text)
-    .replace(/^\[([^\]]*)\]/, '<span class="stage">$1</span>\n')            // leading scene-setter
-    .replace(new RegExp("([.!?…)\\]]) ?" + speaker, "g"), "$1\n$2:")       // "…nu? Jag:" -> new line
-    .replace(new RegExp("([a-zåäö])" + speaker, "g"), "$1\n$2:")           // "migElin:" -> new line
-    .replace(/(^|\n)([^\n:<]{1,40}):/g, '$1<span class="who">$2:</span>')
+    .replace(/^\[([^\]]*)\]\s*:?\s*/, '<span class="stage">$1</span>\n')    // leading scene-setter (+ stray colon)
+    .replace(new RegExp("([.!?…)\\]:;']) ?" + speaker, "g"), "$1\n$2:")    // "…nu? Jag:", "säger:Abbe:", "'klar'Abbe:" -> new line
+    .replace(new RegExp("([a-zåäö]) ?" + speaker, "g"), "$1\n$2:")         // "migElin:", "hahaha Abbe:" -> new line
+    .replace(/(^|\n)\s*([^\n:<\[]{1,40}(?:\[[^\]]*\] ?)?):/g, '$1<span class="who">$2:</span>') // "Abbe [long action]:" too
     .replace(/\[([^\]]*)\]/g, '<span class="stage">[$1]</span>')
     .replace(/\n+/g, "\n").trim();
   for (const w of words)

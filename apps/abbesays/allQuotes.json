@@ -432,13 +432,13 @@
     "ageAtQuote": "vid en ålder av 5 år, 3 månader och 13 dagar"
   },
   {
-    "quoteText": "Albert har precis somnat. Elin råkar väcka honom och han säger:Mamma - när du hör något som låter så här: [han snarkar]. Då! har jag somnat.[Han somnar direkt efteråt]",
+    "quoteText": "[Albert har precis somnat. Elin råkar väcka honom och han säger] Albert:Mamma - när du hör något som låter så här: [han snarkar]. Då! har jag somnat.[Han somnar direkt efteråt]",
     "quoteDate": "2013-05-06",
     "kidName": "Albert",
     "ageAtQuote": "vid en ålder av 5 år, 3 månader och 12 dagar"
   },
   {
-    "quoteText": "Elin ligger och solar. Abbe smyger upp och lägger sig på knä bredvid. Med insmilande röst säger han:'Förlåt men får man pussa den här lilla damen?'",
+    "quoteText": "[Elin ligger och solar. Abbe smyger upp och lägger sig på knä bredvid. Med insmilande röst säger han] Abbe: Förlåt men får man pussa den här lilla damen?",
     "quoteDate": "2013-05-01",
     "kidName": "Albert",
     "ageAtQuote": "vid en ålder av 5 år, 3 månader och 7 dagar"
@@ -546,7 +546,7 @@
     "ageAtQuote": "vid en ålder av 4 år, 11 månader och 19 dagar"
   },
   {
-    "quoteText": "Vi åker snowracer. Albert tar upp en pinne, ca 2 cm tjock och förklarar sin plan:Albert: ... och sen, pappa, så susar vi ner här och när vi åker pinne då flyger Gustav upp i luften. Upp i luften till Gud och har det lite trevligt. Dricker te och så.Sen åker vi vidare.",
+    "quoteText": "[Vi åker snowracer. Albert tar upp en pinne, ca 2 cm tjock och förklarar sin plan] Albert: ... och sen, pappa, så susar vi ner här och när vi åker pinne då flyger Gustav upp i luften. Upp i luften till Gud och har det lite trevligt. Dricker te och så.Sen åker vi vidare.",
     "quoteDate": "2013-01-11",
     "kidName": "Albert",
     "ageAtQuote": "vid en ålder av 4 år, 11 månader och 18 dagar"
@@ -822,7 +822,7 @@
     "ageAtQuote": "vid en ålder av 4 år, 1 månader och 16 dagar"
   },
   {
-    "quoteText": "Elin har ställt bilen lite dumt när hon ska hämta på dagisElin: Abbe skynda dig. Annars får vi böter. Abbe (berättar för fröken): ... Så nu kommer vi få BÖTER!Fröken: hahahaha Abbe: Där SATT den!",
+    "quoteText": "Elin har ställt bilen lite dumt när hon ska hämta på dagisElin: Abbe skynda dig. Annars får vi böter. [Abbe (berättar för fröken)] Abbe: ... Så nu kommer vi få BÖTER!Fröken: hahahaha Abbe: Där SATT den!",
     "quoteDate": "2012-03-07",
     "kidName": "Albert",
     "ageAtQuote": "vid en ålder av 4 år, 1 månader och 12 dagar"
@@ -876,7 +876,7 @@
     "ageAtQuote": "vid en ålder av 4 år, 0 månader och 13 dagar"
   },
   {
-    "quoteText": "Elin (irriterat): Abbe - skärp dig! Var är soporna?Abbe: Det får du leta själv.Titta bakom soffan!(Elin tittar)Abbe (som en trumpetfanar): Pam-pam-pam-da-da!",
+    "quoteText": "Elin (irriterat): Abbe - skärp dig! Var är soporna?Abbe: Det får du leta själv.Titta bakom soffan! [(Elin tittar) Abbe (som en trumpetfanar)] Abbe: Pam-pam-pam-da-da!",
     "quoteDate": "2012-02-05",
     "kidName": "Albert",
     "ageAtQuote": "vid en ålder av 4 år, 0 månader och 12 dagar"
@@ -1566,7 +1566,7 @@
     "ageAtQuote": "vid en ålder av 3 år, 1 månader och 24 dagar"
   },
   {
-    "quoteText": "Varje gång Gustav (eller Arvid) kommer innanför dörren ropar de högt:HALLÅ?! Nå'n är hemma?",
+    "quoteText": "[Varje gång Gustav (eller Arvid) kommer innanför dörren ropar de högt] Gustav: HALLÅ?! Nå'n är hemma?",
     "quoteDate": "2013-04-21",
     "kidName": "Gustav",
     "ageAtQuote": "vid en ålder av 3 år, 1 månader och 2 dagar"
