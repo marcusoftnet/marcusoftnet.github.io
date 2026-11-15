@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Barnen säger</title>
+<link rel="icon" href="https://www.marcusoft.net/favicon.ico">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap">
 <style>
@@ -118,7 +119,11 @@
   #big { border: 0; padding: 0; background: none; width: min(46rem, 100vw - 32px); max-width: none; max-height: calc(100vh - 32px); overflow: visible; }
   #big::backdrop { background: rgba(20, 19, 18, .55); -webkit-backdrop-filter: blur(4px); backdrop-filter: blur(4px); }
   #big .quote { margin: 0; font-size: clamp(1.1rem, 3.5vw, 1.6rem); max-height: calc(100vh - 32px); overflow: auto; }
-  #big .close { position: absolute; top: -.6rem; right: -.6rem; z-index: 1; width: 2.2rem; height: 2.2rem; padding: 0; border-radius: 50%; }
+  #big .quote.spotlight { box-shadow: var(--shadow); } /* card border only, no outer ring */
+  #big .close { position: absolute; top: -.6rem; right: -.6rem; z-index: 1; width: 2.2rem; height: 2.2rem; padding: 0; border-radius: 50%;
+    color: var(--c); background: var(--surface); border: 1px solid var(--c); outline-color: var(--c); }
+  /* Focus ring like the avatars: a card-coloured gap, then the kid colour. */
+  #big .close:focus-visible { outline: none; box-shadow: 0 0 0 3px var(--surface), 0 0 0 5px var(--c); }
 
   mark { background: var(--accent-soft); color: var(--accent-strong); border-radius: 3px; padding: 0 2px; }
   .empty { text-align: center; color: var(--muted); padding: 3rem 0; }
@@ -238,7 +243,7 @@ function spotlight(id) {
   document.querySelector(".spotlight")?.classList.remove("spotlight");
   el.classList.add("spotlight");
   el.scrollIntoView({ behavior: "smooth", block: "center" });
-  $("big").innerHTML = `<button class="btn close" aria-label="Stäng">✕</button>` + el.outerHTML.replace(/ id="[^"]*"/, "");
+  $("big").innerHTML = `<button class="btn close" aria-label="Stäng" style="${el.getAttribute("style")}">✕</button>` + el.outerHTML.replace(/ id="[^"]*"/, "");
   if (!$("big").open) $("big").showModal();
 }
 const fromHash = () => location.hash ? spotlight(decodeURIComponent(location.hash.slice(1))) : $("big").close();
