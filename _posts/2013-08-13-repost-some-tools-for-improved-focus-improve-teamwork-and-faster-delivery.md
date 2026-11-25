@@ -28,11 +28,11 @@ These a just a couple of practices that together has proven useful for us. In th
 
 The first thing they did, that I really felt helped them a lot, was to draw their backlog as a mind map on the wall. With the overarching goal (a bit secret) in the center:
 
-[![Backlog as a mind map](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-14-at-08.13.56-.png)](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-14-at-08.13.56-.png)
+[![Backlog as a mind map](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-14-at-08.13.56-.png)](/img/backlog-as-mindmap.jpg)
 
 - There’s a couple of (very cute, little) dragons over there to the left, did you see them? They indicate stuff that scares us a bit, things that we know little about or things that we know that we will struggle with.
 
-  [Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png)](<http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-12-at-13.25.49-.png>)
+  ![Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](/img/backlog-as-mindmap-wip.png)
 
 - Work in progress means that this is the branch of the mind map that we work on. Green circle means that it’s done. And completely Done.
 
@@ -68,7 +68,7 @@ The next thing we implemented was the actual board that the team uses to visuali
 
 Here is how their board looks right now:
 
-[This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)](<http://codebetter.com/marcushammarberg/files/2013/08/IMG_4021.jpg)This> team uses a board built around priority filters.
+![This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](/img/backlog-as-mindmap-priority-filters.JPG) team uses a board built around priority filters.
 Only 3 items are priority 1 and hence given our attention up to our capacity.
 
 - Done – these are things that the team have completed. There’s no more work to be done on these
