@@ -32,9 +32,11 @@ The first thing they did, that I really felt helped them a lot, was to draw thei
 
 - There’s a couple of (very cute, little) dragons over there to the left, did you see them? They indicate stuff that scares us a bit, things that we know little about or things that we know that we will struggle with.
 
-  ![Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](/img/backlog-as-mindmap-wip.png)
+  ![Here be dragons](/img/backlog-as-mindmap-dragons.png)
 
 - Work in progress means that this is the branch of the mind map that we work on. Green circle means that it’s done. And completely Done.
+
+  ![Work in progress means that this is the branch of the mindmap that we work on. Green circle means that it's done. And completely Done.](/img/backlog-as-mindmap-wip.png)
 
 - There’s indicators for what we are working on now, in the form of work-in-progress triangles
 
@@ -68,7 +70,7 @@ The next thing we implemented was the actual board that the team uses to visuali
 
 Here is how their board looks right now:
 
-![This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](/img/backlog-as-mindmap-priority-filters.JPG) team uses a board built around priority filters.
+![This team uses a board built around priority filters.  Only 3 items are priority 1 and hence given our attention up to our capacity.](/img/backlog-as-mindmap-priority-filters.JPG)
 Only 3 items are priority 1 and hence given our attention up to our capacity.
 
 - Done – these are things that the team have completed. There’s no more work to be done on these
