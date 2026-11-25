@@ -28,7 +28,7 @@ These a just a couple of practices that together has proven useful for us. In th
 
 The first thing they did, that I really felt helped them a lot, was to draw their backlog as a mind map on the wall. With the overarching goal (a bit secret) in the center:
 
-[![Backlog as a mind map](http://codebetter.com/marcushammarberg/files/2013/08/Screen-Shot-2013-08-14-at-08.13.56-.png)](/img/backlog-as-mindmap.jpg)
+![Backlog as a mind map](/img/backlog-as-mindmap.jpg)
 
 - There’s a couple of (very cute, little) dragons over there to the left, did you see them? They indicate stuff that scares us a bit, things that we know little about or things that we know that we will struggle with.
 
